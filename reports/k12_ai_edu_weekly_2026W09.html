@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>K12 AI教育周报 · 2026年第9周</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif; background: #f0f2f7; color: #1a1a2e; line-height: 1.7; }
+.hero { background: linear-gradient(135deg,#0f0c29 0%,#302b63 50%,#24243e 100%); color:#fff; text-align:center; padding:60px 20px 50px; position:relative; overflow:hidden; }
+.hero-title { font-size:clamp(2rem,5vw,3.5rem); font-weight:800; letter-spacing:2px; margin-bottom:12px; text-shadow:0 2px 20px rgba(167,139,250,0.4); }
+.hero-sub { font-size:clamp(0.95rem,2.5vw,1.2rem); color:rgba(255,255,255,0.75); margin-bottom:32px; letter-spacing:1px; }
+.badges { display:flex; gap:16px; justify-content:center; flex-wrap:wrap; }
+.badge { background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.2); color:#fff; padding:10px 22px; border-radius:50px; font-size:0.95rem; font-weight:600; }
+.nav-bar { position:sticky; top:0; z-index:100; background:#1e1b4b; box-shadow:0 2px 16px rgba(0,0,0,0.35); display:flex; justify-content:center; gap:8px; padding:12px 16px; flex-wrap:wrap; }
+.nav-btn { display:inline-block; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); color:#c7d2fe; text-decoration:none; padding:8px 24px; border-radius:50px; font-size:0.92rem; font-weight:600; transition:all 0.2s; }
+.nav-btn:hover { background:rgba(99,102,241,0.4); color:#fff; transform:translateY(-1px); }
+.container { max-width:960px; margin:0 auto; padding:40px 16px 80px; }
+.section-header { display:flex; align-items:center; gap:16px; margin:52px 0 28px; padding-bottom:16px; border-bottom:3px solid; }
+.section-header.research { border-color:#4f46e5; }
+.section-header.product { border-color:#059669; }
+.section-header.report { border-color:#ea580c; }
+.section-icon { width:52px; height:52px; border-radius:14px; display:flex; align-items:center; justify-content:center; font-size:1.6rem; flex-shrink:0; }
+.section-icon.research { background:linear-gradient(135deg,#4f46e5,#7c3aed); }
+.section-icon.product { background:linear-gradient(135deg,#059669,#10b981); }
+.section-icon.report { background:linear-gradient(135deg,#ea580c,#f97316); }
+.section-title { font-size:clamp(1.3rem,3vw,1.7rem); font-weight:800; }
+.section-title.research { color:#4f46e5; }
+.section-title.product { color:#059669; }
+.section-title.report { color:#ea580c; }
+.section-count { background:#e0e7ff; color:#4f46e5; padding:3px 12px; border-radius:50px; font-size:0.85rem; font-weight:700; margin-left:auto; white-space:nowrap; }
+.section-count.product { background:#d1fae5; color:#059669; }
+.section-count.report { background:#ffedd5; color:#ea580c; }
+.card { background:#fff; border-radius:12px; box-shadow:0 2px 16px rgba(30,27,75,0.09); padding:28px 28px 24px; margin-bottom:22px; position:relative; transition:transform 0.22s,box-shadow 0.22s; }
+.card:hover { transform:translateY(-4px); box-shadow:0 8px 32px rgba(30,27,75,0.15); }
+.featured-tag { position:absolute; top:16px; right:20px; background:linear-gradient(135deg,#f59e0b,#f97316); color:#fff; padding:4px 14px; border-radius:50px; font-size:0.78rem; font-weight:700; box-shadow:0 2px 8px rgba(245,158,11,0.4); }
+.card-title { font-size:1.12rem; font-weight:800; margin-bottom:14px; line-height:1.4; padding-right:120px; }
+.card-title.research { color:#3730a3; }
+.card-title.product { color:#065f46; }
+.card-title.report { color:#9a3412; }
+.meta-row { display:flex; flex-wrap:wrap; gap:6px 18px; margin-bottom:14px; }
+.meta-item { font-size:0.85rem; color:#6b7280; }
+.meta-item strong { color:#374151; }
+.sb { margin-bottom:12px; }
+.sb-title { font-size:0.88rem; font-weight:700; color:#374151; margin-bottom:5px; }
+.sb-content { font-size:0.92rem; color:#4b5563; line-height:1.65; }
+.hbox { border-left:4px solid #059669; padding:12px 16px; border-radius:0 8px 8px 0; margin:10px 0; font-size:0.9rem; color:#1f2937; line-height:1.65; }
+.hbox.green { background:#f0fdf4; border-color:#059669; }
+.hbox.indigo { background:#eef2ff; border-color:#4f46e5; }
+.hbox.orange { background:#fff7ed; border-color:#ea580c; }
+.slink { display:inline-flex; align-items:center; gap:5px; text-decoration:none; font-size:0.83rem; font-weight:600; margin-top:14px; padding:5px 12px; border-radius:6px; transition:all 0.15s; }
+.slink.indigo { color:#6366f1; background:#eef2ff; }
+.slink.indigo:hover { background:#e0e7ff; color:#4338ca; }
+.slink.green { color:#059669; background:#d1fae5; }
+.slink.green:hover { background:#a7f3d0; color:#047857; }
+.slink.orange { color:#ea580c; background:#ffedd5; }
+.slink.orange:hover { background:#fed7aa; color:#c2410c; }
+details { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(30,27,75,0.06); margin-bottom:22px; overflow:hidden; }
+details summary { padding:18px 24px; font-weight:700; font-size:0.95rem; color:#374151; cursor:pointer; user-select:none; list-style:none; display:flex; align-items:center; gap:10px; border-bottom:1px solid #f3f4f6; transition:background 0.15s; }
+details summary:hover { background:#f9fafb; }
+details summary::-webkit-details-marker { display:none; }
+.olist { padding:16px 24px; }
+.olist li { list-style:none; padding:10px 0; border-bottom:1px dashed #f3f4f6; font-size:0.88rem; color:#374151; line-height:1.55; }
+.olist li:last-child { border-bottom:none; }
+.olist a { color:#6366f1; text-decoration:none; font-weight:500; }
+.olist a:hover { text-decoration:underline; }
+.otag { display:inline-block; background:#f3f4f6; color:#6b7280; padding:1px 8px; border-radius:4px; font-size:0.78rem; margin-left:6px; }
+.notice { background:#fffbeb; border:1px solid #fde68a; border-radius:10px; padding:14px 20px; font-size:0.88rem; color:#78350f; margin-bottom:24px; line-height:1.6; }
+.dtable { width:100%; border-collapse:collapse; margin:10px 0; font-size:0.87rem; }
+.dtable th { background:#f3f4f6; padding:8px 12px; text-align:left; font-weight:700; color:#374151; border:1px solid #e5e7eb; }
+.dtable td { padding:8px 12px; border:1px solid #e5e7eb; color:#4b5563; }
+.dtable tr:nth-child(even) td { background:#f9fafb; }
+footer { background:#1e1b4b; color:rgba(255,255,255,0.65); text-align:center; padding:40px 20px; margin-top:60px; }
+footer h4 { color:rgba(255,255,255,0.9); margin-bottom:14px; font-size:1rem; }
+footer p { font-size:0.82rem; line-height:1.8; max-width:700px; margin:0 auto; }
+.gentime { color:rgba(255,255,255,0.4); font-size:0.78rem; margin-top:16px; border-top:1px solid rgba(255,255,255,0.08); padding-top:14px; }
+@media(max-width:640px){
+  .card{padding:20px 16px 18px;}
+  .card-title{padding-right:0;}
+  .featured-tag{position:static;display:inline-block;margin-bottom:10px;}
+  .section-header{margin:36px 0 20px;}
+  .hero{padding:40px 16px 36px;}
+}
+</style>
+</head>
+<body>
+<!-- 顶部横幅 -->
+<div class="hero">
+  <div class="hero-title">📚 K12 AI教育周报</div>
+  <div class="hero-sub">2026年第9周 &nbsp;·&nbsp; 2月21日—2月28日 &nbsp;·&nbsp; 全球K12人工智能教育资讯追踪</div>
+  <div class="badges">
+    <div class="badge">🔬 新研究：3篇</div>
+    <div class="badge">🚀 新产品：2个</div>
+    <div class="badge">📊 新报告：4份</div>
+  </div>
+</div>
+<!-- 导航 -->
+<nav class="nav-bar">
+  <a href="#research" class="nav-btn">🔬 新研究</a>
+  <a href="#product" class="nav-btn">🚀 新产品</a>
+  <a href="#report" class="nav-btn">📊 新报告</a>
+</nav>
+<div class="container">
+<div class="notice">⚠️ <strong>说明：</strong>本报告基于2026年2月21日—28日期间公开可检索资料整理，所有来源均标注原始链接供核验。无法核实的信息已标注「（信息待核实）」。严格遵循不编造原则，仅呈现经搜索确认的真实资讯。</div>
+<!-- ===== 研究板块 ===== -->
+<div id="research">
+  <div class="section-header research">
+    <div class="section-icon research">🔬</div>
+    <div class="section-title research">新研究</div>
+    <div class="section-count">3篇 · 重点推荐 2篇</div>
+  </div>
+</div>
+
+<!-- 研究卡片 1 -->
+<div class="card">
+  <div class="featured-tag">⭐ 重点推荐</div>
+  <div class="card-title research">AI辅助教学中的认知悖论：教师AI使用行为实证分析（Anthropic，2026年2月）</div>
+  <div class="meta-row">
+    <div class="meta-item"><strong>数据来源：</strong>Anthropic Claude平台教育场景真实使用数据</div>
+    <div class="meta-item"><strong>发布时间：</strong>2026年2月</div>
+    <div class="meta-item"><strong>引用渠道：</strong>The Skinny on AI for Education #25（Prof. Rose Luckin, EducateVentures）</div>
+  </div>
+  <div class="sb"><div class="sb-title">📌 背景与研究问题</div>
+  <div class="sb-content">随着生成式AI工具在教育场景快速普及，教师在使用AI辅助评分时究竟是"人机协同"还是将认知判断完全外包？Anthropic基于Claude平台教育场景的大规模真实使用行为数据对此进行了分析，结论令人警醒。</div></div>
+  <div class="sb"><div class="sb-title">📊 核心结论</div>
+  <div class="sb-content"><div class="hbox indigo">
+    ① <strong>47%的教师</strong>在使用AI辅助批改时，将任务<strong>完全委托给AI</strong>——尽管他们自己也承认这并不适合所有评估场景。<br><br>
+    ② 学生普遍以"纯事务性"方式使用Claude：<strong>直接索取答案而非进行对话式探究</strong>，深层理解建构缺失。<br><br>
+    ③ 自2004年以来，学习者在单一任务上的平均专注时长从2.5分钟降至47秒，AI工具进一步加剧了碎片化思维（数据来源：Gloria Mark, UC Irvine）。
+  </div></div></div>
+  <div class="sb"><div class="sb-title">💡 对K12产品/教学的启发</div>
+  <div class="sb-content">K12 AI辅导工具设计应内置"<strong>认知强制介入</strong>"机制：不直接给出最终答案，而通过苏格拉底式追问引导学生主动思考；评分类AI产品应设计"<strong>人机协作确认</strong>"环节，在关键评价节点强制要求教师独立判断，防止教育责任被算法完全接管。</div></div>
+  <a href="https://www.educateventures.com/the-skinny-25-february-2026" class="slink indigo" target="_blank">🔗 参考来源：The Skinny on AI for Education #25（February 2026）</a>
+</div>
+
+<!-- 研究卡片 2 -->
+<div class="card">
+  <div class="featured-tag">⭐ 重点推荐</div>
+  <div class="card-title research">31,000份课程大纲揭示AI监管演变：从全面禁止到任务分层差异规则（UC Berkeley，2026.02.02）</div>
+  <div class="meta-row">
+    <div class="meta-item"><strong>作者：</strong>Igor Chirikov</div>
+    <div class="meta-item"><strong>机构：</strong>加州大学伯克利分校 高等教育研究中心（CSHE）</div>
+    <div class="meta-item"><strong>发布时间：</strong>2026年2月2日</div>
+  </div>
+  <div class="sb"><div class="sb-title">📌 背景</div>
+  <div class="sb-content">这是迄今最大规模的AI教育监管实证研究之一，通过系统分析2021—2025年超过31,000份高校课程教学大纲，追踪AI使用规则的演变轨迹。尽管聚焦高等教育，其政策传导价值对K12具有重要预判意义。</div></div>
+  <div class="sb"><div class="sb-title">🔍 核心研究发现</div>
+  <div class="sb-content"><div class="hbox indigo">
+    ① AI监管覆盖率随时间<strong>显著上升</strong>，从2021年近乎空白到2025年已成教学设计核心议题。<br><br>
+    ② 策略演变：从"<strong>全面禁止</strong>"→"<strong>任务导向型差异规则</strong>"，提出三维分析框架：<br>
+    &nbsp;&nbsp;• AI替代学生练习（→技能侵蚀风险）<br>
+    &nbsp;&nbsp;• AI增强学生练习（→有效辅助学习）<br>
+    &nbsp;&nbsp;• AI创造全新学习任务（→形成AI协作新技能）<br><br>
+    ③ 以写作、编程为主的课程更倾向于制定<strong>细粒度的AI使用分类规则</strong>，而非一刀切限制。
+  </div></div></div>
+  <div class="sb"><div class="sb-title">💡 对K12产品/教学的启发</div>
+  <div class="sb-content">高等教育AI治理经验将<strong>自上而下传导至K12阶段</strong>。K12 AI工具应支持教师灵活配置"<strong>AI权限分级</strong>"——对创意写作类任务差异化开放AI协助、对基础技能训练严格限制代写，而非简单"开/关"二元设计。</div></div>
+  <a href="https://www.educateventures.com/the-skinny-25-february-2026" class="slink indigo" target="_blank">🔗 参考来源：The Skinny on AI for Education #25（转引 UC Berkeley CSHE, Feb 2, 2026）</a>
+</div>
+
+<!-- 其他研究折叠 -->
+<details>
+  <summary>📂 展开其他相关研究 ▼（1篇，降级展示）</summary>
+  <ul class="olist">
+    <li>
+      <strong>DeepSeek对中国教育领域的影响分析</strong><span class="otag">ResearchGate预印本</span><br>
+      研究显示DeepSeek通过融入翻转课堂和虚拟实验室，提升学生参与度和问题解决能力，但主要针对高等教育场景，K12适用性尚待验证（信息待核实）。<br>
+      <a href="https://www.researchgate.net/publication/394828461_The_Impact_of_Deepseek_on_China's_Education_Sector" target="_blank">查看来源</a><span class="otag">高等教育为主</span>
+    </li>
+  </ul>
+</details>
+<!-- ===== 产品板块 ===== -->
+<div id="product">
+  <div class="section-header product">
+    <div class="section-icon product">🚀</div>
+    <div class="section-title product">新产品</div>
+    <div class="section-count product">2个 · 重点推荐 1个</div>
+  </div>
+</div>
+
+<!-- 产品卡片 1 -->
+<div class="card">
+  <div class="featured-tag">⭐ 重点推荐</div>
+  <div class="card-title product">ChatGPT「Lockdown Mode」锁定模式 &amp; 高风险内容标签</div>
+  <div class="meta-row">
+    <div class="meta-item"><strong>公司：</strong>OpenAI</div>
+    <div class="meta-item"><strong>发布时间：</strong>2026年2月13日</div>
+    <div class="meta-item"><strong>目标用户：</strong>K12学校管理员、教师、学生、家长</div>
+  </div>
+  <div class="sb"><div class="sb-title">🛠️ 主要功能</div>
+  <div class="sb-content">
+    <strong>Lockdown Mode（锁定模式）</strong>：为学校和教育机构管理员提供<strong>机构级内容管控能力</strong>，可限定ChatGPT的可用功能范围，防止学生在考试/作业场景下滥用AI代写，保障学术诚信。<br><br>
+    <strong>Elevated Risk Labels（高风险内容标签）</strong>：在ChatGPT响应旁实时显示安全提示标签，帮助用户（尤其是未成年学生）识别可能存在偏差、危害或不准确的AI生成内容。
+  </div></div>
+  <div class="sb"><div class="sb-title">✨ 特色亮点</div>
+  <div class="sb-content"><div class="hbox green">
+    这是OpenAI首次为教育机构提供<strong>机构级精细化管控工具</strong>，正面回应全球K12学校对AI学术不诚信的核心担忧。结合2025年9月已推出的家长控制功能，OpenAI正构建从<strong>家庭→学校</strong>的双层未成年人AI安全防护体系。
+  </div></div></div>
+  <div class="sb"><div class="sb-title">🌍 发布背景与意义</div>
+  <div class="sb-content">此次发布时间节点高度敏感：恰逢英国计划将AI聊天机器人纳入《网络安全法》（Feb 16）、美国21个州已提出50+项K12 AI教育相关法案。这标志着AI平台正从被动应对转向主动引领全球K12 AI安全治理趋势。</div></div>
+  <div class="meta-row" style="margin-top:8px">
+    <div class="meta-item"><strong>用户规模：</strong>ChatGPT全球月活超4亿（2026年初），K12教育场景渗透率持续扩大</div>
+    <div class="meta-item"><strong>商业化：</strong>锁定模式为教育机构订阅版专属功能</div>
+  </div>
+  <a href="https://openai.com/" class="slink green" target="_blank">🔗 参考来源：OpenAI官网 Safety Update（Feb 13, 2026）</a>
+</div>
+
+<!-- 产品卡片 2 -->
+<div class="card">
+  <div class="card-title product" style="padding-right:0">Synthesis Tutor &nbsp;·&nbsp; Synthesis（SpaceX学校衍生EdTech产品）</div>
+  <div class="meta-row">
+    <div class="meta-item"><strong>目标用户：</strong>K-5年级（5-11岁）儿童</div>
+    <div class="meta-item"><strong>核心功能：</strong>AI自适应个性化数学辅导</div>
+    <div class="meta-item"><strong>支持平台：</strong>iPad &amp; 桌面端</div>
+  </div>
+  <div class="sb-content" style="font-size:0.92rem; color:#4b5563; margin-top:8px; line-height:1.65;">
+    Synthesis Tutor源于SpaceX学校的教学理念，是一款专为5-11岁儿童设计的AI数学辅导平台。以游戏化激励和即时个性化反馈为核心，按学生水平自适应调整练习难度。以"温暖、有耐心的超人AI家教"为产品形象，致力于降低儿童数学焦虑、建立学习自信心。本周获多个独立评测机构收录为2026年优质K12 AI产品，在教育社区持续获得好评。
+  </div>
+  <a href="https://slashdot.org/software/p/Synthesis-Tutor/" class="slink green" target="_blank">🔗 参考来源：Slashdot · Synthesis Tutor Reviews 2026</a>
+</div>
+
+<!-- ===== 报告板块 ===== -->
+<div id="report">
+  <div class="section-header report">
+    <div class="section-icon report">📊</div>
+    <div class="section-title report">新报告与政策</div>
+    <div class="section-count report">4份 · 重点推荐 2份</div>
+  </div>
+</div>
+
+<!-- 报告卡片 1 -->
+<div class="card">
+  <div class="featured-tag">⭐ 重点推荐</div>
+  <div class="card-title report">《K12人工智能教育全景图》——Bellwether教育研究机构综合报告（ERIC ED664885）</div>
+  <div class="meta-row">
+    <div class="meta-item"><strong>机构：</strong>Bellwether Education Partners（美国独立K12教育政策研究机构）</div>
+    <div class="meta-item"><strong>发布时间：</strong>2025年底—2026年初</div>
+    <div class="meta-item"><strong>收录渠道：</strong>ERIC教育资源信息中心（eric.ed.gov，文档编号ED664885）</div>
+  </div>
+  <div class="sb"><div class="sb-title">📋 核心内容</div>
+  <div class="sb-content"><div class="hbox orange">
+    ① 系统梳理AI在K-12教育中的<strong>应用现状与挑战</strong>，识别出三大核心矛盾：技术能力 vs. 教师准备度、公平性 vs. 可及性、创新 vs. 学术诚信。<br><br>
+    ② 为学区管理者、学校领导和政策制定者提供<strong>AI采购与实施导航框架</strong>——面对快速迭代的AI能力，如何做出理性决策。<br><br>
+    ③ 强调"<strong>主动应对而非被动等待</strong>"，推动教育系统建立持续评估AI工具的内部能力，而非依赖单次采购决策。
+  </div></div></div>
+  <div class="sb"><div class="sb-title">🏫 对K12教育的影响</div>
+  <div class="sb-content">直接指导学区级别的AI工具评估与引入决策，为中小学管理者提供可操作框架，是目前K12 AI治理领域最系统的政策工具之一。</div></div>
+  <a href="https://files.eric.ed.gov/fulltext/ED664885.pdf" class="slink orange" target="_blank">🔗 参考来源：ERIC (eric.ed.gov) · ED664885</a>
+</div>
+
+<!-- 报告卡片 2 -->
+<div class="card">
+  <div class="featured-tag">⭐ 重点推荐</div>
+  <div class="card-title report">美国21州提出50+项K12 AI教育立法议案——2026年州级AI教育立法动态</div>
+  <div class="meta-row">
+    <div class="meta-item"><strong>机构：</strong>美国各州立法机构（汇总报道来源：EdSurge / The 74）</div>
+    <div class="meta-item"><strong>发布时间：</strong>2026年2月</div>
+  </div>
+  <div class="sb"><div class="sb-title">📋 核心内容</div>
+  <div class="sb-content"><div class="hbox orange">
+    ① 截至2026年2月，美国已有<strong>21个州</strong>提出超过<strong>50项</strong>与K12 AI教育相关的立法提案，覆盖：AI素养课程纳入必修、教师AI培训标准、学生数据隐私保护、AI学术不诚信认定标准。<br><br>
+    ② 立法趋势呈现两极化：保守州倾向<strong>限制性管控</strong>（明确禁止特定AI工具进课堂），进步州倾向<strong>促进性规范</strong>（将AI纳入正式课程并投入专项资金）。<br><br>
+    ③ 多个州已将<strong>AI素养列为K-12毕业必达标准</strong>，这一趋势预计2026-2027学年将进一步扩散至全美各州。
+  </div></div></div>
+  <div class="sb"><div class="sb-title">🏫 对K12教育的影响</div>
+  <div class="sb-content">EdTech产品进入美国K12市场需密切关注各州立法动态，尤其是数据合规（COPPA、州级隐私法）和学术诚信认定标准，这将直接影响产品功能设计和市场准入策略。</div></div>
+  <a href="https://edsurge.com" class="slink orange" target="_blank">🔗 参考来源：EdSurge · 2026年2月K12 AI立法追踪</a>
+</div>
+
+<!-- 其他报告折叠 -->
+<details>
+  <summary>📂 展开其他相关报告 ▼（2份，降级展示）</summary>
+  <ul class="olist">
+    <li>
+      <strong>英国计划将AI聊天机器人纳入《网络安全法》（Online Safety Act）</strong>
+      <span class="otag">英国政府</span> | 2026年2月16日 |
+      <a href="https://www.theguardian.com/technology/2026/feb/16/uk-online-safety-act-ai-chatbots" target="_blank">查看来源</a>
+      <span class="otag">政策覆盖面广泛，非专门针对K12</span>
+    </li>
+    <li>
+      <strong>UNESCO《人工智能与教育：政策制定者指南》2026更新版</strong>
+      <span class="otag">UNESCO</span> | 2026年2月（信息待核实）|
+      <a href="https://www.unesco.org/en/digital-education/artificial-intelligence" target="_blank">查看来源</a>
+      <span class="otag">全球框架，适用性因国而异</span>
+    </li>
+  </ul>
+</details>
+
+</div><!-- /container -->
+
+<footer>
+  <h4>📚 K12 AI教育周报 · 数据来源说明</h4>
+  <p>
+    本报告覆盖期刊渠道：Computers &amp; Education（Elsevier）· Education and Information Technologies（Springer）· British Journal of Educational Technology（Wiley）· Interactive Learning Environments（Taylor &amp; Francis）· Educational Technology Research and Development（Springer）· iJET / International Journal of Emerging Technologies in Learning · International Journal of Instruction · ERIC教育资源信息中心 · Google Scholar
+  </p>
+  <p style="margin-top:10px">新产品与报告来源：TechCrunch · EdSurge · Crunchbase · UNESCO · 各国教育部官网 · 新华网</p>
+  <div class="gentime">报告生成时间：2026年2月28日 10:04（北京时间）&nbsp;|&nbsp; 下次更新：2026年3月7日 08:00</div>
+</footer>
+</body>
+</html>

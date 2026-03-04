@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+.claw_logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# OpenClaw
+.openclaw/
+.watermark/
+
+# Large files
+*.png
+*.jpg
+*.mp4
+
+# Temporary
+user_input_files/
+extract/
+papers/

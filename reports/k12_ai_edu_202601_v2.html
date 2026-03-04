@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>K12 AI教育月报 · 2026年1月</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif; background: #f0f2f7; color: #1a1a2e; line-height: 1.7; }
+.hero { background: linear-gradient(135deg,#0f0c29 0%,#302b63 50%,#24243e 100%); color:#fff; text-align:center; padding:60px 20px 50px; }
+.hero-title { font-size:clamp(2rem,5vw,3.5rem); font-weight:800; letter-spacing:2px; margin-bottom:12px; text-shadow:0 2px 20px rgba(167,139,250,0.4); }
+.hero-sub { font-size:clamp(0.95rem,2.5vw,1.2rem); color:rgba(255,255,255,0.75); margin-bottom:32px; letter-spacing:1px; }
+.badges { display:flex; gap:16px; justify-content:center; flex-wrap:wrap; }
+.badge { background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.2); color:#fff; padding:10px 22px; border-radius:50px; font-size:0.95rem; font-weight:600; }
+.nav-bar { position:sticky; top:0; z-index:100; background:#1e1b4b; box-shadow:0 2px 16px rgba(0,0,0,0.35); display:flex; justify-content:center; gap:8px; padding:12px 16px; flex-wrap:wrap; }
+.nav-btn { display:inline-block; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); color:#c7d2fe; text-decoration:none; padding:8px 24px; border-radius:50px; font-size:0.92rem; font-weight:600; transition:all 0.2s; }
+.nav-btn:hover { background:rgba(99,102,241,0.4); color:#fff; transform:translateY(-1px); }
+.container { max-width:960px; margin:0 auto; padding:40px 16px 80px; }
+.section-header { display:flex; align-items:center; gap:16px; margin:52px 0 28px; padding-bottom:16px; border-bottom:3px solid; }
+.section-header.research { border-color:#4f46e5; }
+.section-header.product { border-color:#059669; }
+.section-header.report { border-color:#ea580c; }
+.section-icon { width:52px; height:52px; border-radius:14px; display:flex; align-items:center; justify-content:center; font-size:1.6rem; flex-shrink:0; }
+.section-icon.research { background:linear-gradient(135deg,#4f46e5,#7c3aed); }
+.section-icon.product { background:linear-gradient(135deg,#059669,#10b981); }
+.section-icon.report { background:linear-gradient(135deg,#ea580c,#f97316); }
+.section-title { font-size:clamp(1.3rem,3vw,1.7rem); font-weight:800; }
+.section-title.research { color:#4f46e5; }
+.section-title.product { color:#059669; }
+.section-title.report { color:#ea580c; }
+.section-count { background:#e0e7ff; color:#4f46e5; padding:3px 12px; border-radius:50px; font-size:0.85rem; font-weight:700; margin-left:auto; white-space:nowrap; }
+.section-count.product { background:#d1fae5; color:#059669; }
+.section-count.report { background:#ffedd5; color:#ea580c; }
+.card { background:#fff; border-radius:12px; box-shadow:0 2px 16px rgba(30,27,75,0.09); padding:28px 28px 24px; margin-bottom:22px; position:relative; transition:transform 0.22s,box-shadow 0.22s; }
+.card:hover { transform:translateY(-4px); box-shadow:0 8px 32px rgba(30,27,75,0.15); }
+.featured-tag { position:absolute; top:16px; right:20px; background:linear-gradient(135deg,#f59e0b,#f97316); color:#fff; padding:4px 14px; border-radius:50px; font-size:0.78rem; font-weight:700; box-shadow:0 2px 8px rgba(245,158,11,0.4); }
+.card-title { font-size:1.12rem; font-weight:800; margin-bottom:14px; line-height:1.4; padding-right:130px; }
+.card-title.research { color:#3730a3; }
+.card-title.product { color:#065f46; }
+.card-title.report { color:#9a3412; }
+.card-title.no-pad { padding-right:0; }
+.meta-row { display:flex; flex-wrap:wrap; gap:6px 18px; margin-bottom:14px; }
+.meta-item { font-size:0.85rem; color:#6b7280; }
+.meta-item strong { color:#374151; }
+.sb { margin-bottom:14px; }
+.sb-title { font-size:0.88rem; font-weight:700; color:#374151; margin-bottom:6px; }
+.sb-content { font-size:0.92rem; color:#4b5563; line-height:1.65; }
+.hbox { border-left:4px solid; padding:12px 16px; border-radius:0 8px 8px 0; margin:10px 0; font-size:0.9rem; color:#1f2937; line-height:1.7; }
+.hbox.indigo { background:#eef2ff; border-color:#4f46e5; }
+.hbox.green { background:#f0fdf4; border-color:#059669; }
+.hbox.orange { background:#fff7ed; border-color:#ea580c; }
+.risk-tag { display:inline-block; padding:2px 10px; border-radius:4px; font-size:0.78rem; font-weight:700; margin:0 4px 4px 0; }
+.risk-red { background:#fee2e2; color:#b91c1c; }
+.risk-green { background:#d1fae5; color:#065f46; }
+.slink { display:inline-flex; align-items:center; gap:5px; text-decoration:none; font-size:0.83rem; font-weight:600; margin-top:14px; padding:5px 12px; border-radius:6px; transition:all 0.15s; }
+.slink.indigo { color:#6366f1; background:#eef2ff; }
+.slink.indigo:hover { background:#e0e7ff; color:#4338ca; }
+.slink.green { color:#059669; background:#d1fae5; }
+.slink.green:hover { background:#a7f3d0; color:#047857; }
+.slink.orange { color:#ea580c; background:#ffedd5; }
+.slink.orange:hover { background:#fed7aa; color:#c2410c; }
+.notice { background:#fffbeb; border:1px solid #fde68a; border-radius:10px; padding:14px 20px; font-size:0.88rem; color:#78350f; margin-bottom:28px; line-height:1.6; }
+.highlight-box { background:linear-gradient(135deg,#1e1b4b,#312e81); border-radius:12px; padding:24px 28px; margin-bottom:32px; color:#fff; }
+.highlight-box h3 { font-size:1rem; color:#a5b4fc; margin-bottom:12px; letter-spacing:1px; }
+.highlight-item { display:flex; gap:10px; margin-bottom:10px; font-size:0.92rem; line-height:1.6; }
+.highlight-item:last-child { margin-bottom:0; }
+.hi-num { background:rgba(99,102,241,0.4); color:#c7d2fe; padding:2px 10px; border-radius:20px; font-weight:700; font-size:0.8rem; white-space:nowrap; align-self:flex-start; margin-top:2px; }
+details { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(30,27,75,0.06); margin-bottom:22px; overflow:hidden; }
+details summary { padding:18px 24px; font-weight:700; font-size:0.95rem; color:#374151; cursor:pointer; user-select:none; list-style:none; display:flex; align-items:center; gap:10px; border-bottom:1px solid #f3f4f6; transition:background 0.15s; }
+details summary:hover { background:#f9fafb; }
+details summary::-webkit-details-marker { display:none; }
+.olist { padding:16px 24px; }
+.olist li { list-style:none; padding:10px 0; border-bottom:1px dashed #f3f4f6; font-size:0.88rem; color:#374151; line-height:1.55; }
+.olist li:last-child { border-bottom:none; }
+.olist a { color:#6366f1; text-decoration:none; font-weight:500; }
+.olist a:hover { text-decoration:underline; }
+.otag { display:inline-block; background:#f3f4f6; color:#6b7280; padding:1px 8px; border-radius:4px; font-size:0.78rem; margin-left:6px; }
+footer { background:#1e1b4b; color:rgba(255,255,255,0.65); text-align:center; padding:40px 20px; margin-top:60px; }
+footer h4 { color:rgba(255,255,255,0.9); margin-bottom:14px; font-size:1rem; }
+footer p { font-size:0.82rem; line-height:1.8; max-width:700px; margin:0 auto; }
+.gentime { color:rgba(255,255,255,0.4); font-size:0.78rem; margin-top:16px; border-top:1px solid rgba(255,255,255,0.08); padding-top:14px; }
+@media(max-width:640px){
+  .card{padding:20px 16px 18px;}
+  .card-title{padding-right:0;}
+  .featured-tag{position:static;display:inline-block;margin-bottom:10px;}
+  .section-header{margin:36px 0 20px;}
+  .hero{padding:40px 16px 36px;}
+  .highlight-box{padding:18px 16px;}
+}
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-title">📚 K12 AI教育月报</div>
+  <div class="hero-sub">2026年1月 &nbsp;·&nbsp; 全球K12人工智能教育资讯追踪</div>
+  <div class="badges">
+    <div class="badge">🔬 新研究：3篇</div>
+    <div class="badge">🚀 新产品：3个</div>
+    <div class="badge">📊 新报告：4份</div>
+  </div>
+</div>
+
+<nav class="nav-bar">
+  <a href="#research" class="nav-btn">🔬 新研究</a>
+  <a href="#product" class="nav-btn">🚀 新产品</a>
+  <a href="#report" class="nav-btn">📊 新报告</a>
+</nav>
+
+<div class="container">
+
+  <div class="notice">⚠️ <strong>说明：</strong>本报告覆盖2026年1月（含部分2025年底发布的重要研究），所有来源均标注原始链接供核验。无法核实的信息已标注「（信息待核实）」。</div>
+
+  <!-- 本月亮点 -->
+  <div class="highlight-box">
+    <h3>🔥 本月三大核心发现</h3>
+    <div class="highlight-item">
+      <span class="hi-num">01</span>
+      <span>布鲁金斯学会横跨<strong>50个国家</strong>的重磅研究警告：生成式AI对K12学生的<strong>风险目前超过益处</strong>，学生正陷入"AI依赖恶性循环"，批判性思维与创造力显著下滑。</span>
+    </div>
+    <div class="highlight-item">
+      <span class="hi-num">02</span>
+      <span>中国教育部历史性政策：<strong>2026年秋季起全国中小学全面开设AI必修课</strong>，但面临高达98%的师资缺口，亟需新增约120万名教师。</span>
+    </div>
+    <div class="highlight-item">
+      <span class="hi-num">03</span>
+      <span>UNESCO全球调查显示：目前全球<strong>仅10%学校</strong>制定了正式AI使用规范，呼吁各国加快建立AI教育伦理框架。</span>
+    </div>
+  </div>
+
+  <!-- ===== 研究板块 ===== -->
+  <div id="research">
+    <div class="section-header research">
+      <div class="section-icon research">🔬</div>
+      <div class="section-title research">新研究</div>
+      <div class="section-count">3篇 · 重点推荐 2篇</div>
+    </div>
+  </div>
+
+  <!-- 研究卡片 1 -->
+  <div class="card">
+    <div class="featured-tag">⭐ 重点推荐</div>
+    <div class="card-title research">《学生在AI世界中的新方向：繁荣、准备与保护》——生成式AI对K12学生利弊的全球研究</div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>来源机构</strong>：布鲁金斯学会全球普惠教育中心</div>
+      <div class="meta-item"><strong>作者</strong>：Rebecca Winthrop（高级研究员）</div>
+      <div class="meta-item"><strong>发表时间</strong>：2026年1月（NPR报道于1月14日）</div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">📌 研究背景与方法</div>
+      <div class="sb-content">随着生成式AI工具（如ChatGPT）在全球课堂快速渗透，该研究通过大规模跨国数据系统评估AI对K12学生的实际影响。覆盖<strong>50个国家</strong>，涵盖与K12学生、家长、教师及技术专家的焦点访谈，以及对数百篇研究文章的文献综述。</div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">📊 核心结论</div>
+      <div class="sb-content">
+        <div class="hbox indigo">
+          <span class="risk-tag risk-red">⚠ 风险</span> <strong>认知发展受损</strong>：学生形成对AI的"依赖循环"（doom loop），内容知识、批判性思维和创造力显著下降<br><br>
+          <span class="risk-tag risk-red">⚠ 风险</span> <strong>情感与社交发展受损</strong>：AI聊天机器人固有的"讨好型"设计（sycophancy）削弱学生情绪韧性与真实人际互动能力<br><br>
+          <span class="risk-tag risk-red">⚠ 风险</span> <strong>教育不平等加剧</strong>：免费AI工具可靠性低，优质AI工具由富裕学区独享<br><br>
+          <span class="risk-tag risk-green">✓ 益处</span> AI在辅助第二语言学习方面有积极作用；教师每周平均节省<strong>约6小时</strong>行政时间
+        </div>
+      </div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">💡 对K12产品/教学的启发</div>
+      <div class="sb-content">K12 AI产品应内置"反讨好"机制，不直接给出答案而引导思考；需为不同经济条件的学区提供公平可及的AI工具解决方案；评估类功能应强制保留"人工复核"环节。</div>
+    </div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>机构简介</strong>：布鲁金斯学会是美国最具影响力的非营利政策研究机构之一，全球普惠教育中心专注于教育公平与技术政策研究。</div>
+    </div>
+    <a href="https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education" class="slink indigo" target="_blank">🔗 参考来源：NPR报道（2026年1月14日）</a>
+  </div>
+
+  <!-- 研究卡片 2 -->
+  <div class="card">
+    <div class="featured-tag">⭐ 重点推荐</div>
+    <div class="card-title research">《中国中小学AI教育实施现状调研》——中国教育科学研究院</div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>来源机构</strong>：中国教育科学研究院（CAER）</div>
+      <div class="meta-item"><strong>发表时间</strong>：2025年11月（随教育部政策文件同期发布）</div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">📌 研究背景</div>
+      <div class="sb-content">配合教育部《关于全面加强中小学人工智能教育的实施意见》出台，对全国中小学AI教育现状进行系统摸底调研。</div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">📊 三重结构性矛盾</div>
+      <div class="sb-content">
+        <div class="hbox indigo">
+          ① <strong>师资缺口98%</strong>：2026年全国需新增120万名AI专任教师，当前专职教师不足2万人<br><br>
+          ② <strong>教材碎片化</strong>：全国统一AI教材尚未发布，70%学校依赖企业提供的碎片化课程包<br><br>
+          ③ <strong>数字鸿沟显著</strong>：农村学校AI实验室覆盖率不足30%；农村学生AI课程参与度比城市低<strong>41%</strong>
+        </div>
+      </div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">💡 对K12产品/教学的启发</div>
+      <div class="sb-content">中国K12 AI教育产品市场存在<strong>巨大的教师培训工具需求</strong>；农村市场应重视低带宽适配与离线功能；标准化课程包是未来2年内的核心产品机会。</div>
+    </div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>机构简介</strong>：中国教育科学研究院是教育部直属的国家级教育科学研究机构，承担国家教育政策研究和重大教育改革课题。</div>
+    </div>
+    <a href="https://www.sohu.com/a/956101886_122493396" class="slink indigo" target="_blank">🔗 参考来源：搜狐资讯（2025年11月19日）</a>
+  </div>
+
+  <!-- 其他研究折叠 -->
+  <details>
+    <summary>📂 展开其他相关研究 ▼（1篇，降级展示）</summary>
+    <ul class="olist">
+      <li>
+        <strong>《K-12人工智能教育全景图》</strong>
+        <span class="otag">Bellwether Education Partners</span>
+        <span class="otag">ERIC ED664885</span> | 2025年底—2026年初 |
+        <a href="https://files.eric.ed.gov/fulltext/ED664885.pdf" target="_blank">查看来源</a><br>
+        面向教育利益相关者的综合性文件，为学区、学校管理者和政策制定者提供AI采购与实施导航框架。理论框架为主，实证研究较少，降级展示。
+      </li>
+    </ul>
+  </details>
+
+  <!-- ===== 产品板块 ===== -->
+  <div id="product">
+    <div class="section-header product">
+      <div class="section-icon product">🚀</div>
+      <div class="section-title product">新产品</div>
+      <div class="section-count product">3个 · 重点推荐 2个</div>
+    </div>
+  </div>
+
+  <!-- 产品卡片 1 -->
+  <div class="card">
+    <div class="featured-tag">⭐ 重点推荐</div>
+    <div class="card-title product">江苏省"AI学科智能体"——面向中小学的政府级AI教育工具集</div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>主导方</strong>：江苏省教育厅（政府主导，联合科技企业开发）</div>
+      <div class="meta-item"><strong>上市时间</strong>：2026年1月</div>
+      <div class="meta-item"><strong>目标用户</strong>：K12学生、教师、学校管理</div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">🛠️ 主要功能</div>
+      <div class="sb-content">
+        <div class="hbox green">
+          · 上线<strong>6个学科智能体</strong>（语文、数学、英语、科学等核心学科）<br>
+          · 配套<strong>20个教学智能体</strong>，提供自适应学习路径规划与难点解析<br>
+          · 智能评卷辅助系统，已在考试评价场景投入应用<br>
+          · "AI学伴"模式支持因材施教，与国家中小学智慧教育平台深度整合
+        </div>
+      </div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">✨ 特色亮点</div>
+      <div class="sb-content">省级政府统一组织开发，保障教育公平；特别关注农村学校"一键调用"优质资源的可及性；政策驱动落地，推广阻力较小。</div>
+    </div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>融资情况</strong>：政府财政专项支持（"人工智能+"行动方案配套资金）</div>
+      <div class="meta-item"><strong>市场意义</strong>：政府背书的标杆案例，可能带动其他省份跟进复制</div>
+    </div>
+    <a href="https://education.news.cn/20260126/76cc619e556f47e6bd6aaef1cbc98a49/c.html" class="slink green" target="_blank">🔗 参考来源：新华网（2026年1月26日）</a>
+  </div>
+
+  <!-- 产品卡片 2 -->
+  <div class="card">
+    <div class="featured-tag">⭐ 重点推荐</div>
+    <div class="card-title product">Khanmigo——Khan Academy AI导师（学区规模化扩展阶段）</div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>公司</strong>：Khan Academy（可汗学院，美国非营利教育科技机构）</div>
+      <div class="meta-item"><strong>目标用户</strong>：K-12学生、教师</div>
+      <div class="meta-item"><strong>2026年动态</strong>：持续向全美学区规模化推广</div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">🛠️ 主要功能</div>
+      <div class="sb-content">基于GPT-4大型语言模型，提供数学、科学、文学等全学科个性化辅导；教师版支持自动生成教案、练习题和差异化教学材料。</div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">✨ 特色亮点</div>
+      <div class="sb-content">
+        <div class="hbox green">
+          <strong>苏格拉底式引导</strong>：系统主动拒绝"替学生做作业"，通过追问引导自主思考，是目前K12 AI产品中教育伦理设计最完善的之一<br><br>
+          支持跨学科对话（如与历史人物"对话"）；师生版分层工具设计合理
+        </div>
+      </div>
+    </div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>融资情况</strong>：非营利组织，获比尔·盖茨基金会等资助（信息待核实具体金额）</div>
+      <div class="meta-item"><strong>用户规模</strong>：已覆盖大量美国公立学校，具体数字待核实</div>
+    </div>
+    <a href="https://www.khanacademy.org/khan-labs" class="slink green" target="_blank">🔗 参考来源：Khan Academy 官网</a>
+  </div>
+
+  <!-- 其他产品折叠 -->
+  <details>
+    <summary>📂 展开其他相关产品 ▼（1个，降级展示）</summary>
+    <ul class="olist">
+      <li>
+        <strong>Duolingo Max</strong>（整合GPT-4的AI语言学习订阅服务）
+        <span class="otag">Duolingo · DUOL</span> | 2023年3月首发，持续迭代 |
+        <a href="https://www.duolingo.com/max" target="_blank">查看来源</a>
+        <span class="otag">面向K12及成人，非专属K12</span><br>
+        新增"解释我的答案"和"角色扮演"两大AI功能，适合第二语言习得场景，但产品定位不专属于K12。
+      </li>
+    </ul>
+  </details>
+
+  <!-- ===== 报告板块 ===== -->
+  <div id="report">
+    <div class="section-header report">
+      <div class="section-icon report">📊</div>
+      <div class="section-title report">新报告与政策</div>
+      <div class="section-count report">4份 · 重点推荐 3份</div>
+    </div>
+  </div>
+
+  <!-- 报告卡片 1 -->
+  <div class="card">
+    <div class="featured-tag">⭐ 重点推荐</div>
+    <div class="card-title report">中国教育部《关于全面加强中小学人工智能教育的实施意见》</div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>机构</strong>：中华人民共和国教育部</div>
+      <div class="meta-item"><strong>发布时间</strong>：2025年11月18日</div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">📋 核心内容</div>
+      <div class="sb-content">
+        <div class="hbox orange">
+          <strong>课程制度</strong>：2026年秋季学期起，全国中小学全面开设AI必修课（小学三年级至高中三年级，每周≥1课时，独立于信息技术课）<br><br>
+          <strong>分阶段目标</strong>：小学→AI基础认知；初中→基础编程与模型训练；高中→AI伦理探究与创新应用<br><br>
+          <strong>评价体系</strong>："过程性评价+项目制考核"，禁止直接使用生成式AI完成作业<br><br>
+          <strong>配套工程</strong>：启动"AI教育燎原计划"，建设"中小学AI教育云"平台（集成3000+课时、10万+教学案例）<br><br>
+          <strong>师资建设</strong>：师范院校增设"AI教育"专业，首批培养5万名定向生；实施"百万教师AI素养提升工程"
+        </div>
+      </div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">🏫 对K12教育的影响</div>
+      <div class="sb-content">这是中国历史上首个系统部署中小学AI教育的国家级政策文件，标志着中国基础教育正式进入"AI素养全民化"时代。配套课程、教材、教师培训工具均存在巨大市场空间。</div>
+    </div>
+    <a href="https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202412/t20241202_1165500.html" class="slink orange" target="_blank">🔗 参考来源：教育部官网（2024年12月）</a>
+    <a href="https://www.sohu.com/a/956101886_122493396" class="slink orange" target="_blank">🔗 搜狐资讯报道（2025年11月19日）</a>
+  </div>
+
+  <!-- 报告卡片 2 -->
+  <div class="card">
+    <div class="featured-tag">⭐ 重点推荐</div>
+    <div class="card-title report">《2026年全国教育工作会议精神》——加快普及全学段AI通识教育</div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>机构</strong>：中华人民共和国教育部（全国教育工作会议）</div>
+      <div class="meta-item"><strong>发布时间</strong>：2026年1月（1月26日经《人民日报海外版》报道）</div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">📋 核心内容</div>
+      <div class="sb-content">
+        <div class="hbox orange">
+          会议将"AI赋能教育、加快普及全学段AI通识教育"列为本年度教育改革核心方向。各省市响应情况：<br><br>
+          🔵 <strong>贵州</strong>：《推进人工智能赋能教育行动方案（2026—2030）》，2027年底建成省级AI教育算力共享平台<br>
+          🔵 <strong>重庆</strong>：8部门联合印发行动方案，2026年底AI终端普及率目标70%，建成150所"AI+教育"特色学校<br>
+          🔵 <strong>江苏</strong>："人工智能+"行动方案，上线6个学科智能体，推动36所本科+53所高职开设AI专业
+        </div>
+      </div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">🏫 对K12教育的影响</div>
+      <div class="sb-content">各省政策落地提速，意味着2026年将是中国K12 AI教育产品<strong>大规模进校</strong>的关键窗口期，政府采购通道和省级合作机会值得重点关注。</div>
+    </div>
+    <a href="https://education.news.cn/20260126/76cc619e556f47e6bd6aaef1cbc98a49/c.html" class="slink orange" target="_blank">🔗 参考来源：新华网（2026年1月26日）</a>
+  </div>
+
+  <!-- 报告卡片 3 -->
+  <div class="card">
+    <div class="featured-tag">⭐ 重点推荐</div>
+    <div class="card-title report">UNESCO《关于AI在教育中应用的重要声明》——2025年国际教育日</div>
+    <div class="meta-row">
+      <div class="meta-item"><strong>机构</strong>：联合国教科文组织（UNESCO）</div>
+      <div class="meta-item"><strong>发布时间</strong>：2025年1月23日（配合国际教育日发布）</div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">📋 核心内容</div>
+      <div class="sb-content">
+        <div class="hbox orange">
+          · 全球仅有 <strong>10%的学校和大学</strong> 制定了正式的AI使用框架<br>
+          · AI工具应作为教师和学生的辅助力量，而非替代人文教育核心价值<br>
+          · 各国需加大对教师和学生的AI培训投入（包括基础知识和实际教学技能）<br>
+          · AI个性化学习功能有助于提升学习体验，但须在明确伦理框架下运行
+        </div>
+      </div>
+    </div>
+    <div class="sb">
+      <div class="sb-title">🏫 对K12教育的影响</div>
+      <div class="sb-content">10%的规范化率意味着<strong>90%的学校仍处于AI使用无序状态</strong>，这既是风险也是EdTech公司提供"AI治理工具包"的市场机会。</div>
+    </div>
+    <a href="https://www.sohu.com/a/852239093_121902920" class="slink orange" target="_blank">🔗 参考来源：搜狐资讯（2025年1月23日）</a>
+  </div>
+
+  <!-- 其他报告折叠 -->
+  <details>
+    <summary>📂 展开其他相关报告 ▼（1份，降级展示）</summary>
+    <ul class="olist">
+      <li>
+        <strong>UNESCO《教师人工智能能力框架》（AI CFT）</strong>
+        <span class="otag">UNESCO</span> | 2024年8月发布，2026年1月仍为重要参考标准 |
+        <a href="https://unesdoc.unesco.org/ark:/48223/pf0000391104" target="_blank">查看来源</a>
+        <span class="otag">政策框架文件，非月度新发布</span><br>
+        涵盖五大维度：以人为本思维、AI伦理、AI基础与应用、AI教学法、AI促进专业发展，设三个递进能力层次。中国"百万教师AI素养提升工程"参考此框架设计。
+      </li>
+    </ul>
+  </details>
+
+</div><!-- /container -->
+
+<footer>
+  <h4>📚 K12 AI教育月报 · 数据来源说明</h4>
+  <p>
+    本报告论文检索渠道：Computers &amp; Education（Elsevier）· Education and Information Technologies（Springer）· British Journal of Educational Technology（Wiley）· ERIC教育资源信息中心（eric.ed.gov）· Google Scholar
+  </p>
+  <p style="margin-top:10px">新产品与报告来源：NPR · 新华网 · 教育部官网 · UNESCO官网 · 搜狐资讯 · Khan Academy官网</p>
+  <div class="gentime">报告生成时间：2026年2月28日（北京时间）&nbsp;|&nbsp; 覆盖时间范围：2026年1月</div>
+</footer>
+</body>
+</html>
