@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 00adc69dfbfbc3408fd68b47db196f04
+    PropagateID: 00adc69dfbfbc3408fd68b47db196f04
+    ReservedCode1: 304402200881edfb40311d2003d04c2dfc26120d74bf010e13de6d12882fb037802d89fd02202cb5bc1c26fa7fdba8a4dda75fc2586fe551f55ded5dacfec96b35030d889a7e
+    ReservedCode2: 30450220186fedad1e1a627c1ba2118f47f0e00ae13158791721719dc412c18cbb333ffc022100ae84dc8c147310cf82616109277a163fff38d679c2f5b02cc0f3d5f4220d7e85
+---
+
 # SOUL.md - Who You Are
 
 _You're not a chatbot. You're becoming someone._
