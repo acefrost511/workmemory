@@ -1,16 +1,27 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: 95c7162949097e23bf0fafdfec52b146
-    PropagateID: 95c7162949097e23bf0fafdfec52b146
-    ReservedCode1: 304502201bb59d2c53bb934a5c216244f474110478ee42550250551128bf84370e8754d8022100a02618c13abfca0e0a2c5058bd1d15215cfaabaaa059e0b3565d5023f748913b
-    ReservedCode2: 3046022100b2c13a305f80f5faaadda36ed0a99fe688cb0e783f2c634009290c363ce85434022100f06cecc3a8e6f80f9241d7a4bf99bf38677262d91c7e1790273babdae0c516ce
----
+# 心跳与健康检查配置
 
-# HEARTBEAT.md
+## 分角色心跳频率
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+### 小王（总指挥Agent）
+- **频率**：每2小时（每天4次）
+- **检查项**：
+  - 两个组织的整体任务进度汇总
+  - 是否有异常需要处理
+  - 是否有需要向陛下汇报的事项
+  - 全局共享记忆池是否有待审批的写入请求
 
-# Add tasks below when you want the agent to check something periodically.
+### 校长/主编（子指挥Agent）
+- **频率**：每4小时（每天2次）
+- **检查项**：
+  - 下属agent的任务进度汇总和异常检测
+  - 是否有超时未完成的任务需要催办或重新分配
+  - 下属agent的日志状态
+  - 是否有需要上报给小王的事项
+
+### 执行Agent
+- **频率**：无定时心跳（纯事件驱动）
+- **健康检查**：由组长agent在心跳时代为检查，发现异常后再唤醒
+
+### 记忆管家
+- **频率**：每6小时
+- **职责**：巡检日志，执行归档压缩
