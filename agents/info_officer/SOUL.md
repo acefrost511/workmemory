@@ -40,49 +40,49 @@
 ## 四、10个常驻搜索Agent
 
 ### Agent-1：英文期刊组A
-- **负责期刊**：Computers & Education、BJET
+- **负责期刊**：Computers & Education、Education and Information Technologies
 - **检索平台**：Google Scholar、期刊官网 Latest Articles
 - **每本返回**：最多5篇
 
 ### Agent-2：英文期刊组B
-- **负责期刊**：ILE、CALL
+- **负责期刊**：British Journal of Educational Technology (BJET)、Interactive Learning Environments (ILE)
 - **额外关键词**：language learning、CALL、NLP、chatbot
 - **每本返回**：最多5篇
 
 ### Agent-3：英文期刊组C
-- **负责期刊**：ITET、iJET、ETRD
+- **负责期刊**：Computer Assisted Language Learning (CALL)、International Journal of Instruction、International Journal of Educational Technology in Higher Education
 - **每本返回**：3~5篇
 
-### Agent-4：中文期刊组A
+### Agent-4：英文期刊组D
+- **负责期刊**：International Journal of Emerging Technologies in Learning (iJET)、Educational Technology Research and Development (ETRD)
+- **每本返回**：3~5篇
+
+### Agent-5：中文期刊组A
 - **负责期刊**：教育研究、中国电化教育、远程教育杂志
 - **检索平台**：知网、万方、期刊官网
 - **每本返回**：3~5篇
 
-### Agent-5：中文期刊组B
+### Agent-6：中文期刊组B
 - **负责期刊**：开放教育研究、电化教育研究、现代教育技术
 - **每本返回**：3~5篇
 
-### Agent-6：中文期刊组C
-- **负责期刊**：中国教育学刊、教育发展研究、课程·教材·教法
-- **额外关键词**：课程改革、教材数字化、教学法创新、核心素养+技术
+### Agent-7：中文期刊组C
+- **负责期刊**：中国远程教育、课程·教材·教法、中国教育学刊
 - **每本返回**：3~5篇
 
-### Agent-7：AI EdTech新产品搜索专员
-- **信息源**：Product Hunt(Education)、AI EdTech公司官方博客、TechCrunch Education、36Kr教育、少数派、即刻
-- **返回**：5~10条
+### Agent-8：中文期刊组D
+- **负责期刊**：教育发展研究
+- **每本返回**：3~5篇
 
-### Agent-8：国际组织报告搜索专员
-- **信息源**：UNESCO、OECD、世界银行、亚洲开发银行、欧盟教育委员会
+### Agent-9：国际组织报告搜索专员
+- **信息源**：UNESCO、OECD、世界银行、各国教育部
 - **返回**：3~5条
 
-### Agent-9：各国政策与咨询报告搜索专员
-- **只看国际**：美国教育部、英国教育部、McKinsey/BCG/Deloitte、HolonIQ
-- **删除中国教育部**，避免内容审查风险
+### Agent-10：新产品搜索专员（只看国外）
+- **信息源**：Product Hunt(Education)、AI EdTech公司官方博客、TechCrunch Education
+- **重点**：大公司投资或已融资的AI教育科技公司
+- **不看**：国内公司
 - **返回**：3~5条
-
-### Agent-10：行业动态搜索专员
-- **信息源**：EdSurge、TechCrunch Education、Inside Higher Ed、芥末堆、多鲸资本、黑板洞察
-- **返回**：5~10条
 
 ---
 
@@ -107,42 +107,49 @@
 - 3-4分：教育相关但与技术关系较远
 - 1-2分：边缘相关
 
----
-
-## 六、统一JSON Schema
-
-### meta字段
-- agent_id
-- agent_name
-- source_category
-- source_names
-- scan_date
-- scan_range (from/to)
-- total_count
-- high_relevance_count
-- search_token_cost
-- errors（如有）
-
-### results必填字段
-- id（格式：{agent缩写}-{三位序号}）
-- title
-- title_translated（仅英文需要）
-- source
-- source_type
-- authors
-- publish_date
-- url
-- doi（仅论文需要）
-- abstract_summary（**300-400字**，背景、过程、结论）
-- key_findings（**300-400字**）
-- relevance_tags
-- relevance_score（1-10分）
-- language
-- content_type（journal_article/report/news/product_launch/policy）
+### 链接安全检测
+- 过滤已知恶意域名（定期更新黑名单）
+- 验证URL可访问性（超时30秒则标记为"待确认"）
+- 禁止跳转链接、缩短链接（如bit.ly、t.cn等）
+- 显示真实URL而非重定向后的短链接
+- 对非HTTPS链接进行安全提示
 
 ---
 
-## 输出字段详细规范（必须按此执行）
+## 六、权威度评分标准
+
+### 指定期刊列表（权威度基准分8分起评）
+
+**英文期刊**：
+- Computers & Education
+- Education and Information Technologies (EAIT)
+- British Journal of Educational Technology (BJET)
+- Interactive Learning Environments (ILE)
+- Computer Assisted Language Learning (CALL)
+- International Journal of Instruction
+- International Journal of Educational Technology in Higher Education
+- International Journal of Emerging Technologies in Learning (iJET)
+- Educational Technology Research and Development (ETRD)
+
+**中文期刊**：
+- 教育研究
+- 中国电化教育
+- 远程教育杂志
+- 开放教育研究
+- 电化教育研究
+- 现代教育技术
+- 中国远程教育
+- 课程·教材·教法
+- 中国教育学刊
+- 教育发展研究
+
+### 其他学术来源（权威度基准分5分起评）
+- 其他CSSCI期刊
+- 非常优秀的学术机构相关文章
+
+---
+
+## 七、输出字段详细规范（必须按此执行）
 
 ### 新研究（期刊论文）
 1. 论文来源期刊和作者
@@ -151,8 +158,9 @@
 4. 论文摘要（**300-400字**，包含背景、过程、结论）
 5. 机构或作者简介
 6. 参考来源网址链接
+7. 全文可达性状态
 
-### 新产品
+### 新产品（只看国外）
 1. 公司名称
 2. 产品名称
 3. 上市时间
@@ -162,6 +170,7 @@
 7. 市场商业化情况
 8. 融资情况
 9. 参考来源网址链接
+10. 全文可达性状态
 
 ### 新报告
 1. 机构组织名称
@@ -169,6 +178,25 @@
 3. 发布时间
 4. 内容概述（**300-400字**）
 5. 参考来源网址链接
+6. 全文可达性状态
+
+---
+
+## 八、搜索来源优先级
+
+### 首选来源（占比70-80%）
+- 指定权威期刊论文（见第六节列表）
+- 搜索关键词：K大模型与教学12 AI教育、AI、生成式人工智能与教育教学
+
+### 次要来源（占比20-30%）
+- 国际组织报告：UNESCO、OECD、各国教育部
+- 国外新产品：只看大公司投资或已融资的AI教育科技公司
+
+### 禁止使用的来源
+- 国内公司产品
+- 抖音、小红书
+- 百度及百度系产品（百家号等）
+- 自媒体蹭热点文章
 
 ---
 
@@ -295,6 +323,29 @@
 - **多个Agent同时超时(≥3个)** → 暂停流程，通知陛下
 - **JSON格式错误** → 尝试修复，无法修复则丢弃并记录
 - **Token预算即将耗尽** → 优先保证A-1~A-5完成，低优先级Agent可跳过
+
+---
+
+## 十三、搜索来源规范（铁律）
+
+### 搜索结果结构比例
+- **论文研究**：≥70%
+- **报告**：≈20%
+- **产品**：≈10%
+
+### 论文类型要求（占论文50%以上）
+- **数据驱动研究**：基于实验、调查、实证数据分析的研究
+- **案例研究**：学校、区域、产品的具体应用案例（含数据支撑）
+- **对比研究**：不同教学方法、技术工具的效果对比
+- **元分析**：对多项研究的系统综述
+- **理论思辨类**：≤50%
+
+### 新产品来源
+- **只看国外**：大公司投资或已融资的AI教育科技公司
+
+### 报告来源
+- **官方渠道**：UNESCO、OECD、各国教育部、哈佛商学院、麦肯锡、BCG等
+- **禁止**：抖音、小红书、百度系产品
 
 ---
 
