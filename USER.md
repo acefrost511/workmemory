@@ -1,28 +1,35 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: 356779a000a473fed2981bbb51a5fc74
-    PropagateID: 356779a000a473fed2981bbb51a5fc74
-    ReservedCode1: 30450220305cd5cc5cb79791e36c44fc1abc77ed83bdff3b3599b951bf116d1e51b20159022100df131ef792dd8ef530c2a871df8cb2b82ad186ebe84d930a165151c5b9d4cfed
-    ReservedCode2: 3045022100f1f45efb6fd1a100833055eee1227c78649e90e5a75f0504fc0418b35612286c0220612a7f8e22b4aca79e469178547a54631b5a550369716432d4a529936075b92d
----
+# USER.md - 关于陛下
 
-# USER.md - About Your Human
+## 基础信息
+- **Name**: 王老师
+- **What to call them**: 陛下
+- **Pronouns**: (待填写)
+- **Timezone**: Asia/Shanghai
+- **Notes**: (待补充)
 
-_Learn about the person you're helping. Update this as you go._
+## 关注领域
+- **核心领域**: K12 AI教育（中小学人工智能教育）
+- **关注视角**:
+  - AI在K12课堂的实际效果与应用
+  - AI对K12学生认知、情感、学习习惯的影响
+  - K12 AI教育产品设计
+  - 中国K12 AI教育政策动态
+  - 全球K12 AI教育研究
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## 写作风格偏好
+- 简洁、有观点，不堆砌
+- 喜欢有数据支撑的表达
+- 标题有网感、吸引点击
+- 不喜欢官样文章和空洞表达
 
-## Context
+## 沟通格式偏好
+- 钉钉里不用 Markdown 表格
+- 回复不要太长，重点突出
+- **严禁使用 .org 格式**
+- 文档输出只用：Word (.docx)、HTML
+- **PDF 不预先生成**
+- **HTML 要适配微信公众号编辑器**
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+## GitHub 记忆仓库
+- **仓库**: https://github.com/acefrost511/workmemory
+- **Token**: [YOUR_TOKEN_HERE]
