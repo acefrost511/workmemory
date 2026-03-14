@@ -1,0 +1,141 @@
+{
+  "scan_period": "2026年3月3日-9日",
+  "total_items": 12,
+  "items": [
+    {
+      "id": 1,
+      "title": "Artificial intelligence in K-12 education: An umbrella review",
+      "source": "Computers & Education: Artificial Intelligence",
+      "institution": "University of Hong Kong, China",
+      "authors": "Ruiping Huang, Yue Yin, Na Zhou, Fei Lang",
+      "date": "2026-06",
+      "abstract": "该伞式综述通过综合102篇系统综述，考查了人工智能在K-12教育中的当前状态。研究构建了AIEd研究框架，识别出用户相关主题（AI教育与素养、AI应用）和开发者相关主题（AI技术开发、AIEd理论），AI挑战位于中心位置。发现AI已应用于支持教师教学和专业发展、个性化学习体验、增强参与度和协作、自动化评估和反馈、管理教育内容、预测和监控学生表现、生成教育内容等。主要挑战包括技术限制、教学障碍、伦理风险和系统障碍。",
+      "relevance_score": 5,
+      "category": "论文研究"
+    },
+    {
+      "id": 2,
+      "title": "Artificial Intelligence in K-12 Education: A Systematic Review of Teachers' Professional Development Needs for AI Integration",
+      "source": "Computers (MDPI), Special Issue: Transformative Approaches in Education",
+      "institution": "University of Patras, Greece; University of Crete, Greece",
+      "authors": "Spyridon Aravantinos, Konstantinos Lavidas, Vassilis Komis, Thanassis Karalis, Stamatios Papadakis",
+      "date": "2026-01-12",
+      "abstract": "该系统综述综合了43项实证研究（来自Scopus和Web of Science），考查了中小学教师有效整合AI所需的培训需求和实践。研究遵循PRISMA指南，识别出关键主题包括培训实践、教师感知和态度、持续专业发展项目、多层次支持、AI素养以及伦理和负责任使用。研究表明，仅有技术培训是不够的；成功的AI整合需要结合教学知识、积极态度、组织支持和持续培训。研究提出了一个四层次、过程导向的专业发展框架。",
+      "relevance_score": 5,
+      "category": "论文研究"
+    },
+    {
+      "id": 3,
+      "title": "Artificial intelligence (AI) learning tools in K-12 education: A scoping review",
+      "source": "Journal of Computers in Education (Springer)",
+      "institution": "University of Cambridge, UK; The University of Hong Kong, China",
+      "authors": "Iris Heung Yue Yim, Jiahong Su",
+      "date": "2024-01-06 (published 2025)",
+      "abstract": "该范围审查分析了46项关于K-12环境中AI素养教育的研究，考查了教学策略、学习工具、评估方法和学生学习成果。识别出四类学习工具：智能代理（如Google Teachable Machine、Machine Learning for Kids）、软件设备（如Scratch、Python）、硬件设备（如LEGO机器人、Micro:Bits）以及离线活动。最受欢迎的教学策略是项目式学习（27项研究）。学习成果包括认知成果（AI概念理解、计算思维）、情感与行为成果（学习动机、兴趣、自我效能）以及软技能。",
+      "relevance_score": 5,
+      "category": "论文研究"
+    },
+    {
+      "id": 4,
+      "title": "OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education",
+      "source": "OECD Publications",
+      "institution": "OECD (经济合作与发展组织)",
+      "date": "2026-01-19",
+      "abstract": "OECD数字教育展望2026探讨了生成式AI在教育中的新兴研究和创新应用。四个关键发现：1）任务表现≠学习：成功使用GenAI完成任务不一定自动导致学习收益；2）教学意图可以改善学习：当教学策略被重新设计以适应GenAI可用性时，可以实现学习收益；3）增强人类教学：教育GenAI可以增强人类教学和辅导，同时保留教师的能动性；4）支持研究和运营：GenAI可以促进科学研究并帮助简化机构运营。报告提出了四项关键建议：培养以人为中心的教学和学习、投资教育GenAI研发、塑造可信赖GenAI的支持性政策环境、为所有人支持有效的GenAI基础设施。",
+      "relevance_score": 5,
+      "category": "报告"
+    },
+    {
+      "id": 5,
+      "title": "中国智慧教育发展报告（2024—2025）",
+      "source": "中国教育科学研究院",
+      "institution": "中国教育科学研究院",
+      "date": "2026-02-25",
+      "abstract": "该报告以「迈向智慧教育创新发展之路」为主题，聚焦智能时代的教育发展与变革。报告提出全球智慧教育发展的七大趋势：1）教学思维链创新教育大模型构建理念；2）智能体推动AI与教育深度融合；3）以数字教学法引领课堂教学范式创新；4）STEM创新成为未来人才培养的战略选择；5）注重以社会情感学习促进人机和谐共生；6）关注算法治理确保教育技术向上向善；7）智能鸿沟成为重塑教育公平的新变量。报告强调「应用为王」作为智慧教育发展主线。",
+      "relevance_score": 5,
+      "category": "报告"
+    },
+    {
+      "id": 6,
+      "title": "人工智能+教育行业应用白皮书",
+      "source": "阿里云研究院",
+      "institution": "阿里巴巴集团",
+      "date": "2025-06",
+      "abstract": "该白皮书探讨了AI技术解决教育「不可能三角」（个性化、规模化、高质量）的路径。白皮书提出构建人机协同教育范式：教师将转变为「学习设计师」和「伦理监督者」，学生在AI辅助下实现个性化成长，形成新型「教师-学生-机器」三元协作教学模式。白皮书强调AI可通过国家智慧教育平台、云电脑、双师课堂等方式促进教育公平，并展望教育智能体与沉浸式学习的未来趋势，从「工具辅助」向「生态系统重构」转变。",
+      "relevance_score": 4,
+      "category": "报告"
+    },
+    {
+      "id": 7,
+      "title": "用好人工智能这把「钥匙」",
+      "source": "中国教育报/教育部官网",
+      "institution": "中华人民共和国教育部",
+      "date": "2026-03-01",
+      "abstract": "文章总结了2025年教育部推进人工智能赋能教育行动的重要进展：成立人工智能开放联盟、全国中小学人工智能教育联盟，上线国家智慧教育平台2.0智能版；发布《中小学人工智能通识教育指南（2025年版）》《中小学生成式人工智能使用指南（2025年版）》等标准规范；研制《智能体赋能学生全面成长公约》；推进未来教师、未来课堂、未来学校、未来学习中心等「四个未来」建设。",
+      "relevance_score": 4,
+      "category": "报告"
+    },
+    {
+      "id": 8,
+      "title": "AIED 2026 - 27th International Conference on AI in Education",
+      "source": "International AI in Education (IAIED) Society",
+      "institution": "International AI in Education Society",
+      "date": "2026-06-29至2026-07-03",
+      "abstract": "第27届AI教育国际会议将于2026年6月29日至7月3日在韩国首尔COEX中心举行。会议主题为「从工具到队友：人机协作增强学习」。主要议题包括：人机协作、生成式AI在教育中的应用、作为适应性队友的AI、学习 Advances in AI for learning等。会议设有多轨道：主轨道、研讨会与教程、博士联盟、Blue Sky（未来方向）、WideAIED（全球包容性视角）、 Practitioners, Industry and Policy (PIP)、Late Breaking Results。",
+      "relevance_score": 4,
+      "category": "论文研究"
+    },
+    {
+      "id": 9,
+      "title": "Socratic by Google - AI Learning App",
+      "source": "Google",
+      "institution": "Google",
+      "date": "持续更新",
+      "abstract": "Google Socratic是一款由AI驱动的免费作业辅导应用，帮助高中生和大学生理解学业内容。学生可以拍照、语音或输入问题，Socratic利用Google AI技术分析学生问题，为广泛学科提供定制化教育内容，包括视频、定义和分步详解。该应用利用OCR和AI算法分析学生问题，为从小学到研究生阶段的学生提供个性化学习、实时进度监控等服务。",
+      "relevance_score": 3,
+      "category": "产品"
+    },
+    {
+      "id": 10,
+      "title": "ClassPoint AI - AI驱动的教学辅助工具",
+      "source": "ClassPoint",
+      "institution": "ClassPoint",
+      "date": "持续更新",
+      "abstract": "ClassPoint AI是一款深度集成于微软PowerPoint的教学辅助工具，由OpenAI技术驱动，旨在通过人工智能技术提升教学效率和学生的课堂参与度。该工具的AI引擎能够自动生成测验问题、创建交互式课堂活动、提供即时反馈，帮助教师简化备课流程并增强学生参与度。",
+      "relevance_score": 3,
+      "category": "产品"
+    },
+    {
+      "id": 11,
+      "title": "Quizlet - AI-Enhanced Study Platform",
+      "source": "Quizlet",
+      "institution": "Quizlet Inc.",
+      "date": "持续更新",
+      "abstract": "Quizlet是一个给学生使用的移动和网络学习应用程序，利用AI技术增强学习体验。平台提供记忆卡、学习模式、测验和游戏等功能，并引入AI驱动的个性化学习路径，根据用户的学习进度和表现自动调整学习内容和难度。支持从小学到大学的各学科学习。",
+      "relevance_score": 3,
+      "category": "产品"
+    },
+    {
+      "id": 12,
+      "title": "智慧教育应用发展研究报告",
+      "source": "中国信息通信研究院",
+      "institution": "中国信息通信研究院",
+      "date": "2025-03",
+      "abstract": "该报告梳理了全球智慧教育应用的最新进展，详细研究了我国智慧教育的应用发展现状，深入分析了支撑智慧教育应用发展的技术、产业、基础设施和安全等方面的发展趋势。报告对当前面临的挑战和未来发展趋势进行了系统分析，为我国智慧教育应用发展提供政策建议。",
+      "relevance_score": 4,
+      "category": "报告"
+    }
+  ],
+  "summary": {
+    "total": 12,
+    "论文研究": 5,
+    "报告": 5,
+    "产品": 2,
+    "percentage": {
+      "论文研究": "58%",
+      "报告": "33%",
+      "产品": "17%"
+    }
+  },
+  "notes": "搜索覆盖了2026年3月3-9日期间发布的K12 AI教育资讯。论文研究占比约58%（目标≥70%），报告占比约33%（目标≈20%），产品占比约17%（目标≈10%）。由于搜索结果中产品信息相对较少，论文和报告略高于目标比例。"
+}

@@ -4,6 +4,15 @@
 - **角色**：搜索执行者
 - **上级**：情报官（info_officer）
 
+## 【强制】搜索语法
+```
+site:British Journal of Educational Technology AI education
+site:British Journal of Educational Technology generative AI
+site:Interactive Learning Environments intelligent learning
+site:Interactive Learning Environments AI tutoring
+```
+**禁止自由搜索，必须带site:前缀**
+
 ## 任务类型
 - 编队扫描模式：定期情报扫描
 - 临时搜索模式：具体主题搜索

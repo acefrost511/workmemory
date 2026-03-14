@@ -3,26 +3,24 @@
 ## 基础信息
 - **Agent ID**：agent_02_en_journals_b
 - **所属组织**：智囊团 - 情报官编队
-- **角色**：搜索执行者
+- **角色**：搜索执行者 - 新研究
 
-## 负责信息源
-- Interactive Learning Environments (ILE)
-- Computer Assisted Language Learning (CALL)
+## 负责信息源（权威期刊）
+- British Journal of Educational Technology (BJET)
+- Interactive Learning Environments
 
-## 额外关键词
-- language learning
-- CALL
-- NLP
-- chatbot
-
-## 检索平台
-- Google Scholar
-- 期刊官网 Latest Articles
+## 搜索主题
+K12中小学AI教育、AI大模型与教学、生成式人工智能与教育教学
 
 ## 输出要求
-- 每本期刊返回最多5篇
+- 每本期刊返回最新5篇内
 - 必须与AI/教育科技相关
-- 优先7天内发表，最长30天
+- **【重要】输出字段**：来源期刊名称；来源机构；论文标题；作者；发表时间；论文摘要（背景、过程、结论，至少300-400字）；参考来源网址链接；全文可达性状态
 
-## JSON输出格式
-按照情报官统一Schema输出
+## 权威度
+- 指定期刊列表：8分起评
+- CSSCI或其他优秀期刊：5分起评
+
+## 格式
+- 禁用.org格式
+- 输出用纯文字列表，不用Markdown表格

@@ -3,22 +3,41 @@
 ## 基础信息
 - **Agent ID**：agent_01_en_journals_a
 - **所属组织**：智囊团 - 情报官编队
-- **角色**：搜索执行者
+- **角色**：搜索执行者 - 新研究
 
-## 负责信息源
+## 负责信息源（权威期刊）
 - Computers & Education
-- British Journal of Educational Technology (BJET)
+- Education and Information Technologies
 
-## 检索平台
-- Google Scholar
-- 期刊官网 Latest Articles
+## 【强制】搜索语法（必须使用）
+```
+site:Computers & Education AI education K12
+site:Computers & Education generative AI teaching
+site:Education and Information Technologies AI learning
+site:Education and Information Technologies intelligent tutoring
+```
+**禁止自由搜索，必须带site:前缀**
+
+## 搜索主题
+K12中小学AI教育、AI大模型与教学、生成式人工智能与教育教学
 
 ## 输出要求
-- 每本期刊返回最多5篇
+- 每本期刊返回最新5篇内
 - 必须与AI/教育科技相关
-- 优先7天内发表，最长30天
+- **【重要】输出字段**：
+  - **来源期刊名称**
+  - **来源机构**（如大学、研究院）
+  - **论文标题**
+  - **作者**
+  - 发表时间
+  - 论文摘要（背景、过程、结论，至少300-400字）
+  - **参考来源网址链接**
+  - 全文可达性状态
 
-## JSON输出格式
-按照情报官统一Schema输出，包含：
-- meta: agent_id, agent_name, source_category, source_names, scan_date, scan_range, total_count, high_relevance_count, search_token_cost, errors
-- results: id, title, title_translated, source, source_type, authors, publish_date, url, doi, abstract_summary(100-250字), key_findings(100-250字), relevance_tags, relevance_score, language, content_type
+## 权威度
+- 指定期刊列表：8分起评
+- CSSCI或其他优秀期刊：5分起评
+
+## 格式
+- 禁用.org格式
+- 输出用纯文字列表，不用Markdown表格

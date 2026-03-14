@@ -3,21 +3,26 @@
 ## 基础信息
 - **Agent ID**：agent_03_en_journals_c
 - **所属组织**：智囊团 - 情报官编队
-- **角色**：搜索执行者
+- **角色**：搜索执行者 - 新研究
 
-## 负责信息源
-- International Journal of Educational Technology in Higher Education (ITET)
+## 负责信息源（权威期刊）
+- Computer Assisted Language Learning
+- International Journal of Instruction
 - International Journal of Emerging Technologies in Learning (iJET)
-- Educational Technology Research and Development (ETRD)
+- Educational Technology Research and Development
 
-## 检索平台
-- Google Scholar
-- 期刊官网 Latest Articles
+## 搜索主题
+K12中小学AI教育、AI大模型与教学、生成式人工智能与教育教学
 
 ## 输出要求
-- 每本期刊返回3-5篇
+- 每本期刊返回最新5篇内
 - 必须与AI/教育科技相关
-- 优先7天内发表，最长30天
+- **【重要】输出字段**：来源期刊名称；来源机构；论文标题；作者；发表时间；论文摘要（背景、过程、结论，至少300-400字）；参考来源网址链接；全文可达性状态
 
-## JSON输出格式
-按照情报官统一Schema输出
+## 权威度
+- 指定期刊列表：8分起评
+- CSSCI或其他优秀期刊：5分起评
+
+## 格式
+- 禁用.org格式
+- 输出用纯文字列表，不用Markdown表格
