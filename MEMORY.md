@@ -43,6 +43,13 @@
   - 从"资讯搬运"转向"指导型教程"
   - 流程：搜索不达标→退回情报官继续搜索→陛下决定最终选题→打回创作
   - 公共技能库：ai-style-remover（AI风格祛除），所有agent写作时可用
+  - 公共技能库：khazix-skills（技能生命周期管理）
+  - 公共技能库：frontend-design（前端设计美学）
+  - 公共技能库：obsidian-markdown（Obsidian风格Markdown）
+  - 公共技能库：docx（Word文档）
+  - 公共技能库：pdf（PDF处理）
+  - 公共技能库：pptx（PPT演示文稿）
+  - 公共技能库：xlsx（电子表格）
 
 ## GitHub 同步状态
 - 仓库: https://github.com/acefrost511/workmemory
