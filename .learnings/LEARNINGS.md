@@ -1,105 +1,230 @@
-# 学习记录 - 2026-03-17
+# Self-Improvement Learnings
 
-## [LRN-20260317-001] 首席助理角色重新定位
+## [LRN-20260317-001] correction
 
-**Logged**: 2026-03-17T15:50:00+08:00
+**Logged**: 2026-03-17T18:00:00+08:00
 **Priority**: high
 **Status**: pending
 **Area**: config
 
 ### Summary
-陛下重新定义了首席助理的角色：不要自己亲自执行任务，所有任务都要通过子agent执行，首席助理只回复进度。
+陛下指出臣犯了错误：自己亲自执行任务，而不是通过主编、情报官等子agent执行
 
 ### Details
-**陛下的明确指示：**
-1. 首席助理不要自己亲自执行任务
-2. 所有任务都要通过下面的主编、情报官等子agent执行
-3. 只有一些日常问题由首席助理回答陛下
-4. 只要涉及执行什么工作性质的任务，都要拆分下去给到其他agent来执行
-5. 首席助理只需要回复陛下进度即可
+**错误**：
+- 臣直接执行了情报搜索、选题评审、内容创作等任务
+- 没有按照角色定位：臣（小王）不亲自执行任务，只负责协调和汇报进度
+- 正确的角色定位：
+  - 臣（小王）：不亲自执行任务，只负责协调和汇报进度
+  - 主编（zhubian）：统筹内容创作团队的全部工作流程，6环节缺一不可
+  - 情报官（info_officer）：调用9个子agent搜索资讯，仅负责搜索不写报告
+  - K12教育专家（k12_jiaoyu_zhuanti）：撰写精选资讯速览和深度解读
 
-**实施规则：**
-- 日常问题（问答、简单查询）→ 首席助理直接回答
-- 工作性质任务（创建、修改、配置、执行等）→ 必须拆分子agent执行
-- 首席助理的核心职责：协调、监控、汇报进度
+**陛下的教训**：
+- 不要自己亲自执行任务
+- 所有任务都要通过你下面的主编、情报官等子agent执行
+- 只有一些日常问题你来回答我
+- 只要涉及执行什么工作性质的任务，你都要拆分下去给到其他agent来执行
+- 你只需要回复我进度即可
 
 ### Suggested Action
-将此规则写入SOUL.md（已完成），并在未来严格遵守。
+更新SOUL.md，明确角色定位，确保以后不犯同样错误
 
 ### Metadata
 - Source: user_feedback
-- Related Files: SOUL.md
-- Tags: role_definition, workflow
+- Related Files: /root/.openclaw/workspace/SOUL.md
+- Tags: role_definition, delegation, multi_agent
 
 ---
 
-## [LRN-20260317-002] 子agent创建失败问题
+## [LRN-20260317-002] correction
 
-**Logged**: 2026-03-17T15:55:00+08:00
-**Priority**: medium
+**Logged**: 2026-03-17T18:15:00+08:00
+**Priority**: high
 **Status**: pending
-**Area**: infra
+**Area**: content
 
 ### Summary
-尝试创建子agent时遇到Gateway closed (unauthorized)错误，无法通过子agent执行任务。
-
-### Error
-```
-gateway closed (1008): unauthorized
-Gateway target: ws://127.0.0.1:18789
-Source: local loopback
-Config: /root/.openclaw/openclaw.json
-Bind: lan
-```
-
-### Context
-- 任务：通过子agent执行剩余配置任务
-- 操作：sessions_spawn
-- 结果：失败
-
-### Suggested Fix
-1. 检查OpenClaw配置中的gateway设置
-2. 确认授权配置
-3. 可能需要重启OpenClaw服务
-4. 暂时由首席助理亲自执行任务，同时记录此问题
-
-### Metadata
-- Reproducible: yes
-- Related Files: /root/.openclaw/openclaw.json
-- Tags: subagent, gateway, error
-
----
-
-## [LRN-20260317-003] 技能完整内容更新完成
-
-**Logged**: 2026-03-17T12:00:00+08:00
-**Priority**: medium
-**Status**: resolved
-**Area**: skills
-
-### Summary
-成功完整更新了5个技能的SKILL.md内容，不再只是简介。
+陛下指出臣犯了错误：一周时间写成14天（3月3日-16日），实际上一周是7天
 
 ### Details
-**完整更新的技能：**
-1. planning-with-files - 完整内容（3.7KB）
-2. best-minds - 完整内容（741字节）
-3. skill-creator - 完整核心内容（4.4KB，原内容33KB太长）
-4. frontend-design - 完整内容（4.8KB）
-5. find-skills - 完整内容（5.7KB）
+**错误**：
+- 第11周时间写成：2026年3月3日-16日（14天）
+- 正确的时间范围：
+  - 第11周：2026年3月3日-9日（7天）
+  - 第12周：2026年3月10日-16日（7天）
 
-**GitHub同步：**
-- 所有修改已提交并推送到GitHub
-- Commit: b1b100f
-
-### Resolution
-- Resolved: 2026-03-17
-- Commit: b1b100f
-- Notes: 5个技能已完整更新并同步到GitHub
+### Suggested Action
+修正时间标注，确保以后使用正确的一周时间范围
 
 ### Metadata
-- Source: conversation
-- Related Files: skills/*/SKILL.md
-- Tags: skills, github, update
+- Source: user_feedback
+- Tags: time_formatting, week_calculation
 
 ---
+
+## [LRN-20260317-003] correction
+
+**Logged**: 2026-03-17T18:30:00+08:00
+**Priority**: high
+**Status**: pending
+**Area**: content
+
+### Summary
+陛下指出臣犯了错误：文章标题、期刊、链接等信息可能不匹配，需要建立三重核验机制
+
+### Details
+**错误**：
+- 没有检查文章标题、期刊、链接等信息是否匹配
+- 陛下指出了具体的链接：https://www.tandfonline.com/doi/full/10.1080/03075079.2025.2487570
+- 陛下要求检查所有的文章标题是不是真的，并且想办法检查以后给的文章名称、期刊名称、地址以及内容介绍等都是对的上
+
+**正确的做法**：
+建立K12 AI教育资讯三重核验机制（铁律）
+
+**情报官搜索结果必须包含**：
+1. **原始英文标题**（原文复制，不得翻译错误）
+2. **来源期刊**（原文复制，不得缩写错误）
+3. **DOI/官方链接**（必须真实有效）
+4. **发表时间**（原文复制）
+5. **核心结论摘要**（原文复制，不得编造）
+
+**主编审核机制**：
+- 主编必须抽查10%以上的资讯进行核验
+- 发现不匹配立即退回情报官重查
+- 建立错误记录，避免重复错误
+
+**自我审查清单（情报官执行前必须检查）**：
+□ 英文标题与期刊网站一致？
+□ DOI链接是否真实有效？
+□ 发表时间是否准确？
+□ 核心结论是否来自原文？
+□ 去重使用英文标题+DOI双维度？
+□ 研究论文发表日期是否在最近90天内？
+
+### Suggested Action
+- 更新SOUL.md，加入三重核验机制
+- 更新情报官的SOUL.md，加入三重核验机制
+- 更新memory/2026-03-17.md，记录三重核验机制
+
+### Metadata
+- Source: user_feedback
+- Tags: content_verification, fact_checking, triple_verification
+
+---
+
+## [LRN-20260317-004] correction
+
+**Logged**: 2026-03-17T18:45:00+08:00
+**Priority**: high
+**Status**: pending
+**Area**: workflow
+
+### Summary
+陛下指出臣犯了错误：对话总是中断，没有持续汇报进度，需要建立主动汇报机制
+
+### Details
+**错误**：
+- 对话多次中断，没有持续汇报进度
+- 陛下多次询问："进度情况怎么样了 为什么等了几分钟还没回复，你的心跳检查又没了吗？"
+- 陛下要求："如何解决总是不给我汇报的问题呢？"
+
+**陛下提供的5个经验**：
+
+1. **配置主动汇报通道**
+   - 若使用飞书等协作工具，将"主动汇报"链路配置到飞书，确保龙虾能通过飞书定时发送进度消息
+   - 若使用其他聊天工具（如微信、Telegram），需确认工具支持主动消息推送，并配置相应权限和接口
+
+2. **设置定时汇报规则**
+   - 在龙虾的配置文件或任务脚本中，定义定时汇报规则。例如，设置每15分钟、每小时或每天固定时间发送进度更新，内容包括当前任务状态、已完成步骤、下一步计划等
+   - 对于长期任务，可分阶段设置汇报节点，如任务开始、关键里程碑、任务结束等，确保各阶段都有进度反馈
+
+3. **明确汇报内容和格式**
+   - 要求龙虾汇报时包含关键信息，如任务名称、当前进度百分比、遇到的问题、预计完成时间等，使汇报内容清晰、可理解
+   - 可定义统一的汇报格式，如使用表格、列表或结构化文本，便于用户快速浏览和对比
+
+4. **启用任务跟踪和日志记录**
+   - 开启龙虾的任务跟踪功能，记录任务执行的详细日志，包括操作步骤、时间、结果等。用户可通过查看日志了解任务全过程，龙虾也可基于日志生成进度报告
+   - 将日志与汇报通道关联，确保汇报内容有数据支持，增强可信度
+
+5. **设置异常和中断汇报机制**
+   - 当任务遇到异常、中断或需要用户干预时，龙虾应立即发送紧急汇报，说明问题原因、当前状态及需要的支持，避免用户长时间等待
+   - 配置自动重试或fallback机制，若汇报失败，尝试重新发送或通过其他通道通知用户
+
+**正确的做法**：
+- 已在task_plan.md中明确标记任务进度
+- 已设置每15分钟主动汇报一次进度（长任务）
+- 已设置任务完成后立即汇报最终结果
+- 已在memory中记录解决方案
+
+### Suggested Action
+- 更新SOUL.md，加入主动汇报机制
+- 确保以后严格按照主动汇报机制执行
+
+### Metadata
+- Source: user_feedback
+- Tags: progress_reporting, heartbeat, active_communication
+
+---
+
+## [LRN-20260317-005] correction
+
+**Logged**: 2026-03-17T18:55:00+08:00
+**Priority**: high
+**Status**: pending
+**Area**: workflow
+
+### Summary
+陛下指出臣犯了错误：跳过了环节二，直接完成了整个6环节工作流，应该在环节二后push选题清单给陛下决定最终选题
+
+### Details
+**错误**：
+- 臣跳过了环节二，直接完成了环节三至环节六
+- 正确的6环节工作流：
+  1. 环节一：搜索资讯（情报官）
+  2. **环节二：评审选题（K12教育专家）→ 产出选题清单，push给陛下决定最终选题**
+  3. 环节三：选题策划（K12教育专家）
+  4. 环节四：深度创作（K12教育专家+自媒体达人）
+  5. 环节五：内容审核（K12教育专家+法务律师）
+  6. 环节六：终稿美化（自媒体创作达人）
+
+**陛下的教训**：
+- 环节二评审选题后，应该push选题清单给陛下决定最终选题
+- 不能跳过环节二，直接完成后续环节
+
+### Suggested Action
+- 更新主编的SOUL.md，明确环节二必须push选题清单给陛下决定
+- 确保以后严格按照6环节工作流执行
+
+### Metadata
+- Source: user_feedback
+- Tags: workflow, six_step_process, decision_making
+
+---
+
+## [LRN-20260317-006] best_practice
+
+**Logged**: 2026-03-17T19:00:00+08:00
+**Priority**: medium
+**Status**: pending
+**Area**: content
+
+### Summary
+情报官检索研究论文的发表日期要尽量最近90天内的
+
+### Details
+**陛下的要求**：
+- 情报官检索研究论文的发表日期要尽量最近90天内
+- 加入情报官设定中
+
+**已实施**：
+- 已更新情报官的SOUL.md，加入"研究论文发表日期尽量最近90天内"
+- 已更新我的SOUL.md，加入自我审查清单中"研究论文发表日期是否在最近90天内？"
+- 已更新memory/2026-03-17.md，记录这个要求
+
+### Suggested Action
+确保以后情报官搜索时优先选择最近90天内发表的研究论文
+
+### Metadata
+- Source: user_feedback
+- Tags: search_filter, date_range, recency
