@@ -77,10 +77,12 @@
   2. 每周一和周四早上8点：情报官自动执行检索资讯流程
 
 ### [2026-03-17 21:55] 添加ljg-paper读论文技能
-**操作**: 本地修改（待提交）
+**操作**: commit + push
+**Commit ID**: 9c0b5cc
 **修改文件**:
 - skills/ljg-paper/SKILL.md（新建）
 - SOUL.md（更新技能列表，33→34个）
+- git_update_log.md
 **说明**: 从GitHub安装ljg-paper读论文技能，用于分析学术论文
 - 技能来源：https://github.com/lijigang/ljg-skill-paper
 - 功能：读取arxiv链接、论文URL、PDF、本地文件
@@ -88,4 +90,4 @@
 
 ---
 
-**最后更新**: 2026-03-17 21:55
+**最后更新**: 2026-03-17 22:00
