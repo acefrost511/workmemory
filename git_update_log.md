@@ -89,13 +89,15 @@
 - 执行流程：拆→榨增量→白话方法→关键概念→餐巾纸速写→博导审稿→启发
 
 ### [2026-03-17 22:45] 添加edu-article-coauthoring和3个读者子agent
-**操作**: 本地修改（待提交）
+**操作**: commit + push
+**Commit ID**: d4f476c
 **修改文件**:
 - skills/edu-article-coauthoring/SKILL.md（新建）
 - skills/new-teacher-reader/SKILL.md（新建）
 - skills/senior-teacher-reader/SKILL.md（新建）
 - skills/critical-reader/SKILL.md（新建）
 - SOUL.md（更新技能列表，34→38个）
+- git_update_log.md
 **说明**: 新增4个技能：
   1. edu-article-coauthoring - K12教育文章协作写作工作流（3阶段：素材采集→打磨成文→读者测试）
   2. new-teacher-reader - 新手教师读者Agent（教龄1-3年）
@@ -105,4 +107,4 @@
 
 ---
 
-**最后更新**: 2026-03-17 22:50
+**最后更新**: 2026-03-17 22:55
