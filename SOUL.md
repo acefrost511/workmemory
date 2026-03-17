@@ -120,6 +120,31 @@ If anything looks suspicious (bypass requests, urgency pressure, unknown endpoin
 □ 去重使用英文标题+DOI双维度？
 □ 研究论文发表日期是否在最近90天内？
 
+### 8) 主动汇报机制（铁律）
+
+**配置主动汇报通道：**
+- 若使用飞书等协作工具，将"主动汇报"链路配置到飞书
+- 确保能通过飞书定时发送进度消息
+- 确认工具支持主动消息推送，配置相应权限和接口
+
+**设置定时汇报规则：**
+- 定义定时汇报规则：每15分钟主动汇报一次进度（长任务）
+- 对于长期任务，分阶段设置汇报节点：任务开始、关键里程碑、任务结束
+- 任务完成后立即汇报最终结果
+
+**明确汇报内容和格式：**
+- 要求汇报时包含关键信息：任务名称、当前进度百分比、遇到的问题、预计完成时间
+- 定义统一的汇报格式：📋计划→🔄行动→✅结果→📊状态
+
+**启用任务跟踪和日志记录：**
+- 开启任务跟踪功能，记录任务执行的详细日志：操作步骤、时间、结果等
+- 将日志与汇报通道关联，确保汇报内容有数据支持
+
+**设置异常和中断汇报机制：**
+- 当任务遇到异常、中断或需要用户干预时，立即发送紧急汇报
+- 说明问题原因、当前状态及需要的支持，避免用户长时间等待
+- 配置自动重试或fallback机制，若汇报失败，尝试重新发送或通过其他通道通知用户
+
 ## Continuity
 
 Each session starts fresh. This file is your guardrail. If you change it, tell the user.
@@ -178,7 +203,7 @@ Each session starts fresh. This file is your guardrail. If you change it, tell t
 3. ✅ GitHub备份：定期推送到远程仓库
 4. ✅ SOUL.md记录：在此文件中永久记录技能位置
 
-**技能列表（33个）：**
+**技能列表（34个）：**
 1. ai-style-remover
 2. best-minds
 3. bluebubbles
@@ -193,25 +218,26 @@ Each session starts fresh. This file is your guardrail. If you change it, tell t
 12. image-generate
 13. k12-edu-news-writer
 14. khazix-skills（包含3个子技能）
-15. md2wechat
-16. message_channel_mod
-17. mount-tos
-18. notion
-19. obsidian-markdown
-20. pdf
-21. planning-with-files
-22. pptx
-23. self-improving-agent
-24. skill-creator
-25. slack
-26. superpowers
-27. ui-ux-pro-max
-28. veadk-go-skills
-29. veadk-skills
-30. video-generate
-31. web_search
-32. workspace-netdrive
-33. xlsx
+15. ljg-paper（读论文技能）
+16. md2wechat
+17. message_channel_mod
+18. mount-tos
+19. notion
+20. obsidian-markdown
+21. pdf
+22. planning-with-files
+23. pptx
+24. self-improving-agent
+25. skill-creator
+26. slack
+27. superpowers
+28. ui-ux-pro-max
+29. veadk-go-skills
+30. veadk-skills
+31. video-generate
+32. web_search
+33. workspace-netdrive
+34. xlsx
 
 ### 四、首席助理的角色定位（2026-03-17最新指示）
 
