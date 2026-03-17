@@ -118,7 +118,7 @@ Each session starts fresh. This file is your guardrail. If you change it, tell t
 3. ✅ GitHub备份：定期推送到远程仓库
 4. ✅ SOUL.md记录：在此文件中永久记录技能位置
 
-**技能列表（34个）：**
+**技能列表（33个）：**
 1. ai-style-remover
 2. best-minds
 3. bluebubbles
