@@ -105,9 +105,53 @@ Each session starts fresh. This file is your guardrail. If you change it, tell t
 - 任务内容：调用 find-skills 技能去搜索有没有和教育、写作、搜索相关的新技能
 - 推送：将新技能推送给陛下
 
-### 三、技能存储问题
-- 陛下询问：所有技能是不是应该都放在一起，不要分多个地方存储技能？
-- 待处理：需要后续讨论和决定
+### 三、技能仓库位置（2026-03-17更新）
+
+**技能统一存储位置：**
+- `/root/.openclaw/workspace/skills/` - 唯一的技能仓库
+- 所有34个技能都在此目录下
+- 定期同步到GitHub：https://github.com/acefrost511/workmemory
+
+**防止技能丢失的措施：**
+1. ✅ 唯一真实目录：只有 `/root/.openclaw/workspace/skills/`
+2. ✅ Git版本控制：所有变更都有历史记录
+3. ✅ GitHub备份：定期推送到远程仓库
+4. ✅ SOUL.md记录：在此文件中永久记录技能位置
+
+**技能列表（34个）：**
+1. ai-style-remover
+2. best-minds
+3. bluebubbles
+4. configure_channel
+5. configure_model
+6. data-analyst
+7. docx
+8. edu-editor
+9. find-skills
+10. frontend-design
+11. github
+12. image-generate
+13. k12-edu-news-writer
+14. khazix-skills（包含3个子技能）
+15. md2wechat
+16. message_channel_mod
+17. mount-tos
+18. notion
+19. obsidian-markdown
+20. pdf
+21. planning-with-files
+22. pptx
+23. self-improving-agent
+24. skill-creator
+25. slack
+26. superpowers
+27. ui-ux-pro-max
+28. veadk-go-skills
+29. veadk-skills
+30. video-generate
+31. web_search
+32. workspace-netdrive
+33. xlsx
 
 ### 四、其他
 - 其他运作逻辑在过程中再来打磨
