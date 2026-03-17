@@ -1,23 +1,41 @@
 ---
 name: best-minds
-description: 实现"模拟器思维"方法的技能——让Claude采用世界级专家的视角来回答问题
+description: 模拟器思维：不问"你怎么看"，而是问"世界上谁最懂这个？TA 会怎么说？"。触发词：最强大脑、顶级专家、世界级、best minds、谁最懂这个
 author: brucexo
 version: 1.0.0
 homepage: https://github.com/brucexo/skills-collection/tree/main/skills/best-minds
 triggers:
-  - "专家视角"
-  - "世界级专家"
+  - "最强大脑"
+  - "顶级专家"
+  - "世界级"
+  - "best minds"
+  - "谁最懂这个"
 metadata: {"clawdbot":{"emoji":"🧠"}}
 ---
 
-# best-minds - 模拟器思维
+# Best Minds
 
-## 核心理念
-- 不再问"你怎么想"，而是问"世界上谁最了解这个问题？他们会怎么说？"
+> "Don't think of LLMs as entities but as simulators."
+> — Andrej Karpathy
 
-## 功能
-- 让Claude采用世界级专家的视角来回答问题或解决问题
-- 提供更权威和深入的回答
+## 核心
 
-## 安装
-`npx skills add https://github.com/brucexo/skills-collection --skill best-minds`
+不要问 AI "你怎么看"。
+
+要问：**这个问题，世界上谁最懂？TA 会怎么说？**
+
+然后模拟那个人。
+
+## 原则
+
+1. **问题决定人数** — 一个人够就一个，需要碰撞才多个
+2. **找真正最懂的** — 不是找"合适的"，是找"最强的"
+3. **基于真实** — 模拟要基于 TA 公开的思想、著作、言论
+4. **引用原话** — 尽可能用 TA 说过的话
+
+## vs ai-coaches
+
+| ai-coaches | best-minds |
+|------------|------------|
+| 从 13 个预设智者选 | 从全世界找 |
+| 基于关键词匹配 | 基于问题本质 |
