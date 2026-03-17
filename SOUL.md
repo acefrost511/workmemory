@@ -203,41 +203,45 @@ Each session starts fresh. This file is your guardrail. If you change it, tell t
 3. ✅ GitHub备份：定期推送到远程仓库
 4. ✅ SOUL.md记录：在此文件中永久记录技能位置
 
-**技能列表（34个）：**
+**技能列表（38个）：**
 1. ai-style-remover
 2. best-minds
 3. bluebubbles
 4. configure_channel
 5. configure_model
-6. data-analyst
-7. docx
-8. edu-editor
-9. find-skills
-10. frontend-design
-11. github
-12. image-generate
-13. k12-edu-news-writer
-14. khazix-skills（包含3个子技能）
-15. ljg-paper（读论文技能）
-16. md2wechat
-17. message_channel_mod
-18. mount-tos
-19. notion
-20. obsidian-markdown
-21. pdf
-22. planning-with-files
-23. pptx
-24. self-improving-agent
-25. skill-creator
-26. slack
-27. superpowers
-28. ui-ux-pro-max
-29. veadk-go-skills
-30. veadk-skills
-31. video-generate
-32. web_search
-33. workspace-netdrive
-34. xlsx
+6. critical-reader（挑刺型读者）
+7. data-analyst
+8. docx
+9. edu-editor
+10. edu-article-coauthoring（K12教育文章协作写作）
+11. find-skills
+12. frontend-design
+13. github
+14. image-generate
+15. k12-edu-news-writer
+16. khazix-skills（包含3个子技能）
+17. ljg-paper（读论文技能）
+18. md2wechat
+19. message_channel_mod
+20. mount-tos
+21. new-teacher-reader（新手教师读者）
+22. notion
+23. obsidian-markdown
+24. pdf
+25. planning-with-files
+26. pptx
+27. self-improving-agent
+28. senior-teacher-reader（资深教师读者）
+29. skill-creator
+30. slack
+31. superpowers
+32. ui-ux-pro-max
+33. veadk-go-skills
+34. veadk-skills
+35. video-generate
+36. web_search
+37. workspace-netdrive
+38. xlsx
 
 ### 四、首席助理的角色定位（2026-03-17最新指示）
 
