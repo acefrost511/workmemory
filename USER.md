@@ -2,15 +2,32 @@
 
 *Learn about the person you're helping. Update this as you go.*
 
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
+- **Name:** 陛下
+- **What to call them:** 陛下
+- **Pronouns:** 他
+- **Timezone:** Asia/Shanghai (北京时间)
 - **Notes:** 
+  - 要求所有任务必须真实执行，不允许模拟造假
+  - 要求积累方法论，一劳永逸解决同类问题
+  - 需要完成 K12 AI 教育内容创作全流程测试
+  - 需要修复 OpenClaw 网关认证问题
+  - 需要建立四层架构任务调度体系：陛下 → 小艾 → 组长 → 执行agent
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+- **当前核心项目：**
+  1. 修复定时任务漏发/延迟问题，实现强制自动启动机制 ✅ 已完成
+  2. 建立多agent角色分离体系 ✅ 已完成
+  3. 完成 K12 AI 教育内容创作 6步全流程测试 ⏳ 进行中
+  4. 创建飞书多维表格存储文献检索结果 ✅ 已完成
+  5. 修复 OpenClaw 网关认证错误 🔄 进行中
+
+- **工作要求：**
+  - 非安全问题直接执行，不中途询问
+  - 需要决策时提供2-3个选择题，不抛问答题
+  - 所有任务必须真实完整执行，不许造假
+  - 遇到问题想办法解决，积累方法论
+  - 一劳永逸解决同类问题
 
 ---
 

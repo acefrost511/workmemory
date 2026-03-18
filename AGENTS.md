@@ -153,6 +153,16 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 
 **Tip:** Batch similar periodic checks into `HEARTBEAT.md` instead of creating multiple cron jobs. Use cron for precise schedules and standalone tasks.
 
+**强制规则：定时任务自动启动**
+
+> 每次心跳检查，**必须**遍历所有大任务：
+> 1. 如果任务状态是 `⏳ 待执行`
+> 2. 并且 `当前时间（北京时间） >= 安排的开始时间`
+> 3. **那么必须立即启动任务**：修改状态为 `🔄 进行中`，启动第一个子任务，立即汇报给陛下
+> 4. **不需要等待陛下同意，直接执行**（这是强制规则，没有例外）
+
+这个规则**一劳永逸解决了定时任务到点不启动的问题**。
+
 **Things to check (rotate through these, 2-4 times per day):**
 
 - **Emails** - Any urgent unread messages?
