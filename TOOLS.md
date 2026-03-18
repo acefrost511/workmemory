@@ -1,40 +1,22 @@
 # TOOLS.md - Local Notes
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
+Skills define _how_ tools work. This file is for _your_ specifics - the stuff that's unique to this environment.
 
-## What Goes Here
+## edit tool - Important Gotcha
 
-Things like:
+### Problem
+`edit` tool **requires exact text match including all whitespace and newlines**. If the oldText doesn't match _exactly_, the edit will fail.
 
-- Camera names and locations
-- SSH hosts and aliases
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
+### Solution
+1. **Before calling `edit`**: Always `read` the current file content to get the *exact* text
+2. **Copy/paste exactly**: Do not guess or reformat - copy the exact text including:
+   - All spaces
+   - All newlines (line breaks)
+   - Leading/trailing empty lines
+3. **If in doubt**: Use `read` to read the file again, then copy the exact text
+4. **If still failing**: Use `write` to rewrite the entire file instead of `edit`
 
-## Examples
+### Example
+❌ **Bad**: Guess the text based on memory
+✅ **Good**: `read` the file → copy exact text → `edit`
 
-```markdown
-### Cameras
-
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
-
-### SSH
-
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
-
----
-
-Add whatever helps you do your job. This is your cheat sheet.

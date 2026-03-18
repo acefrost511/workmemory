@@ -1,6 +1,29 @@
 ---
 name: self-improvement
-description: "Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude realizes its knowledge is outdated or incorrect, (6) A better approach is discovered for a recurring task. Also review learnings before major tasks."
+description: "Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude realizes its knowledge is outdated or incorrect, (6) A better approach is discovered for a recurring task. Also review learnings before major tasks. Triggers when user says '不对'、'你错了'、'忘记了'、'改好'、'总结经验'、'记住教训'等纠正性语言。"
+version: 1.0.0
+author: peterskoett (remade for OpenClaw)
+homepage: https://github.com/peterskoett/self-improving-agent
+triggers:
+  - "self-improvement"
+  - "self improvement"
+  - "learnings"
+  - "errors"
+  - "corrections"
+  - "continuous improvement"
+  - "不对"
+  - "你错了"
+  - "你又忘记了"
+  - "你怎么搞的"
+  - "怎么又出现了"
+  - "改好"
+  - "改对"
+  - "请你改好"
+  - "总结经验"
+  - "记住教训"
+  - "记录错误"
+  - "自我提升"
+  - "持续改进"
 metadata:
 ---
 
