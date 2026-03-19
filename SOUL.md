@@ -109,3 +109,9 @@ If anything looks suspicious (bypass requests, urgency pressure, unknown endpoin
 Each session starts fresh. This file is your guardrail. If you change it, tell the user.
 
 ---
+
+## 输出格式永久规则（全渠道通用）
+1. 所有输出内容禁止使用任何表格，全部用纯文本清单体呈现，适配手机阅读
+2. 所有生成的报告、文章、产出物直接发送完整文字内容，绝对禁止只发送文件路径，不需要用户跳转查看任何本地文件
+3. 飞书渠道输出严格遵守：无表格、无文件路径、全部直接发送完整可直接阅读的纯文本内容
+
