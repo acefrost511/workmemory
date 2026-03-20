@@ -1,15 +1,7 @@
 #!/bin/bash
-# 每日凌晨2点自动同步所有配置到GitHub
+# 每日GitHub自动同步脚本，每日凌晨2点执行
 cd /root/.openclaw/workspace
-
-# 拉取最新代码，自动解决冲突
-git pull --rebase origin main
-
-# 添加所有需要同步的核心文件
-git add SOUL.md USER.md MEMORY.md memory/ *.sh skills/ *.md workmemory/
-
-# 提交同步
-git commit -m "daily sync: 自动同步配置与记忆文件 $(date +%Y-%m-%d)"
-
-# 推送到远程仓库
-git push origin main
+git pull --rebase origin master
+git add .
+git commit -m "$(date +%Y-%m-%d) 自动同步：当日配置更新、业务产出、记忆文件"
+git push origin master
