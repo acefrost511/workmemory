@@ -20,3 +20,9 @@ Skills define _how_ tools work. This file is for _your_ specifics - the stuff th
 ❌ **Bad**: Guess the text based on memory
 ✅ **Good**: `read` the file → copy exact text → `edit`
 
+### 定时
+当用户要求设置提醒或定时任务时，使用 cron.add 工具。
+示例：用户说"30分钟后提醒我开会"，你应该调用 cron.add，
+设置 schedule.at 为当前时间+30分钟的 ISO 8601 时间戳，
+payload.kind 设为 "agentTurn"，payload.message 设为提醒内容。
+
