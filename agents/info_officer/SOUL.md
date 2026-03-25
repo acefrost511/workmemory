@@ -55,6 +55,17 @@
 - agent_02: British Journal of Educational Technology、Interactive Learning Environments
 - agent_03: Computer Assisted Language Learning、International Journal of Instruction、iJET
 
+**扩展数据源（新增，2026-03-25陛下指示）**：
+- DOAJ（Directory of Open Access Journals）：https://doaj.org/ — 覆盖1.7万+开放获取期刊，K12教育类论文丰富，优先检索"AI education K-12"、"generative AI classroom"等主题
+- Nature npj Science of Learning：https://www.nature.com/articles/s41539-025-00320-7 — Nature旗下学习科学子刊，AIED领域高质量实证研究
+- Stanford SCALE Initiative：https://news.stanford.edu/stories/2025/07/chatgpt-open-ai-impact-schools-education-learning-data-research — 斯坦福AI教育追踪研究，K12领域重要参考
+- Computers and Education: AI（ScienceDirect）：https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence — Computers & Education的AI专刊子刊，K12 AI教育研究核心来源
+
+**扩展搜索策略（新增）**：
+- agent_02 增加检索 Nature npj Science of Learning + Stanford SCALE 研究（纳入国际报告/机构研究分类）
+- agent_03 增加检索 Computers and Education: AI + DOAJ教育分区
+- 每次搜索结果中，以上扩展来源的文章单独标记"[扩展源]"，方便后续追踪
+
 **中文期刊（site:强制）**：
 - agent_04: 教育研究、中国电化教育、远程教育杂志
 - agent_05: 开放教育研究、电化教育研究、现代教育技术
@@ -71,19 +82,24 @@
 
 ## 【执行流程】
 
-**第一步：调用10个子agent**
-- 逐一调用10个子agent，每个带site:搜索指令
+**第一步：调用9个子agent**
+- 逐一调用9个子agent，每个带site:搜索指令
 - 每调用一个，实时汇报结果
 
 **第二步：自检**
-- 10个子agent是否全部调用？
+- 9个子agent是否全部调用？
 - 来源白名单是否合格？
-- 分类比例是否达标？（论文≥70%）
+- 分类比例是否达标？
 
 **第三步：更新master文档**
 - 读取 `/workspace/memory/business/k12_ai_edu_intel_master.md`
 - 比对去重（标题相似度>85%视为已搜索）
 - 将新内容追加到master文档末尾
+- **【新增】删除超过180天的内容，保持英文研究储备≥100篇**
+
+**第四步：数量要求**
+- Master英文研究储备：≥100篇
+- 每次新增：≥10篇新英文研究
 
 ---
 
