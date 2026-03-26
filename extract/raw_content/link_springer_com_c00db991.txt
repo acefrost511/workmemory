@@ -1,6 +1,6 @@
 # Source URL: https://link.springer.com/article/10.1007/s44163-025-00598-x
-# Content Length: 204614 characters
-# Extracted at: 2026-03-24 05:03:34
+# Content Length: 204260 characters
+# Extracted at: 2026-03-27 05:05:36
 #============================================================
 
 
@@ -286,7 +286,7 @@ You have full access to this [open access](https://www.springernature.com/gp/ope
 [Download PDF](/content/pdf/10.1007/s44163-025-00598-x.pdf)
 
 
-[Save article](/article/10.1007/s44163-025-00598-x/save-research?_csrf=d3JE0fGid-q0aYKD-MojwDxa4FYWcf6h)
+[Save article](/article/10.1007/s44163-025-00598-x/save-research?_csrf=H0o3eVAasihZ5wANdb6O0pmnQOXIbpme)
 [View saved research](/saved-research)
 
 
@@ -414,11 +414,9 @@ The following are the ways in which this review study contributes to the AI-base
 
 **Fig. 1**
 
-[![]()](/article/10.1007/s44163-025-00598-x/figures/1)
+![]()[Full size image](/article/10.1007/s44163-025-00598-x/figures/1)
 
 A schematic overview of the pipeline of this systematic literature review for AI-based personalised learning in education system
-
-[Full size image](/article/10.1007/s44163-025-00598-x/figures/1)
 
 2 Method
 --------
@@ -431,11 +429,10 @@ We determined relevant articles for our meta-analysis utilising bibliographic da
 
 **Fig. 2**
 
-[![]()](/article/10.1007/s44163-025-00598-x/figures/2)
+![]()[Full size image](/article/10.1007/s44163-025-00598-x/figures/2)
 
 PRISMA diagram illustrating study selection methods (n = number of articles selected in this review)
 
-[Full size image](/article/10.1007/s44163-025-00598-x/figures/2)
 ### 2.2 Inclusion and exclusion criteria
 
 Inclusion and exclusion criteria have been utilised to restrict the pool of selected articles that resulted from our search. Articles had to be published in English between 2015 and 2025 from prestigious journals and conferences to qualify for inclusion, and studies had to investigate AI-based personalised learning in the education system. The abstracts and introductions of selected articles were examined to assess if the authors described the purpose of the research. In addition, the authors’ solutions to the research question were evaluated in the method and results section. To ensure the quality of the included work, we excluded papers whose methods for personalised learning were assessed to be irrelevant to artificial intelligence techniques. In addition, we excluded studies where the application of their technique for the purpose of personalised learning could not be determined. We concentrate on publications published in high-quality scientific journals and conferences on the subject of education and e-learning. This review, therefore, excludes unpublished dissertations, research reports, non-English studies, and studies that were not adequately reported. Table [2](/article/10.1007/s44163-025-00598-x#Tab2) summarises the inclusion and exclusion criteria. Table [3](/article/10.1007/s44163-025-00598-x#Tab3) lists the journals and conferences considered in this review and the total number of papers from each of these sources.
@@ -472,19 +469,15 @@ Following Tadlaoui et al. [[2](/article/10.1007/s44163-025-00598-x#ref-CR2)], el
 
 **Fig. 3**
 
-[![]()](/article/10.1007/s44163-025-00598-x/figures/3)
+![]()[Full size image](/article/10.1007/s44163-025-00598-x/figures/3)
 
 An AI recommendation system for personalised education system
 
-[Full size image](/article/10.1007/s44163-025-00598-x/figures/3)
-
 **Fig. 4**
 
-[![]()](/article/10.1007/s44163-025-00598-x/figures/4)
+![]()[Full size image](/article/10.1007/s44163-025-00598-x/figures/4)
 
 Number of publications in Scopus with key terms (“Personalized Learning” or “Personalised Learning”) and (“Artificial Intelligence” or “AI”) and “Education”
-
-[Full size image](/article/10.1007/s44163-025-00598-x/figures/4)
 
 According to Chen et al. [[9](/article/10.1007/s44163-025-00598-x#ref-CR9)], a growing number of educational applications of artificial intelligence transcend the conventional concept of AI as a supercomputer by using embedded computer systems. They also believed that AI is advancing at a breakneck pace, and new applications in education are emerging. Individualised education is the goal of AI-based personalised learning, which employs approaches associated with data visualisation techniques, machine learning, semantics, and learning sciences [[9](/article/10.1007/s44163-025-00598-x#ref-CR9)]. For example, AI-based competency learning, which generates crucial student data, can properly identify student perspectives and forecast the relevant competencies they can follow, allowing institutions to respond proactively [[9](/article/10.1007/s44163-025-00598-x#ref-CR9)]. Numerous papers explored and illustrated the educational applicability of AI-based personalised learning. In schools, AI can be utilised to assist with management and training. Further, AI can enhance the learning experience of students, encompassing different educational levels ranging from early childhood education to higher education institutions [[9](/article/10.1007/s44163-025-00598-x#ref-CR9)]. Such modern systems, which are based on AI and cognitive theory, direct students through each stage of a problem solution by providing recommendations and feedback as required from expert-knowledge repositories [[20](/article/10.1007/s44163-025-00598-x#ref-CR20)].
 
@@ -492,11 +485,9 @@ Artificial intelligence in education, according to Xu et al. [[21](/article/10.1
 
 **Fig. 5**
 
-[![]()](/article/10.1007/s44163-025-00598-x/figures/5)
+![]()[Full size image](/article/10.1007/s44163-025-00598-x/figures/5)
 
 The specific applications of AI-powered personalised learning systems that the 125 articles used in this literature review focused on, along with the top 10 corresponding countries of the first authors
-
-[Full size image](/article/10.1007/s44163-025-00598-x/figures/5)
 
 According to Troussas et al. [[22](/article/10.1007/s44163-025-00598-x#ref-CR22)], intelligent and adaptable strategies can provide students with a fresh learning experience. They also discussed that intelligent applications could help encourage personalised and collaborative learning in educational systems. Then, following Chounta et al. [[23](/article/10.1007/s44163-025-00598-x#ref-CR23)], technology-based customised learning is a component of an intelligent learning system that can significantly enhance education. Further, they believed that recently, AI had been utilised as a tool for students to learn through experimenting with AI algorithms or as a technical tool to enable the personalisation of educational experiences and the adaptation of training to individual learners’ needs and objectives. Furthermore, there has been considerable interest in the rise of online teaching tools. The utilisation of AI techniques and the analysis of available big data enables the exploration of learners’ characteristics, resulting in the development of a recommendation system that can provide students with the most pertinent material in higher education while also assisting teachers and content designers [[14](/article/10.1007/s44163-025-00598-x#ref-CR14)]. Following the work described by Maghsudi et al. [[14](/article/10.1007/s44163-025-00598-x#ref-CR14)], we developed Fig. [3](/article/10.1007/s44163-025-00598-x#Fig3) to illustrate an educational system’s recommendation system for personalised learning via the application of AI. Student data can be gathered on academic performance through traditional forms of assignments, such as problem sets, computer programmes, and laboratories, as well as through online activities and assessments, which are more commonly used in higher education [[14](/article/10.1007/s44163-025-00598-x#ref-CR14)]. To establish the policies following Xu et al. [[24](/article/10.1007/s44163-025-00598-x#ref-CR24)], the process can be divided into two stages. In the first stage, a forward-search backwards-induction algorithm is employed to choose candidate course sequence recommendation policies that will result in shorter time-to-graduation. In the second stage, an online regret minimisation learning model is developed to select personalised course sequence recommendation policies from the candidate policies. The aim of this algorithm is to maximize the student’s GPA performance [[24](/article/10.1007/s44163-025-00598-x#ref-CR24)]. To generate AI-based personalised course recommendations, the algorithm learns from the performance of students with diverse backgrounds in specific course sequences and suggests an ideal sequence for new students [[24](/article/10.1007/s44163-025-00598-x#ref-CR24)].
 
@@ -512,11 +503,10 @@ In this section, we review recent computer-based methods and strategies develope
 
 **Fig. 6**
 
-[![]()](/article/10.1007/s44163-025-00598-x/figures/6)
+![]()[Full size image](/article/10.1007/s44163-025-00598-x/figures/6)
 
 The relationship between machine learning and non-machine learning techniques with AI
 
-[Full size image](/article/10.1007/s44163-025-00598-x/figures/6)
 #### 3.2.1 Machine learning-based algorithms
 
 Machine learning could be defined as a process that makes use of an algorithm to make predictions based on prior training and learnings [[32](/article/10.1007/s44163-025-00598-x#ref-CR32)]. Machine learning is a broad term that encompasses both supervised and unsupervised learning techniques [[32](/article/10.1007/s44163-025-00598-x#ref-CR32)]. Deep Learning is a relatively new field of research in machine learning that was established with the purpose of bringing machine learning further to one of its primary objectives, AI [[32](/article/10.1007/s44163-025-00598-x#ref-CR32)]. Table [4](/article/10.1007/s44163-025-00598-x#Tab4) illustrates some examples of machine learning algorithms that have been used to produce intelligent personalised learning. To develop an interactive platform that integrates gesture recognition technology, Junokas et al. [[33](/article/10.1007/s44163-025-00598-x#ref-CR33)] focused on establishing intuitive and tailored learning environments via the use of machine learning techniques. They used the Hierarchical hidden Markov model for gesture detection in order to construct a minimally developed yet adaptive model for tailored user interactions. Following them, while the Hierarchical hidden Markov model is effective in doing typical machine learning tasks, it is particularly adept at modelling movement characteristics.
@@ -638,11 +628,9 @@ Following Wanner et al. [[99](/article/10.1007/s44163-025-00598-x#ref-CR99)], in
 
 **Fig. 7**
 
-[![]()](/article/10.1007/s44163-025-00598-x/figures/7)
+![]()[Full size image](/article/10.1007/s44163-025-00598-x/figures/7)
 
 Engagements factors in online personalised learning applications
-
-[Full size image](/article/10.1007/s44163-025-00598-x/figures/7)
 
 According to El-Sabagh et al. [[112](/article/10.1007/s44163-025-00598-x#ref-CR112)], adaptive e-learning offers significant pedagogical benefits because it fosters student learning, increases students’ motivation, and facilitates knowledge acquisition. We created Fig. [7](/article/10.1007/s44163-025-00598-x#Fig7), based on the findings from [[112](#ref-CR112),[113](#ref-CR113),[114](/article/10.1007/s44163-025-00598-x#ref-CR114)] to illustrate some of the engagement characteristics and advantages associated with online adaptive learning. Adaptive domain modelling entails advanced techniques for assigning appropriate learning activities and units to students to facilitate more subjective learning [[112](/article/10.1007/s44163-025-00598-x#ref-CR112)]. The more flexible the learning material is to the learners’ cognitive needs and capacities, the more successful and precise the content’s teaching potential becomes [[112](/article/10.1007/s44163-025-00598-x#ref-CR112)]. For instance, when studying a domain idea, if a learner with a high level of knowledge obtains a high amount of learning experiences that are inappropriate for his or her level, the learning process may provide unsatisfactory outcomes [[115](/article/10.1007/s44163-025-00598-x#ref-CR115)]. Appropriate user modelling techniques are also important to assist these approaches in meeting the demands of learners in real educational facilities [[116](/article/10.1007/s44163-025-00598-x#ref-CR116)]. Moreover, Gardner et al. [[117](/article/10.1007/s44163-025-00598-x#ref-CR117)] present an analysis of the development of AI for formative evaluation educational assessment by focusing on two key applications: automated essay scoring platforms and computerised adaptive exams, including the big data analytic techniques to machine learning that drive it.
 
@@ -1347,7 +1335,7 @@ Navigation
 * [Legal notice](https://link.springer.com/legal-notice)
 * [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
 
-139.224.66.192
+139.224.211.171
 
 Not affiliated
 

@@ -1,0 +1,979 @@
+# Source URL: https://link.springer.com/article/10.1007/s10758-026-09970-x
+# Content Length: 105846 characters
+# Extracted at: 2026-03-27 05:07:56
+#============================================================
+
+
+
+
+
+
+
+
+
+Beyond Automation: Cultivating Self-Regulated Learning through AI and Reflective Practice | Technology, Knowledge and Learning | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/10758/article&sz=728x90&pos=top&articleid=s10758-026-09970-x)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s10758-026-09970-x)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Technology, Knowledge and Learning](/journal/10758)
+3. Article
+
+Beyond Automation: Cultivating Self-Regulated Learning through AI and Reflective Practice
+=========================================================================================
+
+* Original research
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 24 March 2026
+
+* (2026)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1007/s10758-026-09970-x.pdf)
+
+
+[Save article](/article/10.1007/s10758-026-09970-x/save-research?_csrf=0ti6yxy0hA7hBswLmsYIcXBI1LwHMSzx)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Technology, Knowledge and Learning](/journal/10758)
+[Aims and scope](/journal/10758/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/tknl)
+
+
+
+
+Beyond Automation: Cultivating Self-Regulated Learning through AI and Reflective Practice
+
+[Download PDF](/content/pdf/10.1007/s10758-026-09970-x.pdf)
+
+
+
+
+
+* [Anh-Hong Dang](#auth-Anh_Hong-Dang-Aff1)[1](#Aff1),
+* [Van-Son Huynh](#auth-Van_Son-Huynh-Aff1)[1](#Aff1),
+* [Duc-Danh Nguyen](#auth-Duc_Danh-Nguyen-Aff1)[1](#Aff1) &
+* …
+* [Youngkyun Baek](#auth-Youngkyun-Baek-Aff2) 
+  [ORCID: orcid.org/0000-0002-0434-5810](https://orcid.org/0000-0002-0434-5810)[2](#Aff2)
+
+Show authors
+
+* 44 Accesses
+* [Explore all metrics](/article/10.1007/s10758-026-09970-x/metrics)
+
+
+
+
+Abstract
+--------
+
+This mixed-methods study examines the effects of AI utilization style (ChatGPT as information provider vs. writing partner) and reflection type (group vs. individual) on students’ academic self-regulation (SRL). In a five-week, 2 × 2 factorial design intervention with Vietnamese undergraduates (final matched analytic sample: *n* = 288), quantitative data from the Self-Regulation Questionnaire–Academic (SRQ-A) were analyzed using ANCOVA. The analysis revealed that reflection type significantly influenced identified regulation, with group reflection fostering greater internalization of academic goals. AI utilization style significantly impacted all four regulation types (external, introjected, identified, and intrinsic), indicating that ChatGPT as a writing partner can both heighten performance pressure and foster deeper engagement. No significant between‐group interaction effects emerged, although qualitative themes suggested possible complementarities between reflection and AI use. Thematic analysis of reflective journals and interviews enriched these findings. Individual reflection was found to promote deeper introspection, while group reflection fostered motivation and accountability. Students’ engagement evolved from an initial over-reliance on ChatGPT to more strategic use over time, a development linked to improved prompt literacy and the regulatory role of reflection. While students valued ChatGPT for its speed, they expressed distrust in its accuracy and a strong demand for structured AI literacy education. These findings highlight the need for teacher guidance and metacognitive scaffolds in AI-supported tasks, demonstrating how emerging technologies interact with motivation and self-regulation in complex educational settings.
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Self-Regulated Learning Strategies in Educational Contexts](/subjects/self-regulated-learning-strategies-in-educational-contexts)
+
+1 Introduction
+--------------
+
+The rise of artificial intelligence (AI) tools in education has opened new possibilities for enhancing student learning experiences (Banihashem et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR2)). AI-powered platforms like ChatGPT provide unprecedented support in content generation, personalized feedback, and information retrieval, offering students dynamic and adaptive learning environments (Jin et al., [2023](/article/10.1007/s10758-026-09970-x#ref-CR16)). However, as higher education institutions increasingly integrate AI tools into academic practice, the critical question is no longer just whether AI should be used, but how student-AI interaction can be pedagogically structured to foster deeper aspects of learning (Xiao et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR31)). Understanding their influence on student motivation and learning behaviors has become a pressing issue. In particular, academic self-regulation (SRL), the ability of learners to set goals, monitor their progress, and adjust their strategies, is a critical factor that may be profoundly affected by the integration of AI into educational contexts (Panadero, [2017](/article/10.1007/s10758-026-09970-x#ref-CR24)).
+
+Despite the growing adoption of AI in classrooms, empirical research on how AI tools impact students’ self-regulated learning remains limited (Boulahmel et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR6)). While earlier studies often focused on the technical efficiency of AI, recent scholarship emphasizes the need for a "human-centered agency" in AI-supported SRL models, where instructional design prevents the erosion of student self-efficacy (Lan & Zhou, [2025](/article/10.1007/s10758-026-09970-x#ref-CR19)). Furthermore, the ways in which students interact with AI, whether as passive consumers of information or active co-creators, may influence their motivation and self-regulation skills in different ways (Wu et al., [2026](/article/10.1007/s10758-026-09970-x#ref-CR29)). This study addresses this gap by investigating the pedagogical orchestration of AI, specifically contrasting ‘AI as Information Provider’ with ‘AI as Writing Partner’, to move beyond simple automation toward a co-creative learning synergy.
+
+Reflection, a core component of SRL development, also plays a crucial role in mediating these effects; however, little is known about how different types of reflection (group vs. individual) interact with AI usage styles to influence academic self-regulation (Nguyen & Nguyen, [2025](/article/10.1007/s10758-026-09970-x#ref-CR21)). By examining these complex interactions through a 2 × 2 factorial design, this study provides empirical evidence on how structured student-AI engagement styles facilitate the transition from over-reliance to autonomous, strategic control (Xiao et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR31)).
+
+Crucially, the integration of AI tools profoundly impacts learner autonomy, the capacity of students to take charge of their own learning (Okumus Ceylan, [2021](/article/10.1007/s10758-026-09970-x#ref-CR22)). Within AI-supported environments, students may initially exhibit an over-reliance on generative outputs, treating the technology as a primary source rather than a collaborative partner (Du & Alm, [2024](/article/10.1007/s10758-026-09970-x#ref-CR13)). However, as learners develop metacognitive awareness through structured reflection, they can transition toward more autonomous use, where AI serves as a scaffold for independent thought and strategic goal attainment (Deci & Ryan, [2000](/article/10.1007/s10758-026-09970-x#ref-CR12); Nguyen & Nguyen, [2025](/article/10.1007/s10758-026-09970-x#ref-CR21)). Understanding this progression from dependence to intentional integration is vital for ensuring that AI-enhanced pedagogy empowers students rather than diminishing their agency.
+
+This study addresses these gaps by investigating the motivational effects of AI tool utilization and reflective practices on undergraduate students’ academic self-regulation. Specifically, it examines how two key factors, reflection type (group vs. individual) and AI utilization style (information provider vs. writing partner), affect students’ self-regulated learning processes. By considering both the cognitive and emotional aspects of AI-supported learning, this study seeks to provide a more holistic understanding of how emerging technologies can be harnessed to foster essential academic competencies in higher education.
+
+The significance of this research lies in its timely response to the digital transformation of education and the urgent need to develop evidence-based strategies for integrating AI in ways that support, rather than hinder, student motivation and autonomy. Insights from this study will inform instructional design, contribute to the theoretical development of technology-enhanced SRL models, and offer practical recommendations for educators seeking to use AI tools meaningfully in their classrooms.
+
+Accordingly, this study is guided by the following research questions (RQs):
+
+* RQ 1: How does the type of reflection (Group vs. Individual) affect students’ academic self-regulation?
+* RQ 2: How does the style of AI utilization (AI as Information Provider vs. AI as Writing Partner) impact self-regulated learning?
+* RQ 3: What is the interaction effect between reflection type and AI utilization style on students’ academic self-regulation?
+* RQ 4: How do students perceive the role of AI in their learning process?
+
+Through a mixed-methods approach combining experimental design, survey measures, reflective journals, and qualitative interviews, this study aims to offer a nuanced exploration of the interplay between AI technology, motivational dynamics, and self-regulated learning in contemporary university settings.
+
+2 Review of Related Literature
+------------------------------
+
+The following review synthesizes key theoretical and empirical perspectives on Self-Regulated Learning (SRL), Self-Determination Theory (SDT), learner autonomy, and AI-supported learning, providing the conceptual basis for examining how AI utilization styles shape students’ motivational regulation.
+
+### 2.1 Self-Regulated Learning as a Multidimensional Framework
+
+Self-Regulated Learning, or SRL, is a core framework for understanding the cognitive, motivational, and emotional dimensions of learning. Rather than a fixed trait, SRL is defined as an active, multidimensional process encompassing cognitive, metacognitive, behavioral, and emotional components (Boulahmel et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR6); Panadero, [2017](/article/10.1007/s10758-026-09970-x#ref-CR24)).
+
+Central to this framework is the cyclical model by Zimmerman which outlines the three interrelated phases of forethought, performance, and self-reflection (Kitsantas et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR17); Panadero, [2017](/article/10.1007/s10758-026-09970-x#ref-CR24)). In the forethought phase, learners engage in task analysis and goal setting guided by motivational beliefs. The performance phase involves effort regulation and metacognitive monitoring, while the self-reflection phase focuses on evaluating outcomes and adapting strategies (Zimmerman, [2008](/article/10.1007/s10758-026-09970-x#ref-CR32)). This cycle illustrates how learners act as agents who actively steer their learning processes.
+
+However, sustaining this cycle requires managing competing goals. Complementing Zimmerman, the Dual Processing Model by Boekaerts posits that learners balance a mastery pathway focused on learning and a well-being pathway focused on preventing stress. When students perceive an environment as threatening, potentially due to the uncertainty of novel AI tools, they may prioritize emotional well-being over academic growth. This shifts their self-regulation from learning strategies to coping mechanisms (Boekaerts, [1997](/article/10.1007/s10758-026-09970-x#ref-CR4); Boekaerts & Corno, [2005](/article/10.1007/s10758-026-09970-x#ref-CR5)).
+
+Given this complexity, it is critical to delimit the scope of the current investigation. While acknowledging the breadth of SRL, this study focuses specifically on the motivational dimension. We employ Self-Determination Theory, or SDT, and the Academic Self-Regulation Questionnaire, known as SRQ-A, to operationalize the quality of motivation ranging from controlled to autonomous regulation. This focus allows us to examine how AI utilization styles influence the motivational beliefs that underpin the forethought phase described by Zimmerman and determine which pathway of mastery versus well-being students adopt.
+
+### 2.2 Academic Self-Regulation and Self-Determination Theory
+
+Academic self-regulation refers to learners’ ability to proactively steer their learning process through goal setting, strategy use, and self-motivation. In the context of motivation, self-regulation is often understood via SDT, a broad framework explaining why students engage in academic tasks (Deci & Ryan, [1985](/article/10.1007/s10758-026-09970-x#ref-CR11); Ryan & Deci, [2000](/article/10.1007/s10758-026-09970-x#ref-CR26)).
+
+SDT posits a continuum of motivation ranging from amotivation to extrinsic motivations of varying internalization (external, introjected, identified, and integrated) and finally to intrinsic motivation. Recent advancements in SDT emphasize that the quality of this motivation is not static but dynamically influenced by the learning environment’s support for basic psychological needs: autonomy, competence, and relatedness (Deci & Ryan, [2000](/article/10.1007/s10758-026-09970-x#ref-CR12); Ryan & Deci, [2000](/article/10.1007/s10758-026-09970-x#ref-CR26)).
+
+In digital and AI-enhanced learning contexts, this theoretical lens is particularly pertinent. Chiu et al. ([2024](/article/10.1007/s10758-026-09970-x#ref-CR8)) argue that AI tools can either support or thwart these needs, thereby shaping the user’s regulatory style. For instance, AI that supports autonomy encourages identified and intrinsic regulation, whereas AI that merely dictates solutions may foster external or introjected regulation driven by pressure or guilt (Chiu et al., [2024](/article/10.1007/s10758-026-09970-x#ref-CR8); Xia et al., [2022](/article/10.1007/s10758-026-09970-x#ref-CR30)). Thus, fostering autonomous motivation is not merely about increasing interest but about structuring AI interactions to support the learner’s sense of volition and agency.
+
+Consequently, this study leverages the motivational continuum of SDT to analyze how students internalize their academic behaviors when engaging with differing AI utilization styles. Rather than viewing motivation as a unitary construct, we adopt the differentiated perspective of SDT to capture the subtle shifts in learner agency that occur within AI-supported environments.
+
+### 2.3 Learner Autonomy and Intrinsic Motivation in Higher Education
+
+Learner autonomy, the capacity to take charge of one’s own learning, is intrinsically linked to motivation. When students exercise autonomy, they experience a sense of personal agency which SDT identifies as a key driver of intrinsic motivation. Empirical research confirms this reciprocal relationship where autonomy-supportive environments foster greater engagement and responsibility for learning outcomes (Okumus Ceylan, [2021](/article/10.1007/s10758-026-09970-x#ref-CR22); Ryan & Deci, [2000](/article/10.1007/s10758-026-09970-x#ref-CR26)).
+
+However, the advent of generative AI necessitates a re-conceptualization of autonomy. In digital learning environments, autonomy involves maintaining human agency while interacting with intelligent algorithms. This requires a human-in-the-loop approach where the learner remains the decision-maker rather than ceding control to the machine (Wu et al., [2026](/article/10.1007/s10758-026-09970-x#ref-CR29)).
+
+Crucially, for AI to support rather than displace autonomy, students must develop evaluative judgement. This is the capability to critically assess the quality of AI-generated outputs against one’s own internal standards (Bearman et al., [2024](/article/10.1007/s10758-026-09970-x#ref-CR3)). Without this capacity, students risk cognitive offloading where AI becomes a crutch rather than a scaffold. Thus, fostering autonomy in the AI era means nurturing a form of hybrid agency. Instructors play a pivotal role by designing tasks that require critical engagement, ensuring students use technology to extend their capabilities without compromising their volition (Chiu et al., [2024](/article/10.1007/s10758-026-09970-x#ref-CR8)).
+
+### 2.4 Artificial Intelligence and Self-Regulated Learning in Higher Education
+
+The intersection of Artificial Intelligence and SRL has opened new directions for personalized support and measurement of learners’ regulatory processes (Banihashem et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR2)). In higher education, AI supports SRL primarily through forms such as adaptive systems, prediction, intelligent tutoring systems, and assessment technologies.
+
+Critically, recent scholarship suggests that the impact of AI depends heavily on the specific nature of the student-AI interaction. This study distinguishes between two primary AI utilization styles: AI as an Information Provider and AI as a Writing Partner. This distinction draws on the theoretical difference between simple cognitive offloading and deep metacognitive engagement (Wu et al., [2026](/article/10.1007/s10758-026-09970-x#ref-CR29)).
+
+It is hypothesized that these distinct utilization styles yield divergent motivational regulation outcomes. The Information Provider model functions primarily as a retrieval mechanism where the AI supplies facts or definitions. While this can reduce search costs, it may position the learner in a relatively passive role that limits monitoring and strategic regulation during task engagement (Lan & Zhou, [2025](/article/10.1007/s10758-026-09970-x#ref-CR19)). In contrast, the Writing Partner model places the learner in a dialogic cycle of prompting, evaluating, and refining content, which can elicit metacognitive monitoring and prompt-related strategic decision-making (Nguyen & Nguyen, [2025](/article/10.1007/s10758-026-09970-x#ref-CR21); Xiao et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR31)). From a Self-Determination Theory perspective, such interaction is more likely to support learner agency and the internalization of task engagement by fostering more self-endorsed forms of regulation (Deci & Ryan, [2000](/article/10.1007/s10758-026-09970-x#ref-CR12)). Accordingly, the Writing Partner style is expected to be associated more strongly with identified and intrinsic regulation, whereas the Information Provider style may be more closely associated with controlled forms of regulation (external or introjected), depending on how the task is structured.
+
+Beyond serving as instructional tools, AI systems also enable the collection of trace data which allows researchers to objectively capture learners’ cognitive and metacognitive behaviors in real time (Boulahmel et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR6)). The integration of AI is therefore expected to foster a form of hybrid human-AI regulation in which AI provides timely support to optimize learners’ self-regulatory capacities (Banihashem et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR2); Jin et al., [2023](/article/10.1007/s10758-026-09970-x#ref-CR16)).
+
+3 Methodology
+-------------
+
+This section describes the methodological framework used to investigate the effects of reflection type and AI utilization style on academic self-regulation. It details the research design, participant characteristics, procedural implementation, and the instruments employed across both quantitative and qualitative phases.
+
+4 Research Design
+-----------------
+
+This study adopted an explanatory sequential mixed-methods design (Creswell & Plano Clark, [2018](/article/10.1007/s10758-026-09970-x#ref-CR9)), consisting of two distinct phases: a quantitative phase followed by a qualitative phase. This design was selected to first determine the effects of different reflection types and AI utilization styles on students’ academic self-regulation and subsequently explore the underlying motivational and learning processes through qualitative inquiry.
+
+In the quantitative phase, a 2 × 2 factorial experimental design was employed, manipulating two independent variables: Reflection Type (individual vs. group reflection) and AI Utilization Style (ChatGPT as an information provider vs. ChatGPT as a writing partner). The dependent variable, academic self-regulation, was assessed using pre- and post-tests based on the SRQ-A. This design enabled the investigation of both main effects and interaction effects on students’ academic self-regulatory development.
+
+Following the quantitative phase, qualitative data were collected through students’ written reflections, AI usage artifacts, and semi-structured interviews with selected participants. These data provided deeper insight into the motivational and emotional dynamics underlying AI-supported reflection and self-regulation.
+
+Integration of quantitative and qualitative findings occurred during the interpretation stage, where qualitative results helped explain the mechanisms behind the observed quantitative effects. This explanatory sequential design facilitated a comprehensive understanding of how different reflection types and AI utilization styles influence academic self-regulation, aligning with Creswell and Plano Clark’s ([2018](/article/10.1007/s10758-026-09970-x#ref-CR9)) recommendations for mixed-methods educational research that seeks both breadth and depth. The overall structure of the study is illustrated in Fig. [1](/article/10.1007/s10758-026-09970-x#Fig1), which outlines the explanatory sequential mixed-methods design, including the progression from quantitative experimentation to qualitative exploration and integrated interpretation.
+
+**Fig. 1**
+
+![]()[Full size image](/article/10.1007/s10758-026-09970-x/figures/1)
+
+Explanatory Sequential Mixed Methods Design of the Study
+
+### 4.1 Participants
+
+The study initially recruited 360 undergraduate students enrolled in a study skills course at a large public university in Vietnam. Of these, 288 students provided complete and valid matched pre- and post-intervention data and were included in the final analysis. These students were distributed across eight intact classes and assigned to one of four experimental groups based on the factorial design. To ensure balanced representation, stratified random assignment was used: students were first stratified by class section and then randomly assigned to one of the four conditions. This approach helped control for variability across class groups and instructors. The research protocol was approved by the Institutional Review Board (IRB) at the university attended by the participants prior to any data collection. The composition of the four experimental groups, including reflection type and AI utilization style, is summarized in Table [1](/article/10.1007/s10758-026-09970-x#Tab1).
+
+**Table 1 The four experimental groups were as follows:**
+
+[Full size table](/article/10.1007/s10758-026-09970-x/tables/1)
+
+In terms of technological background, the majority of students were regular users of AI tools (60.5%), while 38.3% reported limited prior use, and only 1.2% had never used AI tools before. Most students also reported frequent use of AI in their academic routines, with 55.8% using AI frequently and 39.8% occasionally.
+
+Students demonstrated diverse self-study habits. About 35.6% studied independently for 5–10 h weekly, 25.4% for 1–5 h, 23.7% for 10–15 h, and 15.3% for more than 15 h. Regarding study methods, 51.6% used a combination of group and solo study, while 46.9% studied alone, and a small proportion (1.5%) studied only in groups.
+
+The reflection type determined whether students engaged in collaborative or independent metacognitive activities. Students in the Group Reflection condition (Groups 2 and 4) collaborated weekly to reflect on learning strategies, AI usage, and group dynamics. Those in Individual Reflection condition (Groups 1 and 3) completed written reflections independently, emphasizing their own learning processes.
+
+### 4.2 Procedure
+
+The intervention spanned five weeks and consisted of structured academic writing tasks supported by AI tools, along with reflective activities tailored to each experimental condition.
+
+In Week 1, students completed pre-test measures, including the SRQ-A to assess baseline levels of academic motivation and emotional engagement. They also attended an orientation session introducing the study purpose, the role of AI tools, and their assigned group condition. Students then completed a short writing task using ChatGPT and submitted an initial reflection aligned with their reflection condition, either individually or collaboratively, to familiarize themselves with the tools, the writing process, and the expectations for reflection throughout the intervention. The AI utilization style referred to the functional role of ChatGPT during students’ writing tasks. In the Writing Partner condition (Groups 1 and 2), students used ChatGPT collaboratively to plan, draft, and revise their essays.
+
+In the Information Provider condition (Groups 3 and 4), ChatGPT was used solely for retrieving facts or clarifying content without contributing to the writing itself. An example of this interaction is shown in Fig. [2](/article/10.1007/s10758-026-09970-x#Fig2), which illustrates how students engaged with ChatGPT to gather information without involving it in composition. To verify the fidelity of experimental conditions, artifacts were collected during the first academic writing task of the intervention. Students were instructed to submit their written output alongside a screenshot of their interaction with ChatGPT. These screenshots served as evidence of how AI was used—either as a Writing Partner or as an Information Provider—based on their assigned condition. This documentation helped confirm that students interpreted and implemented the intended AI usage role accurately during the early phase of the intervention.
+
+**Fig. 2**
+
+![]()[Full size image](/article/10.1007/s10758-026-09970-x/figures/2)
+
+An example of interaction with ChatGPT (Information Provider)
+
+In Weeks 2 and 3, students worked in groups to develop an argumentative essay by selecting a topic, brainstorming key arguments, and outlining their ideas. ChatGPT supported this process according to the assigned utilization style: Groups 1 and 2 used it as a writing partner for idea generation, organization, and revision, whereas Groups 3 and 4 used it only to retrieve factual information or definitions. Reflection practices were also maintained as assigned, with group participants engaging in collaborative discussions and individual participants conducting personal reflections. Although no written reflections were required after Week 1, students were reminded to follow their designated reflection approach throughout the writing process.
+
+In Weeks 4 and 5, students continued drafting and refining their essays, incorporating peer and AI-generated feedback as appropriate. Each group presented its final product in Week 5, while informal reflection continued to encourage critical engagement with writing, AI use, and collaboration. At the end of Week 5, students completed the post-test SRQ-A to assess changes in their academic self-regulation and emotional engagement.
+
+### 4.3 Instruments
+
+To comprehensively examine the effects of reflection type and AI utilization on students’ academic self-regulation, this study employed a mixed-methods approach that integrated both quantitative and qualitative instruments. The tools used included a standardized self-report questionnaire to measure motivational dimensions of self-regulation, a widely accessible AI platform (ChatGPT) to support intervention conditions, reflective journals to elicit students’ introspective insights, and semi-structured interviews to deepen understanding of learner experiences. Each instrument was selected and applied to address specific components of the research questions and to enable triangulation across data sources.
+
+#### 4.3.1 Academic Self-Regulation Questionnaire (SRQ-A)
+
+Academic self-regulation is often examined within the framework of Self-Determination Theory (SDT; Deci & Ryan, [1985](/article/10.1007/s10758-026-09970-x#ref-CR11), [2000](/article/10.1007/s10758-026-09970-x#ref-CR12)). To measure students’ motivational regulation along SDT’s continuum, this study utilized the SRQ-A, a psychometrically validated instrument originally developed by Ryan and Connell ([1989](/article/10.1007/s10758-026-09970-x#ref-CR25)). The SRQ-A is widely used in educational research to examine the quality of students’ motivation along a continuum from external to intrinsic regulation.
+
+The SRQ-A consists of 32 items organized into four distinct domains of motivational regulation:
+
+* External Regulation (9 items): e.g., “Because I’ll be penalized if I don’t.”
+* Introjected Regulation (9 items): e.g., “Because I’ll feel bad about myself if I don’t.”
+* Identified Regulation (7 items): e.g., “Because it’s important to me to work on my classwork.”
+* Intrinsic Motivation (7 items): e.g., “Because I enjoy doing my assignment.”
+
+Each item is rated on a 7‑point Likert scale from 1 (Not at all true) to 7 (Very true), and subscale scores are calculated as the mean of their respective items. Consistent with prior validation studies (Gordeeva et al., [2020](/article/10.1007/s10758-026-09970-x#ref-CR15); Kröner et al., [2017](/article/10.1007/s10758-026-09970-x#ref-CR18)), our analyses focused on the four SRQ‑A subscales rather than a single aggregate score. The SRQ-A was translated into Vietnamese using a translation and back-translation procedure, with discrepancies resolved by two bilingual experts to ensure semantic and conceptual equivalence. A pilot test with five undergraduates led to minor wording adjustments, supporting linguistic and cultural appropriateness. A confirmatory factor analysis (CFA) using maximum likelihood estimation further supported the four-factor structure in the Vietnamese sample, yielding acceptable model fit (χ2/df = 2.45, CFI = 0.92, TLI = 0.91, RMSEA = 0.071 [90% CI 0.065–0.078], SRMR = 0.058) and significant standardized loadings (*p* < .01; 0.62–0.88), confirming construct validity without item removal.
+
+Across international validations, the SRQ‑A has demonstrated moderate to high internal consistency, with Cronbach’s alpha values ranging from 0.75 to 0.88 in the German validation and 0.65 to 0.82 in the Russian validation. The scale also exhibits construct validity through its alignment with SDT’s motivational continuum and simplex structure, indicating that adjacent subscales (e.g., introjected and identified regulation) are more strongly correlated than distant ones (e.g., external and intrinsic motivation). Predictive validity is supported by findings that identified and intrinsic motivation positively correlate with effort, enjoyment, and deeper learning, while external regulation is linked to surface-level engagement or avoidance behaviors.
+
+In this study, the SRQ-A subscales demonstrated strong internal consistency, with Cronbach’s alpha values ranging from 0.877 to 0.935 at both pre- and post-test (see Table [2](/article/10.1007/s10758-026-09970-x#Tab2)). These values are comparable to those reported in prior validation studies, supporting the reliability of the four motivational regulation dimensions in this context. The SRQ-A is adaptable across educational levels—from elementary school to university settings—and has been validated in diverse cultural contexts. In this study, the SRQ-A was administered both before and after the intervention to evaluate changes in students’ academic self-regulation as a function of AI utilization styles and reflection formats.
+
+**Table 2 Reliability of SRL Scale (Cronbach’s Alpha)**
+
+[Full size table](/article/10.1007/s10758-026-09970-x/tables/2)
+#### 4.3.2 ChatGPT
+
+For this study, students utilized the free version of ChatGPT, developed by OpenAI, as their primary AI tool during the intervention. ChatGPT is a widely accessible, large-scale language model capable of generating human-like text responses based on user input. Its functionalities include answering questions, providing explanations, assisting in idea generation, and supporting writing tasks such as drafting, organizing, and revising content.
+
+All participants used the publicly available free version of ChatGPT through the standard web interface. This version lacked advanced features such as persistent memory, file uploads, and retrieval-augmented search, but these limitations were consistent across groups and sufficient for the short, session-based tasks required in both AI utilization conditions. Accordingly, the use of the free version ensured uniform access and consistent functionality across participants.
+
+Students’ interaction with ChatGPT varied systematically depending on their assigned AI utilization style, which was central to the experimental design. Those in the AI as Information Provider condition (Groups 3 and 4) employed ChatGPT primarily to retrieve factual information, offer clarifications, and provide supporting examples. They were instructed to use ChatGPT during the planning stage, such as for content searches or conceptual clarification, but to compose, revise, and evaluate their written work independently. Their engagement followed a linear and non-recursive pattern, emphasizing information retrieval rather than composition.
+
+By contrast, students in the AI as a Writing Partner condition (Groups 1 and 2) were encouraged to engage with ChatGPT throughout the entire writing process. They used it collaboratively for brainstorming, outlining, generating text, and editing. The interaction was dialogic and iterative, involving multiple rounds of prompt-and-response exchanges that supported co-construction of content. This condition simulated an authentic partnership model, where AI served not merely as a source but as a thinking and composing assistant.
+
+To ensure procedural fidelity, students in both conditions received detailed usage guidelines outlining acceptable use according to their group assignment. These instructions included sample prompts, usage boundaries, and weekly reminders. Students were also required to document their ChatGPT interactions via screenshots and written descriptions, which were submitted weekly. These artifacts were later used to verify condition adherence and provided valuable insight into AI engagement strategies.
+
+Figure [3](/article/10.1007/s10758-026-09970-x#Fig3) illustrates these procedural differences. The flowchart clearly contrasts the allowed stages of ChatGPT use between the two groups: students in the Writing Partner condition engaged in recursive, multi-stage interactions during all phases of the writing process, whereas those in the Information Provider condition were limited to discrete use during the planning stage. This visual distinction reinforces the pedagogical boundaries set by the study design and provides a concrete representation of how students were expected to implement their AI strategies.
+
+**Fig. 3**
+
+![]()[Full size image](/article/10.1007/s10758-026-09970-x/figures/3)
+
+Procedural distinctions in ChatGPT use between the two experimental conditions
+
+#### 4.3.3 Reflective Journal
+
+The reflective journal served as a qualitative instrument to capture students’ introspective accounts of their learning behaviors, motivational changes, and interactions with AI tools throughout the intervention. Positioned between the quantitative phase and the semi-structured interviews, the journal enabled students to articulate their internal thought processes and experiences in response to structured prompts aligned with the study’s research questions. These reflections deepened individual awareness, provided personalized insights into the effects of reflection type and AI utilization style on academic self-regulation, and informed the subsequent interview phase by highlighting issues most salient to participants.
+
+The journal entries were collected from each participant prior to the interviews to support self-reflection, and to provide individualized insights that informed follow-up questions during the interview phase. The journal served three core purposes:
+
+1. (1)
+   
+   To allow students to process and internalize their own learning experiences.
+2. (2)
+   
+   To provide contextual narrative explanations for patterns observed in the quantitative data.
+3. (3)
+   
+   To guide and personalize the subsequent semi-structured interviews.
+
+Sample reflective journal prompts included:
+
+* “In what ways did your reflection format (group or individual) help you connect learning to your personal goals?”
+* “How did using AI affect your confidence or critical thinking while working on assignments?”
+* “How did the combination of these two (reflection and AI use) affect your learning, motivation, or writing process?”
+* “What do you think were the most helpful or unhelpful aspects of using AI in your learning?”
+
+Thematic analysis of reflective journal responses was conducted to identify key explanatory themes, complementing the statistical findings from the quantitative phase.
+
+#### 4.3.4 Semi-structured Interview
+
+The semi-structured interview constituted the second phase of qualitative data collection in this explanatory sequential mixed methods design. It followed the reflective journal and was intended to delve deeper into students’ lived experiences, clarifying how and why the observed quantitative outcomes may have occurred.
+
+The interview protocol was developed based on: The four research questions, the ANCOVA results from the quantitative phase, and student responses to the reflective journal.
+
+Each participant was asked a consistent core set of questions, with flexibility for follow-up based on individual journal reflections. The goal was to explore student experiences with reflection and AI use, and how these may have affected motivation, planning, and other dimensions of self-regulated learning.
+
+Interview topics included: Perceptions of the reflection type (group vs. individual); Influence of AI tool usage (writing partner vs. information provider); Interaction between reflection and AI tools; Overall role of AI in learning behavior and motivation. Sample questions included:
+
+* “Do you think your reflection type (group or individual) helped you stay motivated or focused on your academic goals? Why or why not?”
+* “How did your team or you typically use ChatGPT during your assignments?”
+* “How would you describe the experience of using both reflection (group or individual) and ChatGPT (writing partner or information provider) together?”
+
+All interviews were audio-recorded and transcribed verbatim. A thematic analysis approach was used to identify explanatory patterns that added interpretive depth to the quantitative findings and to triangulate results across methods.
+
+### 4.4 Data Collection
+
+To answer the research questions comprehensively, the study collected data from three complementary sources: (1) quantitative surveys, (2) qualitative reflections and interviews, and (3) AI usage artifacts. This multi-source approach aligns with the explanatory sequential mixed-methods design, enhancing both breadth and depth of insight into students’ self-regulated learning development.
+
+#### 4.4.1 Quantitative Data Collection—SRQ-A Pre- and Post-Test
+
+Quantitative data were gathered using the SRQ-A, administered before and after the intervention.
+
+In Week 1, the SRQ-A pre-test was distributed online to all 360 recruited students via Google Forms. In Week 5, the post-test was re-administered to the same cohort, with 298 students completing the survey. After data screening, 288 students who completed both pre- and post-tests with valid responses were retained for analysis. All analyses were conducted on this final matched sample of 288 participants. All responses were anonymized and analyzed using SPSS.
+
+#### 4.4.2 Qualitative Data Collection—Reflection Journals and Interviews
+
+To gain deeper insights, two qualitative sources were collected: reflection journals and semi-structured interviews.
+
+Reflection Journals: Students were invited to complete a structured online journal that included Likert-scale items and open-ended questions about their AI usage, reflection format, and learning motivation. Journals were completed during the intervention and submitted at its conclusion, serving both as a reflective learning scaffold and as qualitative evidence to explain patterns observed in the quantitative data. In total, 32 journal submissions were collected. For the qualitative analysis reported in this manuscript, 26 journal cases were purposively selected based on (a) completeness and clarity of responses, (b) richness and specificity of reflections on AI use and motivation, and (c) variation in SRQ-A change patterns to capture diverse motivational trajectories. The final analytic set of 26 journals was distributed across the four experimental conditions as follows: Writing Partner–Individual Reflection (*n* = 7), Writing Partner–Group Reflection (*n* = 6), Information Provider–Individual Reflection (*n* = 7), and Information Provider–Group Reflection (*n* = 6).
+
+Semi-Structured Interviews: A purposive sample of eight students (two from each experimental group) was selected based on (a) variation in SRL score trajectories, (b) distinct patterns observed in their reflection journals, and (c) representation across the four experimental conditions to ensure maximum variation sampling. The interviews followed a semi‑structured protocol aligned with the research questions and were conducted after the quantitative analysis to support an explanatory mixed‑methods design (Leech & Onwuegbuzie, [2009](/article/10.1007/s10758-026-09970-x#ref-CR20); Tashakkori et al., [2020](/article/10.1007/s10758-026-09970-x#ref-CR28)). Each interview was audio‑recorded, transcribed, and verified for accuracy. To enhance analytic rigor, two researchers independently coded the transcripts, compared interpretations through consensus meetings, and documented decisions through an audit trail and reflexive memos. Analyst triangulation and peer debriefing were used to strengthen credibility and dependability, and the interview findings were integrated with quantitative patterns to support meta‑inferences consistent with mixed‑methods standards.
+
+### 4.5 Data Analysis
+
+Following the implementation of the intervention and data collection, both quantitative and qualitative datasets were systematically analyzed to address the study’s four research questions. The analysis was conducted in two phases, corresponding to the explanatory sequential mixed methods design.
+
+#### 4.5.1 Quantitative Data
+
+To analyze the effects of reflection type and AI utilization style on students’ academic self-regulation (SRL), this study employed a series of Analysis of Covariance (ANCOVA) tests. The primary outcome variable was post-test SRL, measured by the SRQ-A, while pre-test SRL scores served as covariates to control for initial individual differences in motivation and regulation.
+
+The analyses followed a 2 × 2 factorial design. First, one-way ANCOVAs were conducted separately to examine the main effects of (1) reflection type (group vs. individual) and (2) AI utilization style (writing partner vs. information provider) on students’ total SRL and on each of the four subscales: external regulation, introjected regulation, identified regulation, and intrinsic motivation. Next, two-way ANCOVAs were performed to determine potential interaction effects between the two independent variables. All ANCOVA models included the corresponding pre-test subscale scores as covariates. In addition, partial eta squared (η2) values were calculated to interpret effect sizes.
+
+All quantitative analyses were conducted using SPSS version 29. Statistical significance was determined at the *p* < .05 level.
+
+#### 4.5.2 Qualitative Data
+
+To explore students’ experiences with AI utilization styles and reflection formats, this study employed a convergent mixed methods design, moving beyond a simple triangulation of data to achieve a deeper synthesis through integration at the interpretation and reporting level (Fetters et al., [2013](/article/10.1007/s10758-026-09970-x#ref-CR14); Skamagki et al., [2022](/article/10.1007/s10758-026-09970-x#ref-CR27)). While the broader study design aligns with Creswell’s framework (Creswell & Plano Clark, [2018](/article/10.1007/s10758-026-09970-x#ref-CR9)), the integration and analysis of qualitative data were grounded in the typologies and rigorous integration standards proposed by Leech and Onwuegbuzie ([2009](/article/10.1007/s10758-026-09970-x#ref-CR20)). Qualitative data were analyzed using Reflexive Thematic Analysis (Braun & Clarke, [2024](/article/10.1007/s10758-026-09970-x#ref-CR7)), drawing from two complementary sources: reflective journals (*n* = 26) and semi-structured interviews (*n* = 8). Following the recommendations of Onwuegbuzie and Leech ([2006](/article/10.1007/s10758-026-09970-x#ref-CR23)), these data sources were not merely added as supplementary evidence but were integrated through a ‘data linking’ process. Reflective journals provided longitudinal, introspective insights captured during the intervention, while interviews offered retrospective depth. This dual-source approach allowed for "meta-inferences", the synthesis of findings across qualitative and quantitative strands to provide a more comprehensive understanding of the phenomenon (Tashakkori et al., [2020](/article/10.1007/s10758-026-09970-x#ref-CR28)).
+
+All qualitative data were initially collected in Vietnamese and translated into English through a structured verification process to ensure linguistic and conceptual equivalence (Cruchinho et al., [2024](/article/10.1007/s10758-026-09970-x#ref-CR10)). Thematic analysis followed a rigorous six-phase procedure (Braun & Clarke, [2024](/article/10.1007/s10758-026-09970-x#ref-CR7)), enhanced by specific methodological considerations for mixed methods (Leech & Onwuegbuzie, [2009](/article/10.1007/s10758-026-09970-x#ref-CR20)):
+
+1. (1)
+   
+   *Familiarization* Immersing in transcripts and journals through repeated reading.
+2. (2)
+   
+   *Generating initial codes* Coding was conducted both deductively (mapped to research questions) and inductively. This “bimodal coding” strategy (Onwuegbuzie & Leech, [2006](/article/10.1007/s10758-026-09970-x#ref-CR23)) ensured that the analysis remained grounded in the theoretical framework while allowing emergent patterns, such as AI prompt literacy, to surface.
+3. (3)
+   
+   *Searching for themes* Grouping codes into candidate themes reflecting cross-cutting dimensions.
+4. (4)
+   
+   *Reviewing themes* Comparing journal and interview data to ensure representational integrity.
+5. (5)
+   
+   *Defining and naming themes* Developing clear conceptual labels.
+6. (6)
+   
+   *Writing and synthesizing* Producing narratives that integrate participant voices.
+
+To strengthen analytic rigor and transparency (Ahmed et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR1)), the research team maintained an audit trail and conducted regular consensus meetings. ChatGPT was used as an auxiliary tool for organizing codes and testing thematic clarity; however, all final interpretive decisions were made by the researchers to preserve reflexive depth.
+
+The integration of these qualitative findings with quantitative results followed a ‘crossover track’ (Leech & Onwuegbuzie, [2009](/article/10.1007/s10758-026-09970-x#ref-CR20)), where qualitative themes were used to explain the ‘how’ and ‘why’ behind the statistical patterns observed in the SRQ-A data. By preserving the distinction between written and spoken reflections while coding them within a unified framework, this approach achieved a "synergistic integration" that addresses the limitations of using a single-method design (Tashakkori et al., [2020](/article/10.1007/s10758-026-09970-x#ref-CR28)).
+
+### 4.6 Ethical Considerations
+
+All participants provided informed consent. Data was anonymized. Participation was voluntary, with the right to withdraw at any time.
+
+5 Findings and Discussions
+--------------------------
+
+The study revealed nuanced impacts of AI tools on students’ motivation and self-regulation strategies. Findings may inform best practices for integrating AI into higher education, emphasizing reflective learning and adaptive support mechanisms.
+
+### 5.1 Participant Characteristics, SRL Patterns, and Qualitative Insights
+
+As detailed in Sect. [3.2](/article/10.1007/s10758-026-09970-x#Sec9), the analytic sample (*n* = 288) provided a robust baseline for examining the intervention’s impact across diverse initial SRL profiles.
+
+In terms of AI-related perceptions, over half of the participants (51.4%) found AI tools to be “effective,” with another 32.3% rating them as “moderately effective” and 8.7% as “highly effective.” Most students (79.9%) reported that they read, modified, and integrated AI-generated content into their work before use, indicating a relatively critical approach to AI assistance. These patterns provide important context for interpreting students’ engagement with AI tools during the study (see Table [3](/article/10.1007/s10758-026-09970-x#Tab3)).
+
+**Table 3 Demographic and background information of participants**
+
+[Full size table](/article/10.1007/s10758-026-09970-x/tables/3)
+
+Descriptive statistics for SRL scores are presented in Table [4](/article/10.1007/s10758-026-09970-x#Tab4). Among the four conditions, students in the “Writing Partner, Group Reflection” group exhibited the most notable gain in SRL, increasing from a pre-test mean of 4.56 (SD = 1.15) to a post-test mean of 4.72 (SD = 1.14). In contrast, the “Information Provider, Group Reflection” group showed a modest decline from 4.66 to 4.53. The other two groups, both in the individual reflection condition, showed relatively stable SRL scores from pre- to post-intervention.
+
+**Table 4 Descriptive statistics for SRL scores (Pre- and Post-Test)**
+
+[Full size table](/article/10.1007/s10758-026-09970-x/tables/4)
+
+Overall, the mean changes across all groups were modest, highlighting the need for further inferential analysis (e.g., ANCOVA) to determine whether observed differences were statistically significant. Internal consistency for the SRQ-A was satisfactory across all subscales (see Sect. [3.4.1](/article/10.1007/s10758-026-09970-x#Sec12) for detailed reliability statistics).
+
+Qualitative findings, derived from the thematic analysis of journals and interviews, are integrated into the following sections to explain the quantitative patterns through three overarching themes: (1) Depth through Individual Reflection, (2) Social Learning via Group Reflection, and (3) Reflection as a Bridge to Goal Setting.
+
+### 5.2 Evaluating the Effect of Reflection Type on Self-Regulated Learning (RQ1)
+
+This section reports the effects of reflection format (individual vs. group) on students’ academic self-regulation (RQ1), integrating statistical outcomes with explanatory qualitative themes.
+
+As shown in Table [5](/article/10.1007/s10758-026-09970-x#Tab5), the ANCOVA results indicate that reflection type (group versus individual) did not produce statistically significant effects on overall self-regulated learning scores (*F*(1,285) = 0.17, *p* = .684), nor on three of the four motivational subscales: external regulation (*F* = 0.20, *p* = .652), introjected regulation (*F* = 0.59, *p* = .441), and intrinsic motivation (*F* = 2.01, *p* = .158). However, a statistically significant difference was observed for the identified regulation subscale (F = 3.47, *p* = .049), though with a small effect size (partial η2 = 0.010).
+
+**Table 5 ANCOVA results—effect of reflection type on SRL**
+
+[Full size table](/article/10.1007/s10758-026-09970-x/tables/5)
+
+Qualitative analysis provides context for these findings, particularly explaining why group reflection might support identified regulation while individual reflection serves other regulatory functions.
+
+#### 5.2.1 Theme 1: Depth through Individual Reflection
+
+Qualitative findings highlighted how individual reflection offered a unique space for students to engage in deep introspection, self-assessment, and goal regulation. Students reported that reflecting alone enabled them to be more honest and systematic about their learning. As one interview participant shared, “I find individual reflection more effective because it allows me to be honest without being influenced by others. It helps me recognize poor study habits and proactively change, such as by making plans, using mind maps, and setting short-term goals” (INT2). Another noted, “*I find that individual reflection connects the lessons with my personal goals more effectively*” (INT5).
+
+Journal entries consistently echoed this sentiment, describing individual reflection as a tool for clarifying strengths and weaknesses and fostering deliberate goal setting: “Individual reflection is appropriate, helps me systematize, and makes my strengths and weaknesses clearer, though sometimes it lacks motivation or feedback from others” (RJ1, RJ14).
+
+#### 5.2.2 Theme 2: Social Learning via Group Reflection
+
+On the other hand, group reflection emerged as a powerful context for motivation, diverse perspectives, and enhanced peer accountability. One student explained:
+
+> I usually prefer group reflection because it feels much more effective. Discussions make the group more dynamic, bring in diverse perspectives, and create motivation to work. I feel more energized when interacting with peers (INT3).
+
+This aligns with the quantitative finding that group reflection may promote identified regulation, as it helps learners internalize academic tasks as personally meaningful through social comparison and collaborative goal negotiation.
+
+However, a few students also described group reflection as at times less comfortable or productive, especially when group dynamics were imbalanced or when peer discussion inhibited full honesty (RJ5, RJ10). These insights reveal both the strengths and limitations of collaborative formats.
+
+#### 5.2.3 Theme 3: Reflection as a Bridge to Goal Setting
+
+A cross-cutting theme across both formats was that reflection—especially when structured and consistent—served as a bridge to goal setting, helping students translate weekly experiences into long-term learning strategies. Whether through solitary insight or group dialogue, students described how reflection made them more aware of their habits, progress, and values. As one interviewee put it, “*Reflection helps me not just think about the assignment, but where I want to go, why I’m doing it, and how I can get there*” (INT6).
+
+While reflection type showed limited statistical impact on overall SRL, the significant effect on *identified regulation*—combined with qualitative insights—contributes to the growing discourse on AI-supported learning (Nguyen & Nguyen, [2025](/article/10.1007/s10758-026-09970-x#ref-CR21)). Specifically, our findings suggest a complementary model: *Individual reflection* fosters the deep introspection necessary for goal setting (Theme 1), whereas *group reflection* provides the social accountability required to internalize those goals as personally meaningful (Theme 2). This challenges the binary view of ‘individual vs. group’ efficacy, suggesting instead that educators should sequence these formats—using individual reflection for depth and group reflection for motivation—to fully scaffold self-regulated learning in AI environments.
+
+### 5.3 AI Utilization Style and Its Influence on SRL Outcomes (RQ2)
+
+The effects of AI utilization style (Writing Partner vs. Information Provider) on students’ self-regulated learning outcomes (RQ2) are summarized in Table [6](/article/10.1007/s10758-026-09970-x#Tab6).
+
+**Table 6 ANCOVA results—effect of AI utilization style on SRL**
+
+[Full size table](/article/10.1007/s10758-026-09970-x/tables/6)
+
+As presented in Table [6](/article/10.1007/s10758-026-09970-x#Tab6), AI utilization style had a statistically significant effect on overall SRL scores (*F*(1,285) = 10.64, *p* = .0012, η2 = 0.0284), as well as on all four motivational subscales: external regulation (*F* = 13.89, *p* = .0002, η2 = 0.0343), introjected regulation (*F* = 9.89, *p* = .0018, η2 = 0.0273), identified regulation (*F* = 21.99, *p* < .0001, η2 = 0.0563), and intrinsic motivation (*F* = 25.43, *p* < .0001, η2 =0.0570). Although these effect sizes remain modest, they consistently indicate that students using AI as a writing partner reported higher levels of self-regulated effort—whether driven by external expectations, internalized pressure, or personally endorsed goals—compared to those who used AI primarily as an information provider.
+
+Qualitative themes clarify these statistical trends, illustrating how students transitioned from passive reliance to active, strategic partnership with AI.
+
+#### 5.3.1 Theme 4: ChatGPT as a Brainstorming and Drafting Tool
+
+Many students used ChatGPT not as a final answer source but as a tool to support task execution—especially for brainstorming, structuring arguments, and drafting. One student shared:
+
+> I often use ChatGPT to create an outline. Then, I search for and verify the information myself before writing the essay in my own style. This saves time while allowing me to remain active in my writing process (INT3).
+
+Another participant noted:
+
+> I use ChatGPT to suggest essay structures and outlines, then I develop the content in my own way. I also use it to refine sentences for clarity. I do not become dependent because I always double-check the information and never trust ChatGPT 100% (INT8).
+
+This pattern illustrates how AI tools served as a form of scaffolding—enhancing productivity and structure while still requiring active learner engagement.
+
+#### 5.3.2 Theme 5: From Overreliance to Intentionality
+
+Some students, especially early in the intervention, admitted to relying too heavily on ChatGPT for content generation. However, over time, many described a shift toward more thoughtful, deliberate use. This was particularly evident in situations where impending deadlines increased the temptation to overuse AI, thus linking closely to introjected or external regulation. As one student reflected:
+
+> If used improperly, especially close to deadlines, some students may become dependent because there is no time left to verify the content. I think if you set a goal to use it as support from the start, the risk of dependence is reduced (INT1).
+
+This transition, from passive consumption to mindful use, highlights the evolving role of AI within students’ self-regulatory strategies.
+
+#### 5.3.3 Theme 6: Prompt Literacy and Strategic Use
+
+Another key insight involved students’ growing awareness of how the quality of their prompts shaped AI responses. This emerging “prompt literacy” became a critical skill that supported autonomy and deeper learning. One journal entry noted: “*At first, I didn’t know how to ask good questions, so the answers were generic. But later, I learned to ask more specific or layered questions to get what I needed for my topic*” (RJ7). This learning curve transformed students from passive recipients of AI-generated text to active co-constructors of knowledge, enabling more intentional and efficient writing processes.
+
+The finding that the *Writing Partner* condition significantly increased scores across *all* regulatory subscales—from external to intrinsic—is particularly noteworthy. This suggests that interactive AI does not simply replace human effort but intensifies cognitive and motivational engagement (Wu et al., [2026](/article/10.1007/s10758-026-09970-x#ref-CR29)). While the pressure to perform (External/Introjected) increased, the recursive dialogue with AI also fostered a sense of competence and ownership (Identified/Intrinsic) (Theme 4). Qualitative evidence of ‘prompt literacy’ (Theme 6) further explains this mechanism: as students learned to control the AI, they moved from passive dependence to active co-construction, validating the ‘hybrid human-AI regulation’ model proposed by Banihashem et al. ([2025](/article/10.1007/s10758-026-09970-x#ref-CR2)).
+
+### 5.4 Interaction between Reflection Type and AI Utilization Style (RQ3)
+
+This section examines whether the effectiveness of AI utilization style depends on the type of reflection employed (Interaction Effects, RQ3).
+
+As shown in Table [7](/article/10.1007/s10758-026-09970-x#Tab7), the interaction between reflection type and AI utilization style was not statistically significant for any aspect of SRL. Specifically, no interaction effects were found for overall SRL (*F*(1,285) = 1.44, *p* = .232), external regulation (*F* = 0.71, *p* = .402), introjected regulation (*F* = 0.13, *p* = .723), identified regulation (*F* = 0.79, *p* = .376), or intrinsic motivation (*F* = 1.90, *p* = .169).
+
+**Table 7 ANCOVA results—interaction effects between reflection type and AI utilization style**
+
+[Full size table](/article/10.1007/s10758-026-09970-x/tables/7)
+
+Although statistical interactions were absent, qualitative themes reveal subtle procedural interactions, particularly regarding the *sequencing* of reflection and AI use.
+
+#### 5.4.1 Theme 7: Complementary Synergy
+
+Many students described a productive synergy between reflection and AI use, particularly when reflection occurred before interacting with ChatGPT. This sequencing appeared to prime students to use AI more intentionally. As one student described:
+
+> When I reflected first, it helped me focus on what I actually needed. Then ChatGPT became more like a tool to execute my ideas rather than think for me. (RJ5)
+
+Others echoed that starting with reflection enabled them to “ask better questions,” “filter responses more critically,” and maintain clearer academic goals during AI-supported writing.
+
+#### 5.4.2 Theme 8: Interference through Misuse
+
+Conversely, students who used ChatGPT before engaging in reflection often reported less effective learning. Some admitted that AI-generated ideas preempted their own thinking, reducing ownership over their work.
+
+> If I used ChatGPT first, I just followed what it suggested. I didn’t reflect deeply anymore, and sometimes I lost my own voice. (INT6)
+
+This phenomenon—described by several students as “copy-paste temptation” or “mental shortcutting”—suggests that the sequencing and intention behind tool use matters significantly.
+
+#### 5.4.3 Theme 9: Regulation through Reflection
+
+Reflection was also consistently cited as a moderating mechanism that helped students regulate their use of AI. For many, reflective writing served as a “reality check” after AI interaction, helping them question their reliance on AI-generated content.
+
+> After using ChatGPT, my journal helped me look back and decide whether I had learned or just finished the task. (RJ3)
+
+This regulating function of reflection contributed to a growing awareness of how to balance AI support with personal effort—an important outcome not captured in the quantitative measures.
+
+The absence of statistical interaction suggests that reflection and AI tools may function as independent but additive scaffolds rather than interdependent variables in a short-term intervention. However, the qualitative insights (Themes 7–9) point to a critical pedagogical nuance: temporal sequencing. Students reported that reflection was most effective when it *preceded* AI use (priming intentionality) or *followed* it (checking reliance), rather than occurring simultaneously. This contributes a practical design principle for AI-integrated curricula: educators should structure reflection not just as a parallel activity, but as a ’bookend’ mechanism—scaffolding the start and end of AI tasks to preserve learner agency (Xiao et al., [2025](/article/10.1007/s10758-026-09970-x#ref-CR31)).
+
+### 5.5 Perceptions and Patterns of AI Use in Academic Learning (RQ4)
+
+Table [8](/article/10.1007/s10758-026-09970-x#Tab8) summarizes students’ primary purposes for using AI during the intervention (RQ4).
+
+**Table 8 Frequency and percentage—AI usage purposes**
+
+[Full size table](/article/10.1007/s10758-026-09970-x/tables/8)
+
+These descriptive statistics reveal that students most often turned to AI for on-demand fact‐finding (87.9%), followed by self-study support (75.5%) and assignment completion (62.9%). Substantial use for data analysis (75.2%) and presentation preparation (51.0%) further underscores AI’s role as a practical scaffold across a range of academic tasks. Collectively, these patterns suggest that learners primarily viewed AI tools as functional resources to streamline workload and access content quickly, rather than as creative collaborators or emotional motivators.
+
+Qualitative themes further contextualize these usage patterns, highlighting the tension between AI’s functional utility and the need for critical literacy.
+
+#### 5.5.1 Theme 10: AI as a Double-Edged Tool
+
+Students broadly appreciated AI for speed, structure, and on-demand access to information. However, they also described its limitations, especially issues of accuracy, tone, and overgeneralization, which reduced their trust in AI as a learning partner. One student described ChatGPT as “*very helpful but sometimes too confident with wrong information,*” noting that “*it lacks the emotional tone or nuance I expect in good writing*” (INT2). Another explained: “*AI is fast, but that doesn’t mean it’s smart. I need to be smart to use it properly*” (RJ17).
+
+#### 5.5.2 Theme 11: Desire for AI Literacy Education
+
+Across both interviews and journals, students repeatedly called for explicit instruction in AI use, particularly how to craft prompts, validate responses, and use AI ethically in academic settings. Many felt underprepared for integrating AI into their workflow: “*We should be taught how to write better prompts, not just use AI as a shortcut,*” one student argued (INT6). This reflects a growing recognition that effective AI use requires metacognitive and critical thinking skills, not just technical access.
+
+#### 5.5.3 Theme 12: Reflection Guides Sustainable AI Use
+
+Perhaps most critically, students indicated that their reflective practice influenced how they used AI. Several described shifting from early overreliance toward more strategic and balanced integration—especially after reflecting on goal alignment, authentic voice, and the limits of AI-generated text. “*I used to just accept whatever ChatGPT gave me, but after reflecting, I realized I should be more selective,*” one student explained (RJ14). Another added: “*Reflection helped me set boundaries—AI is not my writer; it’s my assistant*” (INT1).
+
+Interpretation and Contribution: The disconnect between high AI usage frequency (Table [8](/article/10.1007/s10758-026-09970-x#Tab8)) and variable SRL outcomes underscores a critical insight: access does not equal agency. While students widely adopted AI for efficiency (Theme 10), true self-regulation only emerged when they developed specific “AI literacies”, such as prompt engineering and critical verification (Theme 11), and engaged in metacognitive reflection to set boundaries (Theme 12). This implies that future AI integration frameworks must prioritize explicit literacy instruction alongside tool access to prevent passive consumption and foster genuine intellectual partnership (Lan & Zhou, [2025](/article/10.1007/s10758-026-09970-x#ref-CR19)).
+
+6 Conclusions and Further Study
+-------------------------------
+
+This study investigated the impact of two instructional variables, namely reflection type (group vs. individual) and AI utilization style (ChatGPT as writing partner vs. information provider), on undergraduate students’ academic self-regulation in a real-world classroom context. Using an explanatory sequential mixed methods design, we combined ANCOVA-based quantitative analysis with thematic analysis of student interviews and reflective journals to gain both breadth and depth into their motivational and metacognitive experiences.
+
+AI utilization style significantly impacted all four regulation types, including external, introjected, identified, and intrinsic regulations, indicating that ChatGPT as a writing partner can both heighten performance pressure and foster deeper engagement. These results align with the comparative analysis of Wu et al. ([2026](/article/10.1007/s10758-026-09970-x#ref-CR29)), which suggests that general-purpose AI platforms like ChatGPT can uniquely support higher-order self-regulatory skills when utilized beyond mere information retrieval. No significant interaction effects were found between the two variables, though descriptive patterns pointed to differential trends across groups. These patterns were contextualized and deepened by qualitative analysis, which highlighted that individual reflection encouraged introspection and goal planning, while group reflection fostered accountability and relevance through social learning. Students initially over-relied on AI, but many eventually adopted more intentional use. Reflection served as a regulatory mechanism, reducing passive AI dependence, and a growing awareness of prompt literacy emerged as key to meaningful AI engagement. Together, these findings point to a pedagogically significant synergy between structured reflection and thoughtful AI integration, even when some outcomes did not reach statistical significance.
+
+The results affirm core tenets of Self-Determination Theory (Deci & Ryan, [1985](/article/10.1007/s10758-026-09970-x#ref-CR11), [2000](/article/10.1007/s10758-026-09970-x#ref-CR12)). While AI use promoted both externally controlled motives (external, introjected) and more autonomous motives (identified, intrinsic), group-based reflection specifically nurtured identified regulation through social engagement, aligning learning tasks with personal values and long-term goals. This shift toward more autonomous forms of regulation mirrors the relationship between learner autonomy and motivation observed by Okumus Ceylan ([2021](/article/10.1007/s10758-026-09970-x#ref-CR22)), and reinforces Du and Alm’s ([2024](/article/10.1007/s10758-026-09970-x#ref-CR13)) assertion that AI tools can either hinder or support students’ inherent need for competence and agency depending on the interaction style. The study also extends the work of Nguyen and Nguyen ([2025](/article/10.1007/s10758-026-09970-x#ref-CR21)), who observed that reflective practices can mediate the effects of technology on student agency and regulation. Here, students often used reflection to reframe or refine their AI engagement, particularly when reflection preceded tool use. In this way, the reflective structure not only supported learning but acted as a critical filter for AI interaction quality.
+
+Further, this study reinforces findings from Lan and Zhou ([2025](/article/10.1007/s10758-026-09970-x#ref-CR19)) that effective AI-supported SRL requires intentional design, including scaffolding and guidance. Students in our study expressed a clear need for AI literacy instruction, especially in areas like ethical use, prompt crafting, and content verification, echoing calls from prior research for structured integration of AI into academic curricula. The challenges our students faced, and their subsequent development align with the findings of Xiao et al. ([2025](/article/10.1007/s10758-026-09970-x#ref-CR31)), who documented novice programmers’ initial struggles with generating pedagogical prompts for ChatGPT. Our study found a similar developmental process in undergraduate learners, where initial passive or exploratory use of AI tools evolved into a more intentional, metacognitive approach to AI-supported writing.
+
+Building on the quantitative and qualitative findings, this study offers several practical recommendations for integrating generative AI tools into higher education in ways that support motivation and self-regulated learning rather than mere automation. The following points summarize concrete design principles that instructors can apply when orchestrating AI-supported tasks in their courses:
+
+* Pair AI-supported tasks with structured reflection prompts (individual and/or group) that guide goal alignment, clarify boundaries for AI as an assistant rather than a surrogate author, and foster metacognitive monitoring of AI use.
+* Provide explicit AI and prompt literacy instruction, including how to craft specific, layered, and follow-up prompts and how to iteratively refine prompts to support strategic, autonomous learning instead of superficial answer seeking.
+* Teach students to critically evaluate and verify AI outputs (e.g., accuracy, tone, overgeneralization) and require them to cross-check information with external sources rather than accepting responses at face value.
+* Emphasize ethical AI use as a core digital literacy skill, including maintaining students’ authentic voice, avoiding “shortcut” uses that bypass learning, and adhering to clear, task-appropriate acceptable-use guidelines.
+* Sequence and scaffold the integration of AI and reflection within learning activities so that students gradually move from early over-reliance toward intentional, balanced use of AI over time.
+* Design for learner agency rather than mere access, by highlighting that the educational value of AI emerges from instructional support, reflection, and learner choice instead of simply from making the tool available.
+
+This study was conducted in a specific educational setting, specifically Vietnamese undergraduate classrooms, with an intact class design. Results may not be generalizable to other contexts or age groups without further validation. Furthermore, a notable boundary condition of this research is the use of the free version of ChatGPT, which lacks advanced features such as persistent conversational memory, retrieval-augmented generation (RAG), and the ability to process external source files across multiple prompts. Future studies investigating more advanced LLMs with these capabilities may find that the observed patterns of self-regulation, specifically the shift from over-reliance to autonomous control, are significantly enhanced or even altered. As highlighted by Boulahmel et al. ([2025](/article/10.1007/s10758-026-09970-x#ref-CR6)), future research could further integrate trace data from these advanced platforms to provide more objective, real-time measurements of this regulatory progression.
+
+Additionally, while the statistical interaction effect between reflection and AI use was not significant, future studies with longer durations or longitudinal tracking may capture deeper developmental trends. Follow-up research could explore the long-term effects of reflection-AI combinations on SRL growth; examine discipline-specific differences in AI-supported learning strategies; investigate the design of automated reflective scaffolds integrated directly into AI tools; and expand qualitative inquiry into students’ emotional and ethical concerns regarding AI use. Ultimately, this study suggests that the true educational value of AI tools emerges not from automation but from their thoughtful orchestration within reflective, learner-centered pedagogy that addresses the broader potential of AI in education discussed by Banihashem et al. ([2025](/article/10.1007/s10758-026-09970-x#ref-CR2)) and Jin et al. ([2023](/article/10.1007/s10758-026-09970-x#ref-CR16)).
+
+
+
+References
+----------
+
+* Ahmed, S. K., Mohammed, R. A., Nashwan, A. J., Ibrahim, R. H., Abdalla, A. Q., Ameen, B. M. M., & Khdhir, R. M. (2025). Using thematic analysis in qualitative research. *Journal of Medicine, Surgery, and Public Health*, *6*, 100198. <https://doi.org/10.1016/j.glmedi.2025.100198>
+  
+  [Article](https://doi.org/10.1016%2Fj.glmedi.2025.100198) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20thematic%20analysis%20in%20qualitative%20research&journal=Journal%20of%20Medicine%2C%20Surgery%2C%20and%20Public%20Health&doi=10.1016%2Fj.glmedi.2025.100198&volume=6&publication_year=2025&author=Ahmed%2CSK&author=Mohammed%2CRA&author=Nashwan%2CAJ&author=Ibrahim%2CRH&author=Abdalla%2CAQ&author=Ameen%2CBMM&author=Khdhir%2CRM)
+* Banihashem, S. K., Bond, M., Bergdahl, N., Khosravi, H., & Noroozi, O. (2025). A systematic mapping review at the intersection of artificial intelligence and self-regulated learning. *International Journal of Educational Technology in Higher Education*, *22*(1), 50. <https://doi.org/10.1186/s41239-025-00548-8>
+  
+  [Article](https://link.springer.com/doi/10.1186/s41239-025-00548-8) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20systematic%20mapping%20review%20at%20the%20intersection%20of%20artificial%20intelligence%20and%20self-regulated%20learning&journal=International%20Journal%20of%20Educational%20Technology%20in%20Higher%20Education&doi=10.1186%2Fs41239-025-00548-8&volume=22&issue=1&publication_year=2025&author=Banihashem%2CSK&author=Bond%2CM&author=Bergdahl%2CN&author=Khosravi%2CH&author=Noroozi%2CO)
+* Bearman, M., Tai, J., Dawson, P., Boud, D., & Ajjawi, R. (2024). Developing evaluative judgement for a time of generative artificial intelligence. *Assessment & Evaluation in Higher Education*, *49*(6), 893–905. <https://doi.org/10.1080/02602938.2024.2335321>
+  
+  [Article](https://doi.org/10.1080%2F02602938.2024.2335321) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Developing%20evaluative%20judgement%20for%20a%20time%20of%20generative%20artificial%20intelligence&journal=Assessment%20%26%20Evaluation%20in%20Higher%20Education&doi=10.1080%2F02602938.2024.2335321&volume=49&issue=6&pages=893-905&publication_year=2024&author=Bearman%2CM&author=Tai%2CJ&author=Dawson%2CP&author=Boud%2CD&author=Ajjawi%2CR)
+* Boekaerts, M. (1997). Self-regulated learning: A new concept embraced by researchers, policy makers, educators, teachers, and students. *Learning and Instruction*, *7*(2), 161–186. <https://doi.org/10.1016/S0959-4752(96)00015-1>
+  
+  [Article](https://doi.org/10.1016%2FS0959-4752%2896%2900015-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Self-regulated%20learning%3A%20A%20new%20concept%20embraced%20by%20researchers%2C%20policy%20makers%2C%20educators%2C%20teachers%2C%20and%20students&journal=Learning%20and%20Instruction&doi=10.1016%2FS0959-4752%2896%2900015-1&volume=7&issue=2&pages=161-186&publication_year=1997&author=Boekaerts%2CM)
+* Boekaerts, M., & Corno, L. (2005). Self-regulation in the classroom: A perspective on assessment and intervention. *Applied Psychology: An International Review*, *54*(2), 199–231. <https://doi.org/10.1111/j.1464-0597.2005.00205.x>
+  
+  [Article](https://doi.org/10.1111%2Fj.1464-0597.2005.00205.x) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Self-regulation%20in%20the%20classroom%3A%20A%20perspective%20on%20assessment%20and%20intervention&journal=Applied%20Psychology%3A%20An%20International%20Review&doi=10.1111%2Fj.1464-0597.2005.00205.x&volume=54&issue=2&pages=199-231&publication_year=2005&author=Boekaerts%2CM&author=Corno%2CL)
+* Boulahmel, A., Djelil, F., & Smits, G. (2025). Investigating self-regulated learning measurement based on trace data: A systematic literature review. *Technology, Knowledge and Learning*, *30*(1), 119–156. <https://doi.org/10.1007/s10758-025-09816-y>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10758-025-09816-y) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Investigating%20self-regulated%20learning%20measurement%20based%20on%20trace%20data%3A%20A%20systematic%20literature%20review&journal=Technology%2C%20Knowledge%20and%20Learning&doi=10.1007%2Fs10758-025-09816-y&volume=30&issue=1&pages=119-156&publication_year=2025&author=Boulahmel%2CA&author=Djelil%2CF&author=Smits%2CG)
+* Braun, V., & Clarke, V. (2024). Supporting best practice in reflexive thematic analysis reporting in Palliative Medicine: A review of published research and introduction to the Reflexive Thematic Analysis Reporting Guidelines (RTARG). *Palliative Medicine*, *38*(6), 608–616. <https://doi.org/10.1177/02692163241234800>
+  
+  [Article](https://doi.org/10.1177%2F02692163241234800) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Supporting%20best%20practice%20in%20reflexive%20thematic%20analysis%20reporting%20in%20Palliative%20Medicine%3A%20A%20review%20of%20published%20research%20and%20introduction%20to%20the%20Reflexive%20Thematic%20Analysis%20Reporting%20Guidelines%20%28RTARG%29&journal=Palliative%20Medicine&doi=10.1177%2F02692163241234800&volume=38&issue=6&pages=608-616&publication_year=2024&author=Braun%2CV&author=Clarke%2CV)
+* Chiu, T. K. F., Moorhouse, B. L., Chai, C. S., & Ismailov, M. (2024). Teacher support and student motivation to learn with Artificial Intelligence (AI) based chatbot. *Interactive Learning Environments*, *32*(7), 3240–3256. <https://doi.org/10.1080/10494820.2023.2172044>
+  
+  [Article](https://doi.org/10.1080%2F10494820.2023.2172044) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teacher%20support%20and%20student%20motivation%20to%20learn%20with%20Artificial%20Intelligence%20%28AI%29%20based%20chatbot&journal=Interactive%20Learning%20Environments&doi=10.1080%2F10494820.2023.2172044&volume=32&issue=7&pages=3240-3256&publication_year=2024&author=Chiu%2CTKF&author=Moorhouse%2CBL&author=Chai%2CCS&author=Ismailov%2CM)
+* Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and conducting mixed methods research* (3rd ed.). Sage Publications.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Designing%20and%20conducting%20mixed%20methods%20research&publication_year=2018&author=Creswell%2CJW&author=Plano%20Clark%2CVL)
+* Cruchinho, P., López-Franco, M. D., Capelas, M. L., Almeida, S., Bennett, P. M., da Miran Silva, M., Teixeira, G., Nunes, E., Lucas, P., & Gaspar, F. (2024). Translation, cross-cultural adaptation, and validation of measurement instruments: A practical guideline for novice researchers. *Journal of Multidisciplinary Healthcare*, *17*, 2701–2728. <https://doi.org/10.2147/JMDH.S419714>
+  
+  [Article](https://doi.org/10.2147%2FJMDH.S419714) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Translation%2C%20cross-cultural%20adaptation%2C%20and%20validation%20of%20measurement%20instruments%3A%20A%20practical%20guideline%20for%20novice%20researchers&journal=Journal%20of%20Multidisciplinary%20Healthcare&doi=10.2147%2FJMDH.S419714&volume=17&pages=2701-2728&publication_year=2024&author=Cruchinho%2CP&author=L%C3%B3pez-Franco%2CMD&author=Capelas%2CML&author=Almeida%2CS&author=Bennett%2CPM&author=Miran%20Silva%2CM&author=Teixeira%2CG&author=Nunes%2CE&author=Lucas%2CP&author=Gaspar%2CF)
+* Deci, E. L., & Ryan, R. M. (1985). *Intrinsic motivation and self-determination in human behavior*. Plenum.
+  
+  [Book](https://link.springer.com/doi/10.1007/978-1-4899-2271-7) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intrinsic%20motivation%20and%20self-determination%20in%20human%20behavior&doi=10.1007%2F978-1-4899-2271-7&publication_year=1985&author=Deci%2CEL&author=Ryan%2CRM)
+* Deci, E. L., & Ryan, R. M. (2000). The “what” and “why” of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, *11*(4), 227–268. <https://doi.org/10.1207/S15327965PLI1104_01>
+  
+  [Article](https://doi.org/10.1207%2FS15327965PLI1104_01) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20%E2%80%9Cwhat%E2%80%9D%20and%20%E2%80%9Cwhy%E2%80%9D%20of%20goal%20pursuits%3A%20Human%20needs%20and%20the%20self-determination%20of%20behavior&journal=Psychological%20Inquiry&doi=10.1207%2FS15327965PLI1104_01&volume=11&issue=4&pages=227-268&publication_year=2000&author=Deci%2CEL&author=Ryan%2CRM)
+* Du, J., & Alm, A. (2024). The impact of ChatGPT on English for Academic Purposes (EAP) students’ language learning experience: A self-determination theory perspective. *Education Sciences*, *14*(7), 726. <https://doi.org/10.3390/educsci14070726>
+  
+  [Article](https://doi.org/10.3390%2Feducsci14070726) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20impact%20of%20ChatGPT%20on%20English%20for%20Academic%20Purposes%20%28EAP%29%20students%E2%80%99%20language%20learning%20experience%3A%20A%20self-determination%20theory%20perspective&journal=Education%20Sciences&doi=10.3390%2Feducsci14070726&volume=14&issue=7&publication_year=2024&author=Du%2CJ&author=Alm%2CA)
+* Fetters, M. D., Curry, L. A., & Creswell, J. W. (2013). Achieving integration in mixed methods designs—Principles and practices. *Health Services Research*, *48*(6pt2), 2134–2156. <https://doi.org/10.1111/1475-6773.12117>
+  
+  [Article](https://doi.org/10.1111%2F1475-6773.12117) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Achieving%20integration%20in%20mixed%20methods%20designs%E2%80%94Principles%20and%20practices&journal=Health%20Services%20Research&doi=10.1111%2F1475-6773.12117&volume=48&issue=6pt2&pages=2134-2156&publication_year=2013&author=Fetters%2CMD&author=Curry%2CLA&author=Creswell%2CJW)
+* Gordeeva, T. O., Sychev, O. A., & Lynch, M. F. (2020). The construct validity of the Russian version of the modified Academic Self‑Regulation Questionnaire (SRQ‑A) among elementary and middle school children. *Psychology in Russia: State of the Art*, *13*(3), 113–131. <https://doi.org/10.11621/pir.2020.0308>
+  
+  [Article](https://doi.org/10.11621%2Fpir.2020.0308) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20construct%20validity%20of%20the%20Russian%20version%20of%20the%20modified%20Academic%20Self%E2%80%91Regulation%20Questionnaire%20%28SRQ%E2%80%91A%29%20among%20elementary%20and%20middle%20school%20children&journal=Psychology%20in%20Russia%3A%20State%20of%20the%20Art&doi=10.11621%2Fpir.2020.0308&volume=13&issue=3&pages=113-131&publication_year=2020&author=Gordeeva%2CTO&author=Sychev%2COA&author=Lynch%2CMF)
+* Jin, S. H., Im, K., Yoo, M., Roll, I., & Seo, K. (2023). Supporting students’ self-regulated learning in online learning using artificial intelligence applications. *International Journal of Educational Technology in Higher Education*, *20*(1), 37. <https://doi.org/10.1186/s41239-023-00406-5>
+  
+  [Article](https://link.springer.com/doi/10.1186/s41239-023-00406-5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Supporting%20students%E2%80%99%20self-regulated%20learning%20in%20online%20learning%20using%20artificial%20intelligence%20applications&journal=International%20Journal%20of%20Educational%20Technology%20in%20Higher%20Education&doi=10.1186%2Fs41239-023-00406-5&volume=20&issue=1&publication_year=2023&author=Jin%2CSH&author=Im%2CK&author=Yoo%2CM&author=Roll%2CI&author=Seo%2CK)
+* Kitsantas, A., Bembenutty, H., Cleary, T. J., Alexander, P. A., DiBenedetto, M. K., Kaplan, A., Kolovelonis, A., Mandell, B. E., Martin, A. J., McCrudden, M. T., Panadero, E., Salisbury-Glennon, J. D., & Schunk, D. H. (2025). Barry J. Zimmerman’s enduring legacy: The inspiring fusion of self-regulated learning theory, practice, and mentorship. *Educational Psychology Review*, *37*(3), 78. <https://doi.org/10.1007/s10648-025-10052-0>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10648-025-10052-0) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Barry%20J.%20Zimmerman%E2%80%99s%20enduring%20legacy%3A%20The%20inspiring%20fusion%20of%20self-regulated%20learning%20theory%2C%20practice%2C%20and%20mentorship&journal=Educational%20Psychology%20Review&doi=10.1007%2Fs10648-025-10052-0&volume=37&issue=3&publication_year=2025&author=Kitsantas%2CA&author=Bembenutty%2CH&author=Cleary%2CTJ&author=Alexander%2CPA&author=DiBenedetto%2CMK&author=Kaplan%2CA&author=Kolovelonis%2CA&author=Mandell%2CBE&author=Martin%2CAJ&author=McCrudden%2CMT&author=Panadero%2CE&author=Salisbury-Glennon%2CJD&author=Schunk%2CDH)
+* Kröner, J., Goussios, C., Schaitz, C., Streb, J., & Sosic‑Vasic, Z. (2017). The construct validity of the German Academic Self‑regulation Questionnaire (SRQ‑A) within primary and secondary school children. *Frontiers in Psychology*, *8*, 1032. <https://doi.org/10.3389/fpsyg.2017.01032>
+  
+  [Article](https://doi.org/10.3389%2Ffpsyg.2017.01032) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20construct%20validity%20of%20the%20German%20Academic%20Self%E2%80%91regulation%20Questionnaire%20%28SRQ%E2%80%91A%29%20within%20primary%20and%20secondary%20school%20children&journal=Frontiers%20in%20Psychology&doi=10.3389%2Ffpsyg.2017.01032&volume=8&publication_year=2017&author=Kr%C3%B6ner%2CJ&author=Goussios%2CC&author=Schaitz%2CC&author=Streb%2CJ&author=Sosic%E2%80%91Vasic%2CZ)
+* Lan, M., & Zhou, X. (2025). A qualitative systematic review on AI empowered self-regulated learning in higher education. *NPJ Science of Learning*, *10*(1), Article 21. <https://doi.org/10.1038/s41539-025-00319-0>
+  
+  [Article](https://doi.org/10.1038%2Fs41539-025-00319-0) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20qualitative%20systematic%20review%20on%20AI%20empowered%20self-regulated%20learning%20in%20higher%20education&journal=NPJ%20Science%20of%20Learning&doi=10.1038%2Fs41539-025-00319-0&volume=10&issue=1&publication_year=2025&author=Lan%2CM&author=Zhou%2CX)
+* Leech, N. L., & Onwuegbuzie, A. J. (2009). A typology of mixed methods research designs. *Quality & Quantity*, *43*(2), 265–275. <https://doi.org/10.1007/s11135-007-9105-3>
+  
+  [Article](https://link.springer.com/doi/10.1007/s11135-007-9105-3) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20typology%20of%20mixed%20methods%20research%20designs&journal=Quality%20%26%20Quantity&doi=10.1007%2Fs11135-007-9105-3&volume=43&issue=2&pages=265-275&publication_year=2009&author=Leech%2CNL&author=Onwuegbuzie%2CAJ)
+* Nguyen, H., & Nguyen, A. (2025). Reflective practices and self-regulated learning in designing with generative artificial intelligence: An ordered network analysis. *Journal of Science Education and Technology*, *34*(5), 1178–1192. <https://doi.org/10.1007/s10956-024-10175-z>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10956-024-10175-z) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Reflective%20practices%20and%20self-regulated%20learning%20in%20designing%20with%20generative%20artificial%20intelligence%3A%20An%20ordered%20network%20analysis&journal=Journal%20of%20Science%20Education%20and%20Technology&doi=10.1007%2Fs10956-024-10175-z&volume=34&issue=5&pages=1178-1192&publication_year=2025&author=Nguyen%2CH&author=Nguyen%2CA)
+* Okumus Ceylan, N. (2021). The relationship between learner autonomy and motivation. *Turkish Online Journal of Educational Technology*, *20*(4), 150–158.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20relationship%20between%20learner%20autonomy%20and%20motivation&journal=Turkish%20Online%20Journal%20of%20Educational%20Technology&volume=20&issue=4&pages=150-158&publication_year=2021&author=Okumus%20Ceylan%2CN)
+* Onwuegbuzie, A. J., & Leech, N. L. (2006). Linking research questions to mixed methods data analysis procedures 1. *The Qualitative Report*, *11*(3), 474–498. <https://doi.org/10.46743/2160-3715/2006.1663>
+  
+  [Article](https://doi.org/10.46743%2F2160-3715%2F2006.1663) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Linking%20research%20questions%20to%20mixed%20methods%20data%20analysis%20procedures%201&journal=The%20Qualitative%20Report&doi=10.46743%2F2160-3715%2F2006.1663&volume=11&issue=3&pages=474-498&publication_year=2006&author=Onwuegbuzie%2CAJ&author=Leech%2CNL)
+* Panadero, E. (2017). A review of self-regulated learning: Six models and four directions for research. *Frontiers in Psychology*, *8*, Article 422. <https://doi.org/10.3389/fpsyg.2017.00422>
+  
+  [Article](https://doi.org/10.3389%2Ffpsyg.2017.00422) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20review%20of%20self-regulated%20learning%3A%20Six%20models%20and%20four%20directions%20for%20research&journal=Frontiers%20in%20Psychology&doi=10.3389%2Ffpsyg.2017.00422&volume=8&publication_year=2017&author=Panadero%2CE)
+* Ryan, R. M., & Connell, J. P. (1989). Perceived locus of causality and internalization: Examining reasons for acting in two domains. *Journal of Personality and Social Psychology*, *57*(5), 749–761. <https://doi.org/10.1037/0022-3514.57.5.749>
+  
+  [Article](https://doi.org/10.1037%2F0022-3514.57.5.749) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Perceived%20locus%20of%20causality%20and%20internalization%3A%20Examining%20reasons%20for%20acting%20in%20two%20domains&journal=Journal%20of%20Personality%20and%20Social%20Psychology&doi=10.1037%2F0022-3514.57.5.749&volume=57&issue=5&pages=749-761&publication_year=1989&author=Ryan%2CRM&author=Connell%2CJP)
+* Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist*, *55*(1), 68–78. <https://doi.org/10.1037/0003-066X.55.1.68>
+  
+  [Article](https://doi.org/10.1037%2F0003-066X.55.1.68) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Self-determination%20theory%20and%20the%20facilitation%20of%20intrinsic%20motivation%2C%20social%20development%2C%20and%20well-being&journal=American%20Psychologist&doi=10.1037%2F0003-066X.55.1.68&volume=55&issue=1&pages=68-78&publication_year=2000&author=Ryan%2CRM&author=Deci%2CEL)
+* Skamagki, G., King, A., Carpenter, C., & Wåhlin, C. (2022). The concept of integration in mixed methods research: A step-by-step guide using an example study in physiotherapy. *Physiotherapy Theory and Practice*, *40*(2), 197–204. <https://doi.org/10.1080/09593985.2022.2120375>
+  
+  [Article](https://doi.org/10.1080%2F09593985.2022.2120375) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20concept%20of%20integration%20in%20mixed%20methods%20research%3A%20A%20step-by-step%20guide%20using%20an%20example%20study%20in%20physiotherapy&journal=Physiotherapy%20Theory%20and%20Practice&doi=10.1080%2F09593985.2022.2120375&volume=40&issue=2&pages=197-204&publication_year=2022&author=Skamagki%2CG&author=King%2CA&author=Carpenter%2CC&author=W%C3%A5hlin%2CC)
+* Tashakkori, A., Johnson, R., & Teddlie, C. (2020). *Foundations of mixed methods research: Integrating quantitative and qualitative approaches in social and behavioral sciences*. SAGE Publications.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Foundations%20of%20mixed%20methods%20research%3A%20Integrating%20quantitative%20and%20qualitative%20approaches%20in%20social%20and%20behavioral%20sciences&publication_year=2020&author=Tashakkori%2CA&author=Johnson%2CR&author=Teddlie%2CC)
+* Wu, X. Y., Ng, D. T. K., & Chiu, T. K. (2026). Self-regulated learning with AI: A comparative analysis of general-purpose and task-specific platforms. *International Journal of Technology in Education*, *9*(1), 279–302. <https://doi.org/10.46328/ijte.5241>
+  
+  [Article](https://doi.org/10.46328%2Fijte.5241) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Self-regulated%20learning%20with%20AI%3A%20A%20comparative%20analysis%20of%20general-purpose%20and%20task-specific%20platforms&journal=International%20Journal%20of%20Technology%20in%20Education&doi=10.46328%2Fijte.5241&volume=9&issue=1&pages=279-302&publication_year=2026&author=Wu%2CXY&author=Ng%2CDTK&author=Chiu%2CTK)
+* Xia, Q., Chiu, T. K. F., Lee, M., Sanusi, I. T., Dai, Y., & Chai, C. S. (2022). A self-determination theory (SDT) design approach for inclusive and diverse artificial intelligence (AI) education. *Computers & Education*, *189*, 104582. <https://doi.org/10.1016/j.compedu.2022.104582>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2022.104582) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20self-determination%20theory%20%28SDT%29%20design%20approach%20for%20inclusive%20and%20diverse%20artificial%20intelligence%20%28AI%29%20education&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2022.104582&volume=189&publication_year=2022&author=Xia%2CQ&author=Chiu%2CTKF&author=Lee%2CM&author=Sanusi%2CIT&author=Dai%2CY&author=Chai%2CCS)
+* Xiao, R., Hou, X., Ye, R., Kazemitabaar, M., Diana, N., Liut, M., & Stamper, J. (2025). *Improving student-AI interaction through pedagogical prompting: An example in computer science education*. Available at <https://arxiv.org/html/2506.19107v1>
+* Zimmerman, B. J. (2008). Investigating self-regulation and motivation: Historical background, methodological developments, and future prospects. *American Educational Research Journal*, *45*(1), 166–183. <https://doi.org/10.3102/0002831207312909>
+  
+  [Article](https://doi.org/10.3102%2F0002831207312909) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Investigating%20self-regulation%20and%20motivation%3A%20Historical%20background%2C%20methodological%20developments%2C%20and%20future%20prospects&journal=American%20Educational%20Research%20Journal&doi=10.3102%2F0002831207312909&volume=45&issue=1&pages=166-183&publication_year=2008&author=Zimmerman%2CBJ)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s10758-026-09970-x?format=refman&flavour=references)
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Ho Chi Minh City University of Education, Ho Chi Minh, Vietnam
+   
+   Anh-Hong Dang, Van-Son Huynh & Duc-Danh Nguyen
+2. Department of Educational Leadership, Research, Technology, College of Education, Boise State University, 1910 University Drive, Boise, ID, USA
+   
+   Youngkyun Baek
+
+Authors
+
+1. Anh-Hong Dang[View author publications](/search?sortBy=newestFirst&contributor=Anh-Hong%20Dang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Anh-Hong%20Dang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Anh-Hong%20Dang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Van-Son Huynh[View author publications](/search?sortBy=newestFirst&contributor=Van-Son%20Huynh)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Van-Son%20Huynh) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Van-Son%20Huynh%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Duc-Danh Nguyen[View author publications](/search?sortBy=newestFirst&contributor=Duc-Danh%20Nguyen)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Duc-Danh%20Nguyen) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Duc-Danh%20Nguyen%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+4. Youngkyun Baek[View author publications](/search?sortBy=newestFirst&contributor=Youngkyun%20Baek)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Youngkyun%20Baek) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Youngkyun%20Baek%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Corresponding author
+
+Correspondence to
+[Youngkyun Baek](mailto:youngkyun.baek@gmail.com).
+
+Additional information
+----------------------
+
+### Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Beyond%20Automation%3A%20Cultivating%20Self-Regulated%20Learning%20through%20AI%20and%20Reflective%20Practice&author=Anh-Hong%20Dang%20et%20al&contentID=10.1007%2Fs10758-026-09970-x&copyright=The%20Author%28s%29&publication=2211-1662&publicationDate=2026-03-24&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+About this article
+------------------
+
+### Cite this article
+
+Dang, AH., Huynh, VS., Nguyen, DD. *et al.* Beyond Automation: Cultivating Self-Regulated Learning through AI and Reflective Practice.
+*Tech Know Learn* (2026). https://doi.org/10.1007/s10758-026-09970-x
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s10758-026-09970-x?format=refman&flavour=citation)
+
+* Received: 01 October 2025
+* Revised: 03 March 2026
+* Accepted: 04 March 2026
+* Published: 24 March 2026
+* Version of record: 24 March 2026
+* DOI: https://doi.org/10.1007/s10758-026-09970-x
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Self-regulated learning (SRL)](/search?query=Self-regulated%20learning%20%28SRL%29&facet-discipline="Education")
+* [Artificial intelligence in education](/search?query=Artificial%20intelligence%20in%20education&facet-discipline="Education")
+* [Reflection](/search?query=Reflection&facet-discipline="Education")
+* [AI utilization style](/search?query=AI%20utilization%20style&facet-discipline="Education")
+* [Motivation and self-determination theory (SDT)](/search?query=Motivation%20and%20self-determination%20theory%20%28SDT%29&facet-discipline="Education")
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.66.192
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+
