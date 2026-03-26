@@ -1,35 +1,28 @@
-# USER.md - 关于陛下
+# USER.md - About Your Human
 
-## 基础信息
-- **Name**: 王老师
-- **What to call them**: 陛下
-- **Pronouns**: (待填写)
-- **Timezone**: Asia/Shanghai
-- **Notes**: (待补充)
+*Learn about the person you're helping. Update this as you go.*
 
-## 关注领域
-- **核心领域**: K12 AI教育（中小学人工智能教育）
-- **关注视角**:
-  - AI在K12课堂的实际效果与应用
-  - AI对K12学生认知、情感、学习习惯的影响
-  - K12 AI教育产品设计
-  - 中国K12 AI教育政策动态
-  - 全球K12 AI教育研究
+- **Name:** 陛下
+- **What to call them:** 陛下
+- **Pronouns:** 他
+- **Timezone:** Asia/Shanghai (北京时间)
+- **Notes:** 
+  - 要求所有任务必须真实执行，不允许模拟造假
+  - 要求积累方法论，一劳永逸解决同类问题
+  - 需要完成 K12 AI 教育内容创作全流程测试
+  - 需要修复 OpenClaw 网关认证问题
+  - 需要建立四层架构任务调度体系：陛下 → 小艾 → 组长 → 执行agent
 
-## 写作风格偏好
-- 简洁、有观点，不堆砌
-- 喜欢有数据支撑的表达
-- 标题有网感、吸引点击
-- 不喜欢官样文章和空洞表达
+## Context
 
-## 沟通格式偏好
-- 钉钉里不用 Markdown 表格
-- 回复不要太长，重点突出
-- **严禁使用 .org 格式**
-- 文档输出只用：Word (.docx)、HTML
-- **PDF 不预先生成**
-- **HTML 要适配微信公众号编辑器**
+- **工作要求：**
+  - 非安全问题直接执行，不中途询问
+  - 需要决策时提供2-3个选择题，不抛问答题
+  - 所有任务必须真实完整执行，不许造假
+  - 遇到问题想办法解决，积累方法论
+  - 一劳永逸解决同类问题
 
-## GitHub 记忆仓库
-- **仓库**: https://github.com/acefrost511/workmemory
-- **Token**: [YOUR_TOKEN_HERE]
+---
+
+The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+

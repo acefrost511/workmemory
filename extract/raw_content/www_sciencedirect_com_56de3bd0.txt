@@ -1,0 +1,256 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S036013152500257X
+# Content Length: 23108 characters
+# Extracted at: 2026-03-08 20:45:59
+#============================================================
+
+A generative artificial intelligence-enhanced multiagent approach to empowering collaborative problem solving across different learning domains - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS036013152500257X&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS036013152500257X)
+\* [Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS036013152500257X)
+\* [Purchase PDF](/getaccess/pii/S036013152500257X/purchase)
+Search ScienceDirect
+## Article preview
+\* [Abstract](#preview-section-abstract)
+\* [Introduction](#preview-section-introduction)
+\* [Section snippets](#preview-section-snippets)
+\* [References (76)](#preview-section-references)
+\* [Cited by (1)](#preview-section-cited-by)
+[![](https://sciencedirect.elseviercdn.cn/prod/0d9a89bf035810c5e67382f2165fe6895c318871/image/elsevier-non-solus.svg)](/journal/computers-and-education)
+## [Computers & Education](/journal/computers-and-education)
+[Volume 241](/journal/computers-and-education/vol/241/suppl/C), February 2026, 105489
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00130-cov150h.gif)](/journal/computers-and-education/vol/241/suppl/C)
+# A generative artificial intelligence-enhanced multiagent approach to empowering collaborative problem solving across different learning domains
+Author links open overlay panelLanqinZheng, ZheShi, LeiGao
+Show more
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S036013152500257X&orderBeanReset=true)
+## Highlights
+\* •
+A GAI-enhanced multiagent approach is proposed and validated.
+\* •
+The proposed approach can improve learning achievements.
+\* •
+The proposed approach can promote knowledge expansion.
+\* •
+The proposed approach can enhance collaborative problem-solving.
+## Abstract
+Collaborative problem-solving skills are among the most important skills in the 21st century. However, learners exhibit significant deficiencies in terms of their collaborative problem-solving skills. Emerging artificial intelligence (AI) technologies have given rise to transformative opportunities to facilitate collaborative problem solving through the introduction of adaptive learning mechanisms in educational settings. This study proposes a generative artificial intelligence (GenAI)-enhanced multiagent approach that aims to promote collaborative problem solving across different learning domains. The study also examines the effectiveness of this GenAI-enhanced multiagent approach to collaborative problem solving. In total, 234 college students participated in two empirical studies that focused on different tasks but had the same purpose and procedure. Experimental group 1 engaged in collaborative problem-solving with the assistance of a GenAI-enhanced multiagent approach. Experimental group 2 engaged in collaborative problem solving via a chatbot-based approach. The control group engaged in traditional collaborative problem-solving without any support. Data were collected through the pretest, posttest, and collaborative problem-solving process records and interview records. Both quantitative and qualitative methods were employed to analyze the data. The results indicated that compared with chatbot-based and traditional approaches, the GenAI-enhanced multiagent approach had more significant effects on learning achievements, knowledge elaboration, and collaborative problem-solving performance and skills. The implications of these findings are discussed in depth with the goal of advancing the use of GenAI to empower collaborative problem solving.
+## Introduction
+Collaborative problem-solving skills have been widely recognized as crucial and necessary skills in the 21st century (Andrews-Todd et al., 2023; Li et al., 2024; Partnership for 21st Century Skills, 2019). These skills have been defined in terms of the ability to solve problems effectively and obtain solutions through interaction with several agents (OECD, 2017). High-level collaborative problem-solving skills can help foster critical thinking skills (Xu et al., 2023), thereby promoting learning achievements (Hwang & Chen, 2023) and learning engagement (Unal & Cakir, 2021). However, previous studies have indicated that the collaborative problem-solving skills of learners require further improvement (Lu et al., 2023; OECD, 2017). According to employers, many college students are not equipped with sufficient collaborative problem-solving skills (D'Mello et al., 2024). Global social challenges also necessitate fostering and promoting collaborative problem-solving skills (Cheruiyot & Molnár, 2025). In addition, learners face certain difficulties in solving problems effectively, including a lack of personalized feedback (Aslan et al., 2025) and monitoring (Haataja et al., 2022) as well as a failure to generate solutions (Kwon et al., 2019).
+Previous studies have attempted to use diverse technologies to improve individuals' collaborative problem-solving skills, including conversational artificial intelligence (AI)-mediated learning environments (Aslan et al., 2025), web-based learning, and game-based learning tools (Dehghan-Chaleshtori, 2025). Recently, intelligent agents have emerged as a dominant trend in computer-mediated learning environments, given their ability to facilitate dynamic engagement that mirrors human-like interactions (Lang et al., 2022). Intelligent agents have increasingly begun to incorporate affective and conversational attributes while taking on social roles in the context of learner interactions (Sikström et al., 2024). In addition, researchers have revealed that multiagent systems (MASs) are superior to single-agent systems because of their ability to facilitate parallel cooperative operations, autonomous agent coordination, and distributed task execution (Viswanathan et al., 2022). However, the use of intelligent agents in education has a dual impact. Namely, although this approach can benefit cognitive and emotional learning outcomes, it simultaneously raises concerns regarding psychological effects, efficiency, and usability; furthermore, the findings of research on this approach have remained contradictory or inconclusive regarding its overall educational value (Dolata et al., 2023).
+In addition, generative artificial intelligence (GenAI) has been viewed as a valuable resource for facilitating collaborative problem solving in educational contexts (Wei et al., 2025). As the initial form of GenAI and a current subset of such technologies, large language models (LLMs) focus on processing and generating human-like content, allowing them to be applied widely in many fields (Bewersdorff et al., 2025). LLM-based MASs have distinct abilities to facilitate interactions and complete complex problem-solving and world simulation tasks (Guo et al., 2024). Nevertheless, very few empirical studies have thoroughly examined the effects of a GenAI-enhanced multiagent approach in collaborative problem-solving scenarios. To address these research gaps, this study proposes and validates a GenAI-enhanced multiagent approach to empowering collaborative problem solving.
+The proposed GenAI-enhanced multiagent approach is grounded in social agency theory and social constructivism theory. Social agency theory posits that social factors such as social presence and social cues are important to promote learning performance (Mayer, 2014). Social constructivism theory states that cognitive growth occurs first at the social level and later at the individual level and that the active construction of knowledge occurs as a dynamic process of social interaction (Vygotsky, 1978). The use of multiple GenAI-enhanced agents is intended to create social presence, social cues, and social interaction to facilitate the elaboration of knowledge and collaborative problem-solving. Knowledge elaboration refers to a constructive cognitive process in which learners need to integrate new information with prior knowledge (Kalyuga, 2009). Thus, the following research questions are proposed.
+\* 1.
+To what extent does a GenAI-enhanced multiagent approach promote students' learning achievements, knowledge elaboration, and collaborative problem-solving performance and skills?
+\* 2.
+What perceptions do learners have when using a GenAI-enhanced multiagent approach?
+The results of the current study suggest that this GenAI-enhanced multiagent approach substantially affects learning achievements, knowledge elaboration, and collaborative problem-solving performance and skills. This study elucidates how to improve collaborative problem-solving skills based on GenAI technologies. The findings of this study contribute to the construction of a theoretical model for collaborative problem solving, enabling us to better understand the mechanism of collaborative problem solving and how collaborative problem solving evolves over time. This study provides insight into the implementation of massive amounts of personalized learning and precise interventions as well as the development of policies concerning the use of multiple GenAI-enhanced agents in practice.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS036013152500257X)
+## Section snippets
+## Collaborative problem solving
+Technological advancements have transformed society through the automation of numerous repetitive manual jobs, leading to an increased focus on complex skills, such as collaborative problem-solving skills (Rojas et al., 2025). Collaborative problem-solving skills have been identified as core competencies in 21st-century skill frameworks and have increasingly been integrated into diverse pedagogical approaches (Luengo-Aravena et al., 2024). Collaborative problem solving, which is rooted in
+## Framework for the GenAI-enhanced multiagent approach
+In this study, a GenAI-enhanced multiagent approach is proposed on the basis of GenAI technology to facilitate collaborative problem solving. The multiple intelligent agents involved in this context consisted of an expert agent and an assistant agent. An expert agent is a component of an intelligent system that is constructed on the basis of an LLM, the particular algorithm used and prompt engineering, with the aims of providing personalized feedback with respect to domain-specific knowledge
+## Participants
+For the present study, 117 college students were recruited from a famous university in China to participate voluntarily in an experiment. The sample included 13 males and 104 females, which is representative of the population distribution of this university. The average age of the participants was 22 years (\*SD\* = 1.92). The participants were majoring in biology, geography, environmental sciences, pedagogy, psychology, computer science, economics, and similar fields. All the participants were
+## Study 2
+To comprehensively validate the generalizability and transferability of the GenAI-enhanced multiagent approach, this study selected two different learning domains and carried out two corresponding studies. The learning domain of the first study is natural science, and the learning domain of the second study is social science.
+## Effects of the GenAI-enhanced multiagent approach
+The present study revealed that learners who used the GenAI-enhanced multiagent approach exhibited substantially better learning achievements than did those who learned via the chatbot-based or traditional approaches. Three possible reasons may explain this finding. First, the GenAI-enhanced multiagent approach offers multidimensional support via the expert agent and assistant agent. The expert agent provides precise explanations, facilitates personalized assessments and recommends learning
+## Conclusions
+In this study, a GenAI-enhanced multiagent approach was proposed, and two empirical studies were conducted in different learning domains. The findings revealed that the GenAI-enhanced multiagent approach had more substantially positive effects on learning achievements, knowledge elaboration, and collaborative problem-solving performance and skills than did the chatbot-based or traditional collaborative problem-solving approaches did. The proposed GenAI-enhanced multiagent approach offered
+## CRediT authorship contribution statement
+\*\*Lanqin Zheng:\*\* Writing – review & editing, Writing – original draft, Methodology, Conceptualization. \*\*Zhe Shi:\*\* Writing – original draft, Formal analysis, Data curation. \*\*Lei Gao:\*\* Writing – original draft, Formal analysis, Data curation.
+## Declaration of competing interest
+The authors declare that there is no conflict of interest of the study.
+## Acknowledgement
+This study is funded by the Key Technologies for Personalized Learning Driven by Educational Big Data and the Demonstration Application (2023YFC3341200).
+Recommended articles
+## References (76)
+\* J. Andrews-Todd \*et al.\*
+### [Investigating collaborative problem solving skills and outcomes across computer-based tasks](/science/article/pii/S0360131523002051)
+### Computers & Education
+(2023)
+\* S. Aslan \*et al.\*
+### [An early investigation of collaborative problem solving in conversational AI-mediated learning environments](/science/article/pii/S2666920X25000335)
+### Computers and Education: Artificial Intelligence
+(2025)
+\* A. Bewersdorff \*et al.\*
+### [Taking the next step with generative artificial intelligence: The transformative role of multimodal large language models in science education](/science/article/pii/S1041608024001948)
+### Learning and Individual Differences
+(2025)
+\* C.J. Chang \*et al.\*
+### [An analysis of student collaborative problem solving activities mediated by collaborative simulations](/science/article/pii/S0360131517301720)
+### Computers & Education
+(2017)
+\* Y. Hayashi
+### [Multiple pedagogical conversational agents to support learner-learner collaborative learning: Effects of splitting suggestion types](/science/article/pii/S1389041717302711)
+### Cognitive Systems Research
+(2019)
+\* S. Kalyuga
+### [Knowledge elaboration: A cognitive load perspective](/science/article/pii/S0959475209000176)
+### Learning and Instruction
+(2009)
+\* L. Law
+### [Application of generative artificial intelligence (GenAI) in language teaching and learning: A scoping literature review](/science/article/pii/S2666557324000156)
+### Computers and Education Open
+(2024)
+\* M. Liu \*et al.\*
+### [Investigating students' cognitive processes in generative AI-assisted digital multimodal composing and traditional writing](/science/article/pii/S0360131523002543)
+### Computers & Education
+(2024)
+\* D. Luengo-Aravena \*et al.\*
+### [Online collaborative problem-solving as a tangible outcome of digital skills in technical and vocational higher education](/science/article/pii/S0360131524000939)
+### Computers & Education
+(2024)
+\* M. Rojas \*et al.\*
+### [Validating a collaborative problem-solving assessment tool across educational stages](/science/article/pii/S0360131524002422)
+### Computers & Education
+(2025)
+- P. Sikström \*et al.\*
+### [Pedagogical agents communicating and scaffolding students' learning: High school teachers' and students' perspectives](/science/article/pii/S0360131524001544)
+### Computers & Education
+(2024)
+- E.R. Smith \*et al.\*
+### [Socially situated cognition: Cognition in its social context](/science/article/pii/S0065260104360028)
+### Advances in Experimental Social Psychology
+(2004)
+- N. Viswanathan \*et al.\*
+### [Enhancement of online education system by using a multi-agent approach](/science/article/pii/S2666920X22000121)
+### Computers and Education: Artificial Intelligence
+(2022)
+- S. Balasubramaniam \*et al.\*
+### The road ahead: Emerging trends, unresolved issues, and concluding remarks in generative AI-a comprehensive review
+### International Journal of Intelligent Systems
+(2024)
+- A. Bandura
+### Social foundations of thought and action: A social cognitive theory
+(1986)
+- L. Banh \*et al.\*
+### Generative artificial intelligence
+### Electronic Markets
+(2023)
+- R. Barbosa \*et al.\*
+### Collaborative problem-solving with LLM: A multi-agent System approach to solve complex tasks using autogen
+- L. Brandl \*et al.\*
+### Can generative artificial intelligence ever be a true collaborator? Rethinking the nature of collaborative problem-solving
+- V. Braun \*et al.\*
+### Using thematic analysis in psychology
+### Qualitative Research in Psychology
+(2006)
+- L.G. Cheruiyot \*et al.\*
+### Technology-based assessment of collaborative problem-solving skills: A bibliometric analysis and review
+### Journal of Computers in Education
+(2025)
+- J. Cohen
+### Statistical power analysis for the behavioral sciences
+(1988)
+- G. Cooper
+### Examining science education in ChatGPT: An exploratory study of generative artificial intelligence
+### Journal of Science Education and Technology
+(2023)
+- U. Cress \*et al.\*
+### Co-constructing knowledge with generative AI tools: Reflections from a CSCL perspective
+### International Journal of Computer-Supported Collaborative Learning
+(2023)
+- M. Dehghan-Chaleshtori
+### Utilizing technology to support collaborative problem-solving of K-12 students in STEM education: A multivariate multi-level meta-analysis
+### Electronic Theses & Dissertations
+(2025)
+- S.K. D'Mello \*et al.\*
+### Improving collaborative problem-solving skills via automated feedback and scaffolding: A quasi-experimental study with CPSCoach 2.0
+### User Modeling and User-Adapted Interaction
+(2024)
+- M. Dolata \*et al.\*
+### Learning with digital agents: An analysis based on the activity theory
+### Journal of Management Information Systems
+(2023)
+- A. Dorri \*et al.\*
+### Multi-agent systems: A survey
+### IEEE Access
+(2018)
+- Y. Fan \*et al.\*
+### Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance
+### British Journal of Educational Technology
+(2025)
+- Z. Feng \*et al.\*
+### Multi-agent embodied ai: Advances and future directions
+### arXiv preprint arXiv:2505.05108
+(2025)
+- S.M. Fiore \*et al.\*
+### Collaborative problem-solving education for the twenty-first-century workforce
+### Nature Human Behaviour
+(2018)
+- I.S.B. Gago \*et al.\*
+### Modeling an educational multi-agent system in maSE
+- A. Gulz \*et al.\*
+### Building a social conversational pedagogical agent: Design challenges and methodological approaches
+- T. Guo \*et al.\*
+### Large language model based multi-agents: A survey of progress and challenges
+### arXiv preprint arXiv:2402.01680
+(2024)
+- E. Haataja \*et al.\*
+### The pivotal role of monitoring for collaborative problem solving seen in interaction, performance, and interpersonal physiology
+### Metacognition and Learning
+(2022)
+- L. Hofeditz \*et al.\*
+### Working with ELSA–how an emotional support agent builds trust in virtual teams
+### Proceedings of the 55th Hawaii international conference on System sciences
+(2022)
+- G.J. Hwang \*et al.\*
+### Effects of a collective problem-solving promotion-based flipped classroom on students' learning performances and interactive patterns
+### Interactive Learning Environments
+(2023)
+- F. Jiang \*et al.\*
+### Large language model enhanced multi-agent systems for 6G communications
+### IEEE Wireless Communications
+(2024)
+- H. Johnston \*et al.\*
+### Student perspectives on the use of generative artificial intelligence technologies in higher education
+### International Journal for Educational Integrity
+(2024)
+View more references
+## Cited by (1)
+\* ### [A Multi-Agent GenAI Scaffolding System with Pattern-Specific Algorithms for Physical Education Cooperative Learning](https://doi.org/10.1145/3785987.3786114)
+2026, Proceedings of 2025 2nd International Conference on Artificial Intelligence and Future Education Aife 2025
+: This article is part of a special issue entitled: GenAI enhanced learning published in Computers & Education.
+[View full text](/science/article/pii/S036013152500257X)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+## Recommended articles
+\* ### [Pattern creation strategies of preschool children](/science/article/pii/S1871187125003426)
+Thinking Skills and Creativity, Volume 60, 2026, Article 102095
+BetülÖzkan, EnsarYıldız
+\* ### [Designing an educational game framework with multi-scaffolding mechanism to facilitate communication and contextual analysis skills](/science/article/pii/S1871187126000027)
+Thinking Skills and Creativity, Volume 60, 2026, Article 102128
+Shu-WeiLiu, Huei-TseHou
+\* ### [Exploring characteristics of primary school students’ self-regulated learning (SRL) behaviors in human-GenAI collaborative programming learning environments: Insights from a proposed framework](/science/article/pii/S0360131525002210)
+Computers & Education, Volume 240, 2026, Article 105453
+XuechunMa, …, YanLi
+\* ### [Exploring the developmental trajectory of students' creative thinking and intellectual interaction in a computer-supported collaborative learning environment](/science/article/pii/S1871187125001798)
+Thinking Skills and Creativity, Volume 58, 2025, Article 101930
+JuanWang, …, ZhiziZheng
+\* ### [Investigating the effects of an LLM-based Socratic conversational agent on students’ academic performance and reflective thinking in higher education](/science/article/pii/S0360131525002623)
+Computers & Education, Volume 241, 2026, Article 105494
+LinjinXi, …, QiyunWang
+\* ### [Designing experience: Multimodal UX in the expanding field of composition](/science/article/pii/S8755461525000659)
+Computers and Composition, 2026, Article 102978
+JialeiJiang, GustavVerhulsdonck
+Show 3 more articles
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS036013152500257X)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

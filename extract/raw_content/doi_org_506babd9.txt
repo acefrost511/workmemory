@@ -1,0 +1,198 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2026.105592
+# Content Length: 24450 characters
+# Extracted at: 2026-03-16 05:04:55
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000308?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000308?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000308)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131526000308/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000308?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000308?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000308?via%3Dihub#preview-section-snippets)
+- [References (66)](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000308?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/0d9a89bf035810c5e67382f2165fe6895c318871/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 248](https://www.sciencedirect.com/journal/computers-and-education/vol/248/suppl/C "Go to table of contents for this volume/issue"), July 2026, 105592
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20024-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/248/suppl/C)
+# Teaching with AI: A dual qualitative study of parents’ intention to use generative AI for tutoring in China and the West
+Author links open overlay panelZhenya RobinTanga, SeongjinKimb, HoucaiWangcd, BotongXuee, YangZhouf
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2026.105592](https://doi.org/10.1016/j.compedu.2026.105592 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131526000308&orderBeanReset=true)
+## Highlights
+- •
+Chinese and Western parents differ in how they perceive GAI tutoring benefits and risks.
+- •
+Parents act as key gatekeepers in AI-based tutoring adoption.
+- •
+Socio-technical and valence frameworks explain parental evaluations.
+- •
+Cultural context shapes trust and risk perceptions of GAI tutoring.
+## Abstract
+Generative artificial intelligence (GAI) is reshaping educational practices; however, parental perspectives remain underexamined, particularly across cultural contexts. This study investigates how Chinese and Western parents perceive the benefits and risks of using GAI for tutoring through a cross-cultural qualitative analysis grounded in a sociotechnical perspective and the extended valence framework. The findings show that, across cultures, parents recognize key technological advantages of GAI in education, including breadth of knowledge, personalized learning, accessibility, and cost-effectiveness. Nevertheless, motivations and concerns diverge substantially. Chinese parents emphasize the necessity of GAI to maintain academic competitiveness and prepare for future careers, expressing concern that nonadoption may disadvantage their children. By contrast, Western parents exhibit greater skepticism, prioritizing concerns about overreliance on GAI, misinformation, excessive screen time, and social risks. By foregrounding how technological affordances, perceived benefits, and perceived risks interact within distinct sociocultural contexts, this study extends prior research on GAI adoption in education, which has largely focused on teachers, students, and institutions within single cultural settings. The study also offers practical implications for GAI developers, policymakers, and educators, underscoring the need for culturally adaptive strategies that balance innovation, ethical considerations, and parental trust in the use of GAI for tutoring.
+## Introduction
+The rise of generative artificial intelligence (GAI) has significantly affected multiple domains, with education emerging as one of the most transformative areas (An et al., 2025; Garcia-Varela et al., 2025; Yin et al., 2024). GAI-powered tools can generate contextually relevant responses, provide real-time feedback, and adapt to individual learning needs, making them valuable assets in contemporary educational settings (Deng et al., 2025). Unlike traditional learning approaches that rely on fixed curricula and standardized instruction, GAI enables a more dynamic and interactive mode of learning, allowing students to engage with content in a personalized manner (Shen & Guo, 2024; Wang et al., 2024). These capabilities position GAI as a transformative force in education, with the potential to enhance accessibility, foster self-directed learning, and provide personalized academic support (Lo et al., 2024; Zheng et al., 2024).
+Although GAI-based tutoring holds considerable promise for transforming education, its adoption is influenced not only by technological capabilities but also by the perspectives of key stakeholders, particularly parents (Yu et al., 2025). Parents play a pivotal role in shaping their children's learning environments and make critical decisions regarding the educational tools and technologies their children use (McFayden et al., 2024). Despite growing interest in AI-driven education, existing research on technology adoption in learning contexts has focused primarily on students, educators, and institutions (e.g., An et al., 2025; Avci, 2024; Mogavi et al., 2024; Wang et al., 2024). While this body of work provides valuable insights into how AI can support teaching and learning, it often overlooks the role of parents as gatekeepers of their children's educational experiences (Han et al., 2024). Unlike educators, who typically integrate AI tools within structured classroom settings, parents determine whether and how AI-driven tutoring is incorporated into home-based learning. Consequently, studies centered on educators or students may not fully capture the distinctive decision-making processes and considerations parents weigh when evaluating GAI tutoring for their children (Han et al., 2024; McFayden et al., 2024; Yu et al., 2025).
+Cultural differences further shape parental attitudes and decision-making related to GAI-driven tutoring (Cronjé, 2011). Education systems, parenting norms, and perceptions of technology vary substantially across cultures, influencing how parents assess the benefits and risks of integrating GAI into their children's learning environments (De Morentin et al., 2014). For example, in collectivist cultures, parents may prioritize GAI tools that reinforce structured learning and academic achievement, whereas in individualist cultures, parents may value AI-driven tutoring for its capacity to promote independent learning and creativity (Hofstede, 2001; Zhou, 2024). Cultural contexts also influence levels of trust in AI, with some societies demonstrating greater skepticism toward automated decision-making and others adopting technological innovations more readily (Omrani et al., 2022). These differences highlight the need for culturally sensitive approaches to GAI tutoring that align with local educational values and parental expectations. Accordingly, this study aims to \_explore the factors influencing parents' intentions and attitudes toward adopting GAI for tutoring and to examine how cultural differences shape these perceptions\_.
+This study focuses on China and Western countries as two representative contexts with distinct educational traditions and technological orientations. In China, shaped by Confucian-heritage and collectivist values, parents tend to emphasize academic excellence, diligence, and the instrumental use of technology to maintain educational competitiveness and promote social mobility (Zhou, 2024). In contrast, Western societies, grounded largely in individualist values, often prioritize learner autonomy, creativity, and balanced technology use that supports self-directed learning (Ortiz, Green, & Lim, 2011). Comparing these two contexts, therefore, provides a meaningful framework for identifying both shared concerns and culturally specific interpretations of GAI-based tutoring.
+Given the exploratory nature of this research, a qualitative design is employed to uncover underlying motivations, concerns, and cultural variations in parental adoption of GAI-driven tutoring (Kohnke & Moorhouse, 2025; Lee et al., 2006; Wasko & Faraj, 2000). The study adopts a grounded theory approach to data collection and analysis, supporting an inductive, theory-building process that captures emergent themes from naturally occurring parental discussions (Strauss & Corbin, 1998). Two datasets are drawn from online discussion platforms: Reddit, representing Western parents, and Zhihu, representing Chinese parents. These platforms provide authentic, real-world perspectives on GAI tutoring adoption. Data are collected using keyword-based searches and analyzed through qualitative content analysis. To guide interpretation, the study integrates two theoretical frameworks: the sociotechnical perspective and the extended valence framework (Baxter & Sommerville, 2011; Cenfetelli, 2004; Ji et al., 2025; Lyytinen & Newman, 2008). The sociotechnical perspective examines how technological, social, and individual factors interact to shape GAI adoption, while the extended valence framework organizes parental perceptions into perceived benefits (e.g., knowledge breadth, personalized learning, accessibility, cost-effectiveness), perceived risks (e.g., misinformation, overdependence, social risks), and social influences (e.g., cultural pressures, peer adoption, institutional trust). Together, these frameworks support a comprehensive analysis of how technological affordances, perceived benefits, and perceived risks shape parental attitudes toward GAI tutoring across cultural contexts (Omrani et al., 2022; Wan et al., 2017).
+This study makes several theoretical and practical contributions to research on educational technology adoption, GAI-driven tutoring, and cross-cultural technology acceptance. First, it advances the literature on educational technology adoption by integrating the parental perspective into GAI tutoring research and recognizing parents as key decision-makers in the adoption and use of GAI tools. While prior studies have focused largely on educators, students, and institutions (e.g., An et al., 2025; Avci, 2024; Mogavi et al., 2024; Wang et al., 2024), this study demonstrates how parents actively shape the diffusion and implementation of GAI in home-based learning environments. By extending the focus beyond institutional contexts, the study broadens existing adoption frameworks to account for the informal yet influential role of parents as technology gatekeepers (Han et al., 2024; McFayden et al., 2024; Yu et al., 2025).
+Second, the study deepens understanding of the adoption and impact of GAI tools for tutoring, an emerging but underexamined area of GAI-driven education research (Deng et al., 2025). Unlike conventional digital learning technologies, GAI tutoring introduces additional adoption considerations related to trust in AI-generated content, perceived educational effectiveness, and concerns about cognitive dependency (Garcia-Varela et al., 2025). By analyzing these issues through a sociotechnical lens and the extended valence framework, the study highlights how GAI-specific attributes influence parental adoption decisions and how these dynamics differ from those associated with traditional educational technologies. This contribution is particularly salient as GAI continues to shape personalized learning, self-directed education, and parental involvement in digital learning practices.
+Third, the study contributes a cross-cultural perspective on GAI tutoring adoption by comparing how Western and Chinese parents perceive the benefits and risks of integrating AI into their children's education (De Morentin et al., 2014; Hofstede, 2001; Weber & Hsee, 1998). While existing research has examined GAI adoption in educational contexts, few studies have systematically compared parental decision-making across cultures. By identifying cultural differences in parental motivations, such as Western concerns about overdependence on GAI and Chinese emphasis on GAI literacy and competitive pressure, this study extends research on cross-cultural technology adoption and enhances the applicability of adoption frameworks beyond predominantly Western contexts (Cronjé, 2011; Leidner & Kayworth, 2006).
+Finally, the study offers practical implications for policymakers, educational institutions, and AI developers. By identifying the key drivers and barriers shaping parental adoption of GAI tutoring, the findings inform the design, communication, and implementation of AI-based educational tools in ways that better align with parental expectations and concerns. Attention to cultural variation in AI adoption can support the development of adaptive GAI tutoring solutions that enhance educational outcomes while addressing risks related to misinformation, cognitive dependency, and social development.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000308)
+## Section snippets
+## Cross-cultural perspectives on parents’ views of education and technology
+Parents’ beliefs and expectations about education are deeply shaped by cultural norms and values. One of the most extensively examined cultural dimensions influencing educational attitudes is the individualism–collectivism continuum. Individualistic cultures, predominantly associated with Western societies, emphasize personal achievement, independent thinking, and self-expression. Parents from individualistic backgrounds tend to value education as a means of developing unique talents and
+## Methodology
+This study employs a qualitative research approach to explore parental attitudes toward the use of GAI for tutoring across different cultural contexts. Qualitative methods are particularly well suited to examining user perceptions and the social implications of emerging technologies (Braun & Clarke, 2021; Creswell & Poth, 2016; Demszky et al., 2025; Lee et al., 2006; Twining et al., 2017; Wasko & Faraj, 2000). A qualitative approach was deemed appropriate because GAI in education remains an
+## Summary of results
+Framed through the sociotechnical perspective and the extended valence framework, this study reveals both shared and divergent parental perspectives on the adoption of GAI for tutoring across Chinese and Western cultural contexts. Fig. 1 summarizes the study's key findings. Parents in both regions acknowledge the technological affordances of GAI-driven tutoring, particularly across four core dimensions: knowledge breadth, personalized learning, accessibility, and cost-effectiveness. From a
+## Conclusion
+Drawing on the sociotechnical perspective and the extended valence framework, this study presents a cross-cultural qualitative analysis of how technological affordances, perceived benefits, and perceived risks shape parental attitudes toward GAI-driven education. While parents across cultural contexts recognize key advantages of GAI tutoring, including knowledge breadth, personalized learning, accessibility, and cost-effectiveness, their motivations and concerns differ substantially as a
+## CRediT authorship contribution statement
+\*\*Zhenya Robin Tang:\*\* Funding acquisition. \*\*Seongjin Kim:\*\* Formal analysis. \*\*Houcai Wang:\*\* Data curation. \*\*Botong Xue:\*\* Conceptualization. \*\*Yang Zhou:\*\* Formal analysis, Conceptualization.
+## Compliance with ethical standards
+All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards.
+Informed consent was obtained from all individual participants involved in the study.
+## Declaration of generative AI and AI-assisted technologies in the writing process
+During the preparation of this work the authors used \[ChatGPT\] for \[language and grammar assistance\]. After using this tool/service, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
+## Declaration of competing interest
+There is no conflict of interest to declare from the author team.
+## Acknowledgements
+We acknowledge supported by the Shanghai Philosophy and Social Sciences Planning Project under Grant Number 2024EGL007 and the China Scholarship Council (CSC) under Grant number 202406890077.
+Recommended articles
+- S. An \_et al.\_
+### [Impacts of generative AI on student teachers' task performance and collaborative knowledge construction process in mind mapping-based collaborative environment](https://www.sciencedirect.com/science/article/pii/S0360131524002410)
+### Computers & Education
+(2025)
+- G. Baxter \_et al.\_
+### [Socio-technical systems: From design methods to systems engineering](https://www.sciencedirect.com/science/article/pii/S0953543810000652)
+### Interacting with Computers
+(2011)
+- A. Bilgihan \_et al.\_
+### [The GAI marketing model: A conceptual framework and future research directions](https://www.sciencedirect.com/science/article/pii/S027843192400241X)
+### International Journal of Hospitality Management
+(2024)
+- J.C. Cronjé
+### [Using Hofstede's cultural dimensions to interpret cross-cultural blended teaching and learning](https://www.sciencedirect.com/science/article/pii/S0360131510002848)
+### Computers & Education
+(2011)
+- F. Garcia-Varela \_et al.\_
+### [Reducing interpretative ambiguity in an educational environment with ChatGPT](https://www.sciencedirect.com/science/article/pii/S0360131524001969)
+### Computers & Education
+(2025)
+- M. Ghasemaghaei
+### [The role of positive and negative valence factors on the impact of bigness of data on big data analytics usage](https://www.sciencedirect.com/science/article/pii/S0268401218302767)
+### International Journal of Information Management
+(2020)
+- V. Giordano \_et al.\_
+### [The impact of ChatGPT on human skills: A quantitative study on Twitter data](https://www.sciencedirect.com/science/article/pii/S0040162524001859)
+### Technological Forecasting and Social Change
+(2024)
+- L. Kohnke \_et al.\_
+### [Enhancing the emotional aspects of language education through generative artificial intelligence (GenAI): A qualitative investigation](https://www.sciencedirect.com/science/article/pii/S0747563225000470)
+### Computers in Human Behavior
+(2025)
+- N. Kshetri
+### [The academic industry's response to generative artificial intelligence: An institutional analysis of large language models](https://www.sciencedirect.com/science/article/pii/S0308596124000570)
+### Telecommunications Policy
+(2024)
+- Z.W. Lee \_et al.\_
+### [Why people participate in the sharing economy: An empirical investigation of uber](https://www.sciencedirect.com/science/article/pii/S1066224318000515)
+### Internet Research
+(2018)
+Z. Li \_et al.\_
+### [From assistance to reliance: Development and validation of the large language model dependence scale](https://www.sciencedirect.com/science/article/pii/S0268401225000209)
+### International Journal of Information Management
+(2025)
+C.K. Lo \_et al.\_
+### [The influence of ChatGPT on student engagement: A systematic review and future research agenda](https://www.sciencedirect.com/science/article/pii/S0360131524001143)
+### Computers & Education
+(2024)
+V. Morini \_et al.\_
+### [Participant behavior and community response in online mental health communities: Insights from Reddit](https://www.sciencedirect.com/science/article/pii/S0747563224004126)
+### Computers in Human Behavior
+(2025)
+N. Omrani \_et al.\_
+### [To trust or not to trust? An assessment of trust in AI-based systems: Concerns, ethics and contexts](https://www.sciencedirect.com/science/article/pii/S0040162522002888)
+### Technological Forecasting and Social Change
+(2022)
+A.R. Rahimi \_et al.\_
+### [The role of ChatGPT readiness in shaping language teachers' language teaching innovation and meeting accountability: A bisymmetric approach](https://www.sciencedirect.com/science/article/pii/S2666920X24000614)
+### Computers and Education: Artificial Intelligence
+(2024)
+Y. Shen \_et al.\_
+### [“I feel AI is neither too good nor too bad”: Unveiling Chinese EFL teachers' perceived emotions in generative AI-Mediated L2 classes](https://www.sciencedirect.com/science/article/pii/S0747563224002978)
+### Computers in Human Behavior
+(2024)
+N. Spatola
+### [The efficiency-accountability tradeoff in AI integration: Effects on human performance and over-reliance](https://www.sciencedirect.com/science/article/pii/S2949882124000598)
+### Computers in Human Behavior: Artificial Humans
+(2024)
+J. Su \_et al.\_
+### [Artificial intelligence (AI) literacy in early childhood education: The challenges and opportunities](https://www.sciencedirect.com/science/article/pii/S2666920X23000036)
+### Computers and Education: Artificial Intelligence
+(2023)
+Z. Tang \_et al.\_
+### [A contextualized comprehensive action determination model for predicting consumer electronics recommerce platform usage: A sequential mixed-methods approach](https://www.sciencedirect.com/science/article/pii/S0378720622000295)
+### Information & Management
+(2022)
+J. Wan \_et al.\_
+### [How attachment influences users' willingness to donate to content creators in social media: A socio-technical systems perspective](https://www.sciencedirect.com/science/article/pii/S0378720616304177)
+### Information & Management
+(2017)
+C. Wang \_et al.\_
+### [How do Chinese undergraduates harness the potential of appraisal and emotions in generative AI-Powered learning? A multigroup analysis based on appraisal theory](https://www.sciencedirect.com/science/article/pii/S0360131525000181)
+### Computers & Education
+(2025)
+M. Warkentin \_et al.\_
+### [Continuance of protective security behavior: A longitudinal study](https://www.sciencedirect.com/science/article/pii/S0167923616301622)
+### Decision Support Systems
+(2016)
+H. Yin \_et al.\_
+### [Unleashing pre-service language teachers' productivity with generative AI: Emotions, appraisal and coping strategies](https://www.sciencedirect.com/science/article/pii/S0747563224002851)
+### Computers in Human Behavior
+(2024)
+Ü. Avcı
+### Students’ GAI acceptance: role of demographics, creative mindsets, anxiety, attitudes
+### Journal of Computer Information Systems
+(2024)
+V. Braun \_et al.\_
+### Thematic analysis: A practical guide
+(2021)
+R.T. Cenfetelli
+### Inhibitors and enablers as dual factor concepts in technology adoption
+### Journal of the Association for Information Systems
+(2004)
+S.Y. Chien \_et al.\_
+### Comparative study of XAI perception between eastern and western cultures
+### International Journal of Human-Computer Interaction
+(2025)
+### CU committee report on generative artificial intelligence in education
+(2024)
+J.W. Creswell \_et al.\_
+### Qualitative inquiry and research design: Choosing among five approaches
+(2016)
+J.I.M. De Morentin \_et al.\_
+### Internet use and parental mediation: A cross-cultural study
+### Computers & Education
+(2014)
+R. Deng \_et al.\_
+### Does ChatGPT enhance student learning? A systematic review and meta-analysis of experimental studies
+### Computers & Education
+(2024)
+X. Deng \_et al.\_
+### Promoting ethical use of generative AI in education
+### ACM SIGMIS - Data Base: The DATABASE for Advances in Information Systems
+(2024)
+A. Han \_et al.\_
+### Teachers, parents, and students' perspectives on integrating generative AI into elementary literacy education
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131526000308)
+© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

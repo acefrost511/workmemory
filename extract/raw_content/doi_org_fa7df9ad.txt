@@ -1,0 +1,138 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105486
+# Content Length: 15045 characters
+# Extracted at: 2026-03-08 12:46:52
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002544?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002544?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002544)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525002544/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002544?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002544?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002544?via%3Dihub#preview-section-snippets)
+- [References (37)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002544?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/0d9a89bf035810c5e67382f2165fe6895c318871/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 241](https://www.sciencedirect.com/journal/computers-and-education/vol/241/suppl/C "Go to table of contents for this volume/issue"), February 2026, 105486
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00130-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/241/suppl/C)
+# Development and implementation of a generative AI-based personalized recommender system to improve students’ self-regulated learning and academic performance
+Author links open overlay panelXinyiLuo, SikaiWang, Khe FoonHew
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105486](https://doi.org/10.1016/j.compedu.2025.105486 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525002544&orderBeanReset=true)
+## Highlights
+- •
+Developed and implemented a GenAI-based SRL personalized recommender system.
+- •
+The system can accurately and automatically detect students' SRL.
+- •
+The recommendation agent achieved high precision in giving relevant suggestions.
+- •
+Students who found the system useful showed greater gains in SRL proficiency.
+- •
+Frequent system users showed significantly better learning performance.
+## Abstract
+Students' ability to manage their own learning is crucial for academic success, but many struggle with self-regulation, often leading to disengagement. Past studies have explored tactics to boost students' self-regulated learning (SRL), such as writing self-reflective reports and incorporating prompts in video lectures. These tactics, however, often lack timely, personalized feedback due to the labor-intensive nature of such support. In this study, we report the development and implementation of an innovative large language model (LLM)-based recommender system named \_SRLAdvisor\_ to address these limitations. The system combines a web interface with a series of LLM-based agents, allowing students to receive immediate, personalized feedback. By processing students' natural language interactions in real-time, \_SRLAdvisor\_ dynamically profiles their self-regulation and delivers personalized recommendations. This study involved 22 postgraduate students and employed a sequential explanatory mixed-methods approach to evaluate students’ self-regulation and learning performance. We found near-perfect agreement between the system detection and human coding. \_SRLAdvisor\_ exhibited greater recommendation precision in self-monitoring and self-evaluation tasks. Students who perceived the system as highly useful showed significantly greater self-reported SRL gains than those with lower perceptions. Additionally, a \_k-means\_ cluster analysis indicated that students who engaged more frequently with \_SRLAdvisor\_ achieved significantly greater improvements in learning performance. These findings underscore the potential of leveraging LLMs to deliver personalized recommendations. However, they also reveal potential concerns, such as over-reliance on AI and prompt monotony, that need to be further examined. These issues are particularly relevant in the context of LLM-supported SRL interventions and warrant further discussion.
+## Introduction
+The growth of information and communication technologies has facilitated the widespread adoption of online education around the world (Huang et al., 2025). In online learning, students’ ability to self-regulate their learning is a key factor for success (Barnard et al., 2009). Self-regulation allows students to set goals, monitor their progress, and evaluate their learning (Zimmerman, 2002).
+Nevertheless, students often struggle to apply SRL strategies in online environments (Jin et al., 2023). One possible reason for this is that online learning requires more self-regulation from students but provides less support from teachers and peers than traditional classrooms (Broadbent et al., 2020). Since the ability to self-regulate can significantly enhance academic performance (Cheng et al., 2023), it is important to support students in developing and applying SRL strategies during online activities.
+Although previous studies have attempted to design various approaches to support online SRL, these approaches have limitations (see following section). Our study aims to address these gaps by utilizing large language models (LLMs) to facilitate students’ use of SRL strategies such as goal-setting and planning, meta-cognitive monitoring, and self-reflection. In the following sections, we will briefly discuss the theoretical perspective of SRL, outline the limitations of previous methods in supporting SRL in online learning, and finally, introduce the research purpose and questions of our study.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002544)
+## Section snippets
+## Theoretical perspective and previous work
+This study is based on Zimmerman's (2002) three-phase cyclical model of SRL, which includes the forethought, performance, and self-reflection phases. According to Panadero (2017), Zimmerman's model is the most frequently cited in the field. In the forethought phase, students use SRL strategies (i.e., techniques or actions that students perform) such as setting goals and planning appropriate actions for the upcoming task. Specific goals lead to consistent performance (Latham & Locke, 1991),
+## Research purpose and questions
+To address the limitations of previous research on supporting SRL in online activities, we introduce \_SRLAdvisor,\_ a novel LLM-based recommender system. This system offers two key advantages over previous methods. First, unlike \_static\_ approaches such as pre-set questions embedded in videos or databases, \_SRLAdvisor\_ employs Conversational Self-Regulated Learning Profiling (CSRLP) to analyze students' conversational data in real time and extract information related to students' self-regulation. This
+## Overall structure
+The LLM-based recommender system comprises three components: (a) Task Agent, (b) Recommendation Agent, and (c) SRL widgets (Fig. 1). The LLM model used was ChatGPT4o. SRLAdvisor was developed as a web-based application with a Vue.js front-end providing interactive user interfaces for learners, and a Django (Python) back-end responsible for managing data, integrating the OpenAI API for ChatGPT-4o, and performing structured information extraction (SIE). A MySQL database stored conversational
+## Method
+This study used a sequential explanatory mixed-methods design (Creswell et al., 2003), combining quantitative and qualitative data collection to provide a comprehensive analysis of the \_SRLAdvisor\_ system. The use of mixed methods enables us to address both the breadth and depth of the research questions: quantitative data allow us to assess the effectiveness of \_SRLAdvisor\_ on student outcomes, while qualitative data offer deeper insights into how and why these outcomes occurred from the
+## RQ1: can Conversational Self-Regulated Learning Profiling accurately detect students’ self-regulation information from their conversational data?
+Cohen's kappa was computed to determine the agreement between the two human coders' judgments of whether the CSRLP method could accurately detect students' self-regulation information from the chat conversational data. As outlined earlier, two human coders independently coded a sample of 320 chat records, representing 20 % of the total dataset. They then compared their manual coding with the results generated by CSRLP, using a five-point scale to assess decoding accuracy, ranging from 1
+## Discussion
+This study introduced the \_SRLAdvisor\_, a system that integrates Task Agent, Recommendation Agent and SRL widgets. This system aims to deliver personalized, actionable recommendations for students' follow-up SRL actions. We first evaluated the performance of \_SRLAdvisor\_ based on the accuracy of the CSRLP method, the precision and recall of the recommendation agent, and students' perceived usefulness. Then, we tested the impact of the \_SRLAdvisor\_ on students’ proficiency in using SRL strategies and
+## Conclusion
+This study demonstrates that \_SRLAdvisor\_ can accurately detect students’ self-regulation information and provide personalized, actionable recommendations that enhance both SRL proficiency and academic performance. In the early stages of the course, students reported that the system can effectively supported their goal setting, planning, self-monitoring, and self-evaluation. However, over time, students appeared to benefit primarily from self-monitoring and self-evaluation—particularly when these
+## Funding information
+This work was supported by the Research Grants Council of Hong Kong Research Fellow Scheme (Reference no: RFS2223-7H02).
+## CRediT authorship contribution statement
+\*\*Xinyi Luo:\*\* Writing – original draft, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Sikai Wang:\*\* Writing – review & editing, Visualization, Validation, Software, Methodology, Investigation, Formal analysis, Conceptualization. \*\*Khe Foon Hew:\*\* Writing – review & editing, Supervision, Methodology, Funding acquisition, Conceptualization.
+## Ethics statement
+This study was approved by the authors’ Human Research Ethics Committee. Informed consent was obtained from all subjects involved in the study.
+## Declaration of generative AI and AI-assisted technologies in the writing process
+Generative AI (e.g., ChatGPT-4.1) was used to improve the readability and clarity of the manuscript. After using this tool, the authors carefully reviewed the content. They fully accept responsibility for the publication's content.
+## Declaration of competing interest
+The authors declare that they have no conflicts of interest.
+Recommended articles
+- L. Barnard \_et al.\_
+### [Measuring self-regulation in online and blended learning environments](https://www.sciencedirect.com/science/article/pii/S1096751608000675)
+### Internet and Higher Education
+(2009)
+- A. Chen \_et al.\_
+### [Unpacking help-seeking process through multimodal learning analytics: A comparative study of ChatGPT vs human expert](https://www.sciencedirect.com/science/article/pii/S0360131524002124)
+### Computers & Education
+(2025)
+- A. Darvishi \_et al.\_
+### [Impact of AI assistance on student agency](https://www.sciencedirect.com/science/article/pii/S0360131523002440)
+### Computers & Education
+(2024)
+- C. Hou \_et al.\_
+### [Measuring undergraduate students' reliance on generative AI during problem-solving: Scale development and validation](https://www.sciencedirect.com/science/article/pii/S0360131525000971)
+### Computers & Education
+(2025)
+- G.P. Latham \_et al.\_
+### [Self-regulation through goal setting](https://www.sciencedirect.com/science/article/pii/074959789190021K)
+### Organizational Behavior and Human Decision Processes
+(1991)
+- Z.-M. Liu \_et al.\_
+### [Integrating large language models into EFL writing instruction: Effects on performance, self-regulated learning strategies, and motivation](https://www.sciencedirect.com/science/article/pii/S1003632623663794)
+### Computer Assisted Language Learning
+(2024)
+- M. Pan \_et al.\_
+### [Effects of GenAI-empowered interactive support on university EFL students' self-regulated strategy use and engagement in reading](https://www.sciencedirect.com/science/article/pii/S1096751624000538)
+### The Internet and Higher Education
+(2025)
+- D.C.D. van Alten \_et al.\_
+### [Effects of self-regulated learning prompts in a flipped history classroom](https://www.sciencedirect.com/science/article/pii/S0747563220300728)
+### Computers in Human Behavior
+(2020)
+- R.P. Álvarez \_et al.\_
+### Tools designed to support self-regulated learning in online learning environments: A systematic review
+### IEEE Transactions on Learning Technologies
+(2022)
+- J. Broadbent \_et al.\_
+### Technologies to enhance self-regulated learning in online and computer-mediated learning environments
+A. Bryant \_et al.\_
+### Introduction, grounded theory research: Methods and practices
+Z. Cheng \_et al.\_
+### A meta-analysis addressing the relationship between self-regulated learning strategies and academic performance in online higher education
+### Journal of Computing in Higher Education
+(2023)
+J.W. Creswell \_et al.\_
+### Advanced mixed methods research designs
+F.D. Davis
+### Perceived usefulness, perceived ease of use, and user acceptance of information technology
+### MIS Quarterly
+(1989)
+L. Deslauriers \_et al.\_
+### Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom
+### Proceedings of the National Academy of Sciences
+(2019)
+Q. Dong \_et al.\_
+### A survey on in-context learning
+J. Du \_et al.\_
+### Designing a recommender system to promote self-regulated learning in online contexts: A design-based study
+### Education and Information Technologies
+(2024)
+J.A. Fredricks \_et al.\_
+### School engagement: Potential of the concept, state of the evidence
+### Review of Educational Research
+(2004)
+View more references
+This article is part of a special issue entitled: GenAI enhanced learning published in Computers & Education.
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525002544)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

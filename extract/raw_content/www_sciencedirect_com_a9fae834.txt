@@ -1,0 +1,1021 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S2666920X24001589
+# Content Length: 189793 characters
+# Extracted at: 2026-03-24 05:14:25
+#============================================================
+
+Artificial intelligence in teaching and teacher professional development: A systematic review - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X24001589&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X24001589)
+\* [View \*\*PDF\*\*](/science/article/pii/S2666920X24001589/pdfft?md5=bc3f4393a2a4df98e3a76f6a672e03c0&pid=1-s2.0-S2666920X24001589-main.pdf)
+\* Download full issue
+Search ScienceDirect
+## Outline
+1. [Abstract](#abs0010)
+2. [Keywords](#kwrds0010)
+3. [1. Introduction](#sec1)
+4. [2. Method](#sec2)
+5. [3. Results](#sec3)
+6. [4. Discussion](#sec4)
+7. [5. Conclusions](#sec5)
+8. [CRediT authorship contribution statement](#sec7)
+9. [Funding](#sec8)
+10. [Declaration of competing interest](#coi0010)
+11. [References](#cebib0010)
+Show full outline
+## [Cited by (138)](#section-cited-by)
+## Figures (15)
+1. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr1.sml)](#fig1)
+2. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr2.sml)](#fig2)
+3. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr3.sml)](#fig3)
+4. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr4.sml)](#fig4)
+5. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr5.sml)](#fig5)
+6. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr6.sml)](#fig6)
+Show 9 more figures
+[![](https://sciencedirect.elseviercdn.cn/prod/c7e213f07d8c815be33afc4dbc154d233f811d60/image/elsevier-non-solus.svg)](/journal/computers-and-education-artificial-intelligence)
+## [Computers and Education: Artificial Intelligence](/journal/computers-and-education-artificial-intelligence)
+[Volume 8](/journal/computers-and-education-artificial-intelligence/vol/8/suppl/C), June 2025, 100355
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24X0003X-cov150h.gif)](/journal/computers-and-education-artificial-intelligence/vol/8/suppl/C)
+# Artificial intelligence in teaching and teacher professional development: A systematic review
+Author links open overlay panelXiaoTan, [GaryCheng](/author/35995385400/gary-k-s-cheng), Man HoLing
+Show more
+Outline
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S2666920X24001589&orderBeanReset=true)
+Under a Creative Commons [license](http://creativecommons.org/licenses/by-nc/4.0/)
+Open access
+## Abstract
+The application of Artificial Intelligence (AI) technology in education is increasingly recognized as a key driver of educational innovation. While extensive literature exists on the integration of AI technologies in educational settings, less emphasis has been placed on the critical role of teachers and their professional development needs. This study systematically reviews research conducted between 2015 and 2024 on teachers' use of AI technology in their teaching and professional development, focusing on the relationship between the supply of professional development opportunities and the demand for AI integration among teachers. Using PRISMA principles and protocols, this review identified and synthesized 95 relevant research articles. The findings reveal a significant imbalance in research focus. Specifically, 65% of the studies examined the application of AI in teaching, including technologies such as conversational AI and related technologies, AI-driven learning and assessment systems, immersive technologies, visual and auditory computing, and teaching and learning analytics. In contrast, only 35% of the studies explored AI's role in enhancing teacher professional development. This review highlights a gap in research addressing the development needs of teachers as they integrate AI technologies into their teaching practices. It emphasizes the need for future research to focus more on the potential of AI in teacher professional development and to investigate how AI technologies can be applied in education from both the perspectives of student learning and teacher instruction. Furthermore, research on AI in professional development should prioritize addressing technological and ethical challenges to ensure the responsible and effective integration of AI in education.
+\* [Previousarticle in issue](/science/article/pii/S2666920X24001395)
+\* [Nextarticle in issue](/science/article/pii/S2666920X25000013)
+## Keywords
+Artificial intelligence (AI)
+AI in education
+Systematic review
+Teaching
+Professional development
+## 1. Introduction
+Since 2022, generative artificial intelligence (AI) technologies, exemplified by ChatGPT, have rapidly matured and shown significant potential in various downstream tasks ([Bengesi et al., 2024](#bib10); [Lin et al., 2022](#bib69)). These technological advancements have catalyzed a growing interest in integrating earlier AI innovations from fields such as natural language processing and computer vision into educational settings, making AI in education a prominent research area ([Lo, 2023](#bib71); [Mai et al., 2024](#bib77)). Scholars have increasingly explored how these AI technologies can enhance the teaching and learning process through tools such as chatbots, AI-assisted learning platforms, data-driven decision support systems, and learning behavior analysis tools, among others ([Tang et al., 2023](#bib113); [Zhang & Aslan, 2021](#bib130)) The potential for AI to revolutionize teaching is being actively examined across the education sector.
+However, this trend is not without controversy. Concerns have been raised about the possibility of AI to diminish the role of teachers, compromise educational quality, or adversely impact students’ cognitive development ([Chan & Tsi, 2023](#bib15); [Edwards & Cheok, 2018](#bib33)). Despite these concerns, the academic community remains focused on exploring the potential applications and benefits of AI tools in teaching practices.
+Prior to the emergence of generative AI, the application of AI in education was largely confined to supporting teaching and assessment tasks, such as intelligent learning systems and automatic scoring tools ([Wang, 2021](#bib119)). For instance, [Baker et al. (2019)](#bib9) highlighted the extensive use of AI tools in education, emphasizing their service to three primary stakeholder groups: learners, teachers, and educational administrators. Intelligent learning systems, such as CENTURY, have been beneficial for students, enabling self-paced learning and customizing learning materials to align with individual interests. Similarly, intelligent instructional management software, like ClassCharts, has supported teachers by reducing administrative burdens, providing deeper insights into student performance, and fostering innovative classroom practices. Moreover, certain AI applications, such as supervised machine learning-based school evaluation systems, have aided school administrators in decision-making and information management. While these tools have enhanced teaching and learning processes, their functionalities and applications were relatively narrow in scope. Prior research indicates that early AI systems were limited in their ability to assess complex cognitive performance and generate personalized learning content ([Zawacki-Richter et al., 2019](#bib128)).
+With the rapid development of generative AI technologies, particularly the emergence of the applications based on large language models like ChatGPT, the field of education is witnessing unprecedented opportunities for innovation. These AI tools are not only adept at generating text and images but are also capable of handling complex tasks such as programming and creative writing ([Creely & Blannin, 2023](#bib24); [Denny et al., 2024](#bib28)). This progress significantly expands the scope of AI applications in education, offering enhanced flexibility and efficiency in content creation and personalized learning pathway development. For teachers, generative AI technologies not only enrich the learning experience but also increase teaching efficiency, enabling them to dedicate more time to instructional innovation and student interaction ([Kshetri, 2023](#bib58)).
+In recent years, numerous scholars have extensively reviewed the applications of AI technologies in the educational sector. [Ng et al. (2023)](#bib88) examined the evolution of AI in teaching and learning research from 2000 to 2020, highlighting the widespread adoption of AI tools in university-level computer science education and noting a growing trend toward integrating AI tools in K-12 education. They also observed a global movement to incorporate AI literacy into educational standards. [Chiu et al. (2023)](#bib19) analyzed the opportunities, challenges, and future research directions of AI in education, uncovering the multifaceted roles and challenges of AI technologies across key educational domains through an analysis of literature from the past decade. [Crompton and Burke (2023)](#bib25) focused on AI applications in higher education from 2016 to 2022, reporting a rapid increase in AI usage in education, particularly in 2021 and 2022, with an expanding geographical distribution of research efforts. Similarly, [Zawacki-Richter et al. (2019)](#bib128) provided a systematic review of AI applications in higher education, emphasizing that the primary focus has been on academic support services and institutional administration. [Bozkurt et al. (2021)](#bib13) examined fifty years of AI research in education, identifying key themes in AI technologies while highlighting a significant research gap regarding ethical issues related to AI in education.
+Although the existing literature extensively explores the application of AI technologies in education, most studies focus predominantly on their direct impact on teaching processes, with comparatively less attention given to the critical role of teachers and their professional development needs. Several studies have identified a significant mismatch between the AI technology training offered by educational institutions and the practical needs of teachers ([Chiu et al., 2023](#bib19); [Ng et al., 2023](#bib88); [Zawacki-Richter et al., 2019](#bib128)). Given the pivotal role of teachers in educational activities, their proficiency in AI technologies is crucial for ensuring high-quality instruction. Therefore, it is essential to thoroughly examine how teachers utilize AI technologies in practice and to bridge the gap between existing professional development programmes and the actual needs of teachers.
+The purpose of this study is to review research conducted between 2015 and 2024 to develop a comprehensive understanding of teachers' achievements in integrating AI technologies into their teaching and their professional development within this context. Focusing on this time period was a deliberate choice, as it captures a decade marked by rapid advancements in AI and its transformative impact on education. The year 2015 marked a pivotal moment in AI's evolution, characterized by the emergence of groundbreaking technologies—such as deep learning and natural language processing—that renewed interest in applying AI across educational contexts ([LeCun et al., 2015](#bib61)). This period also witnessed a significant rise in AI-driven educational tools designed specifically to support teacher training, professional development, and instructional practices ([Luckin et al., 2016](#bib75)).
+Through a systematic review of literature published between 2015 and 2024, this study aims to examine the relationship between the availability of professional development opportunities and the needs of teachers in applying AI technologies in education. Additionally, it seeks to provide actionable recommendations for effective teacher professional development programmes. The research questions (RQs) guiding this study are as follows:
+RQ1. What are the publication trends related to AI in teaching and professional development published between January 2015 and July 2024, including the number of studies, geographical distribution, disciplinary focus, educational levels, and types of AI technologies used?
+RQ2. How do teachers integrate AI technologies into their teaching practices at different educational levels and disciplinary focuses?
+RQ3. What are the major research areas on teacher professional development programmes aimed at supporting the integration of AI in teaching practices?
+RQ1 focuses on publication trends to provide a temporal and contextual overview of the field, identifying periods of growth and shifts in focus. This analysis is crucial for understanding the evolution of interest in AI for teaching and teacher professional development, particularly in light of recent advancements in generative AI technologies. It also highlights emerging areas and potential research gaps, offering a foundation for further exploration. RQ2 examines how teachers integrate AI technologies across different educational levels and disciplinary focuses. By investigating this aspect, this question seeks to uncover variations in the use of AI, which can inform the development of tailored strategies for effective integration. Understanding these differences is critical for designing professional development programmes that address specific needs within diverse educational settings. RQ3 aims to map the major research areas within this field, providing insights into the thematic focus of existing studies. This analysis identifies predominant topics and methodologies, offering a structured overview to inform future research directions and identify underexplored areas requiring further investigation. Together, these research questions provide a comprehensive framework for understanding the field, guiding both practical applications and future research endeavors.
+## 2. Method
+This study follows the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines to systematically address the research questions. PRISMA provides a standardized framework for conducting systematic reviews, encompassing steps such as literature searching, screening, data extraction, analysis, and reporting ([Page et al., 2021](#bib94)). The specific steps undertaken in this research are: (1) conducting a comprehensive literature search based on predefined inclusion and exclusion criteria; (2) performing two rounds of screening to evaluate the eligibility of the identified studies; (3) extracting key information from the selected studies and organizing it into structured tables; (4) analyzing the extracted data in detail to address the research questions; and (5) preparing the research report in alignment with PRISMA standards.
+### 2.1. Search strategy
+This research focuses on literature related to teachers’ integration of AI technologies into their teaching practices and professional development. To address the research questions, a search strategy was developed to target articles published between January 1, 2015, and July 30, 2024. The initial step involved identifying core keywords, including “artificial intelligence” and “teachers”. A preliminary review of search results was then conducted to refine and expand the keywords to ensure comprehensive coverage. This process resulted in the inclusion of AI-related terms (“artificial intelligence”, “AI”, “ChatGPT”, “GAI”, and “Generative AI”) and terms related to teaching and professional development (“teaching”, “teacher training”, and “teacher professional development”). The search was applied to titles, keywords, and abstracts of articles containing at least one AI-related term and one term related to teaching and professional development. The literature search was conducted using two major databases: Scopus and Web of Science (WoS), recognized for their extensive coverage of high-quality journals across various disciplines, including education and artificial intelligence ([Tang et al., 2023](#bib113); [Zhang & Aslan, 2021](#bib130)). These databases were selected due to their reputation as the most reliable sources for citation indexing in evidence-based scientific research ([Ng et al., 2023](#bib88)).
+The initial search results yielded 5623 articles: 792 from Scopus and 4831 from WoS. To ensure quality, only peer-reviewed journal articles were included. This approach aligns with the perspectives of [Hwang et al. (2021)](#bib47) and [Tang et al. (2023)](#bib113), who suggest that systematic reviews focusing on high-quality journal articles are more likely to reveal meaningful research trends. Non-empirical papers and conference papers were excluded due to their lack of rigorous research design and reproducibility ([Booth et al., 2021](#bib11)). This selection critiera is consistent with established systematic review guidelines, which recommend prioritizing sources with verified rigor to enhance the validity of findings ([Page et al., 2021](#bib94)). After applying predefined inclusion and exclusion criteria (see [Fig. 1](#fig1)), the initial pool was reduced to 2373 articles for detailed screening.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr1.jpg)
+1. [Download: Download high-res image (710KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr1\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr1.jpg)
+Fig. 1. PRISMA flowchart of article selection.
+### 2.2. Screening
+The screening process was conducted manually with meticulous attention to detail. First, duplicate articles were identified and removed by screening for duplicate titles and authors, resulting in the exclusion of 485 publications. Second, the titles and abstracts of the remaining articles were reviewed against the predefined inclusion and exclusion criteria (see [Fig. 1](#fig1)). The step ensured that only empirical studies related to teachers’ integration of AI technologies into their teaching practices and professional development were included. As a result, 1696 articles were excluded for being irrelevant or falling into excluded categories such as conceptual papers, literature reviews, commentaries, conference papers, and other non-empirical research. Third, during the manual screening process, 23 articles were excluded due to the unavailability of full text. Following this, a thorough review of the full texts of eligible studies led to the exclusion of 74 additional articles that did not meet the inclusion criteria. A total of 2278 articles were excluded after screening. Ultimately, 95 articles were deemed eligible and included in this systematic review.
+### 2.3. Coding
+As outlined in the research questions, this study aims to examine how teachers apply AI technologies in their teaching practices and their professional development. To achieve these objectives, a combination of deductive and inductive coding methods was employed to systematically analyze the 95 selected articles.
+To ensure the validity and reliability of the coding process, this study utilized predefined codes to categorize information based on the theoretical framework and coding methods referenced in prior research ([Bozkurt et al., 2021](#bib13); [Crompton & Burke, 2023](#bib25); [Ng et al., 2023](#bib88)). Deductive coding was applied during the initial stage to extract and record specific information from the articles, including author affiliations, geographical locations, research fields, and publication years, based on data from the Scopus and WoS databases. Predefined codes were also employed to classify disciplines (e.g., English language, mathematics, science) and educational levels (e.g., higher education, K-12 education).
+During the inductive coding phase, grounded theory coding techniques ([Strauss & Corbin, 1994](#bib109)) were employed to identify emergent themes related to AI development trends and teaching applications as reflected in the literature. "In vivo" coding ([Saldaña, 2021](#bib103)) was utilized to extract language directly from the texts, ensuring that the codes remained closely aligned with the original authors’ findings. To ensure reliability, a multi-round iterative coding process was implemented, enabling continuous comparison and refinement of codes. Initial codes were systematically developed into axial codes ([Strauss & Corbin, 1994](#bib109)) to establish meaningful connections between themes.
+This iterative approach was further complemented by an intercoder reliability process to enhance the robustness of the analysis. Two independent researchers with expertise in the field coded the articles separately and then compared and refined their results to assess consistency. Cohen's Kappa was employed to quantify intercoder agreement, yielding a value of 0.85, which indicates strong agreement ([McHugh, 2012](#bib80)). Any discrepancies between the coders were discussed and resolved to reach consensus.
+These steps ensured both the validity and reliability of the coding process. As a result of this systematic approach, the coded data was organized into two main categories: “AI in teaching” and “AI in professional development”. For “AI in teaching”, articles were grouped based on their focus on AI applications in teaching. This category was further refined through deductive coding to classify studies by educational levels, subject disciplines, and types of AI technologies used. For “AI in professional development”, articles were grouped based on their examination of teacher professional development in using AI technologies. Inductive coding was then applied to identify specific professional development purposes, while also categorizing the various AI technologies employed in these studies.
+## 3. Results
+We conducted a comprehensive analysis of the 95 articles to systematically examine publication trends, including the number of studies, geographical distribution, disciplinary focus, educational levels, and types of AI technologies used. The analysis focused on teachers’ use of AI technologies and the considerations for professional development in supporting the application of these technologies. Following the analysis, five sub-categories were identified under "AI in teaching", and four sub-categories were identified under "AI in professional development". For each sub-category, we applied axial coding to integrate two secondary codes—discipline and educational level—derived from the deductive coding process.
+### 3.1. RQ1: what are the publication trends related to AI in teaching and professional development published between January 2015 and July 2024, including the number of studies, geographical distribution, disciplinary focus, educational levels, and types of AI technologies used?
+#### 3.1.1. Number of studies
+The literature search for this study spanned from January 1, 2015 to July 31, 2024. Research focusing on the application of AI in teaching from the teacher's perspective, as well as studies on teacher professional development in using AI, began to gain momentum in 2019. A notable surge in publications occurred starting in 2022, reflecting increased scholarly attention to this area (see [Fig. 2](#fig2)).
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr2.jpg)
+1. [Download: Download high-res image (255KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr2\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr2.jpg)
+Fig. 2. Annual publication trends.
+#### 3.1.2. Geographical distribution
+The geographical distribution of included studies was analyzed based on the institutional affiliation of the first author. Among the 95 articles, researchers were affiliated with institutions in 30 different countries or regions (see [Fig. 3](#fig3)). The majority of studies were conducted by researchers based in the United States and China.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr3.jpg)
+1. [Download: Download high-res image (335KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr3\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr3.jpg)
+Fig. 3. Geographical distribution.
+#### 3.1.3. Disciplinary focus
+During the deductive coding phase, the 95 articles were categorized into 15 disciplinary areas according to the subjects addressed in the research (see [Fig. 4](#fig4)). In the “AI in teaching” category, the primary focus was on AI applications in English language, computer science, arts, mathematics, science and education. Meanwhile, in the “AI in professional development” category, English language and education remained prominent areas, while many studies taking a multidisciplinary approach to enhance teachers’ AI literacy and competency across various subjects.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr4.jpg)
+1. [Download: Download high-res image (319KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr4\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr4.jpg)
+Fig. 4. Disciplinary focuses.
+#### 3.1.4. Educational levels
+During the deductive coding phase, the 95 articles were categorized into eight educational levels based on the target population of the research (see [Fig. 5](#fig5)). The majority of studies focused on higher education, followed by research targeting secondary education and then primary education. It is noteworthy that the application of generative AI in special education has also emerged as an area of growing interest.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr5.jpg)
+1. [Download: Download high-res image (242KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr5\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr5.jpg)
+Fig. 5. Educational levels.
+#### 3.1.5. Types of AI technologies used
+A review of the 95 articles identified four distinct types of AI technologies employed in the studies (see [Fig. 6](#fig6)). Among the articles focusing on AI in professional development, 17 did not specify the AI technology used and were categorized as “not mentioned”. Notably, conversational AI technologies, particularly chatbots, have emerged as the most frequently utilized, with many studies exploring how chatbots, such as ChatGPT, could facilitate teaching and learning processes.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr6.jpg)
+1. [Download: Download high-res image (249KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr6\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr6.jpg)
+Fig. 6. Types of AI technologies used.
+### 3.2. RQ2: How do teachers integrate AI technologies into their teaching practices at different educational levels and disciplinary focuses?
+A total of 62 studies explored how teachers integrate various AI technologies in their teaching practices. These technologies are categorized into conversational AI and related technologies, AI-driven learning and assessment systems, immersive technologies, visual and auditory computing, and teaching and learning analytics. This section provides an overview of how teachers utilized these technologies across different educational levels and disciplinary focuses, organized by the specific types of AI technologies.
+#### 3.2.1. Conversational AI and related technologies
+The integration of conversational AI and related technologies, such as natural language processing techniques and chatbot technologies, into teaching practices across different educational levels was examined in 38 studies: 8 focused on K-12 education, 24 on higher education, and 6 on other educational contexts. With advancements in generative AI, the use of conversational AI and related technologies in education has become increasingly diverse. This diversity is depicted in the treemap in [Fig. 7](#fig7), where each rectangle represents a specific category of use, with its size proportional to the frequency of representation across various studies. Conversational AI and related technologies play dual roles in education. On one hand, they assist teachers by delivering personalized learning experiences and real-time feedback to students, thereby enhancing student engagement and improving academic performance. On the other hand, they support teachers by improving teaching efficiency through automating tasks such as curriculum design, test question generation, and student assignment evaluation.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr7.jpg)
+1. [Download: Download high-res image (437KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr7\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr7.jpg)
+Fig. 7. The use of conversational AI and related technologies in teaching.
+##### 3.2.1.1. Higher education
+The application of conversational AI and related technologies in teaching practices has been extensively explored in higher education, with 24 studies across various disciplines, including STEM (science, technology, engineering, and mathematics), education, languages (e.g., Chinese and English), and other fields.
+###### 3.2.1.1.1. STEM
+In the field of STEM, seven studies focused on the pedagogical application of conversational AI and related technologies. For example, [Lu et al. (2021)](#bib72) explored the potential of emerging AI technologies, particularly natural language processing (NLP), for automatic generation of short-answer questions. [Demszky et al. (2023)](#bib27) developed an NLP-based tool, M-Powering Teachers, to give automated feedback aimed at enhancing instructors' uptake of student contributions, thereby improving students’ course satisfaction.
+Recognizing the conversational content generation capabilities of chatbots like ChatGPT, five studies explored their applications in teaching practices. [Jukiewicz (2024)](#bib50) examined the role of ChatGPT in automating scoring and feedback, indicating a strong positive correlation with human teacher evaluations. [Rahman and Watanobe (2023)](#bib99) demonstrated ChatGPT's supportive role in programming education, reporting high student satisfaction while highlighting potential challenges such as bias, academic integrity concerns, and over-reliance on the technology.
+Additionally, [Tassoti (2024)](#bib114) introduced the “Five S” prompt framework to assist students in refining their prompts for chemistry-related questions, resulting in higher student satisfaction with AI-generated responses from a Discord chatbot powered by ChatGPT. [Jia et al. (2024)](#bib49) compared tips for geometry and algebra problems generated by ChatGPT with those created by human tutors using the Turing test. Their findings revealed that most human evaluators struggled to distinguish between human- and AI-generated tips, suggesting that ChatGPT can support educators by reducing the effort involved in designing mathematical tips. [Bai et al. (2024)](#bib8) proposed a three-step process for prompt engineering to facilitate scenario-based learning with ChatGPT, leading to increased intrinsic motivation, improved learning performance, and more positive attitudes towards coding and computational thinking among students\*\*.\*\*
+###### 3.2.1.1.2. Education
+In the field of education, six studies explored the use of chatbots to support teaching practices. Among these, four focused on utilizing chatbots to guide students in developing conceptual understanding across various educational contexts. [Fidan and Gencel (2022)](#bib37) examined the impact of integrating AI chatbots and peer feedback mechanisms into educational videos as tools for pre-service teachers, focusing on their effects on learning performance and intrinsic motivation in online learning environments. Their findings revealed that, compared to traditional learning methods, groups utilizing chatbots and peer feedback achieved higher learning performance and greater intrinsic motivation. This suggests that AI-driven feedback mechanisms can be effective teaching tools in online education.
+[McLeod and Richardson (2023)](#bib81) shared their experiences using ChatGPT as a teaching tool for digital technologies in an initial teacher education programme at an Australian university. They highlighted how students and educators used ChatGPT to co-construct technological knowledge, emphasizing the importance of explicit instruction and playful experimentation with the tool. Similarly, [Li (2023)](#bib66) proposed a ChatGPT-based flipped learning guidance approach (ChatGPT-FLGA), highlighting ChatGPT's role in providing scaffolding and assistance to students. Compared to the traditional flipped learning guidance approach, the ChatGPT-supported approach significantly enhanced students' performance, self-efficacy, learning attitudes, intrinsic motivation, and creative thinking in course projects. These findings provide empirical evidence supporting the integration of AI in flipped classroom settings.
+[Ossa and Willatt (2023)](#bib93) introduced generative AI as a feedback tool for students at a teacher education institute in Chile. They developed the RECaP-GPT process, utilizing ChatGPT to provide feedback on students' responses to educational case studies. Their study demonstrated the potential of generative AI to deliver formative, large-scale feedback on students’ written assignments efficiently and within a short time frame.
+Other studies examined the use of chatbots to assist teachers in instructional design and enhance their teaching performance. [Davis and Lee (2024)](#bib26) conducted a case study exploring the feasibility of using ChatGPT in educational research, particularly its application in generating teaching plans. Their findings revealed that while ChatGPT was capable of producing coherent and relevant curriculum topics and subtopics, it faced limitations in integrating prior course content with current learning experiences and in strategically preparing for future learning outcomes. [Lee and Zhai (2024)](#bib64) investigated how pre-service elementary school teachers integrated ChatGPT into science learning activities as part of lesson design at a university in South Korea. Using a modified TPACK-based scoring criterion, the study evaluated lesson plans and found that the pre-service teachers demonstrated a reasonable understanding of incorporating ChatGPT into lesson design. This included developing teaching strategies such as using ChatGPT to provide additional information, support role-playing activities, deliver adaptive instruction, and facilitate feedback and reflection.
+###### 3.2.1.1.3. Language
+Chatbot technologies, such as ChatGPT, have made significant advancements in language understanding and generation. In recent years, their application in language education has garnered considerable attention, particularly for their potential to enhance language acquisition, enrich learning experience, support assessment and reduce anxiety. Nine studies have investigated this potential. For example, [Boudouaia et al. (2024)](#bib12) explored the innovative use of ChatGPT in teaching English as a Foreign Language (EFL) writing. Students used ChatGPT to identify and rectify errors in their writing and to revise their assignments based on the feedback provided. The study found that ChatGPT significantly enhanced students’ English as a Foreign Language (EFL) writing skills, which contributed to their academic success. [Sasaki et al. (2024)](#bib104) examined the use of machine translation (MT) technology in writing instruction by comparing two types of written feedback: comprehensive direct Teacher Corrective Feedback (TCF) and MT-based feedback, in which Japanese text was translated into English. Their analysis showed that TCF was more effective in improving linguistic complexity, while MT-based feedback better enhanced accuracy and fluency. Additionally, participants reported feeling more positive and significantly more motivated when receiving TCF compared to MT-based feedback.
+Similarly, [Kemelbekova et al. (2024)](#bib54) examined the impact of a chatbot-driven AI system on improving students' oral skills and overall learning experience. Their findings suggest that the integration of AI in teaching English as a second language can make a substantial contribution to the development of oral communication abilities, as AI excels at evaluating students' pronunciation and providing tailored suggestions to enhance their speaking skills. [Guo et al. (2023)](#bib44) proposed an innovative approach to classroom debates by utilizing chatbots to facilitate students’ preparation through engagement in argumentative discourse. Their results demonstrated that students effectively generated ideas by interacting with the chatbot. Additionally, students expressed positive attitudes toward the integration of the chatbot in debate preparation.
+[Wang and Xue (2024)](#bib120) explored the role of an AI-powered chatbot in enhancing the academic engagement of Chinese EFL students. Their findings revealed that students demonstrated higher levels of behavioral, cognitive, and emotional engagement in the language learning process. This improvement was attributed to the chatbot's ability to provide a personalized learning experience with timely and individualized feedback, fostering a supportive learning environment that further encourages student participation. Additionally, [Ji et al. (2024)](#bib48) investigated the interactions among teachers, students, and conversational AI (CAI) in language education, highlighting evidence of collaboration between the teacher and CAI in facilitating learning activities. Acting as a virtual native speaker, the CAI enabled students to practice vocabulary pronunciation and provided word definitions with accurate native pronunciation. Teachers played a crucial role in supporting these student–CAI interactions, effectively managing activities through real-time reflective guidance.
+In the context of language assessment, [O (2024)](#bib92) demonstrated that ChatGPT-generated English test questions closely align with those created by human instructors in terms of content. This highlights AI's potential to support teachers in test item creation, effectively reducing their workload and saving time. [Lu, Yao, et al. (2024)](#bib73) examined ChatGPT as a supplementary tool for assessing undergraduate academic Chinese writing. The study found moderate to good consistency between ChatGPT and teacher evaluations, though ChatGPT's feedback was often more abstract and less detailed than teachers' feedback. Three key ways in which ChatGPT complements teacher assessments were identified: fostering a deeper understanding of feedback, encouraging critical evaluation, and promoting independent thinking during the revision process.
+From a psychological perspective, [Chen (2024)](#bib17) explored the impact of technology-enhanced language learning on reducing public speaking anxiety among EFL learners, highlighting the potential of AI-driven tools to alleviate anxiety and enhance learning outcomes. By integrating AI with Automatic Speech Recognition (ASR), learners received analytical feedback and were able to monitor their speaking progress. The study found that AI-generated instructional feedback significantly reduced students’ public speaking anxiety.
+###### 3.2.1.1.4. Other disciplines
+Beyond the previously discussed disciplines, two studies investigated the application of conversational AI and related technologies in higher education across other fields. [Fuller et al. (2024)](#bib38) examined the use of ChatGPT for analyzing open-ended student course evaluation comments in pharmacy education. The study compared the themes identified by course instructors with those generated by ChatGPT, revealing a high level of agreement between the two. Moreover, ChatGPT significantly reduced the time required for analysis, alleviating instructors’ workload while offering more detailed insights into the identified themes, thereby enhancing the overall analytical process.
+[Vartiainen and Tedre (2023)](#bib118) explored the use of AI in craft education, focusing on text-to-image generation models. Through practical workshops, the study examined teachers’ perspectives on the challenges and opportunities of integrating generative AI into craft practices. Teachers emphasized that AI could enhance the ideation process by offering fresh perspectives and visualizing both realistic and imaginative designs. However, concerns were raised regarding data-driven design, particularly issues such as algorithmic bias and the "black-boxing" of creativity.
+##### 3.2.1.2. K-12 education
+Among the eight studies conducted in K-12 education, conversational AI and related technologies were primarily utilized to facilitate lesson planning, instruction, and assessment. For example, [AlAli and Al-Barakat (2023)](#bib4) investigated the potential of ChatGPT as a tool to enhance teaching effectiveness in kindergarten classrooms. The study identified two key applications of ChatGPT: first, it assists kindergarten teachers in expanding students’ linguistic skills by generating example sentences from curated vocabulary lists, thereby supporting language development. Second, ChatGPT facilitates the creation of differentiated learning activities tailored to individual student needs, including those with special needs such as autism or attention deficit disorder, thus promoting inclusivity and student engagement.
+[Yuan (2023)](#bib126) explored the integration of an AI chatbot in English language instruction at a Chinese elementary school. The findings revealed that students who used the AI chatbot outperformed their peers in traditional classrooms in terms of oral English proficiency and willingness to communicate. By creating a supportive and non-judgmental environment, chatbots not only improved students’ language skills but also reduced anxiety and increased their confidence in speaking English. Similarly, [Evmenova et al. (2024)](#bib35) examined the effectiveness and limitations of AI in providing feedback to elementary school students with varying proficiency levels of writing. The study found that ChatGPT could follow purposeful prompts and evaluate student essays using a criterion-based rubric when supplied. However, the feedback quality varied across different ChatGPT versions and prompts, and there was a noticeable lack of alignment between AI-generated feedback and individual student characteristics, such as proficiency level or specific needs.
+In a related context, [Yuxiu (2024)](#bib127) developed an AI translation teaching system module that incorporated neural machine translation (NMT) and statistical machine translation (SMT) algorithms to enhance translation accuracy and teaching effectiveness. Implemented in secondary school settings, the module provided students with real-time translation tools, translation evaluations, and constructive feedback, effectively supporting their translation skill development and overall learning experience.
+[Karaman and Göksu (2024)](#bib51) evaluated the effectiveness of ChatGPT-generated lesson plans in elementary mathematics education. The study found that ChatGPT's lesson plans were equally effective compared to teacher-prepared plans in improving students' mathematics achievement. ChatGPT leveraged extensive data to design inclusive and structured lesson plans, incorporating elements such as clear learning objectives, real-life connections, cooperative learning, peer learning, creativity, and regular feedback. The plans also featured effective time management and flexibility, making them comparable to traditional, teacher-prepared lessons in achieving educational outcomes.
+[Yetişensoy and Karaduman (2024)](#bib124) explored the use of an AI-powered chatbot, SosyalciBot, in teaching 6th-grade social studies on the topic of “Culture and Heritage”. Their findings revealed that students who used the chatbot achieved higher test scores and exhibited better knowledge retention. Contributing factors included the chatbot's integration of images, voice and text-based content delivery, clue-supported Q&A activities, and instant feedback, all of which students recognized as enhancing their learning experience.
+Finally, [Kasepalu et al. (2022)](#bib53) investigated the potential of AI to support teachers in managing collaborative learning (CL) activities more effectively, with a specific focus on upper secondary biology classes. The study examined how teachers interacted with an AI assistant during synchronous, face-to-face CL sessions, assessing its perceived usefulness and its capacity to prompt pedagogical actions, particularly in relation to coregulation strategies. The findings revealed that teachers viewed the AI assistant as a valuable resource and adopted the AI-recommended intervention strategies to improve collaborative learning outcomes.
+Together, these studies indicate that the transformative potential of conversational AI and related technologies in K-12 education, particularly their ability to enhance teaching efficiency, enrich student learning experiences, provide personalized feedback, and foster higher-order thinking skills among students. However, challenges remain in the educational application of these technologies, including concerns about data privacy, maintaining academic integrity, and effectively integrating these technologies into existing teaching practices, as highlighted by secondary English teachers ([Fassbender, 2024](#bib36)).
+##### 3.2.1.3. Other educational contexts
+In addition to their applications in higher education and K-12 settings, conversational AI and related technologies have also been employed in special education, professional training, and other teaching contexts. In these diverse educational environments, chatbots have taken on multiple roles, including designing learning goals, generating lesson plans, promoting self-regulated learning, and supporting various instructional strategies.
+In special education, two studies ([Rakap, 2024](#bib100); [Rakap & Balikci, 2024](#bib101)) have investigated the potential of ChatGPT in supporting teachers to formulate goals for Individualized Education Programs (IEPs) in special education. The findings indicate that teachers using ChatGPT not only focused more on higher-quality goals related to communication, social skills, motor/sensory abilities, and self-care but also spent significantly less time developing these goals compared to their counterparts. Additionally, the ChatGPT-assisted goals were more comprehensive, effectively addressing the specific strengths and needs of children with autism.
+In professional training, [Cooper (2024)](#bib22) evaluated ChatGPT's effectiveness in creating lesson plans for music training courses. The study found that teachers struggled to differentiate between AI-generated and human-created plans, though the AI plans were rated lower in quality. Teachers were most likely to identify a plan as AI-generated when it lacked specificity or failed to reflect adequate musical or pedagogical knowledge suited to classroom requirements. [Ghafouri et al. (2024)](#bib41) explored the use of ChatGPT in EFL teacher training, focusing on its effects on teachers' self-efficacy and students' writing skills. They introduced a three-phase writing instruction protocol (CGWIP) incorporating ChatGPT for planning, instruction, and assessment. ChatGPT was used to brainstorm ideas, engage students in writing and reflection, and provide detailed feedback by simulating public writing exams. The study found that the protocol improved teachers' efficiency in writing instruction and enhanced students' writing skills.
+[Karataş et al. (2024)](#bib52) conducted a case study to explore the impact of ChatGPT on students' language learning experiences in a university preparatory foreign language class. Students utilized ChatGPT for diverse learning activities, such as creating posts and stories, planning virtual field trips, engaging in role-plays and debates, and brainstorming research questions. The findings revealed that ChatGPT significantly enhanced students’ writing, grammar, and vocabulary skills while also boosting their motivation and engagement in language learning.
+Moreover, [Chiu (2024)](#bib18) examined how ChatGPT-based learning activities address students' needs for autonomy, competence, and relatedness while supporting each phase of self-regulated learning from a teacher's perspective. The study developed a classification tool comprising 20 ChatGPT-based learning activities to help researchers replicate, implement, and integrate effective ChatGPT practices in educational research and projects.
+Overall, these studies demonstrate that conversational AI and related technologies can significantly enhance the effectiveness and quality of instruction across various educational levels. However, they also underscore several challenges, including over-reliance on AI tools, difficulties in evaluating AI-generated content, the necessity for teachers to develop AI competency, concerns about the validity and completeness of feedback, academic integrity issues, and ethical and bias considerations.
+#### 3.2.2. AI-driven learning and assessment systems
+Five studies examined the application of AI-driven learning and assessment systems from the perspective of teachers, focusing on how these technologies can be integrated into teaching practices to enhance educational quality and effectiveness (see [Fig. 8](#fig8) for the treemap).
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr8.jpg)
+1. [Download: Download high-res image (352KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr8\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr8.jpg)
+Fig. 8. The use of AI-driven learning and assessment systems in teaching.
+[Niu et al. (2022)](#bib91) investigated the implementation of an AI-assisted education platform, namely “Smart-Learning Partner”, in Chinese lower secondary schools. This AI-powered platform provides opportunities for personalized learning and access to enriched educational resources. Using qualitative methods, including interviews and surveys, the study included 98 students and 32 teachers from nine schools in less developed regions of China. The findings revealed that both teachers and students regarded the platform as a valuable tool for education. It offered diverse self-assessment tools, personalized and comprehensive performance reports, and tailored recommendations to address individual student needs.
+[Zhang (2024)](#bib129) developed the Flipped Teaching and Assessment Model (MAFTA) using an AI-enabled MOOC platform to enhance university English teachers' Technological Pedagogical Content Knowledge (TPACK) and improve the quality of students' written work. MAFTA integrated a flipped learning approach, where students watched MOOC lessons before class to learn genre structures and techniques, along with two additional tools: a scenario-based reading-to-write (SBRtW) platform and the AI-powered automated writing evaluation (AWE) system. The SBRtW platform used real-life scenarios, virtual tutor characters, and reading materials to guide students’ writing, providing scaffolding and enhancing their learning experience.
+Other studies have focused on the use of AI-driven learning and assessment systems to automate the assessment of student learning processes and outcomes. For example, [dos Santos et al. (2022)](#bib31) explored how teachers could assess rhythm-related dance skills using motion sensor data from smartphones in professional training. The study demonstrated the feasibility of extracting rhythmic information from smartphone sensors. The extracted data inspired ideas for integrating such data into their pedagogical practices, thereby enriching educational approaches.
+[Krange et al. (2023)](#bib57) developed an AI-based automated essay assessment tool (EAT) to provide targeted feedback on areas where 8th-grade students need improvement in English writing skills. The EAT effectively supports students' writing development by utilizing detailed feedback logs generated for each student's writing trajectory. Its effectiveness could be further enhanced through active teacher guidance, including assisting students in identifying errors and interpreting the feedback.
+In addition, [Tomić et al. (2023)](#bib116) investigated the use of a modular AI system to assess and grade collaboration in group programming projects. They implemented and evaluated four AI methods—fuzzy rules, neural networks, decision trees, and random forests. The findings indicate that these AI methods can effectively generate grading recommendations when integrated into the proposed framework, provided that teachers address additional assessment aspects, such as code quality, plagiarism, and project completion.
+In summary, these studies emphasized the crucial role of teachers in facilitating students’ effective use of AI-driven learning and assessment systems, demonstrating how AI could enhance educational platforms and optimize the teaching, learning and assessment process. However, they also highlighted challenges in applying these technologies, such as technological limitations, acceptance barriers among students and teachers, and the need for professional development to support teachers in effectively integrating these AI-driven systems into their teaching practices.
+#### 3.2.3. Immersive technologies
+Four studies explored the role of immersive technologies, such as augmented reality (AR), virtual reality (VR), and robotics, in promoting teaching innovation and enhancing the learning experience (see [Fig. 9](#fig9)). These studies were conducted primarily in higher education and focused on disciplines such as arts and linguistics.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr9.jpg)
+1. [Download: Download high-res image (292KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr9\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr9.jpg)
+Fig. 9. The use of immersive technologies in teaching.
+For instance, [Miralay (2024)](#bib83) examined the integration of AI and AR technologies in higher education art courses, focusing on their benefits and limitations. The study revealed that these technologies enable students to create moving objects, significantly enhancing their motivation, creativity, and imagination. However, it also highlighted a potential drawback: a decline in traditional drawing and manual painting skills. This research underscores the transformative potential of AI and AR in art education while acknowledging their impact on foundational artistic techniques.
+[Ma (2021)](#bib76) examined the use of virtual reality (VR) technology in immersive English teaching for university students, incorporating constructivist theory into VR-based instruction. The findings showed that students in the experimental group, who experienced VR-enhanced teaching, achieved significantly greater improvements in English listening and speaking skills compared to those who did not receive VR-based instruction. This highlights the potential of VR technology to effectively enhance language proficiency.
+[Shu and Gu (2023)](#bib107) investigated the impact of an Edu-Metaverse-supported intelligent education model on the learning outcomes of university English students. The study found that those using the Edu-Metaverse model significantly outperformed their peers in traditional teaching settings in areas such as writing, reading comprehension, vocabulary, grammar, and speaking. The findings underscored the model's effectiveness in promoting deep learning, enhancing higher-order thinking skills, and cultivating more capable learners in online environments. Key contributors to these outcomes included an ecological teaching environment, multimodal course resources, and innovative pedagogy, which also encouraged greater student engagement and participation.
+Additionally, [Yang et al. (2023)](#bib121) introduced a gamified AI education robot (AIER) to improve learning in university laboratory safety courses. The study demonstrated that AIER significantly enhanced students’ academic performance, motivation, problem-solving abilities, and engagement compared to traditional methods. Using a level-based, storyline-driven approach, AIER integrated resources such as video lectures, quizzes, and tests while offering progress tracking and skill badges to sustain motivation. AIER also reduced cognitive load, contributing to more effective and engaging learning experiences.
+These studies demonstrate the transformative potential of immersive technologies in education. By leveraging such technologies, educators can create personalized and engaging learning experiences that boost student motivation and improve outcomes. However, effective implementation requires teachers to develop specific technical skills, as these technologies pose significant challenges. Furthermore, the high cost of immersive devices risks exacerbating the digital divide, underscoring the need for equitable access and sustainable solutions.
+#### 3.2.4. Visual and auditory computing
+Eight studies explored the application of visual and auditory computing technologies in education, primarily focusing on analyzing learners’ multimodal behaviors and performances to enhance the understanding of the learning process (see [Fig. 10](#fig10) for the treemap).
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr10.jpg)
+1. [Download: Download high-res image (598KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr10\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr10.jpg)
+Fig. 10. The use of visual and auditory computing in teaching.
+In the field of language learning, [Qiao and Zhao (2023)](#bib97) examined the effectiveness of AI-based teaching tools in enhancing second language (L2) speaking skills and promoting self-regulation among college students in China. Their study focused on the AI application Duolingo, which leverages speech recognition technology to create an interactive and engaging environment for speaking practice. By providing personalized feedback, Duolingo facilitated significantly greater improvements in L2 speaking skills compared to traditional instructional methods.
+[Shafiee Rad (2024)](#bib105) examined the impact of the speech recognition-enabled application Speeko on L2 college students' speaking proficiency, willingness to communicate, and perceptions. The findings revealed that students using Speeko outperformed their peers, benefiting from its personalized and interactive features. Speeko provided real-time feedback on speech, pronunciation, and grammar, helping learners correct mistakes effectively. Additionally, it reduced anxiety, enhanced public speaking confidence, and sustained engagement through motivational elements like digital rewards. Likewise, [Tai (2024)](#bib111) examined the impact of intelligent personal assistants (IPAs), such as Google Assistant, on bilingual education (BE) teachers' English-speaking proficiency. The findings demonstrated that IPAs, leveraging speech recognition technology, significantly enhanced teachers's English-speaking proficiency by creating authentic communication environments, increasing practice opportunities, and providing immediate, personalized feedback.
+Additionally, [Mohammadkarimi (2024)](#bib84) investigated the use of Listnr and Murf AI AI tools to improve pronunciation skills among elementary and pre-intermediate IELTS learners. These tools utilize advanced speech recognition and machine learning technologies to deliver personalized feedback, real-time assessment, and adaptive learning experiences. The study highlighted their effectiveness in enhancing pronunciation accuracy, building learners’ confidence, and increasing engagement through focused practice and tailored support.
+In the field of music education, [Liu (2022)](#bib70) examined the supportive role of AI technologies in enhancing college music instruction. The study explored the development of an AI-based music teaching evaluation system, utilizing emotion recognition as a key metric to assess and improve teaching quality and efficiency. Experimental results demonstrated that integrating AI with music education effectively reduces human and material costs while enhancing the overall quality and effectiveness of instruction. Moreover, [Mao (2022)](#bib78) proposed a music education model integrating AI into the model-view-controller (MVC) framework to enhance traditional school teaching methods. By employing intelligent adjustments to computational audio and triband equalizers, the model reduces the need for physical space and musical instrument resources in music education. The study found that AI-based music education achieved higher satisfaction levels among students, teachers, and parents compared to traditional approaches.
+In the field of science education, [Lee et al. (2023)](#bib63) explored the use of an AI Speaker in collaborative learning, termed CLAIS, within the context of science education. CLAIS facilitated small-group Jigsaw learning by integrating 3–4 human learners and an AI Speaker as peers. Using the ADDIE model, the researchers designed and developed the CLAIS system and evaluated its application among pre-service elementary science teachers. Through mixed-method surveys, participants provided feedback from multiple perspectives—teachers, learners, peers, and users—expressing positive attitudes toward the CLAIS learning experience.
+In physical education, [He et al. (2024)](#bib45) developed an interactive AI-based system leveraging visual analysis to enhance the teaching of the 400-m run for university students. The system comprised three modules: behavior information, user data collection, and behavior assessment. It utilized Kinect v2 to capture students' movements and employed feature extraction algorithms to analyze their running techniques. Teachers and students could access the performance data, enabling targeted and effective guidance. The study revealed that systematic instruction using this system significantly improved students’ 400-m run times by 6–7 seconds.
+These studies demonstrate the integration of AI technologies across diverse educational fields, including language learning, music education, and physical education, to deliver personalized learning experiences and real-time feedback. By leveraging visual and auditory computing technologies, educators can gain deeper insights into students' learning processes through the analysis of their performance and behavior. However, further research is required to improve the accuracy and reliability of AI-based assessments, particularly for evaluating students’ deeper cognitive states. Despite these challenges, the studies provide valuable perspectives on learner analysis, especially in areas such as behavior recognition, emotion recognition, and speech recognition.
+#### 3.2.5. Teaching and learning analytics
+Seven studies explored the use of teaching and learning analytics (TLA) technology, aiming to enhance teaching practices and improve learning outcomes through the collection and analysis of educational data (see [Fig. 11](#fig11) for the treemap).
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr11.jpg)
+1. [Download: Download high-res image (387KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr11\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr11.jpg)
+Fig. 11. The use of teaching and learning analytics.
+Four of these studies specifically focused on the use of AI technologies to collect and analyze student learning data. [Holstein et al. (2019)](#bib46) introduced Lumilo, a wearable real-time LA tool designed to support teachers in middle school mathematics classrooms. Lumilo used mixed-reality smart glasses to provide teachers with immediate feedback on student learning status, enabling informed instructional decisions and better support for individual student needs. The study highlighted an iterative co-design process, involving teachers at every stage of the design of the LA system—from identifying needs and designing features to evaluating the tool in live classrooms. [Lampos et al. (2021)](#bib60) investigated the use of AI in autism education to enhance communication strategies for children with autism spectrum conditions (ASC). Using machine learning, they analyzed teacher-student interactions to predict student responses to specific communication approaches under various classroom conditions. Their findings showed that AI tools could reliably identify strategies likely to elicit positive responses, highlighting the potential of AI to support personalized educational practices for students with ASC.
+In addition, [Echeverria et al. (2023)](#bib32) investigated shared control designs for managing dynamic transitions between individual problem-solving practice and mutual peer tutoring activities. Using a technology probe, the AI system monitored and analyzed students' skills to enable flexible, on-demand shifts and pair lower-skill tutees with higher-skill tutors. The findings highlighted the importance of shared control, influenced by prior knowledge and classroom contexts, in supporting effective and adaptive learning transitions. [Zhu et al. (2023)](#bib133) introduced the Boosting and Decision Tree Regression-based Scoring Prediction (BDTR-SP) model to improve the accuracy of predicting university students' performance in computer science courses. The model combines decision tree regression with an ensemble learning structure to analyze students’ learning behaviors and prior performance. Experimental results highlighted its ability to identify key factors influencing grades and deliver accurate predictions, enabling teachers to proactively adjust their teaching strategies and enhance instructional quality.
+Two studies examined the use of TLA to provide personalized feedback and recommendations, supporting teachers in making informed instructional decisions. In one study, [Phillips et al. (2022)](#bib95) developed an AI toolkit to support teachers in reflecting on their teaching practices and curriculum design. The toolkit employed natural language processing and deep learning techniques to predict the difficulty of assessment items and lecture materials. By analyzing assessment and linguistic data collected from an undergraduate biology course, the toolkit demonstrated high accuracy in predicting challenging content. This capability could enable teachers to continuously reflect on student performance and lecture difficulty. In another study, [Zheng et al. (2024)](#bib132) proposed an automated multimodal teaching behavior analysis framework based on event segmentation. This framework utilized deep learning technology to measure teachers’ verbal interactions, emotions, gaze patterns, and physical location in university and primary school classrooms. By integrating multimodal analysis, the framework could provide a comprehensive and objective evaluation of teaching practices, offering valuable insights into classroom dynamics and teacher performance. It could also identify variations in teacher behavior across different teaching styles, methods, and classroom settings.
+Additionally, [Li (2024)](#bib67) explored the use of AI and data science in the digital transformation of college English teaching by analyzing classroom environments. The study introduced the English Smart Classroom Teaching with the Internet of Things (ESCT-IoT), where it integrated IoT sensors, AI algorithms, and data science techniques to create personalized learning experiences. The impact of this approach on teaching effectiveness was assessed using fuzzy hierarchical evaluation technology, providing comprehensive insights into the instructional outcomes. The findings emphasized the importance of leveraging advanced analytics and large-scale data solutions to promote personalized and adaptive learning.
+Overall, TLA technology enhances teaching quality and improves student learning outcomes by leveraging AI to gather and analyze teaching and learning data, while also providing teachers with personalized feedback and actionable recommendations. However, effective implementation of this technology requires teachers to have strong data processing and interpretation skills.
+### 3.3. RQ3: what are the major research areas on teacher professional development programmes aimed at supporting the integration of AI in teaching practices?
+Among the 33 studies, a focused examination of teachers’ professional development in the application of AI identifies four main categories: elements and factors influencing teacher professional development, implementation approaches in teacher professional development, AI technologies supporting teacher professional development, and the evaluation of teacher professional development outcomes. The following sections examine each of these categories in detail, highlighting the key considerations and challenges associated with teacher professional development in implementing AI in teaching practices.
+#### 3.3.1. Elements and factors influencing teacher professional development
+Five studies investigatied various elements and factors influencing teacher professional development in AI technology from multiple perspectives. The word cloud in [Fig. 12](#fig12) visually represents these elements and factors, with the size of each word indicating its relative frequency across the studies. This visualization method highlights prominent themes, such as “AI Knowledge”, “AI Application”, and “AI Ethics”, providing an overview of the key considerations shaping teacher professional development in AI technology.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr12.jpg)
+1. [Download: Download high-res image (373KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr12\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr12.jpg)
+Fig. 12. Elements and factors influencing teacher professional development in AI technology.
+Two studies examined the relationships among various dimensions of teachers’ AI literacy. [Zhao et al. (2022)](#bib131), using Structural Equation Modeling (SEM) analysis, investigated the development of AI literacy among primary and secondary school teachers in China. The findings revealed that applying AI had a significantly positive impact on the other three dimensions: knowing and understanding AI, evaluating AI applications, and AI ethics. Similarly, [Ayanwale, Adelana, et al. (2024)](#bib6) assessed the AI literacy of pre-service teachers at a university in Nigeria. They used SEM analysis to explore the relationships between various dimensions of AI literacy. The findings revealed that a deep understanding of AI strongly predicts AI use, detection, ethics, creation, and problem-solving abilities. However, the study also reported that AI knowledge did not correlate with emotional regulation, nor did AI use correlate with the ability to detect instances of AI.
+In a separate study, [Ayanwale, Frimpong, et al. (2024)](#bib7) investigated the factors influencing pre-service teachers’ participation in AI-related professional development programmes. The study identified several key determinants that significantly impact their engagement in AI learning, including attitudes toward AI, levels of anxiety, AI readiness, self-transcendence goals, and learning confidence. [Ahmed et al. (2022)](#bib2) examined the motivations and barriers faced by Malaysian university professors in adopting AI-based teaching solutions from a macro-level perspective. The study emphasized that schools must provide teachers with adequate resources, support, and recognition to facilitate the adoption of AI-based instruction. Furthermore, higher education institutions were identified as needing to offer teachers multiple resources, such as funding and technological equipment, to support the integration of AI into teaching practices.
+Moreover, [Nguyen (2024)](#bib89) examined the interplay between teacher professional development, lecture design quality, student engagement, technical skills, pedagogical content knowledge, and teacher satisfaction in the context of using AI-powered tools for lecture design. The study found that teacher professional development, lecture design quality, and student engagement positively influence teacher satisfaction. In contrast, technical skills were found to have a negative impact on teacher satisfaction, while pedagogical content knowledge was not shown to have a significant effect.
+These studies collectively highlight the elements and factors influencing AI-related teacher professional development. They illustrate the importance of AI in enhancing teacher professional development, particularly in terms of improving teaching efficiency, student engagement, and overall teacher satisfaction. Meanwhile, they emphasize the crucial role of professional development in preparing teachers to effectively integrate AI technologies into the classroom. However, the studies also identify signifcant barriers to implementation, including limited technological knowledge, low teacher awareness and acceptance of AI, and ethical concerns.
+#### 3.3.2. Implementation approaches in teacher professional development
+Seven studies demonstrated that well-designed professional development programmes can significantly improve teachers’ self-efficacy beliefs, teaching skills, and mastery of AI knowledge in the context of AI-integrated teaching. The distribution of implementation approaches is depicted in [Fig. 13](#fig13).
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr13.jpg)
+1. [Download: Download high-res image (311KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr13\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr13.jpg)
+Fig. 13. Implementation approaches in teacher professional development.
+Four of these studies proposed approaches to conducting professional development programmes from a pedagogical perspective. For example, [Kim (2024)](#bib55) examined the impact of an AI education programme on the AI convergence teaching capabilities of pre-service teachers, utilizing the TPACK framework. [Sun et al. (2023)](#bib110) developed a professional development programme grounded in the TPACK framework, which resulted in significant improvements in in-service computer science teachers' AI knowledge, AI teaching skills, and AI teaching self-efficacy. Similarly, [Saimon et al. (2024)](#bib102) explored the potential of the 6E Learning by Design model—comprising the stages of Engage, Explore, Explain, Engineer, Enrich, and Evaluate—in supporting pre-service teachers to successfully integrate AI applications into their classrooms. [Ding, Kim, and Allday (2024)](#bib29) analyzed the effects of a case-based professional development programme focused on AI integration strategies and AI literacy for secondary school science teachers. Their findings underscored the significance of blending direct instruction with case-based discussions to enhance teachers’ AI literacy more effectively.
+Three other studies focused on approaches to enhancing self-efficacy and building confidence in integrating AI technologies into teaching. For example, [Nazaretsky et al. (2022)](#bib87) investigated K-12 teachers’ trust and attitudes toward adopting AI-powered educational technologies. The study revealed that offering clear explanations of AI decision-making processes, particularly by comparing them with the reasoning of human experts, and emphasizing how AI serves as a supportive tool rather than a replacement for teachers, can alleviate concerns and foster greater trust in AI technologies for education.
+Furthermore, [Yang et al. (2024)](#bib122) explored how a professional development programme grounded in social cognitive theory could enhance in-service primary school teachers' confidence in integrating AI technologies into English-speaking instruction. The study demonstrated that teachers' self-efficacy beliefs improved through a programme emphasizing community support, observational learning, and modeling. [Tatar et al. (2024)](#bib115) investigated how a curricular co-design programme could influence experienced English Language Arts (ELA) teachers’ confidence and perceptions of integrating AI concepts into their classrooms. Throughout the programme, teachers actively engaged with the curriculum modules as learners and provided feedback on the feasibility and effectiveness for incorporating these modules into their teaching practices.
+Overall, these studies offer valuable insights into how teacher professional development can enhance teachers’ AI competency. However, most studies focus on short-term professional development programmes, with limited evaluation of their long-term impact. While some research indicates that teachers acquire a solid understanding of AI concepts during training, gaps remain in their ability to apply this knowledge in practical classroom settings. Given the rapid evolution of AI technologies, it is essential to explore strategies for providing continuous training and support, ensuring that teachers are equipped to effectively integrate AI into their teaching practices over time.
+#### 3.3.3. AI Technologies supporting teacher professional development
+Fifteen studies investigated the role of various AI technologies in supporting teacher professional development. The distribution of AI technologies used is illustrated in [Fig. 14](#fig14).
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr14.jpg)
+1. [Download: Download high-res image (287KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr14\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr14.jpg)
+Fig. 14. AI technologies supporting teacher professional development.
+##### 3.3.3.1. Chatbots
+Nine studies highlighted the role of chatbots in supporting teacher professional development. Among them, [Moorhouse, Wan, Wu, et al. (2024)](#bib86) conducted an 11-week intervention study to examine how generative AI tools, particularly chatbots such as ChatGPT, AI Chat, and Poe, can enhance the professional generative AI competence (P-GenAI-C) of pre-service language teachers. The P-GenAI-C framework encompasses five aspects: technical proficiency, pedagogical competency, teachers' professional tasks, risk, well-being and ethical use, as well as preparation of students. The study reported improvements in participants' professional development across all aspects, with the most significant gains in pedagogical competency and critical awareness of generative AI tools deployment in educational contexts. In another study, [Moorhouse, Wan, Ho, and Lin (2024)](#bib85) explored the application of a generative AI tool based on ChatGPT to support pre-service language teachers in incorporating their first language (L1) in second language (L2) instruction. They found that explicit instruction, combined with generative AI-assisted and evidence-informed strategies, could increase pre-service language teachers’ intention to use L1 in L2 lessons and provide effective support for its integration.
+[Lu, Zheng, et al. (2024)](#bib74) implemented ChatGPT-assisted teaching skills training to support teachers' professional development across three phases: preparation, implementation and evaluation. Their findings revealed that ChatGPT-assisted training significantly enhanced pre-service teachers' self-efficacy and higher-order thinking skills compared to traditional training methods. Similarly, [Chang and Hwang (2024)](#bib16) conducted an experimental study comparing ChatGPT-based training for clinical teachers' professional development with traditional training. They found that the ChatGPT-based approach effectively enhanced clinical teachers’ learning outcomes, sense of self-worth, and self-confidence compared to the traditional approach.
+Furthermore, [Tsou et al. (2024)](#bib117) found that ChatGPT facilitated a co-journeying process with in-service language teachers in tertiary education. By addressing challenges associated with ChatGPT, extending its applications, and exploring innovative uses, teachers reported increased confidence in teaching English and a more empowered English as a Medium of Instruction (EMI) teacher identity. [Mbambo and Du Plessis (2024)](#bib79) demonstrated the overall effectiveness of AI technologies, particularly ChatGPT, in supporting academic work during teacher training within open distance and electronic learning (ODeL) environments. The study highlighted the positive impact of AI on teaching training but emphasized the importance of thoroughly evaluating AI tools prior to implementation. Such evaluations are crucial to ensure that AI does not compromise the integrity of educational assessments or raise ethical concerns.
+[Yeh (2024)](#bib123) found that ChatGPT could assist EFL teachers in creating interactive and adaptive learning materials, such as picture books and karaoke exercises, to enhance language teaching. By generating personalized content and supporting the development of students' communicative skills, ChatGPT was shown to facilitate a more dynamic and student-centred learning environment. [Kusuma et al. (2024)](#bib59) examined the use of ChatGPT in the professional development of English language teaching, with a focus on enhancing pre-service EFL teachers’ teaching practices. Through qualitative research, the study revealed that pre-service EFL teachers utilized ChatGPT for creating innovative teaching materials, developing collaborative teaching strategies, designing effective assessments, and improving their language proficiency. While some concerns were raised about the quality and accuracy of the information generated by ChatGPT, pre-service teachers generally perceived it as a valuable tool for their professional growth.
+Finally, [Son et al. (2024)](#bib108) explored the use of AI-based chatbots as both virtual students and virtual mentors to support the development of pre-service teachers’ professional skills in teaching mathematics. The study highlighted that AI-based chatbots could enable more interactive teaching practices by simulating teaching scenarios with a virtual student while providing real-time feedback from a virtual mentor. This simulated approach could offer pre-service teachers opportunities to engage in teaching practices and reflective processes.
+##### 3.3.3.2. Other AI technologies
+In addition to chatbots, several studies explored the role of other technologies in supporting teacher professional development, such as diagnostic and feedback system, learning analytics, intelligent tutoring systems, and immersive environments. For example, [Gunawan et al. (2021)](#bib43) investigated an AI-assisted professional development programme designed to enhance science teachers’ competencies in fostering higher-order thinking skills in science education. The programme utilized a blended learning model, integrating both online and offline teaching methods, and leveraged an AI-driven assessment and feedback system to offer personalized teaching suggestions and feedback based on the results of a diagnostic test completed by the participating teachers.
+[Elgohary and Al-Dossary (2022)](#bib34) investigated the effectiveness of using AI-driven virtual classrooms in enhancing field training skills for female student teachers. The study found that AI technology significantly improved the field training and teaching skills of student teachers in virtual classroom environments. This improvement was attributed to the AI-assisted development of digital presentations, which effectively facilitated the explanation and demonstration of teaching skills within the virtual classroom.
+[Copur-Gencturk et al. (2024)](#bib23) developed a virtual interactive professional development programme utilizing intelligent tutoring systems to deliver immediate feedback to teachers. The study found that teachers who completed the programme were more effective in selecting mathematics tasks and fostering students’ conceptual understanding compared to those who did not participate in the training.
+[Tammets and Ley (2023)](#bib112) proposed a conceptual model to explore the complexities of integrating AI tools into teacher professional learning. Their study focused on how model-based learning analytics tools can support teachers in making informed decisions, aligning their practices with competency frameworks, and fostering professional growth. Additionally, the study introduced the idea of teachers collaborating with researchers in the design of AI tools, highlighting its potential to contribute to the long-term development of teacher professional practices.
+Moreover, [Agrati (2023)](#bib1) and [Lee et al. (2024)](#bib62) both explored the use of metaverse technology in teacher professional development. [Agrati (2023)](#bib1) examined participants' perceptions of the metaverse as a learning environment and the role of AI in teacher training, with a particular focus on utilizing AI-guided non-player characters as mentors within the metaverse. [Lee et al. (2024)](#bib62) studied the potential of using AI chatbots in a 3D metaverse environment to enhance per-service English teachers’ awareness of global English, particularly improving their confidence and intentions to use English as a Lingua Franca.
+These studies illustrate the potential of AI technologies to provide personalized learning experiences and enhance teacher professional development. AI can offer teachers flexible opportunities for professional development while helping them to develop proficiency in specific AI tools. However, these studies also underscore challenges in implementing AI-driven teacher training, such as ensuring effective integration of technology, addressing its limitations, and balancing technological innovation with educational goals.
+#### 3.3.4. Evaluation of teacher professional development outcomes
+Evaluation is a critical component of teacher professional development, particularly in assessing teachers' competency in applying AI. Six studies have highlighted the need for robust assessment tools to evaluate teachers’ AI literacy and competency. [Fig. 15](#fig15) presents a radar chart offering a multidimensional visualization of the evaluation instruments and methods.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr15.jpg)
+1. [Download: Download high-res image (236KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr15\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24001589-gr15.jpg)
+Fig. 15. Evaluation instruments and methods for assessing teachers' AI literacy and competency.
+Building on the TPACK framework, two studies have proposed scales that incoporate AI into the TPACK model. For example, [Celik (2023)](#bib14) introduced the Intelligent-TPACK scale, an extension of the TPACK framework, to evaluate teachers' knowledge of instructional AI use, incorporating ethical considerations into the framework. The findings highlighted that while teachers’ technological knowledge (TK) is crucial for assessing AI-based systems, it alone is insufficient for effectively integrating AI into educational practices. To use AI effectively in education, teachers must understand its pedagogical affordances. The study emphasized that TK becomes most meaningful when combined with pedagogical knowledge (PK), forming technological pedagogical knowledge (TPK).
+[Ning et al. (2024)](#bib90) introduced the AI-TPACK framework to examine the relationships and interactions among AI technologies, pedagogical strategies, and subject-specific content within the context of education. To explore these dynamics, the researchers applied a structural equation modeling (SEM) approach to analyze the interconnections among the knowledge components of teachers’ AI-TPACK. The results indicated that technology-related knowledge elements—namely, AI Technological Knowledge (AI-TK), AI Technological Content Knowledge (AI-TCK), and AI Technological Pedagogical Knowledge (AI-TPK)—exhibited a significantly stronger correlation with the overall AI-TPACK framework compared to non-technology-related elements.
+Drawing on self-efficacy theory, researchers have developed scales to evaluate teachers' self-efficacy in using AI in educational settings. [Chou et al. (2023)](#bib20) introduced the teachers' efficacy perception of AI-based teaching applications (TEP-AITA) scale, which encompasses six components: resource support, innovative teaching, cross-disciplinarity, professional learning, learner demand, and self-reflection. In a subsequent study, [Chou et al. (2024)](#bib21) developed the AI-Supported teaching application self-efficacy (AIS-TASE) scale to predict teachers' readiness and confidence in integrating AI-supported teaching applications. The AIS-TASE scale includes five elements: self-affirmation, passion for teaching, adherence to hard work, negative consciousness, and positive belief. These scales provide frameworks for assessing and enhancing teachers’ self-efficacy in integrating AI into their teaching practices.
+Additionally, [Ding, Kim, and Allday (2024)](#bib29) developed an AI literacy assessment tool tailored for non-technical individuals, featuring 25 objective-based items that measure 17 AI competencies across five key dimensions: understanding the nature of AI (4 competencies), recognizing AI's capabilities (2 competencies), mastering its underlying mechanisms (9 competencies), discerning appropriate AI use (1 competency), and understanding public perceptions of AI (1 competency). The tool underwent evaluation by AI experts and was piloted with pre-service and in-service teachers who had minimal or no technical background, ensuring its applicability for users with limited technical proficiency.
+[Lérias et al. (2024)](#bib65) used a validated questionnaire to evaluate the AI literacy and knowledge levels of in-service university teachers, focusing on three dimensions: AI literacy, AI self-efficacy, and AI self-management. The AI literacy dimension included factors like usage and application, knowledge and understanding, detection, and ethics. AI self-efficacy covered problem-solving, learning, and skill integration, while AI self-management addressed persuasion literacy and emotion regulation. An analysis of the correlations among these dimensions revealed that the AI literacy dimension was the strongest predictor of overall AI literacy levels among teachers. Notably, no demographic factors—such as age, gender, academic level taught, or area of training—were found to significantly influence AI literacy.
+In summary, professional development programmes aimed at enhancing teachers’ AI literacy and competency employ diverse and multifaceted approaches. A thorough evaluation of these competencies requires a holistic framework that addresses content comprehension, technology integration, ethical considerations, and other pertinent factors. However, research in this area often remains limited in scope, focusing narrowly on specific subjects or scenarios. Some fail to consider the contextual variations in how teachers utilize AI in real teaching environments or to fully explore the applicability and adaptability of AI technologies across varied educational contexts.
+## 4. Discussion
+### 4.1. AI in teaching and teacher professional development
+\* ●
+\*\*Imbalance in research:\*\* Our systematic review identifies a significant imbalance, with research on AI applications in teaching vastly outnumbering studies focused on AI in teacher professional development ([Chiu et al., 2023](#bib19); [Ng et al., 2023](#bib88); [Zawacki-Richter et al., 2019](#bib128)). This disparity highlights that, while the potential of AI in teaching has been extensively explored, there remains a critical gap in understanding how teachers can effectively integrate these technologies into their practices and enhance their AI competencies through targeted professional development ([Aljemely, 2024](#bib5); [Meylani, 2024](#bib82)). From the teachers' perspective, this imbalance reflects a lack of structured support and guidance for professional growth in the use of AI. This underscores the urgent need for research that directly addresses teachers' development needs, the barriers they encounter in acquiring AI-related skills, and strategies for overcoming these challenges. Bridging this gap is essential for empowering teachers to harness the full potential of AI technologies in education.
+\* ●
+\*\*Technological diversity and integration:\*\* Our systematic review reveals a trend of rapid diversification of AI applications for teaching, encompassing conversational AI and related technologies, AI-driven learning and assessment systems, immersive technologies, visual and auditory computing, and teaching and learning analytics. This diversification places significant demands on teachers, requiring a high level of technical knowledge and adaptability ([Tang et al., 2023](#bib113); [Yildirim & Celepcikay, 2021](#bib125); [Zhang & Aslan, 2021](#bib130)). Teachers are increasingly expected to integrate these diverse technologies into various teaching contexts, which presents substantial challenges for professional development ([Galindo-Domínguez et al., 2024](#bib39)). From the teachers' perspective, the continuous influx of new AI technologies can be overwhelming, necessitating frequent updates to their technical knowledge and teaching methods to keep pace with a rapidly evolving educational landscape (Love et al., 2020; Karroum & Elshaiekh, 2023). Given these challenges, it is critical to identify which AI technologies should be prioritized in AI-enhanced professional development programmes. Furthermore, there is a need to define the specific competencies teachers must develop to effectively integrate these tools into their teaching practices. This focus will help ensure that professional development programmes are both targeted and practical, addressing teachers' immediate and long-term needs.
+\* ●
+\*\*Enhancing teachers' AI literacy:\*\* Our systematic review highlights that the importance of enhancing teachers' AI literacy is frequently emphasized in the literature on AI in teaching ([Kasepalu et al., 2022](#bib53); [Grajeda et al., 2023](#bib42); [Fassbender, 2024](#bib36); [Lee & Zhai, 2024](#bib64); Rakap. 2024). However, there is a lack of research on effective strategies for specifically improving teachers' AI literacy. This gap suggests that while teachers are increasingly expected to use AI technologies proficiently, existing professional development programmes may not adequately address the evolving skill requirements associated with AI integration ([Aljemely, 2024](#bib5); [Meylani, 2024](#bib82)). From the teachers' perspective, the absence of focused AI literacy training presents a significant barrier to effectively utilizing AI tools in classroom settings. This underscores the needs to develop comprehensive strategies and assessment tools for evaluating and enhancing teachers' AI literacy. Such initiatives would enable teachers to keep pace with technological advancements and confidently apply AI in their instructional practices.
+### 4.2. Implications for further research
+\* ●
+\*\*Increasing focus on teacher professional development:\*\* Future research should place greater emphasis on the role of AI in teacher professional development, investigating how professional development activities can enhance teachers' understanding of AI technologies and improve their ability to integrate these tools into their teaching practices. Studies could examine the impact of various formats, durations, and intensities of professional development programmes on improving teachers' AI literacy and their effect on teaching strategies and student learning outcomes ([Meylani, 2024](#bib82)). Additionally, research should prioritize understanding teachers' personal experiences and feedback during the professional development process, exploring how their attitudes, confidence and competencies with AI technologies evolve over time ([Lin, 2022](#bib68); [Polak et al., 2022](#bib96)).
+\* ●
+\*\*Teacher AI literacy enhancement programmes:\*\* Develop and implement specialized professional development programmes to enhance teachers' AI literacy and capabilities. These programmes could include a mix of online courses, seminars, and workshops that cover fundamental AI concepts, practical applications in teaching, and ethical considerations ([al-Zyoud, 2020](#bib3); [Kitcharoen et al., 2024](#bib56)). In addition, it is necessary to establish a robust assessment mechanism to evaluate the effectiveness of these programmes in improving teachers' AI literacy and capability development ([Qin et al., 2021](#bib98); [Celik, 2023](#bib14); [Ding, Shi, et al., 2024](#bib30); [Ning et al., 2024](#bib90)). Such mechanisms would ensure continuous improvement and alignment of professional development initiatives with teachers' evolving needs and technological advancements.
+\* ●
+\*\*Empirical research and evaluation:\*\* Future research should prioritize conducting more empirical studies to evaluate the effectiveness of various professional development strategies. While current studies largely focus on measuring improvements in teachers' AI literacy or capabilities after participating in professional development programmes ([Celik, 2023](#bib14); [Chou et al., 2023](#bib20), [2024](#bib21); [Ding, Shi, et al., 2024](#bib30); [Lérias et al., 2024](#bib65); [Ning et al., 2024](#bib90)), there is a need for deeper exploration of how these programmes transform teaching practices ([Copur-Gencturk et al., 2024](#bib23); [Sharma, 2024](#bib106)). For example, longitudinal studies could track teachers who complete specific AI-focused professional development programmes, examining how these programmes influence their teaching strategies and students' academic performance over time. Such studies would provide valuable insights into the long-term impact of professional development programmes, enabling the proposal of targeted improvements to enhance their effectiveness ([Ding, Shi, et al., 2024](#bib30)).
+## 5. Conclusions
+This study provides an in-depth analysis of AI in teaching and teacher professional development through a systematic review. Of the studies reviewed, 65% focused on the application of AI in teaching, employing technologies such as conversational AI and related technologies, AI-driven learning and assessment systems, immersive technologies, visual and auditory computing, and teaching and learning analytics. These technologies were applied across various educational levels, from K-12 to higher education.
+In contrast, 35% of the studies addressed AI in teacher professional development. Within this domain, 15% examined elements and factors influencing AI-related teacher professional development, 21% investigated implementation approaches in teacher professional development, 46% explored how AI technologies can support teacher professional development, and 18% evaluated the outcomes of teacher professional development.
+From a disciplinary perspective, AI applications in teaching spanned diverse fields such as English, Chinese, mathematics, computer science, natural sciences, social studies, music, special education, and more. However, research on AI in teacher professional development was more concentrated, primarily focusing on English, mathematics, computer science, and education.
+Regarding educational levels, research on AI in teacher professional development was concentrated for teachers teaching in the K-12 and higher education, while AI in teaching research also extended to include special education, professional training and other teaching contexts.
+Overall, the findings reveal an imbalance in research focus between AI in teaching and AI in teacher professional development. Previous studies in the AI in teaching category consistently emphasized the importance of enhancing teachers’ AI literacy and competency, underscoring a pressing need for educators to develop the skills required to effectively integrate AI into educational practices ([Gašević et al., 2023](#bib40)).
+The current research landscape indicates that studies on AI in teacher professional development lag behind the practical needs of teachers seeking to integrate AI technologies in their teaching practices. In particular, the emergence of generative AI technologies has marked a shift in research focus—from examining the use and effects of AI to exploring its integration with pedagogical practices. However, within the AI in professional development category, only a limited number of studies have explored how to support teachers in effectively integrating technological knowledge with pedagogical knowledge.
+Therefore, there is a clear need for more research focusing on the potential of AI in professional development, coupled with a broadening of research perspectives. Future discussions should go beyond the technological aspects to examine how AI technologies are applied in education from both student learning and teacher teaching perspectives. With the rise of the new generation of generativeAI, the role of AI technologies in supporting teacher instruction will become increasingly significant, presenting new opportunities for research in this area. At the same time, the growing adoption of generative AI brings ethical concerns to the forefront. As these technologies become more prevalent, addressing issues such as bias, privacy, and accountability will be crucial. Thus, research on AI in teacher professional development should prioritize the exploration of technological ethical issues, ensuring that AI integration in education is both effective and responsible.
+Statements on open data and ethics.
+This systematic review is based on data extracted from publicly accessible databases and scholarly publications. All sources are appropriately acknowledged in the reference section, with detailed citations for each included study. Ethical approval and consent were not required, as this research involves a comprehensive analysis of existing literature.
+## CRediT authorship contribution statement
+\*\*Xiao Tan:\*\* Writing – original draft, Formal analysis, Data curation, Conceptualization. \*\*Gary Cheng:\*\* Writing – review & editing, Validation, Supervision, Methodology, Funding acquisition, Conceptualization. \*\*Man Ho Ling:\*\* Writing – review & editing, Supervision, Methodology, Formal analysis.
+## Funding
+This work was supported by the Education University of Hong Kong [grant number [02181](#gs1)].
+## Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Recommended articles
+## References
+1. [Agrati, 2023](#bbib1)
+L.S.Agrati
+Tutoring in the metaverse. Study on student-teachers’ and tutors' perceptions about NPC tutor
+Frontiers in Education, 8 (2023), Article 1202442, [10.3389/feduc.2023.1202442](https://doi.org/10.3389/feduc.2023.1202442)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Tutoring%20in%20the%20metaverse.%20Study%20on%20student-teachers%20and%20tutors%20perceptions%20about%20NPC%20tutor&publication\_year=2023&author=L.S.%20Agrati)
+2. [Ahmed et al., 2022](#bbib2)
+S.Ahmed, M.I.Khalil, B.Chowdhury, R.Haque, A.R.bin S Senathirajah, F.M.bin Omar Din
+Motivators and barriers of artificial intelligent (AI) based teaching
+Eurasian Journal of Educational Research, 100 (2022), pp. 74-89, [10.14689/ejer.2022.100.006](https://doi.org/10.14689/ejer.2022.100.006)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Motivators%20and%20barriers%20of%20artificial%20intelligent%20%20based%20teaching&publication\_year=2022&author=S.%20Ahmed&author=M.I.%20Khalil&author=B.%20Chowdhury&author=R.%20Haque&author=A.R.%20bin%20S%20Senathirajah&author=F.M.%20bin%20Omar%20Din)
+3. [al-Zyoud, 2020](#bbib3)
+H.M.M.al-Zyoud
+The role of artificial intelligence in teacher professional development
+Universal Journal of Educational Research, 8 (11B) (2020), pp. 6263-6272, [10.13189/ujer.2020.082265](https://doi.org/10.13189/ujer.2020.082265)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20role%20of%20artificial%20intelligence%20in%20teacher%20professional%20development&publication\_year=2020&author=H.M.M.%20al-Zyoud)
+4. [AlAli and Al-Barakat, 2023](#bbib4)
+R.M.AlAli, A.A.Al-Barakat
+Leveraging the revolutionary potential of chatgpt to enhance kindergarten teachers' educational performance: A proposed perception
+Eurasian Journal of Educational Research, 106 (2023), pp. 50-69, [10.14689/ejer.2023.106.004](https://doi.org/10.14689/ejer.2023.106.004)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Leveraging%20the%20revolutionary%20potential%20of%20chatgpt%20to%20enhance%20kindergarten%20teachers%20educational%20performance%3A%20A%20proposed%20perception&publication\_year=2023&author=R.M.%20AlAli&author=A.A.%20Al-Barakat)
+5. [Aljemely, 2024](#bbib5)
+Y.Aljemely
+Challenges and best practices in training teachers to utilize artificial intelligence: A systematic review
+Frontiers in Education, 9 (2024), Article 1470853, [10.3389/feduc.2024.1470853](https://doi.org/10.3389/feduc.2024.1470853)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Challenges%20and%20best%20practices%20in%20training%20teachers%20to%20utilize%20artificial%20intelligence%3A%20A%20systematic%20review&publication\_year=2024&author=Y.%20Aljemely)
+6. [Ayanwale et al., 2024a](#bbib6)
+M.A.Ayanwale, O.P.Adelana, R.R.Molefi, O.Adeeko, A.M.Ishola
+Examining artificial intelligence literacy among pre-service teachers for future classrooms
+Computers and Education Open, 6 (2024), Article 100179, [10.1016/j.caeo.2024.100179](https://doi.org/10.1016/j.caeo.2024.100179)
+[View PDF](/science/article/pii/S266655732400020X/pdfft?md5=aec328a2d89d5b09074f94f147bf9aef&pid=1-s2.0-S266655732400020X-main.pdf)[View article](/science/article/pii/S266655732400020X)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Examining%20artificial%20intelligence%20literacy%20among%20pre-service%20teachers%20for%20future%20classrooms&publication\_year=2024&author=M.A.%20Ayanwale&author=O.P.%20Adelana&author=R.R.%20Molefi&author=O.%20Adeeko&author=A.M.%20Ishola)
+7. [Ayanwale et al., 2024b](#bbib7)
+M.A.Ayanwale, E.K.Frimpong, O.A.G.Opesemowo, I.T.Sanusi
+Exploring factors that support pre-service teachers' engagement in learning artificial intelligence
+Journal for STEM Education Research (2024), [10.1007/s41979-024-00121-4](https://doi.org/10.1007/s41979-024-00121-4)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20factors%20that%20support%20pre-service%20teachers%20engagement%20in%20learning%20artificial%20intelligence&publication\_year=2024&author=M.A.%20Ayanwale&author=E.K.%20Frimpong&author=O.A.G.%20Opesemowo&author=I.T.%20Sanusi)
+8. [Bai et al., 2024](#bbib8)
+S.Bai, D.E.Gonda, K.F.Hew
+Write-curate-verify: A case study of leveraging generative AI for scenario writing in scenario-based learning
+IEEE Transactions on Learning Technologies, 17 (2024), pp. 1313-1324, [10.1109/TLT.2024.3378306](https://doi.org/10.1109/TLT.2024.3378306)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Write-curate-verify%3A%20A%20case%20study%20of%20leveraging%20generative%20AI%20for%20scenario%20writing%20in%20scenario-based%20learning&publication\_year=2024&author=S.%20Bai&author=D.E.%20Gonda&author=K.F.%20Hew)
+9. [Baker et al., 2019](#bbib9)
+T.Baker, L.Smith, N.Anissa
+Educ-AI-tion rebooted? Exploring the future of artificial intelligence in schools and colleges
+ (2019)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Educ-AI-tion%20rebooted%20Exploring%20the%20future%20of%20artificial%20intelligence%20in%20schools%20and%20colleges&publication\_year=2019&author=T.%20Baker&author=L.%20Smith&author=N.%20Anissa)
+10. [Bengesi et al., 2024](#bbib10)
+S.Bengesi, H.El-Sayed, M.K.Sarker, Y.Houkpati, J.Irungu, T.Oladunni
+Advancements in generative AI: A comprehensive review of GANs, GPT, autoencoders, diffusion model, and transformers
+IEEE Access, 12 (2024), pp. 69812-69837, [10.1109/ACCESS.2024.3397775](https://doi.org/10.1109/ACCESS.2024.3397775)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Advancements%20in%20generative%20AI%3A%20A%20comprehensive%20review%20of%20GANs%2C%20GPT%2C%20autoencoders%2C%20diffusion%20model%2C%20and%20transformers&publication\_year=2024&author=S.%20Bengesi&author=H.%20El-Sayed&author=M.K.%20Sarker&author=Y.%20Houkpati&author=J.%20Irungu&author=T.%20Oladunni)
+11. [Booth et al., 2021](#bbib11)
+A.Booth, A.Sutton, M.Clowes, M.Martyn-St James
+Systematic approaches to a successful literature review
+(3rd ed.), Sage (2021)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Systematic%20approaches%20to%20a%20successful%20literature%20review&publication\_year=2021&author=A.%20Booth&author=A.%20Sutton&author=M.%20Clowes&author=M.%20Martyn-St%20James)
+12. [Boudouaia et al., 2024](#bbib12)
+A.Boudouaia, S.Mouas, B.Kouider
+A study on ChatGPT-4 as an innovative approach to enhancing English as a Foreign Language writing learning
+Journal of Educational Computing Research, 62 (6) (2024), pp. 1509-1537, [10.1177/07356331241247465](https://doi.org/10.1177/07356331241247465)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20study%20on%20ChatGPT-4%20as%20an%20innovative%20approach%20to%20enhancing%20English%20as%20a%20Foreign%20Language%20writing%20learning&publication\_year=2024&author=A.%20Boudouaia&author=S.%20Mouas&author=B.%20Kouider)
+13. [Bozkurt et al., 2021](#bbib13)
+A.Bozkurt, A.Karadeniz, D.Baneres, A.E.Guerrero-Roldán, M.E.Rodríguez
+Artificial intelligence and reflections from educational landscape: A review of AI studies in half a century
+Sustainability, 13 (2) (2021), p. 800, [10.3390/su13020800](https://doi.org/10.3390/su13020800)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20and%20reflections%20from%20educational%20landscape%3A%20A%20review%20of%20AI%20studies%20in%20half%20a%20century&publication\_year=2021&author=A.%20Bozkurt&author=A.%20Karadeniz&author=D.%20Baneres&author=A.E.%20Guerrero-Rold%C3%A1n&author=M.E.%20Rodr%C3%ADguez)
+14. [Celik, 2023](#bbib14)
+I.Celik
+Towards Intelligent-TPACK: An empirical study on teachers' professional knowledge to ethically integrate artificial intelligence (AI)-based tools into education
+Computers in Human Behavior, 138 (2023), Article 107468, [10.1016/j.chb.2022.107468](https://doi.org/10.1016/j.chb.2022.107468)
+[View PDF](/science/article/pii/S0747563222002886/pdfft?md5=b6d44eda9c9721c1de870e435128014f&pid=1-s2.0-S0747563222002886-main.pdf)[View article](/science/article/pii/S0747563222002886)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Towards%20Intelligent-TPACK%3A%20An%20empirical%20study%20on%20teachers%20professional%20knowledge%20to%20ethically%20integrate%20artificial%20intelligence%20-based%20tools%20into%20education&publication\_year=2023&author=I.%20Celik)
+15. [Chan and Tsi, 2023](#bbib15)
+C.K.Y.Chan, L.H.Y.Tsi
+The AI revolution in education: Will AI replace or assist teachers in higher education?
+[arXiv:2305.01185] \*arXiv\*
+ (2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20AI%20revolution%20in%20education%3A%20Will%20AI%20replace%20or%20assist%20teachers%20in%20higher%20education&publication\_year=2023&author=C.K.Y.%20Chan&author=L.H.Y.%20Tsi)
+16. [Chang and Hwang, 2024](#bbib16)
+C.-C.Chang, G.-J.Hwang
+ChatGPT-facilitated professional development: Evidence from professional trainers' learning achievements, self-worth, and self-confidence
+Interactive Learning Environments (2024), pp. 1-18, [10.1080/10494820.2024.2362798](https://doi.org/10.1080/10494820.2024.2362798)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=ChatGPT-facilitated%20professional%20development%3A%20Evidence%20from%20professional%20trainers%20learning%20achievements%2C%20self-worth%2C%20and%20self-confidence&publication\_year=2024&author=C.-C.%20Chang&author=G.-J.%20Hwang)
+17. [Chen, 2024](#bbib17)
+Y.Chen
+Effects of technology-enhanced language learning on reducing EFL learners' public speaking anxiety
+Computer Assisted Language Learning, 37 (4) (2024), pp. 789-813, [10.1080/09588221.2022.2055083](https://doi.org/10.1080/09588221.2022.2055083)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Effects%20of%20technology-enhanced%20language%20learning%20on%20reducing%20EFL%20learners%20public%20speaking%20anxiety&publication\_year=2024&author=Y.%20Chen)
+18. [Chiu, 2024](#bbib18)
+T.K.F.Chiu
+A classification tool to foster self-regulated learning with generative artificial intelligence by applying self-determination theory: A case of ChatGPT
+Educational Technology Research & Development, 72 (2024), pp. 2401-2416, [10.1007/s11423-024-10366-w](https://doi.org/10.1007/s11423-024-10366-w)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20classification%20tool%20to%20foster%20self-regulated%20learning%20with%20generative%20artificial%20intelligence%20by%20applying%20self-determination%20theory%3A%20A%20case%20of%20ChatGPT&publication\_year=2024&author=T.K.F.%20Chiu)
+19. [Chiu et al., 2023](#bbib19)
+T.K.F.Chiu, Q.Xia, X.Zhou, C.S.Chai, M.Cheng
+Systematic literature review on opportunities, challenges, and future research recommendations of artificial intelligence in education
+Computers and Education: Artificial Intelligence, 4 (2023), Article 100118, [10.1016/j.caeai.2022.100118](https://doi.org/10.1016/j.caeai.2022.100118)
+[View PDF](/science/article/pii/S2666920X2200073X/pdfft?md5=930c2043fe88f4e565cb0b1e8c8aed32&pid=1-s2.0-S2666920X2200073X-main.pdf)[View article](/science/article/pii/S2666920X2200073X)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Systematic%20literature%20review%20on%20opportunities%2C%20challenges%2C%20and%20future%20research%20recommendations%20of%20artificial%20intelligence%20in%20education&publication\_year=2023&author=T.K.F.%20Chiu&author=Q.%20Xia&author=X.%20Zhou&author=C.S.%20Chai&author=M.%20Cheng)
+20. [Chou et al., 2023](#bbib20)
+C.-M.Chou, T.-C.Shen, T.-C.Shen, C.-H.Shen
+The level of perceived efficacy from teachers to access AI-based teaching applications
+Research and Practice in Technology Enhanced Learning, 18 (2023), p. 21, [10.58459/rptel.2023.18021](https://doi.org/10.58459/rptel.2023.18021)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20level%20of%20perceived%20efficacy%20from%20teachers%20to%20access%20AI-based%20teaching%20applications&publication\_year=2023&author=C.-M.%20Chou&author=T.-C.%20Shen&author=T.-C.%20Shen&author=C.-H.%20Shen)
+21. [Chou et al., 2024](#bbib21)
+C.-M.Chou, T.-C.Shen, T.-C.Shen, C.-H.Shen
+Developing and validating an AI-supported teaching applications' self-efficacy scale
+Research and Practice in Technology Enhanced Learning, 19 (35) (2024), [10.58459/rptel.2024.19035](https://doi.org/10.58459/rptel.2024.19035)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Developing%20and%20validating%20an%20AI-supported%20teaching%20applications%20self-efficacy%20scale&publication\_year=2024&author=C.-M.%20Chou&author=T.-C.%20Shen&author=T.-C.%20Shen&author=C.-H.%20Shen)
+22. [Cooper, 2024](#bbib22)
+P.K.Cooper
+Music teachers' labeling accuracy and quality ratings of lesson plans by artificial intelligence (AI) and humans
+International Journal of Music Education (2024), [10.1177/02557614241249163](https://doi.org/10.1177/02557614241249163)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Music%20teachers%20labeling%20accuracy%20and%20quality%20ratings%20of%20lesson%20plans%20by%20artificial%20intelligence%20%20and%20humans&publication\_year=2024&author=P.K.%20Cooper)
+23. [Copur-Gencturk et al., 2024](#bbib23)
+Y.Copur-Gencturk, J.Li, S.Atabas
+Improving teaching at scale: Can AI Be incorporated into professional development to create interactive, personalized learning for teachers?
+American Educational Research Journal, 61 (4) (2024), pp. 767-802, [10.3102/00028312241248514](https://doi.org/10.3102/00028312241248514)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Improving%20teaching%20at%20scale%3A%20Can%20AI%20Be%20incorporated%20into%20professional%20development%20to%20create%20interactive%2C%20personalized%20learning%20for%20teachers&publication\_year=2024&author=Y.%20Copur-Gencturk&author=J.%20Li&author=S.%20Atabas)
+24. [Creely and Blannin, 2023](#bbib24)
+E.Creely, J.Blannin
+The implications of generative AI for creative composition in higher education and initial teacher education
+T.Cochrane, V.Narayan, C.Brown, K.MacCallum, E.Bone, C.Deneen, R.Vanderburg, B.Hurren (Eds.), ASCILITE 2023 conference proceedings: People, partnerships and pedagogies (2023), pp. 357-361, [10.14742/apubs.2023.618](https://doi.org/10.14742/apubs.2023.618)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20implications%20of%20generative%20AI%20for%20creative%20composition%20in%20higher%20education%20and%20initial%20teacher%20education&publication\_year=2023&author=E.%20Creely&author=J.%20Blannin)
+25. [Crompton and Burke, 2023](#bbib25)
+H.Crompton, D.Burke
+Artificial intelligence in higher education: The state of the field
+International Journal of Educational Technology in Higher Education, 20 (2023), p. 22, [10.1186/s41239-023-00392-8](https://doi.org/10.1186/s41239-023-00392-8)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20in%20higher%20education%3A%20The%20state%20of%20the%20field&publication\_year=2023&author=H.%20Crompton&author=D.%20Burke)
+26. [Davis and Lee, 2024](#bbib26)
+R.O.Davis, Y.J.Lee
+Prompt: ChatGPT, create my course, please
+Education Sciences, 14 (1) (2024), p. 24, [10.3390/educsci14010024](https://doi.org/10.3390/educsci14010024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Prompt%3A%20ChatGPT%2C%20create%20my%20course%2C%20please&publication\_year=2024&author=R.O.%20Davis&author=Y.J.%20Lee)
+27. [Demszky et al., 2023](#bbib27)
+D.Demszky, J.Liu, H.C.Hill, D.Jurafsky, C.Piech
+Can automated feedback improve teachers' uptake of student ideas? Evidence from a randomized controlled trial in a large-scale online course
+Educational Evaluation and Policy Analysis, 46 (3) (2023), pp. 483-505, [10.3102/01623737231169270](https://doi.org/10.3102/01623737231169270)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Can%20automated%20feedback%20improve%20teachers%20uptake%20of%20student%20ideas%20Evidence%20from%20a%20randomized%20controlled%20trial%20in%20a%20large-scale%20online%20course&publication\_year=2023&author=D.%20Demszky&author=J.%20Liu&author=H.C.%20Hill&author=D.%20Jurafsky&author=C.%20Piech)
+28. [Denny et al., 2024](#bbib28)
+P.Denny, J.Prather, B.A.Becker, J.Finnie-Ansley, A.Hellas, J.Leinonen, A.Luxton-Reilly, B.N.Reeves, E.A.Santos, S.Sarsa
+Computing education in the era of generative AI
+Communications of the ACM, 67 (2) (2024), pp. 56-67, [10.1145/3624720](https://doi.org/10.1145/3624720)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Computing%20education%20in%20the%20era%20of%20generative%20AI&publication\_year=2024&author=P.%20Denny&author=J.%20Prather&author=B.A.%20Becker&author=J.%20Finnie-Ansley&author=A.%20Hellas&author=J.%20Leinonen&author=A.%20Luxton-Reilly&author=B.N.%20Reeves&author=E.A.%20Santos&author=S.%20Sarsa)
+29. [Ding et al., 2024](#bbib29)
+L.Ding, L.Kim, R.Allday
+Development of an AI literacy assessment for non-technical individuals: What do teachers know?
+Contemporary Educational Technology, 16 (3) (2024), p. ep512, [10.30935/cedtech/14619](https://doi.org/10.30935/cedtech/14619)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Development%20of%20an%20AI%20literacy%20assessment%20for%20non-technical%20individuals%3A%20What%20do%20teachers%20know&publication\_year=2024&author=L.%20Ding&author=L.%20Kim&author=R.%20Allday)
+30. [Ding et al., 2024](#bbib30)
+A.-C.E.Ding, L.Shi, H.Yang, I.Choi
+Enhancing teacher AI literacy and integration through different types of cases in teacher professional development
+Computers and Education Open, 6 (2024), Article 100178, [10.1016/j.caeo.2024.100178](https://doi.org/10.1016/j.caeo.2024.100178)
+[View PDF](/science/article/pii/S2666557324000193/pdfft?md5=a1b6ec2678373f52883e55e40221b69a&pid=1-s2.0-S2666557324000193-main.pdf)[View article](/science/article/pii/S2666557324000193)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enhancing%20teacher%20AI%20literacy%20and%20integration%20through%20different%20types%20of%20cases%20in%20teacher%20professional%20development&publication\_year=2024&author=A.-C.E.%20Ding&author=L.%20Shi&author=H.%20Yang&author=I.%20Choi)
+31. [dos Santos et al., 2022](#bbib31)
+A.D.P.dos Santos, L.Loke, K.Yacef, R.Martinez-Maldonado
+Enriching teachers' assessments of rhythmic Forró dance skills by modelling motion sensor data
+International Journal of Human-Computer Studies, 161 (2022), Article 102776, [10.1016/j.ijhcs.2022.102776](https://doi.org/10.1016/j.ijhcs.2022.102776)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enriching%20teachers%20assessments%20of%20rhythmic%20Forr%C3%B3%20dance%20skills%20by%20modelling%20motion%20sensor%20data&publication\_year=2022&author=A.D.P.%20dos%20Santos&author=L.%20Loke&author=K.%20Yacef&author=R.%20Martinez-Maldonado)
+32. [Echeverria et al., 2023](#bbib32)
+V.Echeverria, K.Yang, L.Lawrence, N.Rummel, V.Aleven
+Designing hybrid human–AI orchestration tools for individual and collaborative activities: A technology probe study
+IEEE Transactions on Learning Technologies, 16 (2) (2023), pp. 191-205, [10.1109/TLT.2023.3248155](https://doi.org/10.1109/TLT.2023.3248155)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Designing%20hybrid%20humanAI%20orchestration%20tools%20for%20individual%20and%20collaborative%20activities%3A%20A%20technology%20probe%20study&publication\_year=2023&author=V.%20Echeverria&author=K.%20Yang&author=L.%20Lawrence&author=N.%20Rummel&author=V.%20Aleven)
+33. [Edwards and Cheok, 2018](#bbib33)
+B.I.Edwards, A.D.Cheok
+Why not robot teachers: Artificial intelligence for addressing teacher shortage
+Applied Artificial Intelligence, 32 (4) (2018), pp. 345-360, [10.1080/08839514.2018.1464286](https://doi.org/10.1080/08839514.2018.1464286)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Why%20not%20robot%20teachers%3A%20Artificial%20intelligence%20for%20addressing%20teacher%20shortage&publication\_year=2018&author=B.I.%20Edwards&author=A.D.%20Cheok)
+34. [Elgohary and Al-Dossary, 2022](#bbib34)
+H.K.A.Elgohary, H.K.Al-Dossary
+The effectiveness of an educational environment based on artificial intelligence techniques using virtual classrooms on training development
+International Journal of Instruction, 15 (4) (2022), pp. 1133-1150
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20effectiveness%20of%20an%20educational%20environment%20based%20on%20artificial%20intelligence%20techniques%20using%20virtual%20classrooms%20on%20training%20development&publication\_year=2022&author=H.K.A.%20Elgohary&author=H.K.%20Al-Dossary)
+35. [Evmenova et al., 2024](#bbib35)
+A.S.Evmenova, K.Regan, R.Mergen, R.Hrisseh
+Improving writing feedback for struggling writers: Generative AI to the rescue?
+TechTrends, 68 (2024), pp. 790-802, [10.1007/s11528-024-00965-y](https://doi.org/10.1007/s11528-024-00965-y)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Improving%20writing%20feedback%20for%20struggling%20writers%3A%20Generative%20AI%20to%20the%20rescue&publication\_year=2024&author=A.S.%20Evmenova&author=K.%20Regan&author=R.%20Mergen&author=R.%20Hrisseh)
+36. [Fassbender, 2024](#bbib36)
+W.J.Fassbender
+“I can almost recognize its voice”: AI and its impact on ethical teacher-centaur labor
+English Teaching: Practice and Critique, 23 (1) (2024), pp. 104-117, [10.1108/ETPC-08-2023-0101](https://doi.org/10.1108/ETPC-08-2023-0101)
+[View article](/science/article/pii/S1175870824000165)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=I%20can%20almost%20recognize%20its%20voice%3A%20AI%20and%20its%20impact%20on%20ethical%20teacher-centaur%20labor&publication\_year=2024&author=W.J.%20Fassbender)
+37. [Fidan and Gencel, 2022](#bbib37)
+M.Fidan, N.Gencel
+Supporting the instructional videos with chatbot and peer feedback mechanisms in online learning: The effects on learning performance and intrinsic motivation
+Journal of Educational Computing Research, 60 (7) (2022), pp. 1716-1741, [10.1177/07356331221077901](https://doi.org/10.1177/07356331221077901)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Supporting%20the%20instructional%20videos%20with%20chatbot%20and%20peer%20feedback%20mechanisms%20in%20online%20learning%3A%20The%20effects%20on%20learning%20performance%20and%20intrinsic%20motivation&publication\_year=2022&author=M.%20Fidan&author=N.%20Gencel)
+38. [Fuller et al., 2024](#bbib38)
+K.A.Fuller, K.A.Morbitzer, J.M.Zeeman, A.M.Persky, A.C.Savage, J.E.McLaughlin
+Exploring the use of ChatGPT to analyze student course evaluation comments
+BMC Medical Education, 24 (1) (2024), p. 423, [10.1186/s12909-024-05316-2](https://doi.org/10.1186/s12909-024-05316-2)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20the%20use%20of%20ChatGPT%20to%20analyze%20student%20course%20evaluation%20comments&publication\_year=2024&author=K.A.%20Fuller&author=K.A.%20Morbitzer&author=J.M.%20Zeeman&author=A.M.%20Persky&author=A.C.%20Savage&author=J.E.%20McLaughlin)
+39. [Galindo-Domínguez et al., 2024](#bbib39)
+H.Galindo-Domínguez, N.Delgado, D.Losada, J.-M.Etxabe
+An analysis of the use of artificial intelligence in education in Spain: The in-service teacher's perspective
+Journal of Digital Learning in Teacher Education, 40 (1) (2024), pp. 41-56, [10.1080/21532974.2023.2284726](https://doi.org/10.1080/21532974.2023.2284726)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20analysis%20of%20the%20use%20of%20artificial%20intelligence%20in%20education%20in%20Spain%3A%20The%20in-service%20teachers%20perspective&publication\_year=2024&author=H.%20Galindo-Dom%C3%ADnguez&author=N.%20Delgado&author=D.%20Losada&author=J.-M.%20Etxabe)
+40. [Gašević et al., 2023](#bbib40)
+D.Gašević, G.Siemens, S.Sadiq
+Empowering learners for the age of artificial intelligence
+Computers and Education: Artificial Intelligence, 4 (2023), Article 100130, [10.1016/j.caeai.2023.100130](https://doi.org/10.1016/j.caeai.2023.100130)
+[View PDF](/science/article/pii/S2666920X23000097/pdfft?md5=b9783cb7ece9ecf8e0b647617e69d3a2&pid=1-s2.0-S2666920X23000097-main.pdf)[View article](/science/article/pii/S2666920X23000097)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Empowering%20learners%20for%20the%20age%20of%20artificial%20intelligence&publication\_year=2023&author=D.%20Ga%C5%A1evi%C4%87&author=G.%20Siemens&author=S.%20Sadiq)
+41. [Ghafouri et al., 2024](#bbib41)
+M.Ghafouri, J.Hassaskhah, A.Mahdavi-Zafarghandi
+From virtual assistant to writing mentor: Exploring the impact of a ChatGPT-based writing instruction protocol on EFL teachers' self-efficacy and learners' writing skill
+Language Teaching Research (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=From%20virtual%20assistant%20to%20writing%20mentor%3A%20Exploring%20the%20impact%20of%20a%20ChatGPT-based%20writing%20instruction%20protocol%20on%20EFL%20teachers%20self-efficacy%20and%20learners%20writing%20skill&publication\_year=2024&author=M.%20Ghafouri&author=J.%20Hassaskhah&author=A.%20Mahdavi-Zafarghandi)
+42. [Grajeda et al., 2023](#bbib42)
+A.Grajeda, J.Burgos, P.Cordova Olivera, A.Sanjines
+Assessing student-perceived impact of using artificial intelligence tools: Construction of a synthetic index of application in higher education
+Cogent Education, 11 (1) (2023), [10.1080/2331186X.2023.2287917](https://doi.org/10.1080/2331186X.2023.2287917)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Assessing%20student-perceived%20impact%20of%20using%20artificial%20intelligence%20tools%3A%20Construction%20of%20a%20synthetic%20index%20of%20application%20in%20higher%20education&publication\_year=2023&author=A.%20Grajeda&author=J.%20Burgos&author=P.%20Cordova%20Olivera&author=A.%20Sanjines)
+43. [Gunawan et al., 2021](#bbib43)
+K.D.H.Gunawan, L.Liliasari, I.Kaniawati, W.Setiawan
+Implementation of competency enhancement program for science teachers assisted by artificial intelligence in designing HOTS-based integrated science learning
+Jurnal Penelitian Dan Pembelajaran IPA, 7 (1) (2021), pp. 55-65, [10.30870/jppi.v7i1.8655](https://doi.org/10.30870/jppi.v7i1.8655)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Implementation%20of%20competency%20enhancement%20program%20for%20science%20teachers%20assisted%20by%20artificial%20intelligence%20in%20designing%20HOTS-based%20integrated%20science%20learning&publication\_year=2021&author=K.D.H.%20Gunawan&author=L.%20Liliasari&author=I.%20Kaniawati&author=W.%20Setiawan)
+44. [Guo et al., 2023](#bbib44)
+K.Guo, Y.Zhong, D.Li, S.K.W.Chu
+Investigating students' engagement in chatbot-supported classroom debates
+Interactive Learning Environments (2023), pp. 1-17, [10.1080/10494820.2023.2207181](https://doi.org/10.1080/10494820.2023.2207181)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Investigating%20students%20engagement%20in%20chatbot-supported%20classroom%20debates&publication\_year=2023&author=K.%20Guo&author=Y.%20Zhong&author=D.%20Li&author=S.K.W.%20Chu)
+45. [He et al., 2024](#bbib45)
+Q.He, H.Chen, X.Mo
+Practical application of interactive AI technology based on visual analysis in professional system of physical education in universities
+Heliyon, 10 (3) (2024), Article e24627, [10.1016/j.heliyon.2024.e24627](https://doi.org/10.1016/j.heliyon.2024.e24627)
+[View PDF](/science/article/pii/S2405844024006583/pdfft?md5=f9050bad655cd046e68fa17faed59e68&pid=1-s2.0-S2405844024006583-main.pdf)[View article](/science/article/pii/S2405844024006583)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Practical%20application%20of%20interactive%20AI%20technology%20based%20on%20visual%20analysis%20in%20professional%20system%20of%20physical%20education%20in%20universities&publication\_year=2024&author=Q.%20He&author=H.%20Chen&author=X.%20Mo)
+46. [Holstein et al., 2019](#bbib46)
+K.Holstein, B.M.McLaren, V.Aleven
+Co-designing a real-time classroom orchestration tool to support teacher–AI complementarity
+Journal of Learning Analytics, 6 (2) (2019), pp. 27-52, [10.18608/jla.2019.62.3](https://doi.org/10.18608/jla.2019.62.3)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Co-designing%20a%20real-time%20classroom%20orchestration%20tool%20to%20support%20teacherAI%20complementarity&publication\_year=2019&author=K.%20Holstein&author=B.M.%20McLaren&author=V.%20Aleven)
+47. [Hwang et al., 2021](#bbib47)
+G.J.Hwang, Y.F.Tu, C.J.Lin
+Advancements and hot research topics of artificial intelligence in mobile learning: A review of journal publications from 1995 to 2019
+International Journal of Mobile Learning and Organisation, 15 (4) (2021), pp. 427-447, [10.1504/IJMLO.2021.118444](https://doi.org/10.1504/IJMLO.2021.118444)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Advancements%20and%20hot%20research%20topics%20of%20artificial%20intelligence%20in%20mobile%20learning%3A%20A%20review%20of%20journal%20publications%20from%201995%20to%202019&publication\_year=2021&author=G.J.%20Hwang&author=Y.F.%20Tu&author=C.J.%20Lin)
+48. [Ji et al., 2024](#bbib48)
+H.Ji, I.Han, S.Park
+Teaching foreign language with conversational AI: Teacher-student-AI interaction
+Language, Learning and Technology, 28 (2) (2024), pp. 91-108
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teaching%20foreign%20language%20with%20conversational%20AI%3A%20Teacher-student-AI%20interaction&publication\_year=2024&author=H.%20Ji&author=I.%20Han&author=S.%20Park)
+49. [Jia et al., 2024](#bbib49)
+J.Jia, T.Wang, Y.Zhang, G.Wang
+The comparison of general tips for mathematical problem solving generated by generative AI with those generated by human teachers
+Asia Pacific Journal of Education, 44 (1) (2024), pp. 8-28
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20comparison%20of%20general%20tips%20for%20mathematical%20problem%20solving%20generated%20by%20generative%20AI%20with%20those%20generated%20by%20human%20teachers&publication\_year=2024&author=J.%20Jia&author=T.%20Wang&author=Y.%20Zhang&author=G.%20Wang)
+50. [Jukiewicz, 2024](#bbib50)
+M.Jukiewicz
+The future of grading programming assignments in education: The role of ChatGPT in automating the assessment and feedback process
+Thinking Skills and Creativity, 52 (2024), Article 101522, [10.1016/j.tsc.2024.101522](https://doi.org/10.1016/j.tsc.2024.101522)
+[View PDF](/science/article/pii/S1871187124000609/pdfft?md5=d5cbd19dc0fef3bf4fb8534778cbcc57&pid=1-s2.0-S1871187124000609-main.pdf)[View article](/science/article/pii/S1871187124000609)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20future%20of%20grading%20programming%20assignments%20in%20education%3A%20The%20role%20of%20ChatGPT%20in%20automating%20the%20assessment%20and%20feedback%20process&publication\_year=2024&author=M.%20Jukiewicz)
+51. [Karaman and Göksu, 2024](#bbib51)
+M.Karaman, İ.Göksu
+Are lesson plans created by ChatGPT more effective? An experimental study
+International Journal of Technology in Education, 7 (1) (2024), pp. 107-127, [10.46328/ijte.607](https://doi.org/10.46328/ijte.607)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Are%20lesson%20plans%20created%20by%20ChatGPT%20more%20effective%20An%20experimental%20study&publication\_year=2024&author=M.%20Karaman&author=%C4%B0.%20G%C3%B6ksu)
+52. [Karataş et al., 2024](#bbib52)
+F.Karataş, F.Y.Abedi, F.Ozek Gunyel, D.Karadeniz, Y.Kuzgun
+Incorporating AI in foreign language education: An investigation into ChatGPT's effect on foreign language learners
+Education and Information Technologies, 29 (2024), pp. 19343-19366, [10.1007/s10639-024-12574-6](https://doi.org/10.1007/s10639-024-12574-6)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Incorporating%20AI%20in%20foreign%20language%20education%3A%20An%20investigation%20into%20ChatGPTs%20effect%20on%20foreign%20language%20learners&publication\_year=2024&author=F.%20Karata%C5%9F&author=F.Y.%20Abedi&author=F.%20Ozek%20Gunyel&author=D.%20Karadeniz&author=Y.%20Kuzgun)
+53. [Kasepalu et al., 2022](#bbib53)
+R.Kasepalu, L.P.Prieto, T.Ley, P.Chejara
+Teacher artificial intelligence-supported pedagogical actions in collaborative learning coregulation: A wizard-of-oz study
+Frontiers in Education, 7 (2022), Article 736194, [10.3389/feduc.2022.736194](https://doi.org/10.3389/feduc.2022.736194)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20artificial%20intelligence-supported%20pedagogical%20actions%20in%20collaborative%20learning%20coregulation%3A%20A%20wizard-of-oz%20study&publication\_year=2022&author=R.%20Kasepalu&author=L.P.%20Prieto&author=T.%20Ley&author=P.%20Chejara)
+54. [Kemelbekova et al., 2024](#bbib54)
+Z.Kemelbekova, X.Degtyareva, S.Yessenaman, D.Ismailova, G.Seidaliyeva
+AI in teaching English as a foreign language: Effectiveness and prospects in Kazakh higher education
+XLinguae, 17 (1) (2024), pp. 69-83, [10.18355/XL.2024.17.01.05](https://doi.org/10.18355/XL.2024.17.01.05)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20in%20teaching%20English%20as%20a%20foreign%20language%3A%20Effectiveness%20and%20prospects%20in%20Kazakh%20higher%20education&publication\_year=2024&author=Z.%20Kemelbekova&author=X.%20Degtyareva&author=S.%20Yessenaman&author=D.%20Ismailova&author=G.%20Seidaliyeva)
+55. [Kim, 2024](#bbib55)
+S.-W.Kim
+Development of a TPACK educational program to enhance pre-service teachers' teaching expertise in artificial intelligence convergence education
+International Journal of Advanced Science, Engineering and Information Technology, 14 (1) (2024), pp. 1-9, [10.18517/ijaseit.14.1.19552](https://doi.org/10.18517/ijaseit.14.1.19552)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Development%20of%20a%20TPACK%20educational%20program%20to%20enhance%20pre-service%20teachers%20teaching%20expertise%20in%20artificial%20intelligence%20convergence%20education&publication\_year=2024&author=S.-W.%20Kim)
+56. [Kitcharoen et al., 2024](#bbib56)
+P.Kitcharoen, S.Howimanporn, S.Chookaew
+Enhancing teachers' AI competencies through artificial intelligence of Things professional development training
+International Journal of Interactive Mobile Technologies (iJIM), 18 (2) (2024), pp. 4-15, [10.3991/ijim.v18i02.46613](https://doi.org/10.3991/ijim.v18i02.46613)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enhancing%20teachers%20AI%20competencies%20through%20artificial%20intelligence%20of%20Things%20professional%20development%20training&publication\_year=2024&author=P.%20Kitcharoen&author=S.%20Howimanporn&author=S.%20Chookaew)
+57. [Krange et al., 2023](#bbib57)
+I.Krange, M.Segaran, S.Gamlem, S.Moltudal, I.Engeness
+A triple challenge: Students' identification, interpretation, and use of individualized automated feedback in learning to write English as a Foreign Language
+Interaction Design and Architecture(s), 59 (2023), pp. 37-61, [10.55612/s-5002-059-001](https://doi.org/10.55612/s-5002-059-001)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20triple%20challenge%3A%20Students%20identification%2C%20interpretation%2C%20and%20use%20of%20individualized%20automated%20feedback%20in%20learning%20to%20write%20English%20as%20a%20Foreign%20Language&publication\_year=2023&author=I.%20Krange&author=M.%20Segaran&author=S.%20Gamlem&author=S.%20Moltudal&author=I.%20Engeness)
+58. [Kshetri, 2023](#bbib58)
+N.Kshetri
+The future of education: Generative artificial intelligence's collaborative role with teachers
+IT Professional, 25 (6) (2023), pp. 8-12, [10.1109/MITP.2023.3333070](https://doi.org/10.1109/MITP.2023.3333070)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20future%20of%20education%3A%20Generative%20artificial%20intelligences%20collaborative%20role%20with%20teachers&publication\_year=2023&author=N.%20Kshetri)
+59. [Kusuma et al., 2024](#bbib59)
+I.P.I.Kusuma, M.Roni, K.S.Dewi, G.Mahendrayana
+Revealing the potential of ChatGPT for English language teaching: EFL preservice teachers' teaching practicum experience
+Studies in English Language and Education, 11 (2) (2024), pp. 650-670, [10.24815/siele.v11i2.34748](https://doi.org/10.24815/siele.v11i2.34748)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Revealing%20the%20potential%20of%20ChatGPT%20for%20English%20language%20teaching%3A%20EFL%20preservice%20teachers%20teaching%20practicum%20experience&publication\_year=2024&author=I.P.I.%20Kusuma&author=M.%20Roni&author=K.S.%20Dewi&author=G.%20Mahendrayana)
+60. [Lampos et al., 2021](#bbib60)
+V.Lampos, J.Mintz, X.Qu
+An artificial intelligence approach for selecting effective teacher communication strategies in autism education
+Npj Science of Learning, 6 (2021), p. 25, [10.1038/s41539-021-00102-x](https://doi.org/10.1038/s41539-021-00102-x)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20artificial%20intelligence%20approach%20for%20selecting%20effective%20teacher%20communication%20strategies%20in%20autism%20education&publication\_year=2021&author=V.%20Lampos&author=J.%20Mintz&author=X.%20Qu)
+61. [LeCun et al., 2015](#bbib61)
+Y.LeCun, Y.Bengio, G.Hinton
+Deep learning
+Nature, 521 (2015), pp. 436-444, [10.1038/nature14539](https://doi.org/10.1038/nature14539)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Deep%20learning&publication\_year=2015&author=Y.%20LeCun&author=Y.%20Bengio&author=G.%20Hinton)
+62. [Lee et al., 2024](#bbib62)
+S.Lee, J.Jeon, H.Choe
+Enhancing pre-service teachers' global englishes awareness with technology: A focus on AI chatbots in 3D metaverse environments
+Tesol Quarterly (2024), [10.1002/tesq.3300](https://doi.org/10.1002/tesq.3300)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enhancing%20pre-service%20teachers%20global%20englishes%20awareness%20with%20technology%3A%20A%20focus%20on%20AI%20chatbots%20in%203D%20metaverse%20environments&publication\_year=2024&author=S.%20Lee&author=J.%20Jeon&author=H.%20Choe)
+63. [Lee et al., 2023](#bbib63)
+G.-G.Lee, S.Mun, M.-K.Shin, X.Zhai
+Collaborative learning with artificial intelligence speakers (CLAIS): Pre-service elementary science teachers' responses to the prototype
+arXiv (2023), [10.48550/arXiv.2401.05400](https://doi.org/10.48550/arXiv.2401.05400)
+[arXiv:2401.05400]
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Collaborative%20learning%20with%20artificial%20intelligence%20speakers%20%3A%20Pre-service%20elementary%20science%20teachers%20responses%20to%20the%20prototype&publication\_year=2023&author=G.-G.%20Lee&author=S.%20Mun&author=M.-K.%20Shin&author=X.%20Zhai)
+64. [Lee and Zhai, 2024](#bbib64)
+G.-G.Lee, X.Zhai
+Using ChatGPT for science learning: A study on pre-service teachers' lesson planning
+IEEE Transactions on Learning Technologies, 17 (2024), pp. 1683-1700, [10.1109/TLT.2024.3401457](https://doi.org/10.1109/TLT.2024.3401457)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using%20ChatGPT%20for%20science%20learning%3A%20A%20study%20on%20pre-service%20teachers%20lesson%20planning&publication\_year=2024&author=G.-G.%20Lee&author=X.%20Zhai)
+65. [Lérias et al., 2024](#bbib65)
+E.Lérias, C.Guerra, P.Ferreira
+Literacy in artificial intelligence as a challenge for teaching in higher education: A case study at portalegre polytechnic university
+Information, 15 (4) (2024), p. 205, [10.3390/info15040205](https://doi.org/10.3390/info15040205)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Literacy%20in%20artificial%20intelligence%20as%20a%20challenge%20for%20teaching%20in%20higher%20education%3A%20A%20case%20study%20at%20portalegre%20polytechnic%20university&publication\_year=2024&author=E.%20L%C3%A9rias&author=C.%20Guerra&author=P.%20Ferreira)
+66. [Li, 2023](#bbib66)
+H.Li
+Effects of a ChatGPT-based flipped learning guiding approach on learners' courseware project performances and perceptions
+Australasian Journal of Educational Technology, 39 (5) (2023), pp. 40-58, [10.14742/ajet.8923](https://doi.org/10.14742/ajet.8923)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Effects%20of%20a%20ChatGPT-based%20flipped%20learning%20guiding%20approach%20on%20learners%20courseware%20project%20performances%20and%20perceptions&publication\_year=2023&author=H.%20Li)
+67. [Li, 2024](#bbib67)
+Y.Li
+The digital transformation of college English classroom: Application of artificial intelligence and data science
+EAI Endorsed Transactions on Scalable Information Systems, 11 (5) (2024), [10.4108/eetsis.5636](https://doi.org/10.4108/eetsis.5636)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20digital%20transformation%20of%20college%20English%20classroom%3A%20Application%20of%20artificial%20intelligence%20and%20data%20science&publication\_year=2024&author=Y.%20Li)
+68. [Lin, 2022](#bbib68)
+H.Lin
+Influences of artificial intelligence in education on teaching effectiveness: The mediating effect of teachers' perceptions of educational technology
+International Journal of Emerging Technologies in Learning (iJET), 17 (24) (2022), pp. 144-156, [10.3991/ijet.v17i24.36037](https://doi.org/10.3991/ijet.v17i24.36037)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Influences%20of%20artificial%20intelligence%20in%20education%20on%20teaching%20effectiveness%3A%20The%20mediating%20effect%20of%20teachers%20perceptions%20of%20educational%20technology&publication\_year=2022&author=H.%20Lin)
+69. [Lin et al., 2022](#bbib69)
+H.C.Lin, C.F.Ho, H.Yang
+Understanding adoption of artificial intelligence-enabled language e-learning system: An empirical study of UTAUT model
+International Journal of Mobile Learning and Organisation, 16 (1) (2022), pp. 74-99, [10.1504/IJMLO.2022.119966](https://doi.org/10.1504/IJMLO.2022.119966)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Understanding%20adoption%20of%20artificial%20intelligence-enabled%20language%20e-learning%20system%3A%20An%20empirical%20study%20of%20UTAUT%20model&publication\_year=2022&author=H.C.%20Lin&author=C.F.%20Ho&author=H.%20Yang)
+70. [Liu, 2022](#bbib70)
+J.Liu
+The auxiliary role of college music in teaching in view of artificial intelligence
+Mobile Information Systems, 2022 (1) (2022), Article 2693199, [10.1155/2022/2693199](https://doi.org/10.1155/2022/2693199)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20auxiliary%20role%20of%20college%20music%20in%20teaching%20in%20view%20of%20artificial%20intelligence&publication\_year=2022&author=J.%20Liu)
+71. [Lo, 2023](#bbib71)
+C.K.Lo
+What is the impact of ChatGPT on education? A rapid review of the literature
+Education Sciences, 13 (4) (2023), p. 410, [10.3390/educsci13040410](https://doi.org/10.3390/educsci13040410)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=What%20is%20the%20impact%20of%20ChatGPT%20on%20education%20A%20rapid%20review%20of%20the%20literature&publication\_year=2023&author=C.K.%20Lo)
+72. [Lu et al., 2021](#bbib72)
+O.H.T.Lu, A.Y.Q.Huang, D.C.L.Tsai, S.J.H.Yang
+Expert-authored and machine-generated short-answer questions for assessing students' learning performance
+Educational Technology & Society, 24 (3) (2021), pp. 159-173
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Expert-authored%20and%20machine-generated%20short-answer%20questions%20for%20assessing%20students%20learning%20performance&publication\_year=2021&author=O.H.T.%20Lu&author=A.Y.Q.%20Huang&author=D.C.L.%20Tsai&author=S.J.H.%20Yang)
+73. [Lu et al., 2024](#bbib73)
+Q.Lu, Y.Yao, L.Xiao, M.Yuan, J.Wang, X.Zhu
+Can ChatGPT effectively complement teacher assessment of undergraduate students' academic writing?
+Assessment & Evaluation in Higher Education, 49 (5) (2024), pp. 616-633, [10.1080/02602938.2024.2301722](https://doi.org/10.1080/02602938.2024.2301722)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Can%20ChatGPT%20effectively%20complement%20teacher%20assessment%20of%20undergraduate%20students%20academic%20writing&publication\_year=2024&author=Q.%20Lu&author=Y.%20Yao&author=L.%20Xiao&author=M.%20Yuan&author=J.%20Wang&author=X.%20Zhu)
+74. [Lu et al., 2024](#bbib74)
+J.Lu, R.Zheng, Z.Gong, H.Xu
+Supporting teachers' professional development with generative AI: The effects on higher order thinking and self-efficacy
+IEEE Transactions on Learning Technologies, 17 (2024), pp. 1279-1289, [10.1109/TLT.2024.3369690](https://doi.org/10.1109/TLT.2024.3369690)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Supporting%20teachers%20professional%20development%20with%20generative%20AI%3A%20The%20effects%20on%20higher%20order%20thinking%20and%20self-efficacy&publication\_year=2024&author=J.%20Lu&author=R.%20Zheng&author=Z.%20Gong&author=H.%20Xu)
+75. [Luckin et al., 2016](#bbib75)
+R.Luckin, W.Holmes, M.Griffiths, L.B.Forcier
+Intelligence unleashed. An argument for AI in education
+Pearson, London (2016)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Intelligence%20unleashed.%20An%20argument%20for%20AI%20in%20education&publication\_year=2016&author=R.%20Luckin&author=W.%20Holmes&author=M.%20Griffiths&author=L.B.%20Forcier)
+76. [Ma, 2021](#bbib76)
+L.Ma
+An immersive context teaching method for college English based on artificial intelligence and machine learning in virtual reality technology
+Mobile Information Systems, 2021 (1) (2021), Article 2637439, [10.1155/2021/2637439](https://doi.org/10.1155/2021/2637439)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20immersive%20context%20teaching%20method%20for%20college%20English%20based%20on%20artificial%20intelligence%20and%20machine%20learning%20in%20virtual%20reality%20technology&publication\_year=2021&author=L.%20Ma)
+77. [Mai et al., 2024](#bbib77)
+D.T.T.Mai, C.V.Da, N.V.Hanh
+The use of ChatGPT in teaching and learning: A systematic review through swot analysis approach
+Frontiers in Education, 9 (2024), [10.3389/feduc.2024.1328769](https://doi.org/10.3389/feduc.2024.1328769)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20use%20of%20ChatGPT%20in%20teaching%20and%20learning%3A%20A%20systematic%20review%20through%20swot%20analysis%20approach&publication\_year=2024&author=D.T.T.%20Mai&author=C.V.%20Da&author=N.V.%20Hanh)
+78. [Mao, 2022](#bbib78)
+Q.Mao
+Research on the improvement method of music education level under the background of AI technology
+Mobile Information Systems, 2022 (1) (2022), Article 7616619, [10.1155/2022/7616619](https://doi.org/10.1155/2022/7616619)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Research%20on%20the%20improvement%20method%20of%20music%20education%20level%20under%20the%20background%20of%20AI%20technology&publication\_year=2022&author=Q.%20Mao)
+79. [Mbambo and Du Plessis, 2024](#bbib79)
+G.P.Mbambo, E.Du Plessis
+The impact of artificial intelligence on teacher training in open distance and electronic learning
+International Journal of Learning, Teaching and Educational Research, 23 (5) (2024), pp. 370-386, [10.26803/ijlter.23.5.19](https://doi.org/10.26803/ijlter.23.5.19)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20impact%20of%20artificial%20intelligence%20on%20teacher%20training%20in%20open%20distance%20and%20electronic%20learning&publication\_year=2024&author=G.P.%20Mbambo&author=E.%20Du%20Plessis)
+80. [McHugh, 2012](#bbib80)
+M.L.McHugh
+Interrater reliability: The kappa statistic
+Biochemia Medica, 22 (3) (2012), pp. 276-282
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Interrater%20reliability%3A%20The%20kappa%20statistic&publication\_year=2012&author=M.L.%20McHugh)
+81. [McLeod and Richardson, 2023](#bbib81)
+A.McLeod, H.Richardson
+Co-constructing skills for ChatGPT at university
+Journal of Academic Language and Learning, 17 (1) (2023), pp. T70-T80
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Co-constructing%20skills%20for%20ChatGPT%20at%20university&publication\_year=2023&author=A.%20McLeod&author=H.%20Richardson)
+82. [Meylani, 2024](#bbib82)
+R.Meylani
+Artificial intelligence in the education of teachers: A qualitative synthesis of the cutting-edge research literature
+Journal of Computer and Education Research, 12 (24) (2024), pp. 600-637, [10.18009/jcer.1477709](https://doi.org/10.18009/jcer.1477709)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20in%20the%20education%20of%20teachers%3A%20A%20qualitative%20synthesis%20of%20the%20cutting-edge%20research%20literature&publication\_year=2024&author=R.%20Meylani)
+83. [Miralay, 2024](#bbib83)
+F.Miralay
+Use of artificial intelligence and augmented reality tools in art education course
+Pegem Journal of Education and Instruction, 14 (3) (2024), pp. 44-50, [10.47750/pegegog.14.03.04](https://doi.org/10.47750/pegegog.14.03.04)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Use%20of%20artificial%20intelligence%20and%20augmented%20reality%20tools%20in%20art%20education%20course&publication\_year=2024&author=F.%20Miralay)
+84. [Mohammadkarimi, 2024](#bbib84)
+E.Mohammadkarimi
+Exploring the use of artificial intelligence in promoting English language pronunciation skills
+LLT Journal: A Journal on Language and Language Teaching, 27 (1) (2024), pp. 98-115, [10.24071/llt.v27i1.8151](https://doi.org/10.24071/llt.v27i1.8151)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20the%20use%20of%20artificial%20intelligence%20in%20promoting%20English%20language%20pronunciation%20skills&publication\_year=2024&author=E.%20Mohammadkarimi)
+85. [Moorhouse et al., 2024a](#bbib85)
+B.L.Moorhouse, Y.Wan, T.Y.Ho, A.M.Y.Lin
+Generative AI-assisted, evidence-informed use of L1 in L2 classrooms
+ELT Journal, 78 (4) (2024), pp. 453-465, [10.1093/elt/ccae033](https://doi.org/10.1093/elt/ccae033)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20AI-assisted%2C%20evidence-informed%20use%20of%20L1%20in%20L2%20classrooms&publication\_year=2024&author=B.L.%20Moorhouse&author=Y.%20Wan&author=T.Y.%20Ho&author=A.M.Y.%20Lin)
+86. [Moorhouse et al., 2024b](#bbib86)
+B.L.Moorhouse, Y.Wan, C.Wu, L.Kohnke, T.Y.Ho, T.Kwong
+Developing language teachers' professional generative AI competence: An intervention study in an initial language teacher education course
+System, 125 (2024), Article 103399, [10.1016/j.system.2024.103399](https://doi.org/10.1016/j.system.2024.103399)
+[View PDF](/science/article/pii/S0346251X24001817/pdfft?md5=515405e1f1bc4b6484f16672db4e3d41&pid=1-s2.0-S0346251X24001817-main.pdf)[View article](/science/article/pii/S0346251X24001817)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Developing%20language%20teachers%20professional%20generative%20AI%20competence%3A%20An%20intervention%20study%20in%20an%20initial%20language%20teacher%20education%20course&publication\_year=2024&author=B.L.%20Moorhouse&author=Y.%20Wan&author=C.%20Wu&author=L.%20Kohnke&author=T.Y.%20Ho&author=T.%20Kwong)
+87. [Nazaretsky et al., 2022](#bbib87)
+T.Nazaretsky, M.Ariely, M.Cukurova, G.Alexandron
+Teachers' trust in AI-powered educational technology and a professional development program to improve it
+British Journal of Educational Technology, 53 (4) (2022), pp. 914-931, [10.1111/bjet.13232](https://doi.org/10.1111/bjet.13232)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20trust%20in%20AI-powered%20educational%20technology%20and%20a%20professional%20development%20program%20to%20improve%20it&publication\_year=2022&author=T.%20Nazaretsky&author=M.%20Ariely&author=M.%20Cukurova&author=G.%20Alexandron)
+88. [Ng et al., 2023](#bbib88)
+D.T.K.Ng, M.Lee, R.J.Y.Tan, X.Hu, J.S.Downie, S.K.W.Chu
+A review of AI teaching and learning from 2000 to 2020
+Education and Information Technologies, 28 (7) (2023), pp. 8445-8501, [10.1007/s10639-022-11491-w](https://doi.org/10.1007/s10639-022-11491-w)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20review%20of%20AI%20teaching%20and%20learning%20from%202000%20to%202020&publication\_year=2023&author=D.T.K.%20Ng&author=M.%20Lee&author=R.J.Y.%20Tan&author=X.%20Hu&author=J.S.%20Downie&author=S.K.W.%20Chu)
+89. [Nguyen, 2024](#bbib89)
+T.H.C.Nguyen
+Exploring the role of artificial intelligence-powered facilitator in enhancing digital competencies of primary school teachers
+European Journal of Educational Research, 13 (1) (2024), pp. 219-231, [10.12973/eu-jer.13.1.219](https://doi.org/10.12973/eu-jer.13.1.219)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20the%20role%20of%20artificial%20intelligence-powered%20facilitator%20in%20enhancing%20digital%20competencies%20of%20primary%20school%20teachers&publication\_year=2024&author=T.H.C.%20Nguyen)
+90. [Ning et al., 2024](#bbib90)
+Y.Ning, C.Zhang, B.Xu, Y.Zhou, T.T.Wijaya
+Teachers' AI-TPACK: Exploring the relationship between knowledge elements
+Sustainability, 16 (3) (2024), p. 978, [10.3390/su16030978](https://doi.org/10.3390/su16030978)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20AI-TPACK%3A%20Exploring%20the%20relationship%20between%20knowledge%20elements&publication\_year=2024&author=Y.%20Ning&author=C.%20Zhang&author=B.%20Xu&author=Y.%20Zhou&author=T.T.%20Wijaya)
+91. [Niu et al., 2022](#bbib91)
+S.J.Niu, J.Luo, H.Niemi, X.Li, Y.Lu
+Teachers' and students' views of using an AI-aided educational platform for supporting teaching and learning at Chinese schools
+Education Sciences, 12 (12) (2022), p. 858, [10.3390/educsci12120858](https://doi.org/10.3390/educsci12120858)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20and%20students%20views%20of%20using%20an%20AI-aided%20educational%20platform%20for%20supporting%20teaching%20and%20learning%20at%20Chinese%20schools&publication\_year=2022&author=S.J.%20Niu&author=J.%20Luo&author=H.%20Niemi&author=X.%20Li&author=Y.%20Lu)
+92. [O, 2024](#bbib92)
+K.-M.O
+A comparative study of AI-human-made and human-made test forms for a university TESOL theory course
+Language Testing in Asia, 14 (2024), p. 19, [10.1186/s40468-024-00291-3](https://doi.org/10.1186/s40468-024-00291-3)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20comparative%20study%20of%20AI-human-made%20and%20human-made%20test%20forms%20for%20a%20university%20TESOL%20theory%20course&publication\_year=2024&author=K.-M.%20O)
+93. [Ossa and Willatt, 2023](#bbib93)
+C.Ossa, C.Willatt
+Providing academic writing feedback assisted by Generative Artificial Intelligence in initial teacher education contexts
+European Journal of Education and Psychology, 16 (2) (2023), pp. 1-16, [10.32457/ejep.v16i2.2412](https://doi.org/10.32457/ejep.v16i2.2412)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Providing%20academic%20writing%20feedback%20assisted%20by%20Generative%20Artificial%20Intelligence%20in%20initial%20teacher%20education%20contexts&publication\_year=2023&author=C.%20Ossa&author=C.%20Willatt)
+94. [Page et al., 2021](#bbib94)
+M.J.Page, J.E.McKenzie, P.M.Bossuyt, I.Boutron, T.C.Hoffmann, C.D.Mulrow, L.Shamseer, J.M.Tetzlaff, E.A.Akl, S.E.Brennan, R.Chou, J.Glanville, J.M.Grimshaw, A.Hróbjartsson, M.M.Lalu, T.Li, E.W.Loder, E.Mayo-Wilson, S.McDonald, …, D.Moher
+The PRISMA 2020 statement: An updated guideline for reporting systematic reviews
+BMJ, 372 (2021), p. n71, [10.1136/bmj.n71](https://doi.org/10.1136/bmj.n71)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20PRISMA%202020%20statement%3A%20An%20updated%20guideline%20for%20reporting%20systematic%20reviews&publication\_year=2021&author=M.J.%20Page&author=J.E.%20McKenzie&author=P.M.%20Bossuyt&author=I.%20Boutron&author=T.C.%20Hoffmann&author=C.D.%20Mulrow&author=L.%20Shamseer&author=J.M.%20Tetzlaff&author=E.A.%20Akl&author=S.E.%20Brennan&author=R.%20Chou&author=J.%20Glanville&author=J.M.%20Grimshaw&author=A.%20Hr%C3%B3bjartsson&author=M.M.%20Lalu&author=T.%20Li&author=E.W.%20Loder&author=E.%20Mayo-Wilson&author=S.%20McDonald&author=D.%20Moher)
+95. [Phillips et al., 2022](#bbib95)
+T.Phillips, A.Saleh, G.Ozogul
+An AI toolkit to support teacher reflection
+International Journal of Artificial Intelligence in Education, 33 (2022), pp. 635-658, [10.1007/s40593-022-00295-1](https://doi.org/10.1007/s40593-022-00295-1)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20AI%20toolkit%20to%20support%20teacher%20reflection&publication\_year=2022&author=T.%20Phillips&author=A.%20Saleh&author=G.%20Ozogul)
+96. [Polak et al., 2022](#bbib96)
+S.Polak, G.Schiavo, M.Zancanaro
+Teachers' perspective on artificial intelligence education: An initial investigation
+Extended abstracts of the 2022 CHI conference on human factors in computing systems, Association for Computing Machinery (2022), pp. 1-7, [10.1145/3491101.3519866](https://doi.org/10.1145/3491101.3519866)
+Article No. 431
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20perspective%20on%20artificial%20intelligence%20education%3A%20An%20initial%20investigation&publication\_year=2022&author=S.%20Polak&author=G.%20Schiavo&author=M.%20Zancanaro)
+97. [Qiao and Zhao, 2023](#bbib97)
+H.Qiao, A.Zhao
+Artificial intelligence-based language learning: Illuminating the impact on speaking skills and self-regulation in Chinese EFL context
+Frontiers in Psychology, 14 (2023), [10.3389/fpsyg.2023.1255594](https://doi.org/10.3389/fpsyg.2023.1255594)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence-based%20language%20learning%3A%20Illuminating%20the%20impact%20on%20speaking%20skills%20and%20self-regulation%20in%20Chinese%20EFL%20context&publication\_year=2023&author=H.%20Qiao&author=A.%20Zhao)
+98. [Qin et al., 2021](#bbib98)
+D.Qin, Z.Wu, O.Zhou
+A study on construction of new teachers' teaching practice evaluation system in the era of artificial intelligence: AT college case
+2021 international conference on management science and software engineering (ICMSSE), IEEE (2021), pp. 229-234, [10.1109/ICMSSE53595.2021.00056](https://doi.org/10.1109/ICMSSE53595.2021.00056)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20study%20on%20construction%20of%20new%20teachers%20teaching%20practice%20evaluation%20system%20in%20the%20era%20of%20artificial%20intelligence%3A%20AT%20college%20case&publication\_year=2021&author=D.%20Qin&author=Z.%20Wu&author=O.%20Zhou)
+99. [Rahman and Watanobe, 2023](#bbib99)
+M.M.Rahman, Y.Watanobe
+ChatGPT for education and research: Opportunities, threats, and strategies
+Applied Sciences, 13 (9) (2023), p. 5783, [10.3390/app13095783](https://doi.org/10.3390/app13095783)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=ChatGPT%20for%20education%20and%20research%3A%20Opportunities%2C%20threats%2C%20and%20strategies&publication\_year=2023&author=M.M.%20Rahman&author=Y.%20Watanobe)
+100. [Rakap, 2024](#bbib100)
+S.Rakap
+Chatting with GPT: Enhancing individualized education program goal development for novice special education teachers
+Journal of Special Education Technology, 39 (3) (2024), pp. 339-348, [10.1177/01626434231211295](https://doi.org/10.1177/01626434231211295)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Chatting%20with%20GPT%3A%20Enhancing%20individualized%20education%20program%20goal%20development%20for%20novice%20special%20education%20teachers&publication\_year=2024&author=S.%20Rakap)
+101. [Rakap and Balikci, 2024](#bbib101)
+S.Rakap, S.Balikci
+Enhancing iep goal development for preschoolers with autism: A preliminary study on ChatGPT integration
+Journal of Autism and Developmental Disorders (2024), [10.1007/s10803-024-06343-0](https://doi.org/10.1007/s10803-024-06343-0)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enhancing%20iep%20goal%20development%20for%20preschoolers%20with%20autism%3A%20A%20preliminary%20study%20on%20ChatGPT%20integration&publication\_year=2024&author=S.%20Rakap&author=S.%20Balikci)
+102. [Saimon et al., 2024](#bbib102)
+M.Saimon, F.Mtenzi, Z.Lavicza, K.Fenyvesi, M.Arnold, J.M.Diego-Mantecón
+Applying the 6E learning by design model to support student teachers to integrate artificial intelligence applications in their classroom
+Education and Information Technologies (2024), [10.1007/s10639-024-12795-9](https://doi.org/10.1007/s10639-024-12795-9)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Applying%20the%206E%20learning%20by%20design%20model%20to%20support%20student%20teachers%20to%20integrate%20artificial%20intelligence%20applications%20in%20their%20classroom&publication\_year=2024&author=M.%20Saimon&author=F.%20Mtenzi&author=Z.%20Lavicza&author=K.%20Fenyvesi&author=M.%20Arnold&author=J.M.%20Diego-Mantec%C3%B3n)
+103. [Saldaña, 2021](#bbib103)
+J.Saldaña
+The coding manual for qualitative researchers
+(4th ed.), Sage (2021)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20coding%20manual%20for%20qualitative%20researchers&publication\_year=2021&author=J.%20Salda%C3%B1a)
+104. [Sasaki et al., 2024](#bbib104)
+M.Sasaki, A.Mizumoto, P.K.Matsuda
+Machine translation as a form of feedback on L2 writing
+International Review of Applied Linguistics in Language Teaching (2024), [10.1515/iral-2023-0223](https://doi.org/10.1515/iral-2023-0223)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Machine%20translation%20as%20a%20form%20of%20feedback%20on%20L2%20writing&publication\_year=2024&author=M.%20Sasaki&author=A.%20Mizumoto&author=P.K.%20Matsuda)
+105. [Shafiee Rad, 2024](#bbib105)
+H.Shafiee Rad
+Revolutionizing L2 speaking proficiency, willingness to communicate, and perceptions through artificial intelligence: A case of Speeko application
+Innovation in Language Learning and Teaching, 18 (4) (2024), pp. 364-379, [10.1080/17501229.2024.2309539](https://doi.org/10.1080/17501229.2024.2309539)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Revolutionizing%20L2%20speaking%20proficiency%2C%20willingness%20to%20communicate%2C%20and%20perceptions%20through%20artificial%20intelligence%3A%20A%20case%20of%20Speeko%20application&publication\_year=2024&author=H.%20Shafiee%20Rad)
+106. [Sharma, 2024](#bbib106)
+R.Sharma
+Teacher training and professional development with utilisation of AI
+Paripex - Indian Journal of Research, 13 (6) (2024), pp. 6-8, [10.36106/paripex/9703972](https://doi.org/10.36106/paripex/9703972)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20training%20and%20professional%20development%20with%20utilisation%20of%20AI&publication\_year=2024&author=R.%20Sharma)
+107. [Shu and Gu, 2023](#bbib107)
+X.Shu, X.Gu
+An empirical study of A smart education model enabled by the edu-metaverse to enhance better learning outcomes for students
+Systems, 11 (2) (2023), p. 75, [10.3390/systems11020075](https://doi.org/10.3390/systems11020075)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20empirical%20study%20of%20A%20smart%20education%20model%20enabled%20by%20the%20edu-metaverse%20to%20enhance%20better%20learning%20outcomes%20for%20students&publication\_year=2023&author=X.%20Shu&author=X.%20Gu)
+108. [Son et al., 2024](#bbib108)
+T.Son, S.Yeo, D.Lee
+Exploring elementary preservice teachers' responsive teaching in mathematics through an artificial intelligence-based Chatbot
+Teaching and Teacher Education, 146 (2024), Article 104640, [10.1016/j.tate.2024.104640](https://doi.org/10.1016/j.tate.2024.104640)
+[View PDF](/science/article/pii/S0742051X24001720/pdfft?md5=af6b5c565a91bb74e5f6335a8e7bb645&pid=1-s2.0-S0742051X24001720-main.pdf)[View article](/science/article/pii/S0742051X24001720)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20elementary%20preservice%20teachers%20responsive%20teaching%20in%20mathematics%20through%20an%20artificial%20intelligence-based%20Chatbot&publication\_year=2024&author=T.%20Son&author=S.%20Yeo&author=D.%20Lee)
+109. [Strauss and Corbin, 1994](#bbib109)
+A.Strauss, J.Corbin
+Grounded theory methodology: An overview
+N.K.Denzin, Y.S.Lincoln (Eds.), Handbook of qualitative research, Sage (1994), pp. 273-285
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Grounded%20theory%20methodology%3A%20An%20overview&publication\_year=1994&author=A.%20Strauss&author=J.%20Corbin)
+110. [Sun et al., 2023](#bbib110)
+J.Sun, H.Ma, Y.Zeng, D.Han, Y.Jin
+Promoting the AI teaching competency of K-12 computer science teachers: A TPACK-based professional development approach
+Education and Information Technologies, 28 (2023), pp. 1509-1533, [10.1007/s10639-022-11256-5](https://doi.org/10.1007/s10639-022-11256-5)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Promoting%20the%20AI%20teaching%20competency%20of%20K-12%20computer%20science%20teachers%3A%20A%20TPACK-based%20professional%20development%20approach&publication\_year=2023&author=J.%20Sun&author=H.%20Ma&author=Y.%20Zeng&author=D.%20Han&author=Y.%20Jin)
+111. [Tai, 2024](#bbib111)
+T.-Y.Tai
+Exploring the effects of intelligent personal assistants on bilingual education teachers' L2 speaking proficiency
+Interactive Learning Environments (2024), pp. 1-12, [10.1080/10494820.2024.2350646](https://doi.org/10.1080/10494820.2024.2350646)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20the%20effects%20of%20intelligent%20personal%20assistants%20on%20bilingual%20education%20teachers%20L2%20speaking%20proficiency&publication\_year=2024&author=T.-Y.%20Tai)
+112. [Tammets and Ley, 2023](#bbib112)
+K.Tammets, T.Ley
+Integrating AI tools in teacher professional learning: A conceptual model and illustrative case
+Frontiers in Artificial Intelligence, 6 (2023), [10.3389/frai.2023.1255089](https://doi.org/10.3389/frai.2023.1255089)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Integrating%20AI%20tools%20in%20teacher%20professional%20learning%3A%20A%20conceptual%20model%20and%20illustrative%20case&publication\_year=2023&author=K.%20Tammets&author=T.%20Ley)
+113. [Tang et al., 2023](#bbib113)
+K.-Y.Tang, C.-Y.Chang, G.-J.Hwang
+Trends in artificial intelligence-supported e-learning: A systematic review and co-citation network analysis (1998–2019)
+Interactive Learning Environments, 31 (4) (2023), pp. 2134-2152, [10.1080/10494820.2021.1875001](https://doi.org/10.1080/10494820.2021.1875001)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Trends%20in%20artificial%20intelligence-supported%20e-learning%3A%20A%20systematic%20review%20and%20co-citation%20network%20analysis%20&publication\_year=2023&author=K.-Y.%20Tang&author=C.-Y.%20Chang&author=G.-J.%20Hwang)
+114. [Tassoti, 2024](#bbib114)
+S.Tassoti
+Assessment of students use of generative artificial intelligence: Prompting strategies and prompt engineering in chemistry education
+Journal of Chemical Education, 101 (6) (2024), pp. 2475-2482, [10.1021/acs.jchemed.4c00212](https://doi.org/10.1021/acs.jchemed.4c00212)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Assessment%20of%20students%20use%20of%20generative%20artificial%20intelligence%3A%20Prompting%20strategies%20and%20prompt%20engineering%20in%20chemistry%20education&publication\_year=2024&author=S.%20Tassoti)
+115. [Tatar et al., 2024](#bbib115)
+C.Tatar, S.Jiang, C.P.Rosé, J.Chao
+Exploring teachers' views and confidence in the integration of an artificial intelligence curriculum into their classrooms: A case study of curricular Co-design program
+International Journal of Artificial Intelligence in Education (2024), [10.1007/s40593-024-00404-2](https://doi.org/10.1007/s40593-024-00404-2)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20teachers%20views%20and%20confidence%20in%20the%20integration%20of%20an%20artificial%20intelligence%20curriculum%20into%20their%20classrooms%3A%20A%20case%20study%20of%20curricular%20Co-design%20program&publication\_year=2024&author=C.%20Tatar&author=S.%20Jiang&author=C.P.%20Ros%C3%A9&author=J.%20Chao)
+116. [Tomić et al., 2023](#bbib116)
+B.B.Tomić, A.D.Kijevčanin, Z.V.Ševarac, J.M.Jovanović
+An AI-based approach for grading students' collaboration
+IEEE Transactions on Learning Technologies, 16 (3) (2023), pp. 292-305, [10.1109/TLT.2022.3225432](https://doi.org/10.1109/TLT.2022.3225432)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20AI-based%20approach%20for%20grading%20students%20collaboration&publication\_year=2023&author=B.B.%20Tomi%C4%87&author=A.D.%20Kijev%C4%8Danin&author=Z.V.%20%C5%A0evarac&author=J.M.%20Jovanovi%C4%87)
+117. [Tsou et al., 2024](#bbib117)
+W.Tsou, A.M.Y.Lin, F.Chen
+Co-journeying with ChatGPT in tertiary education: Identity transformation of EMI teachers in Taiwan
+Language Culture and Curriculum (2024), pp. 1-15, [10.1080/07908318.2024.2362326](https://doi.org/10.1080/07908318.2024.2362326)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Co-journeying%20with%20ChatGPT%20in%20tertiary%20education%3A%20Identity%20transformation%20of%20EMI%20teachers%20in%20Taiwan&publication\_year=2024&author=W.%20Tsou&author=A.M.Y.%20Lin&author=F.%20Chen)
+118. [Vartiainen and Tedre, 2023](#bbib118)
+H.Vartiainen, M.Tedre
+Using artificial intelligence in craft education: Crafting with text-to-image generative models
+Digital Creativity, 34 (1) (2023), pp. 1-21, [10.1080/14626268.2023.2174557](https://doi.org/10.1080/14626268.2023.2174557)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using%20artificial%20intelligence%20in%20craft%20education%3A%20Crafting%20with%20text-to-image%20generative%20models&publication\_year=2023&author=H.%20Vartiainen&author=M.%20Tedre)
+119. [Wang, 2021](#bbib119)
+X.Wang
+Research on the application of AI technology in computer-assisted instruction
+Journal of Physics: Conference Series, 1992 (2021), Article 022030, [10.1088/1742-6596/1992/2/022030](https://doi.org/10.1088/1742-6596/1992/2/022030)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Research%20on%20the%20application%20of%20AI%20technology%20in%20computer-assisted%20instruction&publication\_year=2021&author=X.%20Wang)
+120. [Wang and Xue, 2024](#bbib120)
+Y.Wang, L.Xue
+Using AI-driven chatbots to foster Chinese EFL students' academic engagement: An intervention study
+Computers in Human Behavior, 159 (2024), Article 108353, [10.1016/j.chb.2024.108353](https://doi.org/10.1016/j.chb.2024.108353)
+[View PDF](/science/article/pii/S0747563224002218/pdfft?md5=700f099b0e66e19f134cf685b91b5840&pid=1-s2.0-S0747563224002218-main.pdf)[View article](/science/article/pii/S0747563224002218)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using%20AI-driven%20chatbots%20to%20foster%20Chinese%20EFL%20students%20academic%20engagement%3A%20An%20intervention%20study&publication\_year=2024&author=Y.%20Wang&author=L.%20Xue)
+121. [Yang et al., 2023](#bbib121)
+Q.-F.Yang, L.-W.Lian, J.-H.Zhao
+Developing a gamified artificial intelligence educational robot to promote learning effectiveness and behavior in laboratory safety courses for undergraduate students
+International Journal of Educational Technology in Higher Education, 20 (2023), p. 18, [10.1186/s41239-023-00391-9](https://doi.org/10.1186/s41239-023-00391-9)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Developing%20a%20gamified%20artificial%20intelligence%20educational%20robot%20to%20promote%20learning%20effectiveness%20and%20behavior%20in%20laboratory%20safety%20courses%20for%20undergraduate%20students&publication\_year=2023&author=Q.-F.%20Yang&author=L.-W.%20Lian&author=J.-H.%20Zhao)
+122. [Yang et al., 2024](#bbib122)
+Y.-F.Yang, C.C.Tseng, S.-C.Lai
+Enhancing teachers' self-efficacy beliefs in AI-based technology integration into English speaking teaching through a professional development program
+Teaching and Teacher Education, 144 (2024), Article 104582, [10.1016/j.tate.2024.104582](https://doi.org/10.1016/j.tate.2024.104582)
+[View PDF](/science/article/pii/S0742051X24001148/pdfft?md5=61577fa163d232f5a577ffb9e47e07e6&pid=1-s2.0-S0742051X24001148-main.pdf)[View article](/science/article/pii/S0742051X24001148)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enhancing%20teachers%20self-efficacy%20beliefs%20in%20AI-based%20technology%20integration%20into%20English%20speaking%20teaching%20through%20a%20professional%20development%20program&publication\_year=2024&author=Y.-F.%20Yang&author=C.C.%20Tseng&author=S.-C.%20Lai)
+123. [Yeh, 2024](#bbib123)
+H.-C.Yeh
+The synergy of generative AI and inquiry-based learning: Transforming the landscape of English teaching and learning
+Interactive Learning Environments (2024), pp. 1-15, [10.1080/10494820.2024.2335491](https://doi.org/10.1080/10494820.2024.2335491)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20synergy%20of%20generative%20AI%20and%20inquiry-based%20learning%3A%20Transforming%20the%20landscape%20of%20English%20teaching%20and%20learning&publication\_year=2024&author=H.-C.%20Yeh)
+124. [Yetişensoy and Karaduman, 2024](#bbib124)
+O.Yetişensoy, H.Karaduman
+The effect of AI-powered chatbots in social studies education
+Education and Information Technologies, 29 (2024), pp. 17035-17069, [10.1007/s10639-024-12485-6](https://doi.org/10.1007/s10639-024-12485-6)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20effect%20of%20AI-powered%20chatbots%20in%20social%20studies%20education&publication\_year=2024&author=O.%20Yeti%C5%9Fensoy&author=H.%20Karaduman)
+125. [Yildirim and Celepcikay, 2021](#bbib125)
+Y.Yildirim, A.Celepcikay
+Artificial intelligence and machine learning applications in education
+Eurasian Journal of Higher Education, 4 (2021), pp. 1-11, [10.31039/ejohe.2021.4.49](https://doi.org/10.31039/ejohe.2021.4.49)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20and%20machine%20learning%20applications%20in%20education&publication\_year=2021&author=Y.%20Yildirim&author=A.%20Celepcikay)
+126. [Yuan, 2023](#bbib126)
+Y.Yuan
+An empirical study of the efficacy of AI chatbots for English as a foreign language learning in primary education
+Interactive Learning Environments (2023), pp. 1-16, [10.1080/10494820.2023.2282112](https://doi.org/10.1080/10494820.2023.2282112)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20empirical%20study%20of%20the%20efficacy%20of%20AI%20chatbots%20for%20English%20as%20a%20foreign%20language%20learning%20in%20primary%20education&publication\_year=2023&author=Y.%20Yuan)
+127. [Yuxiu, 2024](#bbib127)
+Y.Yuxiu
+Application of translation technology based on AI in translation teaching
+Systems and Soft Computing, 6 (2024), Article 200072, [10.1016/j.sasc.2024.200072](https://doi.org/10.1016/j.sasc.2024.200072)
+[View PDF](/science/article/pii/S2772941924000012/pdfft?md5=e1cb0bbf67d85c879b7c93c2cbaaf6d0&pid=1-s2.0-S2772941924000012-main.pdf)[View article](/science/article/pii/S2772941924000012)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Application%20of%20translation%20technology%20based%20on%20AI%20in%20translation%20teaching&publication\_year=2024&author=Y.%20Yuxiu)
+128. [Zawacki-Richter et al., 2019](#bbib128)
+O.Zawacki-Richter, V.I.Marín, M.Bond, F.Gouverneur
+Systematic review of research on artificial intelligence applications in higher education – where are the educators?
+International Journal of Educational Technology in Higher Education, 16 (2019), p. 39, [10.1186/s41239-019-0171-0](https://doi.org/10.1186/s41239-019-0171-0)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Systematic%20review%20of%20research%20on%20artificial%20intelligence%20applications%20in%20higher%20education%20%20where%20are%20the%20educators&publication\_year=2019&author=O.%20Zawacki-Richter&author=V.I.%20Mar%C3%ADn&author=M.%20Bond&author=F.%20Gouverneur)
+129. [Zhang, 2024](#bbib129)
+Y.Zhang
+A lesson study on a MOOC-based and AI-powered flipped teaching and assessment of EFL writing model: Teachers' and students' growth
+International Journal for Lesson & Learning Studies, 13 (1) (2024), pp. 28-40, [10.1108/IJLLS-07-2023-0085](https://doi.org/10.1108/IJLLS-07-2023-0085)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20lesson%20study%20on%20a%20MOOC-based%20and%20AI-powered%20flipped%20teaching%20and%20assessment%20of%20EFL%20writing%20model%3A%20Teachers%20and%20students%20growth&publication\_year=2024&author=Y.%20Zhang)
+130. [Zhang and Aslan, 2021](#bbib130)
+K.Zhang, A.B.Aslan
+AI technologies for education: Recent research & future directions
+Computers and Education: Artificial Intelligence, 2 (2021), Article 100025, [10.1016/j.caeai.2021.100025](https://doi.org/10.1016/j.caeai.2021.100025)
+[View PDF](/science/article/pii/S2666920X21000199/pdfft?md5=6f79cd1edcc954755ba3b4feec270613&pid=1-s2.0-S2666920X21000199-main.pdf)[View article](/science/article/pii/S2666920X21000199)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20technologies%20for%20education%3A%20Recent%20research%20%20future%20directions&publication\_year=2021&author=K.%20Zhang&author=A.B.%20Aslan)
+131. [Zhao et al., 2022](#bbib131)
+L.Zhao, X.Wu, H.Luo
+Developing AI literacy for primary and middle school teachers in China: Based on a structural equation modeling analysis
+Sustainability, 14 (21) (2022), Article 14549, [10.3390/su142114549](https://doi.org/10.3390/su142114549)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Developing%20AI%20literacy%20for%20primary%20and%20middle%20school%20teachers%20in%20China%3A%20Based%20on%20a%20structural%20equation%20modeling%20analysis&publication\_year=2022&author=L.%20Zhao&author=X.%20Wu&author=H.%20Luo)
+132. [Zheng et al., 2024](#bbib132)
+Q.Zheng, Z.Chen, M.Wang, Y.Shi, S.Chen, Z.Liu
+Automated multimode teaching behavior analysis: A pipeline-based event segmentation and description
+IEEE Transactions on Learning Technologies, 17 (2024), pp. 1717-1733, [10.1109/TLT.2024.3396159](https://doi.org/10.1109/TLT.2024.3396159)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Automated%20multimode%20teaching%20behavior%20analysis%3A%20A%20pipeline-based%20event%20segmentation%20and%20description&publication\_year=2024&author=Q.%20Zheng&author=Z.%20Chen&author=M.%20Wang&author=Y.%20Shi&author=S.%20Chen&author=Z.%20Liu)
+133. [Zhu et al., 2023](#bbib133)
+L.Zhu, G.Liu, S.Lv, D.Chen, Z.Chen, X.Li
+An intelligent boosting and decision-tree-regression-based score prediction (BDTR-SP) method in the reform of tertiary education teaching
+Information, 14 (6) (2023), p. 317, [10.3390/info14060317](https://doi.org/10.3390/info14060317)
+[View PDF](/science/article/pii/S002197972300067X/pdfft?md5=8ff5342fb88da6eaa7ddfd1007598f85&pid=1-s2.0-S002197972300067X-main.pdf)[View article](/science/article/pii/S002197972300067X)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20intelligent%20boosting%20and%20decision-tree-regression-based%20score%20prediction%20%20method%20in%20the%20reform%20of%20tertiary%20education%20teaching&publication\_year=2023&author=L.%20Zhu&author=G.%20Liu&author=S.%20Lv&author=D.%20Chen&author=Z.%20Chen&author=X.%20Li)
+## Cited by (138)
+\* ### [Preparing future educators for AI-enhanced classrooms: Insights into AI literacy and integration](/science/article/pii/S2666920X25000384)
+2025, Computers and Education Artificial Intelligence
+Show abstract
+The rapid transformation of educational practice by artificial intelligence (AI) requires that teacher-education programmes prepare pre-service teachers to integrate AI into their teaching. This qualitative study explores pre-service teachers' perceptions of AI integration in education and identifies the support they need to develop AI literacy. We conducted semi-structured interviews with 15 pre-service teachers and used thematic analysis to interpret the data. Our findings revealed that these future educators recognised AI's potential to enhance personalised learning and increase classroom efficiency but worried about relying on AI too much and losing the human element in teaching. The participants also highlighted significant challenges in developing AI literacy, including insufficient training and a lack of institutional support in their programmes. The need to maintain data privacy and protect against algorithmic bias emerged as critical areas of concern. This study underscored the urgent need for comprehensive AI literacy curricula in teacher education that encompass both technical skills and ethical understanding. We recommend that educational institutions provide practical AI experiences, establish clear ethical guidelines and offer continuous professional development opportunities. By addressing these needs, teacher-education programmes can prepare future educators to leverage AI technologies to enhance educational outcomes.
+\* ### [Exploring pre-service teachers’ attitudes and experiences with generative AI: a mixed methods study in Norwegian teacher education](https://doi.org/10.1080/01443410.2025.2528663)
+2026, Educational Psychology
+\* ### [Awareness, acceptance, and adoption of Gen-AI by K-12 mathematics teachers: an empirical study integrating TAM and TPB](https://doi.org/10.1186/s40359-025-02781-2)
+2025, BMC Psychology
+\* ### [GenAI competence is different from digital competence: developing and validating the GenAI competence scale for second language teachers](https://doi.org/10.1007/s10639-025-13672-9)
+2025, Education and Information Technologies
+\* ### [Microlearning and generative AI for pre-service teacher education: a qualitative case study](https://doi.org/10.1007/s10639-025-13606-5)
+2025, Education and Information Technologies
+\* ### [Task/Technology Fit or Technology Attraction? The Intentions of STEM Teachers to Use AI Technologies for Teaching Innovation](https://doi.org/10.1007/s40299-025-01020-x)
+2025, Asia Pacific Education Researcher
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-85213209009&md5=c7cad3722fecd6ca14363a66d5ffdfb)
+© 2024 The Authors. Published by Elsevier Ltd.
+## Recommended articles
+\* ### [Artificial intelligence in higher education: Modelling students’ motivation for continuous use of ChatGPT based on a modified self-determination theory](/science/article/pii/S2666920X24001498)
+Computers and Education: Artificial Intelligence, Volume 8, 2025, Article 100346
+NagaletchimeeAnnamalai, …, Raphael Papa KwekuAndoh
+[View PDF](/science/article/pii/S2666920X24001498/pdfft?md5=32e2ffb3d0bb77d279d296d5641c9391&pid=1-s2.0-S2666920X24001498-main.pdf)
+\* ### [A novel AI-driven model for student dropout risk analysis with explainable AI insights](/science/article/pii/S2666920X24001553)
+Computers and Education: Artificial Intelligence, Volume 8, 2025, Article 100352
+SumayaMustofa, …, Md TaimurAhad
+[View PDF](/science/article/pii/S2666920X24001553/pdfft?md5=7b4a4226a0e806584a47ca5882dfc754&pid=1-s2.0-S2666920X24001553-main.pdf)
+\* ### [Assisting quality assurance of examination tasks: Using a GPT model and Bayesian testing for formative assessment](/science/article/pii/S2666920X24001462)
+Computers and Education: Artificial Intelligence, Volume 8, 2025, Article 100343
+NicoWillert, Phi KatharinaWürz
+[View PDF](/science/article/pii/S2666920X24001462/pdfft?md5=592a13411164ef720f3d1f3cc007b9fc&pid=1-s2.0-S2666920X24001462-main.pdf)
+\* ### [Addressing the use of generative AI in academic writing](/science/article/pii/S2666920X24001450)
+Computers and Education: Artificial Intelligence, Volume 8, 2025, Article 100342
+Johanvan Niekerk, …, IainSutherland
+[View PDF](/science/article/pii/S2666920X24001450/pdfft?md5=ee45edc5cf76ad97cd470680ea7891c9&pid=1-s2.0-S2666920X24001450-main.pdf)
+\* ### [Teachers’ generative AI self-efficacy, valuing, and integration at work: Examining job resources and demands](/science/article/pii/S2666920X2400136X)
+Computers and Education: Artificial Intelligence, Volume 7, 2024, Article 100333
+Rebecca J.Collie, …, DraganGasevic
+[View PDF](/science/article/pii/S2666920X2400136X/pdfft?md5=778f088f99540742f62a29ee6b377428&pid=1-s2.0-S2666920X2400136X-main.pdf)
+\* ### [Automatic item generation in various STEM subjects using large language model prompting](/science/article/pii/S2666920X24001474)
+Computers and Education: Artificial Intelligence, Volume 8, 2025, Article 100344
+Kuang WenChan, …, Guan KhengSze
+[View PDF](/science/article/pii/S2666920X24001474/pdfft?md5=42d787f740c1a3dd18dddd311c6ae710&pid=1-s2.0-S2666920X24001474-main.pdf)
+Show 3 more articles
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X24001589)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

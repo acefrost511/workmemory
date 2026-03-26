@@ -1,0 +1,244 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2026.105563
+# Content Length: 23682 characters
+# Extracted at: 2026-03-16 05:04:55
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000011?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000011?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000011)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131526000011/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000011?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000011?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000011?via%3Dihub#preview-section-snippets)
+- [References (89)](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000011?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/0d9a89bf035810c5e67382f2165fe6895c318871/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 248](https://www.sciencedirect.com/journal/computers-and-education/vol/248/suppl/C "Go to table of contents for this volume/issue"), July 2026, 105563
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20024-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/248/suppl/C)
+# How explanatory features of AI and time frame reshape adolescents’ decision-making
+Author links open overlay panelZhuoShena, YingheChena, JingyiZhanga, HengrunChenb
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2026.105563](https://doi.org/10.1016/j.compedu.2026.105563 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131526000011&orderBeanReset=true)
+## Highlights
+- •
+AI counterfactual explanations reduced adolescents' decision intentions in uncontrollable and unreliable situations.
+- •
+Decision intentions were higher for short-term outcomes when prediction or causal explanations provided.
+- •
+Counterfactual explanations enhanced decision-making over time.
+- •
+Adolescents perceived AI explanations similarly but their decisions varied.
+- •
+Educational AI should offer explanations tailored to adolescents' cognitive features.
+## Abstract
+As AI technologies permeate daily life, adolescents' distinctive cognitive profiles make their decision-making highly sensitive to AI explanation features. The study aimed to examine the underlying mechanisms by which AI's explanatory features and time frame impact adolescents' decision-making. We created an online platform where adolescents interacted with an explainable AI. A preliminary survey identified 10 mathematics-related factors. Experiment 1 involved 158 students ( \_M\_ age = 13.7) and used a 3 (explanation type: prediction, causal, counterfactual) × 2 (perceived control: high, low) × 2 (perceived reliability: reliable, unreliable) mixed design. Experiment 2 recruited 225 students ( \_M\_ age = 13.7) and employed a 3 (explanation type) × 2 (time frame: short-term, long-term) mixed design. Decision-making and expectation (expected impact of each factor on math achievement) were the outcomes in both experiments. In Experiment 1, perceived unreliable counterfactual explanations for low-control factors produced the lowest expectation and decision-making probability, whereas predictions and causal explanations did not differ. For high-control factors, perceived reliable counterfactual explanations similarly reduced decision-making probability, although expectation remained constant across explanations. In Experiment 2, predictions and causal explanations led to higher decision-making probability for short-term events than long-term ones, while counterfactuals reversed this pattern. While counterfactual explanations help restore trust and motivate change in distant, uncertain contexts, they can trigger reactance and reduce action when events feel controllable or imminent. Although adolescents cognitively understand causality and time frames, they still struggle to effectively regulate their decisions. AI model explanations should therefore account for the developmental characteristics of adolescents and recognize the dual effects inherent in counterfactual explanations.
+## Introduction
+As generative AI models become increasingly integrated into mainstream technologies, their usage has expanded across all age groups. For example, recent surveys indicate that the percentage of U.S. teens aged 13–17 using ChatGPT for homework rose from 13 % in 2023 to 26 % in 2024 (Sidoti et al., 2025). However, this widespread adoption also means that users are more frequently exposed to the fabrications and biases of these systems. Generative models often produce confident yet potentially misleading responses, which can be especially persuasive in uncertain contexts (Kidd & Birhane, 2023; van den Bos & Hertwig, 2017). Adolescents, who are typically more curious about and trusting of AI, and whose knowledge structures are still developing, are increasingly turning to AI for guidance on open-ended issues, such as how to improve mathematics achievement, where human advice may be less available or more ambiguous. Surveys show that 54 % of teens find it acceptable to use AI to explore new topics, and 33 % use AI for serious discussions instead of real people (Robb & Mann, 2025). Nevertheless, the accuracy of AI-generated advice is far from guaranteed, making adolescents particularly vulnerable to belief distortion (Kuhn & Laird, 2011; Lee et al., 2025, pp. 1–20). Notably, the impact of AI on adolescents' trust and decision-making is shaped not only by the model's algorithms and data quality but also by the psychological nature and suitability of the explanations provided, which are crucial for their experience with AI and their personal development.
+Explainable AI (XAI), designed to enhance transparency and user comprehension, plays a critical role in shaping beliefs and decisions. In fields like mental health and language learning, clear explanations have been shown to improve user understanding, trust, and engagement, helping users better assess both the capabilities and limitations of AI systems (Mahfouz & AbdelMohsen, 2025; Renftle et al., 2024; Ribeiro-Flucht et al., 2024, pp. 199–209; Türkmen, 2025). While human-computer interaction research has promoted transparency in XAI, it has not sufficiently addressed how explanation types interact with users’ deeper psychological processes. Human-centered XAI (HCXAI) argues that explanations should align with cognitive and emotional needs, not just offer technical transparency (Ehsan et al., 2023; Sarkar et al., 2023).
+Indeed, our responses to AI explanations are shaped not only by explanation type but also by broader psychological factors, particularly perceived control and time frame. For example, explanations that enhance a sense of control can help users convert foresight into concrete action, consistent with autonomy-oriented psychological theories (Adenuga & Dodge, 2023). Socioemotional Selectivity Theory further suggests that perceptions of future time influence motivation and behavior, implying that temporal framing within AI explanations could meaningfully shape user responses (Bardach et al., 2021). Despite its potential significance, there is a lack of systematic research exploring the interactions among explanation types, perceived control, and temporal contexts in AI-driven decision-making.
+Moreover, although many adolescents already use AI in their studies and daily lives, research on how their cognitive characteristics influence decision-making with AI remains limited (Schaper et al., 2023). Adolescents’ decision-making often relies on fast, intuitive thinking, making them more open to AI explanations and more inclined to engage with simplified models (Bardach et al., 2021). Nevertheless, limited inhibitory control and a preference for immediate feedback can hinder critical thinking and heighten susceptibility to biased beliefs, which are often reinforced through peer influence (Albert et al., 2013; Clemens & Rust, 1979; Thompson & Griffiths, 2021). These unique cognitive and behavioral patterns underscore the need for targeted research on how explanatory features of AI shape adolescent decision-making.
+Still, current research on this topic remains inconclusive (Scharowski et al., 2023). Some studies indicate that certain explanations enhance adolescents' trust and improve decision quality, while others suggest explanations may increase cognitive load or lead to misplaced trust. Explanations employing counterfactual reasoning that highlight how alternative actions could yield different outcomes can boost adolescents' perceived control, self-efficacy, and persistence, thus motivating behavioral change, yet such effects might not consistently generalize across different contexts (Bauer et al., 2023; Markman et al., 2008). Given this mixed evidence, the core problem addressed in this study is to elucidate how AI explanation type, perceived control, and time frame interact to shape adolescents' decision-making and expectations in AI-assisted contexts. Clarifying these mechanisms can reveal why certain AI explanations enhance users’ satisfaction and willingness to act in some contexts yet fail or even backfire in others, ultimately guiding the design of psychologically informed, effective AI systems and deepening our understanding of adolescent cognition.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000011)
+## Section snippets
+## Adolescent's general reactions to predictive response of AI
+Adolescents tend to approach AI-generated advice with skepticism, initially considering recommendations but increasingly relying on their own experiences and evidence, rather than accepting or rejecting AI outputs uncritically (Rodriguez Buritica et al., 2019). Their willingness to act on AI advice is context-dependent: they are more likely to trust and follow neutral, low-stakes suggestions, but exercise greater caution in sensitive or high-stakes domains such as academics, partly due to
+## The present study
+Based on the preceding analysis, we hypothesize that AI explanation type, perceived control, and perceived model reliability interactively influence adolescents' decision-making (Experiment 1), while Experiment 2 examines the interaction between explanation type and time frame. We selected the topic of factors influencing mathematics achievement for the adolescent–AI discussions, as improving math performance is both a familiar and important goal for middle school students, making them
+## Pre-investigation
+The purpose of the pre-investigation was to identify representative factors influencing mathematics achievement for the main experiment and to categorize these factors into different levels. Building upon a large-scale review of 156 studies from the PISA project, which systematically summarized factors related to mathematics achievement among adolescents around age 15 (Wang et al., 2023), we initially identified 40 potential factors. A quantitative screening was conducted based on standardized
+## Sample
+Using online recruitment and referral, we collected data from middle school students across multiple regions in China who voluntarily participated in the experiment from March to May 2025. To plan recruitment, a priori power analysis was conducted to estimate the sample size required for detecting the incremental contribution of our predictor block (main effects and interactions) in a multiple regression framework. With numerator degrees of freedom = 17, a two-sided \_α\_ = 0.05, desired
+## Sample
+Experiment 2 used the same recruitment method as Experiment 1, but it tested a different batch of participants from March to May 2025. The calculation of rough priori sample size was consistent with that of Experiment 1. With numerator degrees of freedom = 13, a two-sided \_α\_ = 0.05, desired power = 0.80, and assuming a medium effect size ( \_f\_ 2 = 0.15), the required sample size was estimated at \_N\_ = 131 participants. Substantially more participants were recruited than this estimate, as both time
+## Discussion
+This study examined how different types of AI explanations influence adolescents' expectations and decision-making, incorporating perceived control and perceived reliability in Experiment 1, and time frame manipulation in Experiment 2. By jointly considering explanation goodness and users' mental models, the study extends the AI evaluation framework and provides insight into how specific psychological and explanatory factors shape adolescent users' responses (Hoffman et al., 2023; Mueller et
+## Limitations and future prospects
+This study has several limitations and points to promising directions for future research. First, we did not include other age groups as comparison, so the findings are specific to young adolescents. It remains unclear whether these results would generalize across different age ranges or interact with individual characteristics. Future research should examine broader age groups and diverse psychological profiles. Second, we did not analyze the directionality of the explanations—that is, whether
+## Conclusions
+This study found when adolescents encounter unreliable AI predictions about factors they perceive as uncontrollable, counterfactual explanations further reduce both their expectation of improvement and their decision-making intentions, compared to simple predictions or causal explanations. For controllable factors, reliable counterfactuals paradoxically reduce motivation to act, perhaps due to over-instruction or psychological reactance in adolescents, while their perception of the factor's
+## CRediT authorship contribution statement
+\*\*Zhuo Shen:\*\* Writing – review & editing, Writing – original draft, Visualization, Validation, Software, Resources, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Yinghe Chen:\*\* Writing – review & editing, Supervision, Project administration, Funding acquisition, Conceptualization. \*\*Jingyi Zhang:\*\* Writing – review & editing, Resources. \*\*Hengrun Chen:\*\* Writing – review & editing, Resources.
+## Declaration of competing interest
+None.
+## Acknowledgment
+This study was supported by the National Natural Science Foundation of China (32171061).
+Recommended articles
+- R. Baiocco \_et al.\_
+### [Decision-making style among adolescents: Relationship with sensation seeking and locus of control](https://www.sciencedirect.com/science/article/pii/S0140197108001085)
+### Journal of Adolescence
+(2009)
+- T. Ha \_et al.\_
+### [Effects of explanation types and perceived risk on trust in autonomous vehicles](https://www.sciencedirect.com/science/article/pii/S1369847820304587)
+### Transportation Research Part F: Traffic Psychology and Behaviour
+(2020)
+- J.M. Hansen \_et al.\_
+### [Risk, trust, and the interaction of perceived ease of use and behavioral control in predicting consumers' use of social media for transactions](https://www.sciencedirect.com/science/article/pii/S0747563217306404)
+### Computers in Human Behavior
+(2018)
+- J. Li \_et al.\_
+### [The freedom to persist: Belief in free will predicts perseverance for long-term goals among Chinese adolescents](https://www.sciencedirect.com/science/article/pii/S0191886917305585)
+### Personality and Individual Differences
+(2018)
+- T. Lombrozo \_et al.\_
+### [Functional explanation and the function of explanation](https://www.sciencedirect.com/science/article/pii/S0010027705000466)
+### Cognition
+(2006)
+- K.D. Markman \_et al.\_
+### [Counterfactual thinking, persistence, and performance: A test of the reflection and evaluation model](https://www.sciencedirect.com/science/article/pii/S0022103107000030)
+### Journal of Experimental Social Psychology
+(2008)
+- H. Markovits
+### [On the road toward formal reasoning: Reasoning with factual causal and contrary-to-fact causal premises during early adolescence](https://www.sciencedirect.com/science/article/pii/S0022096514001192)
+### Journal of Experimental Child Psychology
+(2014)
+- R. McCue \_et al.\_
+### [The future and me: Imagining the future and the future self in adolescent decision making](https://www.sciencedirect.com/science/article/pii/S0885201418302235)
+### Cognitive Development
+(2019)
+- S.P. McGeown \_et al.\_
+### [Predictors of adolescents' academic motivation: Personality, self-efficacy and adolescents' characteristics](https://www.sciencedirect.com/science/article/pii/S1041608014000685)
+### Learning and Individual Differences
+(2014)
+- T. Miller
+### [Explanation in artificial intelligence: Insights from the social sciences](https://www.sciencedirect.com/science/article/pii/S0004370218305988)
+### Artificial Intelligence
+(2019)
+E. Rafetseder \_et al.\_
+### [Counterfactual reasoning: From childhood to adulthood](https://www.sciencedirect.com/science/article/pii/S0022096512002007)
+### Journal of Experimental Child Psychology
+(2013)
+J.M. Rodriguez Buritica \_et al.\_
+### [The computational basis of following advice in adolescents](https://www.sciencedirect.com/science/article/pii/S0022096518301954)
+### Journal of Experimental Child Psychology
+(2019)
+S. Shamim \_et al.\_
+### [Mechanisms of cognitive trust development in artificial intelligence among frontline employees: An empirical examination from a developing economy](https://www.sciencedirect.com/science/article/pii/S0148296323005271)
+### Journal of Business Research
+(2023)
+R. Smallman \_et al.\_
+### [Counterfactual thinking facilitates behavioral intentions](https://www.sciencedirect.com/science/article/pii/S0022103109000511)
+### Journal of Experimental Social Psychology
+(2009)
+M. Suffian \_et al.\_
+### [The role of user feedback in enhancing understanding and trust in counterfactual explanations for explainable AI](https://www.sciencedirect.com/science/article/pii/S1071581925000412)
+### International Journal of Human-Computer Studies
+(2025)
+M. Tešić \_et al.\_
+### [Can counterfactual explanations of AI systems' predictions skew lay users' causal intuitions about the world? If so, can we correct for that?](https://www.sciencedirect.com/science/article/pii/S2666389922002677)
+### Patterns
+(2022)
+L.A.E.M. van Houtum \_et al.\_
+### [Adolescents' affective and neural responses to parental praise and criticism](https://www.sciencedirect.com/science/article/pii/S1878929322000433)
+### Developmental Cognitive Neuroscience
+(2022)
+B. Većkalov \_et al.\_
+### [A matter of time… consideration of future consequences and temporal distance contribute to the ideology gap in climate change scepticism](https://www.sciencedirect.com/science/article/pii/S0272494421001560)
+### Journal of Environmental Psychology
+(2021)
+X.S. Wang \_et al.\_
+### [Factors predicting mathematics achievement in PISA: A systematic review](https://www.sciencedirect.com/science/article/pii/S1567173923001256)
+### Large-Scale Assessments in Education
+(2023)
+M. Westphal \_et al.\_
+### [Decision control and explanations in human-AI collaboration: Improving user perceptions and compliance](https://www.sciencedirect.com/science/article/pii/S0747563223000651)
+### Computers in Human Behavior
+(2023)
+I. Adenuga \_et al.\_
+### Conceptualizing the relationship between AI explanations and user agency
+### arXiv preprint arXiv: 2312.03193
+(2023)
+D. Albert \_et al.\_
+### The teenage brain: Peer influences on adolescent decision making
+### Current Directions in Psychological Science
+(2013)
+S.H. Bardach \_et al.\_
+### Older adults' adaptations to the call for social distancing and use of technology: Insights from socioemotional selectivity theory and lived experiences
+### Journal of Applied Gerontology
+(2021)
+K. Bauer \_et al.\_
+### Please take over: XAI, delegation of authority, and domain knowledge \[Working Paper No. 394\]
+(2023)
+S.R. Beck \_et al.\_
+### Developing thoughts about what might have been
+### Child Development Perspectives
+(2014)
+M.J. Buehner \_et al.\_
+### Temporal delays can facilitate causal attribution: Towards a general timeframe bias in causal induction
+### Thinking & Reasoning
+(2006)
+R.M.J. Byrne
+### Counterfactual thought
+### Annual Review of Psychology
+(2016)
+A.C. Cameron \_et al.\_
+### A practitioner's guide to cluster-robust inference
+### Journal of Human Resources
+(2015)
+L. Celar \_et al.\_
+### How people reason with counterfactual and causal explanations for artificial intelligence decisions in familiar and unfamiliar domains
+### Memory & Cognition
+(2023)
+P.W. Clemens \_et al.\_
+### Factors in adolescent rebellious feelings
+### Adolescence
+(1979)
+E. Colì \_et al.\_
+### Adolescents and trust in online social interactions: A qualitative exploratory study
+### Children
+(2023)
+R. Confalonieri \_et al.\_
+### A historical perspective of explainable artificial intelligence
+### Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery
+(2021)
+X. Dai \_et al.\_
+### Counterfactual explanations for prediction and diagnosis in XAI
+### Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society
+(2022)
+R. de Brito Duarte \_et al.\_
+### AI trust: Can explainable AI enhance warranted trust?
+### Human Behavior and Emerging Technologies
+(2023)
+G.J. de Bruijn \_et al.\_
+### Temporal consequences, message framing, and consideration of future consequences: Persuasion effects on adult fruit intake intention and resolve
+### Journal of Health Communication
+(2016)
+K. Desender \_et al.\_
+### Math anxiety relates positively to metacognitive insight into mathematical decision making
+### Psychological Research
+(2022)
+E.R. Eavers \_et al.\_
+### The effects of counterfactual thinking on college students' intentions to quit smoking cigarettes
+### Current Research in Social Psychology
+(2015)
+U. Ehsan \_et al.\_
+### Human-centered explainable AI (HCXAI): Coming of age
+T. Gilovich \_et al.\_
+### The experience of regret: What, when, and why
+### Psychological Review
+(1995)
+F. Gleicher \_et al.\_
+### With an eye toward the future: The impact of counterfactual thinking on affect, attitudes, and behavior
+### What might have been: The social psychology of counterfactual thinking
+(2014)
+G. He \_et al.\_
+### How stated accuracy of an AI system and analogies to explain accuracy affect human reliance on the system
+### Proceedings of the ACM on Human-Computer Interaction
+(2023)
+D.J. Hilton \_et al.\_
+### The course of events: Counterfactuals, causal sequences, and explanation
+R.R. Hoffman \_et al.\_
+### Measures for explainable AI: Explanation goodness, user satisfaction, mental models, curiosity, trust, and human-AI performance
+### Frontiers of Computer Science
+(2023)
+M.C. Horowitz \_et al.\_
+### Adopting AI: How familiarity breeds both trust and contempt
+### AI & Society
+(2024)
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131526000011)
+© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

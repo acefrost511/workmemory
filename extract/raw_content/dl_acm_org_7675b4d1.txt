@@ -1,0 +1,467 @@
+# Source URL: https://dl.acm.org/doi/10.1145/3657604.3664673
+# Content Length: 35232 characters
+# Extracted at: 2026-03-26 05:05:07
+#============================================================
+
+Automatic Feedback Generation on K-12 Students' Data Science Education by Prompting Cloud-based Large Language Models | Proceedings of the Eleventh ACM Conference on Learning @ Scale
+The GPC signal is honored
+![](data:,)
+\* [Consent](#)
+\* [Details](#)
+\* [[#IABV2SETTINGS#]](#)
+\* [About](#)
+This website uses cookies
+We occasionally run membership recruitment campaigns on social media channels and use cookies to track post-clicks. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. Use the check boxes below to choose the types of cookies you consent to have stored on your device.
+The GPC signal is honored
+Consent Selection
+\*\*Necessary\*\*
+\*\*Preferences\*\*
+\*\*Statistics\*\*
+\*\*Marketing\*\*
+[Show details](#)
+Details
+\* Necessary 7
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. These cookies do not gather information about you that could be used for marketing purposes and do not remember where you have been on the internet.
++ [ACM
+1](#)[Learn more about this provider](https://www.acm.org/privacy-policy)
+\*\*\\_cfuvid\*\*This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTTP Cookie
++ [Cloudflare
+1](#)[Learn more about this provider](https://www.cloudflare.com/privacypolicy/)
+\*\*cf.turnstile.u\*\*This cookie is used to distinguish between humans and bots.
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
++ [Cookiebot
+1](#)[Learn more about this provider](https://www.cookiebot.com/goto/privacy-policy/)
+\*\*CookieConsent\*\*Stores the user's cookie consent state for the current domain
+\*\*Maximum Storage Duration\*\*: 1 year\*\*Type\*\*: HTTP Cookie
++ [Github
+2](#)[Learn more about this provider](https://help.github.com/en/articles/github-privacy-statement)
+\*\*\\_gh\\_sess\*\*Preserves users states across page requests.
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTTP Cookie
+\*\*logged\\_in\*\*Registers whether the user is logged in. This allows the website owner to make parts of the website inaccessible, based on the user's log-in status.
+\*\*Maximum Storage Duration\*\*: 1 year\*\*Type\*\*: HTTP Cookie
++ [c.disquscdn.com
+2](#)
+\*\*\\_\\_jid\*\*Used to add comments to the website and remember the user's Disqus login credentials across websites that use said service.
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTTP Cookie
+\*\*disqusauth\*\*Registers whether the user is logged in. This allows the website owner to make parts of the website inaccessible, based on the user's log-in status.
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTTP Cookie
+\* Preferences 5
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
++ [ACM
+1](#)[Learn more about this provider](https://www.acm.org/privacy-policy)
+\*\*MACHINE\\_LAST\\_SEEN\*\*Pending
+\*\*Maximum Storage Duration\*\*: 300 days\*\*Type\*\*: HTTP Cookie
++ [Mopinion
+1](#)[Learn more about this provider](https://mopinion.com/privacy/)
+\*\*mopDeploy\*\*Pending
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
++ [c.disquscdn.com
+3](#)
+\*\*aet-dismiss\*\*Necessary for the functionality of the website's comment-system.
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*drafts.queue\*\*Necessary for the functionality of the website's comment-system.
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*submitted\\_posts\\_cache\*\*Necessary for the functionality of the website's comment-system.
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\* Statistics 7
+Statistic cookies help website owners understand how visitors interact with websites by collecting and reporting information anonymously.
++ [Github
+1](#)[Learn more about this provider](https://help.github.com/en/articles/github-privacy-statement)
+\*\*\\_octo\*\*Pending
+\*\*Maximum Storage Duration\*\*: 1 year\*\*Type\*\*: HTTP Cookie
++ [Google
+5](#)[Learn more about this provider](https://business.safety.google/privacy/)
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+\*\*\\_ga\*\*Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+\*\*Maximum Storage Duration\*\*: 2 years\*\*Type\*\*: HTTP Cookie
+\*\*\\_ga\\_#\*\*Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+\*\*Maximum Storage Duration\*\*: 2 years\*\*Type\*\*: HTTP Cookie
+\*\*\\_gat\*\*Used by Google Analytics to throttle request rate
+\*\*Maximum Storage Duration\*\*: 1 day\*\*Type\*\*: HTTP Cookie
+\*\*\\_gid\*\*Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+\*\*Maximum Storage Duration\*\*: 1 day\*\*Type\*\*: HTTP Cookie
+\*\*S\*\*Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+\*\*Maximum Storage Duration\*\*: 1 day\*\*Type\*\*: HTTP Cookie
++ [c.disquscdn.com
+1](#)
+\*\*disqus\\_unique\*\*Collects statistics related to the user's visits to the website, such as number of visits, average time spent on the website and loaded pages.
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTTP Cookie
+\* Marketing 33
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
++ [Google
+3](#)[Learn more about this provider](https://business.safety.google/privacy/)
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+\*\*COMPASS\*\*Pending
+\*\*Maximum Storage Duration\*\*: 1 day\*\*Type\*\*: HTTP Cookie
+\*\*GFE\\_RTT\*\*Used to implement the content through Google Docs.
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTTP Cookie
+\*\*NID\*\*Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+\*\*Maximum Storage Duration\*\*: 6 months\*\*Type\*\*: HTTP Cookie
++ [YouTube
+30](#)[Learn more about this provider](https://business.safety.google/privacy/)
+\*\*LAST\\_RESULT\\_ENTRY\\_KEY [x2]\*\*Used to track user’s interaction with embedded content.
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTTP Cookie
+\*\*ytidb::LAST\\_RESULT\\_ENTRY\\_KEY [x2]\*\*Used to track user’s interaction with embedded content.
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*YtIdbMeta#databases [x2]\*\*Used to track user’s interaction with embedded content.
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: IndexedDB
+\*\*yt-remote-cast-available [x2]\*\*Stores the user's video player preferences using embedded YouTube video
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
+\*\*yt-remote-cast-installed [x2]\*\*Stores the user's video player preferences using embedded YouTube video
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
+\*\*yt-remote-connected-devices [x2]\*\*Stores the user's video player preferences using embedded YouTube video
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*yt-remote-device-id [x2]\*\*Stores the user's video player preferences using embedded YouTube video
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*yt-remote-fast-check-period [x2]\*\*Stores the user's video player preferences using embedded YouTube video
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
+\*\*yt-remote-session-app [x2]\*\*Stores the user's video player preferences using embedded YouTube video
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
+\*\*yt-remote-session-name [x2]\*\*Stores the user's video player preferences using embedded YouTube video
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
+\*\*\\_\\_Secure-ROLLOUT\\_TOKEN\*\*Used to track user’s interaction with embedded content.
+\*\*Maximum Storage Duration\*\*: 180 days\*\*Type\*\*: HTTP Cookie
+\*\*\\_\\_Secure-YEC\*\*Stores the user's video player preferences using embedded YouTube video
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTTP Cookie
+\*\*\\_\\_Secure-YNID\*\*Used to track user’s interaction with embedded content.
+\*\*Maximum Storage Duration\*\*: 180 days\*\*Type\*\*: HTTP Cookie
+\*\*LogsDatabaseV2:V#||LogsRequestsStore\*\*Used to track user’s interaction with embedded content.
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: IndexedDB
+\*\*remote\\_sid\*\*Necessary for the implementation and functionality of YouTube video-content on the website.
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTTP Cookie
+\*\*ServiceWorkerLogsDatabase#SWHealthLog\*\*Necessary for the implementation and functionality of YouTube video-content on the website.
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: IndexedDB
+\*\*TESTCOOKIESENABLED\*\*Used to track user’s interaction with embedded content.
+\*\*Maximum Storage Duration\*\*: 1 day\*\*Type\*\*: HTTP Cookie
+\*\*VISITOR\\_INFO1\\_LIVE\*\*Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+\*\*Maximum Storage Duration\*\*: 180 days\*\*Type\*\*: HTTP Cookie
+\*\*YSC\*\*Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTTP Cookie
+\*\*yt-icons-last-purged\*\*Necessary for the implementation and functionality of YouTube video-content on the website.
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\* Unclassified 22
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
++ [ACM
+20](#)[Learn more about this provider](https://www.acm.org/privacy-policy)
+\*\*10.1145%2F3554915\\_pdf\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*10.1145%2F3774644\\_pdf\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*10.1145%2F3789537.3789545\\_pdf\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*access\*\*Pending
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
+\*\*accessType\*\*Pending
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
+\*\*article\\_reader\\_settings\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*book\\_reader\\_settings\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*chapter\\_reader\\_settings\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*cr\\_lib\\_prompt\\_seen\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*doi\*\*Pending
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
+\*\*modalDisplayCount\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*sharedOffline#availableContents\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: IndexedDB
+\*\*sharedOffline#formats\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: IndexedDB
+\*\*sharedOffline#libraryContents\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: IndexedDB
+\*\*sharedOffline#metadataAttachment\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: IndexedDB
+\*\*sharedOffline#referencesAttachment\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: IndexedDB
+\*\*sharedOffline#relationsAttachment\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: IndexedDB
+\*\*tipKey\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+\*\*title\*\*Pending
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
+\*\*type\*\*Pending
+\*\*Maximum Storage Duration\*\*: Session\*\*Type\*\*: HTML Local Storage
++ [Google
+1](#)[Learn more about this provider](https://business.safety.google/privacy/)
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+\*\*GSP\*\*Pending
+\*\*Maximum Storage Duration\*\*: 400 days\*\*Type\*\*: HTTP Cookie
++ [c.disquscdn.com
+1](#)
+\*\*disqus.thread\*\*Pending
+\*\*Maximum Storage Duration\*\*: Persistent\*\*Type\*\*: HTML Local Storage
+[Cross-domain consent1](#)Your consent applies to the following domains:
+List of domains your consent applies to:
+[dl.acm.org](https://dl.acm.org)
+Cookie declaration last updated on 3/11/26 by [Cookiebot](https://www.cookiebot.com)
+[#IABV2\\_TITLE#]
+[#IABV2\\_BODY\\_INTRO#]
+[#IABV2\\_BODY\\_LEGITIMATE\\_INTEREST\\_INTRO#]
+[#IABV2\\_BODY\\_PREFERENCE\\_INTRO#]
+[#IABV2\\_LABEL\\_PURPOSES#]
+[#IABV2\\_BODY\\_PURPOSES\\_INTRO#]
+[#IABV2\\_BODY\\_PURPOSES#]
+[#IABV2\\_LABEL\\_FEATURES#]
+[#IABV2\\_BODY\\_FEATURES\\_INTRO#]
+[#IABV2\\_BODY\\_FEATURES#]
+[#IABV2\\_LABEL\\_PARTNERS#]
+[#IABV2\\_BODY\\_PARTNERS\\_INTRO#]
+[#IABV2\\_BODY\\_PARTNERS#]
+About
+Cookies are small text files that can be used by websites to make a user's experience more efficient. Other than those strictly necessary for the operation of the site,  we need your permission to store any type of cookies on your device. Learn more about ACM, how you can contact us, and how we process personal data in our [Privacy Policy](https://www.acm.org/privacy-policy). Also please consult our [Cookie Notice](https://www.acm.org/cookie-notice).
+You can change or withdraw your consent from the Cookie Declaration on our website at any time by visiting the [Cookie Declaration](/cookie-declaration) page. If contacting us regarding your consent, please state your consent ID and date from that page.
+\*\*Do not sell or share my personal information\*\*
+Allow all cookiesCustomizeAllow selected cookiesUse necessary cookies only
+[skip to main content](#skip-to-main-content)
+## ACM is now Open Access
+×
+As part of the Digital Library's transition to [Open Access](/action/clickThrough?id=108180&url=%2Fopenaccess&loc=%2Fdoi%2F10.1145%2F3657604.3664673&pubId=63760516&placeholderId=101025&productId=108179), new features for researchers are available in the \*Premium Edition\*. [Click here to learn more](/action/clickThrough?id=108180&url=%2Fpremium&loc=%2Fdoi%2F10.1145%2F3657604.3664673&pubId=63760516&placeholderId=101025&productId=108179).
+\*\*You are currently in the Basic Edition. Features requiring a subscription appear in grey.\*\*
+[Sign In](/action/clickThrough?id=108180&url=%2Faction%2FshowLogin%3FredirectUri%3Dhttps%253A%252F%252Fdl.acm.org%252Fdoi%252F10.1145%252F3657604.3664673&loc=%2Fdoi%2F10.1145%2F3657604.3664673&pubId=63760516&placeholderId=101025&productId=108179)[Upgrade](/action/clickThrough?id=108180&url=%2Fabout%2Fupgrade&loc=%2Fdoi%2F10.1145%2F3657604.3664673&pubId=63760516&placeholderId=101025&productId=108179)
+\* [![](/specs/products/acm/releasedAssets/images/acm-dl-logo-white-1ecfb82271e5612e8ca12aa1b1737479.png)](/)
+\* [![](specs/products/acm/releasedAssets/images/acm-logo-1.png)](https://www.acm.org)
+[![](/pb-assets/images/basic-edition-1765756198880.png)](/premium)
+\* [Sign in](/action/showLogin?redirectUri=%2Fdoi%2F10.1145%2F3657604.3664673)
+\* [Register](https://accounts.acm.org?redirectUri=%2Fdoi%2F10.1145%2F3657604.3664673)
+\* [Advanced Search](/search/advanced)
+\* [Journals](/journals)
+\* [Magazines](/magazines)
+\* [Proceedings](/proceedings)
+\* [Books](/acmbooks)
+\* [SIGs](/sigs)
+\* [Conferences](/conferences)
+\* [Institutions](/institutions)
+\* [People](/people)
+\* [More](#)
+\* [![](/pb-assets/images/basic-edition-1765756198880.png)](/premium)
+SearchSearch
+Search ACM Digital Library
+SearchSearch
+[Advanced Search](/search/advanced)
+10.1145/3657604.3664673acmotherconferencesArticle/Chapter ViewBasic AbstractPublication Pagesl-at-sConference Proceedingsconference-collections
+[l-at-s](#)
+\* [Conference](/conference/l-at-s)
+\* [Proceedings](/conference/l-at-s/proceedings)
+\* [Upcoming Events](/conference/l-at-s/upcoming)
+\* [Authors](/conference/l-at-s/authors)
+\* [Affiliations](/conference/l-at-s/affiliations)
+\* [Award Winners](/conference/l-at-s/award-winners)
+\* [More](#)
+## Export Citations
+Select Citation formatBibTeXEndNoteACM Ref
+\* Please download or close your previous search result export first before starting a new bulk export.
+Preview is not available.
+By clicking download,\*\*a status dialog\*\* will open to start the export process. The process may take\*\*a few minutes\*\* but once it finishes a file will be downloadable from your browser. You may continue to browse the DL while the export process is in progress.
+\* + [Download citation](javascript:void(0))
++ [Copy citation](javascript:void(0))
+Several features on this page require Premium Access.
+[Learn more](/about/upgrade)[Sign in](/action/showLogin?redirectUri=%2Fdoi%2F10.1145%2F3657604.3664673)
+\* [Home](https://dl.acm.org/)
+\* [Conferences](/conferences)
+\* [L-AT-S](/conference/l-at-s)
+\* [Proceedings](/conference/l-at-s/proceedings)
+\* [L@S '24](/doi/proceedings/10.1145/3657604)
+\* [Automatic Feedback Generation on K-12 Students' Data Science Education by Prompting Cloud-based Large Language Models](/doi/10.1145/3657604.3664673)
+[Click here](/action/clickThrough?id=108253&url=https%3A%2F%2Fwww.acm.org%2Fabout-acm%2Facm-pres-on-oa-transition-and-dl-changes&loc=%2Fdoi%2F10.1145%2F3657604.3664673&pubId=63760516&placeholderId=101024&productId=108184)
+to read ACM President Yannis Ioannidis’ statement on recent changes to the Digital Library
+short-paper
+Free access
+Share on
+# Automatic Feedback Generation on K-12 Students' Data Science Education by Prompting Cloud-based Large Language Models
+Authors: [![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)Sze Ching EvelynFung](#artseq-00001), [![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)Man FaiWong](#artseq-00002), [![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)Chee WeiTan](#artseq-00003)[Authors Info & Claims](#get-premium-access)
+[L@S '24: Proceedings of the Eleventh ACM Conference on Learning @ Scale](/doi/proceedings/10.1145/3657604)
+Pages 255 - 258
+Published: 15 July 2024[Publication History](#get-premium-access)
+6citation523Downloads
+## New Citation Alert added!
+This alert has been successfully added and will be sent to:
+You will be notified whenever a record that you have chosen has been cited.
+To manage your alert preferences, click on the button below.
+[Manage my Alerts](/action/showPreferences?menuTab=Alerts)
+## Add a Citation Alert
+To add a citation alert, please [log in to your account](/action/showLogin?redirectUri=/doi/10.1145/3657604.3664673)
+[PDF/eReader](/doi/epdf/10.1145/3657604.3664673)
+Contents
+[L@S '24: Proceedings of the Eleventh ACM Conference on Learning @ Scale](/doi/proceedings/10.1145/3657604)
+Automatic Feedback Generation on K-12 Students' Data Science Education by Prompting Cloud-based Large Language Models
+Pages 255 - 258
+[###### PREVIOUS CHAPTER
+Collaborate and Listen: International Research Collaboration at Learning @ Scale
+Previous](/doi/10.1145/3657604.3664670)[###### NEXT CHAPTER
+Transforming CS Education with DevOps: Streamlined Assignment Validation and Delivery @ Scale
+Next](/doi/10.1145/3657604.3664676)
+\* [Abstract](#core-tabbed-abstracts)
++ [Abstract](#abstract)
++ [AI Summary](#plain-language-summary)
+\* [References](#bibliography)
+![](/specs/products/acm/releasedAssets/images/footer-logo1-45ae33115db81394d8bd25be65853b77.png)
+\* Information & Contributors
+\* Bibliometrics & Citations
+\* View Options
+\* References
+\* Figures
+\* Tables
+\* Media
+\* Share
+## Abstract
+### Abstract
+Since data science is traditionally an advanced field taught at the college or university level, introducing its concepts to K-12 students can present unique learning challenges. As educational environments increasingly adopt data science curricula for K-12 students, the need for scalable, personalized teaching tools becomes critical. While the integration of large language models (LLMs) in educational environments offers significant potential for scalability and automation, it is important to note that the generated language output may not always be highly suitable for K-12 students. In this paper, we introduce the DSRAG, a novel educational automatic feedback generation framework that leverages Retrieval-Augmented Generation (RAG) and cloud-based LLMs to provide automated and personalized feedback for K-12 students engaged in data science education. DSRAG employs Langchain question-answering and RAG systems to manage educational content and generate feedback on the top of GPT-4. We also demonstrate the framework's capability to simplify complex concepts and align its responses to be pedagogically appropriate and understandable for K-12 students.
+### AI Summary
+### AI-Generated Summary (Experimental)
+This summary was generated using automated tools and was not authored or reviewed by the article's author(s). It is provided to support discovery, help readers assess relevance, and assist readers from adjacent research areas in understanding the work. It is intended to complement the author-supplied abstract, which remains the primary summary of the paper. The full article remains the authoritative version of record. [Click here to learn more](/generative-ai/summarizations).
+Click here to comment on the accuracy, clarity, and usefulness of this summary. Doing so will help inform refinements and future regenerated versions.
+To view this AI-generated plain language summary, you must have Premium access.
+## Formats available
+You can view the full content in the following formats:
+[PDF/eReader](/doi/epdf/10.1145/3657604.3664673)
+## References
+[1]
+Josh Achiam et al. 2023. GPT-4 technical report. arXiv preprint:2303.08774.
+[Google Scholar](https://scholar.google.com/scholar?q=Josh+Achiam+et+al.+2023.+GPT-4+technical+report.+arXiv+preprint%3A2303.08774.)
+[2]
+Anderson Pinheiro Cavalcanti, Arthur Barbosa, Ruan Carvalho, Fred Freitas, Yi-Shan Tsai, Dragan Ga?evi?, and Rafael Ferreira Mello. 2021. Automatic feedback in online learning environments: a systematic literature review. Computers and Education: Artificial Intelligence, 2, 100027.
+[Crossref](https://doi.org/10.1016/j.caeai.2021.100027)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?doi=10.1016%2Fj.caeai.2021.100027)
+[3]
+Harrison Chase. 2022. Langchain. https://github.com/hwchase17/langchain. Accessed on May 10, 2024. (2022).
+[Google Scholar](https://scholar.google.com/scholar?q=Harrison+Chase.+2022.+Langchain.+https%3A%2F%2Fgithub.com%2Fhwchase17%2Flangchain.+Accessed+on+May+10%2C+2024.+%282022%29.)
+[4]
+Chroma. 2023. Chroma - the open-source embedding database. https://github.com/chroma-core/chroma. Accessed on May 10, 2024. (2023).
+[Google Scholar](https://scholar.google.com/scholar?q=Chroma.+2023.+Chroma+-+the+open-source+embedding+database.+https%3A%2F%2Fgithub.com%2Fchroma-core%2Fchroma.+Accessed+on+May+10%2C+2024.+%282023%29.)
+[5]
+Brendan Cowan, Yutaka Watanobe, and Atsushi Shirafuji. 2023. Enhancing programming learning with LLMs: prompt engineering and flipped interaction. In Proceedings of the 2023 4th Asia Service Sciences and Software Engineering Conference, 10--16.
+[Digital Library](/doi/10.1145/3634814.3634816)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?doi=10.1145%2F3634814.3634816)
+[6]
+Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, and Haofen Wang. 2023. Retrieval-augmented generation for large language models: a survey. arXiv preprint arXiv:2312.10997.
+[Google Scholar](https://scholar.google.com/scholar?q=Yunfan+Gao%2C+Yun+Xiong%2C+Xinyu+Gao%2C+Kangxiang+Jia%2C+Jinliu+Pan%2C+Yuxi+Bi%2C+Yi+Dai%2C+Jiawei+Sun%2C+and+Haofen+Wang.+2023.+Retrieval-augmented+generation+for+large+language+models%3A+a+survey.+arXiv+preprint+arXiv%3A2312.10997.)
+[7]
+Dimitra Gkatzia, Helen Hastie, Srinivasan Janarthanam, and Oliver Lemon. 2013. Generating student feedback from time-series data using reinforcement learning. In Proceedings of the 14th European Workshop on Natural Language Generation, 115--124.
+[Google Scholar](https://scholar.google.com/scholar?q=Dimitra+Gkatzia%2C+Helen+Hastie%2C+Srinivasan+Janarthanam%2C+and+Oliver+Lemon.+2013.+Generating+student+feedback+from+time-series+data+using+reinforcement+learning.+In+Proceedings+of+the+14th+European+Workshop+on+Natural+Language+Generation%2C+115--124.)
+[8]
+Tiffany H Kung et al. 2023. Performance of ChatGPT on USMLE: potential for AI-assisted medical education using large language models. PLoS digital health, 2, 2, e0000198.
+[Google Scholar](https://scholar.google.com/scholar?q=Tiffany+H+Kung+et+al.+2023.+Performance+of+ChatGPT+on+USMLE%3A+potential+for+AI-assisted+medical+education+using+large+language+models.+PLoS+digital+health%2C+2%2C+2%2C+e0000198.)
+[9]
+Davy Tsz Kit Ng, Chee Wei Tan, and Jac Ka Lok Leung. 2024. Empowering student self-regulated learning and science education through ChatGPT: a pioneering pilot study. British Journal of Educational Technology.
+[Google Scholar](https://scholar.google.com/scholar?q=Davy+Tsz+Kit+Ng%2C+Chee+Wei+Tan%2C+and+Jac+Ka+Lok+Leung.+2024.+Empowering+student+self-regulated+learning+and+science+education+through+ChatGPT%3A+a+pioneering+pilot+study.+British+Journal+of+Educational+Technology.)
+[10]
+Baolin Peng et al. 2023. Check your facts and try again: improving large language models with external knowledge and automated feedback. arXiv preprint arXiv:2302.12813.
+[Google Scholar](https://scholar.google.com/scholar?q=Baolin+Peng+et+al.+2023.+Check+your+facts+and+try+again%3A+improving+large+language+models+with+external+knowledge+and+automated+feedback.+arXiv+preprint+arXiv%3A2302.12813.)
+[11]
+V Pittard. 2018. The integration of data science in the primary and secondary curriculum. Final Report to the Royal Society Advisory Committee on Mathematics Education.
+[Google Scholar](https://scholar.google.com/scholar?q=V+Pittard.+2018.+The+integration+of+data+science+in+the+primary+and+secondary+curriculum.+Final+Report+to+the+Royal+Society+Advisory+Committee+on+Mathematics+Education.)
+[12]
+Chee Wei Tan. 2023. Large language model-driven classroom flipping: empowering student-centric peer questioning with flipped interaction. arXiv preprint arXiv:2311.14708.
+[Google Scholar](https://scholar.google.com/scholar?q=Chee+Wei+Tan.+2023.+Large+language+model-driven+classroom+flipping%3A+empowering+student-centric+peer+questioning+with+flipped+interaction.+arXiv+preprint+arXiv%3A2311.14708.)
+[13]
+Gemini Team et al. 2023. Gemini: a family of highly capable multimodal models. arXiv preprint arXiv:2312.11805.
+[Google Scholar](https://scholar.google.com/scholar?q=Gemini+Team+et+al.+2023.+Gemini%3A+a+family+of+highly+capable+multimodal+models.+arXiv+preprint+arXiv%3A2312.11805.)
+[14]
+Hugo Touvron et al. 2023. Llama: open and efficient foundation language models. arXiv preprint arXiv:2302.13971.
+[Google Scholar](https://scholar.google.com/scholar?q=Hugo+Touvron+et+al.+2023.+Llama%3A+open+and+efficient+foundation+language+models.+arXiv+preprint+arXiv%3A2302.13971.)
+[15]
+Shintaro Uchiyama, Kyoji Umemura, and Yusuke Morita. 2023. Large language model-based system to provide immediate feedback to students in flipped classroom preparation learning. arXiv preprint arXiv:2307.11388.
+[Google Scholar](https://scholar.google.com/scholar?q=Shintaro+Uchiyama%2C+Kyoji+Umemura%2C+and+Yusuke+Morita.+2023.+Large+language+model-based+system+to+provide+immediate+feedback+to+students+in+flipped+classroom+preparation+learning.+arXiv+preprint+arXiv%3A2307.11388.)
+[16]
+Man-Fai Wong, Shangxin Guo, Ching-Nam Hang, Siu-Wai Ho, and Chee-Wei Tan. 2023. Natural language generation and understanding of big code for ai-assisted programming: a review. Entropy, 25, 6, 888.
+[Crossref](https://doi.org/10.3390/e25060888)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?doi=10.3390%2Fe25060888)
+## Cited By
+[View all](/action/ajaxShowCitedBy?doi=10.1145/3657604.3664673)
+\* Gong YWang MTu YHuang CZhang D(2026)Beyond pre-scripted interactions: mapping the integration of LLMs in digital game-based learning – a scoping reviewEntertainment Computing10.1016/j.entcom.2026.101082\*\*56\*\*(101082)Online publication date: Jan-2026
+\* Satya Putra AMenekse MButt ATaibi DHeffernan III NMeyer J(2025)WIP: Leveraging LLM for Sentiment Analysis of Student Reflection Texts from a Large Undergraduate CourseProceedings of the Twelfth ACM Conference on Learning @ Scale10.1145/3698205.3733937(266-270)Online publication date: 21-Jul-2025
+\* Cao JZhao CChen XWang SSchunn CKoedinger KLin J(2025)From First Draft to Final Insight: A Multi-agent Approach for Feedback GenerationArtificial Intelligence in Education10.1007/978-3-031-98417-4\\_12(163-176)Online publication date: 15-Jul-2025
+\* [Show More Cited By](javascript:void(0))
+## Index Terms
+1. Automatic Feedback Generation on K-12 Students' Data Science Education by Prompting Cloud-based Large Language Models
+1. [Applied computing](/topic/ccs2012/10010405?ContentGroupKey=10.1145%2F3657604&expand=all)
+1. [Education](/topic/ccs2012/10010405.10010489?ContentGroupKey=10.1145%2F3657604&expand=all)
+2. [Computing methodologies](/topic/ccs2012/10010147?ContentGroupKey=10.1145%2F3657604&expand=all)
+1. [Artificial intelligence](/topic/ccs2012/10010147.10010178?ContentGroupKey=10.1145%2F3657604&expand=all)
+1. [Natural language processing](/topic/ccs2012/10010147.10010178.10010179?ContentGroupKey=10.1145%2F3657604&expand=all)
+## Recommendations
+\* [### K-12 Teacher Support for Computer Science Principles: An Introduction to the UTeach Course, Thriving in Our Digital World: AP (Abstract Only)](/doi/10.1145/2839509.2844709)
+SIGCSE '16: Proceedings of the 47th ACM Technical Symposium on Computing Science Education
+Thriving in Our Digital World: AP provides high school teachers a complete, classroom-ready
+curriculum, including custom online resources and flexible curricular materials, designed
+to satisfy the College Board's requirements for its new course, AP ...
+[Read More](/doi/10.1145/2839509.2844709)
+\* [### Supporting K-12 computer science education](/doi/10.5555/1295109.1295142)
+The Computer Science Teachers Association (CSTA) supports and promotes the teaching
+of computer science and other computing disciplines at the K-12 educational level.
+During this presentation we will explore the issues for K-12 computer teachers, the
+...
+[Read More](/doi/10.5555/1295109.1295142)
+\* [### Professional and Capacity Building in K-12 Computer Science Education: A Multi-Faceted Approach](/doi/10.1145/3545947.3576329)
+SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2
+States are moving to adopt Computer Science (CS) education standards to help K-12
+teachers adapt and integrate computing /computational thinking (CT) concepts into
+the curriculum. These approaches also rely heavily on training current and pre-service
+...
+[Read More](/doi/10.1145/3545947.3576329)
+## Comments
+[![](/sda/108255/acm-pres-on-oa-trans-and-dl-changes.png)](/action/clickThrough?id=108255&url=https%3A%2F%2Fwww.acm.org%2Fabout-acm%2Facm-pres-on-oa-transition-and-dl-changes&loc=%2Fdoi%2F10.1145%2F3657604.3664673&pubId=63760516&placeholderId=101020&productId=108193)
+[![](/sda/108263/colint-dl-sky-ad.png)](/action/clickThrough?id=108263&url=https%3A%2F%2Fdl.acm.org%2Fjournal%2Fcola&loc=%2Fdoi%2F10.1145%2F3657604.3664673&pubId=63760516&placeholderId=101021&productId=108184)
+[![](/sda/108238/ACM Books\_Myers\_Ad.jpg)](/action/clickThrough?id=108238&url=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fbook%2F10.1145%2F3617448&loc=%2Fdoi%2F10.1145%2F3657604.3664673&pubId=63760516&placeholderId=101022&productId=108184)
+#### Affiliations
+![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)
+Sze Ching EvelynFung
+Diocesan Girls' School, Hong Kong, China
+[View Profile](/profile/99661275077)
+![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)
+Man FaiWong
+City University of Hong Kong, Hong Kong, China
+[View Profile](/profile/99661275091)
+![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)
+Chee WeiTan
+Nanyang Technological University, Singapore, Singapore
+[View Profile](/profile/99660948362)
+[Download PDF](/doi/pdf/10.1145/3657604.3664673?download=true)
+[View Table of Contents](/doi/proceedings/10.1145/3657604)
+## Footer
+### Categories
+\* [Journals](/journals)
+\* [Magazines](/magazines)
+\* [Books](/acmbooks)
+\* [Proceedings](/proceedings)
+\* [SIGs](/sigs)
+\* [Conferences](/conferences)
+\* [Collections](/collections)
+\* [People](/people)
+### About
+\* [About ACM Digital Library](/about)
+\* [ACM Digital Library Board](/about/dlboard)
+\* [Author Guidelines](https://www.acm.org/publications/authors/information-for-authors)
+\* [All Holdings within the ACM Digital Library](/about/content#sec2)
+\* [ACM Computing Classification System](/ccs)
+\* [Accessibility Statement](/about/accessibility)
+### Join
+\* [Join ACM](https://www.acm.org/membership/join)
+\* [Join SIGs](https://www.acm.org/special-interest-groups/join)
+\* [Subscribe to Publications](https://www.acm.org/publications/subscribe)
+\* [Institutions and Libraries](https://libraries.acm.org/)
+### Connect
+\* [Contact us via email](/cdn-cgi/l/email-protection#07636b2a7362666a476f762966646a29687560)
+\* [ACM on Facebook](https://www.facebook.com/AssociationForComputingMachinery/)
+\* [ACM DL on X](https://x.com/acmdl)
+\* [ACM on Linkedin](https://www.linkedin.com/company/association-for-computing-machinery/)
+\* Send Feedback
+\* Submit a Bug Report
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2026 ACM, Inc.
+\* [Terms of Usage](https://libraries.acm.org/digital-library/policies#anchor3)
+\* [Privacy Policy](https://www.acm.org/about-acm/privacy-policy)
+\* [Code of Ethics](https://www.acm.org/code-of-ethics)
+[![](/specs/products/acm/releasedAssets/images/acm-logo-dl-8437178134fce530bc785276fc316cbf.png)](/)
+[![](/specs/products/acm/releasedAssets/images/acm-logo-3-10aed79f3a6c95ddb67053b599f029af.png)](https://www.acm.org)
+Your Search Results Download Request
+We are preparing your search results for download ...
+We will inform you here when the file is ready.
+[Download now!](#)
+Your Search Results Download Request
+Your file of search results citations is now ready.
+[Download now!](#)
+Your Search Results Download Request
+Your search export query has expired. Please try again.

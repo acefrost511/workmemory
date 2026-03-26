@@ -1,0 +1,1806 @@
+# Source URL: https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/full
+# Content Length: 193913 characters
+# Extracted at: 2026-03-26 19:38:19
+#============================================================
+
+
+
+Frontiers | Exploring the role of agentic AI in fostering self-efficacy, autonomy support, and self-learning motivation in higher education
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![]()Frontiers in Artificial Intelligence](//www.frontiersin.org/journals/artificial-intelligence) About usAbout us
+
+* Who we are
+* [Mission and values](https://www.frontiersin.org/about/mission)
+* [History](https://www.frontiersin.org/about/history)
+* [Leadership](https://www.frontiersin.org/about/leadership)
+* [Awards](https://www.frontiersin.org/about/awards)
+
+* Impact and progress
+* [Frontiers' impact](https://www.frontiersin.org/about/impact)
+* [Our annual reports](https://www.frontiersin.org/about/annual-reports)
+* [Thought leadership](https://www.frontiersin.org/about/thought-leadership)
+
+* Publishing model
+* [How we publish](https://www.frontiersin.org/about/how-we-publish)
+* [Open access](https://www.frontiersin.org/about/open-access)
+* [Peer review](https://www.frontiersin.org/about/peer-review)
+* [Research integrity](https://www.frontiersin.org/about/research-integrity)
+* [Research Topics](https://www.frontiersin.org/about/research-topics)
+* [FAIR² Data Management](https://www.frontiersin.org/about/fair-data-management)
+* [Fee policy](https://www.frontiersin.org/about/fee-policy)
+
+* Services
+* [Societies](https://publishingpartnerships.frontiersin.org/)
+* [National consortia](https://www.frontiersin.org/open-access-agreements/consortia)
+* [Institutional partnerships](https://www.frontiersin.org/about/open-access-agreements)
+* [Collaborators](https://www.frontiersin.org/about/collaborators)
+
+* More from Frontiers
+* [Frontiers Forum](https://forum.frontiersin.org/)
+* [Frontiers Planet Prize](https://www.frontiersin.org/about/frontiers-planet-prize)
+* [Press office](https://pressoffice.frontiersin.org/)
+* [Sustainability](https://www.frontiersin.org/about/sustainability)
+* [Career opportunities](https://careers.frontiersin.org/)
+* [Contact us](https://www.frontiersin.org/about/contact)
+
+[All journals](https://www.frontiersin.org/journals)[All articles](https://www.frontiersin.org/articles)[Submit your research](https://www.frontiersin.org/submission/submit?domainid=1&fieldid=118&specialtyid=0&entitytype=2&entityid=1437)[Search](//www.frontiersin.org/search)[![]()Frontiers in Artificial Intelligence](//www.frontiersin.org/journals/artificial-intelligence) SectionsSections
+
+* [AI for Human Learning and Behavior Change](/journals/artificial-intelligence/sections/ai-for-human-learning-and-behavior-change)
+* [AI in Business](/journals/artificial-intelligence/sections/ai-in-business)
+* [AI in Finance](/journals/artificial-intelligence/sections/ai-in-finance)
+* [AI in Food, Agriculture and Water](/journals/artificial-intelligence/sections/ai-in-food-agriculture-and-water)
+* [Big Data and AI in High Energy Physics](/journals/artificial-intelligence/sections/big-data-and-ai-in-high-energy-physics)
+* [Language and Computation](/journals/artificial-intelligence/sections/language-and-computation)
+* [Logic and Reasoning in AI](/journals/artificial-intelligence/sections/logic-and-reasoning-in-ai)
+* [Machine Learning and Artificial Intelligence](/journals/artificial-intelligence/sections/machine-learning-and-artificial-intelligence)
+* [Medicine and Public Health](/journals/artificial-intelligence/sections/medicine-and-public-health)
+* [Natural Language Processing](/journals/artificial-intelligence/sections/natural-language-processing)
+* [Organoid Intelligence](/journals/artificial-intelligence/sections/organoid-intelligence)
+* [Pattern Recognition](/journals/artificial-intelligence/sections/pattern-recognition)
+* [Technology and Law](/journals/artificial-intelligence/sections/technology-and-law)
+
+[Articles](//www.frontiersin.org/journals/artificial-intelligence/articles)[Research Topics](//www.frontiersin.org/journals/artificial-intelligence/research-topics)[Editorial board](//www.frontiersin.org/journals/artificial-intelligence/editors) About journalAbout journal
+
+* Scope
+* [Field chief editors](https://www.frontiersin.org/journals/artificial-intelligence/about#about-editors)
+* [Mission & scope](https://www.frontiersin.org/journals/artificial-intelligence/about#about-scope)
+* [Facts](https://www.frontiersin.org/journals/artificial-intelligence/about#about-facts)
+* [Journal sections](https://www.frontiersin.org/journals/artificial-intelligence/about#about-submission)
+* [Open access statement](https://www.frontiersin.org/journals/artificial-intelligence/about#about-open)
+* [Copyright statement](https://www.frontiersin.org/journals/artificial-intelligence/about#copyright-statement)
+* [Quality](https://www.frontiersin.org/journals/artificial-intelligence/about#about-quality)
+
+* For authors
+* [Why submit?](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/why-submit)
+* [Article types](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/article-types)
+* [Author guidelines](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/author-guidelines)
+* [Editor guidelines](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/editor-guidelines)
+* [Publishing fees](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/publishing-fees)
+* [Submission checklist](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/submission-checklist)
+* [Contact editorial office](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/contact-editorial-office)
+
+ About usAbout us
+
+* Who we are
+* [Mission and values](https://www.frontiersin.org/about/mission)
+* [History](https://www.frontiersin.org/about/history)
+* [Leadership](https://www.frontiersin.org/about/leadership)
+* [Awards](https://www.frontiersin.org/about/awards)
+
+* Impact and progress
+* [Frontiers' impact](https://www.frontiersin.org/about/impact)
+* [Our annual reports](https://www.frontiersin.org/about/annual-reports)
+* [Thought leadership](https://www.frontiersin.org/about/thought-leadership)
+
+* Publishing model
+* [How we publish](https://www.frontiersin.org/about/how-we-publish)
+* [Open access](https://www.frontiersin.org/about/open-access)
+* [Peer review](https://www.frontiersin.org/about/peer-review)
+* [Research integrity](https://www.frontiersin.org/about/research-integrity)
+* [Research Topics](https://www.frontiersin.org/about/research-topics)
+* [FAIR² Data Management](https://www.frontiersin.org/about/fair-data-management)
+* [Fee policy](https://www.frontiersin.org/about/fee-policy)
+
+* Services
+* [Societies](https://publishingpartnerships.frontiersin.org/)
+* [National consortia](https://www.frontiersin.org/open-access-agreements/consortia)
+* [Institutional partnerships](https://www.frontiersin.org/about/open-access-agreements)
+* [Collaborators](https://www.frontiersin.org/about/collaborators)
+
+* More from Frontiers
+* [Frontiers Forum](https://forum.frontiersin.org/)
+* [Frontiers Planet Prize](https://www.frontiersin.org/about/frontiers-planet-prize)
+* [Press office](https://pressoffice.frontiersin.org/)
+* [Sustainability](https://www.frontiersin.org/about/sustainability)
+* [Career opportunities](https://careers.frontiersin.org/)
+* [Contact us](https://www.frontiersin.org/about/contact)
+
+[All journals](https://www.frontiersin.org/journals)[All articles](https://www.frontiersin.org/articles)[Submit your research](https://www.frontiersin.org/submission/submit?domainid=1&fieldid=118&specialtyid=0&entitytype=2&entityid=1437)[![]()Frontiers in Artificial Intelligence](//www.frontiersin.org/journals/artificial-intelligence) SectionsSections
+
+* [AI for Human Learning and Behavior Change](/journals/artificial-intelligence/sections/ai-for-human-learning-and-behavior-change)
+* [AI in Business](/journals/artificial-intelligence/sections/ai-in-business)
+* [AI in Finance](/journals/artificial-intelligence/sections/ai-in-finance)
+* [AI in Food, Agriculture and Water](/journals/artificial-intelligence/sections/ai-in-food-agriculture-and-water)
+* [Big Data and AI in High Energy Physics](/journals/artificial-intelligence/sections/big-data-and-ai-in-high-energy-physics)
+* [Language and Computation](/journals/artificial-intelligence/sections/language-and-computation)
+* [Logic and Reasoning in AI](/journals/artificial-intelligence/sections/logic-and-reasoning-in-ai)
+* [Machine Learning and Artificial Intelligence](/journals/artificial-intelligence/sections/machine-learning-and-artificial-intelligence)
+* [Medicine and Public Health](/journals/artificial-intelligence/sections/medicine-and-public-health)
+* [Natural Language Processing](/journals/artificial-intelligence/sections/natural-language-processing)
+* [Organoid Intelligence](/journals/artificial-intelligence/sections/organoid-intelligence)
+* [Pattern Recognition](/journals/artificial-intelligence/sections/pattern-recognition)
+* [Technology and Law](/journals/artificial-intelligence/sections/technology-and-law)
+
+[Articles](//www.frontiersin.org/journals/artificial-intelligence/articles)[Research Topics](//www.frontiersin.org/journals/artificial-intelligence/research-topics)[Editorial board](//www.frontiersin.org/journals/artificial-intelligence/editors) About journalAbout journal
+
+* Scope
+* [Field chief editors](https://www.frontiersin.org/journals/artificial-intelligence/about#about-editors)
+* [Mission & scope](https://www.frontiersin.org/journals/artificial-intelligence/about#about-scope)
+* [Facts](https://www.frontiersin.org/journals/artificial-intelligence/about#about-facts)
+* [Journal sections](https://www.frontiersin.org/journals/artificial-intelligence/about#about-submission)
+* [Open access statement](https://www.frontiersin.org/journals/artificial-intelligence/about#about-open)
+* [Copyright statement](https://www.frontiersin.org/journals/artificial-intelligence/about#copyright-statement)
+* [Quality](https://www.frontiersin.org/journals/artificial-intelligence/about#about-quality)
+
+* For authors
+* [Why submit?](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/why-submit)
+* [Article types](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/article-types)
+* [Author guidelines](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/author-guidelines)
+* [Editor guidelines](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/editor-guidelines)
+* [Publishing fees](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/publishing-fees)
+* [Submission checklist](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/submission-checklist)
+* [Contact editorial office](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/contact-editorial-office)
+
+[![]()Frontiers in Artificial Intelligence](//www.frontiersin.org/journals/artificial-intelligence) SectionsSections
+
+* [AI for Human Learning and Behavior Change](/journals/artificial-intelligence/sections/ai-for-human-learning-and-behavior-change)
+* [AI in Business](/journals/artificial-intelligence/sections/ai-in-business)
+* [AI in Finance](/journals/artificial-intelligence/sections/ai-in-finance)
+* [AI in Food, Agriculture and Water](/journals/artificial-intelligence/sections/ai-in-food-agriculture-and-water)
+* [Big Data and AI in High Energy Physics](/journals/artificial-intelligence/sections/big-data-and-ai-in-high-energy-physics)
+* [Language and Computation](/journals/artificial-intelligence/sections/language-and-computation)
+* [Logic and Reasoning in AI](/journals/artificial-intelligence/sections/logic-and-reasoning-in-ai)
+* [Machine Learning and Artificial Intelligence](/journals/artificial-intelligence/sections/machine-learning-and-artificial-intelligence)
+* [Medicine and Public Health](/journals/artificial-intelligence/sections/medicine-and-public-health)
+* [Natural Language Processing](/journals/artificial-intelligence/sections/natural-language-processing)
+* [Organoid Intelligence](/journals/artificial-intelligence/sections/organoid-intelligence)
+* [Pattern Recognition](/journals/artificial-intelligence/sections/pattern-recognition)
+* [Technology and Law](/journals/artificial-intelligence/sections/technology-and-law)
+
+[Articles](//www.frontiersin.org/journals/artificial-intelligence/articles)[Research Topics](//www.frontiersin.org/journals/artificial-intelligence/research-topics)[Editorial board](//www.frontiersin.org/journals/artificial-intelligence/editors) About journalAbout journal
+
+* Scope
+* [Field chief editors](https://www.frontiersin.org/journals/artificial-intelligence/about#about-editors)
+* [Mission & scope](https://www.frontiersin.org/journals/artificial-intelligence/about#about-scope)
+* [Facts](https://www.frontiersin.org/journals/artificial-intelligence/about#about-facts)
+* [Journal sections](https://www.frontiersin.org/journals/artificial-intelligence/about#about-submission)
+* [Open access statement](https://www.frontiersin.org/journals/artificial-intelligence/about#about-open)
+* [Copyright statement](https://www.frontiersin.org/journals/artificial-intelligence/about#copyright-statement)
+* [Quality](https://www.frontiersin.org/journals/artificial-intelligence/about#about-quality)
+
+* For authors
+* [Why submit?](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/why-submit)
+* [Article types](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/article-types)
+* [Author guidelines](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/author-guidelines)
+* [Editor guidelines](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/editor-guidelines)
+* [Publishing fees](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/publishing-fees)
+* [Submission checklist](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/submission-checklist)
+* [Contact editorial office](https://www.frontiersin.org/journals/artificial-intelligence/for-authors/contact-editorial-office)
+
+[Submit your research](https://www.frontiersin.org/submission/submit?domainid=1&fieldid=118&specialtyid=0&entitytype=2&entityid=1437)[Search](//www.frontiersin.org/search)
+
+ORIGINAL RESEARCH article
+-------------------------
+
+Front. Artif. Intell., 22 January 2026
+
+Sec. AI for Human Learning and Behavior Change
+
+Volume 9 - 2026 | <https://doi.org/10.3389/frai.2026.1738774>
+
+[Published in![]()
+
+Frontiers in Artificial Intelligence 
+
+* #### AI for Human Learning and Behavior Change
+
+* **4.7** impact factor
+* **7.3** citescore](https://www.frontiersin.org/journals/artificial-intelligence)
+### Editor & Reviewers
+
+Edited by
+
+[LF
+
+Leman Figen Gul](https://loop.frontiersin.org/people/163634)
+
+Reviewed by
+
+[MA
+
+Mazen Alzyoud](https://loop.frontiersin.org/people/3050696)[DA
+
+Dennis Arias-Chávez](https://loop.frontiersin.org/people/1993288)
+
+Outline
+
+* [Abstract](#h1)
+* [1 Introduction](#sec1)
+* [2 Theoretical background and literature review](#sec2)
+* [3 Methodology](#sec13)
+* [4 Results](#sec18)
+* [5 Discussion](#sec25)
+* [6 Conclusion](#sec28)
+* [Data availability statement](#sec30)
+* [Ethics statement](#sec31)
+* [Author contributions](#sec32)
+* [Funding](#h11)
+* [Conflict of interest](#sec33)
+* [Generative AI statement](#sec34)
+* [Publisher’s note](#sec35)
+* [References](#h15)
+
+Figures and Tables 
+
+* Figure 1
+  
+  ![]()[View in article](#fig1)
+* Figure 2
+  
+  ![]()[View in article](#fig2)
+* Figure 3
+  
+  ![]()[View in article](#fig3)
+* Table 1
+  
+  Summary of prior empirical studies Related to technology acceptance.
+  
+  [View in article](#tab1)
+* Table 2
+  
+  Constructs, codes, and descriptions.
+  
+  [View in article](#tab2)
+* Table 3
+  
+  Demographic profile of participants (*N =* 256).
+  
+  [View in article](#tab3)
+* Table 4
+  
+  General AI in education perceptions.
+  
+  [View in article](#tab4)
+* Table 5
+  
+  Indicator loadings and VIF values.
+  
+  [View in article](#tab5)
+* Table 6
+  
+  Construct reliability and convergent validity.
+  
+  [View in article](#tab6)
+* Table 7
+  
+  HTMT matrix.
+  
+  [View in article](#tab7)
+* Table 8
+  
+  Fornel–Larcker criterion.
+  
+  [View in article](#tab8)
+* Table 9
+  
+  R2 values and F2 values.
+  
+  [View in article](#tab9)
+* Table 10
+  
+  Hypothesis testing results.
+  
+  [View in article](#tab10)
+
+ORIGINAL RESEARCH article
+-------------------------
+
+Front. Artif. Intell., 22 January 2026
+
+Sec. AI for Human Learning and Behavior Change
+
+Volume 9 - 2026 | <https://doi.org/10.3389/frai.2026.1738774>
+
+Exploring the role of agentic AI in fostering self-efficacy, autonomy support, and self-learning motivation in higher education
+===============================================================================================================================
+
+* [JA
+  
+  Jehad Alqurni \*](https://loop.frontiersin.org/people/3266428)
+
+* Department of Educational Technologies, College of Education, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia
+
+ Article metrics
+
+[View details](#metrics)
+
+Abstract
+--------
+
+**Introduction:** 
+
+Rapid adoption of Artificial Intelligence (AI) in learning has revolutionized learners’ engagement but comprehension of psychological and technological drivers of successful AI-enabled learning remains scarce. This research investigates how students’ perceived agency of AI, usefulness, ease of use, trust, autonomy supporting, and self-efficacy collectively impact students’ self-learning behavior and motivation. Based on Technology Acceptance Model (TAM), Social Cognitive Theory (SCT), and Self-Determination Theory (SDT) theories, our research model predicts an integrated model of motivational and behavioral processes underlying AI adoption in learning settings.
+
+**Methods:** 
+
+We adopted and followed a quantitative research design with a structured questionnaire administered among 280 higher education students in Saudi Arabia. We applied Structural Equation Modeling (SEM) using SmartPLS 4 to analyze data.
+
+**Results:** 
+
+Findings indicate that students’ perceived agency of AI significantly predicts usefulness, ease of use, and autonomy supporting, while ease of use significantly enhances AI-enabled self-efficacy. Self-efficacy and autonomy supporting significantly impact self-learning motivation, driving self-learning behavior positively. But usefulness and trust in AI failed to influence self-efficacy directly, which reveals cultural and contextual settings.
+
+**Discussion:** 
+
+This research adds richness to the fusion of TAM, SCT, and SDT theories in illustrating how AI’s perceived autonomy and usability collectively promote self-directed learning motivation. This research also provides guidelines to educators and system designers to design AI tools that promote learner autonomous settings, usability, and confidence. Future research ought to perform longitudinal and cross-cultural validations to fine-tune theoretically.
+
+1 Introduction
+--------------
+
+Over the past few decades, education has changed significantly due to the influence of computer and communication technologies. Traditional classrooms, characterized by teacher-centrated learning, static and fixed curriculum, same-paced learning, and minimal feedback, have failed repeatedly to accommodate differentiated students ([Dahri et al., 2024](#ref27); [Almogren et al., 2024a](#ref5)). Students have remained disengaged, unable to influence the direction of learning, and restricted by narrow assessment procedures. Traditional systems generally make assumptions that all students learn at equal rates, profit from the same teaching methodology, and need equal facilitation by instructors ([Dahri et al., 2024](#ref27); [Almogren et al., 2024a](#ref5)). This homogeneity ignores individual variability in background knowledge, motivation, self-regulation ability, learning modes, and learning rate. Furthermore, feedback in most traditional contexts comes late, generic, and inadequate to students’ constantly changing needs ([Kalantzis and Cope, 2004](#ref66)). All these have been increasingly challenged in research on education, due to the inhibitions that they create on students’ motivation and learning of self-regulated behaviors, which are critically needed in higher education and in life continuing learning contexts ([de Bruijn-Smolrs et al., 2016](#ref34); [Roth et al., 2016](#ref94)).
+
+With the rise in digital instrumentation, Internet learning platforms, intelligent tutoring systems, adaptive learning systems, and AI-driven learning technologies, [Strielkowski et al. (2025)](#ref105) noted that there is growing enthusiasm about how technology could make up some of those weaknesses. Technology innovations such as Learning Management Systems (LMS), MOOCs, interactive multimedia, and simulation-based learning have begun to allow greater flexibility in pacing, diversity in modality in instructions, immediate feedback, and access to more kinds of resources ([Munna et al., 2024](#ref79); [Ok, 2025](#ref84)). Studies have found that where digital technology is well crafted, it has been demonstrated to enhance students’ engagement, cognitive learning outcomes, and satisfaction. But many of those tools still function in reactive or prescriptive modes: students respond to system directions, yet moderate adaptation on the part of the system is small, underpinned all too often by only simple heuristics or pre-defined branching logic. Such tools have the potential to increase utility and ease of access, but do not necessarily encourage deeper motivational constructs—such as perceived agency, self-determination or self-efficacy—and may little encourage true self-directional learning behavior.
+
+Recent advances in Artificial Intelligence (AI), notably in agentic AI, adaptive systems, reinforcement learning, large-language models, and explainable AI, have opened new possibilities in educational settings. Agentic AI refers to AI systems that can act with a degree of autonomy: making decisions, adapting dynamically to learner needs, guiding learning paths proactively, offering personalized scaffolding, and even initiating interventions or suggestions rather than merely responding to users. In education, these systems include adaptive tutoring platforms, AI agents that monitor student progress and provide timely feedback, and intelligent companions capable of supporting students’ decision making about what, when, and how to learn. Educational research has begun to document benefits of AI for increasing self-efficacy and motivation. For example, a systematic review found that AI tools significantly contribute to the development of computational thinking and self-efficacy among learners across levels when the systems adapt to learner performance and provide supportive feedback ([Massaty et al., 2024](#ref75)). Another study of nursing students in China showed that AI literacy correlated positively with AI self-efficacy, which in turn was linked to higher engagement ([He et al., 2025](#ref55)). Similarly, investigations among pre-service special education teachers in China have revealed that perceived usefulness and ease of use influence their intention to adopt AI tools, mediated by self-efficacy ([Yao and Wang, 2024](#ref126)). Moreover, teacher studies in K-12 contexts indicate that while attitudes toward AI are generally positive, actual readiness, measured via self-efficacy, access, and support—varies widely across individuals and institutional contexts ([Bergdahl and Sjöberg, 2025](#ref16)). These findings suggest that agentic AI holds promise not only for content delivery but for motivational and self-regulatory dimensions of learning. Prior studies have predominantly focused on China, Europe, and Western contexts, with limited empirical evidence from Middle Eastern higher education systems ([Dahri et al., 2025](#ref29); [Dahri et al., 2025](#ref30); [Bandi et al., 2025](#ref11)).
+
+Despite these promising developments, there remains a lack of clarity around exactly *how* different perceptions of an AI system (such as its perceived agency, usefulness, or ease of use), together with factors like trust, autonomy support, and self-efficacy, combine to influence students’ self-learning motivation and ultimate self-learning behavior. While prior work has examined pairwise relationships (for example, AI literacy → engagement, or usefulness → behavioral intention), comprehensive models that integrate these constructs and test mediated pathways are relatively rare ([Fan and Zhang, 2024](#ref39); [Wang et al., 2025](#ref118); [Gkanatsiou et al., 2025](#ref44); [Han et al., 2025](#ref54)). Furthermore, many studies are localized to particular domains, such as language learning, special education, or higher vocational education, leaving out broader student populations and contexts ([Tyler et al., 2004](#ref110); [Gersten and Woodward, 1994](#ref42); [Boud and Walker, 1998](#ref17)). Also, there is little empirical work on the role of perceived agency of AI—that is, how much students view the AI tools as acting independently or adaptively—and how that perceived agency interacts with trust, autonomy support, and self-efficacy to drive motivation and behavior. Theoretical perspectives from Social Cognitive Theory (which emphasizes self-efficacy, observational and mastery experience) ([Schunk, 2012](#ref99); [Stajkovic and Luthans, 1998](#ref104)) and Self-Determination Theory (which emphasizes autonomy, competence, and relatedness) offer useful lenses for this investigation ([Rigby and Ryan, 2018](#ref93); [Moore et al., 2020](#ref77); [Vansteenkiste et al., 2018](#ref112)). Integrating these theories in a model that includes agentic AI notions promises to yield richer understanding of motivational and behavioral dynamics in AI-supported self-learning. To address these gaps, the present study proposes and empirically validates a comprehensive structural model that integrates perceived AI agency, autonomy support, trust, and AI-supported self-efficacy to explain students’ self-learning motivation and self-learning behavior in AI-assisted educational settings. By doing so, this study extends existing AI adoption research beyond intention-based models and offers context-specific empirical insights into how agentic AI tools shape meaningful learning behaviors. In particular:
+
+* To define the associations between perceived agency of AI and (a) perceived usefulness, (b) ease of use, and (c) autonomy support.
+* To understand how perceived usefulness, ease of use, and trust in AI act to construct AI-assisted self-efficacy.
+* To examine how self-efficacy and autonomous support enhance self-learning motivation.
+* A systematic review of how self-learning motivation affects self-learning behavior in AI-assisted learning settings.
+* To test mediated associations between these constructs, pinpointing indirect associations between perceptions of AI and true self-learning behavior.
+
+According to these aims, the research answers the following research questions:
+
+* **RQ1:** How do students’ conceptions of AI’s agency affect students’ conceptions of usefulness, ease of use, and facilitation of autonomy?
+* **RQ2:** How do perceptions of usefulness, ease of use, and trust in AI influence students’ self-efficacy with AI?
+* **RQ3:** In what ways do students self-learning and self-efficacy benefit from autonomy
+* **RQ4:** How does self-learning motivation influence real self-learning behavior through motivational and perceptual intervening constructs?
+* **RQ5:** What indirect channels (mediations) play important roles in connecting perceptions regarding AI to learning behavior of learners?
+
+This research contributes to theory, practice, and policy. From a theoretical standpoint, it advances knowledge on agentic AI by placing measures of perceived agency, trust, and autonomous motivation under a Structural Equation Modeling (SEM) framework based on Social Cognitive Theory and Self-Determination Theory. From an empirical point of view, it gathers data from diverse higher education students to provide understanding on how perceptions get translated into motivation and self-learning in AI-enacted contexts. From a practical point of view, findings shall assist learning AI systems designers to identify strong traits, such as augmenting perceived agency, usability, autonomy, and trust—these strengthen self-learning. Finally, policy decisions shall guide institutions and planners in establishing standards, allotment of funds, and designing professional development events to ensure that AI tools advance learning motivation and autonomy and not dependency or superficiality.
+
+2 Theoretical background and literature review
+----------------------------------------------
+
+This study draws primarily on three theories: Technology Acceptance Model (TAM), Social Cognitive Theory (SCT), and Self-Determination Theory (SDT). The TAM ([Davis, 1989](#ref32)) posits that two core beliefs, perceived usefulness (PU) and perceived ease of use (PEU), are key determinants of users’ attitudes toward adopting and using technology, which then lead to behavioural intention and actual use ([Tam, 2024](#ref107); [Dahri et al., 2024](#ref28); [Mun et al., 2006](#ref78); [Pan and Jordan-Marsh, 2010](#ref85)) defined PU as the degree to which an individual believes that using a specific technology enhances their performance, while PEU is the degree to which using that technology is free of effort ([Yen et al., 2010](#ref127)). TAM has been widely applied in educational technology studies to explain students’ and teachers’ adoption of e-learning, AI tools, and ICT more broadly. For example, pre-service teachers’ intention to adopt generative AI has been modelled via extended TAM showing strong paths from PU and PEU to behavioral intention ([Şimşek et al., 2025](#ref103); [Falebita and Kok, 2025](#ref38)). Social Cognitive Theory ([Bandura, 1986](#ref12)) emphasizes that learning occurs in a social context with dynamic and reciprocal interaction of person, environment, and behavior. Key in SCT is self-efficacy, the belief in one’s capabilities to organize and execute the courses of action required to manage prospective situations. In education, self-efficacy has been shown to influence motivation, persistence, strategy use, and ultimately learning outcomes. SCT also supports consideration of how trust and agency (agency meaning control, autonomy, or action) influence beliefs and behaviors. Whereas Self-Determination Theory ([Deci and Ryan, 2000](#ref35)) focuses on psychological needs: autonomy, competence, and relatedness. When these needs are satisfied, intrinsic motivation and engagement are higher. In technology-enhanced learning settings, SDT has been used to explore how autonomy support (from tools or instructors) and competence (often via self-efficacy) foster students’ motivation and self-regulated learning. Together, these theories provide a strong foundation for analyzing how perceptions of an AI system (agentic or autonomous AI) combine with beliefs and environmental/psychological supports to predict motivation and behavior. Below is a summary of selected existing studies that examine constructs similar to those in this model (PU, PEU, self-efficacy, autonomy, trust, motivation, behavior with AI or technology in education) ([Table 1](#tab1)).
+
+Table 1
+
+| Study | Context / Sample | Key variables examined | Main findings relevant to our model |
+| [Falebita and Kok (2025)](#ref38) | Undergraduates in STEM / higher ed | PEU, PU, self-efficacy, attitudes toward AI tools | PEU significantly influences PU; both PEU and PU predict attitudes and readiness; self-efficacy mediates or moderates adoption. |
+| [Şimşek et al. (2025)](#ref103) | Pre-service teachers | PU, PEU, Learning Motivation, metacognitive self-regulation | PU and PEU strong predictors of intention; Learning Motivation mediates relationships; PEU influences PU significantly. |
+| [Chen et al. (2025)](#ref22) | Undergrad students in China | Novelty-seeking, self-efficacy, PU, PEU, attitude to robots | Self-efficacy enhances PEU; PU and PEU predict attitude and intention toward a novel AI technology. |
+| [Zhang et al. (2023)](#ref130) | Pre-service teachers | PU, PEU, intention to use AI | PU and PEU significantly affect intention; PU has stronger effect. |
+| [Xia et al. (2023)](#ref121) | Grade 9 students in K-12 | Autonomy, competence (psychological needs), AI knowledge | Autonomy and competence needs support SRL with AI; effects moderated by gender and AI knowledge. |
+| [Khan et al. (2024)](#ref68) | Public sector / operators | Trust in AI, AI self-efficacy, intent to adopt decisions | Trust influences self-efficacy which in turn predicts behavioral intention; importance of trust and efficacy. |
+| [Tuffahati and Nugraha (2021)](#ref109) | Students using Google Classroom | PU, PEU, learning motivation | Both PU and PEU have significant positive effects on learning motivation; PU tends to have stronger effect. |
+| [Massaty et al. (2024)](#ref75) | Students across levels and disciplines | AI tools, computational thinking, self-efficacy | AI tools help boost self-efficacy; stronger effects when tools adapt to learner and provide scaffolding; implications for designing AI to support competence. |
+
+Summary of prior empirical studies Related to technology acceptance.
+
+These studies collectively indicate that PU and PEU are robust predictors of attitudes/intentions/usage in educational contexts involving AI or other technologies; that self-efficacy is a critical mediator, especially under SCT; that autonomy and psychological need satisfaction (from SDT) matter for motivation and self-regulated/self-directed learning; and that trust (in AI or technology) is increasingly being included, showing importance. Given the precedents, this study includes the following key latent variables, each of which has theoretical and empirical rationale:
+
+* Perceived Agency of AI: This captures how much students believe the AI tool acts adaptively, initiatively, or independently. While fewer studies have directly measured agencies, related notions of autonomy support, control, or adaptivity are emerging ([Hidayat-ur-Rehman, 2024](#ref57)). Agentic properties may enhance users perceived usefulness, self-efficacy, and autonomy, aligning with both SCT and SDT.
+* Perceived Usefulness (PU): Central in TAM, PU reflects beliefs about performance enhancement ([Pan and Jordan-Marsh, 2010](#ref85); [Yen et al., 2010](#ref127)). In education, believing a tool will help in academic performance strongly influences motivation and uptake. Seen in many studies above (e.g., generative AI in teacher studies; Google Classroom; technology readiness). High PU likely boosts self-efficacy (believing the tool will help me succeed), autonomy perception, and motivation.
+* Perceived Ease of Use (PEU): Also central in TAM, PEU influences PU and reduces barriers. When a tool is easy to use, students can focus on learning rather than struggling with interface or interaction difficulties ([Venkatesh, 2000](#ref113)). PEU is often a predictor of PU and of attitude or intention. Empirically, studies show PEU → PU strongly. It may also contribute to self-efficacy by lowering perceived obstacles.
+* Trust in AI: Trust is about belief in recommendations, decisions, reliability, and integrity (privacy, fairness) ([Flavián and Guinalíu, 2006](#ref40)). Trust enhances willingness to rely on AI suggestions, accept guidance, and engage in deeper interactions. Under SCT, trust influences beliefs about how well one can use the system ([Lauer and Deng, 2007](#ref70)). It also moderates or mediates relationships between perceptions and behavior in some literature.
+* Autonomy Support: Coming from SDT, autonomy support refers to environment or tool features that let learners make decisions, choose strategies, pacing etc. ([Núñez and León, 2015](#ref82)). When students feel supported in autonomy, their intrinsic motivation is stronger. Autonomy support also helps satisfy the psychological need for autonomy ([Yuan and Kim, 2018](#ref128)).
+* AI-Supported Self-Efficacy: Under SCT, self-efficacy is vital: believing one can succeed when using AI tools will drive both motivation and behavior. AI support can enhance this by scaffolding, feedback, adaptivity.
+* Self-Learning Motivation: Reflects intrinsic drive, interest, enjoyment, responsibility for learning. Motivational constructs are outcomes in SDT of psychological need satisfaction (autonomy, competence). Motivation is often the proximal predictor of behavior.
+* Self-Learning Behavior: The ultimate outcome—observable or self-reported behaviors of taking initiative, exploring resources, managing own learning, engaging independently with AI tools.
+
+Integrating these variables under TAM, SCT, and SDT yields a model in which perceptions of AI agency, usefulness, ease of use, plus trust and autonomy support, build self-efficacy, which strengthens motivation (especially intrinsic), leading to self-learning behavior. Each element is supported by prior literature (see [Table 2](#tab2)), though typically in simpler models; relatively few studies simultaneously integrate perceived agency and autonomy support with TAM and self-efficacy and link through to behavior ([Figure 1](#fig1)).
+
+Table 2
+
+| S. No. | Construct (Latent variable) | Code | Description |
+| 1 | Perceived Agency | PA1–PA4 | Extent to which students perceive the AI tool as acting independently or adaptively. |
+| 2 | Perceived Usefulness | PU1–PU4 | Degree to which a student believes using AI enhances learning performance. |
+| 3 | Perceived Ease of Use | PEU1–PEU4 | Level of effort students associate with using the AI system. |
+| 4 | Trust in AI | TA1–TA4 | Students trust in AI-based recommendations and decisions. |
+| 5 | Autonomy Support | AS1–AS4 | Extent to which AI allows students to make their own learning decisions. |
+| 6 | AI-Supported Self-Efficacy | SE1–SE4 | Students have confidence in achieving academic goals with AI support. |
+| 7 | Intrinsic Motivation | IM1–IM4 | Student’s internal drive to learn when using AI systems. |
+| 8 | Self-Directed Learning Behavior | SDLB1–SDLB4 | Observable learner behaviors related to independent learning using AI. |
+| 9 | Behavioral Intention to Use AI | BI1–BI3 | Likelihood of continuing to use AI for learning in the future. |
+
+Constructs, codes, and descriptions.
+
+Figure 1
+
+![]()
+
+
+
+Proposed research model.
+
+
+
+### 2.1 Perceived usefulness and AI-supported self-efficacy
+
+Perceived usefulness (PU), the pivotal construct in the Technology Acceptance Model (TAM), defines the extent to which a user feels that the usage of a system will improve performance ([Dahri et al., 2024](#ref28); [Davis, 1989](#ref32)). In learning settings, if a student finds an AI tool useful to learning or knowledge attainment, such belief reinforces confidence in using it to perform sophisticated tasks ([Shahzad et al., 2024](#ref100); [Lin and Chen, 2024](#ref71)). From the point of view of Social Cognitive Theory (SCT), self-efficacy construct arises in combination with mastery experiences with perceived helping structures: if users have the belief that a system will improve outcomes ([Igbaria and Iivari, 1995](#ref63); [Compeau and Higgins, 1995](#ref24)), they develop faith in their abilities to perform tasks with the help of that system. In the domain of agentic AI — systems that adapt, guide, or precipitate help, the significance of perceived usefulness (PU) becomes elevated: an AI that users believe to be useful shall likely be considered to collaborate well and hence strengthen the student’s belief in ability to perform (AI-based self-efficacy). Experimental research relating to the adoption of AI supports this correlation. For example, in research on students’ adoption of AI, PU significantly and positively influenced self-efficacy and also mediated the relation between them with behavioral intention ([Musyaffi et al., 2024](#ref81)). In research on humanoid robots in learning contexts, the higher the perception of usefulness among students, the greater the self - efficacy in communication with those systems of AI ([Compeau and Higgins, 1995](#ref24); [Jia et al., 2014](#ref65)). In the context of acceptance of AI among teachers, self efficacy was related to perceived gains and trust, so that faith in usefulness affects confidence in using tools of AI ([Viberg et al., 2024](#ref116)). Therefore, in our integrated model—in which Agentic AI presents choices, timely scaffolds, and adaptive intellect, if students also believe that the AI actually enhances their learning, then students’ AI-enabled self-efficacy should grow. So, we propose:
+
+> *H1*: Perceived usefulness positively affects AI-supported self-efficacy.
+
+### 2.2 Perceived ease of use and AI-supported self-efficacy
+
+Perceived ease of use (PEU), another foundational TAM construct, denotes how effortless or free of effort the user expects interacting with the system will be ([Davis, 1989](#ref32)). In educational technology settings, a user who anticipates few obstacles in navigating, commanding, or interpreting AI features can devote more cognitive resources to substantive learning rather than interface struggle. According to SCT, lower perceived barriers (i.e., easier use) lower anxiety and increase the sense of control, thereby contributing to enhanced self-efficacy. When combined with agentic AI, the ease of use becomes even more critical: if an AI system operates autonomously, makes intuitive decisions, and has a smooth interaction interface, users are more likely to perceive it as supportive rather than burdensome, reinforcing their belief in performing learning tasks effectively with it. Empirical evidence supports this linkage: in the study on humanoid robot acceptance, self-efficacy significantly enhances perceived ease of use, and ease of use in turn predicts attitudes and intention ([Al Darayseh, 2023](#ref1)). In recent work investigating student intentions to use AI, PEU was shown to positively influence students’ self-efficacy and indirectly intention via attitude ([Jeilani and Abubakar, 2025](#ref64); [Almogren et al., 2024b](#ref6)). In teacher acceptance of AI systems, ease of use was strongly associated with higher usability, lower resistance, and increased self-efficacy in utilization ([Al Darayseh, 2023](#ref1)). In nutshell, when students believe AI is easy to use, they feel more capable of harnessing its features, increasing their AI-supported self-efficacy. Therefore, we posit:
+
+> *H2*: Perceived ease of use positively affects AI-supported self-efficacy.
+
+### 2.3 Perceived agency of AI and perceived usefulness
+
+Perceived agency of AI refers to the degree to which a learner views the AI system as capable of acting autonomously making decisions, adapting its behavior, initiating scaffolds or suggestions, rather than merely reacting to user input. When an AI system is perceived to possess such autonomy, users are more likely to ascribe competence and utility to it, thereby influencing their judgments about its usefulness. From a Technology Acceptance Model (TAM) perspective, perceived usefulness is determined partly by the perceived capability of the system to perform tasks effectively. The more agentic an AI appears, the more it may be seen as capable of delivering useful support (e.g., proactively guiding learning, anticipating needs). Social Cognitive Theory further supports this: agency enhances perceived legitimacy of the tool as a collaborator, fostering confidence in its intended benefits. Empirical research in human-AI interaction finds that increasing perceived autonomy or adaptiveness raises user expectations of usefulness (e.g., AI as decision aid; Pathak et al.’s work on AI agents) ([Pathak and Bansal, 2024](#ref87)). Moreover, studies in consumer AI services demonstrate that perceived autonomy or agency supports perceptions of utility and value in technology use ([Han and Ko, 2025](#ref53)). Thus, within the educational context, if students perceive the AI as agentic, they will more readily believe it helps their learning goals, increasing its perceived usefulness. Hence:
+
+> *H3*: Perceived agency of AI positively affects perceived usefulness.
+
+### 2.4 Perceived agency of AI and perceived ease of use
+
+Beyond usefulness, perceived agency also influences the ease with which users believe they can work with the system. If an AI acts autonomously and intelligently, some burdens of decision-making, navigation, or interface complexity may be masked or managed by the system itself, thereby reducing the user’s effort. In TAM theory, when technology seems to reduce required exertion (i.e., effort), it is judged as easier to use. An agentic AI can anticipate learner intentions, present options, and automate background tasks, making interaction more seamless. From an HCI (Human-Computer Interaction) lens, agency and autonomy in design can be leveraged to hide complexity and scaffold interaction, boosting perceived usability (ease). Research in automation and autonomy studies suggests that users interacting with more autonomous systems often perceive lower effort and smoother operation (automation aiding the human) ([Salatino et al., 2025](#ref96)). Studies of AI decision agents show that perceived ease of use is positively influenced by agentic behavior (i.e., the AI “does more” implicitly) ([Pathak and Bansal, 2024](#ref87)). In sum, in our model of AI in education, a more agentic AI is expected to be viewed as easier to engage with, because it lowers cognitive and operational load on learners. Therefore:
+
+> *H4*: Perceived agency of AI positively affects perceived ease of use.
+
+### 2.5 Perceived agency of AI and autonomy support
+
+One of the central promises of agentic AI in education is to enhance learners’ autonomy: giving them choices, guiding without over-controlling, responding to learner preferences, and supporting self-directed pathways. Autonomy support, derived from Self-Determination Theory (SDT), refers to the extent to which the environment or tool permits learners to make decisions, select strategies, and feel control over their process. When an AI is perceived as agentic, learners may interpret its adaptability and initiative as granting them freedom—because the AI can adjust to their chosen path without rigid constraints. In that way, agency in the system translates into psychological autonomy support. Theoretical perspectives on human–technology agency show that as a system becomes more agentic, it can serve as an enabler of human autonomy rather than a constraining tool (i.e., co-agent rather than master) ([Faas et al., 2024](#ref37)). Empirical work in human-AI collaboration shows that when users feel restricted by AI choices (e.g., limited options), perceived autonomy declines and intrinsic motivation suffers ([Bennett et al., 2023](#ref15)). In contrast, AI systems designed with shared autonomy tend to preserve or enhance the human sense of autonomy. In line with this, we argue that higher perceived agencies in AI will lead students to feel more autonomy support from the system. Therefore:
+
+> *H5*: Perceived agency of AI positively influences autonomy support.
+
+### 2.6 Trust in AI and AI-supported self-efficacy
+
+Trust in artificial intelligence (AI) encapsulates learners’ conviction that the AI system will operate reliably, offer accurate recommendations, safeguard privacy, and prioritize the learner’s best interests, rather than deceive or function improperly ([Lauer and Deng, 2007](#ref70)). Within the framework of Social Cognitive Theory, trust has the potential to impact self-efficacy, as a tool regarded as trustworthy mitigates uncertainty, anxiety, and perceived risk, thereby enhancing confidence in its utilization. In educational contexts, when students place their trust in an AI agent, they are more inclined to explore, make errors, and engage profound elements that foster belief in their capability to succeed with AI ([Suriano et al., 2025](#ref106); [Gu et al., 2024](#ref46)). In relation to agentic AI—systems capable of autonomous action—the significance of trust becomes increasingly paramount: if students perceive the AI as both competent and trustworthy, they are more likely to have faith in their ability to collaborate effectively with it ([Bedué and Fritzsche, 2022](#ref14)). Empirical studies reinforce this notion: in the realm of public sector AI adoption, trust in AI positively impacted AI self-efficacy and mediated the influence of perceived system characteristics on behavioral intention ([Khan et al., 2024](#ref68)). In investigations of technology adoption, trust in automated systems bolsters user confidence and their readiness to depend on these systems, which reinforces stronger self-efficacy beliefs (for instance, in human-robot interaction and driver assistance systems). Consequently, in our model, we propose that trust in AI will positively influence students’ AI-supported self-efficacy. Thus:
+
+> *H6*: Trust in AI positively affects AI-supported self-efficacy.
+
+### 2.7 Trust in AI and self-learning motivation
+
+In addition to acting upon efficacy beliefs, trust in AI may have a more immediate impact upon self-learning motivation. From an SDT perspective, intrinsic motivation among learners is nurtured where learners perceive the learning environment (or instrument) as reliable, caring, and non-controlling ([Wong et al., 2024](#ref119)). In so far as students have confidence in the AI, students shall more likely accept its suggestions, follow its guidance, sense psychological protection, and value the learning alliance, thereby kindling intrinsic motivation. In addition, trust reduces cognitive and affective friction (e.g., concern over errors, excessive bias, misuse of data), freeing up cognitive and affective resources to devotedly ponder over learning targets and less over doubts about the system ([Shi and Zhang, 2025](#ref102); [Wu et al., 2024](#ref120)). In the Agentic AI scenario, where the system had the potential to intervene proactively or suggest, trust is a necessity; in its place, users might resist or distrust intervention and thereby disengage ([Murugesan, 2025](#ref80); [Hughes et al., 2025](#ref62)). Empirical research on AI and human–machine systems parallels this: confidence in autonomous agents positively correlates with user engagement and acceptance that have high correlations with motivation ([Murugesan, 2025](#ref80); [Vanneste and Puranam, 2024](#ref111)). In educational AI adoption studies, trust has also been shown to have an impact upon motivational constructs such as enjoyment, satisfaction, and continuing intent to utilize the system. On this basis, we suggest that trust in AI will have a positive influence upon self-learning motivation in our model. Hence:
+
+> *H7*: Trust in AI positively affects self-learning motivation.
+
+### 2.8 Autonomy support and self-learning motivation
+
+Autonomy support—rooted in Self-Determination Theory (SDT)—refers to the extent to which the learning environment or tool enables learners to make choices, follow their interests, and feel volitional in their actions ([Deci and Ryan, 2000](#ref35)). SDT meta-analytic and intervention evidence shows that autonomy-supportive contexts reliably increase intrinsic motivation and need satisfaction (autonomy and competence), which in turn foster engagement and deeper learning ([Howard et al., 2025](#ref59); [Wang, 2024](#ref117)). In AI-mediated learning, agentic AI has the potential to be autonomy-supportive when it adapts to learner preferences, offers meaningful choices (what to learn, when, and how), and scaffolds rather than controls the learning path; such design aligns AI activity with SDT’s autonomy need and can promote intrinsic self-learning motivation ([Howard et al., 2025](#ref59); [Saleh, 2025](#ref97)). Empirical work demonstrates that autonomy support—whether provided by teachers, instructional design, or adaptive technologies—predicts agentic engagement and increases students’ willingness to take initiative in learning ([Reeve, 2013](#ref91); [Reeve and Shin, 2020](#ref92)). In AI contexts, learners who perceive the system as supporting their agency report higher interest, enjoyment, and persistence, because the tool both reduces external controls and enhances perceived competence through tailored scaffolding ([Patall et al., 2022](#ref86)). Thus, when an AI system is experienced as enabling choice and self-direction (i.e., autonomy support), intrinsic motives for self-learning are strengthened, producing more sustained and self-regulated engagement. On this theoretical and empirical basis, we posit:
+
+> *H8*: Autonomy support positively influences self-learning motivation.
+
+### 2.9 AI-supported self-efficacy and self-learning motivation
+
+Self-efficacy—beliefs in one’s ability to plan and take actions to achieve desired results—is a core construct in Social Cognitive Theory ([Bandura, 1986](#ref12)) and a potent antecedent of motivation and perseverance. In technology-enhanced learning, AI-enabled self-efficacy refers to learners’ beliefs in achieving academic intentions with the help of AI tools ([Hughes et al., 2025](#ref62); [Saleh, 2025](#ref97)). From theory, self-efficacy promotes intrinsic motivation because learners who have confidence see tasks as manageable, set ambitious goals, and understand setbacks as temporary setbacks that allow them to rebound, and so maintain interest and effort ([Bandura and Schunk, 1981](#ref13)). Agentic AI boosts efficacy via timely, personalized feedback, scaffolds, and just-in-time guidance—mechanisms that produce mastery experiences and vicarious learning chances (by watching solutions or demonstrations), both of which enhance efficacy beliefs ([Yang et al., 2025](#ref125)). Recent experiments document that AI-based personalization and adaptive feedback significantly bolster students’ self-efficacy, and that high AI self-efficacy goes along with high engagement and learning motivation ([Shi and Zhang, 2025](#ref102); [Lyu and Salam, 2025](#ref74)). In addition, systematic reviews on AI learning tools conclude that more substantial efficacy gains result in interactive and explainable systems, since explainability diminishes uncertainty and reinforces learners’ feelings of competence ([Lyu and Salam, 2025](#ref74); [Zhou et al., 2025](#ref132)). With this theory-guided and evidential background, we anticipate that AI-enabled self-efficacy will be a direct positive antecedent of intrinsic self-learning motivation. Hence:
+
+> *H9*: AI-supported self-efficacy positively influences self-learning motivation.
+
+### 2.10 Self-learning motivation and self-learning behavior
+
+Throughout motivation and self-regulation research, intrinsic motivation is a proximal predictor of self-regulated learning behaviors—planning, strategy use, persistence, exploration, and initiative ([Xu et al., 2023](#ref123); [Chen, 2022](#ref21)). SDT and SCT both converge on the proposition that motivated learners (intrinsically interested and volitionally engaged) who also perceive efficacy will engage in behaviors that characterize autonomous learning (forethought, monitoring, and reflection) and in so doing produce behaviorally observable self-learning actions ([Glenn, 2018](#ref45)). In AI-enabled settings, agentive systems have the potential to magnify that translation from motivation to behavior by suggesting resources, stimulating reflection, and easing friction on exploratory behaviors—thus converting motivation to tangible learning behaviors ([Bandi et al., 2025](#ref11); [Hosseini and Seilani, 2025](#ref58)) ([Figure 2](#fig2)). Experimental research on SRL and motivation also reports that motivation predicts autonomous study frequency, resource access, and persistence on self-directed tasks ([ZabihiAtergeleh et al., 2025](#ref129)). Recent research on AI education also supports this pathway: students reporting stronger intrinsic motivation in adaptive AI later showed more initiative, exploratory behavior, and independent problem solving ([Liu, 2025](#ref73); [Zhao et al., 2025](#ref131)). Hence, in line with theory and data, we speculate that motivation will positively predict observable self-learning behavior in AI settings. Thence:
+
+Figure 2
+
+![]()
+
+
+
+Relationships (proposed research hypothesis) model.
+
+
+
+*H10*: Self-learning motivation positively leads to self-learning behavior.
+
+3 Methodology
+-------------
+
+### 3.1 Research design
+
+In this study, a quantitative research design was adopted to investigate relationships between perceived agency of AI, perceived usefulness, perceived ease of use, trust in AI, AI-supported self-efficacy, autonomy support, self-learning motivation, and self-learning behavior. Quantitative methodology was appropriate to test hypothesized relationships and confirm a conceptual model with the assistance of statistical analysis ([Creswell and Hirose, 2019](#ref25)). As the purpose of this research was to test proposed model and interrelationships between the latent constructs in an empirical fashion, Structural Equation Modeling (SEM) was used. SEM allows the concurrent testing of multiple associations between latent factors and yields results superior to traditional regression-based methods ([Sarstedt et al., 2021](#ref98); [Hair Jr et al., 2021](#ref48)). SmartPLS 4 software was used to conduct Partial Least Squares SEM (PLS-SEM), which excels especially in the case of exploratory and predictive research with intricate models and comparatively small populations in populations ([Hair Jr et al., 2021](#ref48)). PLS-SEM was selected over covariance-based SEM owing to its capability to accommodate non-normal distributions of data, its stability with small populations, and its concern with explained variance maximization ([Hair et al., 2019](#ref52)). Measurement and structural facets comprise the model, with the former defining the validity and reliability of the constructs and the latter investigating hypothesized relationships between constructs. Study design was of the cross-sectional kind with data acquisition at a single point in time from individuals in the higher education sector in Saudi Arabia. This scenario was shortlisted in the light of fast-paced digital transformation efforts in Vision 2030, that give primacy to the importance of AI-based learning and technology-based staff development ([Aldegether, 2020](#ref3)). This research deals with understanding educators’ self-learning behaviors in terms of influence from agentic AI with psychological and technological mediators and encapsulates a modern and contemporary research concern.
+
+### 3.2 Data collection and sample
+
+Data were gathered from teaching staff members and faculties in Saudi Arabian universities using a structured questionnaire in Google Forms. This approach was selected due to its effectiveness in reaching geographically separated respondents and maintaining anonymity and convenience ([Bryman, 2016](#ref18)). A non-probability purposive sampling scheme was used, with targets set on respondents who had experience utilizing AI-enabled learning tools (like ChatGPT, AI tutor, or adaptive learning systems) to teach or to undergo professional development. A total of 320 questionnaires were put into distribution, with 280 valid observations being shortlisted for final analysis after data screening. The size of the sample satisfies the prerequisite to apply PLS-SEM analysis since [Hair Jr et al. (2021)](#ref49) suggest at least 10 times the highest number of structural paths with an end point on a construct. Demographic characteristics of respondents revealed that 58% were male, and 42% were female, with an average teaching experience of 7 years, and all the respondents had previous exposure to learning settings with AI assistance. Prior to the main questionnaire, a pilot study was carried out with 40 respondents to check the clearness, dependability, and face validity of the instrument. Responses guided minor adjustments in the phrasing of the items. Pilot analysis revealed Cronbach’s alpha ratings exceeding 0.80 in all the constructs, representing high internal consistency ([Nunnally and Bernstein, 1994](#ref83)). In dealing with ethical matters, informed consent was undertaken with all the participants with the aspect of voluntary participation, data confidentiality, and anonymity highlighted. No personally identifiable data were gathered. Study protocol was reviewed and cleared by the research ethics committee, and it was in line with institutional and country-based ethical guidelines ([Alwakid and Dahri, 2025](#ref8)).
+
+### 3.3 Questionnaire development and validation
+
+The questionnaire was constructed from validated scales in the literature which were modified in the case of AI-supported self-learning in the tertiary level see [Table 2](#tab2) with constructs information. The questionnaire consisted of seven latent constructs which were operationalized with multiple reflective indicators in five-point Likert scale (1 = strongly disagree, 5 = strongly agree). Items from perceived usefulness and perceived ease of use were drawn from ([Davis, 1989](#ref32); [Venkatesh and Davis, 2000](#ref114)). Items from perceived AI were drawn from recent work in Agentic AI in learning. Trust in AI used items drawn from ([Choung et al., 2023](#ref23)). Items from AI-supported self-efficacy were drawn from ([Compeau and Higgins, 1995](#ref24)). Items from ([Ryan and Deci, 2020](#ref95)). Were utilized in order to operationalize the construct of autonomy support. Self-learning behavior and self-learning motivation were drawn from ([Zimmerman, 2000](#ref133)).
+
+The content validity of the instrument was established with the guidance of five professionals in the fields of educational technology and integration of AI. Their suggestions ensured the relevancy, breadth, and clarity of the measurement items. Construct validity was then established through confirmatory factor analysis (CFA) with SmartPLS. To confirm common method bias (CMB), procedural and statistical fixes were also employed. Procedurally, the anonymity was ensured, and the word order in the items was randomly scrambled. Statistically, Harman’s single-factor test indicated less than 40% explained variance in the first factor, and thus, CMB was not a serious concern ([Podsakoff et al., 2003](#ref88)). Furthermore, the full collinearity VIF values were below 3.3, which confirmed the minimal presence of multicollinearity and CMB issues ([Kock, 2015](#ref69)).
+
+### 3.4 Data analysis procedure
+
+Data analysis was conducted in two primary phases: measurement model evaluation and structural model evaluation, in alignment with [Hair and Alamer (2022)](#ref47). (1) Measurement Model Analysis: Construct reliability and validity were initially assessed. Internal consistency reliability was determined through Cronbach’s alpha and Composite Reliability (CR), with all above the cut-off value of 0.70. Convergent validity was confirmed from the Average Variance Extracted (AVE), with values above 0.50 for all the constructs. Discriminant validity was assessed from the Fornell–Larcker criterion and the Heterotrait–Monotrait (HTMT) ratio, confirming satisfactory distinctiveness among the constructs ([Henseler et al., 2015](#ref56)). (2) Structural Model Analysis: Following the Verification of the measurement model, the structural model was used to test the hypothesized associations. The bootstrapping procedure (5,000 resamples) was used for the estimation of the path coefficients, t-values, and *p*-values for the purpose of testing the hypotheses. The coefficient of determination (R2) and effect size (f2) were computed in order to assess the explanatory and practical value of the model. Moreover, the predictive relevance (Q2) values were also explored with the aid of the blindfolding procedure, signifying the predictive capability of the model ([Hair et al., 2019](#ref52)). It was noted with great emphasis that every one of the hypothesized paths under consideration was found to be significant, thus providing strong empirical support for the proposed associations that exist among perceptions of agentic AI, trust levels, self-efficacy, motivation, and self-learning behavior. The model that was utilized in this study exhibited a high degree of explanatory value, as demonstrated by the R2 estimates for the main endogenous variables, which include AI-supported self-efficacy, support for autonomy, and self-learning behavior, all of which were reported to be above 0.60. This level of R2 indicates a very high degree of predictive accuracy. The rationale underlying this research ensured that there was a careful, reliable, and ethically justified empirical exploration conducted regarding the manner in which agentic AI and the associated psychological constructs exert their influence on teachers’ self-learning behavior. When combined with the validated measurement instrument, an adequately sufficient sample size, along with superior statistical modeling made possible through SmartPLS 4, the findings derived from this research are significantly reinforced in terms of both validity and generalizability.
+
+4 Results
+---------
+
+### 4.1 Demographic information of respondents
+
+[Table 3](#tab3) gives the demographic profile of the respondents of this research (*N =* 256). (1) Gender information of the students; Male students (*n =* 138, 53.9%) and female students (*n =* 112, 43.8%) made up the sample with 6 respondents (*n =* 2.3%) who refused to indicate gender. (2) In age distribution, the majority of the participants were in the age group of 21 to 25 (*n =* 142, 55.5%), followed by those in the age group of 26–30 (*n =* 60, 23.4%) and those under 20 (*n =* 32, 12.5%), and those over 30 (*n =* 22, 8.6%) years old. (3) By academic level, the majority of them enrolled in undergraduate (*n =* 134, 52.3%) programs, while graduate students were (*n =* 78, 30.5%) and postgraduate students were (*n =* 44, 17.2%) level. (4) By field of specialization, Education had the greatest number of students (*n =* 92, 35.9%), Computer Science/Information Technology was (*n =* 68, 26.6%), followed by those in Engineering (*n =* 47, 18.4%), those in Business/Management (*n =* 31, 12.1%), and others (*n =* 18, 7.0%). In addition, the majority of the respondents (*n =* 187, 73.0%) indicated that they had prior exposure to the use of AI tools, while 69 respondents (*n =* 27.0%) who self-identified that they had been first-time users of these tools. In summary, the representation of the demographic data reveals a balanced and full set of students with diversified disciplines, level of schooling, and experience with the technology of AI ([Table 3](#tab3)).
+
+Table 3
+
+| Variable | Category | Frequency (N) | Percentage (%) |
+| Gender (DQ1) | Male | 138 | 53.9 |
+| Female | 112 | 43.8 |
+| Prefer not to say | 6 | 2.3 |
+| Age (DQ2) | Below 20 | 32 | 12.5 |
+| 21–25 | 142 | 55.5 |
+| 26–30 | 60 | 23.4 |
+| Above 30 | 22 | 8.6 |
+| Level of Study (DQ3) | Undergraduate | 134 | 52.3 |
+| Graduate | 78 | 30.5 |
+| Postgraduate | 44 | 17.2 |
+| Field of Study (DQ4) | Education | 92 | 35.9 |
+| Computer Science / IT | 68 | 26.6 |
+| Engineering | 47 | 18.4 |
+| Business / Management | 31 | 12.1 |
+| Others | 18 | 7.0 |
+| Used AI Tools Before (DQ5) | Yes | 187 | 73.0 |
+| No | 69 | 27.0 |
+
+Demographic profile of participants (*N =* 256).
+
+The findings identify a general positive sentiment towards the implementation of AI technologies in learning processes. Students’ interaction with tools based on AI (GAI1) averaged at 4.12 (SD = 0.83), which means most respondents were regularly exposed to AI implementations in their learning activities. Believing that AI technologies can facilitate learning experiences (GAI2) marked the highest average score at 4.36 (SD = 0.76), which indicates high agreement among students in the learning potential and value of AI implementation. Trust in utilizing AI-driven learning platforms (GAI3) is also rated high with an average score of 4.05 (SD = 0.88), which indicates students commonly feel assured and capable of operating and utilizing AI-driven tools properly. Overall, these findings indicate that students not only comprehend the potential benefit of AI in improving their learning but are also ready and willing to use such technologies. The high mean scores in all the statements indicate that the adoption of AI in higher learning will be very acceptable if learning organizations implement enough training and infrastructural support. Such findings have practical implications for the learning policymakers and organizations with an interest in the incorporation of AI technologies in learning and instruction practices, and they speak directly to the value in having both digital competence and positive user attitude in achieving the maximum pedagogical benefit from the incorporation of AI ([Table 4](#tab4)).
+
+Table 4
+
+| Item code | Statement | Mean | SD |
+| GAI1 | I have interacted with AI-based tools during my studies. | 4.12 | 0.83 |
+| GAI2 | I believe AI technologies can enhance my learning experience. | 4.36 | 0.76 |
+| GAI3 | I feel confident using AI-powered educational platforms. | 4.05 | 0.88 |
+
+General AI in education perceptions.
+
+### 4.2 Measurement model results
+
+The measurement model was also validated in order to confirm that the constructs employed in the current work were reliable and valid for moving towards the structural model assessment. The measurement comprised testing the reliability of the indicators, internal consistency reliability, convergent validity, and multicollinearity with the SmartPLS 4 software. Here, the guidelines proposed by [Hair Jr et al. (2021)](#ref49) and [Sarstedt et al. (2021)](#ref98) were also followed in order to report the PLS-SEM.
+
+#### 4.2.1 Indicator reliability and multicollinearity
+
+[Table 5](#tab5) displays the standardized factor loadings and the respective Variance Inflation Factor (VIF) values for all measurement items. As can be illustrated, all loadings for the items are in the range from 0.755 up to 0.885, which are all above the threshold of 0.70 ([Hair Jr et al., 2021](#ref49)), meaning each item sufficiently represents its respective latent construct. In addition, all the values for VIF are less than 3.3, which verifies that no multicollinearity problem prevails among the indicators ([Diamantopoulos and Siguaw, 2006](#ref36)). These findings verify that all the items possess high individual reliability and that each construct captures a different conceptual dimension without redundancy.
+
+Table 5
+
+| Construct | Items | Loadings | VIF |
+| AI-Supported Self-Efficacy (AISS) | AISS01 | 0.755 | 1.518 |
+| AISS02 | 0.791 | 1.674 |
+| AISS03 | 0.843 | 1.865 |
+| AISS04 | 0.816 | 1.758 |
+| Autonomy Support (AS) | AS01 | 0.807 | 1.779 |
+| AS02 | 0.849 | 2.125 |
+| AS03 | 0.850 | 2.207 |
+| AS04 | 0.836 | 1.994 |
+| Perceived Agency (PA) | PA01 | 0.849 | 1.957 |
+| PA02 | 0.821 | 1.867 |
+| PA03 | 0.796 | 1.680 |
+| PA04 | 0.816 | 1.830 |
+| Perceived Ease of Use (PEU) | PEU01 | 0.789 | 1.703 |
+| PEU02 | 0.854 | 2.063 |
+| PEU03 | 0.881 | 2.534 |
+| PEU04 | 0.824 | 2.020 |
+| Perceived Usefulness (PU) | PU01 | 0.854 | 2.331 |
+| PU02 | 0.885 | 2.753 |
+| PU03 | 0.824 | 1.968 |
+| PU04 | 0.827 | 1.846 |
+| Self-Learning Behavior (SLB) | SLB01 | 0.793 | 1.489 |
+| SLB02 | 0.823 | 1.536 |
+| SLB03 | 0.851 | 1.623 |
+| Self-Learning Motivation (SLM) | SLM01 | 0.773 | 1.619 |
+| SLM02 | 0.829 | 1.847 |
+| SLM03 | 0.828 | 1.933 |
+| SLM04 | 0.777 | 1.555 |
+| Trust in AI (TAI) | TAI01 | 0.815 | 1.370 |
+| TAI02 | 0.865 | 2.182 |
+| TAI03 | 0.848 | 2.079 |
+| TAI04 | 0.805 | 1.666 |
+
+Indicator loadings and VIF values.
+
+All factor loadings exceeded 0.70, ensuring satisfactory indicator reliability, while VIF values ranged between 1.37 and 2.75, confirming the absence of multicollinearity concerns.
+
+#### 4.2.2 Internal consistency reliability and convergent validity
+
+Measurement model reliability was also analysis using Cronbach’s alpha (*α*) and Composite Reliability (CR). As indicated in [Table 6](#tab6), all Cronbach’s alpha values were in the range from 0.762 to 0.869, all below the threshold value of 0.70 ([Nunnally and Bernstein, 1994](#ref83)), and all CR values were in the range from 0.863 to 0.911, all below the threshold value of 0.70 ([Hair Jr et al., 2021](#ref49)). These findings of the study confirm that each construct shows satisfactory reliability, which means the items are consistently measuring their respective latent constructs. We also analyzed the convergent validity based on the Average Variance Extracted (AVE). The AVE values for all the constructs were in the range from 0.643 to 0.719, all below the threshold value of 0.50 ([Fornell and Larcker, 1981](#ref41)), which indicates that more than 50% of the variance in each construct is explained by its indicators. Thus, the measurement items sufficiently converge onto their respective constructs and thus establish convergent validity.
+
+Table 6
+
+| Construct | Cronbach’s α | Composite reliability (CR) | AVE |
+| AI-Supported Self-Efficacy (AISS) | 0.815 | 0.878 | 0.643 |
+| Autonomy Support (AS) | 0.856 | 0.903 | 0.698 |
+| Perceived Agency (PA) | 0.838 | 0.892 | 0.673 |
+| Perceived Ease of Use (PEU) | 0.858 | 0.904 | 0.702 |
+| Perceived Usefulness (PU) | 0.869 | 0.911 | 0.719 |
+| Self-Learning Behavior (SLB) | 0.762 | 0.863 | 0.677 |
+| Self-Learning Motivation (SLM) | 0.815 | 0.878 | 0.643 |
+| Trust in AI (TAI) | 0.816 | 0.879 | 0.646 |
+
+Construct reliability and convergent validity.
+
+These results collectively indicate that the measurement model shows excellent internal consistency and convergent validity. All the reliability coefficients and AVE are well above conventional cut-offs, thereby confirming that the latent constructs are properly measured and the indicators appropriately capture their theoretical domains. The measurement model testing indicates all the constructs in this study exhibit strong psychometric properties and satisfy the threshold recommendation for indicator reliability, internal consistency reliability, and convergent validity. Hence, the measurement model can be deemed appropriate for proceeding with discriminant validity testing (through Fornell–Larcker and HTMT criteria) and further structural model investigation.
+
+##### 4.2.2.1 Discriminant validity
+
+Discriminant validity was also assessed with two well-known criteria — the Heterotrait–Monotrait ratio (HTMT) and the Fornell–Larcker criterion — in order to verify that each construct in the model is empirically unique. [Table 7](#tab7) shows the results, which reveal that all values for HTMT are strongly below the conservative cut-off value of 0.85 ([Henseler et al., 2015](#ref56)), thus ensuring satisfactory discriminant validity. In particular, the inter-construct correlations were from 0.47 (TAI–AISS) and 0.54 (SLM–TAI), up to 0.83 (PEU–AISS and PU–PA), which implies that while some constructs are moderately correlated (e.g., PEU–AISS = 0.81, PU–PA = 0.80), the values stay in the acceptable range and reflect the theoretical relatedness among constructs without duplication. The lower, but still quite acceptable, values for HTMT among the constructs like TAI–AISS (0.47), and SLM–TAI (0.54).
+
+Table 7
+
+|  | AISS | AS | PA | PEU | PU | SLB | SLM | TAI |
+| AISS |  |  |  |  |  |  |  |  |
+| AS | 0.572 |  |  |  |  |  |  |  |
+| PA | 0.54 | 0.682 |  |  |  |  |  |  |
+| PEU | 0.81 | 0.683 | 0.71 |  |  |  |  |  |
+| PU | 0.613 | 0.705 | 0.801 | 0.708 |  |  |  |  |
+| SLB | 0.833 | 0.563 | 0.558 | 0.801 | 0.617 |  |  |  |
+| SLM | 0.631 | 0.574 | 0.814 | 0.51 | 0.671 | 0.634 |  |  |
+| TAI | 0.474 | 0.806 | 0.646 | 0.644 | 0.607 | 0.491 | 0.544 |  |
+
+HTMT matrix.
+
+The Fornell–Larcker criterion outcomes also offered strong support for discriminant validity ([Table 8](#tab8)). In all the constructs, the square root of the AVE (the diagonal values) was more than the respective inter-construct correlations (off-diagonal values), thus verifying the fact that each construct shares more variance with its indications than with other constructs ([Fornell and Larcker, 1981](#ref41)). For example, the square root of the AVE for AI-supported self-efficacy (AISS) (0.802) is more than its correlation with other constructs like AS (0.477) and PA (0.449) and thus verifies discriminant distinctiveness. In the same respect, Trust in AI (TAI) (√AVE = 0.804) is more than its correlation with SLM (0.447) and PU (0.516) and thus verifies that TAI indicates a unique theoretical dimension.
+
+Table 8
+
+|  | AISS | AS | PA | PEU | PU | SLB | SLM | TAI |
+| AISS | 0.802 |  |  |  |  |  |  |  |
+| AS | 0.477 | 0.836 |  |  |  |  |  |  |
+| PA | 0.449 | 0.579 | 0.82 |  |  |  |  |  |
+| PEU | 0.682 | 0.584 | 0.604 | 0.838 |  |  |  |  |
+| PU | 0.518 | 0.609 | 0.689 | 0.614 | 0.848 |  |  |  |
+| SLB | 0.969 | 0.453 | 0.446 | 0.652 | 0.504 | 0.823 |  |  |
+| SLM | 0.518 | 0.483 | 0.764 | 0.431 | 0.567 | 0.504 | 0.802 |  |
+| TAI | 0.386 | 0.672 | 0.535 | 0.532 | 0.516 | 0.387 | 0.447 | 0.804 |
+
+Fornel–Larcker criterion.
+
+Both the Fornell–Larcker and HTMT tests endorse the fact that the constructs in the measurement model enjoy sufficient discriminant validity. In addition to the high convergent validity and internal consistency findings, these results verify that the measurement model is statistically correct and theoretically valid and therefore a good platform for continuing with the structural model analysis ([Henseler et al., 2015](#ref56); [Hair Jr et al., 2021](#ref50)). The measurement model shows satisfactory reliability, convergent, and discriminant validity, verifying the fact that all the constructs are conceptually distinct but theoretically coherent in the domain of agentic AI–driven self-directed learning research.
+
+### 4.3 Structural model results
+
+The structural model testing utilized SmartPLS 4 to assess hypothesized construct relationships and the explanatory power of the model. [Tables 9](#tab9), [10](#tab10) report the path coefficients, *t*-values, and the *p*-values, along with the R2, R2 adjusted, and f2 effect sizes for each endogenous construct. The R2 values reflect moderate to substantial explanatory power ([Sarstedt et al., 2021](#ref98)): AI-supported self-efficacy (AISS, R2 = 0.486), autonomy support (AS, R2 = 0.336), perceived ease of use (PEU, R2 = 0.364), perceived usefulness (PU, R2 = 0.475), self-learning motivation (SLM, R2 = 0.358), and self-learning behavior (SLB, R2 = 0.254). These outcomes indicate the model accounts for a substantial amount of variance in all the dependent variables, which indicates the robustness and predictive validity of the model.
+
+Table 9
+
+| Constructs | R-square | R-square adjusted | f-square |
+| AISS | 0.486 | 0.478 | 0.151 |
+| AS | 0.336 | 0.333 | 0.318 |
+| PEU | 0.364 | 0.362 | 0.505 |
+| PU | 0.475 | 0.473 | 0.34 |
+| SLB | 0.254 | 0.251 | 0.338 |
+| SLM | 0.358 | 0.351 | 0.284 |
+
+R2 values and F2 values.
+
+Table 10
+
+| Relationships | Original sample (O) | T statistics | *p*-values | Supported (Yes/No) |
+| AISS→SLM | 0.3560 | 5.3680 | 0.0000 | Yes |
+| AS→AISS | 0.0970 | 1.3860 | 0.1660 | No |
+| AS→SLM | 0.1920 | 2.7050 | 0.0070 | Yes |
+| PA→AS | 0.5790 | 12.1440 | 0.0000 | Yes |
+| PA→PEU | 0.6040 | 12.4870 | 0.0000 | Yes |
+| PA→PU | 0.6890 | 14.4360 | 0.0000 | Yes |
+| PEU→AISS | 0.5700 | 6.9320 | 0.0000 | Yes |
+| PU→AISS | 0.1370 | 1.6830 | 0.0930 | No |
+| SLM→SLB | 0.5040 | 10.9570 | 0.0000 | Yes |
+| TAI→AISS | −0.0530 | 0.8820 | 0.3780 | No |
+| TAI→SLM | 0.1810 | 2.4640 | 0.0140 | Yes |
+
+Hypothesis testing results.
+
+H1: Perceived usefulness → AI-supported self-efficacy (*β* = 0.137, t = 1.683, *p* = 0.093), Even though the positive correlation between perceived usefulness (PU) and AI-supported self-efficacy (AISS) was insignificant, it indicates that although learners are aware of the benefits AI can provide (see [Figure 3](#fig3)), perceived usefulness in isolation may lack the potency required in building confidence in the usage of AI tools. This supports recent findings revealing that efficacy beliefs need effortful action and system trusting in addition to usefulness perception ([Liu, 2025](#ref73); [Aldraiweesh and Alturki, 2025](#ref4)). H1 was unsupported. H2: Perceived ease of use → AI-supported self-efficacy (*β* = 0.570, t = 6.932, *p <* 0.001), A significant positive correlation verifies that learners become more confident in utilizing AI tools for self-direction if they find them easier to use. The result supports the Technology Acceptance Model (TAM), among other studies, in its focus on the importance of the interface in developing the self-efficacy of the user ([Thabet et al., 2023](#ref108)). H2 was supported. H3: Perceived agency of AI → Perceived usefulness (*β* = 0.689, t = 14.436, *p <* 0.001), The very strong and highly significant correlation indicates that if learners view AI systems as capable, responsive, and independent, then they are more likely to view them as useful. The result supports recent research findings in AI Agentic revealing that perceived agency reinforces learners’ value attribution in the value they add in AI tools. H3 was supported. H4: Perceived agency of AI → Perceived ease of use (*β* = 0.604, t = 12.487, *p <* 0.001), The significant influence indicates that if AI systems are perceived as capable and intelligent, then they also seem easier in use. The result mirrors the confidence users have in operating systems which present adaptive, human-like reactiveness. H4 was supported. H5: Perceived agency of AI → Autonomy support (*β* = 0.579, t = 12.144, *p <* 0.001), A strong positive relationship indicates that learners having more perceived agency in AI tools are more autonomous in the learning process. The result supports Self-Determination Theory (SDT), which argues that AI systems encouraging the control of learners support more autonomy support (Deci and Ryan, 2020). H5 was supported. H6: Trust in AI → AI-supported self-efficacy (*β* = −0.053, t = 0.882, *p* = 0.378), The non-significant path suggests that believing in AI, while in theory related with confidence, failed directly in predicting AI-supported self-efficacy. Lack of effect may result from contextuality and cultural differences, in which learners’ belief in the AI does not necessarily foster self-confidence in utilizing AI tools ([Dahri et al., 2025](#ref29); [Dahri et al., 2025](#ref31)). H6 was unsupported. H7: Trust in AI → Self-learning motivation (*β* = 0.181, t = 2.464, *p* = 0.014), A significant positive association indicates that more trusting in AI enables learners’ motivation in conducting self-directed learning, confirming that trusting in AI enables emotional security and the desire to learn with the aid of AI ([Gu et al., 2024](#ref46); [Bedué and Fritzsche, 2022](#ref14)). H7 was supported. H8: Autonomy support → Self-learning motivation (*β* = 0.192, t = 2.705, *p* = 0.007), Autonomy support significantly improves self-learning motivation and supports the premise from SDT that perceived freedom and control govern intrinsic motivation ([Ryan and Deci, 2020](#ref95)). AI tools with which learners can take independent learning decisions reinforce motivation. H8 was supported. H9: AI-supported self-efficacy → Self-learning motivation (*β* = 0.356, t = 5.368, *p <* 0.001). The significant path indicates that learners capable of utilizing AI efficiently also exhibit more motivation in conducting self-learning. The result agrees with prior studies that self-efficacy acts as a motivator in AI-aided learning ([Polisetty et al., 2024](#ref89)). H9 was verified. H10: Self-learning motivation → Self-learning behavior (*β* = 0.504, t = 10.957, *p <* 0.001), A high and significant correlation indicates that motivated learners are likely to transform their motivation into active learning behaviors, in support of the expectancy–value theory and empirical findings in AI-mediation learning persistence H10 was verified ([Rasheed et al., 2023](#ref90)).
+
+Figure 3
+
+![]()
+
+
+
+Significant and insignificant paths.
+
+
+
+Moreover, the f2 measures of the effect sizes indicate moderate to strong relationships for salient associations (e.g., PA → PU, f2 = 0.34; PEU → AISS, f2 = 0.505), which confirm the importance of AI’s ease of use and perceived agency in predicting learners’ psychological and behavioral measures. Overall, the structural model presents high explanatory power and theoretical consistency with the SDT and TAM models. Significant paths indicate that learners’ perceived agency, usability of the agentic AI, and trust in it all induce motivation and learning behavior and so respond to the research’s primary research questions on how AI promotes self-directed learning efficacy and engagement.
+
+5 Discussion
+------------
+
+The purpose of this research was to examine the interaction among significant psychological and perceptual factors that influence students’ adoption of self-learning with agentic AI in higher education contexts. In line with the Technology Acceptance Model (TAM) ([Davis et al., 1989](#ref33)) and Self-Determination Theory (SDT) ([Ryan and Deci, 2020](#ref95)), this research postulated and verified a model among perceived agency of AI, perceived usefulness, perceived ease of use, trust in AI, autonomy support, AI-supported self-efficacy, self-learning motivation, and self-learning behavior. According to data from 260 university students in Saudi Arabia and structural equation modeling (SmartPLS 4), findings presented significant and non-significant relationships that provide theoretical and practical insight on how learners make use of AI-based tools to learn independently as shown and illustrated in [Table 10](#tab10).
+
+The results showed that perceived usefulness (PU) had a positive non-significant impact on AI-assisted self-efficacy (AISS) (*β* = 0.137, *p* = 0.093), while perceived ease of use (PEU) had a significant positive correlation (*β* = 0.570, *p <* 0.001). The non-significance of PU deviates from traditional classical TAM-informed studies that assert its primacy in predicting user confidence and adoption ([Venkatesh et al., 2012](#ref115)). This result, however, corresponds with new AI-related research that indicates that usefulness perceptions do not necessarily construct self-efficacy in the absence of experiential engagement and faith ([Chang et al., 2024](#ref20); [Shao et al., 2025](#ref101)). In AI-assisted learning, usefulness in itself does not ensure that learners will have confidence in their ability to efficiently communicate with intelligent systems. Students could perceive AI tools to be valuable and still harbor doubts about their ability to master or understand them precisely. On the other hand, the strong influence of perceived ease of use confirms the TAM hypothesis that user confidence and satisfaction result from the forming influence of usability ([Amin et al., 2014](#ref9); [Calisir and Calisir, 2004](#ref19)). With AI systems that are intelligent, adaptive, and user-friendly, cognitive load decreases and confidence in task performance increases. Validations of ease of use in enhancing technology self-efficacy and perceived control in learning contexts came from studies by [Xu et al. (2025)](#ref124) and [Xia et al. (2025)](#ref122). In the context of agentic AI, this result emphasizes the significance of interface design, feedback, and personalization. Students will have confidence in using AI tools that respond and feel natural. Hence, H1 was not supported and H2 was supported, confirming that usability emerges to be a more potent predictor of AI efficacy than perceived utility.
+
+It was identified that perceived agency of AI (PA) significantly contributed to strong positive influences on perceived usefulness (*β* = 0.689, *p <* 0.001), perceived ease of use (*β* = 0.604, *p <* 0.001), and autonomy support (*β* = 0.579, *p <* 0.001). These findings verify that students’ perception of AI as an intelligent, adaptive, and autonomous agent increases both the usefulness and ease of use of AI systems. Results confirm those of [Al-Abdullatif and Alsubaie (2024)](#ref2), who highlighted that AI systems with human-like agency promote user engagement, credibility, and a sense of value. Likewise, [Hosseini and Seilani (2025)](#ref58) identified that systems with AI-based agentic features (like NLI, context sense, and adaptability) make systems more effortlessly usable and responsive to personalized learning routes. Furthermore, the positive correlation between perceived agency and autonomy support also chimes prominently with Self-Determination Theory (SDT). When students perceive AI as an intelligent agent that honours learning tempo, offers relevant feedback, and assists in decision-making, it increases self-determination and feelings of competence (Deci and Ryan, 2020). More contemporary research by [Katsenou et al. (2025)](#ref67) and [Hu et al. (2025)](#ref61) also underlines that AI-based agentic systems function as a “learning companion” which promotes and scaffolds autonomy while keeping learners engaged. In contrast to legacy learning technology, AI-based agentic systems allow adaptive interaction and co-agency—even setting learning targets, requesting customized guidance, and self-monitoring upon progression. Hence, H3, H4, and H5 were confirmed with data, underlining the prime importance of AI agency in framing students’ perceptions of usefulness, ease of use, and autonomy in learning settings.
+
+Results indicated that trust in AI (TAI) had no significant influence on AI-assisted self-efficacy (*β* = −0.053, *p* = 0.378) but had a significant positive impact on self-learning motivation (*β* = 0.181, *p* = 0.014). That non-significant relationship between trust and self-efficacy stands in contrast to several previous studies that identified trust as a primary predictor of confidence in AI interaction ([Wong et al., 2024](#ref119); [Shao et al., 2025](#ref101)). One possible reason it could be that trust works more as a motivational and affective and less cognitive driver. Students might trust in AI suggestions or feedback but might not necessarily have a sense of proficiency in working with the system. That is, trust per se does not translate into self-efficacy unless augmented with user experience and sense of control. However, the positive influence of trust on self-learning motivation was in line with from [Cui et al. (2025)](#ref26) and [Lin et al. (2023)](#ref72), who mentioned that motivated learners to utilize the AI-based systems have been triggered by emotional trust—perceiving that AI will improve fairness, personalization, and learning efficiency. Trust alleviated the fear of automation and supports a sense of protection and curiosity that underpins motivation. Findings indicate a subtle interpretation: trust might have no direct value in elevating self-efficacy but serves to stimulate motivational participation. Hence, H6 was unsupported, while H7 was supported, which meant that trust in AI affects affective and not cognitive aspects of learning. Both autonomy support (AS) (*β* = 0.192, *p* = 0.007) and AI-supported self-efficacy (AISS) (*β* = 0.356, *p <* 0.001) significantly predicted self. This aligns with Self- Determination Theory ([Alwakid and Dahri, 2025](#ref8)), which holds that autonomy and competence are vital antecedents to intrinsic motivation. Students perceiving control over learning processes and confidence in AI interaction will have a greater likelihood of wanting to learn by themselves. This supports [Almusharraf and Bailey (2025)](#ref7), who concluded that students’ sense of autonomous and technological self-efficacy significantly predicted technology-enabled learning engagement in AI-based blended learning settings. Likewise, [Miao and Ma (2023)](#ref76) identified that supporting students’ sense of autonomy increases the tendency to probe and self-manage, and self-efficacy bolsters persistence and hardiness. In concert, these facets develop a psychological climate supporting self-learning. Therefore, H8 and H9 were supported, confirming that both control (autonomy) and competence (efficacy) play a central role in maintaining motivation in self-directed AI settings. The conclusive hypothesis revealed that self-learning motivation (SLM) significantly and positively influenced self-learning behavior (SLB) (*β* = 0.504, *p <* 0.001). This result corresponds with expectancy–value theory ([Amoozegar et al., 2024](#ref10)), which holds that motivated learners have a likelihood to act actively, surge on, and demonstrate stable learning behaviors. In AI-enabled learning, motivation acts as the linkage between cognitive belief and subsequent performance. Similar results appeared in the works of by [Hu and Hui (2012)](#ref60) and [Getenet et al. (2024)](#ref43), who found that motivation was a notable predictor of technology-enabled learning persistence and behavioral engagement. This research adds to the literature by being the first to empirically verify that self-directed AI—by its ability to create personalized, autonomous, and feedback-rich interactions—can precipitate motivation that translates into real learning behavior. Therefore, H10 was supported, confirming the sequence of motivation from perception and efficacy to behavior. This study contributes to both SDT and TAM by including agentic AI as a central antecedent that influences learners’ perceptions and motivational outcomes. Results suggest that perceived agency enhances both traditional TAM measures (usefulness and ease of use) and transfers to motivational domains such as autonomy and self-learning behavior. In practice, educators and developers of AI should create intelligent, adaptive, and autonomy-supportive AI systems to nurture confidence and intrinsic motivation. In addition, non-significant findings on perceived usefulness and trust emphasize that acceptance at the cognitive and emotional borderlands may differ in context. Training agendas should emphasize AI literacy, ethical knowledge, and reflective interaction to ensure learners apply to put trust in AI, in addition to understanding its weaknesses and possible biases. This research addressed five main research questions, and results suggest that learners’ perceptions of agentic AI have a considerable impact on ease of use, usefulness, and provision of autonomy support (RQ1). Results partially validate usefulness, ease of use, and trust on AI-enabled self-efficacy (RQ2), with ease of use being the strongest predictor. Furthermore, autonomy support and self-efficacy significantly affect self-learning motivation (RQ3), and motivation significantly predicts self-learning behavior (RQ4). Indirect channels (RQ5) suggest that AI’s agentic properties stimulate learning performance through motivational and self-efficacy-based processes. Similarly, these findings suggest that agentic AI systems are powerful catalysts of learner autonomy, confidence, and engagement, yet its effectiveness is dependent on usability, feelings of control, and emotional trust. This research provides an in-depth understanding of how perceptual, motivational, and behavioral domains converge and impact effectiveness in AI-enabled self-learning in higher education.
+
+### 5.1 Theoretical implications
+
+This study brings together the Technology Acceptance Model (TAM), Social Cognitive Theory (SCT), and Self-Determination Theory (SDT) in an AI-assisted learning model. This expands on TAM by proposing that usefulness and ease of use rest on perceived AI agency such that learners accept AI tools on utility, self-governance, and responsiveness. In this adaptation, the model revises TAM for analytics with adaptive systems in easing learning. Adopting SCT, this study targets AI-enabled self-efficacy to intervene between cognitive antecedents (usefulness, ease of use, trust) and motivation in line with Bandura’s suggestion that efficacy beliefs direct engagement operationalized in AI-assisted learning. This also confirms SCT by reporting that motivation to self-learn rises with rising autonomy with perceived control boosting intrinsic motivation. In synthesizing these theories, this study goes a step further in human-AI learning interaction understanding by establishing that perceived AI autonomy, usefulness, and trust together advance psychological empowerment and motivation and expands existing technology acceptance and learning motivation models.
+
+### 5.2 Practical implications
+
+These findings have immediate applications in the creation of more effective and comfortable learning spaces by teachers, instructional designers, and education policymakers. To designers of these tools, the lesson is clear: empower and make it simple. Since a student’s feelings of control and self-confidence depend on how user-friendly the tool itself happens to be, its developers ought to make intuitive interfaces and systems that give gentle, explicit feedback. Students who have a sense that they are in control will have greater confidence in their own capabilities. At the classroom level itself, teachers have a deciding role to play in using these tools while facilitating motivation. By introducing adaptive tutoring or chatting assistance, teachers create space to let students have greater control in where learning goes. This complements the inherent need for autonomy and works to change participation from being externally compelled to being internally self-motivated. But all this becomes attainable only in the presence of a trust base. Students must also trust the technology they utilize. This makes data security, clear ethical principles, and stable system functioning compulsory. Users must also feel safe and secure while transacting with such platforms. At a broader level, institutions and policymakers have a fundamental role to play. Enabling digital competence and specific literacy in how such systems operate on teaching agendas will prepare students to use them critically and efficiently. Besides that, universities and schools should establish forms of assessment to determine whether these tools indeed enhance self-directed learning so that investments have a tangible impact. In the end, the eventual adoption of technology relies on more than technical expertise. It involves two-pronged thinking: designing systems that both feel simple to learn and sound in ethics and hence supplementing the sense of agency of a learner while creating a self-reinforcing loop of motivation and self-directed development.
+
+6 Conclusion
+------------
+
+The current research explored the effects of AI perceptions focusing on these factors namely perceived agency, usefulness, ease of use, and trust the on students AI-supported self-efficacy, autonomy support, self-learning motivation, and finally self-learning behavior. Research framework is designed based on the theories such as Technology Acceptance Model (TAM), Social Cognitive Theory (SCT), and Self-Determination Theory (SDT); the research formalized and empirically validated a comprehensive structural model for describing the psychological and behavioral mechanisms governing AI-supported learning. We used SEM analysis based on SmartPLS analysis of data from 260 participants, the research yields strong empirical proof for the direct and mediated links among the constructs. Findings showed that perceived agency of AI increases the usefulness and ease of use of AI, and intelligent system design matters to positive learner perceptions. Perceived ease of use significantly influences AI-assisted self-efficacy, and pleasant AI interfaces enhance learning confidence. Autonomy support and self-efficacy form self-learning motivation and predict self-learning behavior. However, usefulness and trust in AI do not directly enhance self-efficacy in the absence of experience-based involvement. This research complements TAM, SCT, and SDT by integrating technological, cognitive, and motivational theories of human–AI interaction in learning. It informs teachers, developers, and policymakers on how to develop AI-enabled learning contexts to enhance autonomy, AI confidence, and empowerment. This model ought to be extended to varied cultures in future research, and long-term impact of AI-assisted motivation investigated. Variables such as ethical awareness and AI literacy ought to be taken into consideration in future research. In conclusion, research considerably informs knowledge on AI adoption in learning, illustrating how AI systems that enhance agency improve learners’ self-regulation, motivation, and engagement.
+
+### 6.1 Limitations and future considerations
+
+This study, despite presenting rich results, could not be regarded as flaw-free and hence presents opportunities for subsequent research. First, results depend on a point-in-time census based on self-reporting among a small population of 280 students in Saudi Arabia. While this population provides us with an illuminating bird’s eye perspective on learning orientations toward AI, its small size and single-nation basis imply that its results are likely to transfer to only a limited extent to other cultural or learning contexts. In later research that seeks to generalize such results to a broader setting, researchers should strive to create more inclusive and diverse populations that extend across multiple nations and fields of scholarship. Second, while our research integrated three central theory constructs—Technology Acceptance Model (TAM), Social Cognitive Theory (SCT), and Self-Determination Theory (SDT) to form a rich model, other theories could have added more richness to our findings. For example, theories such as the Expectation-Confirmation Theory (ECT) or the Unified Theory of Acceptance and Use of Technology (UTAUT) might have added more explanations on learners continuing to accept AI tools. With that, rather than a single-moment questionnaire, longitudinal studies or a mixed-methods study could have traced changes in learners’ perceptions, confidence, and motivating factors based on later exposure to systems based on AI. Third, while our Structural Equation Modeling (SEM-PLS) procedure was useful in assessing causal relationships, it could potentially miss the rich, dynamic interactions between variables that exist on a higher level of complexity. Subsequent research could utilize advanced analytical procedures, including multi-group analysis, artificial neuron networks, or other machine learning procedures, to identify non-linear patterns and latent relationships that our model could not. Lastly, our research failed to explicitly ask about related contextual issues such as students’ literacies in AI, the ethical issues surrounding such technologies, or how cultural contexts influence conceptions of autonomy. A collaborative research endeavor in these domains is inevitable. A research agenda of this kind could specify how learning with AI built into it could be carefully crafted to cultivate responsibility, equity, and empowerment in the imperfectly homogeneous global student population. Thus, these weaknesses in no way diminish the significance of our findings but rather provide a clear future research agenda in this rapidly evolving field.
+
+Statements
+----------
+
+### Data availability statement
+
+The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author.
+
+### Ethics statement
+
+Ethical review and approval was not required for the study on human participants in accordance with the local legislation and institutional requirements. Written informed consent from the participants was not required to participate in this study in accordance with the national legislation and the institutional requirements.
+
+### Author contributions
+
+JA: Software, Writing – review & editing, Project administration, Formal analysis, Supervision, Writing – original draft, Methodology, Resources, Investigation, Visualization, Conceptualization, Funding acquisition, Validation, Data curation.
+
+### Funding
+
+The author(s) declared that financial support was not received for this work and/or its publication.
+
+### Conflict of interest
+
+The author(s) declared that this work was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+### Generative AI statement
+
+The author(s) declared that Generative AI was not used in the creation of this manuscript.
+
+Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.
+
+### Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+References
+----------
+
+* 1
+  
+  Al DaraysehA. (2023). Acceptance of artificial intelligence in teaching science: science teachers’ perspective. *Comput. Educ. Artif. Intell.*4:100132. doi: 10.1016/j.caeai.2023.100132
+  
+  + [CrossRef](https://doi.org/10.1016/j.caeai.2023.100132)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BAl%2BDarayseh&publication_year=2023&title=Acceptance%2Bof%2Bartificial%2Bintelligence%2Bin%2Bteaching%2Bscience%3A%2Bscience%2Bteachers%E2%80%99%2Bperspective&journal=Comput.+Educ.+Artif.+Intell.&volume=4)
+* 2
+  
+  Al-AbdullatifA. M.AlsubaieM. A. (2024). ChatGPT in learning: assessing students’ use intentions through the lens of perceived value and the influence of AI literacy. *Behav. Sci. (Basel).*14:845. doi: 10.3390/bs14090845, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39336060)
+  + [CrossRef](https://doi.org/10.3390/bs14090845)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BM..%2BAl-Abdullatif&author=M.%2BA..%2BAlsubaie&publication_year=2024&title=ChatGPT%2Bin%2Blearning%3A%2Bassessing%2Bstudents%E2%80%99%2Buse%2Bintentions%2Bthrough%2Bthe%2Blens%2Bof%2Bperceived%2Bvalue%2Band%2Bthe%2Binfluence%2Bof%2BAI%2Bliteracy&journal=Behav.+Sci.+%28Basel%29.&volume=14)
+* 3
+  
+  AldegetherR. (2020). Saudi Arabia’s vision 2030: approaches to multicultural education and training. *Int. J. Innov. Creat. Chang.*12, 92–102.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R..%2BAldegether&publication_year=2020&title=Saudi%2BArabia%E2%80%99s%2Bvision%2B2030%3A%2Bapproaches%2Bto%2Bmulticultural%2Beducation%2Band%2Btraining&journal=Int.+J.+Innov.+Creat.+Chang.&volume=12&pages=92-102)
+* 4
+  
+  AldraiweeshA. A.AlturkiU. (2025). The influence of social support theory on AI acceptance: examining educational support and perceived usefulness using SEM analysis. *IEEE Access*13, 18366–18385. doi: 10.1109/ACCESS.2025.3534099
+  
+  + [CrossRef](https://doi.org/10.1109/ACCESS.2025.3534099)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BA..%2BAldraiweesh&author=U..%2BAlturki&publication_year=2025&title=The%2Binfluence%2Bof%2Bsocial%2Bsupport%2Btheory%2Bon%2BAI%2Bacceptance%3A%2Bexamining%2Beducational%2Bsupport%2Band%2Bperceived%2Busefulness%2Busing%2BSEM%2Banalysis&journal=IEEE+Access&volume=13&pages=18366-18385)
+* 5
+  
+  AlmogrenA. S.Al-RahmiW. M.DahriN. A. (2024a). Integrated technological approaches to academic success: mobile learning, social media, and AI in higher education. *IEEE Access*12, 175391–175413. doi: 10.1109/ACCESS.2024.3498047
+  
+  + [CrossRef](https://doi.org/10.1109/ACCESS.2024.3498047)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BS..%2BAlmogren&author=W.%2BM..%2BAl-Rahmi&author=N.%2BA..%2BDahri&publication_year=2024a&title=Integrated%2Btechnological%2Bapproaches%2Bto%2Bacademic%2Bsuccess%3A%2Bmobile%2Blearning%2C%2Bsocial%2Bmedia%2C%2Band%2BAI%2Bin%2Bhigher%2Beducation&journal=IEEE+Access&volume=12&pages=175391-175413)
+* 6
+  
+  AlmogrenA. S.Al-RahmiW. M.DahriN. A. (2024b). Exploring factors influencing the acceptance of ChatGPT in higher education: a smart education perspective. *Heliyon*10:e31887. doi: 10.1016/j.heliyon.2024.e31887
+  
+  + [CrossRef](https://doi.org/10.1016/j.heliyon.2024.e31887)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BS..%2BAlmogren&author=W.%2BM..%2BAl-Rahmi&author=N.%2BA..%2BDahri&publication_year=2024b&title=Exploring%2Bfactors%2Binfluencing%2Bthe%2Bacceptance%2Bof%2BChatGPT%2Bin%2Bhigher%2Beducation%3A%2Ba%2Bsmart%2Beducation%2Bperspective&journal=Heliyon&volume=10)
+* 7
+  
+  AlmusharrafA.BaileyD. (2025). Predicting attitude, use, and future intentions with translation websites through the TAM framework: a multicultural study among Saudi and south Korean language learners. *Comput. Assist. Lang. Learn.*38, 1249–1276. doi: 10.1080/09588221.2023.2275141
+  
+  + [CrossRef](https://doi.org/10.1080/09588221.2023.2275141)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BAlmusharraf&author=D..%2BBailey&publication_year=2025&title=Predicting%2Battitude%2C%2Buse%2C%2Band%2Bfuture%2Bintentions%2Bwith%2Btranslation%2Bwebsites%2Bthrough%2Bthe%2BTAM%2Bframework%3A%2Ba%2Bmulticultural%2Bstudy%2Bamong%2BSaudi%2Band%2Bsouth%2BKorean%2Blanguage%2Blearners&journal=Comput.+Assist.+Lang.+Learn.&volume=38&pages=1249-1276)
+* 8
+  
+  AlwakidW. N.DahriN. A. (2025). Harnessing AI capabilities and green entrepreneurial orientation for sustainable SME performance using SEM analysis approach. *Technol. Soc.*22:103007. doi: 10.1016/j.techsoc.2025.103007
+  
+  + [CrossRef](https://doi.org/10.1016/j.techsoc.2025.103007)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=W.%2BN..%2BAlwakid&author=N.%2BA..%2BDahri&publication_year=2025&title=Harnessing%2BAI%2Bcapabilities%2Band%2Bgreen%2Bentrepreneurial%2Borientation%2Bfor%2Bsustainable%2BSME%2Bperformance%2Busing%2BSEM%2Banalysis%2Bapproach&journal=Technol.+Soc.&volume=22)
+* 9
+  
+  AminM.RezaeiS.AbolghasemiM. (2014). User satisfaction with mobile websites: the impact of perceived usefulness (PU), perceived ease of use (PEOU) and trust. *Nankai Bus. Rev. Int.*5, 258–274. doi: 10.1108/NBRI-01-2014-0005
+  
+  + [CrossRef](https://doi.org/10.1108/NBRI-01-2014-0005)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BAmin&author=S..%2BRezaei&author=M..%2BAbolghasemi&publication_year=2014&title=User%2Bsatisfaction%2Bwith%2Bmobile%2Bwebsites%3A%2Bthe%2Bimpact%2Bof%2Bperceived%2Busefulness%2B%28PU%29%2C%2Bperceived%2Bease%2Bof%2Buse%2B%28PEOU%29%2Band%2Btrust&journal=Nankai+Bus.+Rev.+Int.&volume=5&pages=258-274)
+* 10
+  
+  AmoozegarA.AbdelmagidM.AnjumT. (2024). Course satisfaction and perceived learning among distance learners in Malaysian research universities: the impact of motivation, self-efficacy, self-regulated learning, and instructor immediacy behaviour. *Open Learn. J. Open, Distance e-Learning*39, 387–413. doi: 10.1080/02680513.2022.2102417
+  
+  + [CrossRef](https://doi.org/10.1080/02680513.2022.2102417)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BAmoozegar&author=M..%2BAbdelmagid&author=T..%2BAnjum&publication_year=2024&title=Course%2Bsatisfaction%2Band%2Bperceived%2Blearning%2Bamong%2Bdistance%2Blearners%2Bin%2BMalaysian%2Bresearch%2Buniversities%3A%2Bthe%2Bimpact%2Bof%2Bmotivation%2C%2Bself-efficacy%2C%2Bself-regulated%2Blearning%2C%2Band%2Binstructor%2Bimmediacy%2Bbehaviour&journal=Open+Learn.+J.+Open%2C+Distance+e-Learning&volume=39&pages=387-413)
+* 11
+  
+  BandiA.KongariB.NaguruR.PasnoorS.VilipalaS. V. (2025). The rise of agentic AI: a review of definitions, frameworks, architectures, applications, evaluation metrics, and challenges. *Futur. Internet*17:404. doi: 10.3390/fi17090404
+  
+  + [CrossRef](https://doi.org/10.3390/fi17090404)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BBandi&author=B..%2BKongari&author=R..%2BNaguru&author=S..%2BPasnoor&author=S.%2BV..%2BVilipala&publication_year=2025&title=The%2Brise%2Bof%2Bagentic%2BAI%3A%2Ba%2Breview%2Bof%2Bdefinitions%2C%2Bframeworks%2C%2Barchitectures%2C%2Bapplications%2C%2Bevaluation%2Bmetrics%2C%2Band%2Bchallenges&journal=Futur.+Internet&volume=17)
+* 12
+  
+  BanduraA., “Social foundations of thought and action,” Englewood Cliffs, NJ, 1986, 23–28, p. 2, 1986.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BBandura&publication_year=1986&title=Social%2Bfoundations%2Bof%2Bthought%2Band%2Baction&pages=23-28)
+* 13
+  
+  BanduraA.SchunkD. H. (1981). Cultivating competence, self-efficacy, and intrinsic interest through proximal self-motivation. *J. Pers. Soc. Psychol.*41, 586–598. doi: 10.1037/0022-3514.41.3.586
+  
+  + [CrossRef](https://doi.org/10.1037/0022-3514.41.3.586)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BBandura&author=D.%2BH..%2BSchunk&publication_year=1981&title=Cultivating%2Bcompetence%2C%2Bself-efficacy%2C%2Band%2Bintrinsic%2Binterest%2Bthrough%2Bproximal%2Bself-motivation&journal=J.+Pers.+Soc.+Psychol.&volume=41&pages=586-598)
+* 14
+  
+  BeduéP.FritzscheA. (2022). Can we trust AI? An empirical investigation of trust requirements and guide to successful AI adoption. *J. Enterp. Inf. Manag.*35, 530–549. doi: 10.1108/JEIM-06-2020-0233
+  
+  + [CrossRef](https://doi.org/10.1108/JEIM-06-2020-0233)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=P..%2BBedu%C3%A9&author=A..%2BFritzsche&publication_year=2022&title=Can%2Bwe%2Btrust%2BAI%3F%2BAn%2Bempirical%2Binvestigation%2Bof%2Btrust%2Brequirements%2Band%2Bguide%2Bto%2Bsuccessful%2BAI%2Badoption&journal=J.+Enterp.+Inf.+Manag.&volume=35&pages=530-549)
+* 15
+  
+  BennettD.MetatlaO.RoudautA.MeklerE. D. “How does HCI understand human agency and autonomy?,” in *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems* (2023) 1–18. doi: 10.1145/3544548.3580651
+  
+  + [CrossRef](https://doi.org/10.1145/3544548.3580651)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D..%2BBennett&author=O..%2BMetatla&author=A..%2BRoudaut&author=E.%2BD..%2BMekler&publication_year=2023&pages=1-18)
+* 16
+  
+  BergdahlN.SjöbergJ. (2025). Attitudes, perceptions and AI self-efficacy in K-12 education. *Comput. Educ. Artif. Intell.*8:100358. doi: 10.1016/j.caeai.2024.100358
+  
+  + [CrossRef](https://doi.org/10.1016/j.caeai.2024.100358)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N..%2BBergdahl&author=J..%2BSj%C3%B6berg&publication_year=2025&title=Attitudes%2C%2Bperceptions%2Band%2BAI%2Bself-efficacy%2Bin%2BK-12%2Beducation&journal=Comput.+Educ.+Artif.+Intell.&volume=8)
+* 17
+  
+  BoudD.WalkerD. (1998). Promoting reflection in professional courses: the challenge of context. *Stud. High. Educ.*23, 191–206. doi: 10.1080/03075079812331380384
+  
+  + [CrossRef](https://doi.org/10.1080/03075079812331380384)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D..%2BBoud&author=D..%2BWalker&publication_year=1998&title=Promoting%2Breflection%2Bin%2Bprofessional%2Bcourses%3A%2Bthe%2Bchallenge%2Bof%2Bcontext&journal=Stud.+High.+Educ.&volume=23&pages=191-206)
+* 18
+  
+  BrymanA. (2016). *Social research methods*. New York, USA: Oxford University Press.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BBryman&publication_year=2016&journal=Social+research+methods)
+* 19
+  
+  CalisirF.CalisirF. (2004). The relation of interface usability characteristics, perceived usefulness, and perceived ease of use to end-user satisfaction with enterprise resource planning (ERP) systems. *Comput. Human Behav.*20, 505–515. doi: 10.1016/j.chb.2003.10.004
+  
+  + [CrossRef](https://doi.org/10.1016/j.chb.2003.10.004)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=F..%2BCalisir&author=F..%2BCalisir&publication_year=2004&title=The%2Brelation%2Bof%2Binterface%2Busability%2Bcharacteristics%2C%2Bperceived%2Busefulness%2C%2Band%2Bperceived%2Bease%2Bof%2Buse%2Bto%2Bend-user%2Bsatisfaction%2Bwith%2Benterprise%2Bresource%2Bplanning%2B%28ERP%29%2Bsystems&journal=Comput.+Human+Behav.&volume=20&pages=505-515)
+* 20
+  
+  ChangP.-C.ZhangW.CaiQ.GuoH. (2024). Does AI-driven technostress promote or hinder employees’ artificial intelligence adoption intention? A moderated mediation model of affective reactions and technical self-efficacy. *Psychol. Res. Behav. Manag.*17, 413–427. doi: 10.2147/PRBM.S441444, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/38343429)
+  + [CrossRef](https://doi.org/10.2147/PRBM.S441444)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=P.-C..%2BChang&author=W..%2BZhang&author=Q..%2BCai&author=H..%2BGuo&publication_year=2024&title=Does%2BAI-driven%2Btechnostress%2Bpromote%2Bor%2Bhinder%2Bemployees%E2%80%99%2Bartificial%2Bintelligence%2Badoption%2Bintention%3F%2BA%2Bmoderated%2Bmediation%2Bmodel%2Bof%2Baffective%2Breactions%2Band%2Btechnical%2Bself-efficacy&journal=Psychol.+Res.+Behav.+Manag.&volume=17&pages=413-427)
+* 21
+  
+  ChenJ. (2022). The effectiveness of self-regulated learning (SRL) interventions on L2 learning achievement, strategy employment and self-efficacy: a meta-analytic study. *Front. Psychol.*13:1021101.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BChen&publication_year=2022&title=The%2Beffectiveness%2Bof%2Bself-regulated%2Blearning%2B%28SRL%29%2Binterventions%2Bon%2BL2%2Blearning%2Bachievement%2C%2Bstrategy%2Bemployment%2Band%2Bself-efficacy%3A%2Ba%2Bmeta-analytic%2Bstudy&journal=Front.+Psychol.&volume=13)
+* 22
+  
+  ChenX.JiangL.ZhouZ.LiD. (2025). Impact of perceived ease of use and perceived usefulness of humanoid robots on students’ intention to use. *Acta Psychol.*258:105217. doi: 10.1016/j.actpsy.2025.105217
+  
+  + [CrossRef](https://doi.org/10.1016/j.actpsy.2025.105217)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=X..%2BChen&author=L..%2BJiang&author=Z..%2BZhou&author=D..%2BLi&publication_year=2025&title=Impact%2Bof%2Bperceived%2Bease%2Bof%2Buse%2Band%2Bperceived%2Busefulness%2Bof%2Bhumanoid%2Brobots%2Bon%2Bstudents%E2%80%99%2Bintention%2Bto%2Buse&journal=Acta+Psychol.&volume=258)
+* 23
+  
+  ChoungH.DavidP.RossA. (2023). Trust in AI and its role in the acceptance of AI technologies. *Int. J. Human–Computer Interact.*39, 1727–1739. doi: 10.1080/10447318.2022.2050543
+  
+  + [CrossRef](https://doi.org/10.1080/10447318.2022.2050543)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=H..%2BChoung&author=P..%2BDavid&author=A..%2BRoss&publication_year=2023&title=Trust%2Bin%2BAI%2Band%2Bits%2Brole%2Bin%2Bthe%2Bacceptance%2Bof%2BAI%2Btechnologies&journal=Int.+J.+Human%E2%80%93Computer+Interact.&volume=39&pages=1727-1739)
+* 24
+  
+  CompeauD. R.HigginsC. A. (1995). Computer self-efficacy: development of a measure and initial test. *MIS Q.*19, 189–211. doi: 10.2307/249688
+  
+  + [CrossRef](https://doi.org/10.2307/249688)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D.%2BR..%2BCompeau&author=C.%2BA..%2BHiggins&publication_year=1995&title=Computer%2Bself-efficacy%3A%2Bdevelopment%2Bof%2Ba%2Bmeasure%2Band%2Binitial%2Btest&journal=MIS+Q.&volume=19&pages=189-211)
+* 25
+  
+  CreswellJ. W.HiroseM. (2019). Mixed methods and survey research in family medicine and community health. *Fam. Med. Community Health*7:86. doi: 10.1136/fmch-2018-000086, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/32148709)
+  + [CrossRef](https://doi.org/10.1136/fmch-2018-000086)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J.%2BW..%2BCreswell&author=M..%2BHirose&publication_year=2019&title=Mixed%2Bmethods%2Band%2Bsurvey%2Bresearch%2Bin%2Bfamily%2Bmedicine%2Band%2Bcommunity%2Bhealth&journal=Fam.+Med.+Community+Health&volume=7)
+* 26
+  
+  CuiY. L.ZengM. L.DuX. K.HeW. M. (2025). What shapes learners’ trust in AI? A meta-analytic review of its antecedents and consequences. *IEEE Access*13, 164008–164025. doi: 10.1109/ACCESS.2025.3611367
+  
+  + [CrossRef](https://doi.org/10.1109/ACCESS.2025.3611367)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Y.%2BL..%2BCui&author=M.%2BL..%2BZeng&author=X.%2BK..%2BDu&author=W.%2BM..%2BHe&publication_year=2025&title=What%2Bshapes%2Blearners%E2%80%99%2Btrust%2Bin%2BAI%3F%2BA%2Bmeta-analytic%2Breview%2Bof%2Bits%2Bantecedents%2Band%2Bconsequences&journal=IEEE+Access&volume=13&pages=164008-164025)
+* 27
+  
+  DahriN. A.YahayaN.al-RahmiW. M.VighioM. S.AlblehaiF.SoomroR. B.et al. (2024). Investigating AI-based academic support acceptance and its impact on students’ performance in Malaysian and Pakistani higher education institutions. *Educ. Inf. Technol.*29, 18695–18744. doi: 10.1007/s10639-024-12599-x
+  
+  + [CrossRef](https://doi.org/10.1007/s10639-024-12599-x)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N.%2BA..%2BDahri&author=N..%2BYahaya&author=W.%2BM..%2Bal-Rahmi&author=M.%2BS..%2BVighio&author=F..%2BAlblehai&author=R.%2BB..%2BSoomro&publication_year=2024&title=Investigating%2BAI-based%2Bacademic%2Bsupport%2Bacceptance%2Band%2Bits%2Bimpact%2Bon%2Bstudents%E2%80%99%2Bperformance%2Bin%2BMalaysian%2Band%2BPakistani%2Bhigher%2Beducation%2Binstitutions&journal=Educ.+Inf.+Technol.&volume=29&pages=18695-18744)
+* 28
+  
+  DahriN. A.YahayaN.Al-RahmiW. M.AldraiweeshA.AlturkiU.AlmutairyS.et al. (2024). Extended TAM based acceptance of AI-powered ChatGPT for supporting metacognitive self-regulated learning in education: a mixed-methods study. *Heliyon*10:e29317. doi: 10.1016/j.heliyon.2024.e29317, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/38628736)
+  + [CrossRef](https://doi.org/10.1016/j.heliyon.2024.e29317)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N.%2BA..%2BDahri&author=N..%2BYahaya&author=W.%2BM..%2BAl-Rahmi&author=A..%2BAldraiweesh&author=U..%2BAlturki&author=S..%2BAlmutairy&publication_year=2024&title=Extended%2BTAM%2Bbased%2Bacceptance%2Bof%2BAI-powered%2BChatGPT%2Bfor%2Bsupporting%2Bmetacognitive%2Bself-regulated%2Blearning%2Bin%2Beducation%3A%2Ba%2Bmixed-methods%2Bstudy&journal=Heliyon&volume=10)
+* 29
+  
+  DahriN. A.Al-RahmiW. M.AlhashmiK. A.BashirF. (2025). Enhancing mobile learning with AI-powered chatbots: investigating ChatGPT’s impact on student engagement and academic performance. *Int. J. Interact. Mob. Technol.*19, 1–15. doi: 10.3991/ijim.v19i11.54643
+  
+  + [CrossRef](https://doi.org/10.3991/ijim.v19i11.54643)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N.%2BA..%2BDahri&author=W.%2BM..%2BAl-Rahmi&author=K.%2BA..%2BAlhashmi&author=F..%2BBashir&publication_year=2025&title=Enhancing%2Bmobile%2Blearning%2Bwith%2BAI-powered%2Bchatbots%3A%2Binvestigating%2BChatGPT%E2%80%99s%2Bimpact%2Bon%2Bstudent%2Bengagement%2Band%2Bacademic%2Bperformance&journal=Int.+J.+Interact.+Mob.+Technol.&volume=19&pages=1-15)
+* 30
+  
+  DahriN. A.DahriF. H.LaghariA. A.JavedM. (2025). Decoding ChatGPT’s impact on student satisfaction and performance: a multimodal machine learning and explainable AI approach. *Complex Eng. Syst.*5:2025. doi: 10.20517/ces.2025.07
+  
+  + [CrossRef](https://doi.org/10.20517/ces.2025.07)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N.%2BA..%2BDahri&author=F.%2BH..%2BDahri&author=A.%2BA..%2BLaghari&author=M..%2BJaved&publication_year=2025&title=Decoding%2BChatGPT%E2%80%99s%2Bimpact%2Bon%2Bstudent%2Bsatisfaction%2Band%2Bperformance%3A%2Ba%2Bmultimodal%2Bmachine%2Blearning%2Band%2Bexplainable%2BAI%2Bapproach&journal=Complex+Eng.+Syst.&volume=5)
+* 31
+  
+  DahriN. A.YahayaN.VighioM. S.JumaatN. F. (2025). Exploring the impact of ChatGPT on teaching performance: findings from SOR theory, SEM and IPMA analysis approach. *Educ. Inf. Technol.*30, 18241–18276. doi: 10.1007/s10639-025-13539-z
+  
+  + [CrossRef](https://doi.org/10.1007/s10639-025-13539-z)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N.%2BA..%2BDahri&author=N..%2BYahaya&author=M.%2BS..%2BVighio&author=N.%2BF..%2BJumaat&publication_year=2025&title=Exploring%2Bthe%2Bimpact%2Bof%2BChatGPT%2Bon%2Bteaching%2Bperformance%3A%2Bfindings%2Bfrom%2BSOR%2Btheory%2C%2BSEM%2Band%2BIPMA%2Banalysis%2Bapproach&journal=Educ.+Inf.+Technol.&volume=30&pages=18241-18276)
+* 32
+  
+  DavisF. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. *MIS Q.*13, 319–340. doi: 10.2307/249008
+  
+  + [CrossRef](https://doi.org/10.2307/249008)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=F.%2BD..%2BDavis&publication_year=1989&title=Perceived%2Busefulness%2C%2Bperceived%2Bease%2Bof%2Buse%2C%2Band%2Buser%2Bacceptance%2Bof%2Binformation%2Btechnology&journal=MIS+Q.&volume=13&pages=319-340)
+* 33
+  
+  DavisF. D.BagozziR. P.WarshawP. R. (1989). User acceptance of computer technology: a comparison of two theoretical models. *Manag. Sci.*35, 982–1003. doi: 10.1287/mnsc.35.8.982
+  
+  + [CrossRef](https://doi.org/10.1287/mnsc.35.8.982)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=F.%2BD..%2BDavis&author=R.%2BP..%2BBagozzi&author=P.%2BR..%2BWarshaw&publication_year=1989&title=User%2Bacceptance%2Bof%2Bcomputer%2Btechnology%3A%2Ba%2Bcomparison%2Bof%2Btwo%2Btheoretical%2Bmodels&journal=Manag.+Sci.&volume=35&pages=982-1003)
+* 34
+  
+  de Bruijn-SmolrsM.TimmersC. F.GawkeJ. C. L.SchoonmanW.BornM. P. (2016). Effective self-regulatory processes in higher education: research findings and future directions. A systematic review. *Stud. High. Educ.*41, 139–158. doi: 10.1080/03075079.2014.915302
+  
+  + [CrossRef](https://doi.org/10.1080/03075079.2014.915302)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2Bde%2BBruijn-Smolrs&author=C.%2BF..%2BTimmers&author=J.%2BC.%2BL..%2BGawke&author=W..%2BSchoonman&author=M.%2BP..%2BBorn&publication_year=2016&title=Effective%2Bself-regulatory%2Bprocesses%2Bin%2Bhigher%2Beducation%3A%2Bresearch%2Bfindings%2Band%2Bfuture%2Bdirections.%2BA%2Bsystematic%2Breview&journal=Stud.+High.+Educ.&volume=41&pages=139-158)
+* 35
+  
+  DeciE. L.RyanR. M. (2000). The" what" and" why" of goal pursuits: human needs and the self-determination of behavior. *Psychol. Inq.*11, 227–268. doi: 10.1207/S15327965PLI1104\_01
+  
+  + [CrossRef](https://doi.org/10.1207/S15327965PLI1104_01)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=E.%2BL..%2BDeci&author=R.%2BM..%2BRyan&publication_year=2000&title=The%22%2Bwhat%22%2Band%22%2Bwhy%22%2Bof%2Bgoal%2Bpursuits%3A%2Bhuman%2Bneeds%2Band%2Bthe%2Bself-determination%2Bof%2Bbehavior&journal=Psychol.+Inq.&volume=11&pages=227-268)
+* 36
+  
+  DiamantopoulosA.SiguawJ. A. (2006). Formative versus reflective indicators in organizational measure development: a comparison and empirical illustration. *Br. J. Manag.*17, 263–282. doi: 10.1111/j.1467-8551.2006.00500.x
+  
+  + [CrossRef](https://doi.org/10.1111/j.1467-8551.2006.00500.x)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BDiamantopoulos&author=J.%2BA..%2BSiguaw&publication_year=2006&title=Formative%2Bversus%2Breflective%2Bindicators%2Bin%2Borganizational%2Bmeasure%2Bdevelopment%3A%2Ba%2Bcomparison%2Band%2Bempirical%2Billustration&journal=Br.+J.+Manag.&volume=17&pages=263-282)
+* 37
+  
+  FaasC.BergsR.SterzS.LangerM.FeitA. M. (2024). Give me a choice: the consequences of restricting choices through AI-support for perceived autonomy, motivational variables, and decision performance. *arXiv Prepr. arXiv2410.07728*. doi: 10.1016/j.heliyon.2024.e31887
+  
+  + [CrossRef](https://doi.org/10.1016/j.heliyon.2024.e31887)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C..%2BFaas&author=R..%2BBergs&author=S..%2BSterz&author=M..%2BLanger&author=A.%2BM..%2BFeit&publication_year=2024&title=Give%2Bme%2Ba%2Bchoice%3A%2Bthe%2Bconsequences%2Bof%2Brestricting%2Bchoices%2Bthrough%2BAI-support%2Bfor%2Bperceived%2Bautonomy%2C%2Bmotivational%2Bvariables%2C%2Band%2Bdecision%2Bperformance&journal=arXiv+Prepr.+arXiv2410.07728)
+* 38
+  
+  FalebitaO. S.KokP. J. (2025). Artificial intelligence tools usage: a structural equation modeling of undergraduates’ technological readiness, self-efficacy and attitudes. *J. STEM Educ. Res.*8, 257–282. doi: 10.1007/s41979-024-00132-1
+  
+  + [CrossRef](https://doi.org/10.1007/s41979-024-00132-1)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=O.%2BS..%2BFalebita&author=P.%2BJ..%2BKok&publication_year=2025&title=Artificial%2Bintelligence%2Btools%2Busage%3A%2Ba%2Bstructural%2Bequation%2Bmodeling%2Bof%2Bundergraduates%E2%80%99%2Btechnological%2Breadiness%2C%2Bself-efficacy%2Band%2Battitudes&journal=J.+STEM+Educ.+Res.&volume=8&pages=257-282)
+* 39
+  
+  FanJ.ZhangQ. (2024). From literacy to learning: the sequential mediation of attitudes and enjoyment in AI-assisted EFL education. *Heliyon*10:e37158. doi: 10.1016/j.heliyon.2024.e37158, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39286160)
+  + [CrossRef](https://doi.org/10.1016/j.heliyon.2024.e37158)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BFan&author=Q..%2BZhang&publication_year=2024&title=From%2Bliteracy%2Bto%2Blearning%3A%2Bthe%2Bsequential%2Bmediation%2Bof%2Battitudes%2Band%2Benjoyment%2Bin%2BAI-assisted%2BEFL%2Beducation&journal=Heliyon&volume=10)
+* 40
+  
+  FlaviánC.GuinalíuM. (2006). Consumer trust, perceived security and privacy policy: three basic elements of loyalty to a web site. *Ind. Manag. Data Syst.*106, 601–620. doi: 10.1108/02635570610666403
+  
+  + [CrossRef](https://doi.org/10.1108/02635570610666403)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C..%2BFlavi%C3%A1n&author=M..%2BGuinal%C3%ADu&publication_year=2006&title=Consumer%2Btrust%2C%2Bperceived%2Bsecurity%2Band%2Bprivacy%2Bpolicy%3A%2Bthree%2Bbasic%2Belements%2Bof%2Bloyalty%2Bto%2Ba%2Bweb%2Bsite&journal=Ind.+Manag.+Data+Syst.&volume=106&pages=601-620)
+* 41
+  
+  FornellC.LarckerD. F. (1981). *Structural equation models with unobservable variables and measurement error: Algebra and statistics*. Los Angeles, CA: Sage Publications Sage CA.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C..%2BFornell&author=D.%2BF..%2BLarcker&publication_year=1981&journal=Structural+equation+models+with+unobservable+variables+and+measurement+error%3A+Algebra+and+statistics)
+* 42
+  
+  GerstenR.WoodwardJ. (1994). The language-minority student and special education: issues, trends, and paradoxes. *Except. Child.*60, 310–322. doi: 10.1177/001440299406000403
+  
+  + [CrossRef](https://doi.org/10.1177/001440299406000403)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R..%2BGersten&author=J..%2BWoodward&publication_year=1994&title=The%2Blanguage-minority%2Bstudent%2Band%2Bspecial%2Beducation%3A%2Bissues%2C%2Btrends%2C%2Band%2Bparadoxes&journal=Except.+Child.&volume=60&pages=310-322)
+* 43
+  
+  GetenetS.CantleR.RedmondP.AlbionP. (2024). Students’ digital technology attitude, literacy and self-efficacy and their effect on online learning engagement. *Int. J. Educ. Technol. High. Educ.*21:3. doi: 10.1186/s41239-023-00437-y
+  
+  + [CrossRef](https://doi.org/10.1186/s41239-023-00437-y)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=S..%2BGetenet&author=R..%2BCantle&author=P..%2BRedmond&author=P..%2BAlbion&publication_year=2024&title=Students%E2%80%99%2Bdigital%2Btechnology%2Battitude%2C%2Bliteracy%2Band%2Bself-efficacy%2Band%2Btheir%2Beffect%2Bon%2Bonline%2Blearning%2Bengagement&journal=Int.+J.+Educ.+Technol.+High.+Educ.&volume=21)
+* 44
+  
+  GkanatsiouM. A.TriantariS.TzartzasG.KotopoulosT.GkanatsiosS. (2025). Rewired leadership: integrating AI-powered mediation and decision-making in higher education institutions. *Technologies*13:396. doi: 10.3390/technologies13090396
+  
+  + [CrossRef](https://doi.org/10.3390/technologies13090396)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M.%2BA..%2BGkanatsiou&author=S..%2BTriantari&author=G..%2BTzartzas&author=T..%2BKotopoulos&author=S..%2BGkanatsios&publication_year=2025&title=Rewired%2Bleadership%3A%2Bintegrating%2BAI-powered%2Bmediation%2Band%2Bdecision-making%2Bin%2Bhigher%2Beducation%2Binstitutions&journal=Technologies&volume=13)
+* 45
+  
+  GlennI. (2018). *The role of self-efficacy in self-regulation learning in online college courses*. Scottsdale, AZ: Northcentral University.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=I..%2BGlenn&publication_year=2018&journal=The+role+of+self-efficacy+in+self-regulation+learning+in+online+college+courses)
+* 46
+  
+  GuF.XuH.HeD. (2024). How does variation in AI performance affect trust in AI-infused systems: a case study with in-vehicle voice control systems. *Proc. Hum. Factors Ergon. Soc. Annu. Meet.*68, 1092–1097. doi: 10.1177/10711813241274423
+  
+  + [CrossRef](https://doi.org/10.1177/10711813241274423)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=F..%2BGu&author=H..%2BXu&author=D..%2BHe&publication_year=2024&title=How%2Bdoes%2Bvariation%2Bin%2BAI%2Bperformance%2Baffect%2Btrust%2Bin%2BAI-infused%2Bsystems%3A%2Ba%2Bcase%2Bstudy%2Bwith%2Bin-vehicle%2Bvoice%2Bcontrol%2Bsystems&journal=Proc.+Hum.+Factors+Ergon.+Soc.+Annu.+Meet.&volume=68&pages=1092-1097)
+* 47
+  
+  HairJ.AlamerA. (2022). Partial least squares structural equation modeling (PLS-SEM) in second language and education research: guidelines using an applied example. *Res. Methods Appl. Linguist.*1:100027. doi: 10.1016/j.rmal.2022.100027
+  
+  + [CrossRef](https://doi.org/10.1016/j.rmal.2022.100027)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BHair&author=A..%2BAlamer&publication_year=2022&title=Partial%2Bleast%2Bsquares%2Bstructural%2Bequation%2Bmodeling%2B%28PLS-SEM%29%2Bin%2Bsecond%2Blanguage%2Band%2Beducation%2Bresearch%3A%2Bguidelines%2Busing%2Ban%2Bapplied%2Bexample&journal=Res.+Methods+Appl.+Linguist.&volume=1)
+* 48
+  
+  HairJ. F.Jr.HultG. T. M.RingleC. M.SarstedtM.DanksN. P.RayS. (2021). *Partial least squares structural equation modeling (PLS-SEM) using R: A workbook*. Cham: Springer Nature.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J.%2BF..%2BHair&author=G.%2BT.%2BM..%2BHult&author=C.%2BM..%2BRingle&author=M..%2BSarstedt&author=N.%2BP..%2BDanks&author=S..%2BRay&publication_year=2021&journal=Partial+least+squares+structural+equation+modeling+%28PLS-SEM%29+using+R%3A+A+workbook)
+* 49
+  
+  HairJ. F.Jr.HultG. T. M.RingleC. M.SarstedtM. (2021). *A primer on partial least squares structural equation modelling (PLS-SEM)*. London: Sage Publications.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J.%2BF..%2BHair&author=G.%2BT.%2BM..%2BHult&author=C.%2BM..%2BRingle&author=M..%2BSarstedt&publication_year=2021&journal=A+primer+on+partial+least+squares+structural+equation+modelling+%28PLS-SEM%29)
+* 50
+  
+  HairJ.Jr.HairJ. F.Jr.HultG. T. M.RingleC. M.SarstedtM. (2021). *A primer on partial least squares structural equation modeling (PLS-SEM)*. Los Angeles, CA: Sage publications.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BHair&author=J.%2BF..%2BHair&author=G.%2BT.%2BM..%2BHult&author=C.%2BM..%2BRingle&author=M..%2BSarstedt&publication_year=2021&journal=A+primer+on+partial+least+squares+structural+equation+modeling+%28PLS-SEM%29)
+* 51
+  
+  HairJ. F.SarstedtM.RingleC. M.MenaJ. A. (2012). An assessment of the use of partial least squares structural equation modeling in marketing research. *J. Acad. Mark. Sci.*40, 414–433. doi: 10.1007/s11747-011-0261-6
+  
+  + [CrossRef](https://doi.org/10.1007/s11747-011-0261-6)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J.%2BF..%2BHair&author=M..%2BSarstedt&author=C.%2BM..%2BRingle&author=J.%2BA..%2BMena&publication_year=2012&title=An%2Bassessment%2Bof%2Bthe%2Buse%2Bof%2Bpartial%2Bleast%2Bsquares%2Bstructural%2Bequation%2Bmodeling%2Bin%2Bmarketing%2Bresearch&journal=J.+Acad.+Mark.+Sci.&volume=40&pages=414-433)
+* 52
+  
+  HairJ. F.RisherJ. J.SarstedtM.RingleC. M. (2019). When to use and how to report the results of PLS-SEM. *Eur. Bus. Rev.*31, 2–24. doi: 10.1108/EBR-11-2018-0203
+  
+  + [CrossRef](https://doi.org/10.1108/EBR-11-2018-0203)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J.%2BF..%2BHair&author=J.%2BJ..%2BRisher&author=M..%2BSarstedt&author=C.%2BM..%2BRingle&publication_year=2019&title=When%2Bto%2Buse%2Band%2Bhow%2Bto%2Breport%2Bthe%2Bresults%2Bof%2BPLS-SEM&journal=Eur.+Bus.+Rev.&volume=31&pages=2-24)
+* 53
+  
+  HanJ.KoD. (2025). Consumer autonomy in generative AI services: the role of task difficulty and AI design elements in enhancing trust, satisfaction, and usage intention. *Behav. Sci. (Basel).*15:534. doi: 10.3390/bs15040534, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/40282155)
+  + [CrossRef](https://doi.org/10.3390/bs15040534)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BHan&author=D..%2BKo&publication_year=2025&title=Consumer%2Bautonomy%2Bin%2Bgenerative%2BAI%2Bservices%3A%2Bthe%2Brole%2Bof%2Btask%2Bdifficulty%2Band%2BAI%2Bdesign%2Belements%2Bin%2Benhancing%2Btrust%2C%2Bsatisfaction%2C%2Band%2Busage%2Bintention&journal=Behav.+Sci.+%28Basel%29.&volume=15)
+* 54
+  
+  HanY.YangS.HanS.HeW.BaoS.KongJ. (2025). Exploring the relationship among technology acceptance, learner engagement and critical thinking in the Chinese college-level EFL context. *Educ. Inf. Technol.*30, 14761–14784. doi: 10.1007/s10639-025-13375-1
+  
+  + [CrossRef](https://doi.org/10.1007/s10639-025-13375-1)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Y..%2BHan&author=S..%2BYang&author=S..%2BHan&author=W..%2BHe&author=S..%2BBao&author=J..%2BKong&publication_year=2025&title=Exploring%2Bthe%2Brelationship%2Bamong%2Btechnology%2Bacceptance%2C%2Blearner%2Bengagement%2Band%2Bcritical%2Bthinking%2Bin%2Bthe%2BChinese%2Bcollege-level%2BEFL%2Bcontext&journal=Educ.+Inf.+Technol.&volume=30&pages=14761-14784)
+* 55
+  
+  HeT.HuangJ.LiY.WangL.LiuJ.ZhangF.et al. (2025). The mediation effect of AI self-efficacy between AI literacy and learning engagement in college nursing students: a cross-sectional study. *Nurse Educ. Pract.*22:104499. doi: 10.1016/j.nepr.2025.104499
+  
+  + [CrossRef](https://doi.org/10.1016/j.nepr.2025.104499)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=T..%2BHe&author=J..%2BHuang&author=Y..%2BLi&author=L..%2BWang&author=J..%2BLiu&author=F..%2BZhang&publication_year=2025&title=The%2Bmediation%2Beffect%2Bof%2BAI%2Bself-efficacy%2Bbetween%2BAI%2Bliteracy%2Band%2Blearning%2Bengagement%2Bin%2Bcollege%2Bnursing%2Bstudents%3A%2Ba%2Bcross-sectional%2Bstudy&journal=Nurse+Educ.+Pract.&volume=22)
+* 56
+  
+  HenselerJ.RingleC. M.SarstedtM. (2015). A new criterion for assessing discriminant validity in variance-based structural equation modeling. *J. Acad. Mark. Sci.*43, 115–135. doi: 10.1007/s11747-014-0403-8
+  
+  + [CrossRef](https://doi.org/10.1007/s11747-014-0403-8)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BHenseler&author=C.%2BM..%2BRingle&author=M..%2BSarstedt&publication_year=2015&title=A%2Bnew%2Bcriterion%2Bfor%2Bassessing%2Bdiscriminant%2Bvalidity%2Bin%2Bvariance-based%2Bstructural%2Bequation%2Bmodeling&journal=J.+Acad.+Mark.+Sci.&volume=43&pages=115-135)
+* 57
+  
+  Hidayat-ur-RehmanI. (2024). Examining AI competence, chatbot use and perceived autonomy as drivers of students’ engagement in informal digital learning. *J. Res. Innov. Teach. Learn.*17:136. doi: 10.1108/JRIT-05-2024-0136
+  
+  + [CrossRef](https://doi.org/10.1108/JRIT-05-2024-0136)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=I..%2BHidayat-ur-Rehman&publication_year=2024&title=Examining%2BAI%2Bcompetence%2C%2Bchatbot%2Buse%2Band%2Bperceived%2Bautonomy%2Bas%2Bdrivers%2Bof%2Bstudents%E2%80%99%2Bengagement%2Bin%2Binformal%2Bdigital%2Blearning&journal=J.+Res.+Innov.+Teach.+Learn.&volume=17)
+* 58
+  
+  HosseiniS.SeilaniH. (2025). The role of agentic AI in shaping a smart future: a systematic review. *Array*22:100399. doi: 10.1016/j.array.2025.100399
+  
+  + [CrossRef](https://doi.org/10.1016/j.array.2025.100399)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=S..%2BHosseini&author=H..%2BSeilani&publication_year=2025&title=The%2Brole%2Bof%2Bagentic%2BAI%2Bin%2Bshaping%2Ba%2Bsmart%2Bfuture%3A%2Ba%2Bsystematic%2Breview&journal=Array&volume=22)
+* 59
+  
+  HowardJ. L.SlempG. R.WangX. (2025). Need support and need thwarting: a meta-analysis of autonomy, competence, and relatedness supportive and thwarting behaviors in student populations. *Personal. Soc. Psychol. Bull.*51, 1552–1573. doi: 10.1177/01461672231225364, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/38291862)
+  + [CrossRef](https://doi.org/10.1177/01461672231225364)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J.%2BL..%2BHoward&author=G.%2BR..%2BSlemp&author=X..%2BWang&publication_year=2025&title=Need%2Bsupport%2Band%2Bneed%2Bthwarting%3A%2Ba%2Bmeta-analysis%2Bof%2Bautonomy%2C%2Bcompetence%2C%2Band%2Brelatedness%2Bsupportive%2Band%2Bthwarting%2Bbehaviors%2Bin%2Bstudent%2Bpopulations&journal=Personal.+Soc.+Psychol.+Bull.&volume=51&pages=1552-1573)
+* 60
+  
+  HuP. J.-H.HuiW. (2012). Examining the role of learning engagement in technology-mediated learning and its effects on learning effectiveness and satisfaction. *Decis. Support. Syst.*53, 782–792. doi: 10.1016/j.dss.2012.05.014
+  
+  + [CrossRef](https://doi.org/10.1016/j.dss.2012.05.014)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=P.%2BJ.-H..%2BHu&author=W..%2BHui&publication_year=2012&title=Examining%2Bthe%2Brole%2Bof%2Blearning%2Bengagement%2Bin%2Btechnology-mediated%2Blearning%2Band%2Bits%2Beffects%2Bon%2Blearning%2Beffectiveness%2Band%2Bsatisfaction&journal=Decis.+Support.+Syst.&volume=53&pages=782-792)
+* 61
+  
+  HuY.-H.YuH.-Y.HsiehC.-L. (2025). Can pedagogical agent-based scaffolding boost information problem-solving in one-on-one collaborative learning with a virtual learning companion?*Educ. Inf. Technol.*22, 1–28. doi: 10.1007/s10639-025-13784-2
+  
+  + [CrossRef](https://doi.org/10.1007/s10639-025-13784-2)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Y.-H..%2BHu&author=H.-Y..%2BYu&author=C.-L..%2BHsieh&publication_year=2025&title=Can%2Bpedagogical%2Bagent-based%2Bscaffolding%2Bboost%2Binformation%2Bproblem-solving%2Bin%2Bone-on-one%2Bcollaborative%2Blearning%2Bwith%2Ba%2Bvirtual%2Blearning%2Bcompanion%3F&journal=Educ.+Inf.+Technol.&volume=22&pages=1-28)
+* 62
+  
+  HughesL.DwivediY. K.MalikT.ShawoshM.AlbashrawiM. A.JeonI.et al. (2025). AI agents and agentic systems: a multi-expert analysis. *J. Comput. Inf. Syst.*12, 1–29. doi: 10.1080/08874417.2025.2483832
+  
+  + [CrossRef](https://doi.org/10.1080/08874417.2025.2483832)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=L..%2BHughes&author=Y.%2BK..%2BDwivedi&author=T..%2BMalik&author=M..%2BShawosh&author=M.%2BA..%2BAlbashrawi&author=I..%2BJeon&publication_year=2025&title=AI%2Bagents%2Band%2Bagentic%2Bsystems%3A%2Ba%2Bmulti-expert%2Banalysis&journal=J.+Comput.+Inf.+Syst.&volume=12&pages=1-29)
+* 63
+  
+  IgbariaM.IivariJ. (1995). The effects of self-efficacy on computer usage. *Omega*23, 587–605. doi: 10.1016/0305-0483(95)00035-6
+  
+  + [CrossRef](https://doi.org/10.1016/0305-0483(95)00035-6)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BIgbaria&author=J..%2BIivari&publication_year=1995&title=The%2Beffects%2Bof%2Bself-efficacy%2Bon%2Bcomputer%2Busage&journal=Omega&volume=23&pages=587-605)
+* 64
+  
+  JeilaniA.AbubakarS. (2025). Perceived institutional support and its effects on student perceptions of AI learning in higher education: the role of mediating perceived learning outcomes and moderating technology self-efficacy. *Front. Educ.*10:1548900. doi: 10.3389/feduc.2025.1548900
+  
+  + [CrossRef](https://doi.org/10.3389/feduc.2025.1548900)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BJeilani&author=S..%2BAbubakar&publication_year=2025&title=Perceived%2Binstitutional%2Bsupport%2Band%2Bits%2Beffects%2Bon%2Bstudent%2Bperceptions%2Bof%2BAI%2Blearning%2Bin%2Bhigher%2Beducation%3A%2Bthe%2Brole%2Bof%2Bmediating%2Bperceived%2Blearning%2Boutcomes%2Band%2Bmoderating%2Btechnology%2Bself-efficacy&journal=Front.+Educ.&volume=10)
+* 65
+  
+  JiaD.BhattiA.NahavandiS. (2014). The impact of self-efficacy and perceived system efficacy on effectiveness of virtual training systems. *Behav. Inf. Technol.*33, 16–35. doi: 10.1080/0144929X.2012.681067
+  
+  + [CrossRef](https://doi.org/10.1080/0144929X.2012.681067)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D..%2BJia&author=A..%2BBhatti&author=S..%2BNahavandi&publication_year=2014&title=The%2Bimpact%2Bof%2Bself-efficacy%2Band%2Bperceived%2Bsystem%2Befficacy%2Bon%2Beffectiveness%2Bof%2Bvirtual%2Btraining%2Bsystems&journal=Behav.+Inf.+Technol.&volume=33&pages=16-35)
+* 66
+  
+  KalantzisM.CopeB. (2004). Designs for learning. *E-Learn. Digit. Media*1, 38–93. doi: 10.2304/elea.2004.1.1.7
+  
+  + [CrossRef](https://doi.org/10.2304/elea.2004.1.1.7)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BKalantzis&author=B..%2BCope&publication_year=2004&title=Designs%2Bfor%2Blearning&journal=E-Learn.+Digit.+Media&volume=1&pages=38-93)
+* 67
+  
+  KatsenouR.KotsidisK.PapadopoulouA.AnastasiadisP.DeliyannisI. (2025). Beyond assistance: embracing AI as a collaborative co-agent in education. *Educ. Sci.*15:1006. doi: 10.3390/educsci15081006
+  
+  + [CrossRef](https://doi.org/10.3390/educsci15081006)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R..%2BKatsenou&author=K..%2BKotsidis&author=A..%2BPapadopoulou&author=P..%2BAnastasiadis&author=I..%2BDeliyannis&publication_year=2025&title=Beyond%2Bassistance%3A%2Bembracing%2BAI%2Bas%2Ba%2Bcollaborative%2Bco-agent%2Bin%2Beducation&journal=Educ.+Sci.&volume=15)
+* 68
+  
+  KhanN. A.MaialehR.AkhtarM.RamzanM. (2024). The role of AI self-efficacy in religious contexts in public sector: the social cognitive theory perspective. *Public Organ. Rev.*24, 1015–1036. doi: 10.1007/s11115-024-00770-4
+  
+  + [CrossRef](https://doi.org/10.1007/s11115-024-00770-4)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N.%2BA..%2BKhan&author=R..%2BMaialeh&author=M..%2BAkhtar&author=M..%2BRamzan&publication_year=2024&title=The%2Brole%2Bof%2BAI%2Bself-efficacy%2Bin%2Breligious%2Bcontexts%2Bin%2Bpublic%2Bsector%3A%2Bthe%2Bsocial%2Bcognitive%2Btheory%2Bperspective&journal=Public+Organ.+Rev.&volume=24&pages=1015-1036)
+* 69
+  
+  KockN. (2015). Common method bias in PLS-SEM: a full collinearity assessment approach. *Int. J. e-Collabor.*11, 1–10. doi: 10.4018/ijec.2015100101
+  
+  + [CrossRef](https://doi.org/10.4018/ijec.2015100101)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N..%2BKock&publication_year=2015&title=Common%2Bmethod%2Bbias%2Bin%2BPLS-SEM%3A%2Ba%2Bfull%2Bcollinearity%2Bassessment%2Bapproach&journal=Int.+J.+e-Collabor.&volume=11&pages=1-10)
+* 70
+  
+  LauerT. W.DengX. (2007). Building online trust through privacy practices. *Int. J. Inf. Secur.*6, 323–331. doi: 10.1007/s10207-007-0028-8
+  
+  + [CrossRef](https://doi.org/10.1007/s10207-007-0028-8)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=T.%2BW..%2BLauer&author=X..%2BDeng&publication_year=2007&title=Building%2Bonline%2Btrust%2Bthrough%2Bprivacy%2Bpractices&journal=Int.+J.+Inf.+Secur.&volume=6&pages=323-331)
+* 71
+  
+  LinH.ChenQ. (2024). Artificial intelligence (AI)-integrated educational applications and college students’ creativity and academic emotions: students and teachers’ perceptions and attitudes. *BMC Psychol.*12:487. doi: 10.1186/s40359-024-01979-0, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39285268)
+  + [CrossRef](https://doi.org/10.1186/s40359-024-01979-0)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=H..%2BLin&author=Q..%2BChen&publication_year=2024&title=Artificial%2Bintelligence%2B%28AI%29-integrated%2Beducational%2Bapplications%2Band%2Bcollege%2Bstudents%E2%80%99%2Bcreativity%2Band%2Bacademic%2Bemotions%3A%2Bstudents%2Band%2Bteachers%E2%80%99%2Bperceptions%2Band%2Battitudes&journal=BMC+Psychol.&volume=12)
+* 72
+  
+  LinC.-C.HuangA. Y. Q.LuO. H. T. (2023). Artificial intelligence in intelligent tutoring systems toward sustainable education: a systematic review. *Smart Learn. Environ.*10:41. doi: 10.1186/s40561-023-00260-y
+  
+  + [CrossRef](https://doi.org/10.1186/s40561-023-00260-y)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C.-C..%2BLin&author=A.%2BY.%2BQ..%2BHuang&author=O.%2BH.%2BT..%2BLu&publication_year=2023&title=Artificial%2Bintelligence%2Bin%2Bintelligent%2Btutoring%2Bsystems%2Btoward%2Bsustainable%2Beducation%3A%2Ba%2Bsystematic%2Breview&journal=Smart+Learn.+Environ.&volume=10)
+* 73
+  
+  LiuL. (2025). Impact of AI gamification on EFL learning outcomes and nonlinear dynamic motivation: comparing adaptive learning paths, conversational agents, and storytelling. *Educ. Inf. Technol.*30, 11299–11338. doi: 10.1007/s10639-024-13296-5
+  
+  + [CrossRef](https://doi.org/10.1007/s10639-024-13296-5)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=L..%2BLiu&publication_year=2025&title=Impact%2Bof%2BAI%2Bgamification%2Bon%2BEFL%2Blearning%2Boutcomes%2Band%2Bnonlinear%2Bdynamic%2Bmotivation%3A%2Bcomparing%2Badaptive%2Blearning%2Bpaths%2C%2Bconversational%2Bagents%2C%2Band%2Bstorytelling&journal=Educ.+Inf.+Technol.&volume=30&pages=11299-11338)
+* 74
+  
+  LyuW.SalamZ. A. (2025). AI-powered personalized learning: enhancing self-efficacy, motivation, and digital literacy in adult education through expectancy-value theory. *Learn. Motiv.*90:102129. doi: 10.1016/j.lmot.2025.102129
+  
+  + [CrossRef](https://doi.org/10.1016/j.lmot.2025.102129)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=W..%2BLyu&author=Z.%2BA..%2BSalam&publication_year=2025&title=AI-powered%2Bpersonalized%2Blearning%3A%2Benhancing%2Bself-efficacy%2C%2Bmotivation%2C%2Band%2Bdigital%2Bliteracy%2Bin%2Badult%2Beducation%2Bthrough%2Bexpectancy-value%2Btheory&journal=Learn.+Motiv.&volume=90)
+* 75
+  
+  MassatyM. H.FahruroziS. K.BudiyantoC. W. (2024). The role of AI in fostering computational thinking and self-efficacy in educational settings: a systematic review. *IJIE*8, 49–61. doi: 10.20961/ijie.v8i1.89596
+  
+  + [CrossRef](https://doi.org/10.20961/ijie.v8i1.89596)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M.%2BH..%2BMassaty&author=S.%2BK..%2BFahrurozi&author=C.%2BW..%2BBudiyanto&publication_year=2024&title=The%2Brole%2Bof%2BAI%2Bin%2Bfostering%2Bcomputational%2Bthinking%2Band%2Bself-efficacy%2Bin%2Beducational%2Bsettings%3A%2Ba%2Bsystematic%2Breview&journal=IJIE&volume=8&pages=49-61)
+* 76
+  
+  MiaoJ.MaL. (2023). Teacher autonomy support influence on online learning engagement: the mediating roles of self-efficacy and self-regulated learning. *SAGE Open*13:21582440231217736. doi: 10.1177/21582440231217737
+  
+  + [CrossRef](https://doi.org/10.1177/21582440231217737)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BMiao&author=L..%2BMa&publication_year=2023&title=Teacher%2Bautonomy%2Bsupport%2Binfluence%2Bon%2Bonline%2Blearning%2Bengagement%3A%2Bthe%2Bmediating%2Broles%2Bof%2Bself-efficacy%2Band%2Bself-regulated%2Blearning&journal=SAGE+Open&volume=13)
+* 77
+  
+  MooreM. E.VegaD. M.WiensK. M.CaporaleN. (2020). Connecting theory to practice: using self-determination theory to better understand inclusion in STEM. *J. Microbiol. Biol. Educ.*21, 10–1128. doi: 10.1128/jmbe.v21i1.1955
+  
+  + [CrossRef](https://doi.org/10.1128/jmbe.v21i1.1955)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M.%2BE..%2BMoore&author=D.%2BM..%2BVega&author=K.%2BM..%2BWiens&author=N..%2BCaporale&publication_year=2020&title=Connecting%2Btheory%2Bto%2Bpractice%3A%2Busing%2Bself-determination%2Btheory%2Bto%2Bbetter%2Bunderstand%2Binclusion%2Bin%2BSTEM&journal=J.+Microbiol.+Biol.+Educ.&volume=21&pages=10-1128)
+* 78
+  
+  MunY. Y.JacksonJ. D.ParkJ. S.ProbstJ. C. (2006). Understanding information technology acceptance by individual professionals: toward an integrative view. *Inf. Manag.*43, 350–363. doi: 10.1016/j.im.2005.08.006
+  
+  + [CrossRef](https://doi.org/10.1016/j.im.2005.08.006)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Y.%2BY..%2BMun&author=J.%2BD..%2BJackson&author=J.%2BS..%2BPark&author=J.%2BC..%2BProbst&publication_year=2006&title=Understanding%2Binformation%2Btechnology%2Bacceptance%2Bby%2Bindividual%2Bprofessionals%3A%2Btoward%2Ban%2Bintegrative%2Bview&journal=Inf.+Manag.&volume=43&pages=350-363)
+* 79
+  
+  MunnaM. S. H.HossainM. R.SayloK. R. (2024). Digital education revolution: evaluating LMS-based learning and traditional approaches. *J. Innov. Technol. Converg.*6:22. doi: 10.69478/JITC2024v6n002a03
+  
+  + [CrossRef](https://doi.org/10.69478/JITC2024v6n002a03)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M.%2BS.%2BH..%2BMunna&author=M.%2BR..%2BHossain&author=K.%2BR..%2BSaylo&publication_year=2024&title=Digital%2Beducation%2Brevolution%3A%2Bevaluating%2BLMS-based%2Blearning%2Band%2Btraditional%2Bapproaches&journal=J.+Innov.+Technol.+Converg.&volume=6)
+* 80
+  
+  MurugesanS. (2025). The rise of agentic AI: implications, concerns, and the path forward. *IEEE Intell. Syst.*40, 8–14. doi: 10.1109/MIS.2025.3544940
+  
+  + [CrossRef](https://doi.org/10.1109/MIS.2025.3544940)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=S..%2BMurugesan&publication_year=2025&title=The%2Brise%2Bof%2Bagentic%2BAI%3A%2Bimplications%2C%2Bconcerns%2C%2Band%2Bthe%2Bpath%2Bforward&journal=IEEE+Intell.+Syst.&volume=40&pages=8-14)
+* 81
+  
+  MusyaffiA. M.AdhaM. A.MukhibadH.OliM. C. (2024). Improving students’ openness to artificial intelligence through risk awareness and digital literacy: evidence form a developing country. *Soc. Sci. Humanit. Open*10:101168. doi: 10.1016/j.ssaho.2024.101168
+  
+  + [CrossRef](https://doi.org/10.1016/j.ssaho.2024.101168)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BM..%2BMusyaffi&author=M.%2BA..%2BAdha&author=H..%2BMukhibad&author=M.%2BC..%2BOli&publication_year=2024&title=Improving%2Bstudents%E2%80%99%2Bopenness%2Bto%2Bartificial%2Bintelligence%2Bthrough%2Brisk%2Bawareness%2Band%2Bdigital%2Bliteracy%3A%2Bevidence%2Bform%2Ba%2Bdeveloping%2Bcountry&journal=Soc.+Sci.+Humanit.+Open&volume=10)
+* 82
+  
+  NúñezJ. L.LeónJ. (2015). Autonomy support in the classroom. *Eur. Psychol.*20, 275–283. doi: 10.1027/1016-9040/a000234
+  
+  + [CrossRef](https://doi.org/10.1027/1016-9040/a000234)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J.%2BL..%2BN%C3%BA%C3%B1ez&author=J..%2BLe%C3%B3n&publication_year=2015&title=Autonomy%2Bsupport%2Bin%2Bthe%2Bclassroom&journal=Eur.+Psychol.&volume=20&pages=275-283)
+* 83
+  
+  NunnallyB.BernsteinI. (1994). *Psychometric theory*. London: Sage Publications.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=B..%2BNunnally&author=I..%2BBernstein&publication_year=1994&journal=Psychometric+theory)
+* 84
+  
+  OkE.*An evaluation of the learning management system for increasing student engagement in higher education a review*2025
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=E..%2BOk&publication_year=2025&journal=An+evaluation+of+the+learning+management+system+for+increasing+student+engagement+in+higher+education+a+review)
+* 85
+  
+  PanS.Jordan-MarshM. (2010). Internet use intention and adoption among Chinese older adults: from the expanded technology acceptance model perspective. *Comput. Human Behav.*26, 1111–1119. doi: 10.1016/j.chb.2010.03.015
+  
+  + [CrossRef](https://doi.org/10.1016/j.chb.2010.03.015)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=S..%2BPan&author=M..%2BJordan-Marsh&publication_year=2010&title=Internet%2Buse%2Bintention%2Band%2Badoption%2Bamong%2BChinese%2Bolder%2Badults%3A%2Bfrom%2Bthe%2Bexpanded%2Btechnology%2Bacceptance%2Bmodel%2Bperspective&journal=Comput.+Human+Behav.&volume=26&pages=1111-1119)
+* 86
+  
+  PatallE. A.KennedyA. A. U.YatesN.ZambranoJ.LeeD.ViteA. (2022). The relations between urban high school science students’ agentic mindset, agentic engagement, and perceived teacher autonomy support and control. *Contemp. Educ. Psychol.*71:102097. doi: 10.1016/j.cedpsych.2022.102097
+  
+  + [CrossRef](https://doi.org/10.1016/j.cedpsych.2022.102097)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=E.%2BA..%2BPatall&author=A.%2BA.%2BU..%2BKennedy&author=N..%2BYates&author=J..%2BZambrano&author=D..%2BLee&author=A..%2BVite&publication_year=2022&title=The%2Brelations%2Bbetween%2Burban%2Bhigh%2Bschool%2Bscience%2Bstudents%E2%80%99%2Bagentic%2Bmindset%2C%2Bagentic%2Bengagement%2C%2Band%2Bperceived%2Bteacher%2Bautonomy%2Bsupport%2Band%2Bcontrol&journal=Contemp.+Educ.+Psychol.&volume=71)
+* 87
+  
+  PathakA.BansalV. (2024). AI as decision aid or delegated agent: the effects of trust dimensions on the adoption of AI digital agents. *Comput. Hum. Behav. Artif. Humans*2:100094. doi: 10.1016/j.chbah.2024.100094
+  
+  + [CrossRef](https://doi.org/10.1016/j.chbah.2024.100094)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BPathak&author=V..%2BBansal&publication_year=2024&title=AI%2Bas%2Bdecision%2Baid%2Bor%2Bdelegated%2Bagent%3A%2Bthe%2Beffects%2Bof%2Btrust%2Bdimensions%2Bon%2Bthe%2Badoption%2Bof%2BAI%2Bdigital%2Bagents&journal=Comput.+Hum.+Behav.+Artif.+Humans&volume=2)
+* 88
+  
+  PodsakoffP. M.MacKenzieS. B.LeeJ.-Y.PodsakoffN. P. (2003). Common method biases in behavioral research: a critical review of the literature and recommended remedies. *J. Appl. Psychol.*88, 879–903. doi: 10.1037/0021-9010.88.5.879, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/14516251)
+  + [CrossRef](https://doi.org/10.1037/0021-9010.88.5.879)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=P.%2BM..%2BPodsakoff&author=S.%2BB..%2BMacKenzie&author=J.-Y..%2BLee&author=N.%2BP..%2BPodsakoff&publication_year=2003&title=Common%2Bmethod%2Bbiases%2Bin%2Bbehavioral%2Bresearch%3A%2Ba%2Bcritical%2Breview%2Bof%2Bthe%2Bliterature%2Band%2Brecommended%2Bremedies&journal=J.+Appl.+Psychol.&volume=88&pages=879-903)
+* 89
+  
+  PolisettyA.ChakrabortyD.KarA. K.PahariS. (2024). What determines AI adoption in companies? Mixed-method evidence. *J. Comput. Inf. Syst.*64, 370–387. doi: 10.1080/08874417.2023.2219668
+  
+  + [CrossRef](https://doi.org/10.1080/08874417.2023.2219668)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BPolisetty&author=D..%2BChakraborty&author=A.%2BK..%2BKar&author=S..%2BPahari&publication_year=2024&title=What%2Bdetermines%2BAI%2Badoption%2Bin%2Bcompanies%3F%2BMixed-method%2Bevidence&journal=J.+Comput.+Inf.+Syst.&volume=64&pages=370-387)
+* 90
+  
+  RasheedH. M. W.ChenY.KhizarH. M. U.SafeerA. A. (2023). Understanding the factors affecting AI services adoption in hospitality: the role of behavioral reasons and emotional intelligence. *Heliyon*9:e16968. doi: 10.1016/j.heliyon.2023.e16968, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/37484303)
+  + [CrossRef](https://doi.org/10.1016/j.heliyon.2023.e16968)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=H.%2BM.%2BW..%2BRasheed&author=Y..%2BChen&author=H.%2BM.%2BU..%2BKhizar&author=A.%2BA..%2BSafeer&publication_year=2023&title=Understanding%2Bthe%2Bfactors%2Baffecting%2BAI%2Bservices%2Badoption%2Bin%2Bhospitality%3A%2Bthe%2Brole%2Bof%2Bbehavioral%2Breasons%2Band%2Bemotional%2Bintelligence&journal=Heliyon&volume=9)
+* 91
+  
+  ReeveJ. (2013). How students create motivationally supportive learning environments for themselves: the concept of agentic engagement. *J. Educ. Psychol.*105:579. doi: 10.1037/a0032690
+  
+  + [CrossRef](https://doi.org/10.1037/a0032690)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BReeve&publication_year=2013&title=How%2Bstudents%2Bcreate%2Bmotivationally%2Bsupportive%2Blearning%2Benvironments%2Bfor%2Bthemselves%3A%2Bthe%2Bconcept%2Bof%2Bagentic%2Bengagement&journal=J.+Educ.+Psychol.&volume=105)
+* 92
+  
+  ReeveJ.ShinS. H. (2020). How teachers can support students’ agentic engagement. *Theory Pract.*59, 150–161. doi: 10.1080/00405841.2019.1702451
+  
+  + [CrossRef](https://doi.org/10.1080/00405841.2019.1702451)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BReeve&author=S.%2BH..%2BShin&publication_year=2020&title=How%2Bteachers%2Bcan%2Bsupport%2Bstudents%E2%80%99%2Bagentic%2Bengagement&journal=Theory+Pract.&volume=59&pages=150-161)
+* 93
+  
+  RigbyC. S.RyanR. M. (2018). Self-determination theory in human resource development: new directions and practical considerations. *Adv. Dev. Hum. Resour.*20, 133–147. doi: 10.1177/1523422318756954
+  
+  + [CrossRef](https://doi.org/10.1177/1523422318756954)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C.%2BS..%2BRigby&author=R.%2BM..%2BRyan&publication_year=2018&title=Self-determination%2Btheory%2Bin%2Bhuman%2Bresource%2Bdevelopment%3A%2Bnew%2Bdirections%2Band%2Bpractical%2Bconsiderations&journal=Adv.+Dev.+Hum.+Resour.&volume=20&pages=133-147)
+* 94
+  
+  RothA.OgrinS.SchmitzB. (2016). Assessing self-regulated learning in higher education: a systematic literature review of self-report instruments. *Educ. Assess. Eval. Account.*28, 225–250. doi: 10.1007/s11092-015-9229-2
+  
+  + [CrossRef](https://doi.org/10.1007/s11092-015-9229-2)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BRoth&author=S..%2BOgrin&author=B..%2BSchmitz&publication_year=2016&title=Assessing%2Bself-regulated%2Blearning%2Bin%2Bhigher%2Beducation%3A%2Ba%2Bsystematic%2Bliterature%2Breview%2Bof%2Bself-report%2Binstruments&journal=Educ.+Assess.+Eval.+Account.&volume=28&pages=225-250)
+* 95
+  
+  RyanR. M.DeciE. L. (2020). Intrinsic and extrinsic motivation from a self-determination theory perspective: definitions, theory, practices, and future directions. *Contemp. Educ. Psychol.*61:101860. doi: 10.1016/j.cedpsych.2020.101860
+  
+  + [CrossRef](https://doi.org/10.1016/j.cedpsych.2020.101860)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R.%2BM..%2BRyan&author=E.%2BL..%2BDeci&publication_year=2020&title=Intrinsic%2Band%2Bextrinsic%2Bmotivation%2Bfrom%2Ba%2Bself-determination%2Btheory%2Bperspective%3A%2Bdefinitions%2C%2Btheory%2C%2Bpractices%2C%2Band%2Bfuture%2Bdirections&journal=Contemp.+Educ.+Psychol.&volume=61)
+* 96
+  
+  SalatinoA.PrévelA.CasparE.Lo BueS. (2025). ‘Fire! Do not fire!’: Investigating the effects of autonomous systems on agency and moral decision-making. *Acta Psychol.*260:105350. doi: 10.1016/j.actpsy.2025.105350
+  
+  + [CrossRef](https://doi.org/10.1016/j.actpsy.2025.105350)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BSalatino&author=A..%2BPr%C3%A9vel&author=E..%2BCaspar&author=S..%2BLo%2BBue&publication_year=2025&title=%E2%80%98Fire%21%2BDo%2Bnot%2Bfire%21%E2%80%99%3A%2BInvestigating%2Bthe%2Beffects%2Bof%2Bautonomous%2Bsystems%2Bon%2Bagency%2Band%2Bmoral%2Bdecision-making&journal=Acta+Psychol.&volume=260)
+* 97
+  
+  SalehE. H. (2025). Empowering learners: exploring teaching strategies, AI integration, and motivation tools for fostering autonomous learning in higher education. *East J. Hum. Sci.*1, 14–34. doi: 10.63496/ejhs.Vol1.Iss6.182
+  
+  + [CrossRef](https://doi.org/10.63496/ejhs.Vol1.Iss6.182)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=E.%2BH..%2BSaleh&publication_year=2025&title=Empowering%2Blearners%3A%2Bexploring%2Bteaching%2Bstrategies%2C%2BAI%2Bintegration%2C%2Band%2Bmotivation%2Btools%2Bfor%2Bfostering%2Bautonomous%2Blearning%2Bin%2Bhigher%2Beducation&journal=East+J.+Hum.+Sci.&volume=1&pages=14-34)
+* 98
+  
+  SarstedtM.RingleC. M.HairJ. F. (2021). “Partial least squares structural equation modeling” in *Handbook of market research*. eds. HomburgC.KlarmannM.VombergA. (Cham: Springer), 587–632.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BSarstedt&author=C.%2BM..%2BRingle&author=J.%2BF..%2BHair&publication_year=2021&title=Partial%2Bleast%2Bsquares%2Bstructural%2Bequation%2Bmodeling&journal=Handbook+of+market+research&pages=587-632)
+* 99
+  
+  SchunkD. H. “*Social cognitive theory*. 2012
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D.%2BH..%2BSchunk&publication_year=2012&journal=Social+cognitive+theory)
+* 100
+  
+  ShahzadM. F.XuS.LimW. M.YangX.KhanQ. R. (2024). Artificial intelligence and social media on academic performance and mental well-being: student perceptions of positive impact in the age of smart learning. *Heliyon*10:56. doi: 10.1016/j.heliyon.2024.e29523
+  
+  + [CrossRef](https://doi.org/10.1016/j.heliyon.2024.e29523)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M.%2BF..%2BShahzad&author=S..%2BXu&author=W.%2BM..%2BLim&author=X..%2BYang&author=Q.%2BR..%2BKhan&publication_year=2024&title=Artificial%2Bintelligence%2Band%2Bsocial%2Bmedia%2Bon%2Bacademic%2Bperformance%2Band%2Bmental%2Bwell-being%3A%2Bstudent%2Bperceptions%2Bof%2Bpositive%2Bimpact%2Bin%2Bthe%2Bage%2Bof%2Bsmart%2Blearning&journal=Heliyon&volume=10)
+* 101
+  
+  ShaoC.NahS.MakadyH.McNealyJ. (2025). Understanding user attitudes towards AI-enabled technologies: an integrated model of self-efficacy, TAM, and AI ethics. *Int. J. Human–Computer Interact.*41, 3053–3065. doi: 10.1080/10447318.2024.2331858
+  
+  + [CrossRef](https://doi.org/10.1080/10447318.2024.2331858)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C..%2BShao&author=S..%2BNah&author=H..%2BMakady&author=J..%2BMcNealy&publication_year=2025&title=Understanding%2Buser%2Battitudes%2Btowards%2BAI-enabled%2Btechnologies%3A%2Ban%2Bintegrated%2Bmodel%2Bof%2Bself-efficacy%2C%2BTAM%2C%2Band%2BAI%2Bethics&journal=Int.+J.+Human%E2%80%93Computer+Interact.&volume=41&pages=3053-3065)
+* 102
+  
+  ShiS.ZhangH. (2025). EFL students’ motivation predicted by their self-efficacy and resilience in artificial intelligence (AI)-based context: from a self-determination theory perspective. *Learn. Motiv.*91:102151. doi: 10.1016/j.lmot.2025.102151
+  
+  + [CrossRef](https://doi.org/10.1016/j.lmot.2025.102151)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=S..%2BShi&author=H..%2BZhang&publication_year=2025&title=EFL%2Bstudents%E2%80%99%2Bmotivation%2Bpredicted%2Bby%2Btheir%2Bself-efficacy%2Band%2Bresilience%2Bin%2Bartificial%2Bintelligence%2B%28AI%29-based%2Bcontext%3A%2Bfrom%2Ba%2Bself-determination%2Btheory%2Bperspective&journal=Learn.+Motiv.&volume=91)
+* 103
+  
+  ŞimşekA. S.CengizG. Ş. T.BalM. (2025). Extending the TAM framework: exploring learning motivation and agility in educational adoption of generative AI. *Educ. Inf. Technol.*30, 20913–20942. doi: 10.1007/s10639-025-13591-9
+  
+  + [CrossRef](https://doi.org/10.1007/s10639-025-13591-9)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BS..%2B%C5%9Eim%C5%9Fek&author=G.%2B%C5%9E.%2BT..%2BCengiz&author=M..%2BBal&publication_year=2025&title=Extending%2Bthe%2BTAM%2Bframework%3A%2Bexploring%2Blearning%2Bmotivation%2Band%2Bagility%2Bin%2Beducational%2Badoption%2Bof%2Bgenerative%2BAI&journal=Educ.+Inf.+Technol.&volume=30&pages=20913-20942)
+* 104
+  
+  StajkovicA. D.LuthansF. (1998). Social cognitive theory and self-efficacy: goin beyond traditional motivational and behavioral approaches. *Organ. Dyn.*26, 62–74. doi: 10.1016/S0090-2616(98)90006-7
+  
+  + [CrossRef](https://doi.org/10.1016/S0090-2616(98)90006-7)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BD..%2BStajkovic&author=F..%2BLuthans&publication_year=1998&title=Social%2Bcognitive%2Btheory%2Band%2Bself-efficacy%3A%2Bgoin%2Bbeyond%2Btraditional%2Bmotivational%2Band%2Bbehavioral%2Bapproaches&journal=Organ.+Dyn.&volume=26&pages=62-74)
+* 105
+  
+  StrielkowskiW.GrebennikovaV.LisovskiyA.RakhimovaG.VasilevaT. (2025). AI-driven adaptive learning for sustainable educational transformation. *Sustain. Dev.*33, 1921–1947. doi: 10.1002/sd.3221
+  
+  + [CrossRef](https://doi.org/10.1002/sd.3221)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=W..%2BStrielkowski&author=V..%2BGrebennikova&author=A..%2BLisovskiy&author=G..%2BRakhimova&author=T..%2BVasileva&publication_year=2025&title=AI-driven%2Badaptive%2Blearning%2Bfor%2Bsustainable%2Beducational%2Btransformation&journal=Sustain.+Dev.&volume=33&pages=1921-1947)
+* 106
+  
+  SurianoR.PlebeA.AcciaiA.FabioR. A. (2025). Student interaction with ChatGPT can promote complex critical thinking skills. *Learn. Instr.*95:102011. doi: 10.1016/j.learninstruc.2024.102011
+  
+  + [CrossRef](https://doi.org/10.1016/j.learninstruc.2024.102011)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R..%2BSuriano&author=A..%2BPlebe&author=A..%2BAcciai&author=R.%2BA..%2BFabio&publication_year=2025&title=Student%2Binteraction%2Bwith%2BChatGPT%2Bcan%2Bpromote%2Bcomplex%2Bcritical%2Bthinking%2Bskills&journal=Learn.+Instr.&volume=95)
+* 107
+  
+  TamA. C. F. (2024). Interacting with ChatGPT for internal feedback and factors affecting feedback quality. *Assess. Eval. High. Educ.*22, 1–17. doi: 10.1080/02602938.2024.2374485
+  
+  + [CrossRef](https://doi.org/10.1080/02602938.2024.2374485)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BC.%2BF..%2BTam&publication_year=2024&title=Interacting%2Bwith%2BChatGPT%2Bfor%2Binternal%2Bfeedback%2Band%2Bfactors%2Baffecting%2Bfeedback%2Bquality&journal=Assess.+Eval.+High.+Educ.&volume=22&pages=1-17)
+* 108
+  
+  ThabetZ.AlbashtawiS.AnsariH.Al-EmranM.Al-SharafiM. A.AlQudahA. A. (2023). Exploring the factors affecting telemedicine adoption by integrating UTAUT2 and IS success model: a hybrid SEM–ANN approach. *IEEE Trans. Eng. Manag.*71, 8938–8950. doi: 10.1109/TEM.2023.3296132
+  
+  + [CrossRef](https://doi.org/10.1109/TEM.2023.3296132)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Z..%2BThabet&author=S..%2BAlbashtawi&author=H..%2BAnsari&author=M..%2BAl-Emran&author=M.%2BA..%2BAl-Sharafi&author=A.%2BA..%2BAlQudah&publication_year=2023&title=Exploring%2Bthe%2Bfactors%2Baffecting%2Btelemedicine%2Badoption%2Bby%2Bintegrating%2BUTAUT2%2Band%2BIS%2Bsuccess%2Bmodel%3A%2Ba%2Bhybrid%2BSEM%E2%80%93ANN%2Bapproach&journal=IEEE+Trans.+Eng.+Manag.&volume=71&pages=8938-8950)
+* 109
+  
+  TuffahatiN. N.NugrahaJ. (2021). The effect of perceived usefulness and perceived ease of use on the Google classroom against learning motivation. *J. TAM*12, 19–32. doi: 10.56327/jurnaltam.v12i1.1005
+  
+  + [CrossRef](https://doi.org/10.56327/jurnaltam.v12i1.1005)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N.%2BN..%2BTuffahati&author=J..%2BNugraha&publication_year=2021&title=The%2Beffect%2Bof%2Bperceived%2Busefulness%2Band%2Bperceived%2Bease%2Bof%2Buse%2Bon%2Bthe%2BGoogle%2Bclassroom%2Bagainst%2Blearning%2Bmotivation&journal=J.+TAM&volume=12&pages=19-32)
+* 110
+  
+  TylerN. C.YzquierdoZ.Lopez-ReynaN.Saunders FlippinS. (2004). Cultural and linguistic diversity and the special education workforce: a critical overview. *J. Spec. Educ.*38, 22–38. doi: 10.1177/00224669040380010301
+  
+  + [CrossRef](https://doi.org/10.1177/00224669040380010301)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N.%2BC..%2BTyler&author=Z..%2BYzquierdo&author=N..%2BLopez-Reyna&author=S..%2BSaunders%2BFlippin&publication_year=2004&title=Cultural%2Band%2Blinguistic%2Bdiversity%2Band%2Bthe%2Bspecial%2Beducation%2Bworkforce%3A%2Ba%2Bcritical%2Boverview&journal=J.+Spec.+Educ.&volume=38&pages=22-38)
+* 111
+  
+  VannesteB. S.PuranamP. (2024). Artificial intelligence, trust, and perceptions of agency. *Acad. Manag. Rev.* doi: 10.5465/amr.2022.0041
+  
+  + [CrossRef](https://doi.org/10.5465/amr.2022.0041)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=B.%2BS..%2BVanneste&author=P..%2BPuranam&publication_year=2024&title=Artificial%2Bintelligence%2C%2Btrust%2C%2Band%2Bperceptions%2Bof%2Bagency&journal=Acad.+Manag.+Rev.)
+* 112
+  
+  VansteenkisteM.AeltermanN.De MuynckG.-J.HaerensL.PatallE.ReeveJ. (2018). Fostering personal meaning and self-relevance: a self-determination theory perspective on internalization. *J. Exp. Educ.*86, 30–49. doi: 10.1080/00220973.2017.1381067
+  
+  + [CrossRef](https://doi.org/10.1080/00220973.2017.1381067)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BVansteenkiste&author=N..%2BAelterman&author=G.-J..%2BDe%2BMuynck&author=L..%2BHaerens&author=E..%2BPatall&author=J..%2BReeve&publication_year=2018&title=Fostering%2Bpersonal%2Bmeaning%2Band%2Bself-relevance%3A%2Ba%2Bself-determination%2Btheory%2Bperspective%2Bon%2Binternalization&journal=J.+Exp.+Educ.&volume=86&pages=30-49)
+* 113
+  
+  VenkateshV. (2000). Determinants of perceived ease of use: integrating control, intrinsic motivation, and emotion into the technology acceptance model. *Inf. Syst. Res.*11, 342–365. doi: 10.1287/isre.11.4.342.11872
+  
+  + [CrossRef](https://doi.org/10.1287/isre.11.4.342.11872)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=V..%2BVenkatesh&publication_year=2000&title=Determinants%2Bof%2Bperceived%2Bease%2Bof%2Buse%3A%2Bintegrating%2Bcontrol%2C%2Bintrinsic%2Bmotivation%2C%2Band%2Bemotion%2Binto%2Bthe%2Btechnology%2Bacceptance%2Bmodel&journal=Inf.+Syst.+Res.&volume=11&pages=342-365)
+* 114
+  
+  VenkateshV.DavisF. D. (2000). A theoretical extension of the technology acceptance model: four longitudinal field studies. *Manag. Sci.*46, 186–204. doi: 10.1287/mnsc.46.2.186.11926
+  
+  + [CrossRef](https://doi.org/10.1287/mnsc.46.2.186.11926)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=V..%2BVenkatesh&author=F.%2BD..%2BDavis&publication_year=2000&title=A%2Btheoretical%2Bextension%2Bof%2Bthe%2Btechnology%2Bacceptance%2Bmodel%3A%2Bfour%2Blongitudinal%2Bfield%2Bstudies&journal=Manag.+Sci.&volume=46&pages=186-204)
+* 115
+  
+  VenkateshV.ThongJ. Y. L.XuX. (2012). Consumer acceptance and use of information technology: extending the unified theory of acceptance and use of technology. *MIS Q.*36, 157–178. doi: 10.2307/41410412
+  
+  + [CrossRef](https://doi.org/10.2307/41410412)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=V..%2BVenkatesh&author=J.%2BY.%2BL..%2BThong&author=X..%2BXu&publication_year=2012&title=Consumer%2Bacceptance%2Band%2Buse%2Bof%2Binformation%2Btechnology%3A%2Bextending%2Bthe%2Bunified%2Btheory%2Bof%2Bacceptance%2Band%2Buse%2Bof%2Btechnology&journal=MIS+Q.&volume=36&pages=157-178)
+* 116
+  
+  VibergO.CukurovaM.Feldman-MaggorY.AlexandronG.ShiraiS.KanemuneM.et al. (2024). What explains teachers’ trust in AI in education across six countries?*Int. J. Artif. Intell. Educ.*22, 1–29. doi: 10.1007/s40593-024-00433-x
+  
+  + [CrossRef](https://doi.org/10.1007/s40593-024-00433-x)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=O..%2BViberg&author=M..%2BCukurova&author=Y..%2BFeldman-Maggor&author=G..%2BAlexandron&author=S..%2BShirai&author=M..%2BKanemune&publication_year=2024&title=What%2Bexplains%2Bteachers%E2%80%99%2Btrust%2Bin%2BAI%2Bin%2Beducation%2Bacross%2Bsix%2Bcountries%3F&journal=Int.+J.+Artif.+Intell.+Educ.&volume=22&pages=1-29)
+* 117
+  
+  WangM. (2024). Modeling the contributions of perceived teacher autonomy support and school climate to Chinese EFL students’ learning engagement. *Percept. Mot. Skills*131, 2008–2029. doi: 10.1177/00315125241272672, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39162059)
+  + [CrossRef](https://doi.org/10.1177/00315125241272672)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BWang&publication_year=2024&title=Modeling%2Bthe%2Bcontributions%2Bof%2Bperceived%2Bteacher%2Bautonomy%2Bsupport%2Band%2Bschool%2Bclimate%2Bto%2BChinese%2BEFL%2Bstudents%E2%80%99%2Blearning%2Bengagement&journal=Percept.+Mot.+Skills&volume=131&pages=2008-2029)
+* 118
+  
+  WangC.WangH.LiY.DaiJ.GuX.YuT. (2025). Factors influencing university students’ behavioral intention to use generative artificial intelligence: integrating the theory of planned behavior and AI literacy. *Int. J. Human–Computer Interact.*41, 6649–6671. doi: 10.1080/10447318.2024.2383033
+  
+  + [CrossRef](https://doi.org/10.1080/10447318.2024.2383033)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C..%2BWang&author=H..%2BWang&author=Y..%2BLi&author=J..%2BDai&author=X..%2BGu&author=T..%2BYu&publication_year=2025&title=Factors%2Binfluencing%2Buniversity%2Bstudents%E2%80%99%2Bbehavioral%2Bintention%2Bto%2Buse%2Bgenerative%2Bartificial%2Bintelligence%3A%2Bintegrating%2Bthe%2Btheory%2Bof%2Bplanned%2Bbehavior%2Band%2BAI%2Bliteracy&journal=Int.+J.+Human%E2%80%93Computer+Interact.&volume=41&pages=6649-6671)
+* 119
+  
+  WongL.-W.TanG. W.-H.OoiK.-B.DwivediY. (2024). The role of institutional and self in the formation of trust in artificial intelligence technologies. *Internet Res.*34, 343–370. doi: 10.1108/INTR-07-2021-0446
+  
+  + [CrossRef](https://doi.org/10.1108/INTR-07-2021-0446)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=L.-W..%2BWong&author=G.%2BW.-H..%2BTan&author=K.-B..%2BOoi&author=Y..%2BDwivedi&publication_year=2024&title=The%2Brole%2Bof%2Binstitutional%2Band%2Bself%2Bin%2Bthe%2Bformation%2Bof%2Btrust%2Bin%2Bartificial%2Bintelligence%2Btechnologies&journal=Internet+Res.&volume=34&pages=343-370)
+* 120
+  
+  WuD.ZhangS.MaZ.YueX.-G.DongR. K. (2024). Unlocking potential: key factors shaping undergraduate self-directed learning in AI-enhanced educational environments. *Systems*12:332. doi: 10.3390/systems12090332
+  
+  + [CrossRef](https://doi.org/10.3390/systems12090332)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D..%2BWu&author=S..%2BZhang&author=Z..%2BMa&author=X.-G..%2BYue&author=R.%2BK..%2BDong&publication_year=2024&title=Unlocking%2Bpotential%3A%2Bkey%2Bfactors%2Bshaping%2Bundergraduate%2Bself-directed%2Blearning%2Bin%2BAI-enhanced%2Beducational%2Benvironments&journal=Systems&volume=12)
+* 121
+  
+  XiaQ.ChiuT. K. F.ChaiC. S. (2023). The moderating effects of gender and need satisfaction on self-regulated learning through artificial intelligence (AI). *Educ. Inf. Technol.*28, 8691–8713. doi: 10.1007/s10639-022-11547-x
+  
+  + [CrossRef](https://doi.org/10.1007/s10639-022-11547-x)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Q..%2BXia&author=T.%2BK.%2BF..%2BChiu&author=C.%2BS..%2BChai&publication_year=2023&title=The%2Bmoderating%2Beffects%2Bof%2Bgender%2Band%2Bneed%2Bsatisfaction%2Bon%2Bself-regulated%2Blearning%2Bthrough%2Bartificial%2Bintelligence%2B%28AI%29&journal=Educ.+Inf.+Technol.&volume=28&pages=8691-8713)
+* 122
+  
+  XiaL.AnX.LiX.DongY. (2025). Perceptions of generative artificial intelligence (AI), behavioral intention, and use experience as predictors of university students’ learning agency in generative AI-supported contexts. *J. Educ. Comput. Res.*:07356331251382853. doi: 10.1177/07356331251382853
+  
+  + [CrossRef](https://doi.org/10.1177/07356331251382853)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=L..%2BXia&author=X..%2BAn&author=X..%2BLi&author=Y..%2BDong&publication_year=2025&title=Perceptions%2Bof%2Bgenerative%2Bartificial%2Bintelligence%2B%28AI%29%2C%2Bbehavioral%2Bintention%2C%2Band%2Buse%2Bexperience%2Bas%2Bpredictors%2Bof%2Buniversity%2Bstudents%E2%80%99%2Blearning%2Bagency%2Bin%2Bgenerative%2BAI-supported%2Bcontexts&journal=J.+Educ.+Comput.+Res.)
+* 123
+  
+  XuZ.ZhaoY.ZhangB.LiewJ.KogutA. (2023). A meta-analysis of the efficacy of self-regulated learning interventions on academic achievement in online and blended environments in K-12 and higher education. *Behav. Inf. Technol.*42, 2911–2931. doi: 10.1080/0144929X.2022.2151935
+  
+  + [CrossRef](https://doi.org/10.1080/0144929X.2022.2151935)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Z..%2BXu&author=Y..%2BZhao&author=B..%2BZhang&author=J..%2BLiew&author=A..%2BKogut&publication_year=2023&title=A%2Bmeta-analysis%2Bof%2Bthe%2Befficacy%2Bof%2Bself-regulated%2Blearning%2Binterventions%2Bon%2Bacademic%2Bachievement%2Bin%2Bonline%2Band%2Bblended%2Benvironments%2Bin%2BK-12%2Band%2Bhigher%2Beducation&journal=Behav.+Inf.+Technol.&volume=42&pages=2911-2931)
+* 124
+  
+  XuQ.LiuY.LiX. (2025). Unlocking student potential: how AI-driven personalized feedback shapes goal achievement, self-efficacy, and learning engagement through a self-determination lens. *Learn. Motiv.*91:102138. doi: 10.1016/j.lmot.2025.102138
+  
+  + [CrossRef](https://doi.org/10.1016/j.lmot.2025.102138)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Q..%2BXu&author=Y..%2BLiu&author=X..%2BLi&publication_year=2025&title=Unlocking%2Bstudent%2Bpotential%3A%2Bhow%2BAI-driven%2Bpersonalized%2Bfeedback%2Bshapes%2Bgoal%2Bachievement%2C%2Bself-efficacy%2C%2Band%2Blearning%2Bengagement%2Bthrough%2Ba%2Bself-determination%2Blens&journal=Learn.+Motiv.&volume=91)
+* 125
+  
+  YangM.LovettN.LiB.HouZ. (2025). Towards dynamic learner state: orchestrating AI agents and workplace performance via the model context protocol. *Educ. Sci.*15:1004. doi: 10.3390/educsci15081004
+  
+  + [CrossRef](https://doi.org/10.3390/educsci15081004)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BYang&author=N..%2BLovett&author=B..%2BLi&author=Z..%2BHou&publication_year=2025&title=Towards%2Bdynamic%2Blearner%2Bstate%3A%2Borchestrating%2BAI%2Bagents%2Band%2Bworkplace%2Bperformance%2Bvia%2Bthe%2Bmodel%2Bcontext%2Bprotocol&journal=Educ.+Sci.&volume=15)
+* 126
+  
+  YaoN.WangQ. (2024). Factors influencing pre-service special education teachers’ intention toward AI in education: digital literacy, teacher self-efficacy, perceived ease of use, and perceived usefulness. *Heliyon*10:22. doi: 10.1016/j.heliyon.2024.e34894
+  
+  + [CrossRef](https://doi.org/10.1016/j.heliyon.2024.e34894)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N..%2BYao&author=Q..%2BWang&publication_year=2024&title=Factors%2Binfluencing%2Bpre-service%2Bspecial%2Beducation%2Bteachers%E2%80%99%2Bintention%2Btoward%2BAI%2Bin%2Beducation%3A%2Bdigital%2Bliteracy%2C%2Bteacher%2Bself-efficacy%2C%2Bperceived%2Bease%2Bof%2Buse%2C%2Band%2Bperceived%2Busefulness&journal=Heliyon&volume=10)
+* 127
+  
+  YenD. C.WuC.-S.ChengF.-F.HuangY.-W. (2010). Determinants of users’ intention to adopt wireless technology: an empirical study by integrating TTF with TAM. *Comput. Human Behav.*26, 906–915. doi: 10.1016/j.chb.2010.02.005
+  
+  + [CrossRef](https://doi.org/10.1016/j.chb.2010.02.005)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D.%2BC..%2BYen&author=C.-S..%2BWu&author=F.-F..%2BCheng&author=Y.-W..%2BHuang&publication_year=2010&title=Determinants%2Bof%2Busers%E2%80%99%2Bintention%2Bto%2Badopt%2Bwireless%2Btechnology%3A%2Ban%2Bempirical%2Bstudy%2Bby%2Bintegrating%2BTTF%2Bwith%2BTAM&journal=Comput.+Human+Behav.&volume=26&pages=906-915)
+* 128
+  
+  YuanJ.KimC. (2018). The effects of autonomy support on student engagement in peer assessment. *Educ. Technol. Res. Dev.*66, 25–52. doi: 10.1007/s11423-017-9538-x
+  
+  + [CrossRef](https://doi.org/10.1007/s11423-017-9538-x)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BYuan&author=C..%2BKim&publication_year=2018&title=The%2Beffects%2Bof%2Bautonomy%2Bsupport%2Bon%2Bstudent%2Bengagement%2Bin%2Bpeer%2Bassessment&journal=Educ.+Technol.+Res.+Dev.&volume=66&pages=25-52)
+* 129
+  
+  ZabihiAtergelehN.AhmadianM.KarimiS. N. (2025). The motivational paths to self-regulated language learning: a structural equation modeling approach. *Stud. Self-Access Learn. J.*16:22. doi: 10.37237/202501
+  
+  + [CrossRef](https://doi.org/10.37237/202501)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N..%2BZabihiAtergeleh&author=M..%2BAhmadian&author=S.%2BN..%2BKarimi&publication_year=2025&title=The%2Bmotivational%2Bpaths%2Bto%2Bself-regulated%2Blanguage%2Blearning%3A%2Ba%2Bstructural%2Bequation%2Bmodeling%2Bapproach&journal=Stud.+Self-Access+Learn.+J.&volume=16)
+* 130
+  
+  ZhangC.SchießlJ.PlößlL.HofmannF.Gläser-ZikudaM. (2023). Acceptance of artificial intelligence among pre-service teachers: a multigroup analysis. *Int. J. Educ. Technol. High. Educ.*20:49. doi: 10.1186/s41239-023-00420-7
+  
+  + [CrossRef](https://doi.org/10.1186/s41239-023-00420-7)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C..%2BZhang&author=J..%2BSchie%C3%9Fl&author=L..%2BPl%C3%B6%C3%9Fl&author=F..%2BHofmann&author=M..%2BGl%C3%A4ser-Zikuda&publication_year=2023&title=Acceptance%2Bof%2Bartificial%2Bintelligence%2Bamong%2Bpre-service%2Bteachers%3A%2Ba%2Bmultigroup%2Banalysis&journal=Int.+J.+Educ.+Technol.+High.+Educ.&volume=20)
+* 131
+  
+  ZhaoH.ZhangH.LiJ.LiuH. (2025). Performance motivation and emotion regulation as drivers of academic competence and problem-solving skills in AI-enhanced preschool education: a SEM study. *Br. Educ. Res. J.* doi: 10.1002/berj.4196
+  
+  + [CrossRef](https://doi.org/10.1002/berj.4196)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=H..%2BZhao&author=H..%2BZhang&author=J..%2BLi&author=H..%2BLiu&publication_year=2025&title=Performance%2Bmotivation%2Band%2Bemotion%2Bregulation%2Bas%2Bdrivers%2Bof%2Bacademic%2Bcompetence%2Band%2Bproblem-solving%2Bskills%2Bin%2BAI-enhanced%2Bpreschool%2Beducation%3A%2Ba%2BSEM%2Bstudy&journal=Br.+Educ.+Res.+J.)
+* 132
+  
+  ZhouC.RenT.LangL. (2025). The impact of AI-based adaptive learning technologies on motivation and engagement of higher education students. *Educ. Inf. Technol.*30, 22735–22752. doi: 10.1007/s10639-025-13646-x
+  
+  + [CrossRef](https://doi.org/10.1007/s10639-025-13646-x)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C..%2BZhou&author=T..%2BRen&author=L..%2BLang&publication_year=2025&title=The%2Bimpact%2Bof%2BAI-based%2Badaptive%2Blearning%2Btechnologies%2Bon%2Bmotivation%2Band%2Bengagement%2Bof%2Bhigher%2Beducation%2Bstudents&journal=Educ.+Inf.+Technol.&volume=30&pages=22735-22752)
+* 133
+  
+  ZimmermanB. J. (2000). “Attaining self-regulation: a social cognitive perspective” in *Handbook of self-regulation*. eds. BoekaertsM.ZeidnerM.PintrichP. R. (Elsevier), 13–39.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=B.%2BJ..%2BZimmerman&publication_year=2000&title=Attaining%2Bself-regulation%3A%2Ba%2Bsocial%2Bcognitive%2Bperspective&journal=Handbook+of+self-regulation&pages=13-39)
+
+Summary
+-------
+
+Keywords
+
+agentic AI, artificial intelligence, autonomy support, higher education, self-efficacy, self-learning motivation
+
+Citation
+
+Alqurni J (2026) Exploring the role of agentic AI in fostering self-efficacy, autonomy support, and self-learning motivation in higher education. *Front. Artif. Intell.* 9:1738774. doi: [10.3389/frai.2026.1738774](http://dx.doi.org/10.3389/frai.2026.1738774)
+
+Received
+
+03 November 2025
+
+Revised
+
+23 December 2025
+
+Accepted
+
+06 January 2026
+
+Published
+
+22 January 2026
+
+Volume
+
+9 - 2026
+
+Edited by
+
+[Leman Figen Gul](https://loop.frontiersin.org/people/163634/overview), Istanbul Technical University, Türkiye
+
+Reviewed by
+
+[Dennis Arias-Chávez](https://loop.frontiersin.org/people/1993288/overview), Universidad Continental - Arequipa, Peru
+
+[Mazen Alzyoud](https://loop.frontiersin.org/people/3050696/overview), Al al-Bayt University, Jordan
+
+Updates
+
+![]()
+
+Check for updates
+
+Copyright
+
+© 2026 Alqurni.
+
+This is an open-access article distributed under the terms of the [Creative Commons Attribution License (CC BY)](https://creativecommons.org/licenses/by/4.0/). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+**\***Correspondence: Jehad Alqurni, [jalqurni@iau.edu.sa](mailto:jalqurni@iau.edu.sa)
+
+Disclaimer
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article or claim that may be made by its manufacturer is not guaranteed or endorsed by the publisher.
+
+ Article metrics
+
+[View details](#metrics)[Download
+
+PDF](https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/pdf)
+
+Download other formats
+
+* [ReadCube](http://www.readcube.com/articles/10.3389/frai.2026.1738774)
+* [epub](https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/epub)
+* [XML](https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/xml)
+Cite articleShare article
+
+Frontiers' quality
+
+![]()
+
+How do we build trust in science?
+---------------------------------
+
+Behind each Frontiers journal is an editorial board committed to upholding research integrity and scientific quality
+
+  
+[Learn more](https://www.frontiersin.org/about/quality)
+
+* [PDF](https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/pdf)
+  
+  Download other format
+  
+  + [ReadCube](http://www.readcube.com/articles/10.3389/frai.2026.1738774)
+  + [epub](https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/epub)
+  + [XML](https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/xml)
+* [Outline](#outline)
+* [Figures](#figures)
+* [Cite](#cite)
+* [Share](#share)
+* [Metrics](#metrics)
+* More
+
+Outline
+-------
+
+Figures
+-------
+
+Cite article
+------------
+
+Copy to clipboard
+
+Copy citation  
+
+Export citation file
+
+* [BibTex](https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/bibTex)
+* [EndNote](https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/endNote)
+* [Reference Manager](https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/reference)
+* [Simple Text file](https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/text)
+
+  
+
+Share article
+-------------
+
+* [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/full)
+* [X](https://www.twitter.com/share?url=https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/full)
+* [LinkedIn](https://www.linkedin.com/share?url=https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/full)
+* [Email](mailto:?subject=Interesting science article: Exploring the role of agentic AI in fostering self-efficacy, autonomy support, and self-learning motivation in higher education&body=Hi!!%0D%0A%0D%0AI think you might find interesting the article "Exploring the role of agentic AI in fostering self-efficacy, autonomy support, and self-learning motivation in higher education".%0D%0A%0D%0AYou can read more about it here: https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1738774/full)
+* WeChat
+
+Share on WeChat
+
+Scan with WeChat to share this article
+
+Article metrics
+---------------
+
+* Guidelines
+  + [Author guidelines](https://www.frontiersin.org/guidelines/author-guidelines)
+  + [Services for authors](https://www.frontiersin.org/for-authors/author-services)
+  + [Policies and publication ethics](https://www.frontiersin.org/guidelines/policies-and-publication-ethics)
+  + [Editor guidelines](https://www.frontiersin.org/guidelines/editor-guidelines)
+  + [Fee policy](https://www.frontiersin.org/about/fee-policy)
+* Explore
+  + [Articles](https://www.frontiersin.org/articles)
+  + [Research Topics](https://www.frontiersin.org/research-topics)
+  + [Journals](https://www.frontiersin.org/journals)
+  + [How we publish](https://www.frontiersin.org/about/how-we-publish)
+* Outreach
+  + [Frontiers Forum](https://forum.frontiersin.org/)
+  + [Frontiers Policy Labs](https://policylabs.frontiersin.org/)
+  + [Frontiers for Young Minds](https://kids.frontiersin.org/)
+  + [Frontiers Planet Prize](https://www.frontiersin.org/about/frontiers-planet-prize)
+* Connect
+  + [Help center](https://helpcenter.frontiersin.org)
+  + [Emails and alerts](https://subscription-management.frontiersin.org/emails/preferences#block0)
+  + [Contact us](https://www.frontiersin.org/about/contact)
+  + [Submit](https://www.frontiersin.org/submission/submit)
+  + [Career opportunities](https://careers.frontiersin.org/)
+
+Follow us© 2026 Frontiers Media SA. All rights reserved.[Privacy policy](https://www.frontiersin.org/legal/privacy-policy) | [Terms and conditions](https://www.frontiersin.org/legal/terms-and-conditions) | [Accessibility statement](https://www.frontiersin.org/about/accessibility-statement)
+

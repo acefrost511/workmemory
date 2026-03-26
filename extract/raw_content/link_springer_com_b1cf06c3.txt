@@ -1,0 +1,935 @@
+# Source URL: https://link.springer.com/article/10.1186/s40561-023-00260-y
+# Content Length: 92100 characters
+# Extracted at: 2026-03-12 14:22:55
+#============================================================
+
+
+
+
+
+
+
+
+
+Artificial intelligence in intelligent tutoring systems toward sustainable education: a systematic review | Smart Learning Environments | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/40561/article&sz=728x90&pos=top&articleid=s40561-023-00260-y)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1186/s40561-023-00260-y)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Smart Learning Environments](/journal/40561)
+3. Article
+
+Artificial intelligence in intelligent tutoring systems toward sustainable education: a systematic review
+=========================================================================================================
+
+* Review
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 28 August 2023
+
+* Volume 10, article number 41, (2023)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1186/s40561-023-00260-y.pdf)
+
+
+[Save article](/article/10.1186/s40561-023-00260-y/save-research?_csrf=fHr7r8kEgoWpMo9J43Y_2qZwfJ2FT-ut)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Smart Learning Environments](/journal/40561)
+[Aims and scope](/journal/40561/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/smle/default.aspx)
+
+
+
+
+Artificial intelligence in intelligent tutoring systems toward sustainable education: a systematic review
+
+[Download PDF](/content/pdf/10.1186/s40561-023-00260-y.pdf)
+
+
+
+
+
+* [Chien-Chang Lin](#auth-Chien_Chang-Lin-Aff1) 
+  [ORCID: orcid.org/0000-0001-6801-8061](https://orcid.org/0000-0001-6801-8061)[1](#Aff1),
+* [Anna Y. Q. Huang](#auth-Anna_Y__Q_-Huang-Aff1)[1](#Aff1) &
+* [Owen H. T. Lu](#auth-Owen_H__T_-Lu-Aff2)[2](#Aff2)
+
+* 86k Accesses
+* 448 Citations
+* 14 
+  Altmetric
+* 1 Mention
+* [Explore all metrics](/article/10.1186/s40561-023-00260-y/metrics)
+
+
+
+
+Abstract
+--------
+
+Sustainable education is a crucial aspect of creating a sustainable future, yet it faces several key challenges, including inadequate infrastructure, limited resources, and a lack of awareness and engagement. Artificial intelligence (AI) has the potential to address these challenges and enhance sustainable education by improving access to quality education, creating personalized learning experiences, and supporting data-driven decision-making. One outcome of using AI and Information Technology (IT) systems in sustainable education is the ability to provide students with personalized learning experiences that cater to their unique learning styles and preferences. Additionally, AI systems can provide teachers with data-driven insights into student performance, emotions, and engagement levels, enabling them to tailor their teaching methods and approaches or provide assistance or intervention accordingly. However, the use of AI and IT systems in sustainable education also presents challenges, including issues related to privacy and data security, as well as potential biases in algorithms and machine learning models. Moreover, the deployment of these systems requires significant investments in technology and infrastructure, which can be a challenge for educators. In this review paper, we will provide different perspectives from educators and information technology solution architects to connect education and AI technology. The discussion areas include sustainable education concepts and challenges, technology coverage and outcomes, as well as future research directions. By addressing these challenges and pursuing further research, we can unlock the full potential of these technologies and support a more equitable and sustainable education system.
+
+
+
+### Similar content being viewed by others
+
+![]()
+### [Harnessing AI for Sustainable Education: Pathways and Implications](https://link.springer.com/10.1007/978-981-95-4871-2_2?fromPaywallRec=false)
+
+Chapter
+© 2026
+
+
+
+
+![]()
+### [AI-Powered Personalized Learning: Toward Sustainable Education](https://link.springer.com/10.1007/978-981-99-8572-2_5?fromPaywallRec=false)
+
+Chapter
+© 2023
+
+
+
+
+![]()
+### [Ethics, and the Future of Education in an AI-Driven World](https://link.springer.com/10.1007/978-981-97-9350-1_6?fromPaywallRec=false)
+
+Chapter
+© 2024
+
+
+
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Computers and Education](/subjects/computers-and-education)
+* [Digital Education and Educational Technology](/subjects/digital-education-and-educational-technology)
+* [Education Science](/subjects/education-science)
+* [Inclusive Education](/subjects/inclusive-education)
+* [Philosophy of Artificial Intelligence](/subjects/philosophy-of-artificial-intelligence)
+* [Environmental and Sustainability Education](/subjects/environmental-and-sustainability-education)
+* [Smart Learning Environments in Higher Education](/subjects/smart-learning-environments-in-higher-education)
+
+Introduction
+------------
+
+The term "sustainable" is intended to describe something that can be maintained or continued over the long term without significant negative environmental, social, or economic impacts. It implies a concept that meets the needs of the present without compromising future generations. To elaborate on the concept of sustainability in education, Sterling and Orr ([2001](/article/10.1186/s40561-023-00260-y#ref-CR45)) proposed that sustainable education aims to foster a learning culture that values diversity, creativity, and participation and empowers learners to develop sustainably. To extend the concept of sustainable development to the scope of human life, in 2015, the United Nations adopted a set of 17 global goals called the Sustainable Development Goals (SDGs) (United Nations, [2015](/article/10.1186/s40561-023-00260-y#ref-CR50)) to end poverty, protect the planet, and ensure peace and prosperity for all by 2030. It is worth noting that education is one of the key areas of the SDGs, as it is essential for achieving all the other goals and for building a more sustainable future.
+
+Sustainable education aims to develop the competencies needed to meet the social and environmental needs of present and future generations. Sustainable education is a matter not only of content but also of process and context. It involves rethinking the purpose, methods, and outcomes of education; transforming the culture, structure, and practices of educational institutions; and collaborating and dialoguing among different stakeholders, such as educators, learners, policymakers, communities, and nongovernmental organizations. Sustainable education is an ongoing and dynamic process of learning and change that inspires hope and action for a better world.
+
+The fourth goal of the SDGs, quality education, revolves around the achievement of sustainable education for all humankind. This goal aims to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all. To achieve the goal of quality education, 10 targets covering different aspects of education were proposed in the SDGs, providing detailed guidance for the realization of quality education; these include designing modern information technologies to better implement quality education to achieve sustainable education (United Nations, [2015](/article/10.1186/s40561-023-00260-y#ref-CR50)).
+
+Sustainable education focuses on cultivating learners with sustainable development capabilities, so it is necessary to emphasize personalization and student-centeredness in the learning process to develop the capabilities they need. For this reason, integrating modern information technology such as intelligent tutoring systems (ITSs) into quality education has become the main approach for achieving sustainable education today.
+
+Intelligent tutoring systems (ITSs) are computer-based learning systems that use artificial intelligence (AI) to provide personalized and adaptive instruction for students. The overall concept can be traced back to 1970 (Carbonell, [1970](/article/10.1186/s40561-023-00260-y#ref-CR6)). These systems can model students’ psychological states, such as motivation, emotion, and cognition, as well as their prior knowledge, skills, and preferences. They can also monitor students’ progress, provide feedback, hints, and scaffolding, and select appropriate problems or tasks for students to practice.
+
+Technology-Enhanced Learning (TEL) (Deng & Benckendorff, [2020](/article/10.1186/s40561-023-00260-y#ref-CR12)) is another approach to education that combines the use of technology with smart approaches designed to support learning. It has the potential to improve teaching and learning and turn them into levers of sustainable learning growth and development. By integrating emerging technologies such as social media, web-based tools, augmented and virtual reality, as well as games in teaching and learning, TEL can enhance the educational experience for both teachers and students. It’s becoming a trend in educational system which the remote and hybrid learning become necessary. By leveraging TEL, the students can learn by their own pace and more engaged during the learning. However, it is important to ensure that technology is used responsibly and that its effects are positive and its risks manageable.
+
+Along with the versatile AI machine learning solutions in the recent decade, many ITSs are empowered by AI solutions. For example, the natural language process (NLP) (Liddy, [2001](/article/10.1186/s40561-023-00260-y#ref-CR22)) can be used as a chatbot to interact with students to provide feedback and necessary learning interventions (Lin & Mubarok, [2021](/article/10.1186/s40561-023-00260-y#ref-CR23)). The other example is that of leveraging the powerful data mining capability of machine learning to perform learning analytics activities or performance prediction (Choi & McClenen, [2020](/article/10.1186/s40561-023-00260-y#ref-CR9); Ouyang et al., [2023](/article/10.1186/s40561-023-00260-y#ref-CR30)). Other areas include leveraging image recognition to identify students’ facial expressions, gestures, or emotions to inform teachers’ future actions (Leony et al., [2013](/article/10.1186/s40561-023-00260-y#ref-CR21); Singh et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR43)).
+
+AI systems can play a significant role in sustainable education. AI-powered algorithms can be used to analyze student data and create personalized learning experiences for each student. This can help students learn more effectively and efficiently while reducing the amount of time and resources required for traditional teaching methods. There are several AI systems that can be used in sustainable education. One example is personalized learning systems that use AI-powered algorithms to analyze student data and create personalized learning experiences for each student. Another example is chatbots powered by AI that can answer inquiries from students and offer them individualized learning experiences. The other typical example is AI-enabled technology can also be used for performance prediction and real-time monitor students’ performance so that necessary intervention can be provided to the instructors.
+
+From educators’ perspectives, an ITS can act as a potential tool to enhance their teaching and learning practices rather than as a threat or a replacement. ITSs can offer several benefits for educators, such as providing individualized and differentiated instruction for diverse learners, which is one of the key concepts for shifting from teacher-centered to student-centered processes (Ogunkunle & Qu, [2020](/article/10.1186/s40561-023-00260-y#ref-CR29); Silva et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR41)). ITSs can also offload teachers’ workload on routine tasks, such as grading feedback and remediation, so that teachers can focus more on teaching itself (Atapattu & Falkner, [2016](/article/10.1186/s40561-023-00260-y#ref-CR4); Tobarra et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR47)). Ultimately, teachers will promote lifelong learning and professional development not only to students but also themselves.
+
+There will be some gaps when bringing educators with IT solutions, especially when educators are asked to implement an intelligent tutoring system with modern artificial intelligence features enabled. Some examples of the gaps include lacking the understanding of how IT technology works, the difficulties of integrating ITS into educational curricula, building effective assessments for ITSs, and funding concerns. Even if the ITS is properly built, training instructors to use the system effectively might be another challenge. Thus, we are trying to address the gaps and challenges in this review paper and provide guidance for educators and IT solutions architects by reviewing different approaches to tutoring systems implementation.
+
+In this review paper, we will bridge the perspectives of educators and information technology specialists on sustainable education. Furthermore, we extended the original definition of ITS to be AI and machine learning embedded. Below is the research agenda and questions we will address.
+
+* Background
+  
+  + Define the title and focused key areas of the surveyed papers.
+  + Define the source of selecting papers.
+  + Define the keywords, screening criteria, and year range of the surveyed papers.
+  + Review, study, categorize and determine the relevance.
+  + Define the target audience of this surveyed paper.
+* What are the key challenges to sustainable education?
+  
+  + What are the key challenges from sustainable education implementation?
+  + What are the key challenges from teachers?
+  + What are the key challenges from learners?
+  + Are there any other key challenges?
+* How are AI and IT incorporated as the ITS to support sustainable education?
+  
+  + What are the key factors to consider when building AI/IT systems to support sustainable education?
+  + What are the typical AI/IT solutions used to support sustainable education?
+  + What and how are pedagogical methods integrated into AI/IT solutions?
+  + How are learning statistics data accumulated and analyzed?
+* What are the outcomes and challenges of AI/IT embedded as the ITS in sustainable education?
+  
+  + What is the outcome measurement mechanism, and what is the outcome?
+  + What is the trust and explainable level when using AI/IT in sustainable education?
+* What is the future trend of AI/IT-embedded ITS sustainable education?
+  
+  + What is a potential area in which we can invest more AI/IT effort?
+  + What are the enhancement opportunities of currently existing AI/IT systems?
+
+Thus, based on the research agenda, the following 4 research questions will be addressed and answered.
+
+* RQ1: What are the key challenges of sustainable education implementation?
+* RQ2: How are AI and IT incorporated as the ITS to support sustainable education?
+* RQ3: What are the outcomes of AI/IT being embedded as the ITS in sustainable education?
+* RQ4: What is the future trend of AI/IT embedded ITS in sustainable education?
+
+In the remaining sections of this paper, we will illustrate the overall methodology of how we developed this review study. In section "[Methodology](/article/10.1186/s40561-023-00260-y#Sec3)", we will perform a literature review and share some typical cases and scenarios about how AI supports sustainable education. In section "[Results and discussion](/article/10.1186/s40561-023-00260-y#Sec6)", we will detail the breakdown of the information gathered from the reviewed papers, discuss the findings and answer the research questions. In the last section, we will conclude the overall study and discuss future trends.
+
+Literature review
+-----------------
+
+The trend of changing teaching scenarios from traditional classroom style to remote, virtual, and blended is inevitable. There are lots of research focus on how to leverage TEL to make overall learning more efficient and engaged. Xie et al. ([2019](/article/10.1186/s40561-023-00260-y#ref-CR54)) reviewed the trend and how and what kind of technologies are applied into the learning environment. There are also review focus on specific subjects like flipping mathematics (Yang et al., [2019](/article/10.1186/s40561-023-00260-y#ref-CR57)) and chemistry (Wu et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR53)) by leveraging TEL which shows the benefits when embedding technologies into the learning.
+
+With more instructional courses being moved online and becoming remotely accessible, the data generated from the system also become more complicated to manage. Big data mining along with AI has become mainstream when examining information technology in educational systems. Yousuf and Wahid ([2021](/article/10.1186/s40561-023-00260-y#ref-CR61)) elaborated different kinds of areas and applications in which AI can support as well as provide good insights for the following research.
+
+There are different perspectives when looking at how AI can support ITSs toward sustainable education. It is reasonable to review different implementations with a standardized framework that can help researchers gain a decent understanding and support sustainable education implementation. To help researchers, Gillani et al. ([2023](/article/10.1186/s40561-023-00260-y#ref-CR13)) precisely defined different dimensions of reviewing mechanisms, which were also adopted in this study.
+
+There are two main categories of AI integration with tutoring systems. The first is to not interfere with the tutoring system and to extract log data for further analysis. This kind of approach typically leverages much data mining and clustering to derive learning behaviors (Corrigan et al., [2015b](/article/10.1186/s40561-023-00260-y#ref-CR11); Ouyang et al., [2023](/article/10.1186/s40561-023-00260-y#ref-CR30); Weng et al., [2020](/article/10.1186/s40561-023-00260-y#ref-CR52)). When categorizing learning behaviors, unsupervised learning methodology and clustering algorithms are usually used since there is no ground truth data to train the model. The other major approach is for performance prediction (Afzaal et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR2); Choi & McClenen, [2020](/article/10.1186/s40561-023-00260-y#ref-CR9); Serrano-Laguna et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR38)) and involves extracting features and machine learning algorithms through supervised learning.
+
+The other category of integrating AI with tutoring systems is more difficult to implement. Typically, in this kind of implementation, personalization can be better considered in terms of learning process (Singh et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR43); Tobarra et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR47)) or intervention (Weng et al., [2020](/article/10.1186/s40561-023-00260-y#ref-CR52)). For this kind of integration, the system architecture needs to be considered along with the inflexibility since the AI algorithm is tightly integrated within the system; it is also a kind of adaptive learning (Paramythis & Loidl-Reisinger, [2003](/article/10.1186/s40561-023-00260-y#ref-CR32)) (Paramythis & Loidl-Reisinger, [2003](/article/10.1186/s40561-023-00260-y#ref-CR32)) implementation. AI-embedded ITSs may have better adaptation capability to respond to students’ real-time learning status and have a better chance to intervene with students to provide early necessary assistance.
+
+Many studies have focused on engagement and dropout prevention. Leony et al. ([2013](/article/10.1186/s40561-023-00260-y#ref-CR21)) leverage students’ facial expressions captured by cameras and leverages machine image recognition algorithms to detect students’ emotions. Pereira et al. ([2019](/article/10.1186/s40561-023-00260-y#ref-CR34)) leverage historic system log data and train a machine learning program to detect if the student will drop out of an online course, which also provides teacher assistance in terms of engagement.
+
+The major contribution of exploiting AI in education probably has not yet been fully discovered. Although Explainable AI (XAI) is becoming popular in the computer science world, it is still being introduced in the education area. Afzaal et al. ([2021](/article/10.1186/s40561-023-00260-y#ref-CR2)) used a counterfactual method to explain how an AI algorithm gave instructors predictions to provide students with necessary assistance. In the other research of Pereira et al. ([2021](/article/10.1186/s40561-023-00260-y#ref-CR33)), a more recently developed XAI algorithm called SHAP was used to explain the prediction result.
+
+Methodology
+-----------
+
+This review paper conceptualization process is based on the book “Qualitative Research from Start to Finish” by Yin ([2015](/article/10.1186/s40561-023-00260-y#ref-CR60)) with the analytical methodology mentioned in (Chatti et al., [2012](/article/10.1186/s40561-023-00260-y#ref-CR8)). The overall paper review methodology and content framework follows the PRISMA (Page et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR31)) methodology.
+
+### Conceptualization
+
+Based on the analytical model proposed by Chatti et al. ([2012](/article/10.1186/s40561-023-00260-y#ref-CR8)), we can put our main topic in the center and consider four different dimensions around the topic, as shown in Fig. [1](/article/10.1186/s40561-023-00260-y#Fig1). We started from the “Why” and focused on the research objectives coming from the research agenda and research questions. We also conducted a brainstorming session with a few researchers to define “Who” are the key stakeholders and what they will be interested to know and what we can contribute from this review paper.
+
+**Fig. 1**
+
+[![]()](/article/10.1186/s40561-023-00260-y/figures/1)
+
+Analytics model of AI in intelligent tutoring systems
+
+[Full size image](/article/10.1186/s40561-023-00260-y/figures/1)
+
+This review paper focuses on educators in the SDG sector and educational technology R&D to provide a systematic review of how AI systems support sustainable education. It may contribute to the understanding and alignment between educators and IT technology in building suitable solutions as well as future potential enhancement toward sustainable education. We discuss the “What” and the “How” in the following section.
+
+### Paper selection process
+
+The overall paper selection and screening process is illustrated in the following figure, which follows the PRISMA paper selection process from identification, screening, and eligibility. This process provides researchers with a robust and systematic way of scoping target papers to review. It starts with high-level filtering, abstract screening, and finally content eligibility review. The process and surveyed paper count are illustrated in Fig. [2](/article/10.1186/s40561-023-00260-y#Fig2).
+
+**Fig. 2**
+
+[![]()](/article/10.1186/s40561-023-00260-y/figures/2)
+
+Paper selection process
+
+[Full size image](/article/10.1186/s40561-023-00260-y/figures/2)
+
+First, the paper search for RQ1 was mainly conducted in Scopus with the keywords “Sustainable Education” and “Challenge”. We found 113 articles in total, and then we limited the search results to conference or journal papers written in English only. The query statement can be listed as follows.
+
+( TITLE-ABS-KEY ( "sustainable education" ) AND TITLE-ABS-KEY ( challenge ) ) AND ( LIMIT-TO ( LANGUAGE, "English" ) AND ( LIMIT-TO ( SRCTYPE, "j" ) OR LIMIT-TO ( SRCTYPE, "p" ) ) )
+
+For RQ 2 to 4, we leveraged Scopus and Web of Science (SSCI) to search the surveyed papers. The keywords we used were “Artificial Intelligence” AND (“Education Sustainability” OR “Sustainable Education” OR “Learning Analytics”). Initially we specifically used “intelligent tutoring system” as the keyword but we did not filter out good number of papers and then we later on enlarged the scope to “artificial intelligence” to generally cover “intelligent tutoring system” and “massive open online course”. The initial search results were 465 articles from Scopus and 88 from SSCI. Below are the query statements from both.
+
+( TITLE-ABS-KEY ( "artificial intelligence" ) AND (TITLE-ABS-KEY ( "education sustainability" ) OR TITLE-ABS-KEY ( "sustainable education" ) OR TITLE-ABS-KEY ( "learning analytics" ) ) ) AND ( LIMIT-TO ( DOCTYPE, "cp" ) OR LIMIT-TO ( DOCTYPE, "ar" ) ) AND ( LIMIT-TO ( LANGUAGE, "English" ) )
+
+ALL = ( "artificial intelligence" ) AND ( ALL = ( "sustainable education" ) OR ALL = ( "education sustainability" ) OR ALL = ( "learning analytics" ) ) and Open Access and Article ( Document Types )
+
+We applied the same limitation as in RQ 1 for RQ 2 to 4, that is, we limited the search result to only journal or conference papers and the language to English only. Furthermore, for RQ 2 to RQ 4 papers, we further defined the inclusion and exclusion criteria in Table [1](/article/10.1186/s40561-023-00260-y#Tab1) so that we could first perform filtering to target the papers we needed.
+
+**Table 1 Article screening inclusion and exclusion criteria**
+
+[Full size table](/article/10.1186/s40561-023-00260-y/tables/1)
+
+Then, we conducted a screening and eligibility process for the surveyed papers with the research team. Finally, we selected 8 to support RQ 1 along with other ad hoc selected papers to discuss sustainable education challenges. For RQ 2 to 4, we selected 29 papers that specifically address how AI is leveraged in the ITS with real educational scenarios for further discussion, which will be described in detail and discussed later.
+
+Results and discussion
+----------------------
+
+Out of all the papers selected in this systematic review, there were 8 for the sustainable education challenges review and 29 for the AI with ITS review. The code scheme of all selected papers are shown in Table [2](/article/10.1186/s40561-023-00260-y#Tab2).
+
+**Table 2 Coding scheme to analyze included publications**
+
+[Full size table](/article/10.1186/s40561-023-00260-y/tables/2)
+
+For the 29 AI with ITS papers, the distribution of countries and regions with the education levels involved is presented in Table [3](/article/10.1186/s40561-023-00260-y#Tab3).
+
+**Table 3 Research selected by country and education levels**
+
+[Full size table](/article/10.1186/s40561-023-00260-y/tables/3)
+
+There are a total of 13 papers (Choi & McClenen, [2020](/article/10.1186/s40561-023-00260-y#ref-CR9); Hasnine et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR16); Jiang et al., [2019](/article/10.1186/s40561-023-00260-y#ref-CR17); Lee et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR20); Lin & Mubarok, [2021](/article/10.1186/s40561-023-00260-y#ref-CR23); Lu et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR25); Niyogisubizo et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR28); Ouyang et al., [2023](/article/10.1186/s40561-023-00260-y#ref-CR30); Silva et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR41); Singh et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR43); Tzeng et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR49); Weng et al., [2020](/article/10.1186/s40561-023-00260-y#ref-CR52); Yang et al., [2021a](/article/10.1186/s40561-023-00260-y#ref-CR56), [b](/article/10.1186/s40561-023-00260-y#ref-CR59)) from Asia, 9 papers (Afzaal et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR2); Corrigan et al., [2015a](/article/10.1186/s40561-023-00260-y#ref-CR10), [b](/article/10.1186/s40561-023-00260-y#ref-CR11); Guerrero-Higueras et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR14); Llurba et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR24); Perikos et al., [2017](/article/10.1186/s40561-023-00260-y#ref-CR35); Ruipérez-Valiente et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR36); Serrano-Laguna et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR38); Tobarra et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR47)) from Europe, 5 papers (Montpetit & Sabourin, [2016](/article/10.1186/s40561-023-00260-y#ref-CR27); Ogunkunle & Qu, [2020](/article/10.1186/s40561-023-00260-y#ref-CR29); Pereira et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR33); Pereira et al., [2019](/article/10.1186/s40561-023-00260-y#ref-CR34); Xing & Goggins, [2015](/article/10.1186/s40561-023-00260-y#ref-CR55)) from America and 2 papers (Atapattu & Falkner, [2016](/article/10.1186/s40561-023-00260-y#ref-CR4); Leony et al., [2013](/article/10.1186/s40561-023-00260-y#ref-CR21)) from Oceania. Most of the study experiment targets are university or above (total of 19 papers), which means that the researchers are more interested in higher education, probably because the teaching and learning environment is more diversified for data gathering.
+
+### RQ1: what are the key challenges of sustainable education implementation?
+
+When Sterling and Orr ([2001](/article/10.1186/s40561-023-00260-y#ref-CR45)) began advocating that sustainable education must be built upon the sustainability of the whole ecological system, he discussed some challenges in his book. Typical challenges such as the paradigm of education are incompatible with the principle of sustainability because it is mechanistic and driven by business. The other aspect of what he mentioned is the foundational challenge in which the whole education system is largely fragmented, isolated, and not collaboratively working well.
+
+In the last decade, most governments and educationists have promoted sustainable education in all ways along with the United Nations ([2015](/article/10.1186/s40561-023-00260-y#ref-CR50)) SDGs, and the challenges have shifted to a different angle, especially after information technology was integrated into the implementation of the whole sustainable education system. Sustainability concepts have gradually emerged as part of education curricula, and the challenges with AI and information technology have become more obvious. There might still be resistance (Smaniotto et al., [2023](/article/10.1186/s40561-023-00260-y#ref-CR44); Wade, [2012](/article/10.1186/s40561-023-00260-y#ref-CR51)), mindset (Tsegay et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR48)), and awareness (Khahro & Javed, [2022](/article/10.1186/s40561-023-00260-y#ref-CR18); Shah et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR39); Smaniotto et al., [2023](/article/10.1186/s40561-023-00260-y#ref-CR44)) issues, but eventually, these issues will be improved by deploying sustainability culture through information technology in schools. As we stated earlier in this review paper, the challenges may come from IT perspectives as well as the education system. Below are the key challenges summary from the surveyed paper we selected:
+
+* [C1] More challenges taking care of more students during virtual or blended learning environment (Tsegay et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR48); Wade, [2012](/article/10.1186/s40561-023-00260-y#ref-CR51)), it may be because students are from remote especially like under COVID situation, and the instructors are forced to use tutoring systems to deliver courses on line.
+* [C2] Unequal global access, lack of devices for connectivity or bandwidth (Simuț et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR42); Wade, [2012](/article/10.1186/s40561-023-00260-y#ref-CR51)). The network connectivity becomes a bottleneck when students need to join the training from remote, and it becomes another challenge to ensure the quality of connectivity and healthy bandwidth.
+* [C3] Teachers’ ICT (Information and Communication Technology, which means the integration of telecommunications and computers, as well as necessary enterprise software, middleware, storage and audiovisual, that enable users to access, store, transmit, understand and manipulate information.) teaching skill, use and acceptance of new technologies (Saudelli & Niemczyk, [2022](/article/10.1186/s40561-023-00260-y#ref-CR37); Simuț et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR42); Tsegay et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR48)). There will be more training needed to enhance the teachers’ internet tools usage skill set to ensure teachers accept the new technologies.
+* [C4] Lack of physical and emotional interaction (Simuț et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR42)). Due to the virtual training environment, the teachers will worry about the lack of students’ interaction.
+* [C5] Limited students collaborative learning (Acevedo-Duque et al., [2023](/article/10.1186/s40561-023-00260-y#ref-CR1)). The students’ collaboration will be limited by the systems since the students cannot see each other with virtual and remote training environment.
+* [C6] Engagement and dropout concern in virtual learning environments (Khahro & Javed, [2022](/article/10.1186/s40561-023-00260-y#ref-CR18); Simuț et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR42)). It’s another challenge that students will dropout due to losing attention without teachers’ intervention.
+* [C7] Privacy and security concern (Tewari, [2020](/article/10.1186/s40561-023-00260-y#ref-CR46)). This is another challenging area when students need to provide personal identify through internet as well as facial biological features.
+* [C8] Fairness and bias correction (Tewari, [2020](/article/10.1186/s40561-023-00260-y#ref-CR46)). When leveraging AI systems, the system will be very challenging to provide fair interactions without the bias.
+* [C9] Interpretability and transparency (Smaniotto et al., [2023](/article/10.1186/s40561-023-00260-y#ref-CR44); Tewari, [2020](/article/10.1186/s40561-023-00260-y#ref-CR46)). Providing comprehensive explanation from the AI system to the teachers is another major challenge, the educators will always need a good explanation to trust the AI system when providing any prediction and intervention.
+
+Based on the challenges listed above, there must be some recommendations and guidance that can be given to educators and IT solution architects when implementing sustainable education solutions. Below are key recommendations summarized from the surveyed papers.
+
+* *Awareness [C1, C3]*: The trend of emerging AI technology in education is becoming unavoidable. Fundamentally, delivering awareness of sustainable education and SDG goals is becoming critical to the whole educational eco-system.
+* *Policy and regulation [C7]*: Undoubtedly, government and institutional support is another key for sustainable education implementation to support educators since governments are responsible for effective, accountable, and inclusive SDG implementation. Policy and regulations, which also need to be enacted at the government level, may also cover privacy and security protection.
+* *Technology enablement [C3, C4, C5, C6]*: Instructors should be trained in more AI-empowered concepts that can potentially be leveraged in educational systems as well as the new internet Connectivity Tools (ICT) digital skills. Eventually, instructors need to know how to incorporate pedagogical strategies and theories into the AI system to make everything meaningful.
+* *Infrastructure readiness [C2]*: Obviously, AI and IT technology can be an accelerator and innovation toward SDGs; thus, considering internet connectivity with decent devices becomes crucial. This may also include consideration of the inclusion or diversity of students who need to engage in distanced learning.
+* *Explainable systems [C8, C9]*: One of the key responsibilities of AI and IT solution architecture is to develop quality and inclusive systems that can support explainable data-driven decision-making for teachers and students to improve learning outcomes. Only this way can AI and IT provide an environment with fairness, accountability, trustworthiness, and ethics (Khosravi et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR19)) for sustainable education.
+
+These challenges require collaborative and collective action from all stakeholders involved in education and IT solution architects, such as policymakers, educators, researchers, parents, and students. We need to work together to find innovative and inclusive solutions that can ensure sustainable education for all in the twenty-first century.
+
+### RQ2: how are AI and IT incorporated as the ITS to support sustainable education?
+
+There are different purposes and objectives when considering ITSs in sustainable education implementation. However, one of the major consideration points is the need to be more student centric. Below in Table [4](/article/10.1186/s40561-023-00260-y#Tab4), we list the major objectives from the 29 selected surveyed papers.
+
+**Table 4 Purposes of using AI in intelligent tutoring systems**
+
+[Full size table](/article/10.1186/s40561-023-00260-y/tables/4)
+
+There is much research focusing on students’ performance prediction based on the systems’ logs generated during the interaction between the students and the systems. The typical approach involves using machine learning algorithms with a feature extraction process to predict students’ performance (Guerrero-Higueras et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR14); Yang et al., [2021a](/article/10.1186/s40561-023-00260-y#ref-CR56), [b](/article/10.1186/s40561-023-00260-y#ref-CR59)). The next major objectives are to identify learners’ learning behaviors (Lee et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR20); Weng et al., [2020](/article/10.1186/s40561-023-00260-y#ref-CR52)), which will most likely be input into the machine learning algorithm for further performance prediction. Behavior identification can be part of feature engineering, and educators are highly interested in what learning strategies are adopted during the learning process. The other objectives also focus on students’ engagement to prevent boredom and dropout (Niyogisubizo et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR28); Pereira et al., [2019](/article/10.1186/s40561-023-00260-y#ref-CR34)) and on personalization (Ogunkunle & Qu, [2020](/article/10.1186/s40561-023-00260-y#ref-CR29)) and provide instructors with the suitable timing to deliver interventions (Lin & Mubarok, [2021](/article/10.1186/s40561-023-00260-y#ref-CR23)) and assistance to students.
+
+When considering adaptation and personalization in tutoring systems, one of the ways AI is being used in these systems for personalization is through adaptive learning. Adaptive learning is a personalized approach to learning that makes the best out of every student's learning, and the categories and guidelines were recommended in (Paramythis & Loidl-Reisinger, [2003](/article/10.1186/s40561-023-00260-y#ref-CR32)). This means that using AI in adaptive learning involves analyzing students’ learning patterns and developing a customized learning process that will assist students in achieving their best academic performance. Through this smart use of AI, tutors can identify students' strengths and weaknesses and then tailor their teaching strategies to meet their individual needs.
+
+If we further examine how AI and information technology are incorporated into ITSs, below in Table [5](/article/10.1186/s40561-023-00260-y#Tab5), we list what technology supports the different objectives in different ways.
+
+**Table 5 AI and technology used in intelligent tutoring systems**
+
+[Full size table](/article/10.1186/s40561-023-00260-y/tables/5)
+
+Most of the AI technology embedded in ITSs consists of machine learning algorithms, especially when the system architect does not want to interfere with the original ITSs. Typically, an offline process is involved in performing machine learning and providing necessary information and interaction with instructors or students. Gillani et al. ([2023](/article/10.1186/s40561-023-00260-y#ref-CR13)) provides a systematic way to map machine learning algorithms with different ITS purposes. In our study, most of the machine learning technology used for performance prediction is supervised learning (Corrigan et al., ) since we need much historic labeled training data to train the model. However, another concern from this kind of approach is about bias, fairness and equality due to overfitting issues, which means that researchers may need more and better training data.
+
+On the other hand, when performing learning behavior analysis (Pereira et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR33); Weng et al., [2020](/article/10.1186/s40561-023-00260-y#ref-CR52)), most of the technology used turns to unsupervised learning, which also makes sense since there are no ground truth data for model training and the overall concept is for clustering or categorization without any reference. In addition to the objectives and embedded technology, we also need to examine the scenario used by the educator to answer RQ 2 in a more complete way. In Table [6](/article/10.1186/s40561-023-00260-y#Tab6), we list the typical pedagogical scenarios in the 29 surveyed papers.
+
+**Table 6 Scenarios of AI used in intelligent tutoring systems**
+
+[Full size table](/article/10.1186/s40561-023-00260-y/tables/6)
+
+The key scenario involves instructors predicting learners’ performance based on the learning behaviors captured during the learning process. Here, we combine performance prediction and behavior analysis because normally learning behaviors are captured as one of the features for performance prediction (Ouyang et al., [2023](/article/10.1186/s40561-023-00260-y#ref-CR30); Weng et al., [2020](/article/10.1186/s40561-023-00260-y#ref-CR52)). Some of the scenarios are for instructors to adopt necessary actions for intervention, while some of the scenarios are for learners to have personalized learning experiences (Serrano-Laguna et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR38); Singh et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR43)).
+
+### RQ3: what are the outcomes of AI/IT embedded as the ITS in sustainable education?
+
+In response to RQ 3, the outcomes of tutoring systems integrated with AI and information technology are listed in Table [7](/article/10.1186/s40561-023-00260-y#Tab7). There are still two main approaches in which AI is or is not embedded into the tutoring system itself. For AI-embedded tutoring systems, most of the outcomes indicate that the performance prediction accuracy is high (Guerrero-Higueras et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR14); Hasnine et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR16)), which implies an opportunity to aid those predicted low performers. However, most of the research does not focus on explaining why and how machine learning algorithms perform predictions, which means that instructors can only take necessary actions based on their experience. Of the 29 surveyed papers, only 2 focus on the result and try to leverage explainable AI (Afzaal et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR2); Pereira et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR33)) on machine learning prediction. Eventually, this will be more valuable to the whole education system since it can eliminate the concerns of educators in terms of fairness, trustworthiness, and inclusion.
+
+**Table 7 Outcome observed from intelligent tutoring systems with AI and IT support**
+
+[Full size table](/article/10.1186/s40561-023-00260-y/tables/7)
+
+There are also some researchers who have explored different learning behaviors (Ruipérez-Valiente et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR36); Yang et al., [2021a](/article/10.1186/s40561-023-00260-y#ref-CR56), [b](/article/10.1186/s40561-023-00260-y#ref-CR59)) through clustering algorithms, which can also provide instructors with information for further intervention as necessary. The relationship between performance and learning behaviors is also one of the major areas where researchers may invest great effort since this may help instructors to understand and improve the overall pedagogical process. Some researchers have also shown that AI machine learning algorithms can provide early notification to prevent student dropout (Weng et al., [2020](/article/10.1186/s40561-023-00260-y#ref-CR52)) and enhance engagement (Ouyang et al., [2023](/article/10.1186/s40561-023-00260-y#ref-CR30)).
+
+For AI-embedded tutoring systems, researchers focus on dynamic learning processes and personalization (Tobarra et al., [2021](/article/10.1186/s40561-023-00260-y#ref-CR47)) experience when a system is designed to provide any necessary intervention or adjust the learning path for instructors. Overall, there are still many potential areas we should address to reflect instructors’ resource shortages when they have no bandwidth to take care of every student during the learning process and provide necessary intervention or assistance.
+
+The overall outcome seems reasonable, but it needs to be more explainable for learners and instructors to adopt AI technology. Since machine learning algorithms are normally treated as a black box, an increasing number of studies have focused on explaining the AI machine learning model to gain trust from users so that the true value can be demonstrated and accepted.
+
+### RQ4: what is the future trend of AI/IT embedded ITS in sustainable education?
+
+Before we answer RQ 4 and identify potential future research trends, we list the limitations of the challenges of AI-embedded tutoring systems in Table [8](/article/10.1186/s40561-023-00260-y#Tab8). Since most of the AI technology that is used is machine learning, the first limitation and challenge is the amount of data. Theoretically, the more training data from more participation there is, the better, and some research (Corrigan et al., [2015a](/article/10.1186/s40561-023-00260-y#ref-CR10); Guerrero-Higueras et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR14)) demonstrates an ambition to expand the participation scope and expectations of higher performance through obtaining more sampling data. The following key limitations are also related to machine learning and include feature extraction improvement (Hasnine et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR16)), needing longer period learning data (Guerrero-Higueras et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR14)), or the solution not being portable to other tutoring systems (Yang et al., [2021a](/article/10.1186/s40561-023-00260-y#ref-CR56), [b](/article/10.1186/s40561-023-00260-y#ref-CR59)).
+
+**Table 8 Limitations and challenges**
+
+[Full size table](/article/10.1186/s40561-023-00260-y/tables/8)
+
+Based on the limitations and challenges, many future potential research directions were mentioned and discussed in the 29 surveyed papers. Potential future directions are listed in Table [9](/article/10.1186/s40561-023-00260-y#Tab9). Again, the top items tend to be related to machine learning aspects, which gives IT solution architect good opportunities with which to start. Typically, researchers want to have a robust solution architecture that can support more precise performance prediction (Lin & Mubarok, [2021](/article/10.1186/s40561-023-00260-y#ref-CR23)) and hope that the solution can be more portable (Silva et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR41)) by providing a better sample space and training dataset (Guerrero-Higueras et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR14)).
+
+**Table 9 Future direction**
+
+[Full size table](/article/10.1186/s40561-023-00260-y/tables/9)
+
+There is not much research from the 29 papers addressing more recent ways to train machine learning algorithms, such as leveraging transformer to conduct learning behavior clustering or leveraging reinforcement learning to predict or evaluate students’ status by teachers’ input. While AI and machine learning are becoming increasingly advanced, there might always be a better way to improve and make prediction and analysis more accurate.
+
+There are also some important potential future research directions brought up in some research. While researchers want to focus more on engagement rate improvement (Silva et al., [2022](/article/10.1186/s40561-023-00260-y#ref-CR41)) or personalization (Lin & Mubarok, [2021](/article/10.1186/s40561-023-00260-y#ref-CR23)), some researchers have started to focus on emerging educational theories (Leony et al., [2013](/article/10.1186/s40561-023-00260-y#ref-CR21)) and boosting students’ learning interest. Researchers are eager to prove the phenomena derived from machine learning algorithms by linking to educational theories or seeking educational experts’ comments. Some researchers have started to combine all observations and created theories to reflect the foundational change from an examination-focused to an interest-focused instruction style (Chan et al., [2018](/article/10.1186/s40561-023-00260-y#ref-CR7)) or even to build a vision of what the future educational environment will be like.
+
+The “explainable” requirements need to be considered and incorporated into the machine learning algorithm during the design phase in the future. Khosravi et al. ([2022](/article/10.1186/s40561-023-00260-y#ref-CR19)) deeply explore XAI in terms of education, which also provides good guidance for educators and IT solution architects. Similar to the 4-year project conducted by DARPA (Gunning & Aha, [2019](/article/10.1186/s40561-023-00260-y#ref-CR15)), the technical teams were requested to provide an explainable model and explanation interface to support users making decisions. In addition, there is another team addressing humans’ psychological aspects to define how an explanation can be acceptable. Finally, there is also an evaluation assessment check list to verify whether a system can truly be trusted and adopted by users.
+
+In the XAI review paper, Arrieta et al. ([2020](/article/10.1186/s40561-023-00260-y#ref-CR3)) categorized many common machine learning algorithms in detail and described how a model can be explained. Such approaches can be adopted in these AI-integrated educational systems to gain more trust from users. Eventually, designing AI and machine learning algorithms with explanations for users will become culture because this might be the only way to eliminate concerns from learners and instructors and adopt AI as a supportive tool when working toward sustainable education.
+
+However, bringing in more social value and human factors will be one of the key future focuses. Along with explainable AI systems and explainable interfaces to support learners and instructors in decision-making, Human-Centered AI (HCAI) (Auernhammer, [2020](/article/10.1186/s40561-023-00260-y#ref-CR5)) consideration is another future trend in the AI and education integration area. Shneiderman ([2020](/article/10.1186/s40561-023-00260-y#ref-CR40)) defined a two-dimensional approach for categorizing and providing guidance on how to produce system designs that are Reliable, Safe, and Trustworthy (RST). In the papers of (Yang et al., [2021a](/article/10.1186/s40561-023-00260-y#ref-CR56), [b](/article/10.1186/s40561-023-00260-y#ref-CR59), [2023](/article/10.1186/s40561-023-00260-y#ref-CR58)), the authors share the aspects of how AI and HCAI can contribute in different ways to sustainable education with proper social values.
+
+Another potential future trend is to maximize the social value that AI systems can bring. For example, virtualized online courses with AI support can eliminate the distance gap of some students so that their educational equality issue can be addressed. In addition, with AI support, the system can be intelligent enough to consider the minority group or individual by providing an adaptive or personalized learning experience. Eventually, the instructors can focus on pedagogical strategy and improve the overall teaching efficacy, students’ learning performance with proper intervention, and sustainable education goals.
+
+Conclusions
+-----------
+
+In this review paper, we leveraged a combination of learning model analytics and the PRISMA review paper framework to discuss how AI can empower educational systems in many aspects. Starting with RQ1, we listed the typical challenges of sustainable education implementation and the integration of AI and information technology. Following RQ2 to RQ4, we discussed different kinds of AI-embedded technology and how they support sustainable education implementation. We also discussed the typical scenarios that are involved when ITSs are deployed to give educators some reference and guidance when thinking about integrating AI into their tutoring systems. Finally, we discussed future research directions that may also provide IT solution architects and educators some ideas on which to continue working.
+
+In this study, we aimed to help our target audience understand the current state of integrating AI technology into tutoring systems, along with the challenges that come with it. We provided clear guidance for educators and IT solution architects on how to implement and deploy AI-enabled systems. This guidance includes understanding the different types of machine learning algorithms, raising awareness among educators, and the needs of navigating government policies and regulations, among other things. Our hope is that this will bridge the gap between educators and IT solution architects, facilitating the smooth deployment of sustainable education systems.
+
+Many benefits have been explored through the implementation of tutoring systems with big data analysis capabilities. AI-integrated tutoring systems may use natural language processing and machine learning techniques to evaluate student responses and determine individual progress by analyzing their learning behaviors. Additionally, AI-based tutoring systems help bridge the gap between educators and students by providing an innovative platform that makes education more accessible. This means that students can learn at their own pace, from wherever they are, which increases flexibility in the learning process. As a result, AI-powered tutoring systems promote equal access to education, regardless of geographical location or financial status.
+
+However, researchers have started to notice that along with the various benefits, the bias generated from AI and machine learning algorithms may also create harm. This harm may come from “allocational” or “representational” aspects (Mayfield et al., [2019](/article/10.1186/s40561-023-00260-y#ref-CR26)) and may eventually derail the purposes of education. As a result of these potential harms and biases, researchers have also started looking at AI not only in an explainable way but also from fairness and trustworthiness perspectives. This will be one of the major future research directions, and more human-centered (or teacher-centered) factors may need to be considered.
+
+Finally, AI has revolutionized education by promoting sustainable education practices that are more student-centered. Compared to a traditional classroom setting, electronic educational resources significantly share the effort of teachers when individual students’ learning status needs to be considered. With better data analytics and insights provided via AI, tutoring applications can also reduce resource waste and improve sustainable education in the long run.
+
+In conclusion, the incorporation of AI in tutoring systems has resulted in positive outcomes in sustainable education. From personalized education, adaptive learning, automated assessments, and flexible learning environments to eco-friendly practices, AI-powered tutoring systems have emerged as a beacon of a brighter future for education.
+
+
+
+Availability of data and materials
+----------------------------------
+
+Not applicable.
+
+Abbreviations
+-------------
+
+AI:
+
+Artificial Intelligence
+
+HCAI:
+
+Human-Centered AI
+
+ICT:
+
+Information and Communication Technology
+
+IT:
+
+Information Technology
+
+ITS:
+
+Intelligent Tutoring System
+
+NLP:
+
+Natural Language Processing
+
+PRISMA:
+
+Preferred Reporting Items for Systematic review and Meta-Analyses
+
+RST:
+
+Reliable, Safe and Trustworthy
+
+SDG:
+
+Sustainable Development Goal
+
+TEL:
+
+Technology-Enhanced Learning
+
+XAI:
+
+EXplainable Artificial Intelligence
+
+References
+----------
+
+* Acevedo-Duque, Á., Jiménez-Bucarey, C., Prado-Sabido, T., Fernández-Mantilla, M. M., Merino-Flores, I., Izquierdo-Marín, S. S., & Valle-Palomino, N. (2023). Education for sustainable development: Challenges for postgraduate programmes. *International Journal of Environmental Research and Public Health*, *20*(3), 1759, Article 1759. <https://doi.org/10.3390/ijerph20031759>
+* Afzaal, M., Nouri, J., Zia, A., Papapetrou, P., Fors, U., Wu, Y., Li, X., & Weegar, R. (2021). Automatic and intelligent recommendations to support students' self-regulation. In *2021 International conference on advanced learning technologies (ICALT)*, Tartu, Estonia.
+* Arrieta, A. B., Díaz-Rodríguez, N., Del Ser, J., Bennetot, A., Tabik, S., Barbado, A., Garcia, S., Gil-Lopez, S., Molina, D., Benjamins, R., Chatila, R., & Herrera, F. (2020). Explainable artificial intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI. *Information Fusion,* *58*, 82–115. <https://doi.org/10.1016/j.inffus.2019.12.012>
+  
+  [Article](https://doi.org/10.1016%2Fj.inffus.2019.12.012) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Explainable%20artificial%20intelligence%20%28XAI%29%3A%20Concepts%2C%20taxonomies%2C%20opportunities%20and%20challenges%20toward%20responsible%20AI&journal=Information%20Fusion&doi=10.1016%2Fj.inffus.2019.12.012&volume=58&pages=82-115&publication_year=2020&author=Arrieta%2CAB&author=D%C3%ADaz-Rodr%C3%ADguez%2CN&author=Ser%2CJ&author=Bennetot%2CA&author=Tabik%2CS&author=Barbado%2CA&author=Garcia%2CS&author=Gil-Lopez%2CS&author=Molina%2CD&author=Benjamins%2CR&author=Chatila%2CR&author=Herrera%2CF)
+* Atapattu, T., & Falkner, K. (2016). A framework for topic generation and labeling from MOOC discussions. In *Proceedings of the third (2016) ACM conference on learning @ scale*, Edinburgh, Scotland, UK.
+* Auernhammer, J. (2020). Human-centered AI: the role of human-centered design research in the development of AI. <https://doi.org/10.21606/drs.2020.282>
+* Carbonell, J. R. (1970). AI in CAI: An artificial-intelligence approach to computer-assisted instruction. *IEEE Transactions on Man-Machine Systems,* *11*(4), 190–202. <https://doi.org/10.1109/TMMS.1970.299942>
+  
+  [Article](https://doi.org/10.1109%2FTMMS.1970.299942) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AI%20in%20CAI%3A%20An%20artificial-intelligence%20approach%20to%20computer-assisted%20instruction&journal=IEEE%20Transactions%20on%20Man-Machine%20Systems&doi=10.1109%2FTMMS.1970.299942&volume=11&issue=4&pages=190-202&publication_year=1970&author=Carbonell%2CJR)
+* Chan, T.-W., Looi, C.-K., Chen, W., Wong, L.-H., Chang, B., Liao, C. C. Y., Cheng, H., Chen, Z.-H., Liu, C.-C., Kong, S.-C., Jeong, H., Mason, J., So, H.-J., Murthy, S., Yu, F.-Y., Wong, S. L., King, R. B., Gu, X., Wang, M., … Ogata, H. (2018). Interest-driven creator theory: Towards a theory of learning design for Asia in the twenty-first century. *Journal of Computers in Education,* *5*(4), 435–461. <https://doi.org/10.1007/s40692-018-0122-0>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40692-018-0122-0) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interest-driven%20creator%20theory%3A%20Towards%20a%20theory%20of%20learning%20design%20for%20Asia%20in%20the%20twenty-first%20century&journal=Journal%20of%20Computers%20in%20Education&doi=10.1007%2Fs40692-018-0122-0&volume=5&issue=4&pages=435-461&publication_year=2018&author=Chan%2CT-W&author=Looi%2CC-K&author=Chen%2CW&author=Wong%2CL-H&author=Chang%2CB&author=Liao%2CCCY&author=Cheng%2CH&author=Chen%2CZ-H&author=Liu%2CC-C&author=Kong%2CS-C&author=Jeong%2CH&author=Mason%2CJ&author=So%2CH-J&author=Murthy%2CS&author=Yu%2CF-Y&author=Wong%2CSL&author=King%2CRB&author=Gu%2CX&author=Wang%2CM&author=Wu%2CL&author=Huang%2CR&author=Lam%2CR&author=Ogata%2CH)
+* Chatti, M. A., Dyckhoff, A. L., Schroeder, U., & Thüs, H. (2012). A reference model for learning analytics. *International Journal of Technology Enhanced Learning,* *4*(5–6), 318–331. <https://doi.org/10.1504/IJTEL.2012.051815>
+  
+  [Article](https://doi.org/10.1504%2FIJTEL.2012.051815) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20reference%20model%20for%20learning%20analytics&journal=International%20Journal%20of%20Technology%20Enhanced%20Learning&doi=10.1504%2FIJTEL.2012.051815&volume=4&issue=5%E2%80%936&pages=318-331&publication_year=2012&author=Chatti%2CMA&author=Dyckhoff%2CAL&author=Schroeder%2CU&author=Th%C3%BCs%2CH)
+* Choi, Y., & McClenen, C. (2020). Development of adaptive formative assessment system using computerized adaptive testing and dynamic Bayesian networks. *Applied Sciences*, *10*(22), 1–17, Article 8196. <https://doi.org/10.3390/app10228196>
+* Corrigan, O., Glynn, M., McKenna, A., Smeaton, A., & Smyth, S. (2015a). Student data: Data is knowledge: Putting the knowledge back in the students' hands. Paper presented at the proceedings of the 14th European conference on e-learning, South Oxfordshire, UK.
+* Corrigan, O., Smeaton, A. F., Glynn, M., & Smyth, S. (2015b). Using educational analytics to improve test performance. Design for teaching and learning in a networked world. EC-TEL 2015b. Lecture notes in computer science, Cham.
+* Deng, R., & Benckendorff, P. (2020). Technology-enabled learning. *Handbook of e-Tourism*, 1–27.
+* Gillani, N., Eynon, R., Chiabaut, C., & Finkel, K. (2023). Unpacking the “Black Box” of AI in education. *Educational Technology and Society,* *26*(1), 99–111. <https://doi.org/10.30191/ETS.202301_26(1).0008>
+  
+  [Article](https://doi.org/10.30191%2FETS.202301_26%281%29.0008) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Unpacking%20the%20%E2%80%9CBlack%20Box%E2%80%9D%20of%20AI%20in%20education&journal=Educational%20Technology%20and%20Society&doi=10.30191%2FETS.202301_26%281%29.0008&volume=26&issue=1&pages=99-111&publication_year=2023&author=Gillani%2CN&author=Eynon%2CR&author=Chiabaut%2CC&author=Finkel%2CK)
+* Guerrero-Higueras, Á. M., DeCastro-García, N., Conde, M. Á., & Matellán, V. (2018). Predictive models of academic success: A case study with version control systems. In *Proceedings of the sixth international conference on technological ecosystems for enhancing multiculturality*, Salamanca, Spain.
+* Gunning, D., & Aha, D. (2019). DARPA’s explainable artificial intelligence (XAI) program. *AI Magazine,* *40*(2), 44–58. <https://doi.org/10.1609/aimag.v40i2.2850>
+  
+  [Article](https://doi.org/10.1609%2Faimag.v40i2.2850) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=DARPA%E2%80%99s%20explainable%20artificial%20intelligence%20%28XAI%29%20program&journal=AI%20Magazine&doi=10.1609%2Faimag.v40i2.2850&volume=40&issue=2&pages=44-58&publication_year=2019&author=Gunning%2CD&author=Aha%2CD)
+* Hasnine, M. N., Akcapinar, G., Flanagan, B., Majumdar, R., Mouri, K., & Ogata, H. (2018). Towards final scores prediction over clickstream using machine learning methods. In *ICCE 2018—26th International conference on computers in education, workshop proceedings*, Philippines.
+* Jiang, X., Liu, W., & Liu, J. (2019). Learning analytics in a blended computer education course. In *Proceedings of the international workshop on artificial intelligence and education*, Singapore.
+* Khahro, S. H., & Javed, Y. (2022). Key challenges in 21st century learning: A way forward towards sustainable higher educational institutions. *Sustainability (Switzerland)*, *14*(23), 16080, Article 16080. <https://doi.org/10.3390/su142316080>
+* Khosravi, H., Shum, S. B., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). Explainable artificial intelligence in education. *Computers and Education: Artificial Intelligence,* *3*, 100074. <https://doi.org/10.1016/j.caeai.2022.100074>
+  
+  [Article](https://doi.org/10.1016%2Fj.caeai.2022.100074) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Explainable%20artificial%20intelligence%20in%20education&journal=Computers%20and%20Education%3A%20Artificial%20Intelligence&doi=10.1016%2Fj.caeai.2022.100074&volume=3&publication_year=2022&author=Khosravi%2CH&author=Shum%2CSB&author=Chen%2CG&author=Conati%2CC&author=Tsai%2CY-S&author=Kay%2CJ&author=Knight%2CS&author=Martinez-Maldonado%2CR&author=Sadiq%2CS&author=Ga%C5%A1evi%C4%87%2CD)
+* Lee, C. A., Tzeng, J. W., Huang, N. F., & Su, Y. S. (2021). Prediction of student performance in massive open online courses using deep learning system based on learning behaviors. *Educational Technology and Society,* *24*(3), 130–146.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prediction%20of%20student%20performance%20in%20massive%20open%20online%20courses%20using%20deep%20learning%20system%20based%20on%20learning%20behaviors&journal=Educational%20Technology%20and%20Society&volume=24&issue=3&pages=130-146&publication_year=2021&author=Lee%2CCA&author=Tzeng%2CJW&author=Huang%2CNF&author=Su%2CYS)
+* Leony, D., Muñoz-Merino, P. J., Pardo, A., & Kloos, C. D. (2013). Provision of awareness of learners’ emotions through visualizations in a computer interaction-based environment. *Expert Systems with Applications,* *40*(13), 5093–5100. <https://doi.org/10.1016/j.eswa.2013.03.030>
+  
+  [Article](https://doi.org/10.1016%2Fj.eswa.2013.03.030) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Provision%20of%20awareness%20of%20learners%27%20emotions%20through%20visualizations%20in%20a%20computer%20interaction-based%20environment&journal=Expert%20Systems%20with%20Applications&doi=10.1016%2Fj.eswa.2013.03.030&volume=40&issue=13&pages=5093-5100&publication_year=2013&author=Leony%2CD&author=Mu%C3%B1oz-Merino%2CPJ&author=Pardo%2CA&author=Kloos%2CCD)
+* Liddy, E. D. (2001). Natural language processing.
+* Lin, C. J., & Mubarok, H. (2021). Learning analytics for investigating the mind map-guided AI chatbot approach in an EFL flipped speaking classroom. *Educational Technology and Society,* *24*(4), 16–35.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Learning%20analytics%20for%20investigating%20the%20mind%20map-guided%20AI%20chatbot%20approach%20in%20an%20EFL%20flipped%20speaking%20classroom&journal=Educational%20Technology%20and%20Society&volume=24&issue=4&pages=16-35&publication_year=2021&author=Lin%2CCJ&author=Mubarok%2CH)
+* Llurba, C., Fretes, G., & Palau, R. (2022). Pilot study of real-time emotional recognition technology for secondary school students. *Interaction Design and Architecture(s),* *52*, 61–80. <https://doi.org/10.55612/s-5002-052-004>
+  
+  [Article](https://doi.org/10.55612%2Fs-5002-052-004) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Pilot%20study%20of%20real-time%20emotional%20recognition%20technology%20for%20secondary%20school%20students&journal=Interaction%20Design%20and%20Architecture%28s%29&doi=10.55612%2Fs-5002-052-004&volume=52&pages=61-80&publication_year=2022&author=Llurba%2CC&author=Fretes%2CG&author=Palau%2CR)
+* Lu, O. H. T., Huang, A. Y. Q., & Yang, S. J. H. (2018). Benchmarking and tuning regression algorithms on predicting students’ academic performance. In *26th International conference on computers in education*, Philippines.
+* Mayfield, E., Madaio, M., Prabhumoye, S., Gerritsen, D., McLaughlin, B., Dixon-Román, E., & Black, A. W. (2019). Equity beyond bias in language technologies for education. In *Proceedings of the fourteenth workshop on innovative use of NLP for building educational applications*, Florence, Italy.
+* Montpetit, C., & Sabourin, S. (2016). Assessing the impact of an “echo360-active learning platform—Enabled classroom in a large enrolment blended learning undergraduate course in genetics. In *Proceedings of the 33rd international conference of innovation, practice and research in the use of educational technologies in tertiary education*.
+* Niyogisubizo, J., Liao, L., Nziyumva, E., Murwanashyaka, E., & Nshimyumukiza, P. C. (2022). Predicting student's dropout in university classes using two-layer ensemble machine learning approach: A novel stacked generalization. *Computers and Education: Artificial Intelligence*, *3*, 100066, Article 100066. <https://doi.org/10.1016/j.caeai.2022.100066>
+* Ogunkunle, O., & Qu, Y. (2020). A data mining based optimization of selecting learning material in an intelligent tutoring system for advancing STEM education. In *2020 International conference on computational science and computational intelligence (CSCI)*, Las Vegas, USA.
+* Ouyang, F., Wu, M., Zheng, L., Zhang, L., & Jiao, P. (2023). Integration of artificial intelligence performance prediction and learning analytics to improve student learning in online engineering course. *International Journal of Educational Technology in Higher Education*, *20*(1), 4, Article 4. <https://doi.org/10.1186/s41239-022-00372-4>
+* Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., & Brennan, S. E. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *International Journal of Surgery,* *372*, n71. <https://doi.org/10.1136/bmj.n71>
+  
+  [Article](https://doi.org/10.1136%2Fbmj.n71) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20PRISMA%202020%20statement%3A%20An%20updated%20guideline%20for%20reporting%20systematic%20reviews&journal=International%20Journal%20of%20Surgery&doi=10.1136%2Fbmj.n71&volume=372&publication_year=2021&author=Page%2CMJ&author=McKenzie%2CJE&author=Bossuyt%2CPM&author=Boutron%2CI&author=Hoffmann%2CTC&author=Mulrow%2CCD&author=Shamseer%2CL&author=Tetzlaff%2CJM&author=Akl%2CEA&author=Brennan%2CSE)
+* Paramythis, A., & Loidl-Reisinger, S. (2003). Adaptive learning environments and e-learning standards. In *Second European conference on e-learning*.
+* Pereira, F. D., Fonseca, S. C., Oliveira, E. H. T., Cristea, A. I., Bellhauser, H., Rodrigues, L., Oliveira, D. B. F., Isotani, S., & Carvalho, L. S. G. (2021). Explaining individual and collective programming students’ behavior by interpreting a black-box predictive model. *IEEE Access,* *9*, 117097–117119. <https://doi.org/10.1109/ACCESS.2021.3105956>
+  
+  [Article](https://doi.org/10.1109%2FACCESS.2021.3105956) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Explaining%20individual%20and%20collective%20programming%20students%E2%80%99%20behavior%20by%20interpreting%20a%20black-box%20predictive%20model&journal=IEEE%20Access&doi=10.1109%2FACCESS.2021.3105956&volume=9&pages=117097-117119&publication_year=2021&author=Pereira%2CFD&author=Fonseca%2CSC&author=Oliveira%2CEHT&author=Cristea%2CAI&author=Bellhauser%2CH&author=Rodrigues%2CL&author=Oliveira%2CDBF&author=Isotani%2CS&author=Carvalho%2CLSG)
+* Pereira, F. D., Oliveira, E., Cristea, A., Fernandes, D., Silva, L., Aguiar, G., Alamri, A., & Alshehri, M. (2019). Early dropout prediction for programming courses supported by online judges. Artificial intelligence in education. AIED 2019. Lecture notes in computer science, Cham.
+* Perikos, I., Grivokostopoulou, F., & Hatzilygeroudis, I. (2017). Assistance and feedback mechanism in an intelligent tutoring system for teaching conversion of natural language into logic. *International Journal of Artificial Intelligence in Education,* *27*(3), 475–514. <https://doi.org/10.1007/s40593-017-0139-y>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40593-017-0139-y) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assistance%20and%20feedback%20mechanism%20in%20an%20intelligent%20tutoring%20system%20for%20teaching%20conversion%20of%20natural%20language%20into%20logic&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.1007%2Fs40593-017-0139-y&volume=27&issue=3&pages=475-514&publication_year=2017&author=Perikos%2CI&author=Grivokostopoulou%2CF&author=Hatzilygeroudis%2CI)
+* Ruipérez-Valiente, J. A., Jaramillo-Morillo, D., Joksimović, S., Kovanović, V., Muñoz-Merino, P. J., & Gašević, D. (2021). Data-driven detection and characterization of communities of accounts collaborating in MOOCs. *Future Generation Computer Systems,* *125*, 590–603. <https://doi.org/10.1016/j.future.2021.07.003>
+  
+  [Article](https://doi.org/10.1016%2Fj.future.2021.07.003) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Data-driven%20detection%20and%20characterization%20of%20communities%20of%20accounts%20collaborating%20in%20MOOCs&journal=Future%20Generation%20Computer%20Systems&doi=10.1016%2Fj.future.2021.07.003&volume=125&pages=590-603&publication_year=2021&author=Ruip%C3%A9rez-Valiente%2CJA&author=Jaramillo-Morillo%2CD&author=Joksimovi%C4%87%2CS&author=Kovanovi%C4%87%2CV&author=Mu%C3%B1oz-Merino%2CPJ&author=Ga%C5%A1evi%C4%87%2CD)
+* Saudelli, M. G., & Niemczyk, E. K. (2022). Education for sustainable development: Insights from Canadian and South African universities. *Perspectives in Education,* *40*(3), 47–61. <https://doi.org/10.18820/2519593X/pie.v40.i3.4>
+  
+  [Article](https://doi.org/10.18820%2F2519593X%2Fpie.v40.i3.4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Education%20for%20sustainable%20development%3A%20Insights%20from%20Canadian%20and%20South%20African%20universities&journal=Perspectives%20in%20Education&doi=10.18820%2F2519593X%2Fpie.v40.i3.4&volume=40&issue=3&pages=47-61&publication_year=2022&author=Saudelli%2CMG&author=Niemczyk%2CEK)
+* Serrano-Laguna, A., Manero, B., Freire, M., & Fernandez-Manjon, B. (2018). A methodology for assessing the effectiveness of serious games and for inferring player learning outcomes. *Multimedia Tools and Applications,* *77*(2), 2849–2871. <https://doi.org/10.1007/s11042-017-4467-6>
+  
+  [Article](https://link.springer.com/doi/10.1007/s11042-017-4467-6) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20methodology%20for%20assessing%20the%20effectiveness%20of%20serious%20games%20and%20for%20inferring%20player%20learning%20outcomes&journal=Multimedia%20Tools%20and%20Applications&doi=10.1007%2Fs11042-017-4467-6&volume=77&issue=2&pages=2849-2871&publication_year=2018&author=Serrano-Laguna%2CA&author=Manero%2CB&author=Freire%2CM&author=Fernandez-Manjon%2CB)
+* Shah, Z., Kennedy-Clark, S., Xie, Y., Rahim, M. S., Mahdavi, M., & Levula, A. (2022). Teacher views on teaching sustainability in higher education institutes in Australia. *Sustainability (Switzerland)*, *14*(14), 8431, Article 8431. <https://doi.org/10.3390/su14148431>
+* Shneiderman, B. (2020). Human-centered artificial intelligence: Reliable, safe & trustworthy. *International Journal of Human-Computer Interaction,* *36*(6), 495–504. <https://doi.org/10.1080/10447318.2020.1741118>
+  
+  [Article](https://doi.org/10.1080%2F10447318.2020.1741118) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Human-centered%20artificial%20intelligence%3A%20Reliable%2C%20safe%20%26%20trustworthy&journal=International%20Journal%20of%20Human-Computer%20Interaction&doi=10.1080%2F10447318.2020.1741118&volume=36&issue=6&pages=495-504&publication_year=2020&author=Shneiderman%2CB)
+* Silva, K., Induwara, R., Wimukthi, M., Poornika, S., Samaratunge Arachchillage, U. S. S., & Jayalath, T. (2022). E-tutor: Comprehensive student productivity management system for education. In *2022 4th International conference on advancements in computing (ICAC)*, Colombo, Sri Lanka.
+* Simuț, C., Petrila, L., Popescu, F. A., & Oprea, I. M. (2021). Challenges and opportunities for telecommuting in the school system: Building a sustainable online education in the context of the SARS-Cov-2 pandemic. *Sustainability (Switzerland)*, *13*(18), 10296, Article 10296. <https://doi.org/10.3390/su131810296>
+* Singh, N., Gunjan, V. K., Mishra, A. K., Mishra, R. K., & Nawaz, N. (2022). Seistutor: A custom-tailored intelligent tutoring system and sustainable education. *Sustainability (Switzerland)*, *14*(7), 4167, Article 4167. <https://doi.org/10.3390/su14074167>
+* Smaniotto, C., Saramin, A., Brunelli, L., & Parpinel, M. (2023). Insights and next challenges for the italian educational system to teach sustainability in a global context. *Sustainability (Switzerland)*, *15*(1), 209, Article 209. <https://doi.org/10.3390/su15010209>
+* Sterling, S. R., & Orr, D. (2001). *Sustainable education: Re-visioning learning and change* (Vol. 6). Green Books for the Schumacher Society Totnes.
+* Tewari, A. (2020). Sustainable education in India through artificial intelligence: Challenges and opportunities. In *WebSci 2020—Companion of the 12th ACM conference on web science*, Southampton, United Kingdom.
+* Tobarra, L., Utrilla, A., Robles-Gómez, A., Pastor-Vargas, R., & Hernández, R. (2021). A cloud game-based educative platform architecture: The cyberscratch project. *Applied Sciences*, *11*(2), 1–22, Article 807. <https://doi.org/10.3390/app11020807>
+* Tsegay, S. M., Ashraf, M. A., Perveen, S., & Zegergish, M. Z. (2022). Online teaching during COVID-19 pandemic: Teachers’ experiences from a Chinese university. *Sustainability (Switzerland)*, *14*(1), 568, Article 568. <https://doi.org/10.3390/su14010568>
+* Tzeng, J. W., Lee, C. A., Huang, N. F., Huang, H. H., & Lai, C. F. (2022). MOOC evaluation system based on deep learning. *International Review of Research in Open and Distance Learning,* *23*(1), 21–40. <https://doi.org/10.19173/IRRODL.V22I4.5417>
+  
+  [Article](https://doi.org/10.19173%2FIRRODL.V22I4.5417) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=MOOC%20evaluation%20system%20based%20on%20deep%20learning&journal=International%20Review%20of%20Research%20in%20Open%20and%20Distance%20Learning&doi=10.19173%2FIRRODL.V22I4.5417&volume=23&issue=1&pages=21-40&publication_year=2022&author=Tzeng%2CJW&author=Lee%2CCA&author=Huang%2CNF&author=Huang%2CHH&author=Lai%2CCF)
+* United Nations. (2015). *Sustainable development 17 goals*. Retrieved 05 May 2023 from <https://sdgs.un.org/goals>
+* Wade, R. (2012). Pedagogy, places and people. *Journal of Teacher Education for Sustainability,* *14*(2), 147–167. <https://doi.org/10.2478/v10099-012-0014-8>
+  
+  [Article](https://doi.org/10.2478%2Fv10099-012-0014-8) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Pedagogy%2C%20places%20and%20people&journal=Journal%20of%20Teacher%20Education%20for%20Sustainability&doi=10.2478%2Fv10099-012-0014-8&volume=14&issue=2&pages=147-167&publication_year=2012&author=Wade%2CR)
+* Weng, J. X., Huang, A. Y. Q., Lu, O. H. T., Chen, I. Y. L., & Yang, S. J. H. (2020). The implementation of precision education for learning analytics. In *Proceedings of 2020 IEEE international conference on teaching, assessment, and learning for engineering*, TALE, Takamatsu, Japan.
+* Wu, S.-H., Lai, C.-L., Hwang, G.-J., & Tsai, C.-C. (2021). Research trends in technology-enhanced chemistry learning: A review of comparative research from 2010 to 2019. *Journal of Science Education and Technology,* *30*(4), 496–510. <https://doi.org/10.1007/s10956-020-09894-w>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10956-020-09894-w) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Research%20trends%20in%20technology-enhanced%20chemistry%20learning%3A%20A%20review%20of%20comparative%20research%20from%202010%20to%202019&journal=Journal%20of%20Science%20Education%20and%20Technology&doi=10.1007%2Fs10956-020-09894-w&volume=30&issue=4&pages=496-510&publication_year=2021&author=Wu%2CS-H&author=Lai%2CC-L&author=Hwang%2CG-J&author=Tsai%2CC-C)
+* Xie, H., Chu, H.-C., Hwang, G.-J., & Wang, C.-C. (2019). Trends and development in technology-enhanced adaptive/personalized learning: A systematic review of journal publications from 2007 to 2017. *Computers & Education*. <https://doi.org/10.1016/j.compedu.2019.103599>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2019.103599) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Trends%20and%20development%20in%20technology-enhanced%20adaptive%2Fpersonalized%20learning%3A%20A%20systematic%20review%20of%20journal%20publications%20from%202007%20to%202017&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2019.103599&publication_year=2019&author=Xie%2CH&author=Chu%2CH-C&author=Hwang%2CG-J&author=Wang%2CC-C)
+* Xing, W., & Goggins, S. (2015). Learning analytics in outer space: A hidden naïve bayes model for automatic student off-task behavior detection. In *Proceedings of the fifth international conference on learning analytics and knowledge*, Poughkeepsie, New York.
+* Yang, C. C. Y., Chen, I. Y. L., & Ogata, H. (2021a). Toward precision education: Educational data mining and learning analytics for identifying students’ learning patterns with ebook systems. *Educational Technology and Society,* *24*(1), 152–163.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Toward%20precision%20education%3A%20Educational%20data%20mining%20and%20learning%20analytics%20for%20identifying%20students%E2%80%99%20learning%20patterns%20with%20ebook%20systems&journal=Educational%20Technology%20and%20Society&volume=24&issue=1&pages=152-163&publication_year=2021&author=Yang%2CCCY&author=Chen%2CIYL&author=Ogata%2CH)
+* Yang, Q.-F., Lin, C.-J., & Hwang, G.-J. (2019). Research focuses and findings of flipping mathematics classes: A review of journal publications based on the technology-enhanced learning model. *Interactive Learning Environments,* *29*(6), 905–938. <https://doi.org/10.1080/10494820.2019.1637351>
+  
+  [Article](https://doi.org/10.1080%2F10494820.2019.1637351) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Research%20focuses%20and%20findings%20of%20flipping%20mathematics%20classes%3A%20A%20review%20of%20journal%20publications%20based%20on%20the%20technology-enhanced%20learning%20model&journal=Interactive%20Learning%20Environments&doi=10.1080%2F10494820.2019.1637351&volume=29&issue=6&pages=905-938&publication_year=2019&author=Yang%2CQ-F&author=Lin%2CC-J&author=Hwang%2CG-J)
+* Yang, S. J. H., Ogata, H., & Matsui, T. (2023). Guest editorial: Human-centered AI in education: Augment human intelligence with machine intelligence [Editorial]. *Educational Technology and Society,* *26*(1), 95–98. <https://doi.org/10.30191/ETS.202301_26(1).0007>
+  
+  [Article](https://doi.org/10.30191%2FETS.202301_26%281%29.0007) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Guest%20editorial%3A%20Human-centered%20AI%20in%20education%3A%20Augment%20human%20intelligence%20with%20machine%20intelligence%20%5BEditorial%5D&journal=Educational%20Technology%20and%20Society&doi=10.30191%2FETS.202301_26%281%29.0007&volume=26&issue=1&pages=95-98&publication_year=2023&author=Yang%2CSJH&author=Ogata%2CH&author=Matsui%2CT)
+* Yang, S. J. H., Ogata, H., Matsui, T., & Chen, N. S. (2021b). Human-centered artificial intelligence in education: Seeing the invisible through the visible. *Computers and Education: Artificial Intelligence*, *2*, 100008, Article 100008. <https://doi.org/10.1016/j.caeai.2021.100008>
+* Yin, R. K. (2015). *Qualitative research from start to finish*. Guilford Publications.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Qualitative%20research%20from%20start%20to%20finish&publication_year=2015&author=Yin%2CRK)
+* Yousuf, M., & Wahid, A. (2021). The role of artificial intelligence in education: Current trends and future prospects. In *2021 International conference on information science and communications technologies (ICISCT)*, Tashkent, Uzbekistan.
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1186/s40561-023-00260-y?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+Not applicable.
+
+### Declaration of AI and AI-assisted technologies in the writing process
+
+During the preparation of this work the authors used ChatGPT to conduct proofreading to improve readability and language of single sentences as some authors are not native English speakers. After using this tool, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
+
+Funding
+-------
+
+This research was funded by National Science and Technology Council Grant Nos. 111-2410-H-008-010-MY3 and 109-2511-H-008-007-MY3.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. National Central University, Taoyüan, Taiwan
+   
+   Chien-Chang Lin & Anna Y. Q. Huang
+2. National Chengchi University, Taipei, Taiwan
+   
+   Owen H. T. Lu
+
+Authors
+
+1. Chien-Chang Lin[View author publications](/search?sortBy=newestFirst&contributor=Chien-Chang%20Lin)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Chien-Chang%20Lin) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Chien-Chang%20Lin%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Anna Y. Q. Huang[View author publications](/search?sortBy=newestFirst&contributor=Anna%20Y.%20Q.%20Huang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Anna%20Y.%20Q.%20Huang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Anna%20Y.%20Q.%20Huang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Owen H. T. Lu[View author publications](/search?sortBy=newestFirst&contributor=Owen%20H.%20T.%20Lu)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Owen%20H.%20T.%20Lu) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Owen%20H.%20T.%20Lu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+All authors planned, discussed, verified, and approved the manuscripts.
+
+### Corresponding author
+
+Correspondence to
+[Chien-Chang Lin](mailto:cclin3123@gmail.com).
+
+Ethics declarations
+-------------------
+
+### Competing interests
+
+The authors declare that there is not competing interests.
+
+Additional information
+----------------------
+
+### Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Artificial%20intelligence%20in%20intelligent%20tutoring%20systems%20toward%20sustainable%20education%3A%20a%20systematic%20review&author=Chien-Chang%20Lin%20et%20al&contentID=10.1186%2Fs40561-023-00260-y&copyright=The%20Author%28s%29&publication=2196-7091&publicationDate=2023-08-28&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+About this article
+------------------
+
+### Cite this article
+
+Lin, CC., Huang, A.Y.Q. & Lu, O.H.T. Artificial intelligence in intelligent tutoring systems toward sustainable education: a systematic review.
+*Smart Learn. Environ.* **10**, 41 (2023). https://doi.org/10.1186/s40561-023-00260-y
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1186/s40561-023-00260-y?format=refman&flavour=citation)
+
+* Received: 06 June 2023
+* Accepted: 21 August 2023
+* Published: 28 August 2023
+* Version of record: 28 August 2023
+* DOI: https://doi.org/10.1186/s40561-023-00260-y
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Artificial intelligence](/search?query=Artificial%20intelligence&facet-discipline="Education")
+* [Sustainable education](/search?query=Sustainable%20education&facet-discipline="Education")
+* [Education sustainability](/search?query=Education%20sustainability&facet-discipline="Education")
+* [Intelligent tutoring system](/search?query=Intelligent%20tutoring%20system&facet-discipline="Education")
+* [Massive open online course](/search?query=Massive%20open%20online%20course&facet-discipline="Education")
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.49.92
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

@@ -1,0 +1,208 @@
+# Source URL: https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219
+# Content Length: 18325 characters
+# Extracted at: 2026-03-23 06:45:06
+#============================================================
+
+Study: AI chatbots provide less-accurate information to vulnerable users | MIT News | Massachusetts Institute of Technology[Skip to content ↓](#main)
+[Massachusetts Institute of Technology](http://web.mit.edu)
+[MIT Top Menu↓](#tle-nav--menu)
+\* [Education](http://web.mit.edu/education)
+\* [Research](http://web.mit.edu/research)
+\* [Innovation](http://web.mit.edu/innovation)
+\* [Admissions + Aid](http://web.mit.edu/admissions-aid)
+\* [Campus Life](http://web.mit.edu/campus-life)
+\* [News](/)
+\* [Alumni](http://web.mit.edu/alumni)
+\* [About MIT](http://web.mit.edu/about)
+\* More ↓
+[Search MIT](http://web.mit.edu/search/)
+Search websites, locations, and people
+See More Results
+[Suggestions or feedback?](http://web.mit.edu/feedback)
+## [MIT News | Massachusetts Institute of Technology - On Campus and Around the world](/)
+[Subscribe to MIT News newsletter](http://web.mit.edu/mit-daily-weekly/)
+[Browse](#site-nav--browse)
+Enter keywords to search for news articles:Submit
+## Browse By
+### Topics
+[View All](/topics) →
+Explore:
+\* [Machine learning](/topic/machine-learning)
+\* [Sustainability](/topic/sustainability)
+\* [Startups](/topic/startups)
+\* [Black holes](/topic/black-holes)
+\* [Classes and programs](/topic/classes-and-programs)
+### Departments
+[View All](/departments) →
+Explore:
+\* [Aeronautics and Astronautics](/department/aeronautics-and-astronautics)
+\* [Brain and Cognitive Sciences](/department/brain-and-cognitive-sciences)
+\* [Architecture](/department/architecture)
+\* [Political Science](/department/political-science)
+\* [Mechanical Engineering](/department/mechanical-engineering)
+### Centers, Labs, & Programs
+[View All](/centers-labs-programs) →
+Explore:
+\* [Abdul Latif Jameel Poverty Action Lab (J-PAL)](/clp/abdul-latif-jameel-poverty-action-lab-j-pal)
+\* [Picower Institute for Learning and Memory](/clp/picower-institute)
+\* [Media Lab](/clp/media-lab)
+\* [Lincoln Laboratory](/clp/lincoln-laboratory)
+### Schools
+\* [School of Architecture + Planning](/school/architecture-and-planning)
+\* [School of Engineering](/school/engineering)
+\* [School of Humanities, Arts, and Social Sciences](/school/humanities-arts-and-social-sciences)
+\* [Sloan School of Management](/school/management)
+\* [School of Science](/school/science)
+\* [MIT Schwarzman College of Computing](/school/mit-schwarzman-college-computing)
+[View all news coverage of MIT in the media](/in-the-media) →
+[Listen to audio content from MIT News](/podcasts) →
+[Subscribe to MIT newsletter](http://web.mit.edu/subscribe/) →
+[Close](#)
+#### Breadcrumb
+1. [MIT News](/)
+2. Study: AI chatbots provide less-accurate information to vulnerable users
+# Study: AI chatbots provide less-accurate information to vulnerable users
+Research from the MIT Center for Constructive Communication finds leading AI models perform worse for users with lower English proficiency, less formal education, and non-US origins.
+Center for Constructive Communication
+Publication Date:
+February 19, 2026
+[Press Inquiries](#press-inquiries)
+### Press Contact:
+Sarah
+Beckmann
+Email:
+[sbeck12@media.mit.edu](mailto:sbeck12@media.mit.edu)
+MIT Media Lab
+[Close](#)
+![](/sites/default/files/styles/news\_article\_\_image\_gallery/public/images/202602/ai-chatbot-paper-presentation-00.png?itok=YV20iQ4O)
+Caption:
+Elinor Poole-Dayan presents her work during the 40th Annual AAAI Conference on Artificial Intelligence in Singapore.
+Credits:
+Photo: Clayton Cohn
+Previous imageNext image
+Large language models (LLMs) have been championed as tools that could democratize access to information worldwide, offering knowledge in a user-friendly interface regardless of a person’s background or location. However, new research from MIT’s Center for Constructive Communication (CCC) suggests these artificial intelligence systems may actually perform worse for the very users who could most benefit from them.
+A study conducted by researchers at CCC, which is based at the MIT Media Lab, found that state-of-the-art AI chatbots — including OpenAI’s GPT-4, Anthropic’s Claude 3 Opus, and Meta’s Llama 3 — sometimes provide less-accurate and less-truthful responses to users who have lower English proficiency, less formal education, or who originate from outside the United States. The models also refuse to answer questions at higher rates for these users, and in some cases, respond with condescending or patronizing language.
+“We were motivated by the prospect of LLMs helping to address inequitable information accessibility worldwide,” says lead author Elinor Poole-Dayan SM ’25, a technical associate in the MIT Sloan School of Management who led the research as a CCC affiliate and master’s student in media arts and sciences. “But that vision cannot become a reality without ensuring that model biases and harmful tendencies are safely mitigated for all users, regardless of language, nationality, or other demographics.”
+A paper describing the work, “[LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users](https://arxiv.org/abs/2406.17737),” was presented at the AAAI Conference on Artificial Intelligence in January.
+\*\*Systematic underperformance across multiple dimensions\*\*
+For this research, the team tested how the three LLMs responded to questions from two datasets: TruthfulQA and SciQ. TruthfulQA is designed to measure a model’s truthfulness (by relying on common misconceptions and literal truths about the real world), while SciQ contains science exam questions testing factual accuracy. The researchers prepended short user biographies to each question, varying three traits: education level, English proficiency, and country of origin.
+Across all three models and both datasets, the researchers found significant drops in accuracy when questions came from users described as having less formal education or being non-native English speakers. The effects were most pronounced for users at the intersection of these categories: those with less formal education who were also non-native English speakers saw the largest declines in response quality.
+The research also examined how country of origin affected model performance. Testing users from the United States, Iran, and China with equivalent educational backgrounds, the researchers found that Claude 3 Opus in particular performed significantly worse for users from Iran on both datasets.
+“We see the largest drop in accuracy for the user who is both a non-native English speaker and less educated,” says Jad Kabbara, a research scientist at CCC and a co-author on the paper. “These results show that the negative effects of model behavior with respect to these user traits compound in concerning ways, thus suggesting that such models deployed at scale risk spreading harmful behavior or misinformation downstream to those who are least able to identify it.”
+\*\*Refusals and condescending language\*\*
+Perhaps most striking were the differences in how often the models refused to answer questions altogether. For example, Claude 3 Opus refused to answer nearly 11 percent of questions for less educated, non-native English-speaking users — compared to just 3.6 percent for the control condition with no user biography.
+When the researchers manually analyzed these refusals, they found that Claude responded with condescending, patronizing, or mocking language 43.7 percent of the time for less-educated users, compared to less than 1 percent for highly educated users. In some cases, the model mimicked broken English or adopted an exaggerated dialect.
+The model also refused to provide information on certain topics specifically for less-educated users from Iran or Russia, including questions about nuclear power, anatomy, and historical events — even though it answered the same questions correctly for other users.
+“This is another indicator suggesting that the alignment process might incentivize models to withhold information from certain users to avoid potentially misinforming them, although the model clearly knows the correct answer and provides it to other users,” says Kabbara.
+\*\*Echoes of human bias\*\*
+The findings mirror documented patterns of human sociocognitive bias. Research in the social sciences has shown that native English speakers often perceive non-native speakers as less educated, intelligent, and competent, regardless of their actual expertise. Similar biased perceptions have been documented among teachers evaluating non-native English-speaking students.
+“The value of large language models is evident in their extraordinary uptake by individuals and the massive investment flowing into the technology,” says Deb Roy, professor of media arts and sciences, CCC director, and a co-author on the paper. “This study is a reminder of how important it is to continually assess systematic biases that can quietly slip into these systems, creating unfair harms for certain groups without any of us being fully aware.”
+The implications are particularly concerning given that personalization features — like ChatGPT’s Memory, which tracks user information across conversations — are becoming increasingly common. Such features risk differentially treating already-marginalized groups.
+“LLMs have been marketed as tools that will foster more equitable access to information and revolutionize personalized learning,” says Poole-Dayan. “But our findings suggest they may actually exacerbate existing inequities by systematically providing misinformation or refusing to answer queries to certain users. The people who may rely on these tools the most could receive subpar, false, or even harmful information.”
+### Share this news article on:
+\* [X](https://twitter.com/share?url=https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219)
+\* [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219)
+\* [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219)
+\* [Reddit](http://www.reddit.com/submit?url=https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219&title=Study%3A%20AI%20chatbots%20provide%20less-accurate%20information%20to%20vulnerable%20users)
+\* [Print](#)
+## Paper
+[Paper: “LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users”](https://arxiv.org/abs/2406.17737)
+## Related Links
+\* [Elinor Poole-Dayan](https://elinorp-d.github.io/)
+\* [Jad Kabbara](https://www.ccc.mit.edu/person/jad-kabbara/)
+\* [Deb Roy](https://www.ccc.mit.edu/person/deb-roy/)
+\* [Center for Constructive Communication](https://www.ccc.mit.edu/)
+\* [Media Lab](https://www.media.mit.edu/)
+\* [School of Architecture and Planning](https://sap.mit.edu/)
+\* [MIT Sloan School of Management](https://sloan.mit.edu)
+## Related Topics
+\* [Research](/topic/research)
+\* [Artificial intelligence](/topic/artificial-intelligence2)
+\* [Machine learning](/topic/machine-learning)
+\* [Data](/topic/data)
+\* [Ethics](/topic/ethics)
+\* [Media Lab](/topic/media-lab-0)
+\* [School of Architecture and Planning](/topic/school-architecture-and-planning)
+\* [MIT Sloan School of Management](/topic/mit-sloan-school-management)
+## Related Articles
+[![](/sites/default/files/styles/news\_article\_\_archive/public/images/202411/single-truthful-reward.png?itok=EBo\_Jbaj)](/2024/study-some-language-reward-models-exhibit-political-bias-1210)
+### [Study: Some language reward models exhibit political bias](/2024/study-some-language-reward-models-exhibit-political-bias-1210)
+[![](/sites/default/files/styles/news\_article\_\_archive/public/images/202311/mit-ignite.jpg?itok=FP4IQ27H)](/2023/students-pitch-transformative-ideas-generative-ai-mit-ignite-competition-1121)
+### [Students pitch transformative ideas in generative AI at MIT Ignite competition](/2023/students-pitch-transformative-ideas-generative-ai-mit-ignite-competition-1121)
+[![](/sites/default/files/styles/news\_article\_\_archive/public/images/202305/MIT-Media-Lab-01\_0.jpg?itok=-CNxylet)](/2023/mits-center-constructive-communication-takes-aim-destructive-nature-social-media-0510)
+### [MIT’s Center for Constructive Communication takes aim at the destructive nature of social media](/2023/mits-center-constructive-communication-takes-aim-destructive-nature-social-media-0510)
+Previous itemNext item
+## More MIT News
+[![](/sites/default/files/styles/news\_article\_\_recent\_news/public/images/202603/MIT-Amy-Moran-Thomas-01-press.jpg?itok=v1VbhpxV)](/2026/bridging-medical-realities-tech-health-amy-moran-thomas-0322)
+### [Bridging medical realities in the study of technology and health](/2026/bridging-medical-realities-tech-health-amy-moran-thomas-0322)
+Anthropologist Amy Moran-Thomas studies overlooked insights from people health care is meant to reach.
+[Read full story](/2026/bridging-medical-realities-tech-health-amy-moran-thomas-0322) →
+[![](/sites/default/files/styles/news\_article\_\_recent\_news/public/images/202603/mit-biology-sleeping-ribosome.jpg?itok=tLQl0Huf)](/2026/cryoprism-tool-for-observing-cellular-machinery-more-natural-environment-0320)
+### [CryoPRISM: A new tool for observing cellular machinery in a more natural environment](/2026/cryoprism-tool-for-observing-cellular-machinery-more-natural-environment-0320)
+The method allows researchers to observe biomolecular complexes in a quick, accurate, and budget-friendly way, providing new insights into bacterial protein synthesis.
+[Read full story](/2026/cryoprism-tool-for-observing-cellular-machinery-more-natural-environment-0320) →
+[![](/sites/default/files/styles/news\_article\_\_recent\_news/public/images/202603/mit-medialab-IAP-almehmadi.JPG?itok=\_uUAEvq1)](/2026/lasers-robots-action-mit-workshop-explores-raman-spectroscopy-0320)
+### [Lasers, robots, action: MIT workshop explores Raman spectroscopy](/2026/lasers-robots-action-mit-workshop-explores-raman-spectroscopy-0320)
+Participants learn how laser “fingerprinting” can help identify materials in fields ranging from law enforcement to art restoration.
+[Read full story](/2026/lasers-robots-action-mit-workshop-explores-raman-spectroscopy-0320) →
+[![](/sites/default/files/styles/news\_article\_\_recent\_news/public/images/202603/weekends-at-mit-00.jpg?itok=f29QGa0-)](/2026/weekends-at-mit-offers-connection-through-varied-activities-0320)
+### [Weekends@MIT offers connection through varied activities](/2026/weekends-at-mit-offers-connection-through-varied-activities-0320)
+Regular campus events built community and promote student wellbeing.
+[Read full story](/2026/weekends-at-mit-offers-connection-through-varied-activities-0320) →
+[![](/sites/default/files/styles/news\_article\_\_recent\_news/public/images/202603/MIT-WGSevent-A1-press.jpg?itok=t3fTd9uo)](/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320)
+### [What’s the right path for AI?](/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320)
+Conference speakers discussed the unfolding trajectory of AI and the benefits of shaping technology to meets people’s needs.
+[Read full story](/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320) →
+[![](/sites/default/files/styles/news\_article\_\_recent\_news/public/images/202603/Li-Huei-Tsai-Picower-MIT-00.JPG?itok=ztrWdwNi)](/2026/li-huei-tsai-to-sharpen-focus-on-research-teaching-0320)
+### [After 16 years leading Picower Institute, Li-Huei Tsai will sharpen focus on research, teaching](/2026/li-huei-tsai-to-sharpen-focus-on-research-teaching-0320)
+Tsai, who has grown the MIT neuroscience institute, will increase focus on research including Alzheimer’s disease and Down syndrome.
+[Read full story](/2026/li-huei-tsai-to-sharpen-focus-on-research-teaching-0320) →
+\* [More news on MIT News homepage](/) →
+## [More about MIT News at Massachusetts Institute of Technology](/)
+This website is managed by the MIT News Office, part of the [Institute Office of Communications](http://comms.mit.edu).
+### News by Schools/College:
+\* [School of Architecture and Planning](/school/architecture-and-planning)
+\* [School of Engineering](/school/engineering)
+\* [School of Humanities, Arts, and Social Sciences](/school/humanities-arts-and-social-sciences)
+\* [MIT Sloan School of Management](/school/management)
+\* [School of Science](/school/science)
+\* [MIT Schwarzman College of Computing](/school/mit-schwarzman-college-computing)
+### Resources:
+\* [About the MIT News Office](/mit-news-office/about)
+\* [MIT News Press Center](/press)
+\* [Terms of Use](/terms-of-use)
+\* [Press Inquiries](/press/inquiries)
+\* [Filming Guidelines](/press/filming-guidelines)
+\* [RSS Feeds](/rss)
+### Tools:
+\* [Subscribe to MIT Daily/Weekly](http://web.mit.edu/mit-daily-weekly/)
+\* [Subscribe to press releases](/press/subscribe-to-press-releases)
+\* [Submit campus news](/user/login?destination=news-submission)
+\* [Guidelines for campus news contributors](/resources-for-campus-news-contributors)
+\* [Guidelines on generative AI](/guidelines-generative-ai)
+[Massachusetts Institute of Technology](http://web.mit.edu)
+MIT Top Level Links:
+\* [Education](http://web.mit.edu/education)
+\* [Research](http://web.mit.edu/research)
+\* [Innovation](http://web.mit.edu/innovation)
+\* [Admissions + Aid](http://web.mit.edu/admissions-aid)
+\* [Campus Life](http://web.mit.edu/campus-life)
+\* [News](/)
+\* [Alumni](http://web.mit.edu/alumni)
+\* [About MIT](http://web.mit.edu/about)
+\* [Join us in building a better world.](http://web.mit.edu/building-a-better-world/)
+[Massachusetts Institute of Technology](http://web.mit.edu)77 Massachusetts Avenue, Cambridge, MA, USA
+Recommended Links:
+\* [Visit](http://web.mit.edu/visitmit)
+\* [Map (opens in new window)](http://whereis.mit.edu/)
+\* [Events (opens in new window)](http://calendar.mit.edu/)
+\* [People (opens in new window)](http://web.mit.edu/people.html)
+\* [Careers (opens in new window)](http://careers.mit.edu/)
+\* [Contact](http://web.mit.edu/contact)
+\* [Privacy](http://web.mit.edu/privacy)
+\* [Accessibility](http://web.mit.edu/accessibility)
+\* + [Social Media Hub](http://socialmediahub.mit.edu)
++ [MIT on X](https://twitter.com/mit)
++ [MIT on Facebook](https://www.facebook.com/MITnews)
++ [MIT on YouTube](https://www.youtube.com/mit)
++ [MIT on Instagram](https://www.instagram.com/mit)

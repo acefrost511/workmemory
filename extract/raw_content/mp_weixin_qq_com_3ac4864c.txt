@@ -1,0 +1,236 @@
+# Source URL: https://mp.weixin.qq.com/s/lhHR0neja5EqZg5wpzDo0Q
+# Content Length: 8536 characters
+# Extracted at: 2026-03-11 11:14:46
+#============================================================
+
+Weixin Official Accounts Platform
+![](https://mmbiz.qpic.cn/sz\_mmbiz\_jpg/74NxjdPfibJkNNFQYwha1RFPgepbiaLqwJDre5CoxrKN4qiaAX13uRtiacF9sBIEiawlPPMhlhIpjCgzcwSibTrHy7cQf0zJCQWPdmoicVnojsssicE/0?wx\_fmt=jpeg)
+# Gemini 3.1 Pro 深度备课指南——从“生成内容”到“理解教学结构”
+Original极简教育技术极简教育技术[极简教育技术](javascript:void(0);) \*2026年3月5日 02:01\*\*上海\*
+![]()
+在小说阅读器中沉浸阅读
+![](https://mmbiz.qpic.cn/mmbiz\_png/74NxjdPfibJkZayMQdF1MItBpNncarNVanNxYTd5eegQRJR14Hic0rWsnIibMR8wCw0ib1SKObVibBJ3aCnciaZzuAY6qRR7T1oXv3g7o5kGqX53I/640?wx\_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx\_lazy=1#imgIndex=0)
+![](https://mmbiz.qpic.cn/mmbiz\_png/74NxjdPfibJnpgqXZUPrk2LJMMfjMvtrtHsMAmNSddOvPCryzDWzwx83f2grMgJwFtQAPVghKbzO8ZVuTn5MfUu5fmiamFES1dfEvvqaaubJI/640?wx\_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx\_lazy=1#imgIndex=1)
+![](https://mmbiz.qpic.cn/mmbiz\_png/74NxjdPfibJmqeh3dfJKhgmiaCoicAQzlB0YXqhN00Wab3ibrpX2OI4qOGuE9ibH5jByur9ZpK64W1oz8rQDLk9ywzrUzBW5dg4tZo7PwonK3RHI/640?wx\_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx\_lazy=1#imgIndex=2)
+\*\*Gemini 3.1 Pro 深度备课指南\*\*
+\*\*——从“生成内容”到“理解教学结构”\*\*
+![](https://mmbiz.qpic.cn/mmbiz\_png/74NxjdPfibJkD5Q5qLmQjyPVw2cyfDiapabAkad9H9HGyQubNm2F7sZK4oSYJicrgnAZXRoblciapSewxfTwufHgAKZOD4Zpc2I0AdLUUTxtNGY/640?wx\_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx\_lazy=1#imgIndex=3)
+![](https://mmbiz.qpic.cn/mmbiz\_png/74NxjdPfibJlzyanQDibAbjnfyzvDkAShZfse55VMnicVuu6lwmcwibaoB0UicfPrPfQFO5t7BPia8YCLibNYuEvHqouibuiah5nz6fjNtVtmlLLS7GY/640?wx\_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx\_lazy=1#imgIndex=4)
+![](https://mmbiz.qpic.cn/sz\_mmbiz\_png/74NxjdPfibJmA54uDw5siaquexX7ricOH04IBrk15qEI6yq3sRwI7pYSY6VucnBuL6OfV1ObS751vYtnCPRiaibNq06NVkcabgk5Yl9SHNBhZHjE/640?wx\_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx\_lazy=1#imgIndex=5)
+\*\*点击蓝字 关注我们\*\*
+![](https://mmbiz.qpic.cn/mmbiz\_png/74NxjdPfibJk89y163PfH0zZPaKDJvD6cCA3UTm8oe54v6QhWBaN3NJnoo0Tic1nCIMNFiaw46KEBFkMrf4fLTJESGMXCVEl9BB9pmZ9LgBb6U/640?wx\_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx\_lazy=1#imgIndex=6)
+很多老师用完ai工具后，
+会有种复杂的感受：
+能用，但总觉得不够贴课堂。
+问题往往不在于模型“聪不聪明”，
+而在于——
+\*\*是否给了它足够清晰的教学结构。\*\*
+本文聚焦一个核心问题：
+如何把Gemini变成你的“\*\*特级教研员\*\*”？
+\*\*\*PART 1\*\*\*
+\*\*AI备课为何"隔了一层"？\*\*
+一个典型例子。
+初二物理《浮力》公开课，常见输入，
+“帮我设计一节浮力公开课教案。”
+得到的通常是：
+环节完整、实验活动标准、语言规范的教案。
+但问题在于：
+\*\*它不知道你的学生在哪个地方真正卡住。\*\*
+例如很多学生存在这样的前概念：
+重的物体一定下沉，
+轻的物体一定上浮。
+如果教学没有专门制造认知冲突，
+这个错误观念很难被真正纠正。
+AI不会自动聚焦这一点，
+除非明确告诉它。
+\*\*\*PART 2\*\*\*
+\*\*怎么操作：“四步备课法”\*\*
+\*\*备课前置：素材池构建\*\*
+整理材料后再开始：
+\* 单元完整教材（PDF/图片均可）
+\* 学生前测错题（标注错误类型）
+\* 你的教学风格关键词
+\* 《XX学科课程标准》（可选）
+\*\*第一步：全景导入+理论对齐\*\*
+上传上述材料给Gemini，而非只上传单节课内容——因为学生的迷思概念往往来自前面的知识漏洞，同时说清楚你的教学风格、教学理论和教学重点。
+Gemini的上下文能一次性读完教材，分析出"浮力"与"压强""密度"的概念关联，绘制螺旋上升图谱。这是普通AI做不到的，它们分段处理后往往逻辑断裂，抓不住知识间的深层联系。同时在了解学生的迷思起点和教师的教学风格、理论后，Gemini的输出会更加聚焦，符合教学需求。
+\*\*通用提示词：\*\*
+请阅读本单元全部内容，结合学生的前测错题，梳理核心概念间的依赖关系，标注学生常见理解断点。同时参考附件中的《XX学科课程标准》，确保本单元设计的深度符合XX年级要求。我的教学风格是【问题驱动/情境探究/认知冲突等】，重视【学生前概念暴露/错误类型预判/迁移任务设计】。请基于以上输出本单元的整体教学框架及知识地图。
+\*\*第二步：深度精磨 + 工具生成\*\*
+深度打磨具体课时，生成可直接使用的教学辅助工具。可分为两轮迭代，第一轮磨教学设计，第二轮磨配套工具。
+Gemini的长记忆让多轮对话不丢语境，每轮基于前面结果调整。普通AI往往第二轮就忘记第一轮的要求，或者输出中断。
+\*\*第一轮通用提示词：\*\*
+基于上述框架，深化设计第【X】课时的完整方案。要求：
+1.每课解决一个核心迷思；
+2.标出核心概念递进关系；
+3.给出完整问题链；
+4.学生典型错误及应对策略。
+\*\*第二轮通用提示词：\*\*
+在此基础上，生成可直接使用的配套工具（HTML格式的学习单、学生自评表等）。
+\*\*第三步：模板固化 + 批量复制\*\*
+建立个人模板后，让Gemini按照此标准，设计其他课时。Gemini能直接生成3000+行代码的完全体，保持理念一致性。普通AI输出长度不够，生成到一半中断，或者忘记前面的风格设定，导致每节课风格不一。
+\*\*通用提示词：\*\*
+将刚才课时的结构逻辑固化为模板，参照此标准，批量生成本单元剩余课时的设计草案，保持一致的认知节奏、问题密度和视觉风格。
+\*\*第四步：课后复盘 + 迭代优化\*\*
+形成模版并非就是一劳永逸了，要让教学设计在真实课堂反馈中完成“进化”。不同班级的学情也有所不同，课堂反应才是真实反馈。记录课堂中的“卡壳点”或“惊喜点”，课后把这些反馈再发给Gemini，让教学设计在循环中进化。
+\*\*通用提示词：\*\*
+本班学情为【基础薄弱/中等/较好】，请针对【具体学生特点】调整上述设计。课后反馈：学生在【XX环节】投入度高，但【XX问题】难度过大。请基于此反馈，优化生成改进版方案，并为基础较弱的学生设计一个“支架式”引导提问。
+\*\*\*PART 3\*\*\*
+\*\*完整实战（物理·浮力）\*\*
+\*\*\*Step0\*\*\*\*\*/ 提示词准备\*\*
+可直接上传四步备课法的通用提示词，让Gemini根据这个给出物理的浮力课的提示词。
+但需注意：每个学科均有自己的特点，建议教师根据自己的学科特点，提炼出专属提示词。
+Gmini输出：
+\*\*\*Step1\*\*\*\*\*/ 全景导入+理论对齐\*\*
+上传：沪教版八年级物理第七章PDF、学生的前测错题
+输入：
+请阅读本单元全部内容，结合学生在前测错题，梳理核心概念间的依赖关系。请标注学生从“压强”跨越到“浮力”时的典型认知断点。我的教学风格是【现象驱动+逻辑建模】，重视【学生前概念暴露】。请基于以上输入，输出本单元的整体教学框架及知识地图，并重点解释“浮力产生的原因”与“液体压强差”的底层联系。
+Gmini输出：
+\*\*\*Step2\*\*\*\*\*/ 深度精磨 + 工具生成\*\*
+\*\*第一轮：输出完整教学设计\*\*
+输入：
+基于上述框架，深化设计《阿基米德原理》课时的完整方案。要求：1.核心迷思： 解决“浮力大小是否与物体密度、物体浸没深度有关”的误区。2.认知冲突：设计一个实验导入（如：向溢水杯投入不同体积但同重的物体）。3.逻辑递进：标注出从“称重法测浮力”到“推导阿基米德原理”的递进关系。4.问题链： 提供 5 个连贯的驱动性问题，引导学生自己总结出F浮= G排。
+Gmini输出：
+\*\*第二轮：生成配套工具\*\*
+输入：
+在此基础上，生成可直接使用的配套工具：1.编写一个 HTML 格式的【实验探究学习单】，包含：物重 G、弹簧秤示数F'、排开液体体积 V排、计算得到的F浮。2.请用 LaTeX 格式列出本课核心公式，并标注每个物理量的单位。
+Gmini输出：
+点击下载，双击用浏览器打开便可查看和打印：
+或用gemini的canvas功能进行生成此类工具：
+\*\*\*Step3\*\*\*\*\*/\*\*\*\*模板固化 + 批量复制\*\*
+输入：
+将刚才《阿基米德原理》课时的结构逻辑固化为模板（包含：认知冲突导入、实验探究单、驱动性问题链、LaTeX 公式总结）。请参照此标准，批量生成本单元剩余课时《物体的浮沉条件及应用》的设计草案。重点： 保持一致的认知节奏，重点设计“潜水艇受力模型”和“密度计原理”，确保视觉风格和排版与上一课完全统一。
+Gmini输出：
+也可以追加要求，比如为实验做个互动小游戏，进一步完善方案：
+\*\*\*Step4\*\*\*\*\*/\*\*\*\*课堂验证 + 迭代优化\*\*
+假设：课后你发现学生在做“轮船从河里开到海里”这类变力题目时依然犯错。
+输入：
+本班学情反馈：学生对“漂浮物体浮力等于重力”这一准则掌握尚可，但在处理“液体密度改变导致V排变化”的迁移任务时（如：轮船从河里开往海里）准确率仅为 40%。任务：1.请针对这一痛点，优化生成一个“对比实验”改进方案。2.设计 3 道针对性的“阶梯式练习题”，帮助学生强化“浮力不变、V排变”的逻辑支架。
+Gmini输出：
+\*\*\*PART 4\*\*\*
+\*\*避坑指南\*\*
+\*\*事实核查：别让 AI “一本正经地胡说”\*\*
+AI 虽然博学，但偶尔会产生“幻觉”。比如对于复杂公式推导要检查公式的角标和单位换算等。
+如果看到不确定的结论，可以追问一句——请提供该结论在物理教材或学术规范中的出处。
+\*\*输出长度限制：预防“中途断尾”\*\*
+虽然 Gemini 支持超长上下文，但在单次生成过长的教案（如几千行代码或超详尽的单元计划）时，有时会因为网络波动或 Token 策略出现截断。
+优化操作，进行模块化输出，建议让 AI “先列大纲，再逐一细化”。
+\*\*固定偏好：对话太长会“失忆”\*\*
+虽然 Gemini 上下文极长，但在进行了 20 轮对话后，它可能会忘记你最开始要求的“幽默风格”或“针对基础薄弱班级”这个设定。
+要定期“打补丁”在对话中段，偶尔加一句：提醒一下，接下来的设计依然要保持针对基础薄弱班级的"支架式"风格。 这能重新激活它的核心指令。
+\*\*深度调教：好方案是“追问”出来的\*\*
+很多老师觉得 AI 输出太“水”，往往是因为只问了一次。Gemini 像是一块海绵，你挤得越用力，水越多。
+\*\*1.如果内容太死板\*\*：
+这段引入太像教科书了，学生听不进去。请换一个更贴近 14 岁初中生生活场景的案例，最好带点悬念或幽默感。
+\*\*2.如果逻辑太肤浅\*\*：
+目前的教学环节跳跃太快，学生理解不了F浮为什么等于压强差。请在环节 2 和环节 3 之间增加一个微实验引导，通过逻辑推演让学生顺理成章地得出结论。
+\*\*3.如果指令被忽略\*\*：
+你刚才忽略了“实验安全提示”这一项，请重新梳理方案，并用醒目的加粗字体标出课堂实验的注意事项。
+\*\*4.要\*\*\*\*求“换位思考”\*\*：
+现在你是一个基础极差、对物理有畏难情绪的学生，看这个教学设计，你觉得哪里听不懂？请帮我指出并修正。
+今天就可以尝试一次：
+\*\*打开gemini.google.com\*\*
+\*\*或aistudio.google.com\*\*
+但需注意：
+\*\*1.无法在国内普通网络环境下直接打开\*\*
+\*\*2.pro会员每4h约25次，免费用户次数较少\*\*
+\*\*\*PART 5\*\*\*
+\*\*Gemini与其他AI的差异\*\*
+当任务是：
+\*\*处理整章教材、\*\*
+\*\*分析复杂错题、\*\*
+\*\*多轮打磨教学路径、\*\*
+\*\*综合PDF与图片材料\*\*时
+差异会较为明显。
+当任务只是：
+写通知、出几道选择题，
+则差异不大。
+\*\*工具的选择应匹配任务的复杂度。\*\*
+\*\*\*PART 6\*\*\*
+\*\*结语\*\*
+AI 备课不是替代思考，
+而是让思考可视化、工具化。
+在Gemini的帮助下，
+教师可以有更多的时间投入到：
+理解整本教材的结构关联、
+诊断深层认知机制、
+生成长链条且具一致性的教学设计、
+持续迭代优化。
+\*\*一句话总结：\*\*
+\*\*让Gemini3.1pro理解你的教学，\*\*
+\*\*成为你的特级教研员。\*\*
+\*\*往期回顾\*\*
+[一键生成知识点讲解视频？](https://mp.weixin.qq.com/s?\_\_biz=MzIyMTczMjkzNA==∣=2247495892&idx=1&sn=8f7e86c864aaa7a92fa89890e79ba7de&scene=21#wechat\_redirect)
+[雾象fogsight.ai 3分钟帮你搞定](https://mp.weixin.qq.com/s?\_\_biz=MzIyMTczMjkzNA==∣=2247495892&idx=1&sn=8f7e86c864aaa7a92fa89890e79ba7de&scene=21#wechat\_redirect)
+[告别手动排版！ PicDoc，](https://mp.weixin.qq.com/s?\_\_biz=MzIyMTczMjkzNA==∣=2247495820&idx=1&sn=0bd40eb61517994c0aeb5cf4c6741a6d&scene=21#wechat\_redirect)
+[实现文字转可编辑图片，适配全学科教学](https://mp.weixin.qq.com/s?\_\_biz=MzIyMTczMjkzNA==∣=2247495820&idx=1&sn=0bd40eb61517994c0aeb5cf4c6741a6d&scene=21#wechat\_redirect)
+[给中小学老师的OpenAI Prism上手指南](https://mp.weixin.qq.com/s?\_\_biz=MzIyMTczMjkzNA==∣=2247495592&idx=1&sn=4205d16680af92ba06eb4973b493e3ab&scene=21#wechat\_redirect)
+\*\*撰稿｜王桐桐\*\*
+\*\*编辑｜王桐桐 戴雨滋\*\*
+\*\*指导老师｜鲍贤清\*\*
+\*\*上海师范大学教育技术学系\*\*
+\*\*点赞\*\*
+\*\*分享\*\*
+\*\*收藏\*\*
+预览时标签不可点
+Close
+更多
+搜索「」网络结果
+Close
+\*\*调整当前正文文字大小\*\*
+更多
+100%
+​
+Comment
+暂无留言
+1 comment(s)
+已无更多数据
+[Send Message](javascript:;)
+写留言:
+![]()
+Scan to Follow
+继续滑动看下一个
+轻触阅读原文
+![](http://mmbiz.qpic.cn/mmbiz\_png/mkia00PeJaqtDyIoSzXmsedD1Wc1cFXRLKibtaDqoO3Eicxwy1DzqssuOibRGhxZqlNYica8ZQHEZU4mtlObiaQUlY7w/0?wx\_fmt=png)
+极简教育技术
+向上滑动看下一个
+当前内容可能存在未经审核的第三方商业营销信息，请确认是否继续访问。
+[继续访问](javascript:)[Cancel](javascript:)
+[微信公众平台广告规范指引](javacript:;)
+[Got It](javascript:;)
+![]()
+Scan with Weixin to use this Mini Program
+[Cancel](javascript:void(0);)[Allow](javascript:void(0);)
+[Cancel](javascript:void(0);)[Allow](javascript:void(0);)
+[Cancel](javascript:void(0);)[Allow](javascript:void(0);)
+×分析
+![]()
+![](http://mmbiz.qpic.cn/mmbiz\_png/mkia00PeJaqtDyIoSzXmsedD1Wc1cFXRLKibtaDqoO3Eicxwy1DzqssuOibRGhxZqlNYica8ZQHEZU4mtlObiaQUlY7w/0?wx\_fmt=png)
+微信扫一扫可打开此内容，使用完整服务
+![](https://mmbiz.qpic.cn/mmbiz\_png/mkia00PeJaqtDyIoSzXmsedD1Wc1cFXRLKibtaDqoO3Eicxwy1DzqssuOibRGhxZqlNYica8ZQHEZU4mtlObiaQUlY7w/300?wx\_fmt=png&wxfrom=18)
+极简教育技术
+已关注
+Like
+Share
+可修改、删除及查看数据分析
+Popular
+Comment
+: ，，，，，，，，，，，，.VideoMini ProgramLike，轻点两下取消赞Wow，轻点两下取消在看ShareCommentFavorite听过
+可在「公众号 > 右上角 > 划线」找到划线过的内容
+![](https://res.wx.qq.com/op\_res/opqv3ix6k9E4e64ZzO7uIqE3ZblwIojfmt7u70m59yS1ylFK-hTu6Ra8V\_LaWQJ1P4OlUJPdXLfVBtrm3TwRrw)
+OK
+,
+,
+选择留言身份
+\*\*Comment\*\*
+暂无留言
+1 comment(s)
+已无更多数据
+[Send Message](javascript:;)
+写留言:
+Close
+更多
+关闭
+## 确认提交投诉
+你可以补充投诉原因（选填）
+确定

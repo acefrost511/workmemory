@@ -1,0 +1,908 @@
+# Source URL: https://dl.acm.org/doi/10.1145/3713043.3727062
+# Content Length: 133387 characters
+# Extracted at: 2026-03-26 19:36:51
+#============================================================
+
+The Impacts of Adaptive Learning Technologies on K-12 Teachers’ Sense of Autonomy, Competence, and Relatedness with Their Students | Proceedings of the 24th Interaction Design and Children[skip to main content](#skip-to-main-content)
+## ACM is now Open Access
+×
+As part of the Digital Library's transition to [Open Access](/action/clickThrough?id=108180&url=%2Fopenaccess&loc=%2Fdoi%2F10.1145%2F3713043.3727062&pubId=63572281&placeholderId=101025&productId=108179), new features for researchers are available in the \*Premium Edition\*. [Click here to learn more](/action/clickThrough?id=108180&url=%2Fpremium&loc=%2Fdoi%2F10.1145%2F3713043.3727062&pubId=63572281&placeholderId=101025&productId=108179).
+\*\*You are currently in the Basic Edition. Features requiring a subscription appear in grey.\*\*
+[Sign In](/action/clickThrough?id=108180&url=%2Faction%2FshowLogin%3FredirectUri%3Dhttps%253A%252F%252Fdl.acm.org%252Fdoi%252F10.1145%252F3713043.3727062&loc=%2Fdoi%2F10.1145%2F3713043.3727062&pubId=63572281&placeholderId=101025&productId=108179)[Upgrade](/action/clickThrough?id=108180&url=%2Fabout%2Fupgrade&loc=%2Fdoi%2F10.1145%2F3713043.3727062&pubId=63572281&placeholderId=101025&productId=108179)
+\* [![](/specs/products/acm/releasedAssets/images/acm-dl-logo-white-1ecfb82271e5612e8ca12aa1b1737479.png)](/)
+\* [![](specs/products/acm/releasedAssets/images/acm-logo-1.png)](https://www.acm.org)
+[![](/pb-assets/images/basic-edition-1765756198880.png)](/premium)
+\* [Sign in](/action/showLogin?redirectUri=%2Fdoi%2F10.1145%2F3713043.3727062)
+\* [Register](https://accounts.acm.org?redirectUri=%2Fdoi%2F10.1145%2F3713043.3727062)
+\* [Advanced Search](/search/advanced)
+\* [Journals](/journals)
+\* [Magazines](/magazines)
+\* [Proceedings](/proceedings)
+\* [Books](/acmbooks)
+\* [SIGs](/sigs)
+\* [Conferences](/conferences)
+\* [Institutions](/institutions)
+\* [People](/people)
+\* [More](#)
+\* [![](/pb-assets/images/basic-edition-1765756198880.png)](/premium)
+SearchSearch
+Search ACM Digital Library
+SearchSearch
+[Advanced Search](/search/advanced)
+10.1145/3713043.3727062acmconferencesArticle/Chapter ViewBasic Full TextPublication PagesidcConference Proceedingsconference-collections
+[idc](#)
+\* [Conference](/conference/idc)
+\* [Proceedings](/conference/idc/proceedings)
+\* [Upcoming Events](/conference/idc/upcoming)
+\* [Authors](/conference/idc/authors)
+\* [Affiliations](/conference/idc/affiliations)
+\* [Award Winners](/conference/idc/award-winners)
+\* [More](#)
+## Export Citations
+Select Citation formatBibTeXEndNoteACM Ref
+\* Please download or close your previous search result export first before starting a new bulk export.
+Preview is not available.
+By clicking download,\*\*a status dialog\*\* will open to start the export process. The process may take\*\*a few minutes\*\* but once it finishes a file will be downloadable from your browser. You may continue to browse the DL while the export process is in progress.
+\* + [Download citation](javascript:void(0))
++ [Copy citation](javascript:void(0))
+Several features on this page require Premium Access.
+[Learn more](/about/upgrade)[Sign in](/action/showLogin?redirectUri=%2Fdoi%2F10.1145%2F3713043.3727062)
+\* [Home](https://dl.acm.org/)
+\* [Conferences](/conferences)
+\* [IDC](/conference/idc)
+\* [Proceedings](/conference/idc/proceedings)
+\* [IDC '25](/doi/proceedings/10.1145/3713043)
+\* [The Impacts of Adaptive Learning Technologies on K-12 Teachers’ Sense of Autonomy, Competence, and Relatedness with Their Students](/doi/10.1145/3713043.3727062)
+[Click here](/action/clickThrough?id=108253&url=https%3A%2F%2Fwww.acm.org%2Fabout-acm%2Facm-pres-on-oa-transition-and-dl-changes&loc=%2Fdoi%2F10.1145%2F3713043.3727062&pubId=63572281&placeholderId=101024&productId=108184)
+to read ACM President Yannis Ioannidis’ statement on recent changes to the Digital Library
+research-article
+Open access
+Share on
+# The Impacts of Adaptive Learning Technologies on K-12 Teachers’ Sense of Autonomy, Competence, and Relatedness with Their Students
+Authors: [![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)Riddhi ADivanji](#artseq-00001), [![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)SamanthaBindman](#artseq-00002), [![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)MikkaHoffman](#artseq-00003), [![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)LisaCasteneda](#artseq-00004)[Authors Info & Claims](#get-premium-access)
+[IDC '25: Proceedings of the 24th Interaction Design and Children](/doi/proceedings/10.1145/3713043)
+Pages 255 - 275
+Published: 23 June 2025[Publication History](#get-premium-access)
+0citation2,492Downloads
+## New Citation Alert added!
+This alert has been successfully added and will be sent to:
+You will be notified whenever a record that you have chosen has been cited.
+To manage your alert preferences, click on the button below.
+[Manage my Alerts](/action/showPreferences?menuTab=Alerts)
+## Add a Citation Alert
+To add a citation alert, please [log in to your account](/action/showLogin?redirectUri=/doi/10.1145/3713043.3727062)
+[PDF/eReader](/doi/epdf/10.1145/3713043.3727062)
+Contents
+[IDC '25: Proceedings of the 24th Interaction Design and Children](/doi/proceedings/10.1145/3713043)
+The Impacts of Adaptive Learning Technologies on K-12 Teachers’ Sense of Autonomy, Competence, and Relatedness with Their Students
+Pages 255 - 275
+[###### PREVIOUS CHAPTER
+“Carlitos the Curious Caterpillar”: Exploring Teacher-AI Co-Creation of Culturally Responsive Educational Materials for Young Learners
+Previous](/doi/10.1145/3713043.3727056)[###### NEXT CHAPTER
+Behind the Scenes: Unpacking Students' Experience during a Collaborative AI Workshop using Multi-Modal Data
+Next](/doi/10.1145/3713043.3728839)
+\* [Abstract](#core-tabbed-abstracts)
++ [Abstract](#summary-abstract)
++ [AI Summary](#plain-language-summary)
+\* [1 Introduction](#sec-1)
++ [1.1 Defining Adaptive Learning Technologies](#sec-1-1)
++ [1.2 Prior Research: ALTs’ Impact on Students and Teachers](#sec-1-2)
++ [1.3 Self-determination Theory as a Framework for Examining Teachers’ ALT Use](#sec-1-3)
+- [1.3.1 Self-determination Theory as a Framework for ALTs.](#sec-1-3-1)
++ [1.4 Current Study](#sec-1-4)
+\* [2 Method](#sec-2)
++ [2.1 \*\*Research Design\*\*](#sec-2-1)
++ [2.2 Participant Recruitment and Selection](#sec-2-2)
++ [2.3 Sample](#sec-2-3)
++ [2.4 \*\*Data Collection\*\*](#sec-2-4)
++ [2.5 Data Analysis](#sec-2-5)
+- [2.5.1 Code Development.](#sec-2-5-1)
+- [2.5.2 Coding.](#sec-2-5-2)
+- [2.5.3 Content Analysis.](#sec-2-5-3)
+- [2.5.4 Thematic Analysis.](#sec-2-5-4)
+\* [3 Results](#sec-3)
++ [3.1 Automation versus Autonomy: The Power of Customization](#sec-3-1)
+- [3.1.1 Learning Content and Pacing Customization: Key Areas to Balance Automation and Autonomy.](#sec-3-1-1)
+- [3.1.2 Automation Paired with Customization Features Supports Teacher Autonomy.](#sec-3-1-2)
+- [3.1.3 Beyond Design, Teacher Input in Implementation Impacts Autonomy with Tool Use.](#sec-3-1-3)
++ [3.2 Teachers as Analysts: Impacts of ALT Data on Teacher Competence](#sec-3-2)
+- [3.2.1 Competence Starts With Reliable Insights on Student Performance.](#sec-3-2-1)
+- [3.2.2 Competence is Supported by the Ability to Use Insights to Tailor Content.](#sec-3-2-2)
++ [3.3 Impacts of ALTs on Teacher-Student Relationships](#sec-3-3)
+- [3.3.1 Having the Right Data at the Right Time Improves Classroom Relationships.](#sec-3-3-1)
+- [3.3.2 Shifting Role of Teachers to Analysts.](#sec-3-3-2)
+\* [4 Discussion](#sec-4)
++ [4.1 ALTs and Teacher Sense of Autonomy](#sec-4-1)
++ [4.2 ALTs and Teacher Sense of Competence](#sec-4-2)
++ [4.3 ALTs and Teacher Sense of Relatedness](#sec-4-3)
++ [4.4 Implications for ALT Design and Implementation](#sec-4-4)
+- [4.4.1 Complexities Introduced by AI and Automation.](#sec-4-4-1)
+- [4.4.2 The Interplay of Teacher and Student Needs in ALT Design.](#sec-4-4-2)
+- [4.4.3 Design Principles for Teacher-Supportive ALTs.](#sec-4-4-3)
++ [4.5 Limitations and Future Directions](#sec-4-5)
+\* [5 Conclusion](#sec-5)
+\* [6 Selection and Participation of Children](#sec-6)
+\* [Acknowledgments](#sec-7)
+\* [A List of Adaptive Learning Tools](#sec-8)
+\* [B Codebook](#sec-9)
+\* [C Full dscout Survey](#sec-10)
++ [C.1 Screening Survey](#sec-10-1)
++ [C.2 Part 3 of dscout Survey](#sec-10-2)
++ [C.3 Part 4 of dscout Survey](#sec-10-3)
++ [C.4 Part 5 of dscout Survey](#sec-10-4)
+\* [Footnotes](#footnotes)
+\* [References](#bibliography)
+![](/specs/products/acm/releasedAssets/images/footer-logo1-45ae33115db81394d8bd25be65853b77.png)
+\* Information & Contributors
+\* Bibliometrics & Citations
+\* View Options
+\* References
+\* Figures
+\* Tables
+\* Media
+\* Share
+## Abstract
+### Abstract
+Adaptive Learning Technologies (ALTs) have gained prevalence in K-12 classrooms. ALT automation features like real-time data insights and content sequencing shift teachers’ approach to understanding and addressing students’ learning needs, yet few studies have explored teachers’ experiences. This study uses self- determination theory to examine how ALT features and implementation practices affect teachers’ fundamental psychological needs for autonomy, competence, and relatedness—factors known to influence teacher motivation and student outcomes. Through thematic analysis of short-answer and video responses from 47 K-12 teachers across the US, we found that teachers’ psychological needs are supported when automated features provide reliable assessments and are balanced with opportunities for teacher intervention. However, our analysis revealed that current ALTs constrain these key features, diminishing teachers’ feelings of autonomy, efficacy, and connection with students. We discuss implications for enhancing ALT design to better support teachers and thereby support student learning.
+### AI Summary
+### AI-Generated Summary (Experimental)
+This summary was generated using automated tools and was not authored or reviewed by the article's author(s). It is provided to support discovery, help readers assess relevance, and assist readers from adjacent research areas in understanding the work. It is intended to complement the author-supplied abstract, which remains the primary summary of the paper. The full article remains the authoritative version of record. [Click here to learn more](/generative-ai/summarizations).
+Click here to comment on the accuracy, clarity, and usefulness of this summary. Doing so will help inform refinements and future regenerated versions.
+To view this AI-generated plain language summary, you must have Premium access.
+## 1 Introduction
+Adaptive learning technologies (ALTs), which rely on computerized adaptive testing algorithms and artificial intelligence to assess students’ skill level and provide tailored learning content, are becoming increasingly common in K-12 classrooms [[14](#Bib0014), [21](#Bib0021), [38](#Bib0038)]. Students are the end-users of these tools, and so far the design, development, and research on ALTs has focused primarily on student learning outcomes. However, ALTs also incorporate teacher-facing features, such as data dashboards that report student learning patterns and progress. ALTs also have recommendation features that leverage platform data to guide teachers’ instructional practice to support student learning both inside and outside of the platform. These features position educators as essential mediators of ALT-supported learning, and a critical user group of these technologies.
+Despite the integral role of teachers in facilitating learning with ALTs, their experiences remain under-examined in the educational technology literature [[15](#Bib0015), [44](#Bib0044)]. The current study uses self- determination theory as a framework to examine educators’ experiences with ALTs: how, according to educators themselves, do these tools meet or not meet their psychological needs in the areas of autonomy, competence, and relatedness? Teachers’ experiences, and the degree to which their psychological needs are or are not met by the design of ALTs, have a direct effect on teachers’ motivation and by extension student learning and motivation (e.g., [[26](#Bib0026)]). The findings from this study can inform key stakeholders involved in the design and implementation of ALTs to better support teachers using these tools in their classrooms, and ultimately maximize the potential of ALTs for supporting students’ learning.
+### 1.1 Defining Adaptive Learning Technologies
+Personalized learning is a long-standing pedagogical approach, and ALTs represent an application of technology to achieve personalization [[2](#Bib0002), [3](#Bib0003), [39](#Bib0039)]. The use of technology to support personalization can be traced back to early teaching machines [[34](#Bib0034)] and computerized adaptive testing [[41](#Bib0041)]. Considerable developments have been made in many fields (i.e., technology, psychometrics, learning sciences) since these early explorations into the application of technology to support personalization that have enabled a transition from simple branching logic [[34](#Bib0034)] to sophisticated AI-driven systems [[23](#Bib0023)]. A systematic review of technology-enhanced adaptive/personalized learning identified key development trends across 70 journal articles from 2007-2017, noting the increasing complexity of adaptation mechanisms (reflecting the broader developments in artificial intelligence and learning analytics) which have created new possibilities for the applications of ALTs for personalization across educational contexts [[44](#Bib0044)].
+Prior research has acknowledged and attempted to address the definitional challenges surrounding ALTs that have made systematic investigations of the applications and impacts of ALTs challenging (e.g., [[3](#Bib0003), [10](#Bib0010), [11](#Bib0011), [29](#Bib0029)]). Building on prior conceptual work by EdSurge [[11](#Bib0011)] as well as Divanji and colleagues [[10](#Bib0010)], we define ALTs as digital learning platforms that assess students’ concept mastery and automatically provide students with individualized learning content and performance feedback. ALT platforms may utilize one or more of the following approaches to adaptivity: a) adaptive assessments, which are formative or summative assessments that use algorithms to adjust the difficulty of questions based on student input in real-time; b) adaptive feedback, which provides personalized scaffolding in real time based on student input; or c) adaptive instruction, where the platform creates a unique sequence of learning content based on student learning data (See Appendix A for a sample list of tools from the current study that meet these criteria).
+### 1.2 Prior Research: ALTs’ Impact on Students and Teachers
+There is substantial research on how ALTs impact student academic outcomes (e.g., [[12](#Bib0012), [13](#Bib0013), [40](#Bib0040)]) but much less on teachers’ experiences with the tools. A systematic review of journal articles on technology-enhanced adaptive/personalized learning conducted by Xie and colleagues [[44](#Bib0044)] found that only 16% of articles on ALTs in education published from 2007-2017 included teachers as research subjects. The smaller body of research focused on teacher experiences has highlighted three key findings. First, teachers play a critical role in the successful implementation of ALTs and other AI-based educational technologies [[2](#Bib0002), [15](#Bib0015)]. Second, the successful adoption of ALTs by teachers requires structural support including administrative support and professional development [[10](#Bib0010), [33](#Bib0033)]. And third, these technologies have mixed impacts on teacher efficiency and student-teacher relationships [[2](#Bib0002), [7](#Bib0007), [19](#Bib0019), [42](#Bib0042), [43](#Bib0043)].
+The varied impacts of ALTs in the classroom may be connected to the complexity introduced by automation features (e.g., automated grading, content development and assignment, insight generation, recommendations for individualized and whole group instruction, etc.). These features can empower teachers through low-touch, high-value insights and recommendations. However, they can simultaneously create friction by automating key instructional decisions traditionally made by teachers and limiting opportunities for teachers to connect with and guide student learning. Previous research suggests that, in fact, these automated features have mixed impacts on teachers’ sense of choice and influence over student learning [[7](#Bib0007), [22](#Bib0022), [36](#Bib0036)].
+Similarly, research suggests that the quantity and quality of learning analytics data available through ALTs can both enhance and undermine teachers’ sense of instructional efficiency and effectiveness [[1](#Bib0001), [24](#Bib0024), [25](#Bib0025)]. Limitations include restricted data types (such as final responses without contextual information, see [[1](#Bib0001)]), questionable data reliability (due to factors like varying student engagement levels and gamification effects, see [[10](#Bib0010)]), and uninterpretable data presentation (through crowded dashboards or reports lacking interpretative guidance, see [[4](#Bib0004), [8](#Bib0008), [17](#Bib0017)]). Concerns about data privacy and algorithmic bias have also been raised when discussing ALTs [[36](#Bib0036)]. When ALTs direct student learning based on what teachers perceive as potentially flawed or uninterpretable data, teachers’ sense of efficacy or competence in their role may be impacted.
+### 1.3 Self-determination Theory as a Framework for Examining Teachers’ ALT Use
+This growing but limited body of research suggests that ALT features and implementation practices may influence teachers’ sense of choice and autonomy in instructional decision-making [[7](#Bib0007), [22](#Bib0022), [36](#Bib0036)], their professional efficacy and competence in supporting student learning [[1](#Bib0001), [25](#Bib0025)], and the quality of their relationships with students [[2](#Bib0002), [19](#Bib0019)]. These psychological dimensions are particularly significant as research suggests they can influence teachers’ broader professional outcomes including job satisfaction and motivation [[30](#Bib0030)]. Therefore, self-determination theory, which positions autonomy, competence, and relatedness as three fundamental psychological needs essential for motivation and development [[26](#Bib0026), [31](#Bib0031)], provides an ideal framework to evaluate the psychological impact of these technologies on teachers’ professional experiences.
+Autonomy is one of the psychological needs for self-determination, and it is defined as the feeling of choice and initiative over one’s actions rather than being controlled by external pressures. In the classroom context, this manifests as teachers’ sense of agency over their instructional decisions and practices. The second need, competence, encompasses one’s sense of mastery and capacity for growth; for teachers, this includes feeling equipped with the knowledge and tools needed to effectively support student learning. The third need, relatedness, refers to the experience of meaningful connection, respect, and belonging with others; in educational settings, this primarily concerns teachers’ sense of connection with their students and their ability to build supportive learning relationships. A robust body of evidence supports the importance of meeting these three psychological needs in the educational context (for a review, see [[26](#Bib0026), [28](#Bib0028)]), including for students and teachers using digital technologies [[7](#Bib0007), [37](#Bib0037)]. Fulfillment of these needs is associated with a wide array of positive outcomes including positive forms of motivation (i.e., both intrinsic motivation and autonomous extrinsic motivation), engagement, and subsequently, stronger academic achievement and lower dropout rates (for a full review, see [[31](#Bib0031)]). Fulfillment of these needs is associated with teachers’ sense of accomplishment, appears protective against emotional exhaustion, and is also associated with students’ self-determined learning outcomes [[30](#Bib0030)].
+If teachers’ need for autonomy, for example, is not met or is undermined by these increasingly common technologies, it will have an impact on teachers and their students. Teachers’ positive motivation, enthusiasm, and creativity for teaching may be reduced. Moreover, any pressure on teachers for students to meet specific outcomes tends to lead to teachers using teaching practices that are in turn less autonomy-supportive to students, resulting in less effective and less interesting teaching strategies [[26](#Bib0026), [27](#Bib0027)]. When it comes to the use of technologies in general, the fulfillment, or not, of teachers’ psychological needs can also affect their continued use of those technologies [[37](#Bib0037)].
+#### 1.3.1 Self-determination Theory as a Framework for ALTs.
+Research has started to explore teachers’ perceptions of ALTs for meeting their needs as educators [[20](#Bib0020), [33](#Bib0033), [35](#Bib0035)], but more is needed.  As suggested by the prior research above, ALTs may have nuanced implications for teachers’ psychological needs. Moreover, the amount of research that speaks to each of the three psychological needs varies, with more attention paid to implications for teachers’ autonomy, and less to teachers’ feelings of competence, and lastly their need for relatedness with students.
+In line with prior research, studies of teachers’ psychological needs suggest that automated features are at the core of ALTs’ varied impact on teachers. These technologies are designed with a high degree of automation which affords teachers widely varying levels of autonomy and control over the learning process, sometimes supplanting teacher monitoring and decision-making [[23](#Bib0023)]. It has even been argued that although ALTs provide tailored content for students, the overall effect on teachers and students is to reduce their choices and decision-making capabilities [[16](#Bib0016)]. However, teachers’ own experience of reduced autonomy have not been directly examined.
+Further, teachers’ sense of competence might be negatively affected in cases where they lack preparation to use these tools or struggle to interpret the resulting data [[5](#Bib0005), [18](#Bib0018)], or it could be bolstered as they use data from these tools to more successfully understand students’ learning progress [[24](#Bib0024)] and differentiate instruction outside of the digital platform [[18](#Bib0018)]. Finally, ALTs could have negative effects on teachers’ sense of relatedness to their students given that at least some instruction is delivered within the digital platform as opposed to by the teacher. However, these tools can also enable teachers to deliver more responsive feedback to students [[13](#Bib0013)] which could support their relationship. With this variety of possible outcomes for teachers’ psychological needs, we took an open-ended approach that allowed us to explore, in teachers’ own words, the implications of specific features and affordances to capture potentially nuanced effects.
+### 1.4 Current Study
+The present study investigates how ALTs affect teachers’ psychological needs for autonomy, competence, and relatedness. Specifically, we explored what particular implementation strategies and features support and/or hinder these psychological needs. To answer these questions, we conducted teacher surveys without \*a priori\* assumptions about supporting versus hindering, focusing on both features and implementations of these technologies. Self-determination theory guided the analysis to ensure that analysis was both comprehensive and grounded in a well-established framework. This method allowed us to gather teachers’ perceptions on a variety of ways that they experience these tools. The findings have the potential to inform teacher education and training around technology usage, provide recommendations for technology designers and coaches, and help maximize the value of these platforms for meeting teachers’ needs and in turn, supporting student learning.
+## 2 Method
+### 2.1 \*\*Research Design\*\*
+To investigate the impact of ALTs on teachers using self-determination theory as a framework, we collected Likert and rating scales (which are not reported here), short answer, and short video responses from participants via an online platform. Participant responses were analyzed using thematic analysis, following the guidelines outlined by Braun and Clarke [[6](#Bib0006)]. This approach captured the nuance of educator perspectives while also identifying overarching themes within the data. The research design, study materials, and procedures were reviewed and approved by an Institutional Review Board.
+### 2.2 Participant Recruitment and Selection
+Participants were recruited via dscout[1](#fn1), an online recruitment and data collection platform. The study was posted on dscout’s platform to existing users as an opportunity to share their perspectives about how adaptive learning technologies impact their role as a teacher. Interested participants completed a 17-item screening survey (see Appendix C) that was used to determine eligibility based on the following two criteria: (1) they are currently employed as a full time (greater than or equal to 0.8 FTE) K-12 classroom teacher, and (2) they had used at least one ALT from a curated list of platforms (see Appendix A) within the last two school years. From the initial pool of 1,453 applicants, we invited the 50 participants who most closely fit the eligibility criteria to participate in the full study.
+### 2.3 Sample
+Of the 50 participants invited to take part in the study, three submitted incomplete surveys and were excluded from analyses. Our final sample thus included 47 full-time K-12 classroom educators ranging in age from 22 to 52 years old (\*M =\* 34.5, \*SD =\* 6.9) with a range of teaching experience from one to 27 years (\*M\* = 10, \*SD\* = 5.9). All participants lived in the United States, with representation from 19 states. The majority of our sample were public school educators. Our sample was diverse in terms of ethnicity and other key demographic factors (see Table [1](#tab1)).
+Table 1:
+| %(n) |
+| --- |
+| \*\*Gender Identity\*\* |
+| Woman | 70.2 (33) |
+| Man | 27.7 (13) |
+| Non-Binary | 2.1 (1) |
+| \*\*Education Level\*\* |
+| High School graduate | 2.1 (1) |
+| Some college | 2.1 (1) |
+| College graduate | 29.8 (14) |
+| Post graduate coursework | 66.0 (31) |
+| \*\*Ethnicity\*\* |
+| White | 55.3 (26) |
+| Black or African American | 17.0 (8) |
+| Asian | 6.4 (3) |
+| Hispanic or Latinx | 6.4 (3) |
+| Prefer not to say | 4.3 (2) |
+| Selected more than one | 10.7 (5) |
+| \*\*School Setting\*\* |
+| Public | 85.1 (40) |
+| Private | 8.5 (4) |
+| Charter | 6.4 (3) |
+| \*\*Grades Taught\*\* |
+| Pre-K | 2.1 (1) |
+| K | 21.3 (10) |
+| 1 | 14.9 (7) |
+| 2 | 12.1 (9) |
+| 3 | 23.4 (11) |
+| 4 | 25.5 (12) |
+| 5 | 29.8 (14) |
+| 6 | 27.7 (13) |
+| 7 | 27.7 (13) |
+| 8 | 25.5 (12) |
+| 9 | 17.0 (8) |
+| 10 | 17.0 (8) |
+| 11 | 17.0 (8) |
+| 12 | 17.0 (8) |
+| Other | 0 (0) |
+Participant Demographics
+### 2.4 \*\*Data Collection\*\*
+Participants completed an online questionnaire with open-ended short written responses and short-form video responses (see Appendix C for survey items). The survey instrument was created ad hoc for this study, and was piloted with a small group of educators for refinement using a written cognitive interviewing protocol. The survey consisted of five sections (sections 1 and 2 are not reported on here), which were divided as follows:
+(1)
+Introduction to participant and types of adaptive technology used
+(2)
+Broad ideas educator has about adaptive technology goals and outcomes
+(3)
+Autonomy and adaptive technology
+(4)
+Relatedness and adaptive technology
+(5)
+Competence and adaptive technology
+Participants were given one week to complete the questionnaire. Participants were compensated $100 for completing the survey, or $20 per completed section.
+### 2.5 Data Analysis
+Each participant’s short-answer responses and transcripts of their video responses (automatically created by dscout) were compiled into a PDF. PDFs were uploaded to MAXQDA TeamCloud[2](#fn2) (version 2022), a qualitative data analysis software, which was used for coding and analysis. The analysis involved moving from inductive coding to identify themes and patterns in the dataset, to then narrowing the codebook using content analysis, and finally engaging in thematic analysis, as outlined in Braun and Clarke [[6](#Bib0006)].
+#### 2.5.1 Code Development.
+An inductive approach was taken to code development, guided by the research questions. One researcher (MH) first read through, reviewed, and familiarized themselves with all of the transcripts, taking notes and identifying common and salient excerpts in the responses. After the initial review, three coding team members (MH, RD, SB) used the research questions and prior research [[10](#Bib0010)] as a guide to condense emerging patterns across all of the transcripts into potential codes that could be used to meaningfully describe the patterns in the data. This resulted in a preliminary codebook stratified at three levels: (1) a code category level that reflected the research question (e.g., Feature, Implementation, Self-determination Theory (SDT)); (2) a parent code level that reflected broad patterns (e.g., Data, Learning Content, Support, Hinderance); and (3) a child code level that captured more nuanced and specific concepts that were related to their corresponding parent code (e.g., Data visualization, Differentiated instruction, Autonomy Support, Relatedness Hinderance).
+Two researchers (MH, SJ) practiced independently applying this preliminary codebook to two randomly selected transcripts. The coding team (MH, RD, SB, SJ) then came back together to discuss challenges and identify areas for updating the codebook (e.g., refining definitions, removing sparsely used codes, collapsing/expanding codes). This process produced a final codebook that consisted of six code categories, 13 parent codes, and 53 child codes that reflected the ideas and patterns in the transcripts and could be applied to the entire dataset (see Appendix B).
+The text from each transcript was divided into excerpts, and codes were to be applied to individual excerpts to ensure more uniform coding. Independent coders agreed to a standard approach which involved coding each excerpt with a pair of codes: at least one Feature or Implementation child code and one SDT Support or Hindrance code. For example, an excerpt may be coded with “Real-time data” and “Autonomy support,” indicating that the participant expressed in that excerpt that real-time data features were autonomy supportive. Additional Feature or Implementation codes could be added to a single excerpt, but each excerpt had only one SDT Support or Hindrance code applied (see Figure [1](#fig1)).
+Figure 1:
+![](/cms/10.1145/3713043.3727062/asset/40e99594-9b0c-4e03-bd0a-973742e9334f/assets/images/medium/idc25-12-fig1.jpg)
+Visualization of the coding process. Note that only four possible code combinations are represented as an example, but more were possible.
+A visualization of the coding process, moving from a full data set, to excerpts coded with self-determination theory codes and feature/implementation codes.
+#### 2.5.2 Coding.
+Once the codebook and coding approach was finalized, two coders (MH, SJ) independently coded the same nine transcripts (20% of the dataset) to test for inter-rater reliability (IRR). IRR was calculated at the parent code level using Light’s kappa to account for multiple coders [[9](#Bib0009)]. We calculated Light’s kappa for each parent code using MAXQDA IRR features, and looked for an acceptable reliability above 0.80. Following the first round of coding, the coding team documented areas of agreement and disagreement, and discussed the definition and application of codes that did not reach a kappa value of 0.80. After these clarifications, the coding process was repeated a second and third time until acceptable levels of kappa were reached for all parent codes. The final kappa statistics associated with each parent code ranged from 0.81 to 1. Once reliability was established, we could be confident that the coding team could accurately and consistently apply the codes to the entire dataset across both coders. Each coder then took on coding half of the remaining transcripts (19 transcripts each).
+#### 2.5.3 Content Analysis.
+After coding was complete, we used MAX- QDA’s MAXMaps feature to visualize and identify the most frequent co-occurrences of Feature and Implementation parent and child codes with each SDT child code (12 total possible combinations; e.g., Autonomy Support and Features, see Figure [2](#fig2) for example). We established 10 code co-occurrences as a threshold for determining a “high frequency” code-occurence, a frequency which signaled that those child codes had a meaningful relationship. For maps in which there were not any code co-occurrences with greater than 10 overlaps, we selected the 1-2 codes that had the highest number of code co-occurrences.
+Figure 2:
+![](/cms/10.1145/3713043.3727062/asset/391606c9-857f-43ee-a343-ce2db3763196/assets/images/medium/idc25-12-fig2.jpg)
+MAXQDA MAXMap representation of the number of excerpts that were co-coded with Autonomy Support and various Feature child codes. High frequency features, defined by >10 code co-occurrences, are highlighted in yellow, although the Features code category was left out of analysis.
+MAXQDA MAXMap highlighting the most high-frequency Feature codes that were coded in conjunction with Autonomy support.
+#### 2.5.4 Thematic Analysis.
+High frequency code co-occurrences were used to begin the process of thematic analysis [[6](#Bib0006)]. This involved identifying emerging themes in the data regarding how the various features and implementations of ALTs either support or hinder teachers’ feelings of autonomy, competence, and relatedness. We first created documents to compile all of the excerpts that had been coded with a high-frequency code co-occurrence. Excerpts were retrieved using MAXQDA’s Complex Coding Query functionality. This process produced a set of 12 documents, one for every combination of high frequency code-occurrence of SDT Support or Hinderance codes and Features or Implementations (e.g., Competence Support and Features) codes.
+These 12 documents were then equally split between 3 members of the team (LC, MH, RD). Each researcher grouped the excerpts in their documents into preliminary themes, looking for commonly occurring ideas and aiming to capture as much nuance as possible. This process resulted in 62 preliminary themes. Each researcher then copied these preliminary themes into a collaborative document where they were  reviewed for commonalities, and themes were further collapsed and combined to form no more than three candidate themes for each SDT Support/Hinderance and Feature/Implementation combination (23 candidate themes total). We then used a thematic map to organize the various candidate themes in relation to the original research question. This allowed us to visualize and group themes based on the underlying feature or implementation that was creating supporting or hindering uses of ALTs. These final 13 themes and the excerpts they represent are reported in the results.
+## 3 Results
+### 3.1 Automation versus Autonomy: The Power of Customization
+Our analysis revealed that teachers’ sense of autonomy while using ALTs was related to their degree of choice and control over student learning in the platform. Teachers in our study reported a number of ways that automated features in ALTs, such as automated grading of student work, automated content generation for students’ self-paced learning, and automated recommendations for student and teacher next steps to advance students learning (e.g., grouping suggestions, suggestions for content to review with the class, recommendations for students to utilize), supported their daily teaching and classroom management task completion. These features increased their efficiency in the classroom by automating certain aspects of the learning and teaching process. However, our findings suggest that while these automation features may support teacher efficiency, they can also undermine teachers’ feelings of autonomy when using ALTs.
+Analysis of teacher responses revealed that teachers feel their autonomy is supported when the system is not fully automated, but rather enables them to customize learning content, influence students’ learning trajectories in the platform using their holistic understanding of students’ concept mastery, and apply their professional judgment to guide student learning as they see fit. The level of automation and availability of automated features varied widely across the ALT platforms utilized by teachers in our study. These variations offered insights into which automated features support or hinder teacher feelings of autonomy, and to what extent, when using ALTs to support student learning.
+#### 3.1.1 Learning Content and Pacing Customization: Key Areas to Balance Automation and Autonomy.
+Teachers in our study desired greater control over two key aspects of ALTs: content customization and student pacing. Regarding content, teachers wanted to tailor learning materials to better serve their student population by making them more culturally relevant and aligned with their teaching approaches (P9, P11, P15, P29, P39, P40, P43, P47). For pacing control, teachers sought features that would allow them to set checkpoints to enable self-paced learning for students but within certain bounds, adjust or remove content within individual students’ learning trajectories, and determine upcoming topics for individual students in the platform (P22, P30, P47). However, teachers reported that ALT systems’ design features often constrained teachers’ ability to create these customized learning experiences for their students (P15, P40, P43).
+> \*So the thing that really makes me feel the greatest lack of control is basically just the fact that I’m not the one designing the lessons, or deciding how something is taught. I’m relinquishing a lot of control to whoever creates the Lexia curriculum.\* P40
+Teachers in our study using ALTs with pre-developed learning content and limited customization functionalities reported feeling like they did not have the opportunity to use their own understanding of student needs to guide learning, impacting their sense of autonomy while using ALTs in their classroom (P9, P11, P15, P29, P39, P40, P43, P47).
+> \*So I wanna make sure that my lessons are culturally responsive and relatable to students, so it’s more engaging. And I don’t really have any control over the content that’s provided for [them]. And I feel that if I had some autonomy in what the reading was about, and if it’s more aligned with my history class, and my student’s interest, I think that could be a lot more engaging.\* P15
+Teachers using ALTs with limited customization functionalities highlighted that pre-developed and adaptive content (i.e., automated content based on student input) leads to ALTs controlling both student placement and pacing, offering limited opportunities for teacher intervention. For example, teacher P030 in our study cited using an ALT that did not allow them to intervene when they noticed issues with either student placement or pacing issues, leading to frustration for both teachers and students (P22, P30, P47).
+> \*For my successful students, they have to keep going and going and going, doing literally hundreds of problems before it’ll stop them. And it makes me feel like you know, I like that it’s adapting, but I don’t feel like I have control or choice over how or what my student is doing.\*P30
+Finally, teachers in our study reported cases similar to the one described above of ALTs providing students with learning content that is too advanced, or doesn’t align with what the teacher is currently focusing on, or if students get stuck on a topic in class, teachers reported not always being able to remove that content or help students skip past that material (P15, P39, P43).
+> \*And when a student gets stuck on a topic, we don’t have the option to remove it and add a new one. So that’s [something] that limits us teachers in having full control over adaptive learning.\* P39
+Teachers reported feeling that ALTs undermined their autonomy when the systems provided limited options to customize content or intervene in automated processes. Specifically, when teachers could not modify learning materials or redirect students who were struggling with the automated pathways, they felt unable to fulfill a core aspect of their role: providing individualized instruction to meet student needs.
+#### 3.1.2 Automation Paired with Customization Features Supports Teacher Autonomy.
+In contrast to these experiences, teachers in our study that reported feeling autonomy supported while using ALTs cited using tools with features that allowed them to have choice and control over assigning, modifying, and/or removing learning content for individual students (P1, P2, P3, P5, P6, P7, P9, P10, P12, P14, P15, P16, P18, P19, P20, P21, P22, P23, P26, P27, P28, P29, P30, P31, P32, P33, P35, P36, P37, P38, P39, P40, P44, P46, P47).
+> \*With IXL I have the ability as a teacher to either assign or recommend skills for my students to complete. While the adaptive technology can work and provide students with recommendations, having some control over what is assigned is appreciated from an instructor standpoint.\* P44
+Teachers’ responses suggested that they felt autonomy supported when ALTs gave them the ability to assign specific content, skills, or standards to individual students. This was especially salient for teachers who reported noticing a mismatch between the content being recommended to their students by the ALT and their own assessment of the type of content the student should be receiving (P5, P7, P17, P19, P23, P29, P30, P36, P37, P44, P47).
+> \*I appreciate how I can go in from the back end and select specific lessons to target skills. Sometimes I feel the students’ results from adaptive technology assessments don’t match what I’m seeing in the classroom, so it’s a good way for me to tailor instruction or alter it slightly from the assigned lessons through the program.\* P19
+#### 3.1.3 Beyond Design, Teacher Input in Implementation Impacts Autonomy with Tool Use.
+Along with ALT features, our findings highlight that the approach to ALT implementation can also impact teachers’ feelings of autonomy. Teachers reported that their level of involvement in decisions regarding ALT implementation impacted their sense of autonomy when using the tools in their classrooms. When teachers feel excluded from the selection process or are not provided with sufficient support and flexibility in how they integrate the tool into their classrooms, their sense of autonomy can be undermined. These findings emphasize that involving teachers in selecting which ALTs are used is crucial for enhancing their overall autonomy and satisfaction (P3, P11, P20, P24, P25, P36, P41).
+### 3.2 Teachers as Analysts: Impacts of ALT Data on Teacher Competence
+Our analysis revealed that teachers’ sense of competence while using ALTs was closely tied to how effectively they felt they could leverage the ALT, in combination with their own expertise, to support high-quality, personalized student learning. Two key uses of ALTs emerged as particularly important for supporting this sense of professional competence: (1) features such as validated assessments, real-time data, dashboards, and reports that provide teachers with real-time diagnostic capabilities, and (2) content customization features. These features enable teachers to enhance their understanding of student needs in a timely way and exercise their professional competence to meet those needs through tailored instruction.
+Teachers in our sample reported variations in the design of ALTs that constrained their ability to collect or apply diagnostic insights, and/or customize learning content in the platform. These teachers reported feeling less effective in their role due to technical constraints limiting their ability to understand and address student needs in a personalized way, thereby undermining their sense of competence.
+#### 3.2.1 Competence Starts With Reliable Insights on Student Performance.
+With diagnostic insights from ALT features, teachers’ are better able to understand students’ concept mastery and learning gaps and respond to students’ needs in a timely way (P3, P4, P5, P6, P7, P20, P21, P23, P34, P44, P47). These diagnostic features also enable teachers to make informed instructional decisions and effectively communicate student progress to key stakeholders, including teacher aides, administrators, parents, and students themselves (P6, P19, P29, P34, P38, P42, P43). Additionally, some teachers in our sample reported that certain ALTs have features that allow them to leverage these diagnostic insights to provide targeted differentiation both within the platform and during their classroom instruction (P4, P5, P7, P8, P13, P15, P16, P19, P22, P24, P26, P27, P32, P39, P46).
+In order to use ALT data to inform their practice, teachers must first trust ALT output as a valid diagnostic of students’ concept mastery and performance. Teachers surfaced design features of ALTs that led them to not always view ALT data as a reliable diagnostic. Teachers emphasized that the platform’s diagnostic of student performance is based exclusively on data collected within the platform. However, teachers articulated that their own understanding of individual students’ needs develops through multiple sources, including classroom observations, formal and informal assessments of academic and social-emotional progress, and direct interactions with students. Teachers reported feeling ineffective when ALTs provided limited functionality to modify or update platform-collected performance data to align with their holistic assessment of students’ conceptual understanding (P13, P16, P20, P22, P23, P26, P33, P34, P35, P40). This disconnect became particularly evident when teachers observed misalignments between the content recommended by the ALT based on platform data and their evaluation of students’ topic mastery (P15, P22, P29, P43, P47).
+> \*What I get is a different type of data than comparing it with the students’ tests and other things. And so it just measures one type of data. And so based on that one aspect of data, it gives me the ability to assign [content], but not to alter [the data] based on my own observations, based on the informal assessments, based on what I see in the classroom, based on what I notice… I wish the data was editable in order for me to alter it based on the teacher’s perception and…observation in the classroom.\* P22
+This technical constraint fundamentally limits teachers’ ability to leverage their professional expertise in supporting student learning. The inability to modify ALT data creates cascading effects that diminish teachers’ sense of competence, as they cannot ensure the platform has the correct data to appropriately adapt its learning content, feedback, and scaffolding to meet student needs (P3, P4, P8, P9, P17, P25, P26, P27, P39, P46, P47).
+> \*One thing I don’t feel like I have that much control over is the adaptation that it gives the kids on where it thinks they are. Sometimes I don’t feel like it’s accurate enough. So if I don’t feel like it’s accurate, they’re kind of just learning things under their level in my opinion.\* P47
+Teachers identified another limitation in how some ALTs capture student learning: many platforms only record final answers without documenting students’ problem-solving process. This narrow approach to data collection restricts teachers’ ability to review students’ understanding and identify specific misconceptions. Without visibility into students’ work, teachers reported diminished confidence in the platform’s assessment, and ultimately their own ability to address student learning needs (P25).
+> \*It doesn’t allow students to show the process of doing their work. That’s extremely important in math, and as part of the learning process, [allowing students] to document their process, show their work. And this is not integrated into the technology. So I have to spend so much time on worksheets, making sure students understand that piece especially for the state exams. Because they’re gonna have to show their work on paper, but it’s not being tested when they’re using these adaptive technologies.\* P25
+#### 3.2.2 Competence is Supported by the Ability to Use Insights to Tailor Content.
+Teachers using ALTs that enable them to select content in the platform that aligns with state and district standards, while also providing the flexibility to customize learning materials to address the needs of their students, reported feeling competent because the tool supports the part of their role that requires them to maintain adherence to curriculum while also meeting students’ diverse learning needs (P1, P6, P9, P10, P26, P39, P43).
+Our findings reveal that limited content customization capabilities affected teachers in multiple ways: beyond the impacts on teacher autonomy discussed above, these constraints also undermined teachers’ sense of professional competence. Teachers consistently expressed that only allowing them to assign pre-developed or standardized learning content in ALTs, with no customization options, does not allow them to leverage their insights in conjunction with ALT data to guide student learning. As a result, teachers’ opportunities to exercise their professional judgment to address learner variability in their classroom are limited, impacting their sense of competence when using ALTs (P13, P16, P20, P22, P23, P26, P29, P33, P34, P35, P40).
+> \*So even if the content is put together really well, if there was just a small part that allows me to edit and upload [content], especially since I do have a lot of eighth graders that are about to transition into high school, so they need a little bit more rigor, then that would be best. But because I can’t [do some of that] cross-curriculum [customization], it makes [me] just a little bit less effective than if I did have that option.\* P29
+This was especially salient for teachers who noticed a lack of alignment between their approach to teaching a specific topic and the ALTs’ explanation, terminology, and/or approach to teaching a topic to students (P8, P17, P39, P46).
+> \*The attribute that makes me think I’m less effective is when the procedure I am teaching is taught differently in DreamBox. We all know that there are various ways to solve problems. I start to struggle when the steps I teach are different from the approach of the adaptive technology. And I can’t opt my students out of that lesson. I hope there will be the option to opt out students, especially if the lesson is not aligned with the standards [I am teaching].\* P39
+Teachers reported that this kind of misalignment between ALT content and their personal teaching approach, or their school or districts’ standards, not only leads to confusion for students, but it makes them feel less effective at supporting student learning and meeting school or district standards in their teaching (P3, P26, P27, P39).
+> \*Sometimes these programs don’t necessarily match exactly what I need to teach or what’s in my school’s curriculum. We don’t build our curriculum around these tools. I’m using them as an additional resource. So sometimes, things are just slightly off, like different terms or vocabulary than what I use in my normal teaching day. It doesn’t exactly match up with what’s in the program. So being able to adjust that would be nice. [Because] sometimes it can be a little confusing for the students because things might not be exactly as I’ve taught them because I obviously didn’t create the program.\* P27
+Teachers reported needing control over content in these ways to feel like they can be effective while teaching while using ALTs: (a) adjusting difficulty levels, (b) modifying question phrasing or presentation, and (c) removing any content that is not aligned with their curriculum. Our findings suggest that when ALTs do offer these functionalities, teachers feel competent in their ability to tailor instruction for each of their students.
+### 3.3 Impacts of ALTs on Teacher-Student Relationships
+Oftentimes, when we think of teachers using ALT data to inform their teaching practices, we think about how they are using data to drive better academic outcomes for their students. However, teachers in our study suggested that the data also help them build better relationships with their students. Teachers reported that ALT data offer insights that may otherwise go unnoticed and create opportunities for communication with students as well as other key stakeholders that support student learning both inside and outside of the classroom (i.e., parents, school administrators, and teacher aides).
+#### 3.3.1 Having the Right Data at the Right Time Improves Classroom Relationships.
+Teachers reported that ALT data enable them to have real-time insights on student progress. Without ALTs teachers would have to rely on less regular and more time intensive check-points, such as paper assessments, homework, or exit tickets, to assess student concept mastery (P13, P21, P22, P28, P31, P32, P35, P39, P44).
+> \*The technology gives me so much information on where they are struggling and what they need. Information I would not be able to decipher before.\* P35
+With more learning data on hand, teachers in our study said they were able to be more responsive to students’ needs, provide timely feedback, and thereby develop better relationships with students. We saw this connection between data enabling responsive teaching and better student-teacher relationships show up in three ways in our analysis of teacher responses: (1) tailoring learning content, (2) providing timely support, and (3) communicating progress with students and other stakeholders.
+\*Tailor Learning Content\*. ALT data support teachers’ ability to tailor content to students’ immediate learning needs and interests. A teacher reported, “it helps me get a better understanding of what students can do independently, and allows me to make assignments that are a better fit for them" (P32). This responsive teaching can help build student-teacher relationships (P21, P32, P35, P39):
+> \*Adaptive Technology has given me a comprehensive report on the strength and weakness of my students in math, thus giving me ideas on how I can work with them. Through a small group I got the chance to build rapport with my students while doing the dreambox together, especially when they are happy answering the questions correctly. It helps me foster connection in the sense that they can feel self satisfaction when they figure out math concepts through your help. Also, through adaptive technology, I could use the effective way of questioning, enhancing their critical thinking, and give some real life examples (examples that they can relate on, especially on things that they are interested in like basketball, football, etc.).\* P39
+It is also worth noting that teachers suggested that ALT data enable \*teachers to personalize learning\*, not off-load the work of making the learning content relatable to the ALT. While personalization is often seen as a strength of the technology, teachers reported that the tool is in fact enabling them to better tailor learning for their students.
+\*Provide Timely Support\*. Secondly, a teacher reported that in their experience middle school students can struggle to communicate when they need additional teacher support, so ALTs can help them intervene at the right moments to provide support (P40, P44).
+> \*...middle school students verbalize that they understand concepts, but in actuality they may not comprehend. Therefore, adaptive software lets me see what the student has done so that one is able to assist, adjust, etc.\* P44
+This timely support can help them build better relationships with their students.
+\*Communicating Progress With Students and Other Stakeholders\*. Finally, a teacher in our study stated that reports from ALTs can support their communication of student progress and strengths with students, and this can support their relationship with students (P25, P39).
+> \*Based on the data I can use the information to affirm with students their strengths–many teachers pound on kids about making sure they did enough lessons or making sure they are at a certain level. But I have found that giving students a pat on the back for how far they have come (with visuals) or what areas they are strong in so they verbally hear it and follow up about expectation of what you expect for them to do next with the tool.\* P25
+The fact that the tool provides data and visuals as evidence for teachers to point to is particularly helpful in communicating student strengths and an asset of data reporting features of ALTs. Teachers suggested that communicating student strengths with data in hand promotes positive student-teacher relationships.
+Teachers also reported that having these reports readily available made their communication about student progress easier with parents/caregivers and professionals involved in supporting student success. Teachers in our study reported this improved parent/caregiver communication made them feel like they were building better relationships with students and their families (P1, P6, P19, P29, P43).
+> \*It also helps me to feel most effective because when I have to do those state required meetings with the parents, in the [special education] department. I have everything that I need. I can show growth. I can show where they’re regressing. I can show how long we’ve spent in this and maybe they need to spend more time. Technology just keeps track of all of the data and [in] such a reliable way, as well as a way that I can easily let the parents know, okay, this is where they’re at. And parents, of course, are not a part of the educational system. So when you give them data, it has to be very basic so that way they can understand it. And the technology that we use, it does that.\* P29
+#### 3.3.2 Shifting Role of Teachers to Analysts.
+Teachers described how ALT data created opportunities for building relationships with students and other stakeholders in students’ lives. However, they also offered counter examples where the adoption of these tools transitioned aspects of their role in the classroom that they felt were key to building relationships with their students in the first place.
+\*Lack of Personal Contact\*. Teachers reported feeling like their role shifted to monitoring system recommended content, assessments, and recommendations for remediation or student support. Some teachers expressed that they felt like they were waiting for data to suggest where and how they can plug-in to students’ learning (P31, P37).
+> \*I kinda have to just trust the process, like, they’re all learning something that makes sense for them. I  feel a little bit like maybe I should be more on top of what exactly each one is doing every single day.\* P37
+For some teachers, like P13 who said  “...it doesn’t foster connection as much because you’re not the one explicitly teaching them in that moment, they are learning through technology,” the use of ALTs led to a perceived shift from teaching to playing the role of a learning data analyst. And teachers suggested that this role shift has implications for student-teacher relationships (P13, P30, P36), as expressed by Teacher P36 who said:
+> \*...does not help me relate to my [students]. It is typically something that is pretty hands off - they can do it without much of my involvement. It is pretty cut and dry in terms of recall and mastery of content and not really about interacting with them as an individual.\* P36
+These implications stem from teachers feeling like they are trusting the system to guide learning, and the data from the system to guide instructional decision-making which has some benefits for student learning. At the same time, traditionally, they may have relied more on conversations with students, or other high-touch methods to gauge student mastery and needs, some of which may be lost with the application of the ALTs.
+> \*...it is mostly a one way communication. Some students might allow themselves to open up and share with the screen as an intermediary, but it’s just a barrier, in my opinion, to creating a meaningful relationship where both parties are empathetic to one another. I feel that computer programs are engaging and exciting to students but are often used as a crutch to hide and make it hard for me to relate to them.\* P30
+\*Perceived Shift to a ’Hands-Off’ Approach Leading to Less Student Engagement\*. Teachers expressed concern about how ALT time reduced opportunities for direct instructional time with students. One teacher said, “When I use a lot of technology in the classroom, I feel like I am not doing as much as an instructor leading an entire classroom” (P35). This quote reflects a broader sentiment that ALTs made teachers feel a little more hands-off in guiding student learning, and like they had less opportunity for interpersonal interaction than through some direct instruction approaches (P35, P42).
+> \*It’s a lot more hands off and it’s more student driven. If they are successful and don’t need me there, it doesn’t feel like I’m really doing my job if that makes sense. But, they shouldn’t need me if they know what they’re doing. So it’s a little more hands off, and from that regard, it makes you feel less effective as a teacher.\* P31
+This quote surfaces a tension teachers expressed about whether time on adaptive learning tools was actually promoting student engagement in their classrooms, with teachers feeling concerned about the emphasis on screen time detracting from more hands-on, collaborative, and interactive forms of learning. The relationship is between the student and the screen versus the student and the teacher or the student and their peers. Teachers found they needed to be cognizant of this tension so they could find a middle-ground.
+> \*Once I take out the computers, kids are like, “oh, yeah, computers!” But for me, I’m more just hands-on. So I really just try to find a good balance for them to get that hands-on learning and then for them to also have their time on the electronics doing their online [learning].\* P42
+Such sentiments reflect a broader concern that features like self-paced learning, which foster student autonomy, simultaneously diminish teachers’ direct influence on learning and an opportunity to directly relate and connect with students (P13, P42). As another teacher said,
+> \*Teaching [some] kids [who are] at a second grade level in the eighth grade means you can’t give whole group instruction. It’s just not possible. But when one uses technology all the time, it can kinda make you feel like the technology is leading the classroom and not yourself.\* P35
+This teacher’s comment encapsulates the trade-off teachers feel in using the technology to address the differentiated learning needs in their classrooms, while simultaneously feeling less agentic in guiding student learning.
+## 4 Discussion
+Our findings shed light on the complex relationship between ALT design features and teachers’ psychological needs. While prior research has primarily focused on ALTs’ impact on student outcomes [[12](#Bib0012), [13](#Bib0013), [40](#Bib0040)], our study reveals the nuanced ways in which the design of these tools support or hinder teachers’ psychological needs—a perspective that research has highlighted as essential for understanding the full impact of educational technologies [[22](#Bib0022), [32](#Bib0032)].
+### 4.1 ALTs and Teacher Sense of Autonomy
+Teachers in our study reported that while automated ALT features enable efficiency by supporting teachers in providing personalized learning at scale, these same features often hindered their sense of autonomy by limiting their ability to intervene, adjust, and apply their holistic observations of student performance to create a truly tailored learning experience for students. Autonomy hindrance was especially salient for teachers using ALTs with automation features that restricted their ability to customize student learning in the following ways: (a) edit the content to be more relevant or culturally responsive for individual students, (b) edit student placement (i.e., the topic or difficulty level the student is working on), (c) have a say in student pacing (i.e., how quickly students move through various content and levels within the platform), and (d) remove content that students may be stuck on. This is in contrast to the feelings of autonomy expressed by a subset of our teacher sample who used ALTs with features that allowed them to make these adjustments. These findings support previous concerns raised about ALTs potential to reduce teachers’ choices and decision-making capabilities in guiding student learning [[16](#Bib0016), [22](#Bib0022), [23](#Bib0023), [32](#Bib0032)].
+### 4.2 ALTs and Teacher Sense of Competence
+Teachers in our study primarily cited two uses of ALTs that supported their competence needs: (a) to access data insights about students’ content mastery, and (b) to utilize these insights to guide student learning—either directly in the platform or through whole-class or individualized instruction. This finding from our research builds on prior work examining teachers’ use of learning analytics/dashboards [[1](#Bib0001), [8](#Bib0008), [25](#Bib0025)], suggesting that the mere provision or availability of data is insufficient—teachers need meaningful ways to act on these insights both inside and outside of the platform to feel like their competence needs are supported when using ALTs. Additionally, teachers’ sense of competence can be either enhanced or diminished by ALTs, depending on how effectively teachers can leverage the tools’ data insights to support student learning. Therefore, it is unsurprising that our findings show that teachers’ feelings of competence varied significantly based on the design of ALT features that either facilitated or constrained their ability to trust, interpret, and apply insights collected both inside and outside of the platform to guide student learning.
+Teachers who used ALTs with design features that enabled them to easily interpret, investigate, modify, and take action on data insights collected in the platform reported feeling like the ALT enhanced their ability to support students, and as a result the tool supported their competence needs. However, when ALT features automated instructional decisions solely based on data collected within the platform, teachers reported feeling less effective in their role because the platform design limited opportunities for them to apply their holistic understanding of student performance—knowledge gained through classroom observations, informal assessments, and direct interactions. Additionally, similar to the data reliability and interpretation challenges identified by Divanji et al. [[10](#Bib0010)], teachers in our study reported instances where a lack of the alignment of various ALT features with their personal teaching and grading practices, paired with limited customization functionalities described above, created user experience challenges for teachers. This disconnect between teachers’ understanding of student learning and the platform’s narrow approach to data directly undermined their sense of professional competence by preventing them from fully applying their expertise to support student learning, hindering their feelings of competence while using ALTs.
+### 4.3 ALTs and Teacher Sense of Relatedness
+Our analysis revealed that teachers’ sense of relatedness with their students was heavily influenced by ALT data features. Features like real-time data dashboards and progress reports enabled teachers to better understand student learning, tailor instruction, and communicate with students and other stakeholders about student learning and their needs. Overall, when ALT data features provided timely and reliable insights into student learning, teachers felt equipped with the necessary information to better support, respond to, and communicate with students, thereby strengthening their sense of relatedness.
+While data features supported teachers’ sense of relatedness, automation features that enable self-paced learning and feedback had the opposite effect. By mediating traditionally teacher-facilitated aspects of learning—such as direct instruction, assessment, remediation, and practice—these features often diminished teachers’ direct involvement in the learning process which reflects a tension identified in previous literature examining technology-mediated instruction [[7](#Bib0007), [19](#Bib0019)]. This shift was particularly pronounced in implementations that emphasized ALT use. In these instances teachers reported feeling disconnected from their students’ learning experiences and having fewer opportunities for meaningful teacher-student interactions compared to traditional teaching approaches.
+### 4.4 Implications for ALT Design and Implementation
+#### 4.4.1 Complexities Introduced by AI and Automation.
+Our analysis extends previous research exploring the mixed impacts of AI-enabled and more automation-heavy educational technologies [[7](#Bib0007), [23](#Bib0023), [42](#Bib0042), [43](#Bib0043)]. Teachers in our study frequently cited features with automated aspects as both supporting and hindering their psychological needs, presenting a double-edged sword. Our findings highlighted that while automation features (e.g., pre-developed content and student self-pacing) supported teacher efficiency, in many ALT designs teachers paid a price for that efficiency. The limitations these designs imposed—such as restricted content customization and minimal pacing intervention capabilities—negatively impacted teachers’ sense of autonomy and competence while using ALTs. Similarly, although automated assessments and insight generation features enabled teachers to provide timely support and tailor teaching to individual students, thereby enhancing their feelings of competence and relatedness, this same automation sometimes prevented them from applying their own insights and maintaining a more hands-on teaching approach. These feature constraints undermined teachers’ sense of professional competence and diminished their feelings of relatedness with students.
+Ultimately, ALT automation features that excluded teachers from key aspects of the teaching and learning process were the primary source of diminished psychological need fulfillment across all three domains of self-determination theory: autonomy (through restricted choice), competence (through limited application of expertise), and relatedness (through reduced direct engagement with students).
+#### 4.4.2 The Interplay of Teacher and Student Needs in ALT Design.
+Our findings extend other research (e.g., [[42](#Bib0042)]) which has examined another tension between features designed to support student autonomy and teacher efficiency (e.g., pre-developed content, self-paced learning, automated grading and feedback) and those that support teachers’ psychological needs. While ALTs’ mastery learning approach is designed to facilitate students’ self-pacing and autonomous learning, our results indicate that these same features can inadvertently remove opportunities for teacher input and judgment, making them feel less autonomous and competent while using the tools in their classrooms. A few design changes can support these fundamental needs on the part of teachers, which translate to more enthusiastic, creative, and effective teaching approaches that in turn support students’ own autonomy, engagement, and learning (e.g., [[30](#Bib0030)]) both inside and outside the ALT platform.
+#### 4.4.3 Design Principles for Teacher-Supportive ALTs.
+Based on our findings, we propose five design considerations for ALTs that support teachers’ psychological needs while balancing the benefits of adaptive learning for teacher efficiency and student learning: (1) Content Customization, (2) Teacher Input Points, (3) Learning Pathway Controls, (4) Integrated Data, and (5) Points for Meaningful Connection (See Table [2](#tab2) for a description and feature recommendations based on these design considerations).
+Table 2:
+| Design Considerations | Feature Recommendations |
+| --- | --- |
+| \*\*Content Customization:\*\* Teachers reported feeling limited autonomy and competence when they could not customize content to be more culturally responsive and aligned with their teaching approach. | \*\*Context modification:\*\* Allow teachers to modify examples or terminology to improve cultural relevance\*\*Supplementary content integration:\*\* Enable teachers to add their own materials to complement platform content \*\*Pedagogical alignment:\*\* Provide options to adjust content to align with specific teaching methodologies or district standards |
+| \*\*Teacher Input Points:\*\* Teachers reported feeling limited sense of autonomy and competence when automated instructional decisions were made without opportunities for their input or oversight. | \*\*Placement review:\*\* Enable teachers to review and adjust ALT-recommended learning trajectory placement after student diagnostics\*\*Milestone approvals:\*\* Flag when students achieve teacher-set milestones and pause advancement until teacher review \*\*Override capabilities:\*\* Allow teachers to adjust trajectories in cases of assessment misalignment |
+| \*\*Learning Pathway Controls:\*\* Teachers expressed limited sense of autonomy and competence when unable to adjust student placement, pacing, or remove content. | \*\*Placement adjustment tools:\*\* Allow teachers to manually adjust where students are placed in the learning sequence\*\*Pacing controls:\*\* Enable teachers to modify student content pacing\*\*Content bypass options:\*\* Provide mechanisms to skip or remove content when students repeatedly struggle with the same material |
+| \*\*Integrated Data:\*\* Teachers expressed limited sense of competence when they found it difficult to trust and act on ALT data, especially when it conflicted with their classroom observations. | \*\*Teacher observation log:\*\* Create mechanisms for teachers to log non-platform observations that can be incorporated into platform decision-making\*\*Side-by-side data visualization:\*\* Design dashboards allowing comparison of platform data alongside teacher-collected data\*\*Discrepancy resolution tools:\*\* Provide simple interfaces for teachers to flag and resolve conflicts between observations and platform assessments |
+| \*\*Points for Meaningful Connection:\*\* Teachers expressed concern about feeling disconnected from student learning when ALTs mediated too much of the instructional process. | \*\*Enhanced facilitation support:\*\* Provide recommendations for addressing common misunderstandings through whole-group instruction or individual coaching\*\*Early intervention monitoring:\*\* Notify teachers of timely opportunities for personalized intervention\*\*Personalized support planning:\*\* Support teachers in using platform data and observations to craft individual learning plans with students |
+Features for Teacher-Supportive ALTs
+These feature recommendations address our findings on how ALT features impact teachers’ psychological needs.
+Crucially, integrating the feature recommendations outlined in Table [2](#tab2) will require careful consideration of how to maintain ALT effectiveness through targeted professional development and clear guidelines for when and how teachers can intervene while preserving the platform’s core adaptive functionalities and reliability.
+Beyond design considerations for developers, our findings also indicate that implementation approaches shape how teachers can exercise autonomy, demonstrate competence, and build relatedness. For example, getting teacher input in the selection and adoption of ALT tools would support teachers’ feelings of autonomy. Implementation support requires cross-sector scaffolding for teachers including: pedagogical integration guidance that provides professional development focused on both technical skills and teaching applications of ALT adoption; diverse implementation templates that position ALTs as teaching supplements rather than replacements; administrator guidance on conducting both teacher and student outcome centered evaluation of ALT implementation success.
+These recommendations address Asaad’s [[2](#Bib0002)] emphasis on teachers’ critical role in successful ALT implementation as well as concerns raised by previous literature and teachers in our study about AI-enabled digital learning platforms potentially hindering teacher decision-making. We offer concrete considerations for ALT design that support rather than supplant teacher expertise, while also acknowledging our findings and previous research [[10](#Bib0010), [15](#Bib0015)], which suggest that structural support, professional development, and teacher involvement in the selection of ALTs are also essential implementation factors that enable positive teacher and student outcomes with ALTs.
+### 4.5 Limitations and Future Directions
+This study provides valuable insights into teachers’ experiences with ALTs, but has several important limitations that can be addressed in future research. First, this study provides insights based on teachers’ perceptions of ALTs in relation to their own psychological needs. Our methodology relied exclusively on self-reported data through surveys and video responses without corresponding classroom observations or student perspectives. This approach, while providing rich qualitative insights into teachers’ perceptions, cannot capture the full complexity of how these tools are actually used in classroom settings or verify the reported impacts on student learning experiences.
+Second, our study provides only a snapshot of teachers’ experiences at a single point in time. As with any technology integration, teachers’ relationships with these tools likely evolve as they gain experience and as the technologies are updated. The absence of longitudinal data limits our ability to understand how teachers’ perceptions might shift over extended periods of use, potentially overlooking important implementation considerations or long-term impacts on teachers’ psychological needs.
+Third, while our sample was diverse in many respects, it consisted mostly of public school educators, all of whom were already using ALTs in their classrooms, limiting the generalizability of our findings. Future research could increase participant diversity by recruiting teachers from more diverse school settings and including perspectives from educators who may have tried and abandoned these tools, or who have chosen not to adopt them at all. Understanding implementation in varied school settings as well as perspectives from teachers resistant to ALT adoption would provide valuable more generalizable and complementary insights for technology designers and implementation specialists.
+Fourth, it is important to note that teachers’ experiences varied based on the specific ALT platforms they used, with some technologies offering more teacher-supportive features than others. Although we did not systematically compare different platforms, future research could take a comparative approach that can help identify the effects of specific design features that our findings suggest support teachers’ psychological needs with those that are more limited.
+Finally, the study occurred during a period of rapid evolution in AI capabilities and educational applications. The emergence of even more sophisticated AI-enabled learning tools, including large language models, may have influenced participant responses due to the new complexities for teacher roles and professional identity that extend beyond the implications identified in this research.
+Future research should address these limitations by employing mixed-methods approaches that combine self-reported data with classroom observations and student outcomes. Longitudinal studies tracking teachers’ experiences from initial ALT implementation through sustained use would illuminate how their psychological needs are impacted over time and identify critical support points in the adoption process. Additionally, comparative and causal studies examining teachers’ experiences across different ALT platforms with varying design features would help isolate the specific technological characteristics that best support teacher autonomy, competence, and relatedness. Future research should also examine how impacts on teachers translate to student experiences and outcomes with digital learning platforms. To further complement this work, more research on student experiences with ALTs, in their own words, is needed. Applying this same approach would yield further design and implementation considerations to inform the future development of these tools.
+## 5 Conclusion
+While previous literature has examined how ALTs can effectively support student learning, their impact on teachers has received far less attention. Our study demonstrates that ALTs’ impact on teachers’ psychological needs is nuanced and heavily dependent on design features that either enable or constrain teacher autonomy, competence, and relatedness. As Niemiec and Ryan [[26](#Bib0026)] argued, supporting teachers’ psychological needs is crucial for maintaining their motivation and effectiveness, which in turn affects student learning outcomes. Indeed, our findings suggest that when ALTs support teachers’ psychological needs, they are able to better support student learning. Future ALT development, especially in the age of AI-enabled automation, should prioritize features that enhance rather than supplant teacher expertise, ensuring these tools serve as supports rather than constraints for effective teaching practice.
+## 6 Selection and Participation of Children
+No children participated in this work.
+## Acknowledgments
+We would like to thank all of the teachers who took the time to share their experiences with us, and acknowledge the contributions of Sehee Jung, the undergraduate research assistant who supported data analysis on this project.
+## A List of Adaptive Learning Tools
+Table 3:
+| %(n) |
+| --- |
+| Non-Adaptive Tool (responses varied) | 36.2 (17) |
+| I-Ready | 34.0 (16) |
+| IXL (includes Flex Math) | 31.9 (15) |
+| Prodigy | 21.3 (10) |
+| Lexia (includes Power up) | 19.1 (9) |
+| Newsela | 17.0 (8) |
+| DreamBox | 14.9 (7) |
+| Imagine Learning (includes Imagine Math, Imagine Literacy, Edgenuity) | 10.6 (5) |
+| Learning A-Z (includes Raz-Kids, Reading A-Z) | 10.6 (5) |
+| NWEA | 10.6 (5) |
+| Reflex (includes Reflex Math) | 10.6 (5) |
+| Renaissance (includes Freckle, Star, Lalilo, myON, Accelerated Reader) | 10.6 (5) |
+| Dreamscape | 6.4 (3) |
+| Edmentum (includes Exact Path) | 6.4 (3) |
+| NoRedInk | 6.4 (3) |
+| Savvas (includes Savvas Realize) | 6.4 (3) |
+| Khan Academy | 6.4 (3) |
+| Achieve 3000 | 4.3 (2) |
+| ALEKS | 4.3 (2) |
+| Istation | 4.3 (2) |
+| LightSail | 4.3 (2) |
+| Quill | 4.3 (2) |
+| Quizizz | 4.3 (2) |
+| Adaptive Learning | 2.1 (1) |
+| Amplio | 2.1 (1) |
+| EdApp | 2.1 (1) |
+| Education Galaxy | 2.1 (1) |
+| GO Math | 2.1 (1) |
+| Headsprouts | 2.1 (1) |
+| Knewton Alta | 2.1 (1) |
+| M Class | 2.1 (1) |
+| Mastery Education | 2.1 (1) |
+| Math Seeds | 2.1 (1) |
+| Moby Max | 2.1 (1) |
+| Quizalize | 2.1 (1) |
+| Read Theory | 2.1 (1) |
+| Reading Eggs | 2.1 (1) |
+| System 44 | 2.1 (1) |
+| Symphony Math | 2.1 (1) |
+| Unique/News2you | 2.1 (1) |
+| Xtra Math | 2.1 (1) |
+| Zearn | 2.1 (1) |
+Adaptive learning tools mentioned by participants in the screener survey and Part 1.
+## B Codebook
+Table 4:
+| Code | Definition |
+| --- | --- |
+| FEATURE (Code Category) |
+| \*\*Choice and Control (Parent Code)\*\* | Use for excerpts referring to teachers’ ability to exercise choiceand control over content, skills, or pacing in the platform. |
+| Choosing what content students work on in the platform | The tool allows teachers to assign learning content withinthe platform. |
+| Choosing target skills for students to focus on in the platform | The tool allows teachers to choose specific skills or standardswithin the platform for students to focus their learning. |
+| Choosing student pacing in the platform | The tool gives teachers some degree of control over the paceat which students progress through learning content. |
+| Controlling where students are placed in the adaptive learning trajectory | The tool gives teachers control over the level at which studentsare placed. |
+| \*\*Data (Parent Code)\*\* | Use for excerpts referring to the different data points thetool collects, utilizes, and presents. |
+| Real-time data | The tool provides data about student progress in real time. |
+| Assessment data | The tool provides data from assessments of student learning. |
+| Student placement/diagnostic/progress | The tool provides a snapshot or ongoing data about wherestudents are at in their understanding of different topics. |
+| Data visualization | The tool creates visualizations of student data(e.g., dashboards, etc). |
+| Data accuracy | The tool provides student learning data that are more or lessaccurate than what the teacher would have been able to collectthrough other sources (comparison is present). |
+| \*\*Learning Content (Parent Code)\*\* | Use for excerpts referring to the type, quality, or presentationof the tool’s learning content. |
+| Standards alignment | The tool provides built-in curriculum that is aligned and readyto use to teach preset grade-level teachingrequirements. |
+| Pre-developed (ready to use) | The tool provides learning content that is pre-madeand ready for teachers to assign. |
+| Adaptive content | Learning content adjusts automatically based onthe student’s performance data. |
+| Assessments | The tool provides assessments (baseline and/orformative) of students’ learning, concept mastery, orunderstanding of a topic. |
+| Variety of topics | The tool provides learning content that supports abreadth of skills and/or topics. |
+| Differentiated instruction | The tool provides individualized learning paths foreach student in its built-in content. |
+| \*\*In-tool Recommendations (Parent Code)\*\* | Use for excerpts referring to recommendations thatthe tool automatically provides, including for usewithin the tool. |
+| Recommended grouping | The tool automatically recommends studentgroupings based on student performance data. |
+| Automatic student placement | The tool automatically places students within thelearning trajectory based on student performancedata. |
+| \*\*User Interaction (Parent Code)\*\* | Use for excerpts referring to design features of thewebsite and learning content, and how that impactsusers’ interactions with the tool. |
+| Online/On-screen interface | The nature of the platform is that it is online (i.e.,not in-person learning). Refers to teachers’interaction with the online platformtools/features/website. |
+| Gamification/engagingness | The tool makes the platform engaging for students touse, either through gamification features or otherfeatures. |
+| \*\*IMPLEMENTATION (Code Category)\*\* |
+| \*\*Choice and Control (Parent Code)\*\* | Use for excerpts referring to teachers’ ability toexercise choice and control over how the tool is usedin the classroom and in their teaching practice. |
+| Being able to use the technology flexibly in the classroom | The teacher is able to choose how to use the tool intheir classroom flexibly, and can shift how the tool isused to fit their needs. |
+| Choice over how the technology is used in the classroom | The teacher has some degree of agency to choosehow the tool is being used in the classroom, includingchoice over what tool is used, when, and for whatpurpose. |
+| \*\*Data (Parent Code)\*\* | Use for excerpts referring to the way teachers utilize differentdata points presented by the tool. |
+| Being able to group students based on data provided |
+| by the platform | Student learning data from the platform are used by the teacherto create student groupings in the classroom. |
+| Differentiated instruction/student support | The teacher uses data from the tool to inform how theydifferentiate their own instruction or provide support to theirstudents. Data from the tool is used to provide learners withindividualized learning paths. |
+| Being able to determine if teaching is effective using assessment data | Student assessment data from the platform are used by theteacher to evaluate their own teaching and determine ifinstruction is effective for student learning. |
+| Using student data to help communicate progress with others | The teacher utilizes data from the platform to communicateprogress with stakeholders (e.g., parents and families,administrators, etc). |
+| Identify learning gaps | The teacher uses student learning data from the platform toidentify students in need of additional support or remediation,and identify larger classroom-level learning gaps. |
+| \*\*Teacher Engagement with Students (Parent Code)\*\* | Use for excerpts that refer to implementations of the tool thatimpact the ways in which teachers interact with and engagewith their students. |
+| Opens up opportunities for engaging with students | Aspects of the tool (e.g., learning content, gamified content)create opportunities for teachers to talk or communicate withstudents and/or opportunities for teachers to provide studentswith personalized and relevant content (i.e., making kids feel“seen” or “listened to”). |
+| Student misuse | When students engage with the technology, they are misusing it(e.g., cheating, selecting random answers, speeding, etc). |
+| Being able to have students use the technology as |
+| independent work-time | Students are able to spend time working on the technologyindependently with limited teacher intervention. |
+| Teachers being more hands-off/ |
+| Teachers have more time for other tasks | When students use the technology independently, teachersspend less time doing hands-on learning. |
+| \*\*SELF-DETERMINATION THEORY (SDT) (Code Category)\*\* |
+| \*\*Support (Parent Code)\*\* | Use in conjunction with one or more feature/implementationcode. Each excerpt will receive only oneself-determination theory code at the child code level(either support or hinderance). |
+| Autonomy Support | The feature/implementation supports the teacher’sautonomy. |
+| Competence Support | The feature/implementation supports the teacher’scompetence. |
+| Relatedness Support | The feature/implementation supports the teacher’srelatedness. |
+| \*\*Hinderance (Parent Code)\*\* | Use in conjunction with one or morefeature/implementation code. Each excerpt will receiveonly one self-determination theory code at the childcode level (either support or hinderance). |
+| Autonomy Hinderance | The feature/implementation hinders the teacher’sautonomy. |
+| Competence Hinderance | The feature/implementation hinders the teacher’scompetence. |
+| Relatedness Hinderance | The feature/implementation hinders the teacher’srelatedness. |
+Codebook
+## C Full dscout Survey
+### C.1 Screening Survey
+1. Are you…
+(a) Employed full time (30 hours +)
+(b) Employed part time (KO)
+(c) Temporarily unemployed (KO)
+(d) Retired (KO)
+(e) Homemaker (KO)
+(f) Student (KO)
+2. In which field do you work in?
+(a) Legal (KO)
+(b) Education
+(c) Technology (KO)
+(d) Marketing/Sales (KO)
+(e) Finance (KO)
+(f) Accounting (KO)
+(g) None of the above (KO)
+3. Which best describes your role within education?
+(a) Early Childhood Teacher
+(b) Early Childhood Paraprofessional
+(c) Early Childhood Classroom Aide/Teaching Assistant
+(d) K-12 Teacher (Must select →)
+(e) K-12 Specialist
+(f) K-12 Paraprofessional
+(g) K-12 Classroom Aide/Teaching Assistant
+(h) K-12 Administrator
+(i) K-12 Department Chair
+(j) K-12 Guidance Counselor or Social Worker
+(k) Higher Education Professor
+(l) Higher Education Advisor
+(m) Higher Education Dean
+(n) Higher Education Department Chair
+(o) Higher Education Teaching Assistant
+(p) Other (Tap to type)
+4. You mentioned that you are a K-12 teacher. What is your current K-12 teaching FTE?
+(a).4 or less (KO)
+(b).5 (KO)
+(c).6 (KO)
+(d).7 (KO)
+(e).8
+(f).9
+(g) 1.0 or higher
+5. Which grade(s) do you teach? (Select all that apply)
+(a) Pre-K (KO)
+(b) K
+(c) 1
+(d) 2
+(e) 3
+(f) 4
+(g) 5
+(h) 6
+(i) 7
+(j) 8
+(k) 9
+(l) 10
+(m) 11
+(n) 12
+(o) Other (Tap to type)
+6. In which department(s) or subject matter do you teach? (Select all that apply)
+(a) English Language Arts/Literature
+(b) Social Studies
+(c) History
+(d) Religion
+(e) World Languages/Foreign Language
+(f) Special Education
+(g) Music
+(h) Art
+(i) Physical Education
+(j) Health
+(k) English as a Second Language/Culturally and Linguistically Diverse Students/English Language Learners
+(l) Music/Band/Choir
+(m) Theatre/Film
+(n) Dance
+(o) Science
+(p) Math
+(q) General Education
+(r) Other (Tap to type)
+7. What type of school setting do you teach in?
+(a) Public
+(b) Private
+(c) Charter
+(d) Home school
+(e) Online school
+(f) Other (Tap to type)
+8. How \\*recently\\* did you use \\*adaptive learning software\\* in your teaching?
+Adaptive learning technologies are digital learning platforms that respond to students’ current level of understanding by automatically providing students with individualized learning content and performance feedback. Examples of these tools include ALEKS, Dreambox Learning, and Lexia.
+(a) In the last day
+(b) In the last week
+(c) In the last month
+(d) In the most recent school quarter/trimester
+(e) In the most recent school year
+(f) Last school year (SY21-22)
+(g) SY20-21
+(h) SY19-20
+(i) Before SY19-20 (KO)
+(j) I don’t use adaptive learning software in my teaching. (KO)
+9. Please list the adaptive learning software that you use, (beginning with those you use most regularly).
+10. How frequently do you utilize adaptive learning technologies while teaching?
+Remember! Adaptive learning technologies are digital learning platforms that respond to students’ current level of understanding by automatically providing students with individualized learning content and performance feedback. Examples of these tools include ALEKS, Dreambox Learning, and Lexia.
+(a) Every day
+(b) Every week
+(c) Quarterly
+(d) Once a semester
+(e) Once a school year
+(f) Other (Tap to type)
+11. How do you use adaptive learning technologies in your classroom?
+(a) As a summative assessment tool
+(b) As a formative assessment tool
+(c) Both summative and formative assessment tool
+(d) Other (Tap to type)
+12. What student populations do you use these technologies with? (Select all that apply)
+(a) General Classroom
+(b) Students in need of remediation support
+(c) Students with disabilities
+(d) Multilingual or English as a Second Language Students
+(e) Other (Tap to type)
+13. On a scale of 1 to 5, where 1 = No benefit at all and 5 = Extremely beneficial, how would you rate adaptive learning technology in your classroom as a teacher?
+14. In 2-4 sentences, tell us: \\*What, if any, are some benefits you experience as a teacher when you use adaptive learning technology in your classroom?\\*
+If you do NOT find adaptive learning technology beneficial in your classroom, in 2-4 sentences, tell us more about why you feel that way.
+15. Are there drawbacks for you as the teacher to using adaptive learning technology in your classroom?
+(a) Yes
+(b) No (SKIP to Q17)
+16. Briefly, what are some of the drawbacks you experience as a teacher when using adaptive learning technology in your classroom?
+17. In a 1-minute selfie video, please tell us about the adaptive learning technology that you use the most often and the features that bring the most value to you as a teacher.
+### C.2 Part 3 of dscout Survey
+\*\*Part 3 - Empowered Through Tech\*\*
+\*\*INSTRUCTIONS\*\*
+Welcome to Part 3! We’d love to get your reactions to some statements.
+First, a quick refresher as to how we are defining adaptive learning technologies. \*\*\*Adaptive learning technologies are digital learning platforms that respond to students’ current level of understanding by automatically providing students with individualized learning content and performance feedback. Examples of these tools include ALEKS, Dreambox Learning, and Lexia.\*\*\*
+Please keep that definition in mind as you work through this mission.
+\*In this part of the mission, we want you to think of the adaptive learning technology that\*\*\*\*best\*\* supports you and your teaching. This should be a technology that you feel very familiar and comfortable with and have a strong understanding of.\*\*\*\*Preferably, this would be the same technology you thought of in Part 2.\*\* You’ll want to keep only that specific adaptive technology in mind as you answer these questions.  If you can’t recall the technology you stated in Part 2, you can review your Part 2 entry in the dscout app or message your mission leader.\*
+1. In at least three (3) sentences, please describe one feature of the adaptive learning technology that makes you feel like you have choice and control over your own work as a teacher. (Please be as detailed as possible in your response.)
+2. Is there a particular feature of adaptive learning technology that makes you feel like you are being controlled, and that you do not have as much of a choice about your own work as a teacher?
+(a) Yes
+(b) No (End →)
+\*[this question will ONLY be answered by scouts who select YES in Q2] In a video up to 3-minutes long, tell us about any ways in which using adaptive technologies makes you feel like you are not in control or that your choices are limited. (Please be as detailed as possible in your response).\*
+### C.3 Part 4 of dscout Survey
+\*\*Part 4 - Feeling Smart\*\*
+\*\*INSTRUCTIONS\*\*
+Welcome to your fourth part! We’d love to get your reactions to some statements about adaptive technology and how it makes you feel as a teacher.
+\*For purposes of this study, we define adaptive learning as follows:\*
+\*\*\*Adaptive learning technologies are digital learning platforms that respond to students’ current level of understanding by automatically providing students with individualized learning content and performance feedback. Examples of these tools include ALEKS, Dreambox Learning, and Lexia.\*\*\*
+Please keep that definition in mind as you work through this mission.
+Before you start this part of the mission, think of the adaptive learning technology that best supports you and your teaching. \*\*Preferably, this would be the same technology you thought of in Parts 2 and 3.\*\* You’ll want to keep only that specific adaptive tool in mind as you answer these questions.
+1. In a short video (5-minutes or less), tell us:
+(a) What are some of the attributes of the adaptive learning technology you use that make you feel \*\*most effective\*\* as an educator?
+(b) What attributes make you feel \*\*less effective\*\* as an educator?
+\*Take some time to think about both parts before you answer.\*
+2. As part of this study, we are trying to get a sense of how teachers define certain ideas. In 2-4 sentences, please tell us about what it means for you as a teacher to be \*\*competent at your job\*\*?
+### C.4 Part 5 of dscout Survey
+\*\*Part 5 - Connecting with Students Through Tech\*\*
+\*\*INSTRUCTIONS\*\*
+Welcome to your fifth and final part! We’d love to get your reactions to some more statements about adaptive technology and how you connect to your students through it.
+Here’s that definition of adaptive learning technology one more time!
+\*\*\*Adaptive learning technologies are digital learning platforms that respond to students’ current level of understanding by automatically providing students with individualized learning content and performance feedback. Examples of these tools include ALEKS, Dreambox Learning, and Lexia.\*\*\*
+Please keep that definition in mind as you work through this mission.
+In this part of the mission, we want you to think of the adaptive learning technology that \*\*best\*\* supports you and your teaching. \*\*This should be a technology that you feel very familiar and comfortable with and have a strong understanding of. Preferably, this would be the same technology you thought of in Parts 2, 3, and 4.\*\* You’ll want to keep only that specific adaptive tool in mind as you answer these questions.
+1. As part of this study, we are trying to get a sense of how teachers define certain ideas. In 2-4 sentences, please tell us what it means for you as a teacher to \*\*foster a meaningful connection\*\* with your students?
+2. To what extent do you agree or disagree with the following statement?  \*\*The adaptive technology I use in my teaching helps me relate to students in new or different ways.\*\*
+(a) 1 - Strongly Disagree
+(b) 2 - Disagree
+(c) 3 - Somewhat Disagree
+(d) 4 - Neither Agree Nor Disagree
+(e) 5 - Somewhat Agree
+(f) 6 - Agree
+(g) 7 - Strongly Agree
+3. You said that you [PIPE Q2 RESPONSE] with the statement “\*\*The adaptive software I use in my teaching helps me relate to students in new or different ways.\*\*” In 2-4 sentences, please tell us more about your rating.
+4. Think about the pros and cons of the adaptive learning technology that best supports you and your teaching. \*\*Would you say that the value this tool brings for you and your teaching is worth any trade-offs you make in your autonomy as an instructor, sense of competence, or connections with your students? Why or why not?\*\* (Please be as detailed as possible in your response.)
+## Footnotes
+1
+
+2
+## References
+[1]
+Wilfried Admiraal, Jordi Vermeulen, and Jacquelien Bulterman-Bos. 2020. Teaching with learning analytics: How to connect computer-based assessment data with classroom instruction? \*Technology, Pedagogy and Education\* 29, 5 (Oct. 2020), 577–591. Publisher: Routledge \\_eprint: .
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teaching+with+learning+analytics%3A+How+to+connect+computer-based+assessment+data+with+classroom+instruction%3F&author=Wilfried+Admiraal&author=Jordi+Vermeulen&author=Jacquelien+Bulterman-Bos&publication\_year=2020&pages=577-591&doi=10.1080%2F1475939X.2020.1825992)
+[2]
+Diana Asaad. 2017. \*Personalized Adaptive Learning Impact on the Student Experience: Stakeholders’ Perspectives\*. Ph. D. Dissertation. National American University.
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Personalized+Adaptive+Learning+Impact+on+the+Student+Experience%3A+Stakeholders%E2%80%99+Perspectives&author=Diana+Asaad&publication\_year=2017)
+[3]
+James D. Basham, Tracey E. Hall, Richard A. Carter, and William M. Stahl. 2016. An Operationalized Understanding of Personalized Learning. \*Journal of Special Education Technology\* 31, 3 (2016), 126–136.
+[Crossref](https://doi.org/10.1177/0162643416660835)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An+Operationalized+Understanding+of+Personalized+Learning&author=James%C2%A0D.+Basham&author=Tracey%C2%A0E.+Hall&author=Richard%C2%A0A.+Carter&author=William%C2%A0M.+Stahl&publication\_year=2016&pages=126-136&doi=10.1177%2F0162643416660835)
+[4]
+Liz Bennett and Sue Folley. 2020. Dashboard literacy: Understanding students’ response to learning analytic dashboards. In \*Mobility, Data and Learner Agency in Networked Learning\*, Nina Bonderup Dohn, Petar Jandrić, Thomas Ryberg, and Maarten de Laat (Eds.). Springer International Publishing, Cham, 69–82.
+[Crossref](https://doi.org/10.1007/978-3-030-36911-8\_5)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Dashboard+literacy%3A+Understanding+students%E2%80%99+response+to+learning+analytic+dashboards&author=Liz+Bennett&author=Sue+Folley&publication\_year=2020&pages=69-82&doi=10.1007%2F978-3-030-36911-8\_5)
+[5]
+Andrea J. Bingham, John F. Pane, Elizabeth D. Steiner, and Laura S. Hamilton. 2018. Ahead of the curve: Implementation challenges in personalized learning school models. \*Educational Policy\* 32, 3 (May 2018), 454–489. Publisher: SAGE Publications Inc.
+[Crossref](https://doi.org/10.1177/0895904816637688)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Ahead+of+the+curve%3A+Implementation+challenges+in+personalized+learning+school+models&author=Andrea%C2%A0J.+Bingham&author=John%C2%A0F.+Pane&author=Elizabeth%C2%A0D.+Steiner&author=Laura%C2%A0S.+Hamilton&publication\_year=2018&pages=454-489&doi=10.1177%2F0895904816637688)
+[6]
+Virginia Braun and Victoria Clarke. 2006. Using thematic analysis in psychology. \*Qualitative Research in Psychology\* 3, 2 (Jan. 2006), 77–101. Publisher: Routledge \\_eprint: .
+[Crossref](https://doi.org/10.1191/1478088706qp063oa)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using+thematic+analysis+in+psychology&author=Virginia+Braun&author=Victoria+Clarke&publication\_year=2006&pages=77-101&doi=10.1191%2F1478088706qp063oa)
+[7]
+Garvin Brod, Natalia Kucirkova, Joshua Shepherd, Dietsje Jolles, and Inge Molenaar. 2023. Agency in educational technology: Interdisciplinary perspectives and implications for learning design. \*Educational Psychology Review\* 35, 1 (March 2023), 25.
+[Crossref](https://doi.org/10.1007/s10648-023-09749-x)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Agency+in+educational+technology%3A+Interdisciplinary+perspectives+and+implications+for+learning+design&author=Garvin+Brod&author=Natalia+Kucirkova&author=Joshua+Shepherd&author=Dietsje+Jolles&author=Inge+Molenaar&publication\_year=2023&pages=25&doi=10.1007%2Fs10648-023-09749-x)
+[8]
+Leona Colling, Mareike Kholin, and Detmar Meurers. 2024. A Learning Analytics Dashboard for K-12 English Teachers - Bridging the Gap Between Student Process Data and Teacher Needs. In \*Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization\*. ACM, Cagliari Italy, 538–548.
+[Digital Library](/doi/10.1145/3631700.3665228)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A+Learning+Analytics+Dashboard+for+K-12+English+Teachers+-+Bridging+the+Gap+Between+Student+Process+Data+and+Teacher+Needs&author=Leona+Colling&author=Mareike+Kholin&author=Detmar+Meurers&publication\_year=2024&pages=538-548&doi=10.1145%2F3631700.3665228)
+[9]
+Anthony J. Conger. 1980. Integration and generalization of kappas for multiple raters. \*Psychological Bulletin\* 88, 2 (1980), 322–328. Place: US Publisher: American Psychological Association.
+[Crossref](https://doi.org/10.1037/0033-2909.88.2.322)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Integration+and+generalization+of+kappas+for+multiple+raters&author=Anthony%C2%A0J.+Conger&publication\_year=1980&pages=322-328&doi=10.1037%2F0033-2909.88.2.322)
+[10]
+Riddhi A. Divanji, Samantha Bindman, Allie Tung, Katharine Chen, Lisa Castaneda, and Mike Scanlon. 2023. A one stop shop? Perspectives on the value of adaptive learning technologies in K-12 education. \*Computers and Education Open\* 5 (Dec. 2023), 100157.
+[Crossref](https://doi.org/10.1016/j.caeo.2023.100157)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A+one+stop+shop%3F+Perspectives+on+the+value+of+adaptive+learning+technologies+in+K-12+education&author=Riddhi%C2%A0A.+Divanji&author=Samantha+Bindman&author=Allie+Tung&author=Katharine+Chen&author=Lisa+Castaneda&author=Mike+Scanlon&publication\_year=2023&pages=100157&doi=10.1016%2Fj.caeo.2023.100157)
+[11]
+EdSurge. 2016. \*Decoding Adaptive\*. Technical Report. Pearson, London. 1–33 pages.
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Decoding+Adaptive&author=EdSurge&publication\_year=2016&pages=1-33)
+[12]
+Hassan A. El-Sabagh. 2021. Adaptive e-learning environment based on learning styles and its impact on development students’ engagement. \*International Journal of Educational Technology in Higher Education\* 18, 1 (Dec. 2021). Publisher: Springer Science and Business Media Deutschland GmbH.
+[Crossref](https://doi.org/10.1186/S41239-021-00289-4)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Adaptive+e-learning+environment+based+on+learning+styles+and+its+impact+on+development+students%E2%80%99+engagement&author=Hassan%C2%A0A.+El-Sabagh&publication\_year=2021&doi=10.1186%2FS41239-021-00289-4)
+[13]
+Bryan Forsyth, Carmen Kimble, James Birch, Gary Deel, and Trisha Brauer. 2016. Maximizing the adaptive learning technology experience. \*Journal of Higher Education Theory and Practice\* 16, 4 (2016), 80–88.
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Maximizing+the+adaptive+learning+technology+experience&author=Bryan+Forsyth&author=Carmen+Kimble&author=James+Birch&author=Gary+Deel&author=Trisha+Brauer&publication\_year=2016&pages=80-88)
+[14]
+Ilana Hamilton. 2024. Artificial Intelligence In Education: Teachers’ Opinions On AI In The Classroom.  Section: IT and Tech.
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial+Intelligence+In+Education%3A+Teachers%E2%80%99+Opinions+On+AI+In+The+Classroom&author=Ilana+Hamilton&publication\_year=2024)
+[15]
+Emma Harvey, Allison Koenecke, and Rene F. Kizilcec. 2025. "Don’t Forget the Teachers": Towards an Educator-Centered Understanding of Harms from Large Language Models in Education. arxiv: [cs.CY] 
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=%22Don%E2%80%99t+Forget+the+Teachers%22%3A+Towards+an+Educator-Centered+Understanding+of+Harms+from+Large+Language+Models+in+Education&author=Emma+Harvey&author=Allison+Koenecke&author=Rene%C2%A0F.+Kizilcec&publication\_year=2025)
+[16]
+Iris Huis in’t Veld and Michael Nagenborg. 2019. It’s getting personal: The ethical and educational implications of personalised learning technology. \*Journal of Philosophy in Schools\* 6, 1 (May 2019), 44–62.
+[Crossref](https://doi.org/10.21913/JPS.v6i1.1567)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=It%E2%80%99s+getting+personal%3A+The+ethical+and+educational+implications+of+personalised+learning+technology&author=Iris+Huis%C2%A0in%E2%80%99t+Veld&author=Michael+Nagenborg&publication\_year=2019&pages=44-62&doi=10.21913%2FJPS.v6i1.1567)
+[17]
+Reet Kasepalu, Pankaj Chejara, Luis P. Prieto, and Tobias Ley. 2022. Do Teachers Find Dashboards Trustworthy, Actionable and Useful? A Vignette Study Using a Logs and Audio Dashboard. \*Technology, Knowledge and Learning\* 27, 3 (Sept. 2022), 971–989.
+[Crossref](https://doi.org/10.1007/s10758-021-09522-5)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Do+Teachers+Find+Dashboards+Trustworthy%2C+Actionable+and+Useful%3F+A+Vignette+Study+Using+a+Logs+and+Audio+Dashboard&author=Reet+Kasepalu&author=Pankaj+Chejara&author=Luis%C2%A0P.+Prieto&author=Tobias+Ley&publication\_year=2022&pages=971-989&doi=10.1007%2Fs10758-021-09522-5)
+[18]
+Trynke Keuning and Marieke Van Geel. 2021. Differentiated teaching with adaptive learning systems and teacher dashboards: The teacher still matters most. \*IEEE Transactions on Learning Technologies\* 14, 2 (April 2021), 201–210. Publisher: Institute of Electrical and Electronics Engineers Inc.
+[Crossref](https://doi.org/10.1109/TLT.2021.3072143)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Differentiated+teaching+with+adaptive+learning+systems+and+teacher+dashboards%3A+The+teacher+still+matters+most&author=Trynke+Keuning&author=Marieke+Van%C2%A0Geel&publication\_year=2021&pages=201-210&doi=10.1109%2FTLT.2021.3072143)
+[19]
+Vasiliy Kolchenko. 2018. Can modern AI replace teachers? Not so fast! Artificial intelligence and adaptive learning: Personalized education in the AI age. \*HAPS Educator\* 22, 3 (Dec. 2018), 249–252.
+[Crossref](https://doi.org/10.21692/haps.2018.032)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Can+modern+AI+replace+teachers%3F+Not+so+fast%21+Artificial+intelligence+and+adaptive+learning%3A+Personalized+education+in+the+AI+age&author=Vasiliy+Kolchenko&publication\_year=2018&pages=249-252&doi=10.21692%2Fhaps.2018.032)
+[20]
+Tristan Kumor, Lida Uribe-Flórez, Jesús Trespalacios, and Dazhi Yang. 2024. ALEKS in high school mathematics classrooms: Exploring teachers’ perceptions and use of this tool. \*TechTrends\* 68, 3 (May 2024), 506–519.
+[Crossref](https://doi.org/10.1007/s11528-024-00955-0)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=ALEKS+in+high+school+mathematics+classrooms%3A+Exploring+teachers%E2%80%99+perceptions+and+use+of+this+tool&author=Tristan+Kumor&author=Lida+Uribe-Fl%C3%B3rez&author=Jes%C3%BAs+Trespalacios&author=Dazhi+Yang&publication\_year=2024&pages=506-519&doi=10.1007%2Fs11528-024-00955-0)
+[21]
+Holly Kurtz, Sterling Lloyd, Alex Harwin, Xinchun Chen, and Yukiko Furuya. 2019. \*Personalized learning: Results of a national survey\*. Technical Report. EdWeek Research Center. 
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Personalized+learning%3A+Results+of+a+national+survey&author=Holly+Kurtz&author=Sterling+Lloyd&author=Alex+Harwin&author=Xinchun+Chen&author=Yukiko+Furuya&publication\_year=2019)
+[22]
+Alexandre Lepage and Simon Collin. 2024. Preserving teacher and student agency: Insights from a literature review. In \*Creative Applications of Artificial Intelligence in Education\*, Alex Urmeneta and Margarida Romero (Eds.). Palgrave Macmillan, Cham.
+[Crossref](https://doi.org/10.1007/978-3-031-55272-4\_2)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Preserving+teacher+and+student+agency%3A+Insights+from+a+literature+review&author=Alexandre+Lepage&author=Simon+Collin&publication\_year=2024&doi=10.1007%2F978-3-031-55272-4\_2)
+[23]
+Inge Molenaar. 2021. Personalisation of learning: Towards hybrid human-AI learning technologies. In \*OECD Digital Education Outlook 2021: Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots\*. OECD Publishing, 57–77. Google-Books-ID: Yj8yEAAAQBAJ.
+[Crossref](https://doi.org/10.1787/589b283f-en)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Personalisation+of+learning%3A+Towards+hybrid+human-AI+learning+technologies&author=Inge+Molenaar&publication\_year=2021&pages=57-77&doi=10.1787%2F589b283f-en)
+[24]
+Inge Molenaar and Carolien A. N. Knoop-van Campen. 2019. How teachers make dashboard information actionable. \*IEEE Transactions on Learning Technologies\* 12, 3 (July 2019), 347–355. Conference Name: IEEE Transactions on Learning Technologies.
+[Digital Library](/doi/10.1109/TLT.2018.2851585)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=How+teachers+make+dashboard+information+actionable&author=Inge+Molenaar&author=Carolien+A.%C2%A0N.+Knoop-van+Campen&publication\_year=2019&pages=347-355&doi=10.1109%2FTLT.2018.2851585)
+[25]
+Tanya Nazaretsky, Mutlu Cukurova, Moriah Ariely, and Giora Alexandron. 2021. Confirmation bias and trust: Human factors that influence teachers’ attitudes towards AI-based educational technology. In \*CEUR Workshop Proceedings\*, Vol. 3042. Bozen-Bolzano, Italy.
+[Crossref](https://doi.org/10.35542/osf.io/dzqju)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Confirmation+bias+and+trust%3A+Human+factors+that+influence+teachers%E2%80%99+attitudes+towards+AI-based+educational+technology&author=Tanya+Nazaretsky&author=Mutlu+Cukurova&author=Moriah+Ariely&author=Giora+Alexandron&publication\_year=2021&doi=10.35542%2Fosf.io%2Fdzqju)
+[26]
+Christopher P. Niemiec and Richard M. Ryan. 2009. Autonomy, competence, and relatedness in the classroom: Applying self-determination theory to educational practice. \*Theory and Research in Education\* 7, 2 (July 2009), 133–144. Publisher: SAGE Publications.
+[Crossref](https://doi.org/10.1177/1477878509104318)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Autonomy%2C+competence%2C+and+relatedness+in+the+classroom%3A+Applying+self-determination+theory+to+educational+practice&author=Christopher%C2%A0P.+Niemiec&author=Richard%C2%A0M.+Ryan&publication\_year=2009&pages=133-144&doi=10.1177%2F1477878509104318)
+[27]
+Luc G. Pelletier, Chantal Séguin-Lévesque, and Louise Legault. 2002. Pressure from above and pressure from below as determinants of teachers’ motivation and teaching behaviors. \*Journal of Educational Psychology\* 94, 1 (2002), 186–196. Place: US Publisher: American Psychological Association.
+[Crossref](https://doi.org/10.1037/0022-0663.94.1.186)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Pressure+from+above+and+pressure+from+below+as+determinants+of+teachers%E2%80%99+motivation+and+teaching+behaviors&author=Luc%C2%A0G.+Pelletier&author=Chantal+S%C3%A9guin-L%C3%A9vesque&author=Louise+Legault&publication\_year=2002&pages=186-196&doi=10.1037%2F0022-0663.94.1.186)
+[28]
+Johnmarshall Reeve. 2012. A self-determination theory perspective on student engagement. In \*Handbook of Research on Student Engagement\*, Sandra L. Christenson, Amy L. Reschly, and Cathy Wylie (Eds.). Springer US, Boston, MA, 149–172.
+[Crossref](https://doi.org/10.1007/978-1-4614-2018-7\_7)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A+self-determination+theory+perspective+on+student+engagement&author=Johnmarshall+Reeve&publication\_year=2012&pages=149-172&doi=10.1007%2F978-1-4614-2018-7\_7)
+[29]
+Robert A. Reiser and Donald P. Ely. 1997. The Field of Educational Technology as Reflected through Its Definitions. \*Educational Technology Research and Development\* 45, 3 (1997), 63–72. 
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The+Field+of+Educational+Technology+as+Reflected+through+Its+Definitions&author=Robert%C2%A0A.+Reiser&author=Donald%C2%A0P.+Ely&publication\_year=1997&pages=63-72)
+[30]
+Guy Roth, Avi Assor, Yaniv Kanat-Maymon, and Haya Kaplan. 2007. Autonomous motivation for teaching: How self-determined teaching may lead to self-determined learning. \*Journal of Educational Psychology\* 99, 4 (2007), 761–774. Place: US Publisher: American Psychological Association.
+[Crossref](https://doi.org/10.1037/0022-0663.99.4.761)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Autonomous+motivation+for+teaching%3A+How+self-determined+teaching+may+lead+to+self-determined+learning&author=Guy+Roth&author=Avi+Assor&author=Yaniv+Kanat-Maymon&author=Haya+Kaplan&publication\_year=2007&pages=761-774&doi=10.1037%2F0022-0663.99.4.761)
+[31]
+Richard M. Ryan and Edward L. Deci. 2020. Intrinsic and extrinsic motivation from a self-determination theory perspective: Definitions, theory, practices, and future directions. \*Contemporary Educational Psychology\* 61 (April 2020), 101860.
+[Crossref](https://doi.org/10.1016/j.cedpsych.2020.101860)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Intrinsic+and+extrinsic+motivation+from+a+self-determination+theory+perspective%3A+Definitions%2C+theory%2C+practices%2C+and+future+directions&author=Richard%C2%A0M.+Ryan&author=Edward%C2%A0L.+Deci&publication\_year=2020&pages=101860&doi=10.1016%2Fj.cedpsych.2020.101860)
+[32]
+Nailya R. Salikhova, Martin F. Lynch, and Albina B. Salikhova. 2020. Psychological aspects of digital learning: A self-determination theory perspective. \*Contemporary Educational Technology\* 12, 2 (Oct. 2020). Publisher: Bastas.
+[Crossref](https://doi.org/10.30935/cedtech/8584)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Psychological+aspects+of+digital+learning%3A+A+self-determination+theory+perspective&author=Nailya%C2%A0R.+Salikhova&author=Martin%C2%A0F.+Lynch&author=Albina%C2%A0B.+Salikhova&publication\_year=2020&doi=10.30935%2Fcedtech%2F8584)
+[33]
+Patricia D. Simon and Lily Min Zeng. 2024. Behind the scenes of adaptive learning: A scoping review of teachers’ perspectives on the use of adaptive learning technologies. \*Education Sciences\* 14, 12 (Dec. 2024), 1413. Number: 12 Publisher: Multidisciplinary Digital Publishing Institute.
+[Crossref](https://doi.org/10.3390/educsci14121413)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Behind+the+scenes+of+adaptive+learning%3A+A+scoping+review+of+teachers%E2%80%99+perspectives+on+the+use+of+adaptive+learning+technologies&author=Patricia%C2%A0D.+Simon&author=Lily%C2%A0Min+Zeng&publication\_year=2024&pages=1413&doi=10.3390%2Feducsci14121413)
+[34]
+B. F. Skinner. 1958. Teaching Machines. \*Science\* 128, 3330 (1958), 969–977.
+[Crossref](https://doi.org/10.1126/science.128.3330.969)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teaching+Machines&author=B.%C2%A0F.+Skinner&publication\_year=1958&pages=969-977&doi=10.1126%2Fscience.128.3330.969)
+[35]
+Kevin Smith. 2018. Perceptions of preservice teachers about adaptive learning programs in K-8 mathematics education. \*Contemporary Educational Technology\* 9, 2 (April 2018), 111–130. Number: 2 Publisher: Ali ŞİMŞEK.
+[Crossref](https://doi.org/10.30935/cet.414780)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Perceptions+of+preservice+teachers+about+adaptive+learning+programs+in+K-8+mathematics+education&author=Kevin+Smith&publication\_year=2018&pages=111-130&doi=10.30935%2Fcet.414780)
+[36]
+Nathalie A. Smuha. 2020. Trustworthy Artificial Intelligence in Education: Pitfalls and Pathways. \*SSRN Electronic Journal\* (2020).
+[Crossref](https://doi.org/10.2139/ssrn.3742421)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Trustworthy+Artificial+Intelligence+in+Education%3A+Pitfalls+and+Pathways&author=Nathalie%C2%A0A.+Smuha&publication\_year=2020&doi=10.2139%2Fssrn.3742421)
+[37]
+Øystein Sørebø, Hallgeir Halvari, Vebjørn Flaata Gulli, and Roar Kristiansen. 2009. The role of self-determination theory in explaining teachers’ motivation to continue to use e-learning technology. \*Computers & Education\* 53, 4 (Dec. 2009), 1177–1187.
+[Digital Library](/doi/10.1016/j.compedu.2009.06.001)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The+role+of+self-determination+theory+in+explaining+teachers%E2%80%99+motivation+to+continue+to+use+e-learning+technology&author=%C3%98ystein+S%C3%B8reb%C3%B8&author=Hallgeir+Halvari&author=Vebj%C3%B8rn%C2%A0Flaata+Gulli&author=Roar+Kristiansen&publication\_year=2009&pages=1177-1187&doi=10.1016%2Fj.compedu.2009.06.001)
+[38]
+Jill-Jênn Vie, Fabrice Popineau, Éric Bruillard, and Yolaine Bourda. 2017. A Review of Recent Advances in Adaptive Assessment. In \*Learning Analytics: Fundaments, Applications, and Trends: A View of the Current State of the Art to Enhance e-Learning\*, Alejandro Peña-Ayala (Ed.). Vol. 94. Springer International Publishing, Cham, 113–142.
+[Crossref](https://doi.org/10.1007/978-3-319-52977-6\_4)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A+Review+of+Recent+Advances+in+Adaptive+Assessment&author=Jill-J%C3%AAnn+Vie&author=Fabrice+Popineau&author=%C3%89ric+Bruillard&author=Yolaine+Bourda&publication\_year=2017&pages=113-142&doi=10.1007%2F978-3-319-52977-6\_4)
+[39]
+Candace Walkington and Matthew L. Bernacki. 2020. Appraising research on personalized learning: Definitions, theoretical alignment, advancements, and future directions. \*Journal of Research on Technology in Education\* 52, 3 (July 2020), 235–252. Publisher: Routledge \\_eprint: .
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Appraising+research+on+personalized+learning%3A+Definitions%2C+theoretical+alignment%2C+advancements%2C+and+future+directions&author=Candace+Walkington&author=Matthew%C2%A0L.+Bernacki&publication\_year=2020&pages=235-252&doi=10.1080%2F15391523.2020.1747757)
+[40]
+Candace A. Walkington. 2013. Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. \*Journal of Educational Psychology\* 105, 4 (Nov. 2013), 932–945.
+[Crossref](https://doi.org/10.1037/a0031882)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using+adaptive+learning+technologies+to+personalize+instruction+to+student+interests%3A+The+impact+of+relevant+contexts+on+performance+and+learning+outcomes&author=Candace%C2%A0A.+Walkington&publication\_year=2013&pages=932-945&doi=10.1037%2Fa0031882)
+[41]
+David J Weiss and C David Vale. 1987. Adaptive testing. \*Applied Psychology\* 36, 3-4 (1987), 249–262.
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Adaptive+testing&author=David%C2%A0J+Weiss&author=C%C2%A0David+Vale&publication\_year=1987&pages=249-262)
+[42]
+Joshua Wilson, Cristina Ahrendt, Emily A. Fudge, Alexandria Raiche, Gaysha Beard, and Charles MacArthur. 2021. Elementary teachers’ perceptions of automated feedback and automated scoring: Transforming the teaching and learning of writing using automated writing evaluation. \*Computers & Education\* 168 (July 2021), 104208.
+[Crossref](https://doi.org/10.1016/j.compedu.2021.104208)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Elementary+teachers%E2%80%99+perceptions+of+automated+feedback+and+automated+scoring%3A+Transforming+the+teaching+and+learning+of+writing+using+automated+writing+evaluation&author=Joshua+Wilson&author=Cristina+Ahrendt&author=Emily%C2%A0A.+Fudge&author=Alexandria+Raiche&author=Gaysha+Beard&author=Charles+MacArthur&publication\_year=2021&pages=104208&doi=10.1016%2Fj.compedu.2021.104208)
+[43]
+Alyssa Friend Wise and Yeonji Jung. 2019. Teaching with Analytics: Towards a Situated Model of Instructional Decision-Making. \*Journal of Learning Analytics\* 6, 2 (July 2019).
+[Crossref](https://doi.org/10.18608/jla.2019.62.4)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teaching+with+Analytics%3A+Towards+a+Situated+Model+of+Instructional+Decision-Making&author=Alyssa%C2%A0Friend+Wise&author=Yeonji+Jung&publication\_year=2019&doi=10.18608%2Fjla.2019.62.4)
+[44]
+Haoran Xie, Hui Chun Chu, Gwo Jen Hwang, and Chun Chieh Wang. 2019. Trends and development in technology-enhanced adaptive/personalized learning: A systematic review of journal publications from 2007 to 2017. \*Computers and Education\* 140 (Oct. 2019). Publisher: Elsevier Ltd.
+[Digital Library](/doi/10.1016/J.COMPEDU.2019.103599)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Trends+and+development+in+technology-enhanced+adaptive%2Fpersonalized+learning%3A+A+systematic+review+of+journal+publications+from+2007+to+2017&author=Haoran+Xie&author=Hui%C2%A0Chun+Chu&author=Gwo%C2%A0Jen+Hwang&author=Chun%C2%A0Chieh+Wang&publication\_year=2019&doi=10.1016%2FJ.COMPEDU.2019.103599)
+## Index Terms
+1. The Impacts of Adaptive Learning Technologies on K-12 Teachers’ Sense of Autonomy, Competence, and Relatedness with Their Students
+1. [Applied computing](/topic/ccs2012/10010405?ContentGroupKey=10.1145%2F3713043&expand=all)
+1. [Education](/topic/ccs2012/10010405.10010489?ContentGroupKey=10.1145%2F3713043&expand=all)
+1. [Computer-managed instruction](/topic/ccs2012/10010405.10010489.10010496?ContentGroupKey=10.1145%2F3713043&expand=all)
+2. [Human-centered computing](/topic/ccs2012/10003120?ContentGroupKey=10.1145%2F3713043&expand=all)
+1. [Human computer interaction (HCI)](/topic/ccs2012/10003120.10003121?ContentGroupKey=10.1145%2F3713043&expand=all)
+1. [HCI design and evaluation methods](/topic/ccs2012/10003120.10003121.10003122?ContentGroupKey=10.1145%2F3713043&expand=all)
+1. [User studies](/topic/ccs2012/10003120.10003121.10003122.10003334?ContentGroupKey=10.1145%2F3713043&expand=all)
+## Recommendations
+\* [### Flipping the Classroom: Will the Changes of Teachers Influence Learning Outcomes?](/doi/10.1145/3439147.3439156)
+ICEEL '20: Proceedings of the 2020 4th International Conference on Education and E-Learning
+The flipped classroom approach is one of the widely adopted instructional strategies
+that transform the traditional teaching practice into a technology-enriched learning
+practice. With the use of eLearning technology tools, it holds promises to enhance
+...
+[Read More](/doi/10.1145/3439147.3439156)
+\* [### Language Learner Autonomy: Students' and Teachers' Reflection](/doi/10.1145/3452144.3453837)
+ICLIQE 2020: Proceedings of the 4th International Conference on Learning Innovation and Quality Education
+Language learner autonomy has been defined in a number of different ways. It can be
+defined as the capacity to control one's own learning. In this era, language learner
+autonomy is used as one of the learning strategies for all fields of study, ...
+[Read More](/doi/10.1145/3452144.3453837)
+\* [### Preparing in-service language teachers to design and implement technology-rich curriculum](/doi/10.1007/s10639-012-9195-y)
+This article examines a technology-rich curriculum project that was implemented in
+China with in-service teachers during a three-year period. The findings suggest the
+need to support in-service teachers to implement new technology-rich curriculum. The
+...
+[Read More](/doi/10.1007/s10639-012-9195-y)
+## Comments
+[![](/sda/108255/acm-pres-on-oa-trans-and-dl-changes.png)](/action/clickThrough?id=108255&url=https%3A%2F%2Fwww.acm.org%2Fabout-acm%2Facm-pres-on-oa-transition-and-dl-changes&loc=%2Fdoi%2F10.1145%2F3713043.3727062&pubId=63572281&placeholderId=101020&productId=108193)
+[![](/sda/108216/tocs-dl-sky-ad.png)](/action/clickThrough?id=108216&url=https%3A%2F%2Fdl.acm.org%2Fjournal%2Ftocs&loc=%2Fdoi%2F10.1145%2F3713043.3727062&pubId=63572281&placeholderId=101021&productId=108184)
+[![](/sda/108219/ACM Books\_Allen.png)](/action/clickThrough?id=108219&url=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fbook%2F10.1145%2F3731217&loc=%2Fdoi%2F10.1145%2F3713043.3727062&pubId=63572281&placeholderId=101022&productId=108184)
+#### Affiliations
+![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)
+Riddhi ADivanji
+foundry10, Seattle, Washington, USA [[email protected]](/cdn-cgi/l/email-protection#03716a67676b6a43656c766d67717a32332d6c7164)
+[View Profile](/profile/99659768179)
+![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)
+SamanthaBindman
+foundry10, Seattle, Washington, USA [[email protected]](/cdn-cgi/l/email-protection#2457454964424b514a40565d15140a4b5643)
+[View Profile](/profile/99659261891)
+![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)
+MikkaHoffman
+foundry10, Seattle, Washington, USA [[email protected]](/cdn-cgi/l/email-protection#d2bfbbb9b9b392b4bda7bcb6a0abe3e2fcbda0b5)
+[View Profile](/profile/99661638898)
+![](/pb-assets/icons/DOs/default-profile-1543932446943.svg)
+LisaCasteneda
+foundry10, Seattle, Washington, USA [[email protected]](/cdn-cgi/l/email-protection#3854514b59785e574d565c4a41090816574a5f)
+[View Profile](/profile/99661639112)
+[View full text](/doi/full/10.1145/3713043.3727062)|[Download PDF](/doi/pdf/10.1145/3713043.3727062?download=true)
+[View Table of Contents](/doi/proceedings/10.1145/3713043)
+## Footer
+### Categories
+\* [Journals](/journals)
+\* [Magazines](/magazines)
+\* [Books](/acmbooks)
+\* [Proceedings](/proceedings)
+\* [SIGs](/sigs)
+\* [Conferences](/conferences)
+\* [Collections](/collections)
+\* [People](/people)
+### About
+\* [About ACM Digital Library](/about)
+\* [ACM Digital Library Board](/about/dlboard)
+\* [Author Guidelines](https://www.acm.org/publications/authors/information-for-authors)
+\* [All Holdings within the ACM Digital Library](/about/content#sec2)
+\* [ACM Computing Classification System](/ccs)
+\* [Accessibility Statement](/about/accessibility)
+### Join
+\* [Join ACM](https://www.acm.org/membership/join)
+\* [Join SIGs](https://www.acm.org/special-interest-groups/join)
+\* [Subscribe to Publications](https://www.acm.org/publications/subscribe)
+\* [Institutions and Libraries](https://libraries.acm.org/)
+### Connect
+\* [Contact us via email](/cdn-cgi/l/email-protection#5e3a32732a3b3f331e362f703f3d3370312c39)
+\* [ACM on Facebook](https://www.facebook.com/AssociationForComputingMachinery/)
+\* [ACM DL on X](https://x.com/acmdl)
+\* [ACM on Linkedin](https://www.linkedin.com/company/association-for-computing-machinery/)
+\* Send Feedback
+\* Submit a Bug Report
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2026 ACM, Inc.
+\* [Terms of Usage](https://libraries.acm.org/digital-library/policies#anchor3)
+\* [Privacy Policy](https://www.acm.org/about-acm/privacy-policy)
+\* [Code of Ethics](https://www.acm.org/code-of-ethics)
+[![](/specs/products/acm/releasedAssets/images/acm-logo-dl-8437178134fce530bc785276fc316cbf.png)](/)
+[![](/specs/products/acm/releasedAssets/images/acm-logo-3-10aed79f3a6c95ddb67053b599f029af.png)](https://www.acm.org)
+Your Search Results Download Request
+We are preparing your search results for download ...
+We will inform you here when the file is ready.
+[Download now!](#)
+Your Search Results Download Request
+Your file of search results citations is now ready.
+[Download now!](#)
+Your Search Results Download Request
+Your search export query has expired. Please try again.

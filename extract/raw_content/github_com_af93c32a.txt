@@ -1,0 +1,203 @@
+# Source URL: https://github.com/KKKKhazix/Khazix-Skills
+# Content Length: 11754 characters
+# Extracted at: 2026-03-14 11:08:42
+#============================================================
+
+[Skip to content](https://github.com/KKKKhazix/Khazix-Skills#start-of-content)
+You signed in with another tab or window. [Reload](https://github.com/KKKKhazix/Khazix-Skills) to refresh your session.You signed out in another tab or window. [Reload](https://github.com/KKKKhazix/Khazix-Skills) to refresh your session.You switched accounts on another tab or window. [Reload](https://github.com/KKKKhazix/Khazix-Skills) to refresh your session.Dismiss alert
+{{ message }}
+[KKKKhazix](https://github.com/KKKKhazix)/ \*\*[Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)\*\* Public
+- [Notifications](https://github.com/login?return\_to=%2FKKKKhazix%2FKhazix-Skills) You must be signed in to change notification settings
+- [Fork\\
+148](https://github.com/login?return\_to=%2FKKKKhazix%2FKhazix-Skills)
+- [Star\\
+946](https://github.com/login?return\_to=%2FKKKKhazix%2FKhazix-Skills)
+main
+[\*\*1\*\* Branch](https://github.com/KKKKhazix/Khazix-Skills/branches) [\*\*0\*\* Tags](https://github.com/KKKKhazix/Khazix-Skills/tags)
+[Go to Branches page](https://github.com/KKKKhazix/Khazix-Skills/branches)[Go to Tags page](https://github.com/KKKKhazix/Khazix-Skills/tags)
+Go to file
+Code
+Open more actions menu
+## Folders and files
+| Name | Name | Last commit message | Last commit date |
+| --- | --- | --- | --- |
+| ## Latest commit  
+[![KKKKhazix](https://avatars.githubusercontent.com/u/239590580?v=4&size=40)](https://github.com/KKKKhazix)[KKKKhazix](https://github.com/KKKKhazix/Khazix-Skills/commits?author=KKKKhazix)  
+[Initial commit: Add 3 skills for AI skill lifecycle management](https://github.com/KKKKhazix/Khazix-Skills/commit/fe15fea6cf7ac216027d11c2c64e87b462cc0427)  
+2 months agoJan 22, 2026  
+[fe15fea](https://github.com/KKKKhazix/Khazix-Skills/commit/fe15fea6cf7ac216027d11c2c64e87b462cc0427) · 2 months agoJan 22, 2026  
+## History  
+[1 Commit](https://github.com/KKKKhazix/Khazix-Skills/commits/main/)   
+Open commit details  
+[View commit history for this file.](https://github.com/KKKKhazix/Khazix-Skills/commits/main/) 1 Commit |
+| [github-to-skills](https://github.com/KKKKhazix/Khazix-Skills/tree/main/github-to-skills "github-to-skills") | [github-to-skills](https://github.com/KKKKhazix/Khazix-Skills/tree/main/github-to-skills "github-to-skills") | [Initial commit: Add 3 skills for AI skill lifecycle management](https://github.com/KKKKhazix/Khazix-Skills/commit/fe15fea6cf7ac216027d11c2c64e87b462cc0427 "Initial commit: Add 3 skills for AI skill lifecycle management") | 2 months agoJan 22, 2026 |
+| [skill-evolution-manager](https://github.com/KKKKhazix/Khazix-Skills/tree/main/skill-evolution-manager "skill-evolution-manager") | [skill-evolution-manager](https://github.com/KKKKhazix/Khazix-Skills/tree/main/skill-evolution-manager "skill-evolution-manager") | [Initial commit: Add 3 skills for AI skill lifecycle management](https://github.com/KKKKhazix/Khazix-Skills/commit/fe15fea6cf7ac216027d11c2c64e87b462cc0427 "Initial commit: Add 3 skills for AI skill lifecycle management") | 2 months agoJan 22, 2026 |
+| [skill-manager](https://github.com/KKKKhazix/Khazix-Skills/tree/main/skill-manager "skill-manager") | [skill-manager](https://github.com/KKKKhazix/Khazix-Skills/tree/main/skill-manager "skill-manager") | [Initial commit: Add 3 skills for AI skill lifecycle management](https://github.com/KKKKhazix/Khazix-Skills/commit/fe15fea6cf7ac216027d11c2c64e87b462cc0427 "Initial commit: Add 3 skills for AI skill lifecycle management") | 2 months agoJan 22, 2026 |
+| [.gitignore](https://github.com/KKKKhazix/Khazix-Skills/blob/main/.gitignore ".gitignore") | [.gitignore](https://github.com/KKKKhazix/Khazix-Skills/blob/main/.gitignore ".gitignore") | [Initial commit: Add 3 skills for AI skill lifecycle management](https://github.com/KKKKhazix/Khazix-Skills/commit/fe15fea6cf7ac216027d11c2c64e87b462cc0427 "Initial commit: Add 3 skills for AI skill lifecycle management") | 2 months agoJan 22, 2026 |
+| [README.md](https://github.com/KKKKhazix/Khazix-Skills/blob/main/README.md "README.md") | [README.md](https://github.com/KKKKhazix/Khazix-Skills/blob/main/README.md "README.md") | [Initial commit: Add 3 skills for AI skill lifecycle management](https://github.com/KKKKhazix/Khazix-Skills/commit/fe15fea6cf7ac216027d11c2c64e87b462cc0427 "Initial commit: Add 3 skills for AI skill lifecycle management") | 2 months agoJan 22, 2026 |
+| View all files |
+## Repository files navigation
+# Khazix-Skills
+[Permalink: Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills#khazix-skills)
+A collection of AI Skills for managing and evolving your skill library. These tools help you create, maintain, and continuously improve AI skills from GitHub repositories.
+## Skills Overview
+[Permalink: Skills Overview](https://github.com/KKKKhazix/Khazix-Skills#skills-overview)
+| Skill | Description |
+| --- | --- |
+| [github-to-skills](https://github.com/KKKKhazix/Khazix-Skills/blob/main/github-to-skills) | Convert GitHub repos into AI skills automatically |
+| [skill-manager](https://github.com/KKKKhazix/Khazix-Skills/blob/main/skill-manager) | Manage skill lifecycle - check updates, list, delete |
+| [skill-evolution-manager](https://github.com/KKKKhazix/Khazix-Skills/blob/main/skill-evolution-manager) | Evolve skills based on user feedback and experience |
+\* \* \*
+## github-to-skills
+[Permalink: github-to-skills](https://github.com/KKKKhazix/Khazix-Skills#github-to-skills)
+\*\*Automated factory for converting GitHub repositories into specialized AI skills.\*\*
+### Features
+[Permalink: Features](https://github.com/KKKKhazix/Khazix-Skills#features)
+- Fetches repository metadata (README, latest commit hash)
+- Creates standardized skill directory structure
+- Generates `SKILL.md` with extended frontmatter for lifecycle management
+- Creates wrapper scripts for tool invocation
+### Usage
+[Permalink: Usage](https://github.com/KKKKhazix/Khazix-Skills#usage)
+```
+/github-to-skills 
+```
+Or: "Package this repo into a skill: "
+### Example
+[Permalink: Example](https://github.com/KKKKhazix/Khazix-Skills#example)
+```
+/github-to-skills https://github.com/yt-dlp/yt-dlp
+```
+\* \* \*
+## skill-manager
+[Permalink: skill-manager](https://github.com/KKKKhazix/Khazix-Skills#skill-manager)
+\*\*Lifecycle manager for GitHub-based skills.\*\*
+### Features
+[Permalink: Features](https://github.com/KKKKhazix/Khazix-Skills#features-1)
+- \*\*Audit\*\*: Scan local skills folder for GitHub-based skills
+- \*\*Check\*\*: Compare local commit hashes against remote HEAD
+- \*\*Report\*\*: Generate status report (Stale/Current)
+- \*\*Update\*\*: Guided workflow for upgrading skills
+- \*\*Inventory\*\*: List all skills, delete unwanted ones
+### Usage
+[Permalink: Usage](https://github.com/KKKKhazix/Khazix-Skills#usage-1)
+```
+/skill-manager check # Scan for updates
+/skill-manager list # List all skills
+/skill-manager delete  # Remove a skill
+```
+### Scripts
+[Permalink: Scripts](https://github.com/KKKKhazix/Khazix-Skills#scripts)
+| Script | Purpose |
+| --- | --- |
+| `scan\_and\_check.py` | Scan directories, parse frontmatter, check remote versions |
+| `update\_helper.py` | Backup files before update |
+| `list\_skills.py` | List installed skills with metadata |
+| `delete\_skill.py` | Permanently remove a skill |
+\* \* \*
+## skill-evolution-manager
+[Permalink: skill-evolution-manager](https://github.com/KKKKhazix/Khazix-Skills#skill-evolution-manager)
+\*\*Continuously improve skills based on user feedback and conversation insights.\*\*
+### Core Concepts
+[Permalink: Core Concepts](https://github.com/KKKKhazix/Khazix-Skills#core-concepts)
+1. \*\*Session Review\*\*: Analyze skill performance after conversations
+2. \*\*Experience Extraction\*\*: Convert feedback into structured `evolution.json`
+3. \*\*Smart Stitching\*\*: Persist learned best practices into `SKILL.md`
+### Usage
+[Permalink: Usage](https://github.com/KKKKhazix/Khazix-Skills#usage-2)
+```
+/evolve
+```
+Or: "Save this experience to the skill"
+### Workflow
+[Permalink: Workflow](https://github.com/KKKKhazix/Khazix-Skills#workflow)
+1. \*\*Review\*\*: Agent analyzes what worked/didn't work
+2. \*\*Extract\*\*: Creates structured JSON with preferences, fixes, custom prompts
+3. \*\*Persist\*\*: Merges into `evolution.json`
+4. \*\*Stitch\*\*: Updates `SKILL.md` with learned best practices
+### Scripts
+[Permalink: Scripts](https://github.com/KKKKhazix/Khazix-Skills#scripts-1)
+| Script | Purpose |
+| --- | --- |
+| `merge\_evolution.py` | Incrementally merge new experience data |
+| `smart\_stitch.py` | Generate/update best practices section in SKILL.md |
+| `align\_all.py` | Batch re-stitch all skills after updates |
+\* \* \*
+## Installation
+[Permalink: Installation](https://github.com/KKKKhazix/Khazix-Skills#installation)
+1. Clone this repository:
+```
+git clone https://github.com/KKKKhazix/Khazix-Skills.git
+```
+2. Copy desired skills to your Claude skills directory:
+```
+# Windows
+copy /E Khazix-Skills\github-to-skills %USERPROFILE%\.claude\skills\
+# macOS/Linux
+cp -r Khazix-Skills/github-to-skills ~/.claude/skills/
+```
+3. Restart Claude to load the new skills.
+\* \* \*
+## Requirements
+[Permalink: Requirements](https://github.com/KKKKhazix/Khazix-Skills#requirements)
+- Python 3.8+
+- Git (for checking remote repositories)
+- PyYAML (`pip install pyyaml`)
+\* \* \*
+## How It Works
+[Permalink: How It Works](https://github.com/KKKKhazix/Khazix-Skills#how-it-works)
+```
++------------------+ +----------------+ +------------------------+
+| github-to-skills | --> | skill-manager | --> | skill-evolution-manager|
++------------------+ +----------------+ +------------------------+
+| | |
+Create new Maintain & Evolve &
+skills from update skills improve based
+GitHub repos on feedback
+```
+\*\*The Complete Skill Lifecycle:\*\*
+1. \*\*Create\*\*: Use `github-to-skills` to wrap a GitHub repo as a skill
+2. \*\*Maintain\*\*: Use `skill-manager` to check for updates and upgrade
+3. \*\*Evolve\*\*: Use `skill-evolution-manager` to capture learnings and improve
+\* \* \*
+## License
+[Permalink: License](https://github.com/KKKKhazix/Khazix-Skills#license)
+MIT
+\* \* \*
+## Contributing
+[Permalink: Contributing](https://github.com/KKKKhazix/Khazix-Skills#contributing)
+Contributions are welcome! Feel free to:
+- Report issues
+- Submit pull requests
+- Share your own skills
+\* \* \*
+## Author
+[Permalink: Author](https://github.com/KKKKhazix/Khazix-Skills#author)
+\*\*KKKKhazix\*\*
+If you find these skills useful, consider giving this repo a star!
+## About
+No description, website, or topics provided.
+### Resources
+[Readme](https://github.com/KKKKhazix/Khazix-Skills#readme-ov-file)
+### Uh oh!
+There was an error while loading. [Please reload this page](https://github.com/KKKKhazix/Khazix-Skills).
+[Activity](https://github.com/KKKKhazix/Khazix-Skills/activity)
+### Stars
+[\*\*946\*\*\\
+stars](https://github.com/KKKKhazix/Khazix-Skills/stargazers)
+### Watchers
+[\*\*3\*\*\\
+watching](https://github.com/KKKKhazix/Khazix-Skills/watchers)
+### Forks
+[\*\*148\*\*\\
+forks](https://github.com/KKKKhazix/Khazix-Skills/forks)
+[Report repository](https://github.com/contact/report-content?content\_url=https%3A%2F%2Fgithub.com%2FKKKKhazix%2FKhazix-Skills&report=KKKKhazix+%28user%29)
+## [Releases](https://github.com/KKKKhazix/Khazix-Skills/releases)
+No releases published
+## [Packages\ 0](https://github.com/users/KKKKhazix/packages?repo\_name=Khazix-Skills)
+No packages published
+## [Contributors\ 1](https://github.com/KKKKhazix/Khazix-Skills/graphs/contributors)
+- [![@KKKKhazix](https://avatars.githubusercontent.com/u/239590580?s=64&v=4)](https://github.com/KKKKhazix)[\*\*KKKKhazix\*\* Khazix](https://github.com/KKKKhazix)
+## Languages
+- [Python100.0%](https://github.com/KKKKhazix/Khazix-Skills/search?l=python)
+You can’t perform that action at this time.

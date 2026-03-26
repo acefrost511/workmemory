@@ -1,0 +1,1241 @@
+# Source URL: https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/full
+# Content Length: 112661 characters
+# Extracted at: 2026-03-26 05:08:47
+#============================================================
+
+
+
+Frontiers | Ethical and regulatory challenges of Generative AI in education: a systematic review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![]()Frontiers in Education](//www.frontiersin.org/journals/education) About usAbout us
+
+* Who we are
+* [Mission and values](https://www.frontiersin.org/about/mission)
+* [History](https://www.frontiersin.org/about/history)
+* [Leadership](https://www.frontiersin.org/about/leadership)
+* [Awards](https://www.frontiersin.org/about/awards)
+
+* Impact and progress
+* [Frontiers' impact](https://www.frontiersin.org/about/impact)
+* [Our annual reports](https://www.frontiersin.org/about/annual-reports)
+* [Thought leadership](https://www.frontiersin.org/about/thought-leadership)
+
+* Publishing model
+* [How we publish](https://www.frontiersin.org/about/how-we-publish)
+* [Open access](https://www.frontiersin.org/about/open-access)
+* [Peer review](https://www.frontiersin.org/about/peer-review)
+* [Research integrity](https://www.frontiersin.org/about/research-integrity)
+* [Research Topics](https://www.frontiersin.org/about/research-topics)
+* [FAIR² Data Management](https://www.frontiersin.org/about/fair-data-management)
+* [Fee policy](https://www.frontiersin.org/about/fee-policy)
+
+* Services
+* [Societies](https://publishingpartnerships.frontiersin.org/)
+* [National consortia](https://www.frontiersin.org/open-access-agreements/consortia)
+* [Institutional partnerships](https://www.frontiersin.org/about/open-access-agreements)
+* [Collaborators](https://www.frontiersin.org/about/collaborators)
+
+* More from Frontiers
+* [Frontiers Forum](https://forum.frontiersin.org/)
+* [Frontiers Planet Prize](https://www.frontiersin.org/about/frontiers-planet-prize)
+* [Press office](https://pressoffice.frontiersin.org/)
+* [Sustainability](https://www.frontiersin.org/about/sustainability)
+* [Career opportunities](https://careers.frontiersin.org/)
+* [Contact us](https://www.frontiersin.org/about/contact)
+
+[All journals](https://www.frontiersin.org/journals)[All articles](https://www.frontiersin.org/articles)[Submit your research](https://www.frontiersin.org/submission/submit?domainid=5&fieldid=21&specialtyid=0&entitytype=2&entityid=1239)[Search](//www.frontiersin.org/search)[![]()Frontiers in Education](//www.frontiersin.org/journals/education) SectionsSections
+
+* [Assessment, Testing and Applied Measurement](/journals/education/sections/assessment-testing-and-applied-measurement)
+* [Digital Education](/journals/education/sections/digital-education)
+* [Digital Learning Innovations](/journals/education/sections/digital-learning-innovations)
+* [Higher Education](/journals/education/sections/higher-education)
+* [Language, Culture and Diversity](/journals/education/sections/language-culture-and-diversity)
+* [Leadership in Education](/journals/education/sections/leadership-in-education)
+* [Mental Health and Wellbeing in Education](/journals/education/sections/mental-health-and-wellbeing-in-education)
+* [Psychology in Education](/journals/education/sections/psychology-in-education)
+* [STEM Education](/journals/education/sections/stem-education)
+* [Special Educational Needs](/journals/education/sections/special-educational-needs)
+* [Teacher Education](/journals/education/sections/teacher-education)
+
+[Articles](//www.frontiersin.org/journals/education/articles)[Research Topics](//www.frontiersin.org/journals/education/research-topics)[Editorial board](//www.frontiersin.org/journals/education/editors) About journalAbout journal
+
+* Scope
+* [Field chief editors](https://www.frontiersin.org/journals/education/about#about-editors)
+* [Mission & scope](https://www.frontiersin.org/journals/education/about#about-scope)
+* [Facts](https://www.frontiersin.org/journals/education/about#about-facts)
+* [Journal sections](https://www.frontiersin.org/journals/education/about#about-submission)
+* [Open access statement](https://www.frontiersin.org/journals/education/about#about-open)
+* [Copyright statement](https://www.frontiersin.org/journals/education/about#copyright-statement)
+* [Quality](https://www.frontiersin.org/journals/education/about#about-quality)
+
+* For authors
+* [Why submit?](https://www.frontiersin.org/journals/education/for-authors/why-submit)
+* [Article types](https://www.frontiersin.org/journals/education/for-authors/article-types)
+* [Author guidelines](https://www.frontiersin.org/journals/education/for-authors/author-guidelines)
+* [Editor guidelines](https://www.frontiersin.org/journals/education/for-authors/editor-guidelines)
+* [Publishing fees](https://www.frontiersin.org/journals/education/for-authors/publishing-fees)
+* [Submission checklist](https://www.frontiersin.org/journals/education/for-authors/submission-checklist)
+* [Contact editorial office](https://www.frontiersin.org/journals/education/for-authors/contact-editorial-office)
+
+ About usAbout us
+
+* Who we are
+* [Mission and values](https://www.frontiersin.org/about/mission)
+* [History](https://www.frontiersin.org/about/history)
+* [Leadership](https://www.frontiersin.org/about/leadership)
+* [Awards](https://www.frontiersin.org/about/awards)
+
+* Impact and progress
+* [Frontiers' impact](https://www.frontiersin.org/about/impact)
+* [Our annual reports](https://www.frontiersin.org/about/annual-reports)
+* [Thought leadership](https://www.frontiersin.org/about/thought-leadership)
+
+* Publishing model
+* [How we publish](https://www.frontiersin.org/about/how-we-publish)
+* [Open access](https://www.frontiersin.org/about/open-access)
+* [Peer review](https://www.frontiersin.org/about/peer-review)
+* [Research integrity](https://www.frontiersin.org/about/research-integrity)
+* [Research Topics](https://www.frontiersin.org/about/research-topics)
+* [FAIR² Data Management](https://www.frontiersin.org/about/fair-data-management)
+* [Fee policy](https://www.frontiersin.org/about/fee-policy)
+
+* Services
+* [Societies](https://publishingpartnerships.frontiersin.org/)
+* [National consortia](https://www.frontiersin.org/open-access-agreements/consortia)
+* [Institutional partnerships](https://www.frontiersin.org/about/open-access-agreements)
+* [Collaborators](https://www.frontiersin.org/about/collaborators)
+
+* More from Frontiers
+* [Frontiers Forum](https://forum.frontiersin.org/)
+* [Frontiers Planet Prize](https://www.frontiersin.org/about/frontiers-planet-prize)
+* [Press office](https://pressoffice.frontiersin.org/)
+* [Sustainability](https://www.frontiersin.org/about/sustainability)
+* [Career opportunities](https://careers.frontiersin.org/)
+* [Contact us](https://www.frontiersin.org/about/contact)
+
+[All journals](https://www.frontiersin.org/journals)[All articles](https://www.frontiersin.org/articles)[Submit your research](https://www.frontiersin.org/submission/submit?domainid=5&fieldid=21&specialtyid=0&entitytype=2&entityid=1239)[![]()Frontiers in Education](//www.frontiersin.org/journals/education) SectionsSections
+
+* [Assessment, Testing and Applied Measurement](/journals/education/sections/assessment-testing-and-applied-measurement)
+* [Digital Education](/journals/education/sections/digital-education)
+* [Digital Learning Innovations](/journals/education/sections/digital-learning-innovations)
+* [Higher Education](/journals/education/sections/higher-education)
+* [Language, Culture and Diversity](/journals/education/sections/language-culture-and-diversity)
+* [Leadership in Education](/journals/education/sections/leadership-in-education)
+* [Mental Health and Wellbeing in Education](/journals/education/sections/mental-health-and-wellbeing-in-education)
+* [Psychology in Education](/journals/education/sections/psychology-in-education)
+* [STEM Education](/journals/education/sections/stem-education)
+* [Special Educational Needs](/journals/education/sections/special-educational-needs)
+* [Teacher Education](/journals/education/sections/teacher-education)
+
+[Articles](//www.frontiersin.org/journals/education/articles)[Research Topics](//www.frontiersin.org/journals/education/research-topics)[Editorial board](//www.frontiersin.org/journals/education/editors) About journalAbout journal
+
+* Scope
+* [Field chief editors](https://www.frontiersin.org/journals/education/about#about-editors)
+* [Mission & scope](https://www.frontiersin.org/journals/education/about#about-scope)
+* [Facts](https://www.frontiersin.org/journals/education/about#about-facts)
+* [Journal sections](https://www.frontiersin.org/journals/education/about#about-submission)
+* [Open access statement](https://www.frontiersin.org/journals/education/about#about-open)
+* [Copyright statement](https://www.frontiersin.org/journals/education/about#copyright-statement)
+* [Quality](https://www.frontiersin.org/journals/education/about#about-quality)
+
+* For authors
+* [Why submit?](https://www.frontiersin.org/journals/education/for-authors/why-submit)
+* [Article types](https://www.frontiersin.org/journals/education/for-authors/article-types)
+* [Author guidelines](https://www.frontiersin.org/journals/education/for-authors/author-guidelines)
+* [Editor guidelines](https://www.frontiersin.org/journals/education/for-authors/editor-guidelines)
+* [Publishing fees](https://www.frontiersin.org/journals/education/for-authors/publishing-fees)
+* [Submission checklist](https://www.frontiersin.org/journals/education/for-authors/submission-checklist)
+* [Contact editorial office](https://www.frontiersin.org/journals/education/for-authors/contact-editorial-office)
+
+[![]()Frontiers in Education](//www.frontiersin.org/journals/education) SectionsSections
+
+* [Assessment, Testing and Applied Measurement](/journals/education/sections/assessment-testing-and-applied-measurement)
+* [Digital Education](/journals/education/sections/digital-education)
+* [Digital Learning Innovations](/journals/education/sections/digital-learning-innovations)
+* [Higher Education](/journals/education/sections/higher-education)
+* [Language, Culture and Diversity](/journals/education/sections/language-culture-and-diversity)
+* [Leadership in Education](/journals/education/sections/leadership-in-education)
+* [Mental Health and Wellbeing in Education](/journals/education/sections/mental-health-and-wellbeing-in-education)
+* [Psychology in Education](/journals/education/sections/psychology-in-education)
+* [STEM Education](/journals/education/sections/stem-education)
+* [Special Educational Needs](/journals/education/sections/special-educational-needs)
+* [Teacher Education](/journals/education/sections/teacher-education)
+
+[Articles](//www.frontiersin.org/journals/education/articles)[Research Topics](//www.frontiersin.org/journals/education/research-topics)[Editorial board](//www.frontiersin.org/journals/education/editors) About journalAbout journal
+
+* Scope
+* [Field chief editors](https://www.frontiersin.org/journals/education/about#about-editors)
+* [Mission & scope](https://www.frontiersin.org/journals/education/about#about-scope)
+* [Facts](https://www.frontiersin.org/journals/education/about#about-facts)
+* [Journal sections](https://www.frontiersin.org/journals/education/about#about-submission)
+* [Open access statement](https://www.frontiersin.org/journals/education/about#about-open)
+* [Copyright statement](https://www.frontiersin.org/journals/education/about#copyright-statement)
+* [Quality](https://www.frontiersin.org/journals/education/about#about-quality)
+
+* For authors
+* [Why submit?](https://www.frontiersin.org/journals/education/for-authors/why-submit)
+* [Article types](https://www.frontiersin.org/journals/education/for-authors/article-types)
+* [Author guidelines](https://www.frontiersin.org/journals/education/for-authors/author-guidelines)
+* [Editor guidelines](https://www.frontiersin.org/journals/education/for-authors/editor-guidelines)
+* [Publishing fees](https://www.frontiersin.org/journals/education/for-authors/publishing-fees)
+* [Submission checklist](https://www.frontiersin.org/journals/education/for-authors/submission-checklist)
+* [Contact editorial office](https://www.frontiersin.org/journals/education/for-authors/contact-editorial-office)
+
+[Submit your research](https://www.frontiersin.org/submission/submit?domainid=5&fieldid=21&specialtyid=0&entitytype=2&entityid=1239)[Search](//www.frontiersin.org/search)
+
+SYSTEMATIC REVIEW article
+-------------------------
+
+Front. Educ., 30 June 2025
+
+Sec. Digital Education
+
+Volume 10 - 2025 | <https://doi.org/10.3389/feduc.2025.1565938>
+
+[Published in![]()
+
+Frontiers in Education 
+
+* #### Digital Education
+
+* **1.9** impact factor
+* **3.7** citescore](https://www.frontiersin.org/journals/education)[Part of a Research Topic
+
+Digital Learning Innovations: Trends Emerging Scenario, Challenges and Opportunities
+
+* **263k** views
+* **33** articles](https://www.frontiersin.org/research-topics/67465/digital-learning-innovations-trends-emerging-scenario-challenges-and-opportunities)
+### Editor & Reviewers
+
+Edited by
+
+[IB
+
+Indira Boutier](https://loop.frontiersin.org/people/2806326)
+
+Reviewed by
+
+[AV
+
+Aleksandra Vučković](https://loop.frontiersin.org/people/2975242)[MJ
+
+Myles Joshua Toledo Tan](https://loop.frontiersin.org/people/1191426)
+
+Outline
+
+* [Abstract](#h1)
+* [1 Introduction: legal challenges and opportunities of GenAI in education](#sec1)
+* [2 Theoretical framework: legal foundations and ethical challenges in educational GenAI](#sec2)
+* [3 Method](#sec11)
+* [4 Results](#sec17)
+* [5 Discussion: exploring the challenges and opportunities of GenAI in education](#sec19)
+* [6 Conclusions: legal challenges in the integration of GenAI in education](#sec27)
+* [Data availability statement](#sec28)
+* [Author contributions](#sec29)
+* [Funding](#sec30)
+* [Acknowledgments](#h11)
+* [Conflict of interest](#sec31)
+* [Generative AI statement](#sec32)
+* [Correction note](#sec032)
+* [Publisher’s note](#sec33)
+* [References](#h16)
+
+Figures and Tables 
+
+* Figure 1
+  
+  ![]()[View in article](#fig1)
+* Figure 2
+  
+  ![]()[View in article](#fig2)
+* Figure 3
+  
+  ![]()[View in article](#fig3)
+* Figure 4
+  
+  ![]()[View in article](#fig4)
+* Figure 5
+  
+  ![]()[View in article](#fig5)
+* Table 1
+  
+  Concrete examples of existing regulations.
+  
+  [View in article](#tab1)
+* Table 2
+  
+  Research questions.
+  
+  [View in article](#tab2)
+* Table 3
+  
+  Search strings.
+  
+  [View in article](#tab3)
+* Table 4
+  
+  Findings from some of the studies reviewed.
+  
+  [View in article](#tab4)
+
+SYSTEMATIC REVIEW article
+-------------------------
+
+Front. Educ., 30 June 2025
+
+Sec. Digital Education
+
+Volume 10 - 2025 | <https://doi.org/10.3389/feduc.2025.1565938>
+
+Ethical and regulatory challenges of Generative AI in education: a systematic review
+====================================================================================
+
+* [IM
+  
+  Iván Miguel García-López 1\*](https://loop.frontiersin.org/people/2540822)
+* [LT
+  
+  Laura Trujillo-Liñán 2](https://loop.frontiersin.org/people/2970034)
+
+* 1. Independent Researcher, Mexico City, Mexico
+* 2. Universidad Panamericana, CDMX, Mexico
+
+ Article metrics
+
+[View details](#metrics)
+
+A correction has been applied to this article in:
+
+2. Correction: Ethical and regulatory challenges of Generative AI in education: a systematic review
+   
+   2. [Read correction](/journals/education/articles/10.3389/feduc.2025.1681252/full)
+
+Abstract
+--------
+
+**Introduction:** 
+
+Generative Artificial Intelligence (GenAI) is transforming education by enabling personalized learning and more efficient teaching practices. However, it raises critical ethical concerns, including data privacy, algorithmic bias, and educational inequality, requiring comprehensive regulatory frameworks and pedagogical strategies.
+
+**Methods:** 
+
+A Systematic Literature Review (SLR) was conducted, analyzing 53 peer-reviewed articles published between 2020 and 2024. The search was performed in Scopus and Web of Science using defined inclusion criteria focused on GenAI applications in education. Data were synthesized thematically and supported by theoretical frameworks from ethics, regulation, and learning sciences.
+
+**Results:** 
+
+The findings reveal that while GenAI enhances personalized feedback, instructional automation, and learning accessibility, it simultaneously introduces risks such as loss of cognitive autonomy, institutional misuse of student data, and lack of regulatory oversight. Case studies from Stanford and the University of Toronto illustrate both opportunities and limitations of GenAI adoption in higher education.
+
+**Discussion:** 
+
+GenAI can benefit education if implemented within ethical, legal, and pedagogical boundaries. The study highlights the urgency of designing inclusive regulatory frameworks, strengthening digital literacy, and integrating GenAI tools with constructivist and self-determined learning models. This review offers practical recommendations for educators, policymakers, and technologists aiming to use GenAI responsibly in educational environments.
+
+1 Introduction: legal challenges and opportunities of GenAI in education
+------------------------------------------------------------------------
+
+The integration of Generative Artificial Intelligence (GenAI) in education has profoundly transformed teaching and learning processes, posing both opportunities and challenges that require urgent attention. In a context where technology is advancing at an unprecedented pace, it is necessary to understand the ethical, regulatory and pedagogical implications that accompany these innovations. This research is part of a Systematic Review of the Literature (SLR), a rigorous methodology that allows analyzing and synthesizing previous studies to offer a comprehensive and updated overview of the current state of GenAI in education ([Lasker, 2024](#ref36)). The relevance of this analysis lies in its ability to identify the keys necessary for a responsible and sustainable implementation of GenAI in the field of education. Ethical challenges are contemplated, which address privacy, algorithmic biases and technological trust; regulatory frameworks, focused on the development of adaptive and collaborative policies; and quality of education, focused on how GenAI can improve learning personalization and pedagogical efficiency. Through these constructs, the need to align technological innovation with ethical principles, equitable practices, and effective governance strategies to ensure responsible and beneficial adoption of GenAI in education is analyzed ([Wu and Wang, 2024](#ref56)). These themes guide the research question that structures this work and prioritizes a comprehensive approach to answer it.
+
+GenAI refers to AI systems capable of creating new content, such as text, images, and even educational materials, based on patterns learned from vast datasets. Unlike traditional AI models that focus on prediction and classification, GenAI actively engages in knowledge generation, making it a transformative tool in education. However, its unique characteristics also introduce ethical, regulatory, and pedagogical challenges that require careful evaluation. This study explores both the opportunities and risks of GenAI, considering its potential to personalize learning while addressing concerns related to academic integrity, algorithmic bias, and equitable access to technology.
+
+The research question guiding this study is: What are the ethical challenges, regulatory frameworks, and opportunities for improvement in educational quality associated with the implementation of GenAI in education? The importance of this question lies in the need to provide empirical evidence and structured analysis on a topic that, although emerging, has a direct impact on the future of global education ([Camacho-Zuñiga et al., 2024](#ref19)). This proposes a systematic approach that contrasts with previous studies, allowing a more in-depth and contextualized analysis.
+
+Unlike other similar studies and reviews that have limited themselves to exploring isolated aspects, such as the technical benefits of GenAI or its overall impact on education, this work offers a comprehensive and comparative approach. The trends identified in the graphs generated from the analysis of keywords are highlighted, which were contextualized with recent studies to confirm their validity and relevance. In addition, a detailed discussion is provided that links the quantitative findings with the theoretical constructs, allowing to identify existing gaps in the literature and suggest strategies to address the remaining challenges ([Gajjar, 2024](#ref27)). The approach sets the stage for a more thorough assessment of the regulatory, ethical and educational aspects of GenAI.
+
+This study takes a comprehensive approach, combining quantitative and qualitative analysis to examine the ethical, regulatory, and educational challenges of generative AI in education. Unlike earlier research that looked at these areas separately, this paper offers a holistic perspective that ties empirical trends to strong theoretical frameworks. It also provides practical guidance for educators, policymakers, and technologists aiming to implement GenAI ethically and effectively in learning environments.
+
+Through an SLR, it was possible to synthesize empirical and conceptual evidence that reinforces the relevance of key issues such as privacy, equity, and legislative adaptability. This approach not only validates observed trends, but also connects these findings with concrete proposals to ensure ethical and efficient use of GenAI ([Camacho-Zuñiga et al., 2024](#ref19); [Wu and Wang, 2024](#ref56)). In addition, the importance of developing dynamic and collaborative regulatory frameworks that balance technological innovation with the protection of individual rights is emphasized.
+
+Another aspect that differentiates this work is its ability to identify existing gaps in the literature and suggest strategies to address them. For example, while previous studies have explored issues such as algorithmic biases ([Baker and Hawn, 2022](#ref9); [Smith, 2020](#ref49)) or automated feedback ([Bauer et al., 2023](#ref12)), this analysis highlights the need for an interdisciplinary approach that combines legal governance, digital literacy and clear ethical principles ([Gajjar, 2024](#ref27); [Singh, 2024](#ref48)). This translates into a practical and informed guide for key factors such as educators, policymakers and technology developers.
+
+Unlike other educational technologies based on predictive models or traditional chatbots, GenAI generates new content based on previous data, allowing for more dynamic and personalized interactions. Its ability to produce text, images, and adapted responses in real time represents a significant pedagogical advantage, but it also poses unique challenges in terms of ethics and regulation. These differences justify the need for a specific analysis of their implications in education.
+
+The impact of GenAI on education requires an analysis based on a solid theoretical framework that allows both its challenges and opportunities to be assessed. To this end, this study adopts an integrative approach that combines theories of ethics in AI, frameworks of technological regulation and principles of autonomous learning. Three key perspectives are considered: (1) IEEE’s Ethically Aligned Design framework for ethical AI development, (2) Nick Bostrom’s theory of existential risk and AI alignment, and (3) Self-Determination Theory (SDT) applied to AI-driven learning.
+
+What sets this study apart is how it brings together different methods and perspectives to give a clear, useful picture of how GenAI is being used in education. It goes beyond theory offering tools that help make sure this tech is applied in ethical, inclusive, and sustainable ways. To use GenAI responsibly, we have to first deal with the legal and ethical challenges behind it. Understanding those issues is key to building solid, practical solutions based on fairness and accountability.
+
+2 Theoretical framework: legal foundations and ethical challenges in educational GenAI
+--------------------------------------------------------------------------------------
+
+### 2.1 Educational models and GenAI: autonomy and knowledge construction
+
+The integration of GenAI in education requires a solid theoretical framework that allows both its risks and opportunities to be assessed. From a pedagogical perspective, this study is based on the SDT [Ryan and Deci (2000)](#ref44) and in the Constructivism ([Vygotsky, 1978](#ref53)), these frameworks that explain how students learn effectively when they experience autonomy, competence, and social relationships in their formative process.
+
+The SDT suggests that students are more motivated when they perceive control over their learning (autonomy), face challenges appropriate to their level (competence), and participate in collaborative environments (social relationship). GenAI can enhance these aspects when it offers personalized learning experiences and supports self-exploration provided it’s used with clear pedagogical intent ([Tan and Maravilla, 2024](#ref52)). However, it is crucial that these tools do not foster technological dependence but are used as support for active and self-directed learning.
+
+Constructivism, first introduced by Piaget and later developed through Vygotsky’s work (1978), emphasizes that knowledge is not just passed down, it’s built through the student’s own active process. GenAI can serve as a catalyst for self-directed learning, enabling guided exploration, generation of multiple perspectives, and immediate feedback ([Jonassen, 1999](#ref32)). This model is reinforced by the proposal of [Scardamalia and Bereiter (2006)](#ref46), who highlight that AI-powered learning communities can improve the collective construction of knowledge. In this context, GenAI should not be seen as an automation tool, but as an enabler that promotes creativity, critical thinking, and problem-solving skills in students.
+
+### 2.2 GenAI ethics and regulation in education
+
+From a regulatory perspective, the development and application of GenAI in education poses challenges that need to be addressed through well-defined ethical frameworks. The IEEE’s Ethically Aligned Design ([Institute of Electrical and Electronics Engineers, 2020](#ref31)) provides key principles for transparency, fairness, and human oversight in autonomous systems, ensuring that generative AI is used responsibly and for the benefit of society. This approach also draws on [Bostrom’s (2014)](#ref16) AI alignment theory, which highlights the importance of designing artificial intelligences with goals that reflect human and educational values.
+
+Beyond regulation, the implementation of GenAI in education must consider its ethical implications in terms of digital equity, algorithmic bias, and student data privacy. GenAI’s governance must include clear institutional policies that establish how, when, and for what purpose these tools can be used in educational contexts ([Singh, 2024](#ref48)). The University of Toronto, for example, has developed a model in which GenAI is used as a support in evaluation, but without replacing human judgment ([Guo et al., 2023](#ref30)). This type of regulation helps mitigate risks and ensures that AI is used to strengthen, rather than compromise, educational quality.
+
+In bringing together constructivism, self-determination, and ethical regulation, this study does not just map out the risks of using GenAI in education, it also points to its potential to boost motivation, engagement, and equity in learning ([Tan and Maravilla, 2024](#ref52); [Williams, 2024](#ref55)). A strong theoretical framework helps us look at generative AI from a more balanced angle, seeing it not as a threat but as a tool. With clear ethical principles and solid pedagogical design, it could become a real asset for the future of learning.
+
+### 2.3 Ethical challenges: legal implications of privacy and autonomy
+
+The ethical challenges in the implementation of GenAI in education are based on three main constructs: privacy and data protection, algorithmic biases, and cognitive autonomy. The first of these, privacy, is at risk when personal data is mishandled, especially if generative models are trained on sensitive information without proper regulation ([Williams, 2024](#ref55)). Second, algorithmic biases result from training data that perpetuates existing social inequalities, affecting educational equity ([Liu and Li, 2024](#ref38)). Finally, cognitive autonomy is threatened when students rely excessively on these tools, limiting their critical thinking and autonomy in learning ([Al-Kfairy et al., 2024](#ref6)). The integration of these constructs makes it possible to understand the complexity of ethical challenges and to establish strategies to mitigate them.
+
+The use of GenAI in education presents additional ethical challenges that require detailed analysis. Algorithmic transparency is a key challenge, as users are unaware of how models process and generate information, limiting confidence in results ([Liu and Li, 2024](#ref38)). Another relevant problem is academic plagiarism, where GenAI-generated content can facilitate dishonest behavior, blurring the boundaries between original effort and automated production ([Williams, 2024](#ref55)). The lack of ethical responsibility in the use of these tools increases the risk of perpetuating misinformation, especially in educational settings where the veracity of the content is critical ([Gajjar, 2024](#ref27)). Finally, insufficient digital literacy can lead to misuse or misinterpretation of GenAI’s capabilities and limits ([Walczak and Cellary, 2023](#ref54)). The combination of these elements underscores the importance of adopting clear policies and ethical guidelines in the use of GenAI.
+
+The adoption of GenAI in education must also address the constructs of trust in technology, institutional accountability, and ethics of disinformation. Technological trust is eroded when users are unaware of the accuracy and reliability of the content generated, which can result in the spread of misinformation ([Adiguzel et al., 2023](#ref2)). Institutional accountability requires universities to establish clear standards and monitoring mechanisms to ensure the ethical and responsible use of these tools ([Grájeda et al., 2024](#ref29)). Likewise, the ethics of disinformation involves creating strategies that combat the proliferation of fake news and deepfakes in educational and academic environments ([Bountouridis et al., 2019](#ref17)). These constructs are critical to strengthening confidence in the use of GenAI and mitigating ethical risks in higher education.
+
+As GenAI expands in education, multiple cases have been documented where algorithms have reproduced and amplified pre-existing inequalities. These biases can affect academic assessments, course recommendations, and even the allocation of learning opportunities. Below are two case studies that illustrate how these issues have emerged in different educational contexts.
+
+#### 2.3.1 Case 1: Bias in automated assessment algorithms in the UK
+
+One of the most notorious cases of algorithmic bias in education occurred in the United Kingdom in 2020, when the government implemented an automated assessment system to determine student grades during the COVID-19 pandemic. Since traditional exams were canceled, the algorithm used historical data on school performance and previous grades to predict students’ results. However, the system was found to disproportionately penalize students from schools located in low-income communities, lowering their grades compared to those from institutions with a track record of high performance. The backlash sparked a national scandal, and the government ended up scrapping the system letting teachers assign grades instead. This case showed that the use of AI in education, if not designed with equity in mind, can reinforce structural inequalities rather than mitigate them ([Smith, 2020](#ref49)).
+
+#### 2.3.2 Case 2: discrimination in course recommendation systems on e-learning platforms
+
+In 2023, researchers at the University of California looked into algorithmic bias in education by studying how online platforms like Coursera and EdX recommend courses. It was found that algorithms tended to recommend advanced courses in science, technology, engineering, and mathematics (STEM) at a higher rate to male students compared to women or underrepresented minorities. This bias reflected historical patterns in enrolment data and perpetuated barriers to access to these fields of knowledge. In response, some platforms have begun to develop strategies to adjust their algorithms and ensure more equitable recommendations. This case emphasizes the need to constantly audit and improve AI models to avoid the reproduction of biases and promote more inclusive education ([Deng and Joshi, 2024](#ref25)).
+
+#### 2.3.3 Case recommendations
+
+These cases demonstrate that algorithmic bias in education is not an isolated problem, but a global phenomenon that requires urgent attention. Using AI in grading, course recommendations, or learning tools needs to come with audits and human oversight, so biases can be caught and fixed before they harm educational equity. The implementation of ethical AI principles, such as those established in the IEEE Ethically Aligned Design framework ([Al-Kfairy et al., 2024](#ref6)), as well as the incorporation of algorithmic equity audit models, are key steps to ensure that AI in education is a tool that favors inclusion rather than amplifies existing inequalities.
+
+### 2.4 Regulatory frameworks: legal foundations for the responsible use of GenAI
+
+To achieve effective integration of GenAI in education, it is crucial to find a balance that maximizes its potential while safeguarding individual rights, enabling adaptable regulations, and fostering global collaboration. This is not just about setting rules but about building an approach that blends innovation with responsibility, adapting to the challenges and opportunities of an increasingly interconnected world. The protection of individual rights implies the creation of regulations that guarantee the privacy of users and prevent the improper use of the information generated by these technologies ([Linkon et al., 2024](#ref37)). International collaboration, for its part, is essential to establish harmonized frameworks that allow for equitable and transparent use of GenAI at the global level ([Bender et al., 2021](#ref14)). Finally, legislative adaptability is essential for laws to evolve with the speed of technological advances, avoiding legal loopholes that could lead to bad practices ([Alnasib, 2023](#ref7)). These three constructs provide a solid foundation for designing effective regulatory policies that balance technological innovation and protecting users.
+
+The effective regulation of GenAI in education relies on the pillars of cooperative governance, strategic institutional adoption, and ongoing assessment to ensure its responsible and impactful integration. Collaborative governance requires the joint work of politicians, educators and technologists to formulate applicable and coherent guidelines at the local and international levels ([Chan, 2023](#ref22)). Institutional implementation focuses on integrating specific regulations in universities and other educational institutions, allowing the use of GenAI tools to be efficiently regulated ([Camacho-Zuñiga et al., 2024](#ref19)). Continuous evaluation is essential to update and adjust regulatory frameworks as technology evolves, ensuring their relevance in a dynamic context ([Gajjar, 2024](#ref27)). Finally, ensuring a balance between innovation and responsibility will allow technological development to be fostered without compromising ethics or individual rights ([Deng and Joshi, 2024](#ref25)). These constructs are key pillars for the development of effective and adaptive regulations.
+
+Strong regulatory frameworks are built on the foundations of legal legitimacy, active stakeholder involvement, and the capacity to adapt to ongoing technological advancements. Legal legitimacy refers to the need for regulations based on international norms and universal ethical principles, avoiding fragmented policies that limit their effectiveness ([Bannister et al., 2023](#ref11)). The participation of key actors, such as educators, developers and policymakers, is critical to ensure that regulatory frameworks equitably address the needs of the education environment ([Agbese et al., 2023](#ref3)). Finally, adaptability to technological innovation involves creating dynamic and flexible frameworks that can be updated as GenAI’s tools evolve ([Camacho-Zuñiga et al., 2024](#ref19)). These elements provide a solid basis for designing regulations that promote responsible innovation without losing sight of ethics and individual rights.
+
+These regulatory foundations do more than just protect ethical and legal standards, they also help improve the quality of education. They promote fair access, support flexible use of technology, and build essential skills. This makes sure GenAI’s potential is used in a way that encourages both innovation and inclusion. [Table 1](#tab1) outlines a clearer, more organized comparison of different AI regulations relevant to education.
+
+Table 1
+
+| Regulation | Region | Main features | Applicability in education |
+| GDPR (General Data Protection Regulation) ([Breen et al., 2020](#ref18)) | USA | Protection of personal data, informed consent, right to be forgotten. | It regulates the handling of student data in generative AI platforms. |
+| AI Act (European Union) ([Comisión Europea, 2021](#ref23)) | USA | It ranks AI systems by risk and sets rules to ensure transparency. | You can restrict the use of generative AI in education if it is considered high-risk. |
+| White House Guidance on AI ([Casa Blanca de EE.UU, 2020](#ref21)) | USA | Ethical principles for the development and use of AI. | It recommends the use of AI in education with human oversight and bias mitigation measures. |
+| National AI Strategies ([Contreras, 2024](#ref24)) | Latin America (e.g., Mexico, Brazil) | General framework for technological innovation with a focus on digital rights. | Lack of specific regulation for AI in education. |
+
+Concrete examples of existing regulations.
+
+### 2.5 Quality of education: building a legal framework for equity and innovation
+
+Educational quality in the context of GenAI is based on three constructs: personalization of learning, equity in access to technology, and development of critical competencies. The personalization of learning is manifested through GenAI’s ability to adapt educational content and methods to the specific needs of each student ([Akgun and Greenhow, 2022](#ref4); [Alali and Wardat, 2024](#ref5)). Equity in access is a fundamental challenge, as the lack of resources in certain contexts could amplify the digital divide and limit the positive impact of these tools ([Abramski et al., 2023](#ref1)). Finally, the development of critical competencies involves preparing students to use technology in ethical and reflective ways, fostering skills such as critical thinking and problem-solving ([Dimitriadou and Lanitis, 2023](#ref26)). These constructs are essential to ensure that GenAI contributes to improving educational quality in an equitable and sustainable way.
+
+Improving the quality of education through GenAI is based on the constructs of educational accessibility, automated feedback, and interactive learning. Educational accessibility refers to GenAI’s ability to provide learning opportunities to students with limited resources, allowing equitable access to personalized content ([Akgun and Greenhow, 2022](#ref4)). Automated feedback facilitates constant assessment of student performance, optimizing teachers’ time for more personalized approaches ([Bekmanova et al., 2021](#ref13)). Interactive learning promotes dynamic environments where students can explore complex concepts through simulations and AI-generated materials ([Sailer et al., 2023](#ref45)). Finally, combining these tools with teacher training ensures that the use of GenAI does not replace, but complements, traditional pedagogical practices ([Cao et al., 2024](#ref20)). These constructs are essential to harnessing the transformative potential of GenAI in education.
+
+GenAI can improve education in three key ways: making teaching more efficient, ensuring fair access to tools, and updating curricula to match today’s needs. It can take over routine tasks so teachers can focus on students ([Singh, 2024](#ref48)). But access is still a problem, every student should benefit, no matter their background ([Pan and Yang, 2021](#ref42)). Curricula also need to adapt, giving space for tools that spark creativity and innovation ([Cao et al., 2024](#ref20)). When these pieces are in place, GenAI can support better, fairer education for everyone.
+
+3 Method
+--------
+
+The method used was the Systematic Review of Literature (SLR). The process included the formulation of questions, a literature search, the delimitation of inclusion and exclusion criteria and the analysis of the data ([Kitchenham et al., 2010](#ref34)). The SLR identifies, analyses, and interprets research results in a specific period related to the topic of interest ([García-Peñalvo, 2021](#ref28)), which in this case was GenAI. [Figure 1](#fig1) shows the phases followed in this study.
+
+Figure 1
+
+![]()
+
+
+
+Systematic literature review (SLR) process. The phases followed in this study are presented, which include: (1) formulation of research questions, (2) literature search in indexed databases, (3) application of inclusion and exclusion criteria, (4) data selection and extraction, and (5) data synthesis. This process ensures a rigorous and structured collection of the relevant literature on generative AI in education.
+
+
+
+### 3.1 Phase 1: research questions
+
+[Table 2](#tab2) presents three research questions that researchers posed to find publications on GenAI in higher education in the period 2018–2023. Three main themes emerged from the three research questions after reviewing documents in the area ([Kitchenham, 2007](#ref33)). The development of the questions arose from the detection of opportunities in the current literature, as well as experiences and challenges. The possible answers were developed from the theoretical foundation of the study. The opportunity for further contributions to the study of GenAI in higher education drove the development of research topics and questions for the academic community.
+
+Table 2
+
+| Topics | Research questions (RQ) | Possible responses |
+| Strategies for integrating GenAI competencies into higher education curricula and their impact on job readiness. | RQ1: How can higher education institutions optimize the scalability and updating of their curricula to effectively integrate AI competencies and GenAI-related skills, and what impact does this have on students’ job readiness? | * Support higher education and research institutions to enhance programs to develop local AI talent * Promote gender equality in developing advanced AI competencies and create a gender-balanced pool of professionals * Develop intersectoral forecasts of the national and global job shifts caused by the latest GenAI automation, and enhance future-proof skills at all levels of education and lifelong learning systems based on prospective shifts in demand * Provide special programs for older workers and citizens who may need to learn new skills and adapt to new environment * Technologies to support economic development  ([Zhou et al., 2022](#ref57)) |
+| Ethical and effective training of educators and researchers in the use of GenAI to improve pedagogical and research methods. | RQ2: In what ways can educators and researchers be empowered to use GenAI ethically and effectively in teaching and research, and how does this influence the improvement of pedagogical methods and research practices? | * Generative AI for research * Generative AI to facilitate teaching * Generative AI for Policy Development * Generative AI for Artistic Creation * Generative AI for Business Innovation   ([Miao et al., 2024](#ref41)) |
+| Development of adaptive and assessable education policies in response to innovations in GenAI to promote educational equity and accessibility. | RQ3: What strategies can policymakers adopt to ensure that education policies are coherent, evaluable, and adaptable in the face of rapid innovations in AI and GenAI, and how does this contribute to educational equity and accessibility? | * Independent approach * Integrated approach * Thematic approach * Holistic Approach * Collaborative Approach  ([Bandi et al., 2023](#ref10)) |
+
+Research questions.
+
+### 3.2 Phase 2: search process
+
+The search for articles was carried out in Scopus and Web of Science (WoS) because they are the two databases with the greatest coverage and reach. The delimiters were keywords (generative artificial intelligence and ethics), period (2020–2024) and type of document. The date of extraction of the databases was December 04, 2024. [Table 3](#tab3) presents the search string used in the search process in WoS and Scopus.
+
+Table 3
+
+| Search string in Scopus | Search string in WoS |
+| TITLE-ABS-KEY((“Large Language Models” OR “Open Language Models” OR “LLM” OR “AI Models”) AND (“Ethics” OR “Ethical framework” OR “Governance” OR “Regulation” OR “Accountability”) AND (“Educational Policy” OR “Education Policy” OR “Higher Education” OR “Public Policy”)) AND PUBYEAR > 2019 AND (LIMIT-TO(DOCTYPE, “ar”)) | TS = (“Large Language Models” OR “Open Language Models” OR “LLM” OR “AI Models”) AND TS = (“Ethics” OR “Ethical framework” OR “Governance” OR “Regulation” OR “Accountability”) AND TS = (“Educational Policy” OR “Higher Education” OR “Public Policy”) AND PY = (2020–2024) |
+
+Search strings.
+
+### 3.3 Phase 3: inclusion and exclusion criteria
+
+Studies published between 2020 and 2024 were selected due to the recent rise of GenAI in education and its increasing regulation. Empirical and theoretical research that directly addressed the implementation of GenAI in educational contexts was prioritized, excluding general AI studies, books, and reviews that did not present direct evidence of its impact on education.
+
+### 3.4 Phase 4: data selection and extraction process
+
+The number of articles in Scopus was 95 and 24 in WOS. Six duplicates were removed. To ensure that the articles included GenAI as the focus of the study, we applied quality criteria to ensure that the articles were in the areas of technology and education and used GenAI in their titles, abstracts, and keywords.
+
+Sixty articles that did not focus on GenAI in higher education were removed, leaving 53 (44 from Scopus and 9 from WoS) selected for SLR. The analysis reviewed authors, titles, DOI, abstract, and country data. [Figure 2](#fig2) shows the study following the PRISMA method.
+
+Figure 2
+
+![]()
+
+
+
+PRISMA diagram for the selection of studies included in the systematic review. It shows the total number of studies identified in databases, duplicate articles removed, studies excluded after title and abstract review, and final studies included in the analysis. This process ensures the transparency and reproducibility of the literature selection method.
+
+
+
+### 3.5 Phase 5: data synthesis
+
+Data extracted from each article’s database were analyzed to answer the study’s three SLR questions. The qualitative content analysis sought inferences from the information objectively considering two components, mechanical and interpretative ([Kitchenham et al., 2010](#ref34)). The first organized the data into the study topics, and (b) the second determined which data effectively answered the research questions. The graphical representations in this article summarize the answers. The review looked for intriguing intersections of the article’s terms, keywords, and objectives.
+
+This methodical approach ensured that the analysis was both comprehensive and targeted, enabling the identification of critical patterns and ethical concerns related to GenAI in education. These insights directly inform the results, providing a foundation for addressing the key research questions.
+
+4 Results
+---------
+
+> *RQ1*: How can higher education institutions optimize the scalability and updating of their curricula to effectively integrate AI competencies and GenAI-related skills, and what impact does this have on students’ job readiness?
+
+[Figure 3](#fig3) shows the keywords related to the ethical challenges that arise with the use of GenAI in education. The most frequent terms highlight topics such as data privacy, algorithmic biases, misinformation and the impact on human subjectivity ([Liu and Li, 2024](#ref38)). Recurring ethical concerns are reflected in the use of GenAI, such as the loss of creativity and the risk of dependence on technological tools ([Al-Kfairy et al., 2024](#ref6)). The need to develop ethical use policies to avoid these problems is emphasized.
+
+Figure 3
+
+![]()
+
+
+
+Ethical challenges of GenAI in education. It is noted that the most frequent terms include ‘data privacy’, ‘algorithmic bias,’ and ‘misinformation’, indicating that these are the main concerns of researchers in this field. These topics are related to the unauthorized use of student information and the risks of bias in AI-generated results.
+
+
+
+The ethical challenges arising from the use of GenAI in education encompass concerns such as misinformation and the disruption of the student–teacher relationship. The production of automated content has raised alerts about the authenticity of learning and the risk of academic plagiarism ([Williams, 2024](#ref55)). The impact of GenAI on digital equity depends on its implementation: if equitable access to these technologies is not guaranteed, the digital divide could widen ([Landers and Behrend, 2023](#ref35)). However, when designing accessible and inclusive educational programs, GenAI can also be a tool to reduce inequalities, offering personalized resources to students from communities with less access to quality education. Another relevant aspect is cognitive dependence, where excessive use of GenAI can inhibit the development of critical thinking skills and autonomy in students ([Walczak and Cellary, 2023](#ref54)). Finally, the challenge of combating implicit biases in generative models remains crucial to ensure equitable outcomes in educational settings ([Lasker, 2024](#ref36)). These elements highlight the need to adopt a proactive ethical approach that promotes equity and academic integrity in digital education.
+
+Addressing these ethical challenges requires not only robust regulatory frameworks but also empowering educators and researchers to use GenAI ethically and effectively. Bridging this gap is essential to improve pedagogical methods and research practices while ensuring that technology serves as a tool for equity and innovation.
+
+> *RQ2*: In what ways can educators and researchers be empowered to use GenAI ethically and effectively in teaching and research, and how does this influence the improvement of pedagogical methods and research practices?
+
+[Figure 4](#fig4) associated with the regulatory frameworks reflects the most relevant keywords linked to the implementation of policies and regulations for the use of GenAI. The predominant terms include regulation, governance, and policies. This suggests that one of the main concerns is how to balance technological innovation with regulation to protect individual rights and promote transparency ([Wu and Wang, 2024](#ref56)). The graphic highlights the need for international collaboration to establish effective and adaptive legal frameworks.
+
+Figure 4
+
+![]()
+
+
+
+Comparison of regulatory frameworks applicable to generative AI in education. The most recurrent terms in the literature on AI regulation are presented, including governance, transparency, data protection and international regulations. The graph suggests that one of the main concerns is how to balance technological innovation with the protection of individual rights and equity in access to AI-based education.
+
+
+
+The creation of effective regulatory frameworks for the use of GenAI in education must consider legal, ethical and technological aspects. A flexible but robust regulation can prevent abuses in the use of generative tools, guaranteeing the protection of data and copyright ([Abramski et al., 2023](#ref1)). Experts suggest that international regulatory bodies play a key role in establishing common guidelines that promote responsible innovation ([Gajjar, 2024](#ref27)). It is essential to address existing gaps in current policies to avoid confusion in their implementation, especially in globalized educational environments ([Camacho-Zuñiga et al., 2024](#ref19)). In addition, integrating the perspective of educators, technologists, and students in the design of these regulations will strengthen their applicability and relevance ([Deng and Joshi, 2024](#ref25)). A comprehensive regulatory framework can balance technological innovation with respect for academic and social values.
+
+Once these regulatory foundations are in place, policymakers need clear strategies to keep up with how fast AI is changing. That’s the only way to make sure education policies stay flexible, inclusive, and truly help GenAI improve equity and access.
+
+> *RQ3*: What strategies can policymakers adopt to ensure that education policies are coherent, evaluable, and adaptable in the face of rapid innovations in AI and GenAI, and how does this contribute to educational equity and accessibility?
+
+[Figure 5](#fig5) highlights the keywords linked to the impact of GenAI on educational quality. Recurring keywords include personalization and adaptive learning. Recent research shows how GenAI can personalize the teaching process, facilitating the creation of interactive content and the adaptation of pedagogical methods ([Alali and Wardat, 2024](#ref5)). However, it also highlights concerns about academic integrity and the unethical use of these technologies.
+
+Figure 5
+
+![]()
+
+
+
+Impact of GenAI on educational quality. The potential benefits of GenAI, such as personalization of learning, automated feedback, and educational accessibility, are highlighted. However, risks such as technological dependence, decreased human interaction and the possible erosion of creativity in learning processes are also pointed out. The studies reviewed emphasize the need for balanced implementation and teacher training strategies to optimize the use of GenAI in education.
+
+
+
+GenAI’s impact on the quality of education offers opportunities to personalize and optimize teaching, but it also poses challenges. Automating administrative tasks and generating interactive content can free up time for teachers to focus on personalized teaching ([Singh, 2024](#ref48)). However, improper use of GenAI could result in a decrease in the quality of autonomous learning, affecting the development of critical skills ([Williams, 2024](#ref55)). It is essential that educational institutions design training programs that allow teachers to integrate these technologies effectively and ethically ([Bender et al., 2021](#ref14)). In addition, strategies must be implemented that mitigate the risk of digital divides, ensuring equity in access to technological tools ([Camacho-Zuñiga et al., 2024](#ref19)). Educational quality can be significantly improved if the balanced and responsible use of GenAI is promoted.
+
+These considerations set the stage for a deeper exploration of how GenAI can be harnessed to address educational challenges and opportunities. Understanding its transformative potential requires addressing ethical issues, regulatory frameworks, and the evolving dynamics of educational quality as interconnected elements.
+
+### 4.1 Summary of some of the studies reviewed
+
+To provide a clear and structured view of the studies analyzed in this systematic review, the following table has been prepared summarizing the main findings of the reviewed literature. [Table 4](#tab4) presents information on the methodological design of each study, the region in which it was carried out, the key issues addressed and the most relevant findings. In addition, in order to go beyond ethical and regulatory aspects, a pedagogical perspective has been integrated that analyzes how GenAI impacts learning and teaching within existing educational frameworks. These findings allow us to understand more broadly the role of GenAI in education and its potential to transform current pedagogical practices.
+
+Table 4
+
+| Study reference | Study design | Region/Country | Key issues | Main findings | Pedagogical perspective |
+| [Lyu et al. (2025)](#ref40) | Quantitative | USA | Equity and GenAI | AI personalizes learning but can increase the digital divide. | Personalization improves student autonomy, but it must be balanced with traditional teaching. |
+| [Liu and Zhong (2024)](#ref39) | Qualitative | China | AI regulation | Lack of clear standards for GenAI in education. | Without clear regulation, teachers do not know how to integrate GenAI into active learning models. |
+| [Benítez et al. (2019)](#ref15) | Mixed | Spain | Algorithmic bias | Evaluation algorithms favor certain socioeconomic groups. | Need for pedagogical approaches that incorporate algorithmic audits into assessments. |
+| [Avello-Sáez and Estrada-Palavecino (2023)](#ref8) | Qualitative | Global | Constructivism and GenAI | GenAI can improve student autonomy and foster meaningful learning. | Constructivism-based approach: AI should be used to generate active learning rather than replace student creativity. |
+
+Findings from some of the studies reviewed.
+
+5 Discussion: exploring the challenges and opportunities of GenAI in education
+------------------------------------------------------------------------------
+
+Throughout this analysis, ethical challenges, regulatory proposals, and findings related to educational quality will be addressed, highlighting the convergence between the trends identified in the literature and the data represented in the graphs. This approach seeks to highlight both the challenges and opportunities that GenAI poses to transform education, promoting its ethical and effective use for the benefit of all actors involved.
+
+The examination of ethical challenges provides a foundation for understanding how these issues intersect with the broader implications of GenAI in education. This connection is critical, as addressing integrity and transparency issues directly informs the regulatory frameworks and quality standards needed to navigate the transformative potential of these technologies.
+
+### 5.1 Ethical challenges: challenges in integrity and transparency
+
+[Figure 3](#fig3), which presents ethical challenges in GenAI adoption, highlights the predominance of concerns such as data privacy, algorithmic biases, and misinformation. These findings align with recent literature. [Liu and Li (2024)](#ref38) emphasize that the use of GenAI models, such as ChatGPT, raises serious concerns regarding personal data protection and the reinforcement of implicit biases. Similarly, [Williams (2024)](#ref55) stresses the importance of addressing issues such as plagiarism and the improper use of technology in educational settings to uphold academic integrity. In the same vein, [Gajjar (2024)](#ref27) underscores the necessity of regulatory frameworks to mitigate these ethical challenges and ensure the responsible development of GenAI. Consequently, the data in [Figure 3](#fig3) reflects a global consensus advocating for clear policies and comprehensive digital literacy programs to address these risks effectively.
+
+Terms such as algorithmic bias, privacy and transparency also dominate the graph, supporting studies that warn about the ethical implications in the educational field. [Lasker (2024)](#ref36) warns that biases in algorithms can perpetuate social inequalities if audits and responsible practices are not implemented. [Singh (2024)](#ref48) stresses that data privacy must be protected through robust protocols to prevent misuse. In addition [Wu and Wang (2024)](#ref56) suggest that the implementation of clear ethical policies is key to a responsible use of technology in education. These results reflect the need for ethical and technical solutions to address the challenges associated with GenAI.
+
+The recognition of these ethical challenges naturally leads to the discussion of the regulatory frameworks necessary to address them. [Figure 4](#fig4) shows that to reduce risks and use GenAI responsibly in education, governance needs to keep up with how fast the technology is evolving.
+
+#### 5.1.1 Regulatory frameworks: adaptive governance and global collaboration
+
+[Figure 4](#fig4) on regulatory frameworks highlights terms such as regulation, governance, and policy, evidencing the growing need for legal structures to control the use of GenAI in education ([Cao et al., 2024](#ref20)). They argue that effective regulatory frameworks are essential to balance technological innovation with the protection of individual rights. [Camacho-Zuñiga et al. (2024)](#ref19) emphasize the importance of institutional guidelines in universities to guarantee the ethical use of these tools. [Agbese et al. (2023)](#ref3) emphasize that regulation must be flexible and updatable, aligning with technological advances.
+
+Concepts such as governance and adaptive regulation, present in the graph, reflect the need for collaborative and multidisciplinary approaches. [Deng and Joshi (2024)](#ref25) advocate for the harmonization of regulatory policies at the international level to ensure that technological innovation is ethically managed. [Pan and Yang (2021)](#ref42) add that regulations must include clear ethical principles to foster transparency and trust in these technologies. [Figure 4](#fig4) underscores the urgency of global and dynamic regulatory frameworks.
+
+Regulatory frameworks aren’t just about managing ethical risks, they also shape how GenAI can genuinely contribute to better education. When there’s trust and clear accountability, it becomes easier to use these tools to personalize learning and streamline academic tasks.
+
+### 5.2 Quality of education: personalization and academic efficiency
+
+[Figure 5](#fig5) associated with the quality of education highlights concepts such as personalization, adaptive learning and efficient feedback, reflecting the transformative potential of GenAI in pedagogical environments. [Singh (2024)](#ref48) argues that personalization allows content to be adjusted to the individual needs of students, optimizing their educational experience. [Alali and Wardat (2024)](#ref5) stress that adaptive learning improves knowledge retention and educational inclusion. On the other hand [Cao et al. (2024)](#ref20) warn about the risk of compromising academic integrity with an inappropriate use of these tools.
+
+In addition, concepts such as accessibility and automated feedback stand out in the graph. It is noted that the digital divide can limit equitable access to these technologies in disadvantaged contexts ([Walczak and Cellary, 2023](#ref54)). The need for teacher training programs to ensure ethical and effective use of GenAI in classrooms is emphasized ([Bandi et al., 2023](#ref10)). In conclusion, [Figure 5](#fig5) confirms the potential of these technologies to improve educational quality, provided that inclusive and responsible strategies are implemented.
+
+#### 5.2.1 Genai’s impact on education
+
+The integration of GenAI in education has sparked debates about its impact on teaching and learning. While some point to risks such as reduced human interaction, others argue that, when implemented in a pedagogically intentional way, GenAI can become a key tool for fostering student autonomy and active knowledge construction ([Tan and Maravilla, 2024](#ref52)).
+
+From a constructivist perspective, learning occurs when students actively participate in the construction of their knowledge rather than passively receiving information ([Vygotsky, 1978](#ref53)). GenAI can serve as a catalyst for self-directed learning by providing environments for guided exploration and immediate feedback, stimulating critical thinking and metacognition ([Jonassen, 1999](#ref32)). Rather than simply providing answers, these tools can encourage the formulation of questions and the exploration of multiple perspectives on the same problem ([Papert, 1993](#ref43)).
+
+In terms of collaborative learning, GenAI can also enhance socio-constructivist approaches by facilitating the co-construction of knowledge in learning communities ([Scardamalia and Bereiter, 2006](#ref46)). Tools such as intelligent conversational assistants and AI-based writing platforms allow real-time interaction with educational content and the receipt of personalized feedback. This reinforces the student’s autonomy and encourages the formation of deeper cognitive skills, promoting an active role in the acquisition of knowledge.
+
+Still, to protect academic integrity, GenAI needs to be used with solid teaching strategies and clear rules in place. [Siemens (2013)](#ref47) highlights that educational technology is only effective when it is integrated within learning models that prioritize creativity and problem-solving over simple task automation. In this context, the SDT of [Ryan and Deci (2000)](#ref44) suggests that GenAI can strengthen students’ intrinsic motivation if implemented in an environment where they perceive autonomy, competence, and social connection. AI should not be limited to being a provider of answers, but a facilitator that encourages guided exploration and the development of critical skills.
+
+To achieve this, it is essential for educational institutions to design GenAI integration strategies based on collaboration and creativity. This involves:
+
+* 1 Teacher training in the pedagogical use of GenAI, ensuring that educators understand how to guide students in its critical and reflective use.
+* 2 Teaching digital literacy to students, enabling them to distinguish when and how to use AI ethically and productively.
+* 3 Implementation of hybrid models, where GenAI complements, but does not replace, human-centered teaching.
+
+In conclusion, GenAI should not be seen as a replacement for traditional learning, but as an amplifier of students’ autonomy and critical thinking. An approach based on constructivist theory and TDS allows you to maximize your potential without sacrificing fundamental pedagogical values.
+
+#### 5.2.2 Analysis with university case studies
+
+To better understand GenAI’s impact on education, it is crucial to examine how diverse universities have implemented these technologies while managing ethical and regulatory challenges. Below are two emblematic cases of universities that have developed strategies to integrate GenAI responsibly into their educational environments: Stanford University and the University of Toronto.
+
+##### 5.2.2.1 Case 1: Stanford University—using generative AI in personalized tutoring
+
+Stanford University has taken a leading role in testing GenAI in education, with projects like the Stanford Accelerator for Learning and its AI teaching guide from the Teaching Commons. In 2023, the university launched a series of efforts to integrate models like ChatGPT into university courses, not as automated tutors, but as tools to promote critical thinking, writing, and personalization of learning. These experiences demonstrated the potential of AI to improve student engagement and facilitate adaptive teaching processes. However, they also highlighted important challenges such as the need for digital literacy, the verification of generated content and the development of ethical guidelines for its responsible implementation ([Stanford Accelerator for Learning, 2023](#ref50); [Stanford Law School, 2023](#ref51)). These initiatives underscore the importance of establishing strong institutional frameworks for the ethically and pedagogically valuable use of these emerging technologies.
+
+##### 5.2.2.2 Case 2: University of Toronto—regulation of GenAI in evaluation processes
+
+In a different approach, the University of Toronto has focused its implementation of GenAI on learning assessment, especially automated feedback on essays and written assignments. To ensure fairness and mitigate algorithmic biases, the university has developed a governance framework in which generative AI can only be used as a Support Tool and not as a substitute for human judgment ([Guo et al., 2023](#ref30)). This framework regulates the use of GenAI in exams and academic papers, ensuring that final decisions remain in the hands of human professors and evaluators. In addition, Toronto has implemented an auditing system in which teachers and students can review the AI’s recommendations to verify their validity. This case demonstrates how proper regulation can mitigate ethical concerns and ensure that AI is used to strengthen, not replace, traditional educational processes.
+
+Both cases reflect different approaches to the integration of GenAI in higher education, but they agree on the need for an ethical and regulatory framework that allows its benefits to be harnessed without compromising the quality or equity of learning. These examples highlight the key role of digital literacy and human supervision in the effective implementation of generative AI in educational settings.
+
+6 Conclusions: legal challenges in the integration of GenAI in education
+------------------------------------------------------------------------
+
+Bringing GenAI into education is not just about new tools, it raises tough questions around ethics, regulation, and what quality education really means. At the center of all this is the need to protect core rights like privacy, equality, and access. This study highlights how ethical principles need to be part of the law, especially when it comes to handling data, avoiding algorithmic bias, and being transparent about how these systems work. Promoting digital literacy is not a nice-to-have it’s essential to make sure GenAI supports students, not puts them at risk.
+
+Strong regulation is key to reducing the risks that come with GenAI. Adaptive and collaborative regulatory frameworks that prioritize transparency, accountability, and international cooperation are essential to safeguard individual and collective rights. Harmonizing global regulations and closing legal loopholes can prevent misuse and protect users, while ensuring that technological advancements align with societal values. This calls for a dynamic legal approach that responds to the rapid evolution of GenAI and its educational applications.
+
+The potential of GenAI to transform educational quality highlights the importance of legal measures that ensure equitable access and mitigate risks of exclusion. Personalized learning and automated feedback, though promising, must be managed to avoid reinforcing educational divides or overreliance on technology. Regulatory efforts must also address teacher training and governance to create a balanced ecosystem where technology enhances learning outcomes while upholding the principles of inclusivity and equity.
+
+Using generative AI ethically and effectively in education starts with having clear policies—both at the institutional and government levels. Based on existing governance models and what some universities are already doing, three key guidelines stand out. First, schools and universities should follow regulatory frameworks that ensure transparency and human oversight, like those in the IEEE Ethically Aligned Design. It’s also recommended that institutions create AI ethics committees to assess the risks and benefits of using these tools in teaching. Second, universities need clear internal rules on how GenAI is used in academic contexts. For example, the University of Toronto only allows AI to assist with assessments, not replace teacher judgment. Third, both students and educators should receive digital literacy training. This includes learning to identify algorithmic bias, critically evaluate AI-generated content, and apply these technologies responsibly in the classroom.
+
+This analysis acknowledges certain limitations, including the quality and availability of data, which may restrict the comprehensiveness of the legal challenges addressed. Additionally, the lack of longitudinal studies hampers the ability to predict the long-term effects of current regulatory measures. The rapid development of GenAI leaves room for unforeseen challenges that may emerge in the future, underscoring the need for continual research and adaptive policymaking.
+
+Future studies should prioritize a law-centered approach to explore how regulations can evolve to address the ethical, educational, and technological implications of GenAI. Longitudinal research is essential to evaluate the sustained impact of these tools, while comparative international studies can identify best practices and expose regulatory gaps. It is also crucial to investigate governance strategies that foster cooperation among governments, educational institutions, and technology developers. Lastly, integrating ethical and digital literacy into legal frameworks can strengthen the protection of rights and build a foundation for responsible GenAI use in education.
+
+Statements
+----------
+
+### Data availability statement
+
+The data supporting the findings of this study are derived from publicly available literature included in the systematic review and cited accordingly in the reference list.
+
+### Author contributions
+
+IG-L: Conceptualization, Methodology, Investigation, Writing – original draft, Visualization. LT-L: Methodology, Writing – review & editing, Validation.
+
+### Funding
+
+The author(s) declare that no financial support was received for the research and/or publication of this article.
+
+### Acknowledgments
+
+The authors acknowledge the academic environments that contributed to the development of this work during their postgraduate studies.
+
+### Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+### Generative AI statement
+
+The authors declare that Gen AI was used in the creation of this manuscript. Generative AI was used in the preparation of this manuscript in a limited and strictly controlled manner. Specifically, it assisted during the initial organization of thematic sections and helped identify general areas of literature for further manual exploration. All writing, analysis, interpretation, and synthesis of content were performed by the authors. All references in the current version have been manually reviewed and verified. The final manuscript has been completely revised to ensure originality, accuracy, and integrity, fully aligning with Frontiers’ ethical policies on the responsible use of generative AI.
+
+### Correction note
+
+A correction has been made to this article. Details can be found at: [10.3389/feduc.2025.1681252](https://doi.org/10.3389/feduc.2025.1681252).
+
+### Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+References
+----------
+
+* 1
+  
+  AbramskiK.CitraroS.LombardiL.RossettiG.StellaM. (2023). Cognitive network science reveals bias in GPT-3, GPT-3.5 turbo, and GPT-4 mirroring math anxiety in high-school students. *Big Data Cogn. Comput.*7:124. doi: 10.3390/bdcc7030124
+  
+  + [CrossRef](https://doi.org/10.3390/bdcc7030124)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=K..%2BAbramski&author=S..%2BCitraro&author=L..%2BLombardi&author=G..%2BRossetti&author=M..%2BStella&publication_year=2023&title=Cognitive%2Bnetwork%2Bscience%2Breveals%2Bbias%2Bin%2BGPT-3%2C%2BGPT-3.5%2Bturbo%2C%2Band%2BGPT-4%2Bmirroring%2Bmath%2Banxiety%2Bin%2Bhigh-school%2Bstudents&journal=Big+Data+Cogn.+Comput.&volume=7)
+* 2
+  
+  AdiguzelT.KayaM. H.CansuF. K. (2023). Revolutionizing education with AI: exploring the transformative potential of ChatGPT. *Contemp. Educ. Technol.*15:ep429. doi: 10.30935/cedtech/13152
+  
+  + [CrossRef](https://doi.org/10.30935/cedtech/13152)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=T..%2BAdiguzel&author=M.%2BH..%2BKaya&author=F.%2BK..%2BCansu&publication_year=2023&title=Revolutionizing%2Beducation%2Bwith%2BAI%3A%2Bexploring%2Bthe%2Btransformative%2Bpotential%2Bof%2BChatGPT&journal=Contemp.+Educ.+Technol.&volume=15)
+* 3
+  
+  AgbeseM.MohananiR.KhanA.AbrahamssonP.. (2023). Implementing AI ethics: making sense of the ethical requirements. Proceedings of the 27th international conference on evaluation and assessment in software engineering, 62–71.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BAgbese&author=R..%2BMohanani&author=A..%2BKhan&author=P..%2BAbrahamsson&publication_year=2023&title=Implementing%2BAI%2Bethics%3A%2Bmaking%2Bsense%2Bof%2Bthe%2Bethical%2Brequirements&pages=62-71)
+* 4
+  
+  AkgunS.GreenhowC. (2022). Artificial intelligence in education: addressing ethical challenges in K-12 settings. *AI Ethics*2, 431–440. doi: 10.1007/s43681-021-00096-7
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/34790956)
+  + [CrossRef](https://doi.org/10.1007/s43681-021-00096-7)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=S..%2BAkgun&author=C..%2BGreenhow&publication_year=2022&title=Artificial%2Bintelligence%2Bin%2Beducation%3A%2Baddressing%2Bethical%2Bchallenges%2Bin%2BK-12%2Bsettings&journal=AI+Ethics&volume=2&pages=431-440)
+* 5
+  
+  AlaliR.WardatY. (2024). Generative AI in education: best practices for successful implementation. *Int. J. Relig.*5, 1016–1025. doi: 10.61707/pkwb8402
+  
+  + [CrossRef](https://doi.org/10.61707/pkwb8402)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R..%2BAlali&author=Y..%2BWardat&publication_year=2024&title=Generative%2BAI%2Bin%2Beducation%3A%2Bbest%2Bpractices%2Bfor%2Bsuccessful%2Bimplementation&journal=Int.+J.+Relig.&volume=5)
+* 6
+  
+  Al-KfairyM.MustafaD.KshetriN.InsiewM.AlfandiO. (2024). Ethical challenges and solutions of generative AI: an interdisciplinary perspective. *Informatics*11:58. doi: 10.3390/informatics11030058
+  
+  + [CrossRef](https://doi.org/10.3390/informatics11030058)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BAl-Kfairy&author=D..%2BMustafa&author=N..%2BKshetri&author=M..%2BInsiew&author=O..%2BAlfandi&publication_year=2024&title=Ethical%2Bchallenges%2Band%2Bsolutions%2Bof%2Bgenerative%2BAI%3A%2Ban%2Binterdisciplinary%2Bperspective&journal=Informatics&volume=11)
+* 7
+  
+  AlnasibB. N. M. (2023). Factors affecting faculty members’ readiness to integrate artificial intelligence into their teaching practices: a study from the Saudi higher education context. *Int. J. Learn. Teach. Educ. Res.*22, 465–491. doi: 10.26803/ijlter.22.8.24
+  
+  + [CrossRef](https://doi.org/10.26803/ijlter.22.8.24)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=B.%2BN.%2BM..%2BAlnasib&publication_year=2023&title=Factors%2Baffecting%2Bfaculty%2Bmembers%E2%80%99%2Breadiness%2Bto%2Bintegrate%2Bartificial%2Bintelligence%2Binto%2Btheir%2Bteaching%2Bpractices%3A%2Ba%2Bstudy%2Bfrom%2Bthe%2BSaudi%2Bhigher%2Beducation%2Bcontext&journal=Int.+J.+Learn.+Teach.+Educ.+Res.&volume=22&pages=465-491)
+* 8
+  
+  Avello-SáezD.Estrada-PalavecinoL. (2023). ChatGPT and its impact on competence training in occupational therapists: a reflection on academic integrity. *Cad. Bras. Ter. Ocup.*31:e3534. doi: 10.1590/2526-8910.ctoEN271035342
+  
+  + [CrossRef](https://doi.org/10.1590/2526-8910.ctoEN271035342)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D..%2BAvello-S%C3%A1ez&author=L..%2BEstrada-Palavecino&publication_year=2023&title=ChatGPT%2Band%2Bits%2Bimpact%2Bon%2Bcompetence%2Btraining%2Bin%2Boccupational%2Btherapists%3A%2Ba%2Breflection%2Bon%2Bacademic%2Bintegrity&journal=Cad.+Bras.+Ter.+Ocup.&volume=31)
+* 9
+  
+  BakerR. S.HawnA. (2022). Algorithmic bias in education. *Int. J. Artif. Intell. Educ.*32, 1052–1092. doi: 10.1007/s40593-021-00285-9
+  
+  + [CrossRef](https://doi.org/10.1007/s40593-021-00285-9)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R.%2BS..%2BBaker&author=A..%2BHawn&publication_year=2022&title=Algorithmic%2Bbias%2Bin%2Beducation&journal=Int.+J.+Artif.+Intell.+Educ.&volume=32&pages=1052-1092)
+* 10
+  
+  BandiA.AdapaP. V. S. R.KuchiY. E. V. P. K. (2023). The power of generative AI: a review of requirements, models, input–output formats, evaluation metrics, and challenges. *Future Internet*15:260. doi: 10.3390/fi15080260
+  
+  + [CrossRef](https://doi.org/10.3390/fi15080260)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BBandi&author=P.%2BV.%2BS.%2BR..%2BAdapa&author=Y.%2BE.%2BV.%2BP.%2BK..%2BKuchi&publication_year=2023&title=The%2Bpower%2Bof%2Bgenerative%2BAI%3A%2Ba%2Breview%2Bof%2Brequirements%2C%2Bmodels%2C%2Binput%E2%80%93output%2Bformats%2C%2Bevaluation%2Bmetrics%2C%2Band%2Bchallenges&journal=Future+Internet&volume=15)
+* 11
+  
+  BannisterP.Alcalde PeñalverE.Santamaría UrbietaA. (2023). Transnational higher education cultures and generative AI: a nominal group study for policy development in English medium instruction. *J. Multicult. Educ.*18, 173–191. doi: 10.1108/JME-10-2023-0102
+  
+  + [CrossRef](https://doi.org/10.1108/JME-10-2023-0102)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=P..%2BBannister&author=E..%2BAlcalde%2BPe%C3%B1alver&author=A..%2BSantamar%C3%ADa%2BUrbieta&publication_year=2023&title=Transnational%2Bhigher%2Beducation%2Bcultures%2Band%2Bgenerative%2BAI%3A%2Ba%2Bnominal%2Bgroup%2Bstudy%2Bfor%2Bpolicy%2Bdevelopment%2Bin%2BEnglish%2Bmedium%2Binstruction&journal=J.+Multicult.+Educ.&volume=18)
+* 12
+  
+  BauerE.GreiselM.KuznetsovI.BerndtM.KollarI.DreselM.et al. (2023). Using natural language processing to support peer-feedback in the age of artificial intelligence: a cross-disciplinary framework and a research agenda. *Br. J. Educ. Technol.*54, 1222–1245. doi: 10.1111/bjet.13336
+  
+  + [CrossRef](https://doi.org/10.1111/bjet.13336)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=E..%2BBauer&author=M..%2BGreisel&author=I..%2BKuznetsov&author=M..%2BBerndt&author=I..%2BKollar&author=M..%2BDresel&publication_year=2023&title=Using%2Bnatural%2Blanguage%2Bprocessing%2Bto%2Bsupport%2Bpeer-feedback%2Bin%2Bthe%2Bage%2Bof%2Bartificial%2Bintelligence%3A%2Ba%2Bcross-disciplinary%2Bframework%2Band%2Ba%2Bresearch%2Bagenda&journal=Br.+J.+Educ.+Technol.&volume=54&pages=1222-1245)
+* 13
+  
+  BekmanovaG.OngarbayevY.SomzhurekB.MukatayevN. (2021). Personalized training model for organizing blended and lifelong distance learning courses and its effectiveness in higher education. *J. Comput. High. Educ.*33, 668–683. doi: 10.1007/s12528-021-09282-2
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/34177206)
+  + [CrossRef](https://doi.org/10.1007/s12528-021-09282-2)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=G..%2BBekmanova&author=Y..%2BOngarbayev&author=B..%2BSomzhurek&author=N..%2BMukatayev&publication_year=2021&title=Personalized%2Btraining%2Bmodel%2Bfor%2Borganizing%2Bblended%2Band%2Blifelong%2Bdistance%2Blearning%2Bcourses%2Band%2Bits%2Beffectiveness%2Bin%2Bhigher%2Beducation&journal=J.+Comput.+High.+Educ.&volume=33)
+* 14
+  
+  BenderE. M.GebruT.McMillan-MajorA.ShmitchellS.. (2021). On the dangers of stochastic parrots: can language models be too big?. Proceedings of the 2021 ACM conference on fairness, accountability, and transparency, 610–623.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=E.%2BM..%2BBender&author=T..%2BGebru&author=A..%2BMcMillan-Major&author=S..%2BShmitchell&publication_year=2021&title=On%2Bthe%2Bdangers%2Bof%2Bstochastic%2Bparrots%3A%2Bcan%2Blanguage%2Bmodels%2Bbe%2Btoo%2Bbig%3F&pages=610-623)
+* 15
+  
+  BenítezI.Van De VijverF.PadillaJ. L. (2019). A mixed methods approach to the analysis of bias in cross-cultural studies. *Sociol. Methods Res.*51, 237–270. doi: 10.1177/0049124119852390
+  
+  + [CrossRef](https://doi.org/10.1177/0049124119852390)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=I..%2BBen%C3%ADtez&author=F..%2BVan%2BDe%2BVijver&author=J.%2BL..%2BPadilla&publication_year=2019&title=A%2Bmixed%2Bmethods%2Bapproach%2Bto%2Bthe%2Banalysis%2Bof%2Bbias%2Bin%2Bcross-cultural%2Bstudies&journal=Sociol.+Methods+Res.&volume=51&pages=237-270)
+* 16
+  
+  BostromN. (2014). *Superintelligence: paths, dangers, strategies*. Oxford, United Kingdom: Oxford University Press.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N..%2BBostrom&publication_year=2014&journal=Superintelligence%3A+paths%2C+dangers%2C+strategies)
+* 17
+  
+  BountouridisD.HarambamJ.MakhortykhM.MarreroM.TintarevN.HauffC.. (2019). Siren: a simulation framework for understanding the effects of recommender systems in online news environments. Proceedings of the conference on fairness, accountability, and transparency, 150–159.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D..%2BBountouridis&author=J..%2BHarambam&author=M..%2BMakhortykh&author=M..%2BMarrero&author=N..%2BTintarev&author=C..%2BHauff&publication_year=2019&title=Siren%3A%2Ba%2Bsimulation%2Bframework%2Bfor%2Bunderstanding%2Bthe%2Beffects%2Bof%2Brecommender%2Bsystems%2Bin%2Bonline%2Bnews%2Benvironments&pages=150-159)
+* 18
+  
+  BreenS.OuazzaneK.PatelP. (2020). GDPR: is your consent valid?*Bus. Inf. Rev.*37, 19–24. doi: 10.1177/0266382120903254
+  
+  + [CrossRef](https://doi.org/10.1177/0266382120903254)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=S..%2BBreen&author=K..%2BOuazzane&author=P..%2BPatel&publication_year=2020&title=GDPR%3A%2Bis%2Byour%2Bconsent%2Bvalid%3F&journal=Bus.+Inf.+Rev.&volume=37&pages=19-24)
+* 19
+  
+  Camacho-ZuñigaC.Rodea-SánchezM. A.LópezO. O.ZavalaG.. (2024). Generative AI guidelines by/for engineering undergraduates. 2024 IEEE global engineering education conference (EDUCON).
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C..%2BCamacho-Zu%C3%B1iga&author=M.%2BA..%2BRodea-S%C3%A1nchez&author=O.%2BO..%2BL%C3%B3pez&author=G..%2BZavala&publication_year=2024&title=Generative%2BAI%2Bguidelines%2Bby%2Ffor%2Bengineering%2Bundergraduates)
+* 20
+  
+  CaoY.FanJ.YangQ. (2024). ChatGPT in education: ethical predicaments of generative AI. *Trans. Soc. Sci. Educ. Hum. Res.*11, 64–69. doi: 10.62051/bejkn640
+  
+  + [CrossRef](https://doi.org/10.62051/bejkn640)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Y..%2BCao&author=J..%2BFan&author=Q..%2BYang&publication_year=2024&title=ChatGPT%2Bin%2Beducation%3A%2Bethical%2Bpredicaments%2Bof%2Bgenerative%2BAI&journal=Trans.+Soc.+Sci.+Educ.+Hum.+Res.&volume=11)
+* 21
+  
+  Casa Blanca de EE.UU. (2020). Libro Blanco: Una estrategia nacional Para la inteligencia artificial. White house Office of Science and technology policy. Available online at: <https://www.whitehouse.gov/wp-content/uploads/2020/02/American-AI-Initiative-White-Paper.pdf> (Accessed May 15, 2024)
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?publication_year=2020)
+* 22
+  
+  ChanC. K. Y. (2023). A comprehensive AI policy education framework for university teaching and learning. *Int. J. Educ. Technol. High. Educ.*20:38. doi: 10.1186/s41239-023-00408-3
+  
+  + [CrossRef](https://doi.org/10.1186/s41239-023-00408-3)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C.%2BK.%2BY..%2BChan&publication_year=2023&title=A%2Bcomprehensive%2BAI%2Bpolicy%2Beducation%2Bframework%2Bfor%2Buniversity%2Bteaching%2Band%2Blearning&journal=Int.+J.+Educ.+Technol.+High.+Educ.&volume=20)
+* 23
+  
+  Comisión Europea. (2021). Propuesta de Reglamento del Parlamento Europeo y del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial (Ley de Inteligencia Artificial). En Diario Oficial de la Unión Europea. Available online at: <https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52021PC0206> (Accessed April 2, 2024)
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?publication_year=2021)
+* 24
+  
+  ContrerasP. (2024). Convergencia internacional y caminos propios: Regulación de la inteligencia artificial en América Latina. *Actual. Juríd. Iberoam.*21, 468–493.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=P..%2BContreras&publication_year=2024&title=Convergencia%2Binternacional%2By%2Bcaminos%2Bpropios%3A%2BRegulaci%C3%B3n%2Bde%2Bla%2Binteligencia%2Bartificial%2Ben%2BAm%C3%A9rica%2BLatina&journal=Actual.+Jur%C3%ADd.+Iberoam.&volume=21&pages=468-493)
+* 25
+  
+  DengX. N.JoshiK. D. (2024). Promoting ethical use of generative AI in education. *ACM Sigmis Database Database Adv. Inf. Syst.* 55, 6–11. doi: 10.1145/3685235.3685237
+  
+  + [CrossRef](https://doi.org/10.1145/3685235.3685237)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=X.%2BN..%2BDeng&author=K.%2BD..%2BJoshi&publication_year=2024&title=Promoting%2Bethical%2Buse%2Bof%2Bgenerative%2BAI%2Bin%2Beducation&journal=ACM+Sigmis+Database+Database+Adv.+Inf.+Syst.)
+* 26
+  
+  DimitriadouE.LanitisA. (2023). A critical evaluation, challenges, and future perspectives of using artificial intelligence and emerging technologies in smart classrooms. *Smart Learn. Environ.*10:12. doi: 10.1186/s40561-023-00231-3
+  
+  + [CrossRef](https://doi.org/10.1186/s40561-023-00231-3)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=E..%2BDimitriadou&author=A..%2BLanitis&publication_year=2023&title=A%2Bcritical%2Bevaluation%2C%2Bchallenges%2C%2Band%2Bfuture%2Bperspectives%2Bof%2Busing%2Bartificial%2Bintelligence%2Band%2Bemerging%2Btechnologies%2Bin%2Bsmart%2Bclassrooms&journal=Smart+Learn.+Environ.&volume=10)
+* 27
+  
+  GajjarV. (2024). The future of AI governance: navigating the challenges of generative AI. *Int. J. Sci. Res. (IJSR)*13, 1686–1687. doi: 10.21275/sr24927012739
+  
+  + [CrossRef](https://doi.org/10.21275/sr24927012739)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=V..%2BGajjar&publication_year=2024&title=The%2Bfuture%2Bof%2BAI%2Bgovernance%3A%2Bnavigating%2Bthe%2Bchallenges%2Bof%2Bgenerative%2BAI&journal=Int.+J.+Sci.+Res.+%28IJSR%29&volume=13)
+* 28
+  
+  García-PeñalvoF. J. (2021). *Cómo hacer una systematic literature review (SLR)*. Geneva, Switzerland: Zenodo.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=F.%2BJ.%2BGarc%C3%ADa-Pe%C3%B1alvo&publication_year=2021&journal=C%C3%B3mo+hacer+una+systematic+literature+review+%28SLR%29)
+* 29
+  
+  GrájedaA.BurgosJ.CórdovaP.SanjinésA. (2024). Assessing student-perceived impact of using artificial intelligence tools: construction of a synthetic index of application in higher education. *Cogent Educ.*11:2287917. doi: 10.1080/2331186X.2023.2287917
+  
+  + [CrossRef](https://doi.org/10.1080/2331186X.2023.2287917)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BGr%C3%A1jeda&author=J..%2BBurgos&author=P..%2BC%C3%B3rdova&author=A..%2BSanjin%C3%A9s&publication_year=2024&title=Assessing%2Bstudent-perceived%2Bimpact%2Bof%2Busing%2Bartificial%2Bintelligence%2Btools%3A%2Bconstruction%2Bof%2Ba%2Bsynthetic%2Bindex%2Bof%2Bapplication%2Bin%2Bhigher%2Beducation&journal=Cogent+Educ.&volume=11)
+* 30
+  
+  GuoK.ZhongY.LiD.ChuS. K. W. (2023). Effects of chatbot-assisted in-class debates on students’ argumentation skills and task motivation. *Comput. Educ.*203:104862. doi: 10.1016/j.compedu.2023.104862
+  
+  + [CrossRef](https://doi.org/10.1016/j.compedu.2023.104862)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=K..%2BGuo&author=Y..%2BZhong&author=D..%2BLi&author=S.%2BK.%2BW..%2BChu&publication_year=2023&title=Effects%2Bof%2Bchatbot-assisted%2Bin-class%2Bdebates%2Bon%2Bstudents%E2%80%99%2Bargumentation%2Bskills%2Band%2Btask%2Bmotivation&journal=Comput.+Educ.&volume=203)
+* 31
+  
+  Institute of Electrical and Electronics Engineers. (2020). IEEE code of ethics. Available online at: <https://www.ieee.org/about/corporate/governance/p7-8.htm> (Accessed March 28, 2024)
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?publication_year=2020)
+* 32
+  
+  JonassenD. H. (1999). “Designing constructivist learning environments” in *Instructional-design theories and models: a new paradigm of instructional theory*. ed. ReigeluthC. M. (Mahwah, New Jersey, USA: Lawrence Erlbaum Associates), 215–239.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D.%2BH..%2BJonassen&publication_year=1999&title=Designing%2Bconstructivist%2Blearning%2Benvironments&journal=Instructional-design+theories+and+models%3A+a+new+paradigm+of+instructional+theory&pages=215-239)
+* 33
+  
+  KitchenhamB. (2007). *Guidelines for performing systematic literature reviews in software engineering (EBSE Technical Report EBSE-2007-01). Durham, United Kingdom: Department of Computer Science, University of Durham and Keele University.*
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=B..%2BKitchenham&publication_year=2007&journal=Guidelines+for+performing+systematic+literature+reviews+in+software+engineering+%28EBSE+Technical+Report+EBSE-2007-01%29.+Durham%2C+United+Kingdom%3A+Department+of+Computer+Science%2C+University+of+Durham+and+Keele+University.)
+* 34
+  
+  KitchenhamB.PretoriusR.BudgenD.Pearl BreretonO.TurnerM.NiaziM.et al. (2010). Systematic literature reviews in software engineering – a tertiary study. *Inf. Softw. Technol.*52, 792–805. doi: 10.1016/j.infsof.2010.03.006
+  
+  + [CrossRef](https://doi.org/10.1016/j.infsof.2010.03.006)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=B..%2BKitchenham&author=R..%2BPretorius&author=D..%2BBudgen&author=O..%2BPearl%2BBrereton&author=M..%2BTurner&author=M..%2BNiazi&publication_year=2010&title=Systematic%2Bliterature%2Breviews%2Bin%2Bsoftware%2Bengineering%2B%E2%80%93%2Ba%2Btertiary%2Bstudy&journal=Inf.+Softw.+Technol.&volume=52&pages=792-805)
+* 35
+  
+  LandersR. N.BehrendT. S. (2023). Auditing the AI auditors: a framework for evaluating fairness and bias in high stakes AI predictive models. *Am. Psychol.*78, 36–49. doi: 10.1037/amp0000972
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/35157476)
+  + [CrossRef](https://doi.org/10.1037/amp0000972)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R.%2BN..%2BLanders&author=T.%2BS..%2BBehrend&publication_year=2023&title=Auditing%2Bthe%2BAI%2Bauditors%3A%2Ba%2Bframework%2Bfor%2Bevaluating%2Bfairness%2Band%2Bbias%2Bin%2Bhigh%2Bstakes%2BAI%2Bpredictive%2Bmodels&journal=Am.+Psychol.&volume=78&pages=36-49)
+* 36
+  
+  LaskerA. (2024). Exploring ethical considerations in generative AI. *Int. J. Adv. Res.*12, 531–535. doi: 10.21474/ijar01/18578
+  
+  + [CrossRef](https://doi.org/10.21474/ijar01/18578)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BLasker&publication_year=2024&title=Exploring%2Bethical%2Bconsiderations%2Bin%2Bgenerative%2BAI&journal=Int.+J.+Adv.+Res.&volume=12)
+* 37
+  
+  LinkonA. A.ShaimaM.SarkerM. S. U.BadruddowzaNabiN.RanaM. N. U.et al. (2024). Advancements and applications of generative artificial intelligence and large language models on business management: a comprehensive review. *J. Comput. Sci. Technol. Stud.*6, 225–232. doi: 10.32996/jcsts.2024.6.1.26
+  
+  + [CrossRef](https://doi.org/10.32996/jcsts.2024.6.1.26)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BA..%2BLinkon&author=M..%2BShaima&author=M.%2BS.%2BU..%2BSarker&author=.%2BBadruddowza&author=N..%2BNabi&author=M.%2BN.%2BU..%2BRana&publication_year=2024&title=Advancements%2Band%2Bapplications%2Bof%2Bgenerative%2Bartificial%2Bintelligence%2Band%2Blarge%2Blanguage%2Bmodels%2Bon%2Bbusiness%2Bmanagement%3A%2Ba%2Bcomprehensive%2Breview&journal=J.+Comput.+Sci.+Technol.+Stud.&volume=6&pages=225-232)
+* 38
+  
+  LiuW.LiM. (2024). The analysis of technological ethical issues in generative artificial intelligence. *J. Artif. Intell. Pract.* 7, 155–160. doi: 10.23977/jaip.2024.070220
+  
+  + [CrossRef](https://doi.org/10.23977/jaip.2024.070220)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=W..%2BLiu&author=M..%2BLi&publication_year=2024&title=The%2Banalysis%2Bof%2Btechnological%2Bethical%2Bissues%2Bin%2Bgenerative%2Bartificial%2Bintelligence&journal=J.+Artif.+Intell.+Pract.)
+* 39
+  
+  LiuX.ZhongB. (2024). What to consider before incorporating generative AI into schools?*AI Soc.* 40, 1121–1123. doi: 10.1007/s00146-024-01872-01879
+  
+  + [CrossRef](https://doi.org/10.1007/s00146-024-01872-01879)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=X..%2BLiu&author=B..%2BZhong&publication_year=2024&title=What%2Bto%2Bconsider%2Bbefore%2Bincorporating%2Bgenerative%2BAI%2Binto%2Bschools%3F&journal=AI+Soc.)
+* 40
+  
+  LyuW.ZhangS.ChungT.SunY.ZhangY. (2025). Understanding the practices, perceptions, and (dis)trust of generative AI among instructors: a mixed-methods study in the U.S. higher education. *Comput. Educ. Artif. Intell.*8:100383. doi: 10.1016/j.caeai.2025.100383
+  
+  + [CrossRef](https://doi.org/10.1016/j.caeai.2025.100383)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=W..%2BLyu&author=S..%2BZhang&author=T..%2BChung&author=Y..%2BSun&author=Y..%2BZhang&publication_year=2025&title=Understanding%2Bthe%2Bpractices%2C%2Bperceptions%2C%2Band%2B%28dis%29trust%2Bof%2Bgenerative%2BAI%2Bamong%2Binstructors%3A%2Ba%2Bmixed-methods%2Bstudy%2Bin%2Bthe%2BU.S.%2Bhigher%2Beducation&journal=Comput.+Educ.+Artif.+Intell.&volume=8)
+* 41
+  
+  MiaoF.ShiohiraK.LaoN. (2024). *AI competency framework for students*. Paris, France: UNESCO Publishing.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=F..%2BMiao&author=K..%2BShiohira&author=N..%2BLao&publication_year=2024&journal=AI+competency+framework+for+students)
+* 42
+  
+  PanY.YangP. (2021). The role of AI assisted socio-cultural frameworks in academic change and higher education growth. *Int. J. Technol. Manag.*86, 196–213. doi: 10.1504/IJTM.2021.118316
+  
+  + [CrossRef](https://doi.org/10.1504/IJTM.2021.118316)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Y..%2BPan&author=P..%2BYang&publication_year=2021&title=The%2Brole%2Bof%2BAI%2Bassisted%2Bsocio-cultural%2Bframeworks%2Bin%2Bacademic%2Bchange%2Band%2Bhigher%2Beducation%2Bgrowth&journal=Int.+J.+Technol.+Manag.&volume=86&pages=196-213)
+* 43
+  
+  PapertS. (1993). *The children’s machine: rethinking school in the age of the computer*. New York, USA: Basic Books.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=S..%2BPapert&publication_year=1993&journal=The+children%E2%80%99s+machine%3A+rethinking+school+in+the+age+of+the+computer)
+* 44
+  
+  RyanR. M.DeciE. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *Am. Psychol.*55, 68–78. doi: 10.1037/0003-066X.55.1.68
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/11392867)
+  + [CrossRef](https://doi.org/10.1037/0003-066X.55.1.68)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R.%2BM..%2BRyan&author=E.%2BL..%2BDeci&publication_year=2000&title=Self-determination%2Btheory%2Band%2Bthe%2Bfacilitation%2Bof%2Bintrinsic%2Bmotivation%2C%2Bsocial%2Bdevelopment%2C%2Band%2Bwell-being&journal=Am.+Psychol.&volume=55&pages=68-78)
+* 45
+  
+  SailerM.BauerE.HofmannR.KiesewetterJ.GlasJ.GurevychI.et al. (2023). Adaptive feedback from artificial neural networks facilitates pre-service teachers’ diagnostic reasoning in simulation-based learning. *Learn. Instr.*83:101620. doi: 10.1016/j.learninstruc.2022.101620
+  
+  + [CrossRef](https://doi.org/10.1016/j.learninstruc.2022.101620)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BSailer&author=E..%2BBauer&author=R..%2BHofmann&author=J..%2BKiesewetter&author=J..%2BGlas&author=I..%2BGurevych&publication_year=2023&title=Adaptive%2Bfeedback%2Bfrom%2Bartificial%2Bneural%2Bnetworks%2Bfacilitates%2Bpre-service%2Bteachers%E2%80%99%2Bdiagnostic%2Breasoning%2Bin%2Bsimulation-based%2Blearning&journal=Learn.+Instr.&volume=83)
+* 46
+  
+  ScardamaliaM.BereiterC. (2006). “Knowledge building: theory, pedagogy, and technology” in *Cambridge handbook of the learning sciences*. ed. R. K. Sawyer (New York, USA: Cambridge University Press), 97–115.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BScardamalia&author=C..%2BBereiter&publication_year=2006&title=Knowledge%2Bbuilding%3A%2Btheory%2C%2Bpedagogy%2C%2Band%2Btechnology&journal=Cambridge+handbook+of+the+learning+sciences&pages=97-115)
+* 47
+  
+  SiemensG. (2013). Learning analytics: the emergence of a discipline. *Am. Behav. Sci.*57, 1380–1400. doi: 10.1177/0002764213498851
+  
+  + [CrossRef](https://doi.org/10.1177/0002764213498851)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=G..%2BSiemens&publication_year=2013&title=Learning%2Banalytics%3A%2Bthe%2Bemergence%2Bof%2Ba%2Bdiscipline&journal=Am.+Behav.+Sci.&volume=57&pages=1380-1400)
+* 48
+  
+  SinghA. K. (2024). Impact of generative AI on educational sector. *Int. J. Sci. Res. Eng. Manag.* 13, 723–730. doi: 10.55041/ijsrem30724
+  
+  + [CrossRef](https://doi.org/10.55041/ijsrem30724)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BK..%2BSingh&publication_year=2024&title=Impact%2Bof%2Bgenerative%2BAI%2Bon%2Beducational%2Bsector&journal=Int.+J.+Sci.+Res.+Eng.+Manag.)
+* 49
+  
+  SmithH. (2020). Algorithmic bias: should students pay the price?*AI & Soc.*35, 1077–1078. doi: 10.1007/s00146-020-01054-3
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/32952313)
+  + [CrossRef](https://doi.org/10.1007/s00146-020-01054-3)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=H..%2BSmith&publication_year=2020&title=Algorithmic%2Bbias%3A%2Bshould%2Bstudents%2Bpay%2Bthe%2Bprice%3F&journal=AI+%26+Soc.&volume=35&pages=1077-1078)
+* 50
+  
+  Stanford Accelerator for Learning. (2023). Generative AI. Stanford University. Available online at: <https://acceleratelearning.stanford.edu/funding/generative-ai/> (Accessed May 4, 2024)
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?publication_year=2023)
+* 51
+  
+  Stanford Law School. (2023). AI & access to justice. Stanford Center for Legal Informatics. Available online at: <https://justiceinnovation.law.stanford.edu/projects/ai-access-to-justice/> (Accessed May 4, 2024)
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?publication_year=2023)
+* 52
+  
+  TanM. J. T.MaravillaN. M. A. T. (2024). Shaping integrity: why generative artificial intelligence does not have to undermine education. *Front. Artif. Intell.*7:1471224. doi: 10.3389/frai.2024.1471224
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39512399)
+  + [CrossRef](https://doi.org/10.3389/frai.2024.1471224)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M.%2BJ.%2BT..%2BTan&author=N.%2BM.%2BA.%2BT..%2BMaravilla&publication_year=2024&title=Shaping%2Bintegrity%3A%2Bwhy%2Bgenerative%2Bartificial%2Bintelligence%2Bdoes%2Bnot%2Bhave%2Bto%2Bundermine%2Beducation&journal=Front.+Artif.+Intell.&volume=7)
+* 53
+  
+  VygotskyL. S. (1978). *Mind in society: development of higher psychological processes*. Cambridge, MA, USA: Harvard University Press.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=L.%2BS..%2BVygotsky&publication_year=1978&journal=Mind+in+society%3A+development+of+higher+psychological+processes)
+* 54
+  
+  WalczakK.CellaryW. (2023). Challenges for higher education in the era of widespread access to generative AI. *Econ. Bus. Rev.*9, 71–100. doi: 10.18559/ebr.2023.2.743
+  
+  + [CrossRef](https://doi.org/10.18559/ebr.2023.2.743)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=K..%2BWalczak&author=W..%2BCellary&publication_year=2023&title=Challenges%2Bfor%2Bhigher%2Beducation%2Bin%2Bthe%2Bera%2Bof%2Bwidespread%2Baccess%2Bto%2Bgenerative%2BAI&journal=Econ.+Bus.+Rev.&volume=9&pages=71-100)
+* 55
+  
+  WilliamsR. T. (2024). The ethical implications of using generative chatbots in higher education. *Front. Educ.*8, 1–10. doi: 10.3389/feduc.2023.1331607
+  
+  + [CrossRef](https://doi.org/10.3389/feduc.2023.1331607)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R.%2BT..%2BWilliams&publication_year=2024&title=The%2Bethical%2Bimplications%2Bof%2Busing%2Bgenerative%2Bchatbots%2Bin%2Bhigher%2Beducation&journal=Front.+Educ.&volume=8)
+* 56
+  
+  WuY.WangX. (2024). Balancing innovation and regulation in the age of generative artificial intelligence. *J. Inf. Policy*14, 1–23. doi: 10.5325/jinfopoli.14.2024.0012
+  
+  + [CrossRef](https://doi.org/10.5325/jinfopoli.14.2024.0012)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Y..%2BWu&author=X..%2BWang&publication_year=2024&title=Balancing%2Binnovation%2Band%2Bregulation%2Bin%2Bthe%2Bage%2Bof%2Bgenerative%2Bartificial%2Bintelligence&journal=J.+Inf.+Policy&volume=14)
+* 57
+  
+  ZhouN.ZhangZ.NairV. N.SinghalH.ChenJ. (2022). Bias, fairness and accountability with artificial intelligence and machine learning algorithms. *Int. Stat. Rev.*90, 468–480. doi: 10.1111/insr.12492
+  
+  + [CrossRef](https://doi.org/10.1111/insr.12492)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N..%2BZhou&author=Z..%2BZhang&author=V.%2BN..%2BNair&author=H..%2BSinghal&author=J..%2BChen&publication_year=2022&title=Bias%2C%2Bfairness%2Band%2Baccountability%2Bwith%2Bartificial%2Bintelligence%2Band%2Bmachine%2Blearning%2Balgorithms&journal=Int.+Stat.+Rev.&volume=90&pages=468-480)
+
+Summary
+-------
+
+Keywords
+
+educational quality, ethical challenges in education, Generative Artificial Intelligence, regulatory frameworks, systematic literature review
+
+Citation
+
+García-López IM and Trujillo-Liñán L (2025) Ethical and regulatory challenges of Generative AI in education: a systematic review. *Front. Educ.* 10:1565938. doi: [10.3389/feduc.2025.1565938](http://dx.doi.org/10.3389/feduc.2025.1565938)
+
+Received
+
+24 January 2025
+
+Accepted
+
+27 May 2025
+
+Published
+
+30 June 2025
+
+Corrected
+
+08 September 2025
+
+Volume
+
+10 - 2025
+
+Edited by
+
+Indira Boutier, Glasgow Caledonian University, United Kingdom
+
+Reviewed by
+
+Myles Joshua Toledo Tan, University of Florida, United States
+
+Aleksandra Vučković, University of Belgrade, Serbia
+
+Updates
+
+![]()
+
+Check for updates
+
+Copyright
+
+© 2025 García-López and Trujillo-Liñán.
+
+This is an open-access article distributed under the terms of the [Creative Commons Attribution License (CC BY)](http://creativecommons.org/licenses/by/4.0/). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+\*Correspondence: Iván Miguel García-López, [ivanmiguelgarcialopez@gmail.com](mailto:ivanmiguelgarcialopez@gmail.com)
+
+Disclaimer
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article or claim that may be made by its manufacturer is not guaranteed or endorsed by the publisher.
+
+ Article metrics
+
+[View details](#metrics)[Download
+
+PDF](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/pdf)
+
+Download other formats
+
+* [ReadCube](http://www.readcube.com/articles/10.3389/feduc.2025.1565938)
+* [epub](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/epub)
+* [XML](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/xml)
+Cite articleShare article
+
+Frontiers' quality
+
+![]()
+
+How do we build trust in science?
+---------------------------------
+
+Behind each Frontiers journal is an editorial board committed to upholding research integrity and scientific quality
+
+  
+[Learn more](https://www.frontiersin.org/about/quality)
+
+* [PDF](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/pdf)
+  
+  Download other format
+  
+  + [ReadCube](http://www.readcube.com/articles/10.3389/feduc.2025.1565938)
+  + [epub](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/epub)
+  + [XML](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/xml)
+* [Outline](#outline)
+* [Figures](#figures)
+* [Cite](#cite)
+* [Share](#share)
+* [Metrics](#metrics)
+* More
+
+Outline
+-------
+
+Figures
+-------
+
+Cite article
+------------
+
+Copy to clipboard
+
+Copy citation  
+
+Export citation file
+
+* [BibTex](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/bibTex)
+* [EndNote](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/endNote)
+* [Reference Manager](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/reference)
+* [Simple Text file](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/text)
+
+  
+
+Share article
+-------------
+
+* [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/full)
+* [X](https://www.twitter.com/share?url=https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/full)
+* [LinkedIn](https://www.linkedin.com/share?url=https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/full)
+* [Email](mailto:?subject=Interesting science article: Ethical and regulatory challenges of Generative AI in education: a systematic review&body=Hi!!%0D%0A%0D%0AI think you might find interesting the article "Ethical and regulatory challenges of Generative AI in education: a systematic review".%0D%0A%0D%0AYou can read more about it here: https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/full)
+* WeChat
+
+Share on WeChat
+
+Scan with WeChat to share this article
+
+Article metrics
+---------------
+
+* Guidelines
+  + [Author guidelines](https://www.frontiersin.org/guidelines/author-guidelines)
+  + [Services for authors](https://www.frontiersin.org/for-authors/author-services)
+  + [Policies and publication ethics](https://www.frontiersin.org/guidelines/policies-and-publication-ethics)
+  + [Editor guidelines](https://www.frontiersin.org/guidelines/editor-guidelines)
+  + [Fee policy](https://www.frontiersin.org/about/fee-policy)
+* Explore
+  + [Articles](https://www.frontiersin.org/articles)
+  + [Research Topics](https://www.frontiersin.org/research-topics)
+  + [Journals](https://www.frontiersin.org/journals)
+  + [How we publish](https://www.frontiersin.org/about/how-we-publish)
+* Outreach
+  + [Frontiers Forum](https://forum.frontiersin.org/)
+  + [Frontiers Policy Labs](https://policylabs.frontiersin.org/)
+  + [Frontiers for Young Minds](https://kids.frontiersin.org/)
+  + [Frontiers Planet Prize](https://www.frontiersin.org/about/frontiers-planet-prize)
+* Connect
+  + [Help center](https://helpcenter.frontiersin.org)
+  + [Emails and alerts](https://subscription-management.frontiersin.org/emails/preferences#block0)
+  + [Contact us](https://www.frontiersin.org/about/contact)
+  + [Submit](https://www.frontiersin.org/submission/submit)
+  + [Career opportunities](https://careers.frontiersin.org/)
+
+Follow us© 2026 Frontiers Media SA. All rights reserved.[Privacy policy](https://www.frontiersin.org/legal/privacy-policy) | [Terms and conditions](https://www.frontiersin.org/legal/terms-and-conditions) | [Accessibility statement](https://www.frontiersin.org/about/accessibility-statement)
+

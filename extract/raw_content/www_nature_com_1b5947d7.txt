@@ -1,0 +1,796 @@
+# Source URL: https://www.nature.com/articles/s44387-026-00081-7
+# Content Length: 53508 characters
+# Extracted at: 2026-03-26 05:05:03
+#============================================================
+
+
+Classroom AI: large language models as grade-specific teachers | npj Artificial Intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#content)
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+and JavaScript.
+
+
+
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/285/npjai.nature.com/article&sz=728x90&c=34057053&t=pos%3Dtop%26type%3Darticle%26artid%3Ds44387-026-00081-7%26doi%3D10.1038/s44387-026-00081-7%26subjmeta%3D2801,4007,4014%26kwrd%3DComplex+networks)
+
+
+
+
+[![]()](/npjai)
+
+* [View all journals](https://www.nature.com/siteindex)
+* [Search](#search-menu)
+* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/articles/s44387-026-00081-7)
+
+
+
+* [Content
+  Explore content](#explore)
+* [About the journal](#about-the-journal)
+* [Publish with us](#publish-with-us)
+
+* [Sign up for alerts](https://journal-alerts.springernature.com/subscribe?journal_id=44387)
+* [RSS feed](https://www.nature.com/npjai.rss)
+
+
+
+
+1. [nature](/)
+2. [npj artificial intelligence](/npjai)
+3. [articles](/npjai/articles?type=article)
+4. article
+
+
+*npj Artificial Intelligence* has APC waivers available that can be allocated upon acceptance on an *ad-hoc* basis. For additional information, contact the Journal Publisher, [Ronghua Guo](https://support.springernature.com/en/support/tickets/new?ticket_form=npj_journal_contact_form).
+
+
+
+
+Classroom AI: large language models as grade-specific teachers
+
+[Download PDF](/articles/s44387-026-00081-7.pdf)
+
+
+
+
+[Download PDF](/articles/s44387-026-00081-7.pdf)
+
+
+
+
+* Article
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 03 March 2026
+
+Classroom AI: large language models as grade-specific teachers
+==============================================================
+
+* [Jio Oh](#auth-Jio-Oh-Aff1-Aff2-Aff3)[1](#Aff1),[2](#Aff2),[3](#Aff3),
+* [Steven Euijong Whang](#auth-Steven_Euijong-Whang-Aff1)[1](#Aff1),
+* [James Evans](#auth-James-Evans-Aff4)[4](#Aff4) &
+* …
+* [Jindong Wang](#auth-Jindong-Wang-Aff3)[3](#Aff3)
+
+Show authors
+
+[*npj Artificial Intelligence*](/npjai)
+**volume 2**, Article number: 28 (2026)
+[Cite this article](#citeas)
+
+* 3214 Accesses
+* 2 Altmetric
+* [Metrics details](/articles/s44387-026-00081-7/metrics)
+
+
+### Subjects
+
+* [Complex networks](/subjects/complex-networks)
+
+
+Abstract
+--------
+
+Large Language Models (LLMs) offer a promising solution to complement traditional teaching and address global teacher shortages that affect hundreds of millions of children, but they fail to provide grade-appropriate responses for students at different educational levels. We introduce a framework for finetuning LLMs to generate age-appropriate educational content across six grade levels, from lower elementary to adult education. Our framework successfully adapts explanations to match students’ comprehension capacities without sacrificing factual correctness. This approach integrates seven established readability metrics through a clustering method and builds a comprehensive dataset for grade-specific content generation. Evaluations across multiple datasets with 208 human participants demonstrate substantial improvements in grade-level alignment, achieving a 35.64 percentage point increase compared to prompt-based methods while maintaining response accuracy. AI-assisted learning tailored to different grade levels has the potential to advance educational engagement and equity.
+
+
+### Similar content being viewed by others
+
+![]()
+### [Thematic insights into the impact of large language models on K-12 education in rural India from student volunteers’ perspectives](https://www.nature.com/articles/s41598-025-18047-1?fromPaywallRec=false)
+
+Article
+Open access
+28 December 2025
+
+
+
+
+![]()
+### [Evaluating large language models for criterion-based grading from agreement to consistency](https://www.nature.com/articles/s41539-024-00291-1?fromPaywallRec=false)
+
+Article
+Open access
+30 December 2024
+
+
+
+
+![]()
+### [Knowledge-enhanced large language models for automatic lesson plan generation](https://www.nature.com/articles/s41599-025-06004-2?fromPaywallRec=false)
+
+Article
+Open access
+19 November 2025
+
+
+
+
+
+
+Introduction
+------------
+
+Large Language Models (LLMs) have expanded beyond traditional natural language processing into diverse domains ranging from finance[1](/articles/s44387-026-00081-7#ref-CR1),[2](/articles/s44387-026-00081-7#ref-CR2) and healthcare[3](/articles/s44387-026-00081-7#ref-CR3),[4](/articles/s44387-026-00081-7#ref-CR4) to education[5](#ref-CR5),[6](#ref-CR6),[7](/articles/s44387-026-00081-7#ref-CR7). With models like GPT[8](/articles/s44387-026-00081-7#ref-CR8), Gemini[9](/articles/s44387-026-00081-7#ref-CR9), and LLaMA[10](/articles/s44387-026-00081-7#ref-CR10) now accessible worldwide, LLMs transform education by assisting teachers and students with question-solving, confusion clarification, material creation, and content personalization[6](/articles/s44387-026-00081-7#ref-CR6),[7](/articles/s44387-026-00081-7#ref-CR7).
+
+Teacher shortages present a large and growing global challenge. UNESCO estimates 44 million additional teachers are needed to achieve universal primary and secondary education by 2030[11](/articles/s44387-026-00081-7#ref-CR11), while 35% of U.S. public schools report at least one teaching vacancy[12](/articles/s44387-026-00081-7#ref-CR12). Worldwide, 244 million children lack access to school[11](/articles/s44387-026-00081-7#ref-CR11), with shortages most acute in rural and high-poverty areas[13](/articles/s44387-026-00081-7#ref-CR13). In Pakistan, 44% of students drop out between ages 5–16[14](/articles/s44387-026-00081-7#ref-CR14),[15](/articles/s44387-026-00081-7#ref-CR15), with 18.6% leaving before completing primary education. Limited access to qualified teachers exacerbates educational disparities[13](/articles/s44387-026-00081-7#ref-CR13),[15](/articles/s44387-026-00081-7#ref-CR15), with over 70% of teachers in sub-Saharan Africa classified as inadequately trained[16](/articles/s44387-026-00081-7#ref-CR16).
+
+With 67.9% of the global population connected to the internet, LLM-based educational tools could benefit over 100 million children currently without school access and provide enhanced assistance to countless others. LLMs can deliver consistent explanations and personalized assistance regardless of geographic location, potentially increasing learning engagement and reducing educational inequity worldwide.
+
+Effective teachers require both subject knowledge and pedagogical skills tailored to different grade levels. Despite their capabilities, LLMs struggle to provide grade-appropriate answers[17](/articles/s44387-026-00081-7#ref-CR17). Even with explicit prompts like “Answer for 3rd graders”, LLMs generate responses that systematically exceed the target grade’s comprehension level. Existing works mostly focus on prompt-based evaluations that fail to achieve a satisfactory level due to the lack of comprehensive evaluation criteria and appropriately curated training corpora[18](#ref-CR18),[19](#ref-CR19),[20](#ref-CR20),[21](/articles/s44387-026-00081-7#ref-CR21). To serve as effective educational tools, LLMs must produce content students can understand and directly engage with.
+
+Previous work on finetuning LLMs for specific reading levels focused primarily on summarization or paraphrasing[22](#ref-CR22),[23](#ref-CR23),[24](/articles/s44387-026-00081-7#ref-CR24). However, real classroom settings involve open-ended questions without source texts to summarize or paraphrase. For example, when a student asks “What is gravity?” and a teacher needs LLM assistance, summarization approaches fail. This becomes critical in AI tutoring scenarios where students interact directly with LLMs. Even high-quality LLM responses provide no benefit if students cannot comprehend them.
+
+We propose a framework for grade-level targeted finetuning of LLMs that handles open-ended educational queries across various subjects. Our approach enables grade-appropriate content generation for natural questions across six educational levels: lower elementary (grades 1–2), middle elementary (grades 3–4), upper elementary (grades 5–6), middle school (grades 7–9), high school (grades 10–12), and college/adult (grade 13+). This granular classification reflects research in educational psychology showing that reading and comprehension skills develop rapidly during early education[25](/articles/s44387-026-00081-7#ref-CR25),[26](/articles/s44387-026-00081-7#ref-CR26). This classification can provide a more accurate measure of grade-level suitability, enabling our evaluation framework to detect subtle yet significant shifts in linguistic complexity that might be overlooked. Moreover, our approach advocates for models that behave appropriately given teaching context[27](/articles/s44387-026-00081-7#ref-CR27).
+
+To assess text complexity, we integrate seven established readability metrics: Flesch Reading Ease[28](/articles/s44387-026-00081-7#ref-CR28), Flesch-Kincaid Grade Level[29](/articles/s44387-026-00081-7#ref-CR29), the Coleman-Liau Index[30](/articles/s44387-026-00081-7#ref-CR30), Linsear Write[31](/articles/s44387-026-00081-7#ref-CR31), the Gunning Fog Index[32](/articles/s44387-026-00081-7#ref-CR32), Dale-Chall[33](/articles/s44387-026-00081-7#ref-CR33), and the Spache Readability Formula[34](/articles/s44387-026-00081-7#ref-CR34). Each metric captures different aspects of readability, and we group them based on their underlying characteristics to create a more reliable integrated measure (see Readability Metrics Integration for further details).
+
+To address the challenge of limited training data for grade-specific content, we generate data using LLMs, a technique increasingly used for data collection and generation[35](/articles/s44387-026-00081-7#ref-CR35),[36](/articles/s44387-026-00081-7#ref-CR36). LLMs are known to generate high-quality text data that aligns with user instructions, thereby improving model performance when finetuned on such data[37](#ref-CR37),[38](#ref-CR38),[39](/articles/s44387-026-00081-7#ref-CR39). Notably, Orca-math[40](/articles/s44387-026-00081-7#ref-CR40) presents a math dataset with GPT by guiding the model to adopt a teacher-student paradigm, which highlights the potential of instruction-aligned synthetic data to enhance educational resources. We categorize 54 subjects across 8 fields to create diverse questions, then use state-of-the-art LLMs (GPT[8](/articles/s44387-026-00081-7#ref-CR8), Gemini[9](/articles/s44387-026-00081-7#ref-CR9), LLaMA[10](/articles/s44387-026-00081-7#ref-CR10), and Mixtral[41](/articles/s44387-026-00081-7#ref-CR41)) to generate questions answerable across all grade levels (see Supplementary Fig. [1](/articles/s44387-026-00081-7#MOESM1), for details on subjects). We craft tailored prompts for LLaMA3.1:70B to produce outputs for each grade level, then classify generated text using our integrated metrics algorithm (see Answer Generation for prompt details).
+
+Our experiments demonstrate that this approach significantly improves grade-level alignment compared to prompt-based methods while maintaining response accuracy. Human studies with 208 participants confirm that our framework aligns with human perceptions of grade-appropriate content.
+
+Our contributions include:
+
+* A framework for developing grade-specific LLMs to enhance educational equity and deliver social benefits globally.
+* Extensive evaluation with 208 participants validating our framework’s alignment with human perceptions of difficulty, showing that finetuned models can explain complex concepts at targeted grade levels.
+* A model-agnostic dataset for finetuning LLMs in educational contexts, integrating multiple educational metrics with grade-appropriate responses for open-ended questions.
+
+Results
+-------
+
+We evaluate our method on two main dimensions: compatibility and accuracy. Compatibility measures whether finetuned models’ outputs align with target grade students’ comprehension capability. We assess compatibility using: (1) an integrated measure using seven readability metrics (see Supplementary Section [B](/articles/s44387-026-00081-7#MOESM1), for definitions of the metrics), (2) individual evaluations for each metric, and an (3) Automated Readability Index (ARI)[42](/articles/s44387-026-00081-7#ref-CR42) as a held-out metric to test generalizability. Accuracy measures whether the model maintains its ability to generate correct and relevant responses.
+
+We also measure perplexity and diversity gain[43](/articles/s44387-026-00081-7#ref-CR43), which reflect linguistic variety relative to the training corpora and the base model. Finally, we conduct surveys with 208 human participants and GPT4o to validate our framework’s alignment with human perceptions.
+
+### Compatibility
+
+We test the finetuned models’ compatibility on all four datasets. For \({{\mathcal{D}}}\_{GPT}\), \({{\mathcal{D}}}\_{ELI}\), and \({{\mathcal{D}}}\_{NQ}\), we use all sampled questions. For \({{\mathcal{D}}}\_{SQ2}\), we split questions based on their designated grade levels and analyze results accordingly. For example, when targeting lower elementary level, we focus exclusively on grades 1–2 questions.
+
+As shown in Fig. [1](/articles/s44387-026-00081-7#Fig1)A, our approach significantly increases target success rates for each grade level compared to prompt-based approaches, with an average improvement of 35.64 percentage points over the prompt-based baseline. The blue bars represent the success rate of each model in producing outputs at the intended grade level (higher is better), while red dots show corresponding ARI values discretized into six difficulty levels. Dots closer to the red dotted line indicate stronger alignment with ARI. Similar improvements appear for the held-out ARI metric, with our approach best aligning with intended grade levels. Detailed output grade-level distribution is shown in Supplementary Sections [C.3](/articles/s44387-026-00081-7#MOESM1), [C.6](/articles/s44387-026-00081-7#MOESM1).
+
+**Fig. 1: Results across evaluation criteria.**
+
+![]()[Full size image](/articles/s44387-026-00081-7/figures/1)
+
+**A** Compatibility through integrated measure and ARI; **B** compatibility for each metric; **C** accuracy; **D** diversity gain and perplexity; and **E** survey results for type 1 questions.
+
+Figure [1](/articles/s44387-026-00081-7#Fig1)B shows that our approach successfully shifts all seven educational metrics toward their optimal values (1 for lower elementary through 6 for adult) compared to the base model or prompt-based approaches. (Note that DC, LW, FKGL, Fog, Sp, CLI, and FRES are measures for Dale-Chall, Linsear Write, Flesch-Kincaid Grade Level, Gunning Fox Index, Spache Readability Formula, Coleman-Liau Index, and Flesch Reading Ease respectively). This improvement stands out for elementary school grade levels, which previous research identified as most challenging to target[17](/articles/s44387-026-00081-7#ref-CR17).
+
+### Accuracy
+
+We test the finetuned models’ accuracy on \({{\mathcal{D}}}\_{SQ}\), a multiple-choice dataset aligned with educational contexts. Figure [1](/articles/s44387-026-00081-7#Fig1)C shows that finetuned models achieve performance comparable to the base model. While finetuning typically causes some accuracy reduction[44](#ref-CR44),[45](#ref-CR45),[46](/articles/s44387-026-00081-7#ref-CR46), our results show minimal performance degradation.
+
+### Perplexity and diversity
+
+We measure output unexpectedness through perplexity and diversity gain (see Supplementary Sections [B.2](/articles/s44387-026-00081-7#MOESM1), [B.3](/articles/s44387-026-00081-7#MOESM1), for formulas). Figure [1](/articles/s44387-026-00081-7#Fig1)D shows that lower-grade models exhibit higher values for both metrics, suggesting that text comprehensible for lower grades appears less frequently in training corpora, explaining why traditional approaches struggle with these levels. Lower-grade models convey difficult concepts using simpler language, resulting in higher diversity compared to the more direct language of existing models.
+
+### Survey
+
+We conduct two surveys using different datasets. Survey 1 uses questions from \({{\mathcal{D}}}\_{NQ}\) with 108 participants, while Survey 2 uses questions from \({{\mathcal{D}}}\_{SQ2}\) with 120 participants. All participants are English-speaking and have completed high school, with most being undergraduate or graduate students who understand the relative difficulty across grade levels. We use two question types:
+
+* Type 1: Each question includes six answers from different finetuned models ranging from lower elementary to adult. Participants assign each answer to a unique grade level, effectively ranking them.
+* Type 2: Each question includes one answer from a finetuned model. Participants answer three five-point scale questions about question difficulty (Q1), answer comprehensibility (Q2), and answer accuracy (Q3).
+
+For Type 1 questions, we measure the association between human-perceived difficulty rankings and model outputs using Kendall’s *τ* coefficient. The high coefficient of 0.76 across 108 participants demonstrates strong agreement between intended and perceived difficulty levels. We also compute L1 distances between participant rankings and ground truth ordering. For example, given six outputs sorted by ascending grade levels, the ground-truth ranking would be [1,2,3,4,5,6]. If a participant ranks them as [6,5,4,3,2,1], the L1 distances would be [5,3,1,1,3,5]. The L1 distances between rankings, [0.293, 0.398, 0.659, 0.693, 0.676, 0.578], all fall below 1. Combined with the high Kendall’s *τ* coefficient of 0.76, these results confirm our approach successfully generates grade-appropriate text aligned with human perception. Figure [1](/articles/s44387-026-00081-7#Fig1)E shows dark cells along the diagonal, indicating strong alignment between model outputs and human perceptions.
+
+For Type 2 questions, Fig. [2](/articles/s44387-026-00081-7#Fig2) shows user scores on a five-point scale for Q1, Q2, and Q3 across two surveys. For \({{\mathcal{D}}}\_{NQ}\), despite relatively difficult questions (low Q1 scores), models generate outputs comprehensible for each grade level. In post-survey feedback, participants noted that lower-grade models effectively explain concepts beyond their grade level using shorter, simpler sentences.
+
+**Fig. 2: Survey results on Type 2 questions.**
+
+![]()[Full size image](/articles/s44387-026-00081-7/figures/2)
+
+**A** \({{\mathcal{D}}}\_{NQ}\) and **B** \({{\mathcal{D}}}\_{SQ2}\). Box plots show Q1 (question difficulty), Q2 (answer comprehensibility), and Q3 (model accuracy) across grade levels, with mean values as red dots on a five-point scale. Higher Q1 and Q2 results indicate lower question and answer difficulty; higher Q3 results indicate stronger accuracy. While \({{\mathcal{D}}}\_{NQ}\) questions appear difficult for lower grades (low Q1 in **A**), answers remain comprehensible (high Q2 in **A**). Answer comprehensibility increases (higher Q2 in **B** vs. **A**) for grade-specific questions in \({{\mathcal{D}}}\_{SQ2}\).
+
+Regarding relatively lower Q2 scores (answer comprehensibility) for lower grades, participants attributed this to topic complexity rather than explanation difficulty. One noted, “Despite how clearly the model explains the concept of LLC sublayer in an operating system, lower elementary students will struggle with the concept itself, hence I give a 1 for Q2”. This observation is supported by higher Q2 scores in the second survey (\({{\mathcal{D}}}\_{SQ2}\)), where questions were designed for specific grade levels. High Q3 scores across all grade levels confirm our approach maintains factual correctness while adapting explanations.
+
+We also evaluate surveys using GPT4o, following recent trends in using LLMs for human value alignment[47](/articles/s44387-026-00081-7#ref-CR47),[48](/articles/s44387-026-00081-7#ref-CR48). Results from GPT4o align with human evaluations, further validating our approach (see Supplementary Section [C.7](/articles/s44387-026-00081-7#MOESM1), for more details).
+
+Discussion
+----------
+
+As students’ perspectives evolve with age, we investigate whether finetuned models develop distinct worldviews by examining model layers and outputs. We finetune LLaMA3.1:8B and compare results between lower elementary and adult models. Using logit lens[49](/articles/s44387-026-00081-7#ref-CR49) to analyze internal model layers, we observe that lower-grade models formulate ideas more directly and succinctly, while higher-grade models favor in-depth explanations as shown in Fig. [3](/articles/s44387-026-00081-7#Fig3). This pattern mirrors human cognitive development, emphasizing clarity for younger students while preserving detail for advanced audiences. Plus, for lower-grade models, certain complex words (e.g., “atmosphere”) are replaced by simpler synonyms (e.g., “air”) and higher grade models internally show relatively complicated words such as “wavelength” or “dispersed”.
+
+**Fig. 3: Logit-lens visualization for the lower-elementary (top) and adult (bottom) models of LLaMA3.1:8B on the prompt, “Why is the sky blue? The sky is blue because”.**
+
+![]()[Full size image](/articles/s44387-026-00081-7/figures/3)
+
+The bottom row for each figure shows the final output tokens, and each row above represents the top prediction at each transformer layer. Warmer colors (e.g., red) indicate higher confidence.
+
+Moreover, analysis of vocabulary and sentence structure reveals that lower-grade models use simpler words and shorter sentences, while higher-grade models employ specialized terminology with longer explanations. These findings indicate our finetuning approach influences not only readability, but also the way models think and communicate, aligning each model with its target audience’s comprehension needs. Detailed visualizations appear in Supplementary Section [D](/articles/s44387-026-00081-7#MOESM1).
+
+Our research addresses the critical global teacher shortage that impacts millions of children, aiming to improve educational equity. Our approach introduces a novel framework for training grade-specific LLMs to deliver age-appropriate educational content. These tools can supplement traditional teaching, providing personalized support to students of different grades and potentially increasing learning engagement worldwide. We believe that our work can contribute to a future where LLM-assisted learning can help mitigate educational disparities and create broader social benefits. The authors are responsible for all analyses and the final manuscript content.
+
+While our approach successfully tailors textual complexity, it does not fully address conceptual difficulty. For example, even when written at a lower reading level, concepts like organizational culture may remain difficult for young students to comprehend based on their limited experience with the organizational world. Future work could incorporate domain-specific knowledge graphs or concept taxonomies to provide step-by-step explanations of challenging ideas. Combining readability metrics with conceptual difficulty frameworks would create truly adaptive LLMs that match both linguistic capacity and conceptual background.
+
+Methods
+-------
+
+We construct a grade-aligned question-answering dataset by generating diverse questions across eight educational fields (Question Generation) and prompting LLMs to produce answers with different readability levels (Answer Generation). We then assign grade-levels to the generated data using a novel integrated metric based on seven established readability formulas (Readability Metrics Integration) and finally fine-tune six grade-specific models to produce grade-appropriate responses (Model Training) and test the performance of the models across different datasets (Datasets). An overview of the full framework is illustrated in Fig. [4](/articles/s44387-026-00081-7#Fig4).
+
+**Fig. 4: Grade-specific LLM finetuning framework and exemplar outputs.**
+
+![]()[Full size image](/articles/s44387-026-00081-7/figures/4)
+
+**A** Overview of our pipeline: we generate open-ended educational questions, prompt an LLM with readability-aligned prompt variants to generate multiple candidate explanations, classify each explanation into one of six grade-levels using our integrated readability metric, and aggregate the labeled question-answer pairs into grade-specific datasets used to finetune corresponding grade-specific models. **B** Example outputs for the question, "How does exercise help reduces stress?" from the six grade-specific models (lower elementary to adult), illustrating progressively more complex wording and sentence structure at higher grade-levels.
+
+### Question generation
+
+We define eight educational fields based on K-12 curriculum frameworks: art, artificial intelligence, health education, literature, music, physical education, science, and social science. Each field contains five to eight subjects (see Supplementary Fig. [1](/articles/s44387-026-00081-7#MOESM1)). To create a comprehensive question set, we prompt ChatGPT to generate sample questions answerable across all grades for each subject. Using these generated questions as few-shot demonstrations[8](/articles/s44387-026-00081-7#ref-CR8), we employ LLMs including Gemini[9](/articles/s44387-026-00081-7#ref-CR9), GPT[50](/articles/s44387-026-00081-7#ref-CR50), and LLaMA[10](/articles/s44387-026-00081-7#ref-CR10) to generate ~550 questions per subject.
+
+### Answer generation
+
+We design prompts to align with readability metrics and prior works[17](/articles/s44387-026-00081-7#ref-CR17),[20](/articles/s44387-026-00081-7#ref-CR20) by varying word difficulty, sentence length, and target audience. The prompt template follows: *"Please provide the explanation in plain text with no bullet points using <very easy, fairly easy, fairly difficult> words that <elementary school 1st grade, elementary school 3rd grade, elementary school 5th grade, middle school 7th grade, high school 10th grade, or college> students will know. Answer in detail with at a maximum of <4, 5, 6, 7, 8, 10, 12, 15, or 20> words per sentence.”*. The output distribution for the corresponding prompts is shown in Supplementary Fig. [3](/articles/s44387-026-00081-7#MOESM1).
+
+We vary grade level and maximum sentence length in the input prompts, creating 54 (6 × 9) distinct question-answer pairs for each question. Word difficulty matches grade level based on the Flesch Reading Ease Metric[28](/articles/s44387-026-00081-7#ref-CR28). Using our integrated metric, we classify Q&A pairs into six grade levels. The distribution appears in Supplementary Table [1](/articles/s44387-026-00081-7#MOESM1).
+
+### Readability metrics integration
+
+We integrate seven readability metrics: Flesch Reading Ease (FRES)[28](/articles/s44387-026-00081-7#ref-CR28), Flesch-Kincaid Grade Level(FKGL)[29](/articles/s44387-026-00081-7#ref-CR29), the Coleman-Liau Index(CLI)[30](/articles/s44387-026-00081-7#ref-CR30), Linsear Write(LW)[31](/articles/s44387-026-00081-7#ref-CR31), the Gunning Fog Index(Fog)[32](/articles/s44387-026-00081-7#ref-CR32), Dale-Chall(DC)[33](/articles/s44387-026-00081-7#ref-CR33), and the Spache Readability Formula(Sp)[34](/articles/s44387-026-00081-7#ref-CR34).
+
+Each metric captures distinct aspects of linguistic complexity through word difficulty, sentence length, and syntactic structure. Because their calculations differ substantially, we categorize them into three groups based on shared characteristics to create an integrated evaluation process:
+
+$$\begin{array}{l}{G}\_{1}=\,\mathrm{Metrics\; utilizing\; predefined\; easy\; word\; lists}\,\mathrm{(e.g.,\; DC,\; Sp)}\,,\\ {G}\_{2}=\,\mathrm{Metrics\; focusing\; on\; average\; sentence\; and\; word\; length}\,\mathrm{(e.g.,\; FRES,\; FKGL,\; CLI)}\,,\\ {G}\_{3}=\,\mathrm{Metrics\; accounting\; for\; syllables\; per\; word}\,\mathrm{(e.g.,\; LW,\; Fog)}\,.\end{array}$$
+
+Each formula *f* ∈ *G**i* provides a grade-level *L**f*. The final grade-level calculation follows Algorithm 1, which computes group-wise votes and determines the final grade through majority agreement or median value.
+
+### Algorithm 1
+
+Grade-level Integration
+
+![]()
+
+The final result *L*final belongs to the predefined set of grade levels:
+
+$$\{[1,2],[3,4],[5,6],[7,8,9],[10,11,12],[13+]\}.$$
+### Model training
+
+We perform supervised finetuning on GPT4o-mini via the OpenAI API to train six grade-specific models, spanning from lower elementary to adult (college+). We train each model on the corresponding subset of our grade-labeled question and answer corpus, classified based on our integrated readability metrics.
+
+### Datasets
+
+We test our approach on real and synthetic datasets representing diverse grade levels. We use four datasets: ScienceQA (\({{\mathcal{D}}}\_{SQ}\))[51](/articles/s44387-026-00081-7#ref-CR51), ELI5\_Category (\({{\mathcal{D}}}\_{ELI}\))[52](/articles/s44387-026-00081-7#ref-CR52), Natural Questions (\({{\mathcal{D}}}\_{NQ}\))[53](/articles/s44387-026-00081-7#ref-CR53), and synthetic questions generated by GPT4o (\({{\mathcal{D}}}\_{GPT}\)).
+
+* \({{\mathcal{D}}}\_{SQ}\): ScienceQA comprises multiple-choice questions across 21 educational domains for grades 1–12. We use this dataset to measure accuracy and convert the questions to an open-ended format using GPT4o for compatibility testing (\({{\mathcal{D}}}\_{SQ2}\)). We sample 10,876 and 10,427 questions for \({{\mathcal{D}}}\_{SQ}\) and \({{\mathcal{D}}}\_{SQ2}\) respectively.
+* \({{\mathcal{D}}}\_{ELI}\): ELI5\_Category contains questions from Reddit requiring explanatory multi-sentence answers. We sample 12,000 questions to evaluate compatibility for open-ended questions requiring detailed explanations.
+* \({{\mathcal{D}}}\_{NQ}\): Natural Questions contains real user questions submitted to Google search. We sample 24,000 questions to evaluate compatibility for naturally occurring questions.
+* \({{\mathcal{D}}}\_{GPT}\): We prompt GPT4o to create 740 questions across 54 subjects that require explanations and can be answered across all grade levels.
+
+
+Data availability
+-----------------
+
+The data used and generated in this study will be available upon publication at <https://github.com/harryoh99/ClassroomAI>.
+
+Code availability
+-----------------
+
+The Python code supporting the framework will be available upon publication at <https://github.com/harryoh99/ClassroomAI>.
+
+References
+----------
+
+1. Li, Y., Wang, S., Ding, H. & Chen, H. Large language models in finance: a survey. In *Proceedings of the Fourth ACM International Conference on AI in Finance*, ICAIF ’23, 374–382 (Association for Computing Machinery 2023). <https://doi.org/10.1145/3604237.3626869>.
+2. Lee, J., Stevens, N. & Han, S. C. Large language models in finance (finllms). *Neural. Comput. Appl.* **37**, 24853–24867 (2025).
+3. Nazi, Z. A. & Peng, W. Large language models in healthcare and medical domain: A review. *Inform.* **11** (2024).
+4. Tam, TYC. et al. A framework for human evaluation of large language models in healthcare derived from literature review. *NPJ digital med.* **7**, 258 (2024).
+5. Huang, Y. et al. Social science meets llms: how reliable are large language models in social simulations? Preprint at <https://arxiv.org/abs/2410.23426> (2024).
+6. Wang, S. et al. Large language models for education: A survey and outlook. *IEEE Signal Processing Magazine* **42**, 51–63 (2026).
+7. Gan, W., Qi, Z., Wu, J. & Lin, J. C.-W. Large language models in education: Vision and opportunities. In *2023 IEEE international conference on big data (BigData)*, 4776–4785 (IEEE, 2023).
+8. OpenAI. Gpt-4 technical report. Preprint at <https://arxiv.org/abs/2303.08774> (2024).
+9. Team, G. Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context. Preprint at <https://arxiv.org/abs/2403.05530> (2024).
+10. team, L. The llama 3 herd of models. Preprint at <https://arxiv.org/abs/2407.21783> (2024).
+11. UNESCO. 244m children won’t start the new school year. <https://www.unesco.org/gem-report/en/articles/244m-children-wont-start-new-school-year> (2022).
+12. National Center for Education Statistics. Public school leaders reports suggest no overall change in the number of teaching positions since last school year. <https://nces.ed.gov/whatsnew/press_releases/12_12_2024.asp> (2024).
+13. García, E. & Weiss, E. *The Teacher Shortage is Real, Large and Growing, and Worse than We Thought*. The First Report in" the Perfect Storm in the Teacher Labor Market" Series (Economic policy institute, 2019).
+14. Shah, D., Amin, N., Kakli, M. B., Piracha, Z. F. & Zia, M. A. Pakistan education statistics 2016-17. *National Education Management Information System (NEMIS). Academy of Educational Planning and Management (AEPAM)* (2018).
+15. Khan, M. J. & Ahmed, J. Child education in the time of pandemic: learning loss and dropout. *Children Youth Serv. Rev.* **127**, 106065 (2021).
+    
+    [Article](https://doi.org/10.1016%2Fj.childyouth.2021.106065) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Child%20education%20in%20the%20time%20of%20pandemic%3A%20learning%20loss%20and%20dropout&journal=Children%20Youth%20Serv.%20Rev.&doi=10.1016%2Fj.childyouth.2021.106065&volume=127&publication_year=2021&author=Khan%2CMJ&author=Ahmed%2CJ)
+16. *World Teachers’ Day: The Teachers We Need for the Education We Want: The Global Imperative to Reverse the Teacher Shortage*. SAGE Publishing, <https://www.sagepub.com/explore-our-content/blogs/posts/asia-pacific-insights/2024/11/25/world-teachers-day-the-teachers-we-need-for-the-education-we-want-the-global-imperative-to-reverse-the-teacher-shortage> (2024).
+17. Rooein, D., Curry, A. C. & Hovy, D. Know your audience: Do llms adapt to different age and education levels? Preprint at <https://arxiv.org/abs/2312.02065> (2023).
+18. Imperial, J. M. & Tayyar Madabushi, H. Flesch or fumble? evaluating readability standard alignment of instruction-tuned language models. In *Proceedings of the Third Workshop on Natural Language Generation, Evaluation, and Metrics (GEM)*, 205–223 (Association for Computational Linguistics, Singapore, 2023). <https://aclanthology.org/2023.gem-1.18/>.
+19. Gobara, S., Kamigaito, H. & Watanabe, T. Do llms implicitly determine the suitable text difficulty for users? In *Proceedings of the 38th Pacific Asia Conference on Language, Information and Computation*, 940–960 (2024).
+20. Hsu, Y.-S., Feldhus, N. & Hakimov, S. Free-text rationale generation under readability level control. <https://api.semanticscholar.org/CorpusID:270870139> (2024).
+21. Roegiest, A. & Pinkosova, Z. Generative information systems are great if you can read. In *Proceedings of the 2024 Conference on Human Information Interaction and Retrieval*, CHIIR ’24, 165–177 (Association for Computing Machinery, 2024). <https://doi.org/10.1145/3627508.3638345>.
+22. Malik, A., Mayhew, S., Piech, C. & Bicknell, K. From tarzan to Tolkien: Controlling the language proficiency level of LLMs for content generation. In *Findings of the Association for Computational Linguistics: ACL 2024.* 15670–15693 (Association for Computational Linguistics, 2024). <https://aclanthology.org/2024.findings-acl.926/>.
+23. Tran, H., Yao, Z., Li, L. & Yu, H. Readctrl: Personalizing text generation with readability-controlled instruction learning. In *Proceedings of the Fourth Workshop on Intelligent and Interactive Writing Assistants (In2Writing 2025)*, 19–36 (2025).
+24. Ribeiro, L. F. R., Bansal, M. & Dreyer, M. Generating summaries with controllable readability levels. In *The 2023 Conference on Empirical Methods in Natural Language Processing,* <https://openreview.net/forum?id=IFNbElsnCi> (2023).
+25. Chall, *J. S. Stages of reading development* (McGraw-Hill New York, 1983).
+26. National Institute of Child Health and Human Development. *Teaching Children to Read: An Evidence-based Assessment of the Scientific Research Literature on Reading and its Implications for Reading Instruction: Reports of the Subgroups* (National Institute of Child Health and Human Development, National..., 2000).
+27. Leibo, J. Z. et al. A theory of appropriateness with applications to generative artificial intelligence. Preprint at <https://arxiv.org/abs/2412.19010> (2024).
+28. Flesch, R. A new readability yardstick. *J. Appl. Psychol.* **32**, 221 (1948).
+    
+    [Article](https://doi.org/10.1037%2Fh0057532) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20new%20readability%20yardstick&journal=J.%20Appl.%20Psychol.&doi=10.1037%2Fh0057532&volume=32&publication_year=1948&author=Flesch%2CR)
+29. Kincaid, J. P., Fishburne, R. P., Jr, Rogers, R. L. & Chissom, B. S. *Derivation Of New Readability Formulas (Automated Readability Index, Fog Count And Flesch Reading Ease Formula) For Navy Enlisted Personnel* (US Naval Air Station, 1975).
+30. Coleman, M. & Liau, T. L. A computer readability formula designed for machine scoring. *J. Appl. Psychol.* **60**, 283 (1975).
+    
+    [Article](https://doi.org/10.1037%2Fh0076540) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20computer%20readability%20formula%20designed%20for%20machine%20scoring&journal=J.%20Appl.%20Psychol.&doi=10.1037%2Fh0076540&volume=60&publication_year=1975&author=Coleman%2CM&author=Liau%2CTL)
+31. O’hayre, J. *Gobbledygook has Gotta Go* (US Department of the Interior, Bureau of Land Management, 1966).
+32. Gunning, R. *The Technique of Clear Writing* (McGraw-Hill, 1952).
+33. Chall, J. S., & Dale, E. *Readability Revisited: The New Dale-Chall Readability Formula* (Brookline Books, 1995).
+34. Spache, G. A new readability formula for primary-grade reading materials. *Elementary School J.* **53**, 410–413 (1953).
+    
+    [Article](https://doi.org/10.1086%2F458513) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20new%20readability%20formula%20for%20primary-grade%20reading%20materials&journal=Elementary%20School%20J.&doi=10.1086%2F458513&volume=53&pages=410-413&publication_year=1953&author=Spache%2CG)
+35. Li, Z., Zhu, H., Lu, Z. & Yin, M. Synthetic data generation with large language models for text classification: Potential and limitations. In *Proceedings of the 2023 conference on empirical methods in natural language processing*, 10443–10461 (2023).
+36. Long, L. et al. On llms-driven synthetic data generation, curation, and evaluation: A survey. In *Findings of the Association for Computational Linguistics: ACL 2024*. 11065–11082 (2024).
+37. Peng, B., Li, C., He, P., Galley, M. & Gao, J. Instruction tuning with gpt-4. Preprint at <https://arxiv.org/abs/2304.03277> (2023).
+38. Chen, Z., Deng, Y., Yuan, H., Ji, K. & Gu, Q. Self-play fine-tuning converts weak language models to strong language models. In *Proceedings of the 41st International Conference on Machine Learning*, Vol. 235, 6621–6642 (PMLR, 2024).
+39. Taori, R. et al. Stanford alpaca: an instruction-following llama model. <https://github.com/tatsu-lab/stanford_alpaca> (2023).
+40. Mitra, A., Khanpour, H., Rosset, C. & Awadallah, A. Orca-math: Unlocking the potential of slms in grade school math. Preprint at <https://arxiv.org/abs/2402.14830> (2024).
+41. Jiang, A. Q. et al. Mixtral of experts. Preprint at <https://arxiv.org/abs/2401.04088> (2024).
+42. Smith, E. A. & Senter, R. *Automated readability index*, vol. 66 (Aerospace Medical Research Laboratories, Aerospace Medical Division, Air..., 1967).
+43. Bilmes, J. Submodularity in machine learning and artificial intelligence. Preprint at <https://arxiv.org/abs/2202.00132> (2022).
+44. Wang, Y. et al. Two-stage llm fine-tuning with less specialization and more generalization. In *International Conference on Learning Representations.* Vol. 2024, 20380–20398 (2024).
+45. Dodge, J. et al. Fine-tuning pretrained language models: Weight initializations, data orders, and early stopping. Preprint at <https://arxiv.org/abs/2002.06305> (2020).
+46. Luo, Y. et al. An empirical study of catastrophic forgetting in large language models during continual fine-tuning. *IEEE Transactions on Audio, Speech and Language Processing* (2025).
+47. Zheng, L. et al. Judging llm-as-a-judge with mt-bench and chatbot arena. In *Advances in Neural Information Processing Systems*. Vol. 36, 46595–46623 (Curran Associates, Inc., 2023).
+48. Li, Z. et al. Leveraging large language models for NLG evaluation: advances and challenges. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing*, 16028–16045 (Association for Computational Linguistics, 2024). <https://aclanthology.org/2024.emnlp-main.896/>.
+49. Belrose, N. et al. Eliciting latent predictions from transformers with the tuned lens. Preprint at <https://arxiv.org/abs/2303.08112> (2023).
+50. Brown, T. et al. Language models are few-shot learners. In *Advances in Neural Information Processing Systems*, vol. 33, 1877–1901 (Curran Associates, Inc., 2020). <https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf>.
+51. Lu, P. et al. Learn to explain: multimodal reasoning via thought chains for science question answering. In *The 36th Conference on Neural Information Processing Systems* (NeurIPS, 2022).
+52. Gao, J., Zhou, Q. & Qiu, R. ELI5-Category: a categorized open-domain qa dataset. <https://huggingface.co/datasets/rexarski/eli5_category> (2021).
+53. Kwiatkowski, T. et al. Natural questions: a benchmark for question answering research. In *Transactions of the Association of Computational Linguistics* (MIT Press, 2019).
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1038/s44387-026-00081-7?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+This research was supported by the MSIT(Ministry of Science, ICT), Korea, under the Global Research Support Program in the Digital Field program)(RS-2024-00436680) supervised by the IITP(Institute for Information & Communications Technology Planning & Evaluation). This project is supported by Microsoft Research Asia. Jio Oh conducted this work during internships at Microsoft Research Asia and William & Mary. Jindong Wang was partially supported by The Commonwealth Cyber Initiative (CCI) program (H-2Q25-020), William & Mary Faculty Research Award, and Modal Academic Compute Award. The authors acknowledge William & Mary Research Computing for providing computational resources and/or technical support that have contributed to the results reported within this paper. The authors thank Xing Xie and Lexin Zhou for fruitful discussions.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Korea Advanced Institute of Science & Technology (KAIST), Daejeon, South Korea
+   
+   Jio Oh & Steven Euijong Whang
+2. Microsoft Research Asia, Beijing, PR China
+   
+   Jio Oh
+3. William & Mary, Williamsburg, VA, USA
+   
+   Jio Oh & Jindong Wang
+4. University of Chicago, Chicago, IL, USA
+   
+   James Evans
+
+Authors
+
+1. Jio Oh[View author publications](/search?author=Jio%20Oh)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Jio%20Oh) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jio%20Oh%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Steven Euijong Whang[View author publications](/search?author=Steven%20Euijong%20Whang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Steven%20Euijong%20Whang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Steven%20Euijong%20Whang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. James Evans[View author publications](/search?author=James%20Evans)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=James%20Evans) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22James%20Evans%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+4. Jindong Wang[View author publications](/search?author=Jindong%20Wang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Jindong%20Wang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jindong%20Wang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+J.O. and J.W. designed the main framework. J.O. proceeded with the experiments. All authors reviewed and wrote the main manuscript text.
+
+### Corresponding author
+
+Correspondence to
+[Jindong Wang](mailto:jdw@wm.edu).
+
+Ethics declarations
+-------------------
+
+### Competing interests
+
+The authors declare no competing interests.
+
+Additional information
+----------------------
+
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Supplementary information
+-------------------------
+
+### [Supplementary Information (download PDF )](https://static-content.springer.com/esm/art%3A10.1038%2Fs44387-026-00081-7/MediaObjects/44387_2026_81_MOESM1_ESM.pdf)
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Classroom%20AI%3A%20large%20language%20models%20as%20grade-specific%20teachers&author=Jio%20Oh%20et%20al&contentID=10.1038%2Fs44387-026-00081-7&copyright=The%20Author%28s%29&publication=3005-1460&publicationDate=2026-03-03&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY-NC-ND)
+
+About this article
+------------------
+
+### Cite this article
+
+Oh, J., Whang, S.E., Evans, J. *et al.* Classroom AI: large language models as grade-specific teachers.
+*npj Artif. Intell.* **2**, 28 (2026). https://doi.org/10.1038/s44387-026-00081-7
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1038/s44387-026-00081-7?format=refman&flavour=citation)
+
+* Received: 17 June 2025
+* Accepted: 11 February 2026
+* Published: 03 March 2026
+* Version of record: 03 March 2026
+* DOI: https://doi.org/10.1038/s44387-026-00081-7
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+
+
+
+
+
+[Download PDF](/articles/s44387-026-00081-7.pdf)
+
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/285/npjai.nature.com/article&sz=300x250&c=420928003&t=pos%3Dright%26type%3Darticle%26artid%3Ds44387-026-00081-7%26doi%3D10.1038/s44387-026-00081-7%26subjmeta%3D2801,4007,4014%26kwrd%3DComplex+networks)
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+---------------
+
+* [Research articles](/npjai/research-articles)
+* [Reviews & Analysis](/npjai/reviews-and-analysis)
+* [News & Comment](/npjai/news-and-comment)
+* [Collections](/npjai/collections)
+
+* [Sign up for alerts](https://journal-alerts.springernature.com/subscribe?journal_id=44387)
+* [RSS feed](https://www.nature.com/npjai.rss)
+
+
+About the journal
+-----------------
+
+* [Aims & Scope](/npjai/aims)
+* [Journal Information](/npjai/journal-information)
+* [About the Editors](/npjai/editors)
+* [Contact](/npjai/contact)
+* [Open Access Fees and Funding](/npjai/open-access)
+* [Content Types](/npjai/content-types)
+* [Calls for Papers](/npjai/calls-for-papers)
+* [Editorial policies](/npjai/editorial-policies)
+* [Journal Metrics](/npjai/journal-impact)
+
+
+Publish with us
+---------------
+
+* [For Authors and Referees](/npjai/for-authors-and-referees)
+* [Language editing services](https://authorservices.springernature.com/go/sn/?utm_source=For+Authors&utm_medium=Website_Nature&utm_campaign=Platform+Experimentation+2022&utm_id=PE2022)
+* [Open access funding](/npjai/open-access-funding)
+* [Submit manuscript](https://submission.nature.com/new-submission/44387/3)
+
+
+Search
+------
+
+Search articles by subject, keyword or author
+
+
+Show results from
+All journals
+This journal
+
+
+Search
+
+
+
+
+[Advanced search](/search/advanced)
+### Quick links
+
+* [Explore articles by subject](/subjects)
+* [Find a job](/naturecareers)
+* [Guide to authors](/authors/index.html)
+* [Editorial policies](/authors/editorial_policies/)
+
+
+npj Artificial Intelligence
+
+(*npj Artif. Intell.*)
+
+ISSN 3005-1460 (online)
+
+
+
+
+
+nature.com footer links
+-----------------------
+
+### About Nature Portfolio
+
+* [About us](https://www.nature.com/npg_/company_info/index.html)
+* [Press releases](https://www.nature.com/npg_/press_room/press_releases.html)
+* [Press office](https://press.nature.com/)
+* [Contact us](https://support.nature.com/support/home)
+
+### Discover content
+
+* [Journals A-Z](https://www.nature.com/siteindex)
+* [Articles by subject](https://www.nature.com/subjects)
+* [protocols.io](https://www.protocols.io/)
+* [Nature Index](https://www.natureindex.com/)
+
+### Publishing policies
+
+* [Nature portfolio policies](https://www.nature.com/authors/editorial_policies)
+* [Open access](https://www.nature.com/nature-research/open-access)
+
+### Author & Researcher services
+
+* [Reprints & permissions](https://www.nature.com/reprints)
+* [Research data](https://www.springernature.com/gp/authors/research-data)
+* [Language editing](https://authorservices.springernature.com/language-editing/)
+* [Scientific editing](https://authorservices.springernature.com/scientific-editing/)
+* [Nature Masterclasses](https://masterclasses.nature.com/)
+* [Research Solutions](https://solutions.springernature.com/)
+
+### Libraries & institutions
+
+* [Librarian service & tools](https://www.springernature.com/gp/librarians/tools-services)
+* [Librarian portal](https://www.springernature.com/gp/librarians/manage-your-account/librarianportal)
+* [Open research](https://www.nature.com/openresearch/about-open-access/information-for-institutions)
+* [Recommend to library](https://www.springernature.com/gp/librarians/recommend-to-your-library)
+
+### Advertising & partnerships
+
+* [Advertising](https://partnerships.nature.com/product/digital-advertising/)
+* [Partnerships & Services](https://partnerships.nature.com/)
+* [Media kits](https://partnerships.nature.com/media-kits/)
+* [Branded
+  content](https://partnerships.nature.com/product/branded-content-native-advertising/)
+
+### Professional development
+
+* [Nature Awards](https://www.nature.com/immersive/natureawards/index.html)
+* [Nature Careers](https://www.nature.com/naturecareers/)
+* [Nature 
+  Conferences](https://conferences.nature.com)
+
+### Regional websites
+
+* [Nature Africa](https://www.nature.com/natafrica)
+* [Nature China](http://www.naturechina.com)
+* [Nature India](https://www.nature.com/nindia)
+* [Nature Japan](https://www.natureasia.com/ja-jp)
+* [Nature Middle East](https://www.nature.com/nmiddleeast)
+
+
+
+* [Privacy
+  Policy](https://www.nature.com/info/privacy)
+* [Use
+  of cookies](https://www.nature.com/info/cookies)
+* Your privacy choices/Manage cookies
+* [Legal
+  notice](https://www.nature.com/info/legal-notice)
+* [Accessibility
+  statement](https://www.nature.com/info/accessibility-statement)
+* [Terms & Conditions](https://www.nature.com/info/terms-and-conditions)
+* [Your US state privacy rights](https://www.springernature.com/ccpa)
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature Limited
+
+
+
+
+
+Close banner
+
+
+
+
+Close
+
+
+![]()
+
+Sign up for the *Nature Briefing* newsletter — what matters in science, free to your inbox daily.
+
+
+
+
+
+
+Email address
+
+
+Sign up
+
+I agree my information will be processed in accordance with the *Nature* and Springer Nature Limited [Privacy Policy](https://www.nature.com/info/privacy).
+
+
+
+
+
+
+Close banner
+
+
+
+
+Close
+
+
+Get the most important science stories of the day, free in your inbox.
+[Sign up for Nature Briefing](https://www.nature.com/briefing/signup/?brieferEntryPoint=MainBriefingBanner)
+
+
+
+![]()
+
+

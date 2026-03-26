@@ -1,0 +1,848 @@
+# Source URL: https://link.springer.com/article/10.1007/s40979-026-00213-1
+# Content Length: 80470 characters
+# Extracted at: 2026-03-26 05:04:52
+#============================================================
+
+
+
+
+
+
+
+
+
+Evaluating the accuracy and reliability of AI content detectors in academic contexts | International Journal for Educational Integrity | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/40979/article&sz=728x90&pos=top&articleid=s40979-026-00213-1)
+
+
+
+
+
+BMC journals have moved to Springer Nature Link. [Learn more about website changes.](https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link)
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s40979-026-00213-1)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [International Journal for Educational Integrity](/journal/40979)
+3. Article
+
+Evaluating the accuracy and reliability of AI content detectors in academic contexts
+====================================================================================
+
+* Research
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 02 February 2026
+
+* Volume 22, article number 4, (2026)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1007/s40979-026-00213-1.pdf)
+
+
+[Save article](/article/10.1007/s40979-026-00213-1/save-research?_csrf=rnTkPVTSNjpLGxP0U_ErUogOfQNup_sw)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+International Journal for Educational Integrity](/journal/40979)
+[Aims and scope](/journal/40979/aims-and-scope)
+[Submit manuscript](https://submission.springernature.com/new-submission/40979/3)
+
+
+
+
+Evaluating the accuracy and reliability of AI content detectors in academic contexts
+
+[Download PDF](/content/pdf/10.1007/s40979-026-00213-1.pdf)
+
+
+
+
+
+* [Mohammad Hadra](#auth-Mohammad-Hadra-Aff1)[1](#Aff1),
+* [Karleen Cambridge](#auth-Karleen-Cambridge-Aff1)[1](#Aff1) &
+* [Mostefa Mesbah](#auth-Mostefa-Mesbah-Aff1)[1](#Aff1)
+
+* 5257 Accesses
+* 1 
+  Altmetric
+* [Explore all metrics](/article/10.1007/s40979-026-00213-1/metrics)
+
+
+
+
+Abstract
+--------
+
+The rapid adoption of generative AI (GenAI) in higher education has intensified concerns about academic integrity, particularly for institutions serving English as a Foreign Language (EFL) learners. AI content detectors such as Turnitin and Originality are now widely used to identify potential misuse of GenAI in student writing, yet their accuracy, consistency, and fairness remain to be proven. This study evaluates the reliability of these two commercial detectors using a balanced dataset of 192 texts, composed of authentic EFL student writing produced before the widespread availability of GenAI, professional human-authored texts, AI-generated outputs, and hybrid compositions. Detector outputs were categorized into Human, Hybrid, or AI using established thresholding ranges, and performance was assessed using standard classification metrics alongside statistical tests of significance. Results show that Originality outperformed Turnitin in overall accuracy (0.69 vs. 0.61) and macro-average recall (0.60 vs. 0.51). However, both detectors performed poorly on Hybrid texts, an increasingly common form of student writing, indicating substantial difficulty distinguishing mixed authorship. Performance declined significantly as a result of increased text length and genre variation, with both detectors achieving noticeably lower accuracy on scientific writing than on humanities texts. Originality also showed a borderline trend toward higher accuracy on professionally written texts compared to EFL student writing, suggesting potential fairness concerns. Taken together, the findings demonstrate that while AI detectors may serve as supplementary tools—serve only as indicators that prompt further inquiry, their limitations make them unsuitable as the sole basis for decisions regarding academic misconduct. For EFL-focused institutions in particular, over-reliance on machine-based identification risks misclassifying legitimate student work. The study highlights the need for informed human judgment, clearer institutional policies on acceptable AI use, and continued development of equitable detection methods that account for linguistic diversity.
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Computational Linguistics](/subjects/computational-linguistics)
+* [Corpus Linguistics](/subjects/corpus-linguistics)
+* [ESCRT](/subjects/escrt)
+* [Literary Methods](/subjects/literary-methods)
+* [Machine Translation](/subjects/machine-translation)
+* [Artificial Intelligence](/subjects/artificial-intelligence)
+* [Statistical Methods in Psychological Science](/subjects/statistical-methods-in-psychological-science)
+
+Introduction
+------------
+
+The emergence of generative artificial intelligence (GenAI) tools capable of producing fluent, human-like text has created new challenges for higher education. While these tools offer legitimate pedagogical values, such as language support, drafting assistance, and feedback generation, they also raise concerns around fairness, authorship, and academic integrity. Institutions worldwide are re-examining how writing is taught, supported, and assessed, and many have turned to automated AI-content detectors as part of their academic integrity processes. However, the reliability, consistency, and fairness of these detectors remain unproven, particularly for English as a Foreign Language (EFL) context, where linguistic patterns may differ from those represented in detector training data.
+
+Some recent work in academic integrity has emphasized that the presence of AI-generated text cannot, by itself, be equated with misconduct (Chan [2025](/article/10.1007/s40979-026-00213-1#ref-CR8)), however the potential misuse of GenAI by students to produce essay assignments and present them as original work remains a major concern in higher education institutions (Currie [2023](/article/10.1007/s40979-026-00213-1#ref-CR10); Perkins [2023](/article/10.1007/s40979-026-00213-1#ref-CR30)). The use of GenAI to cheat in online exams is another persistent concern (Cotton et al. [2024](/article/10.1007/s40979-026-00213-1#ref-CR9)). Consequently, GenAI misuse by students and researchers may have a profound impact on academic integrity (Alnsour et al. [2025](/article/10.1007/s40979-026-00213-1#ref-CR2); Avello and Aranguren Zurita [2025](/article/10.1007/s40979-026-00213-1#ref-CR4)). Challenges are not restricted to academic settings. Dissemination of fake news to redirect public opinions and generate deceptive product reviews is also expected to increase many folds with the invention of GenAI tools, particularly those capable of producing not only text, but also synthetic images and videos (Park and Nan [2025](/article/10.1007/s40979-026-00213-1#ref-CR29); Saheb et al. [2024](/article/10.1007/s40979-026-00213-1#ref-CR31)). These challenges raise significant ethical concerns and issues.
+
+Misclassification, especially false positives, can have serious consequences for students, including unwarranted suspicion and disciplinary action. These risks are amplified for EFL learners, whose writing may exhibit features (such as restricted lexical diversity or predictable syntactic structures) that make them vulnerable to biased or inaccurate detection outcomes. Understanding detector behaviour in EFL settings, therefore, is not simply a technical question but an ethical one central to fair educational practice.
+
+A growing body of research has examined the accuracy of AI detectors, though prior studies vary widely in methodology, dataset composition, and performance metrics. Early studies conducted before the widespread public use of modern large language models (LLMs) must be interpreted cautiously, as text-generation technologies and human familiarity with them have evolved considerably. Several recent evaluations reported inconsistent accuracy, high false-positive rates, and documented biases against non-native writers (Deep et al. [2025](/article/10.1007/s40979-026-00213-1#ref-CR12)). Commercial vendors, meanwhile, often claim high levels of precision but rarely disclose validation procedures or limitations. Across the literature, findings are fragmented and somewhat difficult to compare because metrics are inconsistently reported.
+
+In their report, Waltzer et al. ([2024](/article/10.1007/s40979-026-00213-1#ref-CR33)) revealed that, on average, instructors correctly identified ChatGPT-generated work only 70% of the time. Similarly, a study by Elkhatat et al. ([2023](/article/10.1007/s40979-026-00213-1#ref-CR15)) showed that humans struggle to reliably differentiate AI-generated writing from human-authored text. A recent study conducted by Doru et al. ([2025](/article/10.1007/s40979-026-00213-1#ref-CR13)) investigated the ability of human experts to distinguish AI-generated from medical students’ essays using a semi-randomized controlled design, without employing AI-detection tools. Using German-language essays written by medical students and matched texts generated by ChatGPT-3.5, they found that expert academic reviewers achieved an overall detection accuracy of 70%, with medical experts (72%) slightly outperforming humanities experts (65%). Their analysis showed that detection relied mainly on linguistic cues (e.g., redundancy, repetition, and lack of coherence), while content familiarity had no significant effect, highlighting the inherent limitations of unaided human judgment in identifying AI-generated academic writing. In light of these findings, robust automatic identification of GenAI-generated content has become essential for safeguarding academic integrity.
+
+Developers of GenAI detection tools mainly exploit the differences between human-generated text distribution and those generated by GenAI, along with other emerging techniques, such as watermarking signatures, to automatically distinguish between human and GenAI writing (Fariello et al. [2025](/article/10.1007/s40979-026-00213-1#ref-CR16)). *Human text distribution* and *GenAI text distribution* refer to statistical patterns of texts written by humans versus those generated by GenAI models (Wu et al. [2025](/article/10.1007/s40979-026-00213-1#ref-CR35)). These distributions describe how linguistic features, such as word choice, sentence structure, and contextual coherence, are distributed across a dataset or text corpus. Human text features diversity, imperfect patterns, context awareness, non-randomness, and perplexity or surprise in the text (Liu et al. [2024](/article/10.1007/s40979-026-00213-1#ref-CR25)). In contrast, GenAI text features statistical optimization, repetition, high fluency and limited creativity, tighter pattern (frequency of specific words and sentence length), and low perplexity in text and limited surprise (Akram [2023](/article/10.1007/s40979-026-00213-1#ref-CR1)). Detection tools extract these characteristics or features and feed them to classification algorithms.
+
+Some developers of Large Language Models (LLMs), like OpenAI, aimed to maintain accountability for the misuse of GenAI tools in text creation. Hence, they proposed and adopted the watermarking technique. This technique works by embedding invisible statistical patterns or signals in the text during generation. Watermarking typically involves altering the choice of words, punctuation, or phrasing in subtle ways to encode a recognizable pattern. These patterns can later be analyzed to determine if the content originated from an AI model with watermarking enabled (Kirchenbauer et al. [2023](/article/10.1007/s40979-026-00213-1#ref-CR22); Zhao et al. [2024](/article/10.1007/s40979-026-00213-1#ref-CR36)).
+
+Accuracy and reliability are highly significant for the proposed detection tools, since the user of these tools is supposed to judge a student’s or researcher’s work as authentic or plagiarized based on their results. The current literature reported conflicting results related to the accuracy and reliability of the GenAI detection tools. Some studies even claimed that it is not possible to develop a tool to accurately detect GenAI content (Weber-Wulff et al. [2023](/article/10.1007/s40979-026-00213-1#ref-CR34)). Numerous studies were conducted to assess the performance of detection tools. In one such study, a group of researchers evaluated twelve publicly available tools and two commercial ones. They systematically examined the general functionality of the detection tools and evaluated their accuracy and error types. They concluded that the tested tools were neither accurate nor reliable (Weber-Wulff et al. [2023](/article/10.1007/s40979-026-00213-1#ref-CR34)).
+
+In another study reported by Elkhatat et al. ([2023](/article/10.1007/s40979-026-00213-1#ref-CR15)), researchers evaluated five publicly available tools, including a tool developed by OpenAI. They used fifteen paragraphs generated by GenAI and five human responses as control. They concluded that the detection tools were more accurate in detecting content generated by ChatGPT3.5 than ChatGPT4, and when applied to human-generated text, they exhibited inconsistency, producing false positive and uncertain classification. Hua and Yao ([2024](/article/10.1007/s40979-026-00213-1#ref-CR20)) systematically evaluated multiple AI-generated text detection approaches by comparing classical machine-learning models (SVM, Logistic Regression, XGBoost), deep language models (BERT, Electra, RoBERTa), and an online detector (GPT-Zero) across essays generated by ChatGPT-3.5, GPT-4, GPT-4o, Claude, and Gemini, using human-written essays from the ASAP Kaggle dataset as ground truth. Their experiments showed that SVM consistently achieved the highest and most stable performance, with accuracy values above 95% across models and a peak QWK of 0.972, while GPT-Zero performed poorly on paraphrased texts, with accuracy dropping to 0.04–0.16. The study further demonstrated that paraphrasing severely degrades detector reliability, but a proposed synonym-replacement tokenization strategy recovered up to 30% points in accuracy, emphasizing the importance of preprocessing and dataset size in AI-text detection.
+
+A recent survey by Kumar and Singh ([2025](/article/10.1007/s40979-026-00213-1#ref-CR23)) suggested that current GenAI content detection approaches, particularly watermarking-based techniques (Kirchenbauer et al. [2023](/article/10.1007/s40979-026-00213-1#ref-CR22)) and classifier-driven techniques, suffer from lack of robustness and reliability, especially under real-world content modification scenarios. In contrast, Chakraborty et al. ([2024](/article/10.1007/s40979-026-00213-1#ref-CR7)) asserted that the claim that the accurate detection of GenAI generated text is impossible and not supported by real-world evidence. They argued that effective and practical GenAI detection remains possible, as long as human and machine-generated texts do not exhibit similar distributional characteristics. Drawing from the information theory, they established sample complexity bounds, showing that as machine-generated text improves in quality, a large sample size is required, which reduces the practicality of the approach. They evaluated their suggestions across multiple datasets, including *Xsum*, *Squad*, *IMDb*, and *Kaggle FakeNews*. Their study tested various state-of-the-art GenAI against detectors like oBERTa-Large/Base-Detector and GPTZero.
+
+Despite these developments, very few of the existing studies focused on EFL undergraduate writing or on authentic student work produced as part of assessed coursework. Most research relied on professionally authored datasets, short synthetic prompts, or publicly available corpora that do not capture the linguistic characteristics of developing writers. As a result, there is limited evidence regarding how detectors behave with texts that are both pedagogically authentic and linguistically diverse, contexts where academic integrity judgments often carry the highest stakes. Furthermore, these studies addressing this issue are mostly available in Gray Literature repositories, such as arXiv, as preprints and used a limited number of metrics to evaluate the performance of a detector, while others did not clearly describe the methodology used to enable replication.
+
+This study addresses these gaps by systematically evaluating the performance of two widely used commercial detectors, Turnitin and Originality, using a balanced dataset of authentic EFL student texts, professional human-authored texts, AI-generated texts, and hybrid compositions. A complete description of the datasets used in this work is provided in the methodology section. The goal is not to police AI use, but to examine whether these tools function reliably enough to support integrity decision-making and to identify potential risks when applied to EFL learners. By analysing detector performance across text length, genre, and authorship type, the study provides evidence relevant to educators, policy makers, and academic integrity practitioners seeking to navigate the role of GenAI in assessment.
+
+Therefore, this study set out to address the following research questions:
+
+1. 1.
+   
+   How accurately and reliably do Turnitin and Originality classify Human, AI-generated, and Hybrid texts?
+2. 2.
+   
+   To what extent does text length influence the performance of these detectors?
+3. 3.
+   
+   How does text genre (Science vs. Humanities) affect detection outcomes?
+4. 4.
+   
+   Do the detectors demonstrate differences in classification accuracy between EFL-authored and professionally authored texts?
+5. 5.
+   
+   How effectively do the detectors identify hybrid human–AI compositions?
+
+The rest of the paper is structured as follows. The methodology describes the dataset, its categorization approach, and analysis procedures. Results are then presented for overall performance and variation across key contextual factors, followed by a discussion that situates these findings within the broader academic integrity literature. The final sections highlight limitations and outline implications for teaching, assessment design, and equitable policy development in the GenAI era.
+
+Methodology
+-----------
+
+### Data description
+
+A dataset of 192 texts was constructed to evaluate the performance of the two AI-content detectors. The dataset was intentionally balanced across four authorship categories to ensure comparability and to enable analyses relevant to academic integrity within English as a Foreign Language (EFL) contexts. Each category comprised 48 texts, yielding an equal distribution of Human (EFL and Professional writers), AI, and Hybrid authorship types in the dataset.
+
+#### EFL student writing
+
+The first category consisted of authentic student writing from a university Foundation Program, representing the three highest proficiency levels of pre-undergraduate instruction. These texts were final coursework submissions submitted for grading in the Foundation Program English for Sciences (FPES) courses at Sultan Qaboos University. All submissions were written prior to August 2022, before the widespread institutional or student adoption of conversational large language models. Although text-generation technologies existed before this period, they were not publicly accessible or easy for students to use. Systems such as GPT-3 required restricted API access and technical setup, and mainstream tools like ChatGPT were not yet available. Hence, FPES students did not have routine access to such tools. Ethical approval for the use of student texts was obtained from the institution, and all submissions were anonymized. This category is central to the study because it reflects the linguistic characteristics of developing EFL writers, whose work may be disproportionately affected by detector inaccuracies or bias.
+
+#### Professional human-authored texts
+
+The second category is a set of professionally authored texts sampled from the XSum corpus, a well-established dataset widely used in natural language processing research developed by the University of Edinburgh’s NLP group for abstractive text summarization (*EdinburghNLP/XSum: Topic-Aware Convolutional Neural Networks for Extreme Summarization*, n.d.; *Marsyas/Gtzan · Datasets at Hugging Face*, n.d.). It consists of over 226,000 news articles from the BBC, each accompanied by a single-sentence summary that provides a highly condensed version of the original content. These texts represent fluent, information-dense writing by experienced contributors across diverse domains, including science, humanities, business, and public affairs. Their inclusion enables examination of whether detectors perform differently on polished, high-proficiency human writing compared to EFL student work.
+
+#### AI-generated texts
+
+The third category comprised texts generated using two contemporary large language models: ChatGPT (GPT-4.1) and Claude 3 Opus. Prompts were designed to reflect typical pre-undergraduate EFL essay writing tasks in both scientific and humanities domains. For each prompt, multiple outputs were generated and screened for coherence, topic relevance, and genre appropriateness before inclusion in the dataset. This category is believed to represent the types of GenAI-assisted writing that academic integrity offices increasingly encounter. Dataset creation and experimentation were conducted between January and May 2025.
+
+#### Hybrid texts
+
+To reflect authentic academic scenarios in which students combine AI assistance with their own writing, a set of Hybrid texts was constructed. Each Hybrid text was created by integrating approximately 50% human-authored content (drawn from EFL student writing) with 50% AI-generated content, with careful attention to maintaining thematic continuity and internal coherence. Although equal-mix hybrids were used in this study, future research may explore varying proportions of AI involvement.
+
+#### Text length, genre, and summary characteristics
+
+The dataset reflected natural variation in academic writing across text length and genre. Three word-count ranges were included to represent common assignment types in higher education: 300–330 words (short responses), 450–550 words (mid-length tasks), and 900–1,100 words (extended essays or reports). The final distribution comprised 23 short texts, 144 medium-length texts, and 25 long texts. This uneven distribution reflects the authentic availability of student and professionally authored work. Both smaller groups exceeded the minimum thresholds for comparative analysis, while the predominance of medium-length texts mirrors typical coursework patterns in undergraduate settings. Genre representation displayed a similar natural distribution, with 57 Humanities texts and 135 Science texts. The uneven distribution of text length and genre in the dataset reflects the natural availability of authentic student and professional writing in real instructional circumstances. Importantly, the uneven distribution did not affect the analysis, as the statistical methods employed (Chi-square and Fisher’s Exact Tests) do not require equal group sizes and remain appropriate under such conditions. The dataset therefore provides a realistic representation of the writing typically encountered in this context without compromising the integrity of the results.
+
+### Classification approach
+
+Turnitin and Originality produce probabilistic indicators of AI involvement rather than categorical labels. To enable systematic evaluation and cross-detector comparison, these continuous outputs were mapped onto three predetermined authorship categories: Human, Hybrid, and AI-generated. The classification thresholds applied in this study follow established conventions used in academic integrity investigations and prior empirical research. Specifically, detector outputs between 0 and 20% were classified as Human, outputs between 21 and 79% were classified as Hybrid, and outputs of 80% or higher were classified as AI-generated. These thresholds were not derived from the present dataset but were selected based on (a) published guidelines from leading commercial detection vendors, (b) widely adopted institutional practices in academic integrity offices, and (c) peer-reviewed studies that have operationalized similar thresholds when evaluating model performance (Weber-Wulff et al. [2023](/article/10.1007/s40979-026-00213-1#ref-CR34)). For instance, tools such as GPTZero and OpenAI’s AI classifier (now deprecated) have used a high-confidence threshold of 80% or more to indicate AI authorship, while probabilities below 20% are considered strong indicators of human authorship (Buchert [2024](/article/10.1007/s40979-026-00213-1#ref-CR6); OpenAI [2023](/article/10.1007/s40979-026-00213-1#ref-CR28)). The intermediate range is often associated with mixed or ambiguous authorship, justifying its alignment with the *Hybrid* category. Furthermore, Turnitin published guidelines and common practice among AI content detection tools on their website (iThenticate [2024](/article/10.1007/s40979-026-00213-1#ref-CR21)). Its guidelines no longer report specific detection percentages below 20% due to a higher risk of false positives, while results above 80% are regarded as strong indicators of AI authorship. The intermediate range is also associated with mixed or ambiguous authorship, making it suitable for the *Hybrid* category. Originality has the same guidelines (*Originality.AI* [n.d.](/article/10.1007/s40979-026-00213-1#ref-CR19)). These thresholds were adopted in this study to allow for a fair assessment of the detector’s current performance against an accepted norm. Using externally validated ranges strengthens interpretability and avoids the circularity that would result from deriving thresholds from the same dataset used for evaluation.
+
+The Hybrid category is particularly important in contemporary educational contexts, as students increasingly engage with GenAI tools in ways that produce mixed-authorship texts. By including this intermediate classification, the study acknowledges the complexity of modern writing practices and evaluates detectors’ ability to differentiate between fully human, fully AI-generated, and blended texts.
+
+Following classification, detector predictions were compared with the ground-truth labels to assess accuracy, consistency, and potential sources of misclassification. Treating the detectors as three-class classification systems enables a more nuanced analysis of their practical use in academic integrity processes.
+
+### Data analysis
+
+#### Performance analysis
+
+The confusion matrix is a standard tool used to evaluate the performance of classification models. It is widely adopted in Machine Learning (ML) research and practice to evaluate ML models’ performance. In our context, we treat AI detectors as text-to-label classifier models that categorize text into one of three classes: AI, Human, or Hybrid. The confusion matrix provides a detailed breakdown of how predicted labels align with the actual labels. A confusion matrix is typically represented as a table containing all possible combinations of actual and predicted class labels. Fig. [1](/article/10.1007/s40979-026-00213-1#Fig1) illustrates the three-class confusion matrix, where each cell represents the number or percentage of instances assigned to a specific predicted class by the classifier.
+
+**Fig. 1**
+
+![]()[Full size image](/article/10.1007/s40979-026-00213-1/figures/1)
+
+Confusion matrix illustration for three three-class problem
+
+The confusion matrix serves as the foundation for calculating several critical performance metrics, such as Recall (Sensitivity), Specificity, Precision, Accuracy, and F1-score. These metrics are essential for understanding classification quality beyond overall accuracy.
+
+From each confusion matrix, we calculated the performance indicators associated with each category (class), for illustration, below are performance indicators for classifying AI-authored category:
+
+### Sensitivity (Sen) /RecallAI:
+
+This measure describes out of all actual AI-authored texts, how many were correctly identified by the detector.
+
+### **Specificity** **AI** (**Spec**):
+
+Specificity indicates out of all non-AI texts; how many were correctly identified as not AI-authored.
+
+### PrecisionAI:
+
+Precision indicates out of all texts predicted as AI-authored, how many were actually AI-authored.
+
+### F1-ScoreAI:
+
+F1-score is the harmonic mean of Precision and Recall.
+
+### **Accuracy** **AI** (**Acc**):
+
+The accuracy indicates the overall rate at which the detector correctly classifies both AI and non-AI texts.
+
+These metrics together provide a comprehensive evaluation of the detector’s performance. Relying on accuracy alone, for example, can be misleading, especially in the presence of class imbalance.
+
+We repeated the above calculations for all three categories (AI, Human, Hybrid). Given that the dataset exhibits moderate imbalance (with Human-authored texts being approximately twice as frequent as the AI and Hybrid classes), we report the macro-averaged performance metrics. Macro-averaging gives equal weight to each class, offering a balanced and conservative view of performance in imbalanced settings (De Angeli et al. [2022](/article/10.1007/s40979-026-00213-1#ref-CR11)). A detailed explanation of the confusion matrix tool is available in the appendices.
+
+#### Statistical analysis
+
+To examine whether detector performance varied systematically across factors relevant to academic assessment, statistical analyses were conducted on three key variables: text length, text genre, and authorship type. These variables were selected because they represent common sources of variation in student writing and potential contributors to differential performance or bias in automated detection systems. For each variable, detector outputs were dichotomized into Correct versus Incorrect classifications based on the ground-truth. This approach permits evaluation of whether detector accuracy is independent of the variable under investigation, an issue of particular importance within academic integrity processes, where fairness across student groups and consistency are essential. The following statistical analysis methods were employed:
+
+1. 1)
+   
+   Chi-Square Tests of Independence
+   
+   * For comparisons in which all expected cell frequencies met the standard assumption of being ≥ 5, Pearson’s chi-square test of independence was employed. The chi-square test is appropriate for identifying associations between categorical variables and is widely used in educational research for evaluating whether observed performance differences reflect more than chance variation (Bewick et al. [2003](/article/10.1007/s40979-026-00213-1#ref-CR5); McHugh [2013](/article/10.1007/s40979-026-00213-1#ref-CR27)). In this study, chi-square analyses were applied to:
+
+* The relationship between text length (short, medium, long) and classification accuracy
+* The relationship between text genre (science vs. humanities) and classification accuracy
+
+For each test, we report the χ² statistic, degrees of freedom, and associated p-value, enabling interpretation of whether detector performance varies significantly across these textual features.
+
+1. 2)
+   
+   Fisher’s exact test
+   
+   * When expected cell counts were small or distributions were unbalanced, particularly in the analysis of authorship type (EFL student writing vs. professional writing), Fisher’s Exact Test was used. Fisher’s test is a non-parametric alternative that provides an exact probability of observing the contingency table under the null hypothesis of independence (Fisher et al. [2011](/article/10.1007/s40979-026-00213-1#ref-CR17)). It is therefore appropriate for small samples or zero-frequency cells, both of which occurred in the authorship comparison.
+
+Consistent with concerns raised in prior research regarding potential detector bias against non-native or developing writers, a one-sided test was conducted to evaluate whether professional texts were more likely to be correctly classified than EFL texts. This directional approach reflects a theoretically grounded hypothesis and allows more precise interpretation of potential fairness implications.
+
+#### Interpretive framework
+
+The statistical analyses were conducted to determine whether systematic patterns existed in detector performance across pedagogically relevant variables. Identifying significant associations is crucial for academic integrity practitioners, as inconsistent performance across text length, genres, or authorship groups may introduce inequities into misconduct investigations. By integrating formal statistical evidence with performance metrics, the analysis provides a robust foundation for evaluating detector suitability and identifying risks for misclassification, particularly for EFL learners. All performance metrics (e.g., accuracy, precision, recall, F1-score) are reported alongside the corresponding statistical test results and p-values, providing a comprehensive and rigorous evaluation of how each variable affects the detector’s classification performance. This multi-method approach ensures both statistical robustness and interpretability of the findings.
+
+Results
+-------
+
+### Overall detection performance
+
+The analysis revealed notable differences in the performance of Turnitin and Originality across the three authorship categories: Human, AI-generated, and Hybrid. Confusion matrices in Fig. [2](/article/10.1007/s40979-026-00213-1#Fig2) and per-class parameters results in Table [1](/article/10.1007/s40979-026-00213-1#Tab1) illustrate substantial variation in class-specific accuracy, with neither system demonstrating consistently reliable multi-class performance.
+
+**Fig. 2**
+
+![]()[Full size image](/article/10.1007/s40979-026-00213-1/figures/2)
+
+Confusion matrix for Turnitin and Originality for per-class and multiclass performance
+
+**Table 1 Per-class parameters results for Turnitin and Originality**
+
+[Full size table](/article/10.1007/s40979-026-00213-1/tables/1)
+
+Turnitin demonstrated strong performance in identifying Human-generated texts, with high sensitivity and moderate precision, but its specificity for this class was comparatively low, indicating frequent misclassification of non-human texts as Human. For AI-generated texts, Turnitin achieved high specificity and precision, yet its sensitivity was substantially lower, suggesting that many AI texts were not correctly identified. Performance on Hybrid texts was weak across all metrics, reflecting a limited ability to detect mixed authorship.
+
+Originality exhibited a similar pattern in some respects but outperformed Turnitin in several key metrics. It demonstrated higher overall sensitivity for AI-generated texts, achieving strong performance in classifying AI content. However, like Turnitin, Originality performed poorly in classifying Hybrid texts, correctly identifying only a very small proportion of them. The near-zero recall for this class highlights a critical limitation in detecting blended authorship, a scenario increasingly common in academic settings.
+
+### Macro-averaged performance
+
+Given the moderate imbalance among classes, macro-averaged metrics provide a more balanced assessment of detector reliability, Table [2](/article/10.1007/s40979-026-00213-1#Tab2) shows macro-average results. Originality achieved a higher macro-average accuracy (0.69) than Turnitin (0.61), as well as a higher macro-average recall (0.60 vs. 0.51). Despite this, both detectors produced macro-average F1-scores below 0.55, indicating limited consistency across all classes.
+
+**Table 2 Macro-average of all performance metrics for Turnitin and Originality**
+
+[Full size table](/article/10.1007/s40979-026-00213-1/tables/2)
+
+Notably, Hybrid texts exerted a disproportionately negative influence on macro-averaged metrics for both systems. This underperformance underscores a structural challenge: detectors appear calibrated primarily for binary distinctions (AI vs. Human) and struggle to identify partial or mixed AI involvement.
+
+### Effect of text length
+
+Detector performance varied significantly across text-length categories. Both systems performed best on short texts (300–330 words), with accuracy declining for medium-length and long texts. For Turnitin, accuracy decreased sharply from short to medium texts, while Originality showed a more gradual decline but the same overall pattern, as shown in the results in Table [3](/article/10.1007/s40979-026-00213-1#Tab3); Fig. [3](/article/10.1007/s40979-026-00213-1#Fig3).
+
+**Table 3 Detectors’ performance among the three different text lengths**
+
+[Full size table](/article/10.1007/s40979-026-00213-1/tables/3)
+
+**Fig. 3**
+
+![]()[Full size image](/article/10.1007/s40979-026-00213-1/figures/3)
+
+Plot of detector performance among three different text lengths
+
+Pearson’s chi-square tests confirmed that these differences were statistically significant for both detectors. Turnitin results yielded χ² (2) = 8.41, *p* = 0.0149, and for Originality χ² (2) = 13.17, *p* = 0.0014. These results demonstrate that increases in text length introduce classification instability, a finding consistent with prior research suggesting that perplexity-based or distribution-based detection methods are sensitive to longer, more complex writing samples.
+
+### Effect of text genre
+
+Performance varied noticeably between science and humanities texts. Both detectors achieved substantially higher accuracy for humanities writing, whereas performance declined across all metrics for scientific texts. Turnitin shows a clear drop in accuracy (from 0.86 in humanities to 0.51 in science) and similarly weaker precision, specificity, and F1-score in science. Originality demonstrates high accuracy in humanities (0.96) and a clear drop in science (0.58), but maintains a more consistent recall across genres. Specificity and precision, however, still show notable declines in science. Table [4](/article/10.1007/s40979-026-00213-1#Tab4) shows the full results.
+
+**Table 4 Detectors’ performance across text genre**
+
+[Full size table](/article/10.1007/s40979-026-00213-1/tables/4)
+
+This pattern suggests that linguistic features common to scientific writing, such as lexical density, technical terminology, and formulaic sentence structure, may be more difficult for detectors to distinguish from AI-generated text.
+
+Pearson’s Chi-square analyses confirmed that the association between text genre and classification accuracy was statistically significant for both detectors; Turnitin results yielded χ² (1) = 19.109, *p* = 0.000, and for Originality χ² (1) = 26.429, *p* = 0.000. These findings raise important considerations for academic integrity practice, particularly in STEM-oriented educational environments where false positives or inconsistent results may affect a large subset of students.
+
+### Effect of authorship type (EFL vs. professional writers)
+
+For analyses involving authorship type, accuracy was used as the primary performance metric, as all texts in this subset were human-authored (EFL vs. Open Database), the available ground-truth data consisted exclusively of texts that were written by humans. This constraint limits the classification framework to a single actual class (“Human”), thus impeding the construction of a full multi-class confusion matrix necessary for computing metrics, such as precision, specificity, and F1-score (Skaik [2008](/article/10.1007/s40979-026-00213-1#ref-CR32)). This choice is methodologically justified, as accuracy in this case is mathematically equivalent to recall (sensitivity) for the Human class, and serves as an appropriate indicator of the detector’s ability to detect true Human authorship without misclassification. Table [5](/article/10.1007/s40979-026-00213-1#Tab5) shows the results for both detectors.
+
+**Table 5 Detectors’ performance with different authorships**
+
+[Full size table](/article/10.1007/s40979-026-00213-1/tables/5)
+
+Turnitin demonstrated comparable accuracy for both EFL student writing and professional writing, with no statistically significant difference (Fisher’s Exact Test, *p* = 0.50). This suggests that Turnitin did not exhibit measurable bias against EFL writers within this dataset.
+
+In contrast, Originality displayed a notable difference in accuracy: it classified all professional texts correctly but misclassified several EFL texts. Fisher’s Exact Test indicated a borderline statistically significant trend (one-sided *p* = 0.058) toward higher accuracy for professional writing. Although the result does not meet the conventional threshold for statistical significance, the directional trend aligns with emerging literature documenting potential detector bias against non-native or less proficient writers.
+
+### Summary of key findings
+
+Across all analyses, several consistent patterns emerged:
+
+1. 1.
+   
+   **Hybrid texts were the most difficult to classify**, with both detectors performing poorly and Originality showing near-zero recall.
+2. 2.
+   
+   **Text length and genre significantly influenced performance**, indicating that detector reliability is context-dependent.
+3. 3.
+   
+   **Originality generally outperformed Turnitin**, but both systems exhibited limitations that undermine their suitability as sole indicators of academic misconduct.
+4. 4.
+   
+   **Evidence of possible bias** was observed in Originality’s performance on EFL writing, warranting further investigation given the ethical stakes in multilingual higher education environments.
+
+Taken together, these results indicate that current commercial AI-content detectors demonstrate notable inconsistencies across authorship types, writing contexts, and linguistic profiles. These limitations must be carefully considered in academic integrity processes to avoid unwarranted allegations and unequal treatment of student writers.
+
+Discussion
+----------
+
+This study examined the reliability and fairness of two widely adopted commercial AI-content detectors within an academic integrity context, with particular attention to their performance on authentic EFL student writing. The findings reveal clear and consistent limitations in detector accuracy, generalizability, and equity, reinforcing growing concerns in the literature that automated detection tools are insufficiently robust for high-stakes integrity judgments. It must therefore be concluded that neither Turnitin nor Originality can currently be considered sufficiently reliable as AI detection solutions in academic settings. Although the scale of this study is modest compared with larger benchmarking efforts, the use of authentic EFL coursework, diverse genres, and hybrid authorship provides insights that extend existing research in meaningful ways.
+
+### Comparison with prior research and benchmarks
+
+Consistent with earlier evaluations reported by Weber-Wulff et al. ([2023](/article/10.1007/s40979-026-00213-1#ref-CR34)) and Elkhatat et al. ([2023](/article/10.1007/s40979-026-00213-1#ref-CR15)), both detectors demonstrated substantial inconsistencies across authorship types and writing conditions. While Originality outperformed Turnitin on overall accuracy and recall, its superior performance did not translate into reliable classification across all categories, particularly hybrid texts, for which both systems performed poorly. The near-zero recall of hybrid texts by Originality is aligned with recent evidence that detectors struggle when human and AI linguistic patterns co-occur (Elkhatat et al. [2023](/article/10.1007/s40979-026-00213-1#ref-CR15)), and it underscores the conceptual and practical challenge of detecting partial AI involvement in real student writing.
+
+The present findings also diverge from the high accuracy claims commonly promoted by commercial vendors, whose marketing materials portray their AI-detection systems as reliable across diverse writing contexts. In contrast, this study’s balanced and authentic dataset reveals far greater variability, suggesting that vendor-reported performance may not generalize to multilingual or EFL learning environments, nor to writing tasks that extend beyond short, controlled, or single-genre texts. These discrepancies reinforce the importance of independent evaluation rather than reliance on proprietary accuracy claims.
+
+### Implications for EFL learners and academic integrity
+
+A key contribution of this study is its direct comparison of detector behaviour on authentic EFL student writing versus professionally authored texts. Originality demonstrated a borderline-significant tendency to classify professional texts more accurately than EFL texts, while Turnitin showed no significant difference. Although this trend in Originality does not reach conventional significance thresholds, it is directionally consistent with recent research documenting detector bias against non-native writers (Liang et al. [2023](/article/10.1007/s40979-026-00213-1#ref-CR24)). Given that EFL writers may display predictable lexical and syntactic patterns, misclassifications may reflect linguistic characteristics rather than evidence of AI involvement. This represents a significant integrity concern: false positives can disproportionately affect specific student groups, elevating the risk of inequitable treatment and potentially damaging students’ academic standing.
+
+In academic integrity contexts, such biases are especially problematic. Automated detection should not be interpreted as evidence of misconduct; at best, it signals a need for further review. Excessive reliance on detectors may inadvertently reproduce linguistic disadvantage, particularly in institutions serving linguistically diverse populations. Such inequities also affect how reliable our assessment decisions are, because the accuracy of checking who wrote the text is not the same for all student groups. The findings from the Originality detector point to a need for detector model retraining, diversification of training data, and the incorporation of bias mitigation strategies. This finding aligns with concerns raised in recent AI ethics literature about linguistic disadvantage in algorithmic systems (Andersen et al. [2025](/article/10.1007/s40979-026-00213-1#ref-CR3); Helm et al. [2024](/article/10.1007/s40979-026-00213-1#ref-CR18)).
+
+### Hybrid authorship and evolving writing practices
+
+The weak performance on hybrid texts reveals a deeper conceptual limitation of current detection technologies. Writing in the GenAI era increasingly involves a human–machine collaboration, rather than a binary distinction between “human” and “AI-written” work. Both detectors appear calibrated for binary detection but struggle to characterize mixed-authorship texts, even when the proportion of AI content is substantial. This has implications for institutions whose policies now permit limited or disclosed AI use: detectors may fail to identify legitimate AI involvement while simultaneously misclassifying authentic human work. As hybrid writing becomes more common, detection tools risk becoming less relevant to the realities of contemporary composition practices.
+
+### Contextual sensitivity: text length and genre
+
+The significant effects of text length and genre further illustrate that detector reliability is context-dependent. Short texts were classified with comparatively higher accuracy, whereas medium- and long-form writing, more representative of actual coursework, yielded substantially lower performance. This decline supports previous findings that perplexity and distribution-based detection approaches become less stable as text complexity increases.
+
+Genre effects were similarly pronounced, with weaker performance on scientific writing. Scientific discourse features high lexical density, technical terminology, and formulaic structure, traits that often resemble AI-generated output. This creates a structural disadvantage for STEM learners and instructors relying on automated tools in integrity workflows, potentially leading to systematic misclassification of perfectly legitimate work.
+
+### Reconsidering the role of detection in academic integrity
+
+Collectively, these findings reinforce that AI-content detectors, while potentially useful as supplementary tools, should not serve as primary or determinative evidence in academic misconduct investigations. Their inconsistent performance across text types, their difficulty with hybrid authorship, and their potential for unequal impact on EFL writers raise significant ethical and pedagogical concerns.
+
+Over-policing through detection can make students feel monitored, damage trust, and place unfair scrutiny on those who come from certain linguistic backgrounds. Conversely, ignoring AI misuse may compromise assessment validity. Institutions must therefore strike a balance, informed by transparent, research-based understanding of what detection technologies can, and cannot, reliably determine.
+
+### Moving toward pedagogical and policy renewal
+
+The findings highlight the need for a systemic shift in how higher education approaches writing, AI literacy, and academic integrity. Rather than relying on detectors as gatekeeping mechanisms, institutions should focus on:
+
+* Integrating explicit instruction on responsible AI use.
+* Redesigning assessments to focus on process, reflection, and transparency.
+* Developing policies that distinguish acceptable AI assistance from deceptive practices.
+* Providing faculty training on interpreting detector outputs cautiously and contextually.
+
+By embedding GenAI literacy and ethical awareness into curriculum and practice, universities can cultivate informed, responsible learners while mitigating the limitations of detection technologies.
+
+Limitations and future research
+-------------------------------
+
+This study provides empirical insights into the performance of two widely used commercial AI-content detectors, however, several limitations must be acknowledged when interpreting the findings. First, although the dataset of 192 texts was sufficiently robust for statistical analysis, a larger corpus, including a wider range of academic levels, writing genres, and linguistic backgrounds, would enhance the generalizability of the results. The present dataset is intentionally balanced but remains modest in size compared with large-scale benchmarking studies.
+
+Second, the analysis examined only two detection systems. While Turnitin and Originality are among the most widely adopted tools in higher education, many commercial, open-source, and emerging detection solutions exist. Detector behaviour varies substantially across models and updates, and the exclusive focus on these two systems limits the extent to which findings can be generalized to other tools.
+
+Third, the study relied on hybrid texts constructed with a 50/50 human–AI mixture. While this provided a controlled test of mixed authorship, real-world writing uncommonly adheres to fixed proportions. Students frequently produce texts that are initially AI-generated and subsequently edited to varying degrees, or they may integrate AI assistance selectively throughout the writing process. These dynamic authorship patterns, characteristic of contemporary GenAI usage, were beyond the scope of the present design. Further research exploring degrees of hybridization and the effects of substantial human editing on detector outputs is necessary.
+
+Future research should expand on the present study by examining a wider range of writing processes that more closely mirror contemporary academic practice. In real-world coursework, students often produce texts through iterative drafting, substantial human editing of AI-generated content, or selective use of GenAI tools at different stages of composition. Investigating how detectors respond to these varied and dynamic forms of hybrid authorship will be essential for understanding their applicability in authentic educational settings. Additionally, as both generative models and detection systems continue to evolve rapidly, longitudinal studies are needed to monitor whether detector performance improves or deteriorates over successive model updates. Such work would help institutions determine whether detection tools remain reliable over time or whether their accuracy fluctuates in ways that undermine consistent policy implementation.
+
+Conclusion
+----------
+
+This study provides a systematic evaluation of two widely used commercial AI content detectors within an academic integrity framework, using a balanced dataset that includes authentic EFL student writing, professional texts, AI-generated content, and hybrid compositions. The results show that while Originality generally outperforms Turnitin on several performance metrics, neither detector achieves the level of reliability required for high-stakes decision-making. Both systems demonstrate substantial difficulty in identifying hybrid authorship, obvious sensitivity to text length and genre, and, in the case of Originality, indications of reduced accuracy for EFL writing. The study highlights the need for institutions to pair informed human judgment with clear policies and AI-literacy instruction. It also points to the importance of redesigning assessments, emphasising process, reflection, to better address emerging forms of blended human–AI authorship.
+
+While AI content detectors may play a supplementary role within broader academic integrity workflows, their current limitations render them unsuitable as authoritative arbiters of authorship. Institutions should therefore approach AI detection with caution and nuance, ensuring that academic integrity practices remain equitable, evidence-based, and responsive to the evolving realities of AI-mediated writing.
+
+
+
+Data availability
+-----------------
+
+The datasets generated and analysed in this study are available from the corresponding author upon reasonable request. To preserve student confidentiality and comply with institutional ethics requirements, EFL student texts cannot be publicly released but may be shared in anonymized and approved form for legitimate research purposes.
+
+References
+----------
+
+* Akram A (2023) An empirical study of AI-generated text detection tools. Adv Mach Learn Artif Intell 4(2). <https://doi.org/10.33140/amlai.04.02.03>
+* Alnsour MM, Qouzah L, Aljamani S, Alamoush RA, AL-Omiri MK (2025) AI in education: enhancing learning potential and addressing ethical considerations among academic staff—a cross-sectional study at the university of Jordan. Int J Educational Integr 21(1):16–. <https://doi.org/10.1007/s40979-025-00189-4>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-025-00189-4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AI%20in%20education%3A%20enhancing%20learning%20potential%20and%20addressing%20ethical%20considerations%20among%20academic%20staff%E2%80%94a%20cross-sectional%20study%20at%20the%20university%20of%20Jordan&journal=Int%20J%20Educational%20Integr&doi=10.1007%2Fs40979-025-00189-4&volume=21&issue=1&publication_year=2025&author=Alnsour%2CMM&author=Qouzah%2CL&author=Aljamani%2CS&author=Alamoush%2CRA&author=AL-Omiri%2CMK)
+* Andersen N, Mang J, Goldhammer F, Zehner F (2025) Algorithmic fairness in automatic short answer scoring. Int J Artif Intell Educ. <https://doi.org/10.1007/s40593-025-00495-5>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40593-025-00495-5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Algorithmic%20fairness%20in%20automatic%20short%20answer%20scoring&journal=Int%20J%20Artif%20Intell%20Educ&doi=10.1007%2Fs40593-025-00495-5&publication_year=2025&author=Andersen%2CN&author=Mang%2CJ&author=Goldhammer%2CF&author=Zehner%2CF)
+* Avello D, Aranguren Zurita S (2025) Exploring the nexus of academic integrity and artificial intelligence in higher education: a bibliometric analysis. In *International journal for educational integrity*. BioMed Cent 21(1):24. <https://doi.org/10.1007/s40979-025-00199-2>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-025-00199-2) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20the%20nexus%20of%20academic%20integrity%20and%20artificial%20intelligence%20in%20higher%20education%3A%20a%20bibliometric%20analysis.%20In%20International%20journal%20for%20educational%20integrity&journal=BioMed%20Cent&doi=10.1007%2Fs40979-025-00199-2&volume=21&issue=1&publication_year=2025&author=Avello%2CD&author=Aranguren%20Zurita%2CS)
+* Bewick V, Cheek L, Ball J (2003) Statistics review 8: qualitative data – tests of association. Crit Care 8(1):46. <https://doi.org/10.1186/cc2428>
+  
+  [Article](https://link.springer.com/doi/10.1186/cc2428) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Statistics%20review%208%3A%20qualitative%20data%20%E2%80%93%20tests%20of%20association&journal=Crit%20Care&doi=10.1186%2Fcc2428&volume=8&issue=1&publication_year=2003&author=Bewick%2CV&author=Cheek%2CL&author=Ball%2CJ)
+* Buchert J (2024) How do AI detectors work? Do they work? Intellectualead. <https://gptzero.me/news/how-ai-detectors-work/>
+* Chakraborty S, Bedi A, Zhu S, An B, Manocha D, Huang F (2024) Position: On the possibilities of AI-generated text detection. In: Salakhutdinov R, Kolter Z, Heller K, Weller A, Oliver N, Scarlett J, Berkenkamp F, editors. Proceedings of the 41st International Conference on Machine Learning. Vol. 235. Proceedings of Machine Learning Research. p. 6093–6115. <https://proceedings.mlr.press/v235/chakraborty24a.html>
+* Chan CKY (2025) Students’ perceptions of ‘AI-giarism’: investigating changes in Understandings of academic misconduct. Educ Inform Technol 30(6):8087–8108. <https://doi.org/10.1007/s10639-024-13151-7>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-024-13151-7) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Students%E2%80%99%20perceptions%20of%20%E2%80%98AI-giarism%E2%80%99%3A%20investigating%20changes%20in%20Understandings%20of%20academic%20misconduct&journal=Educ%20Inform%20Technol&doi=10.1007%2Fs10639-024-13151-7&volume=30&issue=6&pages=8087-8108&publication_year=2025&author=Chan%2CCKY)
+* Cotton DRE, Cotton PA, Shipway JR (2024) Chatting and cheating: ensuring academic integrity in the era of ChatGPT. Innovations Educ Teach Int 61(2):228–239. <https://doi.org/10.1080/14703297.2023.2190148>
+  
+  [Article](https://doi.org/10.1080%2F14703297.2023.2190148) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chatting%20and%20cheating%3A%20ensuring%20academic%20integrity%20in%20the%20era%20of%20ChatGPT&journal=Innovations%20Educ%20Teach%20Int&doi=10.1080%2F14703297.2023.2190148&volume=61&issue=2&pages=228-239&publication_year=2024&author=Cotton%2CDRE&author=Cotton%2CPA&author=Shipway%2CJR)
+* Currie GM (2023) Academic integrity and artificial intelligence: is ChatGPT hype, hero or heresy? Semin Nucl Med 53(5):719–730. <https://doi.org/10.1053/J.SEMNUCLMED.2023.04.008>
+  
+  [Article](https://doi.org/10.1053%2FJ.SEMNUCLMED.2023.04.008) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Academic%20integrity%20and%20artificial%20intelligence%3A%20is%20ChatGPT%20hype%2C%20hero%20or%20heresy%3F&journal=Semin%20Nucl%20Med&doi=10.1053%2FJ.SEMNUCLMED.2023.04.008&volume=53&issue=5&pages=719-730&publication_year=2023&author=Currie%2CGM)
+* De Angeli K, Gao S, Danciu I, Durbin EB, Wu X-C, Stroup A, Doherty J, Schwartz S, Wiggins C, Damesyn M, Coyle L, Penberthy L, Tourassi GD, Yoon H-J (2022) Class imbalance in out-of-distribution datasets: improving the robustness of the TextCNN for the classification of rare cancer types. J Biomed Inform 125:103957. <https://doi.org/10.1016/j.jbi.2021.103957>
+  
+  [Article](https://doi.org/10.1016%2Fj.jbi.2021.103957) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Class%20imbalance%20in%20out-of-distribution%20datasets%3A%20improving%20the%20robustness%20of%20the%20TextCNN%20for%20the%20classification%20of%20rare%20cancer%20types&journal=J%20Biomed%20Inform&doi=10.1016%2Fj.jbi.2021.103957&volume=125&publication_year=2022&author=Angeli%2CK&author=Gao%2CS&author=Danciu%2CI&author=Durbin%2CEB&author=Wu%2CX-C&author=Stroup%2CA&author=Doherty%2CJ&author=Schwartz%2CS&author=Wiggins%2CC&author=Damesyn%2CM&author=Coyle%2CL&author=Penberthy%2CL&author=Tourassi%2CGD&author=Yoon%2CH-J)
+* Deep P, Das D, Edgington WD, Ghosh N, Rahaman MS (2025) Evaluating the effectiveness and ethical implications of AI detection tools in higher education. Information. 16(10):905 <https://doi.org/10.3390/info16100905>
+* Doru B, Maier C, S Busse J, Lücke T, Schönhoff J, Enax-Krumova E, Hessler S, Berger M, Tokic M (2025) Detecting artificial intelligence–generated versus human-written medical student essays: semirandomized controlled study. JMIR Med Educ 11. <https://doi.org/10.2196/62779>
+* EdinburghNLP. n.d. XSum: Topic-aware convolutional neural networks for extreme summarization. GitHub. Retrieved February 8, 2025, from <https://github.com/EdinburghNLP/XSum>
+* Elkhatat AM, Elsaid K, Almeer S (2023) Evaluating the efficacy of AI content detection tools in differentiating between human and AI-generated text. Int J Educational Integr 19(1):1–16. <https://doi.org/10.1007/s40979-023-00140-5>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-023-00140-5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluating%20the%20efficacy%20of%20AI%20content%20detection%20tools%20in%20differentiating%20between%20human%20and%20AI-generated%20text&journal=Int%20J%20Educational%20Integr&doi=10.1007%2Fs40979-023-00140-5&volume=19&issue=1&pages=1-16&publication_year=2023&author=Elkhatat%2CAM&author=Elsaid%2CK&author=Almeer%2CS)
+* Fariello S, Fenza G, Forte F, Gallo M, Marotta M (2025) Distinguishing human from machine: A review of advances and challenges in AI-Generated text detection. Int J Interact Multimedia Artif Intell 9(3):6–18. <https://doi.org/10.9781/ijimai.2024.12.002>
+  
+  [Article](https://doi.org/10.9781%2Fijimai.2024.12.002) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Distinguishing%20human%20from%20machine%3A%20A%20review%20of%20advances%20and%20challenges%20in%20AI-Generated%20text%20detection&journal=Int%20J%20Interact%20Multimedia%20Artif%20Intell&doi=10.9781%2Fijimai.2024.12.002&volume=9&issue=3&pages=6-18&publication_year=2025&author=Fariello%2CS&author=Fenza%2CG&author=Forte%2CF&author=Gallo%2CM&author=Marotta%2CM)
+* Fisher MJ, Marshall AP, Mitchell M (2011) Testing differences in proportions. Australian Crit Care 24(2):133–138. <https://doi.org/10.1016/j.aucc.2011.01.005>
+  
+  [Article](https://doi.org/10.1016%2Fj.aucc.2011.01.005) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Testing%20differences%20in%20proportions&journal=Australian%20Crit%20Care&doi=10.1016%2Fj.aucc.2011.01.005&volume=24&issue=2&pages=133-138&publication_year=2011&author=Fisher%2CMJ&author=Marshall%2CAP&author=Mitchell%2CM)
+* Helm P, Bella G, Koch G, Giunchiglia F (2024) Diversity and Language technology: how Language modeling bias causes epistemic injustice. Ethics Inf Technol 26(1):1–15. <https://doi.org/10.1007/s10676-023-09742-6>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10676-023-09742-6) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Diversity%20and%20Language%20technology%3A%20how%20Language%20modeling%20bias%20causes%20epistemic%20injustice&journal=Ethics%20Inf%20Technol&doi=10.1007%2Fs10676-023-09742-6&volume=26&issue=1&pages=1-15&publication_year=2024&author=Helm%2CP&author=Bella%2CG&author=Koch%2CG&author=Giunchiglia%2CF)
+* How Does (2025) AI content detection work? – Originality.ai. (n.d.). Retrieved June 23, from <https://originality.ai/blog/how-does-ai-content-detection-work?utm_source=chatgpt.com>
+* Hua H, Yao CJ (2024) Investigating generative AI models and detection techniques: impacts of tokenization and dataset size on identification of AI-generated text. Front Artif Intell. 7: [page numbers if available] <https://doi.org/10.3389/frai.2024.1469197>
+* iThenticate (2024) AI writing detection in the new, enhanced Similarity Report view. IThenticate. <https://guides.turnitin.com/hc/en-us/articles/22774058814093-AI-writing-detection-in-the-new-enhanced-Similarity-Report>
+* Kirchenbauer J, Geiping J, Wen Y, Katz J, Miers I, Goldstein T (2023) A watermark for large Language models. Proc Mach Learn Res 202:17061–17084
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20watermark%20for%20large%20Language%20models&journal=Proc%20Mach%20Learn%20Res&volume=202&pages=17061-17084&publication_year=2023&author=Kirchenbauer%2CJ&author=Geiping%2CJ&author=Wen%2CY&author=Katz%2CJ&author=Miers%2CI&author=Goldstein%2CT)
+* Kumar N, Singh AK (2025) Artificial intelligence content detection techniques using watermarking: a survey. Image Vis Comput. 163:105728. <https://doi.org/10.1016/j.imavis.2025.105728>
+* Liang W, Yuksekgonul M, Mao Y, Wu E, Zou J (2023) GPT detectors are biased against non-native english writers. Patterns 4(7):100779. <https://doi.org/10.1016/j.patter.2023.100779>
+  
+  [Article](https://doi.org/10.1016%2Fj.patter.2023.100779) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GPT%20detectors%20are%20biased%20against%20non-native%20english%20writers&journal=Patterns&doi=10.1016%2Fj.patter.2023.100779&volume=4&issue=7&publication_year=2023&author=Liang%2CW&author=Yuksekgonul%2CM&author=Mao%2CY&author=Wu%2CE&author=Zou%2CJ)
+* Liu JQJ, Hui KTK, Al Zoubi F, Zhou ZZX, Samartzis D, Yu CCH, Chang JR, Wong AYL (2024) The great detectives: humans versus AI detectors in catching large Language model-generated medical writing. Int J Educational Integr 20(1):1–14. <https://doi.org/10.1007/s40979-024-00155-6>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-024-00155-6) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20great%20detectives%3A%20humans%20versus%20AI%20detectors%20in%20catching%20large%20Language%20model-generated%20medical%20writing&journal=Int%20J%20Educational%20Integr&doi=10.1007%2Fs40979-024-00155-6&volume=20&issue=1&pages=1-14&publication_year=2024&author=Liu%2CJQJ&author=Hui%2CKTK&author=Al%20Zoubi%2CF&author=Zhou%2CZZX&author=Samartzis%2CD&author=Yu%2CCCH&author=Chang%2CJR&author=Wong%2CAYL)
+* marsyas. n.d. GTZAN. Hugging Face Datasets. Retrieved February 8, 2025, from <https://huggingface.co/datasets/EdinburghNLP/xsum/viewer>
+* McHugh ML (2013) The Chi-square test of independence. Biochemia Med 23(2):143–149. <https://doi.org/10.11613/BM.2013.018>
+  
+  [Article](https://doi.org/10.11613%2FBM.2013.018) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Chi-square%20test%20of%20independence&journal=Biochemia%20Med&doi=10.11613%2FBM.2013.018&volume=23&issue=2&pages=143-149&publication_year=2013&author=McHugh%2CML)
+* OpenAI (2023) New AI classifier for indicating AI-written text. OpenAI. <https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text/>
+* Park S, Nan X (2025) Generative AI and misinformation: a scoping review of the role of generative AI in the generation, detection, mitigation, and impact of misinformation. AI Soc. 1–15. <https://doi.org/10.1007/s00146-025-02620-3>
+* Perkins M (2023) Academic integrity considerations of AI large language models in the post-pandemic era: ChatGPT and beyond. J Univ Teach Learn Pract 20(2). <https://doi.org/10.53761/1.20.02.07>
+* Saheb T, Sidaoui M, Schmarzo B (2024) Convergence of artificial intelligence with social media: A bibliometric & qualitative analysis. Telematics Inf Rep 14:100146. <https://doi.org/10.1016/j.teler.2024.100146>
+  
+  [Article](https://doi.org/10.1016%2Fj.teler.2024.100146) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Convergence%20of%20artificial%20intelligence%20with%20social%20media%3A%20A%20bibliometric%20%26%20qualitative%20analysis&journal=Telematics%20Inf%20Rep&doi=10.1016%2Fj.teler.2024.100146&volume=14&publication_year=2024&author=Saheb%2CT&author=Sidaoui%2CM&author=Schmarzo%2CB)
+* Skaik Y (2008) Understanding and using sensitivity, specificity and predictive values. Indian J Ophthalmol 56(4):341. <https://doi.org/10.4103/0301-4738.41424>
+  
+  [Article](https://doi.org/10.4103%2F0301-4738.41424) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Understanding%20and%20using%20sensitivity%2C%20specificity%20and%20predictive%20values&journal=Indian%20J%20Ophthalmol&doi=10.4103%2F0301-4738.41424&volume=56&issue=4&publication_year=2008&author=Skaik%2CY)
+* Waltzer T, Pilegard C, Heyman GD (2024) Can you spot the bot? Identifying AI-generated writing in college essays. Int J Educational Integr 20(1):11. <https://doi.org/10.1007/s40979-024-00158-3>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-024-00158-3) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Can%20you%20spot%20the%20bot%3F%20Identifying%20AI-generated%20writing%20in%20college%20essays&journal=Int%20J%20Educational%20Integr&doi=10.1007%2Fs40979-024-00158-3&volume=20&issue=1&publication_year=2024&author=Waltzer%2CT&author=Pilegard%2CC&author=Heyman%2CGD)
+* Weber-Wulff D, Anohina-Naumeca A, Bjelobaba S, Foltýnek T, Guerrero-Dib J, Popoola O, Šigut P, Waddington L (2023) Testing of detection tools for AI-generated text. Int J Educational Integr 19(1):1–39. <https://doi.org/10.1007/s40979-023-00146-z>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-023-00146-z) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Testing%20of%20detection%20tools%20for%20AI-generated%20text&journal=Int%20J%20Educational%20Integr&doi=10.1007%2Fs40979-023-00146-z&volume=19&issue=1&pages=1-39&publication_year=2023&author=Weber-Wulff%2CD&author=Anohina-Naumeca%2CA&author=Bjelobaba%2CS&author=Folt%C3%BDnek%2CT&author=Guerrero-Dib%2CJ&author=Popoola%2CO&author=%C5%A0igut%2CP&author=Waddington%2CL)
+* Wu J, Yang S, Zhan R, Yuan Y, Chao LS, Wong DF (2025) A survey on LLM-Generated text detection: Necessity, Methods, and future directions. Comput Linguistics 51(1):275–338. <https://doi.org/10.1162/coli_a_00549>
+  
+  [Article](https://doi.org/10.1162%2Fcoli_a_00549) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20survey%20on%20LLM-Generated%20text%20detection%3A%20Necessity%2C%20Methods%2C%20and%20future%20directions&journal=Comput%20Linguistics&doi=10.1162%2Fcoli_a_00549&volume=51&issue=1&pages=275-338&publication_year=2025&author=Wu%2CJ&author=Yang%2CS&author=Zhan%2CR&author=Yuan%2CY&author=Chao%2CLS&author=Wong%2CDF)
+* Zhao Y, Zou C, Sridhar R, Cui C, Starner T (2024) Leveraging past assignments to determine if students are using ChatGPT for their essays. In: Proceedings of the 11th ACM Conference on Learning @ Scale (L@S 2024). p. 320–324. <https://doi.org/10.1145/3657604.3664707>
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s40979-026-00213-1?format=refman&flavour=references)
+
+Funding
+-------
+
+No external funding was received to support this research. The study was conducted as part of the authors’ academic responsibilities.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Sultan Qaboos University, Muscat, Oman
+   
+   Mohammad Hadra, Karleen Cambridge & Mostefa Mesbah
+
+Authors
+
+1. Mohammad Hadra[View author publications](/search?sortBy=newestFirst&contributor=Mohammad%20Hadra)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Mohammad%20Hadra) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Mohammad%20Hadra%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Karleen Cambridge[View author publications](/search?sortBy=newestFirst&contributor=Karleen%20Cambridge)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Karleen%20Cambridge) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Karleen%20Cambridge%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Mostefa Mesbah[View author publications](/search?sortBy=newestFirst&contributor=Mostefa%20Mesbah)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Mostefa%20Mesbah) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Mostefa%20Mesbah%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+M.H. conceptualized the study, designed the methodology, conducted the analysis, and drafted the manuscript. K.C. contributed to data collection, dataset construction, detector testing, and manuscript editing. M. M. provided subject-matter expertise, supervision, and critical revisions to enhance academic and methodological rigor. All authors reviewed and approved the final manuscript and accepted responsibility for its content.
+
+### Corresponding author
+
+Correspondence to
+[Mohammad Hadra](mailto:m.hadra@squ.edu.om).
+
+Ethics declarations
+-------------------
+
+### Ethics approval and consent to participate
+
+This study received formal ethical approval from the relevant institutional review body at Sultan Qaboos University. Permission was granted to use anonymized student coursework for research purposes, and all data were handled in accordance with institutional policies governing confidentiality, academic integrity, research, and the protection of student information. No identifiable personal data were collected, stored, or analysed. The use of archival student writing involved no contact with participants, and all texts were anonymized prior to analysis.
+
+### Consent for publication
+
+Not applicable. All data were anonymized and derived from previously submitted coursework or publicly available sources.
+
+### Competing interests
+
+The authors declare no competing interests.
+
+Additional information
+----------------------
+
+### Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Supplementary Information
+-------------------------
+
+Below is the link to the electronic supplementary material.
+
+### [Supplementary Material 1 (download DOCX )](https://static-content.springer.com/esm/art%3A10.1007%2Fs40979-026-00213-1/MediaObjects/40979_2026_213_MOESM1_ESM.docx)
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Evaluating%20the%20accuracy%20and%20reliability%20of%20AI%20content%20detectors%20in%20academic%20contexts&author=Mohammad%20Hadra%20et%20al&contentID=10.1007%2Fs40979-026-00213-1&copyright=The%20Author%28s%29&publication=1833-2595&publicationDate=2026-02-02&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY-NC-ND)
+
+About this article
+------------------
+
+### Cite this article
+
+Hadra, M., Cambridge, K. & Mesbah, M. Evaluating the accuracy and reliability of AI content detectors in academic contexts.
+*Int J Educ Integr* **22**, 4 (2026). https://doi.org/10.1007/s40979-026-00213-1
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s40979-026-00213-1?format=refman&flavour=citation)
+
+* Received: 15 November 2025
+* Accepted: 16 January 2026
+* Published: 02 February 2026
+* Version of record: 02 February 2026
+* DOI: https://doi.org/10.1007/s40979-026-00213-1
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Academic integrity](/search?query=Academic%20integrity&facet-discipline="Education")
+* [Generative artificial intelligence](/search?query=Generative%20artificial%20intelligence&facet-discipline="Education")
+* [Artificial intelligence content detection](/search?query=Artificial%20intelligence%20content%20detection&facet-discipline="Education")
+* [Detection bias](/search?query=Detection%20bias&facet-discipline="Education")
+* [Detection reliability](/search?query=Detection%20reliability&facet-discipline="Education")
+* [English as a Foreign Language (EFL)](/search?query=English%20as%20a%20Foreign%20Language%20%28EFL%29&facet-discipline="Education")
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.66.192
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

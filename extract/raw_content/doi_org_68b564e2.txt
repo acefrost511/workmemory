@@ -1,0 +1,191 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105493
+# Content Length: 33336 characters
+# Extracted at: 2026-03-08 12:48:14
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002611?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002611?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002611)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525002611/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002611?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002611?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002611?via%3Dihub#preview-section-snippets)
+- [References (52)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002611?via%3Dihub#preview-section-references)
+- [Cited by (1)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002611?via%3Dihub#preview-section-cited-by)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/0d9a89bf035810c5e67382f2165fe6895c318871/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 242](https://www.sciencedirect.com/journal/computers-and-education/vol/242/suppl/C "Go to table of contents for this volume/issue"), March 2026, 105493
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00142-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/242/suppl/C)
+# Fostering scientific inquiry with hybrid intelligence: A semester-long experiment on knowledge acquisition in the science classroom
+Author links open overlay panelFanChena, BoXiongb, GaoweiChena
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105493](https://doi.org/10.1016/j.compedu.2025.105493 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525002611&orderBeanReset=true)
+## Highlights
+- •
+Supporting physics inquiry activities in classroom environments remains underexplored.
+- •
+Generative AI, when integrated with learning process data, can provide context-aware support for classroom inquiry.
+- •
+Hybrid intelligent support enhances students' content knowledge in physics inquiry.
+- •
+Students reported improved conceptual understanding, group collaboration, and classroom engagement with intelligent supports.
+## Abstract
+Scientific inquiry is essential for developing deep conceptual understanding and exploratory skill, yet its complexity presents significant challenges for classroom implementation. While technologies like learning analytics (LA) and artificial intelligence (AI) offer promising tools for monitoring and guidance, the comparative and longitudinal effects of their integration remain underexplored. This study addresses this gap through a semester-long quasi-experiment with 177 secondary students across four conditions representing progressively enhanced technological support: a control (GICG), a structured system (BICG), the system plus an LA dashboard (ADIG), and the full integration of the system, dashboard, and an AI assistant (HIIG). A mixed-method analysis was conducted to assess knowledge acquisition and learning experiences. Quantitative findings revealed a clear performance hierarchy in theme-specific knowledge assessments (HIIG > ADIG ≈ BICG > GICG), with the fully integrated HIIG group demonstrating significantly higher comprehensive knowledge acquisition than the control group. Qualitative findings highlighted positive student perceptions of technology-augmented inquiry, like improved engagement, reduced frustration, and enhanced ability to navigate inquiry challenges, though the level of technological support influenced help-seeking behaviors and collaboration dynamics. This study provides empirical evidence for the synergistic value of integrating AI and LA, demonstrating that their combination creates an effective scaffolding system that fosters sustained knowledge acquisition by supporting both the cognitive and affective dimensions of student inquiry in authentic classrooms.
+## Introduction
+Science education is critical for developing scientifically literate citizens by fostering critical thinking and inquiry skills (de Jong et al., 2024; National Research Council, 2012), which are essential for understanding the natural world and addressing complex societal issues. However, rural students often face significant barriers to accessing high-quality science education (Abrams & Middleton, 2016; Ihrig et al., 2022), resulting in persistent disparities in scientific achievement and limited access to science-related careers (Jones & Burrell, 2022; Saw & Agger, 2021). These inequities perpetuate cycles of educational and economic disadvantage (Harris & Hodges, 2018; Saw & Agger, 2021). A major contributing factor is the lack of opportunities for effective scientific inquiry (Harris & Hodges, 2018; Jones & Burrell, 2022), a foundational “learning by doing” approach essential for building deep conceptual understanding, practical skills, and sustained interest in science-related fields (Ihrig et al., 2022; National Research Council, 2012).
+Efforts to address these challenges have explored online tools and virtual labs as potential solutions for informal science learning (Chen & Chen, 2025a; Di Pietro & Castaño Muñoz, 2025). However, such approaches often fail to adequately support formal classroom-based instruction or replicate the experiential, practice-based learning central to authentic scientific inquiry (Chen & Chen, 2025a; Pedaste et al., 2015). This limitation is particularly acute for rural students, for whom the classroom is often the primary venue for systematic science education. Moreover, in many rural classrooms, access to technological resources is often inconsistent, as evidenced by the digital divide in intelligent tutoring systems between rural and urban areas (Hannan & Eynon, 2025), the use of video conferences to transfer teaching expertise (C. Li et al., 2024, Li et al., 2024), and the deployment of virtual reality for informal learning (Wang et al., 2023). These challenges are further compounded by practical constraints such as resource shortages and limited extracurricular science opportunities (Abrams & Middleton, 2016; Saw & Agger, 2021). Together, these factors highlight the urgent need to facilitate practice-oriented scientific inquiry within the classroom to provide effective and equitable science education (Jones & Burrell, 2022; Kastorff et al., 2025; Lu et al., 2023).
+Emerging technologies, like learning analytics (LA) and generative artificial intelligence (AI), offer promising solutions to enhance inquiry-based learning. LA enables the monitoring and visualization of students' learning processes, making typically invisible aspects of scientific exploration (e.g., variable control, evidence analysis) more transparent (Chen & Chen, 2025b; Martinez-Maldonado et al., 2020). By providing these insights, LA can enhance students' metacognitive awareness, prompting them to better regulate their inquiry performance (Chen & Chen, 2025b). However, this LA-supported awareness does not automatically translate into productive action (Bodily et al., 2018; Yin et al., 2025), as students often lack the self-regulatory skills to interpret the feedback and adjust their behaviors accordingly (Wise et al., 2016). Consequently, LA support alone may leave students unsure of how to address identified challenges, potentially leading to frustration, anxiety, and disengagement (Han & Seok Oh, 2024; Hou et al., 2025). Generative AI can complement this function by providing responsive and context-aware guidance to help students resolve conceptual or procedural difficulties (Kim et al., 2024; Zhu et al., 2024), thereby helping them translate awareness into meaningful action. By integrating LA's diagnostic capabilities with AI's adaptive guidance, a combined system can identify when students struggle and deliver timely, actionable support to foster deeper engagement and more productive scientific inquiry.
+This study introduces and evaluates such an integrated system, combining LA visualizations with AI-generated guidance to support student engagement and performance in rural science classrooms. For many of these students, secondary school represents their first formal exposure to discrete scientific disciplines (e.g., physics, chemistry, biology) (Wan et al., 2024). Positive inquiry experiences during this formative period are critical for inspiring sustained interest and promoting achievement in science (Chen et al., 2025). Our intervention was designed to empower students to actively monitor and regulate their inquiry processes, from hypothesis generation to scientific interpretation. Through a semester-long quasi-experiment in an underserved secondary school setting, this study examines the impact of this technology-augmented inquiry on students’ knowledge acquisition and learning perceptions. The findings provide empirical evidence for the value of integrating LA and AI to foster more equitable and effective science education.
+Scientific inquiry is a cornerstone of physics education, reflecting the interplay between empirical investigation and theoretical reasoning (Bramley et al., 2018; Wan et al., 2024). This discipline involves methodological processes such as hypothesis generation, experimental testing, and model validation, which mirror the epistemic practices central to scientific discovery (Ministry of Education, 2022; Wan et al., 2024). The principle that “doing physics is the only way to know physics” highlights the importance of active participation in scientific practices over passive memorization (Hestenes, 1987). Inquiry-based learning engages students in constructing knowledge by encouraging them to formulate hypotheses, conduct experiments, and interpret data (Pedaste et al., 2015). These activities not only build conceptual understanding of principles like Newton's laws of motion but also develop procedural skills like error analysis and causal reasoning, which are critical for mastering the discipline.
+Scientific inquiry fosters both conceptual understanding and scientific competencies through hands-on engagement (de Jong et al., 2023). Each phase—hypothesis generation, experimental exploration, and scientific interpretation—requires active student involvement (Pedaste et al., 2015). For example, hypothesis generation challenges students to translate abstract ideas into testable relationships between variables (Quinn & George, 2006), such as examining how the angle of incidence affects refraction. The experimentation phase strengthens core scientific practices, such as controlling variables, using instruments with precision, and systematically analyzing data (Bramley et al., 2018). Finally, scientific interpretation connects empirical observations to theoretical models, deepening students’ understanding of how abstract principles emerge from evidence (Hestenes, 1987). These processes also reinforce key epistemic norms, such as skepticism toward unsupported claims, reliance on evidence, and iterative model refinement (Hestenes, 1987; Ministry of Education, 2022; National Research Council, 2012).
+Despite its pedagogical benefits, implementing inquiry-based learning presents significant challenges in the classroom (Chen & Chen, 2025a). Inquiry imposes a high cognitive load, requiring students to simultaneously manage conceptual understanding (e.g., distinguishing refraction from reflection), procedural tasks (e.g., calibrating photogates), and metacognitive regulation (e.g., revising hypotheses after unexpected results) (Hestenes, 1987; Pols et al., 2022). When these demands are unmet, students may experience frustration and anxiety, disrupting their engagement and persistence (Han & Seok Oh, 2024; Hou et al., 2025). Teachers also face considerable challenges, as they must monitor student progress, provide timely guidance, and prevent unproductive struggles (Bramley et al., 2018; Lu et al., 2023). Structural constraints, such as large class sizes and limited instructional time, further complicate implementation (Chang et al., 2020; de Jong et al., 2023). In crowded classrooms, teachers often struggle to effectively address individual misconceptions, while time pressures may lead to shortcuts, such as substituting hands-on experiments with textbook diagrams, undermining the experiential learning essential for scientific understanding (Wan et al., 2024).
+These barriers are even more pronounced in under-resourced contexts such as rural schools. Limited resources often force teachers to rely on lecture-based instruction, which fails to align with the epistemic demands of science education (Abrams & Middleton, 2016; Ihrig et al., 2022). This misalignment can result in fragmented mental models, such as students perceiving Ohm's law as a static formula rather than an empirically derived principle, and diminishes their interest in science (Lu et al., 2023; Ministry of Education, 2022). Over time, these deficits widen performance gaps and reduce students' potential to pursue science-related careers (Abrams & Middleton, 2016; Harris & Hodges, 2018). Addressing these issues requires innovative solutions that provide expert-like support at scale while operating within classroom constraints. Systems that monitor student progress and deliver just-in-time, contextualized feedback are particularly promising (Kim et al., 2024; Yin et al., 2025), as research indicates that behaviorally informed interventions are more effective than simply providing technological access, especially for disadvantaged students (Di Pietro & Castaño Muñoz, 2025). Such systems can bridge gaps in resources and teacher support, offering scalable methods to enhance inquiry-based learning and promote equity in science education.
+Technological tools are increasingly used in science classrooms to mitigate cognitive overload, clarify procedural ambiguities, and scaffold students through complex inquiry tasks (Chen & Chen, 2025a; Di Pietro & Castaño Muñoz, 2025). Previous studies have examined platforms that integrate structured guidance—such as driving questions, hypothesis templates, experimental worksheets, and explanation scaffolds—to help students externalize their staged learning outcomes, navigate multi-stage tasks, and regulate their inquiry cycles during scientific activities (Chen et al., 2025; Eshuis et al., 2019; Yang et al., 2022). By providing shared online spaces, these digital platforms also facilitate knowledge exchange and collaborative interaction (Arnseth & Krange, 2016; Chang et al., 2020). Empirical evidence demonstrates the positive effects of such structured support on student engagement, collaboration, and short-term knowledge acquisition (Chen & Chen, 2025a; Zacharia et al., 2011).
+However, these predefined tools often struggle to adapt to the dynamic and unpredictable nature of authentic inquiry, which limits their long-term effectiveness (Chen & Chen, 2025a). Furthermore, few studies have explored how to integrate such support into rural classrooms, despite documented inequities in technology access and usage between rural and non-rural areas (Hannan & Eynon, 2025; Kastorff et al., 2025). Classroom-based inquiry poses practical challenges that require real-time monitoring to address emerging misconceptions (e.g., confusing refraction with reflection) or procedural errors (e.g., misreading a thermometer) (Arnseth & Krange, 2016; de Jong et al., 2023). Without timely intervention, these obstacles can hinder learning progress, reduce learning interest and engagement, and negatively affect learning outcomes (Chen et al., 2024; Han & Seok Oh, 2024). These challenges highlight the need for technological solutions that can deliver personalized, context-aware guidance to support students throughout the inquiry process.
+LA technologies have emerged as a potential solution by enhancing transparency through real-time data aggregation and visualization (Chen & Chen, 2025b). LA dashboards provide insights into classroom dynamics, such as time spent on tasks or patterns of peer interaction, enabling teachers to identify struggling groups (Martinez-Maldonado et al., 2020). For students, visualizations of individual and group progress—such as task completion during lens imaging experiments—can encourage metacognitive reflection and process improvement. Frameworks like the awareness-reflection-sensemaking-impact model link this awareness to deeper understanding and improved outcomes (Fleur et al., 2023; Jivet et al., 2020). For example, students who notice their groups lagging in task completion can adjust their collaboration strategies to improve efficiency (Bodily et al., 2018). However, the effectiveness of LA tools depends on students’ ability to interpret and act on these visualizations (Wise et al., 2016). Novice learners, in particular, may struggle to diagnose the underlying causes of delays and errors (e.g., overlooking error margins in refractive index calculations), leaving LA insights underutilized. This challenge, referred to as the awareness-action gap, limits the potential of LA to foster meaningful learning improvements.
+Generative AI, particularly large language models (LLMs) (B. Li et al., 2024, Li et al., 2024), offers a promising solution to bridge the awareness-action gap by embedding real-time, context-sensitive guidance within the inquiry process. When integrated with LA, AI can act as a pedagogical assistant to provide personalized just-in-time support aligned with scientific inquiry practices. In this synergy, LA functions as a diagnostic engine, analyzing multistage inquiry processes to identify challenges, while AI delivers targeted interventions. For example, if LA detects a vague hypothesis, AI can prompt students to refine it (e.g., transforming “Light bends in water” into a testable statement involving measurable variables like incident angles and refractive indices) (Quinn & George, 2006). Similarly, during data interpretation, AI can use Socratic prompts to help students distinguish evidence from assumptions. Preliminary studies on LA-AI integration have shown improved student interactions in writing tasks (Kim et al., 2024), enhanced collaboration in software development (Yin et al., 2025), and more productive discourse during inquiry (de Araujo et al., 2024). By automating routine feedback, these systems preserve the exploratory nature of scientific inquiry while providing scalable support that allows teachers to focus on higher-order tasks, such as addressing misconceptions or modeling expert reasoning (Arnseth & Krange, 2016).
+Despite these advancements, significant gaps remain. Most studies have been short-term interventions, leaving the longitudinal impact of AI-supported inquiry unexplored (Chen & Chen, 2025a, Chen & Chen, 2025b). Furthermore, few studies have disentangled the individual and combined effects of structured systems, LA dashboards, and interactive AI assistants, making it unclear whether observed benefits arise from specific components or their synergistic interaction. These gaps are particularly critical in under-resourced contexts like rural schools, where such technologies could mitigate the negative effects of socioeconomic disadvantage on educational outcomes through facilitating effective classroom-based inquiry (Hannan & Eynon, 2025; Kastorff et al., 2025). Therefore, this study addresses these gaps by developing and evaluating an integrated AI-LA system designed to provide scalable, expert-like support in rural science classrooms. We investigate its long-term impact on students’ inquiry processes, knowledge acquisition, and learning experiences.
+To address the gap between the potential of intelligent technologies and the practical challenges of effective science instruction, this study develops and evaluates an AI-enhanced inquiry support system. The system is designed to scaffold student learning by embedding the epistemic norms of scientific inquiry—namely, generating testable hypotheses, conducting exploratory experiments, and constructing evidence-based interpretations—into its real-time guidance. This investigation is situated in rural classrooms, a context where students often rely on formal instruction to develop scientific competencies. Built on findings from a pilot study (Chen et al., 2025), this research evaluates the adaptability and impact of the AI-enhanced system in an underserved secondary school setting, with the goal of fostering more active and effective student engagement in science.
+To examine the intervention's effectiveness, the study used a semester-long quasi-experiment across four secondary physics classrooms. Each classroom was assigned to one of four conditions representing progressively enhanced levels of technological support. The General Inquiry Control Group (GICG) used traditional paper-based methods without technological support. The Baseline Inquiry Control Group (BICG) utilized a structured digital system. The Analytics-Driven Inquiry Group (ADIG) used the structured system augmented with LA dashboards. The Hybrid Intelligent Inquiry Group (HIIG) received the most advanced support, combining the structured system, LA dashboards, and AI-generated scaffolding for integrated, real-time guidance. This comparative design enabled a systematic analysis of how different levels and types of technological support influenced student learning outcomes.
+Student knowledge acquisition was assessed using multiple measures. Three theme-specific assessments, aligned with the inquiry topics, tracked the development of content knowledge throughout the semester. In addition, pre- and post-comprehensive tests measured overall knowledge acquisition. To complement these quantitative measures, qualitative data were collected through open-ended survey questions and interviews to capture students’ perceptions of the intervention and their experiences with scientific inquiry activities. This study addresses the following research questions.
+- (1)
+What is the effect of the technological intervention on students' overall knowledge acquisition?
+- (2)
+How does students' content knowledge develop during semester-long inquiry activities?
+- (3)
+What are students' perceptions of the technological intervention and their experiences with scientific inquiry activities?
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002611)
+## Section snippets
+## Context and participants
+This semester-long study was conducted at a rural secondary school in Chongqing, China, which serves over 800 students from surrounding villages. Approximately 80 % of the students are “left-behind children,” whose parents work in distant economic centers. These students board at the school, placing significant responsibility on teachers to support their academic and personal development. Physics instruction at the school is predominantly teacher-centered, relying on lectures and experimental
+## Results
+Before conducting the main analysis, the four experimental groups (HIIG, ADIG, BICG, GICG) were compared on key demographic variables to ensure baseline equivalence. As shown in Table 2, statistical analyses (one-way ANOVAs and a chi-square test) revealed no statistically significant differences between the groups on age, gender distribution, ICT competency, and participation willingness ( \_p\_ > .05 for all variables). These results confirm that the groups were comparable prior to the
+## Discussion
+This study investigated the distinct and combined effects of InquiryGuide (AI assistants) and InquiryNavigator (LA dashboards) on student learning during a semester-long scientific inquiry. The findings demonstrate that student knowledge acquisition was directly linked to the level of technological scaffolding provided (HIIG > ADIG ≈ BICG > GICG). Critically, the qualitative data revealed the mechanism underlying this performance hierarchy. While the LA dashboards alone could highlight progress
+## Implications
+Theoretically, this study contributes to learning sciences by providing an empirically validated model for how to support complex inquiry through the dynamic regulation of cognitive load. Our findings reveal the nuances of progressively enhanced technological support, demonstrating that not all technological scaffolds are equivalent. The LA-only dashboard (ADIG), for instance, induced helpless awareness, which failed to reduce extraneous cognitive load and, in some cases, exacerbated it through
+## Limitations and future research
+This study, while providing valuable insights, has several limitations that should be considered when interpreting the findings. These limitations present clear avenues for future research. First, the study was conducted in four intact classes with three different teachers. While enhancing the ecological validity of the findings, this design introduces potential teacher effects as a confounding variable. Unmeasured variations in instructional practice could have interacted with the
+## CRediT authorship contribution statement
+\*\*Fan Chen:\*\* Writing – review & editing, Writing – original draft, Software, Resources, Project administration, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Bo Xiong:\*\* Writing – review & editing, Resources, Methodology, Investigation, Conceptualization. \*\*Gaowei Chen:\*\* Writing – review & editing, Supervision, Methodology, Investigation, Funding acquisition, Conceptualization.
+## Funding
+This work was supported by Hong Kong Research Grants Council, University Grants Committee (Grants No.: 17605221, 17619325).
+## Ethics approval statement
+This project received approval from the Human Research Ethics Committee (HREC) of the University of Hong Kong. The HREC reference number for this project is EA240122.
+Fan CHEN is a PhD candidate in the Faculty of Education at the University of Hong Kong. Her research focuses on science education, learning sciences, technology-supported learning, learning analytics and artificial intelligence.
+Recommended articles
+- N.R. Bramley \_et al.\_
+### [Intuitive experimentation in the physical world](https://www.sciencedirect.com/science/article/pii/S001002851730347X)
+### Cognitive Psychology
+(2018)
+- S. D'Mello \_et al.\_
+### [Confusion can be beneficial for learning](https://www.sciencedirect.com/science/article/pii/S0959475212000357)
+### Learning and Instruction
+(2014)
+- B. Li \_et al.\_
+### [A systematic review of the first year of publications on ChatGPT and language education: Examining research on ChatGPT's use in language learning and teaching](https://www.sciencedirect.com/science/article/pii/S2666920X24000699)
+### Computers and Education: Artificial Intelligence
+(2024)
+- M. Pedaste \_et al.\_
+### [Phases of inquiry-based learning: Definitions and the inquiry cycle](https://www.sciencedirect.com/science/article/pii/S1747938X15000068)
+### Educational Research Review
+(2015)
+- E. Abrams \_et al.\_
+### Towards multidimensional approaches to research on rural science education
+### Cultural Studies of Science Education
+(2016)
+- O. Alsaiari \_et al.\_
+### Emotionally enriched AI-generated feedback: Supporting student well-being without compromising learning
+### Computers & Education
+(2025)
+- H.C. Arnseth \_et al.\_
+### What happens when you push the button? Analyzing the functional dynamics of concept development in computer supported science inquiry
+### International Journal of Computer-Supported Collaborative Learning
+(2016)
+- ### Introducing PCL-BAIDU Wenxin (ERNIE 3.0 Titan), the world's first knowledge enhanced multi-hundred-billion model
+- R. Bodily \_et al.\_
+### The design, development, and implementation of student-facing learning analytics dashboards
+### Journal of Computing in Higher Education
+(2018)
+- C.J. Chang \_et al.\_
+### The impact of light-weight inquiry with computer simulations on science learning in classrooms
+### Computers & Education
+(2020)
+F. Chen \_et al.\_
+### Technology-enhanced collaborative inquiry in k–12 classrooms: A systematic review of empirical studies
+### Science & Education
+(2025)
+F. Chen \_et al.\_
+### Learning analytics in inquiry‑based learning: A systematic review
+### Educational Technology Research and Development
+(2025)
+F. Chen \_et al.\_
+### Exploring the effects of technology-supported collaborative inquiry and students’ ICT competency on scientific literacy and subject knowledge in rural science classrooms
+### Education and Information Technologies
+(2025)
+Y.C. Chen \_et al.\_
+### Navigating student uncertainty for productive struggle: Establishing the importance for and distinguishing types, sources, and desirability of scientific uncertainties
+### Science Education
+(2024)
+A. de Araujo \_et al.\_
+### A learning analytics-based collaborative conversational agent to foster productive dialogue in inquiry learning
+### Journal of Computer Assisted Learning
+(2024)
+T. de Jong \_et al.\_
+### Let's talk evidence – The case for combining inquiry-based and direct instruction
+### Educational Research Review
+(2023)
+T. de Jong \_et al.\_
+### Beyond inquiry or direct instruction: Pressing issues for designing impactful science learning opportunities
+### Educational Research Review
+(2024)
+G. Di Pietro \_et al.\_
+### A meta-analysis on the effect of technology on the achievement of less advantaged students
+### Computers & Education
+(2025)
+E.H. Eshuis \_et al.\_
+### Improving the quality of vocational students' collaboration and knowledge acquisition through instruction and joint reflection
+### International Journal of Computer-Supported Collaborative Learning
+(2019)
+D.S. Fleur \_et al.\_
+### Social comparison in learning analytics dashboard supporting motivation and academic achievement
+### Computers and Education Open
+(2023)
+M. Han \_et al.\_
+### Students' epistemic emotions in a science classroom: Their variations and interactions with practices in structured inquiry
+### International Journal of Science Education
+(2024)
+B. Hannan \_et al.\_
+### Widening the digital divide: The mediating role of Intelligent Tutoring systems in the relationship between rurality, socioeducational advantage, and mathematics learning outcomes
+### Computers & Education
+(2025)
+R.S. Harris \_et al.\_
+### STEM education in rural schools: Implications of untapped potential
+### National Youth-At-Risk Journal
+(2018)
+D. Hestenes
+### Toward a modeling theory of physics instruction
+### American Journal of Physics
+(1987)
+C. Hou \_et al.\_
+### Exploring emotional dynamics between productive and improvable knowledge-building discourses
+### Computers & Education
+(2025)
+L.M. Ihrig \_et al.\_
+### Developing students' science, technology, engineering, and mathematics talent in rural after-school settings: Rural educators' affordances and barriers
+### Journal for the Education of the Gifted
+(2022)
+View more references
+- ### [An empirical study on leveraging generative artificial intelligence in promoting inquiry-based learning](https://doi.org/10.1007/s40692-025-00383-w)
+2026, Journal of Computers in Education
+Fan CHEN is a PhD candidate in the Faculty of Education at the University of Hong Kong. Her research focuses on science education, learning sciences, technology-supported learning, learning analytics and artificial intelligence.
+Bo XIONG is a researcher with the Physics Education and Research Group in Chongqing. His work centers on using technology to improve physics classroom teaching. He is dedicated to supporting frontline teachers in enhancing their instructional practices and fostering active student engagement in physics lessons.
+Gaowei CHEN is Tin Ka Ping Foundation Outstanding Young Professor and Head of the Academic Unit of Mathematics, Science, and Technology in the Faculty of Education at the University of Hong Kong. His research interests cover learning sciences, dialogic teaching and learning, inquiry learning, video-based learning, and learning analytics. He is a recipient of the Research Output Prize and the Faculty Outstanding Young Researcher Award at the University of Hong Kong. He is an associate director of the Chinese Society for Inquiry Learning and an associate editor of the Journal of the Learning Sciences.
+This article is part of a special issue entitled: GenAI enhanced learning published in Computers & Education.
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525002611)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

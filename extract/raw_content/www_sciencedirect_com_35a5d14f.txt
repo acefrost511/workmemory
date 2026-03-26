@@ -1,0 +1,732 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S2666920X25001183
+# Content Length: 122582 characters
+# Extracted at: 2026-03-13 20:27:41
+#============================================================
+
+Promoting inclusive AI and technology in K-12 education: A review of context, instructional strategies, and learning outcomes - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* [View \*\*PDF\*\*](/science/article/pii/S2666920X25001183/pdfft?md5=40af94dca0ba8786caccfc7aa29a0d88&pid=1-s2.0-S2666920X25001183-main.pdf)
+\* Download full issue
+Search ScienceDirect
+## Outline
+1. [Abstract](#abs0010)
+2. [Keywords](#kwrds0010)
+3. [1. Background](#sec1)
+4. [2. Literature review](#sec2)
+5. [3. Methodology](#sec3)
+6. [4. Results](#sec4)
+7. [5. Discussion](#sec5)
+8. [6. Conclusion](#sec6)
+9. [CRediT authorship contribution statement](#sec7)
+10. [Declaration of competing interest](#coi0010)
+11. [References](#cebib0010)
+Show full outline
+## [Cited by (1)](#section-cited-by)
+## Figures (5)
+1. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr1.sml)](#fig1)
+2. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr2.sml)](#fig2)
+3. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr3.sml)](#fig3)
+4. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr4.sml)](#fig4)
+5. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr5.sml)](#fig5)
+## Tables (18)
+1. [Table 1](#tbl1)
+2. [Table 2](#tbl2)
+3. [Table 3](#tbl3)
+4. [Table](#undtbl1)
+5. [Table](#undtbl2)
+6. [Table](#undtbl3)
+Show all tables
+[![](https://sciencedirect.elseviercdn.cn/prod/b6c2d116af306fbc9ccf93bf347b40c4a3d6482e/image/elsevier-non-solus.svg)](/journal/computers-and-education-artificial-intelligence)
+## [Computers and Education: Artificial Intelligence](/journal/computers-and-education-artificial-intelligence)
+[Volume 9](/journal/computers-and-education-artificial-intelligence/vol/9/suppl/C), December 2025, 100478
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25X00023-cov150h.gif)](/journal/computers-and-education-artificial-intelligence/vol/9/suppl/C)
+# Promoting inclusive AI and technology in K-12 education: A review of context, instructional strategies, and learning outcomes
+Author links open overlay panelHyejeongLeea, HyojungKimb, WeiYana
+Show more
+Outline
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S2666920X25001183&orderBeanReset=true)
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+Open access
+## Abstract
+As artificial intelligence (AI) becomes increasingly integrated into K–12 education, concerns about equity and access have grown. This scoping review explores how inclusive AI curricula are designed, implemented, and evaluated in educational settings. Guided by three research questions, we analyzed 17 empirical studies published between 2013 and 2024, focusing on (1) the contexts and characteristics of inclusive AI curricula, (2) instructional strategies that promote broader participation, and (3) learning outcomes associated with these approaches. The findings reveal five key instructional principles (identity, technology, design, content development, and sense of belonging) alongside cognitive and affective learning outcomes such as improved content knowledge, confidence, and collaboration skills. However, the review also identified gaps in access, alignment with standards, and the consistent reporting of learning outcomes. This study offers a synthesized framework to guide educators and researchers in designing inclusive, equitable, and pedagogically sound AI-integrated learning experiences for diverse student populations.
+\* [Previousarticle in issue](/science/article/pii/S2666920X25001274)
+\* [Nextarticle in issue](/science/article/pii/S2666920X2500133X)
+## Keywords
+Artificial intelligence
+Inclusive curriculum
+Culturally relevant pedagogy
+Instructional strategies
+Educational equity
+## 1. Background
+Artificial intelligence (AI) is rapidly reshaping education, transforming how students learn, how teachers teach, and how learning experiences are designed to prepare learners for an increasingly automated and data-driven world. As AI becomes more deeply integrated into educational settings, there is growing urgency to ensure that all students, not just those with access and privilege, can benefit from these advances. AI's potential to personalize learning, support complex problem-solving, and enhance engagement has positioned it as a powerful educational tool. However, alongside this promise is a growing concern that AI may inadvertently widen existing opportunity gaps if issues of equity and inclusion are not explicitly addressed ([Luckin & Holmes, 2016](#bib36); [Pedró et al., 2019](#bib43)).
+Numerous studies have highlighted the importance of ensuring equitable access to AI-enhanced education. For instance, [Pedró and colleagues (2019)](#bib43) identified six key challenges in implementing AI in schools, one of which is ensuring inclusion and equity. Students from more privileged backgrounds are often better positioned to take advantage of new AI-powered learning tools, potentially exacerbating disparities in academic achievement. Socioeconomic and cultural contexts play a significant role in shaping students' engagement with AI. [Druga et al. (2019)](#bib14) found that students’ perceptions and knowledge of AI were directly influenced by their social and cultural backgrounds, which may lead to uneven learning experiences and missed opportunities for some learners.
+Inclusion is understood as the intentional design of learning environments, curricula, and instructional practices that enable all students to engage meaningfully and benefit from instruction, with particular attention to removing barriers related to ability, identity, and access ([Florian & Black-Hawkins, 2011](#bib18)). Equity in education focuses on ensuring fair opportunities and outcomes for all learners, rather than equal inputs. [Levinson et al. (2022)](#bib33) illustrates how equity involves addressing systemic barriers, not simply providing identical resources, which often perpetuate existing disparities. The [National Research Council (2012)](#bib42) underscores that “the most pressing challenge facing U.S. education is to provide all students with a fair opportunity to learn” (p. 282). Global educational frameworks also stress these priorities. The World Inequality Database on Education (WIDE) notes that income, gender, and ethnicity significantly influence educational opportunities ([UNESCO, 2023](#bib1757783433792)). Similarly, [UNESCO (2018)](#bib1757783433793) emphasizes the importance of equitable and inclusive quality education for children from poor households, indigenous and minority groups, and across genders. In computing education specifically, socioeconomic status, gender, and ethnicity are consistently recognized as dimensions along which students are underrepresented ([Beyer, 2014](#bib6); [Chklovski et al., 2019](#bib10); [Lee et al., 2023](#bib68); [Shams et al., 2023](#bib51); [Whitcomb et al., 2021](#bib62)). These definitions and categorizations are used in this review to frame how the analyzed studies approached AI curricula and instructional strategies aimed at fostering participation from a broad range of learners.
+### 1.1. Research gap and aim
+Although AI holds the potential to unlock innovative learning opportunities, it also poses risks as a disruptive technology that could reinforce existing societal divides. Underserved and disadvantaged populations are particularly vulnerable to being excluded from the benefits of AI-integrated learning. To foster broader and more equitable student participation, it is critical to adopt instructional strategies and pedagogical frameworks that intentionally prioritize inclusivity. While interest in AI education has grown substantially, there remains a significant gap in AI initiative research that explicitly addresses issues of inclusion and diversity in education ([Xia et al., 2022](#bib65)).
+Existing review studies in the field (e.g., [Chen et al., 2020](#bib9); [Zhai et al., 2021](#bib66)) have primarily examined the general application of AI in education, often focusing on the technical dimensions or broad trends, with limited attention to underserved or underrepresented student populations. Although some reviews, such as [Salas-Pilco et al. (2022)](#bib47), have explored the strengths and weaknesses of AI in relation to underserved students, very few have investigated the instructional strategies and pedagogical considerations required to promote inclusive AI education. This is a critical gap, as teaching practices and curriculum design play a central role in addressing inequities in the classroom. Without inclusive teaching frameworks, AI-enhanced education risks serving only a subset of students, those who already have access and support.
+Given these gaps, there is a clear need to synthesize current knowledge about how inclusive AI curricula are designed, implemented, and assessed, particularly in K-12 education. This scoping review aims to explore the pedagogical landscape of inclusive AI curricula to better understand the strategies used to promote equity and participation among underrepresented student groups. Additionally, the review aims to analyze the range of student learning outcomes reported in connection with these strategies. The findings can inform the development of practical guidelines for educators, curriculum designers, and policymakers committed to inclusive and equitable AI education.
+### 1.2. Research questions
+To address these issues and gaps in the literature, our study is designed to examine the following research questions:
+\* RQ1. What descriptive characteristics (e.g., publication year, grade level, subject area) are reported in reviewed studies?
+\* RQ2. What instructional strategies and pedagogical considerations are used to broaden student participation in inclusive AI and technology-enhanced curricula?
+\* RQ3. What are the learning outcomes reported in relation to these instructional strategies?
+## 2. Literature review
+### 2.1. Diversity and equity in education
+The discussion surrounding diversity, equity, and inclusion (DEI) in education is attracting an increasingly broad audience. The growing interest in DEI issues is undoubtedly commendable, marking significant progress toward making education engaging and equitable for all students. However, a persistent gap in educational attainment arises from the complex interplay of historical, economic, socio-political, and moral factors ([Ladson-Billings, 2006](#bib31)). According to [Ladson-Billings (2006)](#bib31), this achievement gap has long existed, disproportionately placing African American and Latino students at the lower end of the academic achievement spectrum compared to their White counterparts.
+Another key topic in DEI discussions is the representation of diverse student and teacher identities in the learning process and curriculum. Identity, defined as how we understand and come to know ourselves, is inseparable from self-perception and significantly influences learning ([Altugan, 2015](#bib1); [Shields, 1999](#bib52)). [Bliuc et al. (2011)](#bib7) suggest that learning is most successful when students can connect their personal, historical, and cultural identities to their educational experiences, as these elements enable their voices to be meaningfully represented in the classroom. Identity is also critical because how student identity is acknowledged and treated in classrooms can shape motivation and engagement ([Altugan, 2015](#bib1)). Similarly, teacher identity plays a crucial role in shaping teaching practices and classroom dynamics ([Trent, 2010](#bib56)).
+Recognizing the importance of identity in the classroom, some empirical studies have examined its impact on learning outcomes. For instance, [Malone and Barabino (2009)](#bib38) discuss how racial and cultural identity are closely linked to retention and meaningful participation in STEM fields. Thus, the intersection of student identity, teacher identity, and teaching and learning practices is essential to understanding DEI in education, as it can lead to both opportunities and challenges in students’ future trajectories ([Malone & Barabino, 2009](#bib38)).
+While DEI scholarship underscores the importance of recognizing and valuing diverse identities in education, culturally relevant pedagogy (CRP) offers a concrete instructional framework to operationalize these principles in practice. Building on DEI foundations, CRP translates broad commitments to diversity and equity into classroom strategies that intentionally connect students’ cultural backgrounds with their academic learning.
+### 2.2. Culturally relevant pedagogy
+One of the approaches to addressing DEI in education is through the application of socio-emotional learning principles in lesson design and implementation. This socio-emotional framework has contributed to the emergence of CRP, which actively incorporates cultural elements and bridges students' home cultures with classroom content ([Ladson-Billings, 1995b](#bib30)). As [Ladson-Billings (2006)](#bib31) illustrates, teachers can observe and learn from students' home environments to meaningfully integrate cultural knowledge into instruction, using culture as a powerful tool for engaging learning. CRP moves beyond simply accommodating marginalized students’ backgrounds within the dominant culture; instead, it fosters a dynamic and reciprocal relationship between home culture and classroom learning ([Ladson-Billings, 1995a](#bib29)).
+CRP is grounded in several core pillars. The first is cultural competence, which involves understanding one's own cultural identity while recognizing and valuing multiple perspectives ([Ladson-Billings, 1995a](#bib29)). Students who develop cultural competence are better able to appreciate both their own and others' cultural backgrounds. Importantly, CRP helps students maintain cultural integrity, empowering them to resist pressure to conform to mainstream norms simply to gain social acceptance. Another foundational pillar is an emphasis on academic success. [Ladson-Billings (1995a)](#bib29) argues that CRP is not solely about cultural identity; it must also support students' academic achievement. CRP promotes the development of foundational skills in literacy, numeracy, and digital literacy. By centering academic success, CRP challenges structural inequalities and helps create classrooms where all students can become engaged, empowered learners.
+In this study, we draw on these two pillars, cultural competence and academic success, to examine how inclusive AI curricula are implemented and designed, and how such curricula influence academic learning outcomes, particularly for underrepresented student groups. As AI and related technologies enter classrooms, these pedagogical commitments highlight the need to ensure that AI-enhanced learning environments affirm student identities while supporting academic achievement. This link between CRP and AI education is particularly important for addressing existing inequities in technology access and participation.
+### 2.3. Inclusive and equitable AI in education
+As AI becomes an integral and ubiquitous part of daily life, it is widely recognized that AI technologies are transforming schools and classrooms. While AI is often promoted as a tool for innovation and opportunity, there is growing concern that it may unintentionally exclude or disadvantage students who have historically had less access to technological resources. [Selwyn (2022)](#bib50) emphasizes that some harms associated with AI tend to affect those who are less included in mainstream technology initiatives, calling for deeper reflection on fairness, transparency, and accountability in its educational use. In response, this study aims to review and synthesize pedagogical principles and strategies that promote inclusive practices in AI education, along with their associated learning outcomes, with a particular focus on equitably supporting student populations who have been underserved in traditional computing and technology learning environments.
+Three student populations are especially important to consider in AI and computer science (CS) education: students of color, female students, and students from low-income backgrounds ([Beyer, 2014](#bib6); [Chklovski et al., 2019](#bib10); [Lee et al., 2023](#bib68); [Shams et al., 2023](#bib51); [Whitcomb et al., 2021](#bib62)). [Shams et al. (2023)](#bib51) highlight a lack of attention to racial equity in the design and implementation of AI and CS education. [Solyst et al. (2023)](#bib55) note that African American students remain underrepresented in the fields of AI and technology design, which contributes to unequal access to educational resources and learning experiences. [Barretto et al. (2021)](#bib4) also point out limited research exploring how students from diverse racial and ethnic backgrounds experience machine learning and AI courses. Their findings show that African American and Hispanic students are less likely to enroll in introductory AI and ML classes, narrowing future academic and career pathways.
+Gender equity continues to be a pressing concern. In a survey of 603 high school students, [Lee et al. (2023)](#bib68) found that female students were significantly less likely to enroll in CS courses. This trend was largely attributed to lower confidence in their CS abilities, which in turn discouraged them from pursuing related careers. The absence of visible female role models in the field compounds this issue. Studies by [Finzel et al. (2018)](#bib16), [Jiang et al. (2024)](#bib24), and [Roopaei et al. (2021)](#bib45) emphasize the need for mentorship and networking opportunities to support female students in CS and AI education.
+Socioeconomic status (SES) also plays a significant role in shaping students’ access to AI learning. [Chklovski et al. (2019)](#bib10) report that students from low-income households are often excluded from opportunities to participate in AI-enhanced classes. They call for AI curricula that are specifically designed to support students in under-resourced schools and communities. Similarly, [Vandenberg et al. (2023)](#bib61) focus on students in rural areas who often face reduced access to high-paying technology jobs and fewer opportunities to engage with AI content in meaningful ways.
+These challenges have led to the development of culturally relevant computing (CRC), an approach that intentionally connects computing education to students' cultural and local experiences ([Scott et al., 2015](#bib49)). CRC draws on ethnographic tools and cultural knowledge to create learning environments that reflect and honor students' identities and communities ([Kafai et al., 2014](#bib25); [Ryoo, 2019](#bib46)). This approach fosters deeper connections between computational concepts and students' lived experiences ([Madkins et al., 2019](#bib37)). Incorporating culture and identity into AI education has been shown to enhance student engagement, persistence, and success ([Sanusi & Olaleye, 2022](#bib48)). By placing students’ backgrounds at the center of the learning process, CRC supports the development of inclusive and engaging AI learning experiences that affirm students' voices and strengths ([Kafai et al., 2014](#bib25)).
+Taken together, these strands establish a conceptual foundation for this review. DEI research highlights the systemic and identity-based challenges students face, CRP illustrates how cultural identity and academic success can be jointly nurtured through pedagogy, and inclusive AI scholarship shows how these principles must extend into emerging technological domains. Synthesizing across these perspectives, the present study reviews instructional strategies that integrate AI in ways that advance equity, cultural relevance, and meaningful student learning outcomes.
+## 3. Methodology
+### 3.1. Identification
+This study followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, as outlined by [Moher et al. (2015)](#bib40), to guide the identification, screening, and selection of relevant literature. The PRISMA protocol includes systematic procedures for data collection from established databases, application of eligibility and exclusion criteria, and processes for screening, eligibility review, data abstraction, and analysis. Adhering to this guideline enabled the research team to conduct a transparent and replicable search for empirical studies focused on inclusive AI education in K–12 classrooms.
+The initial search was conducted across four major academic databases: EBSCO, Web of Science, ACM Digital Library, and IEEE Xplore. These databases were selected based on their relevance and coverage of peer-reviewed journals and conference proceedings in education and computing. EBSCO and Web of Science provided access to education-focused journals, while ACM and IEEE Xplore were chosen for their emphasis on computing and AI education research.
+Search strings were tailored to each database's logic and included combinations of the following terms: \*“culturally relevant AI in K-12,” “inclusive AI in K-12,” “culturally relevant technology in K-12,”\* and \*“inclusive technology in K-12”\*. These search terms were informed by prior literature on culturally responsive and inclusive pedagogy. Each of the three researchers conducted the search independently using their assigned terms and databases. Search results were then consolidated and cross-checked collaboratively to avoid duplication and reduce bias. In addition to the database search, a manual backward snowballing method was applied to identify additional relevant studies through the reference lists of included articles.
+### 3.2. Screening and eligibility
+To ensure relevance and quality, several inclusion and exclusion criteria were applied. Studies were included if they met the following conditions: (1) published in or after 2013; (2) written in English; (3) available in full text; and (4) published as a peer-reviewed journal article or conference proceeding. This screening criteria excluded systematic review articles, book series, book chapters, and working papers.
+After this initial screening criteria, the second step of inclusion criteria was in two aspects: (1) reported empirical or experimental research; and (2) focused on the K-12 educational context. This review intended to limit its scope to studying empirical research to effectively address the core research question, which was to explore varying descriptions of inclusive and culturally relevant instructional strategies that were employed in an authentic school setting. Literature review and theoretical pieces were excluded at this stage because theory focused articles failed to deliver an authentic description of the real-time classroom intervention. The scope was intentionally limited to empirical studies to ensure that the review captured descriptions of instructional strategies and learning outcomes grounded in real-world classroom implementations. Theoretical or conceptual papers were excluded to focus on authentic, practice-based evidence. A backward snowballing method ([Zhan et al., 2024](#bib67)) was also used to identify relevant references cited in the selected articles. Each article was carefully reviewed to confirm that it met the inclusion criteria. This process yielded a final set of 17 studies that met all eligibility requirements. The article selection process is summarized in [Table 1](#tbl1) and [Fig. 1](#fig1).
+Table 1. Inclusion and exclusion criteria.
+| Criterion | Inclusion | Exclusion |
+| --- | --- | --- |
+| Time period | 2013–2024 | Before 2013 |
+| Type of article | Journal articles, conference proceedings (peer reviewed) | Book chapter, dissertation, magazine, non-peer reviewed articles |
+| Research design | Empirical | Literature review, conceptual paper, meta-analysis |
+| Grade level | K-12 | Higher education |
+| Participants | Students | Teacher |
+| Language | English | Non-English |
+| Availability | Full text |
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr1.jpg)
+1. [Download: Download high-res image (599KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr1\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr1.jpg)
+Fig. 1. Prisma flowchart.
+### 3.3. Data abstraction
+Following the PRISMA protocol and the backward snowballing method, a total of 17 articles were ultimately selected to be studied and examined (See [Fig. 1](#fig1)). Themes and sub-themes were initially identified by reviewing article titles and abstracts, followed by full-text reviews. Using a qualitative data analysis approach, the researchers identified patterns reflecting culturally relevant and inclusive instructional strategies and associated learning outcomes in K-12 AI education. Themes were organized into broader categories to create a typology that aligns with the research questions. The three researchers went through consecutive iterative rounds of reviewing the selected articles to generate the framework. The core themes and sub themes were also meticulously cross-checked to ensure that all researchers have a consistent understanding of the coding framework. As a result of rigorous rounds of cross checking, the researchers were able to apply the themes uniformly when categorizing the articles.
+### 3.4. Data analysis
+We conducted a scoping literature review ([Munn et al., 2018](#bib41)) to analyze data. According to [Munn et al. (2018)](#bib41), scoping reviews are conducted to explore the scope and range of a specific body of literature on a given topic. Scoping reviews are as valuable as systematic literature reviews in that they provide an overview of the focused topic by rigorously synthesizing research evidence. [Pham et al. (2014)](#bib44) emphasize that scoping reviews are particularly useful when a research area is emergent or not yet extensively reviewed. While no universally accepted protocol for scoping reviews exists, most follow the framework proposed by [Arksey and O'Malley (2005)](#bib2), which includes five key stages: (1) identifying the research question; (2) identifying relevant studies; (3) selecting studies; (4) mapping the data; and (5) summarizing and reporting the results. To analyze the findings, we applied thematic analysis ([Braun & Clarke, 2012](#bib8)) to identify recurring patterns and extract emerging themes across the reviewed articles.
+Given the limited research specifically addressing inclusive AI education, this methodological approach was deemed appropriate. The scoping review allowed the researchers to rigorously explore and synthesize a fragmented body of literature, map its key characteristics, and identify trends in instructional practices and learning outcomes related to inclusive and culturally relevant AI education in K-12 settings.
+## 4. Results
+This section presents the findings of the scoping review, organized according to the three research questions. Research question 1 investigates the contexts and characteristics of inclusive AI curricula in K-12 education through a descriptive review, focusing on publication trends, participant demographics, and curriculum settings. Research questions 2 and 3 synthesize findings related to instructional strategies and associated learning outcomes, respectively, to explore how inclusive practices are implemented and evaluated in classroom environments.
+### 4.1. RQ1. Contexts and characteristics of the selected research
+Between 2013 and 2024, a total of 17 empirical studies were identified that examined AI- or technology-integrated education designed for underserved K-12 student populations. [Table 2](#tbl2) summarizes key information from these studies, including author(s), publication year, digital platforms or tools used, grade level, and subject areas. As noted earlier, three populations such as students of color, female students, and students from low-income backgrounds are frequently described in the computing education literature as underrepresented groups. To reflect this, the “Participant” column in [Table 2](#tbl2) specifies demographic details.
+Table 2. Master table for included studies.
+| ID | Author (Year) | Platform/Tool | Level | Participant | Subject |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [Bertrand et al. (2024)](#bib5) | Cospaces Edu | E & M | Students of Color | Math |
+| 2 | [Codding et al. (2019)](#bib12) | N/A | H | African American, Hispanic, White | CS |
+| 3 | [Dangol et al. (2024)](#bib13) | ChatGPT, DALL-E | E & M | Asian, Hispanic, White, African American | CS (AI) |
+| 4 | [Druga et al. (2019)](#bib14) | Alexa, Jibo, Cozmo Robots | E | Underrepresented participants from various countries | CS (AI) |
+| 5 | [Eglash et al. (2013)](#bib15) | Snickas, Rhythm Wheels, Cornrow Curves, etc. | M | African American, Hispanic, Indigenous | Math |
+| 6 | [Fowler and Khosmood (2018)](#bib19) | Kodu Game Lab | E | African American, mixed race, Asian | CS |
+| 7 | [Franklin et al. (2020)](#bib20) | Scratch | E & M | Students with diverse cultural backgrounds | CS |
+| 8 | [Kafai et al. (2014)](#bib25) | LilyPad Arduino | M | American Indians | Arts |
+| 9 | [Ladeji-Osias et al. (2018)](#bib28) | MIT App Inventor | M | African American | CS |
+| 10 | [Lee et al. (2015)](#bib32) | iLife, SimsTM, Scratch, Teen Second Life | M & H | Girls of Color | CS |
+| 11 | [Louie et al. (2022)](#bib35) | Robots | E & M & H | Multilingual learners | Language |
+| 12 | [Manikutty et al. (2019)](#bib39) | BBC micro:bit | M & H | Rural India students | STEAM |
+| 13 | [Simley et al. (2020)](#bib53) | Sphero Bolt | M | Underrepresented students | CS |
+| 14 | [Solyst et al. (2022)](#bib54) | Symmi | M | Girls | CS |
+| 15 | [Vakil (2014)](#bib60) | Mobile app | H | African American | Technology |
+| 16 | [Williams et al. (2017)](#bib63) | Nao humanoid Robots | M | Hispanic and African American Girls | CS |
+| 17 | [Xia et al. (2022)](#bib65) | Teachable Machine, AIY Voice Kit, Drone | H | Girls, Low achievers | CS |
+● E = Elementary School, M = Middle School, H= High School.
+[Fig. 2](#fig2) illustrates the frequency of publications from 2013 to 2024. A total of 17 publications were identified, indicating a relatively low overall publication rate. The number of publications fluctuated between one and two annually from 2013 to 2017. No publications were found in 2016, 2021, and 2023 (\*n\* = 0). However, the highest number of publications were found in 2019 and 2022 (\*n\* = 3). This fluctuation in publications shows that the field remains relatively niche within the broader educational research landscape and this limited body of research highlights the need for further exploration.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr2.jpg)
+1. [Download: Download high-res image (240KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr2\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr2.jpg)
+Fig. 2. Publication by year.
+In our data collection, we labelled the literature into two categories: conference proceedings (\*n\* = 10, 58.8 %) and journal articles (\*n\* = 7, 41.2 %). The results reveal that research related to AI and new technology targeted at underrepresented participants in culturally relevant and inclusive education is still strongly represented in conference proceedings, while also seeing a notable increase in journal publication over time.
+[Fig. 3](#fig3) depicts the subject frequency of integrating AI and new technology among underrepresented participants. While our findings indicate CS remains the primary focus (64.7 %, with a frequency of 11) which encompasses subfields such as AI (Dangol et al., 2024; [Druga et al., 2019](#bib14)), coding ([Codding et al., 2019](#bib12)), game development ([Fowler & Khosmood, 2018](#bib19)), Scratch programming ([Franklin et al., 2020](#bib20)), and general CS ([Ladeji-Osias et al., 2018](#bib28); [Lee et al., 2015](#bib32); [Simley et al., 2020](#bib53); [Solyst et al., 2022](#bib54); [Williams et al., 2017](#bib63); [Xia et al., 2022](#bib65)). Our finding also indicated an emergent trend of integration AI and new technology among underrepresented participants has expanded into fields like Technology ([Vakil, 2014](#bib60)), Mathematics ([Bertrand et al., 2024](#bib5); [Eglash et al., 2013](#bib15)), English ([Louie et al., 2022](#bib35)), STEAM ([Manikutty et al., 2019](#bib39)), and Arts ([Kafai et al., 2014](#bib25)). This distribution suggests a concentrated effort to engage underrepresented participants in CS, while also demonstrating a promising expansion into diverse disciplines to foster broader technological literacy and inclusivity.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr3.jpg)
+1. [Download: Download high-res image (178KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr3\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr3.jpg)
+Fig. 3. Subject frequency.
+[Fig. 4](#fig4) illustrates the diverse range of technologies used in this research, from familiar software to robotics and AI. Specifically, game development platforms like Kodu Game Lab ([Fowler & Khosmood, 2018](#bib19)) have been used in the CS class for game development. Simulations and virtual worlds like Cospaces Edu ([Bertrand et al., 2024](#bib5)), iLife ([Lee et al., 2015](#bib32)), SimsTM ([Lee et al., 2015](#bib32)), and Teen Second Life ([Lee et al., 2015](#bib32)) have been used in pre-built environments for exploring real-world scenarios. Additionally, the integration of AI and programming is evident in the use of advanced language models like ChatGPT 3.5 ([Dangol et al., 2024](#bib13)), Teachable Machine ([Xia et al., 2022](#bib65)). While tools like LilyPad Arduino ([Kafai et al., 2014](#bib25)) and BBC micro:bit ([Manikutty et al., 2019](#bib39)) introduce physical computing. DIY and maker tools like Raspberry Pi ([Xia et al., 2022](#bib65)), AIY Voice Kit ([Xia et al., 2022](#bib65)), and Drone ([Xia et al., 2022](#bib65)) have been located. educational robots like Alexa ([Druga et al., 2019](#bib14)), Jibo ([Druga et al., 2019](#bib14)), Cozmo ([Druga et al., 2019](#bib14)), Sphero Bolt ([Simley et al., 2020](#bib53)), and Nao humanoids Robots ([Williams et al., 2017](#bib63)) have also been used in the research.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr4.jpg)
+1. [Download: Download high-res image (686KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr4\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr4.jpg)
+Fig. 4. Tools used.
+### 4.2. RQ2. Instructional strategies to broaden participation for inclusive AI
+To address research question 2, we synthesized common instructional principles and pedagogical considerations from the selected studies. This analysis led to the development of an Inclusive AI Framework ([Fig. 5](#fig5)), which illustrates five core themes for designing and implementing inclusive AI and technology-enhanced curricula: \*Identity, Technology, Design, Content Developmen\*t, and \*Sense of Belonging\*. Each of these themes comprises associated sub-themes that reflect specific instructional strategies drawn from the reviewed literature. These are further detailed in [Table 3](#tbl3), which includes definitions and supporting studies for each sub-theme.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr5.jpg)
+1. [Download: Download high-res image (396KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr5\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001183-gr5.jpg)
+Fig. 5. Inclusive AI framework.
+Table 3. Instructional principles and pedagogical considerations for inclusive AI in education.
+| Theme | Sub-Theme | Description | Supporting Studies |
+| --- | --- | --- | --- |
+| Identity | Cultural Synchronization | The lesson and curricula should embrace students' culture. | [1],[2],[3],[4],[5],[7],[8],[10],[11],[12],[14],[15] |
+| Positionality | The instructor should acknowledge the intersectionality of the teacher and the different cultural, identical, and ethnic positions. | [1],[2],[6],[9],[10],[16] |
+| Relevance | The lesson and curricula should be relevant to students' daily lives, interests, experience. | [1],[8],[9],[13],[15], [16] |
+| Technology | Accessibility | Incorporate cost-effective technological tools to increase student access. | [6],[12],[14] |
+| Up-to-Date AI | Tools and technology should be accurate, current, and up-to-date. | [4] |
+| Digital Literacy | When incorporating technology, students' digital skills and competencies should be considered. | [1],[7],[12], [14] |
+| Design | Participatory Design | When developing lessons, practitioners and students should be actively invited to embrace their voices and perspectives. | [3],[11] |
+| Student-centered Design | Allow students to have more choices, opportunities, and ownership. | [3],[4],[6],[7],[8],[12],[14],[15],[17] |
+| Personalized Design | Instructors should develop lessons in a personalized learning approach to meet individual student's’ needs. | [9],[13],[14] |
+| Content Development | Open-ended Task | The content should be open-ended. | [7],[8],[9],[15] |
+| Collaborative Work | Curricula and content need to be designed to work collaboratively to promote interactions between diverse students. | [1],[3],[4],[12],[13],[14] |
+| Multimodality | Offer diverse forms of representation to engage multiple learning styles. | [7],[14] |
+| Sense of Belonging | Rapport | Build good relationships between instructors and students, support each other. | [2],[3],[14],[17] |
+| Community | Have a partnership with the local community and address community issues to prioritize community building. | [2],[8],[10],[15] |
+#### Principle 1. Identity
+When designing lessons that incorporate AI and technology to broaden student participation, educators must intentionally center students’ backgrounds, identities, cultures, and lived experiences. The \*Identity\* theme consists of three key sub-themes: \*cultural synchronization\*, \*positionality\*, and \*relevance\*. These instructional principles emphasize that inclusive AI education requires educators to both affirm who students are and connect learning to what they value and experience in their daily lives.
+| |
+| --- |
+| \*\*Principle 1.1. Cultural Synchronization:\*\* Culturally relevant lessons should reflect students' identities and cultural backgrounds. |
+The most frequently observed sub-theme in the reviewed literature was cultural synchronization, found in twelve studies. This principle underscores the importance of aligning instruction with students’ cultural identities and community practices. Originally introduced by [Irvine (1991)](#bib23), the term cultural synchronization described the interpersonal alignment needed between Black students and teachers, urging educators to recognize and honor culturally rooted patterns of communication and values such as spirituality, mutuality, and responsibility.
+[Eglash et al. (2013)](#bib15), for example, applied this principle by introducing African American students to fractal and recursive geometry through culturally meaningful references, such as cornrow hairstyles, a symbolic element of African American youth culture. Similarly, [Kafai et al. (2014)](#bib25) implemented culturally responsive design activities using electronic textiles, drawing on students’ indigenous knowledge. These culturally grounded instructional strategies not only validated students' identities but also significantly enhanced engagement and participation.
+| |
+| --- |
+| \*\*Principle 1.2. Positionality:\*\* Educators should acknowledge their own identities and the intersectional cultural positions of their students. |
+The second sub-theme, positionality, was emphasized in six studies. This principle calls on instructors to be self-reflective and aware of how their own cultural, racial, and gender identities influence classroom dynamics and curriculum development. [Codding et al. (2019)](#bib12) emphasized that addressing the underrepresentation of students in CS requires instructors to recognize the significance of their own identities and intentionally serve as affirming role models.
+Positionality also includes the practice of employing mentors and facilitators who share similar cultural or gender identities with students. For instance, ethnically matched or same-gender mentors can foster stronger connections, increase trust, and affirm students’ sense of belonging. In this way, positionality supports the development of inclusive learning environments where students feel seen and valued.
+| |
+| --- |
+| \*\*Principle 1.3. Relevance:\*\* Lessons should be connected to students' lived experiences, interests, and everyday realities. |
+The third sub-theme, relevance, highlights the importance of connecting instructional content to students' lives beyond the classroom. This includes incorporating topics, examples, and activities that reflect students’ personal interests, family contexts, and cultural histories.
+[Bertrand et al. (2024)](#bib5) offer a compelling example of this principle in action. In their study, a student developed a digital storytelling project called Chef Bot using augmented reality (AR), inspired by her father's career as a chef. By embedding personal and cultural experiences into the curriculum, the student not only deepened her learning but also gained a sense of ownership and authenticity in her work.
+#### Principle 2. Technology
+When integrating AI and emerging technologies into the classroom, educators must consider how to avoid unintentionally reinforcing existing inequalities. AI, while full of promise, can also function as a disruptive force if implementation is not thoughtfully designed. Our findings revealed three key principles to support equitable and inclusive technology use: \*accessibility, up-to-date AI\*, and \*digital literacy\*.
+| |
+| --- |
+| \*\*Principle 2.1. Accessibility:\*\* Utilize cost-effective technological tools to enhance student access. |
+High costs associated with AI tools, software, and hardware can create significant barriers to participation, especially for students from low socioeconomic backgrounds. Ensuring accessibility means selecting tools that are affordable, compatible with students’ available devices, and useable both in and out of school settings.
+For instance, [Manikutty et al. (2019)](#bib39) addressed budgetary constraints in rural schools by utilizing low-cost educational robotics. While they initially conducted a pilot test with the Hummingbird Duo Microcontroller, it was later replaced with the more affordable BBC micro:bit to broaden accessibility for students. This thoughtful substitution of inexpensive materials significantly increased access for rural learners. Similarly, [Fowler and Khosmood (2018)](#bib19) emphasized the importance of selecting tools that are free of cost and accessible for students to use both in school and at home. [Solyst et al. (2022)](#bib54) further highlighted the challenges faced by marginalized students who often rely on tablets or mobile phones rather than state-of-the-art laptops. They encountered compatibility issues with a specific platform that required non-mobile devices, underscoring the necessity of identifying alternative solutions to include these learners. These examples illustrate the critical role of accessibility in ensuring that all students can benefit from technological advancements in education.
+| |
+| --- |
+| \*\*Principle 2.2. Up-to-Date AI:\*\* Ensure tools and technologies are accurate, current, and aligned with emerging developments. |
+To promote meaningful engagement and digital relevance, educators must adopt AI tools and platforms that reflect current technological developments. Using outdated or static tools may limit students' exposure to real-world applications and diminish their preparedness for future AI-related careers.
+[Druga et al. (2019)](#bib14) emphasized the benefits of using emerging technologies to increase student motivation and interactivity. Their study demonstrated how current tools, such as AI-powered smart assistants and conversational agents, encouraged exploration in young learners. Integrating timely technologies can help students see the relevance of AI in their daily lives, which in turn boosts engagement and learning retention.
+However, keeping technologies current also requires ongoing evaluation and professional learning for educators. Instructors must stay informed about advancements to choose tools that are pedagogically sound and technologically appropriate for their students. Up-to-date AI resources not only enhance student interest but also ensure alignment with the rapidly evolving digital landscape. This principle emphasizes that inclusivity entails equitable exposure to innovation, ensuring that all students, regardless of background, are equipped to engage with and contribute to the future of AI.
+| |
+| --- |
+| \*\*Principle 2.3. Digital Literacy:\*\* Consider students' varying digital skill levels when designing technology-integrated lessons. |
+Not all students enter the classroom with the same level of digital proficiency. Educators must assess and respond to students’ digital literacy levels to ensure equitable participation. While some students may be adept at navigating complex digital tools, others may struggle with foundational skills such as account setup, file sharing, or navigating interfaces.
+To bridge this gap, personalization and collaborative support structures are essential. For example, [Franklin et al. (2020)](#bib20) accommodated diverse skill levels by providing example code and structured worksheets to scaffold students’ learning. [Bertrand et al. (2024)](#bib5) noted that peer support emerged naturally, as students with stronger digital skills helped classmates who were less experienced. [Solyst et al. (2022)](#bib54) further emphasized that instructors should actively encourage students with limited prior exposure to technology by offering flexible timelines, differentiated support, and a growth-oriented mindset. These approaches foster confidence and ensure all students are able to meaningfully engage in AI learning experiences.
+#### Principle 3. Design
+The third theme focuses on \*Design\*, specifically in the context of curriculum development. Design should be \*participatory, student-centered\*, and \*personalized\*. Below are the sub-principles derived from our findings, highlighting design considerations that promote meaningful student participation.
+| |
+| --- |
+| \*\*Principle 3.1. Participatory Design:\*\* Actively invite practitioners and students to contribute their perspectives in lesson development. |
+Participatory design emphasizes the importance of including diverse stakeholders inclusive of teachers, researchers, and students in the curriculum development process to ensure that all voices are heard. This approach fosters a sense of ownership and promotes inclusivity and collaboration in designing learning experiences.
+Researchers should actively partner with teachers, who have deep knowledge of their students and classroom contexts. In addition, inviting students to contribute their interests and draw on prior experiences enhances the relevance and responsiveness of instruction ([Dangol et al., 2024](#bib13); [Louie et al., 2022](#bib35)). The involvement of both teachers and students helps cultivate a shared sense of responsibility and ownership in the learning process.
+| |
+| --- |
+| \*\*Principle 3.2. Student-Centered Design:\*\* Provide students with choices, opportunities, and ownership over their learning. |
+The lesson and learning activities should be designed with a student-centered approach. Such a design provides students with diverse opportunities and choices aligned with their interests, thereby fostering a sense of ownership in their learning process. For example, [Druga et al. (2019)](#bib14) emphasized the importance of granting student's agency and opportunities within learning activities. Moreover, [Manikutty et al. (2019)](#bib39) developed learning environments that allowed students to select topics they found engaging and wished to explore further. Furthermore, when teachers provide more autonomy and choices to students, they increase motivation and ownership, and the gap between girls and boys, and high and low achievers are reduced ([Xia et al., 2022](#bib65)).
+| |
+| --- |
+| \*\*Principle 3.3. Personalization:\*\* Lessons should be designed to support personalized learning and meet each student's needs. |
+Personalized learning involves tailoring curriculum and activities to accommodate students’ varying backgrounds, needs, and levels of prior knowledge. [Ladeji-Osias et al. (2018)](#bib28) underscored the significance of differentiated instruction, noting that students possess varying levels of experience and knowledge in AI. Teachers should therefore provide technology-related activities that align with students' individual needs and prior knowledge. Similarly, [Solyst et al. (2022)](#bib54) emphasized that a single schedule does not accommodate all groups effectively. They highlighted the importance of allocating additional time for diverse learners, recognizing that students have different learning paces.
+#### Principle 4. Content development
+The fourth theme is \*Content Development\*, which closely relates to Principle 3: Design. While design focuses on the overall structure and approach to curriculum creation, content development emphasizes the nature and presentation of the learning materials themselves. Effective content should be \*open-ended, collaborative\*, and incorporate \*multiple forms of representation\* to support diverse learners.
+| |
+| --- |
+| \*\*Principle 4.1. Open-Ended Tasks:\*\* Include content that allows for open-ended exploration. |
+Numerous studies shed light on the importance of open-ended tasks and learning activities ([Franklin et al., 2020](#bib20); [Kafai et al., 2014](#bib25); [Ladeji-Osias et al., 2018](#bib28)). For instance, [Kafai et al. (2014)](#bib25) stated the open-ended task when student designed e-textile and [Franklin et al. (2020)](#bib20) highlighted offering open-ended activities to position students as creators. When educators design lessons and learning activities, open-ended tasks are desirable rather than closed-ended activities to promote creativity and critical thinking.
+| |
+| --- |
+| \*\*Principle 4.2. Collaborative Work:\*\* Structure curricula to promote collaborative group work. |
+Another important aspect of content development is the integration of collaborative learning. Structuring curricula to encourage peer interaction promotes social learning and shared understanding. [Bertrand et al. (2024)](#bib5) highlighted that students formed groups with various peers they had not previously collaborated with and interacted with the tools together. While exploring the tools, students helped each other and the students who were less comfortable with the tools were supported by their peers. [Dangol et al. (2024)](#bib13) noted that students invited their peers and did collaboration work to understand cultural concepts and to refine their conceptual understanding of AI.
+| |
+| --- |
+| \*\*Principle 4.3. Multimodality:\*\* Offer diverse forms of expression to engage multiple learning styles. |
+The final principle that emerged is multimodality, which emphasizes the importance of providing various forms of representation and expression to engage students with different learning styles. This includes incorporating images, symbols, and sounds to enrich the learning experience. For example, [Franklin et al. (2020)](#bib20) emphasized the value of culturally relevant projects, such as music composition and historical bead-making, where technology served as a medium to align with and celebrate students’ cultural identities. Similarly, [Solyst et al. (2022)](#bib54) recommended that educators and curriculum developers utilize multiple modalities when delivering online classes, moving beyond simple chat functions. They highlighted the need to use diverse spaces and modalities to monitor and support students in real time, enhancing both visibility and scalability.
+#### Principle 5. Sense of belonging
+The final principle is \*Sense of Belonging\*, which highlights the importance of creating supportive learning environments where students feel accepted, valued, and connected. A strong sense of belonging is cultivated through relationships and \*rapport\* with instructors and peers, as well as through engagement with the broader \*community\*.
+| |
+| --- |
+| \*\*Principle 5.1. Rapport:\*\* Foster strong, positive relationships in the learning environments. |
+The first principle related to fostering a sense of belonging is rapport, which is essential for establishing strong relationships between instructors and students. Positive rapport enables students to feel supported and engaged, as they are often significantly influenced by their teachers. [Vakil (2014)](#bib60) highlighted the need to reframe traditional teacher-student relationships, advocating for dialogic communication as a means to enhance student engagement. In addition to the rapport between instructors and students, the development of rapport among students is equally critical. [Solyst et al. (2022)](#bib54) emphasized the importance of learner-learner rapport, noting that it fosters mutual support and connectedness and contributes to building a sense of community within the learning environment.
+| |
+| --- |
+| \*\*Principle 5.2. Community Engagement:\*\* Develop partnerships with the local community and address relevant issues to enhance community building. |
+The final principle is community engagement, which emphasizes partnerships between instructors, researchers, and local communities, often addressing the specific needs of those communities. For example, in the study by [Codding et al. (2019)](#bib12), a local library collaborated on a coding club project. Librarians had previously struggled to engage youth in traditional library activities, often perceiving their presence as stressful and disruptive. However, the implementation of a culturally responsive coding project not only enhanced students' confidence in CS but also improved their experiences in the library, reducing tensions and transforming the dynamic between youth and the library space. Additionally, students redefined their perceptions of the library. Community engagement also allows students to engage in learning activities that address community-specific issues, fostering a sense of community building. For instance, in the study by [Lee et al. (2015)](#bib32), students participated in a technology program designed to tackle gentrification issues in urban areas, contributing as active members of their community.
+### 4.3. RQ3. Learning outcomes
+We examined the learning outcomes reported across the selected studies as a result of the instructional strategies described in RQ2. Of the seventeen total articles, fifteen studies explicitly or implicitly reported on student learning outcomes. Among these, thirteen studies provided clear evidence, either quantitative (e.g., pre/post assessments, validated survey instruments) or qualitative (e.g., interview excerpts, classroom observations). The remaining two studies made general claims such as “students improved motivation” or “enhanced knowledge,” but did not include concrete evidence to substantiate those outcomes.
+Learning outcomes were categorized into four major dimensions: \*cognitive, affective, meta-cognitive, and social\*. These dimensions and their associated themes are presented in [Table 4](#tbl4), along with the studies supporting each category. The cognitive dimension included outcomes such as technical AI knowledge, programming skills, and integration of AI concepts with content-area learning (e.g., math or science). The affective dimension encompassed student confidence, academic and career motivation, interest in learning, and perceptions of the usefulness of technology. The meta-cognitive dimension included outcomes related to students’ ability to self-regulate their learning. The social dimension reflected outcomes in communication and collaboration skills, particularly in group or project-based activities.
+Table 4. Learning outcomes.
+| Dimension | Theme | Supporting Studies |
+| --- | --- | --- |
+| Cognitive gains | CS/AI Knowledge & Skills | [1], [3], [4], [5], [7], [8], [9], [12], [15] |
+| Integrated Content Knowledge (e.g., math concept, science learning) | [1], [5], [13] |
+| Affective gains | Confidence | [2], [6], [9], [12],[17] |
+| Interest in STEM Career (future-oriented motivation) | [9], [13], [16] |
+| Interest in Learning (academic motivation, situated motivation) | [1], [6], [9], [12], [15], [17] |
+| Perceived Usefulness of Technology | [3], [5], [6], [12], [16], [17] |
+| AI Readiness (daily use) | [17] |
+| Meta-cognitive gains | Self-regulation | [10] |
+| Social skills | Communication | [1] |
+| Collaboration | [4] |
+Several studies demonstrated strong links between specific instructional strategies and learning gains. For instance, AI-based personalization and student-centered project work were associated with cognitive and meta-cognitive benefits, including improved conceptual understanding and self-regulation. Collaborative design tasks and culturally relevant activities were often connected to affective and social outcomes, such as increased motivation, STEM career interest, and enhanced communication skills.
+Integrating AI into instruction has been shown to enhance student learning in both CS and core academic subjects. For example, [Ladeji-Osias et al. (2018)](#bib28) reported that students demonstrated increased computing knowledge and skills through participation in AI-enhanced activities. Similarly, [Bertrand et al. (2024)](#bib5) found that students improved their mathematical understanding while designing AI prototypes for creating virtual buildings. [Simley et al. (2020)](#bib53) implemented a project that combined coding with both mathematics and science instruction. Students engaged in programming tasks that addressed mathematical topics such as angle relationships, algebraic expressions, systems of equations, and geometric labeling, as well as scientific concepts including velocity, speed, distance, acceleration, Newton's Laws, inertia, momentum, force, and fractions. As a result of this interdisciplinary integration, students demonstrated improved performance on math and science assessments.
+In addition to cognitive gains, the reviewed studies reported a range of affective learning outcomes. The use of AI and advanced technologies supported students’ confidence ([Codding et al., 2019](#bib12)), motivation ([Manikutty et al., 2019](#bib39)), and readiness to engage with AI in daily contexts ([Xia et al., 2022](#bib65)). Several studies also documented increased interest in future STEM careers as a result of AI-integrated learning experiences ([Ladeji-Osias et al., 2018](#bib28); [Simley et al., 2020](#bib53)), as well as positive perceptions of the usefulness of technology ([Eglash et al., 2013](#bib15); [Fowler & Khosmood, 2018](#bib19)).
+Meta-cognitive outcomes were evident in studies highlighting self-regulation. [Xia et al. (2022)](#bib65), for example, reported that inclusive AI curricula benefited both boys and girls, as well as both high- and low-performing students, in developing stronger self-regulation skills. Social outcomes were also noted: [Bertrand et al. (2024)](#bib5) highlighted that students of color demonstrated improved communication skills when engaged in collaborative AI design tasks.
+Overall, the reviewed studies indicate that AI-integrated curricula can foster meaningful cognitive, affective, meta-cognitive, and social learning outcomes, with particular benefits for underrepresented students.
+## 5. Discussion
+### 5.1. Contexts
+This research finding indicates a growing trend of integrating AI and new technologies into K-12 education. Our findings revealed a diverse range of subjects utilizing AI and technology, with most studies focused on CS. However, other disciplines, such as language, arts, and mathematics, have also incorporated technology. This suggests that AI and technology are not limited to standalone CS classes but are integrated across various subjects. [UNESCO (2022)](#bib1757783433794) emphasizes that digital skills can be enhanced by embedding them into different subjects and contexts, rather than confining them to CS courses. Consistent with this view, numerous studies have examined the use of AI and technology across various disciplines ([Kaspersen et al., 2022](#bib26); [Katuka et al., 2024](#bib27)). However, despite these efforts, there remains a gap in integrating AI and technology into fields outside of CS, as our findings indicate that over 70 % of implementations occurred in CS or technology classes, with less than 30 % in other subjects. Given that not all schools offer dedicated CS courses, embedding AI and technology across subjects could provide students with more equitable and accessible opportunities to develop AI literacy. We also suggest and recommend integration of AI in various contexts since study ([Lin & Van Brummelen, 2021](#bib34)) has concluded that exposure to AI in diverse disciplines inspires students to pursue careers in CS.
+Our findings indicate that the majority of studies focused on the middle school level. While middle school is critical for developing technological fluency, this finding highlights a potential two research gaps. The first research gap is limited research focus on students at the elementary school level. This gap is significant because early exposure to computing concepts has been shown to significantly impact students' long-term interest and success in CS ([Lee et al., 2023](#bib68)). The second research gap is a lack of longitude research in this field. While many studies explore the short-term effects of integration AI or technology, more research is needed to understand the long-term impacts on students' learning, attitudes, and future engagement. To promote inclusive and equitable AI education, further research is needed to explore how to implement AI and technology for elementary school students. The lack of research in this area further underscores the existing digital divide and inequality among marginalized populations, aligning with previous findings that emphasize the persistence of the digital divide and inequality among marginalized populations ([Banister & Fischer, 2010](#bib3)). To bridge the gap, it is imperative that educators, policymakers, and researchers collaborate to ensure equitable access to these technologies, providing all students with the opportunity to thrive in an increasingly AI-driven world. By fostering early engagement with AI concepts, we can empower a wider range of students to become active participants and shape the future of this transformative technology.
+### 5.2. Instructional strategies and considerations for inclusive AI and technology
+Our findings indicated that the majority of the studies emphasized the importance of culture and identity. When educators embrace students' identity and funds of knowledge, and the curriculum is relevant to students' interests and daily lives, students are more likely to get engaged in learning. Numerous studies in our findings used students' home culture and interests to help them understand CS concepts or content knowledge in math and science. This aligns with the literature that integrating cultural competence elements into the technology medium is effective for helping students better understand difficult concepts in subject areas ([Sanusi & Olaleye, 2022](#bib48)). This suggests that instructors need to pay attention to students’ backgrounds, culture, interests, and characteristics.
+Furthermore, our findings showed that the role of instructor and facilitators were critical. Their ethnical positionality influenced student learning. Furthermore, the same gender role-model also affected female students to have positive perceptions to pursue career paths in STEM. We need to broaden participation in computing, AI, and technology, especially for female students. Building good relationships between instructors and students is also important. This aligns with existing research ([Beyer, 2014](#bib6)). [Lee et al. (2023)](#bib68) noted that female students were more influenced than male students by their teachers in CS class. Thus, when students have a good relationship with teachers/instructors, more female students are likely to participate in and be interested in AI and technology.
+Moreover, community involvement is essential for inclusive learning. Not all schools are offering CS or AI-related courses. In particular, low-income schools have limited budgets to buy technological tools, and some schools have limited teachers prepared to get ready to teach AI ([Kim & Lee, 2025](#bibNaN); [Lee & Lee, 2025](#bib1757783433790)). In these cases, students have limited access to learn AI-related lessons. Thus, informal settings such as libraries or partnership with local institutions might be good resources for low-income students to have access to learn AI. Additionally, our findings revealed that when students had projects related to community issues, they were more engaged and felt a sense of belonging.
+In designing inclusive AI curricula, careful attention must be paid not only to content but also to the design approach. Participatory design is particularly valuable, as it emphasizes the active involvement of both practitioners and students in the curriculum development process. By engaging these stakeholders early and meaningfully, designers can ensure that the curriculum is contextually relevant and responsive to learners’ needs. In addition, inclusive AI curricula should be student-centered and personalized. Actively involving students in shaping their learning experiences promotes a greater sense of ownership, which in turn has been linked to increased academic engagement and performance ([Lee & Park, 2024](#bib1757783373910)). To support this, learning activities should incorporate open-ended tasks and offer multiple modes of expression and representation, fostering creativity, critical thinking, and inclusivity. Collaborative learning also plays a critical role. When students work together, they not only receive peer support but also learn through modeling and shared problem-solving. In computing education, a substantial body of research (e.g., [Hanks et al., 2011](#bib21); [Hannay et al., 2009](#bib22); [Williams & Upchurch, 2001](#bib64)) has demonstrated the benefits of pair programming and other peer collaboration models. These approaches have been shown to enhance student satisfaction, deepen understanding, and reduce frustration, particularly when working with complex or unfamiliar technologies.
+Our findings revealed that, although all studies were situated in technology-enhanced learning contexts, very few explicitly addressed how or why specific technologies were selected. For instance, [Fowler and Khosmood (2018)](#bib19) provided a rare example of clear justification, noting that their chosen tool was age-appropriate, aligned with curriculum goals, accessible at no cost, and useable both at school and at home. While a wide range of devices and platforms were used across the studies, most did not explain their selection criteria. We argue that future research should provide more detailed rationales for tool and platform selection, particularly in relation to student context, learning objectives, and accessibility. Despite the promise of AI and emerging technologies in education, our review revealed persistent inequities in access. Only a few studies considered the affordability of tools for students from low-income backgrounds, and discussions of AI ethics, digital access, or technology-related constraints were notably scarce. These findings reinforce previous research highlighting the continued impact of the digital divide on underserved student populations ([Banister & Fischer, 2010](#bib3)). As such, we emphasize the need for educators, researchers, and policymakers to collaborate in selecting technologies that are not only pedagogically sound but also equitable and context-sensitive. Additionally, future research should investigate criteria and models for AI tool selection that balance pedagogical relevance, accessibility for underserved learners, and alignment with ethical and contextual considerations. This line of inquiry could help educators and decision-makers make informed, equity-centered choices about technology adoption. Moreover, students’ varying levels of digital literacy must be accounted for during lesson design. While some students possess advanced technical skills, others face challenges with basic tasks such as creating accounts or navigating platforms. However, few studies in our review explicitly addressed digital literacy or AI literacy as a design consideration. To address this gap, we recommend incorporating pre-instructional orientation sessions to support students who may need additional assistance with the technical aspects of AI-enhanced learning environments.
+### 5.3. Learning outcomes
+Earlier sections of this review discussed the principles and considerations for designing inclusive, technology-enhanced curricula. Our findings suggest that these instructional principles and strategies can positively impact student learning outcomes. Specifically, integrating AI and related technologies across subject areas was associated with enhanced access and engagement, as well as improved academic outcomes. Several studies demonstrated that the use of AI and advanced technologies supported students’ content knowledge gains, not only in computer science but also in core subject areas where these tools were meaningfully integrated. This suggests a promising opportunity for educators to actively incorporate AI into diverse disciplines to support student learning. Additionally, many studies reported affective benefits such as increased student engagement, motivation, and confidence. Students also developed important 21st-century competencies, including collaboration, communication, and self-regulation.
+However, our analysis also revealed important gaps. A few studies did not report clear learning outcomes or focused exclusively on affective elements such as engagement and interest. In some cases, claims about increased motivation were based solely on informal observations or generalized statements, with no supporting evidence such as assessments, student artifacts, or survey data. This raises an important question: Do these instructional strategies for inclusive AI and technology integration demonstrably improve learning outcomes aligned with curricular goals? Without a clear connection between student engagement and measurable cognitive outcomes, it becomes difficult to justify the educational value of these tools. If AI or advanced technologies are used solely to increase engagement without alignment to content standards, learning objectives, or assessment strategies, they risk being perceived as supplementary rather than integral to academic success. Furthermore, while some studies explicitly used AI to support computing skills in CS classrooms, others applied AI in non-CS subjects such as science or mathematics. In these cases, clear justification is needed for why particular AI tools were used, how they were aligned with learning standards, and what specific learning goals they addressed. Our review found that this rationale was often missing or underdeveloped.
+We recommend that future research provide balanced evidence of both cognitive and affective outcomes when evaluating the impact of AI-integrated curricula. It is also essential to ensure that technology integration is purposefully aligned with the subject-area standards and instructional goals. Doing so will strengthen the case for AI as a tool not only for engagement but for equitable, measurable academic advancement.
+In evaluating learning outcomes, it is also important to consider the effectiveness of AI integration for diverse learners. [Xia et al. (2022)](#bib65) found that their AI-integrated curriculum supported learning for both high- and low-performing students, whereas a traditional instructional approach primarily benefited high performers. This finding aligns with previous research ([Lee, 2024](#bib69); [Lee & Brush, 2025](#bib1757783373911)), which showed that AI-enhanced mathematics instruction helped reduce performance and motivation gaps between students at different achievement levels. These results suggest that AI integration, when thoughtfully designed, may serve as a gap-reducing mechanism that promotes more equitable learning outcomes. However, not all findings were uniformly positive. [Druga et al. (2019)](#bib14) reported that students from low-income schools encountered more challenges in engaging with AI tools, particularly in iterative design tasks, compared to students from more affluent schools. This underscores the ongoing inequities in access, preparation, and support that must be addressed if AI is to truly serve all learners equitably. Taken together, these findings highlight the dual potential of AI in education: it can either narrow or widen existing gaps, depending on how it is implemented. Therefore, it is critical that educators and curriculum developers apply inclusive design principles such as those identified in this review to support the academic success of students from diverse backgrounds and performance levels.
+### 5.4. Implications for broadening participation across diverse student group
+Our findings align with broader DEI concerns raised in prior studies ([Fletcher & Warner, 2021](#bib17); [Shams et al., 2023](#bib51)), particularly related to ethnicity, gender, and SES in AI and CS education. Based on the evidence synthesized in this review, we offer several recommendations to support more inclusive and equitable learning environments.
+To address ethnicity-related inequities, educators should incorporate cultural synchronization in lesson design, include ethnically matched mentors and role models, and intentionally connect content to students' lived experiences and interests. These practices help affirm students' cultural identities and foster engagement in AI learning. To support gender inclusion, strategies such as same-gender mentoring, exposure to diverse career pathways, and the cultivation of strong teacher–student rapport have shown promise in enhancing female students’ participation and confidence in CS and AI courses. For students from low socioeconomic backgrounds, access remains a major barrier. Selecting cost-effective tools and platforms, offering professional development for teachers in under-resourced schools, and creating community-based learning opportunities, such as after-school programs and summer camps, can broaden access and support sustained participation.
+Together, these strategies reflect the importance of designing inclusive AI and CS education that not only adapts to students’ diverse needs but also actively seeks to reduce opportunity gaps. The instructional principles identified in this review provide practical guidance for addressing longstanding inequities and promoting success for all learners.
+## 6. Conclusion
+This scoping review explored the current landscape of inclusive and equitable AI curricula in K-12 education by examining the contexts of implementation, instructional principles, and reported learning outcomes. Through the synthesis of empirical studies, we identified key design features and pedagogical strategies that support broader student participation in AI and technology-enhanced learning environments. By offering a synthesized framework of instructional strategies and outcomes, this review provides practical guidance for educators and curriculum developers seeking to foster inclusive participation in AI and CS education. This review was limited to four databases, and the inclusion of additional sources could broaden the design considerations and instructional strategies identified. Future research should cover more diverse perspectives and contexts. Despite this limitation, the review offers valuable insights into key design features and pedagogical strategies that can broaden student participation in AI and technology-enhanced learning, particularly for underrepresented groups. Building on these foundations, future studies could integrate more linguistically and culturally diverse perspectives, enabling a more comprehensive understanding of how inclusive AI education can address educational inequities and ensure that all learners are prepared to participate fully in an AI-driven world. Additionally, while our review focused on instructional strategies observed in K-12 classrooms and their associated student learning outcomes, the effectiveness of these strategies depends heavily on teacher preparedness. Professional development opportunities, particularly those emphasizing culturally responsive pedagogy, may be critical for enabling and sustaining inclusive AI instructional practices. Research examining how such training intersects with and enhances the instructional strategies identified in this review could further strengthen implementation and outcomes.
+## CRediT authorship contribution statement
+\*\*Hyejeong Lee:\*\* Writing – review & editing, Writing – original draft, Visualization, Validation, Supervision, Project administration, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Hyojung Kim:\*\* Writing – original draft, Validation, Methodology, Investigation, Formal analysis. \*\*Wei Yan:\*\* Writing – review & editing, Writing – original draft, Visualization, Validation, Formal analysis.
+## Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Recommended articles
+## References
+1. [∗](#bbibnote)
+The symbol of ∗ represents the 17 studies included for our review.
+2. [Altugan, 2015](#bbib1)
+A.S.Altugan
+The relationship between cultural identity and learning
+Procedia-Social and Behavioral Sciences, 186 (2015), pp. 1159-1162, [10.1016/j.sbspro.2015.04.161](https://doi.org/10.1016/j.sbspro.2015.04.161)
+[View PDF](/science/article/pii/S1877042815024210/pdf?md5=1194a55a1a747865088e871b82ea652b&pid=1-s2.0-S1877042815024210-main.pdf)[View article](/science/article/pii/S1877042815024210)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20relationship%20between%20cultural%20identity%20and%20learning&publication\_year=2015&author=A.S.%20Altugan)
+3. [Arksey and O'Malley, 2005](#bbib2)
+H.Arksey, L.O'Malley
+Scoping studies: Towards a methodological framework
+International Journal of Social Research Methodology, 8 (1) (2005), pp. 19-32, [10.1080/1364557032000119616](https://doi.org/10.1080/1364557032000119616)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Scoping%20studies%3A%20Towards%20a%20methodological%20framework&publication\_year=2005&author=H.%20Arksey&author=L.%20O'Malley)
+4. [Banister and Fischer, 2010](#bbib3)
+S.Banister, J.Fischer
+Overcoming the digital divide: The story of an urban middle school
+Mid-Western Educational Researcher, 23 (2) (2010), pp. 2-9
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Overcoming%20the%20digital%20divide%3A%20The%20story%20of%20an%20urban%20middle%20school&publication\_year=2010&author=S.%20Banister&author=J.%20Fischer)
+5. [Barretto et al., 2021](#bbib4)
+D.Barretto, J.LaChance, E.Burton, S.N.Liao
+Exploring why underrepresented students are less likely to study machine learning and Artificial Intelligence
+Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V, 1 (2021), pp. 457-463, [10.1145/3430665.3456332](https://doi.org/10.1145/3430665.3456332)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20why%20underrepresented%20students%20are%20less%20likely%20to%20study%20machine%20learning%20and%20Artificial%20Intelligence&publication\_year=2021&author=D.%20Barretto&author=J.%20LaChance&author=E.%20Burton&author=S.N.%20Liao)
+6. [Bertrand et al., 2024](#bbib5)
+[∗](#bibnote)
+M.G.Bertrand, H.B.Sezer, I.K.Namukasa
+Exploring AR and VR tools in mathematics education through culturally responsive pedagogies
+Digital Experiences in Mathematics Education, 10 (3) (2024), pp. 462-486, [10.1007/s40751-024-00152-x](https://doi.org/10.1007/s40751-024-00152-x)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20AR%20and%20VR%20tools%20in%20mathematics%20education%20through%20culturally%20responsive%20pedagogies&publication\_year=2024&author=M.G.%20Bertrand&author=H.B.%20Sezer&author=I.K.%20Namukasa)
+7. [Beyer, 2014](#bbib6)
+S.Beyer
+Why are women underrepresented in computer science? Gender differences in stereotypes, self-efficacy, values, and interests and predictors of future CS course-taking and grades
+Computer Science Education, 24 (2–3) (2014), pp. 153-192, [10.1080/08993408.2014.963363](https://doi.org/10.1080/08993408.2014.963363)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Why%20are%20women%20underrepresented%20in%20computer%20science%20Gender%20differences%20in%20stereotypes%2C%20self-efficacy%2C%20values%2C%20and%20interests%20and%20predictors%20of%20future%20CS%20course-taking%20and%20grades&publication\_year=2014&author=S.%20Beyer)
+8. [Bliuc et al., 2011](#bbib7)
+A.-M.Bliuc, R.A.Ellis, P.Goodyear, D.M.Hendres
+The role of social identification as university student in learning: Relationships between students' social identity, approaches to learning, and academic achievement
+Educational Psychology, 31 (5) (2011), pp. 559-574, [10.1080/01443410.2011.585948](https://doi.org/10.1080/01443410.2011.585948)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20role%20of%20social%20identification%20as%20university%20student%20in%20learning%3A%20Relationships%20between%20students%20social%20identity%2C%20approaches%20to%20learning%2C%20and%20academic%20achievement&publication\_year=2011&author=A.-M.%20Bliuc&author=R.A.%20Ellis&author=P.%20Goodyear&author=D.M.%20Hendres)
+9. [Braun and Clarke, 2012](#bbib8)
+V.Braun, V.Clarke
+Thematic analysis
+American Psychological Association (2012), [10.1037/13620-004](https://doi.org/10.1037/13620-004)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Thematic%20analysis&publication\_year=2012&author=V.%20Braun&author=V.%20Clarke)
+10. [Chen et al., 2020](#bbib9)
+L.Chen, P.Chen, Z.Lin
+Artificial intelligence in education: A review
+IEEE Access, 8 (2020), pp. 75264-75278, [10.1109/ACCESS.2020.2988510](https://doi.org/10.1109/ACCESS.2020.2988510)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20in%20education%3A%20A%20review&publication\_year=2020&author=L.%20Chen&author=P.%20Chen&author=Z.%20Lin)
+11. [Chklovski et al., 2019](#bbib10)
+T.Chklovski, R.Jung, J.B.Fofang, P.Gonzales, B.T.Hub, B.La Paz
+Implementing a 15-week AI-education program with under-resourced families across 13 global communities
+International Joint Conference on Artificial Intelligence (2019)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Implementing%20a%2015-week%20AI-education%20program%20with%20under-resourced%20families%20across%2013%20global%20communities&publication\_year=2019&author=T.%20Chklovski&author=R.%20Jung&author=J.B.%20Fofang&author=P.%20Gonzales&author=B.T.%20Hub&author=B.%20La%20Paz)
+12. [Codding et al., 2019](#bbib12)
+∗
+D.Codding, C.Mouza, R.Rolón-Dow, L.Pollock
+Positionality and belonging: Analyzing an informally situated and culturally responsive computer science program
+Proceedings of FabLearn 2019, 132-135 (2019), [10.1145/3311890.3311909](https://doi.org/10.1145/3311890.3311909)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Positionality%20and%20belonging%3A%20Analyzing%20an%20informally%20situated%20and%20culturally%20responsive%20computer%20science%20program&publication\_year=2019&author=D.%20Codding&author=C.%20Mouza&author=R.%20Rol%C3%B3n-Dow&author=L.%20Pollock)
+13. [Dangol et al., 2024](#bbib13)
+∗
+A.Dangol, M.Newman, R.Wolfe, J.H.Lee, J.A.Kientz, J.Yip, …, S.F.Alaoui
+Mediating culture: Cultivating socio-cultural understanding of AI in children through participatory design
+Proceedings of the 2024 ACM Designing Interactive Systems Conference 1805-1822 (2024), [10.1145/3643834.3661515](https://doi.org/10.1145/3643834.3661515)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Mediating%20culture%3A%20Cultivating%20socio-cultural%20understanding%20of%20AI%20in%20children%20through%20participatory%20design&publication\_year=2024&author=A.%20Dangol&author=M.%20Newman&author=R.%20Wolfe&author=J.H.%20Lee&author=J.A.%20Kientz&author=J.%20Yip&author=S.F.%20Alaoui)
+14. [Druga et al., 2019](#bbib14)
+∗
+S.Druga, S.T.Vu, E.Likhith, T.Qiu
+Inclusive AI literacy for kids around the world
+Proceedings of FabLearn, 104-111 (2019), [10.1145/3311890.3311904](https://doi.org/10.1145/3311890.3311904)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Inclusive%20AI%20literacy%20for%20kids%20around%20the%20world&publication\_year=2019&author=S.%20Druga&author=S.T.%20Vu&author=E.%20Likhith&author=T.%20Qiu)
+15. [Eglash et al., 2013](#bbib15)
+∗
+R.Eglash, J.E.Gilbert, V.Taylor, S.R.Geier, K.Clark, K.A.Scott
+Culturally responsive computing in urban, after-school contexts: Two approaches
+Urban Education, 48 (5) (2013), pp. 629-656, [10.1177/0042085913499211](https://doi.org/10.1177/0042085913499211)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Culturally%20responsive%20computing%20in%20urban%2C%20after-school%20contexts%3A%20Two%20approaches&publication\_year=2013&author=R.%20Eglash&author=J.E.%20Gilbert&author=V.%20Taylor&author=S.R.%20Geier&author=K.%20Clark&author=K.A.%20Scott)
+16. [Finzel et al., 2018](#bbib16)
+B.Finzel, H.Deininger, U.Schmid
+From beliefs to intention: Mentoring as an approach to motivate female high school students to enroll in computer science studies
+In proceedings of the 4th Conference on Gender & IT, Heilbronn, Germany (2018), pp. 251-260, [10.1145/3196839.3196879](https://doi.org/10.1145/3196839.3196879)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=From%20beliefs%20to%20intention%3A%20Mentoring%20as%20an%20approach%20to%20motivate%20female%20high%20school%20students%20to%20enroll%20in%20computer%20science%20studies&publication\_year=2018&author=B.%20Finzel&author=H.%20Deininger&author=U.%20Schmid)
+17. [Fletcher & Warner, 2021](#bbib17)
+C.L.Fletcher, J.R.Warner
+Cape: A framework for assessing equity throughout the computer science education ecosystem
+Communications of the ACM, 64, Association for Computing Machinery, Inc (2021)
+(pp.23-25)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Cape%3A%20A%20framework%20for%20assessing%20equity%20throughout%20the%20computer%20science%20education%20ecosystem&publication\_year=2021&author=C.L.%20Fletcher&author=J.R.%20Warner)
+18. [Florian and Black-Hawkins, 2011](#bbib18)
+L.Florian, K.Black-Hawkins
+Exploring inclusive pedagogy
+British Educational Research Journal, 37 (5) (2011), pp. 813-828, [10.1080/01411926.2010.501096](https://doi.org/10.1080/01411926.2010.501096)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20inclusive%20pedagogy&publication\_year=2011&author=L.%20Florian&author=K.%20Black-Hawkins)
+19. [Fowler and Khosmood, 2018](#bbib19)
+∗
+A.Fowler, F.Khosmood
+The potential of young learners making games: An exploratory study
+2018 IEEE Games, Entertainment, Media Conference (GEM) (2018), pp. 1-9, [10.1109/GEM.2018.8516486](https://doi.org/10.1109/GEM.2018.8516486)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20potential%20of%20young%20learners%20making%20games%3A%20An%20exploratory%20study&publication\_year=2018&author=A.%20Fowler&author=F.%20Khosmood)
+20. [Franklin et al., 2020](#bbib20)
+∗
+D.Franklin, D.Weintrop, J.Palmer, M.Coenraad, M.Cobian, K.Beck, …, Z.Crenshaw
+Scratch encore: The design and pilot of a culturally-relevant intermediate scratch curriculum
+\*Proceedings of the 51st ACM Technical Symposium on Computer Science Education\*, 794-800 (2020), [10.1145/3328778.3366912](https://doi.org/10.1145/3328778.3366912)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Scratch%20encore%3A%20The%20design%20and%20pilot%20of%20a%20culturally-relevant%20intermediate%20scratch%20curriculum&publication\_year=2020&author=D.%20Franklin&author=D.%20Weintrop&author=J.%20Palmer&author=M.%20Coenraad&author=M.%20Cobian&author=K.%20Beck&author=Z.%20Crenshaw)
+21. [Hanks et al., 2011](#bbib21)
+B.Hanks, S.Fitzgerald, R.McCauley, L.Murphy, C.Zander
+Pair programming in education: A literature review
+Computer Science Education, 21 (2) (2011), pp. 135-173, [10.1080/08993408.2011.579808](https://doi.org/10.1080/08993408.2011.579808)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Pair%20programming%20in%20education%3A%20A%20literature%20review&publication\_year=2011&author=B.%20Hanks&author=S.%20Fitzgerald&author=R.%20McCauley&author=L.%20Murphy&author=C.%20Zander)
+22. [Hannay et al., 2009](#bbib22)
+J.E.Hannay, T.Dybå, E.Arisholm, D.I.K.Sjøberg
+The effectiveness of pair programming: A meta-analysis
+Information and Software Technology, 51 (7) (2009), pp. 1110-1122, [10.1016/j.infsof.2009.02.001](https://doi.org/10.1016/j.infsof.2009.02.001)
+[View PDF](/science/article/pii/S0950584909000123/pdfft?md5=d794738b73623b8412a3ed1a3364d8d3&pid=1-s2.0-S0950584909000123-main.pdf)[View article](/science/article/pii/S0950584909000123)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20effectiveness%20of%20pair%20programming%3A%20A%20meta-analysis&publication\_year=2009&author=J.E.%20Hannay&author=T.%20Dyb%C3%A5&author=E.%20Arisholm&author=D.I.K.%20Sj%C3%B8berg)
+23. [Irvine, 1991](#bbib23)
+J.J.Irvine
+Black students and school failure: Policies, practices, and prescriptions. Praeger
+(1991)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Black%20students%20and%20school%20failure%3A%20Policies%2C%20practices%2C%20and%20prescriptions.%20Praeger&publication\_year=1991&author=J.J.%20Irvine)
+24. [Jiang et al., 2024](#bbib24)
+S.Jiang, J.McClure, C.Tatar, F.Bickel, C.P.Rosé, J.Chao
+Towards inclusivity in AI: A comparative study of cognitive engagement between marginalized female students and peers
+British Journal of Educational Technology, 55 (6) (2024), pp. 2557-2573, [10.1111/bjet.13467](https://doi.org/10.1111/bjet.13467)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Towards%20inclusivity%20in%20AI%3A%20A%20comparative%20study%20of%20cognitive%20engagement%20between%20marginalized%20female%20students%20and%20peers&publication\_year=2024&author=S.%20Jiang&author=J.%20McClure&author=C.%20Tatar&author=F.%20Bickel&author=C.P.%20Ros%C3%A9&author=J.%20Chao)
+25. [Kafai et al., 2014](#bbib25)
+∗
+Y.Kafai, K.Searle, C.Martinez, B.Brayboy
+Ethnocomputing with electronic textiles: Culturally responsive open design to broaden participation in computing in American Indian youth and communities
+Proceedings of the 45th ACM Technical Symposium on Computer Science Education, 241-246 (2014), [10.1145/2538862.2538903](https://doi.org/10.1145/2538862.2538903)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Ethnocomputing%20with%20electronic%20textiles%3A%20Culturally%20responsive%20open%20design%20to%20broaden%20participation%20in%20computing%20in%20American%20Indian%20youth%20and%20communities&publication\_year=2014&author=Y.%20Kafai&author=K.%20Searle&author=C.%20Martinez&author=B.%20Brayboy)
+26. [Kaspersen et al., 2022](#bbib26)
+M.H.Kaspersen, K.E.K.Bilstrup, M.Van Mechelen, A.Hjort, N.O.Bouvin, M.G.Petersen
+High school students exploring machine learning and its societal implications: Opportunities and challenges
+International Journal of Child-Computer Interaction, 34 (2022), [10.1016/j.ijcci.2022.100539](https://doi.org/10.1016/j.ijcci.2022.100539)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=High%20school%20students%20exploring%20machine%20learning%20and%20its%20societal%20implications%3A%20Opportunities%20and%20challenges&publication\_year=2022&author=M.H.%20Kaspersen&author=K.E.K.%20Bilstrup&author=M.%20Van%20Mechelen&author=A.%20Hjort&author=N.O.%20Bouvin&author=M.G.%20Petersen)
+27. [Katuka et al., 2024](#bbib27)
+G.A.Katuka, S.Chakraburty, H.Lee, S.Dhama, T.Earle-Randell, M.Celepkolu, K.E.Boyer, K.Glazewski, C.Hmelo-Silver, T.Mcklin
+Integrating natural language processing in middle school science classrooms: An experience report
+Proceedings of the 55th ACM Technical Symposium on Computer Science Education, 1 (2024), pp. 639-645, [10.1145/3626252.3630881](https://doi.org/10.1145/3626252.3630881)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Integrating%20natural%20language%20processing%20in%20middle%20school%20science%20classrooms%3A%20An%20experience%20report&publication\_year=2024&author=G.A.%20Katuka&author=S.%20Chakraburty&author=H.%20Lee&author=S.%20Dhama&author=T.%20Earle-Randell&author=M.%20Celepkolu&author=K.E.%20Boyer&author=K.%20Glazewski&author=C.%20Hmelo-Silver&author=T.%20Mcklin)
+28. [Kim & Lee, 2025](#bbibNaN)
+S.Kim, H.Lee
+Understanding ICT integration: The role of needs, participation, and self-efficacy in instructional emphasis
+Association for the Advancement of Computing in Education (AACE) (2025), pp. 583-588
+
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Understanding%20ICT%20integration%3A%20The%20role%20of%20needs%2C%20participation%2C%20and%20self-efficacy%20in%20instructional%20emphasis&publication\_year=2025&author=S.%20Kim&author=H.%20Lee)
+29. [Ladeji-Osias et al., 2018](#bbib28)
+∗
+J.O.Ladeji-Osias, L.E.Partlow, E.C.Dillon
+Using mobile application development and 3-D modeling to encourage minority male interest in computing and engineering
+IEEE Transactions on Education, 61 (4) (2018), pp. 274-280, [10.1109/TE.2018.2826466](https://doi.org/10.1109/TE.2018.2826466)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using%20mobile%20application%20development%20and%203-D%20modeling%20to%20encourage%20minority%20male%20interest%20in%20computing%20and%20engineering&publication\_year=2018&author=J.O.%20Ladeji-Osias&author=L.E.%20Partlow&author=E.C.%20Dillon)
+30. [Ladson-Billings, 1995a](#bbib29)
+G.Ladson-Billings
+But that's just good teaching! The case for culturally relevant pedagogy
+Theory into Practice, 34 (3) (1995), pp. 159-165, [10.1080/00405849509543675](https://doi.org/10.1080/00405849509543675)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=But%20thats%20just%20good%20teaching%20The%20case%20for%20culturally%20relevant%20pedagogy&publication\_year=1995&author=G.%20Ladson-Billings)
+31. [Ladson-Billings, 1995b](#bbib30)
+G.Ladson-Billings
+Toward a theory of culturally relevant pedagogy
+American Educational Research Journal, 32 (3) (1995), pp. 465-491, [10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Toward%20a%20theory%20of%20culturally%20relevant%20pedagogy&publication\_year=1995&author=G.%20Ladson-Billings)
+32. [Ladson-Billings, 2006](#bbib31)
+G.Ladson-Billings
+From the achievement gap to the education debt: Understanding achievement in U.S. schools
+Educational Researcher, 35 (7) (2006), pp. 3-12, [10.3102/0013189X035007003](https://doi.org/10.3102/0013189X035007003)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=From%20the%20achievement%20gap%20to%20the%20education%20debt%3A%20Understanding%20achievement%20in%20U.S.%20schools&publication\_year=2006&author=G.%20Ladson-Billings)
+33. [Lee et al., 2023](#bbib68)
+H.Lee, F.Closser, K.Alghamdi, A.Ottenbreit-Leftwich, M.Brown, J.Koressel
+Current experiences and factors of future enrollment in computer science for high school students
+TechTrends, 67 (6) (2023), pp. 955-964
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Current%20experiences%20and%20factors%20of%20future%20enrollment%20in%20computer%20science%20for%20high%20school%20students&publication\_year=2023&author=H.%20Lee&author=F.%20Closser&author=K.%20Alghamdi&author=A.%20Ottenbreit-Leftwich&author=M.%20Brown&author=J.%20Koressel)
+34. [Lee, 2024](#bbib69)
+H.Lee
+\*Examining the effectiveness of personalized learning through artificial intelligence\*, Indiana University (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Examining%20the%20effectiveness%20of%20personalized%20learning%20through%20artificial%20intelligence&publication\_year=2024&author=H.%20Lee)
+35. [Lee & Park, 2024](#bbib1757783373910)
+H.Lee, I.Park
+The roles of students in technology-rich environments and the effectiveness of student learning, International Society of the Learning Sciences (2024), pp. \*1774\*-\*1777\*
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20roles%20of%20students%20in%20technology-rich%20environments%20and%20the%20effectiveness%20of%20student%20learning&publication\_year=2024&author=H.%20Lee&author=I.%20Park)
+36. [Lee & Brush, 2025](#bbib1757783373911)
+H.Lee, T.Brush
+Reducing academic gaps through AI: Personalized learning pathways in mathematics, International Society of the Learning Sciences (2025), pp. \*3109\*-\*3111\*
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Reducing%20academic%20gaps%20through%20AI%3A%20Personalized%20learning%20pathways%20in%20mathematics&publication\_year=2025&author=H.%20Lee&author=T.%20Brush)
+37. [Lee & Lee, 2025](#bbib1757783433790)
+H.Lee, J.Lee
+Empowering teachers for AI: Lessons learned from an interactive and needs-based teacher workshop
+Association for the Advancement of Computing in Education (AACE) (2025), pp. 2810-2814
+
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Empowering%20teachers%20for%20AI%3A%20Lessons%20learned%20from%20an%20interactive%20and%20needs-based%20teacher%20workshop&publication\_year=2025&author=H.%20Lee&author=J.%20Lee)
+38. [Lee et al., 2015](#bbib32)
+∗
+J.Lee, J.Husman, K.A.Scott, N.D.Eggum-Wilkens
+COMPUGIRLS: Stepping stone to future computer-based technology pathways
+Journal of Educational Computing Research, 52 (2) (2015), pp. 199-223, [10.1177/0735633115571304](https://doi.org/10.1177/0735633115571304)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=COMPUGIRLS%3A%20Stepping%20stone%20to%20future%20computer-based%20technology%20pathways&publication\_year=2015&author=J.%20Lee&author=J.%20Husman&author=K.A.%20Scott&author=N.D.%20Eggum-Wilkens)
+39. [Levinson et al., 2022](#bbib33)
+M.Levinson, T.Geron, H.Brighouse
+Conceptions of educational equity
+Aera Open, 8 (2022), Article 23328584221121344, [10.1177/23328584221121344](https://doi.org/10.1177/23328584221121344)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Conceptions%20of%20educational%20equity&publication\_year=2022&author=M.%20Levinson&author=T.%20Geron&author=H.%20Brighouse)
+40. [Lin and Van Brummelen, 2021](#bbib34)
+P.Lin, J.Van Brummelen
+Engaging teachers to co-design integrated AI curriculum for K-12 classrooms
+Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (2021), pp. 1-12, [10.1145/3411764.3445377](https://doi.org/10.1145/3411764.3445377)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Engaging%20teachers%20to%20co-design%20integrated%20AI%20curriculum%20for%20K-12%20classrooms&publication\_year=2021&author=P.%20Lin&author=J.%20Van%20Brummelen)
+41. [Louie et al., 2022](#bbib35)
+∗
+B.Louie, E.A.Björling, A.C.Kuo, P.Alves-Oliveira
+Designing for culturally responsive social robots: An application of a participatory framework
+Frontiers in Robotics and AI, 9 (2022), Article 983408, [10.3389/frobt.2022.983408](https://doi.org/10.3389/frobt.2022.983408)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Designing%20for%20culturally%20responsive%20social%20robots%3A%20An%20application%20of%20a%20participatory%20framework&publication\_year=2022&author=B.%20Louie&author=E.A.%20Bj%C3%B6rling&author=A.C.%20Kuo&author=P.%20Alves-Oliveira)
+42. [Luckin and Holmes, 2016](#bbib36)
+R.Luckin, W.Holmes
+Intelligence unleashed: An argument for AI in education
+Pearson (2016)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Intelligence%20unleashed%3A%20An%20argument%20for%20AI%20in%20education&publication\_year=2016&author=R.%20Luckin&author=W.%20Holmes)
+43. [Madkins et al., 2019](#bbib37)
+T.C.Madkins, A.Martin, J.Ryoo, K.A.Scott, J.Goode, A.Scott, F.McAlear
+Culturally relevant computer science pedagogy: From theory to practice
+2019 Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT), 1-4 (2019)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Culturally%20relevant%20computer%20science%20pedagogy%3A%20From%20theory%20to%20practice&publication\_year=2019&author=T.C.%20Madkins&author=A.%20Martin&author=J.%20Ryoo&author=K.A.%20Scott&author=J.%20Goode&author=A.%20Scott&author=F.%20McAlear)
+44. [Malone and Barabino, 2009](#bbib38)
+K.Malone, G.Barabino
+Narrations of race in STEM research settings: Identity formation and its discontents
+Science Education (Salem, Mass.), 93 (3) (2009), pp. 485-510, [10.1002/sce.20307](https://doi.org/10.1002/sce.20307)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Narrations%20of%20race%20in%20STEM%20research%20settings%3A%20Identity%20formation%20and%20its%20discontents&publication\_year=2009&author=K.%20Malone&author=G.%20Barabino)
+45. [Manikutty et al., 2019](#bbib39)
+∗
+G.Manikutty, L.M.Frey, A.Natarajan, U.Chilakapati, V.V, B.Rao R
+I can also make robots! Inspiring rural Indian children to learn robotics
+2019 IEEE Tenth International Conference on Technology for Education (T4E), 78-85 (2019), [10.1109/T4E.2019.00022](https://doi.org/10.1109/T4E.2019.00022)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=I%20can%20also%20make%20robots%20Inspiring%20rural%20Indian%20children%20to%20learn%20robotics&publication\_year=2019&author=G.%20Manikutty&author=L.M.%20Frey&author=A.%20Natarajan&author=U.%20Chilakapati&author=V.%20V&author=B.%20Rao%20R)
+46. [Moher et al., 2015](#bbib40)
+D.Moher, L.Shamseer, M.Clarke, D.Ghersi, A.Liberati, M.Petticrew, P.Shekelle, L.A.Stewart
+Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement
+Systematic Reviews, 4 (1) (2015), pp. 1-9, [10.1186/2046-4053-4-1](https://doi.org/10.1186/2046-4053-4-1)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Preferred%20reporting%20items%20for%20systematic%20review%20and%20meta-analysis%20protocols%20%202015%20statement&publication\_year=2015&author=D.%20Moher&author=L.%20Shamseer&author=M.%20Clarke&author=D.%20Ghersi&author=A.%20Liberati&author=M.%20Petticrew&author=P.%20Shekelle&author=L.A.%20Stewart)
+47. [Munn et al., 2018](#bbib41)
+Z.Munn, M.D.J.Peters, C.Stern, C.Tufanaru, A.McArthur, E.Aromataris
+Systematic review or scoping review? Guidance for authors when choosing between a systematic or scoping review approach
+BMC Medical Research Methodology, 18 (1) (2018), [10.1186/s12874-018-0611-x](https://doi.org/10.1186/s12874-018-0611-x)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Systematic%20review%20or%20scoping%20review%20Guidance%20for%20authors%20when%20choosing%20between%20a%20systematic%20or%20scoping%20review%20approach&publication\_year=2018&author=Z.%20Munn&author=M.D.J.%20Peters&author=C.%20Stern&author=C.%20Tufanaru&author=A.%20McArthur&author=E.%20Aromataris)
+48. [National Research Council, 2012](#bbib42)
+National Research Council
+A framework for K-12 science education: Practices, crosscutting concepts, and core ideas
+National Academies Press (2012), [10.17226/13165](https://doi.org/10.17226/13165)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20framework%20for%20K-12%20science%20education%3A%20Practices%2C%20crosscutting%20concepts%2C%20and%20core%20ideas&publication\_year=2012&author=National%20Research%20Council)
+49. [Pedró et al., 2019](#bbib43)
+F.Pedró, M.Subosa, A.Rivas, P.Valverde
+Artificial intelligence in education: Challenges and opportunities for sustainable development
+UNESCO (2019)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20in%20education%3A%20Challenges%20and%20opportunities%20for%20sustainable%20development&publication\_year=2019&author=F.%20Pedr%C3%B3&author=M.%20Subosa&author=A.%20Rivas&author=P.%20Valverde)
+50. [Pham et al., 2014](#bbib44)
+M.T.Pham, A.Rajić, J.D.Greig, J.M.Sargeant, A.Papadopoulos, S.A.McEwen
+A scoping review of scoping reviews: Advancing the approach and enhancing the consistency
+Research Synthesis Methods, 5 (4) (2014), pp. 371-385, [10.1002/jrsm.1123](https://doi.org/10.1002/jrsm.1123)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20scoping%20review%20of%20scoping%20reviews%3A%20Advancing%20the%20approach%20and%20enhancing%20the%20consistency&publication\_year=2014&author=M.T.%20Pham&author=A.%20Raji%C4%87&author=J.D.%20Greig&author=J.M.%20Sargeant&author=A.%20Papadopoulos&author=S.A.%20McEwen)
+51. [Roopaei et al., 2021](#bbib45)
+M.Roopaei, J.Horst, E.Klaas, G.Foster, T.J.Salmon-Stephens, J.Grunow
+Women in AI: Barriers and solutions
+2021 IEEE World AI IoT Congress (AIIoT), 497-503 (2021), [10.1109/AIIoT52608.2021.9454202](https://doi.org/10.1109/AIIoT52608.2021.9454202)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Women%20in%20AI%3A%20Barriers%20and%20solutions&publication\_year=2021&author=M.%20Roopaei&author=J.%20Horst&author=E.%20Klaas&author=G.%20Foster&author=T.J.%20Salmon-Stephens&author=J.%20Grunow)
+52. [Ryoo, 2019](#bbib46)
+J.J.Ryoo
+Pedagogy that supports computer science for “All.”
+ACM Transactions on Computing Education, 19 (4) (2019), pp. 1-23, [10.1145/3322210](https://doi.org/10.1145/3322210)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Pedagogy%20that%20supports%20computer%20science%20for%20All.&publication\_year=2019&author=J.J.%20Ryoo)
+53. [Salas-Pilco et al., 2022](#bbib47)
+S.Z.Salas-Pilco, K.Xiao, J.Oshima
+Artificial intelligence and new technologies in inclusive education for minority students: A systematic review
+Sustainability, 14 (20) (2022), Article 13572, [10.3390/su142013572](https://doi.org/10.3390/su142013572)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20and%20new%20technologies%20in%20inclusive%20education%20for%20minority%20students%3A%20A%20systematic%20review&publication\_year=2022&author=S.Z.%20Salas-Pilco&author=K.%20Xiao&author=J.%20Oshima)
+54. [Sanusi and Olaleye, 2022](#bbib48)
+I.T.Sanusi, S.A.Olaleye
+An insight into cultural competence and ethics in K-12 artificial intelligence education
+2022 IEEE Global Engineering Education Donference (EDUCON), 790-794 (2022), [10.1109/educon52537.2022.9766818](https://doi.org/10.1109/educon52537.2022.9766818)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20insight%20into%20cultural%20competence%20and%20ethics%20in%20K-12%20artificial%20intelligence%20education&publication\_year=2022&author=I.T.%20Sanusi&author=S.A.%20Olaleye)
+55. [Scott et al., 2015](#bbib49)
+K.A.Scott, K.M.Sheridan, K.Clark
+Culturally responsive computing: A theory revisited
+Learning, Media and Technology, 40 (4) (2015), pp. 412-436, [10.1080/17439884.2014.924966](https://doi.org/10.1080/17439884.2014.924966)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Culturally%20responsive%20computing%3A%20A%20theory%20revisited&publication\_year=2015&author=K.A.%20Scott&author=K.M.%20Sheridan&author=K.%20Clark)
+56. [Selwyn, 2022](#bbib50)
+N.Selwyn
+The future of AI and education: Some cautionary notes
+European Journal of Education, 57 (4) (2022), pp. 620-631, [10.1111/ejed.12532](https://doi.org/10.1111/ejed.12532)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20future%20of%20AI%20and%20education%3A%20Some%20cautionary%20notes&publication\_year=2022&author=N.%20Selwyn)
+57. [Shams et al., 2023](#bbib51)
+R.A.Shams, D.Zowghi, M.Bano
+AI and the quest for diversity and inclusion: A systematic literature review
+AI and Ethics, 1-28 (2023), [10.1007/s43681-023-00362-w](https://doi.org/10.1007/s43681-023-00362-w)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20and%20the%20quest%20for%20diversity%20and%20inclusion%3A%20A%20systematic%20literature%20review&publication\_year=2023&author=R.A.%20Shams&author=D.%20Zowghi&author=M.%20Bano)
+58. [Shields, 1999](#bbib52)
+C.M.Shields
+Learning from students about representation, identity, and community
+Educational Administration Quarterly, 35 (1) (1999), pp. 106-129, [10.1177/00131619921968482](https://doi.org/10.1177/00131619921968482)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Learning%20from%20students%20about%20representation%2C%20identity%2C%20and%20community&publication\_year=1999&author=C.M.%20Shields)
+59. [Simley et al., 2020](#bbib53)
+∗
+T.Simley, N.A.Mack, T.Pittman, C.Cook, R.Cummings, D.Moon, K.Gosha
+Assessing the efficacy of integrating computer science, math, and science in a middle school Sphero robotics summer program
+2020 Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT), 1 (2020), pp. 1-8, [10.1109/RESPECT49803.2020.9272479](https://doi.org/10.1109/RESPECT49803.2020.9272479)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Assessing%20the%20efficacy%20of%20integrating%20computer%20science%2C%20math%2C%20and%20science%20in%20a%20middle%20school%20Sphero%20robotics%20summer%20program&publication\_year=2020&author=T.%20Simley&author=N.A.%20Mack&author=T.%20Pittman&author=C.%20Cook&author=R.%20Cummings&author=D.%20Moon&author=K.%20Gosha)
+60. [Solyst et al., 2022](#bbib54)
+∗
+J.Solyst, T.Nkrumah, A.Stewart, A.Buddemeyer, E.Walker, A.Ogan
+Running an online synchronous culturally responsive computing camp for middle school girls
+Proceedings of the 27th ACM Conference on Innovation and Technology in Computer Science Education, 1 (2022), pp. 158-164, [10.1145/3502718.3524747](https://doi.org/10.1145/3502718.3524747)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Running%20an%20online%20synchronous%20culturally%20responsive%20computing%20camp%20for%20middle%20school%20girls&publication\_year=2022&author=J.%20Solyst&author=T.%20Nkrumah&author=A.%20Stewart&author=A.%20Buddemeyer&author=E.%20Walker&author=A.%20Ogan)
+61. [Solyst et al., 2023](#bbib55)
+J.Solyst, S.Xie, E.Yang, A.E.B.Stewart, M.Eslami, J.Hammer, …, M.L.Wilson
+“I would like to design”: Black girls analyzing and ideating fair and accountable AI
+Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, 1-14 (2023), [10.1145/3544548.3581378](https://doi.org/10.1145/3544548.3581378)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=I%20would%20like%20to%20design%3A%20Black%20girls%20analyzing%20and%20ideating%20fair%20and%20accountable%20AI&publication\_year=2023&author=J.%20Solyst&author=S.%20Xie&author=E.%20Yang&author=A.E.B.%20Stewart&author=M.%20Eslami&author=J.%20Hammer&author=M.L.%20Wilson)
+62. [Trent, 2010](#bbib56)
+J.Trent
+Teacher education as identity construction: Insights from action research
+Journal of Education for Teaching, 36 (2) (2010), pp. 153-168, [10.1080/02607471003651672](https://doi.org/10.1080/02607471003651672)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20education%20as%20identity%20construction%3A%20Insights%20from%20action%20research&publication\_year=2010&author=J.%20Trent)
+63. [UNESCO, 2018](#bbib1757783433793)
+UNESCO
+\*Ensuring the right to equitable and inclusive quality education\*
+ (2018)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Ensuring%20the%20right%20to%20equitable%20and%20inclusive%20quality%20education&publication\_year=2018&author=UNESCO)
+64. [UNESCO, 2022](#bbib1757783433794)
+UNESCO
+\*K-12 AI curricula. A mapping of government-endorsed AI curricula\*
+ (2022)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=K-12%20AI%20curricula.%20A%20mapping%20of%20government-endorsed%20AI%20curricula&publication\_year=2022&author=UNESCO)
+65. [UNESCO, 2023](#bbib1757783433792)
+UNESCO
+\*World Inequality Database on Education\* (2023)
+
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=World%20Inequality%20Database%20on%20Education&publication\_year=2023&author=UNESCO)
+66. [Vakil, 2014](#bbib60)
+∗
+S.Vakil
+A critical pedagogy approach for engaging urban youth in mobile app development in an after-school program
+Equity & Excellence in Education, 47 (1) (2014), pp. 31-45, [10.1080/10665684.2014.866869](https://doi.org/10.1080/10665684.2014.866869)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20critical%20pedagogy%20approach%20for%20engaging%20urban%20youth%20in%20mobile%20app%20development%20in%20an%20after-school%20program&publication\_year=2014&author=S.%20Vakil)
+67. [Vandenberg et al., 2023](#bbib61)
+J.Vandenberg, W.Min, V.Catete, D.Boulden, B.Mott, A.Liapis, …, H.Engström
+Leveraging game design activities for middle grades AI education in rural communities
+Foundations of Digital Games (2023), pp. 1-4, [10.1145/3582437.3587193](https://doi.org/10.1145/3582437.3587193)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Leveraging%20game%20design%20activities%20for%20middle%20grades%20AI%20education%20in%20rural%20communities&publication\_year=2023&author=J.%20Vandenberg&author=W.%20Min&author=V.%20Catete&author=D.%20Boulden&author=B.%20Mott&author=A.%20Liapis&author=H.%20Engstr%C3%B6m)
+68. [Whitcomb et al., 2021](#bbib62)
+K.M.Whitcomb, S.Cwik, C.Singh
+Not all disadvantages are equal: Racial/ethnic minority students have largest disadvantage among demographic groups in both STEM and non-STEM GPA
+Aera Open, 7 (2021), Article 23328584211059823, [10.1177/23328584211059823](https://doi.org/10.1177/23328584211059823)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Not%20all%20disadvantages%20are%20equal%3A%20Racialethnic%20minority%20students%20have%20largest%20disadvantage%20among%20demographic%20groups%20in%20both%20STEM%20and%20non-STEM%20GPA&publication\_year=2021&author=K.M.%20Whitcomb&author=S.%20Cwik&author=C.%20Singh)
+69. [Williams et al., 2017](#bbib63)
+∗
+A.B.Williams, K.Baert, A.Williams
+Culturally responsive social robotics instruction for middle school girls
+Proceedings of the Companion of the 2017 ACM/IEEE International Conference on Human-Robot Interaction, 323-324 (2017), [10.1145/3029798.3038427](https://doi.org/10.1145/3029798.3038427)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Culturally%20responsive%20social%20robotics%20instruction%20for%20middle%20school%20girls&publication\_year=2017&author=A.B.%20Williams&author=K.%20Baert&author=A.%20Williams)
+70. [Williams and Upchurch, 2001](#bbib64)
+L.Williams, R.L.Upchurch
+In support of student pair-programming
+SIGCSE Bulletin, 33 (1) (2001), pp. 327-331, [10.1145/366413.364614](https://doi.org/10.1145/366413.364614)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=In%20support%20of%20student%20pair-programming&publication\_year=2001&author=L.%20Williams&author=R.L.%20Upchurch)
+71. [Xia et al., 2022](#bbib65)
+∗
+Q.Xia, T.K.F.Chiu, M.Lee, I.T.Sanusi, Y.Dai, C.S.Chai
+A self-determination theory (SDT) design approach for inclusive and diverse artificial intelligence (AI) education
+Computers and Education, 189 (2022), Article 104582, [10.1016/j.compedu.2022.104582](https://doi.org/10.1016/j.compedu.2022.104582)
+[View PDF](/science/article/pii/S0360131522001531/pdfft?md5=1bd7c6321c11794a447faf65be6d2917&pid=1-s2.0-S0360131522001531-main.pdf)[View article](/science/article/pii/S0360131522001531)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20self-determination%20theory%20%20design%20approach%20for%20inclusive%20and%20diverse%20artificial%20intelligence%20%20education&publication\_year=2022&author=Q.%20Xia&author=T.K.F.%20Chiu&author=M.%20Lee&author=I.T.%20Sanusi&author=Y.%20Dai&author=C.S.%20Chai)
+72. [Zhai et al., 2021](#bbib66)
+X.Zhai, X.Chu, C.S.Chai, M.S.Y.Jong, A.Istenic, M.Spector, J.-B.Liu, J.Yuan, Y.Li, N.Cai, C.Ning
+A review of artificial intelligence (AI) in education from 2010 to 2020
+Complexity (New York, N.Y.), 2021 (1) (2021), [10.1155/2021/8812542](https://doi.org/10.1155/2021/8812542)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20review%20of%20artificial%20intelligence%20%20in%20education%20from%202010%20to%202020&publication\_year=2021&author=X.%20Zhai&author=X.%20Chu&author=C.S.%20Chai&author=M.S.Y.%20Jong&author=A.%20Istenic&author=M.%20Spector&author=J.-B.%20Liu&author=J.%20Yuan&author=Y.%20Li&author=N.%20Cai&author=C.%20Ning)
+73. [Zhan et al., 2024](#bbib67)
+Z.Zhan, Y.Tong, X.Lan, B.Zhong
+A systematic literature review of game-based learning in artificial intelligence education
+Interactive Learning Environments, 32 (3) (2024), pp. 1137-1158, [10.1080/10494820.2022.2115077](https://doi.org/10.1080/10494820.2022.2115077)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20literature%20review%20of%20game-based%20learning%20in%20artificial%20intelligence%20education&publication\_year=2024&author=Z.%20Zhan&author=Y.%20Tong&author=X.%20Lan&author=B.%20Zhong)
+## Cited by (1)
+\* ### [In the Age of AI: Effective Teaching and Learning Strategies for Students With SEND Involve Collaboration and Interactive Strategies](https://doi.org/10.4018/979-8-3373-6375-2.ch010)
+2025, Impacts of Artificial Intelligence on Educational Psychology and Cognitive Development
+Published by Elsevier Ltd.
+## Recommended articles
+\* ### [Large language models for education: An open-source paradigm for automated Q&A in the graduate classroom](/science/article/pii/S2666920X2600007X)
+Computers and Education: Artificial Intelligence, Volume 10, 2026, Article 100546
+Ryann M.Perez, …, E. JamesPetersson
+[View PDF](/science/article/pii/S2666920X2600007X/pdfft?md5=3cbd9434722c9cc81f64304abe3ef1bf&pid=1-s2.0-S2666920X2600007X-main.pdf)
+\* ### [Optimizing automated scoring in ILSAs with prompt compression](/science/article/pii/S2666920X26000196)
+Computers and Education: Artificial Intelligence, Volume 10, 2026, Article 100558
+Ji YoonJung, …, Matthiasvon Davier
+[View PDF](/science/article/pii/S2666920X26000196/pdfft?md5=8b38e318c5045161e38416e6baa3f01d&pid=1-s2.0-S2666920X26000196-main.pdf)
+\* ### [Unveiling the effects of GenAI on motivation of learning English as a second/foreign language: Evidence from meta-analysis](/science/article/pii/S1747938X25000818)
+Educational Research Review, Volume 49, 2025, Article 100744
+MengXiong, TimothyTeo
+\* ### [Exploring AI-generated feedback in peer-discussion contexts: A mixed-methods study of essay writing in secondary classrooms](/science/article/pii/S2666920X25001444)
+Computers and Education: Artificial Intelligence, Volume 9, 2025, Article 100504
+IrinaEngeness
+[View PDF](/science/article/pii/S2666920X25001444/pdfft?md5=58bb04424b3a5ca6789df0f7d435c4a0&pid=1-s2.0-S2666920X25001444-main.pdf)
+\* ### [Evaluating the potential of ChatGPT-reformulated essays as written feedback in L2 writing](/science/article/pii/S2666920X25001407)
+Computers and Education: Artificial Intelligence, Volume 9, 2025, Article 100500
+YingzhaoChen
+[View PDF](/science/article/pii/S2666920X25001407/pdfft?md5=33067f5d4145a7961de1f71173596f77&pid=1-s2.0-S2666920X25001407-main.pdf)
+\* ### [The promise and limits of LLMs in constructing proofs and hints for logic problems in intelligent tutoring systems](/science/article/pii/S2666920X25001304)
+Computers and Education: Artificial Intelligence, Volume 9, 2025, Article 100490
+Sutapa DeyTithi, …, TiffanyBarnes
+[View PDF](/science/article/pii/S2666920X25001304/pdfft?md5=e07376603403a52773e4e76a61703ef1&pid=1-s2.0-S2666920X25001304-main.pdf)
+Show 3 more articles
+## Article Metrics
+### Citations
+\* Citation Indexes1
+### Captures
+\* Mendeley Readers46
+### Mentions
+\* News Mentions1
+![](https://cdn.plu.mx/3ba727faf225e19d2c759f6ebffc511d/plumx-logo.png)[View details](https://plu.mx/plum/a/?doi=10.1016%2Fj.caeai.2025.100478&theme=plum-sciencedirect-theme&hideUsage=true)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X25001183)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

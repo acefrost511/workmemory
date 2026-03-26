@@ -1,0 +1,1481 @@
+# Source URL: https://arxiv.org/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=0&order=-announced_date_first
+# Content Length: 124407 characters
+# Extracted at: 2026-03-26 05:10:33
+#============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search | arXiv e-print repository
+
+
+
+
+[Skip to main content](#main-container)
+
+[![]()](https://cornell.edu/)
+
+We gratefully acknowledge support from  
+ the Simons Foundation, [member institutions](https://info.arxiv.org/about/ourmembers.html), and all contributors. [Donate](https://info.arxiv.org/about/donate.html)
+
+
+
+
+[![]()](https://arxiv.org/)
+
+
+[Help](https://info.arxiv.org/help) | [Advanced Search](https://arxiv.org/search/advanced)
+
+
+All fields
+Title
+Author
+Abstract
+Comments
+Journal reference
+ACM classification
+MSC classification
+Report number
+arXiv identifier
+DOI
+ORCID
+arXiv author ID
+Help pages
+Full text
+
+
+
+
+Search
+
+
+
+ 
+[Login](https://arxiv.org/login)
+
+
+
+Showing 1–50 of 150 results for all: adaptive learning students education personalized
+======================================================================================
+
+
+[Search v0.5.6 released 2020-02-24](https://github.com/arXiv/arxiv-search/releases)  
+
+
+Search term or terms
+
+
+Field
+All fieldsTitleAuthor(s)AbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDLicense (URI)arXiv author IDHelp pagesFull text
+
+Search
+
+
+ Show abstracts
+
+ Hide abstracts
+
+
+
+[Advanced Search](/search/advanced?terms-0-term=adaptive+learning+students+education+personalized&terms-0-field=all&size=50&order=-announced_date_first)
+
+
+
+
+
+All fieldsTitleAuthor(s)AbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDLicense (URI)arXiv author IDHelp pagesFull text
+
+* Show abstracts
+* Hide abstracts
+
+2550100200
+
+results per page.
+
+Sort results by
+Announcement date (newest first)Announcement date (oldest first)Submission date (newest first)Submission date (oldest first)Relevance
+
+
+Go
+
+
+
+
+
+Previous
+[Next](/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=50&order=-announced_date_first)
+
+* [1](/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=0&order=-announced_date_first)
+* [2](/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=50&order=-announced_date_first)
+* [3](/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=100&order=-announced_date_first)
+* [4](/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=150&order=-announced_date_first)
+
+1. [arXiv:2603.22289](https://arxiv.org/abs/2603.22289)
+    [[pdf](https://arxiv.org/pdf/2603.22289), [ps](https://arxiv.org/ps/2603.22289), [other](https://arxiv.org/format/2603.22289)] 
+   
+   cs.CL
+   cs.AI
+   
+   MERIT: Memory-Enhanced Retrieval for Interpretable Knowledge Tracing
+   
+   Authors:
+   [Runze Li](/search/?searchtype=author&query=Li%2C+R),
+   [Kedi Chen](/search/?searchtype=author&query=Chen%2C+K),
+   [Guwei Feng](/search/?searchtype=author&query=Feng%2C+G),
+   [Mo Yu](/search/?searchtype=author&query=Yu%2C+M),
+   [Jun Wang](/search/?searchtype=author&query=Wang%2C+J),
+   [Wei Zhang](/search/?searchtype=author&query=Zhang%2C+W)
+   
+   Abstract:
+   Knowledge Tracing (KT) models students' evolving knowledge states to predict future performance, serving as a foundation for…
+   ▽ More
+   
+   Knowledge Tracing (KT) models students' evolving knowledge states to predict future performance, serving as a foundation for personalized education. While traditional deep learning models achieve high accuracy, they often lack interpretability. Large Language Models (LLMs) offer strong reasoning capabilities but struggle with limited context windows and hallucinations. Furthermore, existing LLM-based methods typically require expensive fine-tuning, limiting scalability and adaptability to new data. We propose MERIT (Memory-Enhanced Retrieval for Interpretable Knowledge Tracing), a training-free framework combining frozen LLM reasoning with structured pedagogical memory. Rather than updating parameters, MERIT transforms raw interaction logs into an interpretable memory bank. The framework uses semantic denoising to categorize students into latent cognitive schemas and constructs a paradigm bank where representative error patterns are analyzed offline to generate explicit Chain-of-Thought (CoT) rationales. During inference, a hierarchical routing mechanism retrieves relevant contexts, while a logic-augmented module applies semantic constraints to calibrate predictions. By grounding the LLM in interpretable memory, MERIT achieves state-of-the-art performance on real-world datasets without gradient updates. This approach reduces computational costs and supports dynamic knowledge updates, improving the accessibility and transparency of educational diagnosis.
+   △ Less
+   
+   
+   Submitted 3 March, 2026;
+   originally announced March 2026.
+2. [arXiv:2603.18470](https://arxiv.org/abs/2603.18470)
+    [[pdf](https://arxiv.org/pdf/2603.18470), [ps](https://arxiv.org/ps/2603.18470), [other](https://arxiv.org/format/2603.18470)] 
+   
+   cs.HC
+   
+   CyberJustice Tutor: An Agentic AI Framework for Cybersecurity Learning via Think-Plan-Act Reasoning and Pedagogical Scaffolding
+   
+   Authors:
+   [Baiqiang Wang](/search/?searchtype=author&query=Wang%2C+B),
+   [Yan Bai](/search/?searchtype=author&query=Bai%2C+Y),
+   [Juan Li](/search/?searchtype=author&query=Li%2C+J)
+   
+   Abstract:
+   The integration of Large Language Models (LLMs) into cybersecurity education for criminal justice professionals is currently hindered by the "statelessness" of reactive chatbots and the risk of hallucinations in high-stakes legal contexts. To address these limitations, we propose the CyberJustice Tutor, an…
+   ▽ More
+   
+   The integration of Large Language Models (LLMs) into cybersecurity education for criminal justice professionals is currently hindered by the "statelessness" of reactive chatbots and the risk of hallucinations in high-stakes legal contexts. To address these limitations, we propose the CyberJustice Tutor, an educational dialogue system powered by an Agentic AI framework. Unlike reactive chatbots, our system employs a "Think-Plan-Act" cognitive cycle, enabling autonomous goal decomposition, longitudinal planning, and dynamic context maintenance. We integrate a Pedagogical Scaffolding Layer grounded in Vygotsky's Zone of Proximal Development (ZPD), which dynamically adapts instructional support based on the learner's real-time progress. Furthermore, an Adaptive Retrieval Augmented Generation (RAG) core anchors the agent's reasoning in verified curriculum materials to ensure legal and technical accuracy. A comprehensive user study with 123 participants, including students, educators, and active law enforcement officers, validated the system's efficacy. Quantitative results demonstrate high user acceptance for Response Speed (4.7/5), Ease of Use (4.4/5), and Accuracy (4.3/5). Qualitative feedback indicates that the agentic architecture is perceived as highly effective in guiding learners through personalized paths, demonstrating the feasibility and usability of agentic AI for specialized professional education.
+   △ Less
+   
+   
+   Submitted 19 March, 2026;
+   originally announced March 2026.
+3. [arXiv:2603.03339](https://arxiv.org/abs/2603.03339)
+    [[pdf](https://arxiv.org/pdf/2603.03339)] 
+   
+   cs.CY
+   cs.AR
+   cs.CL
+   cs.HC
+   
+   Offline-First Large Language Model Architecture for AI-Assisted Learning with Adaptive Response Levels in Low-Connectivity Environments
+   
+   Authors:
+   [Joseph Walusimbi](/search/?searchtype=author&query=Walusimbi%2C+J),
+   [Ann Move Oguti](/search/?searchtype=author&query=Oguti%2C+A+M),
+   [Joshua Benjamin Ssentongo](/search/?searchtype=author&query=Ssentongo%2C+J+B),
+   [Keith Ainebyona](/search/?searchtype=author&query=Ainebyona%2C+K)
+   
+   Abstract:
+   Artificial intelligence (AI) and large language models (LLMs) are transforming educational technology by enabling conversational tutoring,…
+   ▽ More
+   
+   Artificial intelligence (AI) and large language models (LLMs) are transforming educational technology by enabling conversational tutoring, personalized explanations, and inquiry-driven learning. However, most AI-based learning systems rely on continuous internet connectivity and cloud-based computation, limiting their use in bandwidth-constrained environments. This paper presents an offline-first large language model architecture designed for AI-assisted learning in low-connectivity settings. The system performs all inference locally using quantized language models and incorporates hardware-aware model selection to enable deployment on low-specification CPU-only devices. By removing dependence on cloud infrastructure, the system provides curriculum-aligned explanations and structured academic support through natural-language interaction. To support learners at different educational stages, the system includes adaptive response levels that generate explanations at varying levels of complexity: Simple English, Lower Secondary, Upper Secondary, and Technical. This allows explanations to be adjusted to student ability, improving clarity and understanding of academic concepts. The system was deployed in selected secondary and tertiary institutions under limited-connectivity conditions and evaluated across technical performance, usability, perceived response quality, and educational impact. Results show stable operation on legacy hardware, acceptable response times, and positive user perceptions regarding support for self-directed learning. These findings demonstrate the feasibility of offline large language model deployment for AI-assisted education in low-connectivity environments.
+   △ Less
+   
+   
+   Submitted 9 March, 2026; v1 submitted 14 February, 2026;
+   originally announced March 2026.
+   
+   Comments:
+   16 pages, 2 table, 10 figures
+4. [arXiv:2602.18470](https://arxiv.org/abs/2602.18470)
+    [[pdf](https://arxiv.org/pdf/2602.18470)] 
+   
+   cs.CY
+   cs.AI
+   
+   doi
+   [10.1007/978-3-032-16871-9\_8](https://doi.org/10.1007/978-3-032-16871-9_8) 
+   
+   
+   Transforming Science Learning Materials in the Era of Artificial Intelligence
+   
+   Authors:
+   [Xiaoming Zhai](/search/?searchtype=author&query=Zhai%2C+X),
+   [Kent Crippen](/search/?searchtype=author&query=Crippen%2C+K)
+   
+   Abstract:
+   The integration of artificial intelligence (AI) into science education is transforming the design and function of…
+   ▽ More
+   
+   The integration of artificial intelligence (AI) into science education is transforming the design and function of learning materials, offering new affordances for personalization, authenticity, and accessibility. This chapter examines how AI technologies are transforming science learning materials across six interrelated domains: 1) integrating AI into scientific practice, 2) enabling adaptive and personalized instruction, 3) facilitating interactive simulations, 4) generating multimodal content, 5) enhancing accessibility for diverse learners, and 6) promoting co-creation through AI-supported content development. These advancements enable learning materials to more accurately reflect contemporary scientific practice, catering to the diverse needs of students. For instance, AI support can enable students to engage in dynamic simulations, interact with real-time data, and explore science concepts through multimodal representations. Educators are increasingly collaborating with generative AI tools to develop timely and culturally responsive instructional resources. However, these innovations also raise critical ethical and pedagogical concerns, including issues of algorithmic bias, data privacy, transparency, and the need for human oversight. To ensure equitable and meaningful science learning, we emphasize the importance of designing AI-supported materials with careful attention to scientific integrity, inclusivity, and student agency. This chapter advocates for a responsible, ethical, and reflective approach to leveraging AI in science education, framing it as a catalyst for innovation while upholding core educational values.
+   △ Less
+   
+   
+   Submitted 24 February, 2026; v1 submitted 8 February, 2026;
+   originally announced February 2026.
+5. [arXiv:2602.17036](https://arxiv.org/abs/2602.17036)
+    [[pdf](https://arxiv.org/pdf/2602.17036), [ps](https://arxiv.org/ps/2602.17036), [other](https://arxiv.org/format/2602.17036)] 
+   
+   cs.IR
+   cs.LG
+   
+   LiveGraph: Active-Structure Neural Re-ranking for Exercise Recommendation
+   
+   Authors:
+   [Rong Fu](/search/?searchtype=author&query=Fu%2C+R),
+   [Zijian Zhang](/search/?searchtype=author&query=Zhang%2C+Z),
+   [Haiyun Wei](/search/?searchtype=author&query=Wei%2C+H),
+   [Jiekai Wu](/search/?searchtype=author&query=Wu%2C+J),
+   [Kun Liu](/search/?searchtype=author&query=Liu%2C+K),
+   [Xianda Li](/search/?searchtype=author&query=Li%2C+X),
+   [Haoyu Zhao](/search/?searchtype=author&query=Zhao%2C+H),
+   [Yang Li](/search/?searchtype=author&query=Li%2C+Y),
+   [Yongtai Liu](/search/?searchtype=author&query=Liu%2C+Y),
+   [Ziming Wang](/search/?searchtype=author&query=Wang%2C+Z),
+   [Rui Lu](/search/?searchtype=author&query=Lu%2C+R),
+   [Simon Fong](/search/?searchtype=author&query=Fong%2C+S)
+   
+   Abstract:
+   The continuous expansion of digital learning environments has catalyzed the demand for intelligent systems capable of providing…
+   ▽ More
+   
+   The continuous expansion of digital learning environments has catalyzed the demand for intelligent systems capable of providing personalized educational content. While current exercise recommendation frameworks have made significant strides, they frequently encounter obstacles regarding the long-tailed distribution of student engagement and the failure to adapt to idiosyncratic learning trajectories. We present LiveGraph, a novel active-structure neural re-ranking framework designed to overcome these limitations. Our approach utilizes a graph-based representation enhancement strategy to bridge the information gap between active and inactive students while integrating a dynamic re-ranking mechanism to foster content diversity. By prioritizing the structural relationships within learning histories, the proposed model effectively balances recommendation precision with pedagogical variety. Comprehensive experimental evaluations conducted on multiple real-world datasets demonstrate that LiveGraph surpasses contemporary baselines in both predictive accuracy and the breadth of exercise diversity.
+   △ Less
+   
+   
+   Submitted 18 February, 2026;
+   originally announced February 2026.
+   
+   Comments:
+   19 pages, 5 figures
+6. [arXiv:2602.16251](https://arxiv.org/abs/2602.16251)
+    [[pdf](https://arxiv.org/pdf/2602.16251), [ps](https://arxiv.org/ps/2602.16251), [other](https://arxiv.org/format/2602.16251)] 
+   
+   cs.HC
+   
+   RelianceScope: An Analytical Framework for Examining Students' Reliance on Generative AI Chatbots in Problem Solving
+   
+   Authors:
+   [Hyoungwook Jin](/search/?searchtype=author&query=Jin%2C+H),
+   [Minju Yoo](/search/?searchtype=author&query=Yoo%2C+M),
+   [Jieun Han](/search/?searchtype=author&query=Han%2C+J),
+   [Zixin Chen](/search/?searchtype=author&query=Chen%2C+Z),
+   [So-Yeon Ahn](/search/?searchtype=author&query=Ahn%2C+S),
+   [Xu Wang](/search/?searchtype=author&query=Wang%2C+X)
+   
+   Abstract:
+   Generative AI chatbots enable personalized problem-solving, but effective…
+   ▽ More
+   
+   Generative AI chatbots enable personalized problem-solving, but effective learning requires students to self-regulate both how they seek help and how they use AI-generated responses. Considering engagement modes across these two actions reveals nuanced reliance patterns: for example, a student may actively engage in help-seeking by clearly specifying areas of need, yet engage passively in response-use by copying AI outputs, or vice versa. However, existing research lacks systematic tools for jointly capturing engagement across help-seeking and response-use, limiting the analysis of such reliance behaviors. We introduce RelianceScope, an analytical framework that characterizes students' reliance on chatbots during problem-solving. RelianceScope (1) operationalizes reliance into nine patterns based on combinations of engagement modes in help-seeking and response-use, and (2) situates these patterns within a knowledge-context lens that accounts for students' prior knowledge and the instructional significance of knowledge components. Rather than prescribing optimal AI use, the framework enables fine-grained analysis of reliance in open-ended student-AI interactions. As an illustrative application, we applied RelianceScope to analyze chat and code-edit logs from 79 college students in a web programming course. Results show that active help-seeking is associated with active response-use, whereas reliance patterns remain similar across knowledge mastery levels. Students often struggled to articulate their knowledge gaps and to adapt AI responses. Using our annotated dataset as a benchmark, we further demonstrate that large language models can reliably detect reliance during help-seeking and response-use. We conclude by discussing the implications of RelianceScope and the design guidelines for AI-supported educational systems.
+   △ Less
+   
+   
+   Submitted 18 February, 2026;
+   originally announced February 2026.
+7. [arXiv:2602.12873](https://arxiv.org/abs/2602.12873)
+    [[pdf](https://arxiv.org/pdf/2602.12873), [ps](https://arxiv.org/ps/2602.12873), [other](https://arxiv.org/format/2602.12873)] 
+   
+   cs.HC
+   cs.AI
+   
+   Knowledge-Based Design Requirements for Generative Social Robots in Higher Education
+   
+   Authors:
+   [Stephan Vonschallen](/search/?searchtype=author&query=Vonschallen%2C+S),
+   [Dominique Oberle](/search/?searchtype=author&query=Oberle%2C+D),
+   [Theresa Schmiedel](/search/?searchtype=author&query=Schmiedel%2C+T),
+   [Friederike Eyssel](/search/?searchtype=author&query=Eyssel%2C+F)
+   
+   Abstract:
+   Generative social robots (GSRs) powered by large language models enable adaptive, conversational tutoring but also introduce risks such as hallucinations, overreliance, and privacy violations. Existing frameworks for…
+   ▽ More
+   
+   Generative social robots (GSRs) powered by large language models enable adaptive, conversational tutoring but also introduce risks such as hallucinations, overreliance, and privacy violations. Existing frameworks for educational technologies and responsible AI primarily define desired behaviors, yet they rarely specify the knowledge prerequisites that enable generative systems to express these behaviors reliably. To address this gap, we adopt a knowledge-based design perspective and investigate what information tutoring-oriented GSRs require to function responsibly and effectively in higher education. Based on twelve semi-structured interviews with university students and lecturers, we identify twelve design requirements across three knowledge types: self-knowledge (assertive, conscientious, and friendly personality with customizable role), user-knowledge (personalized information about student learning goals, learning progress, motivation type, emotional state, and background), and context-knowledge (learning materials, educational strategies, course-related information, and physical learning environment). By identifying these knowledge requirements, this work provides a structured foundation for the design of tutoring GSRs and future evaluations, aligning generative system capabilities with pedagogical and ethical expectations.
+   △ Less
+   
+   
+   Submitted 2 March, 2026; v1 submitted 13 February, 2026;
+   originally announced February 2026.
+8. [arXiv:2602.11650](https://arxiv.org/abs/2602.11650)
+    [[pdf](https://arxiv.org/pdf/2602.11650), [ps](https://arxiv.org/ps/2602.11650), [other](https://arxiv.org/format/2602.11650)] 
+   
+   cs.CL
+   
+   Which Feedback Works for Whom? Differential Effects of LLM-Generated Feedback Elements Across Learner Profiles
+   
+   Authors:
+   [Momoka Furuhashi](/search/?searchtype=author&query=Furuhashi%2C+M),
+   [Kouta Nakayama](/search/?searchtype=author&query=Nakayama%2C+K),
+   [Noboru Kawai](/search/?searchtype=author&query=Kawai%2C+N),
+   [Takashi Kodama](/search/?searchtype=author&query=Kodama%2C+T),
+   [Saku Sugawara](/search/?searchtype=author&query=Sugawara%2C+S),
+   [Kyosuke Takami](/search/?searchtype=author&query=Takami%2C+K)
+   
+   Abstract:
+   Large language models (LLMs) show promise for automatically generating feedback in education settings. However, it remains unclear how specific feedback elements, such as tone and information coverage, contribute to…
+   ▽ More
+   
+   Large language models (LLMs) show promise for automatically generating feedback in education settings. However, it remains unclear how specific feedback elements, such as tone and information coverage, contribute to learning outcomes and learner acceptance, particularly across learners with different personality traits. In this study, we define six feedback elements and generate feedback for multiple-choice biology questions using GPT-5. We conduct a learning experiment with 321 first-year high school students and evaluate feedback effectiveness using two learning outcomes measures and subjective evaluations across six criteria. We further analyze differences in how feedback acceptance varies across learners based on Big Five personality traits. Our results show that effective feedback elements share common patterns supporting learning outcomes, while learners' subjective preferences differ across personality-based clusters. These findings highlight the importance of selecting and adapting feedback elements according to learners' personality traits when we design LLM-generated feedback, and provide practical implications for personalized feedback design in education.
+   △ Less
+   
+   
+   Submitted 12 February, 2026;
+   originally announced February 2026.
+   
+   Comments:
+   Under Review
+9. [arXiv:2602.00799](https://arxiv.org/abs/2602.00799)
+    [[pdf](https://arxiv.org/pdf/2602.00799)] 
+   
+   cs.CY
+   
+   doi
+   [10.13140/RG.2.2.17561.94562](https://doi.org/10.13140/RG.2.2.17561.94562) 
+   
+   
+   A Qualitative Study of IT Students' Skill Development: Comparing Online and Face- to-Face Learning Environments
+   
+   Authors:
+   [Hugo Silva](/search/?searchtype=author&query=Silva%2C+H)
+   
+   Abstract:
+   Each student has specific characteristics and…
+   ▽ More
+   
+   Each student has specific characteristics and learning preferences, that reflect on each type of learning environment, online or face-to-face. Understanding these differences is crucial for educators to create learning environments that can inspire and engage students. This qualitative study explores and tries to better understand, specifically the IT student's experiences and perceived skills development in online and face-to-face learning environments, while trying to address the question: "Regarding online and face-to-face learning environments, in IT, how do students experience and assess their skill development in one learning environment compared to the other?". Using a social constructive paradigm, the purpose of the research is to focus as much as possible on the student's views of the situation and how their perspectives and experiences shape the perception of developed skills. Data was collected through semi-structured interviews by focusing on the student and asking for their personal experience on skill development through online and face-to-face learning environments. The data analysis strategy adopts the grounded theory approach, using a systematic procedure. The results suggest that face-to-face learning may develop a better communication and collaborative skills more effectively while experiencing a synchronous interaction, where online learning may strength in self-regulation and adaptability skills because of the independence and flexibility it provides. This study produces two grounded theories that explain how different IT learning environments influence the development of student's specific skills, that can contribute to pedagogical discussions on optimizing hybrid learning experiences.
+   △ Less
+   
+   
+   Submitted 31 January, 2026;
+   originally announced February 2026.
+10. [arXiv:2602.00070](https://arxiv.org/abs/2602.00070)
+     [[pdf](https://arxiv.org/pdf/2602.00070), [ps](https://arxiv.org/ps/2602.00070), [other](https://arxiv.org/format/2602.00070)] 
+    
+    cs.CY
+    cs.CL
+    cs.LG
+    
+    FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs
+    
+    Authors:
+    [Eamon Worden](/search/?searchtype=author&query=Worden%2C+E),
+    [Cristina Heffernan](/search/?searchtype=author&query=Heffernan%2C+C),
+    [Neil Heffernan](/search/?searchtype=author&query=Heffernan%2C+N),
+    [Shashank Sonkar](/search/?searchtype=author&query=Sonkar%2C+S)
+    
+    Abstract:
+    Can Large Language Models understand how students…
+    ▽ More
+    
+    Can Large Language Models understand how students learn? As LLMs are deployed for adaptive testing and personalized tutoring, this question becomes urgent -- yet we cannot answer it with existing resources. Current educational datasets provide only question identifiers and binary correctness labels, rendering them opaque to LLMs that reason in natural language. We address this gap with FoundationalASSIST, the first English educational dataset providing the complete information needed for research on LLMs in education: full question text, actual student responses (not just right/wrong), records of which wrong answers students chose, and alignment to Common Core K-12 standards. These 1.7 million interactions from 5,000 students enable research directions that were previously impossible to pursue, from fine-tuning student models to analyzing misconception patterns. To demonstrate the dataset's utility, we evaluate four frontier models (GPT-OSS-120B, Llama-3.3-70B, Qwen3-Next-80B variants) on two complementary task families: Knowledge Tracing, testing whether LLMs can predict student performance on questions, and the exact answer a student will give; and \textbf{Pedagogical Grounding}, testing whether LLMs understand the properties that make assessment items effective. Our evaluation reveals significant gaps in current LLM capabilities. Every model barely achieves a trivial baseline on knowledge tracing. All models fall below random chance on item discrimination, indicating that LLMs do not understand what makes one problem more diagnostic than another. Models do show competence at judging relative difficulty (up to 68.6%), but this partial success only highlights the gaps elsewhere. These results establish that substantial advances are needed before LLMs can reliably support personalized learning at scale. We release FoundationalASSIST to support progress on these foundational challenges.
+    △ Less
+    
+    
+    Submitted 20 January, 2026;
+    originally announced February 2026.
+11. [arXiv:2601.21344](https://arxiv.org/abs/2601.21344)
+     [[pdf](https://arxiv.org/pdf/2601.21344), [ps](https://arxiv.org/ps/2601.21344), [other](https://arxiv.org/format/2601.21344)] 
+    
+    cs.AI
+    cs.HC
+    cs.SE
+    
+    doi
+    [10.1109/ABC64332.2025.11118419](https://doi.org/10.1109/ABC64332.2025.11118419) 
+    
+    
+    Dynamic Framework for Collaborative Learning: Leveraging Advanced LLM with Adaptive Feedback Mechanisms
+    
+    Authors:
+    [Hassam Tahir](/search/?searchtype=author&query=Tahir%2C+H),
+    [Faizan Faisal](/search/?searchtype=author&query=Faisal%2C+F),
+    [Fady Alnajjar](/search/?searchtype=author&query=Alnajjar%2C+F),
+    [Muhammad Imran Taj](/search/?searchtype=author&query=Taj%2C+M+I),
+    [Lucia Gordon](/search/?searchtype=author&query=Gordon%2C+L),
+    [Aila Khan](/search/?searchtype=author&query=Khan%2C+A),
+    [Michael Lwin](/search/?searchtype=author&query=Lwin%2C+M),
+    [Omar Mubin](/search/?searchtype=author&query=Mubin%2C+O)
+    
+    Abstract:
+    This paper presents a framework for integrating LLM into collaborative learning platforms to enhance…
+    ▽ More
+    
+    This paper presents a framework for integrating LLM into collaborative learning platforms to enhance student engagement, critical thinking, and inclusivity. The framework employs advanced LLMs as dynamic moderators to facilitate real-time discussions and adapt to learners' evolving needs, ensuring diverse and inclusive educational experiences. Key innovations include robust feedback mechanisms that refine AI moderation, promote reflective learning, and balance participation among users. The system's modular architecture featuring ReactJS for the frontend, Flask for backend operations, and efficient question retrieval supports personalized and engaging interactions through dynamic adjustments to prompts and discussion flows. Testing demonstrates that the framework significantly improves student collaboration, fosters deeper comprehension, and scales effectively across various subjects and user groups. By addressing limitations in static moderation and personalization in existing systems, this work establishes a strong foundation for next-generation AI-driven educational tools, advancing equitable and impactful learning outcomes.
+    △ Less
+    
+    
+    Submitted 29 January, 2026;
+    originally announced January 2026.
+    
+    Comments:
+    Publication Link: https://ieeexplore.ieee.org/document/11118419
+12. [arXiv:2601.15551](https://arxiv.org/abs/2601.15551)
+     [[pdf](https://arxiv.org/pdf/2601.15551), [ps](https://arxiv.org/ps/2601.15551), [other](https://arxiv.org/format/2601.15551)] 
+    
+    cs.AI
+    cs.MA
+    
+    ALIGNAgent: Adaptive Learner Intelligence for Gap Identification and Next-step guidance
+    
+    Authors:
+    [Bismack Tokoli](/search/?searchtype=author&query=Tokoli%2C+B),
+    [Luis Jaimes](/search/?searchtype=author&query=Jaimes%2C+L),
+    [Ayesha S. Dina](/search/?searchtype=author&query=Dina%2C+A+S)
+    
+    Abstract:
+    Personalized…
+    ▽ More
+    
+    Personalized learning systems have emerged as a promising approach to enhance student outcomes by tailoring educational content, pacing, and feedback to individual needs. However, most existing systems remain fragmented, specializing in either knowledge tracing, diagnostic modeling, or resource recommendation, but rarely integrating these components into a cohesive adaptive cycle. In this paper, we propose ALIGNAgent (Adaptive Learner Intelligence for Gap Identification and Next-step guidance), a multi-agent educational framework designed to deliver personalized learning through integrated knowledge estimation, skill-gap identification, and targeted resource recommendation.ALIGNAgent begins by processing student quiz performance, gradebook data, and learner preferences to generate topic-level proficiency estimates using a Skill Gap Agent that employs concept-level diagnostic reasoning to identify specific misconceptions and knowledge deficiencies. After identifying skill gaps, the Recommender Agent retrieves preference-aware learning materials aligned with diagnosed deficiencies, implementing a continuous feedback loop where interventions occur before advancing to subsequent topics. Extensive empirical evaluation on authentic datasets from two undergraduate computer science courses demonstrates ALIGNAgent's effectiveness, with GPT-4o-based agents achieving precision of 0.87-0.90 and F1 scores of 0.84-0.87 in knowledge proficiency estimation validated against actual exam performance.
+    △ Less
+    
+    
+    Submitted 21 January, 2026;
+    originally announced January 2026.
+    
+    Comments:
+    35 pages
+13. [arXiv:2601.09470](https://arxiv.org/abs/2601.09470)
+     [[pdf](https://arxiv.org/pdf/2601.09470), [ps](https://arxiv.org/ps/2601.09470), [other](https://arxiv.org/format/2601.09470)] 
+    
+    physics.ed-ph
+    cs.AI
+    
+    Personalized Multimodal Feedback Using Multiple External Representations: Strategy Profiles and Learning in High School Physics
+    
+    Authors:
+    [Natalia Revenga-Lozano](/search/?searchtype=author&query=Revenga-Lozano%2C+N),
+    [Karina E. Avila](/search/?searchtype=author&query=Avila%2C+K+E),
+    [Steffen Steinert](/search/?searchtype=author&query=Steinert%2C+S),
+    [Matthias Schweinberger](/search/?searchtype=author&query=Schweinberger%2C+M),
+    [Clara E. Gómez-Pérez](/search/?searchtype=author&query=G%C3%B3mez-P%C3%A9rez%2C+C+E),
+    [Jochen Kuhn](/search/?searchtype=author&query=Kuhn%2C+J),
+    [Stefan Küchemann](/search/?searchtype=author&query=K%C3%BCchemann%2C+S)
+    
+    Abstract:
+    Multiple external representations (MERs) and personalized feedback support physics…
+    ▽ More
+    
+    Multiple external representations (MERs) and personalized feedback support physics learning, yet evidence on how personalized feedback can effectively integrate MERs remains limited. This question is particularly timely given the emergence of multimodal large language models. We conducted a 16-24 week observational study in high school physics (N=661) using a computer-based platform that provided verification and optional elaborated feedback in verbal, graphical and mathematical forms. Linear mixed-effects models and strategy-cluster analyses (ANCOVA-adjusted comparisons) tested associations between feedback use and post-test performance and moderation by representational competence. Elaborated multirepresentational feedback showed a small but consistent positive association with post-test scores independent of prior knowledge and confidence. Learners adopted distinct representation-selection strategies; among students with lower representational competence, using a diverse set of representations related to higher learning, whereas this advantage diminished as competence increased. These findings motivate adaptive feedback designs and inform intelligent tutoring systems capable of tailoring feedback elaboration and representational format to learner profiles, advancing personalized instruction in physics education.
+    △ Less
+    
+    
+    Submitted 14 January, 2026;
+    originally announced January 2026.
+    
+    Comments:
+    Keywords: Adaptive Feedback, Multimodal Learning, Multiple External Representations, Physics Education, Science Education, Representational Competences, Intelligent Tutoring Systems
+    
+    MSC Class:
+    62J05; 62J10
+    ACM Class:
+    K.3.1; H.5.2; H.1.2
+14. [arXiv:2601.06098](https://arxiv.org/abs/2601.06098)
+     [[pdf](https://arxiv.org/pdf/2601.06098)] 
+    
+    cs.AI
+    
+    Automatic Question Generation for Intuitive Learning Utilizing Causal Graph Guided Chain of Thought Reasoning
+    
+    Authors:
+    [Nicholas X. Wang](/search/?searchtype=author&query=Wang%2C+N+X),
+    [Neel V. Parpia](/search/?searchtype=author&query=Parpia%2C+N+V),
+    [Aaryan D. Parikh](/search/?searchtype=author&query=Parikh%2C+A+D),
+    [Aggelos K. Katsaggelos](/search/?searchtype=author&query=Katsaggelos%2C+A+K)
+    
+    Abstract:
+    Intuitive learning is crucial for developing deep conceptual understanding, especially in STEM…
+    ▽ More
+    
+    Intuitive learning is crucial for developing deep conceptual understanding, especially in STEM education, where students often struggle with abstract and interconnected concepts. Automatic question generation has become an effective strategy for personalized and adaptive learning. However, its effectiveness is hindered by hallucinations in large language models (LLMs), which may generate factually incorrect, ambiguous, or pedagogically inconsistent questions. To address this issue, we propose a novel framework that combines causal-graph-guided Chain-of-Thought (CoT) reasoning with a multi-agent LLM architecture. This approach ensures the generation of accurate, meaningful, and curriculum-aligned questions. Causal graphs provide an explicit representation of domain knowledge, while CoT reasoning facilitates a structured, step-by-step traversal of related concepts. Dedicated LLM agents are assigned specific tasks such as graph pathfinding, reasoning, validation, and output, all working within domain constraints. A dual validation mechanism-at both the conceptual and output stages-greatly reduces hallucinations. Experimental results demonstrate up to a 70% improvement in quality compared to reference methods and yielded highly favorable outcomes in subjective evaluations.
+    △ Less
+    
+    
+    Submitted 2 January, 2026;
+    originally announced January 2026.
+15. [arXiv:2601.03364](https://arxiv.org/abs/2601.03364)
+     [[pdf](https://arxiv.org/pdf/2601.03364), [ps](https://arxiv.org/ps/2601.03364), [other](https://arxiv.org/format/2601.03364)] 
+    
+    cs.SE
+    
+    The Anatomy of a Successful Student Scrum Team: Motivation, Personalities, and Academic Adaptation
+    
+    Authors:
+    [Nadia Damianova](/search/?searchtype=author&query=Damianova%2C+N),
+    [Santiago Berrezueta-Guzman](/search/?searchtype=author&query=Berrezueta-Guzman%2C+S)
+    
+    Abstract:
+    Agile methods, and Scrum in particular, are widely taught in software engineering education; however, there is limited empirical evidence on how these practices function in long-running,…
+    ▽ More
+    
+    Agile methods, and Scrum in particular, are widely taught in software engineering education; however, there is limited empirical evidence on how these practices function in long-running, student-led projects under academic and hybrid work constraints. This paper presents a year-long case study of an eight-person student development team tasked with designing and implementing a virtual reality game that simulates a university campus and provides program-related educational content. We analyze how the team adapted Scrum practices (sprint structure, roles, backlog management) to fit semester rhythms, exams, travel, and part-time availability, and how communication and coordination were maintained in a hybrid on-site/remote environment. Using qualitative observations and artifacts from Discord, Notion, and GitHub, as well as contribution metrics and a custom communication effectiveness index (score: 0.76/1.00), we evaluate three dimensions: (1) the effectiveness of collaboration tools, (2) the impact of hybrid work on communication and productivity, and (3) the feasibility of aligning Scrum with academic timelines. Our findings show that (i) lightweight, tool-mediated coordination enabled stable progress even during remote periods; (ii) one-week sprints and flexible ceremonies helped reconcile Scrum with academic obligations; and (iii) shared motivation, role clarity, and compatible working styles were as critical as process mechanics. We propose practical recommendations for instructors and student teams adopting agile methods in hybrid, project-based learning settings.
+    △ Less
+    
+    
+    Submitted 6 January, 2026;
+    originally announced January 2026.
+    
+    Comments:
+    Preprint submitted to Elsevier
+16. [arXiv:2512.21552](https://arxiv.org/abs/2512.21552)
+     [[pdf](https://arxiv.org/pdf/2512.21552), [ps](https://arxiv.org/ps/2512.21552), [other](https://arxiv.org/format/2512.21552)] 
+    
+    cs.CY
+    cs.AI
+    cs.HC
+    
+    Bidirectional Human-AI Alignment in Education for Trustworthy Learning Environments
+    
+    Authors:
+    [Hua Shen](/search/?searchtype=author&query=Shen%2C+H)
+    
+    Abstract:
+    Artificial intelligence (AI) is transforming education, offering unprecedented opportunities to…
+    ▽ More
+    
+    Artificial intelligence (AI) is transforming education, offering unprecedented opportunities to personalize learning, enhance assessment, and support educators. Yet these opportunities also introduce risks related to equity, privacy, and student autonomy. This chapter develops the concept of bidirectional human-AI alignment in education, emphasizing that trustworthy learning environments arise not only from embedding human values into AI systems but also from equipping teachers, students, and institutions with the skills to interpret, critique, and guide these technologies. Drawing on emerging research and practical case examples, we explore AI's evolution from support tool to collaborative partner, highlighting its impacts on teacher roles, student agency, and institutional governance. We propose actionable strategies for policymakers, developers, and educators to ensure that AI advances equity, transparency, and human flourishing rather than eroding them. By reframing AI adoption as an ongoing process of mutual adaptation, the chapter envisions a future in which humans and intelligent systems learn, innovate, and grow together.
+    △ Less
+    
+    
+    Submitted 25 December, 2025;
+    originally announced December 2025.
+    
+    Comments:
+    Book Chapter
+17. [arXiv:2512.05994](https://arxiv.org/abs/2512.05994)
+     [[pdf](https://arxiv.org/pdf/2512.05994), [ps](https://arxiv.org/ps/2512.05994), [other](https://arxiv.org/format/2512.05994)] 
+    
+    eess.AS
+    cs.AI
+    cs.CL
+    cs.SD
+    
+    KidSpeak: A General Multi-purpose LLM for Kids' Speech Recognition and Screening
+    
+    Authors:
+    [Rohan Sharma](/search/?searchtype=author&query=Sharma%2C+R),
+    [Dancheng Liu](/search/?searchtype=author&query=Liu%2C+D),
+    [Jingchen Sun](/search/?searchtype=author&query=Sun%2C+J),
+    [Shijie Zhou](/search/?searchtype=author&query=Zhou%2C+S),
+    [Jiayu Qin](/search/?searchtype=author&query=Qin%2C+J),
+    [Jinjun Xiong](/search/?searchtype=author&query=Xiong%2C+J),
+    [Changyou Chen](/search/?searchtype=author&query=Chen%2C+C)
+    
+    Abstract:
+    With the rapid advancement of conversational and diffusion-based AI, there is a growing adoption of AI in educational services, ranging from grading and assessment tools to…
+    ▽ More
+    
+    With the rapid advancement of conversational and diffusion-based AI, there is a growing adoption of AI in educational services, ranging from grading and assessment tools to personalized learning systems that provide targeted support for students. However, this adaptability has yet to fully extend to the domain of children's speech, where existing models often fail due to their reliance on datasets designed for clear, articulate adult speech. Children, particularly those in early developmental stages or with speech and language pathologies, present unique challenges that current AI models and datasets are ill-equipped to handle. To address this, we introduce KidSpeak, a multi-task speech-enhanced Foundation Model capable of both generative and discriminative tasks specifically tailored to children's speech patterns. Our framework employs a two-stage training process that incorporates phonetic knowledge into the speech encoder, achieving an average accuracy of 87% across four separate tasks. Furthermore, recognizing the limitations of scalable human annotation and existing speech alignment tools, we propose the Flexible and Automatic Speech Aligner (FASA) and leverage the method to construct high quality datasets for training and evaluation. This novel alignment tool significantly improves the quality of aligned children's speech from noisy data, enhancing data quality by 13.6x compared to human annotations, as demonstrated on the CHILDES dataset. To the best of our knowledge, KidSpeak and FASA represent the first comprehensive solution designed for speech and language therapy in children, offering both a multi-purpose speech LLM and a robust alignment tool.
+    △ Less
+    
+    
+    Submitted 30 November, 2025;
+    originally announced December 2025.
+18. [arXiv:2512.05671](https://arxiv.org/abs/2512.05671)
+     [[pdf](https://arxiv.org/pdf/2512.05671), [ps](https://arxiv.org/ps/2512.05671), [other](https://arxiv.org/format/2512.05671)] 
+    
+    cs.CL
+    
+    MedTutor-R1: Socratic Personalized Medical Teaching with Multi-Agent Simulation
+    
+    Authors:
+    [Zhitao He](/search/?searchtype=author&query=He%2C+Z),
+    [Haolin Yang](/search/?searchtype=author&query=Yang%2C+H),
+    [Zeyu Qin](/search/?searchtype=author&query=Qin%2C+Z),
+    [Yi R Fung](/search/?searchtype=author&query=Fung%2C+Y+R)
+    
+    Abstract:
+    The significant gap between rising demands for clinical training and the scarcity of expert instruction poses a major challenge to medical education. With powerful capabilities in…
+    ▽ More
+    
+    The significant gap between rising demands for clinical training and the scarcity of expert instruction poses a major challenge to medical education. With powerful capabilities in personalized guidance, Large Language Models (LLMs) offer a promising solution to bridge this gap. However, current research focuses mainly on one-on-one knowledge instruction, overlooking collaborative reasoning, a key skill for students developed in teamwork like ward rounds. To this end, we develop ClinEdu, a multi-agent pedagogical simulator with personality-driven patients and diverse student cohorts, enabling controlled testing of complex pedagogical processes and scalable generation of teaching data. Based on ClinEdu, we construct ClinTeach, a large Socratic teaching dialogue dataset that captures the complexities of group instruction. We then train MedTutor-R1, the first multimodal Socratic tutor designed for one-to-many instruction in clinical medical education. MedTutor-R1 is first instruction-tuned on our ClinTeach dataset and then optimized with reinforcement learning, using rewards derived from a three-axis rubric, covering structural fidelity, analytical quality, and clinical safety, to refine its adaptive Socratic strategies. For authentic in-situ assessment, we use simulation-based interactive evaluation that redeploys the tutor back into ClinEdu. Experimental results demonstrate that our MedTutor-R1 outperforms the base model by over 20% in average pedagogical score and is comparable to o3, while also exhibiting high adaptability in handling a varying number of students. This promising performance underscores the effectiveness of our pedagogical simulator, ClinEdu.
+    △ Less
+    
+    
+    Submitted 5 December, 2025;
+    originally announced December 2025.
+    
+    Comments:
+    Work In Progress
+19. [arXiv:2511.11035](https://arxiv.org/abs/2511.11035)
+     [[pdf](https://arxiv.org/pdf/2511.11035), [ps](https://arxiv.org/ps/2511.11035), [other](https://arxiv.org/format/2511.11035)] 
+    
+    cs.MA
+    
+    GraphMASAL: A Graph-based Multi-Agent System for Adaptive Learning
+    
+    Authors:
+    [Biqing Zeng](/search/?searchtype=author&query=Zeng%2C+B),
+    [Mengquan Liu](/search/?searchtype=author&query=Liu%2C+M),
+    [Zongwei Zhen](/search/?searchtype=author&query=Zhen%2C+Z)
+    
+    Abstract:
+    The advent of Intelligent Tutoring Systems (ITSs) has marked a paradigm shift in education, enabling highly…
+    ▽ More
+    
+    The advent of Intelligent Tutoring Systems (ITSs) has marked a paradigm shift in education, enabling highly personalized learning pathways. However, true personalization requires adapting to learners' complex knowledge states (multi-source) and diverse goals (multi-sink); existing ITSs often lack the necessary structural-reasoning capability and knowledge dynamism to generate genuinely effective learning paths, and they lack scientifically rigorous validation paradigms. In this paper we propose GraphMASAL (A Graph-based Multi-Agent System for Adaptive Learning), which integrates (i) a dynamic knowledge graph for persistent, stateful learner modeling; (ii) a LangGraph-orchestrated trio of agents (Diagnostician, Planner, Tutor); (iii) a knowledge-graph-grounded two-stage neural IR component (dual-encoder dense retrieval with cross-encoder listwise re-ranking and calibrated score fusion); and (iv) a multi-source multi-sink (MSMS) planning engine with a cognitively grounded cost and an approximation guarantee via greedy set cover. Under blinded automated evaluations with matched inputs and inference settings across diverse student profiles, GraphMASAL consistently outperforms LLM prompting and structured ablations in planning--achieving stronger structural/sequence alignment of learning paths, higher coverage of weak concepts, and lower learning cost--while also surpassing prompt-based baselines in cognitive diagnosis. Agreement with expert/LLM-proxy ratings further supports the validity of our evaluation protocol. These findings indicate that grounding LLM agents in a dynamic knowledge graph, coupled with optimization under educational constraints, yields reliable, interpretable, and pedagogically plausible learning plans, advancing personalized and goal-oriented education.
+    △ Less
+    
+    
+    Submitted 14 November, 2025;
+    originally announced November 2025.
+    
+    Comments:
+    9 pages, 3 figures,submitted to AAMAS 2026
+20. [arXiv:2511.06362](https://arxiv.org/abs/2511.06362)
+     [[pdf](https://arxiv.org/pdf/2511.06362), [ps](https://arxiv.org/ps/2511.06362), [other](https://arxiv.org/format/2511.06362)] 
+    
+    cs.SE
+    cs.AI
+    cs.CY
+    
+    doi
+    [10.1145/3770762.3772544](https://doi.org/10.1145/3770762.3772544) 
+    
+    
+    Understanding Student Interaction with AI-Powered Next-Step Hints: Strategies and Challenges
+    
+    Authors:
+    [Anastasiia Birillo](/search/?searchtype=author&query=Birillo%2C+A),
+    [Aleksei Rostovskii](/search/?searchtype=author&query=Rostovskii%2C+A),
+    [Yaroslav Golubev](/search/?searchtype=author&query=Golubev%2C+Y),
+    [Hieke Keuning](/search/?searchtype=author&query=Keuning%2C+H)
+    
+    Abstract:
+    Automated feedback generation plays a crucial role in enhancing personalized…
+    ▽ More
+    
+    Automated feedback generation plays a crucial role in enhancing personalized learning experiences in computer science education. Among different types of feedback, next-step hint feedback is particularly important, as it provides students with actionable steps to progress towards solving programming tasks. This study investigates how students interact with an AI-driven next-step hint system in an in-IDE learning environment. We gathered and analyzed a dataset from 34 students solving Kotlin tasks, containing detailed hint interaction logs. We applied process mining techniques and identified 16 common interaction scenarios. Semi-structured interviews with 6 students revealed strategies for managing unhelpful hints, such as adapting partial hints or modifying code to generate variations of the same hint. These findings, combined with our publicly available dataset, offer valuable opportunities for future research and provide key insights into student behavior, helping improve hint design for enhanced learning support.
+    △ Less
+    
+    
+    Submitted 9 November, 2025;
+    originally announced November 2025.
+    
+    Comments:
+    Accepted to SIGCSE'26. 7 pages, 3 figures
+21. [arXiv:2510.26999](https://arxiv.org/abs/2510.26999)
+     [[pdf](https://arxiv.org/pdf/2510.26999), [ps](https://arxiv.org/ps/2510.26999), [other](https://arxiv.org/format/2510.26999)] 
+    
+    cs.HC
+    cs.AI
+    
+    AIOT based Smart Education System: A Dual Layer Authentication and Context-Aware Tutoring Framework for Learning Environments
+    
+    Authors:
+    [Adithya Neelakantan](/search/?searchtype=author&query=Neelakantan%2C+A),
+    [Pratik Satpute](/search/?searchtype=author&query=Satpute%2C+P),
+    [Prerna Shinde](/search/?searchtype=author&query=Shinde%2C+P),
+    [Tejas Manjunatha Devang](/search/?searchtype=author&query=Devang%2C+T+M)
+    
+    Abstract:
+    The AIoT-Based Smart Education System integrates Artificial Intelligence and IoT to address persistent challenges in contemporary classrooms: attendance fraud, lack of…
+    ▽ More
+    
+    The AIoT-Based Smart Education System integrates Artificial Intelligence and IoT to address persistent challenges in contemporary classrooms: attendance fraud, lack of personalization, student disengagement, and inefficient resource use. The unified platform combines four core modules: (1) a dual-factor authentication system leveraging RFID-based ID scans and WiFi verification for secure, fraud-resistant attendance; (2) an AI-powered assistant that provides real-time, context-aware support and dynamic quiz generation based on instructor-supplied materials; (3) automated test generators to streamline adaptive assessment and reduce administrative overhead; and (4) the EcoSmart Campus module, which autonomously regulates classroom lighting, air quality, and temperature using IoT sensors and actuators. Simulated evaluations demonstrate the system's effectiveness in delivering robust real-time monitoring, fostering inclusive engagement, preventing fraudulent practices, and supporting operational scalability. Collectively, the AIoT-Based Smart Education System offers a secure, adaptive, and efficient learning environment, providing a scalable blueprint for future educational innovation and improved student outcomes through the synergistic application of artificial intelligence and IoT technologies.
+    △ Less
+    
+    
+    Submitted 30 October, 2025;
+    originally announced October 2025.
+22. [arXiv:2510.22559](https://arxiv.org/abs/2510.22559)
+     [[pdf](https://arxiv.org/pdf/2510.22559), [ps](https://arxiv.org/ps/2510.22559), [other](https://arxiv.org/format/2510.22559)] 
+    
+    cs.CL
+    
+    A Closed-Loop Personalized Learning Agent Integrating Neural Cognitive Diagnosis, Bounded-Ability Adaptive Testing, and LLM-Driven Feedback
+    
+    Authors:
+    [Zhifeng Wang](/search/?searchtype=author&query=Wang%2C+Z),
+    [Xinyue Zheng](/search/?searchtype=author&query=Zheng%2C+X),
+    [Chunyan Zeng](/search/?searchtype=author&query=Zeng%2C+C)
+    
+    Abstract:
+    As information technology advances, education is moving from one-size-fits-all instruction toward…
+    ▽ More
+    
+    As information technology advances, education is moving from one-size-fits-all instruction toward personalized learning. However, most methods handle modeling, item selection, and feedback in isolation rather than as a closed loop. This leads to coarse or opaque student models, assumption-bound adaptivity that ignores diagnostic posteriors, and generic, non-actionable feedback. To address these limitations, this paper presents an end-to-end personalized learning agent, EduLoop-Agent, which integrates a Neural Cognitive Diagnosis model (NCD), a Bounded-Ability Estimation Computerized Adaptive Testing strategy (BECAT), and large language models (LLMs). The NCD module provides fine-grained estimates of students' mastery at the knowledge-point level; BECAT dynamically selects subsequent items to maximize relevance and learning efficiency; and LLMs convert diagnostic signals into structured, actionable feedback. Together, these components form a closed-loop framework of ``Diagnosis--Recommendation--Feedback.'' Experiments on the ASSISTments dataset show that the NCD module achieves strong performance on response prediction while yielding interpretable mastery assessments. The adaptive recommendation strategy improves item relevance and personalization, and the LLM-based feedback offers targeted study guidance aligned with identified weaknesses. Overall, the results indicate that the proposed design is effective and practically deployable, providing a feasible pathway to generating individualized learning trajectories in intelligent education.
+    △ Less
+    
+    
+    Submitted 26 October, 2025;
+    originally announced October 2025.
+    
+    Comments:
+    8 pages, 6 figures
+23. [arXiv:2510.19196](https://arxiv.org/abs/2510.19196)
+     [[pdf](https://arxiv.org/pdf/2510.19196)] 
+    
+    cs.CY
+    
+    Integration of AI in STEM Education, Addressing Ethical Challenges in K-12 Settings
+    
+    Authors:
+    [Shaouna Shoaib Lodhi](/search/?searchtype=author&query=Lodhi%2C+S+S),
+    [Shoaib Lodhi](/search/?searchtype=author&query=Lodhi%2C+S)
+    
+    Abstract:
+    The rapid integration of Artificial Intelligence (AI) into K-12 STEM education presents transformative opportunities alongside significant ethical challenges. While AI-powered tools such as Intelligent Tutoring Systems (ITS), automated assessments, and predictive analytics enhance…
+    ▽ More
+    
+    The rapid integration of Artificial Intelligence (AI) into K-12 STEM education presents transformative opportunities alongside significant ethical challenges. While AI-powered tools such as Intelligent Tutoring Systems (ITS), automated assessments, and predictive analytics enhance personalized learning and operational efficiency, they also risk perpetuating algorithmic bias, eroding student privacy, and exacerbating educational inequities. This paper examines the dual-edged impact of AI in STEM classrooms, analyzing its benefits (e.g., adaptive learning, real-time feedback) and drawbacks (e.g., surveillance risks, pedagogical limitations) through an ethical lens. We identify critical gaps in current AI education research, particularly the lack of subject-specific frameworks for responsible integration and propose a three-phased implementation roadmap paired with a tiered professional development model for educators. Our framework emphasizes equity-centered design, combining technical AI literacy with ethical reasoning to foster critical engagement among students. Key recommendations include mandatory bias audits, low-resource adaptation strategies, and policy alignment to ensure AI serves as a tool for inclusive, human-centered STEM education. By bridging theory and practice, this work advances a research-backed approach to AI integration that prioritizes pedagogical integrity, equity, and student agency in an increasingly algorithmic world. Keywords: Artificial Intelligence, STEM education, algorithmic bias, ethical AI, K-12 pedagogy, equity in education
+    △ Less
+    
+    
+    Submitted 21 October, 2025;
+    originally announced October 2025.
+    
+    Comments:
+    This paper pursues three goals: (1) analyzing ethical challenges in AI-driven STEM education, (2) evaluating AI and ethics curricula for STEM relevance, and (3) proposing a research-based framework for responsible integration that bridges teacher readiness gaps and promotes equity through STEM-focused strategies
+24. [arXiv:2510.15936](https://arxiv.org/abs/2510.15936)
+     [[pdf](https://arxiv.org/pdf/2510.15936)] 
+    
+    cs.CY
+    cs.HC
+    
+    Large Language Models in Architecture Studio: A Framework for Learning Outcomes
+    
+    Authors:
+    [Juan David Salazar Rodriguez](/search/?searchtype=author&query=Rodriguez%2C+J+D+S),
+    [Sam Conrad Joyce](/search/?searchtype=author&query=Joyce%2C+S+C),
+    [Nachamma Sockalingam](/search/?searchtype=author&query=Sockalingam%2C+N),
+    [Khoo Eng Tat](/search/?searchtype=author&query=Tat%2C+K+E),
+     [Julfendi](/search/?searchtype=author&query=Julfendi)
+    
+    Abstract:
+    The study explores the role of large language models (LLMs) in the context of the architectural design studio, understood as the pedagogical core of architectural education. Traditionally, the studio has functioned as an experiential…
+    ▽ More
+    
+    The study explores the role of large language models (LLMs) in the context of the architectural design studio, understood as the pedagogical core of architectural education. Traditionally, the studio has functioned as an experiential learning space where students tackle design problems through reflective practice, peer critique, and faculty guidance. However, the integration of artificial intelligence (AI) in this environment has been largely focused on form generation, automation, and representation-al efficiency, neglecting its potential as a pedagogical tool to strengthen student autonomy, collaboration, and self-reflection. The objectives of this research were: (1) to identify pedagogical challenges in self-directed, peer-to-peer, and teacher-guided learning processes in architecture studies; (2) to propose AI interventions, particularly through LLM, that contribute to overcoming these challenges; and (3) to align these interventions with measurable learning outcomes using Bloom's taxonomy. The findings show that the main challenges include managing student autonomy, tensions in peer feedback, and the difficulty of balancing the transmission of technical knowledge with the stimulation of creativity in teaching. In response to this, LLMs are emerging as complementary agents capable of generating personalized feedback, organizing collaborative interactions, and offering adaptive cognitive scaffolding. Furthermore, their implementation can be linked to the cognitive levels of Bloom's taxonomy: facilitating the recall and understanding of architectural concepts, supporting application and analysis through interactive case studies, and encouraging synthesis and evaluation through hypothetical design scenarios.
+    △ Less
+    
+    
+    Submitted 22 October, 2025; v1 submitted 7 October, 2025;
+    originally announced October 2025.
+25. [arXiv:2510.11755](https://arxiv.org/abs/2510.11755)
+     [[pdf](https://arxiv.org/pdf/2510.11755), [ps](https://arxiv.org/ps/2510.11755), [other](https://arxiv.org/format/2510.11755)] 
+    
+    cs.CY
+    cs.AI
+    
+    Artificial Intelligence for Optimal Learning: A Comparative Approach towards AI-Enhanced Learning Environments
+    
+    Authors:
+    [Ananth Hariharan](/search/?searchtype=author&query=Hariharan%2C+A)
+    
+    Abstract:
+    In the rapidly evolving educational landscape, the integration of technology has shifted from an enhancement to a cornerstone of…
+    ▽ More
+    
+    In the rapidly evolving educational landscape, the integration of technology has shifted from an enhancement to a cornerstone of educational strategy worldwide. This transition is propelled by advancements in digital technology, especially the emergence of artificial intelligence as a crucial tool in learning environments. This research project critically evaluates the impact of three distinct educational settings: traditional educational methods without technological integration, those enhanced by non-AI technology, and those utilising AI-driven technologies. This comparison aims to assess how each environment influences educational outcomes, engagement, pedagogical methods, and equity in access to learning resources, and how each contributes uniquely to the learning experience. The ultimate goal of this research is to synthesise the strengths of each model to create a more holistic educational approach. By integrating the personal interaction and tested pedagogical techniques of traditional classrooms, the enhanced accessibility and collaborative tools offered by non-AI technology, and the personalised, adaptive learning strategies enabled by AI-driven technologies, education systems can develop richer, more effective learning environments. This hybrid approach aims to leverage the best elements of each setting, thereby enhancing educational outcomes, engagement, and inclusiveness, while also addressing the distinct challenges and limitations inherent in each model. The intention is to create an educational framework deeply attentive to the diverse needs of students, ensuring equitable access to high-quality education for all.
+    △ Less
+    
+    
+    Submitted 12 October, 2025;
+    originally announced October 2025.
+26. [arXiv:2510.10520](https://arxiv.org/abs/2510.10520)
+     [[pdf](https://arxiv.org/pdf/2510.10520), [ps](https://arxiv.org/ps/2510.10520), [other](https://arxiv.org/format/2510.10520)] 
+    
+    cs.CY
+    cs.RO
+    
+    AI-Agents for Culturally Diverse Online Higher Education Environments
+    
+    Authors:
+    [Fuze Sun](/search/?searchtype=author&query=Sun%2C+F),
+    [Paul Craig](/search/?searchtype=author&query=Craig%2C+P),
+    [Lingyu Li](/search/?searchtype=author&query=Li%2C+L),
+    [Shixiangyue Meng](/search/?searchtype=author&query=Meng%2C+S),
+    [Chuxi Nan](/search/?searchtype=author&query=Nan%2C+C)
+    
+    Abstract:
+    As the global reach of online higher education continues to grow, universities are increasingly accommodating…
+    ▽ More
+    
+    As the global reach of online higher education continues to grow, universities are increasingly accommodating students from diverse cultural backgrounds (Tereshko et al., 2024). This can present a number of challenges including linguistic barriers (Ullah et al., 2021), cultural differences in learning style (Omidvar & Tan, 2012), cultural sensitivity in course design (Nguyen, 2022) and perceived isolation when students feel their perspectives or experiences are not reflected or valued in the learning environment (Hansen-Brown et al., 2022). Ensuring active engagement and reasonable learning outcomes in such a environments requires distance educational systems that are not only adaptive but also culturally resonant (Dalle et al., 2024). Both embodied and virtual AI-Agents have great potential in this regard as they can facilitate personalized learning and adapt their interactions and content delivery to align with students' cultural context. In addition, Generative AI (GAI), such as, Large Language Models (LLMs) can amplify the potential for these culturally aware AI agents to address educational challenges due to their advanced capacity for understanding and generating contextually relevant content (Wang et al., 2024). This chapter reviews existing research and suggests the usage of culturally aware AI-Agents, powered by GAI, to foster engagement and improve learning outcomes in culturally diverse online higher education environments.
+    △ Less
+    
+    
+    Submitted 15 October, 2025; v1 submitted 12 October, 2025;
+    originally announced October 2025.
+27. [arXiv:2510.07456](https://arxiv.org/abs/2510.07456)
+     [[pdf](https://arxiv.org/pdf/2510.07456), [ps](https://arxiv.org/ps/2510.07456), [other](https://arxiv.org/format/2510.07456)] 
+    
+    cs.AI
+    
+    ExpertAgent: Enhancing Personalized Education through Dynamic Planning and Retrieval-Augmented Long-Chain Reasoning
+    
+    Authors:
+    [Binrong Zhu](/search/?searchtype=author&query=Zhu%2C+B),
+    [Guiran Liu](/search/?searchtype=author&query=Liu%2C+G),
+    [Nina Jiang](/search/?searchtype=author&query=Jiang%2C+N)
+    
+    Abstract:
+    The application of advanced generative artificial intelligence in education is often constrained by the lack of real-time…
+    ▽ More
+    
+    The application of advanced generative artificial intelligence in education is often constrained by the lack of real-time adaptability, personalization, and reliability of the content. To address these challenges, we propose ExpertAgent - an intelligent agent framework designed for personalized education that provides reliable knowledge and enables highly adaptive learning experiences. Therefore, we developed ExpertAgent, an innovative learning agent that provides users with a proactive and personalized learning experience. ExpertAgent dynamic planning of the learning content and strategy based on a continuously updated student model. Therefore, overcoming the limitations of traditional static learning content to provide optimized teaching strategies and learning experience in real time. All instructional content is grounded in a validated curriculum repository, effectively reducing hallucination risks in large language models and improving reliability and trustworthiness.
+    △ Less
+    
+    
+    Submitted 8 October, 2025;
+    originally announced October 2025.
+    
+    Comments:
+    Manuscript previously submitted to the NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models (LAW 2025)
+28. [arXiv:2510.01275](https://arxiv.org/abs/2510.01275)
+     [[pdf](https://arxiv.org/pdf/2510.01275), [ps](https://arxiv.org/ps/2510.01275), [other](https://arxiv.org/format/2510.01275)] 
+    
+    cs.CY
+    
+    Discovering Self-Regulated Learning Patterns in Chatbot-Powered Education Environment
+    
+    Authors:
+    [Yilin Lyu](/search/?searchtype=author&query=Lyu%2C+Y),
+    [Ren Ding](/search/?searchtype=author&query=Ding%2C+R)
+    
+    Abstract:
+    The increasing adoption of generative AI (GenAI) tools such as chatbots in education presents new opportunities to support…
+    ▽ More
+    
+    The increasing adoption of generative AI (GenAI) tools such as chatbots in education presents new opportunities to support students' self-regulated learning (SRL), but also raises concerns about how learners actually engage in planning, executing, and reflection when learning with a chatbot. While SRL is typically conceptualized as a sequential process, little is known about how it unfolds during real-world student-chatbot interactions. To explore this, we proposed Gen-SRL, an annotation schema to categorize student prompts into 16 microlevel actions across 4 macrolevel phases. Using the proposed schema, we annotated 212 chatbot interactions from a real-world English writing task. We then performed frequency analysis and process mining (PM) techniques to discover SRL patterns in depth. Our results revealed that students' SRL behaviours were imbalanced, with over 82% of actions focused on task execution and limited engagement in planning and reflection. In addition, the process analysis showed nonsequential regulation patterns. Our findings suggest that classical SRL theories cannot fully capture the dynamic SRL patterns that emerge during chatbot interactions. Furthermore, we highlight the importance of designing adaptive and personalized scaffolds that respond to students' dynamic behaviours in chatbot-powered contexts. More importantly, this study offers a new perspective for advancing SRL research and suggests directions for developing chatbots that better support self-regulation.
+    △ Less
+    
+    
+    Submitted 29 September, 2025;
+    originally announced October 2025.
+29. [arXiv:2509.25529](https://arxiv.org/abs/2509.25529)
+     [[pdf](https://arxiv.org/pdf/2509.25529)] 
+    
+    cs.CY
+    cs.LG
+    
+    Personalized Auto-Grading and Feedback System for Constructive Geometry Tasks Using Large Language Models on an Online Math Platform
+    
+    Authors:
+    [Yong Oh Lee](/search/?searchtype=author&query=Lee%2C+Y+O),
+    [Byeonghun Bang](/search/?searchtype=author&query=Bang%2C+B),
+    [Joohyun Lee](/search/?searchtype=author&query=Lee%2C+J),
+    [Sejun Oh](/search/?searchtype=author&query=Oh%2C+S)
+    
+    Abstract:
+    As personalized…
+    ▽ More
+    
+    As personalized learning gains increasing attention in mathematics education, there is a growing demand for intelligent systems that can assess complex student responses and provide individualized feedback in real time. In this study, we present a personalized auto-grading and feedback system for constructive geometry tasks, developed using large language models (LLMs) and deployed on the Algeomath platform, a Korean online tool designed for interactive geometric constructions. The proposed system evaluates student-submitted geometric constructions by analyzing their procedural accuracy and conceptual understanding. It employs a prompt-based grading mechanism using GPT-4, where student answers and model solutions are compared through a few-shot learning approach. Feedback is generated based on teacher-authored examples built from anticipated student responses, and it dynamically adapts to the student's problem-solving history, allowing up to four iterative attempts per question. The system was piloted with 79 middle-school students, where LLM-generated grades and feedback were benchmarked against teacher judgments. Grading closely aligned with teachers, and feedback helped many students revise errors and complete multi-step geometry tasks. While short-term corrections were frequent, longer-term transfer effects were less clear. Overall, the study highlights the potential of LLMs to support scalable, teacher-aligned formative assessment in mathematics, while pointing to improvements needed in terminology handling and feedback design.
+    △ Less
+    
+    
+    Submitted 29 September, 2025;
+    originally announced September 2025.
+30. [arXiv:2509.23996](https://arxiv.org/abs/2509.23996)
+     [[pdf](https://arxiv.org/pdf/2509.23996), [ps](https://arxiv.org/ps/2509.23996), [other](https://arxiv.org/format/2509.23996)] 
+    
+    cs.AI
+    
+    Future-Proofing Programmers: Optimal Knowledge Tracing for AI-Assisted Personalized Education
+    
+    Authors:
+    [Yuchen Wang](/search/?searchtype=author&query=Wang%2C+Y),
+    [Pei-Duo Yu](/search/?searchtype=author&query=Yu%2C+P),
+    [Chee Wei Tan](/search/?searchtype=author&query=Tan%2C+C+W)
+    
+    Abstract:
+    Learning to…
+    ▽ More
+    
+    Learning to learn is becoming a science, driven by the convergence of knowledge tracing, signal processing, and generative AI to model student learning states and optimize education. We propose CoTutor, an AI-driven model that enhances Bayesian Knowledge Tracing with signal processing techniques to improve student progress modeling and deliver adaptive feedback and strategies. Deployed as an AI copilot, CoTutor combines generative AI with adaptive learning technology. In university trials, it has demonstrated measurable improvements in learning outcomes while outperforming conventional educational tools. Our results highlight its potential for AI-driven personalization, scalability, and future opportunities for advancing privacy and ethical considerations in educational technology. Inspired by Richard Hamming's vision of computer-aided 'learning to learn,' CoTutor applies convex optimization and signal processing to automate and scale up learning analytics, while reserving pedagogical judgment for humans, ensuring AI facilitates the process of knowledge tracing while enabling learners to uncover new insights.
+    △ Less
+    
+    
+    Submitted 28 September, 2025;
+    originally announced September 2025.
+    
+    Comments:
+    The paper is accepted to IEEE Signal Processing Magazine, Special Issue on Artificial Intelligence for Education
+31. [arXiv:2509.21972](https://arxiv.org/abs/2509.21972)
+     [[pdf](https://arxiv.org/pdf/2509.21972), [ps](https://arxiv.org/ps/2509.21972), [other](https://arxiv.org/format/2509.21972)] 
+    
+    cs.CY
+    cs.AI
+    
+    From Superficial Outputs to Superficial Learning: Risks of Large Language Models in Education
+    
+    Authors:
+    [Iris Delikoura](/search/?searchtype=author&query=Delikoura%2C+I),
+    [Yi. R Fung](/search/?searchtype=author&query=Fung%2C+Y+R),
+    [Pan Hui](/search/?searchtype=author&query=Hui%2C+P)
+    
+    Abstract:
+    Large Language Models (LLMs) are transforming education by enabling…
+    ▽ More
+    
+    Large Language Models (LLMs) are transforming education by enabling personalization, feedback, and knowledge access, while also raising concerns about risks to students and learning systems. Yet empirical evidence on these risks remains fragmented. This paper presents a systematic review of 70 empirical studies across computer science, education, and psychology. Guided by four research questions, we examine: (i) which applications of LLMs in education have been most frequently explored; (ii) how researchers have measured their impact; (iii) which risks stem from such applications; and (iv) what mitigation strategies have been proposed. We find that research on LLMs clusters around three domains: operational effectiveness, personalized applications, and interactive learning tools. Across these, model-level risks include superficial understanding, bias, limited robustness, anthropomorphism, hallucinations, privacy concerns, and knowledge constraints. When learners interact with LLMs, these risks extend to cognitive and behavioural outcomes, including reduced neural activity, over-reliance, diminished independent learning skills, and a loss of student agency. To capture this progression, we propose an LLM-Risk Adapted Learning Model that illustrates how technical risks cascade through interaction and interpretation to shape educational outcomes. As the first synthesis of empirically assessed risks, this review provides a foundation for responsible, human-centred integration of LLMs in education.
+    △ Less
+    
+    
+    Submitted 2 November, 2025; v1 submitted 26 September, 2025;
+    originally announced September 2025.
+32. [arXiv:2509.16913](https://arxiv.org/abs/2509.16913)
+     [[pdf](https://arxiv.org/pdf/2509.16913), [ps](https://arxiv.org/ps/2509.16913), [other](https://arxiv.org/format/2509.16913)] 
+    
+    cs.SD
+    
+    Difficulty-Aware Score Generation for Piano Sight-Reading
+    
+    Authors:
+    [Pedro Ramoneda](/search/?searchtype=author&query=Ramoneda%2C+P),
+    [Masahiro Suzuki](/search/?searchtype=author&query=Suzuki%2C+M),
+    [Akira Maezawa](/search/?searchtype=author&query=Maezawa%2C+A),
+    [Xavier Serra](/search/?searchtype=author&query=Serra%2C+X)
+    
+    Abstract:
+    Adapting…
+    ▽ More
+    
+    Adapting learning materials to the level of skill of a student is important in education. In the context of music training, one essential ability is sight-reading -- playing unfamiliar scores at first sight -- which benefits from progressive and level-appropriate practice. However, creating exercises at the appropriate level of difficulty demands significant time and effort. We address this challenge as a controlled symbolic music generation task that aims to produce piano scores with a desired difficulty level. Controlling symbolic generation through conditioning is commonly done using control tokens, but these do not always have a clear impact on global properties, such as difficulty. To improve conditioning, we introduce an auxiliary optimization target for difficulty prediction that helps prevent conditioning collapse -- a common issue in which models ignore control signals in the absence of explicit supervision. This auxiliary objective helps the model to learn internal representations aligned with the target difficulty, enabling more precise and adaptive score generation. Evaluation with automatic metrics and expert judgments shows better control of difficulty and potential educational value. Our approach represents a step toward personalized music education through the generation of difficulty-aware practice material.
+    △ Less
+    
+    
+    Submitted 21 September, 2025;
+    originally announced September 2025.
+33. [arXiv:2509.16276](https://arxiv.org/abs/2509.16276)
+     [[pdf](https://arxiv.org/pdf/2509.16276), [ps](https://arxiv.org/ps/2509.16276), [other](https://arxiv.org/format/2509.16276)] 
+    
+    cs.CY
+    cs.AI
+    cs.HC
+    
+    doi
+    [10.1007/978-3-031-93567-1\_9](https://doi.org/10.1007/978-3-031-93567-1_9) 
+    
+    
+    Comparative Analysis of STEM and non-STEM Teachers' Needs for Integrating AI into Educational Environments
+    
+    Authors:
+    [Bahare Riahi](/search/?searchtype=author&query=Riahi%2C+B),
+    [Veronica Catete](/search/?searchtype=author&query=Catete%2C+V)
+    
+    Abstract:
+    There is an increasing imperative to integrate programming platforms within AI frameworks to enhance educational tasks for both teachers and…
+    ▽ More
+    
+    There is an increasing imperative to integrate programming platforms within AI frameworks to enhance educational tasks for both teachers and students. However, commonly used platforms such as Code.org, Scratch, and Snap fall short of providing the desired AI features and lack adaptability for interdisciplinary applications. This study explores how educational platforms can be improved by incorporating AI and analytics features to create more effective learning environments across various subjects and domains. We interviewed 8 K-12 teachers and asked their practices and needs while using any block-based programming (BBP) platform in their classes. We asked for their approaches in assessment, course development and expansion of resources, and student monitoring in their classes. Thematic analysis of the interview transcripts revealed both commonalities and differences in the AI tools needed between the STEM and non-STEM groups. Our results indicated advanced AI features that could promote BBP platforms. Both groups stressed the need for integrity and plagiarism checks, AI adaptability, customized rubrics, and detailed feedback in assessments. Non-STEM teachers also emphasized the importance of creative assignments and qualitative assessments. Regarding resource development, both AI tools desired for updating curricula, tutoring libraries, and generative AI features. Non-STEM teachers were particularly interested in supporting creative endeavors, such as art simulations. For student monitoring, both groups prioritized desktop control, daily tracking, behavior monitoring, and distraction prevention tools. Our findings identify specific AI-enhanced features needed by K-12 teachers across various disciplines and lay the foundation for creating more efficient, personalized, and engaging educational experiences.
+    △ Less
+    
+    
+    Submitted 18 September, 2025;
+    originally announced September 2025.
+    
+    Comments:
+    16 pages, 3 figures, Published in HCII 2025 Conference Proceedings
+    
+    ACM Class:
+    I.2.1; I.2.4; K.3.1; H.5.2
+    
+    Journal ref:
+    In: Smith, B.K., Borge, M. (eds) Learning and Collaboration Technologies. HCII 2025, Lecture Notes in Computer Science, vol 15807 (2025)
+34. [arXiv:2509.15545](https://arxiv.org/abs/2509.15545)
+     [[pdf](https://arxiv.org/pdf/2509.15545)] 
+    
+    cs.CY
+    
+    From Service-Oriented Computing to Metaverse Services: A Framework for Inclusive and Immersive Learning for Neurodivergent Students
+    
+    Authors:
+    [Rachid Hamadi](/search/?searchtype=author&query=Hamadi%2C+R),
+    [Abdelmounaam Rezgui](/search/?searchtype=author&query=Rezgui%2C+A),
+    [Ali Darejeh](/search/?searchtype=author&query=Darejeh%2C+A)
+    
+    Abstract:
+    The metaverse offers immersive and adaptive…
+    ▽ More
+    
+    The metaverse offers immersive and adaptive learning environments for neurodivergent students to thrive and reach their full potential. In this paper, we propose a generic framework that leverages metaverse services as an evolution beyond traditional service-oriented computing, enabling more interactive, personalized, and engaging educational experiences. By integrating AI-driven adaptability, multimodal interaction, and privacy-first service design, the framework ensures that learning remains accessible, inclusive, and secure. Additionally, we explore the challenges associated with scalability, data privacy, and ethical considerations while highlighting opportunities for fostering safe and student-centered virtual spaces. Our analysis underscores the potential of metaverse-based learning to bridge accessibility gaps, support social-emotional development, and empower neurodivergent learners in both digital and real-world settings. We also provide recommendations and policy considerations for creating a secure, inclusive, and scalable metaverse learn-ing ecosystem for neurodivergent students.
+    △ Less
+    
+    
+    Submitted 18 September, 2025;
+    originally announced September 2025.
+35. [arXiv:2509.15068](https://arxiv.org/abs/2509.15068)
+     [[pdf](https://arxiv.org/pdf/2509.15068), [ps](https://arxiv.org/ps/2509.15068), [other](https://arxiv.org/format/2509.15068)] 
+    
+    cs.HC
+    
+    Learning in Context: Personalizing Educational Content with Large Language Models to Enhance Student Learning
+    
+    Authors:
+    [Joy Jia Yin Lim](/search/?searchtype=author&query=Lim%2C+J+J+Y),
+    [Daniel Zhang-Li](/search/?searchtype=author&query=Zhang-Li%2C+D),
+    [Jifan Yu](/search/?searchtype=author&query=Yu%2C+J),
+    [Xin Cong](/search/?searchtype=author&query=Cong%2C+X),
+    [Ye He](/search/?searchtype=author&query=He%2C+Y),
+    [Zhiyuan Liu](/search/?searchtype=author&query=Liu%2C+Z),
+    [Huiqin Liu](/search/?searchtype=author&query=Liu%2C+H),
+    [Lei Hou](/search/?searchtype=author&query=Hou%2C+L),
+    [Juanzi Li](/search/?searchtype=author&query=Li%2C+J),
+    [Bin Xu](/search/?searchtype=author&query=Xu%2C+B)
+    
+    Abstract:
+    Standardized, one-size-fits-all educational content often fails to connect with…
+    ▽ More
+    
+    Standardized, one-size-fits-all educational content often fails to connect with students' individual backgrounds and interests, leading to disengagement and a perceived lack of relevance. To address this challenge, we introduce PAGE, a novel framework that leverages large language models (LLMs) to automatically personalize educational materials by adapting them to each student's unique context, such as their major and personal interests. To validate our approach, we deployed PAGE in a semester-long intelligent tutoring system and conducted a user study to evaluate its impact in an authentic educational setting. Our findings show that students who received personalized content demonstrated significantly improved learning outcomes and reported higher levels of engagement, perceived relevance, and trust compared to those who used standardized materials. This work demonstrates the practical value of LLM-powered personalization and offers key design implications for creating more effective, engaging, and trustworthy educational experiences.
+    △ Less
+    
+    
+    Submitted 18 September, 2025;
+    originally announced September 2025.
+36. [arXiv:2509.14496](https://arxiv.org/abs/2509.14496)
+     [[pdf](https://arxiv.org/pdf/2509.14496), [ps](https://arxiv.org/ps/2509.14496), [other](https://arxiv.org/format/2509.14496)] 
+    
+    cs.PL
+    
+    DeliverC: Teaching Pointers through GenAI-Powered Game-Based Learning
+    
+    Authors:
+    [Wyatt Petula](/search/?searchtype=author&query=Petula%2C+W),
+    [Anushcka Joshi](/search/?searchtype=author&query=Joshi%2C+A),
+    [Peggy Tu](/search/?searchtype=author&query=Tu%2C+P),
+    [Amrutha Somasundar](/search/?searchtype=author&query=Somasundar%2C+A),
+    [Suman Saha](/search/?searchtype=author&query=Saha%2C+S)
+    
+    Abstract:
+    While game-based learning is widely used in programming…
+    ▽ More
+    
+    While game-based learning is widely used in programming education, few tools offer adaptive, real-time support for complex topics, such as C pointers. We present DeliverC, a GenAI-enhanced game that integrates GPT-4-mini to provide personalized hints and generate pointer-related challenges on the fly. In a pilot study involving 25 undergraduate students, we investigated the impact of the system on learning through gameplay data and a 15-item survey that covered constructs such as motivation, self-efficacy, metacognition, and feedback quality. Results show that most students felt more confident and reflective after using the tool, and error rates decreased as students progressed through scaffolded levels. However, participation decreased with task difficulty, and some students reported receiving unclear or vague feedback. These findings suggest that DeliverC can enhance engagement and understanding in systems programming, although refinement in AI-generated feedback is still needed. Our study highlights the potential of combining GenAI with game-based learning to support personalized and interactive practice in traditionally challenging programming domains.
+    △ Less
+    
+    
+    Submitted 17 September, 2025;
+    originally announced September 2025.
+    
+    Comments:
+    The paper before Camera-ready paper. The paper has been accepted by SIGCSE 2026
+37. [arXiv:2509.13730](https://arxiv.org/abs/2509.13730)
+     [[pdf](https://arxiv.org/pdf/2509.13730), [ps](https://arxiv.org/ps/2509.13730), [other](https://arxiv.org/format/2509.13730)] 
+    
+    cs.CY
+    
+    Perspectives and potential issues in using artificial intelligence for computer science education
+    
+    Authors:
+    [Juho Vepsäläinen](/search/?searchtype=author&query=Veps%C3%A4l%C3%A4inen%2C+J),
+    [Petri Juntunen](/search/?searchtype=author&query=Juntunen%2C+P)
+    
+    Abstract:
+    …society, we are continually uncovering both the potential and the limitations of existing AI tools.
+    The need for adjustment is particularly significant in Computer Science Education (CSEd), as LLMs have evolved into core coding tools themselves, blurring the line between programming aids and intelligent systems, and reinforcing CSEd's role as a nexus o…
+    ▽ More
+    
+    Since its launch in late 2022, ChatGPT has ignited widespread interest in Large Language Models (LLMs) and broader Artificial Intelligence (AI) solutions. As this new wave of AI permeates various sectors of society, we are continually uncovering both the potential and the limitations of existing AI tools.
+    The need for adjustment is particularly significant in Computer Science Education (CSEd), as LLMs have evolved into core coding tools themselves, blurring the line between programming aids and intelligent systems, and reinforcing CSEd's role as a nexus of technology and pedagogy. The findings of our survey indicate that while AI technologies hold potential for enhancing learning experiences, such as through personalized learning paths, intelligent tutoring systems, and automated assessments, there are also emerging concerns. These include the risk of over-reliance on technology, the potential erosion of fundamental cognitive skills, and the challenge of maintaining equitable access to such innovations.
+    Recent advancements represent a paradigm shift, transforming not only the content we teach but also the methods by which teaching and learning take place. Rather than placing the burden of adapting to AI technologies on students, educational institutions must take a proactive role in verifying, integrating, and applying new pedagogical approaches. Such efforts can help ensure that both educators and learners are equipped with the skills needed to navigate the evolving educational landscape shaped by these technological innovations.
+    △ Less
+    
+    
+    Submitted 17 September, 2025;
+    originally announced September 2025.
+    
+    Comments:
+    12 pages, 1 figure, 2 tables, preprint (not approved for publication yet)
+    
+    ACM Class:
+    K.3
+38. [arXiv:2509.08357](https://arxiv.org/abs/2509.08357)
+     [[pdf](https://arxiv.org/pdf/2509.08357), [ps](https://arxiv.org/ps/2509.08357), [other](https://arxiv.org/format/2509.08357)] 
+    
+    cs.HC
+    
+    Personalized Inhibition Training with Eye-Tracking: Enhancing Student Learning and Teacher Assessment in Educational Games
+    
+    Authors:
+    [Abdul Rehman](/search/?searchtype=author&query=Rehman%2C+A),
+    [Ilona Heldal](/search/?searchtype=author&query=Heldal%2C+I),
+    [Diana Stilwell](/search/?searchtype=author&query=Stilwell%2C+D),
+    [Paula Costa Ferreira](/search/?searchtype=author&query=Ferreira%2C+P+C),
+    [Jerry Chun-Wei Lin](/search/?searchtype=author&query=Lin%2C+J+C)
+    
+    Abstract:
+    …in interactive environments. This study presents a comprehensive eye-tracking analysis framework of the Inhibitory Control Game, named the ReStroop game, which is an educational intervention aimed at improving inhibitory control skills in children through a recycling-themed sorting task, for…
+    ▽ More
+    
+    Eye tracking (ET) can help to understand visual attention and cognitive processes in interactive environments. This study presents a comprehensive eye-tracking analysis framework of the Inhibitory Control Game, named the ReStroop game, which is an educational intervention aimed at improving inhibitory control skills in children through a recycling-themed sorting task, for educational assessment that processes raw gaze data through unified algorithms for fixation detection, performance evaluation, and personalized intervention planning. The system employs dual-threshold eye movement detection (I-VT and advanced clustering), comprehensive Area of Interest (AOI) analysis, and evidence-based risk assessment to transform gaze patterns into actionable educational insights. We evaluated this framework across three difficulty levels and revealed critical attention deficits, including low task relevance, elevated attention scatter, and compromised processing efficiency. The multi-dimensional risk assessment identified high to moderate risk levels, triggering personalized interventions including focus training, attention regulation support, and environmental modifications. The system successfully distinguishes between adaptive learning and cognitive overload, providing early warning indicators for educational intervention. Results demonstrate the system's effectiveness in objective attention assessment, early risk identification, and the generation of evidence-based recommendations for students, teachers, and specialists, supporting data-driven educational decision-making and personalized learning approaches.
+    △ Less
+    
+    
+    Submitted 10 September, 2025;
+    originally announced September 2025.
+39. [arXiv:2509.07742](https://arxiv.org/abs/2509.07742)
+     [[pdf](https://arxiv.org/pdf/2509.07742), [ps](https://arxiv.org/ps/2509.07742), [other](https://arxiv.org/format/2509.07742)] 
+    
+    cs.HC
+    cs.AI
+    cs.CV
+    
+    Enhancing Online Learning by Integrating Biosensors and Multimodal Learning Analytics for Detecting and Predicting Student Behavior: A Review
+    
+    Authors:
+    [Alvaro Becerra](/search/?searchtype=author&query=Becerra%2C+A),
+    [Ruth Cobos](/search/?searchtype=author&query=Cobos%2C+R),
+    [Charles Lang](/search/?searchtype=author&query=Lang%2C+C)
+    
+    Abstract:
+    In modern online learning, understanding and predicting…
+    ▽ More
+    
+    In modern online learning, understanding and predicting student behavior is crucial for enhancing engagement and optimizing educational outcomes. This systematic review explores the integration of biosensors and Multimodal Learning Analytics (MmLA) to analyze and predict student behavior during computer-based learning sessions. We examine key challenges, including emotion and attention detection, behavioral analysis, experimental design, and demographic considerations in data collection. Our study highlights the growing role of physiological signals, such as heart rate, brain activity, and eye-tracking, combined with traditional interaction data and self-reports to gain deeper insights into cognitive states and engagement levels. We synthesize findings from 54 key studies, analyzing commonly used methodologies such as advanced machine learning algorithms and multimodal data pre-processing techniques. The review identifies current research trends, limitations, and emerging directions in the field, emphasizing the transformative potential of biosensor-driven adaptive learning systems. Our findings suggest that integrating multimodal data can facilitate personalized learning experiences, real-time feedback, and intelligent educational interventions, ultimately advancing toward a more customized and adaptive online learning experience.
+    △ Less
+    
+    
+    Submitted 9 September, 2025;
+    originally announced September 2025.
+    
+    Comments:
+    Accepted for publication in Behaviour & Information Technology (Taylor & Francis). Final published version will be available soon at https://www.tandfonline.com/journals/tbit20
+40. [arXiv:2509.00646](https://arxiv.org/abs/2509.00646)
+     [[pdf](https://arxiv.org/pdf/2509.00646), [ps](https://arxiv.org/ps/2509.00646), [other](https://arxiv.org/format/2509.00646)] 
+    
+    cs.CY
+    cs.AI
+    
+    RAG-PRISM: A Personalized, Rapid, and Immersive Skill Mastery Framework with Adaptive Retrieval-Augmented Tutoring
+    
+    Authors:
+    [Gaurangi Raul](/search/?searchtype=author&query=Raul%2C+G),
+    [Yu-Zheng Lin](/search/?searchtype=author&query=Lin%2C+Y),
+    [Karan Patel](/search/?searchtype=author&query=Patel%2C+K),
+    [Bono Po-Jen Shih](/search/?searchtype=author&query=Shih%2C+B+P),
+    [Matthew W. Redondo](/search/?searchtype=author&query=Redondo%2C+M+W),
+    [Banafsheh Saber Latibari](/search/?searchtype=author&query=Latibari%2C+B+S),
+    [Jesus Pacheco](/search/?searchtype=author&query=Pacheco%2C+J),
+    [Soheil Salehi](/search/?searchtype=author&query=Salehi%2C+S),
+    [Pratik Satam](/search/?searchtype=author&query=Satam%2C+P)
+    
+    Abstract:
+    …as robotics, automation, artificial intelligence (AI), and security, large-scale re-skilling and up-skilling are required. Training programs must address diverse backgrounds, learning styles, and motivations to improve persistence and success, while ensuring rapid, cost-effective workforce development through experiential…
+    ▽ More
+    
+    The rapid digital transformation of Fourth Industrial Revolution (4IR) systems is reshaping workforce needs, widening skill gaps, especially for older workers. With growing emphasis on STEM skills such as robotics, automation, artificial intelligence (AI), and security, large-scale re-skilling and up-skilling are required. Training programs must address diverse backgrounds, learning styles, and motivations to improve persistence and success, while ensuring rapid, cost-effective workforce development through experiential learning. To meet these challenges, we present an adaptive tutoring framework that combines generative AI with Retrieval-Augmented Generation (RAG) to deliver personalized training. The framework leverages document hit rate and Mean Reciprocal Rank (MRR) to optimize content for each learner, and is benchmarked against human-generated training for alignment and relevance. We demonstrate the framework in 4IR cybersecurity learning by creating a synthetic QA dataset emulating trainee behavior, while RAG is tuned on curated cybersecurity materials. Evaluation compares its generated training with manually curated queries representing realistic student interactions. Responses are produced using large language models (LLMs) including GPT-3.5 and GPT-4, assessed for faithfulness and content alignment. GPT-4 achieves the best performance with 87% relevancy and 100% alignment. Results show this dual-mode approach enables the adaptive tutor to act as both a personalized topic recommender and content generator, offering a scalable solution for rapid, tailored learning in 4IR education and workforce development.
+    △ Less
+    
+    
+    Submitted 30 August, 2025;
+    originally announced September 2025.
+    
+    Comments:
+    9 pages, 5 figures, Accepted by IEEE FIE 2025
+41. [arXiv:2508.14109](https://arxiv.org/abs/2508.14109)
+     [[pdf](https://arxiv.org/pdf/2508.14109), [ps](https://arxiv.org/ps/2508.14109), [other](https://arxiv.org/format/2508.14109)] 
+    
+    cs.CY
+    cs.AI
+    cs.ET
+    
+    PAPPL: Personalized AI-Powered Progressive Learning Platform
+    
+    Authors:
+    [Shayan Bafandkar](/search/?searchtype=author&query=Bafandkar%2C+S),
+    [Sungyong Chung](/search/?searchtype=author&query=Chung%2C+S),
+    [Homa Khosravian](/search/?searchtype=author&query=Khosravian%2C+H),
+    [Alireza Talebpour](/search/?searchtype=author&query=Talebpour%2C+A)
+    
+    Abstract:
+    Engineering education has historically been constrained by rigid, standardized frameworks, often neglecting…
+    ▽ More
+    
+    Engineering education has historically been constrained by rigid, standardized frameworks, often neglecting students' diverse learning needs and interests. While significant advancements have been made in online and personalized education within K-12 and foundational sciences, engineering education at both undergraduate and graduate levels continues to lag in adopting similar innovations. Traditional evaluation methods, such as exams and homework assignments, frequently overlook individual student requirements, impeding personalized educational experiences. To address these limitations, this paper introduces the Personalized AI-Powered Progressive Learning (PAPPL) platform, an advanced Intelligent Tutoring System (ITS) designed specifically for engineering education. It highlights the development of a scalable, data-driven tutoring environment leveraging cutting-edge AI technology to enhance personalized learning across diverse academic disciplines, particularly in STEM fields. PAPPL integrates core ITS components including the expert module, student module, tutor module, and user interface, and utilizes GPT-4o, a sophisticated large language model (LLM), to deliver context-sensitive and pedagogically sound hints based on students' interactions. The system uniquely records student attempts, detects recurring misconceptions, and generates progressively targeted feedback, providing personalized assistance that adapts dynamically to each student's learning profile. Additionally, PAPPL offers instructors detailed analytics, empowering evidence-based adjustments to teaching strategies. This study provides a fundamental framework for the progression of Generative ITSs scalable to all education levels, delivering important perspectives on personalized progressive learning and the wider possibilities of Generative AI in the field of education.
+    △ Less
+    
+    
+    Submitted 17 August, 2025;
+    originally announced August 2025.
+42. [arXiv:2508.11892](https://arxiv.org/abs/2508.11892)
+     [[pdf](https://arxiv.org/pdf/2508.11892), [ps](https://arxiv.org/ps/2508.11892), [other](https://arxiv.org/format/2508.11892)] 
+    
+    cs.HC
+    
+    RPKT: Learning What You Don't -- Know Recursive Prerequisite Knowledge Tracing in Conversational AI Tutors for Personalized Learning
+    
+    Authors:
+    [Jinwen Tang](/search/?searchtype=author&query=Tang%2C+J),
+    [Qiming Guo](/search/?searchtype=author&query=Guo%2C+Q),
+    [Zhicheng Tang](/search/?searchtype=author&query=Tang%2C+Z),
+    [Yi Shang](/search/?searchtype=author&query=Shang%2C+Y)
+    
+    Abstract:
+    Educational systems often assume learners can identify their knowledge gaps, yet research consistently shows that…
+    ▽ More
+    
+    Educational systems often assume learners can identify their knowledge gaps, yet research consistently shows that students struggle to recognize what they don't know they need to learn-the "unknown unknowns" problem. This paper presents a novel Recursive Prerequisite Knowledge Tracing (RPKT) system that addresses this challenge through dynamic prerequisite discovery using large language models. Unlike existing adaptive learning systems that rely on pre-defined knowledge graphs, our approach recursively traces prerequisite concepts in real-time until reaching a learner's actual knowledge boundary. The system employs LLMs for intelligent prerequisite extraction, implements binary assessment interfaces for cognitive load reduction, and provides personalized learning paths based on identified knowledge gaps. Demonstration across computer science domains shows the system can discover multiple nested levels of prerequisite dependencies, identify cross-domain mathematical foundations, and generate hierarchical learning sequences without requiring pre-built curricula. Our approach shows great potential for advancing personalized education technology by enabling truly adaptive learning across any academic domain.
+    △ Less
+    
+    
+    Submitted 8 September, 2025; v1 submitted 15 August, 2025;
+    originally announced August 2025.
+43. [arXiv:2508.11401](https://arxiv.org/abs/2508.11401)
+     [[pdf](https://arxiv.org/pdf/2508.11401), [ps](https://arxiv.org/ps/2508.11401), [other](https://arxiv.org/format/2508.11401)] 
+    
+    cs.HC
+    cs.MA
+    
+    FACET: Teacher-Centred LLM-Based Multi-Agent Systems-Towards Personalized Educational Worksheets
+    
+    Authors:
+    [Jana Gonnermann-Müller](/search/?searchtype=author&query=Gonnermann-M%C3%BCller%2C+J),
+    [Jennifer Haase](/search/?searchtype=author&query=Haase%2C+J),
+    [Konstantin Fackeldey](/search/?searchtype=author&query=Fackeldey%2C+K),
+    [Sebastian Pokutta](/search/?searchtype=author&query=Pokutta%2C+S)
+    
+    Abstract:
+    The increasing heterogeneity of student populations poses significant challenges for teachers, particularly in mathematics…
+    ▽ More
+    
+    The increasing heterogeneity of student populations poses significant challenges for teachers, particularly in mathematics education, where cognitive, motivational, and emotional differences strongly influence learning outcomes. While AI-driven personalization tools have emerged, most remain performance-focused, offering limited support for teachers and neglecting broader pedagogical needs. This paper presents the FACET framework, a teacher-facing, large language model (LLM)-based multi-agent system designed to generate individualized classroom materials that integrate both cognitive and motivational dimensions of learner profiles. The framework comprises three specialized agents: (1) learner agents that simulate diverse profiles incorporating topic proficiency and intrinsic motivation, (2) a teacher agent that adapts instructional content according to didactical principles, and (3) an evaluator agent that provides automated quality assurance. We tested the system using authentic grade 8 mathematics curriculum content and evaluated its feasibility through a) automated agent-based assessment of output quality and b) exploratory feedback from K-12 in-service teachers. Results from ten internal evaluations highlighted high stability and alignment between generated materials and learner profiles, and teacher feedback particularly highlighted structure and suitability of tasks. The findings demonstrate the potential of multi-agent LLM architectures to provide scalable, context-aware personalization in heterogeneous classroom settings, and outline directions for extending the framework to richer learner profiles and real-world classroom trials.
+    △ Less
+    
+    
+    Submitted 18 March, 2026; v1 submitted 15 August, 2025;
+    originally announced August 2025.
+44. [arXiv:2508.11184](https://arxiv.org/abs/2508.11184)
+     [[pdf](https://arxiv.org/pdf/2508.11184), [ps](https://arxiv.org/ps/2508.11184), [other](https://arxiv.org/format/2508.11184)] 
+    
+    cs.CL
+    
+    Personalized Distractor Generation via MCTS-Guided Reasoning Reconstruction
+    
+    Authors:
+    [Tao Wu](/search/?searchtype=author&query=Wu%2C+T),
+    [Jingyuan Chen](/search/?searchtype=author&query=Chen%2C+J),
+    [Wang Lin](/search/?searchtype=author&query=Lin%2C+W),
+    [Jian Zhan](/search/?searchtype=author&query=Zhan%2C+J),
+    [Mengze Li](/search/?searchtype=author&query=Li%2C+M),
+    [Kun Kuang](/search/?searchtype=author&query=Kuang%2C+K),
+    [Fei Wu](/search/?searchtype=author&query=Wu%2C+F)
+    
+    Abstract:
+    Distractors, incorrect but plausible answer choices in multiple-choice questions (MCQs), play a critical role in educational assessment by diagnosing…
+    ▽ More
+    
+    Distractors, incorrect but plausible answer choices in multiple-choice questions (MCQs), play a critical role in educational assessment by diagnosing student misconceptions. Recent work has leveraged large language models (LLMs) to generate shared, group-level distractors by learning common error patterns across large student populations. However, such distractors often fail to capture the diverse reasoning errors of individual students, limiting their diagnostic effectiveness. To address this limitation, we introduce the task of personalized distractor generation, which aims to generate tailored distractors based on individual misconceptions inferred from each student's past question-answering (QA) records, ensuring every student receives options that effectively exposes their specific reasoning errors. While promising, this task is challenging because each student typically has only a few QA records, which often lack the student's underlying reasoning processes, making training-based group-level approaches infeasible. To overcome this, we propose a training-free two-stage framework. In the first stage, we construct a student-specific misconception prototype by applying Monte Carlo Tree Search (MCTS) to recover the student's reasoning trajectories from past incorrect answers. In the second stage, this prototype guides the simulation of the student's reasoning on new questions, enabling the generation of personalized distractors that align with the student's recurring misconceptions. Experiments show that our approach achieves the best performance in generating plausible, personalized distractors for 140 students, and also effectively generalizes to group-level settings, highlighting its robustness and adaptability.
+    △ Less
+    
+    
+    Submitted 14 August, 2025;
+    originally announced August 2025.
+45. [arXiv:2508.11062](https://arxiv.org/abs/2508.11062)
+     [[pdf](https://arxiv.org/pdf/2508.11062), [ps](https://arxiv.org/ps/2508.11062), [other](https://arxiv.org/format/2508.11062)] 
+    
+    cs.HC
+    cs.LG
+    
+    Human-in-the-Loop Systems for Adaptive Learning Using Generative AI
+    
+    Authors:
+    [Bhavishya Tarun](/search/?searchtype=author&query=Tarun%2C+B),
+    [Haoze Du](/search/?searchtype=author&query=Du%2C+H),
+    [Dinesh Kannan](/search/?searchtype=author&query=Kannan%2C+D),
+    [Edward F. Gehringer](/search/?searchtype=author&query=Gehringer%2C+E+F)
+    
+    Abstract:
+    A Human-in-the-Loop (HITL) approach leverages generative AI to enhance personalized…
+    ▽ More
+    
+    A Human-in-the-Loop (HITL) approach leverages generative AI to enhance personalized learning by directly integrating student feedback into AI-generated solutions. Students critique and modify AI responses using predefined feedback tags, fostering deeper engagement and understanding. This empowers students to actively shape their learning, with AI serving as an adaptive partner. The system uses a tagging technique and prompt engineering to personalize content, informing a Retrieval-Augmented Generation (RAG) system to retrieve relevant educational material and adjust explanations in real time. This builds on existing research in adaptive learning, demonstrating how student-driven feedback loops can modify AI-generated responses for improved student retention and engagement, particularly in STEM education. Preliminary findings from a study with STEM students indicate improved learning outcomes and confidence compared to traditional AI tools. This work highlights AI's potential to create dynamic, feedback-driven, and personalized learning environments through iterative refinement.
+    △ Less
+    
+    
+    Submitted 14 August, 2025;
+    originally announced August 2025.
+    
+    Comments:
+    Accepted for presentation at the Frontiers in Education Conference, Nashville, Tennessee, USA, 2-5 November 2025
+46. [arXiv:2508.06254](https://arxiv.org/abs/2508.06254)
+     [[pdf](https://arxiv.org/pdf/2508.06254), [ps](https://arxiv.org/ps/2508.06254), [other](https://arxiv.org/format/2508.06254)] 
+    
+    physics.ed-ph
+    
+    From Cognitive Relief to Affective Engagement: An Empirical Comparison of AI Chatbots and Instructional Scaffolding in Physics Education
+    
+    Authors:
+    [E. Becker](/search/?searchtype=author&query=Becker%2C+E),
+    [J. Wünsche](/search/?searchtype=author&query=W%C3%BCnsche%2C+J),
+    [J. M. Veith](/search/?searchtype=author&query=Veith%2C+J+M),
+    [J. Schrader](/search/?searchtype=author&query=Schrader%2C+J),
+    [P. Bitzenbauer](/search/?searchtype=author&query=Bitzenbauer%2C+P)
+    
+    Abstract:
+    Providing effective, personalized support is critical for helping…
+    ▽ More
+    
+    Providing effective, personalized support is critical for helping students overcome conceptual difficulties in physics. However, established scaffolding methods, such as structured tiered support, are often too resource-intensive for widespread implementation. Therefore, this study, investigates whether an easily adaptable, custom-configured AI chatbot can offer comparable affective benefits and cognitive relief. We conducted a quasi-experimental field study with 273 ninth-grade students in Germany. Classes were randomly assigned to solve a buoyancy problem using one of three conditions: an AI chatbot, a tiered support system, or traditional textbook-style explanations. We measured intrinsic and extraneous cognitive load and affective outcomes (enjoyment, hope, hopelessness, self-efficacy, situational interest) via research-validated questionnaires. Results revealed that both interactive support systems -- the custom-configured AI chatbot and tiered hints -- were significantly more effective than the textual support in reducing students' intrinsic and extraneous cognitive load. Furthermore, the AI chatbot yielded the most comprehensive affective benefits, demonstrating significant improvements across all measured affective dimensions, when compared to the textual support. While the chatbot consistently trended more positively than the tiered hints on affective measures, these differences were not statistically significant. These findings suggest that while structured guidance is key to managing cognitive load, the interactive and social nature of AI chatbots holds unique potential for simultaneously fostering positive affective experiences, marking a promising direction for developing effective and holistic learning support tools in physics education.
+    △ Less
+    
+    
+    Submitted 8 August, 2025;
+    originally announced August 2025.
+47. [arXiv:2508.02593](https://arxiv.org/abs/2508.02593)
+     [[pdf](https://arxiv.org/pdf/2508.02593), [ps](https://arxiv.org/ps/2508.02593), [other](https://arxiv.org/format/2508.02593)] 
+    
+    cs.HC
+    cs.AI
+    
+    Explainable AI for Automated User-specific Feedback in Surgical Skill Acquisition
+    
+    Authors:
+    [Catalina Gomez](/search/?searchtype=author&query=Gomez%2C+C),
+    [Lalithkumar Seenivasan](/search/?searchtype=author&query=Seenivasan%2C+L),
+    [Xinrui Zou](/search/?searchtype=author&query=Zou%2C+X),
+    [Jeewoo Yoon](/search/?searchtype=author&query=Yoon%2C+J),
+    [Sirui Chu](/search/?searchtype=author&query=Chu%2C+S),
+    [Ariel Leong](/search/?searchtype=author&query=Leong%2C+A),
+    [Patrick Kramer](/search/?searchtype=author&query=Kramer%2C+P),
+    [Yu-Chun Ku](/search/?searchtype=author&query=Ku%2C+Y),
+    [Jose L. Porras](/search/?searchtype=author&query=Porras%2C+J+L),
+    [Alejandro Martin-Gomez](/search/?searchtype=author&query=Martin-Gomez%2C+A),
+    [Masaru Ishii](/search/?searchtype=author&query=Ishii%2C+M),
+    [Mathias Unberath](/search/?searchtype=author&query=Unberath%2C+M)
+    
+    Abstract:
+    …on expert feedback, yet direct access is limited by faculty availability and variability in subjective assessments. While trainees can practice independently, the lack of personalized, objective, and quantitative feedback reduces the effectiveness of self-directed…
+    ▽ More
+    
+    Traditional surgical skill acquisition relies heavily on expert feedback, yet direct access is limited by faculty availability and variability in subjective assessments. While trainees can practice independently, the lack of personalized, objective, and quantitative feedback reduces the effectiveness of self-directed learning. Recent advances in computer vision and machine learning have enabled automated surgical skill assessment, demonstrating the feasibility of automatic competency evaluation. However, it is unclear whether such Artificial Intelligence (AI)-driven feedback can contribute to skill acquisition. Here, we examine the effectiveness of explainable AI (XAI)-generated feedback in surgical training through a human-AI study. We create a simulation-based training framework that utilizes XAI to analyze videos and extract surgical skill proxies related to primitive actions. Our intervention provides automated, user-specific feedback by comparing trainee performance to expert benchmarks and highlighting deviations from optimal execution through understandable proxies for actionable guidance. In a prospective user study with medical students, we compare the impact of XAI-guided feedback against traditional video-based coaching on task outcomes, cognitive load, and trainees' perceptions of AI-assisted learning. Results showed improved cognitive load and confidence post-intervention. While no differences emerged between the two feedback types in reducing performance gaps or practice adjustments, trends in the XAI group revealed desirable effects where participants more closely mimicked expert practice. This work encourages the study of explainable AI in surgical education and the development of data-driven, adaptive feedback mechanisms that could transform learning experiences and competency assessment.
+    △ Less
+    
+    
+    Submitted 4 August, 2025;
+    originally announced August 2025.
+    
+    Comments:
+    10 pages, 4 figures
+48. [arXiv:2507.18949](https://arxiv.org/abs/2507.18949)
+     [[pdf](https://arxiv.org/pdf/2507.18949), [ps](https://arxiv.org/ps/2507.18949), [other](https://arxiv.org/format/2507.18949)] 
+    
+    cs.CY
+    cs.CL
+    
+    Adaptive Learning Systems: Personalized Curriculum Design Using LLM-Powered Analytics
+    
+    Authors:
+    [Yongjie Li](/search/?searchtype=author&query=Li%2C+Y),
+    [Ruilin Nong](/search/?searchtype=author&query=Nong%2C+R),
+    [Jianan Liu](/search/?searchtype=author&query=Liu%2C+J),
+    [Lucas Evans](/search/?searchtype=author&query=Evans%2C+L)
+    
+    Abstract:
+    Large language models (LLMs) are revolutionizing the field of education by enabling…
+    ▽ More
+    
+    Large language models (LLMs) are revolutionizing the field of education by enabling personalized learning experiences tailored to individual student needs. In this paper, we introduce a framework for Adaptive Learning Systems that leverages LLM-powered analytics for personalized curriculum design. This innovative approach uses advanced machine learning to analyze real-time data, allowing the system to adapt learning pathways and recommend resources that align with each learner's progress. By continuously assessing students, our framework enhances instructional strategies, ensuring that the materials presented are relevant and engaging. Experimental results indicate a marked improvement in both learner engagement and knowledge retention when using a customized curriculum. Evaluations conducted across varied educational environments demonstrate the framework's flexibility and positive influence on learning outcomes, potentially reshaping conventional educational practices into a more adaptive and student-centered model.
+    △ Less
+    
+    
+    Submitted 25 July, 2025;
+    originally announced July 2025.
+49. [arXiv:2507.12484](https://arxiv.org/abs/2507.12484)
+     [[pdf](https://arxiv.org/pdf/2507.12484), [ps](https://arxiv.org/ps/2507.12484), [other](https://arxiv.org/format/2507.12484)] 
+    
+    cs.AI
+    cs.MA
+    
+    AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education
+    
+    Authors:
+    [Jarosław A. Chudziak](/search/?searchtype=author&query=Chudziak%2C+J+A),
+    [Adam Kostka](/search/?searchtype=author&query=Kostka%2C+A)
+    
+    Abstract:
+    …growing ubiquity of artificial intelligence (AI), in particular large language models (LLMs), has profoundly altered the way in which learners gain knowledge and interact with learning material, with many claiming that AI positively influences their…
+    ▽ More
+    
+    The growing ubiquity of artificial intelligence (AI), in particular large language models (LLMs), has profoundly altered the way in which learners gain knowledge and interact with learning material, with many claiming that AI positively influences their learning achievements. Despite this advancement, current AI tutoring systems face limitations associated with their reactive nature, often providing direct answers without encouraging deep reflection or incorporating structured pedagogical tools and strategies. This limitation is most apparent in the field of mathematics, in which AI tutoring systems remain underdeveloped. This research addresses the question: How can AI tutoring systems move beyond providing reactive assistance to enable structured, individualized, and tool-assisted learning experiences? We introduce a novel multi-agent AI tutoring platform that combines adaptive and personalized feedback, structured course generation, and textbook knowledge retrieval to enable modular, tool-assisted learning processes. This system allows students to learn new topics while identifying and targeting their weaknesses, revise for exams effectively, and practice on an unlimited number of personalized exercises. This article contributes to the field of artificial intelligence in education by introducing a novel platform that brings together pedagogical agents and AI-driven components, augmenting the field with modular and effective systems for teaching mathematics.
+    △ Less
+    
+    
+    Submitted 14 July, 2025;
+    originally announced July 2025.
+    
+    Comments:
+    8 pages, 5 figures
+    
+    Journal ref:
+    The 26th International Conference on Artificial Intelligence in Education (AIED 2025)
+50. [arXiv:2507.05295](https://arxiv.org/abs/2507.05295)
+     [[pdf](https://arxiv.org/pdf/2507.05295), [ps](https://arxiv.org/ps/2507.05295), [other](https://arxiv.org/format/2507.05295)] 
+    
+    cs.IR
+    cs.AI
+    cs.CY
+    cs.LG
+    
+    Enhancing Learning Path Recommendation via Multi-task Learning
+    
+    Authors:
+    [Afsana Nasrin](/search/?searchtype=author&query=Nasrin%2C+A),
+    [Lijun Qian](/search/?searchtype=author&query=Qian%2C+L),
+    [Pamela Obiomon](/search/?searchtype=author&query=Obiomon%2C+P),
+    [Xishuang Dong](/search/?searchtype=author&query=Dong%2C+X)
+    
+    Abstract:
+    Personalized…
+    ▽ More
+    
+    Personalized learning is a student-centered educational approach that adapts content, pace, and assessment to meet each learner's unique needs. As the key technique to implement the personalized learning, learning path recommendation sequentially recommends personalized learning items such as lectures and exercises. Advances in deep learning, particularly deep reinforcement learning, have made modeling such recommendations more practical and effective. This paper proposes a multi-task LSTM model that enhances learning path recommendation by leveraging shared information across tasks. The approach reframes learning path recommendation as a sequence-to-sequence (Seq2Seq) prediction problem, generating personalized learning paths from a learner's historical interactions. The model uses a shared LSTM layer to capture common features for both learning path recommendation and deep knowledge tracing, along with task-specific LSTM layers for each objective. To avoid redundant recommendations, a non-repeat loss penalizes repeated items within the recommended learning path. Experiments on the ASSIST09 dataset show that the proposed model significantly outperforms baseline methods for the learning path recommendation.
+    △ Less
+    
+    
+    Submitted 5 July, 2025;
+    originally announced July 2025.
+
+Previous
+[Next](/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=50&order=-announced_date_first)
+
+* [1](/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=0&order=-announced_date_first)
+* [2](/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=50&order=-announced_date_first)
+* [3](/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=100&order=-announced_date_first)
+* [4](/search/?searchtype=all&query=adaptive+learning+students+education+personalized&start=150&order=-announced_date_first)
+
+[Search v0.5.6 released 2020-02-24](https://github.com/arXiv/arxiv-search/releases)  
+
+
+
+* [About](https://info.arxiv.org/about)
+* [Help](https://info.arxiv.org/help)
+
+* contact arXivClick here to contact arXiv
+   [Contact](https://info.arxiv.org/help/contact.html)
+* subscribe to arXiv mailingsClick here to subscribe
+   [Subscribe](https://info.arxiv.org/help/subscribe)
+
+
+ 
+
+* [Copyright](https://info.arxiv.org/help/license/index.html)
+* [Privacy Policy](https://info.arxiv.org/help/policies/privacy_policy.html)
+
+* [Web Accessibility Assistance](https://info.arxiv.org/help/web_accessibility.html)
+* [arXiv Operational Status](https://status.arxiv.org)   
+  
+  Get status notifications via
+  [email](https://subscribe.sorryapp.com/24846f03/email/new)
+  or [slack](https://subscribe.sorryapp.com/24846f03/slack/new)
+
+
+ 
+
+
+

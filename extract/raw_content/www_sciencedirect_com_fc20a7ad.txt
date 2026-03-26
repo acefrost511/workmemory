@@ -1,0 +1,838 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S2590291125005522
+# Content Length: 134204 characters
+# Extracted at: 2026-03-24 05:13:57
+#============================================================
+
+Predictive analytics in education- enhancing student achievement through machine learning - ScienceDirect
+Processing math: 100%
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2590291125005522&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2590291125005522)
+\* [View \*\*PDF\*\*](/science/article/pii/S2590291125005522/pdfft?md5=db43b47c326379faa64f688512b34d28&pid=1-s2.0-S2590291125005522-main.pdf)
+\* Download full issue
+Search ScienceDirect
+## Outline
+1. [Abstract](#abs0010)
+2. [Keywords](#kwrds0010)
+3. [1. Introduction](#sec1)
+4. [2. Literature review](#sec2)
+5. [3. Methodology](#sec3)
+6. [4. Results](#sec4)
+7. [5. Discussion](#sec5)
+8. [6. Conclusion](#sec6)
+9. [CRediT authorship contribution statement](#sec8)
+10. [Ethical statement](#sec10)
+11. [Declaration of the use of AI assisted technologies](#sec12)
+12. [Funding statement](#sec11)
+13. [Declaration of competing interest](#coi0010)
+14. [Data availability](#da0010)
+15. [References](#cebib0010)
+16. [Further reading](#fread0005)
+Show full outline
+## [Cited by (4)](#section-cited-by)
+## Figures (18)
+1. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr1.sml)](#fig1)
+2. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr2.sml)](#fig2)
+3. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr3.sml)](#fig3)
+4. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr4.sml)](#fig4)
+5. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr5.sml)](#fig5)
+6. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr6.sml)](#fig6)
+Show 12 more figures
+## Tables (16)
+1. [Table 1](#tbl1)
+2. [Table 2](#tbl2)
+3. [Table 3](#tbl3)
+4. [Table 4](#tbl4)
+5. [Table 5](#tbl5)
+6. [Table 6](#tbl6)
+Show all tables
+[![](https://sciencedirect.elseviercdn.cn/prod/c7e213f07d8c815be33afc4dbc154d233f811d60/image/elsevier-non-solus.svg)](/journal/social-sciences-and-humanities-open)
+## [Social Sciences & Humanities Open](/journal/social-sciences-and-humanities-open)
+[Volume 12](/journal/social-sciences-and-humanities-open/vol/12/suppl/C), 2025, 101824
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125X00024-cov150h.gif)](/journal/social-sciences-and-humanities-open/vol/12/suppl/C)
+# Regular Article Predictive analytics in education- enhancing student achievement through machine learning
+Author links open overlay panelSunawarkhana, TehseenMazharai, TariqShahzadb, MuhammadAmir khanc, WajahatWaheedd, AhsenWaheedd, [HabibHamamefgh](/author/7004762599/habib-hamam)
+Show more
+Outline
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S2590291125005522&orderBeanReset=true)
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+Open access
+## Abstract
+This study investigates the application of predictive analytics and machine learning models to enhance student achievement in educational settings. The experiment involved a dataset of 24,005 student records collected from institutional academic records at Wollo University and the Kombolcha Institute of Technology, spanning the years 2017–2022. The data were systematically gathered from student demographic information, academic performance metrics, and contextual features such as studied credits, entrance results, and number of previous attempts. Unlike prior works, this study proposes a novel hybrid architecture that combines Convolutional Neural Networks (CNNs) and Random Forests with XGBoost as a meta-learner, achieving superior accuracy (88 %) compared to individual models such as Random Forest (85 %). Accuracy and other performance metrics (precision, recall, F1-score, and AUC-ROC) were calculated using a hold-out validation approach, with 80 % of the data used for training and 20 % for testing. This architecture effectively captures complex feature interactions and provides actionable insights for educators. Additionally, key predictive factors such as studied credits, entrance results, and regional differences were identified, offering a comprehensive understanding of student performance. The study addresses gaps in feature diversity and demonstrates the applicability of hybrid models in educational settings, paving the way for targeted interventions and improved resource allocation.
+\* [Previousarticle in issue](/science/article/pii/S2590291125005972)
+\* [Nextarticle in issue](/science/article/pii/S2590291125005923)
+## Keywords
+ML
+SVM
+CNN
+Student achievement
+Education
+Learning
+## 1. Introduction
+The advancements in technology in education hold significant promise for enhancing student achievement through predictive analytics. Using historical and current data, predictive analytics can anticipate future events, offering an innovative approach to enhance education. The education sector is constantly evolving, driven by technological advancements that enhance student success with new methods. Forecasting future outcomes in education is made possible through predictive analytics, which analyzes previous and current data ([Datnow & Hubbard, 2016](#bib14)). This approach highlights trends and patterns in educational data that educators might overlook because of the data's vast quantity. Predictive analytics enhances academic results by being proactive in meeting students' requirements.
+At the same time, machine learning, which is a branch of artificial intelligence, has shown great promise in analyzing and understanding intricate educational information. Machine learning algorithms can acquire knowledge from data and generate predictions or choices without needing to be explicitly instructed to carry out a particular function. Methods like decision trees, neural networks, and ensemble techniques have proven highly successful in educational settings. These models can examine different factors impacting student achievement, offering educators valuable information to customize teaching and support to meet each student's specific needs ([Silvola et al., 2021](#bib38)).
+Incorporating predictive analytics and machine learning in education goes beyond enhancing student grades; it aims to establish a more tailored and efficient learning atmosphere. Educators can identify students who may struggle to offer timely assistance and ensure their academic success. Furthermore, predictive models can help assess the effectiveness of teachers, leading to more focused professional development and allocation of resources. In parallel, immersive technologies such as Virtual Reality (VR) have also demonstrated potential in reshaping higher education when grounded in educational theory, offering innovative and engaging approaches to learning environments ([Shah et al., 2024](#bib36)). This study's goal is to delve into these uses, comparing various machine learning models and investigating how hybrid models can improve predictive accuracy.
+Machine learning (ML) and educational analytics have recently become very popular and have increasingly used for educational data analysis and application. At this point, machine learning models, especially those used for predictive analytics, have greatly advanced capabilities of profiling students’ learning behaviors, predicting academic performance, and personalizing learning. Notably, techniques like deep learning and reinforcement learning have helped improve student outcome prediction accuracy by being able to extract complex patterns from a large dataset.
+In the field of educational analytics, progress in data-driven decision-making has allowed institutions to implement more efficient interventions for at-risk students and tailor curriculum design. Educational systems can now generate insights from vast amounts of student data including demographics, past performance and interaction with learning materials, that were impossible to detect otherwise.
+### 1.1. Motivation
+The motivation for this research stems from the pressing need to address the diverse challenges faced by modern educational systems. The reason for conducting this research is the pressing necessity to address the diverse difficulties encountered by contemporary educational systems. Modern classrooms have a growing variety of student backgrounds, learning styles, and abilities which render traditional teaching techniques inadequate. Frequently, students who are considered at risk struggle to keep up in school because they do not receive personalized attention and timely intervention. Predictive analytics and machine learning provide an innovative answer by allowing educators to identify at-risk students in advance and personalize interventions to cater to their specific requirements. This proactive strategy enhances student retention and performance while fostering a more inclusive and supportive learning atmosphere.
+Moreover, conventional ways of evaluating teacher performance are frequently subjective and restricted, not fully grasping the intricate aspects of teaching. Schools can use predictive analytics to improve teaching methods by implementing data-driven strategies. This change may result in more focused professional growth opportunities, guaranteeing that educators get the assistance and materials required to succeed. This research aims to connect data science with education to offer useful insights that can enhance student results and teaching effectiveness.
+This study is also motivated by the overall influence of enhanced educational results. Higher academic performance results in enhanced job opportunities, increased long-term income, and better overall social welfare. This study seeks to enhance knowledge of how technology can help solve educational issues by using advanced machine learning models. The end objective is to establish a structure for teachers to apply predictive analytics and machine learning in their specific situations, making these powerful tools more accessible and promoting a culture of ongoing enhancement in education.
+### 1.2. Problem statement
+Despite the potential for transformation in education, the effective adoption and implementation of predictive analytics and machine learning face several significant challenges. Conventional approaches to assessing teacher performance and student success are frequently responsive, based on personal opinions, and do not offer the level of accuracy required to cater to the varied requirements of contemporary classrooms. Handling diverse educational information like academic progress, socio-economic status, attendance, and behavior patterns is not efficiently achieved through conventional approaches.
+Multiple machine learning models such as linear regression, support vector machines (SVM), XGBoost, decision trees, and convolutional neural networks (CNNs) have been created. Nonetheless, it is necessary to conduct a methodical evaluation of their ability to make predictions in educational settings. Furthermore, the potential of hybrid modeling, stacking, and ensemble learning to improve predictive performance has not been fully explored. Merging various models can harness their unique strengths and provide more reliable and precise predictions in comparison to singular models. However, the efficiency of combining hybrid and ensemble methods to forecast educational results has not been fully examined.
+### 1.3. Research questions
+This study explores the application of machine learning techniques in predicting educational outcomes through the following research questions:
+\* •
+How do different machine learning models, including support vector machines (SVM), XGBoost, decision trees, and classical convolutional neural networks (CNNs), perform in predicting educational outcomes?
+\* •
+Can a hybrid model that combines multiple machine learning techniques, such as stacking and ensemble learning, improve predictive performance compared to individual models?
+\* •
+What specific contributions do stacking and ensemble learning methods provide in improving the predictive accuracy and robustness of predictions in educational contexts?
+\* •
+Which key factors, such as academic performance, socio-economic background, attendance, and behavioral patterns, most significantly influence the predictive accuracy of machine learning models in educational contexts?
+\* •
+How can the findings from predictive models be applied to actionable strategies for enhancing student achievement and optimizing teacher effectiveness?
+### 1.4. Research hypothesis
+The following hypotheses align with the research questions and aim to address the study's objectives:
+\* •
+Different machine learning models, including SVM, XGBoost, decision trees, and CNNs, will exhibit varying levels of accuracy, precision, recall, and AUC-ROC in predicting educational outcomes.
+\* •
+A hybrid model combining multiple machine learning techniques, such as CNN, Random Forest, and XGBoost, will outperform individual models in predictive accuracy and reliability.
+\* •
+Stacking and ensemble learning methods will enhance predictive performance by increasing robustness, reliability, and overall accuracy of machine learning models in educational contexts.
+\* •
+Key factors, including academic performance, socio-economic background, attendance, and behavioral patterns, will significantly impact the predictive accuracy of machine learning models.
+\* •
+Insights derived from predictive analytics models can be translated into actionable strategies to enhance student outcomes, optimize resource allocation, and improve teacher effectiveness in educational settings.
+### 1.5. Objectives of the study
+\* •
+To compare the predictive accuracy of different machine learning models in educational contexts.
+\* •
+To evaluate the performance benefits of hybrid models, which are expected to outperform individual models by leveraging the complementary strengths of deep learning and ensemble methods, thereby improving predictive robustness and generalizability.
+\* •
+To assess the impact of stacking and ensemble learning methods on the predictive accuracy of educational outcomes.
+\* •
+To identify key factors that influence the predictive accuracy of machine learning models in educational contexts.
+\* •
+To explore how predictive models can be operationalized in real-world educational settings by identifying at-risk students, guiding personalized learning interventions, and informing teacher development and resource allocation strategies.
+\* •
+To consider ethical implications and scalability by analyzing how predictive models can be deployed responsibly in diverse educational environments, including under-resourced institutions, while ensuring data privacy and minimizing algorithmic bias.
+### 1.6. Key aspects and novel elements
+The key contributions of this study are as follows:
+\* •
+Proposed a Novel Hybrid Model Architecture: This study introduces an innovative stacking-based hybrid model that combines Convolutional Neural Networks (CNNs) and Random Forest as base learners, with XGBoost serving as the meta-learner. This architecture achieves superior predictive accuracy (88 %) and robustness, significantly outperforming traditional standalone machine learning models, thereby addressing the need for advanced, domain-specific ensemble techniques.
+\* •
+Comprehensive Feature Analysis: The study identifies and analyzes critical predictive factors, including studied credits, number of previous attempts, entrance results, and regional differences, offering deeper insights into the determinants of student performance. Additionally, the study emphasizes the importance of incorporating underutilized features, such as socio-economic background and extracurricular activities, for more holistic predictive models.
+\* •
+Enhanced Predictive Accuracy and Robustness: The study demonstrates the effectiveness of hybrid modeling techniques in improving predictive performance, achieving notable improvements in F1-score, recall, and AUC-ROC metrics over conventional models.
+\* •
+Addressed Critical Gaps in the Literature: Unlike prior works, this study fills significant gaps by proposing advanced ensemble techniques tailored for educational datasets, integrating real-time predictive capabilities, and addressing feature diversity to improve the generalizability of predictive models across diverse educational contexts.
+\* •
+Actionable Insights for Real-World Applications: The proposed model provides practical strategies for real-world educational applications, such as identifying at-risk students early, designing personalized learning plans, optimizing resource allocation, and informing teacher development programs.
+\* •
+Ethical and Operational Considerations: The study discusses critical ethical considerations, including privacy, algorithmic bias, and equitable access, ensuring the responsible and scalable deployment of predictive analytics in education. It also addresses operational challenges that arise in resource-constrained environments, making the findings relevant to a wide range of educational institutions.
+### 1.7. Organization of the study
+The Introduction chapter explores the significance of predictive analytics in education, its motivation, problem statement, questions, hypotheses, and objectives. The Literature Review chapter explores the history and current perspectives on predictive analytics in education, covering major research findings and various machine learning models. The Methodology chapter provides a workflow diagram for the research design and approach, including data collection, preprocessing, architectures, and performance evaluation measures. The Results chapter compares each machine learning model's performance using various measures and hybrid models, displaying the results using graphics. The Discussion chapter analyzes the results and discusses how they can improve teacher and student performance while acknowledging the study's limitations and suggesting future research directions. The Conclusion chapter summarizes the research's main results and contributions, concluding by discussing predictive analytics and machine learning in education and its significance. [Fig. 1](#fig1) shows the organization of the study.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr1.jpg)
+1. [Download: Download high-res image (305KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr1\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr1.jpg)
+Fig. 1. Organization of the study.
+## 2. Literature review
+### 2.1. Predictive analytics in education
+Predictive analytics in education has evolved significantly over the years. Historically, educational institutions relied on basic statistical methods to analyze student data ([Ali, 2024](#bib5)). Early efforts were primarily focused on descriptive statistics, which provided a snapshot of student performance without delving into the underlying causes or future predictions. However, with the advent of more sophisticated data analysis techniques and the proliferation of educational data, predictive analytics has become a critical tool for educators and policymakers ([Howard, 2017](#bib21)).
+In contemporary settings, predictive analytics leverages advanced algorithms and machine learning models to analyze vast amounts of data and forecast future outcomes ([Huang et al., 2017](#bib22)). This shift has enabled more proactive and personalized approaches to education. For example, predictive analytics can identify at-risk students before they fail, allowing for timely interventions that can significantly improve their chances of success. Additionally, these techniques can optimize resource allocation, ensuring that support is directed where it is most important ([Furquim et al., 2019](#bib16)). Recent systematic reviews ([Guizani et al., 2025](#bib17); [Shahzad et al., 2025](#bib37)) also highlight how large language models (LLMs) such as GPT-4 are transforming predictive education analytics, not only through automation and personalization but also by addressing key concerns such as data privacy and ethical integration in higher education settings.
+Many important studies over the past years have shown how effective predictive analytics for education are. For instance, by using logistic regression models in the prediction of student dropout rates in higher education ([Lam et al., 2024](#bib25)), were able to find that early alerting of students who are at risk of dropping out significantly lowers the number of cases of dropout by giving the said student support.
+Another notable contribution is the development of the student-Per formulator, a hybrid deep neural network model that utilizes BiLSTM with an attention mechanism to predict student academic performance. This approach has demonstrated superior accuracy compared to traditional methods by leveraging the ability of deep learning to automatically extract high-level features from educational data ([Yousafzai et al., 2021](#bib39)).
+The other one was conducted by ([Hlosta et al., 2022](#bib20)) to predict performance in online courses through the use of decision trees and neural networks, which yielded accurate results compared to those coming from the traditional methods. The study of ([Bond et al., 2024](#bib11)) reviewed the effects that can be derived from predictive analytics on personalized learning. They pointed out that machine learning models can be used to predict student learning paths and recommend personalized content for improving study outcomes. Moreover, recent contributions ([Shahzad et al., 2025](#bib37)) propose structured theoretical frameworks for embedding AI-based predictions into educational decision-making, thus elevating the strategic role of machine learning beyond technical forecasting into pedagogical planning. Taken together, these studies underline the transformative potential of predictive analytics in education.
+### 2.2. Machine learning models in education
+One common and straightforward method for predictive modeling is linear regression. The methodology involves the application of a linear equation to construct a model that depicts the correlation between the independent and dependent variables (Ahmed, 2024). Previous studies in education have used variables including socioeconomic status, study habits, and attendance to forecast grades for pupils (Orji & Vassileva, 2022). A very effective classification method called Support Vector Machines (SVM) finds the best hyperplane to divide data into discrete categories. Teachers have used it to group pupils into various performance levels according to test scores as well as additional behavioral and academic traits (Dervenis et al., 2022). Decision trees, which are hierarchical models that use feature values to divide the data into more understandable subsets, are shown in [Fig. 2](#fig2). According to Rastrollo-Guerrero et al. (2020), these techniques are frequently used to forecast student attrition rates, pinpoint the people who are most susceptible to attrition, and suggest viable remedies.Entropy(H(S))=−∑i=1npilog2piWhere pi is the proportion of data points in class i in the set S.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr2.jpg)
+1. [Download: Download high-res image (212KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr2\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr2.jpg)
+Fig. 2. Diagram of a decision tree model.
+XGBoost is such a gradient-boosting algorithm that is advanced and much popular for performance and scalability ([Namoun & Alshanqiti, 2020](#bib29)). In short, it combines several weak learners to come up with a strong predictive model. In educational research, XGBoost has been used to predict student performance and identify factors contributing to academic success([Chen & Guestrin, 2016](#bib12)).
+CNNs are deep learning models particularly effective in processing visual data shown in [Fig. 3](#fig3). In educational contexts, CNNs have been used for tasks such as grading handwritten assignments and analyzing visual learning materials ([Sekeroglu et al., 2021](#bib35)).
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr3.jpg)
+1. [Download: Download high-res image (472KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr3\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr3.jpg)
+Fig. 3. Architecture of a classical CNN.
+### 2.3. Applications of Educational Data Mining (EDM)
+Educational Data Mining (EDM) employs advanced data mining techniques to extract relevant insights from educational data, aiming to improve educational outcomes. According to Baker et al. (2016), EDM encompasses methods such as association rule mining, grouping, classification, and regression, which enable educators to derive meaningful patterns from large datasets.
+Clustering techniques, for instance, group students with similar characteristics, aiding in the design of targeted interventions. By identifying groups of students with similar learning styles, clustering supports the development of personalized learning plans tailored to individual needs ([He et al., 2016](#bib19)).
+Classification techniques, including decision trees and Support Vector Machines (SVM), are employed to classify students into predefined categories, such as high-risk or low-risk, based on their academic and behavioral data. This facilitates the early identification of at-risk students and the implementation of preventive measures to improve their academic outcomes ([Albreiki et al., 2021](#bib4)).
+Regression techniques, such as linear regression and XGBoost, predict continuous outcomes like student grades or test scores. These predictions provide valuable insights into potential future performance, enabling educators to adjust instructional strategies proactively ([Bokonda et al., 2020](#bib10)).
+Finally, EDM techniques help identify relationships between variables in educational data. For example, these methods can uncover associations between study habits and academic performance, offering educators a deeper understanding of the factors that contribute to student success ([Khasanah, 2017](#bib24)).
+### 2.4. Hybrid models in machine learning
+Hybrid models combine multiple machine learning techniques to leverage their strengths and improve overall predictive performance. By integrating different models, hybrid approaches can capture a broader range of patterns and relationships in the data, leading to more accurate and robust predictions ([Oppong, 2023](#bib32)).
+Research in hybrid models, whether in the field of healthcare, finance, or marketing, has proven its performance over individual models. For instance, a hybrid model using neural networks and decision trees greatly improved the prediction accuracy for medical diagnoses. For example, the hybrid models developed by integrating SVM and XGBoost have shown better performance in predicting stock prices under finance ([Doleck et al., 2020](#bib15)). Stacking involves training multiple models (base learners) and combining their predictions using a meta-learner. This approach can improve predictive performance by capturing different aspects of the data([Metawa et al., 2022](#bib27)). Ensemble learning techniques, such as bagging and boosting, combine the predictions of multiple models to form a stronger overall model. For instance, XGBoost, an ensemble method, combines the predictions of multiple weak learners to achieve high accuracy ([Nawang et al., 2021](#bib30)).
+### 2.5. Research gap
+Despite notable advancements in predictive analytics and machine learning applications in education, several critical gaps remain unaddressed. This study identifies the following key areas where existing research is limited:
+\* •
+Incorporation of Longitudinal Data: Most studies rely on static datasets that provide a snapshot of student performance, which limits the ability to assess long-term trends and sustained impacts of interventions. The lack of longitudinal data hampers efforts to track changes in academic performance over time.
+\* •
+Feature Diversity: Current research often focuses on limited factors such as studied credits and entrance results. Few studies incorporate socio-economic background, extracurricular activities, and psychological metrics, which are crucial for understanding the broader determinants of student performance.
+\* •
+Real-Time Predictive Models: Existing models predominantly focus on retrospective analysis, offering little value for real-time intervention. The potential for real-time predictive analytics to enable proactive decision-making during critical academic periods remains largely unexplored.
+\* •
+Scalability and Generalizability: Many studies are confined to specific institutions or regions, limiting the scalability and generalizability of their findings. There is a pressing need for models that can be adapted to diverse educational environments globally.
+\* •
+Ethical and Operational Challenges: Although some studies have addressed ethical considerations, there remains insufficient discussion on mitigating algorithmic bias, ensuring data privacy, and achieving equitable access to predictive tools, particularly in under-resourced settings.
+\* •
+Advanced Hybrid and Ensemble Techniques: While hybrid models, such as BiLSTM-based architectures, have shown promise ([Yousafzai et al., 2021](#bib39)), there is limited exploration of advanced stacking and ensemble methods specifically tailored to educational datasets. These techniques could significantly enhance predictive performance but are underexplored in the context of education.
+The present study explicitly addresses these gaps by:
+\* •
+Introducing a hybrid model architecture that leverages advanced stacking techniques tailored for educational datasets, thereby addressing the need for domain-specific ensemble methods.
+\* •
+Demonstrating the importance of integrating diverse features such as studied credits, regional differences, and number of previous attempts while advocating for the inclusion of socio-economic and behavioral metrics.
+\* •
+Highlighting the potential of predictive models for real-time applications, setting the stage for operationalizing these models in practical academic settings.
+\* •
+Employing a dataset from Wollo University and the Kombolcha Institute of Technology, representing diverse student profiles, to ensure the scalability and generalizability of the proposed approach.
+\* •
+Proposing actionable strategies for using predictive insights to enhance student outcomes, optimize teacher development programs, and allocate resources effectively.
+\* •
+Discussing ethical considerations and operational challenges, ensuring the responsible deployment of predictive models in education.
+By addressing these gaps, this study significantly advances the field of predictive analytics in education, providing a framework that is robust, generalizable, and ethically sound.
+## 3. Methodology
+### 3.1. Research design
+The models were evaluated under two scenarios: 1) \*\*Baseline Performance\*\*—where the models were trained using the original set of features to establish baseline performance metrics, and 2) \*\*Enhanced Feature Set\*\*—where additional domain-specific features were incorporated to assess their impact on model performance and prediction accuracy. These scenarios allowed for a comparison of model effectiveness under both basic and enhanced conditions, directly addressing the research objectives.
+The workflow in the student performance predictive analytics goes through several phases. It begins with the collection of data, where the CSV files are pre-loaded with relevant information about the students. The Data Cleaning step makes sure that the collected data is without error and inconsistency for further analysis. In the Feature Engineering stage, new features are created to enhance the predictive power of the dataset. Model Selection occurs after the data preparation and involves picking diverse machine learning models—such as regression, classification, and neural networks and then proceeding to further analysis. The picked models will, after this, go through the training process, where the implementation of the preparation of data takes place. Trained models are then evaluated based on their performance and accuracy during the Model Evaluation step. Hyperparameter Tuning is performed in an attempt to achieve better predictive abilities. After optimization, the models proceed to the Deployment stage, where they are put into practice. In the final Monitoring & Maintenance stage, constant supervision ensures that the models remain effective and accurate over time. This strong systematic workflow aims at leveraging predictive analytics in education to the ultimate benefit of student outcomes. All participants gave their informed consent for inclusion before they participated in the study.
+[Fig. 4](#fig4) presents the detailed steps of the proposed methodology, starting with data collection from CSV files, followed by essential preprocessing steps, including data cleaning and feature engineering. The methodology outlines the use of advanced statistical techniques for visualizing data and identifying patterns, ensuring that the model leverages the most relevant features. The framework highlights key contributions in integrating machine learning algorithms, model training, and performance evaluation to enhance prediction accuracy. Unique aspects of the methodology include the emphasis on customized feature selection and automated model optimization, which significantly improve the robustness and efficiency of the model.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr4.jpg)
+1. [Download: Download high-res image (661KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr4\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr4.jpg)
+Fig. 4. Proposed methodology.
+Diagram outlines in [Fig. 5](#fig5) the detailed workflow for training and evaluating individual and hybrid models in the context of predictive analytics for educational outcomes.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr5.jpg)
+1. [Download: Download high-res image (395KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr5\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr5.jpg)
+Fig. 5. Workflow of proposed methodology.
+The process starts with the Dataset, which undergoes Data Cleaning involving data clearing and data reduction to ensure quality and relevance. Next, the cleaned data is subjected to Normalization to standardize the feature scales. Following normalization, Hyperparameter Tuning is performed to optimize the model parameters for better performance.
+Various machine learning models are then trained, including Convolutional Neural Networks (CNN), Support Vector Machines (SVM), Decision Trees, and Random Forests. Additionally, a Hybrid Model integrating the strengths of the selected models is developed.
+These models undergo rigorous Training Protocols, after which they are evaluated based on key performance metrics such as Precision, Recall, Accuracy, and AUC (Area under the Curve). This structured approach ensures a thorough and robust analysis, leveraging the strengths of both individual and hybrid models to achieve high predictive accuracy and reliability in educational data analytics.
+### 3.2. Data collection
+#### 3.2.1. Description of dataset
+This study utilized a dataset comprising demographic, academic, and behavioral features of students, aimed at forecasting academic achievement. The original dataset was collected from institutional records of Wollo University and Kombolcha Institute of Technology, containing 32,592 entries spanning academic years 2017–2022. Due to privacy agreements, this dataset is not publicly shareable. However, an equivalent publicly accessible dataset with comparable structure and features is available on Kaggle:
+.
+The dataset includes a wide range of numerical and categorical attributes that reflect student performance and academic history. Attributes include:
+\* -
+id\\_student: a unique identifier for each student (float64).
+\* -
+gender: categorical (Male/Female).
+\* -
+region: student's region of origin (e.g., Addis Ababa, Amhara, Oromia).
+\* -
+entrance\\_result: qualification level upon admission (e.g., HE Qualification, A-Level or Equivalent, Lower than A-Level, Postgraduate).
+\* -
+num\\_of\\_prev\\_attempts: numeric value denoting prior attempts.
+\* -
+studied\\_credits: numeric value indicating total credits undertaken.
+\* -
+disability: whether the student reports a disability (Yes/No).
+\* -
+final\\_result: target variable; categories include Pass, Fail, Withdrawn, and Distinction.
+The final\\_result attribute serves as the prediction target, representing the academic outcome for each student. These outcomes help evaluate the effectiveness of various educational strategies and interventions.
+Example records from the dataset include 11391 males from Addis Ababa with an HE Qualification entrance result, no previous attempts, 240 studied credits, no disability, and a final result of Pass. Other students from the Afar Region, Amhara Region, Oromia Region, South Region, and Tigrai Region also have different results. [Table 1](#tbl1) illustrates the description of the dataset while sample data is given in [Table 2](#tbl2)
+Table 1. Description of dataset.
+| Column | Data Type | Non-Null Count |
+| --- | --- | --- |
+| id\\_student | float64 | 32,592 |
+| gender | object | 32,592 |
+| region | object | 32,592 |
+| entrance\\_result | object | 32,592 |
+| num\\_of\\_prev\\_attempts | float64 | 32,592 |
+| studied\\_credits | float64 | 32,592 |
+| disability | object | 32,592 |
+| final\\_result | object | 32,592 |
+Table 2. Sample data before normalization.
+| id\\_student | gender | region | entrance\\_result | num\\_of\\_prev\\_attempts | studied\\_credits | disability | final\\_result |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 11391 | M | Addis Ababa | HE Qualification | 0 | 240 | N | Pass |
+To ensure data quality, missing values were first analyzed. The proportion of missing data per feature ranged from 0.8 % to 3.4 %. Mean imputation was applied for numerical variables such as studied\\_credits and num\\_of\\_prev\\_attempts, while mode imputation was used for categorical attributes such as region and gender. Outliers in numerical features were identified using the interquartile range (IQR) method and were capped to fall within 1.5 × IQR from the first and third quartiles to prevent biasing model performance. These preprocessing steps were applied consistently across all experiments and can be reproduced using standard open-source libraries.
+#### 3.2.2. Data preprocessing
+After handling missing values and outliers as described in the previous section, additional preprocessing steps were carried out to ensure data integrity and compatibility with machine learning algorithms.
+First, duplicate records were identified using a combination of id\\_student and a hash-based comparison of full row entries. Duplicates were removed to prevent distortion of training and evaluation results. This step was conducted using Python 3.10, specifically with the Pandas and NumPy libraries.
+Next, categorical variables such as gender, region, entrance\\_result, and disability were encoded using label encoding, preparing them for algorithms that require numerical input. For models sensitive to feature scales (e.g., support vector machines), min-max normalization was applied to numerical features like studied\\_credits and num\\_of\\_prev\\_attempts.
+These preprocessing steps were implemented consistently across all experiments to ensure model compatibility and fairness. All transformations were tracked and saved to ensure reproducibility across validation folds and experiments.
+[Pie chart 6](#fig6) illustrates the distribution of students across various regions. The South Region has the largest proportion of students at 17.4 %, followed by the Sidamo Region at 16.0 %, while the North Region has the smallest proportion at 3.6 %.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr6.jpg)
+1. [Download: Download high-res image (330KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr6\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr6.jpg)
+Fig. 6. Student distribution based on region.
+[Pie chart 7](#fig7) depicts the gender distribution of students, with 54.8 % male and 45.2 % female.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr7.jpg)
+1. [Download: Download high-res image (217KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr7\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr7.jpg)
+Fig. 7. Student distribution based on gender.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr8.jpg)
+1. [Download: Download high-res image (385KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr8\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr8.jpg)
+Fig. 8. Student distribution by region and final result category.
+[Fig. 6](#fig6) shows the student distribution based on region, while [Fig. 7](#fig7) shows the student distribution based on gender. [Fig. 8](#fig8) shows the student distribution by region and final result category.
+#### 3.2.3. Normalization
+It is an essential step to avoid features with different scales to disproportionally influence the machine learning models which would result in better model performance. Normalization is scaling all the numerical attributes in a common range or distribution so that all attributes can be compared and does not make any particular feature dominate the learning process.
+Furthermore, studied\\_credits and num\\_of\\_prev\\_attempts have significant scale difference where the values vary and hence need to be normalized. The scale of num\\_of\\_prev\\_attempts (e.g., 0 to 10) greatly differs (e.g., 0 to 240) from that of the studied\\_credits attribute. This is because studied\\_credits are very big relative to the num\\_of\\_prev\\_attempts, which otherwise may not be an important factor, and if not normalized, the model would pay more attention to the large scale and not find any meaningful relationships.
+This normalization assists in standardizing these features so the model can pay equal importance to each feature, make the convergence better and increases the model's predictive reliability. This step prevents some features from having undue impact on the model, which is vital when building a model that consists of two different types of features such as numeric and categorical ones.
+The common ways to do it include Min-Max Scaling and Z-score normalization. Former scales the features to [0, 1] range while latter normalizes with zero mean and unit variance. For the studied\\_credits and num\\_of\\_prev\\_attempts attributes, both the methods were applied on the datasets so that the model can learn better and accurately.
+The bar chart 8 shows the distribution of students by region and their final result categories (Distinction, Fail, Pass, Withdrawn). The South Region has the highest number of students, while the Tigrai Region has the lowest. Most regions have a significant number of students achieving distinctions, with the Pass category being the most prominent overall.
+The heatmap [Fig. 9](#fig9) shows the correlation between different features: region, final result, number of attempts, and earned credits. The highest correlation is between earned credits and number of attempts (0.18). Other correlations are weak, with values close to zero, indicating minimal linear relationships among the features.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr9.jpg)
+1. [Download: Download high-res image (319KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr9\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr9.jpg)
+Fig. 9. Feature correlation heatmap.
+The pair plot matrix [Fig. 10](#fig10) shows the relationships between four features (region, entrance result, number of previous attempts, studied credits) and clusters (0, 1, 2, 3). Diagonal plots display the distribution of each feature within clusters. Off-diagonal plots show scatter plots for feature pairs, with points colored by cluster. The plot reveals clustering patterns, with darker points representing higher cluster numbers, and indicates some features are more densely clustered.
+\* 1.
+\*\*Min-Max Scaling:\*\* Min-max scaling transforms features by scaling them to a range of [0, 1]. The formula for min-max scaling is:
+X′=X−XminXmax−Xmin
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr10.jpg)
+1. [Download: Download high-res image (1000KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr10\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr10.jpg)
+Fig. 10. Pair plot of features.
+Equation 1: Min-Max normalization
+\* 2.
+Z-Score Normalization: Z-score normalization (standardization) transforms the data to have a mean of 0 and a standard deviation of 1. The formula is:
+Z=X−μσ
+Equation (2): Z-Score Normalization.
+#### 3.2.4. Application to the dataset
+In the provided dataset, both studied\\_credits and num\\_of\\_prev\\_attempts were normalized using min-max scaling to bring all features to the same scale. This ensures that the machine learning models treat each feature equally, improving their ability to learn from the data without being biased by the scale of any particular attribute ([Ahmed, 2023](#bib2)).
+#### 3.2.5. Feature selection
+Our dataset presented a combination of numerical and categorical variables, which required careful curation. We handled numerical features and categorical features in separate ways to account for their unique characteristics. Every feature came with a concise description, which helped provide context for the following analysis ([Powers, 2020](#bib34)).
+Using the random forest algorithm as our primary tool, we were able to identify the most informative characteristics within this diverse dataset. This algorithm is highly effective for feature selection as it can handle a wide range of feature types with great efficiency. We aimed to train a random forest model iteratively using a 5-fold cross-validation setup. This approach not only aids in evaluating the model's performance but also enables us to identify the ideal number of features. Using 5-fold cross-validation is a smart and efficient approach. This method entails dividing the dataset into five subsets or "folds" and utilizing four of them for training purposes while keeping the fifth one aside for validation. The process is repeated five times, with each fold taking a turn as the validation set ([Albreiki et al., 2021](#bib4)).
+The smaller number of folds is well-suited for our dataset, ensuring efficient computation while still yielding reliable insights. In addition, using a small number of folds has its benefits as it enables each fold to accurately represent a significant portion of the data. With a dataset of 32,005 students, this approach guarantees that each iteration captures a varied and representative sample, enhancing the overall reliability of the model's performance evaluation.
+After applying the random forest algorithm for feature selection, a thorough analysis revealed the most informative attributes for subsequent predictive modeling:
+\* •
+\*\*Gender:\*\* Please indicate the gender of the student as either M for male or F for female.
+\* •
+\*\*Region:\*\* The geographic region linked to the student's place of origin, such as Addis Ababa, Afar Region, Amhara Region, and so on.
+\* •
+\*\*Entrance Result:\*\* The level of qualification achieved upon entrance (e.g., Higher Education Qualification, A Level or Equivalent, Below A Level, Post Graduate Qualification).
+\* •
+\*\*Previous Attempts:\*\* The number of previous attempts refers to the number of times the student has tried the course or examination before.
+\* •
+\*\*Academic Progress:\*\* The cumulative number of credits the student has completed and is currently working towards.
+\* •
+\*\*Disability:\*\* Indicates whether the student has reported any disabilities (Y for yes, N for no).
+\* •
+\*\*Final Result:\*\* The student's previous academic outcome, such as pass, fail, withdrawn, or distinction.
+### 3.3. Model implementation
+We employed cutting-edge machine learning techniques to thoroughly investigate and predict student academic performance. Our investigation included a combination of conventional machine learning approaches and deep learning. The adherence to the pre-existing architectures, such as Convolutional Neural Networks (CNNs), besides the use of frameworks like TensorFlow and PyTorch, gave a tremendous boost to the ability to be advanced in great strides by deep learning. In Convolutional Neural Networks, the method of adopting a succession of convolution and pooling layers is used in collecting spatial data effectively. The process of reusing features in CNNs gets enhanced with the dense connections. CNN separable convolutions achieve a good balance between computing efficiency and accuracy. More commonly used in the industry are traditional machine learning techniques, such as Linear Regression, Support Vector Machines (SVM), Decision Trees, XGBoost, and Random Forests.
+Scikit-learn was commonly used to implement these models. Linear regression is used to examine the correlation between dependent and independent variables, while Support Vector Machines (SVMs) are employed to discover the most optimal hyperplanes for classifying data into separate groups. XGBoost use gradient boosting to enhance prediction accuracy, Decision Trees utilize feature divisions in hierarchical structures, and Random Forests utilize numerous decision trees to enhance generalization and resilience.
+Before training and evaluating the model, a thorough preprocessing of the dataset was carried out as a part of the implementation phase. The model parameters were carefully fine-tuned to improve accuracy through the use of grid search and hyperparameter optimization. The models maintained their dependability and avoided overfitting by undergoing cross-validation, which involved repeated training and testing on different subsets of data. We devised an all-encompassing plan that utilized a range of machine learning methods, capitalizing on our proficiency in artificial intelligence. This strategy greatly improved the precision and dependability of our predictions concerning student accomplishments.
+#### 3.3.1. Hypermeter optimization
+Optimizing hyperparameters is essential in machine learning algorithms, to enhance accuracy and efficiency without needing a lot of manual input. In this study on using machine learning to forecast student success, grid search is employed to explore the intricate search space, methodically evaluating predictions against real outcomes. Nevertheless, grid search encounters difficulties when dealing with intricate spaces and continuous parameters ([López Zambrano et al., 2021](#bib26)).
+In modern machine learning, automated hyperparameter optimization (HPO) is crucial for simplifying the process and enhancing model performance. Yet, HPO encounters major challenges including costly function assessments and ambiguous optimization objectives. Grid search is a frequently used technique; however, it is constrained by its exhaustive approach and struggles to effectively navigate intricate hyperparameter spaces ([Ofori et al., 2020](#bib31)).
+Model selection is the initial stage of hyperparameter optimization and considers data characteristics, problem intricacy, and expected results. Decision Trees, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), and Naïve Bayes are utilized in the models. During the tuning phase, a range of values for each parameter is used to create the hyperparameter space.
+Grid search is used to navigate through the hyperparameter space by examining all possible combinations of hyperparameters within specified ranges. Additional methods such as random search and Bayesian optimization are also considered. Cross-validation is used to assess model performance and prevent overfitting by dividing the data into different subsets and training and evaluating the model multiple times.
+Following hyperparameter tuning through cross-validation, the performance of each model setup is evaluated using predefined metrics like accuracy, precision, recall, F1-score, and AUC-ROC. The ultimate model that shows top performance on the validation set is called the final model.
+By following these organized steps, we successfully adjusted the hyperparameters of our machine learning models, improving their performance and achieving better results on our dataset. This step is essential for creating strong predictive models for student success and enabling better decision-making in education ([Perveen, 2016](#bib33)). [Table 3](#tbl3) shows the sample data after normalization while [Table 4](#tbl4) shows the hyperparameter range. [Table 5](#tbl5) shows the optimal hyperparameter value.
+Table 3. Sample data after normalization.
+| id\\_student | gender | region | entrance\\_result | num\\_of\\_prev\\_attempts | studied\\_credits | disability | final\\_result |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 11391 | M | Addis Ababa | HE Qualification | 0 | 1 | N | Pass |
+Table 4. Hyper parameter range for grid search.
+| Model | Hyperparameter | Values/Range |
+| --- | --- | --- |
+| Classical NN | Learning Rate | [0.001, 0.01, 0.1] |
+| Number of Layers | [1, 2, 3, 4, 5] |
+| Number of Units per Layer | [32, 64, 128, 256] |
+| Activation Function | ['relu', 'sigmoid', 'tanh'] |
+| Batch Size | [16, 32, 64, 128] |
+| Epochs | [50, 100, 150] |
+| SVM | Kernel | ['linear', 'poly', 'rbf', 'sigmoid'] |
+| C (Regularization Parameter) | [0.1, 1, 10, 100] |
+| Gamma (Kernel Coefficient) | ['scale', 'auto', 0.001, 0.01, 0.1, 1] |
+| Decision Tree | Criterion | ['gini', 'entropy'] |
+| Max Depth | [None, 10, 20, 30, 40, 50] |
+| Min Samples Split | [2, 5, 10] |
+| Min Samples Leaf | [1, 2, 4] |
+| Random Forest | Number of Estimators | [100, 200, 300, 400, 500] |
+| Criterion | ['gini', 'entropy'] |
+| Max Depth | [None, 10, 20, 30, 40, 50] |
+| Min Samples Split | [2, 5, 10] |
+| Min Samples Leaf | [1, 2, 4] |
+| Hybrid Model | Base Learners | [CNN, Random Forest] |
+| Meta-Learner | [XGBoost] |
+| Meta-Learner Learning Rate | [0.01, 0.05, 0.1] |
+| Meta-Learner Max Depth | [3, 5, 7, 9] |
+| Meta-Learner Number of Estimators | [50, 100, 150, 200] |
+Table 5. Optimal hyperparameter value.
+| Algorithm | Hyperparameter | Optimal Value |
+| --- | --- | --- |
+| Decision Tree | Max Depth | 10 |
+| Min Samples Split | 5 |
+| SVM | C | 10 |
+| Kernel | rbf |
+| KNN | n\\_neighbors | 5 |
+| Weights | distance |
+| Naïve Bayes | Var Smoothing | 1.00E-08 |
+| CNN | Learning Rate | 0.01 |
+| Batch Size | 32 |
+| DenseNet | Learning Rate | 0.01 |
+| Growth Rate | 24 |
+| ResNet | Learning Rate | 0.01 |
+| Batch Size | 32 |
+| MobileNet | Learning Rate | 0.01 |
+| Width Multiplier | 1 |
+| Linear Regression | Regularization | 0.1 |
+| XGBoost | n\\_estimators | 200 |
+| Learning Rate | 0.1 |
+| Random Forest | n\\_estimators | 200 |
+| Max Features | sqrt |
+### 3.4. Hybrid model design
+To enhance the predictive performance and robustness of our machine learning models for predicting student achievement, we have designed a hybrid model utilizing ensemble learning techniques, specifically stacking. Stacking integrates multiple machine learning models to leverage their strengths, thereby improving overall prediction accuracy and robustness.
+#### 3.4.1. Feature selection and data preparation
+The initial dataset for a hybrid model included columns such as id\\_student, gender, region, entrance\\_result, num\\_of\\_prev\\_attempts, studied\\_credits, disability, and final\\_result. The most informative features were selected based on feature importance analysis using the Random Forest algorithm. The id\\_student column was removed as it did not provide predictive value for the model. Existing features were preprocessed for model training, ensuring the quality and suitability for modeling. Missing data was addressed by imputing values or removing records with substantial missing information. Numerical features were normalized using min-max scaling, and categorical variables were encoded using one-hot encoding. The dataset was split into training (70 %), validation (15 %), and test (15 %) sets to facilitate robust model evaluation. This thorough preprocessing ensured the data was clean, consistent, and ready for use in the hybrid modeling process ([Baashar et al., 2021](#bib7)).
+#### 3.4.2. Stacking architecture
+The stacking architecture comprises two levels. The first level, known as the base learners (Level-0), includes individual models that are trained on the dataset. In this hybrid model, we use a Convolutional Neural Network (CNN) and a Random Forest as base learners. The CNN was chosen for its ability to capture complex, non-linear feature hierarchies and deep interactions within the dataset, which is particularly useful for extracting latent patterns from tabular educational data. The Random Forest provides robust predictions by aggregating the outputs of multiple decision trees, thereby reducing overfitting and improving generalization ([Abu-Qdais et al., 2023](#bib1)). Random Forest was selected for its interpretability, ensemble strength, and ability to handle feature variance and categorical diversity.
+The second level, known as the meta-learner (Level-1), is trained on the outputs (predictions) of these base learners and makes the final prediction. XGBoost was selected as the meta-learner due to its computational efficiency, regularization capabilities, and ability to boost weak learners effectively—leading to enhanced generalization performance and robustness. For this role, we have selected XGBoost due to its powerful boosting capabilities and efficiency in handling the combined predictions from the base learners, further enhancing the accuracy and robustness of the final model ([Mucherino et al., 2009](#bib28)).
+#### 3.4.3. Implementation process
+Training the base learners starts with the Convolutional Neural Network (CNN) and the Random Forest. The CNN structure is created with TensorFlow, including numerous convolutional layers, pooling layers, and fully connected layers. Dropout and batch normalization techniques are used to avoid overfitting. The CNN receives training using data augmentation for increased data diversity and regularization to enhance generalization. Grid search is used to optimize hyperparameters like the number of trees and maximum depth in the Random Forest model configured with Scikit-learn. This model is trained on the identical training set, with a main focus on maximizing accuracy and robustness.
+For generating base predictions, 5-fold cross-validation is used to create out-of-fold predictions for both CNN and Random Forest. This involves splitting the training data into five subsets, training the models on four subsets, and validating on the fifth subset. The predictions from each fold are stored, forming a new training set for the meta-learner.
+The meta-learner is trained by combining the out-of-fold predictions from the base learners to create a new dataset, which includes the predictions of CNN and Random Forest as features and the true labels as the target. The XGBoost ([Cui, 2020](#bib13)) model is then trained on this new training set, with hyperparameters optimized using grid search or Bayesian optimization. For the final prediction, the trained base learners (CNN and Random Forest) generate predictions on the test set. These predictions are then fed into the trained XGBoost meta-learner, which produces the final prediction for the test set. This comprehensive process ensures robust and accurate predictive modeling.
+### 3.5. Classification and clustering
+Classification and clustering are fundamental techniques in the realm of educational data analytics. Classification models, such as Support Vector Machine (SVM), Decision Tree, and Random Forest, are employed to categorize students into predefined groups based on features like gender, region, entrance\\_result, num\\_of\\_prev\\_attempts, studied\\_credits, and disability. SVM ([H. Alamri et al., 2020](#bib18)) functions by identifying the best hyperplane to divide the data into distinct categories, enabling the classification of students into performance groups such as 'Pass', 'Fail', 'Withdrawn', and 'Distinction'. With their hierarchical layout, Decision Trees divide data into groups based on feature values, making them simple to understand and efficient for foreseeing student results and pinpointing at-risk students. Random Forest works by combining numerous decision trees to improve predictive accuracy and robustness in dealing with the intricacies and fluctuations of educational data effectively.
+Alternatively, clustering methods like K-means are used to categorize students with alike traits, helping in creating specific interventions and individualized learning strategies. K-means ([Alsariera et al., 2022](#bib6)) divides the data into separate clusters according to similarity in features, allowing for the detection of groups of students who have similar learning styles, academic achievements, or behavioral tendencies. For instance, clustering can help educators recognize students from similar regions who share analogous entrance results and numbers of previous attempts, facilitating the development of personalized learning strategies for these groups. Together, classification and clustering techniques provide a comprehensive approach to understanding and enhancing student performance, allowing educators to implement tailored interventions and support mechanisms effectively.
+### 3.6. Training and evaluation
+Training and evaluation are critical components of the predictive modeling process in educational data analytics. For training individual models, the process begins with data preprocessing, which involves handling missing values, removing duplicates, and normalizing numerical features such as studied\\_credits and num\\_of\\_prev\\_attempts. Categorical variables, including region, gender, entrance\\_result, and disability, are encoded appropriately, often using one-hot encoding. Next, the data is divided into training, validation, and test subsets, usually in a ratio of 70:15:15. Cross-validation methods like k-fold cross-validation are used to guarantee the model performs well on new data sets. Hyperparameters are adjusted through techniques such as grid search or random search to enhance the model's effectiveness. After being trained, models go through a series of assessments that involve metrics such as accuracy, precision, recall, F1-score, and the AUC-ROC curve to determine their predictive ability and reliability ([Baldi et al., 2000](#bib9)).
+In hybrid models, the training process includes utilizing base learners like Convolutional Neural Networks (CNN) and Random Forests. These base learners are trained on the dataset, and out-of-fold predictions are generated using cross-validation. These predictions serve as input features for a meta-learner, such as XGBoost, which aggregates the base learners' predictions to make the final prediction. This stacking architecture, which includes a two-level structure with base learners at Level-0 and a meta-learner at Level-1, is optimized through hyperparameter tuning using grid search or Bayesian optimization. The comprehensive training and evaluation processes ensure that both individual and hybrid models are robust, accurate, and capable of providing reliable predictive analytics, thereby enhancing the ability to design effective educational interventions and support mechanisms.
+## 4. Results
+In this section, we present the results of our predictive analytics study aimed at enhancing student achievement through the application of machine learning models. We evaluate the performance of individual and hybrid models on the dataset from Wollo University and the Kombolcha Institute of Technology, consisting of student records from 2017 to 2022.
+All models were trained and evaluated using 5-fold cross-validation to ensure robust generalizability. Performance metrics were averaged across folds, and include accuracy, precision, recall, F1-score, and AUC-ROC.
+### 4.1. Individual model performance comparison
+We trained and evaluated several individual machine learning models, including Classical Neural Network, Support Vector Machine (SVM), Decision Tree, and Random Forest, to classify student outcomes based on features such as gender, region, entrance\\_result, num\\_of\\_prev\\_attempts, studied\\_credits, and disability.
+#### 4.1.1. Convolutional neural network
+Although CNNs are typically used for image recognition, recent studies have demonstrated their utility in structured/tabular data by leveraging feature matrix transformations that help identify local feature interactions. In this study, input features were reshaped into structured arrays, allowing convolutional layers to capture non-linear relationships among attributes. [Table 6](#tbl6) shows the performance metrices of CNN.
+Table 6. Performance for CNN.
+| Metric | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
+| --- | --- | --- | --- | --- | --- |
+| CNN | 0.85 | 0.80 | 0.83 | 0.81 | 0.87 |
+#### 4.1.2. Support vector machine (SVM)
+The SVM model was trained using features such as gender, region, entrance\\_result, num\\_of\\_prev\\_attempts, studied\\_credits, and disability. [Table 7](#tbl7) summarizes the performance metrics for the SVM model.
+Table 7. Performance metrics for the SVM model.
+| Metric | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
+| --- | --- | --- | --- | --- | --- |
+| Value | 0.82 | 0.78 | 0.81 | 0.79 | 0.85 |
+It is a model with an accuracy of 82 %, with a precision of 78 %, and a recall of 81 %. The F1-score was 79 %; this means some kind of balance between precision and recall. With the AUC-ROC score as high as 0.85, it proves a strong ability to differentiate between various classes.
+#### 4.1.3. Decision tree
+The Decision Tree model was also evaluated on the same set of features. [Table 8](#tbl8) shows the performance metrics for the Decision Tree model.
+Table 8. Performance metrics for decision tree model.
+| Metric | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
+| --- | --- | --- | --- | --- | --- |
+| Value | 0.79 | 0.75 | 0.78 | 0.76 | 0.82 |
+The Decision Tree model achieved an accuracy of 79 %, with a precision of 75 % and a recall of 78 %. The F1-score was 76 %, and the AUC-ROC score was 0.82.
+#### 4.1.4. Random forest
+The Random Forest model, an ensemble method, was evaluated next. [Table 9](#tbl9) provides the performance metrics for the Random Forest model
+Table 9. Performance metrics for random forest model.
+| Metric | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
+| --- | --- | --- | --- | --- | --- |
+| Value | 0.85 | 0.81 | 0.84 | 0.82 | 0.88 |
+The Random Forest model outperformed the SVM and Decision Tree models, achieving an accuracy of 85 %, a precision of 81 %, a recall of 84 %, and an F1-score of 82 %. The AUC-ROC score was 0.88, indicating superior performance in distinguishing between classes.
+#### 4.1.5. Model comparison
+A comparison of four machine learning models, including Classical Neural Network (NN), Support Vector Machine (SVM), Decision Tree, and Random Forest, based on five key performance metrics, i.e., Accuracy, Precision, Recall, F1 Score, and AUC ROC are shown in [Fig. 11](#fig11). Finally, the figure presents the performance of each model through colored bars showing how it performed on each of these metrics. Overall correctness of the model is captured by Accuracy while Precision and Recall deal with the model's ability to capture positive instances correctly. A balanced measure between Precision and Recall is provided by F1 Score and for evaluating the model in separating the positive and negative classes, AUC-ROC is used. We performed appropriate statistical tests (e.g., paired t-tests or ANOVA) to statistically validate that observed differences of performance are significant. These tests guarantee that the performance differences are not because of chance and are a fundamental part in giving a solid base for contrasting the models' viability. Specifically, a paired \*t\*-test was conducted on model accuracies across the 5-fold cross-validation splits. The improvement in accuracy from the best individual model (Random Forest) to the hybrid model was statistically significant at p < 0.01. This result confirms that the hybrid model's superior performance is not due to random variation, but reflects a true gain in predictive reliability.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr11.jpg)
+1. [Download: Download high-res image (356KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr11\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr11.jpg)
+Fig. 11. Comparison of performance metrics for individual models.
+The proposed hybrid model, combining CNN and Random Forest as base learners with XGBoost as the meta-learner, outperformed all individual models. It achieved the highest accuracy (88 %), precision (85 %), recall (87 %), F1-score (86 %), and AUC-ROC (0.90). This demonstrates the hybrid model's ability to synergize the strengths of deep learning and ensemble techniques, effectively addressing the limitations of individual models and achieving superior predictive performance.
+The detailed performance comparison is summarized in [Fig. 11](#fig11), [Fig. 12](#fig12), highlighting the hybrid model's ability to bridge the gap between traditional and modern approaches while advancing the state-of-the-art in educational predictive analytics.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr12.jpg)
+1. [Download: Download high-res image (339KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr12\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr12.jpg)
+Fig. 12. Comparison of performance metrics for hybrid and individual models.
+### 4.2. Hybrid model performance
+We developed a hybrid model using a stacking architecture that combines the predictions of multiple base learners (CNN and Random Forest) with a meta-learner (XGBoost). The performance of the hybrid model is compared against the individual models
+#### 4.2.1. Training base learners
+The base learners were trained using cross-validation, and their out-of-fold predictions were stored to create meta-features for the meta-learner.
+[Table 10](#tbl10) shows the evaluation result of Accuracy, Precision, Recall, F1-Score and AUC-ROC for base learners (CNN and Random Forest). They result from controlled experiments to test the predictive accuracy and classification performance of the models. Missing values were handled and categorical features were encoded, then features were scaled and normalized to become uniform. The same dataset was used to train the models and the models were hyperparameter-tuned through a grid search to find optimal configurations. The evaluation of the models was conducted based on common classification metrics comprising Accuracy for the overall performance as well as Precision, Recall and F1-Score for gauging the ability of the models to identify and classify different classes. Furthermore, AUC-ROC was used to evaluate the model's discriminatory ability. Experiments were conducted under two key scenarios: In Scenario 1, model performance was evaluated using a standard feature set (baseline) to determine model performance, and in Scenario 2, additional domain-specific features were added to explore how enhanced data could increase model predictions. The research questions are directly aligned with these experimental setups and the hypotheses are aimed at evaluating the performance of different machine learning techniques to predict outcomes and support hypotheses on model performance and classification reliability.
+Table 10. Performance of base learners.
+| Base Learner | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
+| --- | --- | --- | --- | --- | --- |
+| CNN | 0.84 | 0.8 | 0.83 | 0.81 | 0.87 |
+| Random Forest | 0.85 | 0.81 | 0.84 | 0.82 | 0.88 |
+#### 4.2.2. Meta-learner training
+The meta-learner (XGBoost) was trained on the meta-features generated from the base learners' predictions. [Table 11](#tbl11) summarizes the performance metrics for the hybrid model.
+Table 11. Performance metrics for hybrid model.
+| Metric | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
+| --- | --- | --- | --- | --- | --- |
+| Value | 0.88 | 0.88 | 0.87 | 0.86 | 0.9 |
+The hybrid model achieved an accuracy of 88 %, a precision of 85 %, a recall of 87 %, and an F1-score of 86 %. The AUC-ROC score was 0.90, demonstrating the highest performance among all models.
+#### 4.2.3. Hybrid model comparison
+The comparison of the hybrid model with individual models is illustrated in [Fig. 8](#fig8).
+The hybrid model outperforms all individual models illustrated in [Fig. 12](#fig12), showcasing the effectiveness of the stacking architecture in enhancing predictive accuracy.
+### 4.3. Clustering analysis
+#### 4.3.1. Clustering of student performance profiles
+The K-means algorithm was then utilized to do the clustering analysis among the students grouped from similar characteristics. The ideal number of clusters is identified using the elbow method; this is shown in [Fig. 13](#fig13). An Elbow Method plot is a plot used to get the ideal number of clusters for a clustering algorithm such as K-Means. The x-axis of the plot represents the number of clusters and the y-axis represents the sum of squared errors (SSE). The SSE decreases with an increasing number of clusters, but at one point, the decrease rate slows down and forms an elbow. This elbow can be observed in the plot at around k = 3, showing the optimal number of clusters. After three clusters, the reduction in SSE is marginal, thus implying that three clusters are capturing the structure of the data well without undue complexity.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr13.jpg)
+1. [Download: Download high-res image (245KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr13\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr13.jpg)
+Fig. 13. Determining Optimal Number of Clusters using the Elbow Method.
+Based on the elbow method, we identified three clusters. [Table 12](#tbl12) provides a summary of the characteristics of each cluster [Table 13](#tbl13), [Table 14](#tbl14) shows the model performance before and after the hyperparameter tuning.
+Table 12. Summary of student clusters.
+| Cluster | Number of Students | Key Characteristics |
+| --- | --- | --- |
+| 1 | 10,500 | High studied\\_credits, Low num\\_of\\_prev\\_attempts, Mostly 'Pass' |
+| 2 | 8,000 | Medium studied\\_credits, Medium num\\_of\\_prev\\_attempts, Mixed Outcomes |
+| 3 | 5,505 | Low studied\\_credits, High num\\_of\\_prev\\_attempts, Mostly 'Fail' |
+Table 13. Model performance before hyperparameter tuning.
+| Model | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
+| --- | --- | --- | --- | --- | --- |
+| Classical NN | 0.82 | 0.8 | 0.81 | 0.8 | 0.85 |
+| SVM | 0.8 | 0.78 | 0.79 | 0.78 | 0.83 |
+| Decision Tree | 0.78 | 0.76 | 0.75 | 0.75 | 0.8 |
+| Random Forest | 0.84 | 0.82 | 0.83 | 0.82 | 0.87 |
+| Hybrid Model | 0.85 | 0.83 | 0.84 | 0.83 | 0.88 |
+Table 14. Model Performance after Hyper parameter Tuning.
+| Model | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
+| --- | --- | --- | --- | --- | --- |
+| Classical NN | 0.85 | 0.83 | 0.84 | 0.83 | 0.88 |
+| SVM (Tuned) | 0.83 | 0.81 | 0.82 | 0.81 | 0.86 |
+| Decision Tree | 0.81 | 0.79 | 0.78 | 0.78 | 0.82 |
+| Random Forest | 0.87 | 0.85 | 0.86 | 0.85 | 0.89 |
+| Hybrid Model | 0.89 | 0.87 | 0.88 | 0.87 | 0.91 |
+The clustering of students is visualized in [Fig. 14](#fig14).
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr14.jpg)
+1. [Download: Download high-res image (259KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr14\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr14.jpg)
+Fig. 14. Visualization of student clusters.
+Cluster 1 primarily consists of high-performing students with high studied credits and a low number of previous attempts. Cluster 2 represents students with mixed academic outcomes, characterized by moderate studied credits and an average number of previous attempts. Finally, Cluster 3 includes mostly low-performing students, who tend to have low studied credits and a high number of previous attempts. The clustering of students is visualized in [Fig. 14](#fig14).
+The scatter plot visualizes student clusters using Principal Component Analysis (PCA). The x-axis represents Principal Component 1, and the y-axis represents Principal Component 2. Different colors correspond to different cluster labels, illustrating how students are grouped based on these components. Each point represents a student, showing the distribution and separation of clusters in the reduced-dimensional space.
+#### 4.3.2. Key observations
+The clustering analysis highlights how students can be categorized into distinct performance groups, allowing for targeted educational interventions. For instance, students in Cluster 3 (low-performing) may benefit from additional support and resources, such as tutoring programs or remedial classes. Conversely, students in Cluster 1 (high-performing) may be offered opportunities for advanced learning or extracurricular enrichment to further their success. Cluster 2 (mixed outcomes) presents a unique opportunity to design personalized strategies addressing specific challenges faced by students in this group.
+The quality of clustering was assessed using silhouette analysis ([Fig. 15](#fig15)), which showed that Clusters 0, 1, and 3 were well-defined, with relatively higher silhouette scores. Cluster 2 had a lower silhouette score, indicating some overlap with other clusters.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr15.jpg)
+1. [Download: Download high-res image (291KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr15\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr15.jpg)
+Fig. 15. Silhouette analysis.
+The silhouette analysis plot 15 assesses the quality of the clustering by displaying the silhouette coefficient values for each cluster (0, 1, 2, 3). The silhouette coefficient ranges from −1 to 1, where higher values indicate better-defined clusters. Each bar in the plot represents a cluster, with the width corresponding to the silhouette scores of the points within that cluster. Clusters 0, 1, and 3 have relatively higher silhouette scores, which indicate that they are well-defined and coherent, while Cluster 2 has a low silhouette score, meaning it is less well-defined and probably overlaps with the others. The red dashed line marks the average silhouette score, approximately 0.4, indicating moderate clustering quality overall, with most points having a silhouette score above this average.
+3D [plot 16](#fig16) visualizes the clustering of student data using Principal Component Analysis (PCA) to reduce the dimensionality to three principal components. Each point represents a student, with colors indicating different cluster labels. The axes correspond to Principal Component 1, Principal Component 2, and Principal Component 3, respectively.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr16.jpg)
+1. [Download: Download high-res image (636KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr16\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr16.jpg)
+Fig. 16. 3D PCA clustering visualization.
+The plot helps in understanding the distribution of students across clusters in the reduced-dimensional space. The red crosses represent the centers of each cluster, showing the central points around which students in each cluster are grouped. This visualization provides insight into the separation and cohesion of the student clusters based on the PCA components.
+[Plot 17](#fig17) visualizes student clustering using PCA to reduce the features to two principal components. Each point represents a student, colored by a cluster label. The x-axis and y-axis correspond to Principal Component 1 and Principal Component 2, respectively. The large colored crosses indicate the centers of each cluster. This visualization shows the distribution and grouping of students across different clusters.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr17.jpg)
+1. [Download: Download high-res image (338KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr17\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr17.jpg)
+Fig. 17. Cluster centers and data points.
+[Plot 18](#fig18) visualizes the clustering results of students using Principal Component Analysis (PCA) to reduce the features to two principal components. Each point represents a student and is colored by cluster label. The x-axis and y-axis correspond to Principal Component 1 and Principal Component 2, respectively, showing the distribution and grouping of students across different clusters.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr18.jpg)
+1. [Download: Download high-res image (289KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr18\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2590291125005522-gr18.jpg)
+Fig. 18. Clustering results visualization.
+#### 4.3.3. Novelty of the hybrid architecture
+The proposed hybrid architecture demonstrates novelty not only through performance enhancement but also in its architectural synergy. The model integrates three complementary learning paradigms: (i) the convolutional neural network (CNN), which excels at capturing high-order non-linear dependencies; (ii) Random Forest, known for its robustness and interpretability in handling diverse feature spaces; and (iii) XGBoost, a powerful gradient boosting algorithm that refines ensemble decisions at the meta-learning stage. This layered integration enables superior generalization across complex and heterogeneous educational data. Unlike conventional single-model approaches, the stacking-based hybrid structure dynamically balances feature sensitivity, model bias, and prediction variance. This design choice was guided not only by empirical accuracy but also by the potential to support modular upgrades, improved transferability to other domains, and better error tolerance, which are all essential in real-world educational analytics systems (see [Table 3](#tbl3)).
+### 4.4. Results before hyperparameter tuning and after hyperparameter tuning
+[Table 4](#tbl4), [Table 5](#tbl5) demonstrate that adjusting hyperparameters greatly enhances the effectiveness of every model. Both the Classical Neural Network and Random Forest models show significant improvements in accuracy, precision, recall, F1-Score, and AUC-ROC after being fine-tuned. The Hybrid Model, combining the strengths of the Classical Neural Network and Random Forest, attains the top performance metrics across all evaluation criteria.
+The thorough performance metrics and visual representations offer a complete insight into the predictive abilities of the models. The tables emphasize the importance of adjusting hyperparameters to improve machine learning models, showing that it boosts accuracy and predictive results.
+The study evaluated the Classical Neural Network, Support Vector Machine, Decision Tree, Random Forest, and Hybrid Models before and after hyperparameter tuning. Accuracy and other metrics (precision, recall, F1-score, and AUC-ROC) were calculated using a hold-out validation approach. Specifically, the dataset of 24,005 student records was divided into training (80 %) and testing (20 %) subsets. Accuracy was determined as the proportion of correctly classified predictions (true positives and true negatives) out of the total number of predictions on the testing set.
+The Classical Neural Network showed an AUC-ROC of 0.88 and an accuracy of 0.85 after tuning, while the Support Vector Machine demonstrated slightly lower performance. The Decision Tree model achieved an accuracy of 0.81. The Random Forest model, with an accuracy of 0.87, outperformed the other individual models, validating its robustness in handling complex feature interactions. The Hybrid Model was the most successful, reaching an AUC-ROC of 0.91 and an accuracy of 0.89. These results underscore the importance of careful hyperparameter adjustments in enhancing machine learning models' accuracy and predictive capabilities.
+The comparative analysis of different machine learning models revealed that the Random Forest model outperformed other individual models in predicting educational outcomes (Research Question 1), as shown in [Fig. 11](#fig11). Meanwhile, the Hybrid Model achieved even higher accuracy and reliability by combining multiple techniques (Research Question 2), as illustrated in [Fig. 12](#fig12). Stacking and ensemble learning methods significantly improved predictive accuracy, robustness, and reliability (Research Question 3), as demonstrated in the comparative performance metrics in [Fig. 11](#fig11).
+Several critical factors influencing predictive accuracy were identified, including studied credits, number of previous attempts, entrance result, and region (Research Question 4). These factors are summarized and visualized through clustering analysis in [Fig. 12](#fig12) and [Table 10](#tbl10), [Table 11](#tbl11), which provide deeper insights into the patterns underlying student performance.
+The insights gained from these predictive models can be effectively translated into actionable strategies for educators (Research Question 5). For example, targeted interventions can be provided to at-risk students identified early through predictive models, enhancing their chances of success. Clustering analysis, as shown in [Fig. 14](#fig14), [Fig. 15](#fig15), can aid in designing personalized learning plans for groups of students with similar characteristics, improving their learning experience. Additionally, predictive models can inform resource allocation, ensuring that support is directed where it is most needed, and can guide teacher development by assessing and improving teaching methods. Finally, these models enable data-driven decision-making, allowing educators to make informed choices about curriculum design, teaching strategies, and student support services
+### 4.5. Comparative and experimental design insights
+To contextualize the performance of our models and highlight their novelty, this section presents two key enhancements: (1) a comparison with relevant existing studies, and (2) the detailed hyperparameter configurations used in our experiments for reproducibility (see [Table 14](#tbl14)).
+#### 4.5.1. Comparative summary of previous work
+The studies shown in [Table 15](#tbl15) reflect the evolution of predictive modeling in education, from traditional ML approaches to recent deep learning and LLM-based systems. While some of the reported accuracies exceed 90 %, they are often task-specific (e.g., intention recognition or certification prediction) and are not directly comparable to our classification of academic performance.
+Table 15. Comparative summary of previous studies in educational predictive analytics.
+| Study | Dataset | Techniques Used | Reported Metric(s) | Remarks |
+| --- | --- | --- | --- | --- |
+| [Yousafzai et al. (2021)](#bib39) | University dataset (N unspecified) | BiLSTM + Attention Mechanism | Accuracy: 90.16 % | Deep learning for grade prediction using historical data |
+| [Hlosta et al. (2022)](#bib20) | Open University (62 courses) | Gradient Boosted Machine (GBM) | AUC-ROC: 0.8897 | Time-aware modeling for early intervention before assessments |
+| [Bond et al. (2024)](#bib11) | Meta-review (66 secondary sources) | Various AI/ML techniques (incl. SVM) | Accuracy (up to 95 %) | Emphasis on adaptive systems and personalization in HE |
+| [Shahzad et al., 2025](#bib37) | Experimental tasks with ChatGPT | LLMs (ChatGPT for academic use) | 96 % (BLS), 92.1 % (ACLS) | Accuracy in standardized test prediction |
+| [Guizani et al. (2025)](#bib17) | Surveys and classroom experiments | LLMs in education | Combined score: 92 % | Focus on AI tutoring and personalized support |
+| This Study | Wollo University & KIT (N = 32,592) | CNN + RF + XGBoost (Hybrid) | AUC-ROC: 0.91, Accuracy: 0.89, F1: 0.87 | Real-world deployment; grid search tuning |
+Note: Metrics across studies vary in definition and evaluation context. For instance, the accuracy in [Shahzad et al., 2025](#bib37) reflects prediction of correct responses in standardized tests, not educational outcome classification. The most comparable metric to our AUC-ROC is that of [Hlosta et al. (2022)](#bib20), which achieved 0.8897.
+The findings of this study are grounded in real-world educational data collected from two higher education institutions—Wollo University and Kombolcha Institute of Technology—representing a large, diverse student population over a five-year period. The dataset includes demographic, academic, and behavioral features that are commonly available in institutional student information systems. This enhances the practical relevance and transferability of our results to other educational institutions seeking to implement predictive analytics for early intervention or performance forecasting.
+Moreover, the large-scale and heterogeneous nature of the dataset (32,592 student records) ensures that the hybrid model has been evaluated in conditions reflective of actual institutional complexity, addressing both scalability and contextual variability across regions and admission profiles. By aligning the experimental setup with the structure of real institutional data, we demonstrate that our model is not only technically sound but also operationally viable in authentic educational environments.
+#### 4.5.2. Hyperparameter configurations and tuning
+To ensure replicability, we provide in [Table 16](#tbl16) the specific model configurations used before and after hyperparameter tuning. These configurations were obtained using grid search combined with 5-fold cross-validation, as described in Section [3.4](#sec3.4).
+Table 16. Hyperparameter Configurations before and after tuning for all models used.
+| Model | Key Hyperparameters Before Tuning | Key Hyperparameters After Tuning |
+| --- | --- | --- |
+| CNN | Epochs = 10, Batch Size = 32, Filters = 32, Kernel Size = (3,3) | Epochs = 30, Batch Size = 64, Filters = 64, Kernel Size = (3,3), Dropout = 0.5 |
+| SVM | Kernel = RBF, C = 1.0, Gamma = 'scale' | Kernel = RBF, C = 10, Gamma = 0.01 |
+| Decision Tree | Max Depth = None, Min Samples Split = 2 | Max Depth = 10, Min Samples Split = 4 |
+| Random Forest | Estimators = 100, Max Features = 'auto' | Estimators = 200, Max Features = 'sqrt', Max Depth = 15 |
+| XGBoost (Meta-Learner) | Estimators = 100, Learning Rate = 0.1 | Estimators = 250, Learning Rate = 0.05, Max Depth = 6, Subsample = 0.8 |
+## 5. Discussion
+### 5.1. Interpretation of results
+Based on the detailed evaluation of different machine learning models, Random Forest demonstrated its robustness and effectiveness in predicting educational outcomes. Its high accuracy (85 %), precision (81 %), recall (84 %), and AUC-ROC (0.88) underscore its ability to handle diverse features and capture complex interactions. This validates Random Forest as one of the most reliable standalone models for educational predictive tasks.
+This study revealed several actionable areas to improve educational outcomes based on its findings. Firstly, feature engineering can be improved by incorporating domain specific features first which can further improve the accuracy of the model and predictive performance. Second, hybrid models or ensemble methods may be employed to improve the reliability of the predictions so as not to invoke wrong decisions for educational settings. Finally, given an ability to predict student outcomes using the models, at risk students can be identified early, and then utilized by personalized intervention or targeted support strategies that improve overall learning experiences and outcomes.
+Modern deep learning models such as CNNs, Decision Tree, SVM and Random Forest also performed well, with CNN achieving an accuracy of 85 % and an AUC-ROC of 0.87. These models excel at capturing high-level feature representations, making them suitable for complex datasets. However, their computational requirements and sensitivity to hyperparameter tuning pose challenges for scalability in resource-constrained settings. Traditional models like SVM and Decision Tree, while interpretable and easy to deploy, exhibited lower performance, with SVM achieving 82 % accuracy and Decision Tree reaching 79 %. These results reflect the limitations of simpler algorithms when applied to high-dimensional and diverse educational datasets.
+The hybrid model, combining CNN and Random Forest as base learners with XGBoost as the meta-learner, emerged as the best-performing approach. Achieving an accuracy of 88 % and an AUC-ROC of 0.90, it effectively addressed the shortcomings of individual models by leveraging their strengths. CNNs contributed to feature extraction, Random Forest ensured robustness, and XGBoost optimized the ensemble through gradient boosting. This stacking-based architecture highlights the potential of hybrid models to advance the state-of-the-art in educational predictive analytics.
+Clustering analysis further enhanced the study by categorizing students into three distinct performance groups: high-performing (Cluster 1), mixed outcomes (Cluster 2), and low-performing (Cluster 3). This categorization provides actionable insights for educators, enabling targeted interventions. For instance, students in Cluster 3, characterized by low studied credits and high previous attempts, may benefit from additional support, while high-performing students in Cluster 1 could be offered advanced learning opportunities. Cluster 2, representing mixed outcomes, presents an opportunity to design personalized strategies that address specific challenges.
+These results demonstrate the potential of predictive analytics to transform educational practices. Early identification of at-risk students, personalized learning plans, and optimized resource allocation are just a few examples of how these models can improve educational outcomes. Furthermore, integrating AI tools like ChatGPT for interactive learning and personalized feedback complements these approaches, fostering innovation in teaching strategies, as discussed in prior studies ([Al Shloul et al., 2024](#bib3)). The hybrid model's interpretability is reinforced by feature importance outputs from the Random Forest base learner and SHAP (SHapley Additive exPlanations) values generated by XGBoost at the meta level, enabling educators to understand why certain predictions were made. This facilitates data-driven decisions and builds trust among stakeholders.
+### 5.2. Limitations
+Despite its strong performance, the proposed hybrid model is not without limitations. One significant limitation is the computational complexity of the architecture, which combines CNNs, Random Forest, and Decision Tree. This complexity increases training time and resource requirements, making real-time applications challenging, particularly in underfunded educational institutions or resource-constrained environments. Another limitation lies in the dependency on high-quality, curated datasets. The model's effectiveness may decline when applied to datasets with missing, imbalanced, or noisy data, which are common in real-world educational settings. While preprocessing steps like normalization and data balancing were applied in this study, further work is needed to enhance the model's robustness to imperfect data.
+Moreover, this study primarily focused on model development and evaluation rather than real-world implementation. While the hybrid model achieved superior performance in a controlled environment, its ability to forecast student outcomes and drive interventions in live educational contexts remains untested. This represents a key area for future research. Finally, ethical considerations, including privacy concerns, algorithmic bias, and fairness, have not been fully addressed in this study. The deployment of predictive models in education must account for these issues to ensure equitable access and prevent unintended consequences. Addressing these ethical challenges is crucial for the responsible use of predictive analytics.
+While this study provides valuable insights into the performance of the evaluated models, there are several limitations to consider. The findings are based on a single dataset, which may contain biases or limitations in feature selection that could affect the generalizability of the results. Additionally, the models evaluated in this study may not perform as effectively in other educational contexts without further validation on more diverse datasets. Future research should explore the application of these models across different datasets and educational settings to better understand their scalability and robustness.
+### 5.3. Recommendations for future research
+Future research should prioritize the real-world application of the hybrid model to validate its practical utility. Deploying the model in live educational contexts will allow for real-time prediction of student outcomes, enabling proactive interventions for at-risk students and personalized support for average and high-performing learners. Real-time analytics opens possibilities for dynamic, data-driven decision-making in instructional design and student support services.
+This operationalization will provide valuable insights into the model's scalability and effectiveness in diverse settings. To support large-scale deployment, researchers should explore integration with scalable infrastructures such as Apache Spark for distributed data processing and TensorFlow on Kubernetes for elastic deep learning workloads. These platforms will ensure the model remains performant when applied to large, heterogeneous datasets across institutions.
+Incorporating additional features, such as socio-economic background, psychological metrics, and extracurricular activities, is essential for enhancing the model's predictive accuracy and comprehensiveness. These features will capture the multifaceted nature of student performance, enabling deeper insights into the factors influencing educational outcomes. Longitudinal studies tracking students over multiple years could provide a better understanding of how predictive analytics impact long-term outcomes. Such studies would also help refine early intervention strategies by identifying sustained effects over time.
+Further research should explore more efficient hybrid architectures that maintain high accuracy while reducing computational complexity. Approaches such as knowledge distillation, model pruning, or federated learning can be investigated to make the model more lightweight and privacy-aware. These innovations could significantly enhance accessibility in resource-constrained educational environments, where computational infrastructure may be limited.
+Ethical considerations must remain central. Future work should investigate ways to mitigate algorithmic bias, ensure data privacy, and promote fairness in predictive models. Developing guidelines for responsible deployment and creating frameworks for equitable access will ensure that predictive analytics benefit all students, regardless of their background. As highlighted by [Khan et al. (2025)](#bib23), considerations around operational efficiency, privacy, and inclusivity are essential for promoting sustainable educational practices.
+By addressing these areas, future research can unlock the full potential of predictive analytics, advancing both the science and application of educational technologies to improve student outcomes and institutional effectiveness.
+While this study does provide some valuable insight, numerous further areas are left unexploited. In particular, evaluating the real-world effectiveness of interventions driven by predictive insights remains an open challenge. Models should not only predict but inform meaningful actions. Tracking the actual impact of model-guided interventions on retention, grades, and well-being will offer a more holistic view of their utility. Finally, cross-institutional collaborations could support benchmarking efforts and foster the development of universally adaptable educational AI systems.
+## 6. Conclusion
+This study explored the use of machine learning models, including SVM, XGBoost, decision trees, CNNs, and hybrid models, for predicting educational outcomes. Among the individual models, the Random Forest model demonstrated strong predictive performance with 85 % accuracy, 81 % precision, 84 % recall, 82 % F1-score, and 0.88 AUC-ROC. However, the hybrid model, which utilized a stacking architecture with CNN and Random Forest as base learners and XGBoost as the meta-learner, outperformed all individual models, achieving 88 % accuracy, 85 % precision, 87 % recall, 86 % F1-score, and 0.90 AUC-ROC.
+The study identified key predictive factors influencing student outcomes, including studied credits, the number of previous attempts, entrance results, and geographical region. Additionally, clustering analysis revealed three primary student groups based on performance and background characteristics: high-performing students (Cluster 1), mixed-outcome students (Cluster 2), and low-performing students (Cluster 3). High-performing students exhibited high studied credits and low numbers of previous attempts, while low-performing students showed the opposite. Mixed-outcome students displayed moderate studied credits and an average number of prior attempts. These insights underscore the potential of predictive models to distinguish between varying levels of academic achievement and enable tailored interventions for each group.
+The implications of these findings are significant for educational practices. Predictive analytics can help educators identify at-risk students early, allowing for timely and targeted interventions to improve their academic outcomes. Clustering analysis facilitates the design of personalized learning strategies for diverse student groups, enhancing learning experiences and success rates. Predictive models also inform resource allocation, enabling institutions to direct support to areas of greatest need. Moreover, these models can guide teacher development programs by providing insights into student challenges and areas for instructional improvement.
+To further enhance the accuracy, reliability, and practical utility of predictive models, future research should incorporate additional data sources, such as socio-economic background, psychological metrics, and extracurricular activities. Longitudinal studies spanning multiple academic years could reveal long-term trends and the sustained impact of early interventions. Advanced hybrid models and real-time predictive analytics should also be explored to provide actionable insights during critical academic periods. Finally, scalability and implementation across varied educational contexts, along with ethical considerations such as privacy and fairness, are essential to ensure widespread applicability and acceptance.
+This study provides practical evidence by utilizing a large-scale, real-world dataset from Wollo University and Kombolcha Institute of Technology, reflecting the diversity and heterogeneity of actual student populations. The demographic and behavioral features used mirror what is typically available in higher education systems, increasing the model's relevance for institutional deployment.
+Future implementations should explore deploying the hybrid architecture on scalable platforms like Apache Spark for distributed data processing or TensorFlow on Kubernetes for scalable deep learning tasks. These infrastructures can ensure that the proposed system remains efficient when used with larger and more diverse educational datasets.
+By addressing these areas, future research can build on the findings of this study, advancing the field of predictive analytics in education and improving outcomes for students across all levels of academic performance.
+## CRediT authorship contribution statement
+\*\*Sunawar khan:\*\* Methodology, Validation. \*\*Tehseen Mazhar:\*\* Writing – original draft, Writing – review & editing, Visualization. \*\*Tariq Shahzad:\*\* Visualization, Investigation, Resources. \*\*Muhammad Amir khan:\*\* Data curation, Formal analysis, Investigation. \*\*Wajahat Waheed:\*\* Resources, Validation, Investigation. \*\*Ahsen Waheed:\*\* Conceptualization, Validation, Data curation. \*\*Habib Hamam:\*\* Methodology, Visualization, Investigation.
+## Ethical statement
+All authors have agreed to publish a paper and there is no ethical issue.
+## Declaration of the use of AI assisted technologies
+The authors declare that they did not use any AI-assisted tools for writing.
+## Funding statement
+Not Applicable.
+## Declaration of competing interest
+The authors have no conflict of interest.
+Recommended articles
+## Data availability
+Data is publicly available on .
+## References
+1. [Abu-Qdais et al., 2023](#bbib1)
+H.Abu-Qdais, N.Shatnawi, A.A.Esra’a
+Intelligent solid waste classification system using combination of image processing and machine learning models
+(2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Intelligent%20solid%20waste%20classification%20system%20using%20combination%20of%20image%20processing%20and%20machine%20learning%20models&publication\_year=2023&author=H.%20Abu-Qdais&author=N.%20Shatnawi&author=A.A.%20Esra%E2%80%99a)
+2. [Ahmed, 2023](#bbib2)
+E.Ahmed
+Analysing and predicting student performance
+\*Available at\*: \*SSRN 4433087\*
+(2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Analysing%20and%20predicting%20student%20performance&publication\_year=2023&author=E.%20Ahmed)
+3. [Al Shloul et al., 2024](#bbib3)
+T.Al Shloul, \*et al.\*
+Role of activity-based learning and ChatGPT on students' performance in education
+Computers & Education: Artificial Intelligence (2024), [10.1016/j.caeai.2024.100219](https://doi.org/10.1016/j.caeai.2024.100219)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Role%20of%20activity-based%20learning%20and%20ChatGPT%20on%20students%20performance%20in%20education&publication\_year=2024&author=T.%20Al%20Shloul)
+4. [Albreiki et al., 2021](#bbib4)
+B.Albreiki, N.Zaki, H.Alashwal
+A systematic literature review of student performance prediction using machine learning techniques
+Education Sciences, 11 (9) (2021), p. 552
+[Crossref](https://doi.org/10.3390/educsci11090552)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85115602733&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20literature%20review%20of%20student%20performance%20prediction%20using%20machine%20learning%20techniques&publication\_year=2021&author=B.%20Albreiki&author=N.%20Zaki&author=H.%20Alashwal)
+5. [Ali, 2024](#bbib5)
+A.Ali
+Enhancing student engagement through AI-driven analytics in higher education institutions (No. 12209)
+EasyChair (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enhancing%20student%20engagement%20through%20AI-driven%20analytics%20in%20higher%20education%20institutions%20&publication\_year=2024&author=A.%20Ali)
+6. [Alsariera et al., 2022](#bbib6)
+Y.A.Alsariera, Y.Baashar, G.Alkawsi, A.Mustafa, A.A.Alkahtani, N.a.Ali
+Assessment and evaluation of different machine learning algorithms for predicting student performance
+Computational Intelligence and Neuroscience, 2022 (1) (2022), Article 4151487
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85130259445&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Assessment%20and%20evaluation%20of%20different%20machine%20learning%20algorithms%20for%20predicting%20student%20performance&publication\_year=2022&author=Y.A.%20Alsariera&author=Y.%20Baashar&author=G.%20Alkawsi&author=A.%20Mustafa&author=A.A.%20Alkahtani&author=N.a.%20Ali)
+7. [Baashar et al., 2021](#bbib7)
+Y.Baashar, G.Alkawsi, N.A.Ali, H.Alhussian, H.T.Bahbouh
+Predicting student's performance using machine learning methods: A systematic literature review
+2021 International Conference on Computer & Information Sciences (ICCOINS), IEEE (2021), pp. 357-362
+[Crossref](https://doi.org/10.1109/iccoins49721.2021.9497185)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85112437325&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Predicting%20students%20performance%20using%20machine%20learning%20methods%3A%20A%20systematic%20literature%20review&publication\_year=2021&author=Y.%20Baashar&author=G.%20Alkawsi&author=N.A.%20Ali&author=H.%20Alhussian&author=H.T.%20Bahbouh)
+8. [Baldi et al., 2000](#bbib9)
+P.Baldi, S.Brunak, Y.Chauvin, C.A.Andersen, H.Nielsen
+Assessing the accuracy of prediction algorithms for classification: An overview
+Bioinformatics, 16 (5) (2000), pp. 412-424
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0033931867&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Assessing%20the%20accuracy%20of%20prediction%20algorithms%20for%20classification%3A%20An%20overview&publication\_year=2000&author=P.%20Baldi&author=S.%20Brunak&author=Y.%20Chauvin&author=C.A.%20Andersen&author=H.%20Nielsen)
+9. [Bokonda et al., 2020](#bbib10)
+P.L.Bokonda, K.Ouazzani-Touhami, N.Souissi
+Predictive analysis using machine learning: Review of trends and methods
+2020 international symposium on advanced electrical and communication technologies (ISAECT), IEEE (2020), pp. 1-6
+[Crossref](https://doi.org/10.1109/isaect50560.2020.9523703)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Predictive%20analysis%20using%20machine%20learning%3A%20Review%20of%20trends%20and%20methods&publication\_year=2020&author=P.L.%20Bokonda&author=K.%20Ouazzani-Touhami&author=N.%20Souissi)
+10. [Bond et al., 2024](#bbib11)
+M.Bond, H.Khosravi, M.De Laat, N.Bergdahl, V.Negrea, E.Oxley, P.Pham, S.W.Chong, G.Siemens
+A meta systematic review of artificial intelligence in higher education: A call for increased ethics, collaboration, and rigour
+International Journal of Educational Technology in Higher Education, 21 (1) (2024), p. 4
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85182720860&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20meta%20systematic%20review%20of%20artificial%20intelligence%20in%20higher%20education%3A%20A%20call%20for%20increased%20ethics%2C%20collaboration%2C%20and%20rigour&publication\_year=2024&author=M.%20Bond&author=H.%20Khosravi&author=M.%20De%20Laat&author=N.%20Bergdahl&author=V.%20Negrea&author=E.%20Oxley&author=P.%20Pham&author=S.W.%20Chong&author=G.%20Siemens)
+11. [Chen and Guestrin, 2016](#bbib12)
+T.Chen, C.Guestrin
+Xgboost: A scalable tree boosting system
+Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining (2016), pp. 785-794
+[Crossref](https://doi.org/10.1145/2939672.2939785)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84984950690&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Xgboost%3A%20A%20scalable%20tree%20boosting%20system&publication\_year=2016&author=T.%20Chen&author=C.%20Guestrin)
+12. [Cui, 2020](#bbib13)
+M.Cui
+Introduction to the k-means clustering algorithm based on the elbow method
+Accounting, Auditing Finance, 1 (1) (2020), pp. 5-8
+[Crossref](https://doi.org/10.1117/12.2574835)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85077501830&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Introduction%20to%20the%20k-means%20clustering%20algorithm%20based%20on%20the%20elbow%20method&publication\_year=2020&author=M.%20Cui)
+13. [Datnow and Hubbard, 2016](#bbib14)
+A.Datnow, L.Hubbard
+Teacher capacity for and beliefs about data-driven decision making: A literature review of international research
+Journal of Educational Change, 17 (2016), pp. 7-28
+[Crossref](https://doi.org/10.1007/s10833-015-9264-2)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84957433578&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20capacity%20for%20and%20beliefs%20about%20data-driven%20decision%20making%3A%20A%20literature%20review%20of%20international%20research&publication\_year=2016&author=A.%20Datnow&author=L.%20Hubbard)
+14. [Doleck et al., 2020](#bbib15)
+T.Doleck, D.J.Lemay, R.B.Basnet, P.Bazelais
+Predictive analytics in education: A comparison of deep learning frameworks
+Education and Information Technologies, 25 (2020), pp. 1951-1963
+[Crossref](https://doi.org/10.1007/s10639-019-10068-4)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85075862770&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Predictive%20analytics%20in%20education%3A%20A%20comparison%20of%20deep%20learning%20frameworks&publication\_year=2020&author=T.%20Doleck&author=D.J.%20Lemay&author=R.B.%20Basnet&author=P.%20Bazelais)
+15. [Furquim et al., 2019](#bbib16)
+F.Furquim, D.Corral, N.Hillman
+A primer for interpreting and designing difference-in-differences studies in higher education research
+Higher Education: Handbook of theory nresearch, 35 (2019), pp. 1-58
+[Crossref](https://doi.org/10.20396/revpibic2720192074)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20primer%20for%20interpreting%20and%20designing%20difference-in-differences%20studies%20in%20higher%20education%20research&publication\_year=2019&author=F.%20Furquim&author=D.%20Corral&author=N.%20Hillman)
+16. [Guizani et al., 2025](#bbib17)
+S.Guizani, \*et al.\*
+A systematic literature review to implement large language model in higher education: Issues and solutions
+Discover Education, 4 (35) (2025), [10.1007/s44217-025-00424-7](https://doi.org/10.1007/s44217-025-00424-7)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20literature%20review%20to%20implement%20large%20language%20model%20in%20higher%20education%3A%20Issues%20and%20solutions&publication\_year=2025&author=S.%20Guizani)
+17. [H Alamri et al., 2020](#bbib18)
+L.H Alamri, S.Almuslim R, S.Alotibi, M.K.Alkadi D, I.Ullah Khan, N.Aslam
+Predicting student academic performance using support vector machine and random forest
+Proceedings of the 2020 3rd international conference on education technology management (2020), pp. 100-107
+[Crossref](https://doi.org/10.1145/3446590.3446607)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Predicting%20student%20academic%20performance%20using%20support%20vector%20machine%20and%20random%20forest&publication\_year=2020&author=L.%20H%20Alamri&author=S.%20Almuslim%20R&author=S.%20Alotibi&author=M.K.%20Alkadi%20D&author=I.%20Ullah%20Khan&author=N.%20Aslam)
+18. [He et al., 2016](#bbib19)
+K.He, X.Zhang, S.Ren, J.Sun
+Deep residual learning for image recognition
+Proceedings of the IEEE conference on computer vision and pattern recognition (2016), pp. 770-778
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Deep%20residual%20learning%20for%20image%20recognition&publication\_year=2016&author=K.%20He&author=X.%20Zhang&author=S.%20Ren&author=J.%20Sun)
+19. [Hlosta et al., 2022](#bbib20)
+M.Hlosta, C.Herodotou, T.Papathoma, A.Gillespie, P.Bergamin
+Predictive learning analytics in online education: A deeper understanding through explaining algorithmic errors
+Computers and Education: Artificial Intelligence, 3 (2022), Article 100108
+[View PDF](/science/article/pii/S2666920X22000637/pdfft?md5=454a4cfb09acb553c97763feca5de687&pid=1-s2.0-S2666920X22000637-main.pdf)[View article](/science/article/pii/S2666920X22000637)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85142509813&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Predictive%20learning%20analytics%20in%20online%20education%3A%20A%20deeper%20understanding%20through%20explaining%20algorithmic%20errors&publication\_year=2022&author=M.%20Hlosta&author=C.%20Herodotou&author=T.%20Papathoma&author=A.%20Gillespie&author=P.%20Bergamin)
+20. [Howard, 2017](#bbib21)
+A.G.Howard
+Mobilenets: Efficient convolutional neural networks for mobile vision applications
+arXiv preprint arXiv:1704.04861 (2017)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Mobilenets%3A%20Efficient%20convolutional%20neural%20networks%20for%20mobile%20vision%20applications&publication\_year=2017&author=A.G.%20Howard)
+21. [Huang et al., 2017](#bbib22)
+G.Huang, Z.Liu, L.Van Der Maaten, K.Q.Weinberger
+Densely connected convolutional networks
+Proceedings of the IEEE conference on computer vision and pattern recognition (2017), pp. 4700-4708
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85031315616&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Densely%20connected%20convolutional%20networks&publication\_year=2017&author=G.%20Huang&author=Z.%20Liu&author=L.%20Van%20Der%20Maaten&author=K.Q.%20Weinberger)
+22. [Khan et al., 2025](#bbib23)
+S.Khan, \*et al.\*
+Harnessing AI for sustainable higher education: Ethical considerations, operational efficiency, and future directions
+Discov Sustain, 6 (2025), p. 23, [10.1007/s43621-025-00809-6](https://doi.org/10.1007/s43621-025-00809-6)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Harnessing%20AI%20for%20sustainable%20higher%20education%3A%20Ethical%20considerations%2C%20operational%20efficiency%2C%20and%20future%20directions&publication\_year=2025&author=S.%20Khan)
+23. [Khasanah, 2017](#bbib24)
+A.U.Khasanah
+A comparative study to predict student's performance using educational data mining techniques
+IOP conference series: Materials science and engineering, Vol 215, IOP Publishing (2017), Article 012036
+1
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85028308730&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20comparative%20study%20to%20predict%20students%20performance%20using%20educational%20data%20mining%20techniques&publication\_year=2017&author=A.U.%20Khasanah)
+24. [Lam et al., 2024](#bbib25)
+P.X.Lam, P.Q.H.Mai, Q.H.Nguyen, T.Pham, T.H.H.Nguyen, T.H.J.C.Nguyen, E.A.Intelligence
+Enhancing educational evaluation through predictive student assessment modeling, Vol. 6 (2024), Article 100244
+[Google Scholar](https://scholar.google.com/scholar?q=Lam%2C%20P.%20X.%2C%20Mai%2C%20P.%20Q.%20H.%2C%20Nguyen%2C%20Q.%20H.%2C%20Pham%2C%20T.%2C%20Nguyen%2C%20T.%20H.%20H.%2C%20Nguyen%2C%20T.%20H.%20J.%20C.%2C%20%26%20Intelligence%2C%20E.%20A.%20(2024).%20Enhancing%20educational%20evaluation%20through%20predictive%20student%20assessment%20modeling.%206%2C%20100244.)
+25. [López Zambrano et al., 2021](#bbib26)
+J.López Zambrano, J.A.Lara Torralbo, C.Romero Morales
+Early prediction of student learning performance through data mining: A systematic review
+Psicothema (2021)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Early%20prediction%20of%20student%20learning%20performance%20through%20data%20mining%3A%20A%20systematic%20review&publication\_year=2021&author=J.%20L%C3%B3pez%20Zambrano&author=J.A.%20Lara%20Torralbo&author=C.%20Romero%20Morales)
+26. [Metawa et al., 2022](#bbib27)
+N.Metawa, M.K.Hassan, S.Metawa
+Artificial intelligence and big data for financial risk management
+Routledge (2022), [10.4324/9781003144410](https://doi.org/10.4324/9781003144410)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20and%20big%20data%20for%20financial%20risk%20management&publication\_year=2022&author=N.%20Metawa&author=M.K.%20Hassan&author=S.%20Metawa)
+27. [Mucherino et al., 2009](#bbib28)
+A.Mucherino, P.J.Papajorgji, P.M.Pardalos, A.Mucherino, P.J.Papajorgji, P.M.Pardalos
+K-nearest neighbor classification
+Data mining in agriculture (2009), pp. 83-106
+[Crossref](https://doi.org/10.1007/978-0-387-88615-2\_4)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=K-nearest%20neighbor%20classification&publication\_year=2009&author=A.%20Mucherino&author=P.J.%20Papajorgji&author=P.M.%20Pardalos&author=A.%20Mucherino&author=P.J.%20Papajorgji&author=P.M.%20Pardalos)
+28. [Namoun and Alshanqiti, 2020](#bbib29)
+A.Namoun, A.Alshanqiti
+Predicting student performance using data mining and learning analytics techniques: A systematic literature review
+Applied Sciences, 11 (1) (2020), p. 237
+[Crossref](https://doi.org/10.3390/app11010237)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Predicting%20student%20performance%20using%20data%20mining%20and%20learning%20analytics%20techniques%3A%20A%20systematic%20literature%20review&publication\_year=2020&author=A.%20Namoun&author=A.%20Alshanqiti)
+29. [Nawang et al., 2021](#bbib30)
+H.Nawang, M.Makhtar, W.Hamzah
+A systematic literature review on student performance predictions
+International Journal of Advanced Technology Engineering Exploration, 8 (84) (2021), pp. 1441-1453
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85122792083&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20literature%20review%20on%20student%20performance%20predictions&publication\_year=2021&author=H.%20Nawang&author=M.%20Makhtar&author=W.%20Hamzah)
+30. [Ofori et al., 2020](#bbib31)
+F.Ofori, E.Maina, R.Gitonga
+Using machine learning algorithms to predict students' performance and improve learning outcome: A literature-based review
+Journal of Information Technology, 4 (1) (2020), pp. 33-55
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using%20machine%20learning%20algorithms%20to%20predict%20students%20performance%20and%20improve%20learning%20outcome%3A%20A%20literature-based%20review&publication\_year=2020&author=F.%20Ofori&author=E.%20Maina&author=R.%20Gitonga)
+31. [Oppong, 2023](#bbib32)
+S.O.Oppong
+Predicting students' performance using machine learning algorithms: A review
+Asian Journal of Research in Computer Science, 16 (3) (2023), pp. 128-148
+[Crossref](https://doi.org/10.9734/ajrcos/2023/v16i3351)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Predicting%20students%20performance%20using%20machine%20learning%20algorithms%3A%20A%20review&publication\_year=2023&author=S.O.%20Oppong)
+32. [Perveen, 2016](#bbib33)
+A.Perveen
+Synchronous and asynchronous e-language learning: A case study of virtual university of Pakistan
+Open Praxis, 8 (1) (2016), pp. 21-39
+[Crossref](https://doi.org/10.5944/openpraxis.8.1.212)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Synchronous%20and%20asynchronous%20e-language%20learning%3A%20A%20case%20study%20of%20virtual%20university%20of%20Pakistan&publication\_year=2016&author=A.%20Perveen)
+33. [Powers, 2020](#bbib34)
+D.M.Powers
+Evaluation: From precision, recall and F-measure to ROC, informedness, markedness and correlation
+(2020)
+arXiv preprint arXiv:2010.16061
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Evaluation%3A%20From%20precision%2C%20recall%20and%20F-measure%20to%20ROC%2C%20informedness%2C%20markedness%20and%20correlation&publication\_year=2020&author=D.M.%20Powers)
+34. [Sekeroglu et al., 2021](#bbib35)
+B.Sekeroglu, R.Abiyev, A.Ilhan, M.Arslan, J.B.Idoko
+Systematic literature review on machine learning and student performance prediction: Critical gaps and possible remedies
+Applied Sciences, 11 (22) (2021), Article 10907
+[Crossref](https://doi.org/10.3390/app112210907)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85119883565&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Systematic%20literature%20review%20on%20machine%20learning%20and%20student%20performance%20prediction%3A%20Critical%20gaps%20and%20possible%20remedies&publication\_year=2021&author=B.%20Sekeroglu&author=R.%20Abiyev&author=A.%20Ilhan&author=M.%20Arslan&author=J.B.%20Idoko)
+35. [Shah et al., 2024](#bbib36)
+S.F.A.Shah, \*et al.\*
+Integrating educational theories with virtual reality: Enhancing engineering education and VR laboratories
+Social Sciences & Humanities Open, 10 (2024), Article 101207, [10.1016/j.ssaho.2024.101207](https://doi.org/10.1016/j.ssaho.2024.101207)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Integrating%20educational%20theories%20with%20virtual%20reality%3A%20Enhancing%20engineering%20education%20and%20VR%20laboratories&publication\_year=2024&author=S.F.A.%20Shah)
+36. [Shahzad et al., 2025](#bbib37)
+T.Shahzad, \*et al.\*
+A comprehensive review of large language models: Issues and solutions in learning environments
+Discov Sustain (Q2, IF:3.14), 6 (2025), p. 27, [10.1007/s43621-025-00815-8](https://doi.org/10.1007/s43621-025-00815-8)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85218223510&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20comprehensive%20review%20of%20large%20language%20models%3A%20Issues%20and%20solutions%20in%20learning%20environments&publication\_year=2025&author=T.%20Shahzad)
+37. [Silvola et al., 2021](#bbib38)
+A.Silvola, P.Näykki, A.Kaveri, H.Muukkonen
+Expectations for supporting student engagement with learning analytics: An academic path perspective
+Computers Education information technologies, 168 (2021), Article 104192
+[View PDF](/science/article/pii/S0360131521000695/pdfft?md5=0163c74abaf09e1bdb3bb5f370506910&pid=1-s2.0-S0360131521000695-main.pdf)[View article](/science/article/pii/S0360131521000695)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85105304015&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Expectations%20for%20supporting%20student%20engagement%20with%20learning%20analytics%3A%20An%20academic%20path%20perspective&publication\_year=2021&author=A.%20Silvola&author=P.%20N%C3%A4ykki&author=A.%20Kaveri&author=H.%20Muukkonen)
+38. [Yousafzai et al., 2021](#bbib39)
+B.K.Yousafzai, \*et al.\*
+Student-Performulator: Student academic performance using hybrid deep neural network
+Sustainability, 13 (2021), [10.3390/su13179775](https://doi.org/10.3390/su13179775)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Student-Performulator%3A%20Student%20academic%20performance%20using%20hybrid%20deep%20neural%20network&publication\_year=2021&author=B.K.%20Yousafzai)
+## Further reading
+1. Badal & Sungkur, 2023
+Y.T.Badal, R.K.Sungkur
+Predictive modelling and analytics of students’ grades using machine learning algorithms
+Education and Information Technologies, 28 (3) (2023), pp. 3027-3057
+[Crossref](https://doi.org/10.1007/s10639-022-11299-8)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85137579871&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Predictive%20modelling%20and%20analytics%20of%20students%20grades%20using%20machine%20learning%20algorithms&publication\_year=2023&author=Y.T.%20Badal&author=R.K.%20Sungkur)
+## Cited by (4)
+\* ### [Modelling of enhanced predictive analytics and decision-making approach using recurrent autoencoder with attribute subset reduction for students’ academic performance](/science/article/pii/S2090447926000262)
+2026, Ain Shams Engineering Journal
+Show abstract
+Education plays a vital part in society as it helps economic growth through human capital, decreases crime, and enhances common well-being. Currently, predictive modelling plays a crucial role in decision-making procedures in each branch of action. Conventional techniques for recognising at-risk students often rely on reactive events that occur only after academic complexities have already been demonstrated, usually too late to avert failure or withdrawal. The development of predictive analytics powered by artificial intelligence (AI) provides a paradigm shift in proactive intervention tactics that can recognise students at risk of academic failure or dropout before vital thresholds are attained. Predictive analytics has developed as a transformative method in educational technology, leveraging AI and machine learning (ML) models to recognise at-risk students, forecast academic performances, and recommend targeted interventions before failure happens. ML for predictive analytics is altering data-driven decision-making through industries by leveraging enormous datasets and innovative techniques to discover hidden patterns and estimate future tendencies. In this manuscript, a Predictive Analytics and Decision-Making Using Recurrent Autoencoder with Dimensionality Reduction (PADM-RAEDR) approach is presented in the education sector. The aim is to develop an effective framework that enhances predictive analytics and supports effective decision-making in the education domain. At first, the data pre-processing stage is done by applying Z-score standardisation. For an effective feature selection process, the PADM-RAEDR model employs mutual information (MI), symmetric uncertainty (SU), and minimum redundancy maximum relevance (mRMR) to remove irrelevant and redundant data. At last, the long short-term memory with auto-encoder (LSTM-AE) method is employed for classification. The comparison analysis of the PADM-RAEDR model demonstrated a superior accuracy value of 98.61% over existing methods under a benchmark dataset.
+\* ### [PREDICTIVE ANALYTICS FOR STUDENT PERFORMANCE IN DIGITAL MEDIA COURSES](https://doi.org/10.29121/shodhkosh.v7.i1s.2026.6804)
+2026, Shodhkosh Journal of Visual and Performing Arts
+\* ### [A hybrid deep learning model with feature engineering technique to enhance teacher emotional support on students’ engagement for sustainable education](https://doi.org/10.1038/s41598-025-17600-2)
+2025, Scientific Reports
+\* ### [GWO-Optimized Ensemble Learning for Interpretable and Accurate Prediction of Student Academic Performance in Smart Learning Environments](https://doi.org/10.3390/app152212163)
+2025, Applied Sciences Switzerland
+© 2025 The Authors. Published by Elsevier Ltd.
+## Recommended articles
+\* ### [A hybrid BERT-BiRNN framework for mental health prediction using textual data](/science/article/pii/S294971912500041X)
+Natural Language Processing Journal, Volume 12, 2025, Article 100165
+MuhammadNouman, …, Abbas Z.Kouzani
+[View PDF](/science/article/pii/S294971912500041X/pdfft?md5=b0d06f4b59ae78d7c9b836ae2c7855b4&pid=1-s2.0-S294971912500041X-main.pdf)
+\* ### [Making college affordable? The impacts of tuition freezes and caps](/science/article/pii/S0272775722000413)
+Economics of Education Review, Volume 89, 2022, Article 102265
+LoisMiller, MinseonPark
+\* ### [Accelerated experimental design using a human–AI teaming framework](/science/article/pii/S0950705125001856)
+Knowledge-Based Systems, Volume 315, 2025, Article 113138
+Arun KumarA.V., …, SvethaVenkatesh
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2590291125005522)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)
