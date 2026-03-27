@@ -12,6 +12,12 @@
 
 ## 素材积累区
 
+### AI tutoring outperforms in-class active learning: an RCT
+- 来源：Nature Scientific Reports | 2025年
+- 研究背景：AI辅导系统与传统主动学习相比，哪个更有效？缺乏在真实课堂环境中、将AI导师设计得与主动学习课程遵循相同教学原则的严格随机对照试验（RCT）。本研究用哈佛大学物理课本科生（N=194）进行真实施教环境下的RCT。
+- 核心发现：①AI导师组学习成绩显著高于主动学习组（中位数4.5 vs 3.5）；②学习效率超2倍：AI组完成任务中位时间49分钟 vs 课堂60分钟；③参与度和动机均显著更高（参与度均值4.1 vs 3.6）；④83%的学生认为AI导师的解释质量不逊于人类教师。效应量0.63（保守估计）。这提供了AI教育可显著超越传统课堂最佳实践的实证证据。
+- 原文索引：DOI: 10.1038/s41598-025-97652-6
+
 ### The cognitive mirror: a framework for AI-powered metacognition
 - 来源：Frontiers in Education | 2025年10月
 - 研究背景：当前生成式AI教育的主流模式是"AI as Oracle"——AI作为全知先知回答问题，这种模式会促进"认知卸载"（cognitive offloading），阻碍真正学习。AI的答案覆盖了学生的思考过程。这个研究想回答：如何重新设计AI在教育中的角色，让它促进而非阻碍思维结构的改变？
