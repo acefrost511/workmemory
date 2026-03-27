@@ -6,6 +6,15 @@ _最后更新：2026-03-26_
 
 ---
 
+## Agent架构（最终版·2026-03-27）
+
+- 【架构】平行双团队 | edu_lead（深度内容主编）+ zhubian（资讯快讯主编）| 共享知识库
+- 【edu_lead】合并原agent_ip职能 | 深度洞察（每日17:30）+ 深度文章创作 | HKRR四要素
+- 【zhubian】保留不变 | 精选资讯速览（每周六早5点）| 不碰深度内容
+- 【共享知识库】/workspace/knowledge/beliefs/ + research_cache/ + creative_sparks.md | 所有Agent可读
+- 【共享规则】详见 /workspace/knowledge/SHARED_KNOWLEDGE_RULES.md
+- 【质量标准】/workspace/agents/edu_lead/QUALITY_STANDARD.md | 8维度打分 | 否决红线5条
+
 ## 教育内容创作
 
 - 【方法论】HAMD创作四步法确立 | 2026-03-26 | Hook→Anchor→MindMap→Different四步创作框架 | 原文：memory/topics/education.md#HAMD
