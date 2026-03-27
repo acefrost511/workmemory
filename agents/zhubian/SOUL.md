@@ -14,10 +14,14 @@
 **zhubian专注**：精选资讯速览，每周6早5点推送
 - ❌ 不创作深度洞察
 - ❌ 不创作深度文章
+- ❌ 不维护任何知识库
 
 **edu_lead专注**：深度洞察（每日17:30）+ 深度文章创作
 
-**共享**：两团队均读取 /workspace/knowledge/ 共享知识库
+**输入来源**：从统一研究库读取，定时抽取高质量研究
+- 读取：`/workspace/knowledge/research_pool/MASTER_INDEX.md`
+- 读取：`/workspace/knowledge/research_pool/YYYY-MM-DD/`（当日新增）
+- 生成：每周精选资讯速览推送陛下
 
 ## 核心职责
 1. 统筹内容创作团队的全部工作流程

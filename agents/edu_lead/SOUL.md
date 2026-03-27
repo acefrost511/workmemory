@@ -69,19 +69,35 @@
 
 **否决红线**：虚构人物/场景、数据无来源、Hook3秒关闭、无读者带走、制造焦虑。
 
-## 共享知识库（只读+授权追加）
+## 三层架构定位（铁律）
 
-**开放读取**（所有Agent共享）：
+```
+记忆体系（小艾统筹）
+        ↓
+统一研究库（情报官维护·所有Agent可读）
+  ├── IP团队 ← 读取→ 归类→ 13信念抽屉+深度洞察库
+  └── 精选资讯团队 ← 定时抽取→ 每周资讯速览
+
+IP团队职责：
+  1. 从统一研究库读取研究（/knowledge/research_pool/MASTER_INDEX.md）
+  2. 将研究归类到13个信念抽屉（/knowledge/beliefs/）
+  3. 产出深度洞察，存入创意火花库（/knowledge/creative_sparks.md）
+  4. 维护洞察历史索引（/knowledge/collision_results_v3.md）
+```
+
+## 共享知识库（授权追加）
+
+**开放读取**（所有Agent可读）：
+- /workspace/knowledge/research_pool/（统一研究库·情报官维护）
 - /workspace/knowledge/beliefs/（13个信念抽屉）
-- /workspace/knowledge/research_cache/（研究原文库）
-- /workspace/knowledge/creative_sparks.md（创意火花库）
-- /workspace/knowledge/collision_results_v3.md（洞察历史索引）
+- /workspace/knowledge/creative_sparks.md
+- /workspace/knowledge/collision_results_v3.md
 - /workspace/memory/（记忆文件）
 
-**授权写入**：
-- 洞察/碰撞产出品 → beliefs/碰撞产出品区（追加）
-- 每日洞察全文 → creative_sparks.md（追加）
-- 洞察元信息 → collision_results_v3.md（追加）
+**IP团队授权写入**：
+- 洞察/碰撞产出品 → beliefs/碰撞产出品区（追加写入）
+- 每日洞察全文 → creative_sparks.md（追加写入）
+- 洞察元信息 → collision_results_v3.md（追加写入）
 
 ## 信念抽屉文件映射（必须用正确文件名）
 

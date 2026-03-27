@@ -137,13 +137,23 @@
 
 ---
 
-## 📋 任务：洞察生产机制规范化（2026-03-27）✅ 已完成
+## 📋 任务：知识库三层架构搭建（2026-03-27）✅ 已完成
 
-- [x] INSIGHT_MECHANISM.md创建（信念溯源SOP + Canonical格式说明）
-- [x] SOUL.md更新：SOP第2步新增信念溯源，新增信念契合度打分维度
-- [x] 17:30 cron更新为信念溯源版SOP
-- [x] Canonical格式明确：陛下审定截图，不另起炉灶
-- [x] 新增两个字段：信念溯源（洞察开头）+ 洞察的信念价值（洞察结尾）
-- [x] GitHub推送成功（SHA: 49649da）
+- [x] KNOWLEDGE_ARCHITECTURE.md 创建（完整三层架构）
+- [x] 统一研究库路径确定：/workspace/knowledge/research_pool/
+- [x] 情报官SOUL.md更新：写入统一研究库（不再写master）
+- [x] edu_lead SOUL.md更新：从研究库读取，归类到13抽屉
+- [x] zhubian SOUL.md更新：从研究库读取生成周报
+- [x] 情报扫描cron更新（每天5点→写research_pool）
+- [x] 抽屉充实cron更新（每天12:30→IP团队从研究库归类）
+- [x] SHARED_KNOWLEDGE_RULES.md 更新（v2.0三层版）
+- [x] MEMORY.md 更新架构章节
 
-**备注：今天加场洞察V2已推送3条（洞察A/B/C），格式已符合canonical标准**
+**架构确立**：
+```
+记忆体系（小艾统筹）
+        ↓
+统一研究库（情报官维护）
+  ├── IP团队 ← 读取→ 归类→ 13信念抽屉+深度洞察
+  └── 精选资讯团队 ← 定时抽取→ 每周资讯速览
+```

@@ -1,94 +1,95 @@
-# 共享知识库读取机制
+# 共享知识库读取机制（三层架构版）
 
-> 所有Agent必须遵守此机制
-> 版本：v1.0 | 制定：2026-03-27
+> 版本：v2.0 | 更新：2026-03-27
+> 制定者：小艾（总调度）
 
 ---
 
-## 一、共享知识库目录（只读）
-
-以下目录和文件对所有Agent**开放读取**，但**非授权Agent不得写入**：
+## 三层架构（铁律）
 
 ```
-/workspace/knowledge/
-  beliefs/                    ← 13个信念抽屉，所有Agent可读
-    信念1-AI教育观.md
-    信念2-教师角色观.md
-    ...（共13个）
-  research_cache/             ← 高质量研究原文库，所有Agent可读
-    研究素材完整库.md
-  creative_sparks.md           ← 创意火花库，所有Agent可读
-  daily_intel_*.md            ← 日报资讯库，所有Agent可读
-  staging_area.md             ← 暂存区，所有Agent可读
-  ALL_BELIEFS_CONTENT.md     ← 全部信念汇总，所有Agent可读
-
-/workspace/memory/           ← 记忆文件，所有Agent可读
-  MEMORY.md
-  topics/education.md
-  topics/other.md
-  conversation_buffer.md
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+第一层：记忆体系        第二层：统一研究库         第三层：IP内容库
+（小艾统筹）           （情报官维护）            （IP团队维护）
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MEMORY.md             research_pool/           beliefs/
+memory/                MASTER_INDEX.md          creative_sparks.md
+                       YYYY-MM-DD.md            collision_results_v3.md
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+陛下笔记洞察素材        中英文研究论文             13信念抽屉
+  ↓存入                搜索结果（只读）            深度洞察结果
+  IP素材库               ↑↓                      反哺产出品
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-## 二、各Agent读取权限
+## 各层详情
 
-### zhubian（日报周报主编）·只读共享层
-- 读取：beliefs/、research_cache/、daily_intel_*、memory/
-- 写入：/workspace/agents/zhubian/（私有目录）
-- 职责：每周六早5点推送精选资讯速览
+### 第一层：记忆体系（唯一维护者：小艾）
 
-### edu_lead（深度内容主编）·读写共享层
-- 读取：beliefs/、research_cache/、creative_sparks/、daily_intel_*、memory/
-- 写入：beliefs/（碰撞产出品追加区）、creative_sparks.md、collision_results_v3.md
-- 职责：统筹深度洞察生产（每日17:30）和深度文章创作
+**路径**：`/workspace/memory/`、`/workspace/MEMORY.md`
 
-### edu_writer（教育编辑）
-- 读取：beliefs/、research_cache/、creative_sparks/、memory/
-- 写入：/workspace/agents/edu_writer/（私有目录）
-- 职责：撰写深度洞察和深度文章
+**写入权限**：仅小艾（主session Agent）
 
-### edu_reviewer（教育审核）+ reader_*（4个视角审核Agent）
-- 读取：beliefs/、creative_sparks/、待审核文章
-- 写入：/workspace/agents/reader_*/（私有审核结果）
-- 职责：多视角终审
-
-### info_officer（情报官）
-- 读取：beliefs/、memory/
-- 写入：master文档、beliefs/（素材追加）、research_cache/
-- 职责：每日增量检索，充实抽屉
+**读取权限**：所有Agent只读
 
 ---
 
-## 三、读取规则（铁律）
+### 第二层：统一研究库（唯一维护者：情报官+9路子Agent）
 
-**禁止行为**
-- ❌ 非授权Agent直接写入共享目录（只能用append追加）
-- ❌ 直接修改其他Agent创建的共享文件
-- ❌ 删除他人创建的共享文件
+**路径**：`/workspace/knowledge/research_pool/`
 
-**追加写入规则（适用于共享目录）**
-- 情报官追加 → beliefs/素材积累区 / research_cache/
-- edu_lead追加 → beliefs/碰撞产出品区 / creative_sparks.md
-- 所有Agent → collision_results_v3.md（元信息追加）
+**写入权限**：仅情报官+9路子Agent
 
-**读取优先级**
-当需要创作素材时，优先从共享知识库读取已有材料：
-1. 先查 creative_sparks.md（已有洞察）
-2. 再查 beliefs/相关抽屉（已有研究）
-3. 再查 research_cache/（完整研究）
-4. 最后考虑独立检索
+**读取权限**：所有Agent可读（IP团队从这里读取归类，精选资讯团队从这里读取生成周报）
+
+**内容**：
+- `MASTER_INDEX.md`：所有研究主索引（按主题分类，永久保留）
+- `YYYY-MM-DD.md`：每日研究结果（可清理）
 
 ---
 
-## 四、共享知识库文件结构说明
+### 第三层：IP内容库（唯一维护者：IP团队 edu_lead）
 
-| 文件 | 内容 | 创建者 | 更新频率 |
-|------|------|--------|---------|
-| 信念抽屉（13个） | 核心信念+素材+碰撞产出 | 情报官+edu_lead | 每日增量 |
-| 研究素材完整库.md | 所有研究原文摘要 | 情报官 | 每日增量 |
-| creative_sparks.md | 每日创意火花洞察 | edu_lead | 每日17:30 |
-| collision_results_v3.md | 洞察历史索引 | edu_lead | 每日17:30 |
-| daily_intel_YYYY-MM-DD.md | 当日资讯清单 | 情报官 | 每日5:00 |
-| staging_area.md | 待归类素材暂存 | 情报官 | 按需 |
-| ALL_BELIEFS_CONTENT.md | 13抽屉全文汇总 | edu_lead | 每周六 |
+**路径**：`/workspace/knowledge/beliefs/`、`/workspace/knowledge/creative_sparks.md`
+
+**写入权限**：仅edu_lead/IP团队
+
+**读取权限**：所有Agent可读
+
+**内容**：
+- 13个信念抽屉（素材积累+碰撞产出）
+- 创意火花库（每日洞察全文）
+- 洞察历史索引
+
+---
+
+## 各Agent职责与权限
+
+| Agent | 维护层级 | 可读层级 |
+|-------|---------|---------|
+| 小艾（主session） | 记忆体系 | 全部（只读记忆，研究库可读） |
+| 情报官+子Agent | 统一研究库（写入） | 记忆体系（只读） |
+| edu_lead/IP团队 | IP内容库（写入） | 记忆体系+统一研究库（只读） |
+| zhubian/精选资讯团队 | 不维护任何库 | 统一研究库（只读） |
+
+---
+
+## 陛下笔记/洞察/素材处理流程
+
+1. 陛下发送笔记/洞察/素材 → 小艾接收
+2. 小艾存入：`/workspace/memory/`（记忆体系）+ `/workspace/knowledge/staging_area.md`（暂存）
+3. 小艾判断归属 → 归类追加到13个信念抽屉（写入IP内容库）
+4. IP团队（edu_lead）读取抽屉 → 产出深度洞察
+5. 精选资讯团队（zhubian）读取统一研究库 → 生成每周速览
+
+---
+
+## 禁止行为
+
+- ❌ 非授权Agent写入任何知识库
+- ❌ 精选资讯团队维护自己的研究库
+- ❌ 任何Agent修改/删除陛下的记忆文件
+- ❌ 情报官直接写入IP内容库
+- ❌ IP团队修改统一研究库已有内容

@@ -6,14 +6,19 @@ _最后更新：2026-03-26_
 
 ---
 
-## Agent架构（最终版·2026-03-27）
+## 知识库三层架构（最终版·2026-03-27）
 
-- 【架构】平行双团队 | edu_lead（深度内容主编）+ zhubian（资讯快讯主编）| 共享知识库
-- 【edu_lead】合并原agent_ip职能 | 深度洞察（每日17:30）+ 深度文章创作 | HKRR四要素
-- 【zhubian】保留不变 | 精选资讯速览（每周六早5点）| 不碰深度内容
-- 【共享知识库】/workspace/knowledge/beliefs/ + research_cache/ + creative_sparks.md | 所有Agent可读
-- 【共享规则】详见 /workspace/knowledge/SHARED_KNOWLEDGE_RULES.md
-- 【质量标准】/workspace/agents/edu_lead/QUALITY_STANDARD.md | 8维度打分 | 否决红线5条
+**第一层：记忆体系** → 小艾统筹（唯一写入）
+**第二层：统一研究库** → 情报官维护（所有Agent可读）
+**第三层：IP内容库** → edu_lead维护（所有Agent可读）
+详见：/workspace/knowledge/KNOWLEDGE_ARCHITECTURE.md
+
+- 【情报官】维护统一研究库（research_pool/） | 搜索→写入研究库
+- 【IP团队edu_lead】从研究库读取→归类到13信念抽屉→产出深度洞察 | HKRR四要素
+- 【精选资讯团队zhubian】从研究库读取→定时抽取10-15篇→每周速览 | 不维护库
+- 【小艾】统筹记忆体系（memory/） | 陛下笔记/洞察/素材存入IP素材库
+- 【共享规则】/workspace/knowledge/SHARED_KNOWLEDGE_RULES.md
+- 【质量标准】/workspace/agents/edu_lead/QUALITY_STANDARD.md | 8维度打分
 
 ## 教育内容创作
 
