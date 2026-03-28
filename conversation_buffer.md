@@ -238,3 +238,6 @@ GitHub推送失败，SHA=49649dac51381ec06e8b37b7e21cc192302b1d57，time=2026-03
 - ⚠️ 6324f287(IP每日创意碰撞) announce投递持续失败→已将delivery.mode改为none(直接编辑/root/.openclaw/cron/jobs.json)
 - 无连续失败≥5次任务，无需紧急告警陛下
 - 报告已写入: memory/cron-health-2026-03-28.md
+
+---
+[GitHub推送失败] SHA=acc9d57dcf479d562643c9033cfca78a5bd1c393, time=2026-03-28 17:23:40 CST, reason=GnuTLS recv error (-110): The TLS connection was non-properly terminated.
