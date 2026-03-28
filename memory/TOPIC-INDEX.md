@@ -58,3 +58,10 @@
 - 2026-03-28：陛下提出双框架融合记忆体系 → memory/2026-03-28.md
 - 2026-03-28：确立三层记忆体系（TOPIC-INDEX优先→MEMORY.md→memory/YYYY-MM-DD） → memory/TOPIC-INDEX.md
 - 2026-03-28：新增TOPIC-INDEX.md（话题索引）+ PRIORITY-LOG.md（🔴优先日志） → memory/TOPIC-INDEX.md / memory/PRIORITY-LOG.md
+
+## 陛下笔记体系（2026-03-28确立）
+
+- 2026-03-28：确立按主题存储（4+N类），非时间序列 → knowledge/笔记/INDEX.md
+- 2026-03-28：5个类型（教学经验/打磨课程/家长理念/AI技术应用/AI前沿资讯）
+- 2026-03-28：超过8000字或90天 → 新建序号文件，旧标注归档
+- 2026-03-28：碰撞时，三方碰撞（信念A研究 × 信念B研究 × 陛下笔记）
