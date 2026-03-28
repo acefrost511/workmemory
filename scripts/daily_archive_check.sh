@@ -19,7 +19,7 @@ if [ ! -f "$MATERIAL_FILE" ]; then
 fi
 
 # 统计今日素材库篇数
-ARTICLES=$(grep -c "【素材" "$MATERIAL_FILE" 2>/dev/null || echo "0")
+ARTICLES=$(grep -c "^#### ①" "$MATERIAL_FILE" 2>/dev/null || echo "0")
 echo "今日素材库篇数：${ARTICLES}" >> "$CHECK_LOG"
 
 if [ "$ARTICLES" -eq 0 ]; then
