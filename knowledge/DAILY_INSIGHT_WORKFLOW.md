@@ -48,63 +48,91 @@
 
 ---
 
-## 三、参与Agent与职责
+## 三、参与Agent与Spawn架构（严格遵守两层架构）
 
-| Agent | 角色 | 必须读取的文件 | 产出 |
-|-------|------|--------------|------|
-| edu_lead（主编） | 统筹协调+终审 | 本文档 + IP_WORKFLOW_V1.md | 协调全流程+终审把关 |
-| edu_writer（洞察撰写） | 写作 | INSIGHT_WRITING_RULES.md + 信念抽屉 | 3个候选洞察草案 |
-| reader_new_teacher | 新手教师视角 | 洞察草案 | 评分报告 |
-| reader_senior_teacher | 成熟教师视角 | 洞察草案 | 评分报告 |
-| reader_principal | 校长视角 | 洞察草案 | 评分报告 |
-| reader_parent | 家长视角 | 洞察草案 | 评分报告 |
-| reader_expert | 教育专家视角 | 洞察草案 | 评分报告 |
+**两层架构规则（绝对禁止违反）：**
+- 只能**小艾**（主session）spawn 所有 agents
+- edu_lead（isolated session）**不得spawn任何Agent**
+- edu_writer/reader_* **不得spawn任何Agent**
+- sub-agent不能spawn sub-agent，违者终止任务
+
+| Agent | 角色 | spawn者 | 产出 |
+|-------|------|--------|------|
+| edu_lead（主编） | 协调+终审 | 由cron触发（isolated session） | 读文件+判断+协调+终审 |
+| edu_writer | 写作 | **小艾spawn** | 3个候选洞察草案 |
+| reader_new_teacher | 评分 | **小艾spawn** | 评分报告 |
+| reader_senior_teacher | 评分 | **小艾spawn** | 评分报告 |
+| reader_principal | 评分 | **小艾spawn** | 评分报告 |
+| reader_parent | 评分 | **小艾spawn** | 评分报告 |
+| reader_expert | 评分 | **小艾spawn** | 评分报告 |
 
 ---
 
 ## 四、完整执行流程（Step by Step）
 
-### Step 1：主编读取文件（edu_lead）
+### 执行总览
 
-主编依次读取以下文件，建立今日洞察方向：
+```
+cron（17:30 CST）
+    → 触发isolated session（充当edu_lead协调者）
+        ↓
+    edu_lead读取文件（信念抽屉+笔记库+素材库）
+        ↓
+    edu_lead确定碰撞主题
+        ↓
+    edu_lead通过sessions_send向小艾（主session）请求spawn agents
+        ↓
+    小艾并发spawn edu_writer + 6个读者Agent（同时进行）
+        ↓
+    edu_writer写洞察草案 → sessions_send回报edu_lead
+    6个读者Agent评分 → sessions_send回报edu_lead
+        ↓
+    edu_lead汇总评分+终审（虚构检查）
+        ↓
+    edu_lead推送陛下
+```
 
-1. **/workspace/knowledge/DAILY_INSIGHT_WORKFLOW.md**（本文档）
-   → 确认今日工作流程
-2. **/workspace/knowledge/IP_WORKFLOW_V1.md**
-   → 确认权重机制、达标条件、输出格式
-3. **信念抽屉（2-3个）**
-   → 从信念1-13中选2-3个，读取每个信念的：
-     - 核心表述+金句
-     - 素材积累区的研究列表
+### Step 1：edu_lead读取文件
+
+isolated session（edu_lead协调者）依次读取：
+1. /workspace/knowledge/DAILY_INSIGHT_WORKFLOW.md
+2. /workspace/knowledge/IP_WORKFLOW_V1.md（权重机制）
+3. 信念抽屉（2-3个，核心表述+金句+素材积累区）
+4. 如需参考笔记：/workspace/knowledge/笔记/ 下对应文件
 
 主编如何选择信念：
 - 看今日素材库有无新增研究，追溯到对应信念
-- 看最近哪几个信念之间有内在联系（如信念2讲教师角色+信念6讲课堂教学）
-- 看陛下最近有无新的笔记，涉及哪些主题
+- 看最近哪几个信念之间有内在联系
+- 看陛下最近有无新笔记涉及哪些主题
 
-### Step 2：主编确定碰撞主题
-
-碰撞的本质：找两个/三个信念的素材之间的逻辑关系
+### Step 2：edu_lead确定碰撞主题
 
 碰撞类型：
-- **印证型**：A研究+B研究共同指向同一结论（可信度高）
+- **印证型**：A研究+B研究共同指向同一结论
 - **矛盾型**：A研究和B研究结论不同（矛盾处=洞察入口）
 - **互补型**：A研究补充了B研究忽略的视角
 
-禁止行为：
-- 不能随意选两个信念，必须有逻辑关联
-- 不能只看标题选信念，必须读素材内容
+### Step 3：小艾并发spawn所有写作+评分Agent
 
-### Step 3：主编spawn edu_writer
+**edu_lead通过sessions_send向小艾（主session）发送：**
+- 选定的信念编号和碰撞主题
+- edu_writer应读取的文件列表
+- 读者Agent应评分的格式要求
 
-主编spawn edu_writer，告知：
-- 选定哪2-3个信念（提供信念编号和名称）
-- 碰撞主题是什么
+**小艾收到后，立即并发spawn（同时进行，不串行）：**
+- edu_writer（洞察撰写）
+- reader_new_teacher
+- reader_senior_teacher
+- reader_principal
+- reader_parent
+- reader_expert
 
-**edu_writer 接到任务后，必须：**
+**注意：小艾spawn后，agents直接与edu_lead通过sessions_send回报结果，不经过小艾中转**
+
+### edu_writer 接到任务后，必须：
 
 1. 读取 /workspace/knowledge/INSIGHT_WRITING_RULES.md（写作规范·铁律）
-2. 读取对应信念抽屉文件（核心表述+素材积累区）
+2. 读取对应信念抽屉文件
 3. 如需参考陛下笔记：读取 /workspace/knowledge/笔记/ 下对应文件
 
 **edu_writer 产出3个候选洞察，每篇格式：**
