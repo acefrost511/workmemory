@@ -1,32 +1,33 @@
 #!/bin/bash
-cd /workspace
-SKILLS_DIR="skills"
+SKILLS=(
+  "paper-parse"
+  "paper-summarize-academic"
+  "arxiv-paper-processor"
+  "human-writing"
+  "business-writing"
+  "xiucheng-self-improving-agent"
+  "task-review-workflow"
+  "clawhub-publisher"
+  "daily-review-ritual"
+)
 
-# Install each skill, retry once on rate limit
-install_skill() {
-  slug="$1"
-  name="$2"
-  echo "Installing $name..."
-  output=$(npx clawhub install "$slug" --dir "$SKILLS_DIR" 2>&1)
-  if echo "$output" | grep -q "Rate limit"; then
-    echo "Rate limited, retrying in 60s..."
-    sleep 60
-    output=$(npx clawhub install "$slug" --dir "$SKILLS_DIR" 2>&1)
+for skill in "${SKILLS[@]}"; do
+  echo "Installing $skill..."
+  attempt=0
+  while [ $attempt -lt 10 ]; do
+    if cd /workspace && npx clawhub install "$skill" --dir /workspace/skills --force 2>&1 | grep -q "Installed"; then
+      echo "✅ $skill"
+      break
+    else
+      echo "Rate limited, waiting..."
+      sleep 5
+      attempt=$((attempt+1))
+    fi
+  done
+  if [ $attempt -eq 10 ]; then
+    echo "❌ Failed to install $skill after 10 attempts"
   fi
-  if echo "$output" | grep -q "Rate limit"; then
-    echo "Rate limited again, retrying in 90s..."
-    sleep 90
-    output=$(npx clawhub install "$slug" --dir "$SKILLS_DIR" 2>&1)
-  fi
-  echo "$output"
-  echo "---"
-}
-
-install_skill "planning-with-files" "planning-with-files"
-install_skill "xiucheng-self-improving-agent" "xiucheng-self-improving-agent"
-install_skill "using-superpowers" "using-superpowers"
-install_skill "education" "education"
-install_skill "notion" "notion"
-install_skill "slack" "slack"
-
-echo "ALL_DONE"
+  sleep 5
+done
+echo "ALL DONE"
+ls /workspace/skills/

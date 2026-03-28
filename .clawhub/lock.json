@@ -19,7 +19,7 @@
     },
     "notion": {
       "version": "1.0.0",
-      "installedAt": 1772440234121
+      "installedAt": 1774678982241
     },
     "slack": {
       "version": "1.0.0",
@@ -36,6 +36,42 @@
     "planning-with-files": {
       "version": "2.26.1",
       "installedAt": 1774678441898
+    },
+    "using-superpowers": {
+      "version": "0.1.0",
+      "installedAt": 1774678562267
+    },
+    "article-writer": {
+      "version": "1.0.0",
+      "installedAt": 1774678862253
+    },
+    "topic-to-article-kit": {
+      "version": "1.0.5",
+      "installedAt": 1774678982760
+    },
+    "paper-parse": {
+      "version": "1.0.0",
+      "installedAt": 1774679402350
+    },
+    "paper-summarize-academic": {
+      "version": "1.0.1",
+      "installedAt": 1774679462373
+    },
+    "arxiv-paper-processor": {
+      "version": "0.1.1",
+      "installedAt": 1774680002795
+    },
+    "task-review-workflow": {
+      "version": "0.1.0",
+      "installedAt": 1774680544505
+    },
+    "human-writing": {
+      "version": "1.0.0",
+      "installedAt": 1774680902268
+    },
+    "business-writing": {
+      "version": "0.1.0",
+      "installedAt": 1774680961992
     }
   }
 }

@@ -1,75 +1,73 @@
-# 📚 技能索引（真实版）
+# 📚 Skills 索引（真实版）
 
-> 最后更新：2026-03-28
-> 规则：如无特别说明，skills全部存于 /workspace/skills/
-
----
-
-## ✅ 实际安装的Skills（共16个）
-
-| 技能名称 | 触发关键词 | 主要功能 | 来源 |
-|---------|-----------|---------|------|
-| **ai-style-remover** | AI文风、祛除AI痕迹、自然流畅、口语化 | 识别并祛除AI生成文本痕迹 | 原有 |
-| **byted-web-search** | 字节搜索、volc search、字节推理 | 字节引擎融合搜索 | 原有 |
-| **data-analyst** | 数据可视化、报告生成、SQL查询 | 数据分析师 | 原有 |
-| **docx** | Word文档、.docx、创建Word | Word文档处理 | 原有 |
-| **edu-editor** | 深度解读、长文创作、公众号文章、教育解读 | 教育领域深度内容编辑 | 原有 |
-| **education** | 教育主题、中小学、教育综合 | 教育综合技能 | clawhub |
-| **find-skills** | find a skill、search for skills、is there a skill | 技能发现工具 | 原有 |
-| **frontend-design** | 前端设计、React、Tailwind、UI设计 | 前端界面设计 | 原有 |
-| **khazix-skills** | AI技能库、skill管理 | 技能库生命周期管理 | 原有 |
-| **md2wechat** | 公众号排版html、md转公众号 | Markdown转微信公众号HTML | 原有 |
-| **obsidian-markdown** | Obsidian、双向链接、Mermaid图表 | Obsidian风格Markdown | 原有 |
-| **pdf** | PDF、pdf文档、提取文本、创建PDF | PDF文档处理 | 原有 |
-| **pptx** | PowerPoint、演示文稿、.pptx | PowerPoint演示文稿 | 原有 |
-| **shared** | 共享、团队协作 | 团队共享技能 | 原有 |
-| **xiucheng-self-improving-agent** | 自我改进、持续改进、记录错误 | 自我改进Agent | clawhub |
-| **xlsx** | Excel、电子表格、.xlsx、.csv | 电子表格处理 | 原有 |
+> 更新：2026-03-28
+> 统一目录：/workspace/skills/（共28个）
 
 ---
 
-## 🔄 安装中的Skills（2个）
+## ✅ 已安装 Skills 完整清单（28个）
 
-- using-superpowers：超级能力模式
-- notion：Notion集成
+### 内容创作 · IP团队用
+- **ai-style-remover**：祛除AI文风痕迹
+- **article-writer**：文章写作
+- **business-writing**：商业文案
+- **docx**：Word文档处理
+- **edu-editor**：教育深度内容编辑
+- **human-writing**：自然写作风格
+- **md2wechat**：公众号HTML排版
+- **pptx**：PowerPoint制作
+- **topic-to-article-kit**：话题→文章转化套件
+- **xlsx**：Excel数据处理
+
+### 情报扫描 · 情报官用
+- **arxiv-paper-processor**：arXiv论文处理
+- **byted-web-search**：字节引擎联网搜索
+- **data-analyst**：数据可视化/分析
+- **education**：教育综合技能
+- **paper-parse**：论文解析
+- **paper-summarize-academic**：学术论文摘要
+
+### 工作流与规划
+- **planning-with-files**：Manus风格任务规划
+- **task-review-workflow**：任务复盘流程
+- **using-superpowers**：超级能力模式
+- **xiucheng-self-improving-agent**：自我反思改进Agent
+
+### 飞书生态
+- **feishu-doc**：飞书文档（OpenClaw扩展）
+- **feishu-drive**：飞书云盘
+- **feishu-wiki**：飞书知识库
+- **feishu-perm**：飞书权限管理
+
+### 第三方集成
+- **notion**：Notion集成
+- **slack**：Slack控制
+
+### 设计与前端
+- **frontend-design**：React/Tailwind界面设计
+- **obsidian-markdown**：Obsidian风格Markdown
+
+### 工具类
+- **find-skills**：技能发现（从clawhub搜索）
+- **khazix-skills**：技能库生命周期管理
+- **pdf**：PDF处理
+- **shared**：团队共享技能
 
 ---
 
-## 📋 Skills索引
+## 📋 Skill 触发说明
 
-### 内容创作类
-- ai-style-remover：AI文风祛除
-- docx：Word文档
-- edu-editor：教育内容编辑
-- md2wechat：公众号HTML
-- pptx：演示文稿
-- xlsx：电子表格
-
-### 搜索与信息类
-- byted-web-search：字节联网搜索
-- education：教育综合
-- find-skills：技能发现
-
-### 数据与分析类
-- data-analyst：数据可视化/分析
-- pdf：PDF处理
-
-### 设计与前端类
-- frontend-design：React/Tailwind界面
-- obsidian-markdown：双向链接/Mermaid
-
-### 效率与工具类
-- khazix-skills：技能库管理
-- shared：团队共享
-- xiucheng-self-improving-agent：自我改进
-- using-superpowers：超级能力（安装中）
-- notion：Notion集成（安装中）
-
----
-
-## ⚠️ SKILLS_INDEX历史说明
-
-- 2026-03-24版本曾列出47个skills，其中33个"有定义但未安装"
-- 实际情况：那些skill只有定义文档，从未真正安装到本地
-- 2026-03-28清理：删除虚假索引，改为记录真实已安装的16个skills
-- 以后新增skill必须实际安装到位，才能计入本索引
+当陛下提到以下关键词时，对应skill会自动激活：
+- "祛除AI痕迹" → ai-style-remover
+- "公众号排版" / "md转公众号" → md2wechat
+- "深度解读" / "教育长文" → edu-editor
+- "Word文档" / "docx" → docx
+- "数据可视化" / "分析报告" → data-analyst
+- "联网搜索" / "搜索一下" → byted-web-search
+- "论文" / "arXiv" → arxiv-paper-processor
+- "规划任务" / "分解任务" → planning-with-files
+- "自我反思" / "记录经验" → xiucheng-self-improving-agent
+- "复盘" / "任务复盘" → task-review-workflow
+- "公众号文章" / "写文章" → article-writer
+- "PPT" / "演示文稿" → pptx
+- "飞书文档" / "飞书wiki" → feishu-doc / feishu-wiki
