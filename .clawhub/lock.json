@@ -23,7 +23,19 @@
     },
     "slack": {
       "version": "1.0.0",
-      "installedAt": 1772440240388
+      "installedAt": 1774678141626
+    },
+    "xiucheng-self-improving-agent": {
+      "version": "1.0.0",
+      "installedAt": 1774677548613
+    },
+    "education": {
+      "version": "3.4.1",
+      "installedAt": 1774677601673
+    },
+    "planning-with-files": {
+      "version": "2.26.1",
+      "installedAt": 1774678441898
     }
   }
 }
