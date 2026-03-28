@@ -1,6 +1,6 @@
 # Source URL: https://link.springer.com/article/10.1007/s43681-025-00824-3
-# Content Length: 262280 characters
-# Extracted at: 2026-03-24 05:01:53
+# Content Length: 262131 characters
+# Extracted at: 2026-03-28 08:36:43
 #============================================================
 
 
@@ -393,7 +393,7 @@ You have full access to this [open access](https://www.springernature.com/gp/ope
 [Download PDF](/content/pdf/10.1007/s43681-025-00824-3.pdf)
 
 
-[Save article](/article/10.1007/s43681-025-00824-3/save-research?_csrf=ymN0sFAAUBsP7I66g-C0WH4xqB5s3QlL)
+[Save article](/article/10.1007/s43681-025-00824-3/save-research?_csrf=2xUZkMIxmXAICAz24HLLyCdX8HZWlFL-)
 [View saved research](/saved-research)
 
 
@@ -419,7 +419,7 @@ Inclusive education with AI: supporting special needs and tackling language barr
 
 * [Ricardo Fitas](#auth-Ricardo-Fitas-Aff1)[1](#Aff1)
 
-* 14k Accesses
+* 15k Accesses
 * 21 Citations
 * [Explore all metrics](/article/10.1007/s43681-025-00824-3/metrics)
 
@@ -485,11 +485,10 @@ In practice, several AI translation tools have already made their way into class
 
 **Fig. 1**
 
-[![]()](/article/10.1007/s43681-025-00824-3/figures/1)
+![]()[Full size image](/article/10.1007/s43681-025-00824-3/figures/1)
 
 Visualization of the AI translation tools in the classroom
 
-[Full size image](/article/10.1007/s43681-025-00824-3/figures/1)
 #### 3.2.1 Machine translation apps
 
 Machine translation apps are among the most widely used AI tools in language education. These tools leverage advanced algorithms to translate text and speech in real-time, facilitating communication across languages.
@@ -586,11 +585,9 @@ The integration of AI in special needs education has revolutionized the way educ
 
 **Fig. 2**
 
-[![]()](/article/10.1007/s43681-025-00824-3/figures/2)
+![]()[Full size image](/article/10.1007/s43681-025-00824-3/figures/2)
 
 Visualization of all the mentioned categories of assistive technology for special needs
-
-[Full size image](/article/10.1007/s43681-025-00824-3/figures/2)
 
 **Table 1 Categorization of AI-driven assistive technologies for special needs education**
 
@@ -719,11 +716,10 @@ Some key recommendations have been identified to ensure the ethical and effectiv
 
 **Fig. 3**
 
-[![]()](/article/10.1007/s43681-025-00824-3/figures/3)
+![]()[Full size image](/article/10.1007/s43681-025-00824-3/figures/3)
 
 Recommendations to responsible AI implementation
 
-[Full size image](/article/10.1007/s43681-025-00824-3/figures/3)
 ### 7.1 Ethical and effective AI integration strategies
 
 To harness AI for inclusive education responsibly, the author recommends several strategies centered on ethical use and thoughtful integration. First, it is crucial to establish clear guidelines and policies at the school or district level for AI use in classrooms. These should outline acceptable uses of AI, data privacy protections, and processes for monitoring algorithmic fairness. For example, schools should adopt policies ensuring that any AI system handling student data complies with privacy laws and undergoes regular audits for bias. An AI Ethics Committee or working group can be formed within the district, including educators, parents, and IT experts, to evaluate AI tools before adoption and to continuously review their impact. This committee would help vet whether an AI reading app has been tested with English Language Learners (ELLs) and special needs students, or whether a learning analytics platform provides interpretable and fair metrics. By having such oversight, schools can prevent problematic AI implementations and build trust among stakeholders.
@@ -1746,7 +1742,7 @@ Navigation
 * [Legal notice](https://link.springer.com/legal-notice)
 * [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
 
-47.100.94.83
+139.224.66.192
 
 Not affiliated
 

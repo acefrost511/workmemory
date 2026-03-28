@@ -1,0 +1,815 @@
+# Source URL: https://doi.org/10.1007/s10639-022-11473-y
+# Content Length: 47384 characters
+# Extracted at: 2026-03-28 05:28:01
+#============================================================
+
+
+
+
+
+
+
+
+
+AI-assisted automated scoring of picture-cued writing tasks for language assessment | Education and Information Technologies | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/10639/article&sz=728x90&pos=top&articleid=s10639-022-11473-y)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s10639-022-11473-y)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Education and Information Technologies](/journal/10639)
+3. Article
+
+AI-assisted automated scoring of picture-cued writing tasks for language assessment
+===================================================================================
+
+* Published: 28 November 2022
+
+* Volume 28, pages 7031–7063, (2023)
+* [Cite this article](#citeas)
+
+[Save article](/article/10.1007/s10639-022-11473-y/save-research?_csrf=kF5HKmzNTlfR8JfBbZQLsMbjek5-EbT1)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Education and Information Technologies](/journal/10639)
+[Aims and scope](/journal/10639/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/eait)
+
+
+
+
+* [Ruibin Zhao](#auth-Ruibin-Zhao-Aff1-Aff2)[1](#Aff1),[2](#Aff2),
+* [Yipeng Zhuang](#auth-Yipeng-Zhuang-Aff1)[1](#Aff1),
+* [Di Zou](#auth-Di-Zou-Aff3)[3](#Aff3),
+* [Qin Xie](#auth-Qin-Xie-Aff4)[4](#Aff4) &
+* …
+* [Philip L. H. Yu](#auth-Philip_L__H_-Yu-Aff1)[1](#Aff1)
+
+Show authors
+
+* 3235 Accesses
+* 30 Citations
+* [Explore all metrics](/article/10.1007/s10639-022-11473-y/metrics)
+
+
+
+
+Abstract
+--------
+
+Grading assignments is inherently subjective and time-consuming; automatic scoring tools can greatly reduce teacher workload and shorten the time needed for providing feedback to learners. The purpose of this paper is to propose a novel method for automatically scoring student responses to picture-cued writing tasks. As a popular paradigm for language instruction and assessment, a picture-cued writing task typically requires students to describe a picture or pictures. Correspondingly, the automatic scoring methods must measure the link(s) between visual pictures and their textual descriptions. For this purpose, we first designed a picture-cued writing test and collected nearly 4 k responses from 279 K12 students. Based on these responses, we then developed an AI scoring model by incorporating the emerging cross-modal matching technology and some NLP algorithms. The performance of the model was evaluated carefully with six popular measures and was found to demonstrate accurate scoring results with a small mean absolute error of 0.479 and a high adjacent-agreement rate of 90.64%. We believe this method could reduce the subjective elements inherent in human grading and save teachers’ time from the mundane task of grading to other valuable endeavors such as designing teaching plans based on AI-generated diagnosis of student progress.
+
+
+
+
+This is a preview of subscription content, [log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10639-022-11473-y)
+
+ to check access.
+
+
+Access this article
+-------------------
+
+[Log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10639-022-11473-y)
+
+
+Subscribe and save
+------------------
+
+
+Springer+
+
+from €37.37 /Month
+
+* Starting from 10 chapters or articles per month
+* Access and download chapters and articles from more than 300k books and 2,500 journals
+* Cancel anytime
+
+[View plans](https://link.springer.com/product/springer-plus)
+
+Buy Now
+-------
+
+
+Buy article PDF 39,95 €
+
+Price includes VAT (China (P.R.))
+  
+
+
+Instant access to the full article PDF.
+
+
+
+
+[Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/journals)
+
+
+
+
+
+**Fig. 1**
+
+![]()
+
+**Fig. 2**
+
+![]()
+
+**Fig. 3**
+
+![]()
+
+**Fig. 4**
+
+![]()
+
+**Fig. 5**
+
+![]()
+
+**Fig. 6**
+
+![]()
+
+**Fig. 7**
+
+![]()
+
+**Fig.8**
+
+![]()
+
+**Fig. 9**
+
+![]()
+
+**Fig. 10**
+
+![]()
+
+
+### Similar content being viewed by others
+
+![]()
+### [Design Through AI Eyes: Automating Aesthetic Assessments for Learning Graphic Design Concepts](https://link.springer.com/10.1007/978-981-96-0695-5_27?fromPaywallRec=true)
+
+Chapter
+© 2025
+
+
+
+
+![]()
+### [Automated Assessment of Quality and Coverage of Ideas in Students’ Source-Based Writing](https://link.springer.com/10.1007/978-3-030-78270-2_82?fromPaywallRec=true)
+
+Chapter
+© 2021
+
+
+
+
+![]()
+### [AI-driven mock interview assessment: leveraging generative language models for automated evaluation](https://link.springer.com/10.1007/s13042-025-02529-9?fromPaywallRec=true)
+
+Article
+25 January 2025
+
+
+
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Automated Pattern Recognition](/subjects/automated-pattern-recognition)
+* [Biometrics](/subjects/biometrics)
+* [Computational Linguistics](/subjects/computational-linguistics)
+* [Language Processing](/subjects/language-processing)
+* [Natural Language Processing (NLP)](/subjects/natural-language-processing-nlp)
+* [Artificial Intelligence](/subjects/artificial-intelligence)
+* [Peer Assessment and Feedback in Higher Education](/subjects/peer-assessment-and-feedback-in-higher-education)
+
+References
+----------
+
+* Aschawir, A. (2014). Using series pictures to develop the students’ ideas in English narrative writing. *Scholarly Journal of Education,* *3*(7), 88–95.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20series%20pictures%20to%20develop%20the%20students%27%20ideas%20in%20English%20narrative%20writing&journal=Scholarly%20Journal%20of%20Education&volume=3&issue=7&pages=88-95&publication_year=2014&author=Aschawir%2CA)
+* Asrifan, A. (2015). The use of pictures story in improving students' ability to write narrative composition. *International Journal of Language and Linguistics*, *3*(4), 244–251. <https://doi.org/10.11648/j.ijll.20150304.18>
+* Attali, Y., & Burstein, J. (2006). Automated essay scoring with e-rater® V. 2. *The Journal of Technology, Learning and Assessment,* *4*(3), 1–31.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Automated%20essay%20scoring%20with%20e-rater%C2%AE%20V.%202&journal=The%20Journal%20of%20Technology%2C%20Learning%20and%20Assessment&volume=4&issue=3&pages=1-31&publication_year=2006&author=Attali%2CY&author=Burstein%2CJ)
+* Baird, C., & Dooey, P. (2017). Using images to facilitate writing for skills assessment: A visual PELA. *The Australian Journal of Indigenous Education,* *46*(2), 160–172. <https://doi.org/10.1017/jie.2016.32>
+  
+  [Article](https://doi.org/10.1017%2Fjie.2016.32) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20images%20to%20facilitate%20writing%20for%20skills%20assessment%3A%20A%20visual%20PELA&journal=The%20Australian%20Journal%20of%20Indigenous%20Education&doi=10.1017%2Fjie.2016.32&volume=46&issue=2&pages=160-172&publication_year=2017&author=Baird%2CC&author=Dooey%2CP)
+* Bridgeman, B., Trapani, C., & Attali, Y. (2012). Comparison of human and machine scoring of essays: Differences by gender, ethnicity, and country. *Applied Measurement in Education,* *25*(1), 27–40. <https://doi.org/10.1080/08957347.2012.635502>
+  
+  [Article](https://doi.org/10.1080%2F08957347.2012.635502) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Comparison%20of%20human%20and%20machine%20scoring%20of%20essays%3A%20Differences%20by%20gender%2C%20ethnicity%2C%20and%20country&journal=Applied%20Measurement%20in%20Education&doi=10.1080%2F08957347.2012.635502&volume=25&issue=1&pages=27-40&publication_year=2012&author=Bridgeman%2CB&author=Trapani%2CC&author=Attali%2CY)
+* Chapelle, C. A., Cotos, E., & Lee, J. (2015). Validity arguments for diagnostic assessment using automated writing evaluation. *Language Testing,* *32*(3), 385–405. <https://doi.org/10.1177/0265532214565386>
+  
+  [Article](https://doi.org/10.1177%2F0265532214565386) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Validity%20arguments%20for%20diagnostic%20assessment%20using%20automated%20writing%20evaluation&journal=Language%20Testing&doi=10.1177%2F0265532214565386&volume=32&issue=3&pages=385-405&publication_year=2015&author=Chapelle%2CCA&author=Cotos%2CE&author=Lee%2CJ)
+* Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: Synthetic minority over-sampling technique. *Journal of Artificial Intelligence Research,* *16*, 321–357.
+  
+  [Article](https://doi.org/10.1613%2Fjair.953) 
+  [MATH](http://www.emis.de/MATH-item?0994.68128) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=SMOTE%3A%20Synthetic%20minority%20over-sampling%20technique&journal=Journal%20of%20Artificial%20Intelligence%20Research&doi=10.1613%2Fjair.953&volume=16&pages=321-357&publication_year=2002&author=Chawla%2CNV&author=Bowyer%2CKW&author=Hall%2CLO&author=Kegelmeyer%2CWP)
+* Chen, H., Ding, G., Liu, X., Lin, Z., Liu, J., & Han, J. (2020). IMRAM: Iterative matching with recurrent attention memory for cross-modal image-text retrieval. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 12655–12663). <https://doi.org/10.1109/CVPR42600.2020.01267>
+* Chen, F., Zhang, D., Han, M., Chen, X., Shi, J., Xu, S., & Xu, B. (2022). VLP: A survey on vision-language pre-training. *arXiv preprint arXiv*: 2202.09061. <https://doi.org/10.48550/arXiv.2202.09061>
+* Chen, T., & Guestrin, C. (2016). Xgboost: A scalable tree boosting system. In *Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (pp. 785–794)*.*
+* Deeva, G., Bogdanova, D., Serral, E., Snoeck, M., & De Weerdt, J. (2021). A review of automated feedback systems for learners: Classification framework, challenges and opportunities. *Computers & Education,* *162*, 104094. <https://doi.org/10.1016/j.compedu.2020.104094>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2020.104094) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20review%20of%20automated%20feedback%20systems%20for%20learners%3A%20Classification%20framework%2C%20challenges%20and%20opportunities&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2020.104094&volume=162&publication_year=2021&author=Deeva%2CG&author=Bogdanova%2CD&author=Serral%2CE&author=Snoeck%2CM&author=Weerdt%2CJ)
+* Diao, H., Zhang, Y., Ma, L., & Lu, H. (2021). Similarity reasoning and filtration for image-text matching. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (Vol. 35, No. 2. pp. 1218– 1226).
+* Elliott, S., Shermis, M. D., & Burstein, J. (2003). Overview of intelliMetric. In M. D. Shermis and J. Burstein (Eds.), *Automated Essay Scoring: A Cross-Disciplinary Perspective* (pp. 67–70). Lawrence Erlbaum Associates. <https://doi.org/10.4324/9781410606860>
+* Erfanian Mohammadi, J., Elahi Shirvan, M., & Akbari, O. (2019). Systemic functional multimodal discourse analysis of teaching students developing classroom materials. *Teaching in Higher Education,* *24*(8), 964–986. <https://doi.org/10.1080/13562517.2018.1527763>
+  
+  [Article](https://doi.org/10.1080%2F13562517.2018.1527763) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systemic%20functional%20multimodal%20discourse%20analysis%20of%20teaching%20students%20developing%20classroom%20materials&journal=Teaching%20in%20Higher%20Education&doi=10.1080%2F13562517.2018.1527763&volume=24&issue=8&pages=964-986&publication_year=2019&author=Erfanian%20Mohammadi%2CJ&author=Elahi%20Shirvan%2CM&author=Akbari%2CO)
+* Gabeur, V., Sun, C., Alahari, K., & Schmid, C. (2020). Multi-modal transformer for video retrieval. In *Proceedings of European Conference on Computer Vision* (pp. 214–229).
+* Haman, E., Łuniewska, M., & Pomiechowska, B. (2015). Designing cross-linguistic lexical tasks (CLTs) for bilingual preschool children. In S. Armon-Lotem, J. de Jong, & N. Meir (Eds.), *Methods for assessing multilingual children: Disentangling bilingualism from Language impairment* (pp. 194–238). Multilingual Matters. <https://doi.org/10.21832/9781783093137-010>
+* Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research,* *77*(1), 81–112.
+  
+  [Article](https://doi.org/10.3102%2F003465430298487) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20power%20of%20feedback&journal=Review%20of%20Educational%20Research&doi=10.3102%2F003465430298487&volume=77&issue=1&pages=81-112&publication_year=2007&author=Hattie%2CJ&author=Timperley%2CH)
+* Hossain, M. Z., Sohel, F., Shiratuddin, M. F., & Laga, H. (2019). A comprehensive survey of deep learning for image captioning. *ACM Computing Surveys (CsUR),* *51*(6), 1–36. <https://doi.org/10.1145/3295748>
+  
+  [Article](https://doi.org/10.1145%2F3295748) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20comprehensive%20survey%20of%20deep%20learning%20for%20image%20captioning&journal=ACM%20Computing%20Surveys%20%28CsUR%29&doi=10.1145%2F3295748&volume=51&issue=6&pages=1-36&publication_year=2019&author=Hossain%2CMZ&author=Sohel%2CF&author=Shiratuddin%2CMF&author=Laga%2CH)
+* James, K. H., Vinci-Booher, S. Munoz-Rubke, F. (2017). The impact of multimodal-multisensory learning on human performance and brain activation patterns. In Oviatt, S., Schuller, B. Cohen, P., Sonntag, D. Potamianos, G., & Kruger, A. (Eds.), *The handbook of multimodal-multisensor interfaces*, vol 1: Foundations, user modeling, and common modality combinations (pp. 51-94). Morgan & Claypool Publishers. <https://doi.org/10.1145/3015783.3015787>
+* Jin, C., Zhang, T., Liu, S., Tie, Y., Lv, X., Li, J., & Yang, Z. (2021). Cross-modal deep learning applications: audio-visual retrieval. In *Proceedings of International Conference on Pattern Recognition* (pp. 301–313)
+* Kharkhurin, A. V. (2012). A preliminary version of an internet-based picture naming test. *Open Journal of Modern Linguistics,* *2*(01), 34–41. <https://doi.org/10.4236/ojml.2012.21005>
+  
+  [Article](https://doi.org/10.4236%2Fojml.2012.21005) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20preliminary%20version%20of%20an%20internet-based%20picture%20naming%20test&journal=Open%20Journal%20of%20Modern%20Linguistics&doi=10.4236%2Fojml.2012.21005&volume=2&issue=01&pages=34-41&publication_year=2012&author=Kharkhurin%2CAV)
+* Khoii, R., & Doroudian, A. (2014). Automated scoring of EFL learners' written performance: a torture or a blessing. In *Proceedings of Conference on ICT for Language Learning* (pp. 5146–5155)
+* Kingston, N., & Nash, B. (2011). Formative assessment: A meta-analysis and a call for research. *Educational Measurement: Issues and Practice,* *30*(4), 28–37. <https://doi.org/10.1111/j.1745-3992.2011.00220.x>
+  
+  [Article](https://doi.org/10.1111%2Fj.1745-3992.2011.00220.x) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Formative%20assessment%3A%20A%20meta-analysis%20and%20a%20call%20for%20research&journal=Educational%20Measurement%3A%20Issues%20and%20Practice&doi=10.1111%2Fj.1745-3992.2011.00220.x&volume=30&issue=4&pages=28-37&publication_year=2011&author=Kingston%2CN&author=Nash%2CB)
+* Lee, K. H., Chen, X., Hua, G., Hu, H., & He, X. (2018). Stacked cross attention for image-text matching. In *Proceedings of the European Conference on Computer Vision* (pp. 201–216). <https://doi.org/10.1007/978-3-030-01225-0_13>
+* Li, J., Selvaraju, R., Gotmare, A., Joty, S., Xiong, C., & Hoi, S. C. H. (2021). Align before fuse: Vision and language representation learning with momentum distillation. In *Proceedings of the 35th Conference on Neural Information Processing Systems* (pp. 1978–1992)
+* Link, S., Mehrzad, M., & Rahimi, M. (2020). Impact of automated writing evaluation on teacher feedback, student revision, and writing improvement. *Computer Assisted Language Learning,* *35*(4), 605–634. <https://doi.org/10.1080/09588221.2020.1743323>
+  
+  [Article](https://doi.org/10.1080%2F09588221.2020.1743323) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Impact%20of%20automated%20writing%20evaluation%20on%20teacher%20feedback%2C%20student%20revision%2C%20and%20writing%20improvement&journal=Computer%20Assisted%20Language%20Learning&doi=10.1080%2F09588221.2020.1743323&volume=35&issue=4&pages=605-634&publication_year=2020&author=Link%2CS&author=Mehrzad%2CM&author=Rahimi%2CM)
+* Listyani, L. (2019). The use of a visual image to promote narrative writing ability and creativity. *Eurasian Journal of Educational Research,* *80*, 193–224.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20use%20of%20a%20visual%20image%20to%20promote%20narrative%20writing%20ability%20and%20creativity&journal=Eurasian%20Journal%20of%20Educational%20Research&volume=80&pages=193-224&publication_year=2019&author=Listyani%2CL)
+* Liu, C., Mao, Z., Zhang, T., Xie, H., Wang, B., & Zhang, Y. (2020). Graph structured network for image-text matching. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 10921–10930). <https://doi.org/10.1109/CVPR42600.2020.01093>
+* Liu, J., Xu, Y., & Zhu, Y. (2019). Automated essay scoring based on two-stage learning. *arXiv preprint arXiv*: 1901.07744. <https://doi.org/10.48550/arXiv.1901.07744>
+* Lu, C., & Cutumisu, M. (2021). Integrating Deep Learning into an Automated Feedback Generation System for Automated Essay Scoring. In *Proceedings of the 14th International Conference on Educational Data Mining* (pp.573–579).
+* Malali, N., & Keller, Y. (2021). Learning to embed semantic similarity for joint image-text retrieval. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. <https://doi.org/10.1109/TPAMI.2021.3132163>
+  
+  [Article](https://doi.org/10.1109%2FTPAMI.2021.3132163) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Learning%20to%20embed%20semantic%20similarity%20for%20joint%20image-text%20retrieval&journal=IEEE%20Transactions%20on%20Pattern%20Analysis%20and%20Machine%20Intelligence&doi=10.1109%2FTPAMI.2021.3132163&publication_year=2021&author=Malali%2CN&author=Keller%2CY)
+* Mangaroska, K., Martinez-Maldonado, R., Vesin, B., & Gašević, D. (2021). Challenges and opportunities of multimodal data in human learning: The computer science students’ perspective. *Journal of Computer Assisted Learning,* *37*(4), 1030–1047. <https://doi.org/10.1111/jcal.12542>
+  
+  [Article](https://doi.org/10.1111%2Fjcal.12542) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Challenges%20and%20opportunities%20of%20multimodal%20data%20in%20human%20learning%3A%20The%20computer%20science%20students%27%20perspective&journal=Journal%20of%20Computer%20Assisted%20Learning&doi=10.1111%2Fjcal.12542&volume=37&issue=4&pages=1030-1047&publication_year=2021&author=Mangaroska%2CK&author=Martinez-Maldonado%2CR&author=Vesin%2CB&author=Ga%C5%A1evi%C4%87%2CD)
+* Manning, C. D., Surdeanu, M., Bauer, J., Finkel, J. R., Bethard, S., & McClosky, D. (2014). The Stanford CoreNLP natural language processing toolkit. In *Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations* (pp. 55–60). <https://doi.org/10.3115/v1/P14-5010>
+* McCarthy, K. S., Roscoe, R. D., Allen, L. K., Likens, A. D., & McNamara, D. S. (2022). Automated writing evaluation: Does spelling and grammar feedback support high-quality writing and revision? *Assessing Writing,* *52*, 100608. <https://doi.org/10.1016/j.asw.2022.100608>
+  
+  [Article](https://doi.org/10.1016%2Fj.asw.2022.100608) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Automated%20writing%20evaluation%3A%20Does%20spelling%20and%20grammar%20feedback%20support%20high-quality%20writing%20and%20revision%3F&journal=Assessing%20Writing&doi=10.1016%2Fj.asw.2022.100608&volume=52&publication_year=2022&author=McCarthy%2CKS&author=Roscoe%2CRD&author=Allen%2CLK&author=Likens%2CAD&author=McNamara%2CDS)
+* Page, E. B. (2003). Project essay grade: PEG. In M. D. Shermis and J. Burstein (Eds.), *Automated essay scoring: A Cross-disciplinary perspective* (pp. 43–54). Lawrence Erlbaum Associates. <https://doi.org/10.4324/9781410606860-12>
+* Paivio, A. (1991). Dual coding theory: Retrospect and current status. *Canadian Journal of Psychology/revue Canadienne De Psychologie,* *45*(3), 255. <https://doi.org/10.1037/h0084295>
+  
+  [Article](https://doi.org/10.1037%2Fh0084295) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Dual%20coding%20theory%3A%20Retrospect%20and%20current%20status&journal=Canadian%20Journal%20of%20Psychology%2Frevue%20Canadienne%20De%20Psychologie&doi=10.1037%2Fh0084295&volume=45&issue=3&publication_year=1991&author=Paivio%2CA)
+* Palermo, C., & Thomson, M. M. (2018). Teacher implementation of self-regulated strategy development with an automated writing evaluation system: Effects on the argumentative writing performance of middle school students. *Contemporary Educational Psychology,* *54*, 255–270. <https://doi.org/10.1016/j.cedpsych.2018.07.002>
+  
+  [Article](https://doi.org/10.1016%2Fj.cedpsych.2018.07.002) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teacher%20implementation%20of%20self-regulated%20strategy%20development%20with%20an%20automated%20writing%20evaluation%20system%3A%20Effects%20on%20the%20argumentative%20writing%20performance%20of%20middle%20school%20students&journal=Contemporary%20Educational%20Psychology&doi=10.1016%2Fj.cedpsych.2018.07.002&volume=54&pages=255-270&publication_year=2018&author=Palermo%2CC&author=Thomson%2CMM)
+* Ramineni, C., & Williamson, D. M. (2013). Automated essay scoring: Psychometric guidelines and practices. *Assessing Writing,* *18*(1), 25–39.<https://doi.org/10.1016/j.asw.2012.10.004>
+* Ren, S., He, K., Girshick, R., & Sun, J. (2016). Faster R-CNN: Towards real-time object detection with region proposal networks. *IEEE Transactions on Pattern Analysis and Machine Intelligence,* *39*(6), 1137–1149. <https://doi.org/10.1109/TPAMI.2016.2577031>
+  
+  [Article](https://doi.org/10.1109%2FTPAMI.2016.2577031) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Faster%20R-CNN%3A%20Towards%20real-time%20object%20detection%20with%20region%20proposal%20networks&journal=IEEE%20Transactions%20on%20Pattern%20Analysis%20and%20Machine%20Intelligence&doi=10.1109%2FTPAMI.2016.2577031&volume=39&issue=6&pages=1137-1149&publication_year=2016&author=Ren%2CS&author=He%2CK&author=Girshick%2CR&author=Sun%2CJ)
+* Roscoe, R. D., Allen, L. K., Johnson, A. C., & McNamara, D. S. (2018). Automated writing instruction and feedback: Instructional mode, attitudes, and revising. In *Proceedings of the 62nd Annual Meeting of the Human Factors and Ergonomics Society* (pp. 2089–2093). Human Factors & Ergonomics Society. <https://doi.org/10.1177/1541931218621471>
+* Sakaguchi, K., Heilman, M., & Madnani, N. (2015). Effective feature integration for automated short answer scoring. In *Proceedings of the 2015 conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies* (pp. 1049–1054). <https://doi.org/10.3115/v1/N15-1111>
+* Schuster, M., & Paliwal, K. K. (1997). Bidirectional recurrent neural networks. *IEEE Transactions on Signal Processing,* *45*(11), 2673–2681.
+  
+  [Article](https://doi.org/10.1109%2F78.650093) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Bidirectional%20recurrent%20neural%20networks&journal=IEEE%20Transactions%20on%20Signal%20Processing&doi=10.1109%2F78.650093&volume=45&issue=11&pages=2673-2681&publication_year=1997&author=Schuster%2CM&author=Paliwal%2CKK)
+* Shim, Y. (2013). The effects of online writing evaluation program. *Teaching English with Technology,* *13*(3), 18–34.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effects%20of%20online%20writing%20evaluation%20program&journal=Teaching%20English%20with%20Technology&volume=13&issue=3&pages=18-34&publication_year=2013&author=Shim%2CY)
+* Silverman, R. D., Coker, D., Proctor, C. P., Harring, J., Piantedosi, K. W., & Hartranft, A. M. (2015). The relationship between language skills and writing outcomes for linguistically diverse students in upper elementary school. *The Elementary School Journal,* *116*(1), 103–125. <https://doi.org/10.1086/683135>
+  
+  [Article](https://doi.org/10.1086%2F683135) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20relationship%20between%20language%20skills%20and%20writing%20outcomes%20for%20linguistically%20diverse%20students%20in%20upper%20elementary%20school&journal=The%20Elementary%20School%20Journal&doi=10.1086%2F683135&volume=116&issue=1&pages=103-125&publication_year=2015&author=Silverman%2CRD&author=Coker%2CD&author=Proctor%2CCP&author=Harring%2CJ&author=Piantedosi%2CKW&author=Hartranft%2CAM)
+* Steinberg, D., & Colla, P. (2009). CART: Classification and regression trees. *The Top Ten Algorithms in Data Mining,* *9*, 179. <https://doi.org/10.4135/9781412950589.n88>
+  
+  [Article](https://doi.org/10.4135%2F9781412950589.n88) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=CART%3A%20Classification%20and%20regression%20trees&journal=The%20Top%20Ten%20Algorithms%20in%20Data%20Mining&doi=10.4135%2F9781412950589.n88&volume=9&publication_year=2009&author=Steinberg%2CD&author=Colla%2CP)
+* Stevenson, M., & Phakiti, A. (2014). The effects of computer-generated feedback on the quality of writing. *Assessing Writing,* *19*, 51–65. <https://doi.org/10.1016/j.asw.2013.11.007>
+  
+  [Article](https://doi.org/10.1016%2Fj.asw.2013.11.007) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effects%20of%20computer-generated%20feedback%20on%20the%20quality%20of%20writing&journal=Assessing%20Writing&doi=10.1016%2Fj.asw.2013.11.007&volume=19&pages=51-65&publication_year=2014&author=Stevenson%2CM&author=Phakiti%2CA)
+* Strobl, C., Ailhaud, E., Benetos, K., Devitt, A., Kruse, O., Proske, A., & Rapp, C. (2019). Digital support for academic writing: A review of technologies and pedagogies. *Computers & Education,* *131*, 33–48. <https://doi.org/10.1016/j.compedu.2018.12.005>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2018.12.005) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Digital%20support%20for%20academic%20writing%3A%20A%20review%20of%20technologies%20and%20pedagogies&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2018.12.005&volume=131&pages=33-48&publication_year=2019&author=Strobl%2CC&author=Ailhaud%2CE&author=Benetos%2CK&author=Devitt%2CA&author=Kruse%2CO&author=Proske%2CA&author=Rapp%2CC)
+* Tan, H., & Bansal, M. (2019). Lxmert: Learning cross-modality encoder representations from transformers. *arXiv preprint arXiv*: 1908.07490. <https://doi.org/10.18653/v1/D19-1514>
+* Toyama, J., Misono, M., Suzuki, M., Nakayama, K., & Matsuo, Y. (2016). Neural machine translation with latent semantic of image and text. *arXiv preprint arXiv* 1611.08459. <https://doi.org/10.48550/arXiv.1611.08459>
+* Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In *Proceedings of the 31st Conference on Neural Information Processing Systems* (pp.1–11).
+* Wang, Y. (2021). Survey on deep multi-modal data analytics: Collaboration, rivalry, and fusion. *ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)*, *17*(1), 1–25. <https://doi.org/10.1145/3408317>
+* Wang, E. L., Matsumura, L. C., Correnti, R., Litman, D., Zhang, H., Howe, E., … & Quintana, R. (2020). eRevis (ing): Students’ revision of text evidence use in an automated writing evaluation system. *Assessing Writing,* *44*, 100449. <https://doi.org/10.1016/j.asw.2020.100449>
+* Warschauer, M., & Grimes, D. (2008). Automated writing assessment in the classroom. *Pedagogies: An International Journal*, *3*(1), 22–36. <https://doi.org/10.1080/15544800701771580>
+* Wei, X., Zhang, T., Li, Y., Zhang, Y., & Wu, F. (2020). Multi-modality cross attention network for image and sentence matching. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 10941–10950). <https://doi.org/10.1109/CVPR42600.2020.01095>
+* Williamson, D. M., Xi, X., & Breyer, F. J. (2012). A framework for evaluation and use of automated scoring. *Educational Measurement: Issues and Practice,* *31*(1), 2–13. <https://doi.org/10.1111/j.1745-3992.2011.00223.x>
+  
+  [Article](https://doi.org/10.1111%2Fj.1745-3992.2011.00223.x) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20framework%20for%20evaluation%20and%20use%20of%20automated%20scoring&journal=Educational%20Measurement%3A%20Issues%20and%20Practice&doi=10.1111%2Fj.1745-3992.2011.00223.x&volume=31&issue=1&pages=2-13&publication_year=2012&author=Williamson%2CDM&author=Xi%2CX&author=Breyer%2CFJ)
+* Wilson, J., Ahrendt, C., Fudge, E. A., Raiche, A., Beard, G., & MacArthur, C. (2021). Elementary teachers’ perceptions of automated feedback and automated scoring: Transforming the teaching and learning of writing using automated writing evaluation. *Computers & Education,* *168*, 104208. <https://doi.org/10.1016/j.compedu.2021.104208>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2021.104208) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Elementary%20teachers%27%20perceptions%20of%20automated%20feedback%20and%20automated%20scoring%3A%20Transforming%20the%20teaching%20and%20learning%20of%20writing%20using%20automated%20writing%20evaluation&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2021.104208&volume=168&publication_year=2021&author=Wilson%2CJ&author=Ahrendt%2CC&author=Fudge%2CEA&author=Raiche%2CA&author=Beard%2CG&author=MacArthur%2CC)
+* Wilson, J., & Czik, A. (2016). Automated essay evaluation software in English language arts classrooms: Effects on teacher feedback, student motivation, and writing quality. *Computers & Education,* *100*, 94–109. <https://doi.org/10.1016/j.compedu.2016.05.004>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2016.05.004) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Automated%20essay%20evaluation%20software%20in%20English%20language%20arts%20classrooms%3A%20Effects%20on%20teacher%20feedback%2C%20student%20motivation%2C%20and%20writing%20quality&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2016.05.004&volume=100&pages=94-109&publication_year=2016&author=Wilson%2CJ&author=Czik%2CA)
+* Wilson, J., & Roscoe, R. D. (2020). Automated writing evaluation and feedback: Multiple metrics of efficacy. *Journal of Educational Computing Research,* *58*(1), 87–125. <https://doi.org/10.1177/0735633119830764>
+  
+  [Article](https://doi.org/10.1177%2F0735633119830764) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Automated%20writing%20evaluation%20and%20feedback%3A%20Multiple%20metrics%20of%20efficacy&journal=Journal%20of%20Educational%20Computing%20Research&doi=10.1177%2F0735633119830764&volume=58&issue=1&pages=87-125&publication_year=2020&author=Wilson%2CJ&author=Roscoe%2CRD)
+* Woodworth, J., & Barkaoui, K. (2020). Perspectives on using automated writing evaluation systems to provide written corrective feedback in the ESL classroom. *TESL Canada Journal*, 37(2), 234–247. <https://doi.org/10.18806/tesl.v37i2.1340>
+* Zhang, R., & Zou, D. (2021). A state-of-the-art review of the modes and effectiveness of multimedia input for second and foreign language learning. *Computer Assisted Language Learning*, ahead-of-print, 1–27. <https://doi.org/10.1080/09588221.2021.1896555>
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s10639-022-11473-y?format=refman&flavour=references)
+
+Funding
+-------
+
+This work was supported by the One-off Special Fund from Central and Faculty [grant number 02136] and the Start-Up Research Grant [grant number RG41/20-21R] of the Education University of Hong Kong; and the Youth Elite Supporting Plan in Universities of Anhui Province [grant number gxyqZD2019077], the Higher Education Teaching and Research Project of Anhui Province [grant number 2020jyxm0633], and the Science and Technology Plan Project in Chuzhou [grant number 2021ZD016].
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Department of Mathematics and Information Technology, The Education University of Hong Kong, 10 Lo Ping Road, Hong Kong SAR, China
+   
+   Ruibin Zhao, Yipeng Zhuang & Philip L. H. Yu
+2. School of Computer Science and Information Engineering, Chuzhou Univeristy, Chuzhou, China
+   
+   Ruibin Zhao
+3. Department of English Language Education, The Education University of Hong Kong, 10 Lo Ping Road, Hong Kong SAR, China
+   
+   Di Zou
+4. Department of Linguistics and Modern Languages, The Education University of Hong, 10 Lo Ping Road, Kong, Hong Kong SAR, China
+   
+   Qin Xie
+
+Authors
+
+1. Ruibin Zhao[View author publications](/search?sortBy=newestFirst&contributor=Ruibin%20Zhao)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Ruibin%20Zhao) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Ruibin%20Zhao%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Yipeng Zhuang[View author publications](/search?sortBy=newestFirst&contributor=Yipeng%20Zhuang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yipeng%20Zhuang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yipeng%20Zhuang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Di Zou[View author publications](/search?sortBy=newestFirst&contributor=Di%20Zou)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Di%20Zou) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Di%20Zou%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+4. Qin Xie[View author publications](/search?sortBy=newestFirst&contributor=Qin%20Xie)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Qin%20Xie) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Qin%20Xie%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+5. Philip L. H. Yu[View author publications](/search?sortBy=newestFirst&contributor=Philip%20L.%20H.%20Yu)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Philip%20L.%20H.%20Yu) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Philip%20L.%20H.%20Yu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+Ruibin Zhao, Conceptualization, methodology, validation, formal analysis, investigation, writing – original draft. Yipeng, Zhuang, Methodology, software, formal analysis, visualization, writing – review & editing. Di Zou, Resources, investigation, writing – review & editing. Qin Xie, Conceptualization, investigation, writing – review & editing. Leung Ho Philip YU, Supervision, writing – review & editing, project administration, funding acquisition.
+
+### Corresponding author
+
+Correspondence to
+[Philip L. H. Yu](mailto:plhyu@eduhk.hk).
+
+Ethics declarations
+-------------------
+
+### Conflict of Interest
+
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Additional information
+----------------------
+
+### Publisher's note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Appendices
+----------
+
+### Appendix 1
+
+All 15 pictures were used in our writing test, and they were grouped in three categories. Each picture of first category includes one dominant character, e.g., a person or an animal, each picture of second category covers two characters having some interaction, and each picture third category often includes a group of people in an activates.
+
+![]()
+
+Note. The numbers are the ids of the pictures in our research and this paper.
+
+### Appendix 2
+
+Table [5](/article/10.1007/s10639-022-11473-y#Tab5)
+
+**Table 5 The scoring rubric designed for the picture-cued writing test in this study, and all the example responses were written by students for the 8th picture in Appendix A**
+
+[Full size table](/article/10.1007/s10639-022-11473-y/tables/5)
+### Appendix 3. Machine learning model training.
+
+Considering the problem of imbalanced data, that there are only few responses assigned with a low and high score. Serious imbalance of data can even cause the trained model to directly ignore categories with a small sample size. Some optimization tricks can be used to make the model pay more attention to the classes with fewer samples. This allows the model to focus on learning such features, rather than focusing too much on categories with a large number of samples. A simple way is to copy the same data directly to achieve the purpose of expanding the data, that is, oversampling. Another method is SMOTE. First, each sample \({x}\_{i}\) is selected from the minority class samples as the root sample for synthesizing new samples; secondly, the k nearest neighbor samples of the same class of \({x}\_{i}\) are used as the reference for synthesizing new samples, and new samples are generated by interpolation, repeat this process until the required number of samples is reached. Here, k is generally an odd number, we have tried k = 5, 15, and 25 on the training set, and found that k = 5 works better. Two sampling methods are compared, and finally we choose oversampling as the method for balancing the data based on their performance on the training set.
+
+Next, we trained several machine learning models and used grid search to tune the parameters of each model by tenfold cross-validation on the training set. These models are: K-nearest neighbors algorithm (k-NN) (Coomans & Massart, 1982), which classify samples by finding the k most similar, nearest neighbors. The searching space of hyperparameters is {Number of neighbors: 5, 10, 20, 50. Weight function: “uniform”, “distance”}. The second model we trained is Random Forest (Breiman, 2001), which builds multiple decision trees in order to combine all predictions for a more robust behavior. The searching space of hyperparameters is {Number of decision trees in the forest: 50, 100, 200, 400. Criterion: “gini”, “entropy”. Maximum depth of the tree: 4,5,6,8,10. Minimum number of samples to split: 20,40,80,100. Number of features to consider when split: “sqrt”, “log2″}. Support-vector machines (SVM) (Cortes & Vladimir, 1995) is also considered, it maps training samples to point in space for classification and regression analysis. The searching space of hyperparameters is {Regularization parameter: 1, 10, 100. Kernel: “linear”, “poly”, “rbf”, “sigmoid”. Kernel coefficient gamma: 1e-2, 1e-3, 1e-4,” auto”}. Another model we trained is XGBoost (Chen & Guestrin, [2016](/article/10.1007/s10639-022-11473-y#ref-CR10)), which implements machine learning algorithms under the Gradient Boosting framework. The searching space of hyperparameters is {Learning rate: 0.05, 0.1, 0.2, 0.3. Maximum depth: 4, 6, 8. Subsample: 0.6, 0.8, 0.9, 1. Scale\_pos\_weight: 1, 5, 10. Alpha: 0, 1, 2, 5, 10}. Based on the model performance on the tenfold CV, the models with the least MAE were selected for each component. We trained models to predict 6 components first, and the performance are list in the following table. By adding scores of these components, we get the final scores. Compared with the human scores, the total MAE is 0.479.
+
+| Components | MAE |
+| --- | --- |
+| Grammar \(\in \left[\mathrm{0,3}\right]\) | 0.230 |
+| Spelling \(\in \left[0, 1\right]\) | 0.056 |
+| Convention \(\in \left[0, 1\right]\) | 0.054 |
+| Comprehensiveness \(\in \left[0, 3\right]\) | 0.198 |
+| Vividness \(\in \left[0, 1\right]\) | 0.083 |
+| Sentence structure \(\in \left[0, 1\right]\) | 0.018 |
+
+### Appendix 4
+
+Main indices used in our automated scoring model. In the figure, the values represent the Gini importance (Steinberg & Colla, [2009](/article/10.1007/s10639-022-11473-y#ref-CR45)) of the indices in evaluating the grammar, spelling, convention, comprehensiveness, vividness, and sentence structure of student response, as well as in predicting the final score for the responses. The larger the values, the more important the indices are.
+
+![]()
+
+The six variables in the upper part are the features generated by three cross-modal matching methods (i.e., ALBEF, GSMN and SGRAF), and they are mainly used in the prediction of “Comprehensiveness”. Each method estimated a set of similarities with their models trained on different datasets or with multiple scales of parameters, and we chose the two most effective similarities in our experiments. The variables in the lower part are the features generated in natural language processing. This graph shows the importance of the variables by which the machine predicts the score, and they all fit our conjectures. For example, the vividness of a sentence mainly depends on whether a lot of adjectives and adverbs are used, and when scoring the sentences structure, more attention is paid to the number of clauses and pronouns.
+
+Rights and permissions
+----------------------
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=AI-assisted%20automated%20scoring%20of%20picture-cued%20writing%20tasks%20for%20language%20assessment&author=Ruibin%20Zhao%20et%20al&contentID=10.1007%2Fs10639-022-11473-y&copyright=The%20Author%28s%29%2C%20under%20exclusive%20licence%20to%20Springer%20Science%2BBusiness%20Media%2C%20LLC%2C%20part%20of%20Springer%20Nature&publication=1360-2357&publicationDate=2022-11-28&publisherName=SpringerNature&orderBeanReset=true)
+
+About this article
+------------------
+
+### Cite this article
+
+Zhao, R., Zhuang, Y., Zou, D. *et al.* AI-assisted automated scoring of picture-cued writing tasks for language assessment.
+*Educ Inf Technol* **28**, 7031–7063 (2023). https://doi.org/10.1007/s10639-022-11473-y
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s10639-022-11473-y?format=refman&flavour=citation)
+
+* Received: 07 July 2022
+* Accepted: 14 November 2022
+* Published: 28 November 2022
+* Version of record: 28 November 2022
+* Issue date: June 2023
+* DOI: https://doi.org/10.1007/s10639-022-11473-y
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Automated writing assessment](/search?query=Automated%20writing%20assessment&facet-discipline="Computer%20Science")
+* [Picture-cued writing](/search?query=Picture-cued%20writing&facet-discipline="Computer%20Science")
+* [Cross-modal matching](/search?query=Cross-modal%20matching&facet-discipline="Computer%20Science")
+* [Artificial intelligence](/search?query=Artificial%20intelligence&facet-discipline="Computer%20Science")
+
+
+### Profiles
+
+1. Ruibin Zhao
+   [View author profile](/researchers/65848148SN)
+2. Philip L. H. Yu
+   [View author profile](/researchers/21808360SN)
+
+
+
+Access this article
+-------------------
+
+[Log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10639-022-11473-y)
+
+
+Subscribe and save
+------------------
+
+
+Springer+
+
+from €37.37 /Month
+
+* Starting from 10 chapters or articles per month
+* Access and download chapters and articles from more than 300k books and 2,500 journals
+* Cancel anytime
+
+[View plans](https://link.springer.com/product/springer-plus)
+
+Buy Now
+-------
+
+
+Buy article PDF 39,95 €
+
+Price includes VAT (China (P.R.))
+  
+
+
+Instant access to the full article PDF.
+
+
+
+
+[Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/journals)
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+106.14.242.219
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

@@ -1,0 +1,611 @@
+# Source URL: https://doi.org/10.1007/978-3-031-64315-6_39
+# Content Length: 21255 characters
+# Extracted at: 2026-03-28 08:35:34
+#============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enhancing Algorithmic Fairness in Student Performance Prediction Through Unbiased and Equitable Machine Learning Models | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main-content)
+
+Advertisement
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/chapter/10.1007/978-3-031-64315-6_39)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+
+1. [Home](/)
+2. [Artificial Intelligence in Education. Posters and Late Breaking Results, Workshops and Tutorials, Industry and Innovation Tracks, Practitioners, Doctoral Consortium and Blue Sky](/book/10.1007/978-3-031-64315-6)
+3. Conference paper
+
+Enhancing Algorithmic Fairness in Student Performance Prediction Through Unbiased and Equitable Machine Learning Models
+=======================================================================================================================
+
+* Conference paper
+* First Online: 02 July 2024
+
+* pp 418–426
+* [Cite this conference paper](#citeas)
+
+
+
+[![]()
+
+Artificial Intelligence in Education. Posters and Late Breaking Results, Workshops and Tutorials, Industry and Innovation Tracks, Practitioners, Doctoral Consortium and Blue Sky](/book/10.1007/978-3-031-64315-6)
+(AIED 2024) 
+
+
+
+
+
+* [Luciano de Souza Cabral](#auth-Luciano-de_Souza_Cabral) 
+  [ORCID: orcid.org/0000-0002-4235-5753](https://orcid.org/0000-0002-4235-5753)[9](#Aff9),[10](#Aff10),[13](#Aff13),
+* [Filipe Dwan Pereira](#auth-Filipe-Dwan_Pereira) 
+  [ORCID: orcid.org/0000-0003-4914-3347](https://orcid.org/0000-0003-4914-3347)[11](#Aff11),[13](#Aff13) &
+* [Rafael Ferreira Mello](#auth-Rafael-Ferreira_Mello) 
+  [ORCID: orcid.org/0000-0003-3548-9670](https://orcid.org/0000-0003-3548-9670)[10](#Aff10),[12](#Aff12),[13](#Aff13)
+
+
+Part of the book series:
+[Communications in Computer and Information Science](https://link.springer.com/series/7899) ((CCIS,volume 2150))
+
+
+
+
+Included in the following conference series:
+
+* [International Conference on Artificial Intelligence in Education](https://link.springer.com/conference/aied)
+
+
+* 2709 Accesses
+* 3 Citations
+
+
+
+
+Abstract
+--------
+
+The rapid adoption of ML algorithms has spurred the development of educational applications aimed at enhancing teaching and learning experiences. However, contemporary research underscores ethical concerns regarding their real-world implementation. A significant challenge lies in identifying and addressing potential biases in prediction models to mitigate their impact on diverse minority groups, including ethnicities, disabilities, nationalities, and genders. This paper conducts a thorough examination of algorithmic fairness, focusing on a detailed comparative analysis of traditional machine learning methods within a Student Performance Prediction (SPP) application for CS1 programming courses. The insights derived from this investigation not only enrich the ongoing discourse surrounding algorithmic bias and fairness but also pave the way for refining the development of just and equitable ML models.
+
+
+
+
+This is a preview of subscription content, [log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-031-64315-6_39)
+
+ to check access.
+
+
+Access this chapter
+-------------------
+
+[Log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-031-64315-6_39)
+
+Subscribe and save
+------------------
+
+
+Springer+
+
+from €37.37 /Month
+
+* Starting from 10 chapters or articles per month
+* Access and download chapters and articles from more than 300k books and 2,500 journals
+* Cancel anytime
+
+ [View plans](https://link.springer.com/product/springer-plus) 
+
+Buy Now
+-------
+
+
+Chapter
+
+EUR 29.95
+
+Price includes VAT (China (P.R.))
+
+        
+
+* Available as PDF
+* Read on any device
+* Instant download
+* Own it forever
+
+Buy Chapter
+
+
+
+
+eBook
+
+EUR 117.69
+Price includes VAT (China (P.R.))
+
+    
+
+* Available as EPUB and PDF
+* Read on any device
+* Instant download
+* Own it forever
+
+Buy eBook
+
+
+
+
+Softcover Book
+
+EUR 139.99
+Price excludes VAT (China (P.R.))
+
+    
+
+* Compact, lightweight edition
+* Dispatched in 3 to 5 business days
+* Free shipping worldwide - [see info](https://support.springernature.com/en/support/solutions/articles/6000233448-coronavirus-disease-covid-19-delivery-information)
+
+Buy Softcover Book
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+Purchases are for personal use only
+
+
+
+
+
+[Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/ebooks)
+
+
+
+
+### Similar content being viewed by others
+
+![]()
+### [Debiasing Education Algorithms](https://link.springer.com/10.1007/s40593-023-00389-4?fromPaywallRec=true)
+
+Article
+Open access
+04 January 2024
+
+
+
+
+![]()
+### [Learning Analytics and Fairness: Do Existing Algorithms Serve Everyone Equally?](https://link.springer.com/10.1007/978-3-030-78270-2_12?fromPaywallRec=true)
+
+Chapter
+© 2021
+
+
+
+
+![]()
+### [Algorithmic Fairness](https://link.springer.com/10.1007/978-3-031-24628-9_37?fromPaywallRec=true)
+
+Chapter
+© 2023
+
+
+
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Computational Intelligence](/subjects/computational-intelligence)
+* [Computational Social Sciences](/subjects/computational-social-sciences)
+* [Computer Ethics](/subjects/computer-ethics)
+* [Computer Science](/subjects/computer-science)
+* [Learning algorithms](/subjects/learning-algorithms)
+* [Machine Learning](/subjects/machine-learning)
+* [Learning Analytics and Educational Data Mining](/subjects/learning-analytics-and-educational-data-mining)
+
+Notes
+-----
+
+1. 1.
+   
+   <https://codebench.icomp.ufam.edu.br/dataset/>.
+
+References
+----------
+
+1. Ahadi, A., Lister, R., Vihavainen, A.: On the number of attempts students made on some online programming exercises during semester and their subsequent performance on final exam questions. In: Proceedings of the 2016 ACM Conference on Innovation and Technology in Computer Science Education, ITiCSE ’16, pp. 218-223. Association for Computing Machinery, New York, NY, USA (2016). <https://doi.org/10.1145/2899415.2899452>
+2. Azcona, D., Hsiao, I.H., Smeaton, A.F.: Personalizing computer science education by leveraging multimodal learning analytics. In: 2018 IEEE Frontiers in Education Conference (FIE), pp. 1–9 (2018). <https://doi.org/10.1109/FIE.2018.8658596>
+3. Barney, N.: Diversity, equity and inclusion (DEI), Technical report, TechTarget (2023), <https://www.techtarget.com/searchhrsoftware/definition/diversity-equity-and-inclusion-DEI>
+4. Bellamy, R.K.E., et al.: AI fairness 360: an extensible toolkit for detecting and mitigating algorithmic bias. IBM J. Res. Dev. **63**(4/5), 4:1–4:15 (2019). <https://doi.org/10.1147/JRD.2019.2942287>
+5. Bellamy, R.K.E., et al.: AI fairness 360: an extensible toolkit for detecting, understanding, and mitigating unwanted algorithmic bias. arXiv preprint [arXiv:1810.01943](http://arxiv.org/abs/1810.01943) (2018). <https://api.semanticscholar.org/CorpusID:52922804>
+6. Broder, R.: Performance analysis on machine learning algorithms trained on biased data, Course Completion Work (Graduation) - Bachelor’s Degree in Computer Science, Technical report, Institute of Science and Technology, Federal University of São Paulo, São José dos Campos (2021). <https://repositorio.unifesp.br/handle/11600/60716>
+7. Cabral, L., Pereira, F., Mello, R.: Avaliando influência de características de desempenho na predição resultado acadêmico em disciplinas de programação. In: Anais do II Workshop de Aplicações Práticas de Learning Analytics em Instituições de Ensino no Brasil, pp. 90–98. SBC, Porto Alegre, RS, Brasil (2023). <https://doi.org/10.5753/wapla.2023.236172>
+8. Ferrara, E.: Fairness and bias in artificial intelligence: a brief survey of sources, impacts, and mitigation strategies. Science **6**(1) (2024). <https://doi.org/10.3390/sci6010003>
+9. Fonseca, S., Oliveira, E., Pereira, F., Fernandes, D., Carvalho, L.: Adaptação de um método preditivo para inferir o desempenho de alunos de programação. In: Brazilian Symposium on Computers in Education (SBIE), vol. 30, pp. 1651–1660 (2019). <https://doi.org/10.5753/cbie.sbie.2019.1651>
+10. Foresti, T.: Machine learning types: learn about the different types of machine learning, including supervised, unsupervised, semi-supervised, and reinforcement learning. Technical report, Awari (2023). <https://awari.com.br/machine-learning-types-principais-tipos-de-aprendizado-em-machine-learning>
+11. Gardner, J., Brooks, C., Baker, R.: Evaluating the fairness of predictive student models through slicing analysis. In: Proceedings of the 9th International Conference on Learning Analytics and Knowledge, LAK19, pp. 225–234. Association for Computing Machinery, New York, NY, USA (2019). <https://doi.org/10.1145/3303772.3303791>
+12. Hattatoglu, B.: Fairness in machine learning: ensuring fairness in datasets for classification problems. Technical report, Business Informatics Master’s Thesis. Department of Information and Computing Sciences, Utrecht University, Netherlands, July 2021. <https://studenttheses.uu.nl/handle/20.500.12932/40070>
+13. Juijn, G., Stoimenova, N., Reis, J., Nguyen, D.: Perceived algorithmic fairness using organizational justice theory: an empirical case study on algorithmic hiring. In: Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society, AIES 2023, pp. 775–785. Association for Computing Machinery, New York, NY, USA (2023). <https://doi.org/10.1145/3600211.3604677>
+14. Pereira, F., Souza, L., Oliveira, E., Oliveira, D., Carvalho, L.: Predição de desempenho em ambientes computacionais para turmas de programação: um mapeamento sistemático da literatura. In: Anais do XXXI Simpósio Brasileiro de Informática na Educação, pp. 1673–1682. SBC, Porto Alegre, RS, Brasil (2020). <https://doi.org/10.5753/cbie.sbie.2020.1673>
+15. Cristea, F.D., et al.: Using learning analytics in the Amazonas: understanding students’ behaviour in introductory programming. Br. J. Edu. Technol. **51**(4), 955–972 (2020). <https://doi.org/10.1111/bjet.12953>
+    
+    [Article](https://doi.org/10.1111%2Fbjet.12953) 
+    [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Using%20learning%20analytics%20in%20the%20Amazonas%3A%20understanding%20students%E2%80%99%20behaviour%20in%20introductory%20programming&journal=Br.%20J.%20Edu.%20Technol.&doi=10.1111%2Fbjet.12953&volume=51&issue=4&pages=955-972&publication_year=2020&author=Cristea%2CFD)
+16. Quille, K., Bergin, S.: CS1: how will they do? How can we help? A decade of research and practice. Comput. Sci. Educ. **29**(2–3), 254–282 (2019). <https://doi.org/10.1080/08993408.2019.1612679>
+    
+    [Article](https://doi.org/10.1080%2F08993408.2019.1612679) 
+    [Google Scholar](https://scholar.google.com/scholar_lookup?&title=CS1%3A%20how%20will%20they%20do%3F%20How%20can%20we%20help%3F%20A%20decade%20of%20research%20and%20practice&journal=Comput.%20Sci.%20Educ.&doi=10.1080%2F08993408.2019.1612679&volume=29&issue=2%E2%80%933&pages=254-282&publication_year=2019&author=Quille%2CK&author=Bergin%2CS)
+17. Reagan, M.: Understanding bias and fairness in AI systems. Technical report, TowardsDataScience - Medium (2023). <https://towardsdatascience.com/understanding-bias-and-fairness-in-ai-systems-6f7fbfe267f3>
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-64315-6_39?format=refman&flavour=references)
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Federal Institute of Pernambuco (IFPE), Jaboatão dos Guararapes, PE, Brazil
+   
+   Luciano de Souza Cabral
+2. Center for Excellence in Social Technologies (NEES-UFAL), Maceió, AL, Brazil
+   
+   Luciano de Souza Cabral & Rafael Ferreira Mello
+3. Federal University of Roraima (UFRR), Boa vista, RR, Brazil
+   
+   Filipe Dwan Pereira
+4. Federal Rural University of Pernambuco (UFRPE), Recife, PE, Brazil
+   
+   Rafael Ferreira Mello
+5. Centro de Estudos Avançados de Recife, Recife, PE, Brazil
+   
+   Luciano de Souza Cabral, Filipe Dwan Pereira & Rafael Ferreira Mello
+
+Authors
+
+1. Luciano de Souza Cabral[View author publications](/search?sortBy=newestFirst&contributor=Luciano%20de%20Souza%20Cabral)
+   
+   Search author on:[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Luciano%20de%20Souza%20Cabral) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Luciano%20de%20Souza%20Cabral%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Filipe Dwan Pereira[View author publications](/search?sortBy=newestFirst&contributor=Filipe%20Dwan%20Pereira)
+   
+   Search author on:[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Filipe%20Dwan%20Pereira) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Filipe%20Dwan%20Pereira%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Rafael Ferreira Mello[View author publications](/search?sortBy=newestFirst&contributor=Rafael%20Ferreira%20Mello)
+   
+   Search author on:[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Rafael%20Ferreira%20Mello) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Rafael%20Ferreira%20Mello%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Corresponding author
+
+Correspondence to
+[Luciano de Souza Cabral](mailto:luciano.cabral@nees.ufal.br) .
+
+Editor information
+------------------
+
+### Editors and Affiliations
+
+1. University of Memphis, Memphis, TN, USA
+   
+   Andrew M. Olney
+2. University of Duisburg-Essen, Duisburg, Germany
+   
+   Irene-Angelica Chounta
+3. Jinan University, Guangzhou, China
+   
+   Zitao Liu
+4. UNED, Madrid, Spain
+   
+   Olga C. Santos
+5. Universidade Federal de Alagoas, Maceio, Brazil
+   
+   Ig Ibert Bittencourt
+
+Rights and permissions
+----------------------
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?publisherName=SpringerNature&orderBeanReset=true&orderSource=SpringerLink&title=Enhancing%20Algorithmic%20Fairness%20in%C2%A0Student%20Performance%20Prediction%20Through%20Unbiased%20and%C2%A0Equitable%20Machine%20Learning%20Models&author=Luciano%20de%20Souza%20Cabral%2C%20Filipe%20Dwan%20Pereira%2C%20Rafael%20Ferreira%20Mello&contentID=10.1007%2F978-3-031-64315-6_39&copyright=The%20Author%28s%29%2C%20under%20exclusive%20license%20to%20Springer%20Nature%20Switzerland%20AG&publication=eBook&publicationDate=2024&startPage=418&endPage=426&imprint=The%20Author%28s%29%2C%20under%20exclusive%20license%20to%20Springer%20Nature%20Switzerland%20AG)
+
+Copyright information
+---------------------
+
+© 2024 The Author(s), under exclusive license to Springer Nature Switzerland AG
+
+About this paper
+----------------
+
+### Cite this paper
+
+de Souza Cabral, L., Dwan Pereira, F., Ferreira Mello, R. (2024). Enhancing Algorithmic Fairness in Student Performance Prediction Through Unbiased and Equitable Machine Learning Models.
+In: Olney, A.M., Chounta, IA., Liu, Z., Santos, O.C., Bittencourt, I.I. (eds) Artificial Intelligence in Education. Posters and Late Breaking Results, Workshops and Tutorials, Industry and Innovation Tracks, Practitioners, Doctoral Consortium and Blue Sky. AIED 2024. Communications in Computer and Information Science, vol 2150. Springer, Cham. https://doi.org/10.1007/978-3-031-64315-6\_39
+
+### Download citation
+
+* [.RIS](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-64315-6_39?format=refman&flavour=citation)
+* [.ENW](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-64315-6_39?format=endnote&flavour=citation)
+* [.BIB](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-64315-6_39?format=bibtex&flavour=citation)
+
+* DOI: https://doi.org/10.1007/978-3-031-64315-6\_39
+* Published: 02 July 2024
+* Publisher Name: Springer, Cham
+* Print ISBN: 978-3-031-64314-9
+* Online ISBN: 978-3-031-64315-6
+* eBook Packages: [Computer Science](/search?facet-content-type=%22Book%22&package=11645&facet-start-year=2024&facet-end-year=2024)[Computer Science (R0)](/search?facet-content-type=%22Book%22&package=43710&facet-start-year=2024&facet-end-year=2024)[Springer Nature Proceedings Computer Science](/search?facet-content-type=%22Book%22&package=85344&facet-start-year=2024&facet-end-year=2024)
+
+### Share this paper
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Fairness](/search?query=Fairness&facet-discipline="Computer%20Science")
+* [bias](/search?query=bias&facet-discipline="Computer%20Science")
+* [education](/search?query=education&facet-discipline="Computer%20Science")
+* [learning analytics](/search?query=learning%20analytics&facet-discipline="Computer%20Science")
+* [student performance prediction](/search?query=student%20performance%20prediction&facet-discipline="Computer%20Science")
+
+Publish with us
+---------------
+
+[Policies and ethics](https://www.springernature.com/gp/policies/book-publishing-policies)
+
+
+### Profiles
+
+1. Rafael Ferreira Mello
+   [View author profile](/researchers/27365111SN)
+
+
+
+
+Access this chapter
+-------------------
+
+[Log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-031-64315-6_39)
+
+Subscribe and save
+------------------
+
+
+Springer+
+
+from €37.37 /Month
+
+* Starting from 10 chapters or articles per month
+* Access and download chapters and articles from more than 300k books and 2,500 journals
+* Cancel anytime
+
+ [View plans](https://link.springer.com/product/springer-plus) 
+
+Buy Now
+-------
+
+
+Chapter
+
+EUR 29.95
+
+Price includes VAT (China (P.R.))
+
+        
+
+* Available as PDF
+* Read on any device
+* Instant download
+* Own it forever
+
+Buy Chapter
+
+
+
+
+eBook
+
+EUR 117.69
+Price includes VAT (China (P.R.))
+
+    
+
+* Available as EPUB and PDF
+* Read on any device
+* Instant download
+* Own it forever
+
+Buy eBook
+
+
+
+
+Softcover Book
+
+EUR 139.99
+Price excludes VAT (China (P.R.))
+
+    
+
+* Compact, lightweight edition
+* Dispatched in 3 to 5 business days
+* Free shipping worldwide - [see info](https://support.springernature.com/en/support/solutions/articles/6000233448-coronavirus-disease-covid-19-delivery-information)
+
+Buy Softcover Book
+
+
+
+
+
+
+Tax calculation will be finalised at checkout
+
+Purchases are for personal use only
+
+
+
+
+
+[Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/ebooks)
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.49.92
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+
+
+

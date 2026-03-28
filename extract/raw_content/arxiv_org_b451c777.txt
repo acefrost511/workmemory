@@ -1,0 +1,983 @@
+# Source URL: https://arxiv.org/search/?searchtype=all&query=artificial+intelligence+tutoring+students+learning+outcomes&start=0
+# Content Length: 70494 characters
+# Extracted at: 2026-03-28 08:35:09
+#============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search | arXiv e-print repository
+
+
+
+
+[Skip to main content](#main-container)
+
+[![]()](https://cornell.edu/)
+
+We gratefully acknowledge support from  
+ the Simons Foundation, [member institutions](https://info.arxiv.org/about/ourmembers.html), and all contributors. [Donate](https://info.arxiv.org/about/donate.html)
+
+
+
+
+[![]()](https://arxiv.org/)
+
+
+[Help](https://info.arxiv.org/help) | [Advanced Search](https://arxiv.org/search/advanced)
+
+
+All fields
+Title
+Author
+Abstract
+Comments
+Journal reference
+ACM classification
+MSC classification
+Report number
+arXiv identifier
+DOI
+ORCID
+arXiv author ID
+Help pages
+Full text
+
+
+
+
+Search
+
+
+
+ 
+[Login](https://arxiv.org/login)
+
+
+
+Showing 1–28 of 28 results for all: artificial intelligence tutoring students learning outcomes
+===============================================================================================
+
+
+[Search v0.5.6 released 2020-02-24](https://github.com/arXiv/arxiv-search/releases)  
+
+
+Search term or terms
+
+
+Field
+All fieldsTitleAuthor(s)AbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDLicense (URI)arXiv author IDHelp pagesFull text
+
+Search
+
+
+ Show abstracts
+
+ Hide abstracts
+
+
+
+[Advanced Search](/search/advanced?terms-0-term=artificial+intelligence+tutoring+students+learning+outcomes&terms-0-field=all&size=50&order=-announced_date_first)
+
+
+
+
+
+All fieldsTitleAuthor(s)AbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDLicense (URI)arXiv author IDHelp pagesFull text
+
+* Show abstracts
+* Hide abstracts
+
+2550100200
+
+results per page.
+
+Sort results by
+Announcement date (newest first)Announcement date (oldest first)Submission date (newest first)Submission date (oldest first)Relevance
+
+
+Go
+
+
+
+
+1. [arXiv:2602.18807](https://arxiv.org/abs/2602.18807)
+    [[pdf](https://arxiv.org/pdf/2602.18807), [ps](https://arxiv.org/ps/2602.18807), [other](https://arxiv.org/format/2602.18807)] 
+   
+   cs.HC
+   cs.AI
+   cs.CY
+   
+   Chat-Based Support Alone May Not Be Enough: Comparing Conversational and Embedded LLM Feedback for Mathematical Proof Learning
+   
+   Authors:
+   [Eason Chen](/search/?searchtype=author&query=Chen%2C+E),
+   [Sophia Judicke](/search/?searchtype=author&query=Judicke%2C+S),
+   [Kayla Beigh](/search/?searchtype=author&query=Beigh%2C+K),
+   [Xinyi Tang](/search/?searchtype=author&query=Tang%2C+X),
+   [Isabel Wang](/search/?searchtype=author&query=Wang%2C+I),
+   [Nina Yuan](/search/?searchtype=author&query=Yuan%2C+N),
+   [Zimo Xiao](/search/?searchtype=author&query=Xiao%2C+Z),
+   [Chuangji Li](/search/?searchtype=author&query=Li%2C+C),
+   [Shizhuo Li](/search/?searchtype=author&query=Li%2C+S),
+   [Reed Luttmer](/search/?searchtype=author&query=Luttmer%2C+R),
+   [Shreya Singh](/search/?searchtype=author&query=Singh%2C+S),
+   [Maria Yampolsky](/search/?searchtype=author&query=Yampolsky%2C+M),
+   [Naman Parikh](/search/?searchtype=author&query=Parikh%2C+N),
+   [Yvonne Zhao](/search/?searchtype=author&query=Zhao%2C+Y),
+   [Meiyi Chen](/search/?searchtype=author&query=Chen%2C+M),
+   [Scarlett Huang](/search/?searchtype=author&query=Huang%2C+S),
+   [Anishka Mohanty](/search/?searchtype=author&query=Mohanty%2C+A),
+   [Gregory Johnson](/search/?searchtype=author&query=Johnson%2C+G),
+   [John Mackey](/search/?searchtype=author&query=Mackey%2C+J),
+   [Jionghao Lin](/search/?searchtype=author&query=Lin%2C+J),
+   [Ken Koedinger](/search/?searchtype=author&query=Koedinger%2C+K)
+   
+   Abstract:
+   We evaluate GPTutor, an LLM-powered tutoring system for an undergraduate discrete mathematics course. It integrates two LLM-supported tools: a structured proof-review tool that provides embedded feedback on…
+   ▽ More
+   
+   We evaluate GPTutor, an LLM-powered tutoring system for an undergraduate discrete mathematics course. It integrates two LLM-supported tools: a structured proof-review tool that provides embedded feedback on students' written proof attempts, and a chatbot for math questions. In a staggered-access study with 148 students, earlier access was associated with higher homework performance during the interval when only the experimental group could use the system, while we did not observe this performance increase transfer to exam scores. Usage logs show that students with lower self-efficacy and prior exam performance used both components more frequently. Session-level behavioral labels, produced by human coding and scaled using an automated classifier, characterize how students engaged with the chatbot (e.g., answer-seeking or help-seeking). In models controlling for prior performance and self-efficacy, higher chatbot usage and answer-seeking behavior were negatively associated with subsequent midterm performance, whereas proof-review usage showed no detectable independent association. Together, the findings suggest that chatbot-based support alone may not reliably support transfer to independent assessment of math proof-learning outcomes, whereas work-anchored, structured feedback appears less associated with reduced learning.
+   △ Less
+   
+   
+   Submitted 21 February, 2026;
+   originally announced February 2026.
+   
+   Comments:
+   15 pages, 4 figures, accepted at AIED 2025
+2. [arXiv:2602.07308](https://arxiv.org/abs/2602.07308)
+    [[pdf](https://arxiv.org/pdf/2602.07308), [ps](https://arxiv.org/ps/2602.07308), [other](https://arxiv.org/format/2602.07308)] 
+   
+   cs.AI
+   
+   Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System
+   
+   Authors:
+   [Sutapa Dey Tithi](/search/?searchtype=author&query=Tithi%2C+S+D),
+   [Nazia Alam](/search/?searchtype=author&query=Alam%2C+N),
+   [Tahreem Yasir](/search/?searchtype=author&query=Yasir%2C+T),
+   [Yang Shi](/search/?searchtype=author&query=Shi%2C+Y),
+   [Xiaoyi Tian](/search/?searchtype=author&query=Tian%2C+X),
+   [Min Chi](/search/?searchtype=author&query=Chi%2C+M),
+   [Tiffany Barnes](/search/?searchtype=author&query=Barnes%2C+T)
+   
+   Abstract:
+   The ICAP framework defines four cognitive engagement levels: Passive, Active, Constructive, and Interactive, where increased cognitive engagement can yield improved learning. However, personalizing…
+   ▽ More
+   
+   The ICAP framework defines four cognitive engagement levels: Passive, Active, Constructive, and Interactive, where increased cognitive engagement can yield improved learning. However, personalizing learning activities that elicit the optimal level of cognitive engagement remains a key challenge in intelligent tutoring systems (ITS). In this work, we develop and evaluate a system that adaptively scaffolds cognitive engagement by dynamically selecting worked examples in two different ICAP modes: (active) Guided examples and (constructive) Buggy examples. We compare Bayesian Knowledge Tracing (BKT) and Deep Reinforcement Learning (DRL) as adaptive methods against a non-adaptive baseline method for selecting example type in a logic ITS. Our experiment with 113 students demonstrates that both adaptive policies significantly improved student performance on test problems. BKT yielded the largest improvement in posttest scores for low prior knowledge students, helping them catch up with their high prior knowledge peers, whereas DRL yielded significantly higher posttest scores among high prior knowledge students. This paper contributes new insights into the complex interactions of cognitive engagement and adaptivity and their results on learning outcomes.
+   △ Less
+   
+   
+   Submitted 6 February, 2026;
+   originally announced February 2026.
+3. [arXiv:2510.03884](https://arxiv.org/abs/2510.03884)
+    [[pdf](https://arxiv.org/pdf/2510.03884)] 
+   
+   cs.HC
+   
+   doi
+   [10.26803/ijlter.25.1.1](https://doi.org/10.26803/ijlter.25.1.1) 
+   
+   
+   Teaching with AI: A Systematic Review of Chatbots, Generative Tools, and Tutoring Systems in Programming Education
+   
+   Authors:
+   [Said Elnaffar](/search/?searchtype=author&query=Elnaffar%2C+S),
+   [Farzad Rashidi](/search/?searchtype=author&query=Rashidi%2C+F),
+   [Abedallah Zaid Abualkishik](/search/?searchtype=author&query=Abualkishik%2C+A+Z)
+   
+   Abstract:
+   This review examines the role of artificial…
+   ▽ More
+   
+   This review examines the role of artificial intelligence (AI) agents in programming education, focusing on how these tools are being integrated into educational practice and their impact on student learning outcomes. An analysis of fifty-eight peer-reviewed studies published between 2022 and 2025 identified three primary categories of AI agents: chatbots, generative AI (GenAI), and intelligent tutoring systems (ITS), with GenAI being the most frequently studied. The primary instructional objectives reported include enhanced programming support in 94.83% of studies, motivational and emotional benefits in 18.96%, and increased efficiency for educators in 6.90%. Reported benefits include personalized feedback, improved learning outcomes, and time savings. The review also highlights challenges, such as setup barriers documented in 93.10% of studies, overreliance resulting in superficial learning in 65.52%, and concerns regarding AI errors and academic integrity. These findings suggest the need for instructional frameworks that prioritize the development of prompt engineering skills and human oversight to address these issues. This review provides educators and curriculum designers with an evidence-based foundation for the practical and ethical integration of AI in programming education.
+   △ Less
+   
+   
+   Submitted 25 December, 2025; v1 submitted 4 October, 2025;
+   originally announced October 2025.
+4. [arXiv:2507.06910](https://arxiv.org/abs/2507.06910)
+    [[pdf](https://arxiv.org/pdf/2507.06910), [ps](https://arxiv.org/ps/2507.06910), [other](https://arxiv.org/format/2507.06910)] 
+   
+   cs.CL
+   cs.CY
+   
+   Exploring LLMs for Predicting Tutor Strategy and Student Outcomes in Dialogues
+   
+   Authors:
+   [Fareya Ikram](/search/?searchtype=author&query=Ikram%2C+F),
+   [Alexander Scarlatos](/search/?searchtype=author&query=Scarlatos%2C+A),
+   [Andrew Lan](/search/?searchtype=author&query=Lan%2C+A)
+   
+   Abstract:
+   Tutoring dialogues have gained significant attention in recent years, given the prominence of online…
+   ▽ More
+   
+   Tutoring dialogues have gained significant attention in recent years, given the prominence of online learning and the emerging tutoring abilities of artificial intelligence (AI) agents powered by large language models (LLMs). Recent studies have shown that the strategies used by tutors can have significant effects on student outcomes, necessitating methods to predict how tutors will behave and how their actions impact students. However, few works have studied predicting tutor strategy in dialogues. Therefore, in this work we investigate the ability of modern LLMs, particularly Llama 3 and GPT-4o, to predict both future tutor moves and student outcomes in dialogues, using two math tutoring dialogue datasets. We find that even state-of-the-art LLMs struggle to predict future tutor strategy while tutor strategy is highly indicative of student outcomes, outlining a need for more powerful methods to approach this task.
+   △ Less
+   
+   
+   Submitted 9 July, 2025;
+   originally announced July 2025.
+   
+   Comments:
+   Published in BEA 2025: 20th Workshop on Innovative Use of NLP for Building Educational Applications
+5. [arXiv:2506.02412](https://arxiv.org/abs/2506.02412)
+    [[pdf](https://arxiv.org/pdf/2506.02412), [ps](https://arxiv.org/ps/2506.02412), [other](https://arxiv.org/format/2506.02412)] 
+   
+   cs.CL
+   cs.AI
+   
+   SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning
+   
+   Authors:
+   [Zhengyuan Liu](/search/?searchtype=author&query=Liu%2C+Z),
+   [Geyu Lin](/search/?searchtype=author&query=Lin%2C+G),
+   [Hui Li Tan](/search/?searchtype=author&query=Tan%2C+H+L),
+   [Huayun Zhang](/search/?searchtype=author&query=Zhang%2C+H),
+   [Yanfeng Lu](/search/?searchtype=author&query=Lu%2C+Y),
+   [Xiaoxue Gao](/search/?searchtype=author&query=Gao%2C+X),
+   [Stella Xin Yin](/search/?searchtype=author&query=Yin%2C+S+X),
+   [He Sun](/search/?searchtype=author&query=Sun%2C+H),
+   [Hock Huan Goh](/search/?searchtype=author&query=Goh%2C+H+H),
+   [Lung Hsiang Wong](/search/?searchtype=author&query=Wong%2C+L+H),
+   [Nancy F. Chen](/search/?searchtype=author&query=Chen%2C+N+F)
+   
+   Abstract:
+   The integration of generative artificial…
+   ▽ More
+   
+   The integration of generative artificial intelligence into educational applications has enhanced personalized and interactive learning experiences, and it shows strong potential to promote young learners language acquisition. However, it is still challenging to ensure consistent and robust performance across different languages and cultural contexts, and kids-friendly design requires simplified instructions, engaging interactions, and age-appropriate scaffolding to maintain motivation and optimize learning outcomes. In this work, we introduce SingaKids, a dialogic tutor designed to facilitate language learning through picture description tasks. Our system integrates dense image captioning, multilingual dialogic interaction, speech understanding, and engaging speech generation to create an immersive learning environment in four languages: English, Mandarin, Malay, and Tamil. We further improve the system through multilingual pre-training, task-specific tuning, and scaffolding optimization. Empirical studies with elementary school students demonstrate that SingaKids provides effective dialogic teaching, benefiting learners at different performance levels.
+   △ Less
+   
+   
+   Submitted 2 June, 2025;
+   originally announced June 2025.
+   
+   Comments:
+   ACL 2025 Industry Track
+6. [arXiv:2503.09748](https://arxiv.org/abs/2503.09748)
+    [[pdf](https://arxiv.org/pdf/2503.09748), [other](https://arxiv.org/format/2503.09748)] 
+   
+   cs.CY
+   
+   Advancing Education through Tutoring Systems: A Systematic Literature Review
+   
+   Authors:
+   [Vincent Liu](/search/?searchtype=author&query=Liu%2C+V),
+   [Ehsan Latif](/search/?searchtype=author&query=Latif%2C+E),
+   [Xiaoming Zhai](/search/?searchtype=author&query=Zhai%2C+X)
+   
+   Abstract:
+   This study systematically reviews the transformative role of Tutoring Systems, encompassing…
+   ▽ More
+   
+   This study systematically reviews the transformative role of Tutoring Systems, encompassing Intelligent Tutoring Systems (ITS) and Robot Tutoring Systems (RTS), in addressing global educational challenges through advanced technologies. As many students struggle with proficiency in core academic areas, Tutoring Systems emerge as promising solutions to bridge learning gaps by delivering personalized and adaptive instruction. ITS leverages artificial intelligence (AI) models, such as Bayesian Knowledge Tracing and Large Language Models, to provide precise cognitive support, while RTS enhances social and emotional engagement through human-like interactions. This systematic review, adhering to the PRISMA framework, analyzed 86 representative studies. We evaluated the pedagogical and technological advancements, engagement strategies, and ethical considerations surrounding these systems. Based on these parameters, Latent Class Analysis was conducted and identified three distinct categories: computer-based ITS, robot-based RTS, and multimodal systems integrating various interaction modes. The findings reveal significant advancements in AI techniques that enhance adaptability, engagement, and learning outcomes. However, challenges such as ethical concerns, scalability issues, and gaps in cognitive adaptability persist. The study highlights the complementary strengths of ITS and RTS, proposing integrated hybrid solutions to maximize educational benefits. Future research should focus on bridging gaps in scalability, addressing ethical considerations comprehensively, and advancing AI models to support diverse educational needs.
+   △ Less
+   
+   
+   Submitted 12 March, 2025;
+   originally announced March 2025.
+   
+   Comments:
+   A comprehensive study on tutoring systems
+7. [arXiv:2503.07928](https://arxiv.org/abs/2503.07928)
+    [[pdf](https://arxiv.org/pdf/2503.07928), [ps](https://arxiv.org/ps/2503.07928), [other](https://arxiv.org/format/2503.07928)] 
+   
+   cs.AI
+   cs.HC
+   
+   The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intelligence Course
+   
+   Authors:
+   [Hunter McNichols](/search/?searchtype=author&query=McNichols%2C+H),
+   [Fareya Ikram](/search/?searchtype=author&query=Ikram%2C+F),
+   [Andrew Lan](/search/?searchtype=author&query=Lan%2C+A)
+   
+   Abstract:
+   The widespread availability of large language models (LLMs), such as ChatGPT, has significantly impacted education, raising both opportunities and challenges. Students can frequently interact with LLM-powered, interactive…
+   ▽ More
+   
+   The widespread availability of large language models (LLMs), such as ChatGPT, has significantly impacted education, raising both opportunities and challenges. Students can frequently interact with LLM-powered, interactive learning tools, but their usage patterns need to be observed and understood. We introduce StudyChat, a publicly available dataset capturing real-world student interactions with an LLM-powered tutoring chatbot in a semester-long, university-level artificial intelligence (AI) course. We deploy a web application that replicates ChatGPT's core functionalities, and use it to log student interactions with the LLM while working on programming assignments. We collect 16,851 interactions, which we annotate using a dialogue act labeling schema inspired by observed interaction patterns and prior research. We analyze these interactions, highlight usage trends, and analyze how specific student behavior correlates with their course outcome. We find that students who prompt LLMs for conceptual understanding and coding help tend to perform better on assignments and exams. Moreover, students who use LLMs to write reports and circumvent assignment learning objectives have lower outcomes on exams than others. StudyChat serves as a shared resource to facilitate further research on the evolving role of LLMs in education.
+   △ Less
+   
+   
+   Submitted 4 March, 2026; v1 submitted 10 March, 2025;
+   originally announced March 2025.
+   
+   Comments:
+   LAK '26
+8. [arXiv:2503.06424](https://arxiv.org/abs/2503.06424)
+    [[pdf](https://arxiv.org/pdf/2503.06424), [ps](https://arxiv.org/ps/2503.06424), [other](https://arxiv.org/format/2503.06424)] 
+   
+   cs.CL
+   cs.CY
+   
+   doi
+   [10.1007/978-3-031-98414-3\_18](https://doi.org/10.1007/978-3-031-98414-3_18) 
+   
+   
+   Training LLM-based Tutors to Improve Student Learning Outcomes in Dialogues
+   
+   Authors:
+   [Alexander Scarlatos](/search/?searchtype=author&query=Scarlatos%2C+A),
+   [Naiming Liu](/search/?searchtype=author&query=Liu%2C+N),
+   [Jaewook Lee](/search/?searchtype=author&query=Lee%2C+J),
+   [Richard Baraniuk](/search/?searchtype=author&query=Baraniuk%2C+R),
+   [Andrew Lan](/search/?searchtype=author&query=Lan%2C+A)
+   
+   Abstract:
+   Generative artificial…
+   ▽ More
+   
+   Generative artificial intelligence (AI) has the potential to scale up personalized tutoring through large language models (LLMs). Recent AI tutors are adapted for the tutoring task by training or prompting LLMs to follow effective pedagogical principles, though they are not trained to maximize student learning throughout the course of a dialogue. Therefore, they may engage with students in a suboptimal way. We address this limitation by introducing an approach to train LLMs to generate tutor utterances that maximize the likelihood of student correctness, while still encouraging the model to follow good pedagogical practice. Specifically, we generate a set of candidate tutor utterances and score them using (1) an LLM-based student model to predict the chance of correct student responses and (2) a pedagogical rubric evaluated by GPT-4o. We then use the resulting data to train an open-source LLM, Llama 3.1 8B, using direct preference optimization. We show that tutor utterances generated by our model lead to significantly higher chances of correct student responses while maintaining the pedagogical quality of GPT-4o. We also conduct qualitative analyses and a human evaluation to demonstrate that our model generates high quality tutor utterances.
+   △ Less
+   
+   
+   Submitted 28 July, 2025; v1 submitted 8 March, 2025;
+   originally announced March 2025.
+   
+   Comments:
+   Published in AIED 2025: The 26th International Conference on Artificial Intelligence in Education
+   
+   Journal ref:
+   In Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Science(), vol 15877. Springer, Cham
+9. [arXiv:2502.12633](https://arxiv.org/abs/2502.12633)
+    [[pdf](https://arxiv.org/pdf/2502.12633), [other](https://arxiv.org/format/2502.12633)] 
+   
+   cs.CL
+   cs.AI
+   
+   One Size doesn't Fit All: A Personalized Conversational Tutoring Agent for Mathematics Instruction
+   
+   Authors:
+   [Ben Liu](/search/?searchtype=author&query=Liu%2C+B),
+   [Jihan Zhang](/search/?searchtype=author&query=Zhang%2C+J),
+   [Fangquan Lin](/search/?searchtype=author&query=Lin%2C+F),
+   [Xu Jia](/search/?searchtype=author&query=Jia%2C+X),
+   [Min Peng](/search/?searchtype=author&query=Peng%2C+M)
+   
+   Abstract:
+   Large language models (LLMs) have been increasingly employed in various intelligent educational systems, simulating human…
+   ▽ More
+   
+   Large language models (LLMs) have been increasingly employed in various intelligent educational systems, simulating human tutors to facilitate effective human-machine interaction. However, previous studies often overlook the significance of recognizing and adapting to individual learner characteristics. Such adaptation is crucial for enhancing student engagement and learning efficiency, particularly in mathematics instruction, where diverse learning styles require personalized strategies to promote comprehension and enthusiasm. In this paper, we propose a \textbf{P}erson\textbf{A}lized \textbf{C}onversational tutoring ag\textbf{E}nt (PACE) for mathematics instruction. PACE simulates students' learning styles based on the Felder and Silverman learning style model, aligning with each student's persona. In this way, our PACE can effectively assess the personality of students, allowing to develop individualized teaching strategies that resonate with their unique learning styles. To further enhance students' comprehension, PACE employs the Socratic teaching method to provide instant feedback and encourage deep thinking. By constructing personalized teaching data and training models, PACE demonstrates the ability to identify and adapt to the unique needs of each student, significantly improving the overall learning experience and outcomes. Moreover, we establish multi-aspect evaluation criteria and conduct extensive analysis to assess the performance of personalized teaching. Experimental results demonstrate the superiority of our model in personalizing the educational experience and motivating students compared to existing methods.
+   △ Less
+   
+   
+   Submitted 19 February, 2025; v1 submitted 18 February, 2025;
+   originally announced February 2025.
+10. [arXiv:2411.07300](https://arxiv.org/abs/2411.07300)
+     [[pdf](https://arxiv.org/pdf/2411.07300)] 
+    
+    cs.AI
+    cs.CY
+    cs.LG
+    
+    Artificial Intelligence Ecosystem for Automating Self-Directed Teaching
+    
+    Authors:
+    [Tejas Satish Gotavade](/search/?searchtype=author&query=Gotavade%2C+T+S)
+    
+    Abstract:
+    This research introduces an innovative artificial…
+    ▽ More
+    
+    This research introduces an innovative artificial intelligence-driven educational concept designed to optimize self-directed learning through personalized course delivery and automated teaching assistance. The system leverages fine-tuned AI models to create an adaptive learning environment that encompasses customized roadmaps, automated presentation generation, and three-dimensional modeling for complex concept visualization. By integrating real-time virtual assistance for doubt resolution, the platform addresses the immediate educational needs of learners while promoting autonomous learning practices. This study explores the psychological advantages of self-directed learning and demonstrates how AI automation can enhance educational outcomes through personalized content delivery and interactive support mechanisms. The research contributes to the growing field of educational technology by presenting a comprehensive framework that combines automated content generation, visual learning aids, and intelligent tutoring to create an efficient, scalable solution for modern educational needs. Preliminary findings suggest that this approach not only accommodates diverse learning styles but also strengthens student engagement and knowledge retention through its emphasis on self-paced, independent learning methodologies.
+    △ Less
+    
+    
+    Submitted 11 November, 2024;
+    originally announced November 2024.
+    
+    Comments:
+    13 pages, 15 figures, 12 references and 1 table
+11. [arXiv:2410.20017](https://arxiv.org/abs/2410.20017)
+     [[pdf](https://arxiv.org/pdf/2410.20017), [other](https://arxiv.org/format/2410.20017)] 
+    
+    cs.LG
+    cs.AI
+    cs.HC
+    
+    Off-Policy Selection for Initiating Human-Centric Experimental Design
+    
+    Authors:
+    [Ge Gao](/search/?searchtype=author&query=Gao%2C+G),
+    [Xi Yang](/search/?searchtype=author&query=Yang%2C+X),
+    [Qitong Gao](/search/?searchtype=author&query=Gao%2C+Q),
+    [Song Ju](/search/?searchtype=author&query=Ju%2C+S),
+    [Miroslav Pajic](/search/?searchtype=author&query=Pajic%2C+M),
+    [Min Chi](/search/?searchtype=author&query=Chi%2C+M)
+    
+    Abstract:
+    In human-centric tasks such as healthcare and education, the heterogeneity among patients and students necessitates personalized treatments and instructional interventions. While reinforcement…
+    ▽ More
+    
+    In human-centric tasks such as healthcare and education, the heterogeneity among patients and students necessitates personalized treatments and instructional interventions. While reinforcement learning (RL) has been utilized in those tasks, off-policy selection (OPS) is pivotal to close the loop by offline evaluating and selecting policies without online interactions, yet current OPS methods often overlook the heterogeneity among participants. Our work is centered on resolving a pivotal challenge in human-centric systems (HCSs): how to select a policy to deploy when a new participant joining the cohort, without having access to any prior offline data collected over the participant? We introduce First-Glance Off-Policy Selection (FPS), a novel approach that systematically addresses participant heterogeneity through sub-group segmentation and tailored OPS criteria to each sub-group. By grouping individuals with similar traits, FPS facilitates personalized policy selection aligned with unique characteristics of each participant or group of participants. FPS is evaluated via two important but challenging applications, intelligent tutoring systems and a healthcare application for sepsis treatment and intervention. FPS presents significant advancement in enhancing learning outcomes of students and in-hospital care outcomes.
+    △ Less
+    
+    
+    Submitted 25 October, 2024;
+    originally announced October 2024.
+12. [arXiv:2406.10934](https://arxiv.org/abs/2406.10934)
+     [[pdf](https://arxiv.org/pdf/2406.10934)] 
+    
+    physics.ed-ph
+    cs.HC
+    
+    Beyond Answers: Large Language Model-Powered Tutoring System in Physics Education for Deep Learning and Precise Understanding
+    
+    Authors:
+    [Zhoumingju Jiang](/search/?searchtype=author&query=Jiang%2C+Z),
+    [Mengjun Jiang](/search/?searchtype=author&query=Jiang%2C+M)
+    
+    Abstract:
+    The integration of artificial…
+    ▽ More
+    
+    The integration of artificial intelligence (AI) in education has shown significant promise, yet the effective personalization of learning, particularly in physics education, remains a challenge. This paper proposes Physics-STAR, a framework for large language model (LLM)- powered tutoring system designed to address this gap by providing personalized and adaptive learning experiences for high school students. Our study evaluates Physics-STAR against traditional teacher-led lectures and generic LLM tutoring through a controlled experiment with 12 high school sophomores. Results showed that Physics-STAR increased students' average scores and efficiency on conceptual, computational, and on informational questions. In particular, students' average scores on complex information problems increased by 100% and their efficiency increased by 5.95%. By facilitating step-by-step guidance and reflective learning, Physics-STAR helps students develop critical thinking skills and a robust comprehension of abstract concepts. The findings underscore the potential of AI-driven personalized tutoring systems to transform physics education. As LLM continues to advance, the future of student-centered AI in education looks promising, with the potential to significantly improve learning outcomes and efficiency.
+    △ Less
+    
+    
+    Submitted 16 June, 2024;
+    originally announced June 2024.
+    
+    Comments:
+    13 pages, 3 figures, CSCW 2O24
+13. [arXiv:2405.06218](https://arxiv.org/abs/2405.06218)
+     [[pdf](https://arxiv.org/pdf/2405.06218)] 
+    
+    cs.AI
+    cs.CY
+    cs.HC
+    
+    Aligning Tutor Discourse Supporting Rigorous Thinking with Tutee Content Mastery for Predicting Math Achievement
+    
+    Authors:
+    [Mark Abdelshiheed](/search/?searchtype=author&query=Abdelshiheed%2C+M),
+    [Jennifer K. Jacobs](/search/?searchtype=author&query=Jacobs%2C+J+K),
+    [Sidney K. D'Mello](/search/?searchtype=author&query=D%27Mello%2C+S+K)
+    
+    Abstract:
+    This work investigates how tutoring discourse interacts with…
+    ▽ More
+    
+    This work investigates how tutoring discourse interacts with students' proximal knowledge to explain and predict students' learning outcomes. Our work is conducted in the context of high-dosage human tutoring where 9th-grade students (N= 1080) attended small group tutorials and individually practiced problems on an Intelligent Tutoring System (ITS). We analyzed whether tutors' talk moves and students' performance on the ITS predicted scores on math learning assessments. We trained Random Forest Classifiers (RFCs) to distinguish high and low assessment scores based on tutor talk moves, student's ITS performance metrics, and their combination. A decision tree was extracted from each RFC to yield an interpretable model. We found AUCs of 0.63 for talk moves, 0.66 for ITS, and 0.77 for their combination, suggesting interactivity among the two feature sources. Specifically, the best decision tree emerged from combining the tutor talk moves that encouraged rigorous thinking and students' ITS mastery. In essence, tutor talk that encouraged mathematical reasoning predicted achievement for students who demonstrated high mastery on the ITS, whereas tutors' revoicing of students' mathematical ideas and contributions was predictive for students with low ITS mastery. Implications for practice are discussed.
+    △ Less
+    
+    
+    Submitted 9 May, 2024;
+    originally announced May 2024.
+14. [arXiv:2404.03429](https://arxiv.org/abs/2404.03429)
+     [[pdf](https://arxiv.org/pdf/2404.03429), [other](https://arxiv.org/format/2404.03429)] 
+    
+    cs.CL
+    
+    Scaffolding Language Learning via Multi-modal Tutoring Systems with Pedagogical Instructions
+    
+    Authors:
+    [Zhengyuan Liu](/search/?searchtype=author&query=Liu%2C+Z),
+    [Stella Xin Yin](/search/?searchtype=author&query=Yin%2C+S+X),
+    [Carolyn Lee](/search/?searchtype=author&query=Lee%2C+C),
+    [Nancy F. Chen](/search/?searchtype=author&query=Chen%2C+N+F)
+    
+    Abstract:
+    Intelligent…
+    ▽ More
+    
+    Intelligent tutoring systems (ITSs) that imitate human tutors and aim to provide immediate and customized instructions or feedback to learners have shown their effectiveness in education. With the emergence of generative artificial intelligence, large language models (LLMs) further entitle the systems to complex and coherent conversational interactions. These systems would be of great help in language education as it involves developing skills in communication, which, however, drew relatively less attention. Additionally, due to the complicated cognitive development at younger ages, more endeavors are needed for practical uses. Scaffolding refers to a teaching technique where teachers provide support and guidance to students for learning and developing new concepts or skills. It is an effective way to support diverse learning needs, goals, processes, and outcomes. In this work, we investigate how pedagogical instructions facilitate the scaffolding in ITSs, by conducting a case study on guiding children to describe images for language learning. We construct different types of scaffolding tutoring systems grounded in four fundamental learning theories: knowledge construction, inquiry-based learning, dialogic teaching, and zone of proximal development. For qualitative and quantitative analyses, we build and refine a seven-dimension rubric to evaluate the scaffolding process. In our experiment on GPT-4V, we observe that LLMs demonstrate strong potential to follow pedagogical instructions and achieve self-paced learning in different student groups. Moreover, we extend our evaluation framework from a manual to an automated approach, paving the way to benchmark various conversational tutoring systems.
+    △ Less
+    
+    
+    Submitted 4 April, 2024;
+    originally announced April 2024.
+15. [arXiv:2403.01699](https://arxiv.org/abs/2403.01699)
+     [[pdf](https://arxiv.org/pdf/2403.01699), [other](https://arxiv.org/format/2403.01699)] 
+    
+    cs.CL
+    cs.AI
+    cs.CY
+    cs.SD
+    eess.AS
+    
+    Brilla AI: AI Contestant for the National Science and Maths Quiz
+    
+    Authors:
+    [George Boateng](/search/?searchtype=author&query=Boateng%2C+G),
+    [Jonathan Abrefah Mensah](/search/?searchtype=author&query=Mensah%2C+J+A),
+    [Kevin Takyi Yeboah](/search/?searchtype=author&query=Yeboah%2C+K+T),
+    [William Edor](/search/?searchtype=author&query=Edor%2C+W),
+    [Andrew Kojo Mensah-Onumah](/search/?searchtype=author&query=Mensah-Onumah%2C+A+K),
+    [Naafi Dasana Ibrahim](/search/?searchtype=author&query=Ibrahim%2C+N+D),
+    [Nana Sam Yeboah](/search/?searchtype=author&query=Yeboah%2C+N+S)
+    
+    Abstract:
+    The African continent lacks enough qualified teachers which hampers the provision of adequate learning support. An AI could potentially augment the efforts of the limited number of teachers, leading to better…
+    ▽ More
+    
+    The African continent lacks enough qualified teachers which hampers the provision of adequate learning support. An AI could potentially augment the efforts of the limited number of teachers, leading to better learning outcomes. Towards that end, this work describes and evaluates the first key output for the NSMQ AI Grand Challenge, which proposes a robust, real-world benchmark for such an AI: "Build an AI to compete live in Ghana's National Science and Maths Quiz (NSMQ) competition and win - performing better than the best contestants in all rounds and stages of the competition". The NSMQ is an annual live science and mathematics competition for senior secondary school students in Ghana in which 3 teams of 2 students compete by answering questions across biology, chemistry, physics, and math in 5 rounds over 5 progressive stages until a winning team is crowned for that year. In this work, we built Brilla AI, an AI contestant that we deployed to unofficially compete remotely and live in the Riddles round of the 2023 NSMQ Grand Finale, the first of its kind in the 30-year history of the competition. Brilla AI is currently available as a web app that livestreams the Riddles round of the contest, and runs 4 machine learning systems: (1) speech to text (2) question extraction (3) question answering and (4) text to speech that work together in real-time to quickly and accurately provide an answer, and then say it with a Ghanaian accent. In its debut, our AI answered one of the 4 riddles ahead of the 3 human contesting teams, unofficially placing second (tied). Improvements and extensions of this AI could potentially be deployed to offer science tutoring to students and eventually enable millions across Africa to have one-on-one learning interactions, democratizing science education.
+    △ Less
+    
+    
+    Submitted 30 April, 2024; v1 submitted 3 March, 2024;
+    originally announced March 2024.
+    
+    Comments:
+    14 pages. Accepted for the WideAIED track at the 25th International Conference on AI in Education (AIED 2024)
+16. [arXiv:2403.01304](https://arxiv.org/abs/2403.01304)
+     [[pdf](https://arxiv.org/pdf/2403.01304), [ps](https://arxiv.org/ps/2403.01304), [other](https://arxiv.org/format/2403.01304)] 
+    
+    cs.CL
+    
+    doi
+    [10.1007/978-3-031-64302-6\_20](https://doi.org/10.1007/978-3-031-64302-6_20) 
+    
+    
+    Improving the Validity of Automatically Generated Feedback via Reinforcement Learning
+    
+    Authors:
+    [Alexander Scarlatos](/search/?searchtype=author&query=Scarlatos%2C+A),
+    [Digory Smith](/search/?searchtype=author&query=Smith%2C+D),
+    [Simon Woodhead](/search/?searchtype=author&query=Woodhead%2C+S),
+    [Andrew Lan](/search/?searchtype=author&query=Lan%2C+A)
+    
+    Abstract:
+    Automatically generating feedback via large language models (LLMs) in intelligent…
+    ▽ More
+    
+    Automatically generating feedback via large language models (LLMs) in intelligent tutoring systems and online learning platforms has the potential to improve the learning outcomes of many students. However, both feedback generation and evaluation are challenging: feedback content has to be valid especially in subjects like math, which requires models to understand the problem, the solution, and where the student's error lies. Feedback also has to be pedagogically valid to reflect effective tutoring strategies, such as explaining possible misconceptions and encouraging the student, among other desirable features. In this work, we address both problems of automatically generating and evaluating feedback while considering both correctness and alignment. First, we propose a rubric for evaluating math feedback and show that GPT-4 is able to effectively use it to annotate human-written and LLM-generated feedback. Second, we propose a framework for feedback generation that optimizes both correctness and alignment using reinforcement learning (RL). Specifically, we use GPT-4's annotations to create preferences over feedback pairs in an augmented dataset for training via direct preference optimization (DPO). We show that our methods significantly increase the correctness and alignment of generated feedback with Llama 2, an open-source LLM, qualitatively analyze our generation and evaluation systems using case studies, and outline several areas for future work.
+    △ Less
+    
+    
+    Submitted 12 December, 2024; v1 submitted 2 March, 2024;
+    originally announced March 2024.
+    
+    Comments:
+    Best student paper award, Published in AIED 2024: The 25th International Conference on Artificial Intelligence in Education
+    
+    Journal ref:
+    In International Conference on Artificial Intelligence in Education (pp. 280-294). Cham: Springer Nature Switzerland (2024)
+17. [arXiv:2402.09809](https://arxiv.org/abs/2402.09809)
+     [[pdf](https://arxiv.org/pdf/2402.09809)] 
+    
+    cs.HC
+    
+    Effective and Scalable Math Support: Evidence on the Impact of an AI- Tutor on Math Achievement in Ghana
+    
+    Authors:
+    [Owen Henkel](/search/?searchtype=author&query=Henkel%2C+O),
+    [Hannah Horne-Robinson](/search/?searchtype=author&query=Horne-Robinson%2C+H),
+    [Nessie Kozhakhmetova](/search/?searchtype=author&query=Kozhakhmetova%2C+N),
+    [Amanda Lee](/search/?searchtype=author&query=Lee%2C+A)
+    
+    Abstract:
+    This study evaluates the impact of Rori, an AI powered conversational math tutor accessible via WhatsApp, on the math performance of approximately 1,000…
+    ▽ More
+    
+    This study evaluates the impact of Rori, an AI powered conversational math tutor accessible via WhatsApp, on the math performance of approximately 1,000 students in grades 3-9 across 11 schools in Ghana. Each school was assigned to a treatment group or control group; the students in the control group continued their regular math instruction, while students in the treatment group engaged with Rori, for two 30-minute sessions per week over 8 months in addition to regular math instruction. We find that the math growth scores were substantially higher for the treatment group with an effect size of 0.37, and that the results were statistically significant (p < 0.001). The fact that Rori works with basic mobile devices on low-bandwidth data networks gives the intervention strong potential to support personalized learning on other low-and-middle-income countries (LMICs), where laptop ownership and high-speed internet - prerequisite for many video-centered learning platforms - remain extremely limited. While the results should be interpreted judiciously, as they only report on year 1 of the intervention, and future research is necessary to better understand which conditions are necessary for successful implementation, they do suggest that chat-based tutoring solutions leveraging artificial intelligence could offer a costeffective approach to enhancing learning outcomes for millions of students globally.
+    △ Less
+    
+    
+    Submitted 5 May, 2024; v1 submitted 15 February, 2024;
+    originally announced February 2024.
+18. [arXiv:2312.11274](https://arxiv.org/abs/2312.11274)
+     [[pdf](https://arxiv.org/pdf/2312.11274), [other](https://arxiv.org/format/2312.11274)] 
+    
+    cs.HC
+    
+    doi
+    [10.1145/3636555.3636896](https://doi.org/10.1145/3636555.3636896) 
+    
+    
+    Improving Student Learning with Hybrid Human-AI Tutoring: A Three-Study Quasi-Experimental Investigation
+    
+    Authors:
+    [Danielle R. Thomas](/search/?searchtype=author&query=Thomas%2C+D+R),
+    [Jionghao Lin](/search/?searchtype=author&query=Lin%2C+J),
+    [Erin Gatz](/search/?searchtype=author&query=Gatz%2C+E),
+    [Ashish Gurung](/search/?searchtype=author&query=Gurung%2C+A),
+    [Shivang Gupta](/search/?searchtype=author&query=Gupta%2C+S),
+    [Kole Norberg](/search/?searchtype=author&query=Norberg%2C+K),
+    [Stephen E. Fancsali](/search/?searchtype=author&query=Fancsali%2C+S+E),
+    [Vincent Aleven](/search/?searchtype=author&query=Aleven%2C+V),
+    [Lee Branstetter](/search/?searchtype=author&query=Branstetter%2C+L),
+    [Emma Brunskill](/search/?searchtype=author&query=Brunskill%2C+E),
+    [Kenneth R. Koedinger](/search/?searchtype=author&query=Koedinger%2C+K+R)
+    
+    Abstract:
+    Artificial…
+    ▽ More
+    
+    Artificial intelligence (AI) applications to support human tutoring have potential to significantly improve learning outcomes, but engagement issues persist, especially among students from low-income backgrounds. We introduce an AI-assisted tutoring model that combines human and AI tutoring and hypothesize that this synergy will have positive impacts on learning processes. To investigate this hypothesis, we conduct a three-study quasi-experiment across three urban and low-income middle schools: 1) 125 students in a Pennsylvania school; 2) 385 students (50% Latinx) in a California school; and 3) 75 students (100% Black) in a Pennsylvania charter school, all implementing analogous tutoring models. We compare learning analytics of students engaged in human-AI tutoring compared to students using math software only. We find human-AI tutoring has positive effects, particularly in student's proficiency and usage, with evidence suggesting lower achieving students may benefit more compared to higher achieving students. We illustrate the use of quasi-experimental methods adapted to the particulars of different schools and data-availability contexts so as to achieve the rapid data-driven iteration needed to guide an inspired creation into effective innovation. Future work focuses on improving the tutor dashboard and optimizing tutor-student ratios, while maintaining annual costs per students of approximately $700 annually.
+    △ Less
+    
+    
+    Submitted 21 December, 2023; v1 submitted 18 December, 2023;
+    originally announced December 2023.
+    
+    Comments:
+    17 pages
+19. [arXiv:2311.05513](https://arxiv.org/abs/2311.05513)
+     [[pdf](https://arxiv.org/pdf/2311.05513)] 
+    
+    cs.CY
+    cs.AI
+    
+    From Learning Management System to Affective Tutoring system: a preliminary study
+    
+    Authors:
+    [Nadaud Edouard](/search/?searchtype=author&query=Edouard%2C+N),
+    [Geoffroy Thibault](/search/?searchtype=author&query=Thibault%2C+G),
+    [Khelifi Tesnim](/search/?searchtype=author&query=Tesnim%2C+K),
+    [Yaacoub Antoun](/search/?searchtype=author&query=Antoun%2C+Y),
+    [Haidar Siba](/search/?searchtype=author&query=Siba%2C+H),
+    [Ben Rabah NourhÈne](/search/?searchtype=author&query=Nourh%C3%88ne%2C+B+R),
+    [Aubin Jean Pierre](/search/?searchtype=author&query=Pierre%2C+A+J),
+    [Prevost Lionel](/search/?searchtype=author&query=Lionel%2C+P),
+    [Le Grand Benedicte](/search/?searchtype=author&query=Benedicte%2C+L+G)
+    
+    Abstract:
+    In this study, we investigate the combination of indicators, including performance, behavioral engagement, and emotional engagement, to identify students experiencing difficulties. We analyzed data from two primary sources: digital traces extracted from th e…
+    ▽ More
+    
+    In this study, we investigate the combination of indicators, including performance, behavioral engagement, and emotional engagement, to identify students experiencing difficulties. We analyzed data from two primary sources: digital traces extracted from th e Learning Management System (LMS) and images captured by students' webcams. The digital traces provided insights into students' interactions with the educational content, while the images were utilized to analyze their emotional expressions during learnin g activities. By utilizing real data collected from students at a French engineering school, recorded during the 2022 2023 academic year, we observed a correlation between positive emotional states and improved academic outcomes. These preliminary findings support the notion that emotions play a crucial role in differentiating between high achieving and low achieving students.
+    △ Less
+    
+    
+    Submitted 9 November, 2023;
+    originally announced November 2023.
+    
+    Comments:
+    5 pages, 2 figures
+20. [arXiv:2308.03992](https://arxiv.org/abs/2308.03992)
+     [[pdf](https://arxiv.org/pdf/2308.03992), [other](https://arxiv.org/format/2308.03992)] 
+    
+    cs.AI
+    
+    AI Chatbots as Multi-Role Pedagogical Agents: Transforming Engagement in CS Education
+    
+    Authors:
+    [Cassie Chen Cao](/search/?searchtype=author&query=Cao%2C+C+C),
+    [Zijian Ding](/search/?searchtype=author&query=Ding%2C+Z),
+    [Jionghao Lin](/search/?searchtype=author&query=Lin%2C+J),
+    [Frank Hopfgartner](/search/?searchtype=author&query=Hopfgartner%2C+F)
+    
+    Abstract:
+    This study investigates the use of Artificial…
+    ▽ More
+    
+    This study investigates the use of Artificial Intelligence (AI)-powered, multi-role chatbots as a means to enhance learning experiences and foster engagement in computer science education. Leveraging a design-based research approach, we develop, implement, and evaluate a novel learning environment enriched with four distinct chatbot roles: Instructor Bot, Peer Bot, Career Advising Bot, and Emotional Supporter Bot. These roles, designed around the tenets of Self-Determination Theory, cater to the three innate psychological needs of learners - competence, autonomy, and relatedness. Additionally, the system embraces an inquiry-based learning paradigm, encouraging students to ask questions, seek solutions, and explore their curiosities.
+    We test this system in a higher education context over a period of one month with 200 participating students, comparing outcomes with conditions involving a human tutor and a single chatbot. Our research utilizes a mixed-methods approach, encompassing quantitative measures such as chat log sequence analysis, and qualitative methods including surveys and focus group interviews. By integrating cutting-edge Natural Language Processing techniques such as topic modelling and sentiment analysis, we offer an in-depth understanding of the system's impact on learner engagement, motivation, and inquiry-based learning.
+    This study, through its rigorous design and innovative approach, provides significant insights into the potential of AI-empowered, multi-role chatbots in reshaping the landscape of computer science education and fostering an engaging, supportive, and motivating learning environment.
+    △ Less
+    
+    
+    Submitted 7 August, 2023;
+    originally announced August 2023.
+21. [arXiv:2302.07942](https://arxiv.org/abs/2302.07942)
+     [[pdf](https://arxiv.org/pdf/2302.07942), [other](https://arxiv.org/format/2302.07942)] 
+    
+    cs.CY
+    cs.AI
+    cs.LG
+    
+    Enhancing Deep Knowledge Tracing with Auxiliary Tasks
+    
+    Authors:
+    [Zitao Liu](/search/?searchtype=author&query=Liu%2C+Z),
+    [Qiongqiong Liu](/search/?searchtype=author&query=Liu%2C+Q),
+    [Jiahao Chen](/search/?searchtype=author&query=Chen%2C+J),
+    [Shuyan Huang](/search/?searchtype=author&query=Huang%2C+S),
+    [Boyu Gao](/search/?searchtype=author&query=Gao%2C+B),
+    [Weiqi Luo](/search/?searchtype=author&query=Luo%2C+W),
+    [Jian Weng](/search/?searchtype=author&query=Weng%2C+J)
+    
+    Abstract:
+    Knowledge tracing (KT) is the problem of predicting students' future performance based on their historical interactions with…
+    ▽ More
+    
+    Knowledge tracing (KT) is the problem of predicting students' future performance based on their historical interactions with intelligent tutoring systems. Recent studies have applied multiple types of deep neural networks to solve the KT problem. However, there are two important factors in real-world educational data that are not well represented. First, most existing works augment input representations with the co-occurrence matrix of questions and knowledge components\footnote{\label{ft:kc}A KC is a generalization of everyday terms like concept, principle, fact, or skill.} (KCs) but fail to explicitly integrate such intrinsic relations into the final response prediction task. Second, the individualized historical performance of students has not been well captured. In this paper, we proposed \emph{AT-DKT} to improve the prediction performance of the original deep knowledge tracing model with two auxiliary learning tasks, i.e., \emph{question tagging (QT) prediction task} and \emph{individualized prior knowledge (IK) prediction task}. Specifically, the QT task helps learn better question representations by predicting whether questions contain specific KCs. The IK task captures students' global historical performance by progressively predicting student-level prior knowledge that is hidden in students' historical learning interactions. We conduct comprehensive experiments on three real-world educational datasets and compare the proposed approach to both deep sequential KT models and non-sequential models. Experimental results show that \emph{AT-DKT} outperforms all sequential models with more than 0.9\% improvements of AUC for all datasets, and is almost the second best compared to non-sequential models. Furthermore, we conduct both ablation studies and quantitative analysis to show the effectiveness of auxiliary tasks and the superior prediction outcomes of \emph{AT-DKT}.
+    △ Less
+    
+    
+    Submitted 14 February, 2023;
+    originally announced February 2023.
+    
+    Comments:
+    Accepted at WWW'23: The 2023 ACM Web Conference, 2023
+22. [arXiv:2210.12346](https://arxiv.org/abs/2210.12346)
+     [[pdf](https://arxiv.org/pdf/2210.12346)] 
+    
+    cs.CL
+    cs.LG
+    
+    AI-based Arabic Language and Speech Tutor
+    
+    Authors:
+    [Sicong Shao](/search/?searchtype=author&query=Shao%2C+S),
+    [Saleem Alharir](/search/?searchtype=author&query=Alharir%2C+S),
+    [Salim Hariri](/search/?searchtype=author&query=Hariri%2C+S),
+    [Pratik Satam](/search/?searchtype=author&query=Satam%2C+P),
+    [Sonia Shiri](/search/?searchtype=author&query=Shiri%2C+S),
+    [Abdessamad Mbarki](/search/?searchtype=author&query=Mbarki%2C+A)
+    
+    Abstract:
+    In the past decade, we have observed a growing interest in using technologies such as artificial…
+    ▽ More
+    
+    In the past decade, we have observed a growing interest in using technologies such as artificial intelligence (AI), machine learning, and chatbots to provide assistance to language learners, especially in second language learning. By using AI and natural language processing (NLP) and chatbots, we can create an intelligent self-learning environment that goes beyond multiple-choice questions and/or fill in the blank exercises. In addition, NLP allows for learning to be adaptive in that it offers more than an indication that an error has occurred. It also provides a description of the error, uses linguistic analysis to isolate the source of the error, and then suggests additional drills to achieve optimal individualized learning outcomes. In this paper, we present our approach for developing an Artificial Intelligence-based Arabic Language and Speech Tutor (AI-ALST) for teaching the Moroccan Arabic dialect. The AI-ALST system is an intelligent tutor that provides analysis and assessment of students learning the Moroccan dialect at University of Arizona (UA). The AI-ALST provides a self-learned environment to practice each lesson for pronunciation training. In this paper, we present our initial experimental evaluation of the AI-ALST that is based on MFCC (Mel frequency cepstrum coefficient) feature extraction, bidirectional LSTM (Long Short-Term Memory), attention mechanism, and a cost-based strategy for dealing with class-imbalance learning. We evaluated our tutor on the word pronunciation of lesson 1 of the Moroccan Arabic dialect class. The experimental results show that the AI-ALST can effectively and successfully detect pronunciation errors and evaluate its performance by using F\_1-score, accuracy, precision, and recall.
+    △ Less
+    
+    
+    Submitted 22 October, 2022;
+    originally announced October 2022.
+    
+    Comments:
+    Accepted to the 19th IEEE/ACS International Conference on Computer Systems and Applications
+23. [arXiv:2206.14145](https://arxiv.org/abs/2206.14145)
+     [[pdf](https://arxiv.org/pdf/2206.14145), [other](https://arxiv.org/format/2206.14145)] 
+    
+    cs.CL
+    cs.AI
+    
+    Question Personalization in an Intelligent Tutoring System
+    
+    Authors:
+    [Sabina Elkins](/search/?searchtype=author&query=Elkins%2C+S),
+    [Robert Belfer](/search/?searchtype=author&query=Belfer%2C+R),
+    [Ekaterina Kochmar](/search/?searchtype=author&query=Kochmar%2C+E),
+    [Iulian Serban](/search/?searchtype=author&query=Serban%2C+I),
+    [Jackie C. K. Cheung](/search/?searchtype=author&query=Cheung%2C+J+C+K)
+    
+    Abstract:
+    This paper investigates personalization in the field of intelligent…
+    ▽ More
+    
+    This paper investigates personalization in the field of intelligent tutoring systems (ITS). We hypothesize that personalization in the way questions are asked improves student learning outcomes. Previous work on dialogue-based ITS personalization has yet to address question phrasing. We show that generating versions of the questions suitable for students at different levels of subject proficiency improves student learning gains, using variants written by a domain expert and an experimental A/B test. This insight demonstrates that the linguistic realization of questions in an ITS affects the learning outcomes for students.
+    △ Less
+    
+    
+    Submitted 25 May, 2022;
+    originally announced June 2022.
+    
+    Comments:
+    To be published in AIED Late Breaking Results 2022
+24. [arXiv:2203.03724](https://arxiv.org/abs/2203.03724)
+     [[pdf](https://arxiv.org/pdf/2203.03724), [other](https://arxiv.org/format/2203.03724)] 
+    
+    cs.CY
+    cs.AI
+    cs.HC
+    cs.LG
+    
+    A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions
+    
+    Authors:
+    [Francois St-Hilaire](/search/?searchtype=author&query=St-Hilaire%2C+F),
+    [Dung Do Vu](/search/?searchtype=author&query=Vu%2C+D+D),
+    [Antoine Frau](/search/?searchtype=author&query=Frau%2C+A),
+    [Nathan Burns](/search/?searchtype=author&query=Burns%2C+N),
+    [Farid Faraji](/search/?searchtype=author&query=Faraji%2C+F),
+    [Joseph Potochny](/search/?searchtype=author&query=Potochny%2C+J),
+    [Stephane Robert](/search/?searchtype=author&query=Robert%2C+S),
+    [Arnaud Roussel](/search/?searchtype=author&query=Roussel%2C+A),
+    [Selene Zheng](/search/?searchtype=author&query=Zheng%2C+S),
+    [Taylor Glazier](/search/?searchtype=author&query=Glazier%2C+T),
+    [Junfel Vincent Romano](/search/?searchtype=author&query=Romano%2C+J+V),
+    [Robert Belfer](/search/?searchtype=author&query=Belfer%2C+R),
+    [Muhammad Shayan](/search/?searchtype=author&query=Shayan%2C+M),
+    [Ariella Smofsky](/search/?searchtype=author&query=Smofsky%2C+A),
+    [Tommy Delarosbil](/search/?searchtype=author&query=Delarosbil%2C+T),
+    [Seulmin Ahn](/search/?searchtype=author&query=Ahn%2C+S),
+    [Simon Eden-Walker](/search/?searchtype=author&query=Eden-Walker%2C+S),
+    [Kritika Sony](/search/?searchtype=author&query=Sony%2C+K),
+    [Ansona Onyi Ching](/search/?searchtype=author&query=Ching%2C+A+O),
+    [Sabina Elkins](/search/?searchtype=author&query=Elkins%2C+S),
+    [Anush Stepanyan](/search/?searchtype=author&query=Stepanyan%2C+A),
+    [Adela Matajova](/search/?searchtype=author&query=Matajova%2C+A),
+    [Victor Chen](/search/?searchtype=author&query=Chen%2C+V),
+    [Hossein Sahraei](/search/?searchtype=author&query=Sahraei%2C+H),
+    [Robert Larson](/search/?searchtype=author&query=Larson%2C+R)
+    , et al. (6 additional authors not shown)
+    
+    Abstract:
+    Despite artificial…
+    ▽ More
+    
+    Despite artificial intelligence (AI) having transformed major aspects of our society, less than a fraction of its potential has been explored, let alone deployed, for education. AI-powered learning can provide millions of learners with a highly personalized, active and practical learning experience, which is key to successful learning. This is especially relevant in the context of online learning platforms. In this paper, we present the results of a comparative head-to-head study on learning outcomes for two popular online learning platforms (n=199 participants): A MOOC platform following a traditional model delivering content using lecture videos and multiple-choice quizzes, and the Korbit learning platform providing a highly personalized, active and practical learning experience. We observe a huge and statistically significant increase in the learning outcomes, with students on the Korbit platform providing full feedback resulting in higher course completion rates and achieving learning gains 2 to 2.5 times higher than both students on the MOOC platform and students in a control group who don't receive personalized feedback on the Korbit platform. The results demonstrate the tremendous impact that can be achieved with a personalized, active learning AI-powered system. Making this technology and learning experience available to millions of learners around the world will represent a significant leap forward towards the democratization of education.
+    △ Less
+    
+    
+    Submitted 3 March, 2022;
+    originally announced March 2022.
+    
+    Comments:
+    9 pages, 6 figures
+    
+    ACM Class:
+    I.2.0; K.3.1; K.4.0
+25. [arXiv:2009.13371](https://arxiv.org/abs/2009.13371)
+     [[pdf](https://arxiv.org/pdf/2009.13371), [other](https://arxiv.org/format/2009.13371)] 
+    
+    cs.AI
+    
+    doi
+    [10.1007/s40593-020-00213-3](https://doi.org/10.1007/s40593-020-00213-3) 
+    
+    
+    Avoiding Help Avoidance: Using Interface Design Changes to Promote Unsolicited Hint Usage in an Intelligent Tutor
+    
+    Authors:
+    [Mehak Maniktala](/search/?searchtype=author&query=Maniktala%2C+M),
+    [Christa Cody](/search/?searchtype=author&query=Cody%2C+C),
+    [Tiffany Barnes](/search/?searchtype=author&query=Barnes%2C+T),
+    [Min Chi](/search/?searchtype=author&query=Chi%2C+M)
+    
+    Abstract:
+    Within intelligent…
+    ▽ More
+    
+    Within intelligent tutoring systems, considerable research has investigated hints, including how to generate data-driven hints, what hint content to present, and when to provide hints for optimal learning outcomes. However, less attention has been paid to how hints are presented. In this paper, we propose a new hint delivery mechanism called "Assertions" for providing unsolicited hints in a data-driven intelligent tutor. Assertions are partially-worked example steps designed to appear within a student workspace, and in the same format as student-derived steps, to show students a possible subgoal leading to the solution. We hypothesized that Assertions can help address the well-known hint avoidance problem. In systems that only provide hints upon request, hint avoidance results in students not receiving hints when they are needed. Our unsolicited Assertions do not seek to improve student help-seeking, but rather seek to ensure students receive the help they need. We contrast Assertions with Messages, text-based, unsolicited hints that appear after student inactivity. Our results show that Assertions significantly increase unsolicited hint usage compared to Messages. Further, they show a significant aptitude-treatment interaction between Assertions and prior proficiency, with Assertions leading students with low prior proficiency to generate shorter (more efficient) posttest solutions faster. We also present a clustering analysis that shows patterns of productive persistence among students with low prior knowledge when the tutor provides unsolicited help in the form of Assertions. Overall, this work provides encouraging evidence that hint presentation can significantly impact how students use them and using Assertions can be an effective way to address help avoidance.
+    △ Less
+    
+    
+    Submitted 13 October, 2020; v1 submitted 28 September, 2020;
+    originally announced September 2020.
+    
+    Journal ref:
+    International Journal of Artificial Intelligence in Education 2020
+26. [arXiv:2005.06616](https://arxiv.org/abs/2005.06616)
+     [[pdf](https://arxiv.org/pdf/2005.06616), [other](https://arxiv.org/format/2005.06616)] 
+    
+    cs.CY
+    cs.AI
+    cs.CL
+    cs.HC
+    cs.LG
+    
+    A Large-Scale, Open-Domain, Mixed-Interface Dialogue-Based ITS for STEM
+    
+    Authors:
+    [Iulian Vlad Serban](/search/?searchtype=author&query=Serban%2C+I+V),
+    [Varun Gupta](/search/?searchtype=author&query=Gupta%2C+V),
+    [Ekaterina Kochmar](/search/?searchtype=author&query=Kochmar%2C+E),
+    [Dung D. Vu](/search/?searchtype=author&query=Vu%2C+D+D),
+    [Robert Belfer](/search/?searchtype=author&query=Belfer%2C+R),
+    [Joelle Pineau](/search/?searchtype=author&query=Pineau%2C+J),
+    [Aaron Courville](/search/?searchtype=author&query=Courville%2C+A),
+    [Laurent Charlin](/search/?searchtype=author&query=Charlin%2C+L),
+    [Yoshua Bengio](/search/?searchtype=author&query=Bengio%2C+Y)
+    
+    Abstract:
+    We present Korbit, a large-scale, open-domain, mixed-interface, dialogue-based intelligent…
+    ▽ More
+    
+    We present Korbit, a large-scale, open-domain, mixed-interface, dialogue-based intelligent tutoring system (ITS). Korbit uses machine learning, natural language processing and reinforcement learning to provide interactive, personalized learning online. Korbit has been designed to easily scale to thousands of subjects, by automating, standardizing and simplifying the content creation process. Unlike other ITS, a teacher can develop new learning modules for Korbit in a matter of hours. To facilitate learning across a widerange of STEM subjects, Korbit uses a mixed-interface, which includes videos, interactive dialogue-based exercises, question-answering, conceptual diagrams, mathematical exercises and gamification elements. Korbit has been built to scale to millions of students, by utilizing a state-of-the-art cloud-based micro-service architecture. Korbit launched its first course in 2019 on machine learning, and since then over 7,000 students have enrolled. Although Korbit was designed to be open-domain and highly scalable, A/B testing experiments with real-world students demonstrate that both student learning outcomes and student motivation are substantially improved compared to typical online courses.
+    △ Less
+    
+    
+    Submitted 5 May, 2020;
+    originally announced May 2020.
+    
+    Comments:
+    6 pages, 1 figure, 1 table, accepted for publication in the 21st International Conference on Artificial Intelligence in Education (AIED 2020)
+    
+    ACM Class:
+    I.2.0; I.2.1; I.2.7; K.3.1; G.4
+27. [arXiv:2005.02431](https://arxiv.org/abs/2005.02431)
+     [[pdf](https://arxiv.org/pdf/2005.02431), [other](https://arxiv.org/format/2005.02431)] 
+    
+    cs.CL
+    cs.AI
+    
+    Automated Personalized Feedback Improves Learning Gains in an Intelligent Tutoring System
+    
+    Authors:
+    [Ekaterina Kochmar](/search/?searchtype=author&query=Kochmar%2C+E),
+    [Dung Do Vu](/search/?searchtype=author&query=Vu%2C+D+D),
+    [Robert Belfer](/search/?searchtype=author&query=Belfer%2C+R),
+    [Varun Gupta](/search/?searchtype=author&query=Gupta%2C+V),
+    [Iulian Vlad Serban](/search/?searchtype=author&query=Serban%2C+I+V),
+    [Joelle Pineau](/search/?searchtype=author&query=Pineau%2C+J)
+    
+    Abstract:
+    We investigate how automated, data-driven, personalized feedback in a large-scale intelligent…
+    ▽ More
+    
+    We investigate how automated, data-driven, personalized feedback in a large-scale intelligent tutoring system (ITS) improves student learning outcomes. We propose a machine learning approach to generate personalized feedback, which takes individual needs of students into account. We utilize state-of-the-art machine learning and natural language processing techniques to provide the students with personalized hints, Wikipedia-based explanations, and mathematical hints. Our model is used in Korbit, a large-scale dialogue-based ITS with thousands of students launched in 2019, and we demonstrate that the personalized feedback leads to considerable improvement in student learning outcomes and in the subjective evaluation of the feedback.
+    △ Less
+    
+    
+    Submitted 7 May, 2020; v1 submitted 5 May, 2020;
+    originally announced May 2020.
+    
+    Comments:
+    To be published in Proceedings of the the 21st International Conference on Artificial Intelligence in Education (AIED 2020)
+28. [arXiv:1912.04464](https://arxiv.org/abs/1912.04464)
+     [[pdf](https://arxiv.org/pdf/1912.04464)] 
+    
+    cs.AI
+    cs.HC
+    
+    Toward Personalized XAI: A Case Study in Intelligent Tutoring Systems
+    
+    Authors:
+    [Cristina Conati](/search/?searchtype=author&query=Conati%2C+C),
+    [Oswald Barral](/search/?searchtype=author&query=Barral%2C+O),
+    [Vanessa Putnam](/search/?searchtype=author&query=Putnam%2C+V),
+    [Lea Rieger](/search/?searchtype=author&query=Rieger%2C+L)
+    
+    Abstract:
+    …ascertaining the need for personalization, in XAI, and we do so in the context of investigating the value of explanations of AI-driven hints and feedback are useful in Intelligent…
+    ▽ More
+    
+    Our research is a step toward ascertaining the need for personalization, in XAI, and we do so in the context of investigating the value of explanations of AI-driven hints and feedback are useful in Intelligent Tutoring Systems (ITS). We added an explanation functionality for the adaptive hints provided by the Adaptive CSP (ACSP) applet, an interactive simulation that helps students learn an algorithm for constraint satisfaction problems by providing AI-driven hints adapted to their predicted level of learning. We present the design of the explanation functionality and the results of a controlled study to evaluate its impact on students' learning and perception of the ACPS hints. The study includes an analysis of how these outcomes are modulated by several user characteristics such as personality traits and cognitive abilities, to asses if explanations should be personalized to these characteristics. Our results indicate that providing explanations increase students' trust in the ACPS hints, perceived usefulness of the hints, and intention to use them again. In addition, we show that students' access of the explanation and learning gains are modulated by user characteristics, providing insights toward designing personalized Explainable AI (XAI) for ITS.
+    △ Less
+    
+    
+    Submitted 12 August, 2020; v1 submitted 9 December, 2019;
+    originally announced December 2019.
+
+[Search v0.5.6 released 2020-02-24](https://github.com/arXiv/arxiv-search/releases)  
+
+
+
+* [About](https://info.arxiv.org/about)
+* [Help](https://info.arxiv.org/help)
+
+* contact arXivClick here to contact arXiv
+   [Contact](https://info.arxiv.org/help/contact.html)
+* subscribe to arXiv mailingsClick here to subscribe
+   [Subscribe](https://info.arxiv.org/help/subscribe)
+
+
+ 
+
+* [Copyright](https://info.arxiv.org/help/license/index.html)
+* [Privacy Policy](https://info.arxiv.org/help/policies/privacy_policy.html)
+
+* [Web Accessibility Assistance](https://info.arxiv.org/help/web_accessibility.html)
+* [arXiv Operational Status](https://status.arxiv.org)   
+  
+  Get status notifications via
+  [email](https://subscribe.sorryapp.com/24846f03/email/new)
+  or [slack](https://subscribe.sorryapp.com/24846f03/slack/new)
+
+
+ 
+
+
+

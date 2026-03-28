@@ -1,0 +1,483 @@
+# Source URL: https://doi.org/10.1007/s40593-025-00457-x
+# Content Length: 28218 characters
+# Extracted at: 2026-03-28 08:41:46
+#============================================================
+
+
+
+
+
+
+
+
+
+The Use of Large Language Models in Education | International Journal of Artificial Intelligence in Education | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/40593/article&sz=728x90&pos=top&articleid=s40593-025-00457-x)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s40593-025-00457-x)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [International Journal of Artificial Intelligence in Education](/journal/40593)
+3. Article
+
+The Use of Large Language Models in Education
+=============================================
+
+* EDITORIAL
+* Published: 04 February 2025
+
+* Volume 35, pages 439–443, (2025)
+* [Cite this article](#citeas)
+
+[Download PDF](/content/pdf/10.1007/s40593-025-00457-x.pdf)
+
+
+[Save article](/article/10.1007/s40593-025-00457-x/save-research?_csrf=poJN4SD0T4dnUJ2bXT-FDFo9ije0L9UF)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+International Journal of Artificial Intelligence in Education](/journal/40593)
+[Aims and scope](/journal/40593/aims-and-scope)
+
+
+
+
+The Use of Large Language Models in Education
+
+[Download PDF](/content/pdf/10.1007/s40593-025-00457-x.pdf)
+
+
+
+
+
+* [Wanli Xing](#auth-Wanli-Xing-Aff1)[1](#Aff1),
+* [Nia Nixon](#auth-Nia-Nixon-Aff2)[2](#Aff2),
+* [Scott Crossley](#auth-Scott-Crossley-Aff3)[3](#Aff3),
+* [Paul Denny](#auth-Paul-Denny-Aff4)[4](#Aff4),
+* [Andrew Lan](#auth-Andrew-Lan-Aff5)[5](#Aff5),
+* [John Stamper](#auth-John-Stamper-Aff6)[6](#Aff6) &
+* …
+* [Zhou Yu](#auth-Zhou-Yu-Aff7)[7](#Aff7)
+
+Show authors
+
+* 10k Accesses
+* 20 Citations
+* [Explore all metrics](/article/10.1007/s40593-025-00457-x/metrics)
+
+
+
+
+Large language models (LLMs) are based on deep neural networks and are often designed using transformer architectures. These models consist of hundreds of millions to billions of parameters and are pre-trained with vast quantities of language data. In recent years, LLMs have achieved significant advancements across a wide range of natural language processing (NLP) tasks including language generation, summarization, comprehension, and classification (Brown et al., [2020](/article/10.1007/s40593-025-00457-x#ref-CR2)). Contemporary models, such as GPT-4 (OpenAI, [2023](/article/10.1007/s40593-025-00457-x#ref-CR15)) and Llama (Touvron et al., [2023](/article/10.1007/s40593-025-00457-x#ref-CR20)), have demonstrated remarkable abilities to understand and generate human-like text and provide access, respectively, through a proprietary API service and an open-source implementation, making them versatile tools for various applications, including education. Since LLMs demonstrate transferability through inheriting semantic and contextual understanding from pretraining, they fit well in the context of learning engineering and learning analytics by providing reusable and scalable technical architectures appropriate for various subjects (e.g., math, Scarlatos & Lan, [2023](/article/10.1007/s40593-025-00457-x#ref-CR18), Shen et al., [2021](/article/10.1007/s40593-025-00457-x#ref-CR19); science, Cooper, [2023](/article/10.1007/s40593-025-00457-x#ref-CR3); medicine, Luo et al., [2022](/article/10.1007/s40593-025-00457-x#ref-CR11)). Early integrations of LLMs into educational settings have demonstrated promising results to augment learning through item response and student knowledge tracing models for open-ended questions (Liu et al., [2022](/article/10.1007/s40593-025-00457-x#ref-CR10)), socio-emotional support (Li & Xing, [2021](/article/10.1007/s40593-025-00457-x#ref-CR8)), equity and inclusion support (Nixon et al., [2024](/article/10.1007/s40593-025-00457-x#ref-CR13)), automatically generating educational content (Sarsa et al., [2022](/article/10.1007/s40593-025-00457-x#ref-CR17)), especially questions (Wang et al., [2021](/article/10.1007/s40593-025-00457-x#ref-CR21)), and automatic contextual feedback (see the review of Hahn et al., [2021](/article/10.1007/s40593-025-00457-x#ref-CR6)). The potential extension of LLMs to process multimodal data further empowers researchers and practitioners to support students’ learning with various data sources and formats.
+
+Because of the promise of LLMs in education, there is a strong need to explore their potential impact, limitations, and applications in education. For example, little is known empirically about the learning experience design of LLM-enabled educational applications and their impacts on learning and teaching processes. Additionally, LLMs are primarily trained on broad, and often non-specialized datasets, potentially leading to challenges, such as successfully generating relevant or accurate outputs for specific educational tasks. Addressing these issues necessitates exploring strategies for fine-tuning and pretraining LLMs to align more closely with specific educational environments and needs. Finally, LLMs’ ability to process large context windows and synthesize content holds great potential for adaptively supporting student learning. Exploring their integration into adaptive learning environments is essential to create a more responsive, accurate, and personalized learning experience. This special issue aims to collect, review, and publish research that investigates the use of LLMs in educational contexts, address the challenges and opportunities associated with their deployment, and expand our understanding of how LLMs might change the nature of teaching and learning (e.g., forms of assessment). To this end, three strands of manuscripts have been published.
+
+The first strand emphasizes applying open-source and proprietary LLMs to streamline educational tasks, such as feedback analysis and automated grading, mainly through diverse prompting strategies. For instance, Parker et al. ([2024](/article/10.1007/s40593-025-00457-x#ref-CR16)) investigate advanced prompting strategies, such as chain-of-thought, to evaluate the capabilities of various LLMs for analyzing educational survey feedback, highlighting that LLMs can achieve human-level performance and streamline the analysis of educational qualitative feedback. Similarly, Lin and colleagues ([2024](/article/10.1007/s40593-025-00457-x#ref-CR9)) demonstrate the potential of GPT-4, using few-shot learning to generate high-quality feedback that surpasses expert human judgment in specific scenarios, especially in providing corrective responses to trainee tutors. Moreover, a few manuscripts examine the capabilities, limitations, and potential roles of LLMs in automated assessment tasks. For example, Covington and Vruwink ([2024](/article/10.1007/s40593-025-00457-x#ref-CR4)) evaluate the effectiveness of LLMs, especially GPT-3.5, in generating assessment responses in an undergraduate neuroscience course. While LLMs achieve performance comparable to human students based on evaluations by graduate graders, these graders can distinguish between responses from LLMs and those from students with an accuracy better than random guessing. Experience with generative AI significantly contributes to the graders' accuracy in detection. Henkel et al. ([2024](/article/10.1007/s40593-025-00457-x#ref-CR7)) explore the applications of LLMs in grading short-answer reading comprehension questions demonstrating that LLMs could achieve grading accuracy comparable to human experts, emphasizing the potential of LLMs to facilitate the grading of formative assessments.
+
+The second strand focuses on fine-tuning and pretraining LLMs for specific educational environments. Morris et al. ([2024](/article/10.1007/s40593-025-00457-x#ref-CR12)) introduce a prize-winning method for automated scoring in mathematics. Their technique involves extensive preprocessing to balance class labels, data augmentation for underrepresented classes, and tailored input modification for different types of math problems. By fine-tuning several pre-trained LLMs, including DeBERTa, they achieve near human-level accuracy on nine out of ten assessment items, showcasing the feasibility of cost-effective, scalable solutions for grading extended response mathematics questions. Zhang et al. ([2024](/article/10.1007/s40593-025-00457-x#ref-CR22)) develop and evaluate a series of LLMs (e.g., Llama, GPT-J) pre-trained with comprehensive mathematics learning datasets for K12 education. These models were benchmarked against GPT-3.5 in various downstream tasks, demonstrating that dedicated pretraining can significantly enhance LLM applications in educational settings, outperforming GPT-3.5 in certain cases. Acosta et al. ([2024](/article/10.1007/s40593-025-00457-x#ref-CR1)) introduce a novel method that combines dual contrastive learning and label-aware data augmentation to fine-tune the T5 model for automating the annotation of epistemic and topic-related dialogue acts from students’ chat interactions. The proposed method demonstrates improved performance over the baseline model (e.g., BERT-based models), thereby illustrating the significance of augmentation techniques in enhancing LLM performance.
+
+The third strand focuses on enhancing adaptive digital learning environments with LLMs. Norberg et al. ([2024](/article/10.1007/s40593-025-00457-x#ref-CR14)) utilize GPT-4 to revise educational math content with the aim of enhancing readability for deployment in an adaptive learning system. The researchers found that GPT-4 could improve readability metrics, such as word frequency, sentence complexity, and semantic similarity. However, their effectiveness on K-12 student learning outcomes varied across different content areas. While some students demonstrated improved mastery of mathematical concepts when using GPT-4-revised problems, higher error rates were observed in certain areas, suggesting mixed outcomes and the need for more comprehensive evaluation. Goslen and colleagues ([2024](/article/10.1007/s40593-025-00457-x#ref-CR5)) explore the use of T5 and GPT-3.5 to automate plan generation in a game-based learning environment to support students’ self-regulated learning. By comparing the generated plan with those created by students, the researchers found that while T5’s plans closely matched those of students, GPT-3.5 generated valid but more diverse plans. These findings indicate the potential of LLMs to support real-time adaptive scaffolding by improving goal-setting and planning in educational settings.
+
+Collectively, these studies represent a compelling call to action for the education research community to deepen its exploration of LLMs in educational contexts. As LLMs continue to advance and demonstrate potential applications across diverse learning environments, it is increasingly essential to examine their capacity to transform teaching and learning processes. This includes identifying new opportunities for innovation as well as addressing known limitations including potential inaccuracies in generated outputs and algorithmic bias. Rigorous research in these areas can yield valuable insights to inform the responsible and effective integration of LLMs into various educational settings.
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Computational Linguistics](/subjects/computational-linguistics)
+* [Educational Psychology](/subjects/educational-psychology)
+* [Education Science](/subjects/education-science)
+* [Language Teaching and Learning](/subjects/language-teaching-and-learning)
+* [Language Education](/subjects/language-education)
+* [Mastery Learning](/subjects/mastery-learning)
+* [Artificial Intelligence Applications in Higher Education](/subjects/artificial-intelligence-applications-in-higher-education)
+
+References
+----------
+
+* Acosta, H., Lee, S., Bae, H., Feng, C., Rowe, J., Glazewski, K., & Lester, C., J (2024). *Recognizing multi-party epistemic dialogue acts during collaborative game-based learning using large language models* (pp. 1–25). International Journal of Artificial Intelligence in Education.
+* Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, D., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D., Wu, J., Winter, C., Hesse, C., Chen, M., Sigler, E., Litwin, M., Gray, S., Chess, B., Clark, J., Berner, C., McCandlish, S., Radford, A., Sutskever, I., & Amodei, D. (2020). Language models are few-shot learners. *Advances in Neural Information Processing Systems*, *33*, 1877–1901.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Language%20models%20are%20few-shot%20learners&journal=Advances%20in%20Neural%20Information%20Processing%20Systems&volume=33&pages=1877-1901&publication_year=2020&author=Brown%2CT&author=Mann%2CB&author=Ryder%2CN&author=Subbiah%2CM&author=Kaplan%2CJ&author=Dhariwal%2CD&author=Neelakantan%2CA&author=Shyam%2CP&author=Sastry%2CG&author=Askell%2CA&author=Agarwal%2CS&author=Herbert-Voss%2CA&author=Krueger%2CG&author=Henighan%2CT&author=Child%2CR&author=Ramesh%2CA&author=Ziegler%2CD&author=Wu%2CJ&author=Winter%2CC&author=Hesse%2CC&author=Chen%2CM&author=Sigler%2CE&author=Litwin%2CM&author=Gray%2CS&author=Chess%2CB&author=Clark%2CJ&author=Berner%2CC&author=McCandlish%2CS&author=Radford%2CA&author=Sutskever%2CI&author=Amodei%2CD)
+* Cooper, G. (2023). Examining science education in ChatGPT: An exploratory study of generative artificial intelligence. *Journal of Science Education and Technology*, *32*(3), 444–452.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10956-023-10039-y) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Examining%20science%20education%20in%20ChatGPT%3A%20An%20exploratory%20study%20of%20generative%20artificial%20intelligence&journal=Journal%20of%20Science%20Education%20and%20Technology&doi=10.1007%2Fs10956-023-10039-y&volume=32&issue=3&pages=444-452&publication_year=2023&author=Cooper%2CG)
+* Covington, N. V., & Vruwink, O. (2024). *ChatGPT in undergraduate education: performance of gpt-3.5 and identification of ai-generated text in introductory neuroscience* (pp. 1–24). International Journal of Artificial Intelligence in Education.
+* Goslen, A., Kim, Y. J., Rowe, J., & Lester, J. (2024). Llm-based student plan generation for adaptive scaffolding in game-based learning environments. *International journal of artificial intelligence in education*, 1–26.
+* Hahn, M. G., Navarro, S. M. B., Valentín, L. D. L. F., & Burgos, D. (2021). A systematic review of the effects of automatic scoring and automatic feedback in educational settings. *Ieee Access: Practical Innovations, Open Solutions*, *9*, 108190–108198.
+  
+  [Article](https://doi.org/10.1109%2FACCESS.2021.3100890) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20systematic%20review%20of%20the%20effects%20of%20automatic%20scoring%20and%20automatic%20feedback%20in%20educational%20settings&journal=Ieee%20Access%3A%20Practical%20Innovations%2C%20Open%20Solutions&doi=10.1109%2FACCESS.2021.3100890&volume=9&pages=108190-108198&publication_year=2021&author=Hahn%2CMG&author=Navarro%2CSMB&author=Valent%C3%ADn%2CLDLF&author=Burgos%2CD)
+* Henkel, O., Hills, L., Roberts, B., & McGrane, J. (2024). Can LLMs Grade Open Response reading comprehension questions? An empirical study using the ROARs dataset. *International journal of artificial intelligence in education*, 1–26.
+* Li, C., & Xing, W. (2021). Natural language generation using deep learning to support MOOC learners. *International Journal of Artificial Intelligence in Education*, *31*, 186–214.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40593-020-00235-x) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Natural%20language%20generation%20using%20deep%20learning%20to%20support%20MOOC%20learners&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.1007%2Fs40593-020-00235-x&volume=31&pages=186-214&publication_year=2021&author=Li%2CC&author=Xing%2CW)
+* Lin, J., Han, Z., Thomas, D. R., Gurung, A., Gupta, S., Aleven, V., & Koedinger, K. R. (2024). How can i get it right? Using gpt to rephrase incorrect trainee responses. *International journal of artificial intelligence in education*, 1–27.
+* Liu, N., Wang, Z., Baraniuk, R., & Lan, A. (2022). GPT-based Open-ended Knowledge Tracing. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (pp. 3849–3862).
+* Luo, R., Sun, L., Xia, Y., Qin, T., Zhang, S., Poon, H., & Liu, T. Y. (2022). BioGPT: Generative pre-trained transformer for biomedical text generation and mining. *Briefings in Bioinformatics*, *23*(6), Articlebbac409.
+  
+  [Article](https://doi.org/10.1093%2Fbib%2Fbbac409) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=BioGPT%3A%20Generative%20pre-trained%20transformer%20for%20biomedical%20text%20generation%20and%20mining&journal=Briefings%20in%20Bioinformatics&doi=10.1093%2Fbib%2Fbbac409&volume=23&issue=6&publication_year=2022&author=Luo%2CR&author=Sun%2CL&author=Xia%2CY&author=Qin%2CT&author=Zhang%2CS&author=Poon%2CH&author=Liu%2CTY)
+* Morris, W., Holmes, L., Choi, J. S., & Crossley, S. (2024). Automated scoring of constructed response items in math assessment using large language models. *International journal of artificial intelligence in education*, 1–28.
+* Nixon, N., Lin, Y., & Snow, L. (2024). Catalyzing equity in STEM teams: Harnessing Generative AI for inclusion and diversity. *Policy Insights from the Behavioral and Brain Sciences*, *11*(1), 85–92.
+  
+  [Article](https://doi.org/10.1177%2F23727322231220356) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Catalyzing%20equity%20in%20STEM%20teams%3A%20Harnessing%20Generative%20AI%20for%20inclusion%20and%20diversity&journal=Policy%20Insights%20from%20the%20Behavioral%20and%20Brain%20Sciences&doi=10.1177%2F23727322231220356&volume=11&issue=1&pages=85-92&publication_year=2024&author=Nixon%2CN&author=Lin%2CY&author=Snow%2CL)
+* Norberg, K. A., Almoubayyed, H., De Ley, L., Murphy, A., Weldon, K., & Ritter, S. (2024). *Rewriting content with GPT-4 to support emerging readers in adaptive mathematics software* (pp. 1–40). International Journal of Artificial Intelligence in Education.
+* OpenAI (2023). GPT-4 Technical Report. *ArXiv*. <https://doi.org/10.48550/arXiv.2303.08774>
+  
+  [Article](https://doi.org/10.48550%2FarXiv.2303.08774) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GPT-4%20Technical%20Report&journal=ArXiv&doi=10.48550%2FarXiv.2303.08774&publication_year=2023&author=OpenAI%2C)
+* Parker, M. J., Anderson, C., Stone, C., & Oh, Y. (2024). A large language model approach to educational survey feedback analysis. *International journal of artificial intelligence in education*, 1–38.
+* Sarsa, S., Denny, P., Hellas, A., & Leinonen, J. (2022). Automatic generation of programming exercises and code explanations using large language models. In Proceedings of the 2022 ACM Conference on International Computing Education Research (pp. 27–43).
+* Scarlatos, A., & Lan, A. (2023). Tree-Based Representation and Generation of Natural and Mathematical Language. In A. Rogers, J. Boyd-Graber, & N. Okazaki (Eds.), Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 3714–3730). ACL. <https://doi.org/10.18653/v1/2023.acl-long.205>
+* Shen, J. T., Yamashita, M., Prihar, E., Heffernan, N., Wu, X., Graff, B., & Lee, D. (2021). MathBERT: A Pre-trained Language Model for General NLP Tasks in Mathematics Education. In NeurIPS 2021 Math AI for Education Workshop. <https://par.nsf.gov/servlets/purl/10386545>
+* Touvron, H., Lavril, T., Izacard, G., Martinet, X., Lachaux, M. A., Lacroix, T., & Lample, G. (2023). Llama: Open and efficient foundation language models. ArXiv. <https://doi.org/10.48550/arXiv.2302.13971>
+* Wang, Z., Lan, A., & Baraniuk, R. (2021). Math Word Problem Generation with Mathematical Consistency and Problem Context Constraints. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (pp. 5986–5999).
+* Zhang, F., Li, C., Henkel, O., Xing, W., Baral, S., Heffernan, N., & Li, H. (2024). Math-LLMs: AI cyberinfrastructure with pre-trained transformers for math education. *International Journal of Artificial Intelligence in Education*, 1–24.
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s40593-025-00457-x?format=refman&flavour=references)
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. University of Florida, Gainesville, USA
+   
+   Wanli Xing
+2. UC-Irvine, Irvine, USA
+   
+   Nia Nixon
+3. Vanderbilt University, Nashville, USA
+   
+   Scott Crossley
+4. University of Auckland, Auckland, New Zealand
+   
+   Paul Denny
+5. University of Massachusetts Amherst, Amherst, USA
+   
+   Andrew Lan
+6. Carnegie Mellon University, Pittsburgh, USA
+   
+   John Stamper
+7. Columbia University, New York, USA
+   
+   Zhou Yu
+
+Authors
+
+1. Wanli Xing[View author publications](/search?sortBy=newestFirst&contributor=Wanli%20Xing)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Wanli%20Xing) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Wanli%20Xing%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Nia Nixon[View author publications](/search?sortBy=newestFirst&contributor=Nia%20Nixon)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Nia%20Nixon) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Nia%20Nixon%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Scott Crossley[View author publications](/search?sortBy=newestFirst&contributor=Scott%20Crossley)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Scott%20Crossley) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Scott%20Crossley%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+4. Paul Denny[View author publications](/search?sortBy=newestFirst&contributor=Paul%20Denny)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Paul%20Denny) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Paul%20Denny%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+5. Andrew Lan[View author publications](/search?sortBy=newestFirst&contributor=Andrew%20Lan)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Andrew%20Lan) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Andrew%20Lan%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+6. John Stamper[View author publications](/search?sortBy=newestFirst&contributor=John%20Stamper)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=John%20Stamper) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22John%20Stamper%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+7. Zhou Yu[View author publications](/search?sortBy=newestFirst&contributor=Zhou%20Yu)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zhou%20Yu) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Zhou%20Yu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Corresponding author
+
+Correspondence to
+[Wanli Xing](mailto:wanli.xing@coe.ufl.edu).
+
+Ethics declarations
+-------------------
+
+### Conflict of Interest
+
+The authors have no relevant financial or non-financial interests to disclose.
+
+Additional information
+----------------------
+
+### Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=The%20Use%20of%20Large%20Language%20Models%20in%20Education&author=Wanli%20Xing%20et%20al&contentID=10.1007%2Fs40593-025-00457-x&copyright=International%20Artificial%20Intelligence%20in%20Education%20Society&publication=1560-4292&publicationDate=2025-02-04&publisherName=SpringerNature&orderBeanReset=true)
+
+About this article
+------------------
+
+### Cite this article
+
+Xing, W., Nixon, N., Crossley, S. *et al.* The Use of Large Language Models in Education.
+*Int J Artif Intell Educ* **35**, 439–443 (2025). https://doi.org/10.1007/s40593-025-00457-x
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s40593-025-00457-x?format=refman&flavour=citation)
+
+* Published: 04 February 2025
+* Version of record: 04 February 2025
+* Issue date: June 2025
+* DOI: https://doi.org/10.1007/s40593-025-00457-x
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+
+### Profiles
+
+1. Nia Nixon
+   [View author profile](/researchers/19155517SN)
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.44.184
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

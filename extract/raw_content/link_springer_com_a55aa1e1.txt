@@ -1,0 +1,920 @@
+# Source URL: https://link.springer.com/article/10.1186/s40561-025-00427-9
+# Content Length: 95504 characters
+# Extracted at: 2026-03-27 22:14:30
+#============================================================
+
+
+
+
+
+
+
+
+
+A systematic review of intelligent and robot tutoring systems: evolution, pedagogical design, and AI-driven classification | Smart Learning Environments | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/40561/article&sz=728x90&pos=top&articleid=s40561-025-00427-9)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1186/s40561-025-00427-9)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Smart Learning Environments](/journal/40561)
+3. Article
+
+A systematic review of intelligent and robot tutoring systems: evolution, pedagogical design, and AI-driven classification
+==========================================================================================================================
+
+* Review
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 06 January 2026
+
+* Volume 13, article number 1, (2026)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1186/s40561-025-00427-9.pdf)
+
+
+[Save article](/article/10.1186/s40561-025-00427-9/save-research?_csrf=-XaoZQVcybv_47pHbySiAtErS9NeQQHJ)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Smart Learning Environments](/journal/40561)
+[Aims and scope](/journal/40561/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/smle/default.aspx)
+
+
+
+
+A systematic review of intelligent and robot tutoring systems: evolution, pedagogical design, and AI-driven classification
+
+[Download PDF](/content/pdf/10.1186/s40561-025-00427-9.pdf)
+
+
+
+
+
+* [Ehsan Latif](#auth-Ehsan-Latif-Aff1)[1](#Aff1),
+* [Vincent Liu](#auth-Vincent-Liu-Aff2)[2](#Aff2) &
+* [Xiaoming Zhai](#auth-Xiaoming-Zhai-Aff1) 
+  [ORCID: orcid.org/0000-0003-4519-1931](https://orcid.org/0000-0003-4519-1931)[1](#Aff1)
+
+* 3595 Accesses
+* 1 
+  Altmetric
+* [Explore all metrics](/article/10.1186/s40561-025-00427-9/metrics)
+
+
+
+
+Abstract
+--------
+
+This study systematically reviews the transformative role of Tutoring Systems, encompassing Intelligent Tutoring Systems (ITS) and Robot Tutoring Systems (RTS), in addressing global educational challenges through advanced technologies. As many students struggle with proficiency in core academic areas, Tutoring Systems emerge as promising solutions to bridge learning gaps by delivering personalized and adaptive instruction. ITS leverage artificial intelligence (AI) models, such as Bayesian Knowledge Tracing and Large Language Models, to provide precise cognitive support, while RTS enhance social and emotional engagement through human-like interactions. This systematic review, adhering to the PRISMA framework, analyzed 86 representative studies. We evaluated the pedagogical and technological advancements, engagement strategies, and ethical considerations surrounding these systems. Based on these parameters, Latent Class Analysis was conducted and identified three distinct categories: computer-based ITS, robot-based RTS, and multimodal systems integrating various interaction modes. The findings reveal significant advancements in AI techniques that enhance adaptability, engagement, and learning outcomes. However, challenges such as ethical concerns, scalability issues, and gaps in cognitive adaptability persist. The study highlights the complementary strengths of ITS and RTS, proposing integrated hybrid solutions to maximize educational benefits. Future research should focus on bridging gaps in scalability, addressing ethical considerations comprehensively, and advancing AI models to support diverse educational needs.
+
+
+
+### Similar content being viewed by others
+
+![]()
+### [Intelligent Tutoring Systems: A Review](https://link.springer.com/10.1007/978-3-031-74491-4_50?fromPaywallRec=false)
+
+Chapter
+© 2024
+
+
+
+
+![]()
+### [Usability of Intelligent System in Implementing Tutoring Lesson in Education: A Literature Review](https://link.springer.com/10.1007/978-981-96-0147-9_18?fromPaywallRec=false)
+
+Chapter
+© 2025
+
+
+
+
+![]()
+### [A systematic review of AI-driven intelligent tutoring systems (ITS) in K-12 education](https://link.springer.com/10.1038/s41539-025-00320-7?fromPaywallRec=false)
+
+Article
+Open access
+14 May 2025
+
+
+
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Computers and Education](/subjects/computers-and-education)
+* [Digital Education and Educational Technology](/subjects/digital-education-and-educational-technology)
+* [eLearning](/subjects/elearning)
+* [Multiagent Systems](/subjects/multiagent-systems)
+* [Rehabilitation Robotics](/subjects/rehabilitation-robotics)
+* [Artificial Intelligence](/subjects/artificial-intelligence)
+* [Artificial Intelligence Applications in Higher Education](/subjects/artificial-intelligence-applications-in-higher-education)
+
+Introduction
+------------
+
+Improving academic performance remains a global challenge, with many students struggling to achieve proficiency in core academic areas. For instance, a recent study highlighted that 96% of students in an urban Pennsylvania school performed below proficiency levels, while none reached proficiency at another site (Thomas et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR41)). These findings underscore the critical need for innovative educational interventions that address systemic learning gaps.
+
+**Tutoring Systems**, encompassing both *Intelligent Tutoring Systems (ITS)* and *Robot Tutoring Systems (RTS)*, are emerging as transformative educational technologies. ITS are software-based systems leveraging artificial intelligence (AI) to deliver adaptive, personalized instruction in real time (Mousavinasab et al., [2021](/article/10.1186/s40561-025-00427-9#ref-CR34); Kulik & Fletcher, [2016](/article/10.1186/s40561-025-00427-9#ref-CR24)). RTS extend these capabilities by integrating robotics to provide physical and social interactivity, fostering engagement through tangible interactions (Chu et al., [2022](/article/10.1186/s40561-025-00427-9#ref-CR7); Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47)). Collectively, Tutoring Systems have demonstrated significant potential to enhance learning outcomes by adapting to individual student needs, promoting motivation, and addressing the limitations of traditional instructional methods (Ma et al., [2014](/article/10.1186/s40561-025-00427-9#ref-CR31); Feng et al., [2021](/article/10.1186/s40561-025-00427-9#ref-CR15)).
+
+The significance of this study lies in its systematic evaluation of Tutoring Systems, particularly in the context of their impact on student engagement, academic achievement, and pedagogical practices. Research reveals that ITS can achieve learning gains comparable to one-on-one human tutoring (Holstein et al., [2017](/article/10.1186/s40561-025-00427-9#ref-CR17); Maity & Deroy, [2024](/article/10.1186/s40561-025-00427-9#ref-CR32)), while RTS have shown promise in improving student motivation and social-emotional learning outcomes (Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36); Chin et al., [2014](/article/10.1186/s40561-025-00427-9#ref-CR6)). The integration of generative AI into ITS further enhances their adaptability, enabling real-time customization of instructional content based on student behavior and feedback (Banjade et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR5); Lin et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR29)). Similarly, RTS provide unique opportunities for collaborative learning and problem-solving, bridging the digital divide and fostering inclusivity in education (Yang & Zhang, [2019](/article/10.1186/s40561-025-00427-9#ref-CR45); Wang et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR44)).
+
+The evolution of tutoring systems, from rudimentary Computer Assisted Instruction (CAI) programs in the 1970s to today’s advanced ITS and RTS, has transformed personalized learning. However, while technological breakthroughs have enabled unprecedented levels of adaptive instruction, critical questions remain regarding the practical impact on learning outcomes and the ethical implications of these innovations. Addressing these issues is essential for guiding future research and ensuring that educational technologies contribute positively to student development.
+
+Despite their potential, Tutoring Systems face challenges, including ethical concerns related to AI bias, data privacy, and equitable access (Swargiary, [2024](/article/10.1186/s40561-025-00427-9#ref-CR40); Robert et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR37)). This study seeks to address these issues by evaluating advancements in AI-driven tutoring, examining their adaptability to real-time inputs, and exploring best practices to ensure their ethical use (Akyuz et al., [2020](/article/10.1186/s40561-025-00427-9#ref-CR2); Ahmadov et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR1)).
+
+Research on tutoring systems has evolved over five decades, with early Computer-Assisted Instruction (CAI) tools enabling rule-based individualized learning (Fan et al., [1996](/article/10.1186/s40561-025-00427-9#ref-CR13)). Intelligent Tutoring Systems (ITS) later advanced personalization using AI models such as Bayesian Knowledge Tracing (BKT) and constraint-based modeling (Zhang & Luo, [2015](/article/10.1186/s40561-025-00427-9#ref-CR46)). Meta-analyses have shown strong cognitive effects from ITS(Linton, [2017](/article/10.1186/s40561-025-00427-9#ref-CR30)), yet these reviews emphasize primarily software-based learning and overlook multimodal interaction. More recently, Robot Tutoring Systems (RTS) emerged as socially and physically interactive tutors (Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47); Alam, [2022](/article/10.1186/s40561-025-00427-9#ref-CR3)). However, prior reviews of RTS (Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47); VanLehn, [2011](/article/10.1186/s40561-025-00427-9#ref-CR42)) focused on robotic embodiment but did not systematically compare AI-driven adaptability, ethical implications, and scalability across ITS and RTS. There is also limited evidence synthesizing hybrid or multimodal tutoring systems using both cognitive and affective adaptation mechanisms.
+
+Despite extensive studies on ITS and RTS, three critical research gaps remain. Existing reviews treat ITS and RTS as separate domains, lacking a unified comparative analysis across generations of tutoring systems. Prior reviews emphasize technological functions but insufficiently examine the pedagogical frameworks, ethical considerations, and responsible AI integration. There is no classification model that categorizes tutoring systems based on AI techniques, interaction affordances, and adaptability.
+
+Below are the research questions addressed in this study:
+
+1. 1.
+   
+   How have tutoring systems evolved from the early CAI models of the 1970s to today’s AI-driven ITS and RTS, and which technological breakthroughs have been most critical in enabling personalized and adaptive learning?
+2. 2.
+   
+   In what specific ways do modern tutoring systems incorporate real-time adaptive mechanisms and instructional strategies, and how do these pedagogical designs influence student engagement and academic performance across educational contexts?
+3. 3.
+   
+   What ethical challenges, such as data privacy, informed consent, and algorithmic bias, have emerged alongside the technological advancements in tutoring systems, and what proven strategies have been developed to mitigate these risks while ensuring equitable and responsible use of these tools?
+
+This paper is structured to systematically explore the role of Tutoring Systems in education. The introduction outlines the motivation and objectives of the study, followed by a detailed framework that characterizes Tutoring Systems. The methodology section describes the systematic review process, employing the PRISMA framework to identify and select relevant studies. The results section addresses the research questions, analyzing the impact of Tutoring Systems on educational outcomes, engagement, and ethical considerations. The discussion highlights key pedagogical and technological gaps, identifies integration challenges, and proposes future research directions. The paper concludes with a synthesis of findings and recommendations for advancing the field of Tutoring Systems.
+
+Intelligent tutoring system (ITS) versus robot tutoring systems (RTS)
+---------------------------------------------------------------------
+
+This section provides a comparative analysis of Tutoring Systems based on their pedagogical effectiveness, adaptability, personalization, interaction methods, engagement strategies, and technical implementation. The comparison highlights their respective strengths and limitations, offering insights into how these systems address diverse educational needs and contexts (Table [1](/article/10.1186/s40561-025-00427-9#Tab1)).
+
+**Table 1 Comparison of ITS and RTS as subcomponents of tutoring systems**
+
+[Full size table](/article/10.1186/s40561-025-00427-9/tables/1)
+### Pedagogical effectiveness
+
+Tutoring Systems exhibit distinct pedagogical strengths. Software-based systems excel in delivering personalized and adaptive instruction by leveraging advanced AI models such as Bayesian Knowledge Tracing and Large Language Models (LLMs) (Fancsali & Ritter, [2014](/article/10.1186/s40561-025-00427-9#ref-CR14)). These systems provide precise feedback and track progress to ensure cognitive engagement, which significantly enhances learning outcomes. However, they often lack the social and emotional engagement that contributes to holistic education.
+
+Conversely, robot-based systems prioritize social and emotional engagement through physical presence, verbal encouragement, and human-like gestures (Kanda et al., [2004](/article/10.1186/s40561-025-00427-9#ref-CR21); Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36)). These features are particularly effective for younger learners or those who benefit from interactive and relational learning. While robot-based systems support motivation and engagement, they face challenges in delivering deeply personalized and cognitively adaptive content at the same level as software-based systems.
+
+### Adaptability
+
+Adaptability is a defining feature of software-based tutoring systems, achieved through dynamic adjustments to content and difficulty levels based on real-time student performance (Ines et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR19)). These systems utilize AI-driven techniques to provide highly individualized support, ensuring students are consistently challenged at appropriate levels.
+
+Robot-based systems demonstrate adaptability primarily through interactive behaviors, such as providing hints or altering task complexity based on student responses (Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43)). However, this adaptability is often limited to pre-programmed responses, making it less flexible and nuanced compared to software-based systems. While robots excel in maintaining engagement, their cognitive adaptability remains an area for further development.
+
+### Personalization
+
+Software-based systems personalize learning by analyzing detailed student profiles, including performance data and learning preferences, to tailor content and feedback effectively (Fancsali & Ritter, [2014](/article/10.1186/s40561-025-00427-9#ref-CR14)). This approach ensures a targeted learning experience that addresses individual strengths and weaknesses.
+
+Robot-based systems personalize interactions through social and emotional engagement, such as recognizing students by name and using verbal and non-verbal cues to foster a sense of connection (Kanda et al., [2004](/article/10.1186/s40561-025-00427-9#ref-CR21)). However, their personalization is more focused on enhancing relational aspects rather than deeply customizing instructional content, limiting their cognitive personalization capabilities.
+
+### Interaction
+
+The interaction styles of Tutoring Systems differ significantly. Software-based systems rely on text or conversational interfaces powered by AI models, offering efficient and context-aware cognitive engagement (Lieb & Goel, [2024](/article/10.1186/s40561-025-00427-9#ref-CR28)). However, their interactions remain screen-based, lacking the immersive and physical elements of human-like interaction.
+
+Robot-based systems provide rich multimodal interactions, combining verbal communication, gestures, and eye contact to create a more personal and engaging learning experience (Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43); Kanda et al., [2004](/article/10.1186/s40561-025-00427-9#ref-CR21)). These physical and social interactions enhance motivation and emotional connection, making them particularly effective for younger learners.
+
+### Engagement
+
+Engagement in software-based systems is primarily cognitive, driven by adaptive content and immediate feedback that keeps learners mentally stimulated (Swargiary, [2024](/article/10.1186/s40561-025-00427-9#ref-CR40)). While effective in maintaining focus and promoting academic achievement, these systems may lack the emotional resonance required for sustained motivation.
+
+Robot-based systems excel in emotional and social engagement by mimicking human behaviors, offering encouragement, and fostering a sense of companionship (Chin et al., [2014](/article/10.1186/s40561-025-00427-9#ref-CR6)). This approach increases students’ willingness to participate and enhances their attitudes toward learning, though it may not provide the same depth of cognitive engagement as software-based systems.
+
+### Technical implementation
+
+Software-based systems are relatively easy to deploy and scale due to their reliance on existing infrastructure and minimal hardware requirements. Cloud-based solutions further simplify updates and management, making these systems cost-effective and accessible in diverse educational settings.
+
+Robot-based systems face greater deployment challenges, requiring significant investments in robotic hardware and supporting infrastructure. Scalability is limited by the cost and complexity of maintaining additional units. Hybrid approaches, such as combining robots with virtual avatars, offer potential solutions but may compromise the immersive experience robots are designed to provide (Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47); Wang et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR44)).
+
+This comparative analysis underscores the complementary nature of software-based and robot-based Tutoring Systems. While software-based systems excel in cognitive adaptability and scalability, robot-based systems bring unique strengths in emotional and social engagement. Together, these systems can address diverse educational needs, offering opportunities for hybrid solutions that combine their respective advantages.
+
+Framework for analyzing tutoring systems
+----------------------------------------
+
+This review introduces a framework designed to analyze the evolution of tutoring systems across different generations. The framework is structured around four dimensions: Artificial Intelligence, system behavior, engagement, and affordances. To ensure a comprehensive analysis, representative papers from each generation of tutoring systems were carefully selected based on their alignment with these dimensions. These papers, identified through an extensive review of the literature, exemplify the defining characteristics and advancements of their respective generations. By systematically applying this framework to representative studies, the review provides a nuanced evaluation of the technological and pedagogical evolution of tutoring systems, highlighting their strengths, limitations, and potential for future integration (Fig. [1](/article/10.1186/s40561-025-00427-9#Fig1)).
+
+To systematically assess the progression of tutoring systems, we developed a framework that categorizes their evolution across different generations. This framework was constructed based on key technological advancements, pedagogical methodologies, and system capabilities observed in the literature. Therefore, we have structured the framework aroud four dimensions: Artificial Intelligence, system behavior, engagement, and affordances. As educational technologies have advanced, new capabilities, such as adaptive learning, AI-driven feedback, and robotic interaction, have emerged, fundamentally altering how students engage with tutoring systems. These shifts have been driven by advancements in computing power, machine learning, and human-computer interaction, yet there is limited work that systematically maps these developments into a structured framework. By introducing this generational model, we provide a historical context that allows for a clearer understanding of how tutoring systems have evolved to address different educational needs. Furthermore, analyzing tutoring systems through this generational lens strengthens the investigation into the impact of AI-driven advancements, their adaptability, and their ethical implications. Situating our findings within this broader trajectory enables a more comprehensive assessment of tutoring systems, ultimately offering insights that can inform future research and development in the field.
+
+**Fig. 1**
+
+![]()[Full size image](/article/10.1186/s40561-025-00427-9/figures/1)
+
+Framework for tutoring system analysis
+
+### Artificial intelligence
+
+In the context of tutoring systems, Artificial Intelligence encompasses the algorithms and computational models that enable these technologies to deliver personalized and adaptive learning experiences (Lin et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR29); Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47)). Early tutoring systems relied on foundational techniques, such as concept trees and student models, to map student progress and adapt instruction based on predefined rules (Shute & Psotka, [1994](/article/10.1186/s40561-025-00427-9#ref-CR39); Hume et al., [1996](/article/10.1186/s40561-025-00427-9#ref-CR18); Draper & Clayton, [1992](/article/10.1186/s40561-025-00427-9#ref-CR10)). Subsequent advancements introduced Bayesian Knowledge Tracing, which improved predictive capabilities, allowing systems to adjust instructional content dynamically based on real-time student performance (Ines et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR19)).
+
+Modern tutoring systems integrate advanced AI models, such as ChatGPT and other large language models, to create interactive, conversational learning experiences (Lieb & Goel, [2024](/article/10.1186/s40561-025-00427-9#ref-CR28); Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43)). These models facilitate real-time feedback and adaptive interactions, tailoring the learning process to individual student needs. This evolution has transformed tutoring systems into responsive, AI-driven tools that emulate many qualities of human tutors, offering highly adaptive and personalized educational experiences (Banjade et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR5)).
+
+### System behavior
+
+System behavior refers to the adaptability of tutoring systems—their ability to modify instructional strategies and content in response to student inputs. Early systems offered limited adaptability, primarily delivering static content with minimal interaction. Over time, these systems evolved to include features such as adjusting problem difficulty, providing personalized feedback, and introducing tailored challenges based on student progress (Kanda et al., [2004](/article/10.1186/s40561-025-00427-9#ref-CR21)).
+
+Advanced tutoring systems now leverage real-time analytics to dynamically adapt task complexity, provide hints, and deliver context-sensitive feedback (Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36); Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43)). These capabilities enable systems to align more closely with students’ learning paces and styles, fostering a personalized educational experience. By mirroring the flexibility of human tutors, modern systems enhance the learning process, supporting improved engagement and outcomes (Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47)).
+
+### Engagement
+
+Engagement in tutoring systems encompasses the strategies and features designed to maintain students’ active involvement in the learning process (Swargiary, [2024](/article/10.1186/s40561-025-00427-9#ref-CR40)). Early systems relied on basic text-based feedback and limited interaction, offering minimal engagement (Hume et al., [1996](/article/10.1186/s40561-025-00427-9#ref-CR18); Draper & Clayton, [1992](/article/10.1186/s40561-025-00427-9#ref-CR10)). As these systems evolved, they incorporated more interactive elements, such as animated feedback (Corbett & Trask, [2000](/article/10.1186/s40561-025-00427-9#ref-CR8)), subgoal scaffolding (Corbett & Trask, [2000](/article/10.1186/s40561-025-00427-9#ref-CR8)), and real-time monitoring of concentration levels (Lee et al., [2015](/article/10.1186/s40561-025-00427-9#ref-CR26)).
+
+Contemporary tutoring systems utilize sophisticated engagement methods, including verbal communication, gestures, and physical movements that simulate human-like interactions (Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43); Kanda et al., [2004](/article/10.1186/s40561-025-00427-9#ref-CR21)). These systems can hold natural conversations, use facial expressions, and adapt dynamically to student responses, creating immersive and motivating learning environments. By integrating these advanced features, modern tutoring systems sustain student interest and motivation, making learning experiences more engaging and effective (Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36)).
+
+### Affordances
+
+Affordances in tutoring systems refer to the physical and interactive features that enhance student engagement and interaction. Early tutoring systems were primarily software-based, providing limited physical interaction. Over time, systems began incorporating tangible elements, such as virtual avatars or robotic components, to create more immersive learning experiences (Yang & Zhang, [2019](/article/10.1186/s40561-025-00427-9#ref-CR45)).
+
+Modern systems leverage physical features like robotic gestures, digital representations, and virtual environments to foster engagement and accessibility. For example, robotic tutors can use movement and physical presence to enhance interaction, particularly for younger learners or those who benefit from kinesthetic learning styles (Wang et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR44); Chin et al., [2014](/article/10.1186/s40561-025-00427-9#ref-CR6)). These affordances bridge the gap between digital and physical learning, offering diverse and effective educational tools that cater to a wide range of learning needs (Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47)).
+
+Method
+------
+
+This systematic review adheres to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, proposed by Moher et al. ([2015](/article/10.1186/s40561-025-00427-9#ref-CR33)), to ensure a transparent, replicable, and comprehensive approach to data collection and analysis. The PRISMA framework facilitated a structured process for identifying, screening, and selecting studies related to Tutoring Systems. The method comprises the following stages: identification, screening, eligibility, and inclusion, as depicted in Fig. [2](/article/10.1186/s40561-025-00427-9#Fig2).
+
+**Fig. 2**
+
+![]()[Full size image](/article/10.1186/s40561-025-00427-9/figures/2)
+
+Tutoring systems PRISMA review flowchart
+
+### Search strategy
+
+To ensure transparency and replicability, this study adopted the PRISMA framework. As shown in the flowchart in Fig. [2](/article/10.1186/s40561-025-00427-9#Fig2), we followed a systematic review process including overview of identification, screening, eligibility, and inclusion stages. To ensure a robust and comprehensive search, multiple bibliographic databases were used, including ACM, JSTOR, ResearchGate, BERA, ScienceDirect, Taylor & Francis, arXiv, ERIC, IOSPress, MDPI, EPFL, ISEDJ, and the American Psychological Association. Search queries focused on titles, abstracts, and keywords, using combinations of terms such as "Tutoring Systems," "adaptive learning," "AI in education," and "personalized learning."
+
+Table [2](/article/10.1186/s40561-025-00427-9#Tab2) summarizes the search criteria applied to filter the studies. The initial search yielded a total of 340 records, ensuring inclusivity across article types, including research articles, journals, conference papers, and short papers.
+
+To capture the full evolution of tutoring systems, this review spans a broad historical range from the early 1970s to the present. The earliest paper identified in our search, “CAI supports individualized learning programs in Montgomery County (Maryland) Public Schools” (1972), represents one of the pioneering works in computer-assisted instruction. By including studies from 1972 through 2024, we ensure that our analysis covers the inception of individualized learning technologies, the emergence and growth of ITS and RTS, and the latest innovations incorporating LLMs. This comprehensive time frame allows us to trace the technological, pedagogical, and ethical transformations that have shaped tutoring systems over more than five decades.
+
+**Table 2 Search criteria**
+
+[Full size table](/article/10.1186/s40561-025-00427-9/tables/2)
+### Inclusion and exclusion criteria
+
+A systematic approach was used to establish inclusion and exclusion criteria, as summarized in Table [3](/article/10.1186/s40561-025-00427-9#Tab3). Studies were included if they were in English, focused on educational settings, and involved experimentation or review of Tutoring Systems. Non-English documents, papers without educational relevance, or those without sufficient experimentation were excluded. Additional criteria ensured the inclusion of studies explicitly addressing Tutoring Systems with substantial educational relevance.
+
+**Table 3 Inclusion and exclusion criteria for tutoring systems**
+
+[Full size table](/article/10.1186/s40561-025-00427-9/tables/3)
+### Study selection process
+
+**Identification:** An initial search yielded 340 records, with 290 retrieved from the ACM Digital Library and 50 identified through additional searches on Google Scholar and Bing, following these procedures:
+
+**Screening:** After duplicate removal, 252 unique records remained. This phase eliminated 15 duplicate records. Titles and abstracts were screened for relevance to Tutoring Systems in educational settings.
+
+**Eligibility:** The eligibility evaluation removed 30 papers due to language barriers or document type incompatibilities (e.g., book reviews or editorials). An additional 43 records were excluded for lacking direct relevance to Tutoring Systems in educational contexts. Consequently, 179 records proceeded to the next stage.
+
+**Inclusion:** After full-text assessment, 86 papers were included in the final review. These studies were deemed the most representative of their respective domains, aligned with the research objectives, and suited to the analytical framework.
+
+While the review focuses on English-language publications, this criterion may have excluded relevant studies published in other languages. Additionally, the reliance on digital databases may introduce bias against non-digitized or regionally focused studies. This method ensures a thorough exploration of Tutoring Systems, providing a solid foundation for analyzing their impact on education.
+
+### Data analysis
+
+A systematic data extraction template was developed to according to our analytical framework. Key data points including but not limited to the study objectives, methodologies, sample sizes, educational settings, technologies employed, evaluation metrics, and findings, were coded by the authors. Interater reliability were monitored to make sure that the data coded were reliable. The extracted data were synthesized to identify trends, compare approaches, and highlight gaps in the current literature.
+
+The methodological rigor ensures that this review captures a diverse range of perspectives on Tutoring Systems. By leveraging multiple databases and applying stringent inclusion criteria, the review provides a comprehensive overview of the field, highlighting both advancements and areas requiring further exploration.
+
+### Coding scheme and reliability procedures
+
+To ensure systematic data extraction and interpretation, a structured coding scheme was developed based on the four analytical dimensions of the framework: Artificial Intelligence, system behavior, engagement, and affordances. An initial set of codes was inductively derived from 15 randomly selected studies during pilot extraction. These codes were iteratively refined using constant comparison to ensure conceptual clarity and non-overlap. A detailed codebook was developed that included code definitions, inclusion and exclusion rules, and sample excerpts. Two authors independently coded 20% of the studies to calibrate the coding process. Inter-rater reliability was calculated using Cohen’s Kappa (\(\kappa = 0.87\)), indicating strong agreement. Discrepancies were resolved through reviewer discussion until consensus was achieved, and the coding guide was revised accordingly. The remaining studies were then divided for primary coding, with regular cross-validation meetings held to ensure consistency (Table [4](/article/10.1186/s40561-025-00427-9#Tab4)).
+
+**Table 4 Coding scheme overview**
+
+[Full size table](/article/10.1186/s40561-025-00427-9/tables/4)
+### Variables measured
+
+Ethics in tutoring systems is categorized into three levels: no ethical concerns, minimal ethical concerns, and high ethical concerns. Ethical concerns can range from data privacy to fears of abusing the AI to cheat. Papers classified as having no ethical concerns either explicitly state the absence of ethical issues or do not identify any potential risks associated with their tutoring system. For example, Verhelst et al. ([2024](/article/10.1186/s40561-025-00427-9#ref-CR43)) does not mention any ethical concerns, and the system described does not present any apparent ethical risks. Papers with minimal ethical concerns acknowledge some potential issues but provide solutions or safeguards to address them. For instance, Dong ([2023](/article/10.1186/s40561-025-00427-9#ref-CR9)) highlights a feature allowing users to delete chat history, offering a degree of control over data privacy. In contrast, papers with significant ethical concerns identify more serious risks, such as overreliance on AI or its potential for generating misleading information. A clear example is Kumar et al. ([2023](/article/10.1186/s40561-025-00427-9#ref-CR25)), which warns readers about the dangers of AI hallucinations potentially misleading students.
+
+Adaptability refers to a system’s ability to adjust instructional strategies in real time, linking closely to the dimensions of system behavior and AI. Papers are categorized as either having adaptive or fixed difficulty. Systems with adaptive difficulty, such as King et al. ([2021](/article/10.1186/s40561-025-00427-9#ref-CR23)), dynamically modify teaching strategies and content based on student performance, creating a personalized learning experience. In contrast, systems with fixed difficulty, like Kanero et al. ([2021](/article/10.1186/s40561-025-00427-9#ref-CR22)), function more as one-way communication tools. These systems present linear content and difficulty levels without incorporating any input from the student, limiting their ability to respond to individual needs.
+
+Interaction tools can significantly shape engagement and affordances in tutoring systems, spanning modalities such as computer software, tablet devices, and physical robots. Systems using computers as their primary interaction medium typically rely on software that acts as the student’s tutor. For instance, in Fancsali and Ritter ([2014](/article/10.1186/s40561-025-00427-9#ref-CR14)), students used software to learn mathematics, with the tutor dynamically personalizing content to meet individual student needs in real time. Similarly, systems employing tablet-like devices often integrate robots as complementary tools to enhance communication. For example, Verhelst et al. ([2024](/article/10.1186/s40561-025-00427-9#ref-CR43)) describes a system where a tablet presents questions to students while a robot provides positive and encouraging feedback based on their answers. In contrast, systems that prioritize physical robots as the primary interaction tool offer more hands-on engagement. These robots often leverage gestures, movements, voices, and lifelike physical features to create immersive experiences. An example can be found in Kanda et al. ([2004](/article/10.1186/s40561-025-00427-9#ref-CR21)), where robots used a diverse range of gestures and movements to interact with students physically. The appearance of a tutoring system can also play a role in shaping the overall student experience. These systems can be categorized into non-anthropomorphic, semi-anthropomorphic, and fully anthropomorphic designs. Non-anthropomorphic systems are typically computers or tablet-like devices, which lack human-like features. Semi-anthropomorphic systems incorporate some human-like aspects but are missing key components. For example, Verhelst et al. ([2024](/article/10.1186/s40561-025-00427-9#ref-CR43)) describes a robot with a human-like head and shoulders but without a full body. In contrast, fully anthropomorphic robots closely resemble human figures. An example is Lekova et al. ([2022](/article/10.1186/s40561-025-00427-9#ref-CR27)), which uses a NAO robot that resembles a human more closely, with features designed to be friendly and approachable.
+
+Feedback mechanisms, such as text-based or verbal responses, play a crucial role in driving engagement and positively influencing a student’s attitude toward the system. Feedback can be categorized into two main types: text-based and verbal. Text-based systems deliver feedback through written messages, typically displayed on a computer or tablet screen. For example, Jiang and Jiang ([2024](/article/10.1186/s40561-025-00427-9#ref-CR20)) describes a system that provides personalized feedback, including knowledge explanations, error analysis, and review suggestions, all conveyed through text on the student’s screen. In contrast, verbal feedback systems use spoken responses, often delivered by a robot, to communicate with the student. These systems often incorporate encouraging language to motivate students and offer explanations through a different medium. An example of this is Verhelst et al. ([2024](/article/10.1186/s40561-025-00427-9#ref-CR43)), where the robot repeats the words displayed on the tablet, providing students with an additional layer of interaction and learning beyond just text on the screen.
+
+AI techniques like Bayesian Knowledge Tracing (BKT) and Large Language Models (LLMs) are at the heart of these tutoring systems. BKT is a probabilistic model used in educational technology to track and predict a student’s knowledge over time and can be seen in Pardos et al. ([2023](/article/10.1186/s40561-025-00427-9#ref-CR35)) where they use BKT to predict the student’s knowledge level and adjust its content accordingly. LLMs are advanced AI systems trained on vast text data to understand and generate human language. In intelligent tutoring systems, LLMs provide personalized feedback, facilitate natural language interactions, generate adaptive content, and help students understand concepts through detailed explanations and dynamic dialogues. This can be seen in Alsafari et al. ([2024](/article/10.1186/s40561-025-00427-9#ref-CR4)) where LLMs provide dynamic, personalized, and content-aware responses.
+
+Findings
+--------
+
+To maintain methodological coherence, each research question (RQ) was addressed through structured analysis of coded variables. RQ1 was mapped to AI techniques and system generation codes to trace historical evolution. RQ2 was aligned with adaptability, interaction mode, and feedback types to assess real-time responsiveness in learning. RQ3 was examined using ethical concern codes and responsible AI reporting. This mapping ensured that each research question was answered through direct analysis of the extracted data.
+
+### Latent class analysis of features of tutoring systems
+
+Using categorical variables such as scalability, ethics, adaptability, device used, appearance, feedback, and AI techniques, we conducted Latent Class Analysis (LCA). Although the Bayesian Information Criterion (BIC) and Akaike Information Criterion (AIC) suggest that models with less latent classes provide better statistical fit, we believe that the 3-class model is the most appropriate for our scenario. This model strikes a balance between interpretability and capturing distinct characteristics of the latent classes. Adding more or reducing classes introduces complexity without providing substantial additional insight for this specific context.
+
+The three primary classes are: Tutoring Systems relying on computer-based environments (ITS), Verbal Tutoring Systems using robot-based interactions, and Multimodal Tutoring Systems integrating multiple interaction modes. Each class exhibits distinct characteristics that align with specific educational affordances and pedagogical applications. This classification provides insights into the design choices and capabilities of tutoring systems and their impact on learning outcomes, engagement, and adaptability.By aligning these findings with the proposed framework, the analysis highlights how the dimensions of AI, system behavior, engagement, and affordances are shaping modern tutoring systems.
+
+These results indicate that while ITS historically dominated early development with rule-based systems and probabilistic models, RTS emerged during the third generation of tutoring systems driven by engagement-focused design. However, only 14% of RTS studies incorporated advanced AI techniques beyond scripted routines, revealing a developmental lag in cognitive adaptability.
+
+### Categorical features of tutoring systems
+
+This section articulated the key features of each latent class.
+
+#### Class 1: computer-based tutoring systems (ITS)
+
+Computer-based tutoring systems are characterized by non-anthropomorphic appearances and primarily text-based feedback. They rely heavily on AI techniques such as BKT and LLMs to deliver adaptive and personalized learning experiences (Shute & Psotka, [1994](/article/10.1186/s40561-025-00427-9#ref-CR39); Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43)). These systems demonstrate high adaptability, with a strong emphasis on real-time adjustments to content difficulty and feedback based on student performance. However, their scalability is moderate, and ethical concerns related to data privacy are generally less emphasized. An example of an ITS that strongly fits this category is Eryılmaz and Adabashi ([2020](/article/10.1186/s40561-025-00427-9#ref-CR12)), where the system was entirely text-based, with students interacting solely through their computers. The system employed Bayesian Knowledge Tracing (BKT) to track student progress and dynamically adjust content to meet individual needs and difficulty levels. The computer interface was non-anthropomorphic, and the paper raised no ethical concerns.
+
+#### Class 2: verbal tutoring systems
+
+Verbal tutoring systems are typically robot-based, with semi-anthropomorphic appearances and a focus on visual and verbal feedback. These systems enhance engagement by leveraging physical interactions and social behaviors, such as gestures and verbal cues, to create a more interactive learning environment (Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36); Kanda et al., [2004](/article/10.1186/s40561-025-00427-9#ref-CR21)). Although verbal systems demonstrate some adaptability, their reliance on pre-programmed content and external devices, such as tablets, limits their scalability and cognitive adaptability compared to computer-based systems. Ethical concerns are more prominent in this class, given the reliance on sensory data and potential risks associated with prolonged human-robot interactions. An example of a system that exemplifies the verbal tutoring system category is Helal et al. ([2024](/article/10.1186/s40561-025-00427-9#ref-CR16)), where the robot speaks and displays questions for the student to answer. The robot has limited mobility, with slight movements in its head, arm, and torso, making it semi-anthropomorphic. The system adapts dynamically by adjusting its questions in real time, using Large Language Models (LLMs) as its underlying AI technique. The paper also raises significant ethical concerns regarding LLM hallucinations, cautioning students about relying on them for factual information.
+
+#### Class 3: multimodal tutoring systems
+
+Multimodal tutoring systems integrate advanced AI with highly scalable and interactive features. They employ anthropomorphic designs and verbal feedback, fostering a highly engaging and immersive learning experience (Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47); Wang et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR44)). These systems utilize a variety of AI techniques, including LLMs and other advanced models, to adapt dynamically to student inputs. Multimodal systems excel in engagement and adaptability, offering a combination of verbal, visual, and physical interactions. However, their high complexity raises ethical concerns related to data privacy, transparency, and equitable access. An example of a system that highlights a multimodal tutoring system is Schodde et al. ([2017](/article/10.1186/s40561-025-00427-9#ref-CR38)) where the robot is fully anthropomorphic and equipped with a wide range of gestures and actions that make the NAO feel lifelike. The system uses BKT and can adapt its question in real time similar to other systems. The system did not have any ethical concerns and the feedback was a mix of verbal commands, gestures, and text from and external device (Tables [5](/article/10.1186/s40561-025-00427-9#Tab5), [6](/article/10.1186/s40561-025-00427-9#Tab6)).
+
+**Table 5 Latent class analysis: characteristics of tutoring system classes**
+
+[Full size table](/article/10.1186/s40561-025-00427-9/tables/5)
+
+**Table 6 Comparison of AIC and BIC for Different Numbers of Latent Classes**
+
+[Full size table](/article/10.1186/s40561-025-00427-9/tables/6)
+
+This classification of tutoring systems demonstrates the diverse ways in which educational technologies can be tailored to meet specific learning needs. The latent class analysis reveals the strengths and limitations of each class, providing insights into how Tutoring Systems can address scalability, ethical considerations, adaptability, and engagement. By aligning these findings with the proposed framework, this analysis highlights areas for future development, particularly in enhancing cognitive adaptability and addressing ethical challenges.
+
+#### Advancements in artificial intelligence
+
+Tutoring Systems have witnessed substantial advancements in Artificial Intelligence, enabling more personalized and adaptive learning experiences (Lin et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR29); Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47)). Early systems relied on fundamental AI techniques such as concept trees and Bayesian Knowledge Tracing to track student progress and adjust content delivery (Shute & Psotka, [1994](/article/10.1186/s40561-025-00427-9#ref-CR39)). Recent systems have adopted sophisticated models, including large language models (LLMs), to enhance responsiveness and interactivity (Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43)). These AI-driven models allow systems to dynamically tailor instructional content, deliver real-time feedback, and facilitate natural language interactions.
+
+Modern Tutoring Systems also integrate Natural Language Processing (NLP) technologies, which support conversational tutoring and improve the overall student experience (Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36)). For example, LLM-based "tutor models" provide tailored instruction, while "feedback models" offer context-sensitive responses, significantly improving engagement and learning outcomes (Maity & Deroy, [2024](/article/10.1186/s40561-025-00427-9#ref-CR32)). These advancements position Tutoring Systems as powerful tools for adaptive learning, with the capability to emulate many aspects of human tutoring.
+
+#### System behavior and adaptability
+
+The adaptability of Tutoring Systems is a cornerstone of their effectiveness. AI-powered algorithms such as Bayesian Knowledge Tracing and LLMs enable these systems to modify instructional strategies in real-time, responding to individual student needs (Swargiary, [2024](/article/10.1186/s40561-025-00427-9#ref-CR40)). For instance, modern systems dynamically adjust task difficulty, provide immediate feedback, and introduce new challenges based on a student’s progress, ensuring an optimal balance of support and challenge (Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43)).
+
+The physical and social affordances of Tutoring Systems further enhance their adaptability. Robotic components within some systems enable real-time interactions, such as gestures, verbal praise, and physical task demonstrations, fostering engagement and motivation (Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36); Wang et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR44)). However, cognitive adaptability—adjusting instructional content based on complex real-time analysis—remains more advanced in AI-driven software-based systems compared to robotic ones. While robots excel in maintaining engagement, their instructional capabilities often rely on external devices or pre-programmed content (Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47)).
+
+Studies comparing student performance with and without Tutoring Systems have demonstrated their potential to enhance learning outcomes and engagement. However, while software-based systems show significant improvements in academic achievement, the direct cognitive impact of robotic systems remains an area for further exploration.
+
+#### Engagement through interactive features
+
+Engagement is a critical dimension of Tutoring Systems, supported by features that actively involve students in the learning process (Swargiary, [2024](/article/10.1186/s40561-025-00427-9#ref-CR40)). Early systems provided basic interaction through static text and simple playback functions, which evolved into more dynamic tools incorporating animated feedback, verbal communication, and real-time monitoring of student attention (Corbett & Trask, [2000](/article/10.1186/s40561-025-00427-9#ref-CR8); Lee et al., [2015](/article/10.1186/s40561-025-00427-9#ref-CR26)).
+
+Modern systems integrate sophisticated methods, such as conversational AI and robot-driven gestures, to create immersive and interactive learning environments (Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43)). These features maintain student interest and motivation over extended periods, making the systems more effective than traditional static instructional methods (Chin et al., [2014](/article/10.1186/s40561-025-00427-9#ref-CR6); Kanda et al., [2004](/article/10.1186/s40561-025-00427-9#ref-CR21)). Advanced Tutoring Systems now employ subtle expressions, such as gazing or facial cues, which simulate human behavior, further enhancing the quality of engagement and aligning with diverse student needs.
+
+Analysis of adaptability revealed three dominant mechanisms: dynamic hinting (28%), real-time difficulty progression (33%), and dialog-based adaptation via LLMs (24%). However, multimodal systems demonstrated the highest combined adaptability and engagement, suggesting that future systems would benefit from integrating cognitive and social feedback loops.
+
+#### Educational levels and subject contexts of tutoring systems
+
+To provide contextual clarity regarding the deployment of tutoring systems, the educational levels and subject domains represented in the reviewed studies were coded. Results revealed that 38% of the systems were implemented in higher education settings, 27% in secondary schools, 21% in primary schools, and 14% in lifelong learning or informal education contexts. This indicates that research emphasis has been skewed toward postsecondary education, leaving early education underexplored despite high potential for tutoring interventions in foundational skill development.
+
+In terms of subject domains, 52% of the studies focused on STEM areas, with mathematics, physics, and computer science being the most represented disciplines. Language learning accounted for 28% of the studies, particularly in robot-based tutoring research emphasizing conversational interaction. Humanities and social sciences comprised only 9% of the reviewed studies, while 11% addressed interdisciplinary or skills-based learning such as problem solving or critical thinking. These findings indicate that tutoring system research has concentrated heavily on domains with quantifiable outcomes and well-structured knowledge hierarchies, while complex, discourse-based subjects remain relatively unexplored.
+
+#### Instructional and pedagogical approaches in tutoring systems
+
+Analysis of the instructional design of tutoring systems revealed that 41% of ITS implementations were grounded in mastery learning and adaptive scaffolding principles, where learners advance after demonstrating competence. Systems frequently adjusted task difficulty and feedback levels using Bayesian Knowledge Tracing or rule-based adaptation. Inquiry-based learning approaches were present in 19% of the studies, particularly in STEM problem-solving environments that encouraged hypothesis generation and experimentation.
+
+In contrast, RTS studies emphasized socially grounded pedagogy. Approximately 34% of RTS studies implemented social constructivist designs where learning was mediated through dialogue and social interaction. Pedagogical agents frequently provided affective feedback such as encouragement and reinforcement to sustain motivation. Only 11% of RTS studies demonstrated explicit cognitive scaffolding strategies, suggesting that robot-based systems remain underdeveloped in delivering structured instructional support compared to their software counterparts.
+
+These findings indicate that while ITS align more closely with cognitive theories of learning, RTS are predominantly designed around socio-emotional engagement frameworks. Few studies integrated both cognitive scaffolding and affective support, highlighting a pedagogical gap that limits the holistic effectiveness of current tutoring systems.
+
+### Ethical considerations and responsible AI use
+
+The rapid adoption of AI-powered Tutoring Systems raises critical ethical concerns, particularly regarding data privacy, security, and fairness (Robert et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR37)). Despite collecting extensive student data, many studies lack a thorough examination of how this sensitive information is managed and protected. This highlights a significant gap in the literature and underscores the need for robust ethical frameworks.
+
+To address these challenges, key measures for responsible AI use include implementing data encryption protocols, conducting regular security audits, and establishing stringent access controls to safeguard student data (Eden et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR11)). Transparency is also essential, with educational institutions and developers required to clearly communicate data collection and usage practices to students and guardians. Mitigating AI biases through diverse training datasets and fairness-aware algorithms is equally critical. Regular audits and human oversight are necessary to ensure equitable treatment and maintain accountability.
+
+Moreover, governance frameworks with oversight committees can support the ethical deployment of Tutoring Systems, ensuring compliance with established data protection standards and promoting trust in AI-driven education (Maity & Deroy, [2024](/article/10.1186/s40561-025-00427-9#ref-CR32)). By integrating these measures, Tutoring Systems can foster a secure, equitable, and effective learning environment.
+
+Although 40% of studies acknowledged ethical considerations, only 9% implemented concrete mitigation strategies such as encryption or risk audits. None of the reviewed RTS studies reported long-term ethical monitoring, despite collecting high-sensitivity data such as facial expressions and voice recordings.
+
+### Summary of findings by research question
+
+Table [7](/article/10.1186/s40561-025-00427-9#Tab7) provides a consolidated synthesis of findings corresponding to the three research questions. This structure improves interpretability by linking analytical outcomes to specific dimensions of tutoring systems, including AI mechanisms, adaptability, engagement, pedagogy, and ethical considerations. The summary highlights trends across generations of tutoring systems and identifies unresolved gaps that inform the Discussion section.
+
+**Table 7 Summary of Findings Mapped to Research Questions**
+
+[Full size table](/article/10.1186/s40561-025-00427-9/tables/7)
+
+These synthesized findings indicate that while tutoring systems demonstrate increasing technical sophistication, pedagogical integration and ethical responsibility remain underdeveloped. These trends point to the need for holistic system designs that balance cognitive adaptability, socio-emotional engagement, and responsible AI implementation.
+
+This review highlights the transformative potential of Tutoring Systems, driven by advancements in Artificial Intelligence, enhanced adaptability, and interactive engagement features. While these systems offer promising solutions to educational challenges, ethical considerations remain a crucial area for development. Future research should focus on bridging gaps in robotic cognitive adaptability, addressing ethical concerns comprehensively, and exploring long-term impacts on student learning outcomes.
+
+Discussion
+----------
+
+This study systematically reviewed 86 studies to analyze the evolution, capabilities, and limitations of Tutoring Systems, including Intelligent Tutoring Systems (ITS) and Robot Tutoring Systems (RTS). The findings demonstrate that these systems possess transformative potential in addressing instructional challenges through advanced Artificial Intelligence (AI), real-time adaptability, and interactive engagement. However, their development remains uneven across technological, pedagogical, and ethical dimensions.
+
+In relation to RQ1 (evolution of tutoring systems), the findings reveal a clear generational development trajectory. Early Computer-Assisted Instruction (CAI) systems of the 1970s introduced rule-based automation in instruction but lacked adaptivity. ITS later emerged with data-driven personalization through Bayesian Knowledge Tracing (BKT) and probabilistic modeling (Fancsali & Ritter, [2014](/article/10.1186/s40561-025-00427-9#ref-CR14); Ines et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR19)). Recent advances have integrated Large Language Models (LLMs) to support naturalistic dialogue (Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43); Lieb & Goel, [2024](/article/10.1186/s40561-025-00427-9#ref-CR28)). Parallel to this, RTS evolved to incorporate embodiment, speech, and gestures to simulate social tutoring (Kanda et al., [2004](/article/10.1186/s40561-025-00427-9#ref-CR21); Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36)), though often without equivalent instructional intelligence compared to ITS (Chu et al., [2022](/article/10.1186/s40561-025-00427-9#ref-CR7)).
+
+Addressing RQ2 (adaptivity and engagement), results indicate that ITS demonstrate strong cognitive adaptivity through personalized hinting, mastery learning progression, and immediate feedback (Fancsali & Ritter, [2014](/article/10.1186/s40561-025-00427-9#ref-CR14); Eryılmaz & Adabashi, [2020](/article/10.1186/s40561-025-00427-9#ref-CR12)). However, they provide limited emotional or motivational scaffolding. RTS, in contrast, excel in affective engagement using social reinforcement, empathy cues, and verbal encouragement (Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36); Wang et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR44)). Yet, most RTS rely on scripted behavior patterns with minimal AI-driven adaptivity (Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43); Schodde et al., [2017](/article/10.1186/s40561-025-00427-9#ref-CR38)). Few studies combine both cognitive adaptivity and socio-emotional feedback, highlighting a gap in holistic tutoring system design.
+
+For RQ3 (ethical challenges), findings show that 40% of studies addressed ethics conceptually, but only 9% implemented practical safeguards such as data encryption, fairness measures, or bias mitigation (Eden et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR11); Maity & Deroy, [2024](/article/10.1186/s40561-025-00427-9#ref-CR32)). RTS studies raised additional ethical concerns regarding child data privacy, emotional manipulation, and dependency risks due to sustained human-robot interaction (Kanda et al., [2004](/article/10.1186/s40561-025-00427-9#ref-CR21); Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36)). Overall, responsible AI implementation is rare and requires urgent attention.
+
+### Key gaps identified
+
+**Pedagogical Gaps.** While ITS are grounded in cognitive learning theories, they fail to account for multimodal learning styles, limiting support for kinesthetic and auditory learners (Swargiary, [2024](/article/10.1186/s40561-025-00427-9#ref-CR40)). RTS foster motivation but lack deeper instructional adaptivity (Verhelst et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR43)). Few systems operationalize learning theory beyond surface-level personalization.
+
+**Technological Gaps.** ITS demonstrate stronger AI integration but limited interaction design. RTS offer physical and social interaction but rely on pre-scripted responses (Ramachandran et al., [2019](/article/10.1186/s40561-025-00427-9#ref-CR36)). Hybrid systems integrating cognitive and affective AI remain underdeveloped.
+
+**Scalability and Accessibility Gaps.** ITS are scalable via cloud deployment but rely on stable infrastructure, limiting reach in low-resource areas (Zhang et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR47)). RTS face high deployment costs and maintenance burdens (Wang et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR44)). No universal architecture enables equitable access globally.
+
+**Ethical Gaps.** Ethics in tutoring systems is still reactive rather than proactive. Privacy, bias, transparency, and child protection concerns are insufficiently addressed (Eden et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR11); Robert et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR37)).
+
+These findings show that progress in tutoring systems is fragmented across technical, pedagogical, and ethical domains. Future systems must move beyond narrow optimization of single components toward unified, learner-centered AI design.
+
+Conclusions and implications
+----------------------------
+
+This review demonstrates that Tutoring Systems have advanced significantly in AI-driven personalization and interactive learning design. ITS excel in cognitive precision and adaptive instruction (Fancsali & Ritter, [2014](/article/10.1186/s40561-025-00427-9#ref-CR14); Pardos et al., [2023](/article/10.1186/s40561-025-00427-9#ref-CR35)), while RTS enhance social engagement and motivation through embodied interaction (Kanda et al., [2004](/article/10.1186/s40561-025-00427-9#ref-CR21); Chin et al., [2014](/article/10.1186/s40561-025-00427-9#ref-CR6)). However, neither system type independently delivers comprehensive support for learning, motivation, and equity, indicating the need for hybrid system design.
+
+Theoretical implications
+------------------------
+
+This study contributes a generational framework and latent class classification that reveal structural differences between ITS, RTS, and multimodal systems. These findings extend tutoring system theory by emphasizing the interdependence of AI adaptivity, embodiment, and engagement.
+
+### Practical implications
+
+Developers should move toward hybrid ITS–RTS architectures that integrate cognitive and socio-emotional adaptivity. Educators can use the classification in this review to make evidence-based decisions about system adoption according to instructional goals and learner profiles.
+
+### Ethical and policy implications
+
+Responsible AI governance must become integral to tutoring system deployment. This includes enforcing data transparency, minimizing bias, safeguarding learners, especially minors and creating auditable AI decision pipelines (Eden et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR11); Robert et al., [2024](/article/10.1186/s40561-025-00427-9#ref-CR37)).
+
+### Research implications
+
+Future research should integrate affect-aware modeling into ITS; embed instructional intelligence into RTS; evaluate hybrid systems longitudinally across diverse educational contexts; and expand research to underserved regions and subjects such as humanities and vocational learning.
+
+In conclusion, tutoring systems hold the potential to democratize personalized learning globally, but only if future development aligns AI capabilities with human-centered pedagogy and ethical responsibility.
+
+
+
+Data availability
+-----------------
+
+This is a review paper, and all the reviewed papers are publicly available and cited in the manuscript accordingly.
+
+References
+----------
+
+* Ahmadov, T., Karimov, A., Durst, S., Saarela, M., Gerstlberger, W., Wahl, M. F., & Karkkainen, T. (2024). A two-phase systematic literature review on the use of serious games for sustainable environmental education. *Interactive Learning Environments*, 1–22 .
+* Akyuz, Y., et al. (2020). Effects of intelligent tutoring systems (its) on personalized learning (pl). *Creative Education,**11*(06), 953.
+  
+  [Article](https://doi.org/10.4236%2Fce.2020.116069) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Effects%20of%20intelligent%20tutoring%20systems%20%28its%29%20on%20personalized%20learning%20%28pl%29&journal=Creative%20Education&doi=10.4236%2Fce.2020.116069&volume=11&issue=06&publication_year=2020&author=Akyuz%2CY)
+* Alam, A. (2022). Social robots in education for long-term human-robot interaction: Socially supportive behaviour of robotic tutor for creating robo-tangible learning environment in a guided discovery learning interaction. *ECS Transactions,**107*(1), 12389.
+  
+  [Article](https://doi.org/10.1149%2F10701.12389ecst) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Social%20robots%20in%20education%20for%20long-term%20human-robot%20interaction%3A%20Socially%20supportive%20behaviour%20of%20robotic%20tutor%20for%20creating%20robo-tangible%20learning%20environment%20in%20a%20guided%20discovery%20learning%20interaction&journal=ECS%20Transactions&doi=10.1149%2F10701.12389ecst&volume=107&issue=1&publication_year=2022&author=Alam%2CA)
+* Alsafari, B., Atwell, E., Walker, A., & Callaghan, M. (2024). Towards effective teaching assistants: From intent-based chatbots to llm-powered teaching assistants. *Natural Language Processing Journal,**8*, Article 100101.
+  
+  [Article](https://doi.org/10.1016%2Fj.nlp.2024.100101) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20effective%20teaching%20assistants%3A%20From%20intent-based%20chatbots%20to%20llm-powered%20teaching%20assistants&journal=Natural%20Language%20Processing%20Journal&doi=10.1016%2Fj.nlp.2024.100101&volume=8&publication_year=2024&author=Alsafari%2CB&author=Atwell%2CE&author=Walker%2CA&author=Callaghan%2CM)
+* Banjade, S., Patel, H., Pokhrel, S., et al. (2024). Empowering education by developing and evaluating generative ai-powered tutoring system for enhanced student learning. *Journal of Artificial Intelligence and Capsule Networks,**6*(3), 278–298.
+  
+  [Article](https://doi.org/10.36548%2Fjaicn.2024.3.003) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Empowering%20education%20by%20developing%20and%20evaluating%20generative%20ai-powered%20tutoring%20system%20for%20enhanced%20student%20learning&journal=Journal%20of%20Artificial%20Intelligence%20and%20Capsule%20Networks&doi=10.36548%2Fjaicn.2024.3.003&volume=6&issue=3&pages=278-298&publication_year=2024&author=Banjade%2CS&author=Patel%2CH&author=Pokhrel%2CS)
+* Chin, K. Y., Hong, Z. W., & Chen, Y. L. (2014). Impact of using an educational robot-based learning system on students’ motivation in elementary education. *IEEE Transactions on Learning Technologies,**7*(4), 333–345.
+  
+  [Article](https://doi.org/10.1109%2FTLT.2014.2346756) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Impact%20of%20using%20an%20educational%20robot-based%20learning%20system%20on%20students%E2%80%99%20motivation%20in%20elementary%20education&journal=IEEE%20Transactions%20on%20Learning%20Technologies&doi=10.1109%2FTLT.2014.2346756&volume=7&issue=4&pages=333-345&publication_year=2014&author=Chin%2CKY&author=Hong%2CZW&author=Chen%2CYL)
+* Chu, S. T., Hwang, G. J., & Tu, Y. F. (2022). Artificial intelligence-based robots in education: A systematic review of selected SSCI publications. *Computers and Education: Artificial Intelligence,**3*, Article 100091.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence-based%20robots%20in%20education%3A%20A%20systematic%20review%20of%20selected%20SSCI%20publications&journal=Computers%20and%20Education%3A%20Artificial%20Intelligence&volume=3&publication_year=2022&author=Chu%2CST&author=Hwang%2CGJ&author=Tu%2CYF)
+* Corbett, A., & Trask, H. (2000). Instructional interventions in computer-based tutoring: Differential impact on learning time and accuracy. In *Proceedings of the SIGCHI conference on human factors in computing systems* (pp. 97–104).
+* Dong, C. (2023). How to build an ai tutor that can adapt to any course and provide accurate answers using large language model and retrieval-augmented generation. arXiv preprint [arXiv:2311.17696](http://arxiv.org/abs/2311.17696) .
+* Draper, T. W., & Clayton, W. W. (1992). Using a personal robot to teach young children. *The Journal of Genetic Psychology,**153*(3), 269–273.
+  
+  [Article](https://doi.org/10.1080%2F00221325.1992.10753723) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20a%20personal%20robot%20to%20teach%20young%20children&journal=The%20Journal%20of%20Genetic%20Psychology&doi=10.1080%2F00221325.1992.10753723&volume=153&issue=3&pages=269-273&publication_year=1992&author=Draper%2CTW&author=Clayton%2CWW)
+* Eden, C. A., Chisom, O. N., Adeniyi, I. S., et al. (2024). Integrating AI in education: Opportunities, challenges, and ethical considerations. *Magna Scientia Advanced Research and Reviews,**10*(2), 006–013.
+  
+  [Article](https://doi.org/10.30574%2Fmsarr.2024.10.2.0039) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrating%20AI%20in%20education%3A%20Opportunities%2C%20challenges%2C%20and%20ethical%20considerations&journal=Magna%20Scientia%20Advanced%20Research%20and%20Reviews&doi=10.30574%2Fmsarr.2024.10.2.0039&volume=10&issue=2&pages=006-013&publication_year=2024&author=Eden%2CCA&author=Chisom%2CON&author=Adeniyi%2CIS)
+* Eryılmaz, M., & Adabashi, A. (2020). Development of an intelligent tutoring system using Bayesian networks and fuzzy logic for a higher student academic performance. *Applied Sciences,**10*(19), 6638.
+  
+  [Article](https://doi.org/10.3390%2Fapp10196638) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Development%20of%20an%20intelligent%20tutoring%20system%20using%20Bayesian%20networks%20and%20fuzzy%20logic%20for%20a%20higher%20student%20academic%20performance&journal=Applied%20Sciences&doi=10.3390%2Fapp10196638&volume=10&issue=19&publication_year=2020&author=Ery%C4%B1lmaz%2CM&author=Adabashi%2CA)
+* Fan, J. O., Mak, T. L. & Shue, L. Y. (1996). Development of a knowledge based computer assisted instruction system. In *Proceedings 1996 international conference software engineering: Education and practice* (pp. 286–291). IEEE.
+* Fancsali, S. E., & Ritter, S. (2014). Context personalization, preferences, and performance in an intelligent tutoring system for middle school mathematics. In *Proceedings of the fourth international conference on learning analytics and knowledge* (pp. 73–77).
+* Feng, S., Magana, A. J., & Kao, D. (2021). A systematic review of literature on the effectiveness of intelligent tutoring systems in stem. In *2021 IEEE frontiers in education conference (fie)* (pp. 1–9). IEEE.
+* Helal, M., Holthaus, P., Wood, L., Velmurugan, V., Lakatos, G., Moros, S., & Amirabdollahian, F. (2024). When the robotic maths tutor is wrong-can children identify mistakes generated by chatgpt? In *2024 5th International conference on artificial intelligence, robotics and control (AIRC)* (pp. 83–90). IEEE.
+* Holstein, K., McLaren, B. M., & Aleven, V. (2017). Intelligent tutors as teachers’ aides: Exploring teacher needs for real-time analytics in blended classrooms. In *Proceedings of the seventh international learning analytics & knowledge conference* (pp. 257–266).
+* Hume, G., Michael, J., Rovick, A., & Evens, M. (1996). The use of hints by human and computer tutors: The consequences of the tutoring protocol .
+* Ines, Š. G., Ani, G., & Angelina, G. (2024). Twenty-five years of Bayesian knowledge tracing: a systematic review. *User Modeling and User-Adapted Interaction*, 1–47 .
+* Jiang, Z., & Jiang, M. (2024). Beyond answers: Large language model-powered tutoring system in physics education for deep learning and precise understanding. arXiv preprint [arXiv:2406.10934](http://arxiv.org/abs/2406.10934) .
+* Kanda, T., Hirano, T., Eaton, D., & Ishiguro, H. (2004). Interactive robots as social partners and peer tutors for children: A field trial. *Human-Computer Interaction,**19*(1–2), 61–84.
+  
+  [Article](https://doi.org/10.1207%2Fs15327051hci1901%262_4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interactive%20robots%20as%20social%20partners%20and%20peer%20tutors%20for%20children%3A%20A%20field%20trial&journal=Human-Computer%20Interaction&doi=10.1207%2Fs15327051hci1901%262_4&volume=19&issue=1%E2%80%932&pages=61-84&publication_year=2004&author=Kanda%2CT&author=Hirano%2CT&author=Eaton%2CD&author=Ishiguro%2CH)
+* Kanero, J., Tunalı, E. T., Oranç, C., Göksun, T., & Küntay, A. C. (2021). When even a robot tutor zooms: A study of embodiment, attitudes, and impressions. *Frontiers in Robotics and AI,**8*, Article 679893.
+  
+  [Article](https://doi.org/10.3389%2Ffrobt.2021.679893) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=When%20even%20a%20robot%20tutor%20zooms%3A%20A%20study%20of%20embodiment%2C%20attitudes%2C%20and%20impressions&journal=Frontiers%20in%20Robotics%20and%20AI&doi=10.3389%2Ffrobt.2021.679893&volume=8&publication_year=2021&author=Kanero%2CJ&author=Tunal%C4%B1%2CET&author=Oran%C3%A7%2CC&author=G%C3%B6ksun%2CT&author=K%C3%BCntay%2CAC)
+* King, C. L., Vincent, K., Warnars, H. L., Nordin, N., & Utomo, W. H. (2021). Intelligent tutoring system: Learning math for 6th-grade primary school students. *Education Research International,**2021*(1), 5590470.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intelligent%20tutoring%20system%3A%20Learning%20math%20for%206th-grade%20primary%20school%20students&journal=Education%20Research%20International&volume=2021&issue=1&publication_year=2021&author=King%2CCL&author=Vincent%2CK&author=Warnars%2CHL&author=Nordin%2CN&author=Utomo%2CWH)
+* Kulik, J. A., & Fletcher, J. D. (2016). Effectiveness of intelligent tutoring systems: A meta-analytic review. *Review of Educational Research,**86*(1), 42–78.
+  
+  [Article](https://doi.org/10.3102%2F0034654315581420) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Effectiveness%20of%20intelligent%20tutoring%20systems%3A%20A%20meta-analytic%20review&journal=Review%20of%20Educational%20Research&doi=10.3102%2F0034654315581420&volume=86&issue=1&pages=42-78&publication_year=2016&author=Kulik%2CJA&author=Fletcher%2CJD)
+* Kumar, H., Musabirov, I., Reza, M., Shi, J., Wang, X., Williams, J. J., Kuzminykh, A., & Liut, M. (2023). Impact of guidance and interaction strategies for LLM use on learner performance and perception. arXiv preprint [arXiv:2310.13712](http://arxiv.org/abs/2310.13712) .
+* Lee, G., Ojha, A., & Lee, M. (2015). Concentration monitoring for intelligent tutoring system based on pupil and eye-blink. In *Proceedings of the 3rd international conference on human-agent interaction* (pp. 291–294).
+* Lekova, A., Tsvetkova, P., Tanev, T., Mitrouchev, P., & Kostova, S. (2022). Making humanoid robots teaching assistants by using natural language processing (NLP) cloud-based services. *Journal of Mechatronics and Artificial Intelligence in Engineering,**3*(1), 30–39.
+  
+  [Article](https://doi.org/10.21595%2Fjmai.2022.22720) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Making%20humanoid%20robots%20teaching%20assistants%20by%20using%20natural%20language%20processing%20%28NLP%29%20cloud-based%20services&journal=Journal%20of%20Mechatronics%20and%20Artificial%20Intelligence%20in%20Engineering&doi=10.21595%2Fjmai.2022.22720&volume=3&issue=1&pages=30-39&publication_year=2022&author=Lekova%2CA&author=Tsvetkova%2CP&author=Tanev%2CT&author=Mitrouchev%2CP&author=Kostova%2CS)
+* Lieb, A., & Goel, T. (2024). Student interaction with newtbot: An llm-as-tutor chatbot for secondary physics education. In *Extended abstracts of the CHI conference on human factors in computing systems* (pp. 1–8).
+* Lin, C. C., Huang, A. Y., & Lu, O. H. (2023). Artificial intelligence in intelligent tutoring systems toward sustainable education: A systematic review. *Smart Learning Environments,**10*(1), 41.
+  
+  [Article](https://link.springer.com/doi/10.1186/s40561-023-00260-y) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20in%20intelligent%20tutoring%20systems%20toward%20sustainable%20education%3A%20A%20systematic%20review&journal=Smart%20Learning%20Environments&doi=10.1186%2Fs40561-023-00260-y&volume=10&issue=1&publication_year=2023&author=Lin%2CCC&author=Huang%2CAY&author=Lu%2COH)
+* Linton, S. C. (2017). *A qualitative case study of reading-while-listening to audiobooks simultaneously*. Ph. D. thesis, Northcentral University.
+* Ma, W., Adesope, O. O., Nesbit, J. C., & Liu, Q. (2014). Intelligent tutoring systems and learning outcomes: A meta-analysis. *Journal of Educational Psychology,**106*(4), 901.
+  
+  [Article](https://doi.org/10.1037%2Fa0037123) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intelligent%20tutoring%20systems%20and%20learning%20outcomes%3A%20A%20meta-analysis&journal=Journal%20of%20Educational%20Psychology&doi=10.1037%2Fa0037123&volume=106&issue=4&publication_year=2014&author=Ma%2CW&author=Adesope%2COO&author=Nesbit%2CJC&author=Liu%2CQ)
+* Maity, S. & Deroy, A. (2024). Generative AI and its impact on personalized intelligent tutoring systems. arXiv preprint [arXiv:2410.10650](http://arxiv.org/abs/2410.10650) .
+* Moher, D., L. Shamseer, M. Clarke, D. Ghersi, A. Liberati, M. Petticrew, P. Shekelle, L.A. Stewart, and P.P. Group. (2015). Preferred reporting items for systematic review and meta-analysis protocols (prisma-p) 2015 statement. *Systematic Reviews,**4*, 1–9.
+  
+  [Article](https://link.springer.com/doi/10.1186/2046-4053-4-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Preferred%20reporting%20items%20for%20systematic%20review%20and%20meta-analysis%20protocols%20%28prisma-p%29%202015%20statement&journal=Systematic%20Reviews&doi=10.1186%2F2046-4053-4-1&volume=4&pages=1-9&publication_year=2015)
+* Mousavinasab, E., Zarifsanaiey, N., Niakan Kalhori, S. R., Rakhshan, M., Keikha, L., & Ghazi Saeedi, M. (2021). Intelligent tutoring systems: A systematic review of characteristics, applications, and evaluation methods. *Interactive Learning Environments,**29*(1), 142–163.
+  
+  [Article](https://doi.org/10.1080%2F10494820.2018.1558257) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intelligent%20tutoring%20systems%3A%20A%20systematic%20review%20of%20characteristics%2C%20applications%2C%20and%20evaluation%20methods&journal=Interactive%20Learning%20Environments&doi=10.1080%2F10494820.2018.1558257&volume=29&issue=1&pages=142-163&publication_year=2021&author=Mousavinasab%2CE&author=Zarifsanaiey%2CN&author=Niakan%20Kalhori%2CSR&author=Rakhshan%2CM&author=Keikha%2CL&author=Ghazi%20Saeedi%2CM)
+* Pardos, Z. A., Tang, M., Anastasopoulos, I., Sheel, S. K., & Zhang, E. (2023). Oatutor: An open-source adaptive tutoring system and curated content library for learning sciences research. In *Proceedings of the 2023 CHI conference on human factors in computing systems* (pp. 1–17).
+* Ramachandran, A., Huang, C. M., & Scassellati, B. (2019). Toward effective robot-child tutoring: Internal motivation, behavioral intervention, and learning outcomes. *ACM Transactions on Interactive Intelligent Systems (TiiS),**9*(1), 1–23.
+  
+  [Article](https://doi.org/10.1145%2F3213768) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Toward%20effective%20robot-child%20tutoring%3A%20Internal%20motivation%2C%20behavioral%20intervention%2C%20and%20learning%20outcomes&journal=ACM%20Transactions%20on%20Interactive%20Intelligent%20Systems%20%28TiiS%29&doi=10.1145%2F3213768&volume=9&issue=1&pages=1-23&publication_year=2019&author=Ramachandran%2CA&author=Huang%2CCM&author=Scassellati%2CB)
+* Robert, A., Potter, K., & Frank, L. (2024). The impact of artificial intelligence on students’ learning experience. *Logical Techniques in Computer Science,**2*(2), 71–76.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20impact%20of%20artificial%20intelligence%20on%20students%E2%80%99%20learning%20experience&journal=Logical%20Techniques%20in%20Computer%20Science&volume=2&issue=2&pages=71-76&publication_year=2024&author=Robert%2CA&author=Potter%2CK&author=Frank%2CL)
+* Schodde, T., Bergmann, K., & Kopp, S. (2017). Adaptive robot language tutoring based on bayesian knowledge tracing and predictive decision-making. In *Proceedings of the 2017 ACM/IEEE international conference on human-robot interaction* (pp. 128–136).
+* Shute, V. J. & Psotka, J. (1994). 19. Intelligent tutoring systems: Past, present, and future .
+* Swargiary, K. (2024). The impact of ai-driven personalized learning and intelligent tutoring systems on student engagement and academic achievement: Ethical implications and the digital divide. *Available at SSRN 4897241* .
+* Thomas, D. R., Lin, J., Gatz, E., Gurung, A., Gupta, S., Norberg, K., Fancsali, S. E., Aleven, V., Branstetter, L., & Brunskill, E. et al. (2024). Improving student learning with hybrid human-AI tutoring: A three-study quasi-experimental investigation. In *Proceedings of the 14th learning analytics and knowledge conference* (pp. 404–415).
+* VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. *Educational Psychologist,**46*(4), 197–221.
+  
+  [Article](https://doi.org/10.1080%2F00461520.2011.611369) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20relative%20effectiveness%20of%20human%20tutoring%2C%20intelligent%20tutoring%20systems%2C%20and%20other%20tutoring%20systems&journal=Educational%20Psychologist&doi=10.1080%2F00461520.2011.611369&volume=46&issue=4&pages=197-221&publication_year=2011&author=VanLehn%2CK)
+* Verhelst, E., Janssens, R., Demeester, T., & Belpaeme, T. (2024). Adaptive second language tutoring using generative AI and a social robot. In *Companion of the 2024 ACM/IEEE international conference on human-robot interaction* (pp. 1080–1084).
+* Wang, K., Sang, G. Y., Huang, L. Z., Li, S. H., & Guo, J. W. (2023). The effectiveness of educational robots in improving learning outcomes: A meta-analysis. *Sustainability,**15*(5), 4637.
+  
+  [Article](https://doi.org/10.3390%2Fsu15054637) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effectiveness%20of%20educational%20robots%20in%20improving%20learning%20outcomes%3A%20A%20meta-analysis&journal=Sustainability&doi=10.3390%2Fsu15054637&volume=15&issue=5&publication_year=2023&author=Wang%2CK&author=Sang%2CGY&author=Huang%2CLZ&author=Li%2CSH&author=Guo%2CJW)
+* Yang, J., & Zhang, B. (2019). Artificial intelligence in intelligent tutoring robots: A systematic review and design guidelines. *Applied Sciences,**9*(10), 2078.
+  
+  [Article](https://doi.org/10.3390%2Fapp9102078) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20in%20intelligent%20tutoring%20robots%3A%20A%20systematic%20review%20and%20design%20guidelines&journal=Applied%20Sciences&doi=10.3390%2Fapp9102078&volume=9&issue=10&publication_year=2019&author=Yang%2CJ&author=Zhang%2CB)
+* Zhang, X., & Luo, J. (2015). Teaching system based on intelligent computer assisted instruction. *Metallurgical & Mining Industry* (8) .
+* Zhang, X., Zhu, F., Wang, K., Cao, G., Xue, Y., & Liu, M. (2024). Bring the intelligent tutoring robots to education: A systematic literature review. *IEEE Transactions on Learning Technologies* .
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1186/s40561-025-00427-9?format=refman&flavour=references)
+
+Acknowledgement
+---------------
+
+The research reported here was supported by National Science Foundation under Grant No. 2101104 (PI Zhai) and the Institute of Education Sciences, U.S.
+Department of Education, through Grant R305C240010 (PI Zhai). The opinions expressed are those of the authors and do not represent the views of the National Science Foundation, the Institute of Education Sciences, or the U.S. Department of Education.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. AI4STEM Education Center, University of Georgia, Athens, GA, USA
+   
+   Ehsan Latif & Xiaoming Zhai
+2. School of Computing, University of Georgia, Athens, GA, USA
+   
+   Vincent Liu
+
+Authors
+
+1. Ehsan Latif[View author publications](/search?sortBy=newestFirst&contributor=Ehsan%20Latif)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Ehsan%20Latif) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Ehsan%20Latif%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Vincent Liu[View author publications](/search?sortBy=newestFirst&contributor=Vincent%20Liu)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Vincent%20Liu) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Vincent%20Liu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Xiaoming Zhai[View author publications](/search?sortBy=newestFirst&contributor=Xiaoming%20Zhai)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Xiaoming%20Zhai) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Xiaoming%20Zhai%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+EL and VL contributed equally to this work and are co–lead authors. They were responsible for data collection, data analysis, manuscript drafting, and revisions. XZ served as the corresponding author and supervised the research process, providing critical feedback and revising the manuscript. All authors read and approved the final manuscript.
+
+### Corresponding author
+
+Correspondence to
+[Xiaoming Zhai](mailto:xiaoming.zhai@uga.edu).
+
+Ethics declarations
+-------------------
+
+### Competing interests
+
+All authors certify that they have no affiliations with or involvement in any organization or entity with any financial interest or non-financial interest in the subject matter or materials discussed in this manuscript.
+
+Additional information
+----------------------
+
+### Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=A%20systematic%20review%20of%20intelligent%20and%20robot%20tutoring%20systems%3A%20evolution%2C%20pedagogical%20design%2C%20and%20AI-driven%20classification&author=Ehsan%20Latif%20et%20al&contentID=10.1186%2Fs40561-025-00427-9&copyright=The%20Author%28s%29&publication=2196-7091&publicationDate=2026-01-06&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+About this article
+------------------
+
+### Cite this article
+
+Latif, E., Liu, V. & Zhai, X. A systematic review of intelligent and robot tutoring systems: evolution, pedagogical design, and AI-driven classification.
+*Smart Learn. Environ.* **13**, 1 (2026). https://doi.org/10.1186/s40561-025-00427-9
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1186/s40561-025-00427-9?format=refman&flavour=citation)
+
+* Received: 03 April 2025
+* Accepted: 18 December 2025
+* Published: 06 January 2026
+* Version of record: 06 January 2026
+* DOI: https://doi.org/10.1186/s40561-025-00427-9
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Tutoring systems](/search?query=Tutoring%20systems&facet-discipline="Education")
+* [Artificial intelligence (AI)](/search?query=Artificial%20intelligence%20%28AI%29&facet-discipline="Education")
+* [Intelligent tutoring systems (ITS)](/search?query=Intelligent%20tutoring%20systems%20%28ITS%29&facet-discipline="Education")
+* [Robot tutoring systems (RTS)](/search?query=Robot%20tutoring%20systems%20%28RTS%29&facet-discipline="Education")
+* [Personalized learning](/search?query=Personalized%20learning&facet-discipline="Education")
+* [Engagement strategies](/search?query=Engagement%20strategies&facet-discipline="Education")
+* [Hybrid educational technologies](/search?query=Hybrid%20educational%20technologies&facet-discipline="Education")
+
+
+### Profiles
+
+1. Xiaoming Zhai
+   [View author profile](/researchers/94536438SN)
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.44.184
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

@@ -23,18 +23,31 @@ You wake up fresh each session. These files are your continuity:
 
 - **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — raw logs of what happened
 - **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
+- **Topic Index:** `memory/TOPIC-INDEX.md` — the master index for cross-day recall (check FIRST when asked about any topic)
+- **Priority Log:** `memory/PRIORITY-LOG.md` — 🔴 the emperor's active high-priority items; check on every heartbeat
 
-Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
+### 🧠 Three-Layer Memory System
 
-### 🧠 MEMORY.md - Your Long-Term Memory
+**Layer 1 — TOPIC-INDEX.md（每次必查）**
+- The first file to check when the emperor asks about anything
+- Format: `日期：话题描述 → memory/YYYY-MM-DD.md#L行号`
+- Example: "陛下之前提过动态权重" → check TOPIC-INDEX.md → find all dates
 
-- **ONLY load in main session** (direct chats with your human)
-- **DO NOT load in shared contexts** (Discord, group chats, sessions with other people)
-- This is for **security** — contains personal context that shouldn't leak to strangers
-- You can **read, edit, and update** MEMORY.md freely in main sessions
-- Write significant events, thoughts, decisions, opinions, lessons learned
-- This is your curated memory — the distilled essence, not raw logs
-- Over time, review your daily files and update MEMORY.md with what's worth keeping
+**Layer 2 — MEMORY.md（了解陛下）**
+- Curated long-term memory: who the emperor is, their preferences, principles
+- Read in main session only (security)
+- Update when: emperor gives new guidance, changes rules, or expresses preferences
+
+**Layer 3 — memory/YYYY-MM-DD.md（查原文）**
+- Daily raw logs — use TOPIC-INDEX.md to find the right date/line first
+- Don't read all daily files blindly; use the index
+
+### 🔴 Priority Log Rules
+
+- When the emperor marks something 🔴: write it to PRIORITY-LOG.md immediately
+- Check PRIORITY-LOG.md on every heartbeat
+- Completed items: strikethrough but keep for 30 days
+- Never forget: the priority log is your short-term working memory for active tasks
 
 ### 📝 Write It Down - No "Mental Notes"!
 

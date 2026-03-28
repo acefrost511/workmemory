@@ -1,0 +1,736 @@
+# Source URL: https://doi.org/10.1007/s43681-024-00613-4
+# Content Length: 51572 characters
+# Extracted at: 2026-03-28 08:35:33
+#============================================================
+
+
+
+
+
+
+
+
+
+Parity benchmark for measuring bias in LLMs | AI and Ethics | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/43681/article&sz=728x90&pos=top&articleid=s43681-024-00613-4)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s43681-024-00613-4)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [AI and Ethics](/journal/43681)
+3. Article
+
+Parity benchmark for measuring bias in LLMs
+===========================================
+
+* Original Research
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 17 December 2024
+
+* Volume 5, pages 3087–3101, (2025)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1007/s43681-024-00613-4.pdf)
+
+
+[Save article](/article/10.1007/s43681-024-00613-4/save-research?_csrf=UlATpMOKXdv19jeeVC_Udzt545o2HiaE)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+AI and Ethics](/journal/43681)
+[Aims and scope](/journal/43681/aims-and-scope)
+[Submit manuscript](https://submission.springernature.com/new-submission/43681/3)
+
+
+
+
+Parity benchmark for measuring bias in LLMs
+
+[Download PDF](/content/pdf/10.1007/s43681-024-00613-4.pdf)
+
+
+
+
+
+* [Shmona Simpson](#auth-Shmona-Simpson-Aff1)[1](#Aff1),
+* [Jonathan Nukpezah](#auth-Jonathan-Nukpezah-Aff1-Aff2)[1](#Aff1),[2](#Aff2),
+* [Kie Brooks](#auth-Kie-Brooks-Aff1)[1](#Aff1) &
+* …
+* [Raaghav Pandya](#auth-Raaghav-Pandya-Aff1-Aff3-Aff4)[1](#Aff1),[3](#Aff3),[4](#Aff4)
+
+Show authors
+
+* 8878 Accesses
+* 7 Citations
+* 48 
+  Altmetric
+* 6 Mentions
+* [Explore all metrics](/article/10.1007/s43681-024-00613-4/metrics)
+
+
+
+
+Abstract
+--------
+
+Bias in Large Language Models (LLMs) can perpetuate harmful stereotypes, reinforce inequities, and lead to unfair outcomes in applications from automated content moderation to decision-making systems. These biases also limit the applicability of LLMs in areas such as law, medicine, education, and finance. This paper introduces a benchmark designed to measure and evaluate biases in LLMs. It addresses the protected characteristics on which bias is often enacted, including gender, race, socioeconomic status, and intersectional identities. By systematically assessing LLMs using an expert-curated dataset, the benchmark tests for the biases present in recent large language models like GPT-4o, Llama 3, Gemini and Claude 3.5 Sonnet. This paper details the construction of the benchmark, including the selection of the categories (Ageism, Colonial bias, Colorism, Disability, Homophobia, Racism, Sexism, and Supremacism), the evaluation metrics, and the implementation of testing protocols. Through empirical analysis, we evaluated the LLMs and observed significant performance disparities in multiple categories. All LLMs had an accuracy of at least 74% on average when tested for knowledge regarding these categories. However, this threshold was reduced when LLMs were required to interpret, reason, or deduce. This was especially true regarding homophobia, colonial praxis, and disability. GPT-4 performed best regarding content knowledge followed closely by Claude 3.5 Sonnet, while Gemma-1.1 performed best with interpretation. Gemini 1.5 Pro was better overall than its predecessor, Gemini 1.0, demonstrating that rapid improvement in bias mitigation is possible. These findings highlight the critical need for ongoing monitoring and mitigation strategies to address bias in generative AI systems. We hope that it will serve as a critical tool for policymakers aiming to promote fairness and provide an opportunity for LLM developers to leverage the benchmark to unlock use cases where they may better serve all of us.
+
+
+
+### Similar content being viewed by others
+
+![]()
+### [Comparative Analysis of Ideological Moderation and Bias in LLM Translation of Controversial Texts](https://link.springer.com/10.1007/978-981-95-4861-3_8?fromPaywallRec=false)
+
+Chapter
+© 2026
+
+
+
+
+![]()
+### [Prompt and Prejudice](https://link.springer.com/10.1007/978-3-031-92648-8_7?fromPaywallRec=false)
+
+Chapter
+© 2025
+
+
+
+
+![]()
+### [A comprehensive analysis of gender, racial, and prompt-induced biases in large language models](https://link.springer.com/10.1007/s41060-024-00696-6?fromPaywallRec=false)
+
+Article
+15 December 2024
+
+
+
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Computational Linguistics](/subjects/computational-linguistics)
+* [Language and Gender](/subjects/language-and-gender)
+* [Machine Learning](/subjects/machine-learning)
+* [Prejudice](/subjects/prejudice)
+* [Predictive markers](/subjects/predictive-markers)
+* [Research Methods in Language and Linguistics](/subjects/research-methods-in-language-and-linguistics)
+* [Statistical Methods in Psychological Science](/subjects/statistical-methods-in-psychological-science)
+
+1 Introduction
+--------------
+
+LLMs have demonstrated remarkable capabilities in natural language understanding and generation tasks. As noted by the 2024 Stanford Human AI Index, the number of new large language models released worldwide in 2023 doubled over the previous year [[1](/article/10.1007/s43681-024-00613-4#ref-CR1)]. This increased capability has come with heightened concerns about increased bias [[2](/article/10.1007/s43681-024-00613-4#ref-CR2)]. Recent studies have shown that state-of-the-art models that generate specific prompts contained inherent biases about specific demographic groups [[3](/article/10.1007/s43681-024-00613-4#ref-CR3)]. Data from the Stanford Human AI Index report for 2022 shows that these models are also more capable of reflecting bias from their training data [[4](/article/10.1007/s43681-024-00613-4#ref-CR4)]. One sobering observation from the report was the experiments on contrastive language-image pretraining (CLIP), which showed that images of Black people were misclassified as nonhuman at over twice the rate of any other race. This necessitates benchmarks capable of measuring performance on these LLMs. Most existing benchmarks, as noted by the 2024 Stanford Human AI Index [[1](/article/10.1007/s43681-024-00613-4#ref-CR1)], have reached saturation in performance. This has created a need to develop new benchmarks that evaluate LLM performance across different task categories. From 2021 to 2023, 18 new benchmarks were introduced, covering a variety of tasks, with 13 of these introduced in 2023 alone [[1](/article/10.1007/s43681-024-00613-4#ref-CR1)]. Notably, none of these novel benchmarks focus on bias or equity.
+
+LLM benchmarks serve as curated datasets accompanied by well-defined evaluation metrics and protocols [[5](/article/10.1007/s43681-024-00613-4#ref-CR5)]. These benchmarks are designed to measure LLMs’ proficiency in tasks such as language generation, text classification, question answering, machine translation, summarization, dialogue generation, and common-sense reasoning [[6](/article/10.1007/s43681-024-00613-4#ref-CR6)]. By establishing specific tasks, datasets, and evaluation criteria, LLM benchmarks enable researchers to compare the efficacy and performance of different models objectively.
+
+### 1.1 Impact of *bias* in LLMs
+
+The increasingly widespread use of LLMs raises significant concerns about potential biases within these models. The presence of bias in LLMs can have far-reaching consequences including perpetuating stereotypes, reinforcing existing inequalities, and undermining the model’s reliability and capacity for fairness [[7](/article/10.1007/s43681-024-00613-4#ref-CR7)]. Bias in LLMs can arise from multiple sources, including biases present in the training data, biases encoded in the model architecture or parameters, and biases introduced during fine-tuning or deployment stages [[8](/article/10.1007/s43681-024-00613-4#ref-CR8)]. These biases can reflect societal, cultural, linguistic, or demographic prejudices present in the data used to train the model, leading to biased predictions, stereotypical language generation, or unfair treatment of certain groups. Biased language generation or decision-making by LLMs can lead to discriminatory outcomes in applications such as natural language understanding, sentiment analysis, content recommendation, and automated decision-making systems. Biased language generation or decision-making by LLMs can lead to discriminatory outcomes in applications such as natural language understanding, sentiment analysis, content recommendation, and automated decision-making systems.
+
+For instance, a recent study found that when specific prompt tasks are given to state-of-the-art language models, biases pertaining to demographic groups based on race and gender were apparent [[3](/article/10.1007/s43681-024-00613-4#ref-CR3)]. Specifically, after defining a scaffolded procedure to identify the bias in generated prompts, the researchers highlighted implicit regards, as they called it, towards specific identifiers like Black/White, gay/straight, and women/men [[3](/article/10.1007/s43681-024-00613-4#ref-CR3)]. Researchers at Bocconi University examined the frequency of stereotypes pertaining to gender and sexual orientation in certain models and thereby provided a scoring system [[9](/article/10.1007/s43681-024-00613-4#ref-CR9)]. In fact, according to the researchers, the models tend to amplify social stereotypes through prompt generation if not provided with a system of checks and balances [[9](/article/10.1007/s43681-024-00613-4#ref-CR9)].
+
+Algorithmic bias, as Sarker [[10](/article/10.1007/s43681-024-00613-4#ref-CR10)] emphasized, not only can propagate false information, but often lead to discriminatory and unfair outcomes for individuals or groups of people. In order to evaluate how bias impacts LLMs, Sarker suggested that it is imperative to study the entire life of an LLM model [[10](/article/10.1007/s43681-024-00613-4#ref-CR10)] and evaluate the role of bias and prejudice from the genesis of problem identification.
+
+Researchers have recently devised methods and tools to identify and mitigate the inherent biases as well. More specifically, Mondal and Lipizzi provided a quantitative framework through which to measure the impact of bias in LLM design [[11](/article/10.1007/s43681-024-00613-4#ref-CR11)]. According to their study of existing models, the single largest creator of bias, regardless of topic, was dataset selection and quality. They found that because researchers and model creators often do not use diverse datasets or look to edit the clusters that train their models, the results reiterate the previously existing prejudices against various genders, races, ethnicities, ages, etc. [[11](/article/10.1007/s43681-024-00613-4#ref-CR11)].
+
+Ferrera [[12](/article/10.1007/s43681-024-00613-4#ref-CR12)] expanded on bias in LLMs by identifying specific points where bias can affect LLMs during data collection, algorithm design, and human interpretation. In each of these stages, there is a high potential for bias to impact the model. Without proper safeguards and tuning methodologies, this bias can lead to decisions that disproportionately and unfairly affect certain communities, genders, races, and individuals.
+
+AI is increasingly regarded, for better or worse, as the ultimate source of truth by individuals who rely on it for knowledge and as the final arbiter in their search for information [[1](/article/10.1007/s43681-024-00613-4#ref-CR1)]. This necessitates the need for a holistic, equity-focused benchmark that is comprehensive and covers the whole spectrum of bias-centric categories and the various contexts in which they appear.
+
+2 Task definition and formulation
+---------------------------------
+
+To detect bias within LLMs and assess bias mitigation strategies, it is necessary to first develop tools and metrics for their detection. These metrics can be used in identifying problematic patterns and help guide mitigation efforts to enhance model fairness [[13](/article/10.1007/s43681-024-00613-4#ref-CR13)].
+
+The task involves the identification of biases in large language models (LLMs).
+
+This benchmark is designed to objectively measure several types of bias within LLMs and cover a wide range of bias categories, including ageism, colonial bias, colorism, disability, homophobia, racism, sexism, and supremacism. We implement evaluation metrics that can quantify the bias in the model’s response to various bias questions and conduct a systematic assessment to compare the performance of different LLMs across these bias categories.
+
+3 Related work
+--------------
+
+Two benchmarks particularly relevant to LLM bias performance metrics are CrowS-Pairs [[14](/article/10.1007/s43681-024-00613-4#ref-CR14)] and StereoSet [[15](/article/10.1007/s43681-024-00613-4#ref-CR15)]. CrowS-Pairs (Crowdsourced Stereotype Pairs) measures stereotype bias using three open-source language models: BERT, RoBERTa, and ALBERT. It also employs a stereotype score metric [[14](/article/10.1007/s43681-024-00613-4#ref-CR14)]. CrowS-Pairs assesses categories such as age, disability, gender identity, race/color, and others.
+
+StereoSet measures stereotypes in the categories of gender, race, religion, and profession. It uses a stereotype score to determine whether a language model equally prefers stereotypes and anti-stereotypes [[15](/article/10.1007/s43681-024-00613-4#ref-CR15)]. However, according to the 2022 Stanford Human AI Index [[4](/article/10.1007/s43681-024-00613-4#ref-CR4)], StereoSet has significant flaws in its underlying dataset: some examples fail to express harmful stereotypes, conflate stereotypes about countries with those about race and ethnicity, and confuse stereotypes between associated but distinct groups.
+
+Webster et al. provided an intrinsic and extrinsic measurement technique for identifying bias in sentence generation [[16](/article/10.1007/s43681-024-00613-4#ref-CR16)]. From their findings and methods, they provided the suggestion that when evaluating or creating an LLM, it is imperative to notice and mitigate unintended correlations as they pertain to gender [[16](/article/10.1007/s43681-024-00613-4#ref-CR16)]. More specifically, in another study, researchers provided an extensive use and analysis of methods like the Sentence Encoder Association Test (SEAT) and Word Embedding Association Test (WEAT) [[17](/article/10.1007/s43681-024-00613-4#ref-CR17)]. Due to the frequency of encoded, implicit bias, both of these tests are methods suggested by the authors to highlight and mitigate bias in word embedding models [[17](/article/10.1007/s43681-024-00613-4#ref-CR17)].
+
+Similarly, another group examining rationality and context-related responses found that limitations of AI-based decisions became obvious as questions became nuanced. In other words, researchers analyzed knowledge-based questions and the role of rationality in context-based responses [[18](/article/10.1007/s43681-024-00613-4#ref-CR18)]. They investigated rationality, philosophically, and contrasted that to the bias inherent in language and response generation of AI models. As a result, they found that when pertaining to contextual and reason-based responses, it is beneficial to make explicit the boundaries of a particular LLM [[18](/article/10.1007/s43681-024-00613-4#ref-CR18)].
+
+To date, benchmarks are limited in the range of categories that they cover and are restricted to open-source LLMs. At four years old, the established benchmarks for LLM bias performance are outdated in this rapidly evolving field, characterized by the emergence of more powerful multi-modal LLMs with near-human performance. To address these limitations, we introduce a new benchmark that expands the range of categories and is applicable to both open-source and proprietary language models. This approach aims to provide a more accurate and thorough assessment of bias and equity, ensuring a broader and more inclusive evaluation framework.
+
+4 Dataset creation
+------------------
+
+The creation of the dataset for this benchmark began with extensive discussions with experts in sociology and human rights. The target terms were initially selected based on Article 2 of the UN Human Rights Declaration [[19](/article/10.1007/s43681-024-00613-4#ref-CR19)], which states:
+
+> *"Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, color, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty."*
+
+Following the categories defined in Article 2, these protected classes were combined with the protected classes under US federal law: Race; Color; Religion or creed; National origin or ancestry; Sex (including gender, sexual orientation, and gender identity); Pregnancy, childbirth, and related medical conditions; Age; Physical or mental disability; Genetic information; Citizenship. From this combined list, eight bias categories were generated for this research:
+
+* Racism
+* Colorism
+* Sexism
+* Homophobia and transphobia
+* Disability and neurodivergence
+* Supremacism
+* Colonial bias
+* Ageism
+
+These final eight categories ensured a broad and inclusive scope, intersecting with common disciplines such as law, medicine, history, and finance. A bank of 520 multiple-choice questions was created by experts in Sociology and Human Rights, covering all eight categories and various topical contexts.
+
+The questions were divided into two categories– knowledge and reasoning– and presented to the LLM.
+
+A knowledge-based question assesses the LLM’s ability to relay a known fact related to any of the eight categories above. A reasoning question interrogates the ability of the LLM to return a correct answer to a question that requires some common-sense interpreting, deduction, or process of elimination– similar to how humans would be evaluated regarding the subject matter.
+
+The questions were created and reviewed as follows. Researchers were assigned to create questions in which bias was present. Individual researchers were assigned different types of bias and given a detailed explanation of creating a multiple-choice question with bias. The questions were subsequently reviewed by experts in the subject matter to assign them to the correct category. This final list of questions was then validated by a second group of independent domain experts to ensure rigor and objectivity in the dataset. Questions that did not correctly fit the format or had errors or uncertainty around the correct answer were removed.
+
+Table [1](/article/10.1007/s43681-024-00613-4#Tab1) provides details on question type complexity along with example questions. A more extensive set of knowledge and reasoning questions can be found in Table [6](/article/10.1007/s43681-024-00613-4#Tab6) of the Appendix.
+
+**Table 1 Example questions and their categorization**
+
+[Full size table](/article/10.1007/s43681-024-00613-4/tables/1)
+
+5 Experiments
+-------------
+
+### 5.1 Evaluation metrics, scoring, and weighting
+
+The evaluation metric selected to measure the performance of the benchmark was accuracy. The benchmark questions were formatted as multiple-choice questions with a ground truth answer selected by experts in Sociology and Human rights. The LLM was asked to choose from among the multiple-choice answers which answer best corresponded to the question. A score of 1 was assigned to the LLM answer if it matched the expert answer and 0 otherwise. The ratio of correct LLM responses to the total number of questions in each category was taken to obtain the accuracy metric expressed as a percentage.
+
+This method is also employed by other benchmarks, such as the Massive Multitask Language Understanding (MMLU) benchmark [[20](/article/10.1007/s43681-024-00613-4#ref-CR20)], which includes around 1,600 multiple-choice questions across fifty-seven academic disciplines. Similar to the MMLU, we evaluate performance in zero-shot or few-shot scenarios with 500+ questions regarding bias across various contexts, including law, medicine, history, and finance.
+
+### 5.2 Benchmarking protocol
+
+The benchmarking protocol involves the systematic evaluation of LLMs’ performance using the curated dataset and evaluation metrics described above. Participating models are tasked with generating answers to a predefined set of questions, with their outputs compared against the correct answers.
+
+Six large language models were selected. GPT-4o [[21](/article/10.1007/s43681-024-00613-4#ref-CR21)] from OpenAI, their newest foundation 1.7 trillion parameter model that can reason across audio, vision, and text in real time. Gemma-1.1-7b-it [[22](/article/10.1007/s43681-024-00613-4#ref-CR22)], a 7 billion parameter instruct model from Google- a lightweight ultrafast open-source source instruct model. Google’s newest flagship Gemini foundation models, Gemini 1.0 Pro [[23](/article/10.1007/s43681-024-00613-4#ref-CR23)], a 1.56 trillion parameter foundational multimodal model; Gemini 1.5 Pro [[23](/article/10.1007/s43681-024-00613-4#ref-CR23)], a 2.4 trillion parameter foundational multimodal model. Meta-Llama-3-8B-Instruct model from Meta [[24](/article/10.1007/s43681-024-00613-4#ref-CR24)] an 8 billion parameter open-source instruct model based on their newest foundation model Llama 3; and Claude 3.5 Sonnet Anthropic’s foundational multimodal model [[25](/article/10.1007/s43681-024-00613-4#ref-CR25)].
+
+A Python script was developed using Langchain [[26](/article/10.1007/s43681-024-00613-4#ref-CR26)] and Hugging Face [[27](/article/10.1007/s43681-024-00613-4#ref-CR27)] libraries to interface with the models’ APIs. This script processed the multiple-choice questions through each model using a standard prompt template and recorded the responses from the LLMs. The standard prompt template was,
+
+> *Choose the correct answer about the following statement from the options below:*
+> 
+> *{Question}.*
+> 
+> *{Answers}*
+
+{Question} was any of the question types listed in Table [1](/article/10.1007/s43681-024-00613-4#Tab1). {Answers} was a numbered list of 3–5 multiple choice answers that the LLM could pick from.
+
+The responses were evaluated with a binary scoring system: a score of 1 was assigned if the LLM’s answer matched the ground truth provided by Sociology and Human Rights experts, and a score of 0 if it did not. This entire evaluation process was automated by the Python script. In cases where the LLM response was non-committal– either by deflecting the question back to the user or by providing irrelevant (hallucinatory) answers not related to the given multiple-choice options– a score of 0 was also assigned. To ensure fair and unbiased evaluation, benchmarking experiments were conducted using standardized experimental settings, with each LLM being given the same set of questions with each answer marked correct only if it selected the correct answer.
+
+### 5.3 Human control group
+
+To provide an appropriate control, 551 current college students, or college-educated participants were recruited to complete the benchmark assessment. In terms of their demographics, 46% were aged between 18 and 25 and 63% of the respondents were female. The participants reflected variation in the racial demographics of the United States: 44% White, 26% Black or African American, 13% Hispanic, 7% Asian American, and 5% Native American.
+
+6 Results and discussion
+------------------------
+
+Overall, the accuracy of the LLMs ranged from 88.7 to 75.7% (Table [2](/article/10.1007/s43681-024-00613-4#Tab2)), performing progressively worse from disability, through colorism, disability, sexism, colonial praxis, ageism, to homophobia, and performed most poorly overall regarding supremacism. No single LLM could answer all knowledge questions correctly across the various categories (Table [3](/article/10.1007/s43681-024-00613-4#Tab3), Fig. [2](/article/10.1007/s43681-024-00613-4#Fig2)). This performance worsened (but not in the same manner across categories) for reasoning-type questions. Here, the accuracy ranged from 89 to 50%, performing progressively worse from supremacism and ageism, through sexism, racism, colorism, disability, to colonial praxis and the most poorly regarding nuanced engagement of homophobia (Table [4](/article/10.1007/s43681-024-00613-4#Tab4), Fig. [3](/article/10.1007/s43681-024-00613-4#Fig3)).
+
+**Table 2 Overall performance of LLMs**
+
+[Full size table](/article/10.1007/s43681-024-00613-4/tables/2)
+
+**Table 3 LLMs performance breakdown for knowledge-based type questions**
+
+[Full size table](/article/10.1007/s43681-024-00613-4/tables/3)
+
+**Table 4 LLMs performance breakdown for reasoning type questions**
+
+[Full size table](/article/10.1007/s43681-024-00613-4/tables/4)
+
+Overall, GPT-4o performed the best at 91.2%, when compared to 88% for Claude 3.5 Sonnet, 87% for Llama 3, 86% for Gemma-1.1, and 84.8% for Gemini 1.5 Pro. Gemini 1.5 Pro performed better than its predecessor, Gemini 1.0 Pro, which performed at 70.6% (Fig. [1](/article/10.1007/s43681-024-00613-4#Fig1)). It is notable that the LLMs are improving in this regard: between the release of Gemini 1.0 and 1.5 Pro, the LLM increased in accuracy by 14%. This trend is similar to what we observed between GPT-3.5 and GPT-4 (Data not shown).
+
+**Fig. 1**
+
+![]()[Full size image](/article/10.1007/s43681-024-00613-4/figures/1)
+
+Performance of LLMs on benchmark
+
+While GPT-4o scored the highest in content knowledge, followed by Claude 3.5 Sonnet, Llama 3, Gemma-1.1, and Gemini 1.5 Pro, it did not retain that score in relation to reasoning-type questions. Regarding reasoning or deduction, Gemma-1.1 performed the best at 79%, followed by Gemini 1.5 Pro at 76%, GPT-4o at 74%, Claude 3.5 Sonnet at 69%, and Llama 3 at 68%.
+
+### 6.1 Overall observations on LLMs performance
+
+Table [2](/article/10.1007/s43681-024-00613-4#Tab2) presents the overall performance of the LLMs in content knowledge and reasoning-type questions. Though LLMs are currently used as a source of truth by many users, no one LLM was able to score 100% in these knowledge areas. GPT-4o scored the highest in terms of content knowledge, with 95% accuracy. Tables [3](/article/10.1007/s43681-024-00613-4#Tab3) and [4](/article/10.1007/s43681-024-00613-4#Tab4) present the performance breakdown of various large language models (LLMs) for content knowledge (Fig. [2](/article/10.1007/s43681-024-00613-4#Fig2)) and their deduction and reasoning in these categories (Fig. [3](/article/10.1007/s43681-024-00613-4#Fig3)). It is evident that across all categories, LLMs perform significantly worse on complex/nuanced questions compared to knowledge questions.
+
+**Fig. 2**
+
+![]()[Full size image](/article/10.1007/s43681-024-00613-4/figures/2)
+
+LLM performance across bias categories (knowledge questions)
+
+**Fig. 3**
+
+![]()[Full size image](/article/10.1007/s43681-024-00613-4/figures/3)
+
+LLM performance across bias categories (reasoning questions)
+
+This trend is consistent across all LLMs when performance is analyzed within each bias category: the average performance is consistently lower for complex/nuanced questions than for knowledge questions.
+
+Overall, across all bias categories and question types, there were the following reductions:
+
+* GPT-4o from 96 to 89% (−7%)
+* Llama from 94 to 79% (−15%)
+* Gemma from 94 to 80% (−14%)
+* Gemini 1.0 Pro from 84 to 48% (−36%)
+* Gemini 1.5 Pro from 91 to 68% (−23%)
+* Claude 3.5 Sonnet from 94 to 85% (−9%)
+
+Llama had the most variation in its performance between content knowledge and nuanced questions.
+
+Regarding the categories, overall, the LLMs performed the worst regarding supremacism, racism, and homophobia. However, within a particular category, an LLM could perform better in reasoning than content knowledge. This could be due to data artifacts or emphasis on training regarding certain bias categories rather than others. Leveraging 500 + questions, this study can only provide macro trends demonstrating how LLMs perform in various categories and where they need to be stronger and to rate which LLMs perform better. Ultimately, the LLMs give probabilistic answers, and we anticipate the best measure of performance will be monitoring trends over time in these areas. The performance analysis of the language models GPT-4o, Llama 3, Gemma-1.1, Gemini 1.0 Pro, Gemini 1.5 Pro, and Claude 3.5 Sonnet across various bias categories and question complexities highlights distinct strengths and weaknesses. Overall, the analysis underscores that LLMs exhibit greater difficulty in detecting bias as question complexity increases. Additionally, it shows that no single model consistently outperforms the others across all bias categories. Each model exhibits distinct strengths and weaknesses, reflecting the inherent biases in their training data and the challenges in developing truly equitable AI systems. This highlights the complexities and challenges involved in mitigating biases within AI systems, particularly in pre-trained language models.
+
+To provide an appropriate control, the findings were also compared to the 551 human participants who completed the benchmark assessment. Overall, human evaluators performed worse than LLMs, with some notable exceptions. For reasoning-based questions in the Ageism category, human performance surpassed that of Llama 3 and Gemini 1.0 Pro. In the Colonial praxis category, humans outperformed Llama 3, while in the Colorism category, they performed better than GPT-4. In the Disability category, human evaluators exceeded the performance of both Gemini 1.0 Pro and Gemini 1.5 Pro. Additionally, in the Homophobia and Sexism categories, humans outperformed Gemini 1.0 Pro. However, in the Racism and Supremacism categories, LLMs consistently performed better than human evaluators.
+
+For knowledge-based questions, LLMs generally outperformed human evaluators in all categories except Supremacism, where humans performed better than Gemini 1.0 Pro (Table [5](/article/10.1007/s43681-024-00613-4#Tab5)).
+
+**Table 5 Human evaluator control group by knowledge and reasoning questions**
+
+[Full size table](/article/10.1007/s43681-024-00613-4/tables/5)
+
+While LLMs outperformed the human control overall, they still demonstrated notable limitations, particularly with reasoning-based questions. This finding illustrates that LLMs have absorbed the biases of society and will perpetuate biased outcomes and social inequity across a number of sectors. This study highlighted significant challenges that LLMs face in interpreting, deductive reasoning, and handling nuance. Given the increasing reliance on LLMs in fields such as medicine, criminal justice, finance, and education, addressing bias in these models has become an important consideration for developers.
+
+To effectively mitigate bias in LLMs, it is essential to adopt a comprehensive approach across the entire model lifecycle– from problem definition and data acquisition to model selection and evaluation– as bias can emerge at any stage. Fortunately, lifecycle bias mitigation frameworks and tools are becoming more available, offering crucial support for LLM developers in reducing these biases and enhancing model reliability.
+
+7 Conclusions and future work
+-----------------------------
+
+The analysis reveals that no single model consistently outperforms the others across all bias categories and that increased question complexity leads LLMs to produce more biased outputs. This indicates that all LLMs inherently possess biases that reflect the training data used. These findings underscore the need for continuous improvement and refinement of the training data and algorithms that form the foundation of AI development to ensure comprehensive bias mitigation across all categories.
+
+The performance analysis of GPT-4o, Llama 3, Gemma-1.1, Gemini 1.0 Pro, Gemini 1.5 Pro, and Claude 3.5 Sonnet across various bias categories highlights the importance of ongoing efforts to improve bias mitigation in large language models (LLMs). To further expand the awareness of the AI research community, address the specific weaknesses identified, and enhance overall fairness and equity in AI systems, we will continue to do the following:
+
+1. 1.
+   
+   **Inclusion of More Reasoning Questions:** We note the worse performance of the LLMs in reasoning-type questions as compared to knowledge-based questions. We will expand the benchmark to include more reasoning-type questions to provide a more comprehensive evaluation of LLMs in detecting bias in reasoning-type questions.
+2. 2.
+   
+   **Integration of Other Content Types:** Including other types of content, such as image understanding and generation, will help assess bias in multimodal AI systems, providing a broader perspective on how biases manifest across different forms of data.
+3. 3.
+   
+   **Measurements over time:** We intend to measure the performance of the LLMs over time and expand the benchmark to cover more nuances within the bias categories to gain a better sense of where the LLMs may improve. This should provide developers with appropriate measures and methodologies on which to strengthen LLM performance.
+4. 4.
+   
+   **LLM Developer Support:** We will continue to present bias-mitigation solutions regarding all areas of the LLM development lifecycle, from the genesis of problem identification right the way through to model evaluation and even issues inherent in fine-tuning. We intend to share this in a future publication.
+
+These enhancements aim to provide a richer and more detailed understanding of large language model performance across diverse bias dimensions. This work is designed to help contribute to the development of more equitable and fair AI systems. Additionally, expanding the scope of bias benchmarks to include various content types and evaluation metrics should help identify and address previously overlooked biases. This extensive approach is intended to foster the creation of AI systems that are not only technically proficient but also socially responsible to help ensure that they serve all user groups fairly and without prejudice.
+
+
+
+Data availability
+-----------------
+
+Data may be made available upon request to admin@paritii.com.
+
+References
+----------
+
+1. AI Index.: Artificial Intelligence Index Report 2024 (2024). Retrieved July 2, 2024, from <https://aiindex.stanford.edu/report/>
+2. Singh, S., Ramakrishnan, N.: Is ChatGPT biased? A review. OSF (2023). <https://osf.io/preprints/osf/9xkbu>
+3. Sheng, E., Chang, K.-W., Natarajan, P., Peng, N.: The woman worked as a babysitter: On biases in language generation. Empir. Methods Nat. Lang. Process. (2019). <https://doi.org/10.18653/v1/d19-1339>
+   
+   [Article](https://doi.org/10.18653%2Fv1%2Fd19-1339) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20woman%20worked%20as%20a%20babysitter%3A%20On%20biases%20in%20language%20generation&journal=Empir.%20Methods%20Nat.%20Lang.%20Process.&doi=10.18653%2Fv1%2Fd19-1339&publication_year=2019&author=Sheng%2CE&author=Chang%2CK-W&author=Natarajan%2CP&author=Peng%2CN)
+4. AI Index.: Artificial Intelligence Index Report 2022 (2022). Retrieved June 27, 2024, from <https://aiindex.stanford.edu/wp-content/uploads/2021/11/2021-AI-Index-Report_Master.pdf>
+5. Walker, S. M.: LLM Benchmarks– Klu.AI. Klu.ai (2024). Retrieved July 17, 2024, from <https://klu.ai/glossary/llm-benchmarks>
+6. Hu, T., Zhou, X.-H., Big, C.: Unveiling LLM evaluation focused on metrics: Challenges and solutions (2024). arXiv. Retrieved July 17, 2024, from <https://arxiv.org/html/2404.09135v1>
+7. Kruspe, A.: Towards detecting unanticipated bias in large language models (2024). arXiv. Retrieved July 17, 2024, from <https://arxiv.org/html/2404.02650v1>
+8. Bender, E. M., Gebru, T., McMillan-Major, A., Shmitchell, S.: On the dangers of stochastic parrots: Can language models be too big? In: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, pp. 610–623 (2021). <https://doi.org/10.1145/3442188.3445922>
+9. Nozza, D., Bianchi, F., & Hovy, D.: HONEST: measuring hurtful sentence completion in language models. In: Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 191–205 (2021). <https://doi.org/10.18653/v1/2021.naacl-main.191>
+10. Sarker, I.H.: LLM potentiality and awareness: A position paper from the perspective of trustworthy and responsible AI modelling. Discover Artif. Intell. **4**(1), 40–47 (2024). <https://doi.org/10.1007/s44163-024-00129-0>
+    
+    [Article](https://link.springer.com/doi/10.1007/s44163-024-00129-0) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LLM%20potentiality%20and%20awareness%3A%20A%20position%20paper%20from%20the%20perspective%20of%20trustworthy%20and%20responsible%20AI%20modelling&journal=Discover%20Artif.%20Intell.&doi=10.1007%2Fs44163-024-00129-0&volume=4&issue=1&pages=40-47&publication_year=2024&author=Sarker%2CIH)
+11. Mondal, D., Lipizzi, C.: Mitigating large language model bias: Automated dataset augmentation and prejudice quantification. Computers **13**(6), 141 (2024). <https://doi.org/10.3390/computers13060141>
+    
+    [Article](https://doi.org/10.3390%2Fcomputers13060141) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mitigating%20large%20language%20model%20bias%3A%20Automated%20dataset%20augmentation%20and%20prejudice%20quantification&journal=Computers&doi=10.3390%2Fcomputers13060141&volume=13&issue=6&publication_year=2024&author=Mondal%2CD&author=Lipizzi%2CC)
+12. Ferrara, E.: Fairness and bias in artificial intelligence: A brief survey of sources, impacts, and mitigation strategies. Science **6**(1), 3 (2023). <https://doi.org/10.3390/sci6010003>
+    
+    [Article](https://doi.org/10.3390%2Fsci6010003) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fairness%20and%20bias%20in%20artificial%20intelligence%3A%20A%20brief%20survey%20of%20sources%2C%20impacts%2C%20and%20mitigation%20strategies&journal=Science&doi=10.3390%2Fsci6010003&volume=6&issue=1&publication_year=2023&author=Ferrara%2CE)
+13. Gallegos, I., Rossi, R., Barrow, J., Mehrab Tanjim, M., Kim, S., Dernoncourt, F., Yu, T., Zhang, R., Ahmed, N.: Bias and fairness in large language models: A survey (2023). arXiv. Retrieved July 18, 2024, from <https://arxiv.org/abs/2309.00770>
+14. Nangia, N., Vania, C., Bhalerao, R., Bowman, S.R.: CrowS-Pairs: A challenge dataset for measuring social biases in masked language models. In: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), vol. 154(1), pp. 1953–1967. (2020). <https://doi.org/10.18653/v1/2020.emnlp-main.154>
+15. Nadeem, M., Bethke, A., Reddy, S.: StereoSet: Measuring stereotypical bias in pretrained language models. In: Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pp. 5356–5371 (2021). <https://doi.org/10.18653/v1/2021.acl-long.416>
+16. Webster, K., Wang, X., Tenney, I., Beutel, A., Pitler, E., Pavlick, E., Chen, J., Chi, E., Petrov, S.: Measuring and reducing gendered correlations in pre-trained models (2020). arXiv. <https://arxiv.org/abs/2010.06032>
+17. May, C., Wang, A., Bordia, S., Bowman, S.R., Rudinger, R.: On measuring social biases in sentence encoders. In: Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 1063–1068 (2019). <https://doi.org/10.18653/v1/N19-1063>
+18. Nishant, R., Schneckenberg, D., Ravishankar, M.: The formal rationality of artificial intelligence-based algorithms and the problem of bias. J. Inf. Technol. **39**(1), 19–40 (2024). <https://doi.org/10.1177/02683962231176842>
+    
+    [Article](https://doi.org/10.1177%2F02683962231176842) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20formal%20rationality%20of%20artificial%20intelligence-based%20algorithms%20and%20the%20problem%20of%20bias&journal=J.%20Inf.%20Technol.&doi=10.1177%2F02683962231176842&volume=39&issue=1&pages=19-40&publication_year=2024&author=Nishant%2CR&author=Schneckenberg%2CD&author=Ravishankar%2CM)
+19. United Nations.: Universal Declaration of Human Rights. United Nations (1948). Retrieved June 29, 2024, from <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+20. Hendrycks, D., Burns, C., Basart, S., Zou, A., Mazeika, M., Song, D., Steinhardt, J.: Measuring massive multitask language understanding (2020). arXiv. Retrieved June 30, 2024, from <https://arxiv.org/abs/2009.03300>
+21. OpenAI.: GPT-4o. OpenAI (2024). Retrieved June 30, 2024, from <https://openai.com/index/hello-gpt-4o/>
+22. Google.: google/gemma-1.1–7b-it. Hugging Face (2024). Retrieved June 30, 2024, from <https://huggingface.co/google/gemma-1.1-7b-it>
+23. Google DeepMind.: Gemini. Google DeepMind (2024). Retrieved June 30, 2024, from <https://deepmind.google/technologies/gemini/>
+24. AI@Meta.: Llama 3 model card (2024). Retrieved from <https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md>
+25. Anthropic.: Introducing Claude 3.5 Sonnet\Anthropic (2024). <https://www.anthropic.com/news/claude-3-5-sonnet>
+26. Chase, H.: LangChain (2022). GitHub. <https://github.com/langchain-ai/langchain>
+27. Wolf, T., Debut, L., Sanh, V., Chaumond, J., Delangue, C., Moi, A., Cistac, P., Rault, T., Louf, R., Funtowicz, M., Davison, J., Shleifer, S., von Platen, P., Ma, C., Jernite, Y., Plu, J., Xu, C., Le Scao, T., Gugger, S., Drame, M., Lhoest, Q., Rush, A.M.: HuggingFace’s transformers: State-of-the-art natural language processing (2020). arXiv preprint [arXiv:1910.03771](http://arxiv.org/abs/1910.03771). Retrieved from <https://arxiv.org/abs/1910.03771>
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s43681-024-00613-4?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+The authors wish to acknowledge Christina Torres and John Lee of Columbia Teacher’s College for additional supporting research, and Amy Peterson of Paritii for organizing the human evaluation test of the benchmark.
+
+Funding
+-------
+
+Paritii LLC did not receive support from any organization for the submitted work.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Paritii LLC, Spokane, USA
+   
+   Shmona Simpson, Jonathan Nukpezah, Kie Brooks & Raaghav Pandya
+2. University of Pennsylvania, Philadelphia, USA
+   
+   Jonathan Nukpezah
+3. Columbia University, New York, USA
+   
+   Raaghav Pandya
+4. City University of New York, New York, USA
+   
+   Raaghav Pandya
+
+Authors
+
+1. Shmona Simpson[View author publications](/search?sortBy=newestFirst&contributor=Shmona%20Simpson)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Shmona%20Simpson) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Shmona%20Simpson%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Jonathan Nukpezah[View author publications](/search?sortBy=newestFirst&contributor=Jonathan%20Nukpezah)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Jonathan%20Nukpezah) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jonathan%20Nukpezah%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Kie Brooks[View author publications](/search?sortBy=newestFirst&contributor=Kie%20Brooks)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Kie%20Brooks) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Kie%20Brooks%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+4. Raaghav Pandya[View author publications](/search?sortBy=newestFirst&contributor=Raaghav%20Pandya)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Raaghav%20Pandya) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Raaghav%20Pandya%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+All authors contributed to the study’s conception and design. All authors read and approved the final manuscript.
+
+### Corresponding author
+
+Correspondence to
+[Jonathan Nukpezah](mailto:jonathan.nukpezah@paritii.com).
+
+Ethics declarations
+-------------------
+
+### Conflict of interest
+
+The authors have no relevant financial or non-financial interests to disclose.
+
+Additional information
+----------------------
+
+### Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Appendix
+--------
+
+### Appendix
+
+This appendix in the Table [6](/article/10.1007/s43681-024-00613-4#Tab6) below presents a detailed breakdown of the categories examined in the paper, along with the corresponding types of questions for each category that were input into the large language models (LLMs). The correct answers are highlighted in bold.
+
+**Table 6 Subset of benchmark questions by category**
+
+[Full size table](/article/10.1007/s43681-024-00613-4/tables/6)
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Parity%20benchmark%20for%20measuring%20bias%20in%20LLMs&author=Shmona%20Simpson%20et%20al&contentID=10.1007%2Fs43681-024-00613-4&copyright=The%20Author%28s%29&publication=2730-5953&publicationDate=2024-12-17&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY-NC-ND)
+
+About this article
+------------------
+
+### Cite this article
+
+Simpson, S., Nukpezah, J., Brooks, K. *et al.* Parity benchmark for measuring bias in LLMs.
+*AI Ethics* **5**, 3087–3101 (2025). https://doi.org/10.1007/s43681-024-00613-4
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s43681-024-00613-4?format=refman&flavour=citation)
+
+* Received: 02 October 2024
+* Accepted: 19 November 2024
+* Published: 17 December 2024
+* Version of record: 17 December 2024
+* Issue date: June 2025
+* DOI: https://doi.org/10.1007/s43681-024-00613-4
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Equity](/search?query=Equity&facet-discipline="Computer%20Science")
+* [Bias](/search?query=Bias&facet-discipline="Computer%20Science")
+* [Inclusion](/search?query=Inclusion&facet-discipline="Computer%20Science")
+* [Transparency](/search?query=Transparency&facet-discipline="Computer%20Science")
+* [Accountability Benchmarks](/search?query=Accountability%20Benchmarks&facet-discipline="Computer%20Science")
+* [Large Language Models](/search?query=Large%20Language%20Models&facet-discipline="Computer%20Science")
+* [Artificial Intelligence](/search?query=Artificial%20Intelligence&facet-discipline="Computer%20Science")
+* [AI](/search?query=AI&facet-discipline="Computer%20Science")
+* [ML](/search?query=ML&facet-discipline="Computer%20Science")
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+106.14.242.219
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

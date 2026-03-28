@@ -1,0 +1,977 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S2666920X25001699
+# Content Length: 179184 characters
+# Extracted at: 2026-03-28 05:07:24
+#============================================================
+
+Large language models in education: a systematic review of empirical applications, benefits, and challenges - ScienceDirect
+Processing math: 100%
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X25001699&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X25001699)
+\* [View \*\*PDF\*\*](/science/article/pii/S2666920X25001699/pdfft?md5=01d5ed2be43a898e05c96089438802ee&pid=1-s2.0-S2666920X25001699-main.pdf)
+\* Download full issue
+Search ScienceDirect
+## Outline
+1. [Highlights](#abs0010)
+2. [Abstract](#abs0005)
+3. [Keywords](#kwds0005)
+4. [1. Introduction](#s0005)
+5. [2. Related work](#s0010)
+6. [3. Materials and methodology](#s0015)
+7. [4. Result](#s0040)
+8. [5. Discussion](#s0075)
+9. [6. Conclusion](#s0185)
+10. [CRediT authorship contribution statement](#s0190)
+11. [Statements on open data and ethics](#s0195)
+12. [Declaration of competing interest](#coi0005)
+13. [Appendix](#appsec0005)
+14. [References](#bibl0005)
+Show full outline
+## [Cited by (2)](#section-cited-by)
+## Figures (4)
+1. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr1.sml)](#fig0005)
+2. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr2.sml)](#fig0010)
+3. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr3.sml)](#fig0015)
+4. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr4.sml)](#fig0020)
+## Tables (5)
+1. [Table 1](#tbl0005)
+2. [Table 2](#tbl0010)
+3. [Table 3](#tbl0015)
+4. [Table A1](#tbl0020)
+5. [Table A2](#tbl0025)
+[![](https://sciencedirect.elseviercdn.cn/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](/journal/computers-and-education-artificial-intelligence)
+## [Computers and Education: Artificial Intelligence](/journal/computers-and-education-artificial-intelligence)
+[Volume 10](/journal/computers-and-education-artificial-intelligence/vol/10/suppl/C), June 2026, 100529
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25X00023-cov150h.gif)](/journal/computers-and-education-artificial-intelligence/vol/10/suppl/C)
+# Large language models in education: a systematic review of empirical applications, benefits, and challenges
+Author links open overlay panelYuhongShi, KunYu, YifeiDong, FangChen
+Show more
+Outline
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S2666920X25001699&orderBeanReset=true)
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+Open access
+## Highlights
+\* •
+Reviews 88 empirical studies on LLM applications in education, selected from 3344 publications since ChatGPT’s release (Nov 2022–Mar 2025).
+\* •
+Identifies six key LLM applications, with Intelligent Tutoring Systems being the most common.
+\* •
+Empirical evidence shows that LLMs enhance academic performance, engagement, and cognitive abilities.
+\* •
+Identifies critical concerns: over-reliance, fairness, privacy, and technical issues.
+\* •
+Mixed findings on cognitive development demand longitudinal research studies.
+## Abstract
+The rapid advancement of Large Language Models (LLMs), particularly following the release of ChatGPT in November 2022, has significantly transformed educational methodologies. This systematic review aims to synthesize empirical studies published between November 2022 and March 2025, examining the implementation and effectiveness of LLMs in educational settings. 88 empirical studies identified key applications, benefits, and challenges associated with LLM integration in education. Our findings reveal that LLMs are utilized across various educational contexts in six primary applications, with Intelligent Tutoring Systems being particularly prominent. The benefits include improved academic performance, increased student engagement, enhanced accessibility, optimized resource utilization, and strengthened cognitive and skill development. However, challenges such as student over-reliance on AI, technical reliability issues, assessment fairness, and privacy concerns were identified. This review provides educators, researchers, and policymakers with evidence-based insights and practical guidance for effective LLM integration, contributing to the ongoing transformation of teaching and learning in the era of Generative Artificial Intelligence (GenAI) technology.
+\* [Previousarticle in issue](/science/article/pii/S2666920X25001596)
+\* [Nextarticle in issue](/science/article/pii/S2666920X25001766)
+## Keywords
+Large language models
+Educational technology
+Artificial intelligence
+ChatGPT
+Empirical studies
+## 1. Introduction
+Large language models (LLMs) are Artificial Intelligence (AI) systems designed to process and generate human-like text by learning patterns from extensive training data [(Xu, Chen & Miao, 2024)](#bib0595). The widespread adoption of sophisticated LLMs, particularly following the release of ChatGPT in November 2022, has initiated a new era of education enhanced by Generative Artificial Intelligence (GenAI), prompting extensive research into their educational applications and implications [(Zarei et al., 2024)](#bib0615). The integration of LLMs offers unprecedented capabilities in personalized learning, automated assessment, and intelligent tutoring across various educational levels, from primary to higher education institutions ([Pian et al., 2024](#bib0420); [Yang et al., 2024](#bib0600)).
+Unlike earlier AI systems that relied on rule-based approaches, where responses were determined by manually programmed logic, LLMs like GPT-4 are trained on vast corpora of text across multiple domains, enabling them to perform sophisticated tasks such as content generation, summarization, and contextual reasoning [(Wang, Wang, et al., 2024)](#bib0550). Through their capacity to maintain contextual continuity in extended interactions and foster inquiry-based environments, LLMs naturally support Active Learning principles [(Bonwell & Eison, 1991)](#bib0050), transforming education from traditional instruction-centered approaches to student-centered inquiry and discovery [(Looi and Jia, 2025)](#bib0295). This active engagement naturally enhances Self-Regulated Learning (SRL) [(Zimmerman, 2000)](#bib0635) by helping students set learning goals, monitor their progress, and reflect on their understanding through personalized feedback and metacognitive prompts [(Fan et al., 2025)](#bib0150). Concurrently, LLMs align with both Cognitive Load Theory [(Sweller, 1988)](#bib0505) and the Zone of Proximal Development (ZPD) [(Vygotsky, 1978)](#bib0545) through their adaptive capabilities. Specifically, [Vygotsky](#bib0545)’s ZPD theory conceptualizes the gap between what learners can accomplish independently and what they can achieve with guidance, while [Sweller](#bib0505)’s Cognitive Load Theory posits that learning effectiveness depends on how instructional design manages the limited capacity of working memory by balancing intrinsic, extraneous, and germane cognitive load. LLM-integrated systems adjust response complexity and break down intricate concepts into manageable components while simultaneously assessing learners’ current understanding to provide appropriately challenging content that neither overwhelms nor underwhelms students, thereby supporting effective conceptual understanding ([Yang et al., 2024](#bib0600); [Yunianto et al., 2024](#bib0610)).
+While previous literature reviews have explored LLM applications in education ([Zarei et al., 2024](#bib0615); [Samala et al., 2024](#bib0460)), the systematic synthesis of empirical implementations in actual classroom environments remains underexplored. Recent developments in LLM-based educational tools have generated valuable empirical evidence about practical applications and outcomes, however, these studies remain scattered across different educational applications, necessitating a systematic synthesis of implementation approaches. This review synthesizes emerging empirical findings across six functional categories of LLM applications, including \*Chatbots, Learning Content Generation, Automated Assessment and Feedback, Task Support Tools, Learning Support Tools, and Intelligent Tutoring Systems\*, providing evidence-based insights for implementation across diverse educational settings.
+In particular, this systematic review adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines [(Liberati et al., 2009)](#bib0255), spanning from the launch of ChatGPT to when this review was conducted. This time frame captures the transformative period following ChatGPT’s release. The release of ChatGPT marked a significant milestone in educational technology, catalyzing unprecedented development and implementation of LLMs, including advanced architectures such as GPT-J, BLOOM, GODEL, and Cohere Sandbox [(Lin et al., 2024)](#bib0265). This period witnessed significant shifts in pedagogical approaches and technological integration, characterized by an exponential increase in empirical research examining the effectiveness, limitations, and implications of LLM-based tools ([Chen, 2023](#bib0075); [Lyu et al., 2024](#bib0305); [Yuan et al., 2023](#bib0605)). Focusing on this period, our review encompasses emerging research findings and practical applications, providing critical insights into the immediate effects and future directions of LLM integration in educational settings. This focused approach facilitates a thorough examination of how these advanced LLMs are reshaping educational practices, contributing to the growing body of knowledge regarding the transformation of teaching and learning in the era of GenAI technology.
+This review comprehensively analyzes three key aspects of LLM integration in education, including applications across different educational contexts, demonstrated benefits, and emerging challenges and concerns. Our analysis encompasses the full spectrum of formal education, from Kindergarten through Year 12 (K-12) ([Chen, 2023](#bib0075); [Hong et al., 2024](#bib0190)) to Higher Education (HE) ([Gasaymeh and Almohtadi, 2024](#bib0170); [Hwang and Nurtantyana, 2022](#bib0205)), examining how LLMs impact teaching methodologies, support student learning, and transform assessment practices. We specifically focus on data-driven experimental case studies that provide concrete evidence of LLM effectiveness and impact on educational outcomes.
+The remainder of this paper is organized as follows. [Section 2](#s0010) presents a comprehensive and critical review of the related literature. [Section 3](#s0015) details the study methodology, including coding procedures, categorization rationale, research questions, search strategy, and inclusion and exclusion criteria. [Section 4](#s0040) presents the screening results following PRISMA guidelines and summaries of the empirical results derived from our systematic analysis. [Section 5](#s0075) provides an in-depth discussion of the findings by critically introducing LLM-based applications, examining their benefits and challenges within educational settings. Finally, [Section 6](#s0185) concludes the paper by synthesizing the key insights and offering recommendations for future research directions.
+## 2. Related work
+The accelerating evolution of GenAI and its applications in education has emerged as a prominent research focus, with scholarly publications exploring GenAI in educational contexts experiencing exponential growth ([Han, 2025](#bib0180); [Mondego & Aziz, 2024](#bib0340); [Qi & Zhu, 2025](#bib0435)). The integration of GenAI tools, primarily LLMs, has prompted extensive examination of their transformative potential in teaching and learning practices ([Ma et al., 2025](#bib0310); [Samala et al., 2024](#bib0460)). Recent literature reveals a clear evolution in research focus, shifting from broad terms such as “AI” toward more specific concepts including “ChatGPT”, “large language models“, and “personalized learning” ([Han, 2025](#bib0180); [Întorsureanu et al., 2025](#bib0215)), with ChatGPT emerging as a versatile tool across teaching, learning, assessment, and academic operations [(van Rensburg & Reedy, 2024)](#bib0535).
+However, GenAI is increasingly recognized as a double-edged sword in education, offering transformative opportunities while introducing significant risks ([Chithara & Madzvamuse, 2024](#bib0100); [Kutty et al., 2024](#bib0235); [Pit et al., 2024](#bib0425)). While students generally embrace its supportive and efficiency-enhancing capabilities, educators remain cautious about potential threats to academic integrity and critical thinking skills [(Chithara & Madzvamuse, 2024)](#bib0100). Despite these concerns, overall academic sentiment toward GenAI in education has shifted from neutral to positive between 2023 and 2024, indicating growing acceptance of its integration in educational contexts [(Întorsureanu et al., 2025)](#bib0215).
+To better understand these evolving perspectives, researchers have conducted comprehensive systematic reviews on the implementation of LLMs in education. [Table 1](#tbl0005) presents a systematic review summary that synthesizes key contributions across the literature.
+Table 1. Summary of related systematic review studies on LLMs in education.
+| Citation | Domain | Coverage period | Contributions |
+| --- | --- | --- | --- |
+| ChatGPT in English Language Teaching (ELT) [(Adipat, 2025)](#bib0010) | ELT | 2020–2024 | ChatGPT’s opportunities, challenges, and ethical considerations. |
+| LLM in Higher Education [(Chhina et al., 2023)](#bib0095) | HE | 2018–2023 | Benefits and challenges of LLMs in higher education. |
+| ChatGPT in ELT [(Wang, Hanafi Zaid, et al., 2024)](#bib0560) | ELT | 2023–2024 | Opportunities, challenges, and trends in applying ChatGPT in ELT. |
+| Open-Source LLMs in Education [(Lin et al., 2024)](#bib0265) | General Education | 2023–2024 | Open-source LLMs and their suitability for educational applications in English-speaking contexts. |
+| LLMs in Medical Education [(Lucas et al., 2024)](#bib0300) | Medical Education | 2022–2024 | LLMs’ application, opportunities and challenges in medical education. |
+| ChatGPT’s Pros and Cons in Learning and Teaching [(Samala et al., 2024)](#bib0460) | General Education | 2018–2023 | Advantages and disadvantages of ChatGPT and its role as a supportive learning tool. |
+| ChatGPT in Healthcare Education [(Sallam, 2023)](#bib0455) | Healthcare Education | 2022–2023 | Benefits and limitations of ChatGPT’s utility in healthcare education, scientific research, and practice. |
+| ChatGPT on Critical Thinking [(Melisa et al., 2025)](#bib0320) | HE | 2023–2024 | ChatGPT’s impact on students’ critical thinking and evaluative judgment. |
+| LLM-based Code Generation Models [(Cambaz & Zhang, 2024)](#bib0060) | Programming Education | 2018–2023 | LLM-based code generation models in teaching and learning practices, along with their characteristics, evaluation indicators, and considerations for integration. |
+| AI and LLMs in Learning and Teaching [(Xu, Gu & Lu, 2024)](#bib0590) | HE | 2020–2024 | Benefits and challenges of AI and LLMs in educational practice. |
+While existing systematic reviews ([Table 1](#tbl0005) outlines the details) have examined various aspects of LLM applications in education, they have predominantly relied on studies with mixed theoretical and empirical approaches ([Chhina et al., 2023](#bib0095); [Labadze et al., 2023](#bib0240)). Multiple researchers have identified this empirical research gap and called for more rigorous methodological approaches. [Sekli et al. (2024)](#bib0480) established theoretical foundations by categorizing GenAI applications into seven key areas, but emphasized the pressing need for empirical research to assess practical effectiveness. Similarly, [Ma et al. (2025)](#bib0310) advocated for future research to move beyond satisfaction surveys toward measuring actual educational impact and comparing outcomes to traditional methods. In response to this gap, [Nguyen and Truong (2025)](#bib0355) observed a significant shift from theoretical discussions to practical deployment in personalized learning, assessments, and classroom support. Building on this foundation, this study focuses exclusively on empirical evaluations of LLM-based educational applications, examining evidence-based findings of their measurable impact on learning outcomes and teaching effectiveness compared to traditional instructional methods through a systematic analysis of real-world implementations.
+## 3. Materials and methodology
+This systematic review follows the PRISMA guidelines, ensuring a methodologically rigorous and transparent research process. It addresses the following research questions:
+\* •
+\*\*RQ1:\*\* What are the primary applications and implementations of LLMs in educational settings, as demonstrated through empirical studies?
+\* •
+\*\*RQ2:\*\* What empirical evidence exists regarding the benefits and positive impacts of LLM integration on teaching and learning outcomes in educational environments?
+\* •
+\*\*RQ3:\*\* What are the key challenges and concerns associated with implementing LLM-based educational technologies, as identified through empirical research?
+To systematically address these research questions, studies were classified according to three analytical dimensions following established systematic review practices ([Imran & Almusharraf, 2023](#bib0210); [Lo, Hew & Jong, 2024](#bib0280); [Lo, Yu, et al., 2024](#bib0285)). The classification framework encompassed geographical distribution to identify regional publication patterns, domain classification to capture discipline-specific applications, and educational context categorization to identify level-specific pedagogical applications.
+A systematic coding procedure was implemented with one researcher serving as the primary coder for all included studies, while a three-member research team engaged in regular collaborative verification sessions to ensure validity and interpretive consistency through consensus adjudication. Each study was systematically coded using Microsoft Excel spreadsheets with predefined columns for each coding dimension, including LLM applications and implementations, reported benefits and positive outcomes, identified challenges and concerns, geographical context, educational domain, and target educational level. Most coding categories were straightforward to identify based on explicit information in the studies. However, only a small number of cases presented ambiguous classifications. These ambiguous cases were flagged in a dedicated spreadsheet column with detailed annotation notes describing the specific interpretive uncertainties and potential alternative classifications. During verification meetings, each flagged case was addressed through structured consensus adjudication. Team members first independently reviewed the flagged section in the original paper, then each member verbally presented their interpretation and supporting evidence from the text. Discrepancies were discussed systematically until all team members reached an agreement on the most appropriate classification. The final consensus decision, along with the supporting rationale and specific text references, was documented in the corresponding Excel cell notes. This collaborative verification approach provided systematic quality control while maintaining interpretive consistency across all coded data.
+### 3.1. Search strategy
+A comprehensive literature search was performed across three reputable academic databases, including Scopus, IEEE Xplore, and ACM Digital Library, to ensure high-quality paper selection and comprehensive coverage of relevant research. The search targeted publications between November 2022 and March 2025, reflecting the rapid evolution and recent advancements in LLM-based educational applications. The search strategy was carefully designed to identify empirical studies investigating the application of LLMs, deployed as adaptive learning systems and as learning and teaching assistants within educational contexts.
+The search query was formulated using relevant keywords and Boolean operators to encompass a broad spectrum of pertinent studies, as shown in [Table 2](#tbl0010).
+Table 2. Search strategy.
+| Category | Connector | Search terms |
+| --- | --- | --- |
+| Educational Content | (pedagog\\* OR educat\\* OR student\\* OR “academic achievement” OR “academic performance” OR learner\\* OR teach\\* OR curricul\\* OR “e-learning” OR “K12”) |
+| Technology Focus | AND | (“large language model” OR LLM\\* OR “Generative artificial intelligence” OR “GenAI” OR “generative AI” OR “AI models” OR “AI-based” OR “AI-powered” OR “ChatGPT”) |
+| Application Focus | AND | (“learning analytics” OR “adaptive learning” OR “personalized learning” OR “customized learning” OR “individualized learning” OR “data-driven learning” OR “predictive analytics” OR “predictive learning” OR “intelligent tutoring systems”) |
+### 3.2. Inclusion and exclusion criteria
+To ensure the relevance and quality of the studies included in this review, specific inclusion and exclusion criteria were established:
+#### 3.2.1. Inclusion criteria
+\* •
+Peer-reviewed articles published in English-language scholarly journals or conference proceedings.
+\* •
+Empirical studies presenting original, evidence-based findings from the systematic collection and analysis of data involving real participants, such as students or educators interacting with LLM-based educational systems in authentic or controlled settings.
+\* •
+Publications within the specified time frame, from November 2022 to March 2025.
+\* •
+Studies conducted in formal educational contexts, including K–12 and higher education institutions.
+\* •
+Research focusing on LLM applications in education.
+\* •
+Studies that employ systematic evaluation methods using quantitative, qualitative, or mixed-method approaches and report evidence such as participants’ feedback, learning outcomes, behavioral data, or expert evaluations.
+#### 3.2.2. Exclusion criteria
+\* •
+Studies presenting non-empirical content, including theoretical frameworks, conceptual papers, literature reviews, opinion pieces, position papers, and meta-analyses, were excluded to maintain focus on primary findings.
+\* •
+Research conducted in non-traditional educational contexts, such as professional training, informal learning settings, or lifelong learning initiatives, was excluded to ensure consistency in educational environment analysis.
+\* •
+Publications that failed to demonstrate methodological rigor through clear methodology, empirical data, or explicit educational implications were excluded to maintain the quality standards of the review.
+\* •
+Studies focusing solely on machine learning, deep learning, or traditional AI applications without incorporating LLM components were excluded to maintain a specific focus on contemporary LLM-based educational technologies.
+## 4. Result
+The systematic review process was executed in multiple phases following the PRISMA guidelines. The initial search yielded 3344 potentially relevant publications across the selected databases. Following the predetermined inclusion criteria emphasizing peer-reviewed publications, a preliminary screening was conducted to remove duplicates and non-journal or non-conference literature, resulting in 2022 unique journal or conference papers for further evaluation. The subsequent screening phase systematically assessed titles and abstracts against the predefined research questions and inclusion criteria. This process led to a further exclusion of 214 records that did not align with the review’s focus on educational settings, yielding 1808 publications for full-text examination. In the final screening phase, a rigorous full-text analysis evaluated the methodological robustness and empirical validity of the remaining studies. This comprehensive assessment resulted in the exclusion of 1720 publications that either lacked empirical research methodology or did not focus on LLM applications in education. The final corpus comprised 88 studies that demonstrated robust empirical evidence for LLM applications in educational contexts. The complete screening process is illustrated in the PRISMA flow diagram ([Fig. 1](#fig0005)).
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr1.jpg)
+1. [Download: Download high-res image (527KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr1\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr1.jpg)
+Fig. 1. Record screening process based on the PRISMA guidelines.
+### 4.1. Geographical distribution
+[Fig. 2](#fig0010) shows that China leads the geographical distribution of studies as the largest contributor, accounting for 22 studies (25.0 %), followed by the USA with 16 studies (18.2 %). Asia shows the highest regional concentration at 54.5 % (n = 48), with China (n = 22) being the primary contributor, followed by Taiwan (n = 8), South Korea (n = 6), and equal contributions from the Philippines, Saudi Arabia, Singapore, and Vietnam (n = 2 each). North America represents the second-highest regional concentration (19.3 %, n = 17), predominantly due to the USA’s contributions (n = 16), with Canada adding one study. The European region demonstrates greater geographical diversity, contributing 18.2 % (n = 16) of the studies, distributed across 12 countries. Germany leads the European contributions with five studies, followed by Switzerland (n = 2), and nine other countries contributing one study each. Additional contributions come from Africa (4.6 %, n = 4), Oceania (2.3 %, n = 2), and South America (1.1 %, n = 1). This distribution highlights a significant concentration of research output in a few key countries, particularly China and the USA, which in total account for 43.2 % of all studies.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr2.jpg)
+1. [Download: Download high-res image (365KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr2\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr2.jpg)
+Fig. 2. Distribution of studies by region.
+### 4.2. Domain distribution
+[Fig. 3](#fig0015) shows the distribution of studies by domain, revealing that the Computer and Technology domain dominates the field with 38.6 % (n = 34) of the total studies. Within this domain, Programming represents the largest subset with 19 studies, followed by Computer Science (n = 6), while Computational Thinking and Data Science each contribute two studies, and Cybersecurity, Software Engineering, AI, VR, and Data Literacy each contribute one study. The Language Learning and Writing domain emerges as the second most prominent domain, accounting for 25.0 % (n = 22) of the studies, with Writing (n = 16) and non-writing Language Learning (n = 6) comprising this category. The STEM domain constitutes 18.2 % (n = 16) of the studies. Mathematics dominates this category with eight studies, followed by general STEM education (n = 3), Engineering and Science (n = 2 each), and Biology (n = 1). The Others category comprises 9.1 % (n = 8) of the studies and includes diverse domains such as Healthcare (n = 3), Reading (n = 2), and single studies in Art, Management, and Storytelling Skills. Additionally, studies without specified educational domains account for another 9.1 % (n = 8) of the total. This distribution highlights a significant concentration of research in Computer and Technology and Language Learning and Writing, which collectively represent 63.6 % of the total studies.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr3.jpg)
+1. [Download: Download high-res image (354KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr3\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr3.jpg)
+Fig. 3. Distribution of studies by domain.
+### 4.3. Educational contexts distribution
+The educational level distribution of the included studies focused exclusively on formal education settings, with Higher Education comprising 76.1 % (n = 67) and K-12 representing 23.9 % (n = 21) of the studies. We excluded studies conducted outside formal K-12 and higher education institutions, including vocational training and lifelong learning, as well as informal learning settings. This approach aligns with our primary research question, examining empirical implementations of LLMs in established educational settings. By concentrating on formal learning environments, where educational goals and assessment methods are consistently applied, we can make more reliable generalizations about LLM educational applications.
+### 4.4. Summary of LLM-based applications in education
+LLMs facilitate diverse applications across educational contexts, each serving different primary pedagogical purposes, as shown in [Table 3](#tbl0015). Specifically, chatbots facilitate real-time, human-like interactions, serving as accessible learning companions that provide immediate responses to student queries. Learning Content Generation applications create customized educational materials and assessments aligned with curriculum requirements. Automated Assessment and Feedback applications provide immediate, personalized responses to student work or performance, offering constructive suggestions for improvement. Task Support Tools offer step-by-step guidance in problem-solving scenarios, facilitating the practical application of knowledge, while Learning Support Tools enhance the learning experience by providing explanations and supplementary materials related to knowledge acquisition. Intelligent Tutoring Systems integrate LLM capabilities to create adaptive learning environments that respond to individual student needs, learning styles, and learning paces. Together, these applications represent a comprehensive ecosystem of LLM-powered tools that impact student engagement and learning outcomes across educational settings. While these categories provide a practical analytical framework, we acknowledge that many applications serve multiple functions, reflecting the versatile nature of LLM technology. Therefore, when applications exhibit characteristics of multiple categories, we classified them based on their primary pedagogical purpose as described in the original studies.
+Table 3. Compilation of research studies proposing LLM-based applications.
+| Applications | References |
+| --- | --- |
+| Chatbots | [Chen and Chen (2023)](#bib0070); [Chen, Juan, et al. (2024)](#bib0080); [Chen (2023)](#bib0075); [Looi and Jia (2025)](#bib0295); [Mohammed et al. (2025)](#bib0335) |
+| Learning Content Generation | [Bezirhan and von Davier (2023)](#bib0045); [Chen et al. (2023)](#bib0090); [Choi et al. (2024)](#bib0110); [Elmourabit et al. (2024)](#bib0145); [Liu et al. (2025)](#bib0270); [Logacheva et al. (2024)](#bib0290); [Norberg et al. (2024)](#bib0360); [Pesovski et al. (2024)](#bib0415); [del Carpio Gutierrez et al. (2024)](#bib0130) |
+| Automated Assessment and Feedback | [Ahmed et al. (2025)](#bib0015); [Alshammari (2025)](#bib0020); [Bergerhoff et al. (2025)](#bib0035); [Cagliero et al. (2024)](#bib0055); [Choi and Kim (2025)](#bib0105); [Dai et al. (2023)](#bib0125); [Hadyaoui and Cheniti-Belcadhi (2024)](#bib0175); [Hutt et al. (2024)](#bib0200); [Hwang and Nurtantyana (2022)](#bib0205); [Jansen et al. (2025)](#bib0220); [Meyer et al. (2024)](#bib0325); [Nguyen and Park (2025)](#bib0350); [Ouyang et al. (2024)](#bib0390); [Riazi and Rooshenas (2025)](#bib0450); [Singh et al. (2024)](#bib0485); [Su et al. (2024)](#bib0500); [Wang et al. (2025)](#bib0555); [Xiao and Liu (2025)](#bib0575) |
+| Task Support Tools | [Fan et al. (2025)](#bib0150); [Hou et al. (2024)](#bib0195); [Li (2023)](#bib0250); [Ohm et al. (2024)](#bib0370); [Ouaazki et al. (2024)](#bib0385); [Qureshi (2023)](#bib0445); [Torres (2023)](#bib0525); [Tsao et al. (2024)](#bib0530); [Vishnumolakala et al. (2024)](#bib0540); [Xiao and Liu (2025)](#bib0580); [Yang et al. (2024)](#bib0600); [Yunianto et al. (2024)](#bib0610); [Zhang et al. (2023)](#bib0620); [Zhu et al. (2025)](#bib0630) |
+| Learning Support Tools | [Alvarez (2024)](#bib0025); [Bešlić et al. (2024)](#bib0040); [Canonigo (2024)](#bib0065); [Chen, Jiang, et al. (2024)](#bib0085); [Feng and Wang (2025)](#bib0160); [Gao et al. (2024)](#bib0165); [Gasaymeh and Almohtadi (2024)](#bib0170); [Hong et al. (2024)](#bib0190); [Jin et al. (2024)](#bib0225); [Kumar et al. (2024)](#bib0230); [Liffiton et al. (2024)](#bib0260); [Mi and Li (2025)](#bib0330); [Oktarin et al. (2024)](#bib0375); [Pears et al. (2024)](#bib0405); [Peng et al. (2023)](#bib0410); [Qin et al. (2024)](#bib0440); [Tang et al. (2024)](#bib0510); [Xu and Liu (2025)](#bib0585); [Yuan et al. (2023)](#bib0605); [Zhou et al. (2024)](#bib0625) |
+| Intelligent Tutoring Systems | [Abolnejadian et al. (2024)](#bib0005); [Baba et al. (2024)](#bib0030); [Chun et al. (2025)](#bib0115); [Civit et al. (2024)](#bib0120); [Faruqui et al. (2024)](#bib0155); [Lai and Lin (2025)](#bib0245); [Liu et al. (2024)](#bib0275); [Lyu et al. (2024)](#bib0305); [Mejia-Domenzain et al. (2025)](#bib0315); [Nam et al. (2024)](#bib0345); [Nutalapati et al. (2024)](#bib0365); [Panwale and Vijayakumar (2025)](#bib0395); [Park et al. (2024)](#bib0400); [Pian et al. (2024)](#bib0420); [Santhosh et al. (2024)](#bib0465); [Sarshartehrani et al. (2024)](#bib0470); [Schmucker et al. (2024)](#bib0475); [Son et al. (2024)](#bib0490); [Soudi et al. (2023)](#bib0495); [Teng et al. (2024)](#bib0520); [Wei and Yan (2024)](#bib0565); [Wong et al. (2023)](#bib0570) |
+### 4.5. Summary of benefits of LLMs in educational applications
+As suggested by many studies, LLM can benefit learners, teachers, and education systems in different ways. The benefits discussed across the reviewed papers are illustrated in [Fig. 4](#fig0020)(a), including enhanced academic performance across multiple contexts, increased student motivation and engagement, strengthened cognitive and skill development, optimized resource utilization and cost efficiency, and improved accessibility of learning resources and immediate feedback mechanisms. Specifically, academic performance emerged as the most commonly reported benefit (n = 45), followed by motivation and engagement (n = 34) and cognitive development and skill enhancement (n = 26). The prominence of academic performance can be attributed to our inclusion criteria, which emphasize empirical studies that typically evaluate measurable outcomes such as test scores, grades, and other quantifiable academic metrics. Additionally, resource optimization and cost efficiency were discussed in 16 papers, whereas accessibility was addressed in 13 studies. These benefits collectively highlight the positive impact of LLMs on educational experiences and outcomes.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr4.jpg)
+1. [Download: Download high-res image (217KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr4\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25001699-gr4.jpg)
+Fig. 4. Benefits and challenges discussed based on the studies selected.
+### 4.6. Summary of challenges and concerns of LLMs in educational
+The distribution of challenges cited across the reviewed papers is illustrated in [Fig. 4](#fig0020)(b). These challenges encompass over-reliance, technical reliability and hallucination, assessment evolution and fairness, and privacy and security. Specifically, technical reliability and hallucination emerged as the most frequently discussed challenges (n = 28), followed by over-reliance (n = 17), assessment evolution and fairness (n = 8), and privacy and security (n = 6). The prominence of technical reliability concerns reflects the current state of LLM technology, where issues such as system hallucination, inconsistent accuracy, and algorithmic biases pose significant barriers to educational implementation. Additionally, concerns about over-reliance on auto-generated content indicate pedagogical challenges related to maintaining student autonomy and critical thinking skills. The relatively limited discussion of assessment evolution and fairness (n = 8) and privacy and security (n = 6) suggests that these areas may require more research attention, particularly given their importance for institutional adoption and ethical deployment. These challenges collectively underscore the need for careful consideration of technical, ethical, and pedagogical factors when implementing LLMs in educational settings.
+## 5. Discussion
+LLMs possess distinctive technological features that fundamentally reshape educational possibilities through their natural language processing capabilities for interactive dialogue engagement, generative abilities for dynamic content creation, and adaptive and immediate responsiveness to individual learning needs. These capabilities directly translate into diverse educational applications, including interactive chatbots, content generation tools, automated assessment systems, task and learning support tools, and intelligent tutoring systems. These applications find robust theoretical grounding in established educational frameworks. Constructivist learning theory [(Vygotsky, 1978)](#bib0545) validates active knowledge creation, while [Vygotsky](#bib0545)’s ZPD enables personalized scaffolding across multiple contexts. Cognitive Load Theory [(Sweller, 1988)](#bib0505) guides information presentation and processing, and SRL [(Zimmerman, 2000)](#bib0635) informs autonomous skill development. Active Learning principles ([Bonwell & Eison, 1991](#bib0050); [Prince, 2004](#bib0430)) promote engaged participation, and [Hattie and Timperley](#bib0185)’s [(2007)](#bib0185) Feedback Model directs effective feedback mechanisms.
+These theoretical alignments translate into educational benefits, including enhanced cognitive development, improved academic performance, and increased student motivation and engagement. However, the widespread adoption of LLMs in educational contexts also raises concerns regarding over-reliance on LLM-generated responses, technical reliability of their output quality, assessment fairness, and privacy issues related to student data collection and usage.
+### 5.1. Applications
+While previous reviews have examined LLM applications in education ([Cambaz & Zhang, 2024](#bib0060); [Lucas et al., 2024](#bib0300); [Samala et al., 2024](#bib0460)), our categorization provides a comprehensive six-category analytical framework ([Table A2](#tbl0025) outlines the details) that captures technological capabilities and pedagogical applications across multiple educational domains while exclusively focusing on empirical evidence from actual implementations, rather than being limited to specific disciplines or combining theoretical and empirical studies. These categories represent the broad spectrum of LLM integration in educational settings, ranging from basic prompt engineering for content creation to sophisticated personalized learning systems.
+Due to the versatile nature of LLMs, these applications often share functionalities. For instance, chatbots frequently incorporate feedback generation features [(Chen and Chen, 2023)](#bib0070), while Learning Support Tools share characteristics with Task Support Tools in providing guided assistance, particularly evident in programming education [(Liffiton et al., 2024)](#bib0260). Nevertheless, we maintain distinct categories because they differ in their primary pedagogical intent. Learning Content Generation applications primarily focus on creating educational materials, while chatbots specialize in providing immediate, real-time support through conversational interfaces. Feedback-oriented applications prioritize assessment and improvement, Task Support Tools emphasize completion of specific academic activities, Learning Support Tools emphasize enhancing the overall learning experience, and intelligent tutoring systems focus on personalization and individualized learning pathways.
+Within this framework, our review revealed a predominance of publications on intelligent tutoring systems, aligning with current empirical research trends that have evolved from evaluating simple chatbot interactions to rigorously investigating sophisticated systems with advanced personalization capabilities. This shift reflects the field’s increasing emphasis on comprehensive integration of multiple functionalities, from interactive dialogue systems to adaptive learning pathways, making these applications particularly rich areas for empirical investigation. The following sections provide a detailed analysis of each LLM application category, examining their specific implementations and empirical evidence of effectiveness.
+#### 5.1.1. Chatbots
+Recent studies have demonstrated successful implementations of LLM-powered chatbots in education, leveraging their human-like conversational capabilities to transcend the temporal and spatial constraints of traditional educational support ([Chen and Chen, 2023](#bib0070); [Chen, 2023](#bib0075); [Mohammed et al., 2025](#bib0335)). These interactions facilitate meaningful knowledge acquisition and generate insights through conversational engagement, while students also benefit from the flexibility to interact at their own pace ([Looi and Jia, 2025](#bib0295); [Mohammed et al., 2025](#bib0335)). This efficiency and flexibility are further enhanced by leveraging messaging services like Line-ChatBot to provide natural learning assistance through real-time guidance [(Chen and Chen, 2023)](#bib0070). Furthermore, the conversational continuity feature of LLMs, rather than isolated question-answering, serves as a key determinant of pedagogical effectiveness. The persistent dialogue structure has been demonstrated to offer interactive guidance for time and task management designed to foster grit and a growth mindset [(Chen, Juan, et al., 2024)](#bib0080), both identified as significant predictors of academic success in growth mindset theory [(Dweck et al., 2014)](#bib0140) and grit theory [(Duckworth et al., 2007)](#bib0135).
+#### 5.1.2. Learning content generation
+Conventional development processes for educational content remain expensive, time-consuming, and labor-intensive due to dependence on human specialists [(Bezirhan and von Davier, 2023)](#bib0045). LLM-driven content generation not only addresses these efficiency barriers but also enables a fundamental shift from static syllabi and standardized materials toward dynamic, adaptive educational resources ([Liu et al., 2025](#bib0270); [Logacheva et al., 2024](#bib0290); [Pesovski et al., 2024](#bib0415)). This potential unfolds in diverse applications, including content transformation that reconceptualizes material presentation to enhance pedagogical accessibility and reduce cognitive load and linguistic barriers ([Choi et al., 2024](#bib0110); [Liu et al., 2025](#bib0270); [Norberg et al., 2024](#bib0360)), as well as personalized content generation tailored to specific age groups and individual needs ([Chen et al., 2023](#bib0090); [Logacheva et al., 2024](#bib0290); [del Carpio Gutierrez et al., 2024](#bib0130)). Quality evaluations demonstrate that carefully prompted systems produce content comparable to human-authored materials [(Bezirhan and von Davier, 2023)](#bib0045), with GPT-generated exams under teacher supervision significantly outperforming both traditional teacher-written and unsupervised AI-generated exams [(Elmourabit et al., 2024)](#bib0145).
+#### 5.1.3. Automated assessment and feedback
+The provision of effective feedback remains a cornerstone of educational practice, supporting learners in bridging the gap between current and target performance. However, increasing teaching workloads and large class sizes constrain educators’ capacity to deliver personalized feedback [(Xiao and Liu, 2025)](#bib0575), often resulting in students receiving insufficient or no feedback [(Meyer et al., 2024)](#bib0325). LLMs can address this constraint through automated assessment and personalized feedback provision. In automated assessment, LLM-powered systems achieve reliability comparable to human evaluators, with strong correlation to instructor assessments ([Bergerhoff et al., 2025](#bib0035); [Dai et al., 2023](#bib0125); [Hadyaoui and Cheniti-Belcadhi, 2024](#bib0175); [Nguyen and Park, 2025](#bib0350)), though challenges like stringent grading and occasional misclassification errors remain [(Cagliero et al., 2024)](#bib0055). Beyond assessment, LLM feedback rooted in constructivist principles demonstrates positive cognitive and affective-motivational outcomes through adaptive, in-depth guidance ([Alshammari, 2025](#bib0020); [Meyer et al., 2024](#bib0325); [Wang et al., 2025](#bib0555)), providing writing revision suggestions and examples ([Hwang and Nurtantyana, 2022](#bib0205); [Xiao and Liu, 2025](#bib0575)), code-specific guidance that fosters autonomous motivation ([Choi and Kim, 2025](#bib0105); [Ouyang et al., 2024](#bib0390)), and iterative refinement that progressively addresses issues [(Riazi and Rooshenas, 2025)](#bib0450).
+However, LLM-based systems cannot fully replace human pedagogical relationships [(Ahmed et al., 2025)](#bib0015). Evidence reveals engagement challenges, as [Jansen et al. (2025)](#bib0220) found that approximately half of students make no revisions after receiving ChatGPT-generated feedback, and research shows that GPT’s scaffolding quality varies considerably depending on problem complexity [(Singh et al., 2024)](#bib0485). These patterns underscore that pedagogical effectiveness depends not only on feedback quality but also on developing students’ capacities to critically evaluate and appropriately implement LLM-generated feedback [(Su et al., 2024)](#bib0500).
+#### 5.1.4. Task support tools
+LLMs function effectively as task support tools across diverse educational domains, with their scaffolding capabilities broadly characterized across pre-task preparation, task implementation, and review dimensions. In pre-task preparation, these systems assist with brainstorming, ideation, planning and outlining, step-by-step goal recommendations, and rapid draft prototyping ([Li, 2023](#bib0250); [Tsao et al., 2024](#bib0530); [Vishnumolakala et al., 2024](#bib0540); [Xiao and Liu, 2025](#bib0580); [Zhang et al., 2023](#bib0620)). During task implementation, LLMs provide real-time guidance with detailed explanations, pseudocode guidance, progressive hints for different levels of support, and personalized content ([Hou et al., 2024](#bib0195); [Ouaazki et al., 2024](#bib0385); [Qureshi, 2023](#bib0445); [Torres, 2023](#bib0525); [Yang et al., 2024](#bib0600); [Yunianto et al., 2024](#bib0610); [Zhu et al., 2025](#bib0630)). Review-oriented support includes revision while preserving students’ distinctive styles and original ideas, grammar correction, code debugging, and manuscript refinement ([Fan et al., 2025](#bib0150); [Li, 2023](#bib0250); [Vishnumolakala et al., 2024](#bib0540); [Xiao and Liu, 2025](#bib0580); [Yunianto et al., 2024](#bib0610)).
+While LLMs demonstrate effectiveness in immediate task support and completion, considerations arise regarding their impact on deeper learning outcomes and knowledge transfer capabilities ([Fan et al., 2025](#bib0150); [Ohm et al., 2024](#bib0370)). This does not suggest limiting LLM use in academic education, but rather employing it with caution. Recommendations include implementing permissive policies that encourage transparent LLM use [(Ohm et al., 2024)](#bib0370), helping learners develop self-regulated learning skills and maintain metacognitive activity [(Fan et al., 2025)](#bib0150), and encouraging users to double-check LLM outputs rather than relying on them for every aspect of their work [(Ouaazki et al., 2024)](#bib0385).
+#### 5.1.5. Learning support tools
+LLMs function as powerful learning support tools rather than serving as task completion aids through their integration into knowledge construction processes, transforming how students engage with content and develop expertise through sustained interaction ([Tang et al., 2024](#bib0510); [Xu and Liu, 2025](#bib0585)). However, realizing this potential requires developing pedagogical strategies that thoughtfully integrate LLMs as support within human-machine collaborative frameworks rather than as a replacement ([Bešlić et al., 2024](#bib0040); [Mi and Li, 2025](#bib0330)). When appropriately integrated, LLMs strengthen well-established but resource-intensive pedagogical approaches by making them scalable and consistently accessible ([Bešlić et al., 2024](#bib0040); [Jin et al., 2024](#bib0225); [Kumar et al., 2024](#bib0230)). Such approaches include generative learning activities such as learning-by-teaching and learning-by-asking interactions, flipped interactive learning, collaborative tutoring, and reflective practices ([Chen, Jiang, et al., 2024](#bib0085); [Gasaymeh and Almohtadi, 2024](#bib0170); [Jin et al., 2024](#bib0225); [Kumar et al., 2024](#bib0230); [Mi and Li, 2025](#bib0330)). Furthermore, these systems optimize learning through adaptive scaffolding mechanisms that manage cognitive load through step-by-step explanations of concepts, simulation scenarios, personalized tutoring aligned with students’ academic levels, and iterative refinement tailored to individual zones of proximal development ([Alvarez, 2024](#bib0025); [Canonigo, 2024](#bib0065); [Hong et al., 2024](#bib0190); [Liffiton et al., 2024](#bib0260); [Oktarin et al., 2024](#bib0375); [Pears et al., 2024](#bib0405); [Qin et al., 2024](#bib0440); [Xu and Liu, 2025](#bib0585); [Zhou et al., 2024](#bib0625)), helping students comprehend complex concepts and apply knowledge to real-world examples ([Alvarez, 2024](#bib0025); [Feng and Wang, 2025](#bib0160); [Xu and Liu, 2025](#bib0585); [Yuan et al., 2023](#bib0605)). Complementing these student-facing capabilities, systems provide teachers with interaction data and usage analytics that enable monitoring and evaluating student learning progress, supporting informed pedagogical guidance, and ensuring that learning activities align with curricular objectives ([Canonigo, 2024](#bib0065); [Liffiton et al., 2024](#bib0260); [Mi and Li, 2025](#bib0330); [Zhou et al., 2024](#bib0625)).
+However, research reveals important limitations of LLM support in learning contexts. [Peng et al. (2023)](#bib0410) found that while LLM support reduces learning workload, it can inadvertently lead to decreased effort and diminished learning gains. Compounding this concern, [Gao et al. (2024)](#bib0165) reported that students demonstrated low engagement with embedded LLM support, thereby limiting its potential benefits. Indeed, while LLM-assisted learning can enhance learning efficiency, it does not fully address the fundamental challenge of learning initiative [(Feng and Wang, 2025)](#bib0160). These findings underscore that human-machine collaborative teaching can enhance but not replace learner agency in achieving sustained learning outcomes.
+#### 5.1.6. Intelligent tutoring systems
+Among the various applications of LLMs in education, intelligent tutoring systems represent one of the most promising areas for transforming traditional educational approaches. These systems are characterized by dynamic adaptability, offering real-time, context-aware learning guidance ([Baba et al., 2024](#bib0030); [Faruqui et al., 2024](#bib0155); [Son et al., 2024](#bib0490); [Wei and Yan, 2024](#bib0565)). They generate educational materials and recommendations while dynamically adjusting content and coaching strategies based on learners’ academic backgrounds, prior knowledge, and proficiency levels, contributing to self-regulated learning experiences ([Abolnejadian et al., 2024](#bib0005); [Chun et al., 2025](#bib0115); [Mejia-Domenzain et al., 2025](#bib0315); [Nam et al., 2024](#bib0345); [Panwale and Vijayakumar, 2025](#bib0395); [Wong et al., 2023](#bib0570)). Furthermore, these systems can provide differentiated levels of explanation, feedback, and hints tailored to individual learning needs ([Faruqui et al., 2024](#bib0155); [Lai and Lin, 2025](#bib0245); [Liu et al., 2024](#bib0275); [Teng et al., 2024](#bib0520)), thereby shifting from the provision of solutions toward fostering deeper cognitive engagement and critical thinking ([Lai and Lin, 2025](#bib0245); [Lyu et al., 2024](#bib0305); [Nutalapati et al., 2024](#bib0365); [Pian et al., 2024](#bib0420); [Schmucker et al., 2024](#bib0475)). This evolution suggests that the effectiveness of LLM-based intelligent tutoring systems depends less on content optimization and more on their capacity to recognize and respond to learners’ complete educational contexts.
+Current intelligent tutoring systems are advancing toward comprehensive learner modeling that recognizes education as an inherently complex, multidimensional process requiring attention to cognitive, emotional, and behavioral factors ([Park et al., 2024](#bib0400); [Santhosh et al., 2024](#bib0465); [Sarshartehrani et al., 2024](#bib0470)). These systems achieve personalization through multiple assessment mechanisms. They utilize usage metrics such as completion time, error rates, and engagement patterns [(Nutalapati et al., 2024)](#bib0365), real-time physiological monitoring [(Santhosh et al., 2024)](#bib0465), and sophisticated assessment of cognitive states, affective states, and learning styles [(Park et al., 2024)](#bib0400). These mechanisms enable the identification of emotional and cognitive states, including engagement, anxiety, and distraction, which inform adaptive content delivery and personalized instructional strategies [(Sarshartehrani et al., 2024)](#bib0470). Despite these advanced capabilities, intelligent tutoring systems are designed to support rather than replace teachers [(Soudi et al., 2023)](#bib0495), requiring ongoing teacher oversight to ensure pedagogical effectiveness [(Civit et al., 2024)](#bib0120).
+### 5.2. Benefits
+The growing body of empirical research on LLM integration in education reveals substantial benefits and significant uncertainties. These technologies demonstrate improved student performance, with enhanced test scores and faster task completion across language learning, programming, and mathematics ([Feng and Wang, 2025](#bib0160); [Torres, 2023](#bib0525); [Zhu et al., 2025](#bib0630)). LLMs offer key educational benefits, including enhanced motivation through personalized learning, expanded accessibility for remote learners, efficient resource optimization via streamlined assessment and content creation [(Bezirhan and von Davier, 2023)](#bib0045), and potential for developing critical thinking and self-regulated learning capabilities [(Chen et al., 2023)](#bib0090).
+While these academic performance benefits are notable, they can be compromised depending on usage approaches. Students who accept AI-generated responses without reflection may experience diminished critical thinking [(Qin et al., 2024)](#bib0440), whereas those who critically evaluate AI-generated suggestions and actively verify ChatGPT’s output demonstrate enhanced cognitive development [(Hadyaoui and Cheniti-Belcadhi, 2024)](#bib0175). Consequently, emerging research emphasizes the need for pedagogically grounded integration strategies, which are essential for developing evidence-based guidelines that maximize benefits while mitigating risks to authentic learning.
+#### 5.2.1. Academic performance
+While previous reviews ([Adipat, 2025](#bib0010); [Lucas et al., 2024](#bib0300)) have examined LLM applications in isolated educational domains, our review integrates quantitative performance metrics across language learning, writing, and programming contexts, revealing convergent patterns of personalized learning effectiveness, as evidenced in [Table A1](#tbl0020).
+In language learning, LLMs provide real-time feedback on pronunciation, facilitate human-computer dialogues for oral practice, generate customized reading materials, offer writing corrections, deliver translation assistance, and create professional communication simulations. [Feng and Wang (2025)](#bib0160)’s semester-long study documented a 20 % improvement in Chinese college students’ English proficiency compared to a 1.2 % improvement in control groups applying traditional approaches. Writing instruction exhibits similar advantages as students demonstrate enhanced syntactic complexity, accuracy, and overall quality compared to the control group that received traditional writing instruction from teachers ([Li, 2023](#bib0250); [Oktarin et al., 2024](#bib0375); [Wong et al., 2023](#bib0570); [Xiao and Liu, 2025](#bib0580); [Zhou et al., 2024](#bib0625)). Similar impressive outcomes were observed in programming education, with ChatGPT-assisted learners achieving reduced completion times, higher success rates, and improved mean scores across multiple studies ([Choi and Kim, 2025](#bib0105); [Gasaymeh and Almohtadi, 2024](#bib0170); [Lyu et al., 2024](#bib0305); [Nutalapati et al., 2024](#bib0365); [Qureshi, 2023](#bib0445); [Sarshartehrani et al., 2024](#bib0470); [Torres, 2023](#bib0525)). This emerging empirical evidence establishes a foundation for understanding how personalized LLM support can contribute to measurable learning gains across disciplines.
+#### 5.2.2. Cognitive development and skill enhancement
+LLM integration extends beyond performance metrics to foster cognitive development and skill acquisition across multiple dimensions. Research demonstrates enhanced comprehension, improved reasoning efficiency, and strengthened grit and growth mindsets through personalized AI support systems ([Chen, Juan, et al., 2024](#bib0080); [Chen, Jiang, et al., 2024](#bib0085); [Zhu et al., 2025](#bib0630)). The scaffolding mechanisms inherent in LLM interactions prove particularly effective for skill development. Interactive dialogues and problem-solving hints provide structured guidance tailored to learner comprehension levels, managing cognitive load while facilitating inquiry-based learning, self-reflection, and information synthesis ([Teng et al., 2024](#bib0520); [Wang et al., 2025](#bib0555)). This scaffolded approach, aligned with constructivist learning theory [(Yang et al., 2024)](#bib0600), yields measurable improvements in computational thinking, including debugging and programming [(Yunianto et al., 2024)](#bib0610), and enhanced problem-solving abilities [(Alvarez, 2024)](#bib0025). Critical thinking development emerges when students evaluate LLM-generated suggestions, justify their reasoning, and explore alternative approaches [(Hadyaoui and Cheniti-Belcadhi, 2024)](#bib0175), while soft skills such as decision-making, communication, and information gathering improve through articulating clear inquiries [(Pears et al., 2024)](#bib0405). These multifaceted cognitive and skill-based benefits suggest that LLMs function as interactive developmental tools rather than passive knowledge delivery systems.
+#### 5.2.3. Motivation and engagement
+LLM integration demonstrates significant positive impacts on student engagement and motivation, with empirical evidence revealing notably reduced disengagement rates and fewer missing responses compared to traditional instruction ([Abolnejadian et al., 2024](#bib0005); [Baba et al., 2024](#bib0030); [Sarshartehrani et al., 2024](#bib0470); [Tsao et al., 2024](#bib0530); [Wang et al., 2025](#bib0555)). Two key mechanisms drive these motivational benefits. First, personalized learning experiences enhance engagement through customized content that accommodates varying comprehension levels ([Abolnejadian et al., 2024](#bib0005); [Faruqui et al., 2024](#bib0155); [Xu and Liu, 2025](#bib0585)), tiered curriculum approaches enabling diverse success levels [(Wang et al., 2025)](#bib0555), and tailored tasks and materials that increase study time, particularly among students still mastering content ([Logacheva et al., 2024](#bib0290); [Pesovski et al., 2024](#bib0415); [Torres, 2023](#bib0525); [del Carpio Gutierrez et al., 2024](#bib0130)). Second, interactive features improve learner autonomy through context-aware feedback that fosters self-directed learning ([Mohammed et al., 2025](#bib0335); [Xiao and Liu, 2025](#bib0575)). The shift from traditional output-focused assessments to process-oriented instruction yields substantial results, with [Hadyaoui and Cheniti-Belcadhi (2024)](#bib0175) reporting 35 % increases in engagement and motivation through real-time feedback and dynamic task adjustments. Students exhibit enhanced self-regulation through proactive feedback-seeking behavior and improved self-correction capabilities [(Zhou et al., 2024)](#bib0625).
+#### 5.2.4. Accessibility
+Among the various advantages and positive impacts of LLM integration on learning outcomes in educational environments, accessibility emerges as a key benefit. LLMs have fundamentally transformed educational accessibility by democratizing access to learning resources, effectively transcending physical and geographical limitations while facilitating easier access to relevant materials and topics of interest [(Vishnumolakala et al., 2024)](#bib0540). This accessibility extends to the efficiency of information retrieval, with LLM-powered textbook systems providing direct and quick access to specific content without time-consuming manual browsing [(Chun et al., 2025)](#bib0115). The integration of the ChatGPT API within mobile messaging platforms further enhances accessibility by offering cost-effective, on-demand academic support accessible anytime and anywhere [(Chen and Chen, 2023)](#bib0070). Such 24/7 availability proves critically important, especially in contexts with high labor costs [(Yang et al., 2024)](#bib0600) or in resource-constrained environments where traditional educational support may be insufficient [(Olugbade et al., 2024)](#bib0380).
+#### 5.2.5. Resource optimization and cost efficiency
+Another critical benefit of LLM integration in educational environments lies in its cost-effectiveness and capacity for resource optimization. These systems demonstrate efficiency across multiple educational functions, beginning with assessment development, where they reduce time investment requirements [(Bezirhan and von Davier, 2023)](#bib0045). An automated Conversational Assessment (ACA) system developed by [Bergerhoff et al. (2025)](#bib0035) demonstrated impressive performance with a strong correlation (r = 0.92) between ACA-generated and human instructor grades, while achieving dramatic cost reductions, operating at just $0.15 per student compared to approximately $10 for a 10-minute human assessment. Such automated assessment systems exhibit particular value in resource-limited settings [(Olugbade et al., 2024)](#bib0380), enabling efficient management of high-volume tasks such as programming feedback [(Torres, 2023)](#bib0525) and cost-effective development of learning resources [(Pears et al., 2024)](#bib0405). This optimization capability extends to instructional design, where LLMs can address student questions and doubts [(Teng et al., 2024)](#bib0520), while also enabling teachers to create pedagogically meaningful dialogues from existing lectures [(Choi et al., 2024)](#bib0110). By automating time-intensive tasks, LLMs allow educators to redirect efforts toward deeper, more meaningful student interactions [(Abolnejadian et al., 2024)](#bib0005), thereby enhancing the overall quality of education while maintaining cost-effectiveness.
+### 5.3. Challenges and concerns
+The architectural design of LLMs shapes both their capabilities and limitations. LLMs, such as ChatGPT, utilize transformer architectures and deep neural networks to process vast amounts of text data and learn language patterns [(Tayan et al., 2024)](#bib0515). While this design enables sophisticated tasks like language generation and contextual reasoning, the “black box” nature of their billions of parameters raises concerns about transparency and reliability. These LLMs’ reliance on pre-trained data can lead to hallucinations, generating plausible but incorrect responses when facing ambiguous or novel contexts. Furthermore, biases present in training data may be perpetuated through the model’s responses, raising assessment fairness concerns [(Elmourabit et al., 2024)](#bib0145). These technical limitations become particularly problematic when students uncritically accept LLM outputs, fostering over-reliance [(Cagliero et al., 2024)](#bib0055). Finally, the collection and analysis of student data for personalized learning present privacy and security risks that require robust protective measures. The following analysis synthesizes empirical findings across four critical dimensions, including over-reliance, technical reliability, assessment fairness, and privacy considerations.
+#### 5.3.1. Over-reliance
+The integration of LLMs in educational environments presents several critical challenges, with students’ potential overdependence on automated feedback emerging as a primary concern [(Cagliero et al., 2024)](#bib0055). This overdependence manifests in various problematic behaviors, including students accepting LLM-generated responses without questioning or critical evaluation [(Mi and Li, 2025)](#bib0330) and engaging in excessive use of these tools [(Lai and Lin, 2025)](#bib0245). The issue becomes particularly problematic when these LLMs provide helpful responses even to poorly articulated queries, inadvertently reinforcing students’ unsophisticated communication behaviors. Moreover, the immediate availability of assistance may discourage the development of crucial debugging and analytical skills, especially in specialized domains such as data science education [(Yuan et al., 2023)](#bib0605). Indeed, research evidence demonstrates that while ChatGPT offers convenient access to information, this convenience leads to reduced creativity and active meaning-making abilities due to overdependence [(Su et al., 2024)](#bib0500). These findings underscore the critical need for LLM-powered learning tools to carefully balance support provision with the requirement for user effort [(Yuan et al., 2023)](#bib0605).
+#### 5.3.2. Technical reliability and hallucination
+Technical reliability and hallucination constitute critical challenges in LLM integration within educational contexts. Technical reliability issues manifest through infrastructural constraints, including system glitches during assessments and a lack of consistent technical support [(Canonigo, 2024)](#bib0065), while API availability limitations and token restrictions constrain system performance and feedback quality, particularly for complex assignments [(Hutt et al., 2024)](#bib0200). In addition to infrastructural constraints, hallucination represents a fundamental content accuracy challenge. While these systems can generate coherent content, they lack the nuanced understanding and context sensitivity characteristic of human experts [(Bezirhan and von Davier, 2023)](#bib0045). This fundamental limitation leads to hallucinations, particularly in domains requiring strict adherence to ground truth or logical correctness. ChatGPT struggles to distinguish between semantic and syntactic errors in SQL queries [(Cagliero et al., 2024)](#bib0055), generates problematic code errors [(Ouaazki et al., 2024)](#bib0385), and paradoxically demonstrates higher error rates after revising math word problems despite facilitating increased mastery rates [(Norberg et al., 2024)](#bib0360). These persistent inconsistencies and inaccuracies in generated content remain significant barriers to widespread implementation [(Qureshi, 2023)](#bib0445), necessitating careful consideration before large-scale adoption in educational environments.
+#### 5.3.3. Evolution of assessment and fairness
+The emergence of LLM-based tools in educational settings represents a transformation in traditional assessment methodologies and a comprehensive reconsideration of how learning outcomes are measured and validated in contemporary educational environments. However, this technological integration has raised concerns about academic integrity [(Qureshi, 2023)](#bib0445) and fairness in automated assessment [(Canonigo, 2024)](#bib0065). A critical aspect of these concerns centers on algorithmic bias, where algorithms trained on biased data can amplify existing prejudices, potentially leading to discriminatory outcomes such as biased grades or unfair course recommendations [(Elmourabit et al., 2024)](#bib0145). This underscores the need for rigorous bias mitigation strategies and transparent algorithmic decision-making processes [(Canonigo, 2024)](#bib0065). Furthermore, even when LLM-based systems generate student assessments, these evaluations frequently fail to translate into actionable tutoring strategies [(Park et al., 2024)](#bib0400), thereby undermining their practical utility in educational settings. Consequently, successful implementation requires careful consideration of both technical capabilities and human oversight, as emphasized by [Bešlić et al. (2024)](#bib0040).
+#### 5.3.4. Privacy and security
+The implementation of LLM-based educational systems presents privacy and security challenges. The “black box” nature of AI systems raises transparency concerns regarding data processing and decision-making mechanisms. Data privacy is particularly critical in educational contexts, as the collection and analysis of comprehensive student data raise questions about privacy protection and the prevention of unauthorized access or misuse, necessitating robust data security measures to maintain the integrity of educational processes and preserve institutional trust [(Elmourabit et al., 2024)](#bib0145).
+While educational institutions must develop clear guidelines for ethical AI use, including data privacy protocols, bias mitigation strategies, and responsible AI practices [(Olugbade et al., 2024)](#bib0380), current research reveals significant gaps in addressing these data concerns. Among the 88 papers reviewed, only 27.3 % (n = 24) mentioned privacy concerns. Within this subset, nine papers address privacy solely to declare policy adherence, while nine papers mention privacy considerations without providing substantial detail. Notably, only six reviewed papers addressed privacy concerns by proposing specific measures, including cybersecurity protocols, data protection regulations, ethical guidelines, transparent data handling communication, stakeholder awareness initiatives, and encryption technologies.
+This limited research attention to privacy is particularly concerning for K-12 students who require additional protection. While technical solutions like blockchain and federated learning exist, no reliable technology comprehensively addresses privacy concerns in personalized learning environments. These findings underscore the critical need for robust, transparent, and secure AI frameworks that protect student data while enabling practical educational applications.
+### 5.4. Summary of benefits and concerns
+#### 5.4.1. Benefits of LLM integration
+The systematic review highlights five key benefits of LLM implementation in education. LLMs enhance academic performance by improving test scores and task completion rates across diverse educational domains. They foster motivation and engagement through personalized tutoring and adaptive feedback that cultivate enthusiasm and proactive learning. They also promote cognitive development by facilitating critical thinking and problem-solving skills through scaffolding, reflective reasoning, and interactive learning experiences. Additionally, LLMs improve accessibility by transcending geographical and temporal constraints through 24/7 availability. Finally, they optimize resources by automating routine tasks such as assessment and content creation, freeing educators to focus on deeper student engagement and meaningful pedagogical interactions.
+#### 5.4.2. Concerns in LLM applications
+Despite their potential, the review identifies critical challenges that demand careful consideration. The primary concern involves potential student over-reliance, as the very convenience and responsiveness that make LLMs engaging may inadvertently compromise students’ development of independent problem-solving and analytical skills. This pedagogical risk becomes particularly problematic when coupled with significant technical limitations, such as inconsistent accuracy and hallucinations, which can mislead students, especially in high-stakes educational contexts where precision is essential. These technical uncertainties compound automated assessment challenges, as LLM-generated evaluations may introduce subtle biases and inequitable treatment that undermine the fairness and transparency essential to educational assessment. Notably, privacy and ethical considerations underscore the urgent need for comprehensive, secure, and accountable frameworks governing LLM implementation in educational settings.
+## 6. Conclusion
+This systematic review identified six key applications of LLMs, with Intelligent Tutoring Systems emerging as particularly prominent. The findings reveal both benefits and concerns in LLM implementation. The multifaceted benefits highlight LLMs’ potential to enhance academic performance, increase student motivation, improve accessibility, and optimize resource utilization. However, the review also underscores critical concerns, including student over-reliance, technical unreliability, fairness in assessment, and privacy risks.
+LLMs hold immense potential to revolutionize educational environments, as demonstrated by the steadily growing number of publications each month since the launch of ChatGPT, but their optimal use requires thoughtful contextualization and collaboration between systems and human educators. Research consistently indicates that LLMs should supplement, rather than replace, traditional teaching methods to achieve the best outcomes ([Bešlić et al., 2024](#bib0040); [Soudi et al., 2023](#bib0495)). These models are particularly effective in scenarios that benefit from scalability and personalization, such as automated feedback, adaptive learning paths, and low-stakes assessments. In such cases, LLMs can efficiently handle repetitive instructional tasks, enabling educators to dedicate more time to fostering creativity, facilitating deeper engagement, and providing emotional support, where human input remains irreplaceable.
+Several methodological limitations constrain the current evidence base. Most notably, the absence of standardized statistical reporting prevents formal meta-analytic synthesis. While some studies provided effect sizes, others reported only p-values without sufficient variance details for reliable conversion. Additionally, no included studies employed formal quality assessment frameworks such as Grading of Recommendations Assessment, Development and Evaluation (GRADE), the Mixed Methods Appraisal Tool (MMAT), or the Critical Appraisal Skills Program (CASP), limiting our ability to evaluate methodological rigor systematically. As the field matures, adopting standardized evaluation frameworks and consistent statistical reporting will be essential for methodological comparability and comprehensive meta-analytic evidence synthesis.
+The review also highlights the critical need for longitudinal studies to examine the long-term cognitive and behavioral impacts of LLM usage. Current research often focuses on recent implementations and lacks the longitudinal evidence necessary to evaluate sustained effectiveness. Long-term studies could clarify whether continuous exposure to LLM-generated feedback fosters critical thinking and problem-solving skills or leads to passive learning habits.
+Another crucial research avenue involves assessing how well LLM-supported learning transfers to real-world applications, particularly in game-based or simulated learning environments [(Chen, 2023)](#bib0075). This includes exploring strategies to bridge the gap between virtual learning experiences and practical, real-world contexts. Future studies could investigate how LLMs, such as ChatGPT, support the transfer of skills learned during simulations in areas like programming or clinical decision-making to actual professional tasks.
+A notable limitation of this review is the potential positive bias among researchers in the selected studies. Since our inclusion criteria focused on empirical studies involving LLM applications, many authors likely held optimistic perspectives about their innovations. This may have resulted in an overemphasis on benefits relative to challenges. Nevertheless, even within this positively skewed literature, the identified concerns underscore their severity and the urgent need for transparent policies, robust ethical safeguards, and continuous evaluation of LLM outputs to minimize biases and inaccuracies. Future work should focus on developing sophisticated assessment frameworks to distinguish between independent student capability and LLM-dependent performance, ensuring that educational outcomes reflect genuine cognitive growth.
+Despite the limitation of positive bias in our review, our findings reveal an essential gap in the current literature. While conceptual papers dominate the field, empirical studies remain scarce, with only a limited number providing evidence-based insights. Nevertheless, we observe a promising growth trajectory for LLM applications in education. The increasing integration of LLMs represents a positive trend that reflects growing recognition of their transformative potential. However, achieving sustained success will require continued collaborative research among educators, LLM developers, and policymakers to ensure that LLM-augmented learning environments prioritize meaningful, authentic educational experiences while addressing the critical challenges of integrity, privacy, and assessment validity.
+## CRediT authorship contribution statement
+\*\*Yuhong Shi:\*\* Writing – original draft. \*\*Kun Yu:\*\* Writing – review & editing. \*\*Yifei Dong:\*\* Writing – review & editing. \*\*Fang Chen:\*\* Supervision.
+## Statements on open data and ethics
+The data used in this systematic literature review is sourced from publicly available databases and literature sources. No private or confidential data were accessed or used in this review.
+## Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+## Appendix
+See [Table A1](#tbl0020), [Table A2](#tbl0025)
+Table A1. Summary of studies reporting meta-analytic metrics on LLM benefits in education.
+| Citation | Statistical analysis | Educational data analytics |
+| --- | --- | --- |
+| Reported Metric | Effect Size Value | Statistical Significance | Domain | Application | Performance Outcomes |
+| [Alshammari (2025)](#bib0020) | T-test | Cohen’s d=1.412 | t(52)=5.19, p<0.001 | Programming | ChatGPT-enhanced Adaptive E-learning System | Programming test scores |
+| [Alvarez (2024)](#bib0025) | T-test | Not reported | t=−14.453, p<0.001 | Math | LLM-powered tutor | Math tests scores |
+| [Baba et al. (2024)](#bib0030) | T-test | Not reported | t=5.24–6.02 (four subjects), p<0.001 | Multi | LLM-powered personalized learning system | Knowledge test scores |
+| [Canonigo (2024)](#bib0065) | T-test | Cohen’s d=2.36 | t(60)=6.673, p<0.05, CI = [1.13, 2.10] | Math | GeoGebra and ChatGPT | Conceptual understanding test scores |
+| [Chen (2023)](#bib0075) | ANCOVA | Not reported | F=5.94, p=0.003 | Science | GPT-3.5-Turbo | Conceptual test scores |
+| [Chen, Juan, et al. (2024)](#bib0080) | ANCOVA | f=0.148 | F=12.140, p=0.001 | Language | ChatGPT-powered Learning Tool | Proficiency test scores |
+| [Chen, Jiang, et al. (2024)](#bib0085) | T-test | Not reported | p<0.001 | Bio-Inspired Design (BID) | LLMs-driven tool | Quiz scores |
+| [Choi and Kim (2025)](#bib0105) | ANCOVA | η2=0.062 | p<0.001 | Programming | LLM-based programming learning environment | Programming ability test scores |
+| [Chun et al. (2025)](#bib0115) | T-test | Cohen’s d=0.86 | p=0.879 | Health | LLM-powered digital textbooks | Exam scores |
+| [Fan et al. (2025)](#bib0150) | ANOVA | Not reported | CI = [–3.858, –0.083], p=0.037 | Writing | GPT 4.0 | Essay scores |
+| [Feng and Wang (2025)](#bib0160) | T-test | Not reported | p<0.001 | Language | ChatGPT | Exam scores |
+| [Gasaymeh and Almohtadi (2024)](#bib0170) | T-test | Not reported | t(72)=−2.063, p=0.04 | Programming | ChatGPT | Skills test scores |
+| [Hwang and Nurtantyana (2022)](#bib0205) | ANCOVA | η2=0.157 | F(1,68)=12.37, p<0.01 | Writing | GPT-2- powered app | Essay scores |
+| [Li (2023)](#bib0250) | T-test | Not reported | t(41)=2.2.502, p<0.05 | Writing | ChatGPT | Writing test score |
+| [Liu et al. (2024)](#bib0275) | T-test | Not reported | t(29)=−12.5(total), p<0.05 | Language | ChatGPT-powered ITS | English skills test scores |
+| [Looi and Jia (2025)](#bib0295) | T-test | Not reported | t(50)=−9.220, p<0.001, 95 % CI = [–2.030, –1.304] | Writing | ChatGPT | Summary assessment scores |
+| [Lyu et al. (2024)](#bib0305) | T-test | Not reported | t=−2.847, p=0.009 | Programming | LLM-powered assistant | Exam scores |
+| [Meyer et al. (2024)](#bib0325) | Regression Analysis | d=0.19 | p=0.042 | Writing | GPT-3.5-Turbo | Essay revision scores |
+| [Mi and Li (2025)](#bib0330) | T-test | Not reported | t(6)=4.889, p=0.003 | Not specified | SparkDesk | Project scores |
+| [Mohammed et al. (2025)](#bib0335) | ANOVA | η2=0.859 | F(3,201)=408.793, p<0.001 | Computer Science | ChatGPT | Computer Education Achievement Test (CEAT) |
+| [Nutalapati et al. (2024)](#bib0365) | T-test | Cohen’s d=1.04 | t(998)=16.42, p<0.001 | Programming | Fine-tuned GPT-3.5 | Coding assessment scores |
+| [Oktarin et al. (2024)](#bib0375) | T-test | Not reported | t(48)=6.028, p<0.001 | Writing | ChatGPT | English writing test scores |
+| [Panwale and Vijayakumar (2025)](#bib0395) | ANOVA | η2 = 0.07–0.09 | p<0.05 | Language | Google Gemini | Presentation assessment scores |
+| [Pian et al. (2024)](#bib0420) | T-test | Not reported | t=−0.45, p<0.001 | Math | GPT-3.5-Turbo | Knowledge test scores |
+| [Qin et al. (2024)](#bib0440) | T-test | Not reported | t=−5.35, p<0.001 | Nursing | ChatGPT | Theoretical and lab test scores |
+| [Su et al. (2024)](#bib0500) | ANOVA | Not reported | F(2,16)=4.325, p=0.032 | Writing | ChatGPT | Essay scores |
+| [Teng et al. (2024)](#bib0520) | ANOVA | Not reported | F=6.371, p=0.014 | STEM | GPT-4 Turbo | Assessment scores |
+| [Wang et al. (2025)](#bib0555) | ANCOVA | η2=0.572 | F=92.37, p<0.001 | AI | ChatGPT-powered VR Feedback System | Knowledge test scores |
+| [Wei and Yan (2024)](#bib0565) | T-test | Not reported | p<0.001 | VR | Generative Virtual Digital Human | Knowledge test scores |
+| [Xiao and Liu (2025)](#bib0575) | ANCOVA | η2=0.214 (overall) | p<0.005 | Writing | GPT 3.5 | Writing assessments scores |
+| [Xiao and Liu (2025)](#bib0580) | ANCOVA | η2=0.212 | F=18.323, p=0.006 | Writing | ChatGPT | Writing test scores |
+| [Yang et al. (2024)](#bib0600) | Mann– Whitney U | Not reported | U=17.50, p=0.039 | Programming | ChatGPT-powered ITS | Exam scores |
+| [Zhu et al. (2025)](#bib0630) | Wilcoxon test | Not reported | p<0.01 | Math | RAG-powered math story creation tool | Math story score and math question score |
+Table A2. Summary of reviewed studies grouped by application type.
+| Application type | Domains | LLM types | Outcome measures | Citations (n) |
+| --- | --- | --- | --- | --- |
+| Chatbots | Science, Language Learning, Writing, Computer Science | GPT-3.5-Turbo, ChatGPT | Performance, motivation, observations, grit and growth mindset scales | [Chen and Chen (2023)](#bib0070); [Chen, Juan, et al. (2024)](#bib0080); [Chen (2023)](#bib0075); [Looi and Jia (2025)](#bib0295); [Mohammed et al. (2025)](#bib0335) (n = 5) |
+| Learning Content Generation | Reading, Storytelling Skills, STEM, Programming, Computer Science, Mathematics, Software Engineering | GPT-3, GPT-4, GPT-3.5-Turbo, ChatGPT, GPT-4 Turbo | Content quality, performance, usage patterns, learning experience | [Bezirhan and von Davier (2023)](#bib0045); [Chen et al. (2023)](#bib0090); [Choi et al. (2024)](#bib0110); [Elmourabit et al. (2024)](#bib0145); [Liu et al. (2025)](#bib0270); [Logacheva et al. (2024)](#bib0290); [Norberg et al. (2024)](#bib0360); [Pesovski et al. (2024)](#bib0415); [del Carpio Gutierrez et al. (2024)](#bib0130) (n = 9) |
+| Automated Assessment and Feedback | Programming, Data Science, Mathematics, Writing, Science, Computer Science, AI | GPT-4 Turbo, ChatGPT, GPT-4, GPT-2, GPT-3.5 Turbo, Claude 3.5 Sonnet, Gemini 1.5 Flash, GPT-4o, GPT-3.5 | Performance, grading accuracy, engagement, perceptions, learning experience, motivation, cognitive skills, learning behavior, feedback quality | [Ahmed et al. (2025)](#bib0015); [Alshammari (2025)](#bib0020); [Bergerhoff et al. (2025)](#bib0035); [Cagliero et al. (2024)](#bib0055); [Choi and Kim (2025)](#bib0105); [Dai et al. (2023)](#bib0125); [Hadyaoui and Cheniti-Belcadhi (2024)](#bib0175); [Hutt et al. (2024)](#bib0200); [Hwang and Nurtantyana (2022)](#bib0205); [Jansen et al. (2025)](#bib0220); [Meyer et al. (2024)](#bib0325); [Nguyen and Park (2025)](#bib0350); [Ouyang et al. (2024)](#bib0390); [Riazi and Rooshenas (2025)](#bib0450); [Singh et al. (2024)](#bib0485); [Su et al. (2024)](#bib0500); [Wang et al. (2025)](#bib0555); [Xiao and Liu (2025)](#bib0575) (n = 18) |
+| Task Support Tools | Writing, Programming, Cybersecurity, Computational Thinking, Computer Science, Engineering, Mathematics | GPT-4, ChatGPT, GPT-3, GPT-3.5 Turbo, RAG-powered tools | Performance, motivation, SRL process metrics, engagement, usage patterns, learning experience | [Fan et al. (2025)](#bib0150); [Hou et al. (2024)](#bib0195); [Li (2023)](#bib0250); [Ohm et al. (2024)](#bib0370); [Ouaazki et al. (2024)](#bib0385); [Qureshi (2023)](#bib0445); [Torres (2023)](#bib0525); [Tsao et al. (2024)](#bib0530); [Vishnumolakala et al. (2024)](#bib0540); [Xiao and Liu (2025)](#bib0580); [Yang et al. (2024)](#bib0600); [Yunianto et al. (2024)](#bib0610); [Zhang et al. (2023)](#bib0620); [Zhu et al. (2025)](#bib0630) (n = 14) |
+| Learning Support Tools | Mathematics, Engineering, Language Learning, Data Literacy, Programming, Computational Thinking, Computer Science, Writing, Healthcare, Management, Reading | ChatGPT, GPT-4, GPT-3.5 Turbo, GPT-3, Sparkdesk, T5, MixQG | Performance, conceptual understanding, engagement, perceptions, writing and soft skills, cognitive skills, learning experience, usage patterns, observations | [Alvarez (2024)](#bib0025); [Bešlić et al. (2024)](#bib0040); [Canonigo (2024)](#bib0065); [Chen, Jiang, et al. (2024)](#bib0085); [Feng and Wang (2025)](#bib0160); [Gao et al. (2024)](#bib0165); [Gasaymeh and Almohtadi (2024)](#bib0170); [Hong et al. (2024)](#bib0190); [Jin et al. (2024)](#bib0225); [Kumar et al. (2024)](#bib0230); [Liffiton et al. (2024)](#bib0260); [Mi and Li (2025)](#bib0330); [Oktarin et al. (2024)](#bib0375); [Pears et al. (2024)](#bib0405); [Peng et al. (2023)](#bib0410); [Qin et al. (2024)](#bib0440); [Tang et al. (2024)](#bib0510); [Xu and Liu (2025)](#bib0585); [Yuan et al. (2023)](#bib0605); [Zhou et al. (2024)](#bib0625) (n = 20) |
+| Intelligent Tutoring Systems | Programming, Multi domains, Art, Healthcare, Language Learning, Writing, Mathematics, Biology, STEM, VR | ChatGPT, LLaMA-2, GPT-4, GPT-3.5 Turbo, GPT-3.5, Google Gemini, GPT-4 Turbo | Performance, knowledge, engagement, recommendation and prediction accuracy, physiological data, learning experience, usage patterns, feedback | [Abolnejadian et al. (2024)](#bib0005); [Baba et al. (2024)](#bib0030); [Chun et al. (2025)](#bib0115); [Civit et al. (2024)](#bib0120); [Faruqui et al. (2024)](#bib0155); [Lai and Lin (2025)](#bib0245); [Liu et al. (2024)](#bib0275); [Lyu et al. (2024)](#bib0305); [Mejia-Domenzain et al. (2025)](#bib0315); [Nam et al. (2024)](#bib0345); [Nutalapati et al. (2024)](#bib0365); [Panwale and Vijayakumar (2025)](#bib0395); [Park et al. (2024)](#bib0400); [Pian et al. (2024)](#bib0420); [Santhosh et al. (2024)](#bib0465); [Sarshartehrani et al. (2024)](#bib0470); [Schmucker et al. (2024)](#bib0475); [Son et al. (2024)](#bib0490); [Soudi et al. (2023)](#bib0495); [Teng et al. (2024)](#bib0520); [Wei and Yan (2024)](#bib0565); [Wong et al. (2023)](#bib0570) (n = 22) |
+Recommended articles
+## References
+1. [Abolnejadian et al., 2024](#bbib0005)
+AbolnejadianM., AlipourS., TaebK.
+Leveraging Chatgpt for adaptive learning through personalized prompt-based instruction: A cs1 education case study
+Extended abstracts of the CHI conference on human factors in computing systems CHI EA ’24, New York, NY, USA, Association for Computing Machinery (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Leveraging%20Chatgpt%20for%20adaptive%20learning%20through%20personalized%20prompt-based%20instruction%3A%20A%20cs1%20education%20case%20study&publication\_year=2024&author=M.%20Abolnejadian&author=S.%20Alipour&author=K.%20Taeb)
+2. [Adipat, 2025](#bbib0010)
+AdipatS.
+Challenging conventions: Chatgpt’s controversial impacts on educational and English language teaching practices
+Educational Process: International Journal, \*14\* (2025)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Challenging%20conventions%3A%20Chatgpts%20controversial%20impacts%20on%20educational%20and%20English%20language%20teaching%20practices&publication\_year=2025&author=S.%20Adipat)
+3. [Ahmed et al., 2025](#bbib0015)
+AhmedU.Z., SahaiS., LeongB., KarkareA.
+Feasibility study of augmenting teaching assistants with AI for cs1 programming feedback
+Proceedings of the 56th ACM technical symposium on computer science education V. 1 SIGCSETS 2025, New York, NY, USA, Association for Computing Machinery (2025), pp. 11-17
+[Crossref](https://doi.org/10.1145/3641554.3701972)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-86000213775&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Feasibility%20study%20of%20augmenting%20teaching%20assistants%20with%20AI%20for%20cs1%20programming%20feedback&publication\_year=2025&author=U.Z.%20Ahmed&author=S.%20Sahai&author=B.%20Leong&author=A.%20Karkare)
+4. [Alshammari, 2025](#bbib0020)
+AlshammariM.T.
+An investigation into chatgpt-enhanced adaptive e-learning systems
+TEM Journal, \*14\* (1) (2025), pp. 503-510
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105000261196&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20investigation%20into%20chatgpt-enhanced%20adaptive%20e-learning%20systems&publication\_year=2025&author=M.T.%20Alshammari)
+5. [Alvarez, 2024](#bbib0025)
+AlvarezJ.I.
+Evaluating the impact of AI–powered tutors Mathgpt and flexi 2.0 in enhancing calculus learning
+Jurnal Ilmiah Ilmu Terapan Universitas Jambi, \*8\* (2) (2024), pp. 495-508
+[Crossref](https://doi.org/10.22437/jiituj.v8i2.34809)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85209912002&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Evaluating%20the%20impact%20of%20AIpowered%20tutors%20Mathgpt%20and%20flexi%202.0%20in%20enhancing%20calculus%20learning&publication\_year=2024&author=J.I.%20Alvarez)
+6. [Baba et al., 2024](#bbib0030)
+BabaK., FaddouliN.-E.-E., CheimanoffN.
+Mobile-optimized AI-driven personalized learning: A case study at Mohammed VI Polytechnic University
+International Journal of Interactive Mobile Technologies (iJIM), \*18\* (4) (2024), pp. 81-96
+[Crossref](https://doi.org/10.3991/ijim.v18i04.46547)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85187112890&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Mobile-optimized%20AI-driven%20personalized%20learning%3A%20A%20case%20study%20at%20Mohammed%20VI%20Polytechnic%20University&publication\_year=2024&author=K.%20Baba&author=N.-E.-E.%20Faddouli&author=N.%20Cheimanoff)
+7. [Bergerhoff et al., 2025](#bbib0035)
+BergerhoffJ., BendlerJ., StefanovS., CavinatoE., EsserL., TranT., HärmäA.
+Automatic conversational assessment using large language model technology
+Proceedings of the 2024 16th international conference on education technology and computers ICETC ’24, New York, NY, USA, Association for Computing Machinery (2025), pp. 39-45
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85218010951&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Automatic%20conversational%20assessment%20using%20large%20language%20model%20technology&publication\_year=2025&author=J.%20Bergerhoff&author=J.%20Bendler&author=S.%20Stefanov&author=E.%20Cavinato&author=L.%20Esser&author=T.%20Tran&author=A.%20H%C3%A4rm%C3%A4)
+8. [Bešlić et al., 2024](#bbib0040)
+BešlićA., BešlićJ., Kamber HamzićD.
+Artificial intelligence in elementary math education: Analyzing impact on students achievements
+Digital transformation in education and artificial intelligence application, Springer, Cham (2024), pp. 27-40
+[Crossref](https://doi.org/10.1007/978-3-031-62058-4\_3)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85200345052&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20in%20elementary%20math%20education%3A%20Analyzing%20impact%20on%20students%20achievements&publication\_year=2024&author=A.%20Be%C5%A1li%C4%87&author=J.%20Be%C5%A1li%C4%87&author=D.%20Kamber%20Hamzi%C4%87)
+9. [Bezirhan and von Davier, 2023](#bbib0045)
+BezirhanU., von DavierM.
+Automated reading passage generation with openai’s large language model
+Computers and Education: Artificial Intelligence, \*5\* (2023), Article 100161
+[View PDF](/science/article/pii/S2666920X23000401/pdfft?md5=f8f375d79e1fbf4d519b57ecf592820d&pid=1-s2.0-S2666920X23000401-main.pdf)[View article](/science/article/pii/S2666920X23000401)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85168090236&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Automated%20reading%20passage%20generation%20with%20openais%20large%20language%20model&publication\_year=2023&author=U.%20Bezirhan&author=M.%20von%20Davier)
+10. [Bonwell and Eison, 1991](#bbib0050)
+BonwellC.C., EisonJ.A.
+Active learning: Creating excitement in the classroom. 1991 ASHE-ERIC higher education reports, ERIC (1991)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Active%20learning%3A%20Creating%20excitement%20in%20the%20classroom.%201991%20ASHE-ERIC%20higher%20education%20reports&publication\_year=1991&author=C.C.%20Bonwell&author=J.A.%20Eison)
+11. [Cagliero et al., 2024](#bbib0055)
+CaglieroL., FarinettiL., FiorJ., ManentiA.I.
+Chatgpt, be my teaching assistant! automatic correction of SQL exercises
+2024 IEEE 48th annual computers, software, and applications conference (COMPSAC) (2024), pp. 81-87
+[Crossref](https://doi.org/10.1109/compsac61105.2024.00021)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85204089837&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Chatgpt%2C%20be%20my%20teaching%20assistant%20automatic%20correction%20of%20SQL%20exercises&publication\_year=2024&author=L.%20Cagliero&author=L.%20Farinetti&author=J.%20Fior&author=A.I.%20Manenti)
+12. [Cambaz and Zhang, 2024](#bbib0060)
+CambazD., ZhangX.
+Use of AI-driven code generation models in teaching and learning programming: A systematic literature review
+Proceedings of the 55th ACM technical symposium on computer science education V. 1 SIGCSE 2024, New York, NY, USA, Association for Computing Machinery (2024), pp. 172-178
+[Crossref](https://doi.org/10.1145/3626252.3630958)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85189316150&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Use%20of%20AI-driven%20code%20generation%20models%20in%20teaching%20and%20learning%20programming%3A%20A%20systematic%20literature%20review&publication\_year=2024&author=D.%20Cambaz&author=X.%20Zhang)
+13. [Canonigo, 2024](#bbib0065)
+CanonigoA.M.
+Levering AI to enhance students’ conceptual understanding and confidence in Mathematics
+Journal of Computer Assisted Learning, \*40\* (6) (2024), pp. 3215-3229
+[Crossref](https://doi.org/10.1111/jcal.13065)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85203703607&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Levering%20AI%20to%20enhance%20students%20conceptual%20understanding%20and%20confidence%20in%20Mathematics&publication\_year=2024&author=A.M.%20Canonigo)
+14. [Chen and Chen, 2023](#bbib0070)
+ChenB.-H., ChenC.-C.
+Line-chatbot: An innovative application of Chatgpt API and LINE bot for enhanced student learning
+2023 IEEE 6th international conference on knowledge innovation and invention (ICKII) (2023), pp. 452-455
+[Crossref](https://doi.org/10.1109/ickii58656.2023.10332623)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85180761052&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Line-chatbot%3A%20An%20innovative%20application%20of%20Chatgpt%20API%20and%20LINE%20bot%20for%20enhanced%20student%20learning&publication\_year=2023&author=B.-H.%20Chen&author=C.-C.%20Chen)
+15. [Chen, 2023](#bbib0075)
+ChenC.-H.
+Exploring the benefits of chatbots game-based learning in science learning outcomes and motivation
+31st international conference on computers in education, ICCE 2023 - proceedings, Vol. 2 (2023), pp. 400-404
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85181773032&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20the%20benefits%20of%20chatbots%20game-based%20learning%20in%20science%20learning%20outcomes%20and%20motivation&publication\_year=2023&author=C.-H.%20Chen)
+16. [Chen et al., 2024](#bbib0080)
+ChenC.-Y., JuanY.-S., WangJ.-H., YangS.-H., ChenG.-D.
+Integrate an AI chatbot-based learning butler digital system to enhance students’ grit and growth mindset for improving learning outcomes
+2024 IEEE international conference on advanced learning technologies (ICALT) (2024), pp. 21-25
+[Crossref](https://doi.org/10.1109/icalt61570.2024.00013)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85203844528&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Integrate%20an%20AI%20chatbot-based%20learning%20butler%20digital%20system%20to%20enhance%20students%20grit%20and%20growth%20mindset%20for%20improving%20learning%20outcomes&publication\_year=2024&author=C.-Y.%20Chen&author=Y.-S.%20Juan&author=J.-H.%20Wang&author=S.-H.%20Yang&author=G.-D.%20Chen)
+17. [Chen et al., 2024](#bbib0085)
+ChenL., JiangZ., XiaD., CaiZ., SunL., ChildsP., ZuoH.
+Bidtrainer: An llms-driven education tool for enhancing the understanding and reasoning in bio-inspired design
+Proceedings of the 2024 CHI conference on human factors in computing systems CHI ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 1-20
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Bidtrainer%3A%20An%20llms-driven%20education%20tool%20for%20enhancing%20the%20understanding%20and%20reasoning%20in%20bio-inspired%20design&publication\_year=2024&author=L.%20Chen&author=Z.%20Jiang&author=D.%20Xia&author=Z.%20Cai&author=L.%20Sun&author=P.%20Childs&author=H.%20Zuo)
+18. [Chen et al., 2023](#bbib0090)
+ChenX., XieH., ZouD., WangF.L.
+Chatgpt for generating stories and mind-maps in storytelling
+2023 10th international conference on behavioural and social computing (BESC) (2023), pp. 1-8
+[View PDF](/science/article/pii/S0002962922003780/pdfft?md5=ea0afb321f967c8cf11cc8369b7d01a1&pid=1-s2.0-S0002962922003780-main.pdf)[View article](/science/article/pii/S0002962922003780)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Chatgpt%20for%20generating%20stories%20and%20mind-maps%20in%20storytelling&publication\_year=2023&author=X.%20Chen&author=H.%20Xie&author=D.%20Zou&author=F.L.%20Wang)
+19. [Chhina et al., 2023](#bbib0095)
+ChhinaS., AntonyB.J., FirminS.
+Navigating the terrain of large language models in higher education: A systematic literature review
+Proceedings of the Australasian conference on information systems (ACIS), Wellington, New Zealand, Presented at the Australasian Conference on Information Systems (ACIS) (2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Navigating%20the%20terrain%20of%20large%20language%20models%20in%20higher%20education%3A%20A%20systematic%20literature%20review&publication\_year=2023&author=S.%20Chhina&author=B.J.%20Antony&author=S.%20Firmin)
+20. [Chithara and Madzvamuse, 2024](#bbib0100)
+ChitharaH., MadzvamuseS.
+Perspectives on teaching and learning in higher education in the era of generative AI
+2024 4th international multidisciplinary information technology and engineering conference (IMITEC) (2024), pp. 81-85
+[Crossref](https://doi.org/10.1109/imitec60221.2024.10851078)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85218336036&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Perspectives%20on%20teaching%20and%20learning%20in%20higher%20education%20in%20the%20era%20of%20generative%20AI&publication\_year=2024&author=H.%20Chithara&author=S.%20Madzvamuse)
+21. [Choi and Kim, 2025](#bbib0105)
+ChoiS., KimH.
+The impact of a large language model-based programming learning environment on students’ motivation and programming ability
+Education and Information Technologies, \*30\* (6) (2025), pp. 8109-8138
+[Crossref](https://doi.org/10.1007/s10639-024-13107-x)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20impact%20of%20a%20large%20language%20model-based%20programming%20learning%20environment%20on%20students%20motivation%20and%20programming%20ability&publication\_year=2025&author=S.%20Choi&author=H.%20Kim)
+22. [Choi et al., 2024](#bbib0110)
+ChoiS., LeeH., LeeY., KimJ.
+Vivid: Human-AI collaborative authoring of vicarious dialogues from lecture videos
+Proceedings of the 2024 CHI conference on human factors in computing systems CHI ’24, New York, NY, USA, Association for Computing Machinery (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Vivid%3A%20Human-AI%20collaborative%20authoring%20of%20vicarious%20dialogues%20from%20lecture%20videos&publication\_year=2024&author=S.%20Choi&author=H.%20Lee&author=Y.%20Lee&author=J.%20Kim)
+23. [Chun et al., 2025](#bbib0115)
+ChunJ., KimJ., KimH., LeeG., ChoS., KimC., ChungY., HeoS.
+A comparative analysis of on-device AI-driven, self-regulated learning and traditional pedagogy in university health sciences education
+Applied Sciences (Switzerland), \*15\* (4) (2025)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20comparative%20analysis%20of%20on-device%20AI-driven%2C%20self-regulated%20learning%20and%20traditional%20pedagogy%20in%20university%20health%20sciences%20education&publication\_year=2025&author=J.%20Chun&author=J.%20Kim&author=H.%20Kim&author=G.%20Lee&author=S.%20Cho&author=C.%20Kim&author=Y.%20Chung&author=S.%20Heo)
+24. [Civit et al., 2024](#bbib0120)
+CivitM., EscalonaM.J., CuadradoF., Reyes-de-CozarS.
+Class integration of Chatgpt and learning analytics for higher education
+Expert Systems, \*41\* (12) (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Class%20integration%20of%20Chatgpt%20and%20learning%20analytics%20for%20higher%20education&publication\_year=2024&author=M.%20Civit&author=M.J.%20Escalona&author=F.%20Cuadrado&author=S.%20Reyes-de-Cozar)
+25. [Dai et al., 2023](#bbib0125)
+DaiW., LinJ., JinH., LiT., TsaiY.-S., GaševićD., ChenG.
+Can large language models provide feedback to students? A case study on ChatGPT
+2023 IEEE international conference on advanced learning technologies (ICALT) (2023), pp. 323-325
+[Crossref](https://doi.org/10.1109/icalt58122.2023.00100)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Can%20large%20language%20models%20provide%20feedback%20to%20students%20A%20case%20study%20on%20ChatGPT&publication\_year=2023&author=W.%20Dai&author=J.%20Lin&author=H.%20Jin&author=T.%20Li&author=Y.-S.%20Tsai&author=D.%20Ga%C5%A1evi%C4%87&author=G.%20Chen)
+26. [del Carpio Gutierrez et al., 2024](#bbib0130)
+del Carpio GutierrezA., DennyP., Luxton-ReillyA.
+Automating personalized Parsons problems with customized contexts and concepts
+Proceedings of the 2024 on innovation and technology in computer science education V. 1 ITiCSE 2024, New York, NY, USA, Association for Computing Machinery (2024), pp. 688-694
+[Crossref](https://doi.org/10.1145/3649217.3653568)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85198907594&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Automating%20personalized%20Parsons%20problems%20with%20customized%20contexts%20and%20concepts&publication\_year=2024&author=A.%20del%20Carpio%20Gutierrez&author=P.%20Denny&author=A.%20Luxton-Reilly)
+27. [Duckworth et al., 2007](#bbib0135)
+DuckworthA.L., PetersonC., MatthewsM.D., KellyD.R.
+Grit: Perseverance and passion for long-term goals
+Journal of Personality and Social Psychology, \*92\* (6) (2007), p. 1087
+[Crossref](https://doi.org/10.1037/0022-3514.92.6.1087)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-34547477145&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Grit%3A%20Perseverance%20and%20passion%20for%20long-term%20goals&publication\_year=2007&author=A.L.%20Duckworth&author=C.%20Peterson&author=M.D.%20Matthews&author=D.R.%20Kelly)
+28. [Dweck et al., 2014](#bbib0140)
+Dweck, C. S., Walton, G. M., & Cohen, G. L. (2014). Academic tenacity: Mindsets and skills that promote long-term learning. ERIC Number: ED576649; 43 pp.
+[Google Scholar](https://scholar.google.com/scholar?q=Dweck%2C%20C.%20S.%2C%20Walton%2C%20G.%20M.%2C%20%26%20Cohen%2C%20G.%20L.%20(2014).%20Academic%20tenacity%3A%20Mindsets%20and%20skills%20that%20promote%20long-term%20learning.%20ERIC%20Number%3A%20ED576649%3B%2043%20pp.)
+29. [Elmourabit et al., 2024](#bbib0145)
+ElmourabitZ., RetbiA., El FaddouliN.-E.
+The impact of generative artificial intelligence on education: A comparative study
+Proceedings of the European conference on E-learning, ECEL, Vol. 23 (2024), pp. 470-476
+[Crossref](https://doi.org/10.34190/ecel.23.1.2975)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85215655306&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20impact%20of%20generative%20artificial%20intelligence%20on%20education%3A%20A%20comparative%20study&publication\_year=2024&author=Z.%20Elmourabit&author=A.%20Retbi&author=N.-E.%20El%20Faddouli)
+30. [Fan et al., 2025](#bbib0150)
+FanY., TangL., LeH., ShenK., TanS., ZhaoY., ShenY., LiX., GaševićD.
+Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance
+British Journal of Educational Technology, \*56\* (2) (2025), pp. 489-530
+[Crossref](https://doi.org/10.1111/bjet.13544)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85211320907&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Beware%20of%20metacognitive%20laziness%3A%20Effects%20of%20generative%20artificial%20intelligence%20on%20learning%20motivation%2C%20processes%2C%20and%20performance&publication\_year=2025&author=Y.%20Fan&author=L.%20Tang&author=H.%20Le&author=K.%20Shen&author=S.%20Tan&author=Y.%20Zhao&author=Y.%20Shen&author=X.%20Li&author=D.%20Ga%C5%A1evi%C4%87)
+31. [Faruqui et al., 2024](#bbib0155)
+FaruquiS.H.A., TasnimN., BasithI.I., ObeidatS.M., YildizF.
+Board 46: Integrating AI in higher-education protocol for a pilot study with ‘samcares an adaptive learning hub’
+2024 ASEE annual conference & exposition (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Board%2046%3A%20Integrating%20AI%20in%20higher-education%20protocol%20for%20a%20pilot%20study%20with%20samcares%20an%20adaptive%20learning%20hub&publication\_year=2024&author=S.H.A.%20Faruqui&author=N.%20Tasnim&author=I.I.%20Basith&author=S.M.%20Obeidat&author=F.%20Yildiz)
+32. [Feng and Wang, 2025](#bbib0160)
+FengY., WangX.
+Exploring the development of Chinese college students’ proficiency in English through chatgpt: An experimental study
+Proceedings of the 2024 16th international conference on education technology and computers ICETC ’24, New York, NY, USA, Association for Computing Machinery (2025), pp. 148-154
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85218025162&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20the%20development%20of%20Chinese%20college%20students%20proficiency%20in%20English%20through%20chatgpt%3A%20An%20experimental%20study&publication\_year=2025&author=Y.%20Feng&author=X.%20Wang)
+33. [Gao et al., 2024](#bbib0165)
+GaoH., HuaiH., Yildiz-DegirmenciS., BannertM., KasneciE.
+Datalivr: Transformation of Data literacy education through virtual reality with chatgpt-powered enhancements
+2024 IEEE international symposium on mixed and augmented reality (ISMAR) (2024), pp. 120-129
+[View article](/science/article/pii/S1028602024000389)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Datalivr%3A%20Transformation%20of%20Data%20literacy%20education%20through%20virtual%20reality%20with%20chatgpt-powered%20enhancements&publication\_year=2024&author=H.%20Gao&author=H.%20Huai&author=S.%20Yildiz-Degirmenci&author=M.%20Bannert&author=E.%20Kasneci)
+34. [Gasaymeh and Almohtadi, 2024](#bbib0170)
+GasaymehA.-M.-M., AlmohtadiR.M.
+The effect of flipped interactive learning (FIL) based on Chatgpt on students’ skills in a large programming class
+International Journal of Information and Education Technology, \*14\* (11) (2024), pp. 1516-1522
+[Crossref](https://doi.org/10.18178/ijiet.2024.14.11.2182)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85210025780&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20effect%20of%20flipped%20interactive%20learning%20%20based%20on%20Chatgpt%20on%20students%20skills%20in%20a%20large%20programming%20class&publication\_year=2024&author=A.-M.-M.%20Gasaymeh&author=R.M.%20Almohtadi)
+35. [Hadyaoui and Cheniti-Belcadhi, 2024](#bbib0175)
+HadyaouiA., Cheniti-BelcadhiL.
+Intelliframe: A framework for AI-driven, adaptive, and process-oriented student assessments
+International conference on web information systems and technologies, WEBIST - proceedings (2024), pp. 441-448
+[Crossref](https://doi.org/10.5220/0013070800003825)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85217187017&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Intelliframe%3A%20A%20framework%20for%20AI-driven%2C%20adaptive%2C%20and%20process-oriented%20student%20assessments&publication\_year=2024&author=A.%20Hadyaoui&author=L.%20Cheniti-Belcadhi)
+36. [Han, 2025](#bbib0180)
+HanX.
+Generative artificial intelligence for future education: Current research status, hot spots, and research trends
+Proceedings of the 2024 8th international conference on algorithms, computing and systems ICACS ’24, New York, NY, USA, Association for Computing Machinery (2025), pp. 56-61
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85219529123&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20artificial%20intelligence%20for%20future%20education%3A%20Current%20research%20status%2C%20hot%20spots%2C%20and%20research%20trends&publication\_year=2025&author=X.%20Han)
+37. [Hattie and Timperley, 2007](#bbib0185)
+HattieJ., TimperleyH.
+The power of feedback
+Review of Educational Research, \*77\* (1) (2007), pp. 81-112
+[Crossref](https://doi.org/10.3102/003465430298487)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-33947423406&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20power%20of%20feedback&publication\_year=2007&author=J.%20Hattie&author=H.%20Timperley)
+38. [Hong et al., 2024](#bbib0190)
+HongS.-J., LeeY., KimS.-W.
+Effect of artificial intelligence convergence education using Chatgpt on computational thinking of high school students in Korea
+International Journal on Advanced Science, Engineering and Information Technology, \*14\* (6) (2024), pp. 1982-1990
+[Crossref](https://doi.org/10.18517/ijaseit.14.6.10092)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85214299423&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Effect%20of%20artificial%20intelligence%20convergence%20education%20using%20Chatgpt%20on%20computational%20thinking%20of%20high%20school%20students%20in%20Korea&publication\_year=2024&author=S.-J.%20Hong&author=Y.%20Lee&author=S.-W.%20Kim)
+39. [Hou et al., 2024](#bbib0195)
+HouX., WuZ., WangX., EricsonB.J.
+Codetailor: LLM-powered personalized Parsons Puzzles for engaging support while learning programming
+Proceedings of the eleventh ACM conference on learning @ scale l@s ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 51-62
+[Crossref](https://doi.org/10.1145/3657604.3662032)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85197053395&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Codetailor%3A%20LLM-powered%20personalized%20Parsons%20Puzzles%20for%20engaging%20support%20while%20learning%20programming&publication\_year=2024&author=X.%20Hou&author=Z.%20Wu&author=X.%20Wang&author=B.J.%20Ericson)
+40. [Hutt et al., 2024](#bbib0200)
+HuttS., DePiroA., WangJ., RhodesS., BakerR.S., HiebG., SethuramanS., OcumpaughJ., MillsC.
+Feedback on feedback: Comparing classic natural language processing and generative AI to evaluate peer feedback
+Proceedings of the 14th learning analytics and knowledge conference LAK ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 55-65
+[Crossref](https://doi.org/10.1145/3636555.3636850)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85187551027&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Feedback%20on%20feedback%3A%20Comparing%20classic%20natural%20language%20processing%20and%20generative%20AI%20to%20evaluate%20peer%20feedback&publication\_year=2024&author=S.%20Hutt&author=A.%20DePiro&author=J.%20Wang&author=S.%20Rhodes&author=R.S.%20Baker&author=G.%20Hieb&author=S.%20Sethuraman&author=J.%20Ocumpaugh&author=C.%20Mills)
+41. [Hwang and Nurtantyana, 2022](#bbib0205)
+HwangW.-Y., NurtantyanaR.
+The integration of multiple recognition technologies and artificial intelligence to facilitate EFL writing in authentic contexts
+2022 6th international conference on information technology (InCIT) (2022), pp. 379-383
+[Crossref](https://doi.org/10.1109/incit56086.2022.10067490)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85151707037&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20integration%20of%20multiple%20recognition%20technologies%20and%20artificial%20intelligence%20to%20facilitate%20EFL%20writing%20in%20authentic%20contexts&publication\_year=2022&author=W.-Y.%20Hwang&author=R.%20Nurtantyana)
+42. [Imran and Almusharraf, 2023](#bbib0210)
+ImranM., AlmusharrafN.
+Analyzing the role of Chatgpt as a writing assistant at higher education level: A systematic review of the literature
+Contemporary Educational Technology, \*15\* (4) (2023), Article ep464
+[Crossref](https://doi.org/10.30935/cedtech/13605)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85176131572&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Analyzing%20the%20role%20of%20Chatgpt%20as%20a%20writing%20assistant%20at%20higher%20education%20level%3A%20A%20systematic%20review%20of%20the%20literature&publication\_year=2023&author=M.%20Imran&author=N.%20Almusharraf)
+43. [Întorsureanu et al., 2025](#bbib0215)
+ÎntorsureanuI., OpreaS.-V., BâraA., VespanD.
+Generative AI in education: Perspectives through an academic lens
+Electronics (Switzerland), \*14\* (5) (2025)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20AI%20in%20education%3A%20Perspectives%20through%20an%20academic%20lens&publication\_year=2025&author=I.%20%C3%8Entorsureanu&author=S.-V.%20Oprea&author=A.%20B%C3%A2ra&author=D.%20Vespan)
+44. [Jansen et al., 2025](#bbib0220)
+JansenT., HorbachA., MeyerJ.
+Feedback from generative AI: Correlates of student engagement in text revision from 655 classes from primary and secondary school
+Proceedings of the 15th International Learning Analytics and Knowledge Conference LAK ’25, New York, NY, USA, Association for Computing Machinery (2025), pp. 831-836
+[Crossref](https://doi.org/10.1145/3706468.3706494)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105000264953&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Feedback%20from%20generative%20AI%3A%20Correlates%20of%20student%20engagement%20in%20text%20revision%20from%20655%20classes%20from%20primary%20and%20secondary%20school&publication\_year=2025&author=T.%20Jansen&author=A.%20Horbach&author=J.%20Meyer)
+45. [Jin et al., 2024](#bbib0225)
+JinH., LeeS., ShinH., KimJ.
+Teach AI how to code: Using large language models as teachable agents for programming education
+Proceedings of the 2024 CHI conference on human factors in computing systems CHI ’24, New York, NY, USA, Association for Computing Machinery (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teach%20AI%20how%20to%20code%3A%20Using%20large%20language%20models%20as%20teachable%20agents%20for%20programming%20education&publication\_year=2024&author=H.%20Jin&author=S.%20Lee&author=H.%20Shin&author=J.%20Kim)
+46. [Kumar et al., 2024](#bbib0230)
+KumarH., XiaoR., LawsonB., MusabirovI., ShiJ., WangX., LuoH., WilliamsJ.J., RaffertyA.N., StamperJ., LiutM.
+Supporting self-reflection at scale with large language models: Insights from randomized field experiments in classrooms
+Proceedings of the eleventh ACM conference on learning @ scale l@s ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 86-97
+[Crossref](https://doi.org/10.1145/3657604.3662042)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85199861949&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Supporting%20self-reflection%20at%20scale%20with%20large%20language%20models%3A%20Insights%20from%20randomized%20field%20experiments%20in%20classrooms&publication\_year=2024&author=H.%20Kumar&author=R.%20Xiao&author=B.%20Lawson&author=I.%20Musabirov&author=J.%20Shi&author=X.%20Wang&author=H.%20Luo&author=J.J.%20Williams&author=A.N.%20Rafferty&author=J.%20Stamper&author=M.%20Liut)
+47. [Kutty et al., 2024](#bbib0235)
+KuttyS., ChughR., PereraP., NeupaneA., JhaM., LiL., GunathilakeW., Chamini PereraN.
+Generative AI in higher education: Perspectives of students, educators and administrators
+Journal of Applied Learning and Teaching, \*7\* (2) (2024), pp. 47-60
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85211337693&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20AI%20in%20higher%20education%3A%20Perspectives%20of%20students%2C%20educators%20and%20administrators&publication\_year=2024&author=S.%20Kutty&author=R.%20Chugh&author=P.%20Perera&author=A.%20Neupane&author=M.%20Jha&author=L.%20Li&author=W.%20Gunathilake&author=N.%20Chamini%20Perera)
+48. [Labadze et al., 2023](#bbib0240)
+LabadzeL., GrigoliaM., MachaidzeL.
+Role of AI chatbots in education: Systematic literature review
+International Journal of Educational Technology in Higher Education, \*20\* (1) (2023), p. 56
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85175643788&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Role%20of%20AI%20chatbots%20in%20education%3A%20Systematic%20literature%20review&publication\_year=2023&author=L.%20Labadze&author=M.%20Grigolia&author=L.%20Machaidze)
+49. [Lai and Lin, 2025](#bbib0245)
+LaiC.-H., LinC.-Y.
+Analysis of learning behaviors and outcomes for students with different knowledge levels: A case study of intelligent tutoring system for coding and learning (ITS-CAL)
+Applied Sciences (Switzerland), \*15\* (4) (2025)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Analysis%20of%20learning%20behaviors%20and%20outcomes%20for%20students%20with%20different%20knowledge%20levels%3A%20A%20case%20study%20of%20intelligent%20tutoring%20system%20for%20coding%20and%20learning%20&publication\_year=2025&author=C.-H.%20Lai&author=C.-Y.%20Lin)
+50. [Li, 2023](#bbib0250)
+LiG.
+Personalized international Chinese education based on Chatgpt
+2023 13th international conference on information technology in medicine and education (ITME) (2023), pp. 63-67
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85192438308&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Personalized%20international%20Chinese%20education%20based%20on%20Chatgpt&publication\_year=2023&author=G.%20Li)
+51. [Liberati et al., 2009](#bbib0255)
+LiberatiA., AltmanD.G., TetzlaffJ., MulrowC., GøtzscheP.C., IoannidisJ.P.A., ClarkeM., DevereauxP.J., KleijnenJ., MoherD.
+The Prisma statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: Explanation and elaboration
+PLoS Medicine, \*6\* (7) (2009), Article e1000100
+[Crossref](https://doi.org/10.1371/journal.pmed.1000100)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-68049137869&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20Prisma%20statement%20for%20reporting%20systematic%20reviews%20and%20meta-analyses%20of%20studies%20that%20evaluate%20health%20care%20interventions%3A%20Explanation%20and%20elaboration&publication\_year=2009&author=A.%20Liberati&author=D.G.%20Altman&author=J.%20Tetzlaff&author=C.%20Mulrow&author=P.C.%20G%C3%B8tzsche&author=J.P.A.%20Ioannidis&author=M.%20Clarke&author=P.J.%20Devereaux&author=J.%20Kleijnen&author=D.%20Moher)
+52. [Liffiton et al., 2024](#bbib0260)
+LiffitonM., SheeseB.E., SavelkaJ., DennyP.
+Codehelp: Using large language models with guardrails for scalable support in programming classes
+Proceedings of the 23rd Koli calling international conference on computing education research Koli calling ’23, New York, NY, USA, Association for Computing Machinery (2024), pp. 1-11
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Codehelp%3A%20Using%20large%20language%20models%20with%20guardrails%20for%20scalable%20support%20in%20programming%20classes&publication\_year=2024&author=M.%20Liffiton&author=B.E.%20Sheese&author=J.%20Savelka&author=P.%20Denny)
+53. [Lin et al., 2024](#bbib0265)
+LinM. P.-C., ChangD., HallS., JhajjG.
+Preliminary systematic review of open-source large language models in education
+A.Sifaleras, F.Lin (Eds.), Generative intelligence and intelligent tutoring systems, Cham, Springer Nature Switzerland (2024), pp. 68-77
+[Crossref](https://doi.org/10.1007/978-3-031-63028-6\_6)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85195886521&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Preliminary%20systematic%20review%20of%20open-source%20large%20language%20models%20in%20education&publication\_year=2024&author=M.%20P.-C.%20Lin&author=D.%20Chang&author=S.%20Hall&author=G.%20Jhajj)
+54. [Liu et al., 2025](#bbib0270)
+LiuQ., LiX., DuX., LiQ.
+Tsconnect: An enhanced MOOC platform for bridging communication gaps between instructors and students in light of the curse of knowledge
+Proceedings of the 30th international conference on intelligent user interfaces IUI ’25, New York, NY, USA, Association for Computing Machinery (2025), pp. 1335-1353
+[Crossref](https://doi.org/10.1145/3708359.3712108)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105001920876&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Tsconnect%3A%20An%20enhanced%20MOOC%20platform%20for%20bridging%20communication%20gaps%20between%20instructors%20and%20students%20in%20light%20of%20the%20curse%20of%20knowledge&publication\_year=2025&author=Q.%20Liu&author=X.%20Li&author=X.%20Du&author=Q.%20Li)
+55. [Liu et al., 2024](#bbib0275)
+LiuS., GuoX., HuX., ZhaoX.
+Advancing generative intelligent tutoring systems with GPT-4: Design, evaluation, and a modular framework for future learning platforms
+Electronics (Switzerland), \*13\* (24) (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Advancing%20generative%20intelligent%20tutoring%20systems%20with%20GPT-4%3A%20Design%2C%20evaluation%2C%20and%20a%20modular%20framework%20for%20future%20learning%20platforms&publication\_year=2024&author=S.%20Liu&author=X.%20Guo&author=X.%20Hu&author=X.%20Zhao)
+56. [Lo et al., 2024](#bbib0280)
+LoC.K., HewK.F., JongM. S.-Y.
+The influence of Chatgpt on student engagement: A systematic review and future research agenda
+Computers & Education, \*219\* (2024), Article 105100
+[View PDF](/science/article/pii/S0360131524001143/pdfft?md5=6b36c245ca2976a7bd74e9a258f26460&pid=1-s2.0-S0360131524001143-main.pdf)[View article](/science/article/pii/S0360131524001143)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85195382355&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20influence%20of%20Chatgpt%20on%20student%20engagement%3A%20A%20systematic%20review%20and%20future%20research%20agenda&publication\_year=2024&author=C.K.%20Lo&author=K.F.%20Hew&author=M.%20S.-Y.%20Jong)
+57. [Lo et al., 2024](#bbib0285)
+LoC.K., YuP.L.H., XuS., NgD.T.K., JongM. S.-Y.
+Exploring the application of Chatgpt in esl/Efl education and related research issues: A systematic review of empirical studies
+Smart Learning Environments, \*11\* (1) (2024), p. 50
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85208692325&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20the%20application%20of%20Chatgpt%20in%20eslEfl%20education%20and%20related%20research%20issues%3A%20A%20systematic%20review%20of%20empirical%20studies&publication\_year=2024&author=C.K.%20Lo&author=P.L.H.%20Yu&author=S.%20Xu&author=D.T.K.%20Ng&author=M.%20S.-Y.%20Jong)
+58. [Logacheva et al., 2024](#bbib0290)
+LogachevaE., HellasA., PratherJ., SarsaS., LeinonenJ.
+Evaluating contextually personalized programming exercises created with generative AI
+Proceedings of the 2024 ACM conference on international computing education research - volume 1 ICER ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 95-113
+[Crossref](https://doi.org/10.1145/3632620.3671103)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85200486237&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Evaluating%20contextually%20personalized%20programming%20exercises%20created%20with%20generative%20AI&publication\_year=2024&author=E.%20Logacheva&author=A.%20Hellas&author=J.%20Prather&author=S.%20Sarsa&author=J.%20Leinonen)
+59. [Looi and Jia, 2025](#bbib0295)
+LooiC.-K., JiaF.
+Personalization capabilities of current technology chatbots in a learning environment: An analysis of student-tutor bot interactions
+Education and Information Technologies (2025)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Personalization%20capabilities%20of%20current%20technology%20chatbots%20in%20a%20learning%20environment%3A%20An%20analysis%20of%20student-tutor%20bot%20interactions&publication\_year=2025&author=C.-K.%20Looi&author=F.%20Jia)
+60. [Lucas et al., 2024](#bbib0300)
+LucasH.C., UppermanJ.S., RobinsonJ.R.
+A systematic review of large language models and their implications in medical education
+Medical Education, \*58\* (11) (2024), pp. 1276-1285
+[Crossref](https://doi.org/10.1111/medu.15402)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85191015657&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20of%20large%20language%20models%20and%20their%20implications%20in%20medical%20education&publication\_year=2024&author=H.C.%20Lucas&author=J.S.%20Upperman&author=J.R.%20Robinson)
+61. [Lyu et al., 2024](#bbib0305)
+LyuW., WangY., ChungT.R., SunY., ZhangY.
+Evaluating the effectiveness of llms in introductory computer science education: A semester-long field study
+Proceedings of the eleventh ACM conference on learning @ scale l@s ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 63-74
+[Crossref](https://doi.org/10.1145/3657604.3662036)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85199925256&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Evaluating%20the%20effectiveness%20of%20llms%20in%20introductory%20computer%20science%20education%3A%20A%20semester-long%20field%20study&publication\_year=2024&author=W.%20Lyu&author=Y.%20Wang&author=T.R.%20Chung&author=Y.%20Sun&author=Y.%20Zhang)
+62. [Ma et al., 2025](#bbib0310)
+MaW., MaW., HuY., BiX.
+The who, why, and how of AI-based chatbots for learning and teaching in higher education: A systematic review
+Education and Information Technologies, \*30\* (6) (2025), pp. 7781-7805
+[Crossref](https://doi.org/10.1007/s10639-024-13128-6)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20who%2C%20why%2C%20and%20how%20of%20AI-based%20chatbots%20for%20learning%20and%20teaching%20in%20higher%20education%3A%20A%20systematic%20review&publication\_year=2025&author=W.%20Ma&author=W.%20Ma&author=Y.%20Hu&author=X.%20Bi)
+63. [Mejia-Domenzain et al., 2025](#bbib0315)
+Mejia-DomenzainP., FrejJ., NeshaeiS.P., MouchelL., NazaretskyT., WambsganssT., BosselutA., KäserT.
+Enhancing procedural writing through personalized example retrieval: A case study on cooking recipes
+International Journal of Artificial Intelligence in Education, \*35\* (1) (2025), pp. 330-366
+[Crossref](https://doi.org/10.1007/s40593-024-00405-1)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85191033170&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enhancing%20procedural%20writing%20through%20personalized%20example%20retrieval%3A%20A%20case%20study%20on%20cooking%20recipes&publication\_year=2025&author=P.%20Mejia-Domenzain&author=J.%20Frej&author=S.P.%20Neshaei&author=L.%20Mouchel&author=T.%20Nazaretsky&author=T.%20Wambsganss&author=A.%20Bosselut&author=T.%20K%C3%A4ser)
+64. [Melisa et al., 2025](#bbib0320)
+MelisaR., AshadiA., TriastutiA., HidayatiS., SalidoA., EroP.E.L., MarliniC., ZefrinZ., Al FuadZ.
+Critical thinking in the age of AI: A systematic review of ai’s effects on higher education
+Educational Process: International Journal, \*14\* (2025), Article e2025031
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85217753988&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Critical%20thinking%20in%20the%20age%20of%20AI%3A%20A%20systematic%20review%20of%20ais%20effects%20on%20higher%20education&publication\_year=2025&author=R.%20Melisa&author=A.%20Ashadi&author=A.%20Triastuti&author=S.%20Hidayati&author=A.%20Salido&author=P.E.L.%20Ero&author=C.%20Marlini&author=Z.%20Zefrin&author=Z.%20Al%20Fuad)
+65. [Meyer et al., 2024](#bbib0325)
+MeyerJ., JansenT., SchillerR., LiebenowL.W., SteinbachM., HorbachA., FleckensteinJ.
+Using llms to bring evidence-based feedback into the classroom: AI-generated feedback increases secondary students’ text revision, motivation, and positive emotions
+Computers and Education: Artificial Intelligence, \*6\* (2024), Article 100199
+[View PDF](/science/article/pii/S2666920X23000784/pdfft?md5=4f53117350330eea84aad3e25151889e&pid=1-s2.0-S2666920X23000784-main.pdf)[View article](/science/article/pii/S2666920X23000784)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85185159901&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using%20llms%20to%20bring%20evidence-based%20feedback%20into%20the%20classroom%3A%20AI-generated%20feedback%20increases%20secondary%20students%20text%20revision%2C%20motivation%2C%20and%20positive%20emotions&publication\_year=2024&author=J.%20Meyer&author=T.%20Jansen&author=R.%20Schiller&author=L.W.%20Liebenow&author=M.%20Steinbach&author=A.%20Horbach&author=J.%20Fleckenstein)
+66. [Mi and Li, 2025](#bbib0330)
+MiZ., LiK.
+Research on the application of generative artificial intelligence in human-machine cooperative teaching
+Proceedings of the 2024 7th international conference on educational technology management ICETM ’24, New York, NY, USA, Association for Computing Machinery (2025), pp. 154-159
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105001672330&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Research%20on%20the%20application%20of%20generative%20artificial%20intelligence%20in%20human-machine%20cooperative%20teaching&publication\_year=2025&author=Z.%20Mi&author=K.%20Li)
+67. [Mohammed et al., 2025](#bbib0335)
+MohammedI.A., BelloA., AyubaB.
+Effect of large language models artificial intelligence Chatgpt chatbot on achievement of computer education students
+Education and Information Technologies (2025)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Effect%20of%20large%20language%20models%20artificial%20intelligence%20Chatgpt%20chatbot%20on%20achievement%20of%20computer%20education%20students&publication\_year=2025&author=I.A.%20Mohammed&author=A.%20Bello&author=B.%20Ayuba)
+68. [Mondego and Aziz, 2024](#bbib0340)
+MondegoD., AzizO.
+Mapping the educational revolution: A bibliometric analysis of chatgpt’s impact on teaching and learning
+2024 21st international conference on information technology based higher education and training (ITHET) (2024), pp. 1-6
+[Crossref](https://doi.org/10.1109/ithet61869.2024.10837643)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Mapping%20the%20educational%20revolution%3A%20A%20bibliometric%20analysis%20of%20chatgpts%20impact%20on%20teaching%20and%20learning&publication\_year=2024&author=D.%20Mondego&author=O.%20Aziz)
+69. [Nam et al., 2024](#bbib0345)
+NamT.B., TrietM.N., PhucN.T., KhoaT.D., HienN.Q., TungL.K., KhiemH.G., VinhN.T., KhaN.H., ThuanQ.T., BangL.K., MinhN.V., NganN.T.K., KhanhH.V.
+Human-computer interaction in the age of generative AI: Tailoring educational content for diverse learners
+Emerging technologies for education, Springer, Singapore (2024), pp. 137-146
+[Crossref](https://doi.org/10.1007/978-981-97-4246-2\_12)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85200568739&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Human-computer%20interaction%20in%20the%20age%20of%20generative%20AI%3A%20Tailoring%20educational%20content%20for%20diverse%20learners&publication\_year=2024&author=T.B.%20Nam&author=M.N.%20Triet&author=N.T.%20Phuc&author=T.D.%20Khoa&author=N.Q.%20Hien&author=L.K.%20Tung&author=H.G.%20Khiem&author=N.T.%20Vinh&author=N.H.%20Kha&author=Q.T.%20Thuan&author=L.K.%20Bang&author=N.V.%20Minh&author=N.T.K.%20Ngan&author=H.V.%20Khanh)
+70. [Nguyen and Park, 2025](#bbib0350)
+NguyenH., ParkS.
+Providing automated feedback on formative science assessments: Uses of multimodal large language models
+Proceedings of the 15th international learning analytics and knowledge conference LAK ’25, New York, NY, USA, Association for Computing Machinery (2025), pp. 803-809
+[Crossref](https://doi.org/10.1145/3706468.3706480)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105000422553&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Providing%20automated%20feedback%20on%20formative%20science%20assessments%3A%20Uses%20of%20multimodal%20large%20language%20models&publication\_year=2025&author=H.%20Nguyen&author=S.%20Park)
+71. [Nguyen and Truong, 2025](#bbib0355)
+NguyenT.N., TruongH.T.
+Trends and emerging themes in the effects of generative artificial intelligence in education: A systematic review
+Eurasia Journal of Mathematics, Science and Technology Education, \*21\* (4) (2025), pp. 1-11
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Trends%20and%20emerging%20themes%20in%20the%20effects%20of%20generative%20artificial%20intelligence%20in%20education%3A%20A%20systematic%20review&publication\_year=2025&author=T.N.%20Nguyen&author=H.T.%20Truong)
+72. [Norberg et al., 2024](#bbib0360)
+NorbergK.A., AlmoubayyedH., De LeyL., MurphyA., WeldonK., RitterS.
+Rewriting content with GPT-4 to support emerging readers in adaptive mathematics software
+International Journal of Artificial Intelligence in Education (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Rewriting%20content%20with%20GPT-4%20to%20support%20emerging%20readers%20in%20adaptive%20mathematics%20software&publication\_year=2024&author=K.A.%20Norberg&author=H.%20Almoubayyed&author=L.%20De%20Ley&author=A.%20Murphy&author=K.%20Weldon&author=S.%20Ritter)
+73. [Nutalapati et al., 2024](#bbib0365)
+NutalapatiH., VelmuruganS., TiglaoN.M.
+Coding buddy: An adaptive AI-powered platform for personalized learning
+2024 international symposium on networks, computers and communications (ISNCC) (2024), pp. 1-6
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Coding%20buddy%3A%20An%20adaptive%20AI-powered%20platform%20for%20personalized%20learning&publication\_year=2024&author=H.%20Nutalapati&author=S.%20Velmurugan&author=N.M.%20Tiglao)
+74. [Ohm et al., 2024](#bbib0370)
+OhmM., BungartzC., BoesF., MeierM.
+Assessing the impact of large language models on cybersecurity education: A study of chatgpt’s influence on student performance
+Proceedings of the 19th international conference on availability, reliability and security ARES ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 1-7
+[Crossref](https://doi.org/10.1145/3664476.3670446)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Assessing%20the%20impact%20of%20large%20language%20models%20on%20cybersecurity%20education%3A%20A%20study%20of%20chatgpts%20influence%20on%20student%20performance&publication\_year=2024&author=M.%20Ohm&author=C.%20Bungartz&author=F.%20Boes&author=M.%20Meier)
+75. [Oktarin et al., 2024](#bbib0375)
+OktarinI.B., SaputriM.E.E., MagdalenaB., HastomoT., MaximilianA.
+Leveraging Chatgpt to enhance students’ writing skills, engagement, and feedback literacy
+Edelweiss Applied Science and Technology, \*8\* (4) (2024), pp. 2306-2319
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85205710542&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Leveraging%20Chatgpt%20to%20enhance%20students%20writing%20skills%2C%20engagement%2C%20and%20feedback%20literacy&publication\_year=2024&author=I.B.%20Oktarin&author=M.E.E.%20Saputri&author=B.%20Magdalena&author=T.%20Hastomo&author=A.%20Maximilian)
+76. [Olugbade et al., 2024](#bbib0380)
+OlugbadeD., EdwardsB.I., OjoO.A.
+Facilitating cognitive load management and improved learning outcomes and attitudes in middle school technology and vocational education through AI chatbot
+Journal of Technical Education and Training, \*16\* (3) (2024), pp. 114-131
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85213807193&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Facilitating%20cognitive%20load%20management%20and%20improved%20learning%20outcomes%20and%20attitudes%20in%20middle%20school%20technology%20and%20vocational%20education%20through%20AI%20chatbot&publication\_year=2024&author=D.%20Olugbade&author=B.I.%20Edwards&author=O.A.%20Ojo)
+77. [Ouaazki et al., 2024](#bbib0385)
+OuaazkiA., BergramK., FarahJ.C., GilletD., HolzerA.
+Generative AI-enabled conversational interaction to support self-directed learning experiences in transversal computational thinking
+Proceedings of the 6th ACM conference on conversational user interfaces CUI ’24, New York, NY, USA, Association for Computing Machinery (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20AI-enabled%20conversational%20interaction%20to%20support%20self-directed%20learning%20experiences%20in%20transversal%20computational%20thinking&publication\_year=2024&author=A.%20Ouaazki&author=K.%20Bergram&author=J.C.%20Farah&author=D.%20Gillet&author=A.%20Holzer)
+78. [Ouyang et al., 2024](#bbib0390)
+OuyangF., GuoM., ZhangN., BaiX., JiaoP.
+Comparing the effects of instructor manual feedback and Chatgpt intelligent feedback on collaborative programming in china’s higher education
+IEEE Transactions on Learning Technologies, \*17\* (2024), pp. 2173-2185
+[Crossref](https://doi.org/10.1109/tlt.2024.3486749)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Comparing%20the%20effects%20of%20instructor%20manual%20feedback%20and%20Chatgpt%20intelligent%20feedback%20on%20collaborative%20programming%20in%20chinas%20higher%20education&publication\_year=2024&author=F.%20Ouyang&author=M.%20Guo&author=N.%20Zhang&author=X.%20Bai&author=P.%20Jiao)
+79. [Panwale and Vijayakumar, 2025](#bbib0395)
+PanwaleS.B., VijayakumarS.
+Evaluating AI-personalized learning interventions in distance education
+International Review of Research in Open and Distributed Learning, \*26\* (1) (2025), pp. 157-174
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-86000063069&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Evaluating%20AI-personalized%20learning%20interventions%20in%20distance%20education&publication\_year=2025&author=S.B.%20Panwale&author=S.%20Vijayakumar)
+80. [Park et al., 2024](#bbib0400)
+ParkM., KimS., LeeS., KwonS., KimK.
+Empowering personalized learning through a conversation-based tutoring system with student modeling
+Extended abstracts of the CHI Conference on human factors in computing systems CHI EA ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 1-10
+[Crossref](https://doi.org/10.1145/3613905.3651122)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Empowering%20personalized%20learning%20through%20a%20conversation-based%20tutoring%20system%20with%20student%20modeling&publication\_year=2024&author=M.%20Park&author=S.%20Kim&author=S.%20Lee&author=S.%20Kwon&author=K.%20Kim)
+81. [Pears et al., 2024](#bbib0405)
+PearsM., PoussaC., KonstantinidisS.T.
+Progressive healthcare pedagogy: An application merging Chatgpt and AI-video technologies for gamified and cost-effective scenario-based learning
+Smart mobile communication & artificial intelligence, Springer, Cham (2024), pp. 106-113
+[Crossref](https://doi.org/10.1007/978-3-031-56075-0\_10)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85189752628&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Progressive%20healthcare%20pedagogy%3A%20An%20application%20merging%20Chatgpt%20and%20AI-video%20technologies%20for%20gamified%20and%20cost-effective%20scenario-based%20learning&publication\_year=2024&author=M.%20Pears&author=C.%20Poussa&author=S.T.%20Konstantinidis)
+82. [Peng et al., 2023](#bbib0410)
+PengZ., WangX., HanQ., ZhuJ., MaX., QuH.
+Storyfier: Exploring vocabulary learning support with text generation models
+Proceedings of the 36th annual ACM symposium on user interface software and technology UIST ’23, New York, NY, USA, Association for Computing Machinery (2023), pp. 1-16
+[Crossref](https://doi.org/10.1145/3586183.3606786)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Storyfier%3A%20Exploring%20vocabulary%20learning%20support%20with%20text%20generation%20models&publication\_year=2023&author=Z.%20Peng&author=X.%20Wang&author=Q.%20Han&author=J.%20Zhu&author=X.%20Ma&author=H.%20Qu)
+83. [Pesovski et al., 2024](#bbib0415)
+PesovskiI., SantosR., HenriquesR., TrajkovikV.
+Generative AI for customizable learning experiences
+Sustainability, \*16\* (7) (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20AI%20for%20customizable%20learning%20experiences&publication\_year=2024&author=I.%20Pesovski&author=R.%20Santos&author=R.%20Henriques&author=V.%20Trajkovik)
+84. [Pian et al., 2024](#bbib0420)
+PianY., LiM., LuY., ChenP.
+From “giving a fish” to “teaching to fish”: Enhancing ITS inner loops with large language models
+Artificial intelligence in education. Posters and late breaking results, workshops and tutorials, industry and innovation tracks, practitioners, doctoral consortium and Blue sky, Springer, Cham (2024), pp. 362-368
+[Crossref](https://doi.org/10.1007/978-3-031-64312-5\_44)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85199771769&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=From%20giving%20a%20fish%20to%20teaching%20to%20fish%3A%20Enhancing%20ITS%20inner%20loops%20with%20large%20language%20models&publication\_year=2024&author=Y.%20Pian&author=M.%20Li&author=Y.%20Lu&author=P.%20Chen)
+85. [Pit et al., 2024](#bbib0425)
+PitP., LindenT., MendozaA.
+Generative artificial intelligence in higher education: One year later
+30th Americas conference on information systems, AMCIS 2024 (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20artificial%20intelligence%20in%20higher%20education%3A%20One%20year%20later&publication\_year=2024&author=P.%20Pit&author=T.%20Linden&author=A.%20Mendoza)
+86. [Prince, 2004](#bbib0430)
+PrinceM.
+Does active learning work? A review of the research
+Journal Of Engineering Education, \*93\* (3) (2004), pp. 223-231
+[Crossref](https://doi.org/10.1002/j.2168-9830.2004.tb00809.x)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-3342952938&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Does%20active%20learning%20work%20A%20review%20of%20the%20research&publication\_year=2004&author=M.%20Prince)
+87. [Qi and Zhu, 2025](#bbib0435)
+QiL., ZhuJ.
+Visualizing research trends on the use of generative AI in assessment in the Wos database from 2019 to 2024 via Vosviewer and Citespace
+Proceedings of the 2024 8th international conference on E-society, E-education and E-technology ESET ’24, New York, NY, USA, Association for Computing Machinery (2025), pp. 28-35
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85218408502&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Visualizing%20research%20trends%20on%20the%20use%20of%20generative%20AI%20in%20assessment%20in%20the%20Wos%20database%20from%202019%20to%202024%20via%20Vosviewer%20and%20Citespace&publication\_year=2025&author=L.%20Qi&author=J.%20Zhu)
+88. [Qin et al., 2024](#bbib0440)
+QinY., ZengL., WeiJ., HuY., WuW., WangH.
+Integrating Chatgpt into human morphology and curriculum ideology and politic: Enhancing learning and engagement
+Proceedings of the 2nd international conference on educational knowledge and informatization EKI ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 40-45
+[Crossref](https://doi.org/10.1145/3691720.3691728)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85208123251&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Integrating%20Chatgpt%20into%20human%20morphology%20and%20curriculum%20ideology%20and%20politic%3A%20Enhancing%20learning%20and%20engagement&publication\_year=2024&author=Y.%20Qin&author=L.%20Zeng&author=J.%20Wei&author=Y.%20Hu&author=W.%20Wu&author=H.%20Wang)
+89. [Qureshi, 2023](#bbib0445)
+QureshiB.
+Chatgpt in Computer Science curriculum Assessment: An analysis of its successes and shortcomings
+Proceedings of the 2023 9th international conference on e-society, e-learning and e-technologies ICSLT ’23, New York, NY, USA, Association for Computing Machinery (2023), pp. 7-13
+[Crossref](https://doi.org/10.1145/3613944.3613946)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85182740180&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Chatgpt%20in%20Computer%20Science%20curriculum%20Assessment%3A%20An%20analysis%20of%20its%20successes%20and%20shortcomings&publication\_year=2023&author=B.%20Qureshi)
+90. [Riazi and Rooshenas, 2025](#bbib0450)
+RiaziS., RooshenasP.
+LLM-driven feedback for enhancing conceptual design learning in database systems courses
+Proceedings of the 56th ACM technical symposium on computer science education V. 1 SIGCSETS 2025, New York, NY, USA, Association for Computing Machinery (2025), pp. 1001-1007
+[Crossref](https://doi.org/10.1145/3641554.3701940)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-86000192544&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=LLM-driven%20feedback%20for%20enhancing%20conceptual%20design%20learning%20in%20database%20systems%20courses&publication\_year=2025&author=S.%20Riazi&author=P.%20Rooshenas)
+91. [Sallam, 2023](#bbib0455)
+SallamM.
+Chatgpt utility in healthcare education, research, and practice: Systematic review on the promising perspectives and valid concerns
+Healthcare, \*11\* (6) (2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Chatgpt%20utility%20in%20healthcare%20education%2C%20research%2C%20and%20practice%3A%20Systematic%20review%20on%20the%20promising%20perspectives%20and%20valid%20concerns&publication\_year=2023&author=M.%20Sallam)
+92. [Samala et al., 2024](#bbib0460)
+SamalaA., ZhaiX., AokiK., BojicL., ZikicS.
+An in-depth review of chatgpt’s pros and cons for learning and teaching in education
+International Journal of Interactive Mobile Technologies (iJIM), \*18\* (2024), pp. 96-117
+[Crossref](https://doi.org/10.3991/ijim.v18i02.46509)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85186868520&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20in-depth%20review%20of%20chatgpts%20pros%20and%20cons%20for%20learning%20and%20teaching%20in%20education&publication\_year=2024&author=A.%20Samala&author=X.%20Zhai&author=K.%20Aoki&author=L.%20Bojic&author=S.%20Zikic)
+93. [Santhosh et al., 2024](#bbib0465)
+SanthoshJ., DengelA., IshimaruS.
+Gaze-driven adaptive learning system with chatgpt-generated summaries
+IEEE Access, \*12\* (2024), pp. 173714-173733
+[Crossref](https://doi.org/10.1109/access.2024.3503059)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85210073250&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Gaze-driven%20adaptive%20learning%20system%20with%20chatgpt-generated%20summaries&publication\_year=2024&author=J.%20Santhosh&author=A.%20Dengel&author=S.%20Ishimaru)
+94. [Sarshartehrani et al., 2024](#bbib0470)
+SarshartehraniF., MohammadrezaeiE., BehravanM., GracaninD.
+Enhancing e-learning experience through embodied AI tutors in immersive virtual environments: A multifaceted approach for personalized educational adaptation
+Adaptive instructional systems, Springer, Cham (2024), pp. 272-287
+[Crossref](https://doi.org/10.1007/978-3-031-60609-0\_20)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85196174389&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enhancing%20e-learning%20experience%20through%20embodied%20AI%20tutors%20in%20immersive%20virtual%20environments%3A%20A%20multifaceted%20approach%20for%20personalized%20educational%20adaptation&publication\_year=2024&author=F.%20Sarshartehrani&author=E.%20Mohammadrezaei&author=M.%20Behravan&author=D.%20Gracanin)
+95. [Schmucker et al., 2024](#bbib0475)
+SchmuckerR., XiaM., AzariaA., MitchellT.
+Ruffle&riley: Insights from designing and evaluating a large language model-based conversational tutoring system
+Artificial intelligence in education, Springer, Cham (2024), pp. 75-90
+[Crossref](https://doi.org/10.1007/978-3-031-64302-6\_6)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85200258936&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Ruffleriley%3A%20Insights%20from%20designing%20and%20evaluating%20a%20large%20language%20model-based%20conversational%20tutoring%20system&publication\_year=2024&author=R.%20Schmucker&author=M.%20Xia&author=A.%20Azaria&author=T.%20Mitchell)
+96. [Sekli et al., 2024](#bbib0480)
+SekliM., GodoA., VelizJ.
+Generative AI solutions for faculty and students: A review of literature and roadmap for future research
+Journal of Information Technology Education: Research, \*23\* (2024), p. 014
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20AI%20solutions%20for%20faculty%20and%20students%3A%20A%20review%20of%20literature%20and%20roadmap%20for%20future%20research&publication\_year=2024&author=M.%20Sekli&author=A.%20Godo&author=J.%20Veliz)
+97. [Singh et al., 2024](#bbib0485)
+SinghA., BrooksC., WangX., LiW., KimJ., WilsonD.
+Bridging learnersourcing and AI: Exploring the dynamics of student-AI collaborative feedback generation
+Proceedings of the 14th learning analytics and knowledge conference LAK ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 742-748
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Bridging%20learnersourcing%20and%20AI%3A%20Exploring%20the%20dynamics%20of%20student-AI%20collaborative%20feedback%20generation&publication\_year=2024&author=A.%20Singh&author=C.%20Brooks&author=X.%20Wang&author=W.%20Li&author=J.%20Kim&author=D.%20Wilson)
+98. [Son et al., 2024](#bbib0490)
+SonH.X., NguyenT.M., VoH.K., DangK.T., GiaK.H., TranN.B., KhanhB.L., NguyenN.T.K.
+Generative AI-driven digital assistance for e-learning: A novel paradigm for personalized recommendations
+Artificial intelligence with and for learning sciences. Past, present, and future horizons, Springer, Cham (2024), pp. 89-98
+[Crossref](https://doi.org/10.1007/978-3-031-57402-3\_10)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85201103670&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20AI-driven%20digital%20assistance%20for%20e-learning%3A%20A%20novel%20paradigm%20for%20personalized%20recommendations&publication\_year=2024&author=H.X.%20Son&author=T.M.%20Nguyen&author=H.K.%20Vo&author=K.T.%20Dang&author=K.H.%20Gia&author=N.B.%20Tran&author=B.L.%20Khanh&author=N.T.K.%20Nguyen)
+99. [Soudi et al., 2023](#bbib0495)
+SoudiM., AliE., BaliM., MabroukN.
+Generative AI-based tutoring system for Upper Egypt community schools
+Proceedings of the 2023 conference on human centered artificial intelligence: Education and practice HCAIep ’23, New York, NY, USA, Association for Computing Machinery (2023), pp. 16-21
+[Crossref](https://doi.org/10.1145/3633083.3633085)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85183322975&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20AI-based%20tutoring%20system%20for%20Upper%20Egypt%20community%20schools&publication\_year=2023&author=M.%20Soudi&author=E.%20Ali&author=M.%20Bali&author=N.%20Mabrouk)
+100. [Su et al., 2024](#bbib0500)
+SuH., TongY., ZhangX., FanY.
+Uncovering students’ processing tactics towards chatgpt’s feedback in EFL education using learning analytics
+W.W.K.Ma, C.Li, C.W.Fan, L.H.u, A.Lu (Eds.), Blended learning. Intelligent computing in education, Singapore, Springer Nature Singapore (2024), pp. 238-250
+[Crossref](https://doi.org/10.1007/978-981-97-4442-8\_18)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85199563738&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Uncovering%20students%20processing%20tactics%20towards%20chatgpts%20feedback%20in%20EFL%20education%20using%20learning%20analytics&publication\_year=2024&author=H.%20Su&author=Y.%20Tong&author=X.%20Zhang&author=Y.%20Fan)
+101. [Sweller, 1988](#bbib0505)
+SwellerJ.
+Cognitive load during problem solving: Effects on learning
+Cognitive science, \*12\* (2) (1988), pp. 257-285
+[View PDF](/science/article/pii/0364021388900237/pdf?md5=a4127f1b08897fdcc62be7abafb901cc&pid=1-s2.0-0364021388900237-main.pdf)[View article](/science/article/pii/0364021388900237)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0000819688&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Cognitive%20load%20during%20problem%20solving%3A%20Effects%20on%20learning&publication\_year=1988&author=J.%20Sweller)
+102. [Tang et al., 2024](#bbib0510)
+TangV., WongL., LamH.Y., TangY.M.
+Amplifying learning and teaching effectiveness through generative artificial intelligence: A qualitative approach with case studies on supply chain and cold chain management
+Proceedings of the international conference on decision Science & management ICDSM ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 264-269
+[Crossref](https://doi.org/10.1145/3686081.3686126)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85212853900&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Amplifying%20learning%20and%20teaching%20effectiveness%20through%20generative%20artificial%20intelligence%3A%20A%20qualitative%20approach%20with%20case%20studies%20on%20supply%20chain%20and%20cold%20chain%20management&publication\_year=2024&author=V.%20Tang&author=L.%20Wong&author=H.Y.%20Lam&author=Y.M.%20Tang)
+103. [Tayan et al., 2024](#bbib0515)
+TayanO., HassanA., KhankanK., AskoolS.
+Considerations for adapting higher education technology courses for AI large language models: A critical review of the impact of Chatgpt
+Machine Learning with Applications, \*15\* (2024), Article 100513
+[View PDF](/science/article/pii/S266682702300066X/pdfft?md5=e38f604707a5a8e7810d6cdf19695918&pid=1-s2.0-S266682702300066X-main.pdf)[View article](/science/article/pii/S266682702300066X)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105027922914&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Considerations%20for%20adapting%20higher%20education%20technology%20courses%20for%20AI%20large%20language%20models%3A%20A%20critical%20review%20of%20the%20impact%20of%20Chatgpt&publication\_year=2024&author=O.%20Tayan&author=A.%20Hassan&author=K.%20Khankan&author=S.%20Askool)
+104. [Teng et al., 2024](#bbib0520)
+TengD., WangX., XiaY., ZhangY., TangL., ChenQ., ZhangR., XieS., YuW.
+Investigating the utilization and impact of large language model-based intelligent teaching assistants in flipped classrooms
+Education and Information Technologies (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Investigating%20the%20utilization%20and%20impact%20of%20large%20language%20model-based%20intelligent%20teaching%20assistants%20in%20flipped%20classrooms&publication\_year=2024&author=D.%20Teng&author=X.%20Wang&author=Y.%20Xia&author=Y.%20Zhang&author=L.%20Tang&author=Q.%20Chen&author=R.%20Zhang&author=S.%20Xie&author=W.%20Yu)
+105. [Torres, 2023](#bbib0525)
+TorresN.
+Do robots dream of passing a programming course?
+2023 42nd IEEE international conference of the Chilean Computer Science Society (SCCC) (2023), pp. 1-8
+[Crossref](https://doi.org/10.1109/sccc59417.2023.10315744)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Do%20robots%20dream%20of%20passing%20a%20programming%20course&publication\_year=2023&author=N.%20Torres)
+106. [Tsao et al., 2024](#bbib0530)
+TsaoC.-C., LinY.-H., ChouC.-H., ChangK.-N., HanP.-H.
+Design of an assisted learning system based on Chatgpt
+Proceedings of the 2023 6th artificial intelligence and cloud computing conference AICCC ’23, New York, NY, USA, Association for Computing Machinery (2024), pp. 247-254
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Design%20of%20an%20assisted%20learning%20system%20based%20on%20Chatgpt&publication\_year=2024&author=C.-C.%20Tsao&author=Y.-H.%20Lin&author=C.-H.%20Chou&author=K.-N.%20Chang&author=P.-H.%20Han)
+107. [van Rensburg and Reedy, 2024](#bbib0535)
+van RensburgH., ReedyN.
+Chatgpt in higher education: A comprehensive study of the literature. Friend or foe?
+Proceedings of the European Conference on e-Learning, ECEL, \*23\* (1) (2024), pp. 381-386
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85215656311&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Chatgpt%20in%20higher%20education%3A%20A%20comprehensive%20study%20of%20the%20literature.%20Friend%20or%20foe&publication\_year=2024&author=H.%20van%20Rensburg&author=N.%20Reedy)
+108. [Vishnumolakala et al., 2024](#bbib0540)
+VishnumolakalaS.K., SobinC.C., SubheeshN.P., KumarP., KumarR.
+AI-based research companion (ARC): An innovative tool for fostering research activities in undergraduate engineering education
+2024 IEEE global engineering education conference (EDUCON) (2024), pp. 1-5
+[Crossref](https://doi.org/10.1109/educon60312.2024.10578646)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI-based%20research%20companion%20%3A%20An%20innovative%20tool%20for%20fostering%20research%20activities%20in%20undergraduate%20engineering%20education&publication\_year=2024&author=S.K.%20Vishnumolakala&author=C.C.%20Sobin&author=N.P.%20Subheesh&author=P.%20Kumar&author=R.%20Kumar)
+109. [Vygotsky, 1978](#bbib0545)
+VygotskyL.S.
+Mind in society: The development of higher psychological processes, vol. 86, Harvard University Press (1978)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Mind%20in%20society%3A%20The%20development%20of%20higher%20psychological%20processes&publication\_year=1978&author=L.S.%20Vygotsky)
+110. [Wang et al., 2024](#bbib0550)
+WangS., WangF., ZhuZ., WangJ., TranT., DuZ.
+Artificial intelligence in education: A systematic literature review
+Expert Systems with Applications, \*252\* (2024), Article 124167
+[View PDF](/science/article/pii/S0957417424010339/pdfft?md5=8c85899f3ea40f3db82af2341c5b42ee&pid=1-s2.0-S0957417424010339-main.pdf)[View article](/science/article/pii/S0957417424010339)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85192445479&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20in%20education%3A%20A%20systematic%20literature%20review&publication\_year=2024&author=S.%20Wang&author=F.%20Wang&author=Z.%20Zhu&author=J.%20Wang&author=T.%20Tran&author=Z.%20Du)
+111. [Wang et al., 2025](#bbib0555)
+WangW.-S., LinC.-J., LeeH.-Y., HuangY.-M., WuT.-T.
+Integrating feedback mechanisms and Chatgpt for VR-based experiential learning: Impacts on reflective thinking and aiot physical hands-on tasks
+Interactive Learning Environments, \*33\* (2) (2025), pp. 1770-1787
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Integrating%20feedback%20mechanisms%20and%20Chatgpt%20for%20VR-based%20experiential%20learning%3A%20Impacts%20on%20reflective%20thinking%20and%20aiot%20physical%20hands-on%20tasks&publication\_year=2025&author=W.-S.%20Wang&author=C.-J.%20Lin&author=H.-Y.%20Lee&author=Y.-M.%20Huang&author=T.-T.%20Wu)
+112. [Wang et al., 2024](#bbib0560)
+WangY., Hanafi ZaidY., LiJ., PanY.
+Opportunities and challenges of using Chatgpt as a teaching assistant in English language teaching: A systematic literature review
+Proceedings of the 2024 international symposium on artificial intelligence for education ISAIE ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 375-382
+[Crossref](https://doi.org/10.1145/3700297.3700362)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Opportunities%20and%20challenges%20of%20using%20Chatgpt%20as%20a%20teaching%20assistant%20in%20English%20language%20teaching%3A%20A%20systematic%20literature%20review&publication\_year=2024&author=Y.%20Wang&author=Y.%20Hanafi%20Zaid&author=J.%20Li&author=Y.%20Pan)
+113. [Wei and Yan, 2024](#bbib0565)
+WeiX., YanH.
+Research on teaching activities in university blended technology development courses with support from generative virtual digital humans
+2024 international symposium on educational technology (ISET) (2024), pp. 230-234
+[Crossref](https://doi.org/10.1109/iset61814.2024.00052)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85206586794&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Research%20on%20teaching%20activities%20in%20university%20blended%20technology%20development%20courses%20with%20support%20from%20generative%20virtual%20digital%20humans&publication\_year=2024&author=X.%20Wei&author=H.%20Yan)
+114. [Wong et al., 2023](#bbib0570)
+WongL.H., AwG.P., ChenW., CheungY.L., SimS.H.
+Empowering language learners: Harnessing computer-based writing for enhanced Chinese language proficiency, Asia-Pacific Society for Computers in Education (2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Empowering%20language%20learners%3A%20Harnessing%20computer-based%20writing%20for%20enhanced%20Chinese%20language%20proficiency&publication\_year=2023&author=L.H.%20Wong&author=G.P.%20Aw&author=W.%20Chen&author=Y.L.%20Cheung&author=S.H.%20Sim)
+115. [Xiao and Liu, 2025](#bbib0575)
+XiaoQ., LiuN.
+An empirical research on AI chatbot-assisted continuation writing task
+Proceedings of the 2024 7th international conference on educational technology management ICETM ’24, New York, NY, USA, Association for Computing Machinery (2025), pp. 160-165
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105001675115&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20empirical%20research%20on%20AI%20chatbot-assisted%20continuation%20writing%20task&publication\_year=2025&author=Q.%20Xiao&author=N.%20Liu)
+116. [Xiao and Liu, 2025](#bbib0580)
+XiaoQ., LiuN.
+An exploratory research on effects of AI chabots on syntactic complexity of l2 writing
+Proceedings of the 2024 7th international conference on educational technology management ICETM ’24, New York, NY, USA, Association for Computing Machinery (2025), pp. 259-263
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105001670753&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20exploratory%20research%20on%20effects%20of%20AI%20chabots%20on%20syntactic%20complexity%20of%20l2%20writing&publication\_year=2025&author=Q.%20Xiao&author=N.%20Liu)
+117. [Xu and Liu, 2025](#bbib0585)
+XuJ., LiuQ.
+Uncurtaining windows of motivation, enjoyment, critical thinking, and autonomy in AI-integrated education: Duolingo VS. Chatgpt
+Learning and Motivation, \*89\* (2025)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Uncurtaining%20windows%20of%20motivation%2C%20enjoyment%2C%20critical%20thinking%2C%20and%20autonomy%20in%20AI-integrated%20education%3A%20Duolingo%20VS.%20Chatgpt&publication\_year=2025&author=J.%20Xu&author=Q.%20Liu)
+118. [Xu et al., 2024](#bbib0590)
+XuQ., GuJ., LuJ.
+Leveraging artificial intelligence and large language models for enhanced teaching and learning: A systematic literature review
+2024 13th international conference on computer technologies and development (TechDev) (2024), pp. 73-77
+[Crossref](https://doi.org/10.1109/techdev64369.2024.00021)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105000811376&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Leveraging%20artificial%20intelligence%20and%20large%20language%20models%20for%20enhanced%20teaching%20and%20learning%3A%20A%20systematic%20literature%20review&publication\_year=2024&author=Q.%20Xu&author=J.%20Gu&author=J.%20Lu)
+119. [Xu et al., 2024](#bbib0595)
+XuX., ChenY., MiaoJ.
+Opportunities, challenges, and future directions of large language models, including Chatgpt in medical education: A systematic scoping review
+Journal of Educational Evaluation for Health Professions, \*21\* (2024), p. 6
+[View PDF](/science/article/pii/S0901502723002862/pdfft?md5=c4a3effcb0c70973336f71d700c67936&pid=1-s2.0-S0901502723002862-main.pdf)[View article](/science/article/pii/S0901502723002862)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Opportunities%2C%20challenges%2C%20and%20future%20directions%20of%20large%20language%20models%2C%20including%20Chatgpt%20in%20medical%20education%3A%20A%20systematic%20scoping%20review&publication\_year=2024&author=X.%20Xu&author=Y.%20Chen&author=J.%20Miao)
+120. [Yang et al., 2024](#bbib0600)
+YangA.C.M., LinJ.-Y., LinC.-Y., OgataH.
+Enhancing Python learning with pytutor: Efficacy of a chatgpt-based intelligent tutoring system in programming education
+Computers and Education: Artificial Intelligence, \*7\* (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enhancing%20Python%20learning%20with%20pytutor%3A%20Efficacy%20of%20a%20chatgpt-based%20intelligent%20tutoring%20system%20in%20programming%20education&publication\_year=2024&author=A.C.M.%20Yang&author=J.-Y.%20Lin&author=C.-Y.%20Lin&author=H.%20Ogata)
+121. [Yuan et al., 2023](#bbib0605)
+YuanK., LinH., CaoS., PengZ., GuoQ., MaX.
+Critrainer: An adaptive training tool for critical paper reading
+Proceedings of the 36th annual ACM symposium on user interface software and technology UIST ’23, New York, NY, USA, Association for Computing Machinery (2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Critrainer%3A%20An%20adaptive%20training%20tool%20for%20critical%20paper%20reading&publication\_year=2023&author=K.%20Yuan&author=H.%20Lin&author=S.%20Cao&author=Z.%20Peng&author=Q.%20Guo&author=X.%20Ma)
+122. [Yunianto et al., 2024](#bbib0610)
+YuniantoW., LaviczaZ., Kastner-HaulerO., HoughtonT.
+Investigating the use of Chatgpt to solve a geogebra based mathematics+computational thinking task in a geometry topic
+Journal on Mathematics Education, \*15\* (3) (2024), pp. 1027-1052
+[Crossref](https://doi.org/10.22342/jme.v15i3.pp1027-1052)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85207154576&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Investigating%20the%20use%20of%20Chatgpt%20to%20solve%20a%20geogebra%20based%20mathematicscomputational%20thinking%20task%20in%20a%20geometry%20topic&publication\_year=2024&author=W.%20Yunianto&author=Z.%20Lavicza&author=O.%20Kastner-Hauler&author=T.%20Houghton)
+123. [Zarei et al., 2025](#bbib0615)
+ZareiM., ZareiM., HamzehzadehS., OliyaeiS., HosseiniM.-S.
+Chatgpt, a friend or a foe in medical education: A review of strengths, challenges, and opportunities
+Shiraz E-Medical Journal (2025)
+[In Press]
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Chatgpt%2C%20a%20friend%20or%20a%20foe%20in%20medical%20education%3A%20A%20review%20of%20strengths%2C%20challenges%2C%20and%20opportunities&publication\_year=2025&author=M.%20Zarei&author=M.%20Zarei&author=S.%20Hamzehzadeh&author=S.%20Oliyaei&author=M.-S.%20Hosseini)
+124. [Zhang et al., 2023](#bbib0620)
+ZhangZ., GaoJ., DhaliwalR.S., LiT.-J.-J.
+VISAR: A human-AI argumentative writing assistant with visual programming and rapid draft prototyping
+Proceedings of the 36th annual ACM symposium on user interface software and technology UIST ’23, New York, NY, USA, Association for Computing Machinery (2023), pp. 1-30
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=VISAR%3A%20A%20human-AI%20argumentative%20writing%20assistant%20with%20visual%20programming%20and%20rapid%20draft%20prototyping&publication\_year=2023&author=Z.%20Zhang&author=J.%20Gao&author=R.S.%20Dhaliwal&author=T.-J.-J.%20Li)
+125. [Zhou et al., 2024](#bbib0625)
+ZhouY., XuK., YinB., LiuN.
+Research on the application of digital humans in English oral teaching based on AI models
+Proceedings of the 2024 9th international conference on distance education and learning ICDEL ’24, New York, NY, USA, Association for Computing Machinery (2024), pp. 49-56
+[View PDF](/science/article/pii/S108986032400020X/pdfft?md5=775c410229b6b0dd9fb607af0349861e&pid=1-s2.0-S108986032400020X-main.pdf)[View article](/science/article/pii/S108986032400020X)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Research%20on%20the%20application%20of%20digital%20humans%20in%20English%20oral%20teaching%20based%20on%20AI%20models&publication\_year=2024&author=Y.%20Zhou&author=K.%20Xu&author=B.%20Yin&author=N.%20Liu)
+126. [Zhu et al., 2025](#bbib0630)
+ZhuW., XingW., LyuB., LiC., ZhangF., LiH.
+Bridging the gender gap: The role of AI-powered math story creation in learning outcomes
+Proceedings of the 15th international learning analytics and knowledge conference LAK ’25, New York, NY, USA, Association for Computing Machinery (2025), pp. 918-923
+[Crossref](https://doi.org/10.1145/3706468.3706539)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105000247910&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Bridging%20the%20gender%20gap%3A%20The%20role%20of%20AI-powered%20math%20story%20creation%20in%20learning%20outcomes&publication\_year=2025&author=W.%20Zhu&author=W.%20Xing&author=B.%20Lyu&author=C.%20Li&author=F.%20Zhang&author=H.%20Li)
+127. [Zimmerman, 2000](#bbib0635)
+ZimmermanB.J.
+Attaining self-regulation: A social cognitive perspective
+Handbook of self-regulation, Elsevier (2000), pp. 13-39
+[View PDF](/science/article/pii/B9780121098902500317/pdfft?md5=c646c3df3f2c54942d694307a6e7a202&pid=3-s2.0-B9780121098902500317-main.pdf)[View article](/science/article/pii/B9780121098902500317)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Attaining%20self-regulation%3A%20A%20social%20cognitive%20perspective&publication\_year=2000&author=B.J.%20Zimmerman)
+## Cited by (2)
+\* ### [Analyzing Adaptive Work-System Patterns in Complex Socio-Technical Systems](https://doi.org/10.1002/hfm.70040)
+2026, Human Factors and Ergonomics in Manufacturing and Service Industries
+\* ### [CPG-EVAL: Evaluating the Readiness of Large Language Models as Assistants and Teammates in Language Teaching](https://doi.org/10.3390/informatics13020029)
+2026, Informatics
+© 2025 The Authors. Published by Elsevier Ltd.
+## Recommended articles
+\* ### [Embodied learning in teacher education: Investigating student-teachers' experiences in engaging with embodied cognition theories](/science/article/pii/S0742051X25004135)
+Teaching and Teacher Education, Volume 171, 2026, Article 105335
+Juliene MadureiraFerreira, GwenIneson
+[View PDF](/science/article/pii/S0742051X25004135/pdfft?md5=0b32f6a1a1731739110c200339985133&pid=1-s2.0-S0742051X25004135-main.pdf)
+\* ### [Embracing the challenge: Predicting self-testing in non-formal online courses using machine learning](/science/article/pii/S0360131525002751)
+Computers & Education, Volume 242, 2026, Article 105507
+MariaKlose, …, CordulaArtelt
+[View PDF](/science/article/pii/S0360131525002751/pdfft?md5=47ef91d5f363e8e082420a0f26b26862&pid=1-s2.0-S0360131525002751-main.pdf)
+\* ### [Virtual internships as alternative work-based learning: Examining access, quality, and outcomes for underserved students](/science/article/pii/S0360131525002076)
+Computers & Education, Volume 239, 2025, Article 105439
+ChangheeLee
+[View PDF](/science/article/pii/S0360131525002076/pdfft?md5=215672326d39135cf656cb89ca5c088b&pid=1-s2.0-S0360131525002076-main.pdf)
+\* ### [Making failure desired during learning – A quasi-experimental study](/science/article/pii/S1871187125003414)
+Thinking Skills and Creativity, Volume 60, 2026, Article 102094
+TanmaySinha
+[View PDF](/science/article/pii/S1871187125003414/pdfft?md5=ecf1d73de3861e4b72caa10ff5b9558b&pid=1-s2.0-S1871187125003414-main.pdf)
+\* ### [Co-constructing adaptive lesson plans with GenAI: Pre-service teachers' Intelligent-TPACK and prompt engineering strategies](/science/article/pii/S0360131525002532)
+Computers & Education, Volume 241, 2026, Article 105485
+IsmailCelik, …, Alanur AhsenDalyanci
+[View PDF](/science/article/pii/S0360131525002532/pdfft?md5=c99d653bf9bda381e0a394ab9c1f4b40&pid=1-s2.0-S0360131525002532-main.pdf)
+\* ### [A case of crossover mixed analyses in mathematics education research](/science/article/pii/S2590260125000311)
+Methods in Psychology, Volume 13, 2025, Article 100205
+Heather LynnJohnson, …, EvanMcClintock
+[View PDF](/science/article/pii/S2590260125000311/pdfft?md5=319776b2fec1f37c694ea2458324f76c&pid=1-s2.0-S2590260125000311-main.pdf)
+Show 3 more articles
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X25001699)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

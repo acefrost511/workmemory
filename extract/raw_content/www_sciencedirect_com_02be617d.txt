@@ -1,0 +1,231 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S002396902500102X
+# Content Length: 27554 characters
+# Extracted at: 2026-03-28 00:27:59
+#============================================================
+
+Predicting learner autonomy through AI-supported self-regulated learning: A social cognitive theory approach - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS002396902500102X&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS002396902500102X)
+\* [Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS002396902500102X)
+\* [Purchase PDF](/getaccess/pii/S002396902500102X/purchase)
+Search ScienceDirect
+## Article preview
+\* [Abstract](#preview-section-abstract)
+\* [Introduction](#preview-section-introduction)
+\* [Section snippets](#preview-section-snippets)
+\* [References (58)](#preview-section-references)
+\* [Cited by (2)](#preview-section-cited-by)
+[![](https://sciencedirect.elseviercdn.cn/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](/journal/learning-and-motivation)
+## [Learning and Motivation](/journal/learning-and-motivation)
+[Volume 92](/journal/learning-and-motivation/vol/92/suppl/C), November 2025, 102195
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S0023969025X00047-cov150h.gif)](/journal/learning-and-motivation/vol/92/suppl/C)
+# Predicting learner autonomy through AI-supported self-regulated learning: A social cognitive theory approach
+Author links open overlay panelGuanghuiHe
+Show more
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S002396902500102X&orderBeanReset=true)
+## Abstract
+As artificial intelligence (AI) becomes increasingly integrated into education, its influence on learner autonomy through self-regulated learning warrants investigation. This study examined the predictive role of AI tool usage on learner autonomy, mediated by self-efficacy, metacognitive strategies, and self-monitoring, among university students. Grounded in Social Cognitive Theory, structural equation modeling was used to analyze data from validated self-report questionnaires. Results showed that AI tool use significantly influenced learner autonomy, both directly and indirectly through psychological resources. The findings suggest that effective AI integration should not only provide technological support but also foster students’ self-regulatory capacities, contributing to the design of educational environments that encourage autonomous learning.
+## Introduction
+In today’s educational context, artificial intelligence (AI) has evolved from a supplementary resource into a powerful driver of pedagogical transformation (Huang & Derakhshan, 2025; Kasneci et al., 2023; Wang, Derakhshan & Ghiasvand, 2025; Wu & Wang, 2025; Xu et al., 2025; Zhi & Wang, 2024). Its integration into learning settings has facilitated the development of interactive, customized, and adaptive learning systems that can adjust in real time to meet individual learner needs (Derakhshan, 2025, Saint et al., 2022, Chiu, 2024a). This advancement holds particular promise for language education, where the provision of immediate feedback, tailored instructional content, and adaptable learning pace is crucial for maintaining learner engagement, improving their thinking skills, and enhancing language proficiency (Derakhshan and Taghizadeh, 2025, Vázquez-Cano et al., 2021, Wang et al., 2025, Wang and Yan, 2025). AI-powered applications, such as chatbots for conversational practice, machine translation tools, grammar checkers, pronunciation trainers, and intelligent learning platforms, are increasingly being incorporated into language classrooms and self-study programs (Chiu et al., 2023; de Mooij et al., 2025; Wang, Derakhshan & Ghiasvand, 2025; Zhang & Yan, 2025). These tools empower learners by offering opportunities for autonomous exploration, self-paced learning, and immediate correction of errors, thereby expanding the scope for independent learning outside traditional classroom boundaries (Kelly et al., 2024, Lo, 2024, Shi et al., 2025, Zhou, 2025).
+While AI offers substantial potential for enhancing education, its effectiveness depends not merely on the sophistication of technological features but critically on how learners interact with these tools (Guan et al., 2024, Chiu, 2024b, Zhou and Ma, 2025). Previous studies have documented the promise of AI to scaffold learning and provide personalized feedback (Liu et al., 2025, Liu and Fan, 2025, Saint et al., 2022); however, much of this research treats AI as a static or uniform intervention, often overlooking how individual differences in motivation, strategic competence, and engagement shape outcomes (Aldosari and Alsager, 2023, Li et al., 2025, Qi and Derakhshan, 2025). This gap is particularly salient in the context of learner autonomy—a construct characterized by the ability to plan, monitor, and evaluate one’s learning independently—which is increasingly recognized as a necessary competence rather than a desirable trait in rapidly evolving educational and technological landscapes (Little, as cited in Järvelä & Hadwin, 2024; Cerolini et al., 2022; Taub et al., 2022). Although AI tools offer opportunities for personalized and adaptive learning, evidence suggests that their benefits are contingent upon learners’ internal capacities, including self-regulation, motivation, and strategic engagement (Saint et al., 2022, Zhang et al., 2025).
+To address these complexities, Social Cognitive Theory (SCT) provides a robust framework for understanding the mechanisms through which AI can support autonomy (Bandura, referenced in Järvelä & Hadwin, 2024; Derakhshan & Ghiasvand, 2024). Unlike prior research that primarily documents tool effectiveness, SCT emphasizes the dynamic triadic interactions among personal factors, behaviors, and environmental influences, highlighting the reciprocal causation that shapes learning outcomes (Sailer et al., 2024; Vázquez-Cano et al., 2021; Wang, Gao et al., 2025). In AI-enhanced learning environments, the “environment” extends beyond the technology itself to include adaptive content, automated feedback, and intelligent system features, which interact with learners’ beliefs, strategies, and actions in complex ways (Wang and Wang, 2024, Wang and Reynolds, 2024, Xia et al., 2022). This perspective moves beyond descriptive accounts of AI usage and positions learner engagement and psychological processes at the center of educational impact, offering a more nuanced rationale for the present study.
+Three central constructs of SCT,self-efficacy, metacognitive strategy use, and self-monitoring, are particularly relevant in understanding learner behavior in AI-enhanced settings (Saint et al., 2022; Ahmed Abdel-Al Ibrahim​​​​​​​ & Hashemifardnia, 2024). Self-efficacy, or learners’ belief in their ability to accomplish specific tasks, plays a critical role in determining how learners approach challenges, persist in difficulty, and take initiative in learning (Chiu, 2024c, Derakhshan, 2025). In AI-supported environments where learners often work independently and make decisions about their learning trajectories, high self-efficacy can foster deeper engagement with tools (Chiu, 2024a, de Mooij et al., 2025). Metacognitive strategy use, encompassing planning, goal-setting, and monitoring one’s learning process, is essential for navigating adaptive AI tools effectively (Järvelä and Hadwin, 2024, Sailer et al., 2024). Self-monitoring, the ability to track and evaluate progress, is critical for learners to make adjustments based on AI feedback (Guan et al., 2025, Xia et al., 2023). SCT thus provides a comprehensive framework for understanding how internal personal factors mediate the influence of technological tools on outcomes like learner autonomy.
+A growing body of empirical research has examined the intersection of AI technologies and learner-centered pedagogies, especially within self-regulated learning (SRL) (Kasneci et al., 2023, Wang and Derakhshan, 2025, Xu et al., 2025). Yet a critical review of this literature reveals that many studies adopt fragmented or tool-centric perspectives. For instance, research frequently evaluates AI applications (e.g., tutoring systems, grammar tools) based on immediate language outcomes such as test scores or vocabulary retention, while overlooking learners’ internal cognitive and affective processes, like goal setting, motivation, and reflection, which are essential for long-term autonomy (Hu, 2021, Rospigliosi, 2023, Xia et al., 2022). Other studies treat AI-supported contexts as static or uniform, ignoring the wide variability in learners’ engagement and readiness (Ahmed Abdel-Al Ibrahim and Hashemifardnia, 2024, Yang et al., 2025). Some acknowledge SRL but rely on narrow proxies such as usage logs or module completion, without capturing deeper regulatory strategies or beliefs (Chiu, 2024a). Others emphasize learner autonomy but do not theorize how it emerges from interaction with AI tools (Chiu et al., 2023, Aldosari and Alsager, 2023).
+In summary, the literature underscores the critical roles of self-efficacy, metacognitive strategies, and self-monitoring in mediating learners’ engagement and autonomy within AI-enhanced environments. While existing studies highlight the potential of AI tools to support self-regulated learning, much of the research remains fragmented, tool-centric, or limited to short-term outcomes. There is a clear gap in integrating psychological constructs with dynamic learner-AI interactions to understand how autonomy develops over time. This study, therefore, highlights the need for a holistic, theory-driven approach that considers both learners’ internal regulatory capacities and their interactions with adaptive AI systems, setting the stage for the present study.
+Few efforts have integrated SRL with established learning theories like SCT to provide a coherent account of how self-belief and regulation interact with technological affordances (Taub et al., 2022, Guan et al., 2024). Even among those that reference SCT constructs, they often treat self-efficacy as a static, background variable rather than a dynamic construct influenced by feedback and performance (Chiu, 2024b). Similarly, metacognitive strategy use is often described descriptively without examining its evolution over AI engagement or its contribution to autonomy (Chiu, 2024c, Lo, 2024, Sun et al., 2025). Overall, the literature lacks cohesive, theory-driven models that link AI tool usage with learner characteristics and outcomes through defined psychological mechanisms (Derakhshan & Ghiasvand, 2024). This gap highlights the need for comprehensive research that integrates cognitive, behavioral, and environmental variables to explain how learner autonomy develops in AI-supported learning contexts.
+Building on these gaps, the present study introduces several key innovations. First, it adopts a theory-driven approach by integrating Social Cognitive Theory with self-regulated learning constructs to examine how AI tool usage influences learner autonomy. Second, it simultaneously investigates multiple psychological mediators, including self-efficacy, metacognitive strategies, and self-monitoring, providing a more comprehensive understanding of learners’ internal regulatory processes in AI-enhanced settings. Third, unlike prior research that often relies on static usage data or short-term performance metrics, this study examines dynamic interactions between learners and AI tools, capturing both behavioral engagement and cognitive-affective mechanisms. By addressing these dimensions, the study not only advances theoretical models of autonomous learning in digital environments but also offers practical insights for designing AI-integrated educational interventions that actively cultivate self-directed, strategic learners.
+In summary, while prior research highlights the promise of AI to support learner autonomy, existing studies often overlook how individual psychological and regulatory factors shape engagement and outcomes (Chiu, 2024a, Järvelä and Hadwin, 2024, Cerolini et al., 2022). The literature suggests that access to AI tools alone is insufficient; learners’ self-efficacy beliefs, metacognitive strategy use, and self-monitoring behaviors critically determine whether AI facilitates meaningful autonomous learning (Xu et al., 2025, Guan et al., 2025, Saint et al., 2022, Kelly et al., 2024). However, there remains a lack of theory-driven research that explicitly models these mechanisms within AI-supported learning environments, particularly in language education. This gap underscores the need for studies that integrate learner characteristics, regulatory processes, and AI interactions to clarify how autonomy develops, thereby providing a clear rationale for the present research questions.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS002396902500102X)
+## Section snippets
+## Research questions
+\*\*RQ1\*\*
+To what extent does AI tool usage frequency, self-efficacy, metacognitive strategy use, and self-monitoring predict learner autonomy in AI-supported language learning contexts?
+\*\*RQ2\*\*
+How do key components of social cognitive theory (e.g., self-efficacy, metacognitive strategy use, and self-monitoring) mediate the relationship between AI tool usage and learner autonomy?
+## Participants
+Participants were recruited using convenience sampling to investigate predictors of learner autonomy in AI-supported self-regulated language learning environments. Eligibility criteria required participants to be university students aged 18 or older who had prior experience using AI-based tools in academic settings, ensuring that respondents were familiar with the technologies central to this study. Exclusion criteria included individuals under 18 or those without relevant AI tool experience,
+## Results
+This section reports the outcomes of the statistical procedures undertaken to investigate the proposed associations among AI tool usage frequency, self-efficacy, metacognitive strategy use, self-monitoring, and learner autonomy, grounded in the principles of Social Cognitive Theory. The data analysis was implemented in two sequential phases. Initially, IBM SPSS Statistics (Version 27) was used to conduct preliminary analyses aimed at evaluating data quality, assessing internal consistency
+## Discussion
+The descriptive statistics revealed that participants reported generally high levels of engagement with AI tools, particularly for writing assistance, as well as strong self-efficacy, consistent use of metacognitive strategies, and high levels of learner autonomy. The lowest scores were observed in self-monitoring dimensions, suggesting a relatively weaker emphasis on public performance awareness and social adaptability compared to internal regulatory processes. The structural model
+## Conclusion
+This study demonstrates that AI-supported self-regulated learning significantly predicts learner autonomy when aligned with learners’ internal capacities, including self-efficacy, metacognitive strategy use, and self-monitoring. The results indicate that AI tools alone are insufficient; their impact is maximized when learners actively engage with them using cognitive and emotional skills to regulate their learning. By applying Social Cognitive Theory, the study highlights the dynamic interplay
+## CRediT authorship contribution statement
+\*\*Guanghui He:\*\* Writing – original draft, Methodology, Investigation, Funding acquisition, Formal analysis, Data curation, Conceptualization.
+## Consent to participate
+Every participant in the study provided informed consent to partake.
+## Consent for publication
+All participants in the study gave their informed consent for publication.
+## Funding
+This study is supported by School-level Research Projects of Zhengzhou Shengda University in 2023 (An Empirical Study on the Synergistic Effects of Collaborative Atmosphere and Job Satisfaction Among Teachers at Private Universities, SDXJKT116), Research Project of Philosophy and Social Sciences Education Contributing to Stronger Henan Province in 2025 (A Study on the Mechanism of Organizational Culture and Self-Efficacy on the Innovative Behavior and Performance of College Teachers,
+## Declaration of Competing Interest
+None.
+## Acknowledgments
+This research is supported by Zhengzhou Shengda University, People's Republic of China. The university has no role in the design or implementation of this study. Insightful remarks made by the editor and anonymous reviewers are also highly appreciated by the author.
+\*\*Guanghui He\*\*, an E.D.D. holder, in Educational Management and Leadership, works as an associate professor in School of Foreign Languages, Zhengzhou Shengda University. His research has been focusing on educational psychology, Chinese EFL teachers' professional development and EFL students’ learning engagement.
+Recommended articles
+## References (58)
+\* L.E. Burke \*et al.\*
+### [Self-monitoring in weight loss: A systematic review of the literature](/science/article/pii/S0002822310016445)
+### Journal of the American Dietetic Association
+(2011)
+\* T.K.F. Chiu
+### [Future research recommendations for transforming higher education with generative AI](/science/article/pii/S2666920X23000760)
+### Computers and Education: Artificial Intelligence
+(2024)
+\* T.K.F. Chiu \*et al.\*
+### [Systematic literature review on opportunities, challenges, and future research recommendations of artificial intelligence in education](/science/article/pii/S2666920X2200073X)
+### Computers and Education: Artificial Intelligence
+(2023)
+\* A. Derakhshan
+### [EFL students’ perceptions about the role of generative artificial intelligence (GAI)-mediated instruction in their emotional engagement and goal orientation: A motivational climate theory (MCT) perspective in focus](/science/article/pii/S0023969025000219)
+### Learning and Motivation
+(2025)
+\* S. Järvelä \*et al.\*
+### [Triggers for self-regulated learning: A conceptual framework for advancing multimodal research about SRL](/science/article/pii/S1041608024001195)
+### Learning and Individual Differences
+(2024)
+\* E. Kasneci \*et al.\*
+### [ChatGPT for good? On opportunities and challenges of large language models for education](/science/article/pii/S1041608023000195)
+### Learning and Individual Differences
+(2023)
+\* M.L. Kelly \*et al.\*
+### [Secondary teachers’ beliefs about the importance of teaching strategies that support behavioural, emotional and cognitive engagement in the classroom](/science/article/pii/S2590291124000883)
+### Social Sciences Humanities Open
+(2024)
+\* H. Liu \*et al.\*
+### [Exploring individual's emotional and autonomous learning profiles in AI-enhanced data-driven language learning: An expanded sor perspective](/science/article/pii/S1041608025001293)
+### Learning and Individual Differences
+(2025)
+\* M.-T. Lo
+### [Understanding momentary engagement in university students: Exploring the interaction between competence and value beliefs on emotions and cognitive engagement – A multilevel investigation](/science/article/pii/S1041608024000281)
+### Learning and Individual Differences
+(2024)
+\* M. Sailer \*et al.\*
+### [The end is the beginning is the end: The closed-loop learning analytics framework](/science/article/pii/S0747563224001730)
+### Computers in Human Behavior
+(2024)
+- J. Saint \*et al.\*
+### [Temporally-focused analytics of self-regulated learning: A systematic review of literature](/science/article/pii/S2666920X22000157)
+### Computers and Education: Artificial Intelligence
+(2022)
+- X. Wang \*et al.\*
+### [Exploring Chinese EFL learners’ engagement with large language models: A self-determination theory perspective](/science/article/pii/S0023969024000560)
+### Learning and Motivation
+(2024)
+- Y. Wang \*et al.\*
+### [Investigating the influence of data-driven learning (DDL) on EFL students' willingness to attend classes (WTAC): An intervention study](/science/article/pii/S1041608025001645)
+### Learning and Individual Differences
+(2025)
+- H. Wu \*et al.\*
+### [Disclosing Chinese college students’ flow experience in GenAI-assisted informal digital learning of english: A self-determination theory perspective](/science/article/pii/S0023969025000414)
+### Learning and Motivation
+(2025)
+- Q. Xia \*et al.\*
+### [A self-determination theory (SDT) design approach for inclusive and diverse artificial intelligence (AI) education](/science/article/pii/S0360131522001531)
+### Computers Education
+(2022)
+- L.J. Zhang \*et al.\*
+### [Validating a questionnaire on EFL writers’ metacognitive awareness of writing strategies in multimedia environments](/science/article/pii/S0022509617308906)
+### [Metacognition in language learning and teaching](/science/article/pii/S0022509617308906)
+(2018)
+- R. Zhi \*et al.\*
+### [On the relationship between EFL students’ attitudes toward artificial intelligence, teachers’ immediacy and teacher-student rapport, and their willingness to communicate](/science/article/pii/S0346251X24001234)
+### System
+(2024)
+- G. Zhou \*et al.\*
+### [Understanding user stickiness in GAI-IDLE platforms: Insights from self-determination theory](/science/article/pii/S0023969025000864)
+### Learning and Motivation
+(2025)
+- K. Ahmed Abdel-Al Ibrahim \*et al.\*
+### Bold techno competence in language learning: A study on the effects of efficacy of workshops in decreasing technostress and boosting academic enjoyment, autonomy, and language achievement
+### Asian-Pacific Journal of Second and Foreign Language Education
+(2024)
+- M.S. Aldosari \*et al.\*
+### A step toward autonomy in education: Probing into the effects of practicing self-assessment, resilience, and creativity in task supported language learning
+### BMC Psychology
+(2023)
+- D. Baas \*et al.\*
+### The relation between assessment for learning and elementary students’ cognitive and metacognitive strategy use
+### British Journal of Educational Psychology
+(2015)
+- S. Cerolini \*et al.\*
+### Cognitive emotion regulation questionnaire-short: Reliability, validity, and measurement invariance of the Italian version
+### Behavioral Sciences (Basel)
+(2022)
+- T.K.F. Chiu
+### A classification tool to foster self-regulated learning with generative artificial intelligence by applying self-determination theory: A case of ChatGPT
+### Educational Technology Research and Development
+(2024)
+- T.K.F. Chiu
+### The impact of generative AI (GenAI) on practices, policies and research direction in education: A case of ChatGPT and midjourney
+### Interactive Learning Environments
+(2024)
+- S. de Mooij \*et al.\*
+### A systematic review of self-regulated learning through integration of multimodal data and artificial intelligence
+### Educational Psychology Review
+(2025)
+- A. Derakhshan \*et al.\*
+### Is ChatGPT an evil or an angel for second language education and research? A phenomenographic study of research-active EFL teachers’ perceptions
+### International Journal of Applied Linguistics
+(2024)
+- A. Derakhshan \*et al.\*
+### Does artificial intelligence (AI) nurture or hinder language learners’ higher-order thinking skills (HOTS)? A phenomenological study on L2 learners’ perspectives and lived experiences
+### International Journal of Applied Linguistics
+(2025)
+- S.E. Elhassan \*et al.\*
+### Assessing familiarity, usage patterns, and attitudes of medical students toward ChatGPT and other chat-based AI apps in medical education: Cross-sectional questionnaire study
+### JMIR Medical Education
+(2025)
+- A. Ghanizadeh
+### The interplay between reflective thinking, critical thinking, self-monitoring, and academic achievement in higher education
+### Higher Education
+(2017)
+View more references
+## Cited by (2)
+\* ### [Design and Validation of the AI-Integrated Metacognitive Self-Regulation of Future Thinking Scale (MSRFTS) for Female University Students](https://doi.org/10.1002/jcal.70175)
+2026, Journal of Computer Assisted Learning
+\* ### [Exploring AI-mediated linguistic and cognitive support for non-native English speakers in English-only higher education](https://doi.org/10.12928/eltej.v8i3.14228)
+2025, English Language Teaching Educational Journal
+\*\*Guanghui He\*\*, an E.D.D. holder, in Educational Management and Leadership, works as an associate professor in School of Foreign Languages, Zhengzhou Shengda University. His research has been focusing on educational psychology, Chinese EFL teachers' professional development and EFL students’ learning engagement.
+[View full text](/science/article/pii/S002396902500102X)
+© 2025 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+## Recommended articles
+\* ### [Exploring sustainable language assessment through a teacher-learner practitioner inquiry](/science/article/pii/S0346251X25001782)
+System, Volume 134, 2025, Article 103768
+AnnaCostantino, SusanneMartin
+\* ### [The meta-reflective orientation map: A radial model of teachers reflecting on the act of reflecting](/science/article/pii/S0898589825000956)
+Linguistics and Education, Volume 90, 2025, Article 101478
+Le ThanhThao, Pham TrutThuy
+\* ### [A novel whole-greenhouse static chamber method for quantifying ecosystem respiration and nitrous oxide emissions in greenhouse cultivation systems](/science/article/pii/S2215016125005151)
+MethodsX, Volume 15, 2025, Article 103671
+ZhiQuan, …, YuntingFang
+\* ### [Exploring AI-generated feedback in peer-discussion contexts: A mixed-methods study of essay writing in secondary classrooms](/science/article/pii/S2666920X25001444)
+Computers and Education: Artificial Intelligence, Volume 9, 2025, Article 100504
+IrinaEngeness
+\* ### [The impact of student engagement on student satisfaction in an English as the medium of instruction environment at a private university in Vietnam](/science/article/pii/S0001691826001149)
+Acta Psychologica, Volume 263, 2026, Article 106315
+An Ngoc MinhPham, …, Toan PhucNguyen
+\* ### [\*In-situ\* analysis and monitoring of antiscalant polyaspartate by mobile fluorescence spectroscopy](/science/article/pii/S2215016125003334)
+MethodsX, Volume 15, 2025, Article 103488
+MichaelPettauer, …, MartinDietzel
+Show 3 more articles
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS002396902500102X)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)
