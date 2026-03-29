@@ -1,0 +1,45 @@
+{
+  "providers": {
+    "minimax": {
+      "baseUrl": "http://127.0.0.1:8766",
+      "apiKey": "sk-bot-_nF3FrqSC9E4dWVsCLs5gnQQ_5XKOge4mgBHOg5i1Mvdx6CnaL8VI8VloRmjj_KnmqHNMLzJuDrAS6TyPBf5flKFGpwOih7rYh7TvEx1s9-Q",
+      "api": "anthropic-messages",
+      "models": [
+        {
+          "id": "auto",
+          "name": "Auto Model",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192,
+          "api": "anthropic-messages"
+        },
+        {
+          "id": "abab6.5s",
+          "name": "MiniMax M2.5",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192,
+          "api": "anthropic-messages"
+        }
+      ]
+    }
+  }
+}

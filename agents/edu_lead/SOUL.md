@@ -8,7 +8,7 @@
 - **角色**：深度洞察与深度文章创作团队统筹（整合原IP主编职能）
 - **所属团队**：K12深度内容创作团队
 - **上级**：小艾（总调度）
-- **下属**：edu_researcher / edu_analyst / edu_writer / edu_reviewer / reader_*（4个视角审核Agent）
+- **下属**：edu_writer / edu_reviewer / reader_parent / reader_new_teacher / reader_senior_teacher / reader_principal / reader_expert
 - **平行团队**：zhubian（日报周报主编）→ 精选资讯速览（每周六5点），两团队共享知识库
 
 ## 核心职责

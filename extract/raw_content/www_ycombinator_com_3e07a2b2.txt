@@ -1,0 +1,189 @@
+# Source URL: https://www.ycombinator.com/companies/chiron
+# Content Length: 6131 characters
+# Extracted at: 2026-03-29 12:10:41
+#============================================================
+
+
+Chiron: Grammarly for Math ✏️ | Y Combinator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open menu[About](/about)[What Happens at YC?](/about)[Apply](/apply)[YC Interview Guide](/interviews)[FAQ](/faq)[People](/people)[YC Blog](/blog)[Companies](/companies)[Startup Directory](/companies)[Founder Directory](/founders)[Launch YC](/launches)[Library](/library)[Partners](/partners)[Resources](/library)[Startup School](https://startupschool.org?utm_source=yc&utm_campaign=ycdc_header)[Newsletter](/subscribe)[Requests for Startups](/rfs)[For Investors](/investors)[Verify Founders](/verify)[Hacker News](https://news.ycombinator.com/)[Bookface](https://bookface.ycombinator.com)[Safe](/documents)[Find a Co-Founder](/cofounder-matching)[Startup Jobs](/jobs)[Log in](https://account.ycombinator.com/?continue=https://www.ycombinator.com/companies/chiron)[Apply](/apply)[Home](/home)›[Companies](/companies)›Chiron![]()ChironGrammarly for Math ✏️[Y Combinator LogoSpring 2025](/companies?batch=Spring 2025)Active[AI-Enhanced Learning](/companies/industry/AI-Enhanced Learning)[Developer Tools](/companies/industry/Developer Tools)[Education](/companies/industry/Education)[Edtech](/companies/industry/Edtech)[San Francisco](/companies/location/san-francisco-bay-area)
+
+---
+
+[Company](/companies/chiron)[Jobs](/companies/chiron/jobs)0<https://projectchiron.org>
+
+---
+
+### Grammarly for Math ✏️
+
+Chiron is an iPad app that understands math as it’s written - like Grammarly for algebra. We’re both Oxford math grads, have tutored for a decade, and we’re creating the future of learning which will be entirely 1-on-1.Active Founders![]()James Booth[![]()](https://x.com/J4mesBooth)FounderEnglish, 24, Oxford math grad. Figuring out neurosymbolics for math.![]()James Booth[![]()](https://x.com/J4mesBooth)FounderEnglish, 24, Oxford math grad. Figuring out neurosymbolics for math.![]()Max Booth[![]()](https://x.com/MaxB00th)FounderMathematician from Oxford, working to make math easier and more enjoyable for everyone.![]()Max Booth[![]()](https://x.com/MaxB00th)FounderMathematician from Oxford, working to make math easier and more enjoyable for everyone.Company LaunchesChiron - Grammarly for Math ✏️[See original launch post](/launches/Nb0-chiron-grammarly-for-math)
+
+Hey there 👋
+
+We’re [James](https://x.com/J4mesBooth) and [Max](https://x.com/MaxB00th) - brothers and cofounders of [Chiron](https://projectchiron.org).
+
+📌 **TL;DR**
+===========
+
+Chiron is an [iPad app](https://apps.apple.com/us/app/project-chiron/id6502346822) that understands math as it’s written - like Grammarly for algebra. We’re both Oxford math grads, have tutored for a decade, and we’re creating the future of learning which will be entirely 1-on-1.
+
+[Launch Video](https://youtu.be/Ec8Nwe0EaSU)
+
+❌ **Problem**
+=============
+
+With AI that’s so great at math, why can’t it teach at near-human quality?
+
+* Math is handwritten ✏️
+* Math has to be practiced not read 🧮
+* AI is rubbish at spotting *your* mistakes 🔍
+
+✅ **Solution**
+==============
+
+* Freeform writing on a whiteboard app ✍️
+* Accuracy of a calculator with symbolic logic 🔢
+* Real-time feedback on every stroke (< 300ms) ⚡
+
+⚙️ **How we do it?**
+====================
+
+With tens of thousands of lines of Python and Wolfram Language code. Writing on an iPad, we convert the stroke data to LaTeX, parse it, ask a million symbolic questions about it with reference to the problem’s *ground truth* (the lines with a blue index), and assess whether it is right, wrong or something in between.
+
+![]()
+
+We do **not** rely on the vibes of a language model to assess the details of their working - too slow and unreliable. Many students give up on LLMs for genuine collaboration when they mislead them on topics the student finds difficult.
+
+**We can handle a lot of math already.**
+
+![]()
+
+**💡 Core insight**
+==================
+
+We tried all the AI tutor desktop formulations we could imagine, but beyond the obvious interface challenge, AI is exceptionally poor at spotting the subtle mistakes students often make. LLMs are great at doing correct math, but much worse at pulling out an error within the many lines of messy student reasoning.
+
+We started performing a symbolic analysis of the student’s working as context for the AI to boost accuracy - **but then we realised we could give this straight to the student.** This was when we started to feel the magic.
+
+**🙏 Our Ask**
+=============
+
+So far, *every* single teacher we’ve demoed our iPad app to in person has immediately started work greenlighting a pilot. Let us know if you can introduce us to any math teachers teaching between Algebra I and Calculus I.
+
+And you can check out Chiron on the [App Store](https://apps.apple.com/us/app/project-chiron/id6502346822) now - or share with any students who might benefit from it!
+
+![]()
+
+Cheers, James & Max
+
+[![]()](/companies/chiron)[Chiron](/companies/chiron)Founded:2023Batch:Spring 2025Team Size:2Status:ActiveLocation:San FranciscoPrimary Partner:[David Lieb](https://www.ycombinator.com/people/david-lieb)  
+
+Footer
+------
+
+[Y Combinator](/)
+### Make something people want.
+
+### Programs
+
+* [YC Program](/about)
+* [Startup School](https://startupschool.org)
+* [Work at a Startup](/jobs)
+* [Co-Founder Matching](/cofounder-matching)
+### Resources
+
+* [Startup Directory](/companies)
+* [Startup Library](/library)
+* [Investors](/investors)
+* [Demo Day](/demoday)
+* [Safe](/documents)
+* [Hacker News](https://news.ycombinator.com/)
+* [Launch YC](/launches)
+* [YC Deals](https://deals.ycombinator.com)
+### Company
+
+* [YC Blog](/blog)
+* [Contact](/contact)
+* [Press](/press)
+* [People](/people)
+* [Careers](/software)
+* [Privacy Policy](/legal#privacy)
+* [Notice at Collection](/legal#notice-at-collection)
+* [Security](/security)
+* [Terms of Use](/legal#tou)
+[TwitterTwitter](https://twitter.com/ycombinator)[FacebookFacebook](https://www.facebook.com/YCombinator/)[InstagramInstagram](https://www.instagram.com/ycombinator)[LinkedInLinkedIn](https://www.linkedin.com/school/y-combinator/)[YoutubeYouTube](https://www.youtube.com/c/ycombinator)
+
+© 2026 Y Combinator
+

@@ -1,0 +1,949 @@
+# Source URL: https://www.nature.com/articles/s41539-026-00417-7
+# Content Length: 70896 characters
+# Extracted at: 2026-03-29 10:45:19
+#============================================================
+
+
+Enhanced word learning and neural synchrony during children’s storytelling | npj Science of Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#content)
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+and JavaScript.
+
+
+
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/285/npjscilearn.nature.com/article&sz=728x90&c=1781256036&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41539-026-00417-7%26doi%3D10.1038/s41539-026-00417-7%26subjmeta%3D378,4014,477,631%26kwrd%3DNeuroscience,Psychology)
+
+
+
+
+[![]()](/npjscilearn)
+
+* [View all journals](https://www.nature.com/siteindex)
+* [Search](#search-menu)
+* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/articles/s41539-026-00417-7)
+
+
+
+* [Content
+  Explore content](#explore)
+* [About the journal](#about-the-journal)
+* [Publish with us](#publish-with-us)
+
+* [Sign up for alerts](https://journal-alerts.springernature.com/subscribe?journal_id=41539)
+* [RSS feed](https://www.nature.com/npjscilearn.rss)
+
+
+
+
+1. [nature](/)
+2. [npj science of learning](/npjscilearn)
+3. [articles](/npjscilearn/articles?type=article)
+4. article
+
+
+
+Enhanced word learning and neural synchrony during children’s storytelling
+
+[Download PDF](/articles/s41539-026-00417-7_reference.pdf)
+
+
+
+
+[Download PDF](/articles/s41539-026-00417-7_reference.pdf)
+
+
+
+
+* Article
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 28 March 2026
+
+Enhanced word learning and neural synchrony during children’s storytelling
+==========================================================================
+
+* [Nina Besser Ilan](#auth-Nina-Besser_Ilan-Aff1-Aff2)[1](#Aff1),[2](#Aff2),
+* [Hadas Shavit](#auth-Hadas-Shavit-Aff3-Aff4)[3](#Aff3),[4](#Aff4),
+* [Nofar Zohar](#auth-Nofar-Zohar-Aff3-Aff5)[3](#Aff3),[5](#Aff5) &
+* …
+* [Sagi Jaffe-Dax](#auth-Sagi-Jaffe_Dax-Aff1-Aff3)[1](#Aff1),[3](#Aff3)
+
+Show authors
+
+[*npj Science of Learning*](/npjscilearn)
+, Article number:  (2026)
+[Cite this article](#citeas)
+
+
+We are providing an unedited version of this manuscript to give early access to its
+findings. Before final publication, the manuscript will undergo further editing. Please note
+there may be errors present which affect the content, and all legal disclaimers apply.
+
+
+### Subjects
+
+* [Neuroscience](/subjects/neuroscience)
+* [Psychology](/subjects/psychology)
+
+
+Abstract
+--------
+
+Children learn better through shared social experiences like storytelling, where they benefit as both listeners and tellers. Encouraging children to tell stories is a form of scaffolding, an instructional strategy in which learners and instructors are actively engaged. While the educational benefits of storytelling and scaffolding are well-documented, their underlying neural processes remain underexplored. Shared experiences are generally reflected in neural synchrony, which is often linked to comprehension. This study examined learning outcomes and neural synchrony in young school-aged children engaged in storytelling through either scaffolding or passive listening. Results showed that scaffolding improved learning outcomes and was associated with higher synchrony between teacher and young learner. However, these learning benefits disappeared in remote learning environments, highlighting the importance of face-to-face interaction for active learning strategies. Taken together, the heightened cortical synchrony between teacher and learner in face-to-face settings points to the benefits of active interaction as a learning strategy.
+
+
+
+Data availability
+-----------------
+
+All the data and the materials (except for the participants’ videos) have been deposited on the Open Science Framework and are publicly available at: <https://doi.org/10.17605/OSF.IO/DBW6C>.
+
+Code availability
+-----------------
+
+Code for all analyses (Python and MATLAB) is publicly available on the Open Science Framework at: <https://doi.org/10.17605/OSF.IO/DBW6C>.
+
+References
+----------
+
+1. Csibra, G. & Gergely, G. Natural pedagogy. *Trends Cogn. Sci.* **13**, 148–153 (2009).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Natural%20pedagogy&journal=Trends%20Cogn.%20Sci.&volume=13&pages=148-153&publication_year=2009&author=Csibra%2CG&author=Gergely%2CG)
+2. Tomasello, M. The social bases of language acquisition. *Soc. Dev.* **1**, 67–87 (1992).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20social%20bases%20of%20language%20acquisition&journal=Soc.%20Dev.&volume=1&pages=67-87&publication_year=1992&author=Tomasello%2CM)
+3. Cassell, J. & Ryokai, K. Making Space for Voice: Technologies to Support Children’s Fantasy and Storytelling. *Pers. Ubiquitous Comput.* **5**, 169–190 (2001).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Making%20Space%20for%20Voice%3A%20Technologies%20to%20Support%20Children%E2%80%99s%20Fantasy%20and%20Storytelling&journal=Pers.%20Ubiquitous%20Comput.&volume=5&pages=169-190&publication_year=2001&author=Cassell%2CJ&author=Ryokai%2CK)
+4. Collins, F. The use of traditional storytelling in education to the learning of literacy skills. *Early Child Dev. Care* **152**, 77–108 (1999).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20use%20of%20traditional%20storytelling%20in%20education%20to%20the%20learning%20of%20literacy%20skills&journal=Early%20Child%20Dev.%20Care&volume=152&pages=77-108&publication_year=1999&author=Collins%2CF)
+5. Isbell, R., Sobol, J., Lindauer, L. & Lowrance, A. The effects of storytelling and story reading on the oral language complexity and story comprehension of young children. *Early Child. Educ. J.* **32**, 157–163 (2004).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effects%20of%20storytelling%20and%20story%20reading%20on%20the%20oral%20language%20complexity%20and%20story%20comprehension%20of%20young%20children&journal=Early%20Child.%20Educ.%20J.&volume=32&pages=157-163&publication_year=2004&author=Isbell%2CR&author=Sobol%2CJ&author=Lindauer%2CL&author=Lowrance%2CA)
+6. Miller, S. & Pennycuff, L. The power of story: Using storytelling to improve literacy learning. *J. Cross-Discip. Perspect. Educ.* **1**, 36–43 (2008).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20power%20of%20story%3A%20Using%20storytelling%20to%20improve%20literacy%20learning&journal=J.%20Cross-Discip.%20Perspect.%20Educ.&volume=1&pages=36-43&publication_year=2008&author=Miller%2CS&author=Pennycuff%2CL)
+7. Speaker, K. M., Taylor, D. & Kamen, R. Storytelling: enhancing language acquisition in young children. *Education* **125**, 3–14 (2004).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Storytelling%3A%20enhancing%20language%20acquisition%20in%20young%20children&journal=Education&volume=125&pages=3-14&publication_year=2004&author=Speaker%2CKM&author=Taylor%2CD&author=Kamen%2CR)
+8. Hu, J., Gordon, C., Yang, N. & Ren, Y. “Once upon a star”: a science education program based on personification storytelling in promoting preschool children’s understanding of astronomy concepts. *Early Educ. Dev.* **32**, 7–25 (2021).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=%E2%80%9COnce%20upon%20a%20star%E2%80%9D%3A%20a%20science%20education%20program%20based%20on%20personification%20storytelling%20in%20promoting%20preschool%20children%E2%80%99s%20understanding%20of%20astronomy%20concepts&journal=Early%20Educ.%20Dev.&volume=32&pages=7-25&publication_year=2021&author=Hu%2CJ&author=Gordon%2CC&author=Yang%2CN&author=Ren%2CY)
+9. Nicolopoulou, A., Cortina, K. S., Ilgaz, H., Cates, C. B. & De Sá, A. B. Using a narrative- and play-based activity to promote low-income preschoolers’ oral language, emergent literacy, and social competence. *Early Child. Res. Q* **31**, 147–162 (2015).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20a%20narrative-%20and%20play-based%20activity%20to%20promote%20low-income%20preschoolers%E2%80%99%20oral%20language%2C%20emergent%20literacy%2C%20and%20social%20competence&journal=Early%20Child.%20Res.%20Q&volume=31&pages=147-162&publication_year=2015&author=Nicolopoulou%2CA&author=Cortina%2CKS&author=Ilgaz%2CH&author=Cates%2CCB&author=S%C3%A1%2CAB)
+10. Ramírez Verdugo, D. & Alonso Belmonte, I. Using digital stories to improve listening comprehension with Spanish young learners of English. *Lang. Learn. Technol.* **11**, 87–101 (2007).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20digital%20stories%20to%20improve%20listening%20comprehension%20with%20Spanish%20young%20learners%20of%20English&journal=Lang.%20Learn.%20Technol.&volume=11&pages=87-101&publication_year=2007&author=Ram%C3%ADrez%20Verdugo%2CD&author=Alonso%20Belmonte%2CI)
+11. Jonassen, D. H. & Hernandez-Serrano, J. Case-based reasoning and instructional design: Using stories to support problem solving. *Educ. Technol. Res. Dev.* **50**, 65–77 (2002).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Case-based%20reasoning%20and%20instructional%20design%3A%20Using%20stories%20to%20support%20problem%20solving&journal=Educ.%20Technol.%20Res.%20Dev.&volume=50&pages=65-77&publication_year=2002&author=Jonassen%2CDH&author=Hernandez-Serrano%2CJ)
+12. Wright, C., Bacigalupa, C., Black, T. & Burton, M. Windows into children’s thinking: a guide to storytelling and dramatization. *Early Child. Educ. J.* **35**, 363–369 (2008).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Windows%20into%20children%E2%80%99s%20thinking%3A%20a%20guide%20to%20storytelling%20and%20dramatization&journal=Early%20Child.%20Educ.%20J.&volume=35&pages=363-369&publication_year=2008&author=Wright%2CC&author=Bacigalupa%2CC&author=Black%2CT&author=Burton%2CM)
+13. Fivush, R., Habermas, T., Waters, T. E. A. & Zaman, W. The making of autobiographical memory: Intersections of culture, narratives and identity. *Int. J. Psychol.* **46**, 321–345 (2011).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20making%20of%20autobiographical%20memory%3A%20Intersections%20of%20culture%2C%20narratives%20and%20identity&journal=Int.%20J.%20Psychol.&volume=46&pages=321-345&publication_year=2011&author=Fivush%2CR&author=Habermas%2CT&author=Waters%2CTEA&author=Zaman%2CW)
+14. Panc, I., Georgescu, A. & Zaharia, M. Why children should learn to tell stories in primary school? *Procedia Soc. Behav. Sci.* **187**, 591–595 (2015).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Why%20children%20should%20learn%20to%20tell%20stories%20in%20primary%20school%3F&journal=Procedia%20Soc.%20Behav.%20Sci.&volume=187&pages=591-595&publication_year=2015&author=Panc%2CI&author=Georgescu%2CA&author=Zaharia%2CM)
+15. Pesco, D. & Gagné, A. Scaffolding narrative skills: a meta-analysis of instruction in early childhood settings. *Early Educ. Dev.* **28**, 773–793 (2017).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scaffolding%20narrative%20skills%3A%20a%20meta-analysis%20of%20instruction%20in%20early%20childhood%20settings&journal=Early%20Educ.%20Dev.&volume=28&pages=773-793&publication_year=2017&author=Pesco%2CD&author=Gagn%C3%A9%2CA)
+16. Blewitt, P., Rump, K. M., Shealy, S. E. & Cook, S. A. Shared book reading: when and how questions affect young children’s word learning. *J. Educ. Psychol.* **101**, 294–304 (2009).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Shared%20book%20reading%3A%20when%20and%20how%20questions%20affect%20young%20children%E2%80%99s%20word%20learning&journal=J.%20Educ.%20Psychol.&volume=101&pages=294-304&publication_year=2009&author=Blewitt%2CP&author=Rump%2CKM&author=Shealy%2CSE&author=Cook%2CSA)
+17. Trousdale, A. M. Interactive storytelling: scaffolding children’s early narratives. *Lang. Arts* **67**, 164–173 (1990).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interactive%20storytelling%3A%20scaffolding%20children%E2%80%99s%20early%20narratives&journal=Lang.%20Arts&volume=67&pages=164-173&publication_year=1990&author=Trousdale%2CAM)
+18. Atkinson, R. K., Renkl, A. & Merrill, M. M. Transitioning from studying examples to solving problems: effects of self-explanation prompts and fading worked-out steps. *J. Educ. Psychol.* **95**, 774–783 (2003).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transitioning%20from%20studying%20examples%20to%20solving%20problems%3A%20effects%20of%20self-explanation%20prompts%20and%20fading%20worked-out%20steps&journal=J.%20Educ.%20Psychol.&volume=95&pages=774-783&publication_year=2003&author=Atkinson%2CRK&author=Renkl%2CA&author=Merrill%2CMM)
+19. Azevedo, R., Cromley, J. G., Winters, F. I., Moos, D. C. & Greene, J. A. Adaptive human scaffolding facilitates adolescents’ self-regulated learning with hypermedia. *Instr. Sci.* **33**, 381–412 (2005).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Adaptive%20human%20scaffolding%20facilitates%20adolescents%E2%80%99%20self-regulated%20learning%20with%20hypermedia&journal=Instr.%20Sci.&volume=33&pages=381-412&publication_year=2005&author=Azevedo%2CR&author=Cromley%2CJG&author=Winters%2CFI&author=Moos%2CDC&author=Greene%2CJA)
+20. Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T. & Hausmann, R. G. Learning from human tutoring. *Cogn. Sci.* **25**, 471–533 (2001).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Learning%20from%20human%20tutoring&journal=Cogn.%20Sci.&volume=25&pages=471-533&publication_year=2001&author=Chi%2CMTH&author=Siler%2CSA&author=Jeong%2CH&author=Yamauchi%2CT&author=Hausmann%2CRG)
+21. Dieterich, S. E., Assel, M. A., Swank, P., Smith, K. E. & Landry, S. H. The impact of early maternal verbal scaffolding and child language abilities on later decoding and reading comprehension skills. *J. Sch. Psychol.* **43**, 481–494 (2006).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20impact%20of%20early%20maternal%20verbal%20scaffolding%20and%20child%20language%20abilities%20on%20later%20decoding%20and%20reading%20comprehension%20skills&journal=J.%20Sch.%20Psychol.&volume=43&pages=481-494&publication_year=2006&author=Dieterich%2CSE&author=Assel%2CMA&author=Swank%2CP&author=Smith%2CKE&author=Landry%2CSH)
+22. Fisher, K. R., Hirsh-Pasek, K., Newcombe, N. & Golinkoff, R. M. Taking shape: supporting preschoolers’ acquisition of geometric knowledge through guided play. *Child Dev.* **84**, 1872–1878 (2013).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Taking%20shape%3A%20supporting%20preschoolers%E2%80%99%20acquisition%20of%20geometric%20knowledge%20through%20guided%20play&journal=Child%20Dev.&volume=84&pages=1872-1878&publication_year=2013&author=Fisher%2CKR&author=Hirsh-Pasek%2CK&author=Newcombe%2CN&author=Golinkoff%2CRM)
+23. van de Pol, J., Volman, M. & Beishuizen, J. Scaffolding in teacher–student interaction: a decade of research. *Educ. Psychol. Rev.* **22**, 271–296 (2010).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scaffolding%20in%20teacher%E2%80%93student%20interaction%3A%20a%20decade%20of%20research&journal=Educ.%20Psychol.%20Rev.&volume=22&pages=271-296&publication_year=2010&author=Pol%2CJ&author=Volman%2CM&author=Beishuizen%2CJ)
+24. Puntambekar, S. Distributed scaffolding: scaffolding students in classroom environments. *Educ. Psychol. Rev.* **34**, 451–472 (2022).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Distributed%20scaffolding%3A%20scaffolding%20students%20in%20classroom%20environments&journal=Educ.%20Psychol.%20Rev.&volume=34&pages=451-472&publication_year=2022&author=Puntambekar%2CS)
+25. Stone, C. A. The metaphor of scaffolding: its utility for the field of learning disabilities. *J. Learn. Disabil.* **31**, 344–364 (1998).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20metaphor%20of%20scaffolding%3A%20its%20utility%20for%20the%20field%20of%20learning%20disabilities&journal=J.%20Learn.%20Disabil.&volume=31&pages=344-364&publication_year=1998&author=Stone%2CCA)
+26. Chi, M. T. H. & Wylie, R. The ICAP framework: linking cognitive engagement to active learning outcomes. *Educ. Psychol.* **49**, 219–243 (2014).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20ICAP%20framework%3A%20linking%20cognitive%20engagement%20to%20active%20learning%20outcomes&journal=Educ.%20Psychol.&volume=49&pages=219-243&publication_year=2014&author=Chi%2CMTH&author=Wylie%2CR)
+27. Vygotsky, L. S. & Cole, M. *Mind in Society: Development of Higher Psychological Processes* (Harvard University Press, 1978).
+28. van de Pol, J., Mercer, N. & Volman, M. Scaffolding student understanding in small-group work: students’ uptake of teacher support in subsequent small-group interaction. *J. Learn. Sci.* **28**, 206–239 (2019).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scaffolding%20student%20understanding%20in%20small-group%20work%3A%20students%E2%80%99%20uptake%20of%20teacher%20support%20in%20subsequent%20small-group%20interaction&journal=J.%20Learn.%20Sci.&volume=28&pages=206-239&publication_year=2019&author=Pol%2CJ&author=Mercer%2CN&author=Volman%2CM)
+29. Wood, D., Bruner, J. S. & Ross, G. The role of tutoring in problem solving. *J. Child Psychol. Psychiatry* **17**, 89–100 (1976).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20role%20of%20tutoring%20in%20problem%20solving&journal=J.%20Child%20Psychol.%20Psychiatry&volume=17&pages=89-100&publication_year=1976&author=Wood%2CD&author=Bruner%2CJS&author=Ross%2CG)
+30. Hasson, U., Ghazanfar, A. A., Galantucci, B., Garrod, S. & Keysers, C. Brain-to-brain coupling: a mechanism for creating and sharing a social world. *Trends Cogn. Sci.* **16**, 114–121 (2012).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Brain-to-brain%20coupling%3A%20a%20mechanism%20for%20creating%20and%20sharing%20a%20social%20world&journal=Trends%20Cogn.%20Sci.&volume=16&pages=114-121&publication_year=2012&author=Hasson%2CU&author=Ghazanfar%2CAA&author=Galantucci%2CB&author=Garrod%2CS&author=Keysers%2CC)
+31. Redcay, E. & Schilbach, L. Using second-person neuroscience to elucidate the mechanisms of social interaction. *Nat. Rev. Neurosci.* **20**, 495–505 (2019).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20second-person%20neuroscience%20to%20elucidate%20the%20mechanisms%20of%20social%20interaction&journal=Nat.%20Rev.%20Neurosci.&volume=20&pages=495-505&publication_year=2019&author=Redcay%2CE&author=Schilbach%2CL)
+32. Schilbach, L. et al. Toward a second-person neuroscience. *Behav. Brain Sci.* **36**, 393–414 (2013).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Toward%20a%20second-person%20neuroscience&journal=Behav.%20Brain%20Sci.&volume=36&pages=393-414&publication_year=2013&author=Schilbach%2CL)
+33. Piazza, E. A., Cohen, A., Trach, J. & Lew-Williams, C. Neural synchrony predicts children’s learning of novel words. *Cognition* **214**, 104752 (2021).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Neural%20synchrony%20predicts%20children%E2%80%99s%20learning%20of%20novel%20words&journal=Cognition&volume=214&publication_year=2021&author=Piazza%2CEA&author=Cohen%2CA&author=Trach%2CJ&author=Lew-Williams%2CC)
+34. Babiloni, F. & Astolfi, L. Social neuroscience and hyperscanning techniques: past, present and future. *Neurosci. Biobehav. Rev.* **44**, 76–93 (2014).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Social%20neuroscience%20and%20hyperscanning%20techniques%3A%20past%2C%20present%20and%20future&journal=Neurosci.%20Biobehav.%20Rev.&volume=44&pages=76-93&publication_year=2014&author=Babiloni%2CF&author=Astolfi%2CL)
+35. Yeshurun, Y., Nguyen, M. & Hasson, U. The default mode network: where the idiosyncratic self meets the shared social world. *Nat. Rev. Neurosci.* **22**, 181–192 (2021).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20default%20mode%20network%3A%20where%20the%20idiosyncratic%20self%20meets%20the%20shared%20social%20world&journal=Nat.%20Rev.%20Neurosci.&volume=22&pages=181-192&publication_year=2021&author=Yeshurun%2CY&author=Nguyen%2CM&author=Hasson%2CU)
+36. Dumas, G., Nadel, J., Soussignan, R., Martinerie, J. & Garnero, L. Inter-brain synchronization during social interaction. *PLoS One* **5**, e12166 (2010).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Inter-brain%20synchronization%20during%20social%20interaction&journal=PLoS%20One&volume=5&publication_year=2010&author=Dumas%2CG&author=Nadel%2CJ&author=Soussignan%2CR&author=Martinerie%2CJ&author=Garnero%2CL)
+37. Liu, Y. et al. Measuring speaker–listener neural coupling with functional near infrared spectroscopy. *Sci. Rep.* **7**, 43293 (2017).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Measuring%20speaker%E2%80%93listener%20neural%20coupling%20with%20functional%20near%20infrared%20spectroscopy&journal=Sci.%20Rep.&volume=7&publication_year=2017&author=Liu%2CY)
+38. Silbert, L. J., Honey, C. J., Simony, E., Poeppel, D. & Hasson, U. Coupled neural systems underlie the production and comprehension of naturalistic narrative speech. *Proc. Natl. Acad. Sci. USA*. **111**, E4687–E4696 (2014).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Coupled%20neural%20systems%20underlie%20the%20production%20and%20comprehension%20of%20naturalistic%20narrative%20speech&journal=Proc.%20Natl.%20Acad.%20Sci.%20USA&volume=111&pages=E4687-E4696&publication_year=2014&author=Silbert%2CLJ&author=Honey%2CCJ&author=Simony%2CE&author=Poeppel%2CD&author=Hasson%2CU)
+39. Honey, C. J., Thompson, C. R., Lerner, Y. & Hasson, U. Not lost in translation: neural responses shared across languages. *J. Neurosci.* **32**, 15277–15283 (2012).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Not%20lost%20in%20translation%3A%20neural%20responses%20shared%20across%20languages&journal=J.%20Neurosci.&volume=32&pages=15277-15283&publication_year=2012&author=Honey%2CCJ&author=Thompson%2CCR&author=Lerner%2CY&author=Hasson%2CU)
+40. Yeshurun, Y. et al. Same story, different story: the neural representation of interpretive frameworks. *Psychol. Sci.* **28**, 307–319 (2017).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Same%20story%2C%20different%20story%3A%20the%20neural%20representation%20of%20interpretive%20frameworks&journal=Psychol.%20Sci.&volume=28&pages=307-319&publication_year=2017&author=Yeshurun%2CY)
+41. Van Overwalle, F. & Baetens, K. Understanding others’ actions and goals by mirror and mentalizing systems: a meta-analysis. *NeuroImage* **48**, 564–584 (2009).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Understanding%20others%E2%80%99%20actions%20and%20goals%20by%20mirror%20and%20mentalizing%20systems%3A%20a%20meta-analysis&journal=NeuroImage&volume=48&pages=564-584&publication_year=2009&author=Overwalle%2CF&author=Baetens%2CK)
+42. Schurz, M., Radua, J., Aichhorn, M., Richlan, F. & Perner, J. Fractionating theory of mind: a meta-analysis of functional brain imaging studies. *Neurosci. Biobehav. Rev.* **42**, 9–34 (2014).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fractionating%20theory%20of%20mind%3A%20a%20meta-analysis%20of%20functional%20brain%20imaging%20studies&journal=Neurosci.%20Biobehav.%20Rev.&volume=42&pages=9-34&publication_year=2014&author=Schurz%2CM&author=Radua%2CJ&author=Aichhorn%2CM&author=Richlan%2CF&author=Perner%2CJ)
+43. Chen, J. et al. Inter-brain coupling reflects disciplinary differences in real-world classroom learning. *Npj Sci. Learn.* **8**, 11 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Inter-brain%20coupling%20reflects%20disciplinary%20differences%20in%20real-world%20classroom%20learning&journal=Npj%20Sci.%20Learn.&volume=8&publication_year=2023&author=Chen%2CJ)
+44. Hasson, U., Nir, Y., Levy, I., Fuhrmann, G. & Malach, R. Intersubject synchronization of cortical activity during natural vision. *Science* **303**, 1634–1640 (2004).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intersubject%20synchronization%20of%20cortical%20activity%20during%20natural%20vision&journal=Science&volume=303&pages=1634-1640&publication_year=2004&author=Hasson%2CU&author=Nir%2CY&author=Levy%2CI&author=Fuhrmann%2CG&author=Malach%2CR)
+45. Wilson, S. M., Molnar-Szakacs, I. & Iacoboni, M. Beyond superior temporal cortex: intersubject correlations in narrative speech comprehension. *Cereb. Cortex* **18**, 230–242 (2008).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Beyond%20superior%20temporal%20cortex%3A%20intersubject%20correlations%20in%20narrative%20speech%20comprehension&journal=Cereb.%20Cortex&volume=18&pages=230-242&publication_year=2008&author=Wilson%2CSM&author=Molnar-Szakacs%2CI&author=Iacoboni%2CM)
+46. Nguyen, M. et al. Teacher–student neural coupling during teaching and learning. *Soc. Cogn. Affect. Neurosci.* **17**, 367–376 (2022).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teacher%E2%80%93student%20neural%20coupling%20during%20teaching%20and%20learning&journal=Soc.%20Cogn.%20Affect.%20Neurosci.&volume=17&pages=367-376&publication_year=2022&author=Nguyen%2CM)
+47. Stephens, G. J., Silbert, L. J. & Hasson, U. Speaker–listener neural coupling underlies successful communication. *Proc. Natl. Acad. Sci. USA*. **107**, 14425–14430 (2010).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Speaker%E2%80%93listener%20neural%20coupling%20underlies%20successful%20communication&journal=Proc.%20Natl.%20Acad.%20Sci.%20USA&volume=107&pages=14425-14430&publication_year=2010&author=Stephens%2CGJ&author=Silbert%2CLJ&author=Hasson%2CU)
+48. Zheng, L. et al. Enhancement of teaching outcome through neural prediction of the students’ knowledge state. *Hum. Brain Mapp.* **39**, 3046–3057 (2018).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Enhancement%20of%20teaching%20outcome%20through%20neural%20prediction%20of%20the%20students%E2%80%99%20knowledge%20state&journal=Hum.%20Brain%20Mapp.&volume=39&pages=3046-3057&publication_year=2018&author=Zheng%2CL)
+49. Dai, B. et al. Neural mechanisms for selectively tuning in to the target speaker in a naturalistic noisy situation. *Nat. Commun.* **9**, 2405 (2018).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Neural%20mechanisms%20for%20selectively%20tuning%20in%20to%20the%20target%20speaker%20in%20a%20naturalistic%20noisy%20situation&journal=Nat.%20Commun.&volume=9&publication_year=2018&author=Dai%2CB)
+50. Piazza, E. A., Hasenfratz, L., Hasson, U. & Lew-Williams, C. Infant and adult brains are coupled to the dynamics of natural communication. *Psychol. Sci.* **31**, 6–17 (2020).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Infant%20and%20adult%20brains%20are%20coupled%20to%20the%20dynamics%20of%20natural%20communication&journal=Psychol.%20Sci.&volume=31&pages=6-17&publication_year=2020&author=Piazza%2CEA&author=Hasenfratz%2CL&author=Hasson%2CU&author=Lew-Williams%2CC)
+51. De Felice, S. et al. Learning with others: teacher–learner brain synchrony depends on mutual gaze and joint attention. *Cereb. Cortex* **35**, bhaf323 (2025).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Learning%20with%20others%3A%20teacher%E2%80%93learner%20brain%20synchrony%20depends%20on%20mutual%20gaze%20and%20joint%20attention&journal=Cereb.%20Cortex&volume=35&publication_year=2025&author=Felice%2CS)
+52. Davidesco, I. et al. The temporal dynamics of brain-to-brain synchrony between students and teachers predict learning outcomes. *Psychol. Sci.* **34**, 633–643 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20temporal%20dynamics%20of%20brain-to-brain%20synchrony%20between%20students%20and%20teachers%20predict%20learning%20outcomes&journal=Psychol.%20Sci.&volume=34&pages=633-643&publication_year=2023&author=Davidesco%2CI)
+53. Meshulam, M. et al. Neural alignment predicts learning outcomes in students taking an introduction to computer science course. *Nat. Commun.* **12**, 1922 (2021).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Neural%20alignment%20predicts%20learning%20outcomes%20in%20students%20taking%20an%20introduction%20to%20computer%20science%20course&journal=Nat.%20Commun.&volume=12&publication_year=2021&author=Meshulam%2CM)
+54. Pan, Y., Novembre, G., Song, B., Li, X. & Hu, Y. Interpersonal synchronization of inferior frontal cortices tracks social interactive learning of a song. *NeuroImage* **183**, 280–290 (2018).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interpersonal%20synchronization%20of%20inferior%20frontal%20cortices%20tracks%20social%20interactive%20learning%20of%20a%20song&journal=NeuroImage&volume=183&pages=280-290&publication_year=2018&author=Pan%2CY&author=Novembre%2CG&author=Song%2CB&author=Li%2CX&author=Hu%2CY)
+55. Pan, Y. et al. Instructor-learner brain coupling discriminates between instructional approaches and predicts learning. *NeuroImage* **211**, 116657 (2020).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Instructor-learner%20brain%20coupling%20discriminates%20between%20instructional%20approaches%20and%20predicts%20learning&journal=NeuroImage&volume=211&publication_year=2020&author=Pan%2CY)
+56. Zhang, L., Xu, X., Li, Z., Chen, L. & Feng, L. Interpersonal neural synchronization predicting learning outcomes from teaching-learning interaction: a meta-analysis. *Front. Psychol.* **13**, 835147 (2022).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interpersonal%20neural%20synchronization%20predicting%20learning%20outcomes%20from%20teaching-learning%20interaction%3A%20a%20meta-analysis&journal=Front.%20Psychol.&volume=13&publication_year=2022&author=Zhang%2CL&author=Xu%2CX&author=Li%2CZ&author=Chen%2CL&author=Feng%2CL)
+57. Liang, Z.-W., Zhan, Z.-J., Liu, Y.-C., Xu, H.-Z. & Yu, J. Interpersonal neural synchronization underlies interactive concept learning in older adults. *Npj Sci. Learn.* **10**, 75 (2025).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interpersonal%20neural%20synchronization%20underlies%20interactive%20concept%20learning%20in%20older%20adults&journal=Npj%20Sci.%20Learn.&volume=10&publication_year=2025&author=Liang%2CZ-W&author=Zhan%2CZ-J&author=Liu%2CY-C&author=Xu%2CH-Z&author=Yu%2CJ)
+58. Zhang, Y. et al. Interpersonal educational neuroscience: a scoping review of the literature. *Educ. Res. Rev.* **42**, 100593 (2024).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interpersonal%20educational%20neuroscience%3A%20a%20scoping%20review%20of%20the%20literature&journal=Educ.%20Res.%20Rev.&volume=42&publication_year=2024&author=Zhang%2CY)
+59. Zhai, Y., Xie, H., Zhao, H., Wang, W. & Lu, C. Neural synchrony underlies the positive effect of shared reading on children’s language ability. *Cereb. Cortex* **33**, 10426–10440 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Neural%20synchrony%20underlies%20the%20positive%20effect%20of%20shared%20reading%20on%20children%E2%80%99s%20language%20ability&journal=Cereb.%20Cortex&volume=33&pages=10426-10440&publication_year=2023&author=Zhai%2CY&author=Xie%2CH&author=Zhao%2CH&author=Wang%2CW&author=Lu%2CC)
+60. Zhang, J., Wang, Y., Leong, C., Mao, Y. & Yuan, Z. Bridging stories and science: an fNIRS-based hyperscanning investigation into child learning in STEM. *NeuroImage* **285**, 120486 (2024).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Bridging%20stories%20and%20science%3A%20an%20fNIRS-based%20hyperscanning%20investigation%20into%20child%20learning%20in%20STEM&journal=NeuroImage&volume=285&publication_year=2024&author=Zhang%2CJ&author=Wang%2CY&author=Leong%2CC&author=Mao%2CY&author=Yuan%2CZ)
+61. Miller, J. G. et al. Inter-brain synchrony in mother-child dyads during cooperation: An fNIRS hyperscanning study. *Neuropsychologia* **124**, 117–124 (2019).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Inter-brain%20synchrony%20in%20mother-child%20dyads%20during%20cooperation%3A%20An%20fNIRS%20hyperscanning%20study&journal=Neuropsychologia&volume=124&pages=117-124&publication_year=2019&author=Miller%2CJG)
+62. Clair, V. S., Contini, L., Re, R., Pinti, P. & Mareschal, D. Analytical pipeline optimisation in developmental fNIRS hyperscanning data: neural coherence between 4- to 6-year old children collaborating with their mothers. *Imaging Neurosci.* **3**, imag\_a\_00509 (2025).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Analytical%20pipeline%20optimisation%20in%20developmental%20fNIRS%20hyperscanning%20data%3A%20neural%20coherence%20between%204-%20to%206-year%20old%20children%20collaborating%20with%20their%20mothers&journal=Imaging%20Neurosci.&volume=3&publication_year=2025&author=Clair%2CVS&author=Contini%2CL&author=Re%2CR&author=Pinti%2CP&author=Mareschal%2CD)
+63. Nguyen, T., Kungl, M. T., Hoehl, S., White, L. O. & Vrtička, P. Visualizing the invisible tie: Linking parent–child neural synchrony to parents’ and children’s attachment representations. *Dev. Sci*. e13504 <https://doi.org/10.1111/desc.13504> (2024).
+64. Hoehl, S. et al. A developmental framework of interpersonal neural synchrony. *Dev. Rev.* **78**, 101234 (2025).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20developmental%20framework%20of%20interpersonal%20neural%20synchrony&journal=Dev.%20Rev.&volume=78&publication_year=2025&author=Hoehl%2CS)
+65. Chi, M. T. *Learning from Observing an Expert’s Demonstration, Explanations, and Dialogues* (Psychology Press, 2013).
+66. Adolphs, R. The social brain: neural basis of social knowledge. *Annu. Rev. Psychol.* **60**, 693–716 (2009).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20social%20brain%3A%20neural%20basis%20of%20social%20knowledge&journal=Annu.%20Rev.%20Psychol.&volume=60&pages=693-716&publication_year=2009&author=Adolphs%2CR)
+67. Alcalá-López, D. et al. Computing the social brain connectome across systems and states. *Cereb. Cortex* **28**, 2207–2232 (2018).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Computing%20the%20social%20brain%20connectome%20across%20systems%20and%20states&journal=Cereb.%20Cortex&volume=28&pages=2207-2232&publication_year=2018&author=Alcal%C3%A1-L%C3%B3pez%2CD)
+68. Meyer, M. L. Social by default: characterizing the social functions of the resting brain. *Curr. Dir. Psychol. Sci.* **28**, 380–386 (2019).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Social%20by%20default%3A%20characterizing%20the%20social%20functions%20of%20the%20resting%20brain&journal=Curr.%20Dir.%20Psychol.%20Sci.&volume=28&pages=380-386&publication_year=2019&author=Meyer%2CML)
+69. Dhawan, S. Online learning: a panacea in the time of COVID-19 crisis. *J. Educ. Technol. Syst.* **49**, 5–22 (2020).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Online%20learning%3A%20a%20panacea%20in%20the%20time%20of%20COVID-19%20crisis&journal=J.%20Educ.%20Technol.%20Syst.&volume=49&pages=5-22&publication_year=2020&author=Dhawan%2CS)
+70. Alvarez-Rivero, A., Odgers, C. & Ansari, D. Elementary school teachers’ perspectives about learning during the COVID-19 pandemic. *Npj Sci. Learn.* **8**, 40 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Elementary%20school%20teachers%E2%80%99%20perspectives%20about%20learning%20during%20the%20COVID-19%20pandemic&journal=Npj%20Sci.%20Learn.&volume=8&publication_year=2023&author=Alvarez-Rivero%2CA&author=Odgers%2CC&author=Ansari%2CD)
+71. Foo, C., Cheung, B. & Chu, K. A comparative study regarding distance learning and the conventional face-to-face approach conducted problem-based learning tutorial during the COVID-19 pandemic. *BMC Med. Educ.* **21**, 141 (2021).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20comparative%20study%20regarding%20distance%20learning%20and%20the%20conventional%20face-to-face%20approach%20conducted%20problem-based%20learning%20tutorial%20during%20the%20COVID-19%20pandemic&journal=BMC%20Med.%20Educ.&volume=21&publication_year=2021&author=Foo%2CC&author=Cheung%2CB&author=Chu%2CK)
+72. Bakır-Yalçın, E. & Usluel, Y. K. Investigating the antecedents of engagement in online learning: do achievement emotions matter? *Educ. Inf. Technol.* **29**, 3759–3791 (2024).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Investigating%20the%20antecedents%20of%20engagement%20in%20online%20learning%3A%20do%20achievement%20emotions%20matter%3F&journal=Educ.%20Inf.%20Technol.&volume=29&pages=3759-3791&publication_year=2024&author=Bak%C4%B1r-Yal%C3%A7%C4%B1n%2CE&author=Usluel%2CYK)
+73. Ong, S. G. T. & Quek, G. C. L. Enhancing teacher–student interactions and student online engagement in an online learning environment. *Learn. Environ. Res.* **26**, 681–707 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Enhancing%20teacher%E2%80%93student%20interactions%20and%20student%20online%20engagement%20in%20an%20online%20learning%20environment&journal=Learn.%20Environ.%20Res.&volume=26&pages=681-707&publication_year=2023&author=Ong%2CSGT&author=Quek%2CGCL)
+74. Francescucci, A. & Rohani, L. Exclusively synchronous online (VIRI) learning: the impact on student performance and engagement outcomes. *J. Mark. Educ.* **41**, 60–69 (2019).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exclusively%20synchronous%20online%20%28VIRI%29%20learning%3A%20the%20impact%20on%20student%20performance%20and%20engagement%20outcomes&journal=J.%20Mark.%20Educ.&volume=41&pages=60-69&publication_year=2019&author=Francescucci%2CA&author=Rohani%2CL)
+75. Raes, A. Exploring student and teacher experiences in hybrid learning environments: does presence matter? *Postdigital Sci. Educ.* **4**, 138–159 (2022).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20student%20and%20teacher%20experiences%20in%20hybrid%20learning%20environments%3A%20does%20presence%20matter%3F&journal=Postdigital%20Sci.%20Educ.&volume=4&pages=138-159&publication_year=2022&author=Raes%2CA)
+76. Benjamini, Y. & Hochberg, Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing. *J. R. Stat. Soc. Ser. B Methodol.* **57**, 289–300 (1995).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Controlling%20the%20false%20discovery%20rate%3A%20a%20practical%20and%20powerful%20approach%20to%20multiple%20testing&journal=J.%20R.%20Stat.%20Soc.%20Ser.%20B%20Methodol.&volume=57&pages=289-300&publication_year=1995&author=Benjamini%2CY&author=Hochberg%2CY)
+77. Zadbood, A., Chen, J., Leong, Y. C., Norman, K. A. & Hasson, U. How we transmit memories to other brains: constructing shared neural representations via communication. *Cereb. Cortex* **27**, 4988–5000 (2017).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20we%20transmit%20memories%20to%20other%20brains%3A%20constructing%20shared%20neural%20representations%20via%20communication&journal=Cereb.%20Cortex&volume=27&pages=4988-5000&publication_year=2017&author=Zadbood%2CA&author=Chen%2CJ&author=Leong%2CYC&author=Norman%2CKA&author=Hasson%2CU)
+78. Sahin, N. T., Pinker, S., Cash, S. S., Schomer, D. & Halgren, E. Sequential processing of lexical, grammatical, and phonological information within Broca’s area. *Science* **326**, 445–449 (2009).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Sequential%20processing%20of%20lexical%2C%20grammatical%2C%20and%20phonological%20information%20within%20Broca%E2%80%99s%20area&journal=Science&volume=326&pages=445-449&publication_year=2009&author=Sahin%2CNT&author=Pinker%2CS&author=Cash%2CSS&author=Schomer%2CD&author=Halgren%2CE)
+79. Miller, E. K. & Cohen, J. D. An integrative theory of prefrontal cortex function. *Annu. Rev. Neurosci.* **24**, 167–202 (2001).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20integrative%20theory%20of%20prefrontal%20cortex%20function&journal=Annu.%20Rev.%20Neurosci.&volume=24&pages=167-202&publication_year=2001&author=Miller%2CEK&author=Cohen%2CJD)
+80. Nguyen, T. et al. The effects of interaction quality on neural synchrony during mother-child problem solving. *Cortex* **124**, 235–249 (2020).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effects%20of%20interaction%20quality%20on%20neural%20synchrony%20during%20mother-child%20problem%20solving&journal=Cortex&volume=124&pages=235-249&publication_year=2020&author=Nguyen%2CT)
+81. Balconi, M., Pezard, L., Nandrino, J.-L. & Vanutelli, M. E. Two is better than one: the effects of strategic cooperation on intra- and inter-brain connectivity by fNIRS. *PLOS ONE* **12**, e0187652 (2017).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Two%20is%20better%20than%20one%3A%20the%20effects%20of%20strategic%20cooperation%20on%20intra-%20and%20inter-brain%20connectivity%20by%20fNIRS&journal=PLOS%20ONE&volume=12&publication_year=2017&author=Balconi%2CM&author=Pezard%2CL&author=Nandrino%2CJ-L&author=Vanutelli%2CME)
+82. Fishburn, F. A. et al. Putting our heads together: interpersonal neural synchronization as a biological mechanism for shared intentionality. *Soc. Cogn. Affect. Neurosci.* **13**, 841–849 (2018).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Putting%20our%20heads%20together%3A%20interpersonal%20neural%20synchronization%20as%20a%20biological%20mechanism%20for%20shared%20intentionality&journal=Soc.%20Cogn.%20Affect.%20Neurosci.&volume=13&pages=841-849&publication_year=2018&author=Fishburn%2CFA)
+83. Urakawa, S., Takamoto, K., Ishikawa, A., Ono, T. & Nishijo, H. Selective medial prefrontal cortex responses during live mutual gaze interactions in human infants: an fNIRS study. *Brain Topogr.* **28**, 691–701 (2015).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Selective%20medial%20prefrontal%20cortex%20responses%20during%20live%20mutual%20gaze%20interactions%20in%20human%20infants%3A%20an%20fNIRS%20study&journal=Brain%20Topogr.&volume=28&pages=691-701&publication_year=2015&author=Urakawa%2CS&author=Takamoto%2CK&author=Ishikawa%2CA&author=Ono%2CT&author=Nishijo%2CH)
+84. Nguyen, M., Vanderwal, T. & Hasson, U. Shared understanding of narratives is correlated with shared neural responses. *NeuroImage* **184**, 161–170 (2019).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Shared%20understanding%20of%20narratives%20is%20correlated%20with%20shared%20neural%20responses&journal=NeuroImage&volume=184&pages=161-170&publication_year=2019&author=Nguyen%2CM&author=Vanderwal%2CT&author=Hasson%2CU)
+85. Anders, S., Heinzle, J., Weiskopf, N., Ethofer, T. & Haynes, J.-D. Flow of affective information between communicating brains. *NeuroImage* **54**, 439–446 (2011).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Flow%20of%20affective%20information%20between%20communicating%20brains&journal=NeuroImage&volume=54&pages=439-446&publication_year=2011&author=Anders%2CS&author=Heinzle%2CJ&author=Weiskopf%2CN&author=Ethofer%2CT&author=Haynes%2CJ-D)
+86. Schippers, M. B., Roebroeck, A., Renken, R., Nanetti, L. & Keysers, C. Mapping the information flow from one brain to another during gestural communication. *Proc. Natl. Acad. Sci. USA*. **107**, 9388–9393 (2010).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20the%20information%20flow%20from%20one%20brain%20to%20another%20during%20gestural%20communication&journal=Proc.%20Natl.%20Acad.%20Sci.%20USA&volume=107&pages=9388-9393&publication_year=2010&author=Schippers%2CMB&author=Roebroeck%2CA&author=Renken%2CR&author=Nanetti%2CL&author=Keysers%2CC)
+87. Olsson, A., Knapska, E. & Lindström, B. The neural and computational systems of social learning. *Nat. Rev. Neurosci.* **21**, 197–212 (2020).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20neural%20and%20computational%20systems%20of%20social%20learning&journal=Nat.%20Rev.%20Neurosci.&volume=21&pages=197-212&publication_year=2020&author=Olsson%2CA&author=Knapska%2CE&author=Lindstr%C3%B6m%2CB)
+88. Cortés-Albornoz, M. C., Ramírez-Guerrero, S., García-Guáqueta, D. P., Vélez-Van-Meerbeke, A. & Talero-Gutiérrez, C. Effects of remote learning during COVID-19 lockdown on children’s learning abilities and school performance: a systematic review. *Int. J. Educ. Dev.* **101**, 102835 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Effects%20of%20remote%20learning%20during%20COVID-19%20lockdown%20on%20children%E2%80%99s%20learning%20abilities%20and%20school%20performance%3A%20a%20systematic%20review&journal=Int.%20J.%20Educ.%20Dev.&volume=101&publication_year=2023&author=Cort%C3%A9s-Albornoz%2CMC&author=Ram%C3%ADrez-Guerrero%2CS&author=Garc%C3%ADa-Gu%C3%A1queta%2CDP&author=V%C3%A9lez-Van-Meerbeke%2CA&author=Talero-Guti%C3%A9rrez%2CC)
+89. Bilek, E. et al. Information flow between interacting human brains: identification, validation, and relationship to social expertise. *Proc. Natl. Acad. Sci. USA*. **112**, 5207–5212 (2015).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Information%20flow%20between%20interacting%20human%20brains%3A%20identification%2C%20validation%2C%20and%20relationship%20to%20social%20expertise&journal=Proc.%20Natl.%20Acad.%20Sci.%20USA&volume=112&pages=5207-5212&publication_year=2015&author=Bilek%2CE)
+90. Simony, E. et al. Dynamic reconfiguration of the default mode network during narrative comprehension. *Nat. Commun.* **7**, 12141 (2016).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Dynamic%20reconfiguration%20of%20the%20default%20mode%20network%20during%20narrative%20comprehension&journal=Nat.%20Commun.&volume=7&publication_year=2016&author=Simony%2CE)
+91. Hamilton, A. F. D. C. Hyperscanning: beyond the Hype. *Neuron* **109**, 404–407 (2021).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Hyperscanning%3A%20beyond%20the%20Hype&journal=Neuron&volume=109&pages=404-407&publication_year=2021&author=Hamilton%2CAFDC)
+92. Pérez, A. & Davis, M. H. Speaking and listening to inter-brain relationships. *Cortex* **159**, 54–63 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Speaking%20and%20listening%20to%20inter-brain%20relationships&journal=Cortex&volume=159&pages=54-63&publication_year=2023&author=P%C3%A9rez%2CA&author=Davis%2CMH)
+93. Dikker, S., Silbert, L. J., Hasson, U. & Zevin, J. D. On the same wavelength: predictable language enhances speaker–listener brain-to-brain synchrony in posterior superior temporal gyrus. *J. Neurosci.* **34**, 6267–6272 (2014).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=On%20the%20same%20wavelength%3A%20predictable%20language%20enhances%20speaker%E2%80%93listener%20brain-to-brain%20synchrony%20in%20posterior%20superior%20temporal%20gyrus&journal=J.%20Neurosci.&volume=34&pages=6267-6272&publication_year=2014&author=Dikker%2CS&author=Silbert%2CLJ&author=Hasson%2CU&author=Zevin%2CJD)
+94. Valle, A., Massaro, D., Castelli, I. & Marchetti, A. Theory of mind development in adolescence and early adulthood: the growing complexity of recursive thinking ability. *Eur. J. Psychol.* **11**, 112–124 (2015).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Theory%20of%20mind%20development%20in%20adolescence%20and%20early%20adulthood%3A%20the%20growing%20complexity%20of%20recursive%20thinking%20ability&journal=Eur.%20J.%20Psychol.&volume=11&pages=112-124&publication_year=2015&author=Valle%2CA&author=Massaro%2CD&author=Castelli%2CI&author=Marchetti%2CA)
+95. Jaffe-Dax, S., Potter, C. E., Leung, T. S., Emberson, L. L. & Lew-Williams, C. The influence of memory on visual perception in infants, children, and adults. *Cogn. Sci.* **47**, e13381 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20influence%20of%20memory%20on%20visual%20perception%20in%20infants%2C%20children%2C%20and%20adults&journal=Cogn.%20Sci.&volume=47&publication_year=2023&author=Jaffe-Dax%2CS&author=Potter%2CCE&author=Leung%2CTS&author=Emberson%2CLL&author=Lew-Williams%2CC)
+96. Feng, X. et al. A rapid cortical learning process supporting students’ knowledge construction during real classroom teaching. *Adv. Sci.* **12**, 2416610 (2025).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20rapid%20cortical%20learning%20process%20supporting%20students%E2%80%99%20knowledge%20construction%20during%20real%20classroom%20teaching&journal=Adv.%20Sci.&volume=12&publication_year=2025&author=Feng%2CX)
+97. Bevilacqua, D. et al. Brain-to-brain synchrony and learning outcomes vary by student–teacher dynamics: evidence from a real-world classroom electroencephalography study. *J. Cogn. Neurosci.* **31**, 401–411 (2019).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Brain-to-brain%20synchrony%20and%20learning%20outcomes%20vary%20by%20student%E2%80%93teacher%20dynamics%3A%20evidence%20from%20a%20real-world%20classroom%20electroencephalography%20study&journal=J.%20Cogn.%20Neurosci.&volume=31&pages=401-411&publication_year=2019&author=Bevilacqua%2CD)
+98. Dikker, S. et al. Brain-to-brain synchrony tracks real-world dynamic group interactions in the classroom. *Curr. Biol.* **27**, 1375–1380 (2017).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Brain-to-brain%20synchrony%20tracks%20real-world%20dynamic%20group%20interactions%20in%20the%20classroom&journal=Curr.%20Biol.&volume=27&pages=1375-1380&publication_year=2017&author=Dikker%2CS)
+99. Hsin, C.-T. & Wu, H.-K. Using scaffolding strategies to promote young children’s scientific understandings of floating and sinking. *J. Sci. Educ. Technol.* **20**, 656–666 (2011).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20scaffolding%20strategies%20to%20promote%20young%20children%E2%80%99s%20scientific%20understandings%20of%20floating%20and%20sinking&journal=J.%20Sci.%20Educ.%20Technol.&volume=20&pages=656-666&publication_year=2011&author=Hsin%2CC-T&author=Wu%2CH-K)
+100. Pentimonti, J. M. & Justice, L. M. Teachers’ use of scaffolding strategies during read alouds in the preschool classroom. *Early Child. Educ. J.* **37**, 241–248 (2010).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teachers%E2%80%99%20use%20of%20scaffolding%20strategies%20during%20read%20alouds%20in%20the%20preschool%20classroom&journal=Early%20Child.%20Educ.%20J.&volume=37&pages=241-248&publication_year=2010&author=Pentimonti%2CJM&author=Justice%2CLM)
+101. Rojas-Drummond, S., Torreblanca, O., Pedraza, H., Vélez, M. & Guzmán, K. ‘Dialogic scaffolding’: enhancing learning and understanding in collaborative contexts. *Learn. Cult. Soc. Interact.* **2**, 11–21 (2013).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=%E2%80%98Dialogic%20scaffolding%E2%80%99%3A%20enhancing%20learning%20and%20understanding%20in%20collaborative%20contexts&journal=Learn.%20Cult.%20Soc.%20Interact.&volume=2&pages=11-21&publication_year=2013&author=Rojas-Drummond%2CS&author=Torreblanca%2CO&author=Pedraza%2CH&author=V%C3%A9lez%2CM&author=Guzm%C3%A1n%2CK)
+102. Birk, S. L., Stewart, L. & Olino, T. M. Parent–child synchrony after early childhood: a systematic review. *Clin. Child Fam. Psychol. Rev.* **25**, 529–551 (2022).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Parent%E2%80%93child%20synchrony%20after%20early%20childhood%3A%20a%20systematic%20review&journal=Clin.%20Child%20Fam.%20Psychol.%20Rev.&volume=25&pages=529-551&publication_year=2022&author=Birk%2CSL&author=Stewart%2CL&author=Olino%2CTM)
+103. Roche, E. C., Redcay, E. & Romeo, R. R. Caregiver-child neural synchrony: magic, mirage, or developmental mechanism? *Dev. Cogn. Neurosci.* **71**, 101482 (2025).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Caregiver-child%20neural%20synchrony%3A%20magic%2C%20mirage%2C%20or%20developmental%20mechanism%3F&journal=Dev.%20Cogn.%20Neurosci.&volume=71&publication_year=2025&author=Roche%2CEC&author=Redcay%2CE&author=Romeo%2CRR)
+104. Zhu, Y. et al. Instructor-learner neural synchronization during elaborated feedback predicts learning transfer. *J. Educ. Psychol.* **114**, 1427 (2022).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Instructor-learner%20neural%20synchronization%20during%20elaborated%20feedback%20predicts%20learning%20transfer&journal=J.%20Educ.%20Psychol.&volume=114&publication_year=2022&author=Zhu%2CY)
+105. Horst, J. S. & Hout, M. C. The Novel Object and Unusual Name (NOUN) database: a collection of novel images for use in experimental research. *Behav. Res. Methods* **48**, 1393–1409 (2016).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Novel%20Object%20and%20Unusual%20Name%20%28NOUN%29%20database%3A%20a%20collection%20of%20novel%20images%20for%20use%20in%20experimental%20research&journal=Behav.%20Res.%20Methods&volume=48&pages=1393-1409&publication_year=2016&author=Horst%2CJS&author=Hout%2CMC)
+106. Deutsch, A. & Bentin, S. Attention factors mediating syntactic deficiency in reading-disabled children. *J. Exp. Child Psychol.* **63**, 386–415 (1996).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Attention%20factors%20mediating%20syntactic%20deficiency%20in%20reading-disabled%20children&journal=J.%20Exp.%20Child%20Psychol.&volume=63&pages=386-415&publication_year=1996&author=Deutsch%2CA&author=Bentin%2CS)
+107. Nguyen, T. et al. Neural synchrony in mother–child conversation: exploring the role of conversation patterns. *Soc. Cogn. Affect. Neurosci.* **16**, 93–102 (2021).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Neural%20synchrony%20in%20mother%E2%80%93child%20conversation%3A%20exploring%20the%20role%20of%20conversation%20patterns&journal=Soc.%20Cogn.%20Affect.%20Neurosci.&volume=16&pages=93-102&publication_year=2021&author=Nguyen%2CT)
+108. Oostenveld, R. & Praamstra, P. The five percent electrode system for high-resolution EEG and ERP measurements. *Clin. Neurophysiol.* **112**, 713–719 (2001).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20five%20percent%20electrode%20system%20for%20high-resolution%20EEG%20and%20ERP%20measurements&journal=Clin.%20Neurophysiol.&volume=112&pages=713-719&publication_year=2001&author=Oostenveld%2CR&author=Praamstra%2CP)
+109. Zimeo Morais, G. A., Balardin, J. B. & Sato, J. R. fNIRS Optodes’ Location Decider (fOLD): a toolbox for probe arrangement guided by brain regions-of-interest. *Sci. Rep.* **8**, 3341 (2018).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=fNIRS%20Optodes%E2%80%99%20Location%20Decider%20%28fOLD%29%3A%20a%20toolbox%20for%20probe%20arrangement%20guided%20by%20brain%20regions-of-interest&journal=Sci.%20Rep.&volume=8&publication_year=2018&author=Zimeo%20Morais%2CGA&author=Balardin%2CJB&author=Sato%2CJR)
+110. Corbetta, M. & Shulman, G. L. Control of goal-directed and stimulus-driven attention in the brain. *Nat. Rev. Neurosci.* **3**, 201–215 (2002).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Control%20of%20goal-directed%20and%20stimulus-driven%20attention%20in%20the%20brain&journal=Nat.%20Rev.%20Neurosci.&volume=3&pages=201-215&publication_year=2002&author=Corbetta%2CM&author=Shulman%2CGL)
+111. Mahmoudzadeh, M. et al. Syllabic discrimination in premature human infants prior to complete formation of cortical layers. *Proc. Natl. Acad. Sci. USA*. **110**, 4846–4851 (2013).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Syllabic%20discrimination%20in%20premature%20human%20infants%20prior%20to%20complete%20formation%20of%20cortical%20layers&journal=Proc.%20Natl.%20Acad.%20Sci.%20USA&volume=110&pages=4846-4851&publication_year=2013&author=Mahmoudzadeh%2CM)
+112. Erel, Y., Jaffe-Dax, S., Yeshurun, Y. & Bermano, A. H. STORM-Net: Simple and Timely Optode Registration Method for Functional Near-Infrared Spectroscopy (fNIRS). Preprint at <https://doi.org/10.1101/2020.12.29.424683> (2020).
+113. Hu, Y., Hu, Y., Li, X., Pan, Y. & Cheng, X. Brain-to-brain synchronization across two persons predicts mutual prosociality. *Soc. Cogn. Affect. Neurosci.* **12**, 1835–1844 (2017).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Brain-to-brain%20synchronization%20across%20two%20persons%20predicts%20mutual%20prosociality&journal=Soc.%20Cogn.%20Affect.%20Neurosci.&volume=12&pages=1835-1844&publication_year=2017&author=Hu%2CY&author=Hu%2CY&author=Li%2CX&author=Pan%2CY&author=Cheng%2CX)
+114. Liu, J. et al. Interplay between prior knowledge and communication mode on teaching effectiveness: Interpersonal neural synchronization as a neural marker. *NeuroImage* **193**, 93–102 (2019).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interplay%20between%20prior%20knowledge%20and%20communication%20mode%20on%20teaching%20effectiveness%3A%20Interpersonal%20neural%20synchronization%20as%20a%20neural%20marker&journal=NeuroImage&volume=193&pages=93-102&publication_year=2019&author=Liu%2CJ)
+115. Regev, M., Honey, C. J., Simony, E. & Hasson, U. Selective and invariant neural responses to spoken and written narratives. *J. Neurosci.* **33**, 15978–15988 (2013).
+     
+     [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Selective%20and%20invariant%20neural%20responses%20to%20spoken%20and%20written%20narratives&journal=J.%20Neurosci.&volume=33&pages=15978-15988&publication_year=2013&author=Regev%2CM&author=Honey%2CCJ&author=Simony%2CE&author=Hasson%2CU)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1038/s41539-026-00417-7?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+This study was supported by the Israel Science Foundation (grant no. 336/22), an Alon Scholarship from the CHE, and the Tel Aviv University Vice-President for Research Fund. We thank the families that participated in the Cognitive Development Lab at Tel Aviv University, and the lab team, especially Carmel Moalem and lab alumna Eliana Topaz Bloch-Wust, for generously donating their time and resources. We thank Ariela Cohen for sharing her drawing of the rocket ship and inspiring our story.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Sagol School of Neuroscience, Tel Aviv University, Tel Aviv, Israel
+   
+   Nina Besser Ilan & Sagi Jaffe-Dax
+2. Faculty of Psychology, University of Vienna, Vienna, Austria
+   
+   Nina Besser Ilan
+3. School of Psychological Sciences, Tel Aviv University, Tel Aviv, Israel
+   
+   Hadas Shavit, Nofar Zohar & Sagi Jaffe-Dax
+4. The Miriam and Aaron Gutwirth Medical School, The Weizmann Institute of Science, Rehovot, Israel
+   
+   Hadas Shavit
+5. Baruch Ivcher School of Psychology, Reichman University, Herzliya, Israel
+   
+   Nofar Zohar
+
+Authors
+
+1. Nina Besser Ilan[View author publications](/search?author=Nina%20Besser%20Ilan)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Nina%20Besser%20Ilan) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Nina%20Besser%20Ilan%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Hadas Shavit[View author publications](/search?author=Hadas%20Shavit)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Hadas%20Shavit) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Hadas%20Shavit%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Nofar Zohar[View author publications](/search?author=Nofar%20Zohar)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Nofar%20Zohar) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Nofar%20Zohar%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+4. Sagi Jaffe-Dax[View author publications](/search?author=Sagi%20Jaffe-Dax)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Sagi%20Jaffe-Dax) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Sagi%20Jaffe-Dax%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+All authors have read and approved the manuscript content. The following contributions were made by participating authors: N.B.I. conceptualization, data curation, formal analysis, investigation, methodology, project administration, resources, software, validation, visualization, writing, review. H.S. investigation, validation, resources. N.Z. investigation, resources. S.J.D. conceptualization, funding, methodology, supervision, writing, review.
+
+### Corresponding author
+
+Correspondence to
+[Nina Besser Ilan](mailto:nina.besser.ilan@gmail.com).
+
+Ethics declarations
+-------------------
+
+### Competing interests
+
+The authors declare no competing interests.
+
+Additional information
+----------------------
+
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Supplementary information
+-------------------------
+
+### [Supplementary Information (download PDF )](https://static-content.springer.com/esm/art%3A10.1038%2Fs41539-026-00417-7/MediaObjects/41539_2026_417_MOESM1_ESM.pdf)
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Enhanced%20word%20learning%20and%20neural%20synchrony%20during%20children%E2%80%99s%20storytelling&author=Nina%20Besser%20Ilan%20et%20al&contentID=10.1038%2Fs41539-026-00417-7&copyright=The%20Author%28s%29&publication=2056-7936&publicationDate=2026-03-28&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+About this article
+------------------
+
+### Cite this article
+
+Besser Ilan, N., Shavit, H., Zohar, N. *et al.* Enhanced word learning and neural synchrony during children’s storytelling.
+*npj Sci. Learn.* (2026). https://doi.org/10.1038/s41539-026-00417-7
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41539-026-00417-7?format=refman&flavour=citation)
+
+* Received: 19 August 2025
+* Accepted: 12 March 2026
+* Published: 28 March 2026
+* DOI: https://doi.org/10.1038/s41539-026-00417-7
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+
+
+
+
+
+[Download PDF](/articles/s41539-026-00417-7_reference.pdf)
+
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/285/npjscilearn.nature.com/article&sz=300x250&c=-1259451405&t=pos%3Dright%26type%3Darticle%26artid%3Ds41539-026-00417-7%26doi%3D10.1038/s41539-026-00417-7%26subjmeta%3D378,4014,477,631%26kwrd%3DNeuroscience,Psychology)
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+---------------
+
+* [Research articles](/npjscilearn/research-articles)
+* [Reviews & Analysis](/npjscilearn/reviews-and-analysis)
+* [News & Comment](/npjscilearn/news-and-comment)
+* [Collections](/npjscilearn/collections)
+
+* [Follow us on Facebook](https://www.facebook.com/QldBrainInstitute)
+* [Follow us on X](https://twitter.com/Nature_NPJ)
+* [Sign up for alerts](https://journal-alerts.springernature.com/subscribe?journal_id=41539)
+* [RSS feed](https://www.nature.com/npjscilearn.rss)
+
+
+About the journal
+-----------------
+
+* [Aims & Scope](/npjscilearn/aims)
+* [Content types](/npjscilearn/content-types)
+* [Journal Information](/npjscilearn/journal-information)
+* [Contact](/npjscilearn/contact)
+* [About the Editors](/npjscilearn/editors)
+* [Open Access](/npjscilearn/open-access)
+* [Calls for Papers](/npjscilearn/calls-for-papers)
+* [Article Processing Charges](/npjscilearn/apc)
+* [Journal Metrics](/npjscilearn/journal-impact)
+* [Editorial policies](/npjscilearn/editorial-policies)
+* [About the Partner](/npjscilearn/partner)
+
+
+Publish with us
+---------------
+
+* [For Authors and Referees](/npjscilearn/for-authors-and-referees)
+* [Language editing services](https://authorservices.springernature.com/go/sn/?utm_source=For+Authors&utm_medium=Website_Nature&utm_campaign=Platform+Experimentation+2022&utm_id=PE2022)
+* [Open access funding](/npjscilearn/open-access-funding)
+* [Submit manuscript](https://submission.springernature.com/new-submission/41539/3)
+
+
+Search
+------
+
+Search articles by subject, keyword or author
+
+
+Show results from
+All journals
+This journal
+
+
+Search
+
+
+
+
+[Advanced search](/search/advanced)
+### Quick links
+
+* [Explore articles by subject](/subjects)
+* [Find a job](/naturecareers)
+* [Guide to authors](/authors/index.html)
+* [Editorial policies](/authors/editorial_policies/)
+
+
+npj Science of Learning
+
+(*npj Sci. Learn.*)
+
+ISSN 2056-7936 (online)
+
+
+
+
+
+nature.com footer links
+-----------------------
+
+### About Nature Portfolio
+
+* [About us](https://www.nature.com/npg_/company_info/index.html)
+* [Press releases](https://www.nature.com/npg_/press_room/press_releases.html)
+* [Press office](https://press.nature.com/)
+* [Contact us](https://support.nature.com/support/home)
+
+### Discover content
+
+* [Journals A-Z](https://www.nature.com/siteindex)
+* [Articles by subject](https://www.nature.com/subjects)
+* [protocols.io](https://www.protocols.io/)
+* [Nature Index](https://www.natureindex.com/)
+
+### Publishing policies
+
+* [Nature portfolio policies](https://www.nature.com/authors/editorial_policies)
+* [Open access](https://www.nature.com/nature-research/open-access)
+
+### Author & Researcher services
+
+* [Reprints & permissions](https://www.nature.com/reprints)
+* [Research data](https://www.springernature.com/gp/authors/research-data)
+* [Language editing](https://authorservices.springernature.com/language-editing/)
+* [Scientific editing](https://authorservices.springernature.com/scientific-editing/)
+* [Nature Masterclasses](https://masterclasses.nature.com/)
+* [Research Solutions](https://solutions.springernature.com/)
+
+### Libraries & institutions
+
+* [Librarian service & tools](https://www.springernature.com/gp/librarians/tools-services)
+* [Librarian portal](https://www.springernature.com/gp/librarians/manage-your-account/librarianportal)
+* [Open research](https://www.nature.com/openresearch/about-open-access/information-for-institutions)
+* [Recommend to library](https://www.springernature.com/gp/librarians/recommend-to-your-library)
+
+### Advertising & partnerships
+
+* [Advertising](https://partnerships.nature.com/product/digital-advertising/)
+* [Partnerships & Services](https://partnerships.nature.com/)
+* [Media kits](https://partnerships.nature.com/media-kits/)
+* [Branded
+  content](https://partnerships.nature.com/product/branded-content-native-advertising/)
+
+### Professional development
+
+* [Nature Awards](https://www.nature.com/immersive/natureawards/index.html)
+* [Nature Careers](https://www.nature.com/naturecareers/)
+* [Nature 
+  Conferences](https://conferences.nature.com)
+
+### Regional websites
+
+* [Nature Africa](https://www.nature.com/natafrica)
+* [Nature China](http://www.naturechina.com)
+* [Nature India](https://www.nature.com/nindia)
+* [Nature Japan](https://www.natureasia.com/ja-jp)
+* [Nature Middle East](https://www.nature.com/nmiddleeast)
+
+
+
+* [Privacy
+  Policy](https://www.nature.com/info/privacy)
+* [Use
+  of cookies](https://www.nature.com/info/cookies)
+* Your privacy choices/Manage cookies
+* [Legal
+  notice](https://www.nature.com/info/legal-notice)
+* [Accessibility
+  statement](https://www.nature.com/info/accessibility-statement)
+* [Terms & Conditions](https://www.nature.com/info/terms-and-conditions)
+* [Your US state privacy rights](https://www.springernature.com/ccpa)
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature Limited
+
+
+
+
+
+Close banner
+
+
+
+
+Close
+
+
+![]()
+
+Sign up for the *Nature Briefing* newsletter — what matters in science, free to your inbox daily.
+
+
+
+
+
+
+Email address
+
+
+Sign up
+
+I agree my information will be processed in accordance with the *Nature* and Springer Nature Limited [Privacy Policy](https://www.nature.com/info/privacy).
+
+
+
+
+
+
+Close banner
+
+
+
+
+Close
+
+
+Get the most important science stories of the day, free in your inbox.
+[Sign up for Nature Briefing](https://www.nature.com/briefing/signup/?brieferEntryPoint=MainBriefingBanner)
+
+
+
+![]()
+
+

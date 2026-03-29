@@ -1,0 +1,227 @@
+# Source URL: https://www.sciencedirect.com/science/article/abs/pii/S0360131526000618
+# Content Length: 19228 characters
+# Extracted at: 2026-03-29 12:08:16
+#============================================================
+
+Profiles of Academic Performance and Perceived Digital Distraction in Secondary Classrooms Across 30 Countries and Regions - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131526000618&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131526000618)
+\* [Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000618)
+\* [Purchase PDF](/getaccess/pii/S0360131526000618/purchase)
+Search ScienceDirect
+## Article preview
+\* [Abstract](#preview-section-abstract)
+\* [Introduction](#preview-section-introduction)
+\* [Section snippets](#preview-section-snippets)
+\* [References (78)](#preview-section-references)
+[![](https://sciencedirect.elseviercdn.cn/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](/journal/computers-and-education)
+## [Computers & Education](/journal/computers-and-education)
+Available online 27 March 2026, 105623
+[In Press, Journal Pre-proof](/journal/computers-and-education/articles-in-press)What’s this?
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20024-cov150h.gif)](/journal/computers-and-education)
+# Profiles of Academic Performance and Perceived Digital Distraction in Secondary Classrooms Across 30 Countries and Regions
+Author links open overlay panelChenyangLia, FuChenab
+Show more
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131526000618&orderBeanReset=true)
+## Highlights
+\* •
+Clustering analysis identifies six profiles of math performance and perceived digital distraction during class.
+\* •
+Rarely documented profiles include high digital distractions with high math performance and low digital distractions with weak math performance.
+\* •
+XGBoost classification reveals key predictors, including external factors such as classroom environment and peer influence, and internal factors such as self-efficacy, emotions, and digital use habits.
+\* •
+ESCS and country-level differences significantly shape students’ profiles.
+## Abstract
+As digital distraction has become a critical issue in secondary education, it is important to explore the heterogeneous patterns linking individual digital distraction to academic performance. We analyzed data from 15-year-old students across 30 countries in the Programme for International Student Assessment (PISA) in 2022. The main method we used included K-means for Ensemble Clustering, XGBoost and SHAP analyses for classification and interpretation. Results identified four distinct student profiles reflecting their susceptibility to digital distraction and mathematics performance patterns. These profiles are predominantly represented across East Asian, European, Latin American, Eastern European, and Middle Eastern education systems. The first two clusters (optimal and susceptible profiles) confirm the expected negative relationship between distraction and performance, while two unconventional profiles (resilient and invisible at-risk) demonstrate exceptions to this trend. Key factors distinguishing these profiles include environmental factors (peer influence and classroom discipline), internal factors (self-efficacy, ICT usage habits, and emotions), and demographic characteristics. Based on these results, we propose targeted interventions for educators, institutions, and policymakers.
+## Introduction
+With the widespread availability of internet connectivity, digital devices such as laptops, tablets, and smartphones have become indispensable tools for educational contexts ranging from higher education to K-12 classrooms (Flanigan et al., 2023; Park et al., 2024). These devices offer substantial benefits, such as promoting student motivation, increasing participation, and supporting learning tasks (Rashid & Asghar, 2016; Tang et al., 2022; Wijaya et al., 2022). However, this connectivity introduces a pervasive global challenge: digital distraction, which is defined as the diversion of attention from academic tasks to non-academic activities due to the use of digital devices (Flanigan et al., 2022). Although the detrimental impact of digital distraction has been widely emphasized, a considerable number of students continue to engage in off-task digital activities during class (Liao & Wu, 2022; Flanigan et al., 2022). Importantly, research indicates that not all non-academic digital use is detrimental. For instance, brief digital engagement can help regulate attention by providing short cognitive breaks; it may also support creative thinking by interrupting rigid thought patterns (Kim et al., 2019; Ritter & Dijksterhuis, 2014). At the same time, academic performance may also reflect differences in digital behavior patterns. For instance, high-achieving students often demonstrate stronger self-regulatory behaviors, allowing them to maintain task focus (Bandura, 2001; Zimmerman, 2002; Gaudreau et al., 2013). In contrast, lower-achieving students may experience heightened academic boredom or lack of motivation, with a higher likelihood of engaging with digital devices for non-academic purposes during class (Park et al., 2024; Pekrun et al., 2010).
+Despite the growing body of literature, some critical gaps remain. First, existing findings are primarily situated in higher education, and relevant research in K-12 education remains insufficient (Park et al., 2024; Zhou & Deng, 2023). Given the developmental differences, secondary school students are likely to exhibit less mature self-regulation and greater sensitivity to environmental stimuli compared to college students (Crone & Dahl, 2012). Therefore, greater scholarly attention to digital distraction in K-12 contexts is warranted. Second, there is a lack of a comprehensive framework to explain the explanatory processes linking digital distraction to academic performance. Traditional variable-centered approaches (e.g., examining whether distraction predicts poorer performance) often rely on linear associations and average effects, which may overlook the heterogeneity and configurational patterns underlying students’ digital distraction behaviors and academic outcomes.
+Therefore, this study focuses on secondary school students’ digital distraction in the classroom and its association with academic performance, conceptualized as distinct profiles of distraction and performance. Rather than assuming a uniform linear relationship between distraction and achievement, this study hypothesizes meaningful heterogeneity in students’ digital distraction-performance profiles, based on the integration of previous literature. Furthermore, guided by the Social Cognitive Theory, we develop an integrative framework to organize the factors associated with these profiles into three dimensions: internal, external, and demographic. Methodologically, this study utilizes data from 30 countries and regions participating in the 2022 Programme for International Student Assessment (PISA), where mathematics literacy served as the main assessment domain (OECD, 2023). To capture complex and potentially non-linear relationships, this study adopts a person-centered analytical approach. We initially utilize data-driven clustering techniques to identify student profiles based on their individual susceptibility to digital distraction and mathematics performance. We then used supervised classification models to examine the key factors associated with profile membership. We aimed to identify distinct profiles linking students’ digital distraction and academic performance, interpret them through the lens of Social Cognitive Theory, and ultimately develop targeted interventions for secondary school students.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000618)
+## Section snippets
+## Conceptualization of Digital Distraction
+The concept of “distraction” essentially refers to the process by which an individual’s attention shifts from one object to another (Hanin, 2021). When this kind of distraction is caused by digital devices, it is called “digital distraction.” In educational settings, digital distraction is defined as the attention shifts from primary academic tasks to non-academic activities due to the existence or use of digital devices (Flanigan et al., 2022). To clarify the scope of this study, we
+## Dataset and Sample
+This study utilized data from the Programme for International Student Assessment (PISA) 2022, which assesses 15-year-old students’ competencies in reading, mathematics, and science, with mathematics as the major domain. Based on the proposed theoretical framework in Figure 1, we selected 30 predictors from the Student Questionnaire and the optional ICT (information and communications technology) Familiarity Questionnaire to examine the factors associated with students’ digital distraction and
+## Correlations between Academic Performance and Digital Distraction
+The Pearson correlation analysis results are presented in Table 4. We utilize these findings to first empirically verify the effectiveness of GMC in statistically isolating the DIGDIST\\_L1 component, and subsequently to explore the correlations between these different distraction levels and mathematics performance.
+The correlation between the DIGDIST\\_L1 and DIGDIST\\_L2 components was zero (r = .00), indicating the effectiveness of the GMC procedure. This orthogonality ensures that individual
+## Discussions
+The main research questions in this study are: (1) identifying student profiles from math performance and digital distraction; (2) finding key factors that distinguish these profiles; and (3) examining differences in demographic composition between profiles. In Section 5.1, we describe the student profiles and their distinct distraction-performance patterns and contextual characteristics. Section 5.2 links these findings to the SCT framework. We focus on the role of individual agency in
+## Conclusions
+This study analyzes fifteen-year-old students from 239,695 participants across 30 countries in the PISA 2022 test. We reveal the complex relationship between students’ susceptibility to digital distraction and academic performance, highlighting the roles of internal and external factors, as well as demographic characteristics. Specifically, we found four meaningful profiles. In addition to the two profiles that reveal the traditional negative relationship between digital distraction and math
+## CRediT authorship contribution statement
+\*\*Fu Chen:\*\* Writing – review & editing, Supervision, Conceptualization. \*\*CHENYANG LI:\*\* Writing – original draft, Visualization, Software, Methodology, Formal analysis, Data curation, Conceptualization
+## Uncited reference
+Berrío-Zapata et al., 2018; Christy and Fox, 2014; Leyva et al., 2019; Senkbeil, 2023.
+## References (78)
+\* AgasistiT. \*et al.\*
+### [Technological resources, ICT use and schools efficiency in Latin America – Insights from OECD PISA 2018](/science/article/pii/S0738059323000342)
+### International Journal of Educational Development
+(2023)
+\* BaturayM.H. \*et al.\*
+### [An investigation of the impact of demographics on cyberloafing from an educational setting angle](/science/article/pii/S0747563215002824)
+### Computers in Human Behavior
+(2015)
+\* ChenL. \*et al.\*
+### [Understanding the determinants of digital distraction: An automatic thinking behavior perspective](/science/article/pii/S0747563219304133)
+### Computers in Human Behavior
+(2020)
+\* ChiuM.M. \*et al.\*
+### [Culture, motivation, and reading achievement: High school students in 41 countries](/science/article/pii/S1041608010000324)
+### Learning and Individual Differences
+(2010)
+\* ChristyK.R. \*et al.\*
+### [Leaderboards in a virtual classroom: A test of stereotype threat and social comparison explanations for women’s math performance](/science/article/pii/S0360131514001195)
+### Computers & Education
+(2014)
+\* KimI. \*et al.\*
+### [Understanding smartphone usage in college classrooms: A long-term measurement study](/science/article/pii/S0360131519301642)
+### Computers & Education
+(2019)
+\* LambićD.
+### [Correlation between Facebook use for educational purposes and academic performance of students](/science/article/pii/S0747563216302230)
+### Computers in Human Behavior
+(2016)
+\* LiaoC.-H. \*et al.\*
+### [Deploying multimodal learning analytics models to explore the impact of digital distraction and peer learning on student performance](/science/article/pii/S0360131522001701)
+### Computers & Education
+(2022)
+\* LythreatisS. \*et al.\*
+### [The digital divide: A review and future research agenda](/science/article/pii/S0040162521007903)
+### Technological Forecasting and Social Change
+(2022)
+\* OdaciH.
+### [Academic self-efficacy and academic procrastination as predictors of problematic internet use in university students](/science/article/pii/S0360131511000133)
+### Computers & Education
+(2011)
+- RashidT. \*et al.\*
+### [Technology use, self-directed learning, student engagement and academic performance: Examining the interrelations](/science/article/pii/S0747563216304204)
+### Computers in Human Behavior
+(2016)
+- RohatgiA. \*et al.\*
+### [The role of ICT self-efficacy for students’ ICT use and their achievement in a computer and information literacy test](/science/article/pii/S0360131516301440)
+### Computers & Education
+(2016)
+- SanaF. \*et al.\*
+### [Laptop multitasking hinders classroom learning for both users and nearby peers](/science/article/pii/S0360131512002254)
+### Computers & Education
+(2013)
+- ScheerderA. \*et al.\*
+### [Determinants of internet skills, uses and outcomes. a systematic review of the second-and third-level digital divide](/science/article/pii/S0736585317303192)
+### Telemat. Inform.
+(2017)
+- SchererR. \*et al.\*
+### [The relation between students’ socioeconomic status and ICT literacy: Findings from a meta-analysis](/science/article/pii/S0360131519300983)
+### Computers & Education
+(2019)
+- SenkbeilM.
+### [How well does the digital home learning environment predict ICT literacy and ICT self-efficacy? Comparing the predictive power of adolescent and parent reports](/science/article/pii/S0360131523002142)
+### Computers & Education
+(2023)
+- TanejaA. \*et al.\*
+### [Cyber-slacking in the classroom: Potential for digital distraction in the new age](/science/article/pii/S0360131514002565)
+### Computers & Education
+(2015)
+- WangM. \*et al.\*
+### [Neural correlates of media multitasking influencing switching but not sustained attention among college students: Evidence from a hierarchical Bayesian perspective](/science/article/pii/S0360131525001861)
+### Computers & Education
+(2025)
+- WijayaT.T. \*et al.\*
+### [A meta-analysis of the effects of E-books on students’ mathematics achievement](/science/article/pii/S2405844022007204)
+### Heliyon
+(2022)
+- AllenM.S. \*et al.\*
+### Single item measures in psychological science
+### European Journal of Psychological Assessment
+(2022)
+- AntonioA. \*et al.\*
+### The Gender Digital Divide in Developing Countries
+### Future Internet
+(2014)
+- AshcraftM.H. \*et al.\*
+### The relationships among working memory, math anxiety, and performance
+### Journal of experimental psychology. General
+(2001)
+- AssariS. \*et al.\*
+### Subjective family Socioeconomic status and Adolescents’ attention: Blacks’ diminished returns
+### Children
+(2020)
+- BanduraA.
+### Self-efficacy: Toward a unifying theory of behavioral change
+### Psychological Review
+(1977)
+- Bandura, A. (1986). Social foundations of thought and action. Englewood Cliffs, NJ, 1986(23-28),...
+- Bandura, A. (1997). Self-efficacy: The exercise of control (Vol. 11)....
+- BanduraA.
+### Social Cognitive Theory: an Agentic Perspective
+### Annual Review of Psychology
+(2001)
+- BarrosoC. \*et al.\*
+### A meta-analysis of the relation between math anxiety and math achievement
+### Psychological Bulletin
+(2020)
+- BatchB. \*et al.\*
+### “Cell phones under the table”: Meeting students’ needs to reduce off-task smartphone use through faculty–student collaboration
+### Journal of Educational Technology Systems
+(2021)
+- BergmanL.R. \*et al.\*
+### A person-oriented approach in research on developmental psychopathology
+### Development and Psychopathology
+(1997)
+- Berrío-Zapata, C., Gil, D. S. B., Arraiza, P. M., & Da Silva, E. F. (2018). Gender digital divide in Latin America:...
+- Brady, A. C., Kim, Y., & Von Spiegel, J. (2022). Learning in the face of digital distractions. In Advances in higher...
+- CaiZ. \*et al.\*
+### Gender and attitudes toward technology use: A meta-analysis
+### Computers & Education
+(2016)
+- ChenL. \*et al.\*
+### Determinants of digital distraction: A crosscultural investigation of users in africa, China and the US
+### Journal of International Technology and Information Management
+(2014)
+- ChristantiM.F. \*et al.\*
+### The Digital Divide In Education: Bridging Gaps In The Era Of Online Learning
+### Migration Letters
+(2024)
+- CroneE.A. \*et al.\*
+### Understanding adolescence as a period of social–affective engagement and goal flexibility
+### Nature Reviews. Neuroscience
+(2012)
+- DaleidenB.K. \*et al.\*
+### A Self-Regulated Learning Perspective on smartphone presence, usage, and multitasking while studying
+### Education Sciences
+(2025)
+- DengL. \*et al.\*
+### Distraction, multitasking and self-regulation inside university classroom
+### Education and Information Technologies
+(2024)
+- DiamantopoulosA. \*et al.\*
+### Guidelines for choosing between multi-item and single-item scales for construct measurement: a predictive validity perspective
+### Journal of the Academy of Marketing Science
+(2012)
+View more references
+## Cited by (0)
+[View full text](/science/article/pii/S0360131526000618)
+© 2026 Published by Elsevier Ltd.
+## Recommended articles
+No articles found.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131526000618)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

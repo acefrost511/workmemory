@@ -1,0 +1,72 @@
+# UNESCO AI Competency Framework for Students
+
+## 基本信息
+
+- **机构**：UNESCO（联合国教科文组织）
+- **报告名称（英文）**：AI Competency Framework for Students
+- **报告名称（中文）**：UNESCO学生AI能力框架
+- **发布时间**：2023年（框架），2025年更新版随《AI与教育未来》报告配套发布
+- **来源域名**：unesco.org（官方域名 ✅）
+- **官方URL**：https://www.unesco.org/en/digital-education/artificial-intelligence
+- **相关参考**：https://www.unesco.org/en/digital-education
+
+---
+
+## 核心发现
+
+### 核心发现1：K-12 AI能力标准
+UNESCO发布了面向学生的AI能力框架，旨在为K-12各级别（小学、初中、高中）提供清晰的AI素养能力标准。该框架帮助教育工作者了解在K-12阶段应教授哪些AI相关知识和技能。
+
+### 核心发现2：AI时代核心素养
+框架明确了AI时代学生所需的核心素养，包括：
+- AI基础理解：了解AI的工作原理和应用场景
+- AI伦理意识：理解AI的偏见、隐私和道德问题
+- 批判性思维：评估AI生成内容的准确性和局限性
+- 负责任使用：在学习和生活中安全、道德地使用AI工具
+- 人机协作：学会与AI系统有效协作
+
+### 核心发现3：与全球评估体系衔接
+该框架为OECD PISA 2029媒体与AI素养评估奠定基础，同时也支持欧盟促进高质量和包容性数字教育和技能的目标。正式框架计划在2026年发布，并将附带课堂实例。
+
+---
+
+## K-12分阶段能力要求
+
+### 小学阶段（Primary）
+- 理解AI基本概念
+- 识别日常生活中的AI应用
+- 初步建立AI伦理意识
+
+### 初中阶段（Lower Secondary）
+- 理解AI工作原理（数据、算法、模型）
+- 批判性评估AI生成内容
+- 安全使用AI工具
+
+### 高中阶段（Upper Secondary）
+- 深度理解AI技术及其社会影响
+- 能够评估AI系统的偏见和局限性
+- 具备AI相关职业的知识和准备
+
+---
+
+## 与教师框架的衔接
+
+UNESCO同步发布了**教师AI能力框架**（AI Competency Framework for Teachers），包含15项能力、5个维度：
+1. 教师AI伦理与价值观
+2. AI教学设计与应用
+3. AI学习评估
+4. AI赋能教师专业发展
+5. AI政策与学校治理
+
+两大框架共同构成UNESCO K-12 AI教育完整体系。
+
+---
+
+## 报告元数据
+
+- **类型**：Competency Framework（能力框架）
+- **适用对象**：K-12各阶段学生及教育工作者
+- **所属项目**：UNESCO AI & Education Global Programme
+- **收录状态**：UNESCO官方发布 ✅
+- **相关域名验证**：unesco.org ✅
+- **备注**：本框架虽非2026年发布，但与K-12 AI教育直接相关，是UNESCO在K-12 AI教育领域的核心政策工具，2026年继续作为重要参考框架使用。

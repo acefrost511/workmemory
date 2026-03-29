@@ -1,0 +1,54 @@
+# 情报原文存档
+## 来源：Pocatello-Chubbuck Observer（爱达荷州）| 日期：2026年3月27日
+
+---
+
+**原文标题（EN）：** Little, Critchfield Announce First-of-its-Kind Public-Private Partnership for AI Education
+
+**原文标题（中文参考）：** 州长利特尔与学区总监克里奇菲尔德宣布首个公私合营AI教育伙伴关系
+
+**来源：** Pocatello-Chubbuck Observer（爱达荷州地方媒体）
+
+**日期：** 2026年3月27日
+
+**原文链接：** https://pocatellochubbuckobserver.com/2026/03/27/little-critchfield-announce-first-of-its-kind-public-private-partnership-for-ai-education/
+
+---
+
+## 全文内容
+
+### 新闻概要
+
+爱达荷州教育厅宣布了一项开创性的公私合作伙伴关系，将爱达荷州置于全美K-12 AI教育的领先地位。
+
+### 发布来源
+
+爱达荷州州长办公室新闻稿，发布日期：2026年3月26日
+
+### 合作伙伴内容（据摘要推断）
+
+- 州长Brad Little与爱达荷州教育厅总监Jason Critchfield联合宣布
+- 这是**全美首个**此类公私合营K-12 AI教育伙伴关系
+- 旨在为爱达荷州学生提供前沿AI教育资源与培训
+- 将爱达荷州定位为K-12 AI教育的全国领导者
+
+### 背景
+
+爱达荷州近年来在教育创新方面表现积极，此次AI教育伙伴关系是该州在技术驱动教育改革方面的最新举措。此类公私合营模式旨在弥合学校传统课程与未来AI时代所需技能之间的差距。
+
+---
+
+### 关键词（供检索用）
+
+- 爱达荷州 / Idaho
+- K-12 AI教育
+- 公私合营 / Public-Private Partnership
+- Brad Little（州长）
+- Jason Critchfield（教育厅总监）
+- AI课程
+- 教育技术政策
+
+---
+
+*原文存档时间：2026年3月29日*
+*存档编号：intel_10_20260329_003*

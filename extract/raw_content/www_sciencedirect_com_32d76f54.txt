@@ -1,0 +1,167 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S036013152600062X
+# Content Length: 13358 characters
+# Extracted at: 2026-03-29 12:11:50
+#============================================================
+
+Structured Flexibility in Microcredentials: A Temporal Analysis of Self-Regulated Achievement Pathways - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS036013152600062X&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS036013152600062X)
+\* [Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS036013152600062X)
+\* [Purchase PDF](/getaccess/pii/S036013152600062X/purchase)
+Search ScienceDirect
+## Article preview
+\* [Abstract](#preview-section-abstract)
+\* [Section snippets](#preview-section-snippets)
+\* [References (47)](#preview-section-references)
+[![](https://sciencedirect.elseviercdn.cn/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](/journal/computers-and-education)
+## [Computers & Education](/journal/computers-and-education)
+Available online 27 March 2026, 105624
+[In Press, Journal Pre-proof](/journal/computers-and-education/articles-in-press)What’s this?
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20024-cov150h.gif)](/journal/computers-and-education)
+# Structured Flexibility in Microcredentials: A Temporal Analysis of Self-Regulated Achievement Pathways
+Author links open overlay panelJi HyunYuPh.D., FengjiaoTu, Kamini SureshYelamar
+Show more
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S036013152600062X&orderBeanReset=true)
+## Highlights
+\* •
+Microcredential mastery relies on structured flexibility, not rigid compliance.
+\* •
+Early active enactment increases high achievement likelihood by 33 times.
+\* •
+Summative milestones function as primary structural gatekeepers for success.
+\* •
+Mastery follows coherent pathways; low achievement shows entropy (randomized effort).
+\* •
+Successful learners converge on graded milestones but vary in formative use.
+## ABSTRACT
+As multi-course microcredentials become central to workforce development, they require learners to sustain self-regulated effort over extended periods. Most learning analytics research often relies on static models focused on dropout versus completion, without distinguishing between strong mastery and minimal performance among those who finish. Grounded in Self-Regulated Learning (SRL) and Temporal Learning Analytics (TLA), this study examines the longitudinal journey of 885 program completers, divided into high- and low-achievement groups. We combined longitudinal clustering, modality-specific logistic regression, random forest modeling, and differential sequential pattern mining to identify patterns linked to higher achievement. Results show a clear predictive asymmetry in the forethought phase. Early active enactment in graded tasks, such as completing a peer assessment, increased the odds of high achievement by approximately 33 times (OR = 32.85), whereas passive consumption showed no significant effect. Across the full program, major graded assessments were the primary turning points. A Full Journey Random Forest model (ROC-AUC = 0.975) confirmed that summative milestones, rather than formative activities, most clearly separated high and low achievers. Sequential pattern mining showed no single pathway to success. Instead, high achievers followed six distinct but coherent patterns (Lift > 10) that varied in formative engagement yet consistently converged on summative requirements. In contrast, low achievers showed fragmented and inconsistent sequences. These findings support a model of structured flexibility within the context of this professional microcredential program: sustained success depends on steady completion of key graded milestones alongside adaptive management of surrounding learning activities.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS036013152600062X)
+## Section snippets
+## INTRODUCTION
+Microcredentials and professional certifications have become a central component of modern workforce development and professional learning. Unlike single-course, often interest-driven MOOCs, these multi-course, stackable programs are designed to certify specific, career-relevant competencies and bridge the gap between nonformal and formal education (Clements et al., 2020; Gauthier, 2020). While this structured model offers a clear pathway to a credential (Pickard et al., 2018), it introduces a
+## The Challenge of Longitudinal Persistence in Microcredentials
+The term microcredential is broad, with consensus on its definition only recently emerging (Bideau & Kearns, 2022; Tamoliune et al., 2023). The landscape is diverse, covering a wide range of offerings from single-course digital badges and bite-sized competency assessments (Ha et al., 2023) to more extensive, multi-course certifications (McGreal & Olcott, 2022). Among these formats, this study centers on one increasingly common format: the multi-course, stackable professional certification.
+## METHODOLOGY
+The methodological approach of this study is guided by the integrated framework of SRL and TLA established in the literature review. As outlined in Section 2.3, our approach operationalizes SRL by modeling its behavioral manifestations rather than its internal cognitive phases. To ensure theoretical alignment, we mapped specific data traces to Zimmerman’s cyclical phases of \*Forethought\*, \*Performance\*, and \*Reflection\*, interpreting them at the macro-level of the program’s lifecycle.
+To address the
+## RQ1: Macro-Level Profiles
+A K-means cluster analysis classified the 885 program completers into distinct longitudinal profiles based on their 45 engagement features. The Elbow method (Figure 2) indicated an optimal solution at k = 3, where the reduction in within-cluster variance began to plateau. This solution yielded an average silhouette score of 0.409, confirming distinct separation between the groups.
+One-way ANOVAs confirmed that the three clusters differed significantly across all engagement features (\*p\* < .001),
+## Key Findings
+The goal of this study was to move beyond static, binary prediction models and examine persistence as a process that unfolds over time. By combining longitudinal profiling (RQ1), modality-specific prediction (RQ2), structural sensitivity analysis (RQ3), and sequential pattern mining (RQ4), we demonstrate that for this cohort, lasting achievement in microcredentials is not a fixed personal trait but a dynamic capability, defined by the specific ways learners regulate their efforts in response to
+## CRediT authorship contribution statement
+\*\*Ji Hyun Yu:\*\* Writing – review & editing, Writing – original draft, Project administration, Methodology, Formal analysis, Conceptualization. \*\*Kamini Suresh Yelamar:\*\* Visualization, Formal analysis, Data curation. \*\*Fengjiao Tu:\*\* Writing – review & editing, Methodology, Formal analysis, Data curation
+## Uncited reference
+Boroujeni and Dillenbourg, 2018; Kleimola et al., 2025; Paavilainen et al., 2025; Song et al., 2022a; Song et al., 2022b; Yang et al., 2025.
+## Data Availability Statement
+The dataset generated and analyzed during the current study are available from the corresponding author on reasonable request. Data will be provided to researchers who present methodologically sound proposal intended to use the data for scholarly and educational purposes.
+## Declaration of generative AI and AI-assisted technologies in the writing process
+During the preparation of this work, the author(s) used ChatGPT and GitHub Copilot to improve the codes for analysis and Grammarly to check grammatical errors and enhance the readability of the manuscript. After using these tools, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the publication.
+## Declaration of Competing Interest
+None.
+## REFERENCES (47)
+\* CristeaT.S. \*et al.\*
+### [Dynamics of self-regulated learning: The effectiveness of students’ strategies across course periods](/science/article/pii/S0360131525000016)
+### Computers & Education
+(2025)
+\* GaševićD. \*et al.\*
+### [Learning analytics should not promote one size fits all: The effects of instructional conditions in predicting academic success](/science/article/pii/S1096751615300038)
+### The Internet and Higher Education
+(2016)
+\* SaintJ. \*et al.\*
+### [Temporally-focused analytics of self-regulated learning: A systematic review of literature](/science/article/pii/S2666920X22000157)
+### Computers and Education: Artificial Intelligence
+(2022)
+\* SongY. \*et al.\*
+### [Exploring the collective process of classroom dialogue using sequential pattern mining technique](/science/article/pii/S0883035522001264)
+### International Journal of Educational Research
+(2022)
+\* Alghamdi, S. R., Raković, M., Yang, K., Fan, Y., Gašević, D., & Chen, G. (2025, March). Analytics of temporal patterns...
+\* AlhazbiS. \*et al.\*
+### Using learning analytics to measure self‐regulated learning: A systematic review of empirical studies in higher education
+### Journal of Computer Assisted Learning
+(2024)
+\* AniA. \*et al.\*
+### Development and evaluation of predictive models for predicting students performance in MOOCs
+### Education and Information Technologies
+(2024)
+\* BideauY.M. \*et al.\*
+### A European approach to micro-credentials for lifelong learning and employability
+### Journal of European CME
+(2022)
+\* BoulahmelA. \*et al.\*
+### Investigating self-regulated learning measurement based on trace data: A systematic literature review
+### Technology, Knowledge and Learning
+(2025)
+\* Boroujeni, M. S., & Dillenbourg, P. (2018, March). Discovery and temporal analysis of latent study patterns in MOOC...
+- BoroujeniM.S. \*et al.\*
+### Discovery and temporal analysis of MOOC study patterns
+### Journal of Learning Analytics
+(2019)
+- BujangS.D.A. \*et al.\*
+### Imbalanced classification methods for student grade prediction: A systematic literature review
+### IEEE Access
+(2022)
+- ClementsK. \*et al.\*
+### Getting started with open badges and open microcredentials
+### International Review of Research in Open and Distributed Learning
+(2020)
+- DeevaG. \*et al.\*
+### Educational sequence mining for dropout prediction in MOOCs: Model building, evaluation, and benchmarking
+### IEEE Transactions on Learning Technologies
+(2022)
+- Dweck, C. S., Walton, G. M., & Cohen, G. L. (2014). Academic tenacity: Mindsets and skills that promote long-term...
+- DuckworthA.L. \*et al.\*
+### Grit: perseverance and passion for long-term goals
+### Journal of Personality and Social Psychology
+(2007)
+- Edwards, R. L., Davis, S. K., Hadwin, A. F., & Milford, T. M. (2017). Using predictive analytics in a self-regulated...
+- FanY. \*et al.\*
+### Learning analytics to reveal links between learning design and self-regulated learning
+### International Journal of Artificial Intelligence in Education
+(2021)
+- GaševićD. \*et al.\*
+### Where is research on massive open online courses headed? A data analysis of the MOOC Research Initiative
+### International Review of Research in Open and Distributed Learning
+(2014)
+- GauthierT.
+### The value of microcredentials: The employer’s perspective
+### The Journal of Competency‐Based Education
+(2020)
+- HaN.T.N. \*et al.\*
+### A systematic literature review of micro-credentials in higher education: A non-zero-sum game
+### Higher Education Research & Development
+(2023)
+- HeikkinenS. \*et al.\*
+### Supporting self-regulated learning with learning analytics interventions – A systematic literature review
+### Education and Information Technologies
+(2023)
+- JinF.J.Y. \*et al.\*
+### Analytics of self‐regulated learning in learning analytics feedback processes: Associations with feedback literacy in secondary education
+### Journal of Computer Assisted Learning
+(2025)
+View more references
+## Cited by (0)
+[View full text](/science/article/pii/S036013152600062X)
+© 2026 Published by Elsevier Ltd.
+## Recommended articles
+No articles found.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS036013152600062X)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

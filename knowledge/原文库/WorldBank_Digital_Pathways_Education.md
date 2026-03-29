@@ -1,0 +1,64 @@
+# World Bank: Digital Pathways for Education — Enabling Greater Impact for All
+
+## 基本信息
+
+- **机构**：World Bank（世界银行）
+- **报告名称（英文）**：Digital Pathways for Education: Enabling Greater Impact for All
+- **报告名称（中文）**：教育数字路径：赋能更大影响力
+- **发布时间**：2024-2025年（持续更新）
+- **来源域名**：worldbank.org（官方域名 ✅）
+- **官方URL**：https://www.worldbank.org/en/topic/edutech/publication/digital-pathways-education-enabling-learning-impact
+
+---
+
+## 核心发现
+
+### 核心发现1：AI辅导实现突破性学习收益
+在尼日利亚埃多州，使用AI辅导结合教师指导的中学学生，在短短6周内实现的学习收益相当于"典型学校学习1.5-2年"。这一成果来自World Bank支持的EdTech项目，展示了AI在K-12阶段（尤其是在发展中国家）的巨大潜力。
+
+### 核心发现2：数字技术重塑教育系统
+World Bank指出，信息和通信技术在教育中的应用可以在以下方面发挥关键作用：
+- 为教师、学生和学习过程提供创新支持形式
+- 实现大规模个性化学习
+- 提供实时反馈
+- 自动化评估
+- 虚拟辅导
+
+### 核心发现3：AI对中低收入国家的独特机遇
+World Bank特别强调，对于中低收入国家，AI教育具有独特机遇：如果得到基础数字基础设施的支持，AI可以帮助这些国家跨越式提升教育质量，缩小与发达国家的教育差距。
+
+### 核心发现4：数字技能发展
+World Bank在多国推进数字技能发展项目，包括：
+- 布隆迪约12万名妇女和青年受益于数字技能发展项目
+- 塞拉利昂在2020年COVID-19停课期间，通过远程学习覆盖100万儿童
+- 撒哈拉以南非洲地区教师和学生数字技能评估研究
+
+---
+
+## K-12相关内容
+
+- 中学阶段AI辅导项目（尼日利亚案例）
+- K-12基础教育阶段技术整合研究
+- 早期儿童发展资源
+- 基础学习（Foundational Learning）项目
+- 女童教育项目（Girls' Education Programs）
+
+---
+
+## World Bank教育技术战略要点
+
+1. **以人而非技术为中心的AI教育**：World Bank倡导"以人为中心"的AI教育方法，强调技术应服务于教育目标和人的发展，而非取代人。
+
+2. **基础设施优先**：AI教育的有效实施依赖于基础数字基础设施（电力、互联网、设备）的完善。
+
+3. **全球合作**：World Bank与EdTechhub、FCDO、Mastercard Foundation等机构合作推进全球教育技术发展。
+
+---
+
+## 报告元数据
+
+- **类型**：Guidance Note（指导说明）
+- **所属领域**：Education & Skills / Digital Technologies in Education
+- **相关资源**：World Bank EduTech Podcast（教育技术播客）
+- **收录状态**：worldbank.org官方收录 ✅
+- **相关域名验证**：worldbank.org ✅

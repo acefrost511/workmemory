@@ -1,110 +1,176 @@
-# MEMORY.md - 主索引
+# MEMORY.md - 长期记忆
 
-_最后更新：2026-03-26_
+_最后更新：2026-03-28_
 
-> 本文件是主索引，每次启动时读取。识别话题后调取对应topics原文文件。
+## 工作原则（铁律，2026-03-28 陛下明确）
+
+**所有Agent调用必须100%使用已配置的持久Agent，禁止任何临时Spawn。**
+
+### ✅ 正确调用方式
+```bash
+# 调用持久Agent（读取自己SOUL.md，继承固定身份）
+sessions_spawn(runtime="acp", agentId="reader_parent", task="...", mode="run")
+
+# 禁止方式（临时匿名会话，无Soul，无记忆，造假风险高）
+sessions_spawn(runtime="subagent", task="...")  # ❌ 禁止
+```
+
+### ✅ 已配置的持久Agent完整清单
+
+**情报线（info_officer团队）**
+- `info_officer`（情报官/百晓生，Agent ID固定）：统筹协调，下辖intel_01~12
+- `intel_01` ~ `intel_12`：搜索Agent（各自有SOUL.md，不可临时创建）
+
+**内容创作线（edu_lead团队）**
+- `edu_lead`（深度内容主编）：任务分配、审核把关
+- `edu_writer`：内容执笔
+- `edu_researcher`：研究方法支持（按需调用）
+- `edu_analyst`：数据分析
+- `edu_reviewer`：终审
+
+**读者审核Panel（5个固定读者Agent）**
+- `reader_parent`：家长视角（孩子上初中）
+- `reader_new_teacher`：新教师视角（入职1-3年）
+- `reader_senior_teacher`：资深教师视角（10年+）
+- `reader_principal`：校长视角
+- `reader_expert`：学术专家视角
+
+**其他持久Agent**
+- `xiaozhang`：校长Agent
+- `xueqing_data`：学情数据Agent
+- `agent_ip`：IP运营Agent
+- `main`：小艾（我自己）
+
+### ✅ 正确任务链路
+
+```
+陛下指令
+    ↓
+小艾（总调度）→ 分析任务类型
+    ├── 情报收集类 → sessions_spawn(runtime="acp", agentId="info_officer", ...)
+    ├── 深度内容类 → sessions_spawn(runtime="acp", agentId="edu_lead", ...)
+    │       ↓
+    │       edu_lead → sessions_spawn(runtime="acp", agentId="edu_writer", ...)
+    │       ↓
+    │       edu_writer → sessions_spawn(runtime="acp", agentId="reader_xxx", ...)  # 并行调用5个
+    │                       sessions_spawn(runtime="acp", agentId="edu_reviewer", ...)
+    ├── 校长事务类 → sessions_spawn(runtime="acp", agentId="xiaozhang", ...)
+    └── 数据分析类 → sessions_spawn(runtime="acp", agentId="xueqing_data", ...)
+```
+
+### ✅ 情报官(info_officer)与百晓生的关系
+- **两者是同一个Agent**：info_officer的SOUL.md里"小王"是百晓生的身份设定
+- 情报官 = 百晓生 = `agentId="info_officer"`
+- intel_01~12 是情报官下辖的搜索子Agent，由情报官自己spawn管理
+
+### ❌ 严禁的行为（2026-03-28陛下禁令·永久铁律）
+1. **禁止未经陛下授权Spawn任何Agent**：所有Spawn必须先请示陛下获得授权，绝不自行决定
+2. 禁止用 `runtime="subagent"` 临时Spawn匿名会话
+3. 禁止在任务描述里写角色设定（"你是家长""你是专家"）——角色在Agent的SOUL.md里
+4. 禁止跳过edu_lead直接Spawn edu_writer
+5. 禁止跳过info_officer直接Spawn intel_agents
+6. 禁止用中文标签做subagent名称（reader_parent-v2b这类）
+7. 禁止Spawn后不汇报、不监控、不追踪结果
+
+### 读者Panel调用规范
+- 5个读者Agent并行调用，不串行
+- 每次调用：`sessions_spawn(runtime="acp", agentId="reader_xxx", task="请阅读文件X并评分", mode="run")`
+- 不在task里重复角色设定，Agent自己读SOUL.md
+- 收集5份评分后，小艾汇总综合报告上报陛下
 
 ---
 
-## 知识库三层架构（最终版·2026-03-27）
+## 关于陛下
 
-**第一层：记忆体系** → 小艾统筹（唯一写入）
-**第二层：统一研究库** → 情报官维护（所有Agent可读）
-**第三层：IP内容库** → edu_lead维护（所有Agent可读）
-详见：/workspace/knowledge/KNOWLEDGE_ARCHITECTURE.md
+- **称呼**：陛下
+- **沟通风格**：直接、务实，不喜欢废话和客套
 
-- 【情报官】维护统一研究库（research_pool/） | 搜索→写入研究库
-- 【IP团队edu_lead】从研究库读取→归类到13信念抽屉→产出深度洞察 | HKRR四要素
-- 【精选资讯团队zhubian】从研究库读取→定时抽取10-15篇→每周速览 | 不维护库
-- 【小艾】统筹记忆体系（memory/） | 陛下笔记/洞察/素材存入IP素材库
-- 【共享规则】/workspace/knowledge/SHARED_KNOWLEDGE_RULES.md
-- 【质量标准】/workspace/agents/edu_lead/QUALITY_STANDARD.md | 8维度打分
+## 研究与关注领域
 
-## 教育内容创作
+- **核心领域**：K12 AI教育（中小学人工智能教育）
+- **关注视角**：
+  - AI在K12课堂的实际效果与应用（AI辅导、个性化学习、作业批改）
+  - AI对K12学生认知、情感、学习习惯的影响
+  - K12 AI教育产品设计
+  - 中国K12 AI教育政策动态（教育部、各省市）
+  - 全球K12 AI教育研究（重点期刊：Computers & Education, BJET, Education and IT等）
+- **产品视角**：关注面向中小学/设计K12 AI产品的研究和案例
 
-- 【方法论】HAMD创作四步法确立 | 2026-03-26 | Hook→Anchor→MindMap→Different四步创作框架 | 原文：memory/topics/education.md#HAMD
-- 【方法论】HKRR定位法则 | 2026-03-26 | Happy快乐+Knowledge知识+Resonance共鸣+Rhythm节奏 | 原文：memory/topics/education.md#HKRR
-- 【原则】"门优先"原则 | 2026-03-26 | 标题/封面=门，先把门做对 | 原文：memory/topics/education.md#门优先
-- 【原则】差异即生存原则 | 2026-03-26 | 没有差异化就没有点击，每篇必须有"这篇的不同是什么"自检答案 | 原文：memory/topics/education.md#差异即生存
-- 【原则】锚点即记忆原则 | 2026-03-26 | 没有锚点都是噪音，每篇必须有一个"读者能记住的那个瞬间" | 原文：memory/topics/education.md#锚点即记忆
-- 【IP定位】K12课堂门童 | 2026-03-26 | 面向K12老师的AI课堂实用指南，专注K12老师的AI内容IP蓝海 | 原文：memory/topics/education.md#IP定位
-- 【IP用户】三层目标用户 | 2026-03-26 | 核心-信息科技老师/扩量-学科老师/影响-教研员 | 原文：memory/topics/education.md#目标用户
-- 【IP内容模型】三层内容结构 | 2026-03-26 | 工具实操40%+课例展示40%+认知升级20% | 原文：memory/topics/education.md#内容模型
-- 【IP更新节奏】周二工具稿/周五课例稿/热点+1 | 2026-03-26 | 固定节奏建立读者预期 | 原文：memory/topics/education.md#更新节奏
-- 【SOP】4阶段创作SOP | 2026-03-26 | Pre-production→Production→Post-production→Review | 原文：memory/topics/education.md#创作SOP
-- 【数据追踪】article_tracker.md | 2026-03-26 | 三指标追踪（转发/点赞/爱心），每5篇做阶段性复盘 | 原文：memory/topics/education.md#数据追踪
-- 【日报编号】全局顺序编号规则 | 2026-03-26 | 每日编号按顺序延续，不从1重新开始 | 原文：memory/topics/education.md#日报编号
-- 【日报审核格式】7字段审核列表 | 2026-03-26 | 序号/标题/时间/简介/来源/优先级/是否深度解读 | 原文：memory/topics/education.md#日报审核格式
-- 【研究领域】K12 AI教育五大关注方向 | 2026-03-05 | AI应用效果/认知影响/产品设计/中国政策/全球研究 | 原文：memory/topics/education.md#研究领域
-- 【日报自动化】百晓生日报cron | 持续 | 每天05:00搜索，08:00发审核列表 | 原文：memory/topics/education.md#日报自动化
-- 【记忆体系】动态标签索引架构 | 2026-03-26 | 索引驱动+实时写入+原文保留 | 原文：memory/topics/education.md#记忆体系
+## 信息追踪偏好
 
+- 已建立**K12 AI教育日报**定时任务（每天05:00搜索，08:00发审核列表）
+- 已建立**K12 AI教育周报**定时任务（每周六05:00搜索，08:00发审核列表）
+- 详细配置见：`memory/task-config.md`
+- 报告格式：HTML，三板块（新研究、新产品、新报告），重点推荐+折叠次要内容
+- 优先关注：直接与K12相关的研究；非K12内容折叠处理
+
+## 写作风格倾向
+
+- 简洁、有观点，不堆砌
+- 喜欢有数据支撑的表达
+- 标题有网感、吸引点击
+- 不喜欢官样文章和空洞表达
+
+## 沟通格式偏好
+
+- 飞书里不用 Markdown 表格，改用纯文字列表或分段输出
+- 回复不要太长，重点突出
+- **严禁使用 .org 格式**，无法预览
+- 文档输出只用：Word (.docx)、HTML（手机和 Mac 都能打开的格式）
+- **PDF 不预先生成**，除非陛下主动要求
+- **HTML 要适配微信公众号编辑器**：用 inline styles，结构简洁，粘贴进编辑器后效果不变形；不依赖外部 CSS/JS
+
+## 工具与平台
+
+- 使用 OpenClaw + 飞书
+- Node.js docx包已安装（/workspace/node_modules/docx）
+
+## 已创建技能
+
+- **md2wechat** - 将 Markdown 转换为微信公众号适配 HTML，触发词：公众号排版html、md转公众号、手机预览
+- **edu-editor** - 教育深度内容编辑，输出K12教育公众号长文（1000-2500字），触发词：深度解读、长文创作、教育解读
+
+## 进行中的项目
+
+- **多Agent协作系统**（2026-03-05启动，2026-03-28全面清理完成）
+  - 灵感来源：傅盛的"龙虾军团"
+  - 4个核心Agent：管家小艾、情报官（百晓生）、主编（edu_lead）、内容运营（edu_writer）
+  - 详细架构见：`/workspace/agents/ARCHITECTURE.md`
+  - 错题本（共享记忆）：`/workspace/memory/error-log.md`
+  - 共享Skills库：`/workspace/shared-skills/`
+
+- **IP团队Agent注册（2026-03-28完成）**
+  - ✅ reader_parent / reader_new_teacher / reader_senior_teacher / reader_principal / reader_expert：已注册
+  - ✅ intel_reviewer_en（审核01·英文论文）
+  - ✅ intel_reviewer_cn（审核02·中文论文）
+  - ✅ intel_reviewer_intl（审核03·国际报告）
+  - ✅ intel_01 / intel_02：已注册（intel_03~intel_12待陛下确认后注册）
+
+- K12 AI教育日报自动化（**情报官已接管，Phase 2完成**）
+  - intel_01~intel_12 均已注册（可用runtime="acp"调用）
 ---
 
-## 其他
+## 2026-03-29 关键决策记录
 
-- 【工作原则】事事有回音 | 2026-03-05 | 通知不是等待，完成后通知然后继续推进 | 原文：memory/topics/other.md#事事有回音
-- 【工作原则】100%成功率 | 2026-03-06 | 所有任务必须100%成功，多重备用机制 | 原文：memory/topics/other.md#100%成功率
-- 【工作原则】失败问题解决三步骤 | 2026-03-06 | 协作分析→GitHub学习→学以致用攻克 | 原文：memory/topics/other.md#失败解决
-- 【陛下信息】沟通风格直接务实 | 2026-03-05 | 不喜欢废话和客套 | 原文：memory/topics/other.md#陛下信息
-- 【平台】OpenClaw+飞书接入 | 2026-03-05 | 已配置飞书渠道 | 原文：memory/topics/other.md#平台
-- 【多Agent系统】四层架构 | 2026-03-05 | 陛下→小艾→组长→执行agent | 原文：memory/topics/other.md#多Agent
-- 【Agent】百晓生接管日报 | 持续 | Phase 2完成，05:00-08:00全自动 | 原文：memory/topics/other.md#百晓生
-- 【定时任务】GitHub同步01:00 | 持续 | 每天凌晨1点同步记忆文件 | 原文：memory/topics/other.md#GitHub同步
-- 【教训】2026-03-03四大教训 | 2026-03-03 | cron配置错误/内容丢失/格式精简过度/被动等待 | 原文：memory/topics/other.md#历史教训
-- 【记忆体系】三层索引架构 | 2026-03-26 | daily日志→MEMORY.md索引→topics原文 | 原文：memory/topics/other.md#记忆体系
-- 【团队】IP团队架构确立 | 2026-03-26 | 陛下→小艾→IP主编→创作执行，复用情报官搜索 | 原文：memory/topics/education.md#IP团队架构
-- 【IP洞察】三重碰撞机制 | 2026-03-26 | 研究×信念×笔记碰撞，每日17:30产出3条创意洞察推送陛下 | 原文：memory/topics/education.md#IP洞察
-- 【写作手法】7种创作手法 | 2026-03-26 | 共鸣开场/正反对比/步骤拆解/比喻落地/框架工具/理念升华/数字承诺 | 原文：knowledge/writing_sop.md#7种创作手法
-- 【复盘】首篇复盘文章 | 2026-03-26 | 3步搭建AI融合课堂智能体，阅读5514/转发924/传播系数0.168爆款 | 原文：knowledge/article_tracker.md
-- 【复盘洞察】实用工具手册型文章 | 2026-03-26 | 收藏率8.5%+新增关注率6.1%，核心价值是"读者来拿工具"而非受教育 | 原文：knowledge/article_tracker.md
-- 【官方数据】3步搭建AI智能体完整录入 | 2026-03-26 | 收藏率8.5%+新增关注率6.1%+分享率16.6%，工具手册型文章 | 原文：knowledge/article_tracker.md
-- 【13抽屉系统】信念创作体系完成 | 2026-03-26 | 13个抽屉/21篇研究/碰撞引擎/4Agent打分/原文库/结果库全部就位 | 原文：knowledge/beliefs/ + collision_results.md
-- 【4Agent评分体系】每日创意碰撞 | 2026-03-26 | 新教师×成熟教师×校长×K12专家，4维度并行打分选Top3，每日17:30推送陛下 | 原文：knowledge/collision_results.md
-- 【情报官新任务】抽屉充实-每天12:30 | 2026-03-26 | 13个抽屉各增量检索1-2篇最新研究，持续积累 | 原文：cron ID: 0bef52ae
-- 【Cron修复】announce投递bug | 2026-03-26 | announce投递有bug导致状态failed但任务执行成功，全部改为mode=none解决 | 原文：cron list
-- 【创作逻辑】视角撬动素材 | 2026-03-26 | 陛下确定：创作起点是视角，13条信念是认知框架库，创作=视角+素材碰撞 | 原文：memory/daily/2026-03-26.md
+### 洞察造假事故处理（14:39）
+- 发现：edu_writer生成洞察1时虚构DOI（10.3389/feduc.2024.1476050，Frontiers官网404）
+- 洞察1作废，collision_results_v2.md更新v1.1
+- 修复：edu_writer SOUL.md新增DOI强制验证规则
+- 根因：审核链有空白（intel_reviewer只扫原文库，不管洞察文件）
 
-## 团队架构（2026-03-28 陛下确认）
+### Harness Engineering方法论确立（15:59）
+- 核心精神：把正确行为编码成Agent的工程约束，不依赖自觉或人工检查
+- 关键教训：Agent做不好→补全环境（添加工具/约束/规则），不是重试提示词
+- 存放：/workspace/memory/HARNESS_ENGINEERING.md
 
-### 三个团队
+### 多Agent系统升级方案（16:14）
+- 三层质量门禁：搜索（DOI验证）→审核（intel_reviewer双重审查）→发布（edu_lead二次验证+Panel评分）
+- SOUL.md改造：Core SOUL（≤100行）+ 详细手册（docs/）
+- 方案待陛下审批后执行P0
+- 存放：/workspace/agents/SYSTEM_UPGRADE_PLAN_v2.md
 
-**1. K12教育团队** — 未启用，尚无任何工作
-
-**2. 微信公众号内容创作团队** — 未启用，尚无任何工作
-
-**3. 情报官团队** — 独立基础设施团队，专门为所有团队提供资源搜集
-- 独立运行，持续扫描K12 AI教育情报
-- 产出：素材库（经审核的论文数据）+ 原文库（原始论文PDF）
-- 供所有团队使用
-- 下属Agent：情报扫描Agent、审核Agent等
-
-### IP团队
-- 由情报官团队产出的素材库和原文库驱动
-- 产出：洞察库（/workspace/knowledge/insight_daily_YYYY-MM-DD.md）
-- 核心Agent：edu_lead主编、edu_writer等
-
-### 今日龙虾文章归属
-- 龙虾文章是小艾（臣）直接产出
-- 不是任何团队的工作成果
-
-
-## 团队架构（2026-03-28 陛下确认）
-
-### 三个团队
-
-1. **K12教育团队** — 未启用，尚无任何工作
-
-2. **微信公众号内容创作团队** — 未启用，尚无任何工作
-
-3. **情报官团队** — 独立基础设施团队，专门为所有团队提供资源搜集
-   - 不属于IP团队，也不属于微信公众号团队
-   - 独立运行，持续扫描K12 AI教育情报
-   - 产出：日报素材库、洞察库，供所有团队使用
-   - 下属Agent：情报扫描Agent、审核Agent等
-
-### 今日龙虾文章归属
-- 龙虾文章是小艾（臣）直接产出
-- 不是任何团队的工作成果
-- 情报官提供了研究数据支撑（论文素材）
-
+### 信念抽屉方法论（最新）
+- 洞察生产必须锚定信念抽屉
+- Hook句要求：≤20字，含数字或反常识
+- 读者带走：给老师/家长/判断标准各≥50字
+- 洞察2达到9.22分，已推送飞书

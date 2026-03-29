@@ -8,9 +8,10 @@
 - 第二层：情报官 + 搜索子Agent + 审核子Agent + IP主编（全部平行运作）
 - 小艾负责预先创建所有子Agent，每日启动，日常协调，实时向陛下汇报
 
-**子Agent不创建子Agent：**
-所有子Agent由小艾预先创建（spawn），由小艾统一协调调度。
-情报官负责流程协调，但不创建子Agent。
+**子Agent由小艾统一调用：**
+所有子Agent（intel_01~intel_12等）均为已注册的持久Agent。
+小艾通过 sessions_spawn(runtime="acp", agentId="xxx") 调用，禁止临时Spawn。
+情报官负责流程协调，但不自行创建子Agent。
 
 ---
 
@@ -56,22 +57,22 @@
 - ❌ 情感计算/心理学研究（无K12教育维度）
 - ❌ 计算机科学AI研究（非教育应用）
 
-## 子Agent预创建（由小艾在cron中管理）
+## 子Agent调用规则（由小艾统一管理）
 
-**小艾管理以下子Agent（预先创建好）：**
+**小艾通过 sessions_spawn(runtime="acp", agentId="xxx") 调用以下持久Agent：**
 
-### 12个搜索子Agent
-- spawn时label固定：情报01、情报02 ... 情报12
+### 12个搜索子Agent（intel_01~intel_12）
+- agentId固定：intel_01、intel_02 ... intel_12
 - 每个Agent对应固定来源，不交叉
-- 每次cron触发时，小艾用新的spawn启动这些Agent
+- 每次cron触发时，小艾并发调用这12个Agent
 
-### 3个审核子Agent
-- spawn时label固定：审核01、审核02、审核03
+### 3个审核子Agent（intel_01~intel_03兼任）
+- 复用intel_01~intel_03，通过不同task指令区分审核职责
 - 实时扫描原文库，发现问题立即打回
 
-### 1个IP主编子Agent
-- spawn时label固定：edu_lead_archive
-- 素材库有新内容时立即触发归档
+### 1个IP主编Agent（edu_lead）
+- agentId固定：edu_lead
+- 素材库有新内容时触发归档
 
 ## 打回机制
 

@@ -1,10 +1,11 @@
 # Source URL: https://www.worldbank.org/en/topic/edutech
-# Content Length: 10700 characters
-# Extracted at: 2026-03-08 18:24:26
+# Content Length: 12491 characters
+# Extracted at: 2026-03-29 09:56:09
 #============================================================
 
 
 Digital Technologies in Education | World Bank Group
+
 
 
 
@@ -320,7 +321,9 @@ lp-heading-bottom-large
 
 
 <https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:a0f9d893-652a-4965-bafc-2287fa389b3c/as/People-centered%20AI%20in%20education.avif>
-blog
+
+* blog
+
 People-centered AI in education: Five lessons from the Global South
 
 
@@ -337,7 +340,9 @@ true
 
 
 <https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:e18e8dd0-ab9c-4b92-8705-7103157e3279/as/Ensuring%20Learning%20Continuity%20During%20Crises.avif>
-results
+
+* results
+
 Ensuring Learning Continuity During Crises: Applying Lessons from the COVID-19 Pandemic to Shape Resilience and Adaptability
 
 
@@ -354,7 +359,10 @@ true
 
 
 <https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:9d819238-4d30-4701-a1c4-36737103e2e0/as/Women%20and%20youth.avif>
-press release,project
+
+* press release
+* project
+
 Women and Youth at the Center of the World Bank’s Priorities in Burundi
 
 
@@ -511,7 +519,8 @@ false
 
 
 
-blog
+* blog
+
 Who is Raising Our Children? Screens, Baby Shark, and the Impact on Early Childhood
 <https://blogs.worldbank.org/en/latinamerica/impact-screen-time-in-early-childhood>
 <https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:21f5123f-4685-41a5-8e5a-ae73255c4103/as/wbg-Impact-Early-Childhood-799x533.avif>
@@ -524,7 +533,8 @@ true
 
 
 
-blog
+* blog
+
 Empowering adult learners: Navigating digital skills in the AI era
 <https://blogs.worldbank.org/en/education/empowering-adult-learners--navigating-digital-skills-in-the-ai-e>
 <https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:5b0bbe64-e358-4bcd-90c5-bc9a8c5bfb02/as/Navigating%20digital%20skills%20in%20the%20AI%20era.avif>
@@ -537,7 +547,8 @@ true
 
 
 
-blog
+* blog
+
 The future is Africa: Shaping AI-enabled EdTech for skilling the next generation
 <https://blogs.worldbank.org/en/education/the-future-is-africa--shaping-ai-enabled-edtech-for-skilling-the>
 <https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:9d8e9c86-9bff-4750-866c-3c4f2ec46156/as/_799x533-DigitalSummit.avif>
@@ -555,10 +566,76 @@ sec-spacing
 section-none
 
 sec-spacing-bottom
-section-none
+section-padding-between
 
 style
 default, two-col-variation-50-50, data-card-noborder
+
+
+
+ACROSS REGIONS:
+
+h2
+
+DIGITAL TECHNOLOGIES IN EDUCATION
+
+false
+
+
+
+
+
+
+
+
+
+
+
+Assessing digital skills among teachers and students in Sub-Saharan Africa [PDF]
+<https://documents1.worldbank.org/curated/en/099147201142615447/pdf/IDU-5e8e0ff5-0e30-4944-8838-db4a6292706b.pdf>
+<https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:93f0dfca-af1c-4a90-8076-124b9926d594/as/2025-digital-transformation-799x533.avif>
+Default alt
+
+
+
+
+true
+
+
+
+Digital Education in Latin America and the Caribbean
+<https://www.worldbank.org/en/programs/educacion-america-latina-caribe>
+<https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:2ef817b5-ff84-4f08-8fb9-c406a236997c/as/EmprendimientoTransfromadorenAm%C3%A9ricaLatinayelCaribe.avif>
+Default alt
+
+
+
+
+true
+
+
+
+The Effects of Digital Literacy on Wages in Europe and Central Asia
+<https://openknowledge.worldbank.org/entities/publication/4275d3ef-2dda-429b-a400-aa1851132515>
+<https://delivery-p136806-e1377785.adobeaemcloud.com/adobe/assets/urn:aaid:aem:84baef3e-bedf-4eda-8cc3-6ffc0dca330b/as/eca-jobs-prosperity-900x659.avif>
+Default alt
+
+
+
+
+true
+
+
+
+
+sec-spacing
+section-xxlarge
+
+sec-spacing-bottom
+section-padding-between
+
+style
+default, data-card-noborder, image-right
 
 
 
@@ -584,9 +661,9 @@ heading-bottom-xxlarge
 * [EdTechhub](https://edtechhub.org/)
 * [Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)
 * [Global EdTech Readiness Index (ETRI)](https://www.worldbank.org/en/topic/education/brief/edtech-readiness-index)
-* [Mastercard Foundation](https://mastercardfdn.org/en/)
+* [Mastercard Foundation](https://mastercardfdn.org/en/) | [WBG partnership](https://www.worldbank.org/en/programs/tes/partners)
 * [m-Education Alliance](https://meducationalliance.org/)
-* [Strategic Impact Evaluation Fund](https://www.worldbank.org/en/programs/sief-trust-fund)
+* [Strategic Impact Evaluation Fund (SIEF)](https://www.worldbank.org/en/programs/sief-trust-fund)
 
 
 
@@ -613,12 +690,16 @@ Education and skills training are the bridge between human potential and economi
 
 EXPLORE EDUCATION & SKILLS FOCUS AREAS
 
-* [Early Childhood Development](https://www.worldbank.org/ext/en/topic/education/early-childhood)
-* [Digital Technologies in Education](https://www.worldbank.org/ext/en/topic/education/digital-technologies)
-* [Girls' Education](https://www.worldbank.org/ext/en/topic/education/girls-education)
-* [Skills and Workforce Development](https://www.worldbank.org/ext/en/topic/education/skills)
-* [Teachers](https://www.worldbank.org/ext/en/topic/education/teachers)
-* [Tertiary Education](https://www.worldbank.org/ext/en/topic/education/tertiary)
+* [Digital Technologies in Education](https://www.worldbank.org/en/topic/edutech)
+* [Early Childhood Development](https://www.worldbank.org/ext/en/topic/education/early-childhood-development)
+* [Education Finance](https://www.worldbank.org/en/topic/education/brief/education-finance-using-money-effectively-is-critical-to-improving-education)
+* [Foundational Learning](https://www.worldbank.org/en/topic/education/brief/foundational-learning)
+* [Fragility, Conflict & Violence](https://www.worldbank.org/en/topic/education/brief/education-in-fragile-conflict-violence-contexts)
+* [Girls’ Education](https://www.worldbank.org/en/topic/girlseducation)
+* [Inclusive Education](https://www.worldbank.org/en/topic/education/brief/inclusive-education)
+* [Skills & Workforce Development](https://www.worldbank.org/en/topic/skillsdevelopment)
+* [Teachers](https://www.worldbank.org/en/topic/teachers)
+* [Tertiary Education](https://www.worldbank.org/en/topic/tertiaryeducation)
 
 
 
