@@ -1,0 +1,182 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2026.105616
+# Content Length: 23603 characters
+# Extracted at: 2026-03-29 23:32:02
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000540?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000540?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000540)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131526000540/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000540?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000540?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000540?via%3Dihub#preview-section-snippets)
+- [References (59)](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000540?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 249](https://www.sciencedirect.com/journal/computers-and-education/vol/249/suppl/C "Go to table of contents for this volume/issue"), August 2026, 105616
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20024-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/249/suppl/C)
+# Trusting AI to detect AI? A systematic evaluation of the reliability and robustness of current AIGC detection tools for student academic work
+Author links open overlay panelYichengSuna, YihanLiaoa, XiaoxueMab
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2026.105616](https://doi.org/10.1016/j.compedu.2026.105616 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131526000540&orderBeanReset=true)
+## Highlights
+- •
+Constructed three datasets from authentic student assignments, theses, and code.
+- •
+Evaluation of 13 detectors reveals systematic failures across academic tasks and disciplines.
+- •
+Detector performance remains inadequate for high-stakes assessment.
+- •
+Hybrid adversarial edits enable 88% of AI-generated content to evade detection.
+- •
+Findings call for a shift from tool reliance to process-oriented assessment.
+## Abstract
+The explosive proliferation of Generative Artificial Intelligence (GenAI) has posed an unprecedented existential challenge to traditional evaluation systems in higher education. In response to this wave, the higher education sector is undergoing a profound transformation, shifting from a focus on technological containment toward an assessment governance paradigm. Understanding the characteristics of detectors is the foundational prerequisite for utilizing such tools to optimize educational assessment; however, their effectiveness within authentic educational contexts remains insufficiently explored. To address this research gap, the study constructs three large-scale ecological datasets—StuTask, StuThesis, and DataCode—comprising over 280,000 authentic samples of student coursework, academic theses, and engineering code. A systematic evaluation was conducted on 13 mainstream detectors, covering both commercial and open-source models, across multiple dimensions including overall performance, task complexity, disciplinary variations, and adversarial robustness. The results indicate that while detectors achieve acceptable performance on long-form theses, they exhibit systematic failures in engineering code and short-form coursework tasks. Due to the formulaic nature of technical writing, STEM disciplines are subject to significant algorithmic bias. Furthermore, robustness tests reveal the extreme vulnerability of current detection tools, as a hybrid editing strategy can enable up to 88% of AI-generated content to evade detection successfully. These findings suggest that existing detection technologies are inadequate to support high-stakes educational assessments. In the future educational trajectory of ‘embracing AI,’ AIGC detectors should function as reference metrics within the assessment system, serving to quantify the depth of human–AI collaboration across distinct disciplinary logical frameworks. Detection technology must evolve toward the optimization of ‘logical innovation recognition,’ thereby establishing a robust academic integrity defense line that is truly resilient within the future ecosystem of human–AI symbiosis.
+## Introduction
+The rapid advancement of Large Language Models (LLMs) represented by ChatGPT and Gemini has profoundly reshaped the ways in which students engage in academic writing and polishing, fundamentally transforming the teaching and assessment paradigms of higher education (Kasneci et al., 2023, Perkins, Roe, Vu et al., 2024). Leveraging its robust natural language processing (NLP) and generation capabilities, Artificial Intelligence Generated Content (AIGC) technology can not only assist students in brainstorming and language polishing but also generate academically sound texts—characterized by grammatical accuracy, logical coherence, and semantic richness—in a matter of seconds (Alfredo et al., 2024, Baidoo-Anu and Ansah, 2023). For educators and students in higher education, this constitutes not only an unprecedented opportunity to enhance learning efficiency but also a profound challenge to the traditional academic assessment system.
+However, this technological convenience has also aroused profound concerns about an “academic integrity crisis” within the global education community (Fleckenstein et al., 2024, Yan et al., 2024). As students increasingly rely on AI-generated content for coursework, theses, and even programming assignments, how to define authorship and uphold the fairness of assessments has become a pressing issue that demands immediate attention (Cotton et al., 2024, Sun et al., 2026). If it remains impossible to effectively distinguish between work independently completed by students and AI-generated content, this will not only devalue academic degrees but also potentially lead to the systematic failure of educational institutions in grading and feedback provision (White, 2023).
+Initially, this technological convenience has also aroused profound concerns about an “academic integrity crisis” within the global education community (Fleckenstein et al., 2024, Yan et al., 2024). In response, the academic and industrial sectors have rapidly rolled out a suite of AIGC detectors (Cui and Zhang, 2025, Pan et al., 2024), seeking to regain the initiative in this “cat-and-mouse game”. These tools—including commercial solutions like GPTZero and Originality.ai, as well as open-source models developed by the academic community, such as Fast-Detect GPT—claim to accurately identify traces of AI generation by analyzing statistical features of texts, such as perplexity and burstiness (Tian et al., 2023). Many higher education institutions have also begun integrating these tools into their daily assignment grading workflows, pinning their hopes on technological means to curb academic misconduct.
+However, as higher education shifts from “vigilance” toward “collaboration and embrace” regarding AI tools, the traditional practice of judging and utilizing detectors solely based on effectiveness has gradually failed to adapt to the developmental requirements of the era of human–AI symbiosis. Under the pedagogical vision of “embracing AI”, detectors should not merely serve as “police” maintaining integrity. Still, they should instead become a kind of diagnostic indicator for evaluating the degree of AI penetration, understanding technological boundaries, and ensuring assessment fairness (Gulumbe et al., 2025). This shift necessitates a transition from traditional document-level binary classification toward more granular identification tasks, such as automatic boundary detection, which aims to pinpoint the precise transition points between human and AI contributions in student writing (Zeng, Sha et al., 2024). Under such mandates, is our current conceptualization of detectors robust enough to justify their deployment as reference indicators for higher education assessment?
+Firstly, the inauthenticity of evaluation data: many existing assessment studies rely on Wikipedia entries, news articles, or Reddit forum posts as “human-written” samples (Sadasivan et al., 2023). However, student academic writing possesses distinct stylistic features, reasoning logics, and disciplinary norms, and texts from general domains cannot accurately reflect students’ authentic linguistic habits in coursework and theses. Such data bias may lead to a significant performance degradation of detectors when confronted with real student assignments, rendering their utility as reference indicators for assessment highly questionable.
+Secondly, current evaluations primarily focus on pure text writing in the humanities and social sciences (HSS), with few studies examining code generation and technical problem-solving in science, technology, engineering, and mathematics (STEM) fields (Liu et al., 2023). With the widespread adoption of AI-assisted programming in computer science and engineering disciplines, evaluating the performance of detectors in code-related scenarios has become an urgent priority (Chang et al., 2024). Since linguistic styles and structural patterns vary drastically across different disciplines (e.g., literature and engineering), a nuanced understanding of detector performance on highly structured texts constitutes a fundamental prerequisite for constructing a fair and interdisciplinary AI evaluation framework.
+Finally, in the current learning and working environment that advocates for ‘human–AI collaboration’, students’ creative paradigms increasingly involve manual intervention at both ‘ends’ of the creative process. Specifically, based on self-conceived frameworks, students engage in the active editing of raw LLM outputs—performing human–AI collaborative polishing through synonym replacement and sentence restructuring—to more effectively articulate their personal viewpoints. Such collaborative paradigms create complex “hybrid texts” where human intervention often obscures machine fingerprints, making the identification of individual AI-generated sentences significantly more challenging than detecting monolithic, unedited AI outputs (Zeng, Liu et al., 2024). Recent studies have shown that current detectors may exhibit biases against non-native English speakers and are highly vulnerable to being deceived by simple paraphrasing techniques (Liang et al., 2023, Weber-Wulff et al., 2023). Meanwhile, detection tools often misclassify complex human-written content as AI-generated, and such false positives may lead to serious ethical and disciplinary issues, undermining students’ trust in assessments and compromising fairness (Chen et al., 2025, Cui and Zhang, 2025). To date, no studies have systematically compared the performance of various detectors or established standardized evaluation criteria, leading to polarized extremes in detector-assisted educational assessment.
+To address the aforementioned research gaps, this study constructs three representative datasets— \_StuTask\_, \_StuThesis\_, and \_DataCode\_—derived from authentic historical student assignment archives collected at a comprehensive university between 2016 and 2021, a period preceding the widespread adoption of generative AI tools. Using a controlled parallel corpus construction strategy, each dataset consists of paired human-written assignments and their corresponding AI-generated counterparts, resulting in a total of over 280,000 data instances. Based on these datasets, we evaluate 13 representative AIGC detectors, including 7 open-source models and 6 widely deployed commercial tools, to systematically examine detection performance across task types and disciplines. Through this design, the study aims to provide a comprehensive assessment of the effectiveness, limitations, and robustness of current AIGC detectors in authentic academic settings. In summary, this study addresses the following four research questions through large-scale empirical analysis:
+- •
+\*\*RQ1:\*\* How effective are existing detectors in detecting LLM-generated content in student academic writing?
+- •
+\*\*RQ2:\*\* What factors of the generated content affect the detection performance?
+- •
+\*\*RQ3:\*\* How do different disciplines influence the detectability of generated content?
+- •
+\*\*RQ4:\*\* How robust are these detectors when the LLM-generated data is slightly modified?
+Although this study evaluates the performance of multiple AIGC detection tools across a wide range of tasks, disciplines, and realistic usage scenarios, its primary purpose is not to benchmark detectors in a purely technical sense. Rather, against the backdrop of the necessity to cultivate new-era talents capable of human–AI collaboration, the reform of higher education assessment inevitably necessitates a shift toward the critical use of detector-assisted evaluation. This work aims to critically examine whether current detection tools are sufficiently reliable, robust, and fair to justify their deployment in high-stakes educational assessment and institutional decision-making. By situating detector performance within authentic student activities—including coursework, theses, and engineering code—and by explicitly modeling disciplinary variation and realistic adversarial behaviors, our evaluation moves beyond accuracy comparisons to deeply interrogate the practical trustworthiness of detection-based paradigms. Consequently, this study reframes AIGC detection from a problem of technical feasibility to one of educational appropriateness, offering empirical evidence to reveal the adaptability of AI detection across diverse disciplines and tasks and the extent to which it poses potential threats to assessment fairness, thereby providing a reference for the application of AI detection in educational evaluation.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000540)
+## Section snippets
+## The impact of artificial intelligence on higher education assessment
+Against the backdrop of the deep integration of Generative Artificial Intelligence (GenAI) into higher education, assessment paradigms are undergoing a transformation in tandem with the realization that ‘society requires talents capable of leveraging AI to enhance their work’. Higher education assessment is shifting from the ‘compliance-driven prevention’ characteristic of the period of high resistance to AI toward a reflection on assessment priorities and methodologies. This transformation
+## Methodology
+To systematically evaluate the effectiveness of AIGC detection tools in real higher education scenarios, this study designed a multi-stage empirical evaluation framework (as shown in Fig. 1). This framework covers the entire process, ranging from the collection of authentic educational data, generation of parallel corpora, large-scale automated detection to multi-dimensional performance analysis.
+At the outset, we constructed three datasets—StuTask, StuThesis, and DataCode—representing three
+## Effectiveness of existing detectors (RQ1)
+To address the research question “How effective are existing detection tools in identifying LLM-generated content”, we conducted comprehensive tests on 13 mainstream detectors using the three constructed datasets (StuTask, StuThesis, and DataCode). The tested tools include 7 open-source models and 6 commercial closed-source tools. Table 2 presents the performance of each detector in terms of Area Under the Curve (AUC), False Positive Rate (FPR), and False Negative Rate (FNR) across different
+## Summary of key findings
+This study conducts a large-scale empirical evaluation of the effectiveness, fairness, and robustness of 13 mainstream AIGC detection tools in real-world educational settings. Experimental results based on three datasets (StuTask, StuThesis, and DataCode) indicate that while some tools demonstrate a certain level of identification capability in specific genres (e.g., long academic papers), overall, the existing detection ecosystem faces failure when confronted with complex, real student
+## Conclusion
+This study demonstrates that current AIGC detection tools are not yet sufficiently robust or reliable for high-stakes academic decision-making. The tide of generative AI is irreversible—it is both a disruptor and an innovator. Through conclusive empirical data, this study demonstrates that current AIGC detection tools, while achieving a certain degree of accuracy in judgments, fail to provide substantive guarantees and may even introduce new injustices due to misclassifications. The future of
+## CRediT authorship contribution statement
+\*\*Yicheng Sun:\*\* Writing – original draft, Resources, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Yihan Liao:\*\* Visualization, Validation, Methodology, Investigation. \*\*Xiaoxue Ma:\*\* Writing – review & editing, Supervision, Project administration, Investigation, Data curation.
+## Funding
+This research is funded by the Hong Kong Metropolitan University R&D Fund (Grant No. RD/2025/1.24). All authors gratefully acknowledge the financial and academic support provided by this institution.
+## Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+## Acknowledgments
+The authors would like to express their sincere gratitude to the editor and the anonymous reviewers for their time, effort, and valuable feedback on this manuscript. Their constructive comments and insightful suggestions have greatly improved the clarity, rigor, and overall quality of the paper. The authors also wish to thank all participants and contributors who generously devoted their time and effort to this study. Their support and involvement were essential to the completion of this
+Recommended articles
+- R. Alfredo \_et al.\_
+### [Human-centred learning analytics and AI in education: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S2666920X2400016X)
+### Computers and Education: Artificial Intelligence
+(2024)
+- D. Dalalah \_et al.\_
+### [The false positives and false negatives of generative AI detection tools in education and academic research: The case of ChatGPT](https://www.sciencedirect.com/science/article/pii/S1472811723000605)
+### The International Journal of Management Education
+(2023)
+- J. Fleckenstein \_et al.\_
+### [Do teachers spot AI? Evaluating the detectability of AI-generated texts among student essays](https://www.sciencedirect.com/science/article/pii/S2666920X24000109)
+### Computers and Education: Artificial Intelligence
+(2024)
+- E. Kasneci \_et al.\_
+### [ChatGPT for good? On opportunities and challenges of large language models for education](https://www.sciencedirect.com/science/article/pii/S1041608023000195)
+### Learning and Individual Differences
+(2023)
+- Y. Sun \_et al.\_
+### [Exploring AI-driven learning assistance in Chinese higher education: A multidisciplinary and regional analysis of professional courseworkt](https://www.sciencedirect.com/science/article/pii/S1096751626000023)
+### The Internet and Higher Education
+(2026)
+- Z. Swiecki \_et al.\_
+### [Assessment in the age of artificial intelligence](https://www.sciencedirect.com/science/article/pii/S2666920X22000303)
+### Computers and Education: Artificial Intelligence
+(2022)
+- D. Baidoo-Anu \_et al.\_
+### Education in the era of generative artificial intelligence (AI): Understanding the potential benefits of ChatGPT in promoting teaching and learning
+### Journal of AI
+(2023)
+- G. Bao \_et al.\_
+### Fast-detectgpt: Efficient zero-shot detection of machine-generated text via conditional probability curvature
+(2023)
+- M. Bearman \_et al.\_
+### Discourses of artificial intelligence in higher education: A critical literature review
+### Higher Education
+(2023)
+- M. Bearman \_et al.\_
+### Developing evaluative judgement for a time of generative artificial intelligence
+### Assessment & Evaluation in Higher Education
+(2024)
+A. Campbell
+### Cognitive complexity: A new way of measuring understandability
+(2016)
+Chang, C.-I., Choi, W.-C., Choi, I.-C., & Lei, H. (2024). A Systematic Literature Review of the Practical Applications...
+Y. Chen \_et al.\_
+### The dual impact of AIGC technology on college students’ learning efficiency and motivation: An interview-based study
+### International Journal of New Developments in Education
+(2025)
+D.R. Cotton \_et al.\_
+### Chatting and cheating: Ensuring academic integrity in the era of ChatGPT
+### Innovations in Education and Teaching International
+(2024)
+C.L. Coz \_et al.\_
+### A barycenter-based approach for the multi-model ensembling of subseasonal forecasts
+(2023)
+Crossplag
+### The most advanced affordable similarity checking tool
+(2023)
+Y. Cui \_et al.\_
+### Can student accurately identify artificial intelligence generated content? An exploration of AIGC credibility from user perspective in education
+### Education and Information Technologies
+(2025)
+P. Dawson
+### Cognitive offloading and assessment
+A.M. Elkhatat
+### Evaluating the authenticity of ChatGPT responses: A study on text-matching capabilities
+### International Journal for Educational Integrity
+(2023)
+J.E.J. Gotoman \_et al.\_
+### Accuracy and reliability of AI-generated text detection tools: A literature review
+### American Journal of IR 4.0 and beyond
+(2025)
+GPTZero
+### GPTZero: Experiments on July-19 version
+(2023)
+B.H. Gulumbe \_et al.\_
+### Balancing AI and academic integrity: What are the positions of academic publishers and universities?
+### AI & SOCIETY
+(2025)
+B. Guo \_et al.\_
+### How close is chatgpt to human experts? Comparison corpus, evaluation, and detection
+(2023)
+X. Hu \_et al.\_
+### Radar: Robust ai-text detection via adversarial learning
+### Advances in Neural Information Processing Systems
+(2023)
+ICAI
+### The fundamental values of academic integrity
+(2021)
+JianWang, Liu, S., Xie, X., & Li, Y. (2024). An empirical study to evaluate AIGC detectors on code content. In...
+A.K. Kofinas \_et al.\_
+### The impact of generative AI on academic integrity of authentic assessments within a higher education context
+### British Journal of Educational Technology
+(2025)
+K. Krishna \_et al.\_
+### Paraphrasing evades detectors of ai-generated text, but retrieval is an effective defense
+### Advances in Neural Information Processing Systems
+(2023)
+J. Lave \_et al.\_
+### Situated learning: Legitimate peripheral participation
+(1991)
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131526000540)
+© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

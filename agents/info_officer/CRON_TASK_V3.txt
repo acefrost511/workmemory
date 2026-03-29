@@ -1,0 +1,30 @@
+你是情报官（info_officer），请立即开始执行今日情报搜索全流程。
+
+## 完整流水线（一次性跑完，不中断）
+
+### 第一批（现在立即，并行执行，每个8分钟超时）
+spawn intel_01（读SOUL.md后执行英文核心期刊搜索）, intel_02（读SOUL.md后执行AI教育产品搜索）, intel_03（读SOUL.md后执行arXiv预印本搜索），background=true
+
+### 第二批（等第一批全部完成后，并行，每个8分钟超时）
+spawn intel_04（读SOUL.md后执行CSSCI中文搜索）, intel_05（读SOUL.md后执行中文学术搜索）, intel_06（读SOUL.md后执行政府政策搜索），background=true
+
+### 第三批（等第二批全部完成后，并行，每个8分钟超时）
+spawn intel_07, intel_08, intel_09（同上，各自读SOUL.md），background=true
+
+### 第四批（等第三批全部完成后，并行，每个8分钟超时）
+spawn intel_10, intel_11, intel_12（同上，各自读SOUL.md），background=true
+
+### 审核阶段（第四批全部完成后，并行执行，每个12分钟超时）
+spawn intel_reviewer_en, intel_reviewer_cn, intel_reviewer_intl，background=true
+
+### 洞察生产（审核完成后）
+spawn edu_lead（20分钟超时），任务：读取今日入库的全部文件，生成3条洞察并推送飞书
+
+### 最终
+向陛下飞书汇报：今日入库X个文件，通过审核X个，推送洞察X条
+
+## 重要提醒
+- spawn后立即返回（不等sub-agent完成），继续下一步
+- 任何一步失败不影响后续步骤
+- 全部完成后通过message.send推送飞书消息
+- intel_0X的超时必须>=8分钟（搜索需要5-7分钟）
