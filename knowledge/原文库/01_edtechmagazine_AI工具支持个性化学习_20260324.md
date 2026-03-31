@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: a031bedc7f9ac7888eb22f3a9573c96c
+    PropagateID: a031bedc7f9ac7888eb22f3a9573c96c
+    ReservedCode1: 3045022100a7d7b5bebade51e8f5ed623e5cee7f2853d3cf5ee06bb530840137de8d89ca990220097d65396e2c832e09e6e48986086baac3806a69c0c4d749ee67d5fd1b77f6df
+    ReservedCode2: 30450220445324ee9e8f1d2a04a3824eeda0b682ded581b23625fdfe1c90eed1e627f5bd02210091a060686845c1dffcd24edd4348330dcfc11588602e47f2ba45bc21401ed50e
+---
+
 # 【原文库】K-12 AI教育动态 2026年3月
 
 **来源域名：** edtechmagazine.com  
