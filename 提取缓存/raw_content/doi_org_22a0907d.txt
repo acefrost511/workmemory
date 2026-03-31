@@ -1,0 +1,283 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105306
+# Content Length: 28769 characters
+# Extracted at: 2026-03-31 05:09:59
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000740?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000740?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525000740)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525000740/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000740?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000740?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000740?via%3Dihub#preview-section-snippets)
+- [References (103)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000740?via%3Dihub#preview-section-references)
+- [Cited by (16)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000740?via%3Dihub#preview-section-cited-by)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 232](https://www.sciencedirect.com/journal/computers-and-education/vol/232/suppl/C "Go to table of contents for this volume/issue"), July 2025, 105306
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X0004X-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/232/suppl/C)
+# Development and implementation of a generative artificial intelligence-enhanced simulation to enhance problem-solving skills for pre-service teachers
+Author links open overlay panelJieunLima, UnggiLeeb, JunboKohc, YeilJeongd, YunseoLeee, GyuriByunc, HaewonJungf, YoonsunJanga, SanghyeokLeeg, JewoongMoonh
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105306](https://doi.org/10.1016/j.compedu.2025.105306 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525000740&orderBeanReset=true)
+## Highlights
+- •
+This study employed design-based research (DBR) to develop a GenAI-enhanced simulation for [preservice teachers](https://www.sciencedirect.com/topics/social-sciences/pre-service-teacher).
+- •
+The simulation integrated problem-based learning (PBL) principles with GenAI on Roblox and was refined through multiple iterations.
+- •
+Significant improvements in problem-solving skills were found for both the GenAI-enhanced and rule-based simulations compared to the text-based scenario.
+- •
+Students reported positive perceptions of realism and immersion in the GenAI-enhanced simulation.
+- •
+The DBR process identified key design principles for effective GenAI-enhanced simulations.
+## Abstract
+Effective teachers should be equipped to solve complex problems across diverse instructional and learning contexts. However, many [teacher training](https://www.sciencedirect.com/topics/computer-science/teacher-training) programs struggle to bridge the gap between theoretical knowledge to real-world applications. The current study tackles this challenge by developing a generative artificial intelligence \*\*(\*\* GenAI)-enhanced simulation to improve preservice teachers’ problem-solving abilities. Using design-based research (DBR), we created a virtual environment that integrates problem-based learning (PBL) with GenAI technology. The simulation was rigorously refined through expert review and usability testing before being implemented in a teacher training program. We evaluated its effectiveness by comparing three groups: (1) a text-based scenario, (2) a rule-based simulation, and (3) a GenAI-enhanced simulation. Pre- and post-test results showed significant improvements in problem-solving skills for both the rule-based and GenAI-enhanced simulation groups compared to the text-based scenario group. Notably, qualitative findings revealed that students reported heightened realism and immersion in the GenAI-enhanced simulation, attributing this to more dynamic interactions with [AI](https://www.sciencedirect.com/topics/computer-science/artificial-intelligence) agents that helped them better contextualize PBL and increased their motivation. Our study findings contribute design principles for developing GenAI-enhanced simulations in teacher education, offering promising insights into leveraging AI technology to create more engaging and effective training experiences.
+## Introduction
+Teachers often encounter intricate and unexpected problems during their teaching endeavors. They need to be decision makers and problem solvers in various instructional and learning situations. However, previous research has suggested that teacher training programs have constraints in bridging theory and practice (Hennissen et al., 2017; Hursen, 2021; Zeichner, 2012). Consequently, novice teachers face challenges in applying theoretical knowledge acquired in their teacher training programs to address complex real-world instructional problems they encounter in their classrooms.
+To address this theory-practice gap, researchers have stressed the importance of authentic learning (Darling-Hammond and Snyder, 2000; Herrington & Oliver, 2000) to improve preservice teachers’ abilities to transfer instructional knowledge and skills to real situations (Dawson & Lignugaris-Kraft, 2017). While teacher training programs provide practicum opportunities for preservice teachers to be exposed to complex and multi-dimensional problems in real teaching and prepare them for unforeseen issues that may exist in the real world (Ballantyne et al., 2020), they may not always have ample opportunities for practical teaching experience before they teach their future students (Cheong, 2010; Dalgarno et al., 2016; Ward et al., 2018).
+Virtual reality (VR) simulation can serve as a safe and effective alternative for preservice teachers to experience authentic problem situations and practice their teaching skills without the potential risk of negatively impacting students due to their inexperience (Dalinger et al., 2020; Delamarre et al., 2021). Many studies have demonstrated the efficacy of VR simulations in teacher training, highlighting their effects on enhancing motivation, interaction, actual practice, and embodiment of abstract concepts in concrete experiences through their advantages in visualization fluidity, interactivity, and immersion (Lamb et al., 2018; Lamb & Etopio, 2020; Psotka, 2013). For instance, Lamb and Etopio (2020) indicated that there are no significant differences in preservice teachers’ physiological (e.g., pulse, respiration, eye tracking, and galvanic skin response) and affective responses between VR simulation and face-to-face environments for preservice teacher education.
+VR simulations can effectively immerse preservice teachers in a contextualized learning environment, enabling them to apply their teaching knowledge to solve authentic problems (Ke et al., 2021). However, some researchers have identified limitations in VR simulations, such as low realism and limited interaction with non-player characters (Correia et al., 2016; Lovreglio et al., 2022) as well as difficulties in accurately reflecting the complexity and unpredictability inherent in real-world problems (Schwarze et al., 2019; Wang, 2012), which could potentially undermine the learning outcomes of VR simulations.
+Recently, incorporating generative AI (GenAI) into virtual simulations has been attracting attention for its potential to offer students more realistic and dynamic learning experiences, with its capability to yield human-like responses and adapt to user inputs (Jeong, Lee, Byun, & Moon, 2024). In particular, some researchers have highlighted the capability of GenAI to empower virtual agents to replicate intricate and dynamic human cognition and interaction. This advancement could lead to more genuine and engaging problem-solving scenarios for learners. However, empirical studies on the application of GenAI in virtual simulations are still nascent as GenAI debuted in 2022. This lack of empirical research presents a significant gap in our understanding of how to effectively design and integrate GenAI into educational simulations. Therefore, this research aims to explore the effective design and development of GenAI-enhanced virtual simulations to improve the problem-solving abilities of preservice teachers employing a design-based research (DBR) methodology. While some studies have suggested the potential of GenAI to enhance simulation immersion and authenticity (Park et al., 2023, pp. 1–22; Qian et al., 2023; Wang et al., 2023; Xu et al., 2023), its application in teacher education remains underexplored. To our knowledge, this is the first study to integrate GenAI into teacher training simulations using a DBR approach. Although Lee (2023) introduced a GenAI-enhanced simulation, the study was limited to prototype development and small-scale usability testing. Compared to previous studies, our research seeks to contribute to the literature on educational simulation by extracting key design principles that guide the systematic development of GenAI-based simulations through an iterative design-execution-revision process, rather than focusing solely on one-time usability testing or demonstrating effectiveness.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525000740)
+## Section snippets
+## Virtual simulations in teacher education
+Virtual simulations have emerged as a significant tool in teacher training. These simulations can be categorized into two primary types: (1) mixed reality (MR) simulation, which combines virtual and physical elements to create a learning experience, and (2) virtual reality (VR) simulation, where students engage in an immersive experience entirely within a virtual environment (Dalinger et al., 2020). VR simulations even further fall into two distinct styles, multi-user virtual environments
+## Research design
+The DBR method was selected for this study not only to identify the significant effects of our developed simulation but also to obtain empirical insights that can guide more effective design and integration of GenAI-enhanced simulations for the context of preservice teacher training. Reeves (2006) suggested four steps of DBR as follows. (1) analysis of practical problems, (2) development of solutions with existing design principles and technological innovations, (3) iterative cycles of testing
+## Phase 1: analysis of practical problems and existing design principles
+Recent literature reviews (Korthagen, 2010; Ünver, 2014) and course evaluation results emphasize the urgent need for teacher training programs to better align with real-world teaching contexts. In the initial phase of DBR, we analyzed the previous year's course evaluation outcomes, which revealed that preservice teachers desired more actionable content, increased hands-on experiences, and stronger support in applying theoretical knowledge to practical teaching situations (Miller, 2008; Waghorn
+## Strategically leveraging GenAI as a means to improve effectiveness and attractiveness of simulation
+In this study, we found statistically significant improvements in problem-solving skills for both the rule-based and GenAI-enhanced groups compared to the text-based scenario group. However, there was no significant difference between the two simulation groups in quantitative measures. This finding could be influenced by several factors such as the platform choice and the nature of agent interactions, as both simulations were conducted on the 3D Roblox platform. While this platform provided a
+## Conclusion: limitations and future research
+This study developed design principles for GenAI-enhanced simulations to improve preservice teachers' problem-solving skills. We created a VR simulation integrating GenAI and PBL principles, exploring its impact on enhancing students' problem-solving abilities. Our findings indicate GenAI's significant potential to improve both engagement and learning effectiveness. Through DBR cycles, we identified four key design principles for GenAI-enhanced simulations to enhance preservice teachers'
+## CRediT authorship contribution statement
+\*\*Jieun Lim:\*\* Writing – original draft, Supervision, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Unggi Lee:\*\* Writing – review & editing, Writing – original draft, Validation, Project administration, Methodology, Conceptualization. \*\*Junbo Koh:\*\* Writing – original draft, Visualization, Software, Formal analysis, Data curation, Conceptualization. \*\*Yeil Jeong:\*\* Writing – original draft, Software, Resources, Project administration, Formal analysis, Data curation. \*\*Yunseo Lee:\*\* Writing –
+## Funding
+None.
+## Declaration of competing interest
+None.
+Recommended articles
+- D. Cheong
+### [The effects of practice teaching sessions in second life on the change in preservice teachers' teaching efficacy](https://www.sciencedirect.com/science/article/pii/S0360131510001041)
+### Computers & Education
+(2010)
+- T. Dalinger \_et al.\_
+### [A mixed reality simulation offers strategic practice for preservice teachers](https://www.sciencedirect.com/science/article/pii/S0360131519302490)
+### Computers & Education
+(2020)
+- L. Darling-Hammond \_et al.\_
+### [Authentic assessment of teaching in context](https://www.sciencedirect.com/science/article/pii/S0742051X00000159)
+### Teaching and Teacher Education
+(2000)
+- A. Delamarre \_et al.\_
+### [The interactive virtual training for teachers (IVT-T) to practice classroom behavior management](https://www.sciencedirect.com/science/article/pii/S1071581921000641)
+### International Journal of Human-Computer Studies
+(2021)
+- P. Hennissen \_et al.\_
+### [Linking practice to theory in teacher education: A growth in cognitive structures](https://www.sciencedirect.com/science/article/pii/S0742051X17300434)
+### Teaching and Teacher Education
+(2017)
+- K. Kim \_et al.\_
+### [Does a digital assistant need a body? The influence of visual embodiment and social behavior on the perception of intelligent virtual agents in AR](https://www.sciencedirect.com/science/article/pii/S1359835X18300939)
+- R.L. Lamb \_et al.\_
+### [A meta analysis with examination of moderators of student cognition, affect, and learning outcomes while using serious educational games, serious games, and simulations](https://www.sciencedirect.com/science/article/pii/S0747563217306143)
+### Computers in Human Behavior
+(2018)
+- X. Li \_et al.\_
+### [A survey on LLM-based multi-agent systems: Workflow, infrastructure, and challenges](https://www.sciencedirect.com/science/article/pii/S0147956324001006)
+### Vicinagearth
+(2024)
+- R. Lovreglio \_et al.\_
+### [Exit choice in built environment evacuation combining immersive virtual reality and discrete choice modelling](https://www.sciencedirect.com/science/article/pii/S0926580522003259)
+### Automation in Construction
+(2022)
+- Z. Merchant \_et al.\_
+### [Effectiveness of virtual reality-based instruction on students' learning outcomes in K-12 and higher education: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0360131513002108)
+### Computers & Education
+(2014)
+T.A. Mikropoulos \_et al.\_
+### [Educational virtual environments: A ten-year review of empirical research (1999–2009)](https://www.sciencedirect.com/science/article/pii/S0360131510003052)
+### Computers & Education
+(2011)
+C. Plotzky \_et al.\_
+### [Virtual reality simulations in nurse education: A systematic mapping review](https://www.sciencedirect.com/science/article/pii/S0260691721001258)
+### Nurse Education Today
+(2021)
+J. Pottle
+### [Virtual reality and the transformation of medical education](https://www.sciencedirect.com/science/article/pii/S2514664524000924)
+### Future Healthcare Journal
+(2019)
+J. Radianti \_et al.\_
+### [A systematic review of immersive virtual reality applications for higher education: Design elements, lessons learned, and research agenda](https://www.sciencedirect.com/science/article/pii/S0360131519303276)
+### Computers & Education
+(2020)
+B. Schmitz \_et al.\_
+### [Attuning a mobile simulation game for school children using a design-based research approach](https://www.sciencedirect.com/science/article/pii/S0360131514002012)
+### Computers & Education
+(2015)
+J. Sweller
+### [Cognitive load theory](https://www.sciencedirect.com/science/article/pii/B9780123876911000028)
+### Psychology of Learning and Motivation
+(2011)
+M. Wang \_et al.\_
+### [Computer-based learning environments for deeper learning in problem-solving contexts](https://www.sciencedirect.com/science/article/pii/S0747563218303030)
+### Computers in Human Behavior
+(2018)
+C. Aldrich
+### The complete guide to simulations and serious games: How the most valuable content will be created in the age beyond Gutenberg to Google
+(2009)
+J. Ballantyne \_et al.\_
+### Problem-seeking in teacher education: Empowering students to grapple with the complexities of the profession
+### Australian Journal of Teacher Education (Online)
+(2020)
+A. Barana \_et al.\_
+### Fostering problem solving and critical thinking in mathematics through generative artificial intelligence
+### Proceedings of the 20th international conference on cognition and exploratory learning in the digital age (CELDA 2023)
+(2023)
+L. Barron \_et al.\_
+### Transitioning to the real world through problem-based learning: A collaborative approach to teacher preparation
+### Journal of Learning in Higher Education
+(2013)
+C. Beaumont \_et al.\_
+### Evaluating a Second Life problem-based learning (PBL) demonstrator project: What can we learn?
+### Interactive Learning Environments
+(2014)
+Y. Bian \_et al.\_
+### The effect of reducing distraction on the flow-performance link in virtual experiential learning environment
+### Virtual Reality
+(2022)
+G. Billingsley \_et al.\_
+### A systematic literature review of using immersive virtual reality technology in teacher education
+### Journal of Interactive Learning Research
+(2019)
+E.G. Bradley \_et al.\_
+### A review of computer simulations in teacher education
+### Journal of Educational Technology Systems
+(2014)
+B. Calandra \_et al.\_
+### An examination of role-play in virtual worlds for novice teacher practice
+### \[Paper presentation\] association for educational technology and communications conference (AECT)
+(2013)
+J. Calvert \_et al.\_
+### Immersing learners in stories: A systematic literature review of educational narratives in virtual reality
+### Australasian Journal of Educational Technology
+(2022)
+C.H. Chen \_et al.\_
+### Virtual reality in problem‐based learning contexts: Effects on the problem‐solving performance, vocabulary acquisition and motivation of English language learners
+### Journal of Computer Assisted Learning
+(2021)
+J. Chen \_et al.\_
+### Forms of implementation and challenges of PBL in engineering education: A review of literature
+### European Journal of Engineering Education
+(2021)
+C. Chin \_et al.\_
+### Problem‐based learning: Using students' questions to drive knowledge construction
+### Science Education
+(2004)
+T.K. Chiu
+### A classification tool to foster self-regulated learning with generative artificial intelligence by applying self-determination theory: A case of ChatGPT
+### Educational Technology Research & Development
+(2024)
+T.K. Chiu \_et al.\_
+### Teacher support and student motivation to learn with Artificial Intelligence (AI) based chatbot
+### Interactive Learning Environments
+(2023)
+A. Correia \_et al.\_
+### Computer-simulated 3D virtual environments in collaborative learning and training: Meta-review, refinement, and roadmap
+W. Daher \_et al.\_
+### Artificial intelligence generative tools and conceptual knowledge in problem solving in chemistry
+### Information
+(2023)
+C.P. Dai \_et al.\_
+### Improving teaching practices via virtual reality‐supported simulation‐based learning: Scenario design and the duration of implementation
+### British Journal of Educational Technology
+(2023)
+C.P. Dai \_et al.\_
+### Effects of artificial intelligence-powered virtual agents on learning outcomes in computer-based simulations: A meta-analysis
+### Educational Psychology Review
+(2024)
+B. Dalgarno \_et al.\_
+### Practising teaching using virtual classroom role plays
+### Australian Journal of Teacher Education (Online)
+(2016)
+B. Dalgarno \_et al.\_
+### What are the learning affordances of 3‐D virtual environments?
+### British Journal of Educational Technology
+(2010)
+M.R. Dawson \_et al.\_
+### Meaningful practice: Generalizing foundation teaching skills from TLE TeachLivE™ to the classroom
+### Teacher Education and Special Education
+(2017)
+C. Dede
+### Immersive interfaces for engagement and learning
+### Science
+(2009)
+C.B. Divito \_et al.\_
+### The tools of the future are the challenges of today: The use of ChatGPT in problem-based learning medical education
+### Medical Teacher
+(2024)
+R.H. Ellaway \_et al.\_
+### Decision PBL: A 4-year retrospective case study of the use of virtual patients in problem-based learning
+### Medical Teacher
+(2015)
+K. Ferguson
+### Using a simulation to teach reading assessment to preservice teachers
+### The Reading Teacher
+(2017)
+J. Herrington \_et al.\_
+### An instructional design framework for authentic learning environments
+### Educational Technology Research and Development
+(2000)
+J. Herrington \_et al.\_
+### Immersive learning technologies: Realism and online authentic learning
+### Journal of Computing in Higher Education
+(2007)
+C.E. Hmelo \_et al.\_
+### A theory-driven approach to assessing the cognitive effects of PBL
+### Instructional Science
+(1997)
+C.E. Hmelo-Silver
+### Problem-based learning: What and how do students learn?
+### Educational Psychology Review
+(2004)
+C. Holmgård \_et al.\_
+### Generative agents for player decision modeling in games
+### 9th international conference on the foundations of digital games, Fort Lauderdale
+(2014)
+W. Hung \_et al.\_
+### Problem-based learning
+C. Hursen
+### The effect of problem-based learning method supported by web 2.0 tools on academic achievement and critical thinking skills in teacher education
+### Technology, Knowledge and Learning
+(2021)
+View more references
+- ### [Harnessing artificial intelligence for preservice teachers’ development: A scoping review of applications, benefits, and challenges](https://www.sciencedirect.com/science/article/pii/S2666557326000017)
+2026, Computers and Education Open
+Show abstract
+The integration of artificial intelligence (AI) into teacher education is profoundly reshaping the professional development of preservice teachers. This scoping review examines the application of AI in this context, aiming to delineate its characteristics, benefits, and challenges. Following the PRISMA-ScR guidelines, this study conducted a systematic search of three academic databases (Web of Science, ScienceDirect, and EBSCOhost) for empirical research published between 2020 and 2025. After screening an initial pool of literature, 55 studies were included for analysis. The findings reveal a diverse landscape of AI applications, technologies, and subject distributions in preservice teacher development. The analysis indicates that AI can significantly enhance various competencies, including instructional design, subject-specific instruction, practical teaching skills, evaluation efficiency, reflective practice, critical thinking, technology integration, and pedagogical innovation. However, several challenges were identified, encompassing technical limitations, the risk of over-reliance, ethical and social concerns, and barriers to implementation. This review advocates for a proactive approach to leveraging AI’s innovative potential while reducing its associated risks. Future research should focus on the continual evaluation and adaptation of AI tools to ensure they effectively support and advance the professional development of preservice teachers.
+- ### [The double-edged sword of technology: Investigating technostress and techno-eustress in academic burnout through digital literacy, internet self-efficacy, and cognitive flexibility](https://www.sciencedirect.com/science/article/pii/S0360131525003094)
+2026, Computers and Education
+Show abstract
+The swift advancement of technology in educational contexts introduces a range of challenges alongside significant benefits. Technostress and techno-eustress have been identified as significant determinants of academic achievement in higher education, influencing students’ well-being, productivity, and levels of burnout. However, there is limited research on how psychological mechanisms play a mediating role in the relationship between technostress, techno-eustress, and academic burnout. To fill this gap, two serial mediation models with three mediators were proposed to explore the associations among technostress, techno-eustress, digital literacy, internet self-efficacy, cognitive flexibility, and academic burnout in a random sample of university students from different education faculties in Türkiye ( \_N\_ = 677). The total effect of technostress on academic burnout was significant. This first model, with an additional three mediators, accounted for 16 % of the explained variance in academic burnout, and then 5 % without mediators. In the second model, the total effect of techno-eustress on academic burnout was nonsignificant (p = 0.602), while the direct effect had a small impact (p = 0.029). However, the total indirect effect of techno-eustress on academic burnout was significant and serially mediated by digital literacy, internet self-efficacy, and cognitive flexibility, accounting for 13 % of the explained variance. Triple serial mediation analyses indicated that digital literacy enhances internet self-efficacy, which in turn improves cognitive flexibility. This sequence ultimately promotes techno-eustress and mitigates technostress, resulting in a reduction of academic burnout. Focusing on these mediators as protective resources against technostress may enhance psychological and behavioral outcomes in higher education students.
+- ### [An experimental study on the impact of Generative AI on university students' emotions and performance in creative problem-solving tasks](https://www.sciencedirect.com/science/article/pii/S0959475226000010)
+2026, Learning and Instruction
+Show abstract
+With Generative AI's growing educational applications, its impact on students' emotions and performance in creative problem-solving remains underexplored, particularly regarding metacognition.
+This quasi-experimental study assigned participants to three groups: Generative AI, internet search engines, and no technology. The comprehensive effects of these tools on emotions and performance in creative problem-solving tasks were compared.
+Shame was negatively correlated with solution novelty. Generative AI reduced anxiety and shame while enhancing correctness and novelty. Metacognitive regulation significantly affected novelty and interacted with AI use.
+The study highlights metacognition's importance in effective Generative AI application for creative problem-solving.
+- ### [AI chatbot design principles to enhance the collective efficacy in collaborative learning](https://doi.org/10.1007/s12564-025-10080-z)
+2025, Asia Pacific Education Review
+- ### [Systematic Review of Artificial Intelligence in Education: Trends, Benefits, and Challenges](https://doi.org/10.3390/mti9080084)
+2025, Multimodal Technologies and Interaction
+- ### [Generative AI-Enhanced Virtual Reality Simulation for Pre-Service Teacher Education: A Mixed-Methods Analysis of Usability and Instructional Utility for Course Integration](https://doi.org/10.3390/educsci15080997)
+2025, Education Sciences
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-105001170648&md5=3734b3dc63e73ff5d8ac9cf34d951429)
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525000740)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

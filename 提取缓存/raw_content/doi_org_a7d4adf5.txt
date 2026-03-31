@@ -1,0 +1,193 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105463
+# Content Length: 23388 characters
+# Extracted at: 2026-03-31 05:09:00
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002313?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002313?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002313)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525002313/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002313?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002313?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002313?via%3Dihub#preview-section-snippets)
+- [References (55)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002313?via%3Dihub#preview-section-references)
+- [Cited by (3)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002313?via%3Dihub#preview-section-cited-by)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 240](https://www.sciencedirect.com/journal/computers-and-education/vol/240/suppl/C "Go to table of contents for this volume/issue"), January 2026, 105463
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00129-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/240/suppl/C)
+# Developing an AI learning companion for mathematics problem solving in elementary schools
+Author links open overlay panelBor-ChenKuo, Zong-EnBai, Chia-HuaLin
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105463](https://doi.org/10.1016/j.compedu.2025.105463 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525002313&orderBeanReset=true)
+## Highlights
+- •
+Effectiveness of TALPer in elementary adaptive mathematics learning.
+- •
+TALPer integrates Socratic dialogue and Pólya's problem-solving strategy.
+- •
+In self-learning, TALPer with video support improved student outcomes.
+- •
+In remedial learning, TALPer outperformed video-based instruction.
+- •
+LSA revealed distinct interaction patterns across proficiency levels.
+## Abstract
+This study examined the impact of integrating the Taiwan Adaptive Learning Platform (TALP) with generative AI-based learning companion (TALPers) on fifth-grade students' mathematics learning performance. The integration was applied to both self-learning and remedial instruction, with both contexts incorporating Socratic dialogue and Pólya's problem-solving strategy. Results showed that video-based self-learning with TALPer support yielded the highest learning gains. In the remedial setting, students receiving TALPer support also demonstrated significantly better performance. Both approaches were particularly effective for low-achieving students. Lag Sequential Analysis (LSA) further revealed that high-achieving students engaged in more complex interaction patterns with TALPers, sustaining feedback cycles, whereas low-achieving students exhibited simpler interaction patterns. These findings provide empirical support for implementing AI-augmented learning systems in mathematics education and suggest that structured AI support can promote differentiated instruction and student engagement to help bridge achievement gaps.
+## Introduction
+While traditional elementary mathematics instruction often relies on teacher-centered lectures, such approaches often fail to address individual differences in students’ prior knowledge, learning pace, and cognitive needs. Prior research has shown that video-based learning can mitigate some of these shortcomings, particularly by enhancing mathematics learning and achievement compared to conventional classroom instruction (Al Farra et al., 2024; Lai & Hwang, 2016). However, such approaches often lack sufficient interactivity and adaptivity, which may limit deeper engagement and personalized support (Merkt et al., 2011; Yousef et al., 2014). Recent research has shown that AI-powered systems can provide personalized scaffolding and adaptive feedback, thereby enhancing learning outcomes and motivation (Létourneau et al., 2025; Liu et al., 2025; Pai et al., 2021). Advances in AI technologies therefore offer opportunities to deliver scalable, personalized, and adaptive learning experiences that complement traditional instruction and address its shortcomings.
+Large language models (LLMs) have transformed education through personalized learning experiences and improved educational resource accessibility (Baek & Kim, 2023; Williams, 2024). These systems offer real-time feedback and interactive dialogue support while enhancing teaching efficiency (Laak & Aru, 2024). A systematic review revealed that while language education dominates LLM research (31.88 % of studies), there is growing potential for broader educational applications (Deng et al., 2025).
+In mathematics education, LLMs have also been applied as personalized tutors, offering multidimensional instructional support through hint generation, comprehensive solution provision, and exercise creation, thereby effectively facilitating student autonomous learning (Ramanathan & Palaniappan, 2024). LLMs have also been investigated in collaborative learning contexts, where they can support group discussions and enhance the quality of peer interactions (Sixu et al., 2024). Furthermore, prompt engineering optimization has been shown to enhance LLM efficacy, particularly in mathematical concept instruction and assessment (Zhang et al., 2024a, Zhang et al., 2024b).
+Despite LLMs' potential in mathematics education, several challenges persist. Studies reveal limitations in AI feedback; research with Finnish high school students highlights difficulties in guiding appropriate mathematical methods. Additionally, integration challenges require careful planning and teacher training to ensure AI promotes learning rather than mere answer-seeking (Setälä et al., 2025).
+The Taiwan Adaptive Learning Platform (TALP), developed by the Taiwan Ministry of Education (MoE), serves over 2.8 million registered users and is distinguished by its integration of artificial intelligence technology to deliver personalized learning paths for students. To provide well-rounded learning support, TALP incorporates a variety of modules, including instructional videos, exercises, diagnostic assessments, unit tests, cross-grade assessments, learning packages, and AI tutors. Large-scale studies have demonstrated the platform's effectiveness in enhancing students' academic performance and fostering self-regulated learning (Kuo & Chang, 2025).
+Although TALP has demonstrated great potential in mathematics education without generative AI (Wu et al., 2012, 2017), there remains a pressing need to understand how different AI tutoring approaches influence students’ learning outcomes and engagement. Prior research has shown that video-based learning generally yields positive effects across contexts (Yousef et al., 2014) and can sometimes outperform text-based learning (Al Farra et al., 2024; Kiili et al., 2025; Tani et al., 2022), yet few empirical studies have simultaneously compared video-based self-learning, video-based self-learning with generative AI companion support, and textbook-based self-learning with such support. To address this gap, the present study investigates the relative effectiveness of these approaches in both pre-class self-learning and post-class remedial instruction contexts.
+Therefore, this study investigates three self-learning conditions (video-based, video-based with TALPer support, and textbook-based with TALPer support) and two remedial instruction approaches (video-based and TALPer-supported) to evaluate their impacts on students’ mathematical learning outcomes. Accordingly, RQ1 and RQ2 address the self-learning context, whereas RQ3 and RQ4 focus on remedial instruction.
+RQ1: How do different self-learning approaches affect students' mathematical learning outcomes?
+RQ2: How do students' interaction patterns with TALPer influence their self-learning processes and outcomes, particularly between high-achieving and low-achieving groups?
+RQ3: How do video-based and TALPer-supported remedial instruction approaches differ in improving students' understanding of non-mastered mathematical concepts?
+RQ4: How do students' interaction patterns with TALPer influence their remedial learning processes and outcomes, and what are the differential characteristics across student proficiency levels?
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002313)
+## Section snippets
+## Taiwan Adaptive Learning Platform (TALP)
+With the rapid advancement of educational technology in recent years, traditional learning environments have undergone a transformation from standardized instruction to highly personalized and adaptive learning. One notable initiative is the TALP, a nationally structured educational system launched by the Ministry of Education (MoE) to enhance learning efficiency and address individual learning gaps. Therefore, TALP aims to accelerate data-driven, personalized, and intelligent learning
+## Experimental process
+This study was systematically conducted across four key phases. The first phase was the preparation phase, which involved defining the research orientation, synthesizing relevant literature, and validating the research design through expert academic review.
+The second phase was the technical development phase, which focused on developing the TALP Learning Companion (TALPer) by integrating the TALP with generative AI features based on Azure OpenAI. The pedagogical and technical design of TALPer,
+## The results of Experiment 1
+The analysis of self-learning effectiveness included three student groups: video-based self-learning (Group 1, \_n\_ = 175), paper textbook-based self-learning with TALPer support (Group 2, n = 66), and video-based self-learning with TALPer support (Group 3, \_n\_ = 189). The analysis was conducted at three levels: all students, high-achieving students, and low-achieving students. The detailed statistical results and group distributions are presented in Table 2.
+For all students, the result of Levene's
+## Limitations
+The present study has several limitations. One notable limitation is the relatively short study duration, which spanned only 3 to 4 class sessions. This limited intervention period may not have been sufficient to fully capture the long-term impact of AI Learning Companion on student learning outcomes. This short duration also restricted the ability to observe whether students’ engagement with AI systems could be sustained over time. Moreover, the present study focused solely on a single unit
+## Implications for educators
+This study highlights several key implications for educational practice and policy in AI-enhanced mathematics education. The proven launch of our latest TALPers signifies that AI-enabled learning systems have a rich landscape to engage in educational contexts. Notably, the findings emphasize that integrating traditional learning resources with AI support can create an effective and immersive learning environment. It indicates that educational Institutions need to seriously take into account the
+## Conclusion
+This study offers important insights into the effectiveness of AI-enabled learning platforms in mathematics education. The findings emphasize the value of integrating AI Learning Companion (TALPer) with traditional learning methods. This was demonstrated through two distinct implementations examined in the study: one supporting self-learning and the other designed for remedial learning.
+In terms of self-learning efficacy, the combination of video-based learning and TALPer support consistently
+## CRediT authorship contribution statement
+\*\*Bor-Chen Kuo:\*\* Writing – review & editing, Visualization, Validation, Supervision, Resources, Project administration, Methodology, Conceptualization. \*\*Zong-En Bai:\*\* Writing – review & editing, Writing – original draft, Visualization, Validation, Project administration, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Chia-Hua Lin:\*\* Writing – review & editing, Writing – original draft, Visualization, Validation, Supervision, Methodology, Formal analysis,
+## Funding
+This study is supported by the National Science and Technology Council of Taiwan under grant number NSTC 112-2410-H-142-017-MY3.
+## Declaration of competing interest
+The authors declare no conflicts of interest.
+## Acknowledgments
+This study was successfully completed with heartfelt gratitude to “The Digital Learning Enhancement Plan for Grades 1–12 Students” and “Taiwan Adaptive Learning Platform” supported by the Ministry of Education, Taiwan, for their invaluable data and support. Academic papers published using this data represent solely the views of the author and do not reflect the opinions, perspectives, or positions of the Ministry of Education. The author assumes full responsibility for any related matters.
+Recommended articles
+- F. Chiarello \_et al.\_
+### [Future applications of generative large language models: A data-driven case study on ChatGPT](https://www.sciencedirect.com/science/article/pii/S016649722400052X)
+### Technovation
+(2024)
+- R. Deng \_et al.\_
+### [Does ChatGPT enhance student learning? A systematic review and meta-analysis of experimental studies](https://www.sciencedirect.com/science/article/pii/S0360131524002380)
+### Computers & Education
+(2025)
+- C. Kiili \_et al.\_
+### [Explicit video-based instruction enhanced students' online credibility evaluation skills: Did storifying instruction matter?](https://www.sciencedirect.com/science/article/pii/S036013152500020X)
+### Computers & Education
+(2025)
+- C.L. Lai \_et al.\_
+### [A self-regulated flipped classroom approach to improving students' learning performance in a mathematics course](https://www.sciencedirect.com/science/article/pii/S0360131516301166)
+### Computers & Education
+(2016)
+- Z. Lin \_et al.\_
+### [Investigating the capability of ChatGPT for generating multiple-choice reading comprehension items](https://www.sciencedirect.com/science/article/pii/S0346251X2400126X)
+### System
+(2024)
+- J. Liu \_et al.\_
+### [Designing a generative AI enabled learning environment for mathematics word problem solving in primary schools: Learning performance, attitudes and interaction](https://www.sciencedirect.com/science/article/pii/S2666920X25000785)
+### Computers and Education: Artificial Intelligence
+(2025)
+- M. Merkt \_et al.\_
+### [Learning with videos vs. learning with print: The role of interactive features](https://www.sciencedirect.com/science/article/pii/S0959475211000247)
+### Learning and Instruction
+(2011)
+- S. Moya \_et al.\_
+### [Leveraging AI-powered mobile learning: A pedagogically informed framework](https://www.sciencedirect.com/science/article/pii/S2666920X24000791)
+### Computers and Education: Artificial Intelligence
+(2024)
+- J.T. Richardson
+### [Eta squared and partial eta squared as measures of effect size in educational research](https://www.sciencedirect.com/science/article/pii/S1747938X11000029)
+### Educational Research Review
+(2011)
+- Y. Sun \_et al.\_
+### [Real-world implementation of an AI learning tool-MetaGP-edu in medical education: A multi-center cohort study](https://www.sciencedirect.com/science/article/pii/S0360131525001563)
+### Computers & Education
+(2025)
+C. Tarchi \_et al.\_
+### [Learning from text, video, or subtitles: A comparative analysis](https://www.sciencedirect.com/science/article/pii/S0360131520302323)
+### Computers & Education
+(2021)
+H. Van Der Meij \_et al.\_
+### [A comparison of paper-based and video tutorials for software learning](https://www.sciencedirect.com/science/article/pii/S0360131514001353)
+### Computers & Education
+(2014)
+D.W. Zhang \_et al.\_
+### [Evaluating large language models for criterion-based grading from agreement to consistency](https://www.sciencedirect.com/science/article/pii/S2238785424020659)
+### Npj Science of Learning
+(2024)
+N.K. Al Farra \_et al.\_
+### Impact of videos and traditional teaching methods on fifth grade students' achievement in fractions
+### Eurasia Journal of Mathematics, Science and Technology Education
+(2024)
+H.S. Almarashdi \_et al.\_
+### Unveiling the potential: A systematic review of ChatGPT in transforming mathematics teaching and learning
+### Eurasia Journal of Mathematics, Science and Technology Education
+(2024)
+T.H. Baek \_et al.\_
+### Is ChatGPT scary good? How user motivations affect creepiness and trust in generative artificial intelligence
+### Telematics and Informatics
+(2023)
+D. Ben-Chaim \_et al.\_
+### Ratio and proportion: Research and teaching in mathematics teachers' education
+(2012)
+X. Chu \_et al.\_
+### Enhancing the flipped classroom model with generative AI and Metaverse technologies: Insights from lag sequential and epistemic network analysis
+### Educational Technology Research & Development
+(2025)
+F. Dilling \_et al.\_
+### Using large language models to support pre-service teachers mathematical reasoning—an exploratory study on ChatGPT as an instrument for creating mathematical proofs in geometry
+### Frontiers in Artificial Intelligence
+(2024)
+D.M. Dimitrov \_et al.\_
+### Pretest-posttest designs and measurement of change
+### Work
+(2003)
+P. Goel \_et al.\_
+### Assessing large language models for math tutoring effectiveness
+### Journal of Emerging Investigators
+(2025)
+A.B. Gulam \_et al.\_
+### Mathematics performance and Pólya's method in problem solving
+### World Journal of Advanced Research and Reviews
+(2024)
+J. Hou \_et al.\_
+### E-EVAL: A comprehensive Chinese K-12 education evaluation benchmark for large language models
+V. Kretzschmar \_et al.\_
+### Enhanced educational experiences through personalized and AI-based learning
+### International Journal on Studies in Education (IJonSE)
+(2024)
+H. Kumar \_et al.\_
+### Math education with large language models: Peril or promise?
+B.-C. Kuo \_et al.\_
+### Development and application of a self-regulated learning questionnaire in the large-scale digital learning context
+### Education and Information Technologies
+(2025)
+B.C. Kuo \_et al.\_
+### Measurement tools that both measure and remote technology assisted self-regulated learning
+View more references
+- ### [STEM education: Understanding secondary students’ epistemic cognition in the design process with the support of a personalized multi-agent system](https://www.sciencedirect.com/science/article/pii/S0360131525002726)
+2026, Computers and Education
+Show abstract
+The engineering design process is a vital component of integrated STEM education, where students' design practices both shape and are shaped by their epistemic cognition (EC). Nonetheless, research on secondary students' EC in STEM contexts is limited, and implementing personalized STEM instruction that accommodates diverse students' interests and needs poses significant challenges. Harnessing a Multi-Agent System (MAS) afforded by Generative Artificial Intelligence (GAI) offers a promising pathway to address this gap. Grounded in the design thinking model of \_E\_ DIPT (Empathize-Define-Ideate-Prototype-Test), this study developed a \_P\_ ersonalized \_MAS\_, namely EPMAS, to support secondary students' STEM project-based design process. Twenty students, grouped into dyads, participated in a five-day STEM winter camp. We sought to explore students' EC within the EPMAS-supported design process and their perceptions of the system. Data were collected through in-depth group interviews, supplemented with student artifacts and interaction log data, and analyzed using theoretical thematic analysis. Findings revealed students' engagement with epistemic aims, ideals, and reliable processes, reflecting their developed understanding of engineering design. Contrary to common concerns about over-reliance on GAI, students demonstrated high epistemic agency, critically employing EPMAS's stepwise guidance as part of their epistemic repertoire to pursue creative solutions. These results suggest that EPMAS-supported authentic STEM learning holds promise for broader school adoption.
+- ### [Investigating the effects of an LLM-based Socratic conversational agent on students’ academic performance and reflective thinking in higher education](https://www.sciencedirect.com/science/article/pii/S0360131525002623)
+2026, Computers and Education
+Show abstract
+The rapid advancement of GenAI has created unprecedented opportunities to enhance student learning through large language models (LLMs). While LLM-based conversational agents have demonstrated potential in improving accessibility and instructional support, evidence of their impact on higher-order thinking remains limited, especially within the context of Chinese higher education. This study introduces the Socratic Intelligent Conversational Agent (S-ICA), which integrates Socratic questioning strategies with semantic generation mechanisms to promote student learning and reflective thinking in disciplinary contexts. A total of 94 university students from China participated in the study, with random assignment to an experimental group (EG) using the S-ICA and a control group (CG) using a non-Socratic conversational agent (nS-ICA). The results showed that the EG outperformed the CG in both academic achievement and reflective thinking, particularly in the dimensions of “reflection” and “critical reflection”. Cognitive network analysis revealed that the EG students activated more advanced reflective pathways, linking understanding, reflection, and critical reflection processes. Although no significant differences were found in learning motivation between the groups, interviews with students indicated that the S-ICA facilitated more effective learning and deeper reflective engagement. These findings contribute to research on integrating classical pedagogical strategies into GenAI-based systems, offering insights into how such technologies can foster higher-order thinking and guide the design of future collaborative human–AI learning systems.
+- ### [Enhancing Badminton Rule Learning Through a GPT-Integrated LINE Bot](https://doi.org/10.1002/jcal.70231)
+2026, Journal of Computer Assisted Learning
+This article is part of a special issue entitled: GenAI enhanced learning published in Computers & Education.
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525002313)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

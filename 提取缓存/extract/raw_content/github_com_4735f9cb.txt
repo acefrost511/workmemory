@@ -1,0 +1,174 @@
+# Source URL: https://github.com/zarazhangrui/follow-builders
+# Content Length: 15980 characters
+# Extracted at: 2026-03-31 19:38:01
+#============================================================
+
+[Skip to content](https://github.com/zarazhangrui/follow-builders#start-of-content)
+You signed in with another tab or window. [Reload](https://github.com/zarazhangrui/follow-builders) to refresh your session.You signed out in another tab or window. [Reload](https://github.com/zarazhangrui/follow-builders) to refresh your session.You switched accounts on another tab or window. [Reload](https://github.com/zarazhangrui/follow-builders) to refresh your session.Dismiss alert
+{{ message }}
+[zarazhangrui](https://github.com/zarazhangrui)/ \*\*[follow-builders](https://github.com/zarazhangrui/follow-builders)\*\* Public
+- [Notifications](https://github.com/login?return\_to=%2Fzarazhangrui%2Ffollow-builders) You must be signed in to change notification settings
+- [Fork\\
+13](https://github.com/login?return\_to=%2Fzarazhangrui%2Ffollow-builders)
+- [Star\\
+103](https://github.com/login?return\_to=%2Fzarazhangrui%2Ffollow-builders)
+main
+[\*\*1\*\* Branch](https://github.com/zarazhangrui/follow-builders/branches) [\*\*0\*\* Tags](https://github.com/zarazhangrui/follow-builders/tags)
+[Go to Branches page](https://github.com/zarazhangrui/follow-builders/branches)[Go to Tags page](https://github.com/zarazhangrui/follow-builders/tags)
+Go to file
+Code
+Open more actions menu
+## Folders and files
+| Name | Name | Last commit message | Last commit date |
+| --- | --- | --- | --- |
+| ## Latest commit  
+[![github-actions[bot]](https://avatars.githubusercontent.com/in/15368?v=4&size=40)](https://github.com/apps/github-actions)[github-actions\[bot\]](https://github.com/zarazhangrui/follow-builders/commits?author=github-actions%5Bbot%5D)  
+[chore: update feeds \[skip ci\]](https://github.com/zarazhangrui/follow-builders/commit/26b1144e0d8e54cfda141ac756462ea5f6ed9cbe)  
+6 hours agoMar 19, 2026  
+[26b1144](https://github.com/zarazhangrui/follow-builders/commit/26b1144e0d8e54cfda141ac756462ea5f6ed9cbe) · 6 hours agoMar 19, 2026  
+## History  
+[61 Commits](https://github.com/zarazhangrui/follow-builders/commits/main/)   
+Open commit details  
+[View commit history for this file.](https://github.com/zarazhangrui/follow-builders/commits/main/) 61 Commits |
+| [.github/workflows](https://github.com/zarazhangrui/follow-builders/tree/main/.github/workflows "This path skips through empty directories") | [.github/workflows](https://github.com/zarazhangrui/follow-builders/tree/main/.github/workflows "This path skips through empty directories") | [chore: run both feeds once daily at 6am UTC instead of tweets every 6h](https://github.com/zarazhangrui/follow-builders/commit/d53267f888a3dd7917dba03c11150b257dc89cf0 "chore: run both feeds once daily at 6am UTC instead of tweets every 6h") | 3 days agoMar 16, 2026 |
+| [config](https://github.com/zarazhangrui/follow-builders/tree/main/config "config") | [config](https://github.com/zarazhangrui/follow-builders/tree/main/config "config") | [chore: remove stale code and comments — delete fetch-content.js, remo…](https://github.com/zarazhangrui/follow-builders/commit/6f43070c23a52ce819c9288439e887fcb1681780 "chore: remove stale code and comments — delete fetch-content.js, remove AI relevance checks, remove source customization schema, clean up metadata") | 3 days agoMar 16, 2026 |
+| [examples](https://github.com/zarazhangrui/follow-builders/tree/main/examples "examples") | [examples](https://github.com/zarazhangrui/follow-builders/tree/main/examples "examples") | [feat: add sample digest showing expected output format](https://github.com/zarazhangrui/follow-builders/commit/8c8c3e96542b36172b8147095353c3ba0ba98da9 "feat: add sample digest showing expected output format") | 5 days agoMar 14, 2026 |
+| [prompts](https://github.com/zarazhangrui/follow-builders/tree/main/prompts "prompts") | [prompts](https://github.com/zarazhangrui/follow-builders/tree/main/prompts "prompts") | [feat: tweets before podcasts, bilingual mode interleaves EN/CN paragr…](https://github.com/zarazhangrui/follow-builders/commit/07cd73712c21108f1c4a645be2ce67a05af8367c "feat: tweets before podcasts, bilingual mode interleaves EN/CN paragraph by paragraph") | 2 days agoMar 17, 2026 |
+| [scripts](https://github.com/zarazhangrui/follow-builders/tree/main/scripts "scripts") | [scripts](https://github.com/zarazhangrui/follow-builders/tree/main/scripts "scripts") | [fix: fetch full untruncated tweet text via note\\_tweet field](https://github.com/zarazhangrui/follow-builders/commit/16b7ef3f5430015b2ff16b3e3dec8356bed2f5c7 "fix: fetch full untruncated tweet text via note\_tweet field") | 10 hours agoMar 18, 2026 |
+| [.gitignore](https://github.com/zarazhangrui/follow-builders/blob/main/.gitignore ".gitignore") | [.gitignore](https://github.com/zarazhangrui/follow-builders/blob/main/.gitignore ".gitignore") | [chore: initialize repository with .gitignore](https://github.com/zarazhangrui/follow-builders/commit/2f58d64e5893c5c81c18947acb48d74abbbccb43 "chore: initialize repository with .gitignore") | 5 days agoMar 14, 2026 |
+| [README.md](https://github.com/zarazhangrui/follow-builders/blob/main/README.md "README.md") | [README.md](https://github.com/zarazhangrui/follow-builders/blob/main/README.md "README.md") | [docs: split README into separate EN/CN files with language switcher](https://github.com/zarazhangrui/follow-builders/commit/c15974d02620819dbb95c9dd75d404ee9cc6b4e8 "docs: split README into separate EN/CN files with language switcher") | 3 days agoMar 16, 2026 |
+| [README.zh-CN.md](https://github.com/zarazhangrui/follow-builders/blob/main/README.zh-CN.md "README.zh-CN.md") | [README.zh-CN.md](https://github.com/zarazhangrui/follow-builders/blob/main/README.zh-CN.md "README.zh-CN.md") | [docs: split README into separate EN/CN files with language switcher](https://github.com/zarazhangrui/follow-builders/commit/c15974d02620819dbb95c9dd75d404ee9cc6b4e8 "docs: split README into separate EN/CN files with language switcher") | 3 days agoMar 16, 2026 |
+| [SKILL.md](https://github.com/zarazhangrui/follow-builders/blob/main/SKILL.md "SKILL.md") | [SKILL.md](https://github.com/zarazhangrui/follow-builders/blob/main/SKILL.md "SKILL.md") | [fix: accurate channel target formats from OpenClaw docs — Telegram ch…](https://github.com/zarazhangrui/follow-builders/commit/7c586ef6526bde8e259a96172cfe783e2f60c8e4 "fix: accurate channel target formats from OpenClaw docs — Telegram chat IDs, Feishu open\_id, Discord user/channel prefixes, common error fixes") | 19 hours agoMar 18, 2026 |
+| [feed-podcasts.json](https://github.com/zarazhangrui/follow-builders/blob/main/feed-podcasts.json "feed-podcasts.json") | [feed-podcasts.json](https://github.com/zarazhangrui/follow-builders/blob/main/feed-podcasts.json "feed-podcasts.json") | [chore: update feeds \[skip ci\]](https://github.com/zarazhangrui/follow-builders/commit/26b1144e0d8e54cfda141ac756462ea5f6ed9cbe "chore: update feeds [skip ci]") | 6 hours agoMar 19, 2026 |
+| [feed-x.json](https://github.com/zarazhangrui/follow-builders/blob/main/feed-x.json "feed-x.json") | [feed-x.json](https://github.com/zarazhangrui/follow-builders/blob/main/feed-x.json "feed-x.json") | [chore: update feeds \[skip ci\]](https://github.com/zarazhangrui/follow-builders/commit/26b1144e0d8e54cfda141ac756462ea5f6ed9cbe "chore: update feeds [skip ci]") | 6 hours agoMar 19, 2026 |
+| [state-feed.json](https://github.com/zarazhangrui/follow-builders/blob/main/state-feed.json "state-feed.json") | [state-feed.json](https://github.com/zarazhangrui/follow-builders/blob/main/state-feed.json "state-feed.json") | [chore: update feeds \[skip ci\]](https://github.com/zarazhangrui/follow-builders/commit/26b1144e0d8e54cfda141ac756462ea5f6ed9cbe "chore: update feeds [skip ci]") | 6 hours agoMar 19, 2026 |
+| View all files |
+## Repository files navigation
+\*\*English\*\* \| [中文](https://github.com/zarazhangrui/follow-builders/blob/main/README.zh-CN.md)
+# Follow Builders, Not Influencers
+[Permalink: Follow Builders, Not Influencers](https://github.com/zarazhangrui/follow-builders#follow-builders-not-influencers)
+An AI-powered digest that tracks the top builders in AI — researchers, founders, PMs,
+and engineers who are actually building things — and delivers curated summaries of
+what they're saying.
+\*\*Philosophy:\*\* Follow people who build products and have original opinions, not
+influencers who regurgitate information.
+## What You Get
+[Permalink: What You Get](https://github.com/zarazhangrui/follow-builders#what-you-get)
+A daily or weekly digest delivered to your preferred messaging app (Telegram, Discord,
+WhatsApp, etc.) with:
+- Summaries of new podcast episodes from top AI podcasts
+- Key posts and insights from 25 curated AI builders on X/Twitter
+- Links to all original content
+- Available in English, Chinese, or bilingual
+## Quick Start
+[Permalink: Quick Start](https://github.com/zarazhangrui/follow-builders#quick-start)
+1. Install the skill in your agent (OpenClaw or Claude Code)
+2. Say "set up follow builders" or invoke `/follow-builders`
+3. The agent walks you through setup conversationally — no config files to edit
+The agent will ask you:
+- How often you want your digest (daily or weekly) and what time
+- What language you prefer
+- How you want it delivered (Telegram, email, or in-chat)
+No API keys needed — all content is fetched centrally.
+Your first digest arrives immediately after setup.
+## Changing Settings
+[Permalink: Changing Settings](https://github.com/zarazhangrui/follow-builders#changing-settings)
+Your delivery preferences are configurable through conversation. Just tell your agent:
+- "Switch to weekly digests on Monday mornings"
+- "Change language to Chinese"
+- "Make the summaries shorter"
+- "Show me my current settings"
+The source list (builders and podcasts) is curated centrally and updates
+automatically — you always get the latest sources without doing anything.
+## Customizing the Summaries
+[Permalink: Customizing the Summaries](https://github.com/zarazhangrui/follow-builders#customizing-the-summaries)
+The skill uses plain-English prompt files to control how content is summarized.
+You can customize them two ways:
+\*\*Through conversation (recommended):\*\*
+Tell your agent what you want — "Make summaries more concise," "Focus on actionable
+insights," "Use a more casual tone." The agent updates the prompts for you.
+\*\*Direct editing (power users):\*\*
+Edit the files in the `prompts/` folder:
+- `summarize-podcast.md` — how podcast episodes are summarized
+- `summarize-tweets.md` — how X/Twitter posts are summarized
+- `digest-intro.md` — the overall digest format and tone
+- `translate.md` — how English content is translated to Chinese
+These are plain English instructions, not code. Changes take effect on the next digest.
+## Default Sources
+[Permalink: Default Sources](https://github.com/zarazhangrui/follow-builders#default-sources)
+### Podcasts (5)
+[Permalink: Podcasts (5)](https://github.com/zarazhangrui/follow-builders#podcasts-5)
+- [Latent Space](https://www.youtube.com/@LatentSpacePod)
+- [Training Data](https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8)
+- [No Priors](https://www.youtube.com/@NoPriorsPodcast)
+- [Unsupervised Learning](https://www.youtube.com/@RedpointAI)
+- [Data Driven NYC](https://www.youtube.com/@DataDrivenNYC)
+### AI Builders on X (25)
+[Permalink: AI Builders on X (25)](https://github.com/zarazhangrui/follow-builders#ai-builders-on-x-25)
+[Andrej Karpathy](https://x.com/karpathy), [Swyx](https://x.com/swyx), [Josh Woodward](https://x.com/joshwoodward), [Kevin Weil](https://x.com/kevinweil), [Peter Yang](https://x.com/petergyang), [Nan Yu](https://x.com/thenanyu), [Madhu Guru](https://x.com/realmadhuguru), [Amanda Askell](https://x.com/AmandaAskell), [Cat Wu](https://x.com/\_catwu), [Thariq](https://x.com/trq212), [Google Labs](https://x.com/GoogleLabs), [Amjad Masad](https://x.com/amasad), [Guillermo Rauch](https://x.com/rauchg), [Alex Albert](https://x.com/alexalbert\_\_), [Aaron Levie](https://x.com/levie), [Ryo Lu](https://x.com/ryolu\_), [Garry Tan](https://x.com/garrytan), [Matt Turck](https://x.com/mattturck), [Zara Zhang](https://x.com/zarazhangrui), [Nikunj Kothari](https://x.com/nikunj), [Peter Steinberger](https://x.com/steipete), [Dan Shipper](https://x.com/danshipper), [Aditya Agarwal](https://x.com/adityaag), [Sam Altman](https://x.com/sama), [Claude](https://x.com/claudeai)
+## Installation
+[Permalink: Installation](https://github.com/zarazhangrui/follow-builders#installation)
+### OpenClaw
+[Permalink: OpenClaw](https://github.com/zarazhangrui/follow-builders#openclaw)
+```
+# From ClawhHub (coming soon)
+clawhub install follow-builders
+# Or manually
+git clone https://github.com/zarazhangrui/follow-builders.git ~/skills/follow-builders
+cd ~/skills/follow-builders/scripts && npm install
+```
+### Claude Code
+[Permalink: Claude Code](https://github.com/zarazhangrui/follow-builders#claude-code)
+```
+git clone https://github.com/zarazhangrui/follow-builders.git ~/.claude/skills/follow-builders
+cd ~/.claude/skills/follow-builders/scripts && npm install
+```
+## Requirements
+[Permalink: Requirements](https://github.com/zarazhangrui/follow-builders#requirements)
+- An AI agent (OpenClaw, Claude Code, or similar)
+- Internet connection (to fetch the central feed)
+That's it. No API keys needed. All content (YouTube transcripts + X/Twitter posts)
+is fetched centrally and updated daily.
+## How It Works
+[Permalink: How It Works](https://github.com/zarazhangrui/follow-builders#how-it-works)
+1. A central feed is updated daily with the latest content from all sources
+(YouTube transcripts via Supadata, X/Twitter via official API)
+2. Your agent fetches the feed — one HTTP request, no API keys
+3. Your agent remixes the raw content into a digestible summary using your preferences
+4. The digest is delivered to your messaging app (or shown in-chat)
+See [examples/sample-digest.md](https://github.com/zarazhangrui/follow-builders/blob/main/examples/sample-digest.md) for what the output looks like.
+## Privacy
+[Permalink: Privacy](https://github.com/zarazhangrui/follow-builders#privacy)
+- No API keys are sent anywhere — all content is fetched centrally
+- If you use Telegram/email delivery, those keys are stored locally in `~/.follow-builders/.env`
+- The skill only reads public content (public YouTube videos, public X posts)
+- Your configuration, preferences, and reading history stay on your machine
+## License
+[Permalink: License](https://github.com/zarazhangrui/follow-builders#license)
+MIT
+## About
+AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
+### Resources
+[Readme](https://github.com/zarazhangrui/follow-builders#readme-ov-file)
+### Uh oh!
+There was an error while loading. [Please reload this page](https://github.com/zarazhangrui/follow-builders).
+[Activity](https://github.com/zarazhangrui/follow-builders/activity)
+### Stars
+[\*\*103\*\*\\
+stars](https://github.com/zarazhangrui/follow-builders/stargazers)
+### Watchers
+[\*\*0\*\*\\
+watching](https://github.com/zarazhangrui/follow-builders/watchers)
+### Forks
+[\*\*13\*\*\\
+forks](https://github.com/zarazhangrui/follow-builders/forks)
+[Report repository](https://github.com/contact/report-content?content\_url=https%3A%2F%2Fgithub.com%2Fzarazhangrui%2Ffollow-builders&report=zarazhangrui+%28user%29)
+## [Releases](https://github.com/zarazhangrui/follow-builders/releases)
+No releases published
+## [Packages\ 0](https://github.com/users/zarazhangrui/packages?repo\_name=follow-builders)
+No packages published
+## [Contributors\ 1](https://github.com/zarazhangrui/follow-builders/graphs/contributors)
+- [![@github-actions[bot]](https://avatars.githubusercontent.com/in/15368?s=64&v=4)](https://github.com/apps/github-actions)[\*\*github-actions\[bot\]\*\*](https://github.com/apps/github-actions)
+## Languages
+- [JavaScript100.0%](https://github.com/zarazhangrui/follow-builders/search?l=javascript)
+You can’t perform that action at this time.

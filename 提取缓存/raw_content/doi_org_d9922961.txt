@@ -1,0 +1,232 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105453
+# Content Length: 23653 characters
+# Extracted at: 2026-03-31 05:08:58
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002210?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002210?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002210)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525002210/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002210?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002210?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002210?via%3Dihub#preview-section-snippets)
+- [References (81)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002210?via%3Dihub#preview-section-references)
+- [Cited by (2)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002210?via%3Dihub#preview-section-cited-by)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 240](https://www.sciencedirect.com/journal/computers-and-education/vol/240/suppl/C "Go to table of contents for this volume/issue"), January 2026, 105453
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00129-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/240/suppl/C)
+# Exploring characteristics of primary school students’ self-regulated learning (SRL) behaviors in human-GenAI collaborative programming learning environments: Insights from a proposed framework
+Author links open overlay panelXuechunMaa, CuixinLib, JieXua, ShiyunZhua, YanLia
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105453](https://doi.org/10.1016/j.compedu.2025.105453 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525002210&orderBeanReset=true)
+## Highlights
+- •
+Proposed a SRL Behavior Analysis Framework for human-GenAI collaborative programming learning.
+- •
+SRL strategies strongly correlate with programming performance.
+- •
+High performers use goal-driven SRL; low performers exhibit passive GenAI reliance.
+- •
+GenAI's facilitative effect in supporting learning correlated with user SRL capabilities.
+- •
+High performers exhibit frequent transitions between SRL behaviors.
+## Abstract
+Programming education in primary school is vital for nurturing future-ready talents, yet primary school students often struggle with self-regulated learning (SRL), particularly in resource utilization and strategy regulation. Although human-generative AI (GenAI) collaborative programming learning might have the potential to enhance personalized programming education, GenAI's interplay with SRL processes remains underexplored. To address this gap, this study first proposed a SRL Behavior Analysis Framework for human-GenAI collaborative programming learning environments and then examined SRL behaviors of a group of sixth-grade students (n = 36) in such an environment using this framework, along with various learning analytics methods including cluster analysis, descriptive statistics and lag sequential analysis. The analysis yielded the following results: (1) Based on their learning performance, primary school students were identified as three distinct clusters: programming specialized unit (PSU), high performance unit (HPU), and low performance unit (LPU). (2) Regarding SRL behaviors, students prioritized self-control (65.8 %), followed by self-observation (19 %), task analysis (12.1 %), and behavior stagnation (3.2 %). (3) Students in PSU and HPU consistently adopted goal-oriented SRL strategies, whereas students in LPU exhibited passive dependence and fragmented strategy use. GenAI's facilitative effect in supporting learning correlated with users' SRL capabilities. (4) Students in PSU and HPU exhibited frequent transitions between SRL behaviors, whereas students in LPU had insufficient ability to switch strategies when facing programming difficulties. Based on these findings, this study proposed four forward-looking design recommendations: effectively integrating GenAI with the programming environment, utilizing multimodal data and AI for learning assessment and feedback, building a cluster-driven early warning mechanism, and conducting dynamic SRL analysis and guidance based on fine-grained time-series data.
+## Introduction
+As the cornerstone of the digital world, computer programming has witnessed growing significance in modern education and technological development (Yilmaz & Karaoglan Yilmaz, 2023). Exploring learners’ behavioral processes and outcomes of programming learning have remained a focal interest for computer education researchers (Song et al., 2021). Many studies have strived to explore the connection between learning behaviors and performance (Mai et al., 2022; Omer et al., 2023). In traditional programming environments, students may lack targeted instructional scaffolding from teachers, while demonstrating a strong cognitive need for advanced learning tools (Cheng et al., 2024; Mai et al., 2022).
+The emergence of generative artificial intelligence (GenAI) has significantly enriched personalized learning experiences (Khalil et al., 2024; Yilmaz & Karaoglan Yilmaz, 2023) and demonstrated substantial potential in programming education (Sun, Boudouaia, Zhu, & Li, 2024). Whether students can effectively use GenAI to facilitate programming learning depends on their strategy of self-regulated learning (SRL), which emphasizes learners’ active regulation of goal-setting and resource management (Silva et al., 2024; Wong et al., 2021). In-depth analysis of SRL strategy adoption among learners with divergent programming learning performance levels may inform educators some useful interventions to improve coding skill (Cheng et al., 2024).
+While GenAI can provide learners with timely tools to facilitate SRL practice (Shen et al., 2025; Yilmaz & Karaoglan Yilmaz, 2023), and investigating heterogeneous learning patterns is vital for delivering personalized pedagogical support (Yoon et al., 2021), there is a notable gap in the literature concerning human-GenAI collaborative programming behaviors and learners' SRL processes in programming education. Therefore, we proposed a SRL Behavior Analysis Framework for synthesizing human-GenAI collaboration and programming behaviors. This framework utilizes SRL principles to dissect learners' behavioral patterns and to provide targeted, data-driven instructional strategies for educators. Ultimately, this study contributes to enhancing programming learners’ SRL in human-GenAI collaborative learning environments by exploring its potential.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002210)
+## Section snippets
+## The importance of integrating GenAI with K-12 programming education
+Programming is commonly defined as the intricate process of designing, writing, testing, and debugging computer instructions to accomplish specific tasks or solve problems (Cheng et al., 2024). Recognized as a critical core competency, programming has emerged as a focal point in global educational reforms. Consequently, educational systems worldwide have incorporated programming into their national curricula (Lindberg et al., 2019) to cultivate students’ adaptability to evolving societal
+## Participants
+The study invited 36 sixth-grade students from a typical public primary school located in Hangzhou to attend a designed eight-week human-GenAI collaborative programming learning course, which were part of information and technology education in Chinese primary education. Hangzhou is the capital city of Zhejiang Province and it stands at the forefront of K-12 information and technology education in China. All students had no prior exposure to GenAI and, to reduce students’ cognitive load about
+## Identified clusters of primary school students in human-GenAI collaborative programming learning environments
+After the course, summative assessment was carried out to determine students’ programming learning performance in two dimensions (coding skill and problem solving). Most students got high scores in the assessment. Compared to the dimension of problem solving, students performed better in the dimension of coding skill. Based on the K-means clustering results of the two dimensions, participants were identified as three clusters (see Fig. 3): cluster 1 (blue area, consisting of 4 pairs of
+## Discussion and implication
+The rapid development of K-12 programming education and GenAI-assisted SRL activities have spurred innovative instructional practices. However, research on students' SRL behaviors within these human-GenAI collaborative programming environments remains limited. This research proposed a novel SRL Behavior Analysis Framework and empirically investigate primary school students’ SRL behaviors and their sequential transformations using multiple learning analytic methods.
+This study primarily addressed
+## Conclusion, limitations and future directions
+With the rapid development of GenAI and its application in programming education, human-GenAI collaborative programming learning have become more and more popular practice in K-12 schools. It might lead to substantial differences in learners' programming learning performance and their SRL behaviors. However, there has been limited research focusing on students' performance and SRL behaviors in such innovative learning environments. To explore this issue, the study first proposed a SRL Behavior
+## Notes on contributors
+Xuechun Ma is a Master candidate specializing in Educational Technology at the College of Education, Zhejiang University, China. Her research interests include artificial intelligence in education, information technology in education, learning analytics, and related fields.
+Cuixin Li is a doctoral student specializing in Educational Technology at the School of Education, Beijing Normal University, China. Her research interests include artificial intelligence in education, educational equality,
+## CRediT authorship contribution statement
+\*\*Xuechun Ma:\*\* Writing – original draft, Visualization, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Cuixin Li:\*\* Writing – review & editing, Methodology, Conceptualization. \*\*Jie Xu:\*\* Writing – review & editing, Methodology, Investigation. \*\*Shiyun Zhu:\*\* Formal analysis. \*\*Yan Li:\*\* Writing – review & editing, Supervision, Resources, Project administration, Funding acquisition, Conceptualization.
+## Funding
+This work was funded by Chinese National Science and Technology Major Project (2022ZD0115904).
+## Acknowledgement
+The authors would like to extend our gratitude to students who engaged in our research.
+Recommended articles
+- S. An \_et al.\_
+### [Impacts of generative AI on student teachers' task performance and collaborative knowledge construction process in mind mapping-based collaborative environment](https://www.sciencedirect.com/science/article/pii/S0360131524002410)
+### Computers & Education
+(2025)
+- P.-Y. Chao
+### [Exploring students' computational practice, design and performance of problem-solving through a visual programming environment](https://www.sciencedirect.com/science/article/pii/S0360131516300161)
+### Computers & Education
+(2016)
+- G. Cheng \_et al.\_
+### [Exploring differences in self-regulated learning strategy use between high- and low-performing students in introductory programming: An analysis of eye-tracking and retrospective think-aloud data from program comprehension](https://www.sciencedirect.com/science/article/pii/S0360131523002257)
+### Computers & Education
+(2024)
+- X. Geng \_et al.\_
+### [The effects of different metacognitive patterns on students' self-regulated learning in blended learning](https://www.sciencedirect.com/science/article/pii/S0360131524002252)
+### Computers & Education
+(2025)
+- S. Groothuijsen \_et al.\_
+### [AI chatbots in programming education: Students' use in a scientific computing course and consequences for learning](https://www.sciencedirect.com/science/article/pii/S2666920X24000936)
+### Computers and Education: Artificial Intelligence
+(2024)
+- M. Hatala \_et al.\_
+### [Progression of students' SRL processes in subsequent programming problem-solving tasks and its association with tasks outcomes](https://www.sciencedirect.com/science/article/pii/S1096751622000379)
+### The Internet and Higher Education
+(2023)
+- H. Hu \_et al.\_
+### [An effective and adaptable K-means algorithm for Big data cluster analysis](https://www.sciencedirect.com/science/article/pii/S003132032300105X)
+### Pattern Recognition
+(2023)
+- C. Huang \_et al.\_
+### [How does social support detected automatically in discussion forums relate to online learning burnout? The moderating role of students' self-regulated learning](https://www.sciencedirect.com/science/article/pii/S0360131524002276)
+### Computers & Education
+(2025)
+- F. Kalelioğlu
+### [A new way of teaching programming skills to K-12 students: Code. org](https://www.sciencedirect.com/science/article/pii/S0747563215004288)
+### Computers in Human Behavior
+(2015)
+- S.-C. Kong \_et al.\_
+### [Dynamic interplays between self-regulated learning and computational thinking in primary school students through animations and worksheets](https://www.sciencedirect.com/science/article/pii/S0360131524001404)
+### Computers & Education
+(2024)
+L. Lim \_et al.\_
+### [Effects of real-time analytics-based personalized scaffolds on students' self-regulated learning](https://www.sciencedirect.com/science/article/pii/S0747563222003673)
+### Computers in Human Behavior
+(2023)
+T.T. Mai \_et al.\_
+### [Learning behaviours data in programming education: Community analysis and outcome prediction with cleaned data](https://www.sciencedirect.com/science/article/pii/S0167739X21003344)
+### Future Generation Computer Systems
+(2022)
+I. Molenaar
+### [The concept of hybrid human-AI regulation: Exemplifying how to support young learners' self-regulated learning](https://www.sciencedirect.com/science/article/pii/S2666920X2200025X)
+### Computers and Education: Artificial Intelligence
+(2022)
+A.W. Ou \_et al.\_
+### [Conceptualising and cultivating Critical GAI Literacy in doctoral academic writing](https://www.sciencedirect.com/science/article/pii/S1060374324000638)
+### Journal of Second Language Writing
+(2024)
+F.-C. Ou Yang \_et al.\_
+### [Effect of augmented reality-based virtual educational robotics on programming students' enjoyment of learning, computational thinking skills, and academic achievement](https://www.sciencedirect.com/science/article/pii/S0360131522002925)
+### Computers & Education
+(2023)
+F. Ouyang \_et al.\_
+### [Making strides towards AI-supported regulation of learning in collaborative knowledge construction](https://www.sciencedirect.com/science/article/pii/S0747563223000018)
+### Computers in Human Behavior
+(2023)
+M. Pan \_et al.\_
+### [Effects of GenAI-empowered interactive support on university EFL students' self-regulated strategy use and engagement in reading](https://www.sciencedirect.com/science/article/pii/S1096751624000538)
+### The Internet and Higher Education
+(2025)
+J. Park \_et al.\_
+### [Preventing digital distraction in secondary classrooms: A quasi-experimental study](https://www.sciencedirect.com/science/article/pii/S0360131524002379)
+### Computers & Education
+(2025)
+S. Radović \_et al.\_
+### [Investigating the effects of different levels of students' regulation support on learning process and outcome: In search of the optimal level of support for self-regulated learning](https://www.sciencedirect.com/science/article/pii/S0360131524000551)
+### Computers & Education
+(2024)
+J. Saint \_et al.\_
+### [Temporally-focused analytics of self-regulated learning: A systematic review of literature](https://www.sciencedirect.com/science/article/pii/S2666920X22000157)
+### Computers and Education: Artificial Intelligence
+(2022)
+E.-Y. Seo \_et al.\_
+### [Prescriptive analytics for student success in an online university: Drawing learning Profiles from Trace observations for tailored support](https://www.sciencedirect.com/science/article/pii/S0360131525001526)
+### Computers & Education
+(2025)
+D. Song \_et al.\_
+### [Applying computational analysis of novice learners' computer programming patterns to reveal self-regulated learning, computational thinking, and learning performance](https://www.sciencedirect.com/science/article/pii/S0747563221000686)
+### Computers in Human Behavior
+(2021)
+C. Tikva \_et al.\_
+### [Mapping computational thinking through programming in K-12 education: A conceptual model based on a systematic literature review](https://www.sciencedirect.com/science/article/pii/S0360131520302815)
+### Computers & Education
+(2021)
+C.-W. Tsai \_et al.\_
+### [The effects of online peer-facilitated learning and distributed pair programming on students' learning](https://www.sciencedirect.com/science/article/pii/S0360131523001264)
+### Computers & Education
+(2023)
+M. Urban \_et al.\_
+### [ChatGPT improves creative problem-solving performance in university students: An experimental study](https://www.sciencedirect.com/science/article/pii/S0360131524000459)
+### Computers & Education
+(2024)
+J. Wong \_et al.\_
+### [Facilitating goal setting and planning to enhance online self-regulation of learning](https://www.sciencedirect.com/science/article/pii/S0747563221002363)
+### Computers in Human Behavior
+(2021)
+T.-C. Yang \_et al.\_
+### [The influences of a two-tier test strategy on student learning: A lag sequential analysis approach](https://www.sciencedirect.com/science/article/pii/S0360131514002747)
+### Computers & Education
+(2015)
+R. Yilmaz \_et al.\_
+### [The effect of generative artificial intelligence (AI)-based tool use on students' computational thinking skills, programming self-efficacy and motivation](https://www.sciencedirect.com/science/article/pii/S2666920X23000267)
+### Computers and Education: Artificial Intelligence
+(2023)
+M. Yoon \_et al.\_
+### [Video learning analytics: Investigating behavioral patterns and learner clusters in video-based online learning](https://www.sciencedirect.com/science/article/pii/S1096751621000154)
+### The Internet and Higher Education
+(2021)
+X. Zhang \_et al.\_
+### [A metaphor-based robot programming approach to facilitating young children's computational thinking and positive learning behaviors](https://www.sciencedirect.com/science/article/pii/S0360131524000538)
+### Computers & Education
+(2024)
+Y. Zhao \_et al.\_
+### [A meta-analysis of the correlation between self-regulated learning strategies and academic performance in online and blended learning environments](https://www.sciencedirect.com/science/article/pii/S0360131525000478)
+### Computers & Education
+(2025)
+B.J. Zimmerman
+### [Chapter 2 - Attaining self-regulation: A social cognitive perspective](https://www.sciencedirect.com/science/article/pii/B9780121098902500317)
+S.K. Banihashem \_et al.\_
+### Feedback sources in essay writing: Peer-generated or AI-generated feedback?
+### International Journal of Educational Technology in Higher Education
+(2024)
+S. Boguslawski \_et al.\_
+### Programming education and learner motivation in the age of generative AI: Student and educator perspectives
+### Information and Learning Sciences
+(2024)
+N.J. de Ruig \_et al.\_
+### Stimulating elementary school students' self-regulated learning through high-quality interactions and relationships: A narrative review
+### Educational Psychology Review
+(2023)
+J. Edwards \_et al.\_
+### Human-AI collaboration: Designing artificial agents to facilitate socially shared regulation among learners
+### British Journal of Educational Technology
+(2025)
+G. Fan \_et al.\_
+### The impact of AI-assisted pair programming on student motivation, programming anxiety, collaborative learning, and programming performance: A comparative study with traditional pair programming and individual approaches
+### International Journal of STEM Education
+(2025)
+Y. Fan \_et al.\_
+### Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance
+### British Journal of Educational Technology
+(2025)
+Z. Fields
+### The interplay between creativity, thinking Styles, higher education, and generative AI
+Q. Fu \_et al.\_
+### Predicting programming performance by using process behavior in a block-based programming environment
+### Interactive Learning Environments
+(2024)
+View more references
+- ### [A comparative study of expert, AI, and no external feedback on mathematics teacher learning outcomes in reflective practice](https://www.sciencedirect.com/science/article/pii/S0360131526000102)
+2026, Computers and Education
+Show abstract
+Feedback is crucial for teacher professional development, yet most studies focus on a single source (e.g., experts or peers). Longitudinal comparisons across sources and analyses of underlying mechanisms are rare. This study therefore investigates how different feedback sources influence teacher learning outcomes. A total of 522 teachers participated in a 13-week professional learning program, including three weeks of reflective practice. Participants were divided into three groups: NF (no external feedback), EF (expert feedback), and AF (AI feedback). Teaching videos, instructional design artifacts, and reflective journals were analyzed to assess outcomes. Teachers in the EF group achieved significantly higher learning outcomes than those in the AF group, who, in turn, outperformed the NF group. These findings underscore the distinctive value of expert feedback in providing depth of insight and contextual sensitivity, while also indicating that AI feedback, although timely and adaptive, cannot fully replace expert judgment. Cross-Lagged Panel Network (CLPN) analysis identified key behaviors and sequences across groups and revealed detailed temporal patterns within behavioral clusters. Qualitative interviews further demonstrated that feedback effectiveness is shaped by the interaction of three dimensions—Time, Object, and Level (TOL)—which form the basis of a framework with 16 elements. The study highlights the complementary strengths of AI adaptability and expert insight, suggesting that multi-source feedback enhances teacher professional development by integrating process support with higher-order regulation.
+- ### [Students' use patterns of generative artificial intelligence during problem-solving in an intelligent learning system: Achievement goal orientation matters](https://doi.org/10.1111/bjet.70059)
+2026, British Journal of Educational Technology
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525002210)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

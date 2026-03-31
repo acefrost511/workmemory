@@ -1,0 +1,236 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105281
+# Content Length: 22440 characters
+# Extracted at: 2026-03-31 05:10:54
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000491?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000491?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525000491)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525000491/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000491?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000491?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000491?via%3Dihub#preview-section-snippets)
+- [References (86)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000491?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 232](https://www.sciencedirect.com/journal/computers-and-education/vol/232/suppl/C "Go to table of contents for this volume/issue"), July 2025, 105281
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X0004X-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/232/suppl/C)
+# A latent profile analysis of teachers’ knowledge about and perceived usefulness of computational thinking and how teacher profiles relate to student achievement
+Author links open overlay panelSiu CheungKonga, MingLaib, YugenLib, Tak-YueDickson Chanb, YueTravess Zhangb
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105281](https://doi.org/10.1016/j.compedu.2025.105281 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525000491&orderBeanReset=true)
+## Highlights
+- •
+Few studies have examined teachers' latent profiles based on knowledge and beliefs.
+- •
+We analysed the profiles of 493 teachers based on their knowledge and perceived usefulness of CT.
+- •
+Three profiles were found: 1) high in both; 2) low in both; & 3) knowledgeable with low usefulness.
+- •
+Students taught by teachers high in both dimensions had better achievement than others.
+- •
+Hence cultivating both knowledge and perceived usefulness of CT is important for CT teachers.
+## Abstract
+Teacher competencies encompass the dimensions of knowledge and attitudes, yet few studies have analysed teachers' latent profiles in relation to the interaction between these two dimensions. [Latent profile analysis](https://www.sciencedirect.com/topics/psychology/latent-profile-analysis), which examines the interplay between variables to distinguish subgroups of individuals, has recently emerged in studies of computational thinking (CT) as a method for identifying student profiles. However, the latent profiles of CT teachers have not yet been analysed. We therefore analysed the latent profiles of a sample of 493 teachers who had participated in a [teacher development](https://www.sciencedirect.com/topics/social-sciences/teacher-professional-development) programme in CT, according to their knowledge and perceived usefulness of CT. Three profiles were identified: (1) highly knowledgeable with high perceived usefulness, (2) knowledgeable with low perceived usefulness, and (3) less knowledgeable with low perceived usefulness. Qualitative data further triangulated these findings. We also examined the learning achievement of 12,105 students taught by these teachers. Students taught by highly knowledgeable teachers with a high perceived sense of usefulness demonstrated significantly better achievement than their peers. Our findings highlight the importance of nurturing both knowledge of and perceived usefulness in CT. They also provide valuable insights for similar teacher development programmes, emphasizing the importance of peer mentoring support for less knowledgeable teachers. Additionally, we underscore the value of having teachers create artefacts using CT for instructional purposes, allowing them to gain firsthand experience of its usefulness. As few studies have explored teachers' latent profiles based on the dimensions of knowledge and attitudes, the contribution of this study extends beyond the domain of CT.
+## Introduction
+Teachers are key to the success of various educational initiatives (Datnow, 2020; Kong et al., 2023). According to the framework proposed by Blömeke and Delaney (2012), teacher competencies have two fundamental dimensions, one focusing on knowledge and the other on affect, beliefs and attitudes. However, little research has been conducted on teachers' latent profiles between these two dimensions (Holzberger et al., 2021). A latent profile analysis (LPA) takes a person-centred approach, which, in contrast to a variable-centred approach such as a regression analysis, can take into consideration the interplay between variables in identifying subgroups of individuals (Woo et al., 2024). For example, while a variable-centred approach can be used to examine the relationship between teachers' content knowledge and students' achievement (e.g., Kong & Lai, 2023), it cannot tell us whether there are subgroups of teachers based on the configuration of their content knowledge and their perceptions of the usefulness of a domain and how that configuration relates to students’ learning outcomes.
+To teach computational thinking (CT), an ability that has been identified as essential for the next generations (Wing, 2006), requires capacity building among teachers (Kong et al., 2020). While studies have examined the effectiveness of teacher development programmes in enhancing teachers' understanding of and attitudes towards CT (for reviews, see Mason & Rich, 2019; Ni et al., 2023), none have analysed the latent profiles of teachers who have completed such programmes and how these profiles relate to the learning outcomes of students. Despite the popularity of LPA in recent years (Woo et al., 2024) and its application in education studies in various domains (e.g., Dignath, 2021; Holmes & Schumacker, 2020; Huang et al., 2024), LPA of CT teachers remains unexplored, although researchers have begun to use this approach to understand the latent profiles of CT students (e.g., Guggemos et al., 2022; Uslu, 2023). A possible reason is that LPA requires a large sample size (Spurk et al., 2020). In this study, with the participation of around 500 primary school teachers in a teacher development programme in CT in Hong Kong, we analysed teachers' latent profiles based on their domain knowledge and perceived usefulness of CT. We then examined how these teacher profiles related to students’ learning achievement.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525000491)
+## Section snippets
+## CT education
+CT involves processes in ‘formulating problems so their solutions can be represented as computational steps and algorithms’ (Aho, 2012, p. 832). It is ‘a universally applicable skill set and attitude for everyone’ (Wing, 2006, p. 33), and hence there is an increasing demand to integrate CT into compulsory education systems globally to prepare students with the competencies to keep pace with the digital era (Bocconi et al., 2022). Students' CT can be cultivated through learning in a programming (
+## Research context
+This study was based on an initiative aimed at promoting CT education for primary students in Hong Kong. Schools joined the initiative voluntarily. We offered a module-based teacher development programme for teachers from the participating schools to implement a CT curriculum specifically designed for senior primary (aged 9 to 11) (see Kong et al., 2023; Kong & Lai, 2022a). To cultivate students' CT development, the curriculum featured block-based programming in three levels, using Scratch (
+## Identifying the number of teacher profiles
+The LPA results are presented in Table 1. We stopped at the model with four latent profiles because the indices showed that it performed worse than the model with three profiles, as indicated by larger AIC and BIC values, and some of its mean probabilities of profile memberships did not reach the cut-off value of 0.8. The LMRadj. LRT revealed a significant improvement from the two-profile to the three-profile model (p < .05), but no further improvement was found from the three-profile to
+## Discussion
+The aims of this study were to (1) analyse the latent profiles of CT teachers according to their content knowledge and perceived usefulness of CT after attending a teacher development programme, (2) identify whether teachers' demographics have any influence on their likelihood of being classified into any of the identified profiles, and (3) examine the relationships between these profiles and students’ learning achievement. Three profiles with distinctive characteristics were identified, and it
+## Implications
+This study has both theoretical and pedagogical implications. It contributes to the identification of teachers' latent profiles according to the dimensions of knowledge of a subject and its perceived usefulness after a professional development programme. Few studies have analysed teachers' latent profiles accounting for knowledge and affective dimensions (Holzberger et al., 2021). With CT as the subject domain, we identified, unsurprisingly, a teacher profile high in both knowledge and
+## Conclusion, implication, limitation and future research direction
+Using data from a sample of 493 teachers who had participated in a teacher development programme for CT education, this study analysed their latent profiles according to their content knowledge and perceived usefulness of CT. The LPA results suggested that a three-profile model best fit the data, and the three classified teacher profiles were as follows: (1) highly knowledgeable with high perceived usefulness, (2) knowledgeable with low perceived usefulness, and (3) less knowledgeable with low
+## CRediT authorship contribution statement
+\*\*Siu Cheung Kong:\*\* Writing – review & editing, Supervision, Resources, Project administration, Funding acquisition, Data curation, Conceptualization. \*\*Ming Lai:\*\* Writing – original draft, Methodology, Investigation, Formal analysis, Conceptualization. \*\*Yugen Li:\*\* Writing – original draft, Methodology, Investigation, Formal analysis. \*\*Tak-Yue Dickson Chan:\*\* Methodology, Investigation, Data curation. \*\*Yue Travess Zhang:\*\* Methodology, Investigation, Data curation.
+## Ethical approval
+The submitted work is original and has not been published elsewhere in any form or language, partially or in full. The author has included the ethical approval and all the relevant declaration statements in the submission of this manuscript.
+Informed consent: The author has obtained approval by the ethics committee of the University for the research involving humans and informed consent of human participants of this study.
+## Funding
+There is no funding support to this study.
+## Acknowledgment
+The authors would like to acknowledge the funding support of this Coolthink@JC project from the Hong Kong Jockey Club Charities Trust.
+\*\*Siu Cheung KONG\*\* is Research Chair Professor of E-Learning and Digital Competency at the Department of Mathematics and Information Technology and Director of Artificial Intelligence and Digital Competency Education Centre at The Education University of Hong Kong. His research interests include artificial intelligence literacy, metaverse literacy, computational thinking through coding education, STEM education, flipped classroom strategy, teacher development, mathematics education, and policy on
+Recommended articles
+- S.S. Al-Gahtani
+### [Empirical investigation of e-learning acceptance and assimilation: A structural equation model](https://www.sciencedirect.com/science/article/pii/S2210832714000246)
+### Applied Computing and Informatics
+(2016)
+- P.A. Ertmer \_et al.\_
+### [Teacher beliefs and technology integration practices: A critical relationship](https://www.sciencedirect.com/science/article/pii/S0360131512000437)
+### Computers & Education
+(2012)
+- D. Holzberger \_et al.\_
+### [Ready to teach? A profile analysis of cognitive and motivational-affective teacher characteristics at the end of pre-service teacher education and the long-term effects on occupational well-being](https://www.sciencedirect.com/science/article/pii/S0742051X21000093)
+### Teaching and Teacher Education
+(2021)
+- T.-C. Hsu \_et al.\_
+### [How to learn and how to teach computational thinking: Suggestions based on a review of the literature](https://www.sciencedirect.com/science/article/pii/S0360131518301799)
+### Computers & Education
+(2018)
+- S.C. Kong \_et al.\_
+### [A study of primary school students' interest, collaboration attitude, and programming empowerment in computational thinking education](https://www.sciencedirect.com/science/article/pii/S0360131518302367)
+### Computers & Education
+(2018)
+- S.C. Kong \_et al.\_
+### [Validating a computational thinking concepts test for primary education using item response theory: An analysis of students' responses](https://www.sciencedirect.com/science/article/pii/S0360131522001336)
+### Computers & Education
+(2022)
+- S.C. Kong \_et al.\_
+### [Scaling up a teacher development programme for sustainable computational thinking education: TPACK surveys, concept tests and primary school visits](https://www.sciencedirect.com/science/article/pii/S0360131522002780)
+### Computers & Education
+(2023)
+- S.C. Kong \_et al.\_
+### [Teacher development in computational thinking: Design and learning outcomes of programming concepts, practices and pedagogy](https://www.sciencedirect.com/science/article/pii/S0360131520300713)
+### Computers & Education
+(2020)
+- M.J. Marcelino \_et al.\_
+### [Learning computational thinking and scratch at distance](https://www.sciencedirect.com/science/article/pii/S0747563217305526)
+### Computers in Human Behavior
+(2018)
+- A.T. Ottenbreit-Leftwich \_et al.\_
+### [Teacher value beliefs associated with using technology: Addressing professional and student needs](https://www.sciencedirect.com/science/article/pii/S0360131510001612)
+### Computers & Education
+(2010)
+H.N. Perera \_et al.\_
+### [Teacher self-efficacy profiles: Determinants, outcomes, and generalizability across teaching level](https://www.sciencedirect.com/science/article/pii/S0361476X18300195)
+### Contemporary Educational Psychology
+(2019)
+B.R. Romijn \_et al.\_
+### [Increasing teachers' intercultural competences in teacher preparation programs and through professional development: A review](https://www.sciencedirect.com/science/article/pii/S0742051X2031427X)
+### Teaching and Teacher Education
+(2021)
+D. Spurk \_et al.\_
+### [Latent profile analysis: A review and “how to” guide of its application within vocational behavior research](https://www.sciencedirect.com/science/article/pii/S0001879120300701)
+### Journal of Vocational Behavior
+(2020)
+X. Tang \_et al.\_
+### [Assessing computational thinking: A systematic review of empirical studies](https://www.sciencedirect.com/science/article/pii/S0360131519303483)
+### Computers & Education
+(2020)
+M. Tchoshanov \_et al.\_
+### [Analyzing connections between teacher and student topic-specific knowledge of lower secondary mathematics](https://www.sciencedirect.com/science/article/pii/S0732312316301195)
+### The Journal of Mathematical Behavior
+(2017)
+D. Thommen \_et al.\_
+### [Teachers' motivational profiles and their longitudinal associations with teaching quality](https://www.sciencedirect.com/science/article/pii/S0959475221000736)
+### Learning and Instruction
+(2021)
+L. Zhang \_et al.\_
+### [A systematic review of learning computational thinking through Scratch in K-9](https://www.sciencedirect.com/science/article/pii/S0360131519301605)
+### Computers & Education
+(2019)
+S.A. Agathangelou \_et al.\_
+### Customizing professional development opportunities to teachers' needs: Results from a latent profile analysis
+### The Elementary School Journal
+(2024)
+A.V. Aho
+### Computation and computational thinking
+### The Computer Journal
+(2012)
+H. Akaike
+### Information theory and an extension of the maximum likelihood principle
+S. Basu \_et al.\_
+### A principled approach to designing computational thinking concepts and practices assessments for upper elementary grades
+### Computer Science Education
+(2021)
+D.J. Bauer \_et al.\_
+### Modeling complex interactions: Person-centered and variable-centered approaches
+D. Bell
+### The reality of STEM education, design and technology teachers' perceptions: A phenomenographic study
+### International Journal of Technology and Design Education
+(2016)
+S. Blömeke \_et al.\_
+### Assessment of teacher knowledge across countries: A review of the state of research
+### ZDM Mathematics Education
+(2012)
+S. Bocconi \_et al.\_
+### Reviewing computational thinking in compulsory education
+(2022)
+M.A. Bowman \_et al.\_
+### Teachers' exposure to professional development and the quality of their instructional technology use: The mediating role of teachers' value and ability beliefs
+### Journal of Research on Technology in Education
+(2022)
+K. Brennan \_et al.\_
+### New frameworks for studying and assessing the development of computational thinking
+R. Çakır \_et al.\_
+### The effect of basic robotic coding in-service training on teachers' acceptance of technology, self-development, and computational thinking skills in technology use
+### Journal of Computers in Education
+(2021)
+G. Celeux \_et al.\_
+### An entropy criterion for assessing the number of clusters in a mixture model
+### Journal of Classification
+(1996)
+I. Cetin
+### Preservice teachers' introduction to computing: Exploring utilization of scratch
+### Journal of Educational Computing Research
+(2016)
+L.M. Collins \_et al.\_
+### Latent class and latent transition analysis: With applications in the social, behavioral, and health sciences
+(2010)
+M. Cutumisu \_et al.\_
+### A scoping review of empirical research on recent computational thinking assessments
+### Journal of Science Education and Technology
+(2019)
+A. Datnow
+### The role of teachers in educational reform: A 20-year perspective
+### Journal of Educational Change
+(2020)
+B.S. Diamond \_et al.\_
+### Effectiveness of a curricular and professional development intervention at improving elementary teachers' science content knowledge and student achievement outcomes: Year 1 results
+### Journal of Research in Science Teaching
+(2014)
+C. Dignath
+### For unto every one that hath shall be given: Teachers' competence profiles regarding the promotion of self-regulated learning moderate the effectiveness of short-term teacher training
+### Metacognition Learning
+(2021)
+L. El-Hamamsy \_et al.\_
+### How are primary school computer science curricular reforms contributing to equity? Impact on student learning, perception of the discipline, and gender gaps
+### International Journal of STEM Education
+(2023)
+P.A. Ertmer \_et al.\_
+### Teacher technology change: How knowledge, confidence, beliefs, and culture intersect
+### Journal of Research on Technology in Education
+(2010)
+M. Fishbein \_et al.\_
+### Belief, attitude, intention and behavior: An introduction to theory and research
+(1975)
+S. Grover \_et al.\_
+### What we can learn about student learning from open-ended programming projects in middle school computer science
+S. Grover \_et al.\_
+### Computational thinking in K–12: A review of the state of the field
+### Educational Researcher
+(2013)
+J. Guggemos \_et al.\_
+### Computational thinking assessment-towards more vivid interpretations
+### Technology, Knowledge and Learning
+(2022)
+T.R. Guskey
+### Professional development and teacher change
+### Teachers and Teaching
+(2002)
+A. Hartl \_et al.\_
+### Identifying teachers' motivational profiles and their changes from teacher education into practice: A longitudinal study
+### Zeitschrift für Erziehungswissenschaft
+(2022)
+View more references
+\*\*Siu Cheung KONG\*\* is Research Chair Professor of E-Learning and Digital Competency at the Department of Mathematics and Information Technology and Director of Artificial Intelligence and Digital Competency Education Centre at The Education University of Hong Kong. His research interests include artificial intelligence literacy, metaverse literacy, computational thinking through coding education, STEM education, flipped classroom strategy, teacher development, mathematics education, and policy on digital technology in education.
+\*\*Ming LAI\*\* is Post-doctoral Fellow at Artificial Intelligence and Digital Competency Education Centre at The Education University of Hong Kong. His research interests include the assessment of students' computational thinking, and models of teacher development.
+\*\*Yugen LI\*\* is Post-doctoral Fellow at Artificial Intelligence and Digital Competency Education Centre at The Education University of Hong Kong. His research interests include computational thinking education, STEM education, artificial intelligence education, and teacher professional development.
+\*\*Tak-Yue Dickson CHAN\*\* is Research Assistant at Artificial Intelligence and Digital Competency Education Centre at The Education University of Hong Kong. His research interests include computational thinking education, STEM education, and teacher development.
+\*\*Yue Travess ZHANG\*\* is Research Assistant at Artificial Intelligence and Digital Competency Education Centre at The Education University of Hong Kong. Her research interests include computational thinking education, STEM education, and teacher development.
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525000491)
+© 2025 Published by Elsevier Ltd.

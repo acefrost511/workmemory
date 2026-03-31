@@ -1,0 +1,625 @@
+# Source URL: https://doi.org/10.1007/978-3-031-84170-5_8
+# Content Length: 61025 characters
+# Extracted at: 2026-03-31 05:11:23
+#============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Using Emerging Technologies for Bridging Computational Thinking and Artificial Intelligence in Swedish Classrooms: Empirical Insights and Pedagogical Implications | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main-content)
+
+Advertisement
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/chapter/10.1007/978-3-031-84170-5_8)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+
+1. [Home](/)
+2. [Integrating Emerging Technologies into Education and Training: Proceedings of the 2nd ETELT 2024 Workshop](/book/10.1007/978-3-031-84170-5)
+3. Conference paper
+
+Using Emerging Technologies for Bridging Computational Thinking and Artificial Intelligence in Swedish Classrooms: Empirical Insights and Pedagogical Implications
+==================================================================================================================================================================
+
+* Conference paper
+* Open Access
+* First Online: 07 March 2025
+
+* pp 83–97
+* [Cite this conference paper](#citeas)
+
+
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) conference paper
+
+[Download book PDF](/content/pdf/10.1007/978-3-031-84170-5.pdf)
+
+[Download book EPUB](/download/epub/10.1007/978-3-031-84170-5.epub)
+
+
+
+
+
+[![]()
+
+Integrating Emerging Technologies into Education and Training: Proceedings of the 2nd ETELT 2024 Workshop](/book/10.1007/978-3-031-84170-5)
+(MIS4TEL 2024) 
+
+
+
+
+
+Using Emerging Technologies for Bridging Computational Thinking and Artificial Intelligence in Swedish Classrooms: Empirical Insights and Pedagogical Implications
+
+[Download book PDF](/content/pdf/10.1007/978-3-031-84170-5.pdf)
+
+[Download book EPUB](/download/epub/10.1007/978-3-031-84170-5.epub)
+
+
+
+
+
+* [Rafael Zerega](#auth-Rafael-Zerega) 
+  [ORCID: orcid.org/0009-0008-8564-9277](https://orcid.org/0009-0008-8564-9277)[12](#Aff12),
+* [Johanna Velander](#auth-Johanna-Velander) 
+  [ORCID: orcid.org/0000-0002-4144-6012](https://orcid.org/0000-0002-4144-6012)[12](#Aff12) &
+* [Marcelo Milrad](#auth-Marcelo-Milrad) 
+  [ORCID: orcid.org/0000-0002-6937-345X](https://orcid.org/0000-0002-6937-345X)[12](#Aff12)
+
+
+Part of the book series:
+[Lecture Notes in Networks and Systems](https://link.springer.com/series/15179) ((LNNS,volume 1274))
+
+
+
+
+Included in the following conference series:
+
+* [International Conference in Methodologies and intelligent Systems for Techhnology Enhanced Learning](https://link.springer.com/conference/mistel)
+
+
+* 1683 Accesses
+* 1 Citation
+
+
+
+
+Abstract
+--------
+
+The increasing use and application of Artificial Intelligence (AI) across various sectors in society, combined with the growing adoption of emerging technologies, emphasizes the urgent necessity to develop digital competencies in K-12 education, encompassing both digital literacy and AI literacy. Computational thinking (CT) has been recently incorporated into the educational curricula of several countries as it is regarded as an effective approach to improving problem-solving and programming skills. AI literacy, however, has only recently started to gain attention and make its way into K-12 teaching. Few studies to date have investigated to what extent having a technical understanding of AI methods and techniques can contribute to actual AI literacy thus finding effective ways to integrate this knowledge into policy and curricula. To address this problem and contribute with empirical insights, we designed and conducted a study identifying the challenges and the opportunities teaching basic concepts of AI to a class of middle school students. During a workshop series, an entire class of 8th graders engaged in hands-on activities related to CT and AI with a particular focus on machine learning. We identify a lack of prerequisite skills that impact students’ ability to engage in contextual AI-related activities due, at least partly, to poor programming skills. This, in turn, seems detrimental to gaining transferable skills in machine learning which are important given the interdisciplinary nature and broad application of these AI methods. We identify CT and programming as prerequisite skills necessary to achieve a deeper understanding of AI technology and its implications for individuals and society.
+
+
+You have full access to this open access chapter, 
+[Download conference paper PDF](/content/pdf/10.1007/978-3-031-84170-5_8.pdf?pdf=inline%20link)
+
+
+
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Computers and Education](/subjects/computers-and-education)
+* [Computational Intelligence](/subjects/computational-intelligence)
+* [Learning and Instruction](/subjects/learning-and-instruction)
+* [Skills](/subjects/skills)
+* [Technology and Design education](/subjects/technology-and-design-education)
+* [Artificial Intelligence](/subjects/artificial-intelligence)
+* [Artificial Intelligence Applications in Higher Education](/subjects/artificial-intelligence-applications-in-higher-education)
+
+1 Introduction
+--------------
+
+As emerging technologies like AI and educational robotics become increasingly prevalent, there is a pressing demand for educational curricula in K-12 settings to incorporate relevant teaching methods and content. Many countries are already providing education aimed at fostering the development of digital competencies as part of their strategies towards digitalization in education. Although programming has been present in K-12 education for quite some time, AI-related education is still trying to find its place in this context (Touretzky & Gardner-Mccune [2019](#ref-CR21)). One of the approaches to introducing programming to elementary schools has been through Computational Thinking (CT), which has been incorporated into the educational curricula in several countries (Grover & Pea [2018](#ref-CR8); Kafai & Burke, [2017](#ref-CR11)). As for the increasing need for education on AI in schools, different organizations have issued recommendations guiding countries worldwide to design their educational programs considering AI technology. For example, UNESCO has issued recommendations for AI curriculum development for K-12 (Miao et al. [2021](#ref-CR14)), likewise, in October 2022 the European Union updated its digital competence framework Dig Comp 2.2 to include aspects of data and AI (Voukari et al. 2022).
+
+Introducing AI concepts to students unfamiliar with the topic poses a significant challenge in the classroom. AI literacy in an educational context requires an interdisciplinary approach covering fundamental concepts of AI technology, its integration in applications, and its societal consequences. To better understand this process, we conducted a small exploratory study to get some insights regarding middle school students’ readiness to engage in AI-related education, particularly ML and, to identify possible challenges that may arise along the process. To reach these goals the following research questions were defined: (1) *What challenges can be identified when introducing AI and ML education to middle school students?* and (2) *What role does CT (programming) play as a prerequisite knowledge to engage meaningfully in AI literacy education?*
+
+To explore these questions, we designed and organized a series of workshops centered on CT and AI for middle school students in southern Sweden, forming the basis of our exploratory study. Throughout these workshops and using different tools and methods, the students reviewed basic concepts of rule-based programming and were introduced to fundamental concepts of AI technology, particularly ML. By engaging the students in these activities, we aim at gaining some insights regarding the challenges of introducing students to the topic of AI technologies while analysing the possible connection of this subject with CT. The remainder of the paper is structured as follows: the next section provides the theoretical perspectives that guided the design of this study, namely computational thinking, and AI literacy. The proceeding section describes the rationale for the workshop design and its implementation followed by the methods chosen for analysing the data we collected. We then report the obtained results and finalize this paper by discussing the implications of these outcomes. The paper ends by offering insights and reflections, along with recommendations for future research efforts connected to this study.
+
+2 Theoretical Perspectives
+--------------------------
+
+In this section, we describe two concepts that are relevant to the workshop design and that serve as the basis for analysis of the learning process, namely computational thinking and AI literacy. It is important to clarify that these concepts are described in the context of K-12 education.
+
+### 2.1 Computational Thinking in K-12
+
+Computational thinking (CT) is an approach to problem-solving that has been gradually introduced in the curricula for K-12 education in several countries around the world and it is regarded as an important skill for problem-solving (Bocconi [2016](#ref-CR1); Grover et al. [2013](#ref-CR7)). Countries like Australia, the USA, Finland, Estonia, and the UK, to mention just a few, have introduced CT in their K-12 curricula to develop programming skills and other digital competencies among students (Grover & Pea [2018](#ref-CR8)). However, CT in the context of K-12 education remains a vaguely defined concept and thus, it has been relatively difficult to agree on how to impart CT knowledge (Grover & Pea [2013](#ref-CR7); Selby & Woolland [2013](#ref-CR17)). Some scholars have defined ways of categorizing what are the core concepts of CT as an approach to problem-solving, ranging from concepts that are exclusively connected to the process of programming and building algorithms, to other higher-level aspects of CT such as the role of collaboration and the importance of questioning (Brennan & Resnick [2012](#ref-CR2); Grover & Pea [2018](#ref-CR8)). Although it has been suggested that in its current form CT does not include relevant aspects of AI and that it should be upgraded to better reflect AI technology (Dohn et al. [2022](#ref-CR4); Tedre et al. [2021](#ref-CR20)), some concepts of classic CT are still relevant for understanding some of the underlying approaches and methods of AI technology (Heintz [2022](#ref-CR10); Zerega & Milrad [2023](#ref-CR27)). Throughout this article, we will refer to CT and rule-based programming interchangeably.
+
+### 2.2 AI Literacy in K-12
+
+Literacy is a term that has long been used to describe abilities to make meaning out of and express oneself through written text (Knobel & Lankshear [2014](#ref-CR9)). As text is nowadays communicated and distributed through more means than printed static documents, new literacies accounting for such practices have emerged (Knobel & Lankshear [2014](#ref-CR9)). Rapid development and broad uptake of digital technologies have sparked a growing interest in digital literacy (Merchant [2021](#ref-CR13)) which has lately expanded to include AI literacy (Long & Magerko 2020) and data literacy (Wolff et al. [2016](#ref-CR26)) to account for data-driven practices commonly embedded in digital solutions and applications (Velander et al. [2023](#ref-CR22)). Digital and data-driven practices such as ML rely on data representing individuals and objects by proxy, influencing decision-making processes, recommendations, and predictions used in most domains and parts of society (Merchant [2021](#ref-CR13)). As such it has implications for social, political, and democratic engagement and thus calls for a critical perspective on literacy rather than a more traditional or functional literacy. Functional literacy prepares individuals with relevant skills and knowledge to be part of a future life and workforce, critical literacy also provides prerequisites for civic engagement and social empowerment (Giroux [1998](#ref-CR6)). Recent reviews on the conceptualization of AI literacy, however, reveal a prominent focus on functional literacy and largely leave out critical perspectives on AI concepts, applications, and ethical implications that facilitate reflections on past, present, and future use of technologies (Velander et al., in press). AI literacy is currently being promoted to be included in policy and curricula in K-12 education, for example, the EU has recently extended its digital competence framework, DigComp 2.2. (Vourkari et al. 2023) to account for AI and data literacy.
+
+3 Methodological Approach
+-------------------------
+
+This section presents important aspects regarding the methodological approaches used in the design and implementation of the workshops.
+
+### 3.1 Informing the Design of the Workshops
+
+The proposed workshop activities were designed considering specific pedagogical methods, characteristics of the group of students that participated in the workshops and the learning objectives that we defined based on existing frameworks about CT and AI in K-12 and study plans for developing basic AI knowledge.
+
+### Pedagogical Methods.
+
+We based the design of the workshop activities on two main pedagogical methods, namely *challenge-based learning*, and *inquiry-based learning*, both with a *constructionist approach*. We used challenge-based learning for hands-on activities where students were required to devise and implement a working solution to address a specific problem or challenge (Conde et al. [2019](#ref-CR3)). In addition, we used inquiry-based learning as the pedagogical method for those hands-on activities where students had to try out different tools and systems based on AI technology as we wanted to engage students in reflecting on the main characteristics of this technology and the potential of systems based on AI and ML (Pedaste et al. [2015](#ref-CR16)). The written exercises aimed at getting students to reflect on how AI technology works and how it compares to traditional rule-based programming were also based on inquiry-based learning.
+
+### Settings and Participants.
+
+The workshops in this study were conducted during the autumn semester of 2023/2024 with seventeen 8th-grade students aged 14–15. These workshop sessions took place in a public school run by a municipality in southern Sweden, and it has a specific orientation towards natural sciences and technology. It is important to mention that these workshops took place as part of their curricular schedule and were agreed upon with their head teachers and the students’ parents who were sent a letter of consent where they were informed about the workshops that were going to take place, the topics to be covered and the type of data to be collected during the workshop sessions.
+
+### Pre-intervention Questionnaire to Determine Students’ Previous Knowledge.
+
+Before the workshop sessions, the students had to fill in a questionnaire that provided us with relevant information regarding their previous knowledge of programming and AI. We used the information from this questionnaire to choose the type of activities and tools for the workshops.
+
+### The Swedish Curriculum to Determine Students’ Previous Knowledge.
+
+In Swedish K-12 education both CT and AI literacy is only implicitly included under the umbrella term Adequate digital competence (Skolverket [the Swedish National Agency for Education] [2022](#ref-CR19)). All teachers at all levels of K-12 education and all subject topics are responsible for providing the necessary education for students to become digitally competent. However, as the concept is vaguely defined and lacks specific assessment criteria it is open to interpretation by teachers and often must give way to defined and assessed teaching (Velander et al. [2023](#ref-CR22)). We assumed students participating in this workshop series already possessed certain knowledge of basic programming, as according to the current Swedish curriculum, 8th-grade students have already received education in this topic. According to this curriculum (Skolverket [2018](#ref-CR18)), the subjects of mathematics explicitly mention programming in the overall objectives and both topics of mathematics and technology further specify learning goals for programming for primary 1–3, 4–6, and 7–9.
+
+### Workshop Structure.
+
+We conducted five workshops for a total of 16 classroom hours. The activities focused on AI were loosely based on the MIT AI Ethics Curriculum (Payne [2019](#ref-CR15)), and the AI literacy competency framework by Long and Magerko ([2020](#ref-CR12)), whereas the activities focusing on CT and programming were based on the CT framework from Brennan and Resnick ([2012](#ref-CR2)). The following is the general structure of each of the workshop sessions:
+
+1. 1.
+   
+   Brief keynote presentation of the main topics to be covered during the workshop session.
+2. 2.
+   
+   Hands-on activities on the main topics of the session using different tools and materials.
+3. 3.
+   
+   A moment for discussing the main topics covered in the workshop session.
+4. 4.
+   
+   Written exercise about the main concepts covered in the workshop session.
+
+Table [1](#Tab1) below depicts the learning objectives for each hands-on activity, the description of the actual activity and the tool used to teach those learning objectives. Sessions 1, 2 and 5 focused on getting the students to test different systems that use AI technology and then engaging in reflective activities such as group discussion and answering written exercises. These activities were based on inquiry-based learning. Session 2 and 4 were based on challenge-based learning and they required the student to devise a working solution to address a specific challenge or problem. While in session 2 the solutions created by the students were based on traditional rule-based programming only, in session 4 the students had to devise a solution based on rule-based programming in combination with an ML model that students had to create and train.
+
+**Table 1. Learning objectives for each hands-on activity, description of activity and tools used.**
+
+[Full size table](/chapter/10.1007/978-3-031-84170-5_8/tables/1)
+### 3.2 Data Collected and Analysis Method
+
+During the workshop series, we collected data of different types. The analysis will be based on qualitative content analysis. The data came from the following sources:
+
+* **Screen recordings:** from the programming-related activities using block-based programming in sessions 2 and 4 (640 min of video footage).
+* **Sound recordings:** from the group discussions during sessions 3, 4 and 5 (47 min of recorded audio).
+* **Participant-generated content:** from written exercises regarding programming and AI from sessions 3, 4, and 5 (a total of 65 pages of text)
+* **Observation and field notes:** Notes taken by the research team aiming at capturing students’ attitudes and behaviors.
+
+### Qualitative Content Analysis.
+
+A large and varied amount of data was collected during the workshops. We used Qualitative Content Analysis as we wanted to understand students’ progress. However, to avoid being constrained by the framework, our deductive approach was complemented with inductive coding using an unconstrained matrix (Elo and Kyngäs [2008](#ref-CR5)) allowing us to expand and reflect on the existing framework. The following steps were taken during the analysis process: in the first step, one of the authors transcribed all data from audio recordings and the written material handed in by students on paper. Another author then translated the material from Swedish to English. In this way, both authors familiarize themselves with the data. The second step entailed deductively coding the data based on the framework by Long and Magerko ([2020](#ref-CR12)) and Brennan and Resnick ([2012](#ref-CR2)) whilst we iteratively built a matrix and inductively expanded it with additional categories as we reviewed the collected data. In the final step, both authors discussed the data labelling and resolved possible disagreements.
+
+### 3.3 Frameworks for Analysis and Assessment
+
+The data generated by the students during the five teaching interventions were analysed using two frameworks well-known in their respective areas. For analysing students’ performance when engaging in rule-based programming we used the framework for assessing the development of CT by Brennan and Resnick ([2012](#ref-CR2)). This framework covers different dimensions of CT, some of them going beyond mere programming. In this study, we will focus mainly on the aspects of CT related to constructing algorithms and programming, referred to as CT concepts. As for the activities focused on AI- and ML-related topics we used the framework for AI literacy and competencies from Long and Magerko ([2020](#ref-CR12)). This framework enumerates a series of competencies regarding AI technology categorized into themes: *what is AI?*, *what can AI do?*, *how does AI work?, how should AI be used? and how is AI perceived?* In the next section, we present the results based on the data analysis.
+
+4 Results
+---------
+
+In this section, we delineate the outcomes derived from select workshop activities, specifically those focusing on the hands-on tasks and the written exercises. We first present results from the pre-intervention questionnaire to get insights regarding students’ initial knowledge on programming and AI. We then present results from the rule-based programming activities. Then we present results from some of the AI-related activities and lastly, we present results from activities where students had to bring together rule-based programming and AI techniques. Afterward, we proceed to present the outcomes of certain AI-related activities, followed by a description of the results obtained from tasks that required students to integrate rule-based programming with AI techniques.
+
+### 4.1 Results from the Pre-intervention Questionnaire *(N = 17)*
+
+Some of the main results from this questionnaire can be summarized as follows:
+
+* All 17 students report having received previous education in programming: (15) students had done block-based programming and (7) students had done textual programming.
+* Most students (15) gain their knowledge about AI from social media and other incidental sources and only (3) from school (intentional source).
+* Most students associate AI with robots (programmed or thinking) and chatbots, in particular ChatGPT. When asked what differentiates AI from other technology many (7) mention its ability to think and understand and some also mention that it can learn from experience or data (3). A few say it is smart (2) and has feelings (2).
+* Three students have never tried ChatGPT, seven have only tested it, five use it sometimes and only two use it regularly.
+
+### 4.2 CT and Rule-Based Programming
+
+As students had already received formal education in basic programming according to the Swedish curriculum and as confirmed by the results of the pre-intervention questionnaire, we decided to test their skills at an early stage of the workshop series. Session 2 was entirely focused on assessing their skills in CT and basic rule-based programming (see Table [1](#Tab1)). This session used challenge-based activities where students had to program wheeled robots equipped with different types of sensors. The students were given six challenges of increasing difficulty (challenge 1 was the easiest and challenge 6 was the hardest) requiring the use of different CT concepts such as loops, and conditionals. Figure [1](#Fig1) shows the level of completeness that the students achieved for each of the six challenges. These challenges ranged from constructing simple and short algorithms to more complex ones that would require the use of specific programming concepts like working with different data types and using logic/arithmetic operators and variables. Also, these challenges required students to decide the type of sensors that could work best for the specific challenge they were working on. For this activity, students worked in pairs.
+
+**Fig. 1.**
+
+[![]()](/chapter/10.1007/978-3-031-84170-5_8/figures/1)
+
+Level of completion of rule-based programming activities in session 2
+
+[Full size image](/chapter/10.1007/978-3-031-84170-5_8/figures/1)
+
+Figure [1](#Fig1) shows that the completion level decreased considerably as the challenges increased in difficulty and required more complex CT concepts. Only the first challenge (which required the construction of a short algorithm based on a single loop) was completed by all groups. However, challenges 4, 5, and 6 (which required using conditionals, logic/arithmetic operators, and variables) were completed successfully by only one group. The relatively low performance of the students during these challenged-based programming activities suggests that they have difficulty applying programming concepts and expressing abstract ideas through algorithmic thinking. In addition, difficulties in debugging code might also have contributed to the low completion rates in many of the challenges.
+
+### 4.3 AI and ML
+
+We covered AI-related topics during the workshop sessions 1, 3, 4, and 5 (see Table [1](#Tab1)). We attempted to gain insights on the conceptualizations that students had regarding AI technology. In addition, we introduced the students to some fundamental concepts of AI such as the role of datasets and training ML models.
+
+### Students’ Conceptualizations of AI.
+
+At the beginning of session 1, we used a real time data collection tool to get a picture of some students’ notions and preconceptions regarding AI. Most students associate AI with robots and ChatGPT. Out of the 16 students that answered the multiple-choice questions 11 consider AI to be intelligent, nine that it can think and understand but only three think it has emotions. Students’ main worries about AI are that it might replace humans, spread misinformation, take over the world, and that it could be detrimental to the human ability to think by themselves. The positive attitudes to AI were related to efficiency and automation of tasks while only a few considered it positive for creativity. Surprisingly, since most consider AI to be intelligent, they almost unanimously express that a goldfish is more intelligent than systems like ChatGPT or autonomous vehicles despite all these systems using AI.
+
+### Image Classification - Google Teachable Machine.
+
+During session 1, (see Table [1](#Tab1)), students worked in groups of two to three, they were given an imbalanced dataset with two classes, dogs and cats. The data was divided into a training set and a test set (Payne [2019](#ref-CR15)). After training the classifier with the training data the students used the test data to see the accuracy with which the black boxed model could predict the correct class. The students then wrote down why they thought that the model had better accuracy predicting one class than the other. The more obvious reasons such as one dataset being overrepresented in numbers were quickly mentioned. The students then started looking at the variety of dogs and cats represented in these datasets. One class was more homogenous than the other and then these features were discussed in detail. Students were tasked to retrain their model and had to go looking for images available to create representational and fair datasets. The discussion after the activity suggests that students could relate this knowledge about data representation to other contexts and implications thereof such as unfair and less accurate predictions for underrepresented groups.
+
+### Learning the Fundamentals of Machine Learning.
+
+In session 3 (see Table [1](#Tab1)) students were involved in activities about supervised and unsupervised machine learning using their own data. We prepared some Python code using machine learning and data visualisation libraries. Students had to note down their shoe size and heights on a post-it note, and all the values were entered into a data frame with labels and one data frame unlabelled. Running the script produced visualisations of the data using linear regression to classify the data. The data was inspected and although high accuracy in predicting the students’ gender was achieved some students were misclassified. The same situation happened when using K means clustering on the unlabeled data. Students expressed two main insights from this exercise, 1) misclassification due to under/over representation of certain (normal) values, and 2) how seemingly irrelevant data such as height and shoe size can predict information that might be considered sensitive, such as gender.
+
+### 4.4 Relationship Between AI and CT
+
+To get a deeper insight on students’ understanding of AI and ML concepts, we engaged them in some exercises and hands-on activities where they had to reflect on the relationship between AI-based methods and traditional rule-based programming.
+
+### Conceptualising the Relationship Between CT and AI.
+
+To this end, the students were given a written exercise where they were asked to explain the main characteristics of AI and rule-based programming, and to find possible differences and/or similarities between these two approaches. We found that the main descriptions mentioned by the students about AI can be connected to some of the main AI competencies listed in the framework for AI literacy from Long and Magerko (see table in Figshare for more details). Among the most frequent characteristics of AI given by students are the ability to make decisions and to learn from examples. Furthermore, students mention other attributes of AI such as being able to figure out things, draw conclusions, work for a wide range of situations, and that it can answer questions. In this exercise, 11 out of 12 students managed to provide a definition of AI and ML that is at least partly related to some of the main AI competencies listed in the framework for AI literacy.
+
+As for the descriptions regarding rule-based programming, most students mentioned that this method is based on the construction of programs containing rules. Although they expressed this idea with slight differences from one another, considering the CT concepts from the framework by Brennan and Resnick, we find that 11 out of 12 students connected rule-based programming with the CT concept of sequence (see table in Figshare for more details). The students referred to the sequential nature of rule-based programming emphasizing aspects such as the fact that it is a set of rules, a code containing instructions that a computer follows, and that it is a step-by-step process. The students even mentioned other aspects attributed to rule-based programming, which go beyond the CT framework. For instance, some students mentioned that systems built on rule-based programming cannot learn, that they are suitable for simple tasks only, that they cannot deal with situations that go beyond the rules defined in their original programs and that a person is needed for programming the rules. Although it is debatable how accurate these definitions are, they are a reminder that apart from the technical concepts that students managed to understand during the workshops regarding the main characteristics of ML and rule-based programming, there also might be some notions that are at least partly based on personal or collective perceptions and preconceptions.
+
+### Practically Integrating CT and AI.
+
+The last challenge-based exercise in the workshop series (see session 4 in Table [1](#Tab1)) was a hands-on activity aimed at testing students’ abilities to integrate rule-based programming with AI techniques contributing to a working application. The main task was that students working in pairs had to create and train ML models (using Machine Learning for Kids) and then integrate them into a script built in Scratch. For this activity students would choose their challenges based on their skills and interests. The results from this activity show that in general, students did not encounter major problems when training the ML models (only 2 out of 9 groups could not complete the entire training process). Taking into consideration that students had already been working on training other ML-based systems during the workshop series (e.g. when they worked training the Google Teachable Machine or when training Misty the robot to recognize faces), this could account for the higher success rate in this phase of the exercise. Also, students showed a higher level of engagement when training ML models as they found it a fun task. The situation changed considerably during the second phase of this exercise where students had to integrate the trained models in a script built in Scratch, where only 2 out of 9 groups managed to carry out this task successfully. The students encountered complications using CT and programming concepts, such as conditionals and logic operators when constructing the algorithms. These difficulties that students experienced when programming in Scratch were similar to those they had when programming the wheeled robots during session 2. This suggests that, although students had previous experience doing programming, they still struggle to understand some CT and programming concepts and thus, it is difficult for them to abstract an idea for a solution to a given problem and express it using algorithmic logic.
+
+5 Discussions
+-------------
+
+Introducing core concepts related to AI literacy in K-12 education poses several challenges. Our study highlights some of these challenges and in this section, we discuss potential ways to approach these issues.
+
+### Conceptualisations of AI.
+
+Students hold beliefs of what AI is and what it is capable of. Some of the pre-existing beliefs persist even after students have engaged in workshops related to data and ML. Although students managed to understand basic concepts of AI in the context they were taught during the workshops, transferring this specific knowledge to other different contexts proved challenging, which could explain why some preconceptions about AI persist. Furthermore, even if our results suggest that students acquired a certain understanding about AI and ML methods, this knowledge is basic and superficial and therefore it is hard to assess to what extent it derives from the teaching interventions rather than from other sources more related to social preconceptions of this technology. These possible preconceptions may pose some difficulties especially when teaching AI-related topics to students that have not yet received formal education in this subject.
+
+### Limited Knowledge in Programming.
+
+Based on current Swedish curriculum, programming is part of mathematics and technology from first class to ninth grade, however our results show that students’ actual knowledge in programming is limited. One issue might be that there are no clear criteria for assessing programming abilities and there are no specific learning objectives either. It is then up to the teacher to integrate programming in their own particular manner. Another possible issue is that programming is only taught in the context of mathematics and technology aiming at doing maths and solving technological problems. However, this poses a big limitation as in the context of mathematics the use of programming might tend to be isolated from the larger socio technical perspectives that exist in the real world which may result in lack of interest and engagement from the students to learn traditional rule-based programming. This situation is in stark contrast to the interdisciplinary nature of AI where students can use this technology to engage with other subjects such as language, art, or biology. Our results reflect this as students showed higher levels of engagement when working with systems based on AI techniques.
+
+### The Way Towards Adequate Digital Competences.
+
+Being digitally competent according to the Swedish Agency for Education requires abilities to 1) solve problems and put ideas into action 2) use and understand digital tools and media, 3) have a critical and responsible approach, and 4) understand societal implications of digitalisation. The ongoing process of digitalization in education will require study plans to include topics regarding the use of emergent technologies like AI and ML where students can explore the possibilities offered by these new technologies to devise and evaluate solutions in modern society. However, it is precisely in this area where we identified some of the main challenges when introducing middle school students to AI, as they showed clear difficulties when engaging in activities where they were required to devise a solution solving different problems and tasks. Students seem to have problems applying CT and programming concepts when devising solutions. It is therefore necessary that students understand the importance of CT and AI as both methods are needed when developing advanced solutions to address complex problems. The interrelation between traditional rule-based programming and AI are important aspects for fostering AI literacy and digital competences among K-12 students. Thus, understanding the fundamentals of CT and traditional programming is a prerequisite for reaching a deeper comprehension of what AI technology is, what it can do and how it can help us develop our problem-solving skills.
+
+### Contextualising ML and AI When Opening the Black Box.
+
+Our results also indicate that engaging with ML and AI on abstract levels and removing the complexity from the process gave students the impression that AI and ML are easier to implement than CT concepts and traditional programming. Therefore, working with the outcomes of black boxed ML models in conjunction with visualizing ML concepts such as linear regression and clustering (see session 3 in Table [1](#Tab1)) seems important to facilitate a deeper understanding of the complexity of ML and AI. This method could help demystify AI as the so-called Eliza effect as well as the tale-spin effect (Long & Magerko [2020](#ref-CR12)) are persistently present in students’ responses to how they conceptualize and perceive AI.
+
+6 Conclusions, Limitations and Future Work
+------------------------------------------
+
+Our study identified some potential challenges when introducing AI in elementary school education. There are a series of preconception that students have about what AI technology is and what it can do. After conducting the hands-on workshops, the students managed to acquire some basic understanding of AI and ML. However, this knowledge may still contain notions stemming from individual or collective preconceptions, which may constitute a hinder to a deeper comprehension of this subject. Traditional rule-based programming is a relevant prerequisite to reach a higher level of digital competence and AI literacy. Nevertheless, students exhibited limited skills in programming even if they have already received education in this topic in school. An integrated and complementary teaching of CT and AI concepts is necessary to foster AI literacy and problem-solving skills among students.
+
+This empirical study had a limited number of participants who all attended the same school. Therefore, our results are more exploratory than generalizable. Nevertheless, they provide insights regarding the challenges of introducing a new topic of study in K-12. Due to GDPR regulations for data and privacy protection, we took no photos during this study. In our upcoming endeavors, we aim to further refine and implement the workshop concepts and content outlined in this paper across a broader spectrum of schools. This expansion will allow us to glean additional insights and gather more comprehensive data to advance our explorations.
+
+
+
+References
+----------
+
+* Bocconi, S., et al.: Exploring the field of computational thinking as a 21st century skill. In: EDULEARN16 Proceedings, pp. 4725–4733, IATED (2016)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Bocconi%2C%20S.%2C%20et%20al.%3A%20Exploring%20the%20field%20of%20computational%20thinking%20as%20a%2021st%20century%20skill.%20In%3A%20EDULEARN16%20Proceedings%2C%20pp.%204725%E2%80%934733%2C%20IATED%20%282016%29)
+* Brennan, K., Resnick, M.: New frameworks for studying and assessing the development of computational thinking. In: Proceedings of the 2012 Annual Meeting of the American Educational Research Association, vol. 1, p. 25. Vancouver, Canada (2012)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Brennan%2C%20K.%2C%20Resnick%2C%20M.%3A%20New%20frameworks%20for%20studying%20and%20assessing%20the%20development%20of%20computational%20thinking.%20In%3A%20Proceedings%20of%20the%202012%20Annual%20Meeting%20of%20the%20American%20Educational%20Research%20Association%2C%20vol.%201%2C%20p.%2025.%20Vancouver%2C%20Canada%20%282012%29)
+* Conde, M.Á., et al.: RoboSTEAM-a Challenge based learning approach for integrating STEAM and develop computational thinking. In: Proceedings of the Seventh International Conference on Technological Ecosystems for Enhancing Multiculturality, pp. 24–30 (2019)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Conde%2C%20M.%C3%81.%2C%20et%20al.%3A%20RoboSTEAM-a%20Challenge%20based%20learning%20approach%20for%20integrating%20STEAM%20and%20develop%20computational%20thinking.%20In%3A%20Proceedings%20of%20the%20Seventh%20International%20Conference%20on%20Technological%20Ecosystems%20for%20Enhancing%20Multiculturality%2C%20pp.%2024%E2%80%9330%20%282019%29)
+* Dohn, N.B., Kafai, Y., Mørch, A., Ragni, M.: Survey: artificial Intelligence, computational thinking and learning. KI-Künstliche Intelligenz **36**(1), 5–16 (2022)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Dohn%2C%20N.B.%2C%20Kafai%2C%20Y.%2C%20M%C3%B8rch%2C%20A.%2C%20Ragni%2C%20M.%3A%20Survey%3A%20artificial%20Intelligence%2C%20computational%20thinking%20and%20learning.%20KI-K%C3%BCnstliche%20Intelligenz%2036%281%29%2C%205%E2%80%9316%20%282022%29)
+* Elo, S., Kyngäs, H.: The qualitative content analysis process. J. Adv. Nurs. **62**(1):107–15 (2008)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Elo%2C%20S.%2C%20Kyng%C3%A4s%2C%20H.%3A%20The%20qualitative%20content%20analysis%20process.%20J.%20Adv.%20Nurs.%2062%281%29%3A107%E2%80%9315%20%282008%29)
+* Giroux, H.A.: Education incorporated? Educ. Leadersh. **56**(2), 12–17 (1998)
+  
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Education%20incorporated%3F&journal=Educ.%20Leadersh.&volume=56&issue=2&pages=12-17&publication_year=1998&author=Giroux%2CHA)
+* Grover, S., Pea, R.: Computational thinking in K–12: a review of the state of the field. Educ. Res. **42**(1), 38–43 (2013)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Grover%2C%20S.%2C%20Pea%2C%20R.%3A%20Computational%20thinking%20in%20K%E2%80%9312%3A%20a%20review%20of%20the%20state%20of%20the%20field.%20Educ.%20Res.%2042%281%29%2C%2038%E2%80%9343%20%282013%29)
+* Grover, S., Pea, R.: Computational thinking: a competency whose time has come. Comput. Sci. Educ. Perspect. Teach. Learn. School **19**(1), 19–38 (2018)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Grover%2C%20S.%2C%20Pea%2C%20R.%3A%20Computational%20thinking%3A%20a%20competency%20whose%20time%20has%20come.%20Comput.%20Sci.%20Educ.%20Perspect.%20Teach.%20Learn.%20School%2019%281%29%2C%2019%E2%80%9338%20%282018%29)
+* Knobel, M., Lankshear, C.: Studying new literacies. J. Adolescent Adult Literacy **58**(2), 97–101 (2014)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Knobel%2C%20M.%2C%20Lankshear%2C%20C.%3A%20Studying%20new%20literacies.%20J.%20Adolescent%20Adult%20Literacy%2058%282%29%2C%2097%E2%80%93101%20%282014%29)
+* Heintz, F.: The computational thinking and artificial intelligence duality, Computational Thinking Education in K-12: artificial intelligence literacy and physical computing, p. 143. The MIT Press (2022)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Heintz%2C%20F.%3A%20The%20computational%20thinking%20and%20artificial%20intelligence%20duality%2C%20Computational%20Thinking%20Education%20in%20K-12%3A%20artificial%20intelligence%20literacy%20and%20physical%20computing%2C%20p.%20143.%20The%20MIT%20Press%20%282022%29)
+* Kafai, Y.B., Burke, Q.: Computational participation: Teaching kids to create and connect through code. Emerging research, practice, and policy on computational thinking, pp. 393–405 (2017)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Kafai%2C%20Y.B.%2C%20Burke%2C%20Q.%3A%20Computational%20participation%3A%20Teaching%20kids%20to%20create%20and%20connect%20through%20code.%20Emerging%20research%2C%20practice%2C%20and%20policy%20on%20computational%20thinking%2C%20pp.%20393%E2%80%93405%20%282017%29)
+* Long, D., Magerko, B.: What is AI literacy? Competencies and design considerations. In: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, pp. 1–16 (2020)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Long%2C%20D.%2C%20Magerko%2C%20B.%3A%20What%20is%20AI%20literacy%3F%20Competencies%20and%20design%20considerations.%20In%3A%20Proceedings%20of%20the%202020%20CHI%20Conference%20on%20Human%20Factors%20in%20Computing%20Systems%2C%20pp.%201%E2%80%9316%20%282020%29)
+* Merchant, G.: Reading with technology: the new normal. Education 3–13 **49**(1), 96–106 (2021) <https://doi.org/10.1080/03004279.2020.1824705>
+* Miao, F., Holmes, W., Huang, R., Zhang, H.: AI and education: a guidance for policymakers. UNESCO (2021)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Miao%2C%20F.%2C%20Holmes%2C%20W.%2C%20Huang%2C%20R.%2C%20Zhang%2C%20H.%3A%20AI%20and%20education%3A%20a%20guidance%20for%20policymakers.%20UNESCO%20%282021%29)
+* Payne, B.H.: An ethics of artificial intelligence curriculum for middle school students. MIT Media Lab Personal Robots Group (2019)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Payne%2C%20B.H.%3A%20An%20ethics%20of%20artificial%20intelligence%20curriculum%20for%20middle%20school%20students.%20MIT%20Media%20Lab%20Personal%20Robots%20Group%20%282019%29)
+* Pedaste M, et al.: Phases of inquiry-based learning: Definitions and the inquiry cycle. Educ. Res. Rev. **14**, 47–61 (2015)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Pedaste%20M%2C%20et%20al.%3A%20Phases%20of%20inquiry-based%20learning%3A%20Definitions%20and%20the%20inquiry%20cycle.%20Educ.%20Res.%20Rev.%2014%2C%2047%E2%80%9361%20%282015%29)
+* Selby, C., Woollard, J.: Computational thinking: the developing definition (2013)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Selby%2C%20C.%2C%20Woollard%2C%20J.%3A%20Computational%20thinking%3A%20the%20developing%20definition%20%282013%29)
+* Skolverket. Curriculum for the compulsory school, preschool class and school-age educare (2018). Retrieved March 2024. <https://www.skolverket.se/download/18.31c292d516e7445866a218f/1576654682907/pdf3984.pdf>
+* Skolverket [the Swedish National Agency for Education] (2022). [Four aspects of digital competence]. Retrieved online at (2022) <https://www.skolverket.se/om-oss/var-verksamhet/skolverketsprioriterade-omraden/digitalisering/fyra-aspekter-av-digital-kompetens>. Accessed 20 Oct 2022
+* Tedre, M., Denning, P., Toivonen, T.: CT 2.0. In: Proceedings of the 21st Koli Calling International Conference on Computing Education Research, pp. 1–8 (2021)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Tedre%2C%20M.%2C%20Denning%2C%20P.%2C%20Toivonen%2C%20T.%3A%20CT%202.0.%20In%3A%20Proceedings%20of%20the%2021st%20Koli%20Calling%20International%20Conference%20on%20Computing%20Education%20Research%2C%20pp.%201%E2%80%938%20%282021%29)
+* Touretzky, D., Gardner-McCune, C., Martin, F., Seehorn, D.: Envisioning AI for K-12: what should every child know about AI?. In: Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, pp. 9795–9799 (2019)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Touretzky%2C%20D.%2C%20Gardner-McCune%2C%20C.%2C%20Martin%2C%20F.%2C%20Seehorn%2C%20D.%3A%20Envisioning%20AI%20for%20K-12%3A%20what%20should%20every%20child%20know%20about%20AI%3F.%20In%3A%20Proceedings%20of%20the%20AAAI%20Conference%20on%20Artificial%20Intelligence%2C%20vol.%2033%2C%20no.%2001%2C%20pp.%209795%E2%80%939799%20%282019%29)
+* Velander, J., Taiye, M.A., Otero, N., Milrad, M.: Artificial Intelligence in K-12 Education: eliciting and reflecting on Swedish teachers’ understanding of AI and its implications for teaching & learning. Educ. Inform. Technol. (2023)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Velander%2C%20J.%2C%20Taiye%2C%20M.A.%2C%20Otero%2C%20N.%2C%20Milrad%2C%20M.%3A%20Artificial%20Intelligence%20in%20K-12%20Education%3A%20eliciting%20and%20reflecting%20on%20Swedish%20teachers%E2%80%99%20understanding%20of%20AI%20and%20its%20implications%20for%20teaching%20%26%20learning.%20Educ.%20Inform.%20Technol.%20%282023%29)
+* Velander, J., Otero, N., Milrad, M.: What is Critical (about) AI literacy? exploring conceptualizations present in AI literacy discourse. exploring conceptualizations present in AI literacy discourse. Springer Nature Switzerland AG. In Framing Futures in Postdigital Education: Critical Concepts for Data-driven Practices (in press)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Velander%2C%20J.%2C%20Otero%2C%20N.%2C%20Milrad%2C%20M.%3A%20What%20is%20Critical%20%28about%29%20AI%20literacy%3F%20exploring%20conceptualizations%20present%20in%20AI%20literacy%20discourse.%20exploring%20conceptualizations%20present%20in%20AI%20literacy%20discourse.%20Springer%20Nature%20Switzerland%20AG.%20In%20Framing%20Futures%20in%20Postdigital%20Education%3A%20Critical%20Concepts%20for%20Data-driven%20Practices%20%28in%20press%29)
+* Vinnervik, P., Bungum, B.: Programming in the curriculum for compulsory school: how is it represented in Nordic countries. In: Science Education in the light of Global Sustainable Development-trends and possibilities: Proceedings of the 13th Nordic Research Symposium on Science Education, pp. 193–201 (2021)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Vinnervik%2C%20P.%2C%20Bungum%2C%20B.%3A%20Programming%20in%20the%20curriculum%20for%20compulsory%20school%3A%20how%20is%20it%20represented%20in%20Nordic%20countries.%20In%3A%20Science%20Education%20in%20the%20light%20of%20Global%20Sustainable%20Development-trends%20and%20possibilities%3A%20Proceedings%20of%20the%2013th%20Nordic%20Research%20Symposium%20on%20Science%20Education%2C%20pp.%20193%E2%80%93201%20%282021%29)
+* Vuorikari Rina, R., Kluzer, S., Punie, Y.: DigComp 2.2: The Digital Competence Framework for Citizens-With new examples of knowledge, skills and attitudes. Joint Research Centre, Seville site (2022)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Vuorikari%20Rina%2C%20R.%2C%20Kluzer%2C%20S.%2C%20Punie%2C%20Y.%3A%20DigComp%202.2%3A%20The%20Digital%20Competence%20Framework%20for%20Citizens-With%20new%20examples%20of%20knowledge%2C%20skills%20and%20attitudes.%20Joint%20Research%20Centre%2C%20Seville%20site%20%282022%29)
+* Wolff, A., Gooch, D., Montaner, J.J., Rashid, U., Kortuem, G.: Creating an understanding of data literacy for a data-driven society. J. Commun. Inform. (2016)
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Wolff%2C%20A.%2C%20Gooch%2C%20D.%2C%20Montaner%2C%20J.J.%2C%20Rashid%2C%20U.%2C%20Kortuem%2C%20G.%3A%20Creating%20an%20understanding%20of%20data%20literacy%20for%20a%20data-driven%20society.%20J.%20Commun.%20Inform.%20%282016%29)
+* Zerega, R., Milrad, M.: Computational thinking & artificial intelligence in K-12 education: two distinct but still complementary worlds. In: Milrad, M., et al. (eds.) Methodologies and Intelligent Systems for Technology Enhanced Learning, 13th International Conference. MIS4TEL 2023. LNNC, vol. 764. Springer, Cham (2023). <https://doi.org/10.1007/978-3-031-41226-4_22>
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-84170-5_8?format=refman&flavour=references)
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Department of Computer Science and Media Technology, Linnaeus University, Växjö, Sweden
+   
+   Rafael Zerega, Johanna Velander & Marcelo Milrad
+
+Authors
+
+1. Rafael Zerega[View author publications](/search?sortBy=newestFirst&contributor=Rafael%20Zerega)
+   
+   Search author on:[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Rafael%20Zerega) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Rafael%20Zerega%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Johanna Velander[View author publications](/search?sortBy=newestFirst&contributor=Johanna%20Velander)
+   
+   Search author on:[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Johanna%20Velander) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Johanna%20Velander%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Marcelo Milrad[View author publications](/search?sortBy=newestFirst&contributor=Marcelo%20Milrad)
+   
+   Search author on:[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Marcelo%20Milrad) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Marcelo%20Milrad%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Corresponding authors
+
+Correspondence to
+[Rafael Zerega](mailto:rafael.zerega@lnu.se) , [Johanna Velander](mailto:johanna.velander@lnu.se)  or [Marcelo Milrad](mailto:marcelo.milrad@lnu.se) .
+
+Editor information
+------------------
+
+### Editors and Affiliations
+
+1. University of Tromsø (UiT) – The Arctic University of Norway, Tromsø, Norway
+   
+   Tae Eun Kim
+2. Department of Computer Science and Media Technology, Linnaeus University, Växjö, Sweden
+   
+   Marcelo Milrad
+3. Institute of New Imaging Technologies, Jaume I University, Castelló de la Plana, Spain
+   
+   Inmaculada Remolar
+
+Rights and permissions
+----------------------
+
+**Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (<http://creativecommons.org/licenses/by/4.0/>), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.
+
+The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?publisherName=SpringerNature&orderBeanReset=true&orderSource=SpringerLink&title=Using%20Emerging%20Technologies%20for%20Bridging%20Computational%20Thinking%20and%20Artificial%20Intelligence%20in%20Swedish%20Classrooms%3A%20Empirical%20Insights%20and%20Pedagogical%20Implications&author=Rafael%20Zerega%2C%20Johanna%20Velander%2C%20Marcelo%20Milrad&contentID=10.1007%2F978-3-031-84170-5_8&copyright=The%20Author%28s%29&publication=eBook&publicationDate=2025&startPage=83&endPage=97&imprint=The%20Author%28s%29&oa=CC%20BY)
+
+Copyright information
+---------------------
+
+© 2025 The Author(s)
+
+About this paper
+----------------
+
+### Cite this paper
+
+Zerega, R., Velander, J., Milrad, M. (2025). Using Emerging Technologies for Bridging Computational Thinking and Artificial Intelligence in Swedish Classrooms: Empirical Insights and Pedagogical Implications.
+In: Kim, T.E., Milrad, M., Remolar, I. (eds) Integrating Emerging Technologies into Education and Training: Proceedings of the 2nd ETELT 2024 Workshop. MIS4TEL 2024. Lecture Notes in Networks and Systems, vol 1274. Springer, Cham. https://doi.org/10.1007/978-3-031-84170-5\_8
+
+### Download citation
+
+* [.RIS](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-84170-5_8?format=refman&flavour=citation)
+* [.ENW](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-84170-5_8?format=endnote&flavour=citation)
+* [.BIB](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-84170-5_8?format=bibtex&flavour=citation)
+
+* DOI: https://doi.org/10.1007/978-3-031-84170-5\_8
+* Published: 07 March 2025
+* Publisher Name: Springer, Cham
+* Print ISBN: 978-3-031-84169-9
+* Online ISBN: 978-3-031-84170-5
+* eBook Packages: [Education](/search?facet-content-type=%22Book%22&package=41171&facet-start-year=2025&facet-end-year=2025)[Education (R0)](/search?facet-content-type=%22Book%22&package=43721&facet-start-year=2025&facet-end-year=2025)[Springer Nature Proceedings excluding Computer Science](/search?facet-content-type=%22Book%22&package=85345&facet-start-year=2025&facet-end-year=2025)
+
+### Share this paper
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Computational Thinking](/search?query=Computational%20Thinking&facet-discipline="Engineering")
+* [Programming](/search?query=Programming&facet-discipline="Engineering")
+* [Artificial Intelligence](/search?query=Artificial%20Intelligence&facet-discipline="Engineering")
+* [Machine Learning](/search?query=Machine%20Learning&facet-discipline="Engineering")
+* [AI literacy](/search?query=AI%20literacy&facet-discipline="Engineering")
+* [Digital Competencies](/search?query=Digital%20Competencies&facet-discipline="Engineering")
+* [K-12 education](/search?query=K-12%20education&facet-discipline="Engineering")
+
+Publish with us
+---------------
+
+[Policies and ethics](https://www.springernature.com/gp/policies/book-publishing-policies)
+
+
+### Profiles
+
+1. Rafael Zerega
+   [View author profile](/researchers/57401291SN)
+2. Marcelo Milrad
+   [View author profile](/researchers/77642516SN)
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+106.14.242.219
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+
+
+

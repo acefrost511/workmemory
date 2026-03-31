@@ -1,0 +1,193 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2026.105602
+# Content Length: 24299 characters
+# Extracted at: 2026-03-31 05:18:56
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000400?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000400?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000400)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131526000400/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000400?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000400?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000400?via%3Dihub#preview-section-snippets)
+- [References (65)](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000400?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 249](https://www.sciencedirect.com/journal/computers-and-education/vol/249/suppl/C "Go to table of contents for this volume/issue"), August 2026, 105602
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20024-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/249/suppl/C)
+# Fostering preservice teachers’ design thinking by integrating generative AI and analytics-supported reflective assessment in a collaborative inquiry environment
+Author links open overlay panelYuqinYanga, LinbaiyuChenb, DanerSunc, WangdaZhud, ShiyanPangb
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2026.105602](https://doi.org/10.1016/j.compedu.2026.105602 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131526000400&orderBeanReset=true)
+## Highlights
+- •
+Conceptualizes design thinking (DT) as a socially mediated, developmental practice.
+- •
+Proposes a theory-informed model linking KB, GenAI, and reflective assessment.
+- •
+Operationalizes design thinking through a principle-based, replicable pedagogy.
+- •
+Integrates delayed GenAI use with analytics-supported reflective assessment.
+- •
+Advances theorization of human–AI co-agency in collaborative inquiry contexts.
+## Abstract
+Fostering preservice teachers’ (PSTs) design thinking (DT) is essential for addressing complex instructional challenges, yet remains difficult to achieve in teacher education. Although generative artificial intelligence (GenAI) and analytics-supported reflective assessment (ASRA) show promise for supporting DT, how they can be pedagogically integrated within collaborative inquiry remains relatively underexplored. The study aimed to explore the effects of the combined use of GenAI and ASRA within a collaborative inquiry Knowledge Building (KB) environment on PSTs’ DT, and how their DT competencies evolves with this integrative design. Participants were 110 PSTs enrolled in a semester-long Modern Educational Technology Applications course. We proposed a conceptual framework integrating collaborative inquiry, strategically delayed GenAI use, and ASRA, and operationalized it through a pedagogical model that positions GenAI as a cognitive and reflective design partner rather than a solution provider. Multiple data sources were analyzed, including a DT competency scale, successive instructional design artifacts, and 1305 online discourse notes. Results showed significant gains in problem discovery and definition, along with a developmental shift from stage-bound engagement toward more integrated and iterative practices, particularly in prototyping and testing. GenAI was most effective when introduced after human-only design efforts, while reflective analytics supported monitoring of collective progress and sustained iteration. This study contributes to learning sciences by theorizing how GenAI and ASRA can be integrated within a KB environment to support DT, and offers an empirically grounded approach for preparing PSTs for AI-rich teaching contexts.
+## Introduction
+Design thinking (DT) is increasingly viewed as a key competence of higher-order thinking, enabling learners to tackle complex, real-world problems through creative and iterative approaches (Calavia et al., 2023; Hong et al., 2025; Lee & Kim, 2025). DT is commonly defined as an iterative, human-centered process that involves addressing ill-structured problems through cycles of problem framing, ideation, prototyping, testing, and reflection (Buchanan, 1992; Razzouk & Shute, 2012). Recent studies in teacher education show that DT-oriented activities help PSTs frame authentic pedagogical problems, make principled instructional decisions, and design more adaptive learning environments (Calavia et al., 2023; Hong et al., 2025; Lee & Kim, 2025). Beyond technical skill development, DT fosters dispositions such as resilience, tolerance and metacognitive awareness for ambiguity—qualities crucial for navigating complex, ill-structured problems (Koh, Chai, Wong, & Hong, 2015a, 2015b; Thuan and Antunes, 2024). It also promotes creative, innovative, and critical thinking—competencies central to 21st-century education (Koh et al., 2015a, 2015b; Lin et al., 2020). Without well-developed DT, PSTs often struggle to design meaningful, learner-centered lessons aligned with contemporary educational demands (Avsec & Jagiełło-Kowalczyk, 2021; Baran & AlZoubi, 2024; Yüksel, 2025). Consequently, helping PSTs develop DT competencies is crucially important.
+However, developing PSTs’ DT remains challenging. Many PSTs rely heavily on existing templates or online resources, lacking the ability to independently design instruction (Ananda et al., 2023; Baran & AlZoubi, 2024). Even in design-oriented coursework, PSTs often struggle to sustain iterative cycles of framing, ideation, prototyping, and testing, particularly when design work requires coordination, justification, and revision over time (Calavia et al., 2023; Lee & Kim, 2025). Prior research indicates that teacher education often emphasizes final lesson products over process-oriented idea improvement and reflection (Ohly et al., 2017; Panke & Harth, 2019). In addition, PSTs frequently lack tools that make design processes visible and support assessment of idea connections and reasoning gaps during collaboration (Rodríguez-Chirino et al., 2025). These challenges are closely tied to the nature of instructional design, a core professional practice through which PSTs are expected to enact DT. Instructional design involves analyzing learner needs, aligning goals with instructional strategies, designing assessments, iterating instructional prototypes, and evaluating learning outcomes (Branch & Kopcha, 2013; Merrill, 2002). Effective instructional design therefore requires PSTs to justify design decisions, integrate theory, and revise instruction based on evidence, rather than follow fixed templates. In this sense, instructional design provides an authentic context for DT development, while DT represents the mode of thinking that enables PSTs to engage productively in such design work.
+The rapid growth of generative artificial intelligence (GenAI) offers new opportunities to support instructional design, but also raises pedagogical concerns. Studies show that GenAI can facilitate idea generation, provide alternative design options, and support early lesson drafting in teacher education (Moorhouse et al., 2024; Moorhouse & Kohnke, 2024). At the same time, concerns persist regarding accuracy, over-reliance, and teacher agency (Ko et al., 2025; Liu et al., 2025). Research on GenAI-supported knowledge building further suggests that GenAI can promote elaboration and synthesis when embedded in collaborative inquiry rather than used as a stand-alone tool (Chen et al., 2023). However, most existing studies focus on PSTs’ attitudes or intentions, leaving underexplored how GenAI can be pedagogically integrated into structured, collaborative DT processes for instructional design.
+Parallel research on Knowledge Building (KB) and analytics-supported reflective assessment (ASRA) provides promising foundations for addressing this gap. KB is a collaborative inquiry framework in which learners work as a community to advance shared knowledge through sustained idea improvement (Scardamalia & Bereiter, 2014, Scardamalia & Bereiter, 2022). Prior studies show that KB environments support progressive discourse and design-oriented inquiry in teacher education (Chen & Hong, 2016; Hong et al., 2019). ASRA complements KB by helping learners monitor, evaluate, and regulate inquiry processes over time (Borge et al., 2018; Rodríguez-Chirino et al., 2025). Reflective assessment refers to a learning-oriented approach in which learners using rubric or data about learning to monitor, evaluate, and adjust their learning strategies in order to improve inquiry and learning process and outcomes (Lei & Chan, 2018; Scardamalia, 2002; White & Frederiksen, 1998), while learning analytics make inquiry processes visible and interpretable (Tao & Zhang, 2021; Tong et al., 2024). Such support is especially important in GenAI-augmented contexts, where idea generation may be accelerated but reflective judgment and principled revision remain demanding. Despite these advances, how GenAI and ASRA can be jointly integrated within KB environments to support PSTs’ DT in instructional design remains insufficiently understood.
+Building on these lines of research, this study designed a KB collaborative inquiry environment enriched with GenAI and ASRA to support PSTs’ DT through instructional design. The study aimed to examine the effects of the combined use of GenAI and ASRA on PSTs’ DT, and how PSTs’ DT competencies evolved over time within this integrative design. Participants were 110 third-year PSTs enrolled in a compulsory Modern Educational Technology Applications course at a teacher education university in central China. GenAI tools (e.g., Kimi, DeepSeek, iFlytek Spark, Doubao-Seed) were used as cognitive and reflective partners to support ideation, elaboration, and critique, while ASRA scaffolded monitoring, reflection, and action planning in KB inquiry. Reflective assessment was supported by the Knowledge-Building Discourse Explorer (KBDeX; Oshima et al., 2012), a learning analytics tool that provides social network–based visualizations of learners’ notes, enabling PSTs to see how ideas connect, how contributions develop, and how their work advances collective progress. These visualizations offer actionable feedback that helps learners track their inquiry, identify gaps, and deepen their inquiry (Wise et al., 2021). In this study, KBDeX functioned as a process-oriented scaffold aligned with the goal of fostering PSTs’ DT within a KB environment.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000400)
+## Section snippets
+## Design thinking (DT), instructional design and preservice teachers (PSTs)
+DT has been increasingly recognized as crucial for preparing PSTs to address complex and ill-structured problems of teaching practice (Baran & AlZoubi, 2024; Yüksel, 2025). Rather than focusing on fixed procedures or predefined solutions, DT emphasizes iterative cycles of problem framing, ideation, prototyping, testing and reflection, which align closely with the nature of instructional decision-making in classrooms (Buchanan, 1992; Razzouk & Shute, 2012). Among existing formulations, the
+## Research context and participants
+This study was conducted at a top-tier teacher education university in central China, whose core institutional mission is to prepare qualified K–12 teachers. The participants were 110 third-year PSTs enrolled in a compulsory undergraduate course titled Modern Educational Technology Applications. This course equipsed students with systematic approaches to integrating modern educational technology into classroom instruction, with a focus on strengthening their capacity for technology-enhanced
+## Changes in PSTs’ DT measured by the DT scale
+Table 2 presents the means (M) and standard deviations (SD) of PSTs'’ DT before and after the combined use of GenAI and ASRA, respectively, and the paired-sample \_t\_-test results. Table 1 shows a statistically significant improvement of PSTs’ DT from pre-test (M = 5.15, SD = 0.60) to post-test (M = 5.25, SD = 0.58), \_t\_(102) = 2.151, \_p\_ = .034, with a small effect size (Cohen’s \_d\_ = 0.21). This indicates that the observed change was modest in magnitude and should be interpreted as gradual
+## The combined effects of GenAI and ASRA on PSTs’ DT
+Results from both the scale and instructional design of lesson-design assessments indicate that integrating GenAI and ASRA into a KB collaborative inquiry environment selectively supported PSTs’ DT development rather than uniformly improving all DT phases. Overall scores improved significantly, especially in discovery and definition, suggesting that the design helped PSTs clarify problems and frame design goals. However, the pre–post change in self-reported DT was modest in magnitude,
+## CRediT authorship contribution statement
+\*\*Yuqin Yang:\*\* Writing – review & editing, Writing – original draft, Visualization, Supervision, Project administration, Methodology, Investigation, Funding acquisition, Formal analysis, Conceptualization. \*\*Linbaiyu Chen:\*\* Writing – review & editing, Writing – original draft, Visualization, Project administration, Methodology, Investigation, Formal analysis. \*\*Daner Sun:\*\* Writing – review & editing, Writing – original draft, Methodology, Conceptualization. \*\*Wangda Zhu:\*\* Writing – review & editing,
+## Funding
+This study is supported by a grant from the National Natural Science Foundation of China (Grant No. 62577031), and Open Fund of Hubei Key Laboratory of Digital Education (Grant No. F2024K03).
+## Acknowledgments
+The authors are indebted to the participating students.
+\_Yuqin Yang\_ is a full professor of the learning sciences at the Faculty of Artificial Intelligence in Education in Central China Normal University. Her research interests include pedagogy and assessment of knowledge building, data science education, learning analytics, and collaborative learning. Her publications have appeared in international journals such as Computers & Education, Internet and Higher Education, American Educational Research Journal, International Journal of Computer-Supported
+Recommended articles
+- S. An \_et al.\_
+### [Impacts of generative AI on student teachers' task performance and collaborative knowledge construction process in mind mapping-based collaborative environment](https://www.sciencedirect.com/science/article/pii/S0360131524002410)
+### Computers & Education
+(2025)
+- Y. Cai \_et al.\_
+### [The development and validation of the scale of design thinking for teaching (SDTT)](https://www.sciencedirect.com/science/article/pii/S1871187123000251)
+### Thinking Skills and Creativity
+(2023)
+- M.B. Calavia \_et al.\_
+### [Making design thinking for education sustainable: Training preservice teachers to address practice challenges](https://www.sciencedirect.com/science/article/pii/S1871187122002000)
+### Thinking Skills and Creativity
+(2023)
+- B. Chen \_et al.\_
+### [Integrating generative AI in knowledge building](https://www.sciencedirect.com/science/article/pii/S2666920X23000632)
+### Computers and Education: Artificial Intelligence
+(2023)
+- H.Y. Hong \_et al.\_
+### [AI-supported idea-developing discourse to foster professional agency within teacher communities for STEAM lesson design in knowledge building environment](https://www.sciencedirect.com/science/article/pii/S0360131525000090)
+### Computers & Education
+(2025)
+- H.Y. Hong \_et al.\_
+### [Fostering design-oriented collective reflection among preservice teachers through principle-based knowledge building activities](https://www.sciencedirect.com/science/article/pii/S0360131518303142)
+### Computers & Education
+(2019)
+- S. Krakowski
+### [Human-AI agency in the age of generative AI](https://www.sciencedirect.com/science/article/pii/S1471772725000065)
+### Information and Organization
+(2025)
+- C. Lei \_et al.\_
+### [Developing meta-discourse through reflective assessment in knowledge building environments](https://www.sciencedirect.com/science/article/pii/S0360131518301817)
+### Computers & Education
+(2018)
+- B.L. Moorhouse \_et al.\_
+### [The effects of generative AI on initial language teacher education: The perceptions of teacher educators](https://www.sciencedirect.com/science/article/pii/S0346251X24000721)
+### System
+(2024)
+- B.L. Moorhouse \_et al.\_
+### [Developing language teachers' professional generative AI competence: An intervention study in an initial language teacher education course](https://www.sciencedirect.com/science/article/pii/S0346251X24001817)
+### System
+(2024)
+J.J. Tseng \_et al.\_
+### [How pre-service English teachers enact TPACK in the context of web-conferencing teaching: A design thinking approach](https://www.sciencedirect.com/science/article/pii/S0360131518302677)
+### Computers & Education
+(2019)
+Y. Yang \_et al.\_
+### [Collaborative analytics-enhanced reflective assessment to foster conducive epistemic emotions in knowledge building](https://www.sciencedirect.com/science/article/pii/S0360131523002270)
+### Computers & Education
+(2024)
+L.R. Ananda \_et al.\_
+### Critical thinking skills of chemistry students by integrating design thinking with STEAM-PjBL
+### Journal of Technology and Science Education
+(2023)
+S. Avsec \_et al.\_
+### Investigating possibilities of developing self-directed learning in architecture students using design thinking
+### Sustainability
+(2021)
+E. Baran \_et al.\_
+### Design thinking in teacher education: Morphing preservice teachers' mindsets and conceptualizations
+### Journal of Research on Technology in Education
+(2024)
+M. Borge \_et al.\_
+### Learning to monitor and regulate collective thinking processes
+### International Journal of Computer-Supported Collaborative Learning
+(2018)
+R.M. Branch \_et al.\_
+### Instructional design models
+R. Buchanan
+### Wicked problems in design thinking
+### Design Issues
+(1992)
+B. Chen
+### Fostering scientific understanding and epistemic beliefs through judgments of promisingness
+### Educational Technology Research & Development
+(2017)
+B. Chen \_et al.\_
+### Schools as knowledge-building organizations: Thirty years of design research
+### Educational Psychologist
+(2016)
+U. Cress \_et al.\_
+### Co-constructing knowledge with generative AI tools: Reflections from a CSCL perspective
+### International Journal of Computer-Supported Collaborative Learning
+(2023)
+D. Henriksen \_et al.\_
+### Social-emotional learning and generative AI: A critical literature review and framework for teacher education
+### Journal of Teacher Education
+(2025)
+L.H. Hsia \_et al.\_
+### AI-facilitated reflective practice in physical education: An auto-assessment and feedback approach
+### Interactive Learning Environments
+(2024)
+L.H. Hsia \_et al.\_
+### Artificial intelligence-supported physical education during the pandemic: A physical skill auto-assessment and feedback approach based on a reflection-promoting mechanism
+### Educational Technology Research & Development
+(2025)
+S. Järvelä \_et al.\_
+### Hybrid intelligence: Human– AI coevolution and learning
+### British Journal of Educational Technology
+(2025)
+T. Kelley \_et al.\_
+### Creative confidence
+### Crown Business
+(2013)
+U. Ko \_et al.\_
+### Exploring AI in education: Preservice teacher perspectives, usage, and considerations
+### Journal of Information Technology Education: Research
+(2025)
+J.H.L. Koh \_et al.\_
+### Design thinking and 21st century skills
+J.H.L. Koh \_et al.\_
+### Design thinking and preservice teachers
+D. Laurillard \_et al.\_
+### Using technology to develop teachers as designers of TEL: Evaluating the learning designer
+### British Journal of Educational Technology
+(2018)
+E.Y. Lee \_et al.\_
+### Students assessing their own collaborative knowledge building
+### International Journal of Computer-Supported Collaborative Learning
+(2006)
+S.-M. Lee \_et al.\_
+### Preservice teachers' learning by design through space construction in the metaverse
+### British Journal of Educational Technology
+(2025)
+View more references
+\_Yuqin Yang\_ is a full professor of the learning sciences at the Faculty of Artificial Intelligence in Education in Central China Normal University. Her research interests include pedagogy and assessment of knowledge building, data science education, learning analytics, and collaborative learning. Her publications have appeared in international journals such as Computers & Education, Internet and Higher Education, American Educational Research Journal, International Journal of Computer-Supported Collaborative Learning, British Journal of Educational Technology, Teaching and Teacher Education, International Journal of Educational Technology in Higher Education, and Journal of Computer Assisted Learning. She also serves as guest editors and board members for some journals, such as British Journal of Educational Technology, Learning and Instruction. She also services as associate editors for journals such as International Journal of Computer-Supported Collaborative Learning, Learning: Research and Practices, and board members for several journals such as Learning & Instruction, Learning and Individual Differences.
+\_Linbaiyu Chen\_ is a research assistant at the Faculty of Artificial Intelligence in Education in Central China Normal University. Her research interests include design thinking, GenAI-augmented learning, dialogic pedagogy, knowledge-building pedagogy and learning analytics.
+\_Daner Sun\_ is associate professor at the Department of Mathematics and Information Technology, The Education University of Hong Kong. Her research interests are ICT-supported science learning, seamless learning and teacher education. Her publications have appeared in international journals such as Computers & Education, British Journal of Educational Technology, International Journal of Computer-Supported Collaborative Learning, Journal of Research in Science Teaching, and Education Technology and Society. She also services as associate editors for several journals such as Education and Information Technologies, and Educational Technology and Society
+Wangda Zhu is an Assistant Professor of Interaction Design at The Hong Kong Polytechnic University. His research focuses on creative learning system design and development, with particular interests in design education, learning analytics, and AI-powered educational technologies. His publications have appeared in leading journals such as Computers & Education, British Journal of Educational Technology, and Internet and Higher Education, as well as in major conferences including LAK, ASEE, and AIED, where his work has received multiple best paper nominations.
+\_Shiyan Pang\_ is an associate professor at the Faculty of Artificial Intelligence in Education at Central China Normal University. Her research interests include, application of artificial intelligence in education, data mining, classroom data analysis. Her publications have appeared in international journals such as ISPRS Journal of Photogrammetry and Remote Sensing, Journal of Computing in Higher Education and International Journal of Remote Sensing.
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131526000400)
+© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

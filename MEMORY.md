@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 4288bcb19a2b6a9ac5664c0d4e8f5273
+    PropagateID: 4288bcb19a2b6a9ac5664c0d4e8f5273
+    ReservedCode1: 3046022100c5e769514c6666ac22382cfbb72be9a049b6950f884dc402633da4f370ad7ace022100cc99662fa379891105b48f7651767a28cb27d6bf9d0003b1a7048b62186904c3
+    ReservedCode2: 304502202054c11bf8aefb005544ccf06c0d84a1bc713475962979ec101ed5a5e5eadacc022100f2b42d3c1d794d46ed4d6e72f88ce1dd4cbb04ea4d005a5e87b9ad2168994838
+---
+
 # MEMORY.md - 长期记忆
 
 _最后更新：2026-03-28_
@@ -137,66 +148,3 @@ sessions_spawn(runtime="subagent", task="...")  # ❌ 禁止
   - 4个核心Agent：管家小艾、情报官（百晓生）、主编（edu_lead）、内容运营（edu_writer）
   - 详细架构见：`/workspace/agents/ARCHITECTURE.md`
   - 错题本（共享记忆）：`/workspace/memory/error-log.md`
-  - 共享Skills库：`/workspace/shared-skills/`
-
-- **IP团队Agent注册（2026-03-28完成）**
-  - ✅ reader_parent / reader_new_teacher / reader_senior_teacher / reader_principal / reader_expert：已注册
-  - ✅ intel_reviewer_en（审核01·英文论文）
-  - ✅ intel_reviewer_cn（审核02·中文论文）
-  - ✅ intel_reviewer_intl（审核03·国际报告）
-  - ✅ intel_01 / intel_02：已注册（intel_03~intel_12待陛下确认后注册）
-
-- K12 AI教育日报自动化（**情报官已接管，Phase 2完成**）
-  - intel_01~intel_12 均已注册（可用runtime="acp"调用）
----
-
-## 2026-03-29 关键决策记录
-
-### 洞察造假事故处理（14:39）
-- 发现：edu_writer生成洞察1时虚构DOI（10.3389/feduc.2024.1476050，Frontiers官网404）
-- 洞察1作废，collision_results_v2.md更新v1.1
-- 修复：edu_writer SOUL.md新增DOI强制验证规则
-- 根因：审核链有空白（intel_reviewer只扫原文库，不管洞察文件）
-
-### Harness Engineering方法论确立（15:59）
-- 核心精神：把正确行为编码成Agent的工程约束，不依赖自觉或人工检查
-- 关键教训：Agent做不好→补全环境（添加工具/约束/规则），不是重试提示词
-- 存放：/workspace/memory/HARNESS_ENGINEERING.md
-
-### 多Agent系统升级方案（16:14）
-- 三层质量门禁：搜索（DOI验证）→审核（intel_reviewer双重审查）→发布（edu_lead二次验证+Panel评分）
-- SOUL.md改造：Core SOUL（≤100行）+ 详细手册（docs/）
-- 方案待陛下审批后执行P0
-- 存放：/workspace/agents/SYSTEM_UPGRADE_PLAN_v2.md
-
-### 信念抽屉方法论（最新）
-- 洞察生产必须锚定信念抽屉
-- Hook句要求：≤20字，含数字或反常识
-- 读者带走：给老师/家长/判断标准各≥50字
-- 洞察2达到9.22分，已推送飞书
-
-## 2026-03-29 重大事故与方法论沉淀（最终）
-
-### 洞察1虚构DOI事故
-- 根因：edu_writer无强制DOI验证 + edu_reviewer未覆盖洞察文件 + intel_reviewer未覆盖洞察文件
-- 修复：edu_writer新增DOI↔原文库对照表 + edu_reviewer新增两步审核 + intel_reviewer扩展到洞察文件
-- 教训：流程每个边界必须有明确负责人，不能留空白
-
-### 方法论（5条铁律，永久生效）
-1. 先核实后提建议：标注信息来源，禁止"以为"代替"核实"
-2. 流程边界必须明确：每个节点有且仅有一个负责人
-3. 任何引用必须可查证：DOI↔文件对照表强制，下游独立验证上游
-4. 系统改造前完整理解系统：读完全部SOUL.md再提方案
-5. 流程交接点强制验证：不接受"上游已审"作为免验理由
-
-### 今日Agent体系改造（全部完成）
-- info_officer: 568行→95行（精简spawn模板+DOI验证铁律）
-- edu_writer: 117行（DOI对照表+自检清单）
-- edu_reviewer: 97行（两步审核：DOI验证→内容一致性）
-- intel_04/05/06: "尝试验证"→强制doi.org验证
-- intel_07/08/09/10/11: 新增curl URL验证铁律
-- intel_reviewer_en/intl: 扩展到洞察文件抽查
-- QUALITY_STANDARD.md: v2.0（reader_expert+统一否决8条标准）
-
-### 错误记录（永久）
-- 2026-03-29：臣在没有完全读完info_officer SOUL.md（568行）的情况下，就基于"了解"向陛下提了方案。这是本末倒置。以后必须先读完再提建议。

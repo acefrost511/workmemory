@@ -1,0 +1,197 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105469
+# Content Length: 19083 characters
+# Extracted at: 2026-03-31 05:09:02
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002374?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002374?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002374)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525002374/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002374?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002374?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002374?via%3Dihub#preview-section-snippets)
+- [References (60)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002374?via%3Dihub#preview-section-references)
+- [Cited by (2)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002374?via%3Dihub#preview-section-cited-by)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 240](https://www.sciencedirect.com/journal/computers-and-education/vol/240/suppl/C "Go to table of contents for this volume/issue"), January 2026, 105469
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00129-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/240/suppl/C)
+# Effects of a human-robot collaborative teaching approach on preschoolers’ social-emotional competence and learning behaviors
+Author links open overlay panelJian-WenFanga, Ting-TingJia, Yun-FangTub, Gwo-JenHwangcde, DiZouf, JingChena
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105469](https://doi.org/10.1016/j.compedu.2025.105469 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525002374&orderBeanReset=true)
+## Highlights
+- •
+Human-Robot Collaborative Teaching for social-emotional learning (SEL) is proposed.
+- •
+The approach leverages humanoid robots' anthropomorphic and embodied features.
+- •
+An experiment was conducted with preschoolers in a kindergarten setting.
+- •
+The approach improved children's social-emotional competence.
+- •
+The approach enhanced children's engagement and self-reflection in SEL.
+## Abstract
+Preschoolers' social-emotional competence is key to their long-term academic success. Developing this competence requires meaningful social interactions and emotional support, which the conventional teaching (CT) approach may not fully provide. This study proposed a human-robot collaborative teaching (HRCT) approach to facilitate preschoolers' social-emotional learning (SEL). A human-robot collaborative teaching system was developed to foster preschoolers' social-emotional competence through collaboration between the humanoid intelligent robot and the teacher. To evaluate the effectiveness of this approach, 96 preschoolers with an average age of 4.6 years were recruited. Of these, 44 were randomly assigned to the experimental group, which utilized the HRCT approach, while 52 were assigned to the control group, which followed the conventional teaching approach. The results indicated that the experimental group outperformed the control group in terms of social interaction skills, emotion comprehension skills, and interpersonal problem-solving skills. Significant differences were also observed in the learning behaviors of preschoolers during activities related to social interaction, emotion comprehension, and interpersonal problem solving. Further analysis of the teacher's perceptions and reflections revealed that, despite some limitations of the robot, its anthropomorphic and embodied features effectively sparked preschoolers' interest and engagement. These features contributed to enhancing their social-emotional competence by simulating and practicing SEL processes.
+## Introduction
+Social-emotional learning (SEL) is a vital approach to fostering the holistic development of children, with profound influences on their ability to recognize and regulate emotions and build healthy interpersonal relationships (Murano et al., 2020); this issue is thus gaining increasing attention from scholars (Martinez-Yarza et al., 2023). SEL focuses on the development of social-emotional competence, which mainly includes social interaction skills, emotion comprehension skills, and interpersonal problem-solving skills. This competence can help children engage in positive social interactions, effectively identify and manage their emotions, and solve the interpersonal problems they may encounter (Osher et al., 2016; Steed et al., 2021).
+Scholars have indicated the challenges of developing children's SEL (Martinez-Yarza et al., 2023). Accordingly, several previous studies have attempted to situate children in technological contexts, such as by using tablets (Kahveci et al., 2023), virtual reality (Phillips, Jarden, & Bowles, 2025), wearable devices (Dechsling et al., 2021), and robots (Chernyak & Gary, 2019), to address this problem; unfortunately, the results were not as good as expected. Researchers have pointed out that existing digital tools generally offer limited support for authentic SEL due to their single interaction mode and restricted emotional expression (Yang, 2024). For example, although traditional robots introduce basic interactivity, they still lack embodiment and natural emotional responsiveness, making it difficult to facilitate deep social-emotional experiences (Chernyak & Gary, 2019).
+With advances in artificial intelligence (AI), AI tools have attracted widespread attention (Karaoglan Yilmaz & Yilmaz, 2025; Yilmaz et al., 2024). Some scholars have increasingly turned to humanoid intelligent robots, which combine embodied interaction with adaptive intelligence to foster children's social-emotional competence (Crompton et al., 2018; Wu & Li, 2024). These robots can simulate diverse social scenarios and provide personalized support aligned with children's needs, indicating their potential to enhance SEL in preschool settings (Kim & Tscholl, 2021). Teachers can further utilize such robots to guide interactions, offer emotional scaffolding, and support conflict resolution in real time (Benvenuti & Mazzoni, 2019). However, although researchers have attempted to explore the potential of robots as tutors for fostering preschoolers' social-emotional competence (Smakman et al., 2022), how teachers and humanoid intelligent robots can best work together as collaborative agents to jointly support the development of preschoolers' social-emotional competence remains an open issue. It is expected that, while serving as an effective collaborator for teachers, humanoid intelligent robots could undertake routine instructional tasks, providing preschoolers with timely multimodal feedback, as well as promoting the development of their social-emotional competence through experiential contexts. This would allow teachers to focus on personalized guidance, emotional support, and classroom management, and hence maximize the effectiveness of human-robot collaboration (Crompton et al., 2018; Hu, 2023; Qidwai et al., 2019). Therefore, this study proposed a human-robot collaborative teaching (HRCT) approach to develop preschoolers' social-emotional competence. To assess its effectiveness, this study applied this approach to an SEL course for preschoolers to address the following research questions.
+- RQ1
+Can the HRCT approach improve preschoolers' social interaction skills compared to the conventional teaching (CT) approach?
+- RQ2
+Can the HRCT approach improve preschoolers' emotion comprehension skills compared to the CT approach?
+- RQ3
+Can the HRCT approach improve preschoolers' interpersonal problem-solving skills compared to the CT approach?
+- RQ4
+What are the differences in the learning behavior patterns of preschoolers adopting the HRCT approach and those adopting the CT approach?
+- RQ5
+Based on observations of preschoolers' learning behaviors during the activities, what were the teacher's perceptions of and reflections on the use of the HRCT/CT approaches?
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002374)
+## Section snippets
+## Social-emotional learning (SEL)
+SEL is defined as the process whereby preschoolers gradually develop and apply core competences related to social and emotional development as they navigate complex scenarios throughout their growth (Yang et al., 2019). The Collaborative for Academic, Social, and Emotional Learning (CASEL) model is often used to guide analyses of preschoolers' social-emotional competence (Vinal & Renshaw, 2024), but there are significant differences in how this competence is measured in evaluations.
+## HRCT framework
+By referring to Kolb's (1984) experiential learning theory, this study proposed an HRCT framework to support SEL by incorporating the embodied benefits of humanoid intelligent robots into the teaching process. The framework aimed to facilitate social interaction, emotion comprehension, and interpersonal problem solving in four stages: concrete experience, reflective observation, abstract conceptualization, and active experimentation. It aimed to enhance preschoolers' social-emotional competence
+## Participants
+The participants of this quasi-experiment were 96 preschoolers (44 girls and 52 boys; average age = 4.6 years) from two classes in a kindergarten located in an eastern township of China. Without purposeful selection, one class was assigned as the experimental group (20 girls and 24 boys), and the other as the control group (24 girls and 28 boys). The experimental group adopted the HRCT approach, while the control group used the CT approach. Both groups were taught by the same teacher who had 5
+## Social interaction skills
+As shown in Table 2, there was no significant difference in the pretest between the experimental group ( \_M\_ = 3.00, \_SD\_ = 0.36) and the control group ( \_M\_ = 3.00, \_SD\_ = 0.18), as indicated by the Mann–Whitney \_U\_ test ( \_U\_ = 224.00, \_Z\_ = −1.284, \_p\_ > .05). However, there was a significant difference in the posttest between the experimental group ( \_M\_ = 3.47, \_SD\_ = 0.21) and the control group ( \_M\_ = 3.24, \_SD\_ = 0.22), as indicated by the Mann-Whitney \_U\_ test ( \_U\_ = 125.00, \_Z\_ = −3.334, \_p\_ < .01). In other words, the
+## Discussion
+This study proposed the HRCT approach, in which the humanoid intelligent robot handled standardized tasks, with its embodied and anthropomorphic features promoting engagement and delivering timely, positive feedback to support SEL; the teacher, meanwhile, provided personalized guidance and emotional support. A quasi-experiment was conducted to demonstrate the effectiveness of the proposed approach in terms of enhancing preschoolers' social interaction, emotion comprehension, and interpersonal
+## CRediT authorship contribution statement
+\*\*Jian-Wen Fang:\*\* Writing – review & editing, Writing – original draft, Visualization, Validation, Resources, Project administration, Methodology, Investigation, Formal analysis, Data curation. \*\*Ting-Ting Ji:\*\* Writing – review & editing, Writing – original draft, Validation, Methodology, Formal analysis, Conceptualization. \*\*Yun-Fang Tu:\*\* Writing – review & editing, Writing – original draft, Visualization, Validation, Resources, Methodology, Formal analysis, Conceptualization. \*\*Gwo-Jen Hwang:\*\* Writing –
+## Ethics approval and informed consent
+Approval for the research protocol was received from the institution's ethics board under reference number WZU-2024-092. Informed consent was also obtained from kindergarten administrators and participants' parents. All children voluntarily engaged in this research.
+## Acknowledgment
+We appreciate the participation and support from the students, teachers, and parents in this research.
+Recommended articles
+- I.R. Berson \_et al.\_
+### [An exploration of robot programming as a foundation for spatial reasoning and computational thinking in preschoolers' guided play](https://www.sciencedirect.com/science/article/pii/S0885200623000777)
+### Early Childhood Research Quarterly
+(2023)
+- C.C. Chang \_et al.\_
+### [Fostering professional trainers with robot-based digital storytelling: A brainstorming, selection, forming and evaluation model for training guidance](https://www.sciencedirect.com/science/article/pii/S0360131523001112)
+### Computers & Education
+(2023)
+- L. Chen \_et al.\_
+### [Two-layer fuzzy multiple random forest for speech emotion recognition in human-robot interaction](https://www.sciencedirect.com/science/article/pii/S0020025519308503)
+### Information Sciences
+(2020)
+- C.C. Cheng \_et al.\_
+### [Impact of smart classrooms combined with student-centered pedagogies on rural students' learning outcomes: Pedagogy and duration as moderator variables](https://www.sciencedirect.com/science/article/pii/S0360131523001884)
+### Computers & Education
+(2023)
+- G. Falloon
+### [Using simulations to teach young students science concepts: An experiential learning theoretical analysis](https://www.sciencedirect.com/science/article/pii/S036013151930051X)
+### Computers & Education
+(2019)
+- B. Kolb
+### [Functions of the frontal cortex of the rat: A comparative review](https://www.sciencedirect.com/science/article/pii/0165017384900183)
+### Brain Research Reviews
+(1984)
+- E.A. Konijn \_et al.\_
+### [Robot tutor and pupils' educational ability: Teaching the times tables](https://www.sciencedirect.com/science/article/pii/S0360131520301688)
+### Computers & Education
+(2020)
+- J.C. Liang \_et al.\_
+### [A robot-based digital storytelling approach to enhancing EFL learners’ multimodal storytelling ability and narrative engagement](https://www.sciencedirect.com/science/article/pii/S0360131523001045)
+### Computers & Education
+(2023)
+- J.-H. Zhao \_et al.\_
+### [Impact of pre-knowledge and engagement in robot-supported collaborative learning through using the ICAPB model](https://www.sciencedirect.com/science/article/pii/S0360131524000836)
+### Computers & Education
+(2024)
+- N.M. Al Hamad \_et al.\_
+### Bridging the gap: Using robotics to enhance emotional and social learning in K-12 education
+### International Journal of Science and Research Archive
+(2024)
+N. Bauminger-Zviely \_et al.\_
+### Naturalistic evaluation of preschoolers' spontaneous interactions: The Autism Peer Interaction Observation Scale
+### Autism
+(2021)
+T. Belpaeme \_et al.\_
+### Social robots for education: A review
+### Science Robotics
+(2018)
+M. Benvenuti \_et al.\_
+### Enhancing wayfinding in pre‐school preschoolers through robot and socio‐cognitive conflict
+### British Journal of Educational Technology
+(2019)
+J. Chen Hsieh \_et al.\_
+### Digital storytelling outcomes, emotions, grit, and perceptions among EFL middle school learners: Robot-assisted versus PowerPoint-assisted presentations
+### Computer Assisted Language Learning
+(2021)
+N. Chernyak \_et al.\_
+### Children's cognitive and behavioral reactions to an autonomous versus controlled social robot dog
+J. Cohen
+### Statistical power analysis for the behavioral sciences
+(1988)
+C.L. Coryn \_et al.\_
+### Development and evaluation of the social-emotional learning scale
+### Journal of Psychoeducational Assessment
+(2009)
+H. Crompton \_et al.\_
+### Humanoid robots supporting preschoolers' learning in an early childhood setting
+### British Journal of Educational Technology
+(2018)
+C.V. Crooks \_et al.\_
+### Impact of MindUP among young preschoolers: Improvements in behavioral problems, adaptive skills, and executive functioning
+### Mindfulness
+(2020)
+A. Dechsling \_et al.\_
+### Virtual and augmented reality in social skills interventions for individuals with autism spectrum disorder: A scoping review
+### Journal of Autism and Developmental Disorders
+(2021)
+S. Ekström \_et al.\_
+### The dual role of humanoid robots in education: As didactic tools and social actors
+### Education and Information Technologies
+(2022)
+K.Y. Fung \_et al.\_
+### Humanoid robot-empowered language learning based on self-determination theory
+### Education and Information Technologies
+(2024)
+C.M. García-Fernández \_et al.\_
+### Peer aggression and victimisation: Social behaviour strategies in early childhood in Spain
+### Early Childhood Education Journal
+(2023)
+M.J. Haslip \_et al.\_
+### A mixed methods study of the relationship between individualized lesson planning and social-emotional outcomes in young preschoolers
+### Early Childhood Education Journal
+(2023)
+K. Highfield
+### Robotic toys as a catalyst for mathematical problem solving
+### Australian Primary Mathematics Classroom
+(2010)
+H.T. Hou \_et al.\_
+### Evaluation of a mobile-based scaffolding board game developed by scaffolding-based game editor: Analysis of learners' performance, anxiety and behavior patterns
+### Journal of Computers in Education
+(2023)
+C.C. Hu
+### Exploring the impact of cps-based robot-assisted teaching in STEM education: Enhancing knowledge, skills, and attitudes
+### International Journal of Human-Computer Interaction
+(2023)
+J. Kanero \_et al.\_
+### Are tutor robots for everyone? The influence of attitudes, anxiety, and personality on robot-led language learning
+### International Journal of Social Robotics
+(2022)
+F.G. Karaoglan Yilmaz \_et al.\_
+### Exploring the role of self-regulated learnings skills, cognitive flexibility, and metacognitive awareness on generative artificial intelligence attitude
+### Innovations in Education & Teaching International
+(2025)
+J. Kennedy \_et al.\_
+### Comparing robot embodiments in a guided discovery learning interaction with preschoolers
+### International Journal of Social Robotics
+(2014)
+View more references
+- ### [AI for tourism and hospitality education in China: policies, challenges and prospect](https://doi.org/10.1080/15313220.2025.2609276)
+2026, Journal of Teaching in Travel and Tourism
+- ### [ABii at School: Findings from a Long-Term In-School Field Study with a Commercial Robot-Assisted Learning System](https://doi.org/10.1007/s10639-025-13865-2)
+2025, Education and Information Technologies
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525002374)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

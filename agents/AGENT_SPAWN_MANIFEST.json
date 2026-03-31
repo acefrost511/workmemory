@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "更新日期": "2026-03-29",
+  "更新日期": "2026-03-30",
   "说明": "所有可临时Spawn的Agent清单。每次Spawn必须从本清单读取对应Agent的SOUL.md路径，不得凭空指定AgentID。",
   "intel团队": {
     "协调员": {
@@ -146,6 +146,14 @@
         "SOUL路径": "/workspace/agents/reader_expert/SOUL.md",
         "视角": "学术专家",
         "spawn方式": "mode=run，超时3分钟"
+      }
+    ],
+    "审核员": [
+      {
+        "agentId": "edu_reviewer",
+        "SOUL路径": "/workspace/agents/edu_reviewer/SOUL.md",
+        "职责": "洞察终审·质量把关",
+        "spawn方式": "mode=run，超时15分钟"
       }
     ]
   }

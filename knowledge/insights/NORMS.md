@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 49dddbf355345df6973c7b854b7a4c61
+    PropagateID: 49dddbf355345df6973c7b854b7a4c61
+    ReservedCode1: 3045022100943598503576332ae8f99ee4f5d8ef0d2a69dced58d22a63aa0888a4fe7b9ded02206a02e5cda2eb0149c20ee3904d14847181d6107e4f11f5464cb1218856dffb13
+    ReservedCode2: 3044022047228b600b5d32a5a0c0595433d244e1250015ef1b92194ccc4da8d82d5930b602206eeb8e99ee7268786f0988fdc0fbb6477fc5cf51a4daa8fb9f9490f0909cdbbc
+---
+
 # 洞察生产规范（终极合一版）
 
 **文件**：`/workspace/knowledge/insights/NORMS.md`

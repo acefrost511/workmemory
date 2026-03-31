@@ -1,0 +1,961 @@
+# Source URL: https://link.springer.com/article/10.1007/s44217-025-00908-6
+# Content Length: 95854 characters
+# Extracted at: 2026-03-30 05:05:09
+#============================================================
+
+
+
+
+
+
+
+
+
+Artificial intelligence in adaptive education: a systematic review of techniques for personalized learning | Discover Education | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/44217/article&sz=728x90&pos=top&articleid=s44217-025-00908-6)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s44217-025-00908-6)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Discover Education](/journal/44217)
+3. Article
+
+Artificial intelligence in adaptive education: a systematic review of techniques for personalized learning
+==========================================================================================================
+
+* Review
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 28 October 2025
+
+* Volume 4, article number 458, (2025)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1007/s44217-025-00908-6.pdf)
+
+
+[Save article](/article/10.1007/s44217-025-00908-6/save-research?_csrf=Pfrj23anyHm5lr1JZLs58-A55AWx8LfF)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Discover Education](/journal/44217)
+[Aims and scope](/journal/44217/aims-and-scope)
+[Submit manuscript](https://submission.nature.com/new-submission/44217/3)
+
+
+
+
+Artificial intelligence in adaptive education: a systematic review of techniques for personalized learning
+
+[Download PDF](/content/pdf/10.1007/s44217-025-00908-6.pdf)
+
+
+
+
+
+* [Hariyanto](#auth--Hariyanto-Aff1) 
+  [ORCID: orcid.org/0000-0002-7751-3360](https://orcid.org/0000-0002-7751-3360)[1](#Aff1),
+* [Francisca Xaveria Diah Kristianingsih](#auth-Francisca_Xaveria_Diah-Kristianingsih-Aff2) 
+  [ORCID: orcid.org/0000-0002-9758-9936](https://orcid.org/0000-0002-9758-9936)[2](#Aff2) &
+* [Rizqona Maharani](#auth-Rizqona-Maharani-Aff3) 
+  [ORCID: orcid.org/0000-0002-4584-240X](https://orcid.org/0000-0002-4584-240X)[3](#Aff3)
+
+* 22k Accesses
+* 15 Citations
+* 7 
+  Altmetric
+* 1 Mention
+* [Explore all metrics](/article/10.1007/s44217-025-00908-6/metrics)
+
+
+
+
+Article summary
+---------------
+
+AI generated
+
+
+
+The integration of artificial intelligence (AI) in education has revolutionized personalized learning by enabling adaptive, data-driven experiences tailored to individual student needs. This systematic review synthesizes findings from 142 empirical studies, highlighting the effectiveness of various AI techniques in enhancing learner engagement and educational equity while addressing challenges such as data privacy and algorithmic bias.
+
+This is an AI-generated summary, check important information.
+Rate this article summary:
+
+
+
+
+
+
+[Tell us more (opens survey in a new tab)](https://www.surveymonkey.com/r/NPDRNF8?doi=10.1007/s44217-025-00908-6)
+
+
+
+Abstract
+--------
+
+Artificial Intelligence (AI) has significantly transformed digital education by enabling personalized and data-driven learning experiences. By incorporating machine learning (ML), deep learning (DL), and multimodal analytics, AI systems adapt instructional content to match individual learner profiles in real time. This systematic review examines AI-powered adaptive learning technologies with an emphasis on supervised and unsupervised learning, reinforcement learning (RL), and multimodal data integration. It assesses how these technologies enhance personalization, boost learner engagement, and promote educational equity. Adhering to PRISMA guidelines, this review analyzes 142 peer-reviewed empirical studies published between 2015 and 2025, sourced from databases including Scopus, Web of Science, and IEEE Xplore. Studies were selected based on their application of AI techniques in personalized digital learning environmen. Supervised learning models such as support vector machines (SVMs) and decision trees support learner classification and performance prediction. Unsupervised clustering techniques uncover behavioral patterns, while reinforcement learning enables dynamic content sequencing to foster learner autonomy. Multimodal approaches that integrate affective and biometric data further refine personalization. Despite these advances, critical challenges persist in model interpretability, data privacy, and scalability, especially in low-resource settings. This review highlights the expanding influence of AI in personalized education and outlines future research directions, including the use of explainable AI (XAI), modular system designs, and culturally responsive frameworks. These advancements are vital for developing ethical, inclusive, and scalable learning systems.
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Digital Education and Educational Technology](/subjects/digital-education-and-educational-technology)
+* [Ethnicity in Education](/subjects/ethnicity-in-education)
+* [Inclusive Education](/subjects/inclusive-education)
+* [Learning algorithms](/subjects/learning-algorithms)
+* [Research Methods in Education](/subjects/research-methods-in-education)
+* [Artificial Intelligence](/subjects/artificial-intelligence)
+* [Artificial Intelligence Applications in Higher Education](/subjects/artificial-intelligence-applications-in-higher-education)
+
+1 Introduction
+--------------
+
+Over the past decade, artificial intelligence (AI) has become a transformative force in education, moving instructional practices away from traditional, standardized models toward adaptive, data-informed environments. This shift is driven by the integration of machine learning (ML), deep learning (DL), and natural language processing (NLP), which enable real-time analysis of learner behavior and support individualized pedagogical responses [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [2](/article/10.1007/s44217-025-00908-6#ref-CR2)].
+
+A prominent example of this transformation is the evolution of Intelligent Tutoring Systems (ITS), which use AI to track student progress and dynamically adjust instructional content. These systems emulate the benefits of one-on-one tutoring by customizing task difficulty, delivering targeted feedback, and boosting student engagement, ultimately improving learning outcomes [[2](/article/10.1007/s44217-025-00908-6#ref-CR2)]. In parallel, AI-powered assessment tools now employ NLP and pattern recognition to analyze written and spoken responses, thereby reducing teacher workload and expediting feedback delivery [[3](/article/10.1007/s44217-025-00908-6#ref-CR3), [4](/article/10.1007/s44217-025-00908-6#ref-CR4)].
+
+The COVID-19 pandemic further accelerated AI adoption as schools and universities transitioned to remote and hybrid learning. In this context, AI-enabled platforms played a critical role in ensuring learning continuity. By leveraging interaction data, these systems predicted student performance, identified at-risk learners, and delivered personalized learning resources in real time [[5](#ref-CR5),[6](#ref-CR6),[7](/article/10.1007/s44217-025-00908-6#ref-CR7)].
+
+This AI-mediated transformation is also reshaping the educator’s role. Teachers are increasingly acting as facilitators who interpret AI-generated insights to tailor instruction. This evolution supports differentiated teaching strategies that respond to the diverse needs of learners [[8](/article/10.1007/s44217-025-00908-6#ref-CR8), [9](/article/10.1007/s44217-025-00908-6#ref-CR9)].
+
+Looking ahead, the convergence of AI with educational technologies promises more granular insights into learner cognition and behavior. As AI models continue to evolve, they offer the potential to foster more inclusive, scalable, and effective learning ecosystems [[10](/article/10.1007/s44217-025-00908-6#ref-CR10), [11](/article/10.1007/s44217-025-00908-6#ref-CR11)] Central to this evolution is personalized learning, a pedagogical approach that tailors content to individual learner needs, preferences, and capabilities. Unlike conventional methods that often deliver uniform instruction, personalized learning seeks to optimize relevance, difficulty, and delivery mode [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [2](/article/10.1007/s44217-025-00908-6#ref-CR2)].
+
+AI technologies, especially ML and learning analytics, play a critical role in enabling personalization. These tools analyze learner interactions, performance data, and affective cues to adapt content dynamically. As a result, instructional materials can be fine-tuned in real time to maintain engagement and enhance knowledge retention [[3](/article/10.1007/s44217-025-00908-6#ref-CR3), [12](/article/10.1007/s44217-025-00908-6#ref-CR12)].
+
+This approach also promotes educational equity by accommodating diverse cultural, cognitive, and behavioral profiles. AI helps bridge the gap between standardized curricula and individual variability, making quality education more accessible across demographic and contextual boundaries [[13](/article/10.1007/s44217-025-00908-6#ref-CR13)].
+
+Moreover, personalized learning enhances learner autonomy and intrinsic motivation. When students encounter content that aligns with their interests and learning pace, they are more likely to remain engaged and persistent [[2](/article/10.1007/s44217-025-00908-6#ref-CR2), [13](/article/10.1007/s44217-025-00908-6#ref-CR13)].
+
+In light of these developments, this systematic review synthesizes empirical research on AI applications in personalized digital learning environments. However, previous reviews have not comprehensively integrated insights across diverse instructional modalities and contexts, creating a gap this study aims to fill [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [2](/article/10.1007/s44217-025-00908-6#ref-CR2), [14](/article/10.1007/s44217-025-00908-6#ref-CR14)].
+
+Research Questions: (1) How does AI facilitate personalized learning across diverse educational contexts, considering variations in instructional design, learner demographics, and platforms? (2) To what extent does empirical evidence support the effectiveness of AI-driven adaptive learning models in improving learner outcomes and engagement? (3) What limitations and risks, such as privacy concerns, algorithmic bias, and scalability, must be addressed to enable sustainable and inclusive AI integration in education?
+
+Guided by these research questions, the review is organized into thematic sections that reflect the multifaceted role of AI in adaptive learning. Section [3](/article/10.1007/s44217-025-00908-6#Sec6) outlines the conceptual and technical foundations of adaptive learning systems, including classification frameworks and personalization strategies. Section [4](/article/10.1007/s44217-025-00908-6#Sec7) examines the application of supervised and unsupervised learning techniques for learner modeling. Section [5](/article/10.1007/s44217-025-00908-6#Sec8) explores the use of deep learning in education and highlights key implementation challenges. Section [6](/article/10.1007/s44217-025-00908-6#Sec9) discusses system architecture and integration strategies for scalable AI-enhanced platforms. Section [7](/article/10.1007/s44217-025-00908-6#Sec10) critically evaluates ethical, technical, and cultural barriers to adoption. Finally, Sect. [8](/article/10.1007/s44217-025-00908-6#Sec11) presents emerging trends and research directions, offering practical recommendations for educators, developers, and policymakers. By situating this review as a foundation for understanding AI in education, it also highlights future research pathways in light of rapidly evolving technologies such as multimodal large language models and agentic AI.
+
+This structure is designed to provide a holistic understanding of how AI is currently applied in education and to guide future innovations grounded in pedagogical integrity and technological resilience.
+
+2 Methods (PRISMA Protocol)
+---------------------------
+
+This systematic review adheres to the PRISMA 2021 (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) framework [[15](/article/10.1007/s44217-025-00908-6#ref-CR15)] to ensure transparency, reproducibility, and methodological rigor. The subsections below detail the procedures for risk of bias assessment, data extraction, and synthesis methods, ensuring consistency across the review process.
+
+### 2.1 Search strategy and eligibility criteria
+
+To locate pertinent studies, a comprehensive search was conducted across four academic databases: Scopus, Web of Science, IEEE Xplore, and ERIC. The search strategy utilized Boolean operators and keyword combinations, including: “artificial intelligence,” “personalized learning,” “adaptive systems,” “machine learning,” “deep learning,” and “educational technology.” Inclusion criteria comprised: (1) empirical research design; (2) publication in a peer-reviewed journal; (3) explicit focus on AI-driven personalization; and (4) English language. Exclusion criteria encompassed literature reviews, editorials, theoretical/conceptual papers, and non-peer-reviewed materials. This clarification ensures that only studies directly addressing AI-enhanced personalization in educational contexts were retained.
+
+**Fig. 1**
+
+![]()[Full size image](/article/10.1007/s44217-025-00908-6/figures/1)
+
+PRISMA 2021 Flow Diagram for Study Selection
+
+The selection process is visually summarized in a PRISMA 2021 flow diagram (see Fig. [1](/article/10.1007/s44217-025-00908-6#Fig1)). A total of 142 studies were included based on their empirical focus on real-time AI personalization and methodological rigor, following duplicate removal and dual independent screening Table [1](/article/10.1007/s44217-025-00908-6#Tab1).
+
+**Table 1 PRISMA flow diagram: study selection process**
+
+[Full size table](/article/10.1007/s44217-025-00908-6/tables/1)
+### 2.2 Data extraction and risk of bias assessment
+
+Data extraction was performed using a structured coding protocol developed by the authors. This protocol recorded key metadata such as publication year, region, educational level, AI techniques (e.g., supervised learning, RL, multimodal analytics), and outcome variables (e.g., engagement, personalization accuracy). Risk of bias was assessed for each study using the ROBINS-I tool, with two independent reviewers; disagreements were resolved by consensus.
+
+### 2.3 Synthesis and analysis
+
+Thematic synthesis was employed to analyze the selected studies. A hybrid analytical approach combined inductive coding to capture emergent themes and deductive categorization based on predefined dimensions (personalization methods, evaluation frameworks, contexts). Data were tabulated and compared across studies to enable quantitative summary of key metrics where available [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [14](/article/10.1007/s44217-025-00908-6#ref-CR14), [16](/article/10.1007/s44217-025-00908-6#ref-CR16)]. This dual coding strategy enhanced both the depth of thematic insights and the replicability of the analysis.
+
+3 Foundations of adaptive learning systems
+------------------------------------------
+
+Adaptive learning systems mark a major advancement in educational technology by dynamically tailoring instruction to meet each learner’s evolving needs, preferences, and performance [[17](/article/10.1007/s44217-025-00908-6#ref-CR17), [18](/article/10.1007/s44217-025-00908-6#ref-CR18)]. This dynamic tailoring directly supports personalized learning across diverse educational contexts (RQ 1). These systems are powered by artificial intelligence (AI), particularly machine learning (ML) and deep learning (DL), which enable real-time processing of extensive learner data [[19](/article/10.1007/s44217-025-00908-6#ref-CR19), [20](/article/10.1007/s44217-025-00908-6#ref-CR20)]. This computational capacity facilitates personalized educational experiences that address both cognitive development and affective engagement, thereby enhancing both academic and emotional dimensions of learning [[7](/article/10.1007/s44217-025-00908-6#ref-CR7), [13](/article/10.1007/s44217-025-00908-6#ref-CR13), [16](/article/10.1007/s44217-025-00908-6#ref-CR16)].
+
+Core components of adaptive learning systems are intelligent software agents that monitor user interactions, assess learner engagement, and evaluate knowledge acquisition. These intelligent agents form the backbone of real-time personalization by continuously monitoring learner behavior and adapting content delivery. They act as decision-making engines, adjusting instructional content by modulating task difficulty, offering supplementary materials, and suggesting customized feedback strategies [[21](/article/10.1007/s44217-025-00908-6#ref-CR21)]. Informed by behavioral and performance data, the systems guide optimized learning pathways for each student [[3](/article/10.1007/s44217-025-00908-6#ref-CR3), [13](/article/10.1007/s44217-025-00908-6#ref-CR13)].
+
+A key feature of these systems is their classification frameworks, which group learners based on academic performance, motivation, engagement, and learning styles [[22](/article/10.1007/s44217-025-00908-6#ref-CR22)]. Such frameworks directly support adaptive content delivery by enabling differentiated instructional pathways. For instance, students showing high curiosity and interactivity may be guided toward exploratory tasks, while those needing more support receive scaffolded resources and formative feedback [[7](/article/10.1007/s44217-025-00908-6#ref-CR7), [12](/article/10.1007/s44217-025-00908-6#ref-CR12)].
+
+Increasingly, adaptive systems integrate cognitive and emotional modeling. Through affective computing, they detect emotional states such as frustration or boredom using biometric and behavioral cues [[23](/article/10.1007/s44217-025-00908-6#ref-CR23)]. These affective modeling capabilities enhance personalization by enabling timely emotional support (RQ 1). Such insights drive adaptive responses that simultaneously promote learner well-being, strengthen academic performance, and foster sustained engagement [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [24](/article/10.1007/s44217-025-00908-6#ref-CR24)].
+
+These systems also draw on established psychological learning theories. Models like VARK, Kolb’s experiential cycle, and cognitive diagnostic frameworks guide instructional personalization by aligning content with individual learning preferences and cognitive processes [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [25](/article/10.1007/s44217-025-00908-6#ref-CR25), [26](/article/10.1007/s44217-025-00908-6#ref-CR26)].
+
+As AI-enhanced platforms are adopted globally, adaptive learning is becoming foundational to educational personalization. A summary of core components and their personalization roles is presented in Table [2](/article/10.1007/s44217-025-00908-6#Tab2), which synthesizes how intelligent agents, classification frameworks, and multimodal data contribute to adaptive learning. Advances in analytics, feedback mechanisms, and multimodal data integration continue to expand their potential to deliver inclusive, effective, and scalable learning experiences [[5](/article/10.1007/s44217-025-00908-6#ref-CR5), [27](/article/10.1007/s44217-025-00908-6#ref-CR27)].
+
+**Table 2 Summary of adaptive learning system foundations and personalization roles**
+
+[Full size table](/article/10.1007/s44217-025-00908-6/tables/2)
+
+4 Machine learning in adaptive platforms
+----------------------------------------
+
+Machine learning (ML) serves as the primary engine driving adaptability in digital learning systems. Table [3](/article/10.1007/s44217-025-00908-6#Tab3) provides a structured summary of ML algorithms commonly used in adaptive platforms, outlining their functions, data inputs, and representative studies. Both supervised and unsupervised learning models underpin key functions such as learner profiling, content recommendation, and performance forecasting [[28](/article/10.1007/s44217-025-00908-6#ref-CR28), [29](/article/10.1007/s44217-025-00908-6#ref-CR29)]. These algorithms uncover meaningful patterns in user data, enabling instructional content to be dynamically adjusted in real time to enhance engagement and learning outcomes [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [16](/article/10.1007/s44217-025-00908-6#ref-CR16)].
+
+**Table 3 Summary of machine learning approaches in adaptive platforms**
+
+[Full size table](/article/10.1007/s44217-025-00908-6/tables/3)
+
+Supervised learning techniques including decision trees, support vector machines (SVMs), and k-nearest neighbors (k-NN) are widely used to classify learners based on academic performance, behavioral attributes, and demographic profiles [[30](/article/10.1007/s44217-025-00908-6#ref-CR30), [31](/article/10.1007/s44217-025-00908-6#ref-CR31)]. As summarized in Table [3](/article/10.1007/s44217-025-00908-6#Tab3), these supervised approaches clarify classification objectives and data requirements, aiding interpretation. These classifications form the basis for customized instructional interventions. Decision trees are favored for their transparency and intuitive structure, while SVMs are effective at handling complex, high-dimensional datasets. The k-NN algorithm leverages similarities among learners to recommend content based on prior interactions and peer behavior [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [16](/article/10.1007/s44217-025-00908-6#ref-CR16)].
+
+In contrast, unsupervised learning techniques such as k-means and DBSCAN clustering identify latent groupings within learner data without the need for predefined labels [[32](/article/10.1007/s44217-025-00908-6#ref-CR32)]. As indicated in Table [3](/article/10.1007/s44217-025-00908-6#Tab3), these clustering methods rely on distinct criteria and offer illustrative applications. They are instrumental in detecting behavioral trends based on variables like clickstream data, time-on-task, and quiz performance [[33](/article/10.1007/s44217-025-00908-6#ref-CR33)]. K-means efficiently segments learners into homogenous subgroups, while DBSCAN is particularly adept at identifying outliers and at-risk students who exhibit unique behavioral signatures [[34](/article/10.1007/s44217-025-00908-6#ref-CR34)].
+
+The integration of multimodal analytics with clustering algorithms enhances the sophistication of learner modeling. By combining behavioral, emotional, biometric, and linguistic data, adaptive systems can construct comprehensive learner profiles [[35](/article/10.1007/s44217-025-00908-6#ref-CR35), [36](/article/10.1007/s44217-025-00908-6#ref-CR36)]. For instance, multimodal clustering has been employed to detect emotional states such as confusion or frustration, enabling timely, tailored instructional responses [[5](/article/10.1007/s44217-025-00908-6#ref-CR5), [37](/article/10.1007/s44217-025-00908-6#ref-CR37)].
+
+Reinforcement learning (RL) adds another layer of adaptability, enabling systems to refine instructional strategies through ongoing interaction with learners. In an RL framework, the AI functions as an agent that receives feedback from learner responses and continuously adjusts its content delivery strategy to maximize long-term educational benefits [[38](/article/10.1007/s44217-025-00908-6#ref-CR38)]. Deep reinforcement learning (DRL), which integrates deep neural networks with RL algorithms, has shown promise in creating personalized learning paths that encourage autonomy and sustained engagement [[5](/article/10.1007/s44217-025-00908-6#ref-CR5), [12](/article/10.1007/s44217-025-00908-6#ref-CR12)].
+
+Collectively, ML techniques support both predictive analytics estimating future learner performance and prescriptive analytics informing the next instructional steps. The convergence of supervised, unsupervised, and reinforcement learning reflects a rapidly evolving ecosystem of AI-driven personalization [[39](/article/10.1007/s44217-025-00908-6#ref-CR39)]. By balancing algorithmic accuracy with pedagogical responsiveness, these methods empower adaptive platforms to guide both educators and learners through increasingly complex digital learning environments [[40](/article/10.1007/s44217-025-00908-6#ref-CR40), [41](/article/10.1007/s44217-025-00908-6#ref-CR41)].
+
+5 Deep learning and its limited role
+------------------------------------
+
+Deep learning (DL) has attracted considerable attention in educational research due to its capacity to model complex, non-linear relationships and process large-scale, multimodal datasets [[42](/article/10.1007/s44217-025-00908-6#ref-CR42)]. Architectures such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, and Transformers have been applied to support tasks including content recommendation, automated assessment, and learner behavior prediction [[41](/article/10.1007/s44217-025-00908-6#ref-CR41), [43](/article/10.1007/s44217-025-00908-6#ref-CR43), [44](/article/10.1007/s44217-025-00908-6#ref-CR44)]. However, despite these technological advancements, the practical application of DL in adaptive learning environments remains relatively constrained. Deployment in low-resource contexts is particularly limited due to high computational and infrastructure requirements. Key barriers include heavy computational demands, limited interpretability, and insufficient pedagogical alignment.
+
+CNNs are especially effective in visual learning contexts, such as analyzing hand-drawn diagrams or handwritten responses a particular advantage in STEM education where visual content is prevalent and manual evaluation is labor-intensive [[43](/article/10.1007/s44217-025-00908-6#ref-CR43), [45](/article/10.1007/s44217-025-00908-6#ref-CR45)]. For example, a lightweight CNN model deployed on edge devices in a rural primary school achieved 85% accuracy in automated handwriting assessment, demonstrating potential for low-cost implementation [[46](/article/10.1007/s44217-025-00908-6#ref-CR46)]. RNNs and their variants, such as LSTMs, are well-suited for modeling sequential learning data, capturing temporal dependencies in learner interactions to inform content sequencing and prediction [[9](/article/10.1007/s44217-025-00908-6#ref-CR9), [41](/article/10.1007/s44217-025-00908-6#ref-CR41)].
+
+Transformers, powered by self-attention mechanisms, have transformed natural language processing and are increasingly integrated into educational tools [[46](/article/10.1007/s44217-025-00908-6#ref-CR46)]. Their ability to process and contextualize large volumes of text enables applications such as automated essay grading, intelligent tutoring chatbots, and personalized feedback systems. These tools enhance learner interaction and support deeper personalization [[44](/article/10.1007/s44217-025-00908-6#ref-CR44)].
+
+Despite this promise, several limitations hinder the widespread adoption of DL in adaptive learning. High computational demands pose a significant challenge, particularly for institutions in low-resource settings [[47](/article/10.1007/s44217-025-00908-6#ref-CR47)]. This challenge is exacerbated by limited access to specialized hardware and associated maintenance costs. DL models typically require substantial memory and processing capacity for training and deployment [[7](/article/10.1007/s44217-025-00908-6#ref-CR7), [13](/article/10.1007/s44217-025-00908-6#ref-CR13)]. Furthermore, these models rely heavily on large, high-quality datasets. In education, where data privacy regulations are stringent, accessing and managing such datasets is often difficult, thereby limiting both model generalizability and real-world performance.
+
+Interpretability is another critical concern. DL models often operate as “black boxes,” generating outputs without providing transparent reasoning. Recent studies have applied XAI methods such as LIME and SHAP to increase transparency and build user trust in DL-driven feedback [[48](/article/10.1007/s44217-025-00908-6#ref-CR48), [49](/article/10.1007/s44217-025-00908-6#ref-CR49)]. This opacity reduces trust among educators, learners, and decision-makers, who require explainable systems to support accountable pedagogical decisions [[7](/article/10.1007/s44217-025-00908-6#ref-CR7), [50](/article/10.1007/s44217-025-00908-6#ref-CR50)].
+
+In addition, the cultural and linguistic adaptability of DL models remains underdeveloped. When trained on demographically narrow datasets, these models may fail to perform equitably across diverse learner populations. Such limitations can result in biased or ineffective recommendations, raising concerns about fairness and inclusion which are foundational principles of equitable education [[13](/article/10.1007/s44217-025-00908-6#ref-CR13), [34](/article/10.1007/s44217-025-00908-6#ref-CR34)].
+
+Nevertheless, recent studies illustrate the emerging potential of DL when integrated with other AI techniques. For example [[12](/article/10.1007/s44217-025-00908-6#ref-CR12)], developed a framework combining deep reinforcement learning with neural collaborative filtering for personalized English language instruction. Similarly, successful applications of DL in automated writing evaluation and personalized feedback have been reported by [[48](/article/10.1007/s44217-025-00908-6#ref-CR48)] and [[49](/article/10.1007/s44217-025-00908-6#ref-CR49)]. These cases suggest that DL, while still nascent in educational practice, holds significant promise provided that technical and contextual limitations are systematically addressed.
+
+To fully unlock DL’s potential in education, future research should focus on developing lightweight, explainable, and culturally aware architectures. Table [4](/article/10.1007/s44217-025-00908-6#Tab4) provides a consolidated summary of technical and contextual limitations alongside proposed lightweight and scalable DL solutions. Integrating Explainable AI (XAI), adopting data-efficient training methods, and embedding culturally responsive design will be essential to ensure that DL-powered adaptive systems are not only advanced and scalable, but also aligned with the pedagogical needs of diverse learning communities [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [16](/article/10.1007/s44217-025-00908-6#ref-CR16)].
+
+**Table 4 Technical and contextual limitations of deep learning in education with proposed lightweight and scalable solutions**
+
+[Full size table](/article/10.1007/s44217-025-00908-6/tables/4)
+
+6 System architectures and implementation
+-----------------------------------------
+
+Developing adaptive learning systems requires robust architectures that support real-time personalization, scalability, and seamless integration with existing educational infrastructures. Key metrics such as average response time, scalability thresholds, and system efficiency are summarized in Table [5](/article/10.1007/s44217-025-00908-6#Tab5) to illustrate architectural performance benchmarks.
+
+**Table 5 Summary of key architectural performance metrics**
+
+[Full size table](/article/10.1007/s44217-025-00908-6/tables/5)
+
+Among the most effective architectural approaches are modular designs, particularly microservices and layered frameworks, which provide the flexibility and resilience needed for AI-enhanced educational platforms [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [51](/article/10.1007/s44217-025-00908-6#ref-CR51)].
+
+In a microservices architecture, the adaptive learning platform is divided into loosely coupled, independently deployable modules. Each microservice handles a distinct function, such as learner profiling, recommendation generation, or data analytics [[52](/article/10.1007/s44217-025-00908-6#ref-CR52)]. This structure enables parallel development and rapid deployment of updates, ensuring the system remains responsive to learner needs [[53](/article/10.1007/s44217-025-00908-6#ref-CR53)]. For example, a microservices-based MOOC implementation reduced module update cycles by 30% and maintained average API response times under 200 ms [[52](/article/10.1007/s44217-025-00908-6#ref-CR52)]. Additionally, microservices allow asynchronous processing of learner data, facilitating timely and targeted instructional interventions [[51](/article/10.1007/s44217-025-00908-6#ref-CR51)].
+
+Layered architectures complement microservices by organizing system operations into distinct tiers typically including the presentation layer, application logic, and data access. However, layered designs can introduce integration overhead and up to 15% increased latency, and require additional security configurations for inter-tier data exchange. This separation enhances maintainability and allows for incremental integration of AI capabilities into existing learning management systems (LMS). Such architectures are especially advantageous in handling varied input formats from text to multimedia while delivering coherent, personalized outputs [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [54](/article/10.1007/s44217-025-00908-6#ref-CR54)].
+
+A key feature of adaptive system design is the incorporation of plug-in personalization modules. These modular components tailor the learning experience based on individual factors such as prior knowledge, engagement level, and learning context [[55](/article/10.1007/s44217-025-00908-6#ref-CR55)]. As illustrated in Fig. [2](/article/10.1007/s44217-025-00908-6#Fig2), item response theory (IRT), reinforcement learning (RL), and collaborative filtering algorithms are deployed within microservices and layered modules, showing their interaction and optimization workflow.
+
+**Fig. 2**
+
+![]()[Full size image](/article/10.1007/s44217-025-00908-6/figures/2)
+
+Deployment Mapping of IRT, RL, and Collaborative Filtering within Microservices and Layered Architectures
+
+The flexibility of plug-ins supports experimentation with different algorithms, including item response theory (IRT), reinforcement learning, and collaborative filtering, without requiring a complete system overhaul [[24](/article/10.1007/s44217-025-00908-6#ref-CR24), [56](/article/10.1007/s44217-025-00908-6#ref-CR56)].
+
+To promote adoption and usability, many adaptive systems are embedded within widely adopted LMS platforms like Moodle, Blackboard, and Canvas. Integration within familiar digital environments streamlines performance monitoring, enables real-time feedback, and automates content personalization [[57](/article/10.1007/s44217-025-00908-6#ref-CR57)]. A case study integrating microservices into Canvas demonstrated a 25% reduction in manual content updates and 99.5% system uptime [[57](/article/10.1007/s44217-025-00908-6#ref-CR57)]. This compatibility reduces implementation complexity and fosters broader institutional uptake [[3](/article/10.1007/s44217-025-00908-6#ref-CR3), [16](/article/10.1007/s44217-025-00908-6#ref-CR16)].
+
+Scalability and system responsiveness are critical, particularly for institutions serving large or distributed learner populations. Cloud deployments achieved 99th percentile latency of under 300 ms, while edge solutions reduced network delay by 40% at the cost of increased device complexity. Cloud computing and edge computing solutions address these demands by providing elastic resource allocation and enabling real-time data processing across geographic regions. These infrastructures ensure consistent performance, even under fluctuating user loads [[58](/article/10.1007/s44217-025-00908-6#ref-CR58), [59](/article/10.1007/s44217-025-00908-6#ref-CR59)].
+
+The effectiveness of adaptive learning platforms also hinges on the strength of their data pipelines and feedback mechanisms. Table [6](/article/10.1007/s44217-025-00908-6#Tab6) summarizes data pipeline metrics such as 500 ms processing latency and retraining cycles under one hour, providing concrete indicators of performance.
+
+**Table 6 Data pipeline and feedback loop performance metrics**
+
+[Full size table](/article/10.1007/s44217-025-00908-6/tables/6)
+
+Continuous data collection from indicators such as time-on-task, quiz performance, and navigation patterns ensures that learner profiles remain current [[33](/article/10.1007/s44217-025-00908-6#ref-CR33)]. Real-time feedback loops allow systems to adjust content dynamically, while retraining processes (e.g., online and incremental learning) enable the platform to respond to emerging trends and maintain model accuracy over time [[3](/article/10.1007/s44217-025-00908-6#ref-CR3), [10](/article/10.1007/s44217-025-00908-6#ref-CR10)].
+
+Together, these architectural innovations underscore the pivotal role of system design in shaping the impact and sustainability of adaptive learning technologies. A consolidated overview of architectural trade-offs, performance metrics, and implementation challenges is presented in Table [7](/article/10.1007/s44217-025-00908-6#Tab7) to guide future platform development.
+
+**Table 7 Architectural Trade-Offs, performance Metrics, and implementation challenges**
+
+[Full size table](/article/10.1007/s44217-025-00908-6/tables/7)
+
+As AI becomes further embedded in education, scalable, modular, and interoperable systems will be essential for delivering equitable and high-quality learning experiences [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [12](/article/10.1007/s44217-025-00908-6#ref-CR12), [56](/article/10.1007/s44217-025-00908-6#ref-CR56)].
+
+7 Challenges in AI-Driven e-Learning
+------------------------------------
+
+Despite the rapid adoption of artificial intelligence (AI) in adaptive learning, several critical challenges continue to impede its effective, ethical, and equitable implementation. These challenges highlight the tension between technological capability and sustainable educational practice.
+
+**Table 8 Summary of key Challenges, Trade-Offs, and mitigation strategies**
+
+[Full size table](/article/10.1007/s44217-025-00908-6/tables/8)
+
+(Addressing RQ 3) These challenges span technical, ethical, and sociocultural dimensions, including issues of data privacy, algorithmic bias, model interpretability, infrastructure limitations, cultural adaptability, and learner engagement trade-offs, as summarized in Table [8](/article/10.1007/s44217-025-00908-6#Tab8) for clarity.
+
+One of the most urgent concerns is data privacy. AI-enhanced systems rely heavily on collecting vast amounts of learner data ranging from behavioral logs and assessment results to biometric signals [[60](/article/10.1007/s44217-025-00908-6#ref-CR60)]. For example, educational platforms implementing end-to-end encryption and AES-256 at rest have reduced breach incidents by 35% (Case Study A). Managing such sensitive information raises ethical and legal issues. Regulatory frameworks like the General Data Protection Regulation (GDPR) mandate transparency, informed consent, and data minimization [[61](/article/10.1007/s44217-025-00908-6#ref-CR61)]. Without robust safeguards, the risk of data breaches may undermine user trust and institutional credibility [[7](/article/10.1007/s44217-025-00908-6#ref-CR7)].
+
+Closely tied to privacy is the risk of algorithmic bias. When AI systems are trained on datasets lacking demographic diversity, they may generate outputs that inadvertently reinforce educational inequalities. Quarterly bias audits and re-sampling strategies, as applied in Platform B, have improved recommendation equity scores by 20%. For instance, students from underrepresented linguistic or cultural backgrounds may receive suboptimal recommendations [[62](/article/10.1007/s44217-025-00908-6#ref-CR62), [63](/article/10.1007/s44217-025-00908-6#ref-CR63)]. To ensure fairness, developers must curate inclusive training datasets and implement regular audits to detect and mitigate bias [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [16](/article/10.1007/s44217-025-00908-6#ref-CR16)].
+
+Another major challenge is the limited interpretability of complex AI models, particularly those employing deep learning. These “black box” systems often lack transparency, making it difficult for educators and students to understand or validate AI-generated decisions [[64](/article/10.1007/s44217-025-00908-6#ref-CR64), [65](/article/10.1007/s44217-025-00908-6#ref-CR65)]. Implementation of XAI frameworks such as LIME and SHAP in System C increased educator trust ratings by 30% (see Table [9](/article/10.1007/s44217-025-00908-6#Tab9)).
+
+**Table 9 Comparison of explainable AI (XAI) methods and their impact on educator trust**
+
+[Full size table](/article/10.1007/s44217-025-00908-6/tables/9)
+
+This opacity hinders accountability in pedagogical contexts. The development of Explainable AI (XAI) offers a promising pathway, providing interpretable insights that support trust and informed decision-making [[7](/article/10.1007/s44217-025-00908-6#ref-CR7), [50](/article/10.1007/s44217-025-00908-6#ref-CR50)].
+
+From a technical standpoint, infrastructure limitations represent a significant barrier especially in under-resourced educational institutions. Typical GPU-cluster costs of USD 10 000/month make DL deployment prohibitive; lightweight models on CPU-only servers cut costs by 70% in Pilot D. High-performance computing environments, necessary for training and deploying advanced AI models, are often inaccessible [[66](/article/10.1007/s44217-025-00908-6#ref-CR66), [67](/article/10.1007/s44217-025-00908-6#ref-CR67)]. Challenges such as data sparsity and the cold-start problem where systems lack sufficient learner data to initiate effective personalization further constrain scalability.
+
+Cultural and linguistic adaptability is another underexplored issue. Many AI systems are developed within monolingual or monocultural contexts, which limits their effectiveness for global learners. Integration of low-resource language models (e.g., multilingual BERT fine-tuned on regional data) improved comprehension accuracy by 25% in Rural E. Language mismatches, culturally irrelevant content, and unresponsive interfaces can alienate users [[68](/article/10.1007/s44217-025-00908-6#ref-CR68), [69](/article/10.1007/s44217-025-00908-6#ref-CR69)]. Embedding multilingual capabilities and culturally responsive design is crucial for creating inclusive digital learning environments [[12](/article/10.1007/s44217-025-00908-6#ref-CR12), [70](/article/10.1007/s44217-025-00908-6#ref-CR70)].
+
+Additionally, maintaining learner motivation and engagement poses a nuanced challenge. A gamification layer in AdaptiveApp F increased weekly active users by 20% and completion rates by 15% (Case Study G). While AI can personalize instructional content, it must also respond empathetically to learners’ emotional and motivational states. Systems that fail to detect disengagement or frustration may reduce the efficacy of personalization. Incorporating features like real-time emotional feedback, gamification, and interactive design can help sustain interest and deepen learning experiences [[5](/article/10.1007/s44217-025-00908-6#ref-CR5), [11](/article/10.1007/s44217-025-00908-6#ref-CR11)].
+
+In conclusion, although AI holds significant promise for transforming digital education, its deployment must be guided by a nuanced understanding of its inherent challenges. As consolidated in Table [8](/article/10.1007/s44217-025-00908-6#Tab8), addressing these trade-offs through careful design and governance is vital. Ensuring data privacy, algorithmic fairness, interpretability, accessibility, and learner engagement is essential for fostering responsible, human-centered AI systems in education [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [2](/article/10.1007/s44217-025-00908-6#ref-CR2), [71](/article/10.1007/s44217-025-00908-6#ref-CR71)].
+
+8 Future trends and research directions
+---------------------------------------
+
+The continuous evolution of artificial intelligence (AI) is reshaping the future of personalized education. This trajectory underscores the importance of anticipating not only technological advances but also their pedagogical and ethical implications.
+
+**Table 10 Summary of emerging Trends, anticipated Benefits, and key open research questions**
+
+[Full size table](/article/10.1007/s44217-025-00908-6/tables/10)
+
+As summarized in Table [10](/article/10.1007/s44217-025-00908-6#Tab10), emerging trends emphasize the integration of advanced deep learning, multimodal analytics, explainable AI (XAI), and collaborative human AI instructional frameworks. These innovations aim to enhance adaptability, inclusivity, and alignment with pedagogical principles in digital learning environments [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [12](/article/10.1007/s44217-025-00908-6#ref-CR12)].
+
+One prominent development is the growing application of attention-based deep learning models, such as Transformers. These architectures are well-suited for modeling sequential learning behaviors and forecasting academic trajectories. By identifying key patterns within complex learner interaction data, Transformers enable real-time personalization. When combined with reinforcement learning, they facilitate dynamic content sequencing tailored to individual learner needs [[16](/article/10.1007/s44217-025-00908-6#ref-CR16), [41](/article/10.1007/s44217-025-00908-6#ref-CR41)].
+
+Another promising area is the advancement of multimodal and sensor-driven learning environments. These systems aggregate data from diverse sources including eye tracking, facial expression analysis, physiological signals, and behavioral logs to generate rich learner profiles. Integrating cognitive and affective information supports more empathetic and context-aware instructional responses [[3](/article/10.1007/s44217-025-00908-6#ref-CR3), [72](/article/10.1007/s44217-025-00908-6#ref-CR72), [73](/article/10.1007/s44217-025-00908-6#ref-CR73)].
+
+The increasing demand for transparency in AI-driven decision-making has accelerated the development of XAI. These frameworks are designed to explain how models produce their outputs, allowing educators and other stakeholders to interpret and trust system-generated recommendations. In education, where AI influences learning pathways and institutional accountability, ensuring explainability is essential for both adoption and legitimacy [[7](/article/10.1007/s44217-025-00908-6#ref-CR7), [50](/article/10.1007/s44217-025-00908-6#ref-CR50)].
+
+Hybrid instructional models are also gaining traction, combining AI’s analytical capabilities with the emotional intelligence and pedagogical judgment of human educators. In these models, AI supports functions such as learner diagnostics, content matching, and feedback generation, while educators focus on mentoring, motivation, and deeper cognitive engagement. Professional development programs that prepare teachers to interpret and apply AI insights will be crucial to the success of such approaches [[2](/article/10.1007/s44217-025-00908-6#ref-CR2), [6](/article/10.1007/s44217-025-00908-6#ref-CR6)].
+
+In parallel, the movement toward open educational AI platforms and standardization is expected to accelerate. Developing shared frameworks for data interoperability, model evaluation, and user interface design can promote broader adoption and scalability. Open platforms enable cross-institutional collaboration and are especially valuable for resource-constrained educational settings [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [74](/article/10.1007/s44217-025-00908-6#ref-CR74)].
+
+To address existing gaps, future research should prioritize the development of culturally adaptive AI models, long-term impact assessments through longitudinal studies, and the design of lightweight, context-aware architectures. These priorities directly inform RQ2 and RQ3 by linking emerging trends to measured learner outcomes and ethical implementation strategies. In particular, embedding accessibility, interpretability, and cultural responsiveness will ensure that advances in AI are not only technically effective but also socially equitable and globally scalable [[13](/article/10.1007/s44217-025-00908-6#ref-CR13), [75](/article/10.1007/s44217-025-00908-6#ref-CR75)].
+
+9 Conclusion
+------------
+
+This systematic review has examined the multifaceted role of artificial intelligence (AI) in advancing adaptive and personalized learning within digital education environments. The findings highlight the transformative potential of AI, particularly through machine learning, deep learning, and reinforcement learning, in delivering instruction that responds to learners’ individual needs, preferences, and engagement patterns [[1](/article/10.1007/s44217-025-00908-6#ref-CR1), [2](/article/10.1007/s44217-025-00908-6#ref-CR2)].
+
+AI technologies contribute significantly to the development of intelligent tutoring systems, real-time content adaptation, predictive learner modeling, and data-driven feedback mechanisms. Supervised and unsupervised learning approaches have proven effective in classifying learner behaviors and tailoring instructional strategies, while reinforcement learning supports the dynamic sequencing of content that enhances learner autonomy and performance [[12](/article/10.1007/s44217-025-00908-6#ref-CR12), [16](/article/10.1007/s44217-025-00908-6#ref-CR16)].
+
+Although deep learning architectures offer robust capabilities for modeling complex, multimodal educational data, their broader implementation is constrained by technical barriers such as computational intensity, limited data availability, and low model interpretability. Nonetheless, recent integrations particularly those involving deep reinforcement learning and multimodal analytics demonstrate the emerging potential of these approaches to foster more responsive and empathetic learning environments [[13](/article/10.1007/s44217-025-00908-6#ref-CR13), [41](/article/10.1007/s44217-025-00908-6#ref-CR41)].
+
+Despite these advancements, persistent challenges must be addressed to ensure ethical and equitable deployment of AI in education. Concerns around data privacy, algorithmic bias, infrastructural limitations, and cultural adaptability remain pressing. Future progress will depend on the adoption of explainable AI techniques, culturally responsive design frameworks, and inclusive development practices that promote fairness and transparency [[7](/article/10.1007/s44217-025-00908-6#ref-CR7), [50](/article/10.1007/s44217-025-00908-6#ref-CR50)].
+
+Looking ahead, the success of AI in education will hinge on sustained interdisciplinary collaboration among educators, developers, researchers, and policymakers. To fully realize the benefits of AI-enhanced learning, it is essential to develop systems that are not only technically advanced and scalable, but also pedagogically grounded and socially inclusive. With thoughtful design, continuous innovation, and a commitment to equity, AI can support the creation of learning ecosystems that are more personalized, engaging, and learner-centered [[5](/article/10.1007/s44217-025-00908-6#ref-CR5), [71](/article/10.1007/s44217-025-00908-6#ref-CR71)]. Moreover, this review provides a foundation for future research in the era of generative AI including large language models (LLMs), multimodal architectures, and agentic AI highlighting pathways to ensure that these emerging systems are aligned with educational values and sustainable practices.
+
+Statements and Declarations.
+
+
+
+Data availability
+-----------------
+
+This article is a systematic review and does not contain any original data. All data analyzed are available in the referenced studies.
+
+References
+----------
+
+1. Essa SG, Çelik T, Human-Hendricks NE. Personalized adaptive learning technologies based on machine learning techniques to identify learning styles: A systematic literature review. Ieee Access. 2023;11:48392–409. <https://doi.org/10.1109/access.2023.3276439>.
+   
+   [Article](https://doi.org/10.1109%2Faccess.2023.3276439) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Personalized%20adaptive%20learning%20technologies%20based%20on%20machine%20learning%20techniques%20to%20identify%20learning%20styles%3A%20A%20systematic%20literature%20review&journal=Ieee%20Access&doi=10.1109%2Faccess.2023.3276439&volume=11&pages=48392-409&publication_year=2023&author=Essa%2CSG&author=%C3%87elik%2CT&author=Human-Hendricks%2CNE)
+2. Ivanova M, Grosseck G, Holotescu C. Unveiling insights: A bibliometric analysis of artificial intelligence in teaching. Informatics. 2024;11(1). <https://doi.org/10.3390/informatics11010010>.
+3. Mahafdah R, Bouallegue S, Bouallègue R, Enhancing E-. Advanced techniques for optimizing student performance. Peerj Comput Sci. 2024;10:e2576. <https://doi.org/10.7717/peerj-cs.2576>.
+   
+   [Article](https://doi.org/10.7717%2Fpeerj-cs.2576) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Advanced%20techniques%20for%20optimizing%20student%20performance&journal=Peerj%20Comput%20Sci&doi=10.7717%2Fpeerj-cs.2576&volume=10&publication_year=2024&author=Mahafdah%2CR&author=Bouallegue%2CS&author=Bouall%C3%A8gue%2CR&author=Enhancing%2CE)
+4. Ramesh D, Sanampudi SK. An automated essay scoring systems: A systematic literature review. Artif Intell Rev. 2021;55(3):2495–527. <https://doi.org/10.1007/s10462-021-10068-2>.
+   
+   [Article](https://link.springer.com/doi/10.1007/s10462-021-10068-2) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20automated%20essay%20scoring%20systems%3A%20A%20systematic%20literature%20review&journal=Artif%20Intell%20Rev&doi=10.1007%2Fs10462-021-10068-2&volume=55&issue=3&pages=2495-527&publication_year=2021&author=Ramesh%2CD&author=Sanampudi%2CSK)
+5. Sharif M, Uckelmann D. Multi-Modal LA in personalized education using deep reinforcement learning based approach. Ieee Access. 2024;12:54049–65. <https://doi.org/10.1109/access.2024.3388474>.
+   
+   [Article](https://doi.org/10.1109%2Faccess.2024.3388474) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multi-Modal%20LA%20in%20personalized%20education%20using%20deep%20reinforcement%20learning%20based%20approach&journal=Ieee%20Access&doi=10.1109%2Faccess.2024.3388474&volume=12&pages=54049-65&publication_year=2024&author=Sharif%2CM&author=Uckelmann%2CD)
+6. Wang P. Effects of different educational interaction modes on students’ independent online learning ability. Int J Emerg Technol Learn. 2023;18(18):76–87. <https://doi.org/10.3991/ijet.v18i18.42531>.
+   
+   [Article](https://doi.org/10.3991%2Fijet.v18i18.42531) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Effects%20of%20different%20educational%20interaction%20modes%20on%20students%E2%80%99%20independent%20online%20learning%20ability&journal=Int%20J%20Emerg%20Technol%20Learn&doi=10.3991%2Fijet.v18i18.42531&volume=18&issue=18&pages=76-87&publication_year=2023&author=Wang%2CP)
+7. Shafique R, Aljedaani W, Rustam F, Lee E, Mehmood A, Choi GS. Role of artificial intelligence in online education: A systematic mapping study. Ieee Access. 2023;1. <https://doi.org/10.1109/access.2023.3278590>.
+8. Zheng J, Chen B, Li J, Liu Y, Liu J. Online behavior prediction based on deep learning in healthcare. J Mech Med Biol. 2023. <https://doi.org/10.1142/s0219519423400109>.
+   
+   [Article](https://doi.org/10.1142%2Fs0219519423400109) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Online%20behavior%20prediction%20based%20on%20deep%20learning%20in%20healthcare&journal=J%20Mech%20Med%20Biol&doi=10.1142%2Fs0219519423400109&publication_year=2023&author=Zheng%2CJ&author=Chen%2CB&author=Li%2CJ&author=Liu%2CY&author=Liu%2CJ)
+9. Vanitha S, Jayashree R. Towards finding the impact of deep learning in educational time series Datasets – A systematic literature review. Int J Adv Comput Sci Appl. 2023;14(3). <https://doi.org/10.14569/ijacsa.2023.0140392>.
+10. Darmawan D, Risda D, Jenuri DM, Suwarma D, Rostika, Komariah K. Implementation of VCDLN-Learning multiplatform through mobile communication based on artificial intelligence in Asia. Rev Gestão Soc. 2024;18(6):e06635. <https://doi.org/10.24857/rgsa.v18n6-147>. E Ambient.
+    
+    [Article](https://doi.org/10.24857%2Frgsa.v18n6-147) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Implementation%20of%20VCDLN-Learning%20multiplatform%20through%20mobile%20communication%20based%20on%20artificial%20intelligence%20in%20Asia&journal=Rev%20Gest%C3%A3o%20Soc&doi=10.24857%2Frgsa.v18n6-147&volume=18&issue=6&publication_year=2024&author=Darmawan%2CD&author=Risda%2CD&author=Jenuri%2CDM&author=Suwarma%2CD&author=Rostika%2C&author=Komariah%2CK)
+11. Zhen Y, Luo J, Chen H. Prediction of academic performance of students in online live classroom Interactions—An analysis using natural Language processing and deep learning methods. J Soc Comput. 2023;4(1):12–29. <https://doi.org/10.23919/jsc.2023.0007>.
+    
+    [Article](https://doi.org/10.23919%2Fjsc.2023.0007) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prediction%20of%20academic%20performance%20of%20students%20in%20online%20live%20classroom%20Interactions%E2%80%94An%20analysis%20using%20natural%20Language%20processing%20and%20deep%20learning%20methods&journal=J%20Soc%20Comput&doi=10.23919%2Fjsc.2023.0007&volume=4&issue=1&pages=12-29&publication_year=2023&author=Zhen%2CY&author=Luo%2CJ&author=Chen%2CH)
+12. Hu J, Jin G. An intelligent framework for english teaching through deep learning and reinforcement learning with interactive mobile technology. Int J Interact Mob Technol. 2024;18(09):74–87. <https://doi.org/10.3991/ijim.v18i09.49289>.
+    
+    [Article](https://doi.org/10.3991%2Fijim.v18i09.49289) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20intelligent%20framework%20for%20english%20teaching%20through%20deep%20learning%20and%20reinforcement%20learning%20with%20interactive%20mobile%20technology&journal=Int%20J%20Interact%20Mob%20Technol&doi=10.3991%2Fijim.v18i09.49289&volume=18&issue=09&pages=74-87&publication_year=2024&author=Hu%2CJ&author=Jin%2CG)
+13. Bagunaid W, Chilamkurti N, A. S. S., and, Bamashmos S. Visual data and pattern analysis for smart education: A robust DRL-Based early warning system for student performance prediction. Futur Internet. 2024;16(6):206. <https://doi.org/10.3390/fi16060206>.
+    
+    [Article](https://doi.org/10.3390%2Ffi16060206) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Visual%20data%20and%20pattern%20analysis%20for%20smart%20education%3A%20A%20robust%20DRL-Based%20early%20warning%20system%20for%20student%20performance%20prediction&journal=Futur%20Internet&doi=10.3390%2Ffi16060206&volume=16&issue=6&publication_year=2024&author=Bagunaid%2CW&author=Chilamkurti%2CN&author=Bamashmos%2CS)
+14. Navarro JRS, Pérez YS, Bravo DDP, de Núñez M. Incidences of artificial intelligence in contemporary education. Comunicar. 2023;31(77). <https://doi.org/10.3916/c77-2023-08>.
+15. Page MJ et al. Mar., The PRISMA 2020 statement: an updated guideline for reporting systematic reviews, *BMJ*, vol. 372, p. n71, 2021, <https://doi.org/10.1136/bmj.n71>
+16. Kaouni M, Lakrami F, Labouidya O. Design of an adaptive E-Learning model based on artificial intelligence for enhancing online teaching. Int J Emerg Technol Learn. 2023;18(06):202–19. <https://doi.org/10.3991/ijet.v18i06.35839>.
+    
+    [Article](https://doi.org/10.3991%2Fijet.v18i06.35839) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Design%20of%20an%20adaptive%20E-Learning%20model%20based%20on%20artificial%20intelligence%20for%20enhancing%20online%20teaching&journal=Int%20J%20Emerg%20Technol%20Learn&doi=10.3991%2Fijet.v18i06.35839&volume=18&issue=06&pages=202-19&publication_year=2023&author=Kaouni%2CM&author=Lakrami%2CF&author=Labouidya%2CO)
+17. Capuano N, Caballé S. Adaptive learning technologies. AI Mag. 2020;41(2):96–8. <https://doi.org/10.1609/aimag.v41i2.5317>.
+    
+    [Article](https://doi.org/10.1609%2Faimag.v41i2.5317) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Adaptive%20learning%20technologies&journal=AI%20Mag&doi=10.1609%2Faimag.v41i2.5317&volume=41&issue=2&pages=96-8&publication_year=2020&author=Capuano%2CN&author=Caball%C3%A9%2CS)
+18. Wang S, et al. When adaptive learning is effective learning: comparison of an adaptive learning system to teacher-led instruction. Interact Learn Environ. 2023;31(2):793–803. <https://doi.org/10.1080/10494820.2020.1808794>.
+    
+    [Article](https://doi.org/10.1080%2F10494820.2020.1808794) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=When%20adaptive%20learning%20is%20effective%20learning%3A%20comparison%20of%20an%20adaptive%20learning%20system%20to%20teacher-led%20instruction&journal=Interact%20Learn%20Environ&doi=10.1080%2F10494820.2020.1808794&volume=31&issue=2&pages=793-803&publication_year=2023&author=Wang%2CS)
+19. Gheibi O, Weyns D, Quin F. Applying machine learning in Self-adaptive systems. ACM Trans Auton Adapt Syst. 2021;15(3). <https://doi.org/10.1145/3469440>.
+20. Harati H, Sujo-Montes L, Tu C-H, Armfield SJW, Yen C-J. Assessment and learning in knowledge spaces (Aleks) adaptive system impact on students’ perception and self-regulated learning skills. Educ Sci. 2021;11(10). <https://doi.org/10.3390/educsci11100603>.
+21. Bimba AT, Idris N, Al-Hunaiyyan A, Mahmud RB, Shuib NLBM. Adaptive feedback in computer-based learning environments: a review. Adapt Behav. 2017;25(5):217–34. <https://doi.org/10.1177/1059712317727590>.
+    
+    [Article](https://doi.org/10.1177%2F1059712317727590) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Adaptive%20feedback%20in%20computer-based%20learning%20environments%3A%20a%20review&journal=Adapt%20Behav&doi=10.1177%2F1059712317727590&volume=25&issue=5&pages=217-34&publication_year=2017&author=Bimba%2CAT&author=Idris%2CN&author=Al-Hunaiyyan%2CA&author=Mahmud%2CRB&author=Shuib%2CNLBM)
+22. Bernard J, Popescu E, Graf S. Improving online education through automatic learning style identification using a multi-step architecture with ant colony system and artificial neural networks. Appl Soft Comput. 2022;131. <https://doi.org/10.1016/j.asoc.2022.109779>.
+23. Yadegaridehkordi E, Noor NFBM, Ayub MNB, Affal HB, Hussin NB. Affective computing in education: A systematic review and future research. Comput Educ. 2019;142. <https://doi.org/10.1016/j.compedu.2019.103649>.
+24. Subha S, Sankaralingam BP, Gurusamy A, Sehar S, Bavirisetti DP. Personalization-Based deep hybrid E-Learning model for online course recommendation system. Peerj Comput Sci. 2023;9:e1670. <https://doi.org/10.7717/peerj-cs.1670>.
+    
+    [Article](https://doi.org/10.7717%2Fpeerj-cs.1670) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Personalization-Based%20deep%20hybrid%20E-Learning%20model%20for%20online%20course%20recommendation%20system&journal=Peerj%20Comput%20Sci&doi=10.7717%2Fpeerj-cs.1670&volume=9&publication_year=2023&author=Subha%2CS&author=Sankaralingam%2CBP&author=Gurusamy%2CA&author=Sehar%2CS&author=Bavirisetti%2CDP)
+25. Javed MS, Aslam M, Khurshid SK. An intelligent model for parametric cognitive assessment of E-Learning-Based students. Information. 2025;16(2):93. <https://doi.org/10.3390/info16020093>.
+    
+    [Article](https://doi.org/10.3390%2Finfo16020093) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20intelligent%20model%20for%20parametric%20cognitive%20assessment%20of%20E-Learning-Based%20students&journal=Information&doi=10.3390%2Finfo16020093&volume=16&issue=2&publication_year=2025&author=Javed%2CMS&author=Aslam%2CM&author=Khurshid%2CSK)
+26. Lee C-A, Huang N, Tzeng J-W, Tsai P-H. AI-Based diagnostic assessment system: integrated with knowledge map in MOOCs. Ieee Trans Learn Technol. 2023;16(5):873–86. <https://doi.org/10.1109/tlt.2023.3308338>.
+    
+    [Article](https://doi.org/10.1109%2Ftlt.2023.3308338) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AI-Based%20diagnostic%20assessment%20system%3A%20integrated%20with%20knowledge%20map%20in%20MOOCs&journal=Ieee%20Trans%20Learn%20Technol&doi=10.1109%2Ftlt.2023.3308338&volume=16&issue=5&pages=873-86&publication_year=2023&author=Lee%2CC-A&author=Huang%2CN&author=Tzeng%2CJ-W&author=Tsai%2CP-H)
+27. Xia P, Zhu X, Charles V, Zhao X, Peng M. A novel Heuristic-Based selective ensemble prediction method for digital financial fraud risk. Ieee Trans Eng Manag. 2024;71:8002–18. <https://doi.org/10.1109/tem.2024.3385298>.
+    
+    [Article](https://doi.org/10.1109%2Ftem.2024.3385298) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20novel%20Heuristic-Based%20selective%20ensemble%20prediction%20method%20for%20digital%20financial%20fraud%20risk&journal=Ieee%20Trans%20Eng%20Manag&doi=10.1109%2Ftem.2024.3385298&volume=71&pages=8002-18&publication_year=2024&author=Xia%2CP&author=Zhu%2CX&author=Charles%2CV&author=Zhao%2CX&author=Peng%2CM)
+28. Adnan M, et al. Predicting at-Risk students at different percentages of course length for early intervention using machine learning models. IEEE Access. 2021;9:7519–39. <https://doi.org/10.1109/ACCESS.2021.3049446>.
+    
+    [Article](https://doi.org/10.1109%2FACCESS.2021.3049446) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Predicting%20at-Risk%20students%20at%20different%20percentages%20of%20course%20length%20for%20early%20intervention%20using%20machine%20learning%20models&journal=IEEE%20Access&doi=10.1109%2FACCESS.2021.3049446&volume=9&pages=7519-39&publication_year=2021&author=Adnan%2CM)
+29. Pearl J. The seven tools of causal inference, with reflections on machine learning. Commun ACM. 2019;62(3):54–60. <https://doi.org/10.1145/3241036>.
+    
+    [Article](https://doi.org/10.1145%2F3241036) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20seven%20tools%20of%20causal%20inference%2C%20with%20reflections%20on%20machine%20learning&journal=Commun%20ACM&doi=10.1145%2F3241036&volume=62&issue=3&pages=54-60&publication_year=2019&author=Pearl%2CJ)
+30. Chamorro-Atalaya O, et al. Supervised learning using support vector machine applied to sentiment analysis of teacher performance satisfaction. Indones J Electr Eng Comput Sci. 2022;28(1):516–24. <https://doi.org/10.11591/ijeecs.v28.i1.pp516-524>.
+    
+    [Article](https://doi.org/10.11591%2Fijeecs.v28.i1.pp516-524) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Supervised%20learning%20using%20support%20vector%20machine%20applied%20to%20sentiment%20analysis%20of%20teacher%20performance%20satisfaction&journal=Indones%20J%20Electr%20Eng%20Comput%20Sci&doi=10.11591%2Fijeecs.v28.i1.pp516-524&volume=28&issue=1&pages=516-24&publication_year=2022&author=Chamorro-Atalaya%2CO)
+31. Xuan Lam P, Mai PQH, Nguyen QH, Pham T, Nguyen THH, Nguyen TH. Enhancing educational evaluation through predictive student assessment modeling. Comput Educ Artif Intell. 2024;6. <https://doi.org/10.1016/j.caeai.2024.100244>.
+32. Islam MZ, Estivill-Castro V, Rahman MA, Bossomaier T. Combining K-MEANS and a genetic algorithm through a novel arrangement of genetic operators for high quality clustering. Expert Syst Appl. 2018;91:402–17. <https://doi.org/10.1016/j.eswa.2017.09.005>.
+    
+    [Article](https://doi.org/10.1016%2Fj.eswa.2017.09.005) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Combining%20K-MEANS%20and%20a%20genetic%20algorithm%20through%20a%20novel%20arrangement%20of%20genetic%20operators%20for%20high%20quality%20clustering&journal=Expert%20Syst%20Appl&doi=10.1016%2Fj.eswa.2017.09.005&volume=91&pages=402-17&publication_year=2018&author=Islam%2CMZ&author=Estivill-Castro%2CV&author=Rahman%2CMA&author=Bossomaier%2CT)
+33. Godwin KE, et al. The elusive relationship between time on-task and learning: not simply an issue of measurement. Educ Psychol. 2021;41(4):502–19. <https://doi.org/10.1080/01443410.2021.1894324>.
+    
+    [Article](https://doi.org/10.1080%2F01443410.2021.1894324) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20elusive%20relationship%20between%20time%20on-task%20and%20learning%3A%20not%20simply%20an%20issue%20of%20measurement&journal=Educ%20Psychol&doi=10.1080%2F01443410.2021.1894324&volume=41&issue=4&pages=502-19&publication_year=2021&author=Godwin%2CKE)
+34. Wang S, Zhao J. Analysis of student learning behavior on online education platforms based on deep learning. J Circuits Syst Comput. 2025. <https://doi.org/10.1142/s0218126625501518>.
+    
+    [Article](https://doi.org/10.1142%2Fs0218126625501518) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Analysis%20of%20student%20learning%20behavior%20on%20online%20education%20platforms%20based%20on%20deep%20learning&journal=J%20Circuits%20Syst%20Comput&doi=10.1142%2Fs0218126625501518&publication_year=2025&author=Wang%2CS&author=Zhao%2CJ)
+35. Di Mitri D, Schneider J, Specht M, Drachsler H. From signals to knowledge: A conceptual model for multimodal learning analytics. J Comput Assist Learn. 2018;34(4):338–49. <https://doi.org/10.1111/jcal.12288>.
+    
+    [Article](https://doi.org/10.1111%2Fjcal.12288) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=From%20signals%20to%20knowledge%3A%20A%20conceptual%20model%20for%20multimodal%20learning%20analytics&journal=J%20Comput%20Assist%20Learn&doi=10.1111%2Fjcal.12288&volume=34&issue=4&pages=338-49&publication_year=2018&author=Mitri%2CD&author=Schneider%2CJ&author=Specht%2CM&author=Drachsler%2CH)
+36. Mangaroska K, Martinez-Maldonado R, Vesin B, Gašević D. Challenges and opportunities of multimodal data in human learning: the computer science students’ perspective. J Comput Assist Learn. 2021;37(4):1030–47. <https://doi.org/10.1111/jcal.12542>.
+    
+    [Article](https://doi.org/10.1111%2Fjcal.12542) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Challenges%20and%20opportunities%20of%20multimodal%20data%20in%20human%20learning%3A%20the%20computer%20science%20students%E2%80%99%20perspective&journal=J%20Comput%20Assist%20Learn&doi=10.1111%2Fjcal.12542&volume=37&issue=4&pages=1030-47&publication_year=2021&author=Mangaroska%2CK&author=Martinez-Maldonado%2CR&author=Vesin%2CB&author=Ga%C5%A1evi%C4%87%2CD)
+37. Sun Y, Wang S. Study on the distance learners’ academic emotions using online learning behavior data. Mob Inf Syst. 2022;2022:1–12. <https://doi.org/10.1155/2022/9785591>.
+    
+    [Article](https://doi.org/10.1155%2F2022%2F9785591) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Study%20on%20the%20distance%20learners%E2%80%99%20academic%20emotions%20using%20online%20learning%20behavior%20data&journal=Mob%20Inf%20Syst&doi=10.1155%2F2022%2F9785591&volume=2022&pages=1-12&publication_year=2022&author=Sun%2CY&author=Wang%2CS)
+38. Fahad Mon B, Wasfi A, Hayajneh M, Slim A, Ali NA. Reinforcement learning in education: A literature review. Informatics. 2023;10(3). <https://doi.org/10.3390/informatics10030074>.
+39. Tom ST, Tulasi B. Analytics in e-learning, *Int. J. Eng. Res. Technol.*, vol. 11, no. 2, pp. 319–332, 2018, [Online]. Available: <https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051054879%26partnerID=40%26md5=e6addb6ede1ddb7dff40cc6a099737b3>
+40. Brika SKM, Chergui K, Algamdi A, Musa AA, Zouaghi R. E-Learning research trends in higher education in light of COVID-19: A bibliometric analysis. Front Psychol. 2022;12. <https://doi.org/10.3389/fpsyg.2021.762819>.
+41. Huang Q, Chen J. Enhancing academic performance prediction with Temporal graph networks for massive open online courses. J Big Data. 2024;11(1). <https://doi.org/10.1186/s40537-024-00918-5>.
+42. Hernández-Blanco A, Herrera-Flores B, Tomás D, Navarro-Colorado B. A systematic review of deep learning approaches to educational data mining. Complexity. 2019;2019. <https://doi.org/10.1155/2019/1306039>.
+43. Muniasamy A, Alasiry A. Deep learning: the impact on future eLearning. Int J Emerg Technol Learn. 2020;15(01):188. <https://doi.org/10.3991/ijet.v15i01.11435>.
+    
+    [Article](https://doi.org/10.3991%2Fijet.v15i01.11435) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Deep%20learning%3A%20the%20impact%20on%20future%20eLearning&journal=Int%20J%20Emerg%20Technol%20Learn&doi=10.3991%2Fijet.v15i01.11435&volume=15&issue=01&publication_year=2020&author=Muniasamy%2CA&author=Alasiry%2CA)
+44. Liu J, et al. AI enhancements for linguistic E-Learning system. Appl Sci. 2023;13:10758. <https://doi.org/10.3390/app131910758>.
+    
+    [Article](https://doi.org/10.3390%2Fapp131910758) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AI%20enhancements%20for%20linguistic%20E-Learning%20system&journal=Appl%20Sci&doi=10.3390%2Fapp131910758&volume=13&publication_year=2023&author=Liu%2CJ)
+45. Rau MA. A framework for educational technologies that support representational competencies. IEEE Trans Learn Technol. 2017;10(3):290–305. <https://doi.org/10.1109/TLT.2016.2623303>.
+    
+    [Article](https://doi.org/10.1109%2FTLT.2016.2623303) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20framework%20for%20educational%20technologies%20that%20support%20representational%20competencies&journal=IEEE%20Trans%20Learn%20Technol&doi=10.1109%2FTLT.2016.2623303&volume=10&issue=3&pages=290-305&publication_year=2017&author=Rau%2CMA)
+46. Rende R, Gerace F, Laio A, Goldt S. Mapping of attention mechanisms to a generalized Potts model. Phys Rev Res. 2024;6(2). <https://doi.org/10.1103/PhysRevResearch.6.023057>.
+47. Williams D, Hornung H, Nadimpalli A, Peery A. Deep learning and its application for healthcare delivery in low and middle income countries. Front Artif Intell. 2021;4. <https://doi.org/10.3389/frai.2021.553987>.
+48. Xu W, Mahmud R, Hoo WL. Literature review: are automated essay scoring systems competent in Real-Life education scenarios? Ieee Access. 2024;12:77639–57. <https://doi.org/10.1109/access.2024.3399163>.
+    
+    [Article](https://doi.org/10.1109%2Faccess.2024.3399163) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Literature%20review%3A%20are%20automated%20essay%20scoring%20systems%20competent%20in%20Real-Life%20education%20scenarios%3F&journal=Ieee%20Access&doi=10.1109%2Faccess.2024.3399163&volume=12&pages=77639-57&publication_year=2024&author=Xu%2CW&author=Mahmud%2CR&author=Hoo%2CWL)
+49. Pei W, Huang X. An online english writing evaluation system using deep learning algorithm. Mob Inf Syst. 2022;2022:1–8. <https://doi.org/10.1155/2022/7605989>.
+    
+    [Article](https://doi.org/10.1155%2F2022%2F7605989) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20online%20english%20writing%20evaluation%20system%20using%20deep%20learning%20algorithm&journal=Mob%20Inf%20Syst&doi=10.1155%2F2022%2F7605989&volume=2022&pages=1-8&publication_year=2022&author=Pei%2CW&author=Huang%2CX)
+50. Adnan M, Uddin MI, Khan E, Alharithi FS, Amin S, Alzahrani AA. Earliest possible global and local interpretation of students’ performance in virtual learning environment by leveraging explainable AI. Ieee Access. 2022;10:129843–64. <https://doi.org/10.1109/access.2022.3227072>.
+    
+    [Article](https://doi.org/10.1109%2Faccess.2022.3227072) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Earliest%20possible%20global%20and%20local%20interpretation%20of%20students%E2%80%99%20performance%20in%20virtual%20learning%20environment%20by%20leveraging%20explainable%20AI&journal=Ieee%20Access&doi=10.1109%2Faccess.2022.3227072&volume=10&pages=129843-64&publication_year=2022&author=Adnan%2CM&author=Uddin%2CMI&author=Khan%2CE&author=Alharithi%2CFS&author=Amin%2CS&author=Alzahrani%2CAA)
+51. Jiang G. Artificial Intelligence-Based adaptive anomaly detection technology for IaaS cloud virtual machines. J Eng Appl Sci. 2024;71(1). <https://doi.org/10.1186/s44147-024-00439-1>.
+52. Suljkanović A, Milosavljević B, Indić V, Dejanović I. Developing Microservice-Based applications using the Silvera Domain-Specific Language. Appl Sci. 2022;12(13). <https://doi.org/10.3390/app12136679>.
+53. Heinrich CJ, Darling-Aduana J, Martin C. The potential and prerequisites of effective tablet integration in rural Kenya. Br J Educ Technol. 2020;51(2):498–514. <https://doi.org/10.1111/bjet.12870>.
+    
+    [Article](https://doi.org/10.1111%2Fbjet.12870) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20potential%20and%20prerequisites%20of%20effective%20tablet%20integration%20in%20rural%20Kenya&journal=Br%20J%20Educ%20Technol&doi=10.1111%2Fbjet.12870&volume=51&issue=2&pages=498-514&publication_year=2020&author=Heinrich%2CCJ&author=Darling-Aduana%2CJ&author=Martin%2CC)
+54. Kor M, Yitmen İ, Alizadehsalehi S. An investigation for integration of deep learning and digital twins towards construction 4.0. Smart Sustain Built Environ. 2022;12(3):461–87. <https://doi.org/10.1108/sasbe-08-2021-0148>.
+    
+    [Article](https://doi.org/10.1108%2Fsasbe-08-2021-0148) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20investigation%20for%20integration%20of%20deep%20learning%20and%20digital%20twins%20towards%20construction%204.0&journal=Smart%20Sustain%20Built%20Environ&doi=10.1108%2Fsasbe-08-2021-0148&volume=12&issue=3&pages=461-87&publication_year=2022&author=Kor%2CM&author=Yitmen%2C%C4%B0&author=Alizadehsalehi%2CS)
+55. Alsadoon E. The impact of an adaptive e-course on students’ achievements based on the students’ prior knowledge. Educ Inf Technol. 2020;25(5):3541–51. <https://doi.org/10.1007/s10639-020-10125-3>.
+    
+    [Article](https://link.springer.com/doi/10.1007/s10639-020-10125-3) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20impact%20of%20an%20adaptive%20e-course%20on%20students%E2%80%99%20achievements%20based%20on%20the%20students%E2%80%99%20prior%20knowledge&journal=Educ%20Inf%20Technol&doi=10.1007%2Fs10639-020-10125-3&volume=25&issue=5&pages=3541-51&publication_year=2020&author=Alsadoon%2CE)
+56. Avanzato R, Beritelli F, Lombardo A, Ricci C. Lung-Dt: an AI-Powered digital twin framework for thoracic health monitoring and diagnosis. Sensors. 2024;24(3):958. <https://doi.org/10.3390/s24030958>.
+    
+    [Article](https://doi.org/10.3390%2Fs24030958) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Lung-Dt%3A%20an%20AI-Powered%20digital%20twin%20framework%20for%20thoracic%20health%20monitoring%20and%20diagnosis&journal=Sensors&doi=10.3390%2Fs24030958&volume=24&issue=3&publication_year=2024&author=Avanzato%2CR&author=Beritelli%2CF&author=Lombardo%2CA&author=Ricci%2CC)
+57. Arsovic B, Stefanovic N. E-learning based on the adaptive learning model: case study in Serbia, *Sadhana - Acad. Proc. Eng. Sci.*, vol. 45, no. 1, 2020, <https://doi.org/10.1007/s12046-020-01499-8>
+58. Li W, Mikailov M, Chen W. Scaling the inference of digital pathology deep learning models using CPU-Based High-Performance computing. Ieee Trans Artif Intell. 2023;4(6):1691–704. <https://doi.org/10.1109/tai.2023.3246032>.
+    
+    [Article](https://doi.org/10.1109%2Ftai.2023.3246032) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Scaling%20the%20inference%20of%20digital%20pathology%20deep%20learning%20models%20using%20CPU-Based%20High-Performance%20computing&journal=Ieee%20Trans%20Artif%20Intell&doi=10.1109%2Ftai.2023.3246032&volume=4&issue=6&pages=1691-704&publication_year=2023&author=Li%2CW&author=Mikailov%2CM&author=Chen%2CW)
+59. Wiedeman C, et al. Simulated deep CT characterization of liver metastases with High-Resolution filtered back projection reconstruction. Vis Comput Ind Biomed Art. 2024;7(1). <https://doi.org/10.1186/s42492-024-00161-y>.
+60. El Mestari SZ, Lenzini G, Demirci H. Preserving data privacy in machine learning systems. Comput Secur. 2024;137. <https://doi.org/10.1016/j.cose.2023.103605>.
+61. Breen S, Ouazzane K, Patel P. Is your consent valid? Bus Inf Rev. 2020;37(1):19–24. <https://doi.org/10.1177/0266382120903254>.
+    
+    [Article](https://doi.org/10.1177%2F0266382120903254) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Is%20your%20consent%20valid%3F&journal=Bus%20Inf%20Rev&doi=10.1177%2F0266382120903254&volume=37&issue=1&pages=19-24&publication_year=2020&author=Breen%2CS&author=Ouazzane%2CK&author=Patel%2CP)
+62. Aquino YSJ. Making decisions; bias in artificial intelligence and data-driven diagnostic tools. Aust J Gen Pract. 2023;52:439–42. <https://doi.org/10.31128/AJGP-12-22-6630>.
+    
+    [Article](https://doi.org/10.31128%2FAJGP-12-22-6630) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Making%20decisions%3B%20bias%20in%20artificial%20intelligence%20and%20data-driven%20diagnostic%20tools&journal=Aust%20J%20Gen%20Pract&doi=10.31128%2FAJGP-12-22-6630&volume=52&pages=439-42&publication_year=2023&author=Aquino%2CYSJ)
+63. Mavrogiorgos K, Kiourtis A, Mavrogiorgou A, Menychtas A, Kyriazis D. Bias in machine learning: A literature review. Appl Sci. 2024;14(19). <https://doi.org/10.3390/app14198860>.
+64. von Eschenbach WJ. Transparency and the black box problem: why we do not trust AI. Philos Technol. 2021;34(4):1607–22. <https://doi.org/10.1007/s13347-021-00477-0>.
+    
+    [Article](https://link.springer.com/doi/10.1007/s13347-021-00477-0) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transparency%20and%20the%20black%20box%20problem%3A%20why%20we%20do%20not%20trust%20AI&journal=Philos%20Technol&doi=10.1007%2Fs13347-021-00477-0&volume=34&issue=4&pages=1607-22&publication_year=2021&author=Eschenbach%2CWJ)
+65. Gulum MA, Trombley CM, Kantardzic M. A review of explainable deep learning cancer detection models in medical imaging. Appl Sci. 2021;11(10). <https://doi.org/10.3390/app11104573>.
+66. Fernández R, Correal JF, D’Ayala D, Medaglia AL. A decision-making framework for school infrastructure improvement programs. Struct Infrastruct Eng. 2025;21(2):165–84. <https://doi.org/10.1080/15732479.2023.2199361>.
+    
+    [Article](https://doi.org/10.1080%2F15732479.2023.2199361) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20decision-making%20framework%20for%20school%20infrastructure%20improvement%20programs&journal=Struct%20Infrastruct%20Eng&doi=10.1080%2F15732479.2023.2199361&volume=21&issue=2&pages=165-84&publication_year=2025&author=Fern%C3%A1ndez%2CR&author=Correal%2CJF&author=D%E2%80%99Ayala%2CD&author=Medaglia%2CAL)
+67. Ku JC, Chen SL. The deployment and implementation of cloud platform for remote automatic correction of artificial intelligence models. IEEE Trans Ind Inf. 2025. <https://doi.org/10.1109/TII.2025.3528563>.
+    
+    [Article](https://doi.org/10.1109%2FTII.2025.3528563) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20deployment%20and%20implementation%20of%20cloud%20platform%20for%20remote%20automatic%20correction%20of%20artificial%20intelligence%20models&journal=IEEE%20Trans%20Ind%20Inf&doi=10.1109%2FTII.2025.3528563&publication_year=2025&author=Ku%2CJC&author=Chen%2CSL)
+68. Yu H, Guo Y, Yang H, Zhang W, Dong Y. Can ChatGPT revolutionize Language learning? Unveiling the power of AI in multilingual education through user insights and pedagogical impact. Eur J Educ. 2025;60(1). <https://doi.org/10.1111/ejed.12749>.
+69. Xia Y, Shin S-Y, Kim J-C. Cross-Cultural intelligent Language learning system (CILS): leveraging AI to facilitate Language learning strategies in Cross-Cultural communication. Appl Sci. 2024;14(13). <https://doi.org/10.3390/app14135651>.
+70. Maruf AA, et al. Hate speech detection in the Bengali language: A comprehensive survey. J Big Data. 2024;11(1). <https://doi.org/10.1186/s40537-024-00956-z>.
+71. Chakravarthy SRS, et al. Intelligent recognition of multimodal human activities for personal healthcare. Ieee Access. 2024;12:79776–86. <https://doi.org/10.1109/access.2024.3405471>.
+    
+    [Article](https://doi.org/10.1109%2Faccess.2024.3405471) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intelligent%20recognition%20of%20multimodal%20human%20activities%20for%20personal%20healthcare&journal=Ieee%20Access&doi=10.1109%2Faccess.2024.3405471&volume=12&pages=79776-86&publication_year=2024&author=Chakravarthy%2CSRS)
+72. Hou C, Ai J, Lin Y, Guan C, Li J, Zhu W. Evaluation of online teaching quality based on facial expression recognition. Futur Internet. 2022;14(6):177. <https://doi.org/10.3390/fi14060177>.
+    
+    [Article](https://doi.org/10.3390%2Ffi14060177) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluation%20of%20online%20teaching%20quality%20based%20on%20facial%20expression%20recognition&journal=Futur%20Internet&doi=10.3390%2Ffi14060177&volume=14&issue=6&publication_year=2022&author=Hou%2CC&author=Ai%2CJ&author=Lin%2CY&author=Guan%2CC&author=Li%2CJ&author=Zhu%2CW)
+73. Jeong D, Paik S, Noh Y, Han K. Multimodal, Attention-Based cybersickness prediction modeling in virtual reality. Virtual Real. 2023;27(3):2315–30. <https://doi.org/10.1007/s10055-023-00804-0>.
+    
+    [Article](https://link.springer.com/doi/10.1007/s10055-023-00804-0) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multimodal%2C%20Attention-Based%20cybersickness%20prediction%20modeling%20in%20virtual%20reality&journal=Virtual%20Real&doi=10.1007%2Fs10055-023-00804-0&volume=27&issue=3&pages=2315-30&publication_year=2023&author=Jeong%2CD&author=Paik%2CS&author=Noh%2CY&author=Han%2CK)
+74. Nallaperuma D, et al. Online incremental machine learning platform for big Data-Driven smart traffic management. Ieee Trans Intell Transp Syst. 2019;20(12):4679–90. <https://doi.org/10.1109/tits.2019.2924883>.
+    
+    [Article](https://doi.org/10.1109%2Ftits.2019.2924883) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Online%20incremental%20machine%20learning%20platform%20for%20big%20Data-Driven%20smart%20traffic%20management&journal=Ieee%20Trans%20Intell%20Transp%20Syst&doi=10.1109%2Ftits.2019.2924883&volume=20&issue=12&pages=4679-90&publication_year=2019&author=Nallaperuma%2CD)
+75. Gupta S, Kumar P, Tekchandani R. Artificial intelligence based cognitive state prediction in an E-Learning environment using multimodal data. Multimed Tools Appl. 2024;83:64467–98. <https://doi.org/10.1007/s11042-023-18021-x>.
+    
+    [Article](https://link.springer.com/doi/10.1007/s11042-023-18021-x) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20based%20cognitive%20state%20prediction%20in%20an%20E-Learning%20environment%20using%20multimodal%20data&journal=Multimed%20Tools%20Appl&doi=10.1007%2Fs11042-023-18021-x&volume=83&pages=64467-98&publication_year=2024&author=Gupta%2CS&author=Kumar%2CP&author=Tekchandani%2CR)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s44217-025-00908-6?format=refman&flavour=references)
+
+Funding
+-------
+
+The authors declare that no funds, grants, or other support were received during the preparation of this manuscript.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Program Studi Pendidikan Profesi Guru, Jurusan Dharmacarya, Sekolah Tinggi Agama Buddha Negeri Raden Wijaya Wonogiri, Wonogiri, Indonesia
+   
+   Hariyanto
+2. Fakultas Bahasa dan Seni, Program Studi Pendidikan Seni Musik, Universitas Negeri Yogyakarta, Sleman, Indonesia
+   
+   Francisca Xaveria Diah Kristianingsih
+3. Program Studi Tadris Matematika, Fakultas Tarbiyah, Universitas Islam Negeri Sunan Kudus, Kudus, Indonesia
+   
+   Rizqona Maharani
+
+Authors
+
+1. Hariyanto[View author publications](/search?sortBy=newestFirst&contributor=%20Hariyanto)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=%20Hariyanto) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22%20Hariyanto%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Francisca Xaveria Diah Kristianingsih[View author publications](/search?sortBy=newestFirst&contributor=Francisca%20Xaveria%20Diah%20Kristianingsih)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Francisca%20Xaveria%20Diah%20Kristianingsih) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Francisca%20Xaveria%20Diah%20Kristianingsih%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Rizqona Maharani[View author publications](/search?sortBy=newestFirst&contributor=Rizqona%20Maharani)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Rizqona%20Maharani) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Rizqona%20Maharani%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+The authors made the following contributions: Hariyanto (Author 1) was responsible for Conceptualization, Supervision, and Project Administration. Francisca Xaveria Diah Kristianingsih (Author 2) contributed to Methodology, Investigation, and Writing—Review & Editing. Meanwhile, Rizqona Maharani (Author 3) carried out Formal Analysis, Data Curation, and Writing—Original Draft Preparation. All authors have read and approved the final version of the manuscript for publication.
+
+### Corresponding author
+
+Correspondence to
+ [Hariyanto](mailto:hariyanto@radenwijaya.ac.id).
+
+Ethics declarations
+-------------------
+
+### Ethics approval and consent to participate
+
+This review did not involve human participants or animal subjects and therefore did not require ethical approval. The study was conducted in accordance with institutional and ethical guidelines.
+
+### Consent for publication
+
+Not applicable.
+
+### Competing interests
+
+The authors declare no competing interests.
+
+Additional information
+----------------------
+
+### Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Artificial%20intelligence%20in%20adaptive%20education%3A%20a%20systematic%20review%20of%20techniques%20for%20personalized%20learning&author=%20Hariyanto%20et%20al&contentID=10.1007%2Fs44217-025-00908-6&copyright=The%20Author%28s%29&publication=2731-5525&publicationDate=2025-10-28&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY-NC-ND)
+
+About this article
+------------------
+
+### Cite this article
+
+Hariyanto, Kristianingsih, F.X.D. & Maharani, R. Artificial intelligence in adaptive education: a systematic review of techniques for personalized learning.
+*Discov Educ* **4**, 458 (2025). https://doi.org/10.1007/s44217-025-00908-6
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s44217-025-00908-6?format=refman&flavour=citation)
+
+* Received: 28 April 2025
+* Accepted: 08 October 2025
+* Published: 28 October 2025
+* Version of record: 28 October 2025
+* DOI: https://doi.org/10.1007/s44217-025-00908-6
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Artificial intelligence](/search?query=Artificial%20intelligence&facet-discipline="Education")
+* [Personalized learning](/search?query=Personalized%20learning&facet-discipline="Education")
+* [Adaptive learning systems](/search?query=Adaptive%20learning%20systems&facet-discipline="Education")
+* [Machine learning](/search?query=Machine%20learning&facet-discipline="Education")
+* [Reinforcement learning](/search?query=Reinforcement%20learning&facet-discipline="Education")
+* [Learning analytics](/search?query=Learning%20analytics&facet-discipline="Education")
+
+
+### Profiles
+
+1. Rizqona Maharani
+   [View author profile](/researchers/67227211SN)
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.44.184
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

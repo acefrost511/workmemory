@@ -29,7 +29,22 @@
 同时spawn intel_reviewer_en、intel_reviewer_cn、intel_reviewer_intl，各15分钟超时。
 
 ### 洞察生产（审核完成后）
-spawn edu_lead，执行洞察生成。
+【重要】edu_lead无法用runtime="acp" spawn，必须用runtime="subagent"+SOUL注入方式：
+```
+sessions_spawn(
+  task="你是深度内容主编（edu_lead）。请读取以下文件并执行洞察生成任务：[具体任务内容]",
+  runtime="subagent",
+  SOUL注入路径="/workspace/agents/edu_lead/SOUL.md",
+  runTimeoutSeconds=1200,
+  mode="run"
+)
+```
+完整洞察SOP步骤：
+1. edu_lead生成3条洞察候选（读取今日入库全部19个文件+信念抽屉）
+2. spawn edu_writer写出初稿（用INSIGHT_WRITING_RULES.md的6步法）
+3. 并行spawn 5个读者Agent打分（reader_parent/new_teacher/senior_teacher/principal/expert）
+4. edu_reviewer终审（检查虚构数字/信念溯源）
+5. edu_lead汇总综合分（≥9.0推送），飞书推送陛下
 
 ### 推送
 向陛下飞书发送完整日报：入库文件数/审核通过数/推送洞察条数。
@@ -45,15 +60,20 @@ spawn edu_lead，执行洞察生成。
 
 ---
 
-## intel_0X spawn模板
+## intel_0X spawn模板（必须用subagent+SOUL注入，禁止用runtime="acp"）
+
+所有 intel_0X / intel_reviewer_* spawn，必须用以下方式：
 
 ```
-读取 /workspace/agents/intel_0X/SOUL.md
-→ 执行搜索规则
-→ 每个结果DOI/arXiv验证
-→ 写入 /workspace/knowledge/原文库/
-→ 输出：找到X个 / 验证通过X个 / 跳过X个（含原因）
+sessions_spawn(
+  task="读取 /workspace/agents/intel_01/SOUL.md 并完整执行其搜索任务",
+  runtime="subagent",
+  runTimeoutSeconds=480,
+  mode="run"
+)
 ```
+
+注意：绝对不要用 `runtime="acp"` 调用 intel_0X / intel_reviewer_*（系统级失败，所有acp调用均报code 1）。必须用 `runtime="subagent"` + 各Agent的SOUL.md路径。
 
 ---
 

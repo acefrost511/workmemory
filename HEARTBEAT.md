@@ -117,6 +117,27 @@
 - 不在心跳周期内堆积大量安装任务
 - clawhub频率限制：两次安装之间留够间隔
 
+## 📁 定期清理规则（2026-03-30 陛下定制）
+
+**三类文件清理原则：**
+- 记忆体系（memory/）—— 永久保留
+- 团队运作体系（agents/knowledge/beliefs/原文库/skills/）—— 永久保留
+- 检查过程产生文件 —— 定期清理，见下方
+
+**清理规则明细：**
+- memory/cron-health-*.md：保留7天（由Cron健康检查任务每次清理）
+- extract/raw_content/：30天清理（情报已入库为精加工版本）
+- scores/：不写盘（陛下2026-03-30定制，过程文件不写入workspace）
+- reports/weekly/temp/：不写盘
+- .cron_patches/：保留最新3个patch
+- .learnings/：30天清理（保留最新10个）
+- education_sop/：保留v4.0，删除旧版
+- knowledge/scores/：30天清理
+- knowledge/素材库/：30天清理
+- knowledge/笔记/：60天清理
+- articles/：30天清理
+- 工作区整体清理cron：b24bfa49，每周日03:00执行
+
 ## ⚡ 超时/失败重试原则（2026-03-28 陛下教训）
 
 **遇到失败/超时时：**

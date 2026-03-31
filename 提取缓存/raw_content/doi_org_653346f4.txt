@@ -1,0 +1,292 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105305
+# Content Length: 34355 characters
+# Extracted at: 2026-03-31 05:10:04
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000739?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000739?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525000739)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525000739/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000739?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000739?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000739?via%3Dihub#preview-section-snippets)
+- [References (136)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000739?via%3Dihub#preview-section-references)
+- [Cited by (8)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525000739?via%3Dihub#preview-section-cited-by)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 232](https://www.sciencedirect.com/journal/computers-and-education/vol/232/suppl/C "Go to table of contents for this volume/issue"), July 2025, 105305
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X0004X-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/232/suppl/C)
+# Effects of integrating self-regulation scaffolding supported by chatbot and online collaborative reflection on students’ learning in an artificial intelligence course
+Author links open overlay panelChia-WenTsaia, LynneLeeb, MichaelYu-Ching Linc, Yih-PingChengd, Chih-HsienLine, Meng-ChuanTsaif
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105305](https://doi.org/10.1016/j.compedu.2025.105305 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525000739&orderBeanReset=true)
+## Highlights
+- •
+Very few studies discuss effective online teaching methods for AI courses.
+- •
+This study provided effective online teaching methods for AI courses.
+- •
+Self-Regulation Scaffolding (SRS) supported by Chatbot and Online Collaborative Reflection (OCR) was adopted.
+- •
+SRS and OCR led to better AI skills.
+- •
+SRS led to better AI skills and lower academic stress.
+## Abstract
+Artificial intelligence (AI) includes complex concepts and could be difficult for non-computer or information students, and they may experience difficulties in an AI course. In order to develop students' AI skills, regulate their academic stress, and reduce student loneliness, the researchers in this study integrated self-regulation scaffolding (supported by a chatbot designed in this study) with online collaborative reflection, and investigated their effects on students' learning. The researchers conducted a quasi-experiment to explore the effects of self-regulation scaffolding and online collaborative reflection. The participants in this experiment were 116 undergraduates from three classes (groups) of a non-computer department taking a compulsory course titled ‘Introduction to Artificial Intelligence’. The experimental groups in this study included the first class (G1) simultaneously receiving the interventions of self-regulation scaffolding and online collaborative reflection, as well as the second class (G2) only receiving the intervention of self-regulation scaffolding. The last class (G3), that received a traditional teaching method (non-self-regulation scaffolding and non-online collaborative reflection) in an online AI course, served as the control group. According to the statistical analysis in this study, the self-regulation scaffolding approach in G2 significantly promoted participants' AI skills and fostered their ability to regulate academic stress compared to the control group. However, G1 students who received concurrent online collaborative reflection did not demonstrate the expected effects of enhancing their learning compared with those (G2) who did not receive it. This study represents an early attempt to implement self-regulation scaffolding and online collaborative reflection integrated with chatbot in an online AI course. The results of this study could serve as a reference for online course designers, educators, and scholars planning to adopt these teaching methods, especially for those focusing on implementing online AI education and [educational technologies](https://www.sciencedirect.com/topics/social-sciences/educational-technology) (such as chatBot).
+## Introduction
+Many nations (including the United States, Europe, Taiwan, Australia, China, Singapore, and India) are devoting resources and developing strategic initiatives to equip students with knowledge of and skills in artificial intelligence (AI) through formal education (Xia et al., 2022). It is increasingly critical to build appropriate AI courses to develop students' key competencies (Huang, 2021). However, conducting an AI course, particularly for non-computer or information students, poses significant challenges to teachers, such as designing curricula which are meaningful for students, connecting to learners’ previous knowledge and experience, and creating learning materials that the teachers feel confident to teach (Ottenbreit-Leftwich et al., 2023).
+AI education is perceived as being full of difficult tasks and mathematical theories by non-computer or non-information students; thus, they may experience difficulties in learning AI (Kang & Lee, 2022). In addition, it is also reported that students without prior experience in computer science (non-information students) have a lower level of AI literacy (Hornberger et al., 2023). Students coming from non-computer majors often lack programming skills and computational thinking, so they may feel it difficult to follow a technical course, such as an AI course (Kasinidou et al., 2024).
+Added to the complexity of AI education are the challenges encountered in online education. For instance, during the period of COVID-19 outbreak and resultant lockdowns, 48.3 % of university respondents reported themselves inattentive during online classes and 71.6 % were unsatisfied with regard to understanding the topics instructed (Gupta et al., 2022). Given that AI is inherently perceived by many as difficult to understand, conducting such courses online challenges both teachers and students.
+To help students learn essential knowledge in the online learning environment and develop competitive advantages for their careers, the researchers in this study applied educational technologies and integrated suitable teaching approaches in designing an online AI course to help non-information students overcome these difficulties and to appropriately meet students' specific needs. The reasons for choosing the teaching approaches and educational technologies are described in the subsections ‘1.1. The Need for Self-Regulation Scaffolding’ and ‘1.2. Adoption of Online Collaborative Reflection’. In addition, the student learning outcomes measured in this study are introduced in the last subsection of this section.
+Online learning and educational technologies are being adopted globally (Al-Freih & Robinson, 2024); however, previous research reveals that engaging students in online learning environments may be more difficult and challenging than in face-to-face classrooms (Gillett-Swan, 2017; Hew, 2016). For example, existing literature indicates that helping students to concentrate on coursework in online learning environments is difficult because of the distractions of social networking and shopping websites, as well as free online games (Tsai et al., 2024). Therefore, one of the main challenges for teachers is to promote students’ autonomous and regular learning in online education (Gaeta et al., 2021).
+In this regard, the researchers in this study attempted to survey and adopt effective approaches integrated with educational technologies. Self-regulation scaffolding was selected to help students develop regular learning habits and achieve satisfactory learning performance. Self-regulation scaffolding comprises the actions that orient students' self-regulation (Montoya et al., 2023) and facilitate students to develop their learning goals, the approaches to achieve the set goals, the measurement of their solutions, and reflection on their progress in learning and reasoning (Maksić & Jošić, 2021). In addition, it is reported that self-regulation scaffolding could promote online learners’ motivation and help them to use appropriate learning strategies (Song & Kim, 2021). Although the positive effects of self-regulation scaffolding have been indicated at different levels of education (e.g. Eom & Ashill, 2023; Maksić & Jošić, 2021; Montoya et al., 2023), very few studies have explored its effects in an AI course, particularly in online learning environments.
+Furthermore, it is revealed that a conversational approach is an effective method to monitor and evaluate students' self-regulated learning (Zimmerman & Martinez-Pons, 1986). Through the chatbot's conversational approach, the application of chatbot might potentially solve the challenge of how to scaffold online students' self-regulated learning (Song & Kim, 2021). Based on the effectiveness of interaction that a chatbot can provide, online learners can benefit from this approach (Du et al., 2021; Durall Gazulla et al., 2023; Goda et al., 2014; Song & Kim, 2021). Thus, the researchers in this study designed and integrated self-regulation scaffolding with a chatbot to develop students' regulation and also improve their learning in an online AI course.
+With the rapid development of AI in different fields, AI education has recently begun to be emphasized in higher education (Lee, 2020); graduates should develop AI skills to gain a competitive advantage in the workplace (Ng et al., 2021). However, there are many unresolved issues with AI education, such as, AI education has not yet formed its own discipline; rather, it mainly relies on existing information courses (Meng, 2021). In addition, universities are challenged to deliver AI education to students who are not in computer or information-related departments (Kim & Shim, 2022). Moreover, it is indicated that there is a lack of linkage between theories and methods in AI, which further affects the results of implementing AI education (Winiarti et al., 2022). Thus, AI education challenges both teachers and students.
+In order to help students understand the complex concepts of AI and the required mathematical calculations, facilitating students' reflection may be an appropriate approach to AI education (Bae et al., 2022) and can be essential to AI learning experiences (Zhou et al., 2020). In addition, existing studies reveal that collaborative learning is effective in improving students' learning in AI courses (Hu et al., 2022). It is indicated that students' collaborative learning has positive effects on the development of their teamwork skills, motivation and active participation, and understanding of complex concepts in AI courses (Niroo, 2023). Enhancing students' teamwork skills to attain AI learning, may be achieved by including collaboration in the AI courses (Zhan et al., 2022). Since the involved course in this study is an online AI course, the researchers in this study adopted online collaborative reflection, which is defined as the process of students' collaborative knowledge construction and critical thinking. The activities comprising this are affected by a combination of individual and group elements (Huang et al., 2021; Kalk et al., 2019), designed to develop students' AI literacy. As existing literature indicates that an effective approach to what is needed for teaching AI is not yet fully understood (Lin et al., 2021), the researchers in this study adopted online collaborative reflection and explored its effects on students’ learning in an online AI course.
+Since modern society and workplaces have set new demands on graduates' information competence (e.g. AI literacy and AI skills), it is important to appropriately build and design AI course content to cultivate students' key competencies (Huang, 2021). Thus, the researchers in this study adopted innovative teaching methods and re-designed an online AI course to develop students' AI literacy and AI skills. In addition, it is revealed that existing AI curricula are broad-ranging and complex, which may increase students' load and academic stress (Charow et al., 2021; Foster & Tasnim, 2020). Existing studies indicate the importance for educational institutions to pay more attention to students' academic stress in academic situations (Aina & Wijayati, 2019). Furthermore, it is also reported that some teachers have paid attention to solve the problem of students' loneliness when learning in online environments (Phillips et al., 2022). The concepts, definitions, and importance of AI literacy, AI skills, academic stress and student loneliness are introduced in subsections ‘2.4. AI Literacy and AI Skills’, ‘2.5. Academic Stress’, and ‘2.6. Student Loneliness’.
+The interactive scaffolding from chatbot could provide students with online interactions; that is significant for enhancing students' participation (Mohamed et al., 2024; Song & Kim, 2021). However, up to now, there are very few studies available on AI education that integrate self-regulation scaffolding with chatbot, and explore its effects on improving students' AI literacy, AI skills, academic stress and student loneliness in an online course. In this regard, in order to improve students' AI literacy, AI skills, regulate their academic stress and reduce students' loneliness, the researchers in this study integrated self-regulation scaffolding and online collaborative reflection with educational technologies to help learners achieve satisfactory learning effects. Moreover, the authors in this study explored if the combination of self-regulation scaffolding and online collaborative reflection led to synergistic effects on students’ learning. The research questions are listed below.
+- (1)
+Could online self-regulation scaffolding supported by chatbot (in G2) lead to better development of students' \_AI literacy\_ and \_AI skills,\_ and regulate their \_academic stress\_ and \_loneliness\_ compared with those who did not receive this teaching strategy (in G3) in an online AI course?
+- (2)
+Could online collaborative reflection (in G1) lead to better development of students' \_AI literacy\_ and \_AI skills,\_ and regulate their \_academic stress\_ and \_loneliness\_ compared with those who did not receive this teaching strategy (in G2) in an online AI course?
+- (3)
+Could the combined intervention of online self-regulation scaffolding supported by chatbot and online collaborative reflection (in G1) lead to better development of students' \_AI literacy\_ and \_AI skills,\_ and regulate their \_academic stress\_ and \_loneliness\_ in comparison with students who were taught using a traditional method (in G3) in an online AI course?
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525000739)
+## Section snippets
+## Self-regulation scaffolding
+Self-regulation is defined as a learner's actions, feelings, and thoughts as they are planned and adapted to achieve personal goals (Zimmerman, 2000), which has been discussed frequently as it could help students develop learning habits they engage in regularly, thus achieving better learning effects in online learning environments (Tsai & Tsai, 2018; Lai & Hwang, 2023). In order to develop students' self-regulation, one vital factor is the scaffolding whereby models provide calibrated
+## Participants
+The participants in this study came from the department of Finance (a non-computer, non-information department) taking a required course entitled ‘Introduction to Artificial Intelligence’ for 2 h a week. There were 116 undergraduates from three class sections in this research. The gender breakdown was 46 males and 70 females. The mean age of students who participated in this study was 18.509 years old. The details of students' gender distribution and mean ages of the three groups is listed in
+## Pretests
+To avoid statistical bias before adopting the strategy of self-regulation scaffolding and online collaborative reflection in an online AI course, the teacher in this study conducted pretests. Before the online AI course began, the teacher investigated students’ similar learning experiences or prior related knowledge about AI, and none of the students reported they had learned or used AI. Thus, it is believed that students had a similar low level of AI skills before the AI course began.
+In order
+## Discussion and implications
+Due to the development and popularization of technology in modern society, AI education and literacy that allows learners to apply AI technology is needed to solve different problems (Lee, 2022). However, since AI integrates computer science, mathematics, psychology, and technologies (Huang, 2021), non-computer or non-information students may experience difficulties in learning AI (Kang & Lee, 2022). Moreover, while numerous studies have investigated the use of domain-specific chatbot in
+## Conclusion
+To gain an early advantage in AI development, countries and higher education institutions have implemented a series of educational policies to cultivate talent with AI skills and capabilities. How to implement AI education for various disciplines is crucial to this transformation, especially for non-computer majors (Li & Lee, 2024). Comprehension of and learning AI is a challenge, requiring high-level programming skills and complex knowledge (Zhong et al., 2024). Therefore, designing pedagogy
+## CRediT authorship contribution statement
+\*\*Chia-Wen Tsai:\*\* Writing – review & editing, Writing – original draft, Project administration, Methodology, Conceptualization. \*\*Lynne Lee:\*\* Writing – original draft. \*\*Michael Yu-Ching Lin:\*\* Writing – original draft. \*\*Yih-Ping Cheng:\*\* Writing – review & editing, Writing – original draft, Methodology, Conceptualization. \*\*Chih-Hsien Lin:\*\* Writing – original draft, Data curation, Formal analysis, Software. \*\*Meng-Chuan Tsai:\*\* Formal analysis, Data curation.
+## Acknowledgments
+The authors would like to express appreciation for the financial support of NSTC research grantNSTC 112-2410-H-130-009\- from National Science and Technology Council, Taiwan, R.O.C.
+Recommended articles
+- Z. Çamlıbel-Acar \_et al.\_
+### [Perspectives of EFL teacher trainers and pre-service teachers on continued mandatory distance education during the pandemic](https://www.sciencedirect.com/science/article/pii/S0742051X22000063)
+### Teaching and Teacher Education
+(2022)
+- A. Darvishi \_et al.\_
+### [Impact of AI assistance on student agency](https://www.sciencedirect.com/science/article/pii/S0360131523002440)
+### Computers & Education
+(2024)
+- M. Hornberger \_et al.\_
+### [What do university students know about artificial intelligence? Development and validation of an AI literacy test](https://www.sciencedirect.com/science/article/pii/S2666920X23000449)
+### Computers and Education: Artificial Intelligence
+(2023)
+- S. Jiang \_et al.\_
+### [Academic stress and depression of Chinese adolescents in junior high schools: Moderated mediation model of school burnout and self-esteem](https://www.sciencedirect.com/science/article/pii/S0165032721008909)
+### Journal of Affective Disorders
+(2021)
+- J. Jovanovic \_et al.\_
+### [Predictive power of regularity of pre-class activities in a flipped classroom](https://www.sciencedirect.com/science/article/pii/S0360131519300405)
+### Computers & Education
+(2019)
+- K. Kalk \_et al.\_
+### [The Characteristics of students, blog groups and blogging that predict reflection in blogs during teaching practice and induction year](https://www.sciencedirect.com/science/article/pii/S0742051X18314471)
+### Teaching and Teacher Education
+(2019)
+- L. Li \_et al.\_
+### [A systematic review of learning task design for K-12 AI education: Trends, challenges, and opportunities](https://www.sciencedirect.com/science/article/pii/S2666920X24000183)
+### Computers and Education: Artificial Intelligence
+(2024)
+- M. Liu \_et al.\_
+### [Investigating students' cognitive processes in generative AI-assisted digital multimodal composing and traditional writing](https://www.sciencedirect.com/science/article/pii/S0360131523002543)
+### Computers & Education
+(2024)
+- S. Maksić \_et al.\_
+### [Scaffolding the development of creativity from the students' perspective](https://www.sciencedirect.com/science/article/pii/S187118712100050X)
+### Thinking Skills and Creativity
+(2021)
+- D.T.K. Ng \_et al.\_
+### [Conceptualizing AI literacy: An exploratory review](https://www.sciencedirect.com/science/article/pii/S2666920X21000357)
+### Computers and Education: Artificial Intelligence
+(2021)
+P. Rodway \_et al.\_
+### [The impact of adopting AI educational technologies on projected course satisfaction in university students](https://www.sciencedirect.com/science/article/pii/S2666920X23000292)
+### Computers and Education: Artificial Intelligence
+(2023)
+M.P. Sajon \_et al.\_
+### [Learning communities and collaborative reflection for teaching improvement](https://www.sciencedirect.com/science/article/pii/S2046469X2200004X)
+### Journal of International Education in Business
+(2022)
+J.M. Splichal \_et al.\_
+### [Regulation of collaboration in project-based learning mediated by CSCL scripting reflection](https://www.sciencedirect.com/science/article/pii/S0360131518301465)
+### Computers & Education
+(2018)
+A. Abdelrahim
+### Improving speaker's use of segmental and suprasegmental features of L2 speech
+### International Journal of English Linguistics
+(2020)
+Q. Aina \_et al.\_
+### Coping the academic stress: The way the students dealing with stress
+M. Al-Freih \_et al.\_
+### A qualitative exploration of students' perception of care when learning online: Implications for online teaching and faculty professional development
+### International Journal of Online Pedagogy and Course Design
+(2024)
+J. Bae \_et al.\_
+### Analysis of AI ethical competence to computational thinking
+### International Journal on Informatics Visualization
+(2022)
+M. Bannert \_et al.\_
+### How to design and evaluate personalized scaffolds for self-regulated learning
+### Metacognition and Learning
+(2023)
+D. Bedewy \_et al.\_
+### Examining perceptions of academic stress and its sources among university students: The Perception of Academic Stress Scale
+### Health Psychology Open
+(2015)
+A. Blankenau \_et al.\_
+### Queer peer crowds on campus: LGBT crowd affiliation as a critical correlate of college students' loneliness, academic well-being, & stress
+### Journal of Homosexuality
+(2023)
+R. Charow \_et al.\_
+### Artificial intelligence education programs for health care professionals: Scoping review
+### JMIR Medical Education
+(2021)
+S.T. Child \_et al.\_
+### Loneliness and social isolation among young and late middle-age adults: Associations with personal networks and social participation
+### Ageing & Mental Health
+(2017)
+M.M. Chiu \_et al.\_
+### From metacognition to social metacognition: Similarities, differences, and learning
+### Journal of Education Research
+(2010)
+M. Clarà \_et al.\_
+### Supporting collaborative reflection in teacher education: A case study
+### European Journal of Teacher Education
+(2019)
+A. Devolder \_et al.\_
+### Supporting self‐regulated learning in computer‐based learning environments: Systematic review of effects of scaffolding in the domain of science education
+### Journal of Computer Assisted Learning
+(2012)
+C. Dignath \_et al.\_
+### Components of fostering self-regulated learning among students. A meta-analysis on intervention studies at primary and secondary school level
+### Metacognition and Learning
+(2008)
+G.A. Dingle \_et al.\_
+### Loneliness, belonging, and mental health in Australian university students pre-and post-COVID-19
+### Behaviour Change
+(2022)
+J. Du \_et al.\_
+### Supporting students goal setting process using chatbot: Implementation in a fully online course
+E. Durall Gazulla \_et al.\_
+### Designing learning technology collaboratively: Analysis of a chatbot co-design
+### Education and Information Technologies
+(2023)
+S. Eom \_et al.\_
+### Learning outcomes and learner satisfaction: The mediating roles of self-regulated learning and dialogues
+### Journal of International Technology and Information Management
+(2023)
+K.L. Fiori \_et al.\_
+### Positive and negative social exchanges and mental health across the transition to college: Loneliness as a mediator
+### Journal of Social and Personal Relationships
+(2013)
+M. Foster \_et al.\_
+### Data science and graduate nursing education: A critical literature review
+### Clinical Nurse Specialist
+(2020)
+M.L. Gaeta \_et al.\_
+### The impact of COVID-19 home confinement on Mexican university students: Emotions, coping strategies, and self-regulated learning
+### Frontiers in Psychology
+(2021)
+S. Gidalevich \_et al.\_
+### The value of fixed versus faded self-regulatory scaffolds on fourth graders' mathematical problem solving
+### Instructional Science
+(2019)
+J. Gillett-Swan
+### The challenges of online learning: Supporting and engaging the isolated learner
+### Journal of Learning Design
+(2017)
+Y. Goda \_et al.\_
+### Conversation with a chatbot before an online EFL group discussion and the effects on critical thinking
+### Journal of Information Systems Education
+(2014)
+B. Gribbons \_et al.\_
+### True and quasi-experimental designs
+### Practical Assessment, Research and Evaluation
+(1997)
+R. Guan \_et al.\_
+### How educational chatbots support self-regulated learning? A systematic review of the literature
+### Education and Information Technologies
+(2025)
+R. Gupta \_et al.\_
+### Covid-19 pandemic and online education: Impact on students, parents and teachers
+### Journal of Human Behavior in the Social Environment
+(2022)
+A.L. Hakim \_et al.\_
+### Evaluation of implementation of MBKM: Does academic stress affect on student learning outcomes?
+### International Journal of Educational Research & Social Sciences
+(2022)
+K.F. Hew
+### Promoting engagement in online courses: What strategies can we learn from three highly rated MOOCS
+### British Journal of Educational Technology
+(2016)
+X. Hu \_et al.\_
+### The effects of different patterns of group collaborative learning on fourth-grade students' creative thinking in a digital artificial intelligence course
+### Sustainability
+(2022)
+X. Huang
+### Aims for cultivating students' key competencies based on artificial intelligence education in China
+### Education and Information Technologies
+(2021)
+C. Huang \_et al.\_
+### Longitudinal exploration of online learning burnout: The role of social support and cognitive engagement
+### European Journal of Psychology of Education
+(2024)
+C. Huang \_et al.\_
+### Exploring the relationships between achievement goals, community identification and online collaborative reflection
+### Educational Technology & Society
+(2021)
+J.W. Hur
+### Fostering AI literacy: Overcoming concerns and nurturing confidence among preservice teachers
+### Information and Learning Sciences
+(2025)
+M. Hysing \_et al.\_
+### Only the lonely: A study of loneliness among university students in Norway
+### Clinical Psychology in Europe
+(2020)
+E.S. Jeyasingh
+### Coping strategies for adolescents dealing with academic stress
+### Saudi Journal of Nursing and Health Care
+(2022)
+Y. Jiang \_et al.\_
+### New methods to support effective collaborative reflection among kindergarten teachers: An action research approach
+### Early Childhood Education Journal
+(2021)
+D. Johnson \_et al.\_
+### The state of cooperative learning in postsecondary and professional settings
+### Educational Psychology Review
+(2007)
+View more references
+- ### [Knowledge-guided course recommendation in MOOCs with cross-graph and forgetting-aware cross-attention](https://www.sciencedirect.com/science/article/pii/S1568494626002164)
+2026, Applied Soft Computing
+Show abstract
+Course recommendation (CR) plays a pivotal role in the e-learning field, aiming at tailoring course suggestions to learners based on their historical interaction behaviors. Existing CR methods predominantly utilize generic recommendation techniques to infer learners’ preferences from historical interactions. In course learning scenarios, learners’ interaction behaviors are not only preference-driven but also significantly influenced by their knowledge states. However, how to effectively capture the learners’ knowledge states in the CR task remains unexplored, and presents significant challenges due to two critical reasons. First, the knowledge states are intertwined with learners’ preferences, exhibiting mutual collaborative influences. Second, the knowledge states of learners dynamically decay over time due to natural forgetting processes. In this paper, we propose a novel knowledge-guided course recommendation method, named KnowCR, to capture the dynamic knowledge states of learners for enhancing course recommendations. Specifically, we propose a cross-graph collaborative encoding module that integrates the representations of learners’ preferences and knowledge states to exploit their collaborative influences. This module constructs two distinct graphs based on learner-course and learner-exercise interactions, and facilitates information integration via a cross-graph propagation mechanism. Moreover, we devise a forgetting-aware cross-attention encoding module that simulates the decay of short-term and long-term memories to capture the knowledge forgetting properties of learners. This module extracts the dynamic representations of learners by performing sequential encoding with a hierarchical knowledge forgetting mechanism on time-aligned interaction sequences. Extensive experiments on a real-world MOOC dataset demonstrate that our method significantly outperforms the state-of-the-art methods. The implementation codes and datasets are available at [https://github.com/KasISET/KnowCR](https://github.com/KasISET/KnowCR).
+- ### [FLoRA: An advanced AI-powered engine to facilitate hybrid human-AI regulated learning](https://www.sciencedirect.com/science/article/pii/S0360131525002969)
+2026, Computers and Education
+Show abstract
+Self-Regulated Learning (SRL), defined as learners’ ability to systematically plan, monitor, and regulate their learning activities, is crucial for sustained academic achievement and lifelong learning competencies. Emerging AI developments profoundly influence SRL interactions by potentially either diminishing or strengthening learners’ opportunities to exercise their own regulatory skills. Recent literature emphasises a balanced approach termed Hybrid Human-AI Regulated Learning (HHAIRL), in which AI provides targeted, timely scaffolding while preserving the learners’ role as active decision-makers and reflective monitors of their learning process. Central to HHAIRL is the integration of adaptive and personalised learning systems; by modelling each learner’s knowledge and self-regulation patterns, AI can deliver contextually relevant scaffolds that support learners during all phases of the SRL process. Nevertheless, existing digital tools frequently fall short, lacking adaptability and personalisation, focusing narrowly on isolated SRL phases, and insufficiently supporting meaningful human-AI interactions. In response, this paper introduces the enhanced FLoRA Engine, which incorporates advanced generative AI features and state-of-the-art learning analytics, and grounds in solid educational theories. The FLoRA Engine offers tools such as collaborative writing, multi-agent chatbots, and detailed learning trace logging to support dynamic, adaptive scaffolding of self-regulation tailored to individual needs in real time. We further present a summary of several research studies that provide the validations for and illustrate how these tools can be utilised in real-world educational and experimental contexts. These studies demonstrate the effectiveness of FLoRA Engine in fostering SRL, providing both theoretical insights and practical solutions for the future of AI-enhanced learning contexts.
+- ### [AI chatbot design principles to enhance the collective efficacy in collaborative learning](https://doi.org/10.1007/s12564-025-10080-z)
+2025, Asia Pacific Education Review
+- ### [Beyond the Benefits: A Systematic Review of the Harms and Consequences of Generative AI in Computing Education](https://doi.org/10.1145/3769994.3770036)
+2025, Proceedings of 25th International Conference on Computing Education Research Koli Calling 2025
+- ### [Designing artificial intelligence chatbots for self-regulated learning from a systematic review based on Habermas's three interests](https://doi.org/10.1080/10494820.2025.2563086)
+2025, Interactive Learning Environments
+- ### [Improving learning performance through AI-enabled task completing and network building: integrating task-technology fit and social-technology fit perspectives](https://doi.org/10.1080/10494820.2025.2569777)
+2025, Interactive Learning Environments
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-105000568857&md5=403a3136509655a8d9ca24db05f96f9)
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525000739)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
