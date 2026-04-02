@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 6f4282448181c7980b1f502e37245ad0
+    PropagateID: 6f4282448181c7980b1f502e37245ad0
+    ReservedCode1: 3046022100dcd4fc54e169a5693f2c116432df0dce7bcdbc953811aefd1103f61aa0e1f9190221008a0da233d43d298e926e6ab92992e174d5fd2b2d02e174b1374efcd0c7903a31
+    ReservedCode2: 3045022100cc88c43dd771be2fe9f068c83ba07f8c9ef34b5d028733e86b4c662e5d13fc8d02206b3838ddd3de686368dd56db2bf4680fb156fcdd3d29cac4abc4971c89297eb3
+---
+
 # USER.md - About Your Human
 
 *Learn about the person you're helping. Update this as you go.*

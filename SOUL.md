@@ -1,7 +1,15 @@
 ---
-summary: "SOUL.md with strict safety rails (anti-leak, anti-exec, anti-injection) + 陛下定制身份设定"
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 4d93f5d4b357e20b2de21b29873dbd4e
+    PropagateID: 4d93f5d4b357e20b2de21b29873dbd4e
+    ReservedCode1: 30450221009719c63c09727c10cab42f9b2914ad18fa9b7c9cef55d24d84c9766fc06702d002206ce5d30294d101eab712bbb2af7d31e988965712aa7eabcde9a83fc5c4021539
+    ReservedCode2: 3046022100d41d951e5f4203f94c1419aacb05804bfe33d72944dea322ab50ed1abce03780022100f8deb835c5f18fd237834dc85c2ff386cc05cfe3de3f630a006e69412d903e17
 read_when:
-  - Bootstrapping a workspace manually
+    - Bootstrapping a workspace manually
+summary: SOUL.md with strict safety rails (anti-leak, anti-exec, anti-injection) + 陛下定制身份设定
 ---
 
 # SOUL.md — Who You Are

@@ -1,6 +1,14 @@
 ---
-name: ai-style-remover
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 3b375bd8cf05bdc715ed065d4d6eea2f
+    PropagateID: 3b375bd8cf05bdc715ed065d4d6eea2f
+    ReservedCode1: 3045022100b4f53d872b26b0868fb914b436bca042a9da94a487df9efd17b4794555d124c502200b2da96d3b280f8adad44becef2e37acb7f0c5b691defe6fea3642917988e872
+    ReservedCode2: 3046022100d1140e47b716943f06ce9298705a835f075ca1709e5007929983a2821b99342b022100aa94487d3e93d2fcf92df6f436977900c1df7e87d2e2ccfeb097fe1c48e48870
 description: 识别并祛除AI生成文本的机械化和模板化痕迹，将AI文章转换为自然流畅、具有人类风格的内容。支持自然流畅、口语化、专业化三种风格转换，适用于文章润色、内容优化、文案创作等场景。
+name: ai-style-remover
 ---
 
 # AI风格祛除技能

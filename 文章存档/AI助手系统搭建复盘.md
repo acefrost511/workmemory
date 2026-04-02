@@ -3,10 +3,10 @@ AIGC:
     ContentProducer: Minimax Agent AI
     ContentPropagator: Minimax Agent AI
     Label: AIGC
-    ProduceID: 17ab5fba80f191f2c4a789333344d515
-    PropagateID: 17ab5fba80f191f2c4a789333344d515
-    ReservedCode1: 304502203e959ca2a969b2e0a0ad34127e2b30c5b15a91aea639cb001c17023bf0153107022100a51e1e43d1308c51cca120ca99d834682159c22a4e63fbcf6a1847ed44bfb17c
-    ReservedCode2: 3045022100a0bdb3d459a247dcf29e28efb0a23d6f0dbbfeea564ae99541c7cc427d188caa02202d198de49c81da1baddc52a3bd1ae5fd2836d9cdfadaedff1a3b5e6730a829a6
+    ProduceID: d4fa877eee0b50961071e68998d4e533
+    PropagateID: d4fa877eee0b50961071e68998d4e533
+    ReservedCode1: 30440220678c06ea7a4fac5c4e2d37eca9accd200ff22780dc433e0f75eabc13243242e3022012208f9ece693b3b4ce15a97756c7c72ebaa6930c7e2d94e387543882b9031ba
+    ReservedCode2: 304402205313c4e45b5c1a2168c74b7f468c9efe05b24120989dfe126b2bc1b44ca7bc4702205b12ca1dcacc5e9ee429838531089f8697ff4c946ca2c5c2d4c0b0e415c5cb85
 ---
 
 # 花两周时间，把AI助手从"不靠谱实习生"变成"靠谱工作搭档"

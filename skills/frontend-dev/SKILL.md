@@ -1,21 +1,29 @@
 ---
-name: frontend-dev
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 38169029266cce2660a2cac8c3a09fab
+    PropagateID: 38169029266cce2660a2cac8c3a09fab
+    ReservedCode1: 304502204bc7462e76f1562b9e7ad75195c886f1a852a5d2d1971e46346d0744b6badb1b022100e9926fdb948a8bcc7e7ca00147be7f6813fdd974ca85b6076037b69844fc9f7e
+    ReservedCode2: 30450221008e334b6dd1888fa93b510b543eb9c865741fa31f85d67f04392a7eed4ea03bd00220110c80f488ad59bccb324ad53008d67637ab82d230e6f8ab60346a394a19e8a0
 description: |
-  全栈前端开发技能，精通React/Next.js、Tailwind CSS、Framer Motion、GSAP动画、AIDA文案框架。
-  触发条件：构建落地页/动态网页/需要电影级动效的前端项目、需要AI媒体资源（图像/视频/音频/TTS）集成的项目。
-  包含：p5.js生成艺术、Three.js/R3F、WebGL、视觉工程规范、运动动画引擎、资产生成工作流。
+    全栈前端开发技能，精通React/Next.js、Tailwind CSS、Framer Motion、GSAP动画、AIDA文案框架。
+    触发条件：构建落地页/动态网页/需要电影级动效的前端项目、需要AI媒体资源（图像/视频/音频/TTS）集成的项目。
+    包含：p5.js生成艺术、Three.js/R3F、WebGL、视觉工程规范、运动动画引擎、资产生成工作流。
 license: MIT
 metadata:
-  category: frontend
-  version: 1.0.0
+    category: frontend
+    version: 1.0.0
+name: frontend-dev
 sources:
-  - Framer Motion Documentation
-  - GSAP / GreenSock Documentation
-  - Three.js Documentation
-  - Tailwind CSS Documentation
-  - React / Next.js Documentation
-  - AIDA Framework (Elmo Lewis)
-  - p5.js Documentation
+    - Framer Motion Documentation
+    - GSAP / GreenSock Documentation
+    - Three.js Documentation
+    - Tailwind CSS Documentation
+    - React / Next.js Documentation
+    - AIDA Framework (Elmo Lewis)
+    - p5.js Documentation
 ---
 
 # Frontend Studio

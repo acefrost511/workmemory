@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 2dbf391ccf1376a95b31db055b1518bf
+    PropagateID: 2dbf391ccf1376a95b31db055b1518bf
+    ReservedCode1: 304502210082dc906e54d66792dfa977c1405a5f1060b57dc511d944d497b919b1b09e881502203fec1bc12335e9839d8bec512043339d2e774bb0f960625bdb23ef66b05288bd
+    ReservedCode2: 30440220744bd944b868acc58c81c0eb63ffdfb0904987b61e6e99665b463b8b021379d0022001bfa67a8fa91f1dd8fe1d16a2cc53544cbebf9fa8daf5ead203e788fc8902c3
+---
+
 # K12教育内容创作SOP v4.0
 **整合版：基于历史v3.0 + 三方案对比实验 + 爆款方法论学习**
 **更新时间：2026-03-26 05:00**

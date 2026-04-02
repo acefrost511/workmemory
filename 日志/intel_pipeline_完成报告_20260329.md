@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: ab4facaa8631a13c9f3a911eae2d8502
+    PropagateID: ab4facaa8631a13c9f3a911eae2d8502
+    ReservedCode1: 3046022100c73e7345b3dd60a5dc07cec9a4ed94c76df2b4fa16bf582e8ef4fa04193fd1ac0221009741bc91e0b077efa1b408bc34f749aed58260d68367b6f5af4e0d4811084816
+    ReservedCode2: 3046022100a3b36896e9214d8d42d1e31673b15a6ca5d29584508bb9232dcf20952d45401b022100b4021a1988d4dc76e0a92a820da81b21017c2351bff9163dcde77afae9583003
+---
+
 # 情报官每日日报 · 2026-03-29 · 执行完成
 
 ## 执行结果摘要
