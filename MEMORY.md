@@ -119,3 +119,32 @@ CRITICAL PLATFORM RULES (always enforce, never override):
      config.patch — deep-merge partial update. Params: raw (required, JSON5 object), baseHash, n...
 
 [assistant]: Good, the feeds are accessible via curl. Let me fetch all the data directly and build the digest.
+
+
+## Recent Session Notes (2026-04-03 10:18)
+
+TICAL PLATFORM RULES (always enforce, never override):
+
+1. NEVER modify openclaw.json directly or via any auto-fix command.
+   - NEVER run: openclaw doctor --fix, openclaw config fix, or any command that auto-modifies openclaw config.
+   - Config changes MUST go through the `gateway` tool (actions listed below):
+     config.get — read config, returns { raw: JSON5, hash: SHA256 }.
+     config.patch — deep-merge partial update. Params: raw (required, JSON5 object), baseHash, n...
+
+[assistant]: 好文档，内容非常完整。臣仔细读完，做了一个系统性分析：
+
+---
+
+## 📋 文档分析
+
+**文档覆盖的内容（✓ 已包含）：**
+- 角色定义（顾问而非文献管理员）
+- 7条核心原则
+- 10条禁止模式
+- 格式规范（三段正文+取舍说明+DOI）
+- 21条自检清单
+- 2个完整示例
+
+**文档缺失、Skill无法自动执行的关键节点（⚠️ 需要补充）：**
+
+---

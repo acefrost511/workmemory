@@ -182,3 +182,21 @@ openclaw gateway start
 
 *配置人: 管家小艾*
 *来源: 飞书开放平台技术文档 + OpenClaw 集成指南*
+
+---
+
+## 凭证配置记录（2026-04-03 更新）
+
+**APP ID**: cli_a93fe76e9a781bc2
+**APP SECRET**: Kmo5JuCjzusvVQBQv674VbRVK7GDn74v（已写入 /root/.openclaw/feishu/default.json）
+
+**陛下在应用内的正确open_id**: ou_3738b37d4ed758b00067bbe8feddaeec
+（通过 contact/v3/users 接口查询得到，应用内仅有此用户）
+
+**Python直发脚本**: /workspace/.send_feishu.py
+- 绕过OpenClaw feishu插件，直接调用飞书API
+- 已验证code=0可正常发送
+
+**message工具状态**: ❌ 仍报错"default not configured"
+- 原因：OpenClaw feishu插件的账号名问题
+- 解决：使用Python脚本替代
