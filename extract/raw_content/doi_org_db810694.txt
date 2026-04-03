@@ -1,0 +1,839 @@
+# Source URL: https://doi.org/10.1007/s10639-025-13705-3
+# Content Length: 47063 characters
+# Extracted at: 2026-04-03 09:56:53
+#============================================================
+
+
+
+
+
+
+
+
+
+CheatGuard: A cybersecurity inspired anti-cheating platform for higher education | Education and Information Technologies | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/10639/article&sz=728x90&pos=top&articleid=s10639-025-13705-3)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s10639-025-13705-3)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Education and Information Technologies](/journal/10639)
+3. Article
+
+CheatGuard: A cybersecurity inspired anti-cheating platform for higher education
+================================================================================
+
+* Published: 01 August 2025
+
+* Volume 30, pages 23729–23759, (2025)
+* [Cite this article](#citeas)
+
+[Save article](/article/10.1007/s10639-025-13705-3/save-research?_csrf=lLwR-igxUwpcDHQc8jYvi9nqyH6zFukM)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Education and Information Technologies](/journal/10639)
+[Aims and scope](/journal/10639/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/eait)
+
+
+
+
+* [Imran Taj](#auth-Imran-Taj-Aff1) 
+  [ORCID: orcid.org/0009-0008-9062-025X](https://orcid.org/0009-0008-9062-025X)[1](#Aff1),
+* [Sifan Waktole Dadi](#auth-Sifan-Waktole_Dadi-Aff2)[2](#Aff2),
+* [Ahmed Samer Wazan](#auth-Ahmed-Samer_Wazan-Aff3)[3](#Aff3),
+* [Romain Laborde](#auth-Romain-Laborde-Aff4)[4](#Aff4) &
+* …
+* [Abdulhadi Shoufan](#auth-Abdulhadi-Shoufan-Aff5)[5](#Aff5)
+
+Show authors
+
+* 525 Accesses
+* 3 Citations
+* [Explore all metrics](/article/10.1007/s10639-025-13705-3/metrics)
+
+
+
+Abstract
+--------
+
+Academic integrity aims to ensure that students’ achievements are the result of their own efforts and knowledge. However, academic dishonesty continues to evolve, becoming increasingly difficult to detect and mitigate—especially with the rise of sophisticated, AI-driven tools. The lack of a universal knowledge base and standardized guidelines for addressing emerging forms of misconduct further complicates enforcement, leaving educators with limited resources to effectively identify and respond to violations. This research addresses these challenges by proposing CheatGuard, a centralized online anti-cheating platform with incident reporting capabilities. Inspired by MITRE’s ATT&CK framework used in cybersecurity, CheatGuard catalogs a wide range of cheating techniques reported by institutions—from plagiarism to unauthorized collaboration during exams. For each assessment category, it also provides corresponding detection and prevention methods. CheatGuard’s knowledge base is continuously updated using an AI agent that gathers data from online sources. Tactics, techniques, and procedures related to academic dishonesty are structured similarly to those in MITRE ATT&CK, helping institutions systematically select appropriate countermeasures. This paper presents the conceptual architecture of CheatGuard, explains how it can be accessed and used by educators, and explores its potential to combat academic misconduct in the age of Artificial Intelligence.
+
+
+
+
+This is a preview of subscription content, [log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10639-025-13705-3)
+
+ to check access.
+
+
+Access this article
+-------------------
+
+[Log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10639-025-13705-3)
+
+
+Subscribe and save
+------------------
+
+
+Springer+
+
+from €37.37 /Month
+
+* Starting from 10 chapters or articles per month
+* Access and download chapters and articles from more than 300k books and 2,500 journals
+* Cancel anytime
+
+[View plans](https://link.springer.com/product/springer-plus)
+
+Buy Now
+-------
+
+
+Buy article PDF 39,95 €
+
+Price includes VAT (China (P.R.))
+  
+
+
+Instant access to the full article PDF.
+
+
+
+
+[Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/journals)
+
+
+
+
+
+**Fig. 1**
+
+![]()
+
+**Fig. 2**
+
+![]()
+
+**Fig. 3**
+
+![]()
+
+**Fig. 4**
+
+![]()
+
+**Fig. 5**
+
+![]()
+
+**Fig. 6**
+
+![]()
+
+**Fig. 7**
+
+![]()
+
+**Fig. 8**
+
+![]()
+
+**Fig. 9**
+
+![]()
+
+**Fig. 10**
+
+![]()
+
+**Fig. 11**
+
+![]()
+
+**Fig. 12**
+
+![]()
+
+
+### Similar content being viewed by others
+
+![]()
+### [Unmasking academic cheating behavior in the artificial intelligence era: Evidence from Vietnamese undergraduates](https://link.springer.com/10.1007/s10639-024-12495-4?fromPaywallRec=true)
+
+Article
+Open access
+05 February 2024
+
+
+
+
+![]()
+### [That’s Cheating: The (Online) Academic Cheating ‘Epidemic’ and What We Should Do About It](https://link.springer.com/10.1007/978-3-319-78298-0_7?fromPaywallRec=true)
+
+Chapter
+© 2018
+
+
+
+
+![]()
+### [A Bibliometric Analysis on Academic Integrity](https://link.springer.com/10.1007/s10805-024-09519-6?fromPaywallRec=true)
+
+Article
+04 March 2024
+
+
+
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Computer Application in Administrative Data Processing](/subjects/computer-application-in-administrative-data-processing)
+* [Computer Ethics](/subjects/computer-ethics)
+* [Computing Milieux](/subjects/computing-milieux)
+* [Lab-on-a-Chip](/subjects/lab-on-a-chip)
+* [Reverse engineering](/subjects/reverse-engineering)
+* [Security Science and Technology](/subjects/security-science-and-technology)
+* [Academic Integrity in Higher Education](/subjects/academic-integrity-in-higher-education)
+
+Data availability Statement
+---------------------------
+
+The datasets generated during and/or analysed during the current study are available from the corresponding author on reasonable request.
+
+Notes
+-----
+
+1. [Hackster.io news](https://www.hackster.io/news/teachers-beware-this-calculator-mod-makes-cheating-ridiculously-easy-72f42bb62bde)
+2. <https://attack.mitre.org/>
+3. <https://attack.mitre.org/>
+4. <https://attack.mitre.org/tactics/enterprise/>
+5. <https://coomax.co/bluetooth-pen-spy-earpiece-vip-pro/>
+6. <https://sifwako.github.io/CheatGuard/>
+7. <https://github.com/LeMB2A/CheatGuard-AI>
+
+References
+----------
+
+* Adam, A. R. (2014). Plagiarism detection algorithm using natural language processing based on grammar analyzing. *Journal of Theoretical & Applied Information Technology,* *63*.
+* Al-Adwan, A. S., Li, N., Al-Adwan, A., Abbasi, G. A., Albelbisi, N. A., & Habibi, A. (2023). Extending the technology acceptance model (tam) to predict university students’ intentions to use metaverse-based learning platforms. *Education and Information Technologies,* *28*, 15381–15413.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-023-11816-3) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Extending%20the%20technology%20acceptance%20model%20%28tam%29%20to%20predict%20university%20students%E2%80%99%20intentions%20to%20use%20metaverse-based%20learning%20platforms&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-023-11816-3&volume=28&pages=15381-15413&publication_year=2023&author=Al-Adwan%2CAS&author=Li%2CN&author=Al-Adwan%2CA&author=Abbasi%2CGA&author=Albelbisi%2CNA&author=Habibi%2CA)
+* Al-Sada, B., Sadighian, A., & Oligeri, G. (2024). Mitre att &ck: State of the art and way forward. *ACM Computing Surveys,* *57*, 1–37.
+  
+  [Article](https://doi.org/10.1145%2F3687300) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mitre%20att%20%26ck%3A%20State%20of%20the%20art%20and%20way%20forward&journal=ACM%20Computing%20Surveys&doi=10.1145%2F3687300&volume=57&pages=1-37&publication_year=2024&author=Al-Sada%2CB&author=Sadighian%2CA&author=Oligeri%2CG)
+* Alvi, F., Stevenson, M., & Clough, P. (2021). Paraphrase type identification for plagiarism detection using contexts and word embeddings. *International Journal of Educational Technology in Higher Education,* *18*, 42.
+  
+  [Article](https://link.springer.com/doi/10.1186/s41239-021-00277-8) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Paraphrase%20type%20identification%20for%20plagiarism%20detection%20using%20contexts%20and%20word%20embeddings&journal=International%20Journal%20of%20Educational%20Technology%20in%20Higher%20Education&doi=10.1186%2Fs41239-021-00277-8&volume=18&publication_year=2021&author=Alvi%2CF&author=Stevenson%2CM&author=Clough%2CP)
+* Amigud, A., & Lancaster, T. (2019). 246 reasons to cheat: An analysis of students’ reasons for seeking to outsource academic work. *Computers & Education,* *134*, 98–107. <https://doi.org/10.1016/j.compedu.2019.01.017>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2019.01.017) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=246%20reasons%20to%20cheat%3A%20An%20analysis%20of%20students%E2%80%99%20reasons%20for%20seeking%20to%20outsource%20academic%20work&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2019.01.017&volume=134&pages=98-107&publication_year=2019&author=Amigud%2CA&author=Lancaster%2CT)
+* Amzalag, M., Shapira, N., & Dolev, N. (2021). Two sides of the coin: Lack of academic integrity in exams during the corona pandemic, students’ and lecturers’ perceptions. *Journal of Academic Ethics,* 1–21.
+* Anagaw, M., & Markos, D. (2019). Written exam cheating and prevention and detection strategies: The case of dmu. *Journal of Education and Practice,* 60–70.
+* Bain, L. Z. (2015). How students use technology to cheat and what faculty can do about it. *Information Systems Education Journal,* *13*, 92.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20students%20use%20technology%20to%20cheat%20and%20what%20faculty%20can%20do%20about%20it&journal=Information%20Systems%20Education%20Journal&volume=13&publication_year=2015&author=Bain%2CLZ)
+* Baseer, K., Pasha, M. J., Reddy, A. R. K., Rekha, K., & Begum, M. S. (2022). Smart online examination monitoring system. *Journal of Algebraic Statistics,* *13*, 559–570.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Smart%20online%20examination%20monitoring%20system&journal=Journal%20of%20Algebraic%20Statistics&volume=13&pages=559-570&publication_year=2022&author=Baseer%2CK&author=Pasha%2CMJ&author=Reddy%2CARK&author=Rekha%2CK&author=Begum%2CMS)
+* Saana, Bayaa Martin, & S. B., Ablordeppey, E., Mensah, N. J., & Karikari, T. K. (2016). Academic dishonesty in higher education: Students’ perceptions and involvement in an african institution. *BMC Research Notes,* *9*, 1–13.
+* Bertram Gallant, T. (2017). Academic integrity as a teaching & learning issue: From theory to practice. *Theory Into Practice,* *56*, 88–94.
+  
+  [Article](https://doi.org/10.1080%2F00405841.2017.1308173) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Academic%20integrity%20as%20a%20teaching%20%26%20learning%20issue%3A%20From%20theory%20to%20practice&journal=Theory%20Into%20Practice&doi=10.1080%2F00405841.2017.1308173&volume=56&pages=88-94&publication_year=2017&author=Bertram%20Gallant%2CT)
+* Bloomington, I. U. (2024). Creating open book exams: Quick guides: Teaching resources: Center for innovative teaching and learning: Indiana University Bloomington — citl.indiana.edu. <https://citl.indiana.edu/teaching-resources/guides/openbook.html>
+* Bretag, T., Harper, R., Burton, M., Ellis, C., Newton, P., Rozenberg, P., Saddiqui, S., & van Haeringen, K. (2019). Contract cheating: A survey of australian university students. *Studies in Higher Education,* *44*, 1837–1856.
+  
+  [Article](https://doi.org/10.1080%2F03075079.2018.1462788) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Contract%20cheating%3A%20A%20survey%20of%20australian%20university%20students&journal=Studies%20in%20Higher%20Education&doi=10.1080%2F03075079.2018.1462788&volume=44&pages=1837-1856&publication_year=2019&author=Bretag%2CT&author=Harper%2CR&author=Burton%2CM&author=Ellis%2CC&author=Newton%2CP&author=Rozenberg%2CP&author=Saddiqui%2CS&author=Haeringen%2CK)
+* Busch, P., & Bilgin, A. (2014). Student and staff understanding and reaction: Academic integrity in an australian university. *Journal of Academic Ethics,* *12*, 227–243.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10805-014-9214-2) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Student%20and%20staff%20understanding%20and%20reaction%3A%20Academic%20integrity%20in%20an%20australian%20university&journal=Journal%20of%20Academic%20Ethics&doi=10.1007%2Fs10805-014-9214-2&volume=12&pages=227-243&publication_year=2014&author=Busch%2CP&author=Bilgin%2CA)
+* Carmichael, J. (2024). Predicting threats to academic integrity: A text-mining and scenario modeling framework. Ph.D. thesis. Carleton University. Ottawa, ON, Canada.
+* Çelik, Ö., & Razı, S. (2023). Facilitators and barriers to creating a culture of academic integrity at secondary schools: An exploratory case study. *International Journal for Educational Integrity,* *19*, 4.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-023-00125-4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Facilitators%20and%20barriers%20to%20creating%20a%20culture%20of%20academic%20integrity%20at%20secondary%20schools%3A%20An%20exploratory%20case%20study&journal=International%20Journal%20for%20Educational%20Integrity&doi=10.1007%2Fs40979-023-00125-4&volume=19&publication_year=2023&author=%C3%87elik%2C%C3%96&author=Raz%C4%B1%2CS)
+* Chala, W. D. (2021). Perceived seriousness of academic cheating behaviors among undergraduate students: An ethiopian experience. *International Journal for Educational Integrity,* *17*, 2.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-020-00069-z) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Perceived%20seriousness%20of%20academic%20cheating%20behaviors%20among%20undergraduate%20students%3A%20An%20ethiopian%20experience&journal=International%20Journal%20for%20Educational%20Integrity&doi=10.1007%2Fs40979-020-00069-z&volume=17&publication_year=2021&author=Chala%2CWD)
+* Chan, C. K. Y. (2023). A comprehensive ai policy education framework for university teaching and learning. *International Journal of Educational Technology in Higher Education,* *20*, 38.
+  
+  [Article](https://link.springer.com/doi/10.1186/s41239-023-00408-3) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20comprehensive%20ai%20policy%20education%20framework%20for%20university%20teaching%20and%20learning&journal=International%20Journal%20of%20Educational%20Technology%20in%20Higher%20Education&doi=10.1186%2Fs41239-023-00408-3&volume=20&publication_year=2023&author=Chan%2CCKY)
+* Cornell-University, U. (2025). Open-book exams– Learning strategies center — lsc.cornell.edu. <https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams/open-book-exams/>
+* Cotton, D. R., Cotton, P. A., & Shipway, J. R. (2024). Chatting and cheating: Ensuring academic integrity in the era of chatgpt. *Innovations in Education and Teaching International,* *61*, 228–239.
+  
+  [Article](https://doi.org/10.1080%2F14703297.2023.2190148) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chatting%20and%20cheating%3A%20Ensuring%20academic%20integrity%20in%20the%20era%20of%20chatgpt&journal=Innovations%20in%20Education%20and%20Teaching%20International&doi=10.1080%2F14703297.2023.2190148&volume=61&pages=228-239&publication_year=2024&author=Cotton%2CDR&author=Cotton%2CPA&author=Shipway%2CJR)
+* Coward, C. (2024). Teachers beware: This calculator mod makes cheating ridiculously easy — hackster.io. <https://www.hackster.io/news/teachers-beware-this-calculator-mod-makes-cheating-ridiculously-easy-72f42bb62bde>
+* D., C. P. (1979). Review of L. S. Vygotsky: Mind in Society. The development of higher psychological processes; Recent trends in soviet psycholinguistics. *The American Journal of Psychology,* *92*, 166–167. <https://doi.org/10.2307/1421493>
+* Dontoh, J., Annan-Brew, R., Kpodoe, I., & Dadzie, J. (2023). Navigating academic integrity in the digital era: Challenges, strategies, and solutions. *Journal of Education and Practice,* *14*, 37–42.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Navigating%20academic%20integrity%20in%20the%20digital%20era%3A%20Challenges%2C%20strategies%2C%20and%20solutions&journal=Journal%20of%20Education%20and%20Practice&volume=14&pages=37-42&publication_year=2023&author=Dontoh%2CJ&author=Annan-Brew%2CR&author=Kpodoe%2CI&author=Dadzie%2CJ)
+* Draper, M., Lancaster, T., Dann, S., Crockett, R., & Glendinning, I. (2021). Essay mills and other contract cheating services: To buy or not to buy and the consequences of students changing their minds. *International Journal for Educational Integrity,* *17*, 13.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-021-00081-x) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Essay%20mills%20and%20other%20contract%20cheating%20services%3A%20To%20buy%20or%20not%20to%20buy%20and%20the%20consequences%20of%20students%20changing%20their%20minds&journal=International%20Journal%20for%20Educational%20Integrity&doi=10.1007%2Fs40979-021-00081-x&volume=17&publication_year=2021&author=Draper%2CM&author=Lancaster%2CT&author=Dann%2CS&author=Crockett%2CR&author=Glendinning%2CI)
+* Elngar, A. A., Gamal, M., Fathy, A., Moustafa, B., Mahmoud, O., & Shaban, M. (2021). Plagiarism detection algorithm model based on nlp technology. *Journal of Cybersecurity and Information Management,* *5*, 43–61.
+  
+  [Article](https://doi.org/10.54216%2FJCIM.050104) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plagiarism%20detection%20algorithm%20model%20based%20on%20nlp%20technology&journal=Journal%20of%20Cybersecurity%20and%20Information%20Management&doi=10.54216%2FJCIM.050104&volume=5&pages=43-61&publication_year=2021&author=Elngar%2CAA&author=Gamal%2CM&author=Fathy%2CA&author=Moustafa%2CB&author=Mahmoud%2CO&author=Shaban%2CM)
+* Fundamental, T. (1999). Values of academic integrity.
+* Glendinning, I. (2016). Management of academic integrity in Higher Education across the European Union — IIEP Unesco - Etico — Platform on ethics and corruption in education — etico.iiep.unesco.org. <https://etico.iiep.unesco.org/en/management-academic-integrity-higher-education-across-european-union>
+* Goldman, Z. (2016). Why Do Students Cheat? — gse.harvard.edu. <https://www.gse.harvard.edu/ideas/usable-knowledge/16/07/why-do-students-cheat>
+* Grájeda, A., Burgos, J., Córdova, P., & Sanjinés, A. (2024). Assessing student-perceived impact of using artificial intelligence tools: Construction of a synthetic index of application in higher education. *Cogent Education,* *11*, 2287917.
+  
+  [Article](https://doi.org/10.1080%2F2331186X.2023.2287917) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assessing%20student-perceived%20impact%20of%20using%20artificial%20intelligence%20tools%3A%20Construction%20of%20a%20synthetic%20index%20of%20application%20in%20higher%20education&journal=Cogent%20Education&doi=10.1080%2F2331186X.2023.2287917&volume=11&publication_year=2024&author=Gr%C3%A1jeda%2CA&author=Burgos%2CJ&author=C%C3%B3rdova%2CP&author=Sanjin%C3%A9s%2CA)
+* Guruge, D., Kadel, R., Shailendra, S., & Sharma, A. (2025). Building academic integrity: Evaluating the effectiveness of a new framework to address and prevent contract cheating. *Societies,* *15*, 11. <https://doi.org/10.3390/soc15010011>
+  
+  [Article](https://doi.org/10.3390%2Fsoc15010011) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Building%20academic%20integrity%3A%20Evaluating%20the%20effectiveness%20of%20a%20new%20framework%20to%20address%20and%20prevent%20contract%20cheating&journal=Societies&doi=10.3390%2Fsoc15010011&volume=15&publication_year=2025&author=Guruge%2CD&author=Kadel%2CR&author=Shailendra%2CS&author=Sharma%2CA)
+* Guruge, D. B., & Kadel, R. (2023). Towards an holistic framework to mitigate and detect contract cheating within an academic institute-a proposal. *Education Sciences,* *13*, 148.
+  
+  [Article](https://doi.org/10.3390%2Feducsci13020148) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20an%20holistic%20framework%20to%20mitigate%20and%20detect%20contract%20cheating%20within%20an%20academic%20institute-a%20proposal&journal=Education%20Sciences&doi=10.3390%2Feducsci13020148&volume=13&publication_year=2023&author=Guruge%2CDB&author=Kadel%2CR)
+* Holden, O. L., Norris, M. E., & Kuhlmeier, V. A. (2021). Academic integrity in online assessment: A research review. In *Frontiers in education, Frontiers Media SA* (p. 639814).
+* Ison, D. C. (2020). Detection of online contract cheating through stylometry: A pilot study. *Online Learning,* *24*, 142–165.
+  
+  [Article](https://doi.org/10.24059%2Folj.v24i2.2096) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Detection%20of%20online%20contract%20cheating%20through%20stylometry%3A%20A%20pilot%20study&journal=Online%20Learning&doi=10.24059%2Folj.v24i2.2096&volume=24&pages=142-165&publication_year=2020&author=Ison%2CDC)
+* Komalasari, M. D., Sukadari, & Widyaningsih, N. (2022). The academic integrity of college students. In *Proceedings of the 1st UPY International Conference on Education and Social Science (UPINCESS 2022)* (pp. 253–258). Atlantis Press. <https://doi.org/10.2991/978-2-494069-39-8_24>
+* Kuhail, M. A., Taj, I., Alimamy, S., & Abu Shawar, B. (2025). A review on polyadic chatbots: trends, challenges, and future research directions. *Knowledge and Information Systems*, *67*(1), 109–165. <https://doi.org/10.1007/s10115-024-02287-0>
+* Lal, K. K., & Sharma, B. (2023). Research integrity & ethics: Scientific misconduct.
+* Lancaster, T., & Clarke, R. (2016). Contract cheating: The outsourcing of assessed student work.
+* Lester, J. (2021). Ai and the future of education. In *Proceedings of the 29th ACM International Conference on Multimedia* (p. 3642). New York, NY, USA: Association for Computing Machinery.<https://doi.org/10.1145/3474085.3475715>
+* Lorenzen, S., Hjuler, N., & Alstrup, S. (2019). Investigating writing style development in high school. [arXiv:1906.03072](http://arxiv.org/abs/1906.03072)
+* Mathes, E. (2021). An evolutionary perspective on kohlberg’s theory of moral development. *Current Psychology,* *40*, 3908–3921. <https://doi.org/10.1007/s12144-019-00348-0>
+  
+  [Article](https://link.springer.com/doi/10.1007/s12144-019-00348-0) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20evolutionary%20perspective%20on%20kohlberg%E2%80%99s%20theory%20of%20moral%20development&journal=Current%20Psychology&doi=10.1007%2Fs12144-019-00348-0&volume=40&pages=3908-3921&publication_year=2021&author=Mathes%2CE)
+* Mavroeidis, V., & Bromander, S. (2017). Cyber threat intelligence model: An evaluation of taxonomies, sharing standards, and ontologies within cyber threat intelligence. In *2017 European Intelligence and Security Informatics Conference (EISIC)* (pp. 91–98). IEEE.
+* McCabe, D. L., Treviño, L. K., & Butterfield, K. D. (2001). Cheating in academic institutions: A decade of research. *Ethics & Behavior,* *11*, 219–232.
+  
+  [Article](https://doi.org/10.1207%2FS15327019EB1103_2) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cheating%20in%20academic%20institutions%3A%20A%20decade%20of%20research&journal=Ethics%20%26%20Behavior&doi=10.1207%2FS15327019EB1103_2&volume=11&pages=219-232&publication_year=2001&author=McCabe%2CDL&author=Trevi%C3%B1o%2CLK&author=Butterfield%2CKD)
+* McLachlan, J. C., & Penier, I. (2022). Academic cheating: How can we detect and discourage it?. In *Technologies in biomedical and life sciences education: Approaches and evidence of efficacy for learning* (pp. 287–311). Springer.
+* Morris, E. J. (2018). Academic integrity matters: Five considerations for addressing contract cheating. *International Journal for Educational Integrity,* *14*, 15.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-018-0038-5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Academic%20integrity%20matters%3A%20Five%20considerations%20for%20addressing%20contract%20cheating&journal=International%20Journal%20for%20Educational%20Integrity&doi=10.1007%2Fs40979-018-0038-5&volume=14&publication_year=2018&author=Morris%2CEJ)
+* Moukhliss, G., Hilali, R. F., & Belhadaoui, H. (2023). Intelligent solution for automatic online exam monitoring. *International Journal of Electrical & Computer Engineering,* *2088–8708*, 13.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intelligent%20solution%20for%20automatic%20online%20exam%20monitoring&journal=International%20Journal%20of%20Electrical%20%26%20Computer%20Engineering&volume=2088%E2%80%938708&publication_year=2023&author=Moukhliss%2CG&author=Hilali%2CRF&author=Belhadaoui%2CH)
+* Noorbehbahani, F., Mohammadi, A., & Aminazadeh, M. (2022). A systematic review of research on cheating in online exams from 2010 to 2021. *Education and Information Technologies,* *27*, 8413–8460.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-022-10927-7) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20systematic%20review%20of%20research%20on%20cheating%20in%20online%20exams%20from%202010%20to%202021&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-022-10927-7&volume=27&pages=8413-8460&publication_year=2022&author=Noorbehbahani%2CF&author=Mohammadi%2CA&author=Aminazadeh%2CM)
+* Perkins, M. (2023). Academic integrity considerations of ai large language models in the post-pandemic era: Chatgpt and beyond. *Journal of University Teaching and Learning Practice,* *20*.
+* Perkins, M., Furze, L., Roe, J., & MacVaugh, J. (2024). The artificial intelligence assessment scale (aias): A framework for ethical integration of generative ai in educational assessment. *Journal of University Teaching and Learning Practice,* *21*.
+* Perkins, M., Roe, J., Postma, D., McGaughran, J., & Hickerson, D. (2023). Game of tones: Faculty detection of gpt-4 generated content in university assessments. [arXiv:2305.18081](http://arxiv.org/abs/2305.18081)
+* Petko, D., Priyanda, P., & Müller, L. (2025). Exploring teachers’ pedagogical reasoning in mathematics education: An updated tpack framework. *Frontiers in Education,* *10*, 1552760. <https://doi.org/10.3389/feduc.2025.155276>
+  
+  [Article](https://doi.org/10.3389%2Ffeduc.2025.155276) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20teachers%E2%80%99%20pedagogical%20reasoning%20in%20mathematics%20education%3A%20An%20updated%20tpack%20framework&journal=Frontiers%20in%20Education&doi=10.3389%2Ffeduc.2025.155276&volume=10&publication_year=2025&author=Petko%2CD&author=Priyanda%2CP&author=M%C3%BCller%2CL)
+* Rasul, T., Nair, S., Kalendra, D., Balaji, M., Santini, F., & d. O., Ladeira, W. J., Rather, R. A., Yasin, N., Rodriguez, R. V., Kokkalis, P., Murad, M. W., & Hossain, M. U. (2024). Enhancing academic integrity among students in genai era:a holistic framework. *The International Journal of Management Education,* *22*, Article 101041. <https://doi.org/10.1016/j.ijme.2024.101041>
+* Rogerson, A. M. (2017). Detecting contract cheating in essay and report submissions: Process, patterns, clues and conversations. *International Journal for Educational Integrity,* *13*, 1–17.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-017-0021-6) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Detecting%20contract%20cheating%20in%20essay%20and%20report%20submissions%3A%20Process%2C%20patterns%2C%20clues%20and%20conversations&journal=International%20Journal%20for%20Educational%20Integrity&doi=10.1007%2Fs40979-017-0021-6&volume=13&pages=1-17&publication_year=2017&author=Rogerson%2CAM)
+* Rumjaun, A., & Narod, F. (2025). *Social learning theory-Albert Bandura*. Springer, Cham: Springer Texts in Education. <https://doi.org/10.1007/978-3-031-81351-1_5>
+  
+  [Book](https://link.springer.com/doi/10.1007/978-3-031-81351-1_5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Social%20learning%20theory-Albert%20Bandura&doi=10.1007%2F978-3-031-81351-1_5&publication_year=2025&author=Rumjaun%2CA&author=Narod%2CF)
+* Sawalha, G., Taj, I., & Shoufan, A. (2024). Analyzing student prompts and their effect on chatgpt’s performance. *Cogent Education,* *11*, 2397200.
+  
+  [Article](https://doi.org/10.1080%2F2331186X.2024.2397200) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Analyzing%20student%20prompts%20and%20their%20effect%20on%20chatgpt%E2%80%99s%20performance&journal=Cogent%20Education&doi=10.1080%2F2331186X.2024.2397200&volume=11&publication_year=2024&author=Sawalha%2CG&author=Taj%2CI&author=Shoufan%2CA)
+* Sharma, B. K. (2007). Plagiarism among university students: Intentional or accidental. *Journal of NELTA,* *12*, 2.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Plagiarism%20among%20university%20students%3A%20Intentional%20or%20accidental&journal=Journal%20of%20NELTA&volume=12&publication_year=2007&author=Sharma%2CBK)
+* Sozon, M., Alkharabsheh, O. H. M., Fong, P. W., & Chuan, S. B. (2024). Cheating and plagiarism in higher education institutions (heis): A literature review. *F1000Research,* *13*, 788. <https://pmc.ncbi.nlm.nih.gov/articles/PMC11489843/>,<https://doi.org/10.12688/F1000RESEARCH.147140.2>
+* Spruin, E. (2022). Mitigating the risk of contract cheating in uk higher education: A multi-level solution. *Journal of Higher Education Policy and Leadership Studies,* *3*, 109–120.
+  
+  [Article](https://doi.org/10.52547%2Fjohepal.3.1.109) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mitigating%20the%20risk%20of%20contract%20cheating%20in%20uk%20higher%20education%3A%20A%20multi-level%20solution&journal=Journal%20of%20Higher%20Education%20Policy%20and%20Leadership%20Studies&doi=10.52547%2Fjohepal.3.1.109&volume=3&pages=109-120&publication_year=2022&author=Spruin%2CE)
+* Strom, B. E., Applebaum, A., Miller, D. P., Nickels, K. C., Pennington, A. G., & Thomas, C. B. (2018). Mitre att &ck: Design and philosophy. In *Technical report*. The MITRE Corporation.
+* Strom, B. E., Battaglia, J. A., Kemmerer, M. S., Kupersanin, W., Miller, D. P., Wampler, C., Whitley, S. M., & Wolf, R. D. (2017). Finding cyber threats with att &ck-based analytics. The MITRE Corporation, Bedford, MA, Technical Report No. MTR170202.
+* UCL. (2025). Preparing for open book assessments — ucl.ac.uk. <https://www.ucl.ac.uk/students/exams-and-assessments/assessment-success-guide/preparing-open-book-assessments>
+* University-of Lincoln, U. (2025). Assessment Types — oqsp.blogs.lincoln.ac.uk. <https://oqsp.blogs.lincoln.ac.uk/assessment-types/>
+* Walter, Y. (2024). Embracing the future of artificial intelligence in the classroom: The relevance of ai literacy, prompt engineering, and critical thinking in modern education. *International Journal of Educational Technology in Higher Education,* *21*, 15.
+  
+  [Article](https://link.springer.com/doi/10.1186/s41239-024-00448-3) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Embracing%20the%20future%20of%20artificial%20intelligence%20in%20the%20classroom%3A%20The%20relevance%20of%20ai%20literacy%2C%20prompt%20engineering%2C%20and%20critical%20thinking%20in%20modern%20education&journal=International%20Journal%20of%20Educational%20Technology%20in%20Higher%20Education&doi=10.1186%2Fs41239-024-00448-3&volume=21&publication_year=2024&author=Walter%2CY)
+* Wang, G., Huo, Y., & Ma, Z. M. (2019). Research on university’s cyber threat intelligence sharing platform based on new types of stix and taxii standards. *Journal of Information Security,* *10*, 263–277.
+  
+  [Article](https://doi.org/10.4236%2Fjis.2019.104015) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Research%20on%20university%E2%80%99s%20cyber%20threat%20intelligence%20sharing%20platform%20based%20on%20new%20types%20of%20stix%20and%20taxii%20standards&journal=Journal%20of%20Information%20Security&doi=10.4236%2Fjis.2019.104015&volume=10&pages=263-277&publication_year=2019&author=Wang%2CG&author=Huo%2CY&author=Ma%2CZM)
+* Wazan, A., Taj, I., Shoufan, A., Laborde, R., & Venant, R. (2024). How to design and deliver courses for higher education in the AI era? *Springer, Cham.* <https://doi.org/10.1007/978-3-031-65691-0_18>
+  
+  [Article](https://link.springer.com/doi/10.1007/978-3-031-65691-0_18) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20to%20design%20and%20deliver%20courses%20for%20higher%20education%20in%20the%20AI%20era%3F&journal=Springer%2C%20Cham.&doi=10.1007%2F978-3-031-65691-0_18&publication_year=2024&author=Wazan%2CA&author=Taj%2CI&author=Shoufan%2CA&author=Laborde%2CR&author=Venant%2CR)
+* Xu, Y., & Li, W. (2023). The causes and prevention of commercial contract cheating in the era of digital education: A systematic & critical review. *Journal of Academic Ethics,* *21*, 303–321. <https://doi.org/10.1007/s10805-022-09457-1>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10805-022-09457-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20causes%20and%20prevention%20of%20commercial%20contract%20cheating%20in%20the%20era%20of%20digital%20education%3A%20A%20systematic%20%26%20critical%20review&journal=Journal%20of%20Academic%20Ethics&doi=10.1007%2Fs10805-022-09457-1&volume=21&pages=303-321&publication_year=2023&author=Xu%2CY&author=Li%2CW)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s10639-025-13705-3?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+This work was supported by the Zayed University Research Grant #R23082.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. College of Interdisciplinary Studies, Zayed University, Abu Dhabi, UAE
+   
+   Imran Taj
+2. School of Computing, University of Eastern Finland, Joensuu, Finland
+   
+   Sifan Waktole Dadi
+3. College of Technological Innovation, Zayed University, Abu Dhabi, UAE
+   
+   Ahmed Samer Wazan
+4. IRIT Laboratory, University of Toulouse III - Paul Sabatier, Toulouse, France
+   
+   Romain Laborde
+5. Department of Computer and Information Engineering, Khalifa University, Abu Dhabi, UAE
+   
+   Abdulhadi Shoufan
+
+Authors
+
+1. Imran Taj[View author publications](/search?sortBy=newestFirst&contributor=Imran%20Taj)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Imran%20Taj) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Imran%20Taj%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Sifan Waktole Dadi[View author publications](/search?sortBy=newestFirst&contributor=Sifan%20Waktole%20Dadi)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Sifan%20Waktole%20Dadi) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Sifan%20Waktole%20Dadi%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Ahmed Samer Wazan[View author publications](/search?sortBy=newestFirst&contributor=Ahmed%20Samer%20Wazan)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Ahmed%20Samer%20Wazan) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Ahmed%20Samer%20Wazan%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+4. Romain Laborde[View author publications](/search?sortBy=newestFirst&contributor=Romain%20Laborde)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Romain%20Laborde) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Romain%20Laborde%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+5. Abdulhadi Shoufan[View author publications](/search?sortBy=newestFirst&contributor=Abdulhadi%20Shoufan)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Abdulhadi%20Shoufan) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Abdulhadi%20Shoufan%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Corresponding author
+
+Correspondence to
+[Imran Taj](mailto:MuhammadImran.Taj@zu.ac.ae).
+
+Ethics declarations
+-------------------
+
+### Disclosure statement
+
+No potential conflict of interest is reported by the authors.
+
+Appendix A. CheatGuard AI agent
+-------------------------------
+
+### Appendix A. CheatGuard AI agent
+
+CheatGuard-AI, is a Python-based system designed to automate the process of retrieving, filtering, and extracting relevant research articles from the web. The implementation is available in two different versions: one using GPT-4o via OpenAI API and another using Llama 3 via Ollama for local inference. Both implementations follow the same core workflow, where the agent first searches for relevant research papers using Google Search API, then extracts content from the retrieved web pages, and finally processes the extracted content using a LLM to filter and structure the information.
+
+### 1.1 Appendix A.1. GPT-4o based
+
+The first implementation of the AI agent leverages GPT-4o via OpenAI API to process and extract relevant research information. In this approach, the agent begins by searching Google for articles based on a user-defined query. Once the relevant URLs are identified, the system downloads and cleans the content by removing unnecessary elements such as headers, footers, advertisements, and navigation menus. The cleaned text is then sent to GPT-4o, which processes the content to extract the most relevant information, filtering out any redundant or irrelevant sections. Finally, the extracted data, including the title, description, authors, and publication year, is structured and returned in JSON format.
+
+Using GPT-4o offers several advantages. Since the model is hosted on OpenAI’s cloud servers, it does not require local computational resources, making it highly efficient in terms of memory usage. The API-based approach also provides fast response times, allowing for near-instantaneous data extraction and filtering. However, a key limitation of this approach is cost, as OpenAI charges users based on API usage. Additionally, the reliance on an internet connection makes this solution unsuitable for offline environments. Despite these drawbacks, GPT-4o provides an efficient, scalable, and high-performance solution for research paper extraction.
+
+### 1.2 Appendix A.2. Ollama based
+
+The second implementation replaces OpenAI’s API-based approach with Ollama, an open-source tool for running local LLM inference. Instead of querying an external server, this approach downloads and runs a LLM on the user’s local machine. For this implementation, Llama 3.2 (2GB) was selected due to its relatively small model size and efficiency. The overall workflow remains the same—the system searches for research articles, extracts content from web pages, and then processes the extracted text using the locally hosted Llama 3.2 model.
+
+One of the major benefits of this approach is that it is completely free to use. Since the model runs locally, there are no API costs, making it an attractive option for users who require a cost-efficient solution. Another advantage is that this approach works offline, allowing users to process research data without an internet connection once the model is installed. However, running LLMs locally introduces performance limitations. Unlike GPT-4o, which leverages cloud-based GPU acceleration, local inference with Llama 3.2 relies entirely on CPU and RAM, making it significantly slower. Additionally, larger models like Llama 3.3 (42GB) were too heavy to be used efficiently on standard consumer hardware.
+
+Despite these challenges, Ollama provides a highly flexible and customizable solution. Users can choose between different models based on their hardware capabilities and processing needs, making it ideal for those who prefer a self-hosted AI solution without ongoing costs.
+
+### 1.3 Appendix A.3. Comparison
+
+Both implementations successfully extracted and summarized relevant research papers, as the searching mechanism was independent of the LLM—only the filtering and extraction were handled by AI models. However, there are significant trade-offs between the two approaches, summarized in Table [5](/article/10.1007/s10639-025-13705-3#Tab5) below.
+
+**Table 5 Comparison of GPT-4o (OpenAI API) and Ollama (Llama 3.2) implementations**
+
+[Full size table](/article/10.1007/s10639-025-13705-3/tables/5)
+
+GPT-4o offers significantly faster processing times and eliminates memory constraints, since the model runs on OpenAI’s cloud servers. This makes it an ideal choice for users who need real-time research summarization and have the budget for API usage. In contrast, Ollama provides a free, offline alternative, but requires more memory and processing time. The choice between the two solutions ultimately depends on whether the user prioritizes cost efficiency or performance.
+
+Rights and permissions
+----------------------
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=CheatGuard%3A%20A%20cybersecurity%20inspired%20anti-cheating%20platform%20for%20higher%20education&author=Imran%20Taj%20et%20al&contentID=10.1007%2Fs10639-025-13705-3&copyright=The%20Author%28s%29%2C%20under%20exclusive%20licence%20to%20Springer%20Science%2BBusiness%20Media%2C%20LLC%2C%20part%20of%20Springer%20Nature&publication=1360-2357&publicationDate=2025-08-01&publisherName=SpringerNature&orderBeanReset=true)
+
+About this article
+------------------
+
+### Cite this article
+
+Taj, I., Waktole Dadi, S., Samer Wazan, A. *et al.* CheatGuard: A cybersecurity inspired anti-cheating platform for higher education.
+*Educ Inf Technol* **30**, 23729–23759 (2025). https://doi.org/10.1007/s10639-025-13705-3
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s10639-025-13705-3?format=refman&flavour=citation)
+
+* Received: 20 November 2024
+* Accepted: 07 July 2025
+* Published: 01 August 2025
+* Version of record: 01 August 2025
+* Issue date: November 2025
+* DOI: https://doi.org/10.1007/s10639-025-13705-3
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Anti-cheating system](/search?query=Anti-cheating%20system&facet-discipline="Computer%20Science")
+* [Knowledge base](/search?query=Knowledge%20base&facet-discipline="Computer%20Science")
+* [MITRE](/search?query=MITRE&facet-discipline="Computer%20Science")
+* [Academic integrity](/search?query=Academic%20integrity&facet-discipline="Computer%20Science")
+* [Higher Education Institutions](/search?query=Higher%20Education%20Institutions&facet-discipline="Computer%20Science")
+
+
+### Profiles
+
+1. Imran Taj
+   [View author profile](/researchers/67012900SN)
+
+
+
+Access this article
+-------------------
+
+[Log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10639-025-13705-3)
+
+
+Subscribe and save
+------------------
+
+
+Springer+
+
+from €37.37 /Month
+
+* Starting from 10 chapters or articles per month
+* Access and download chapters and articles from more than 300k books and 2,500 journals
+* Cancel anytime
+
+[View plans](https://link.springer.com/product/springer-plus)
+
+Buy Now
+-------
+
+
+Buy article PDF 39,95 €
+
+Price includes VAT (China (P.R.))
+  
+
+
+Instant access to the full article PDF.
+
+
+
+
+[Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/journals)
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.44.184
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

@@ -1,0 +1,802 @@
+# Source URL: https://doi.org/10.1016/j.caeai.2025.100363
+# Content Length: 158482 characters
+# Extracted at: 2026-04-03 09:59:51
+#============================================================
+
+Typesetting math: 100%
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#screen-reader-main-title)
+- [View \*\*PDF\*\*](https://www.sciencedirect.com/science/article/pii/S2666920X25000037/pdfft?md5=cc62715dd47c62511c341a70d23c588d&pid=1-s2.0-S2666920X25000037-main.pdf)
+- Download full issue
+Search ScienceDirect
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence "Go to Computers and Education: Artificial Intelligence on ScienceDirect")
+## [Computers and Education: Artificial Intelligence](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence "Go to Computers and Education: Artificial Intelligence on ScienceDirect")
+[Volume 8](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence/vol/8/suppl/C "Go to table of contents for this volume/issue"), June 2025, 100363
+[![Computers and Education: Artificial Intelligence](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24X0003X-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence/vol/8/suppl/C)
+# Integrating generative artificial intelligence in K-12 education: Examining teachers’ preparedness, practices, and barriers
+Author links open overlay panelYin HongCheaha, JingruLua, JuheeKimb
+Show more
+Outline
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.caeai.2025.100363](https://doi.org/10.1016/j.caeai.2025.100363 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S2666920X25000037&orderBeanReset=true)
+Under a Creative Commons [license](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Open access
+## Abstract
+Despite the growing body of research on developing K-12 teachers' generative AI (GenAI) knowledge and skills, its integration into daily teaching practices remains underexplored. Using a snowball sampling method, this study examined the preparedness, practices, and barriers encountered by 89 U.S. teachers in the state of Idaho. Participants were predominantly White, female teachers serving in rural schools. A mixed-methods analysis of survey responses revealed that teachers were generally underprepared for integrating GenAI, with fewer than half incorporating it into their educational practices. Unlike the widespread classroom integration patterns observed with general [educational technologies](https://www.sciencedirect.com/topics/social-sciences/educational-technology), teachers in this study tended to use GenAI for out-of-classroom duties (i.e., lesson preparation, assessment, and administrative tasks) rather than for real-time teaching and learning. These preferences could be attributed to key barriers teachers faced, including doubts about GenAI's ability to manage risks (i.e., technology value beliefs), reduced human interaction in instruction (i.e., pedagogical beliefs), ethical considerations, and the absence of policies and guidance. This study highlights the need to develop support systems and targeted policies to facilitate teachers' GenAI integration, offering implications for Idaho's [education system](https://www.sciencedirect.com/topics/social-sciences/educational-organization) and the broader U.S. context.
+- [Previous article in issue](https://www.sciencedirect.com/science/article/pii/S2666920X24001619)
+- [Next article in issue](https://www.sciencedirect.com/science/article/pii/S2666920X25000050)
+## Keywords
+Generative artificial intelligence
+In-service teachers
+Preparedness
+Practices
+Barriers
+K-12 education
+## 1\. Introduction
+In recent decades, the growing prevalence of mobile devices, the Internet, and emerging technologies such as [augmented reality](https://www.sciencedirect.com/topics/social-sciences/augmented-reality) and digital [makerspaces](https://www.sciencedirect.com/topics/social-sciences/hackerspace) have been adopted to improve the quality of education, making it more effective, meaningful, and scalable. However, researchers have observed a recurrent pattern in the expectations and outcomes: when a new [digital innovation](https://www.sciencedirect.com/topics/social-sciences/digital-innovation) enters the educational realm, initially, it draws overwhelming interest and enthusiasm about its potential to transform instructional practices ( [Cuban, 1986](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib27); [Reiser, 2001](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib80)). Yet, the positive effects of digital innovations on student outcomes are often less than anticipated. A meta-analysis examining the effectiveness of [educational technologies](https://www.sciencedirect.com/topics/social-sciences/educational-technology) for enhancing mathematics achievement in K-12 classrooms revealed that the use of technology generally produced positive but modest effects on learning outcomes (effect size = +0.15) compared to traditional teaching methods ( [Cheung & Slavin, 2013](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib20)). A more recent review of 126 rigorous studies on technology-based education interventions showed mixed results ( [J-PAL Evidence Review, 2019](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib50)). Specifically, initiatives that merely expand access to computers and the Internet have generally not improved students’ grades and test scores, but those utilizing educational software for [personalized learning](https://www.sciencedirect.com/topics/social-sciences/personalized-learning) significantly enhance outcomes. These findings imply that \_how\_ technology is used could be more influential than \_what\_ technology is used, underscoring the crucial role teachers play for integrating technology into education ( [Crawford et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib25); [OECD, 2015](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib70)).
+Our study situates the above argument within the context of generative artificial intelligence (GenAI), a subset of AI that utilizes deep learning techniques to identify patterns in massive data; this enables it to generate new or novel outputs in the form of text, images, audios, or videos based on the prompts it receives ( [Chan & Colloton, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib18); [IBM, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib49)). For instance, [large language models](https://www.sciencedirect.com/topics/social-sciences/large-language-model), a type of generative AI, produce human-like text based on patterns learned from their training data. GenAI has captivated society's attention since the launch of ChatGPT in 2022. Unlike earlier AI models operated using computational language, GenAI applications (e.g., ChatGPT, Gemini, DALL-E) enable seamless communication in human languages (i.e., \_social\_ nature) and can handle cognitive tasks that have traditionally depended on [human intelligence](https://www.sciencedirect.com/topics/social-sciences/human-intelligence) (i.e., \_generative\_ attribute), such as content generation, writing assistance, multimedia creation, and problem-solving ( [Mishra et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib63)). Leveraging its powerful capabilities, GenAI is poised to significantly transform the landscape of teaching and learning. For instance, GenAI can improve [educational effectiveness](https://www.sciencedirect.com/topics/social-sciences/educational-effectiveness) and efficiency by tailoring educational experiences to individual needs ( [Ji et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib51)), assisting teachers in content creation ( [Dijkstra et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib32)), promoting higher-order and critical thinking ( [Abdelghani et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib1)), and utilizing large datasets for system improvements ( [Tsai et al., 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib91)). However, challenges such as monitoring biases in GenAI systems, ensuring its ethical use, and avoiding overreliance on it are also ever present ( [Celik et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib17); [Lambert & Stevens, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib54); [Pham & Sampson, 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib78)).
+Considering both the powerful capabilities and potential risks of GenAI, the [U.S. Department of Education (2023)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib92) has advocated the concept of “keeping humans in the loop.” This emphasizes the importance of teachers' proactive involvement in utilizing and managing the use of GenAI in education, including providing feedback on its design and exercising agency in selecting and evaluating the use of these technologies. Aligned with this advocacy, an emerging research trend has focused on developing teachers’ knowledge and skills for integrating GenAI into education, with most studies conducted in intervention settings. For instance, by implementing the “Five S″ prompting framework, [Tassoti (2024)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib87) provided GenAI training to 23 preservice chemistry teachers and subsequently examined the evolution of their prompts and their satisfaction with GenAI-generated responses. Another study reported the results of a 60-hour GenAI development program for in-service teachers ( [Kong & Yang, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib53)). In this study, teachers were presented with cases illustrating the application of a human-centered teaching and learning framework aimed at facilitating their understanding of GenAI concepts and encouraging integration into their teaching practices. Although teachers participating in these interventions generally developed their understanding and implementation of GenAI, the training often adopts top-down approaches detached from the actual school context and everyday teaching practices, which results in a gap between research and practice.
+To better prepare teachers for navigating the evolving GenAI landscape, this study adopts a bottom-up approach by examining their preparedness, practices, and barriers encountered for GenAI integration in their daily contexts. Our findings seek to inform a systematic approach in supporting teachers’ GenAI integration, considering their existing experience as well as personal and contextual factors. The research questions are as follows:
+- 1)
+What are K-12 teachers' levels of preparedness and their initiatives in learning and exploring GenAI for educational purposes?
+- 2)
+How, if at all, do K-12 teachers integrate GenAI into their daily practices?
+- 3)
+What barriers do K-12 teachers perceive for integrating GenAI into education?
+## 2\. Literature review
+### 2.1. K-12 teachers’ preparedness of AI integration
+In recent years, the growing release of AI policies for K-12 education has highlighted the critical need for teachers to be prepared for AI integration. At the global level, UNESCO proposed an AI Competency Framework for Teachers, outlining the essential knowledge, skills, and values teachers need to develop for integrating AI effectively and ethically into their practices ( [Miao & Cukurova, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib61)). The framework identified five key dimensions of AI competencies: a human-centered mindset, ethics of AI, AI foundations and applications, AI pedagogy, and AI for professional learning. In the U.S., federal initiatives emphasize promoting AI education and workforce development ( [Owoeye, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib74)). As of September 2024, 24 state departments of education have published AI guidance for K-12 schools, demonstrating a growing commitment to preparing educators for the opportunities and challenges of AI in education ( [TeachAI, n.d.](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib88)).
+In K-12 education, teachers' ability to effectively integrate AI is crucial for aligning broader policies with local educational needs ( [Chiu, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib21); [Dai et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib29)). This requires a high level of preparedness as teachers act as agents of change in designing inclusive AI curricula that address unique local challenges while mediating external influences ( [Dai et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib29)). A human-centered mindset in applying AI tools is emphasized for supporting differentiated instruction and meeting diverse pedagogical needs ( [Ayyildiz & Yilmaz, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib11); [Kong & Yang, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib53); [Nazaretsky et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib68)). In essence, K-12 teachers’ preparedness for AI integration is vital as it equips them with the competencies needed to oversee and contextualize AI applications across various school levels, curriculum settings, and problem-solving tasks.
+Despite these pressing needs, educators across various educational settings often remain unprepared for effective AI integration. A survey by [Barrett and Pack (2023)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib13) revealed that 95.6% of university educators reported having received no training on the use of AI in education. Similarly, [Sanusi et al.’s (2023)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib83) review highlighted that while successful integration of AI-related topics in K-12 teaching depends on proper teacher preparation, research on professional training is lacking. Additionally, most of the limited studies available have employed a top-down, researcher-led approach to [professional development](https://www.sciencedirect.com/topics/social-sciences/professional-development) ( [Nazaretsky et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib68); [Park et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib76)). For example, [Park et al. (2023)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib76) piloted an AI-integrated science lesson package designed by researchers with three secondary teachers to enhance the fidelity of the materials and their implementation. In contrast, several studies have provided teachers with opportunities to co-design lessons tailored to their local teaching contexts ( [Dai et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib29); [Lin et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib58)). For instance, [Dai et al. (2022)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib29) collaborated with 23 elementary computer science teachers to co-construct an AI curriculum and explore how teachers adapt external influences to meet the needs of their schools and classrooms.
+Teachers' limited preparedness has also led researchers to advocate for a range of AI educational initiatives tailored to support teachers' AI integration in key areas, such as curriculum development, technical applications, and pedagogical integration ( [An et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib8); [Asunda et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib9); [Chiu, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib21); [Li et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib56); [Nazaretsky et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib68)). For instance, [Chiu (2021)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib21) proposed a holistic approach to guiding teachers how to design AI curriculum for K-12 education, encompassing four key aspects: content, product, process, and praxis. Noting considerable gaps in teacher preparation and curriculum alignment, [Asunda et al. (2023)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib9) underscored the importance of preparing K-12 STEM educators with foundational AI concepts, computational thinking, and machine learning pedagogy. Additionally, An et al. (2023) found that professional development programs focusing on the usability of AI applications in teaching can enhance K-12 English as a Foreign Language (EFL) teachers’ behavioral intention to integrate AI into their instruction.
+### 2.2. K-12 teachers’ AI practices
+In response to the growing demand in preparing K-12 teachers for AI integration, empirical studies have explored teachers' experiences applying AI in intervention or non-intervention settings to gain insights into their current conditions and enhance the preparation efforts. Using the techno-activities framework ( [Hughes et al., 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib102)), K-12 teachers’ AI integration practices can be broadly categorized into teacher and student use.
+From the teacher-use perspective, AI tools are often utilized to support lesson preparation and assessment ( [Duan & Zhao, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib35); [Kong & Yang, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib53); [Lin et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib58); [Nazaretsky et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib68)). For example, [Nazaretsky et al. (2022)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib68) introduced an AI grading tool to six high school biology teachers in Israel, providing them with hands-on experience in using AI-generated feedback to improve the instruction. [Duan and Zhao (2024)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib35) found that high school teachers who participated in AI workshops were able to integrate AI tools to create tailored [learning experiences](https://www.sciencedirect.com/topics/social-sciences/learning-experience) with differentiated resources and grade multiple-choice assessments. However, existing studies have underexplored AI integration into classroom teaching or its use for communication with students and parents. While efforts are being made to involve K-12 teachers in collaborating with researchers on curriculum design and interventions ( [Dai et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib29); [Tang et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib86)), these studies remain limited. For instance, [Tang et al. (2024)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib86) established a partnership between the research team and a group of Australian teachers to explore and address localized issues related to the use of GenAI in their educational environments.
+From the student-use perspective, numerous intervention studies have focused on enhancing student engagement and motivation by creating personalized and interactive AI learning environments. However, in these studies, teachers’ roles are often negligible or largely supportive ( [Adeyele & Ramnarain, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib3); [Dieker et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib31); [Hidayat, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib45)). For example, [Dieker et al. (2024)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib31) developed an AI agent to support elementary students in learning coding, communication, and self-regulation skills. During the initial phases, the research team led and delivered the project, while teachers were recruited later and provided with professional development to ensure effective implementation. In addition to [STEM education](https://www.sciencedirect.com/topics/social-sciences/stem-education), [Hidayat (2024)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib45) designed an AI-based personalized reading platform to enhance reading comprehension among senior high school students in Indonesia. The intervention demonstrated that the research team provided training to ensure students could fully engage with the platform and offered ongoing support throughout the study, without involving teachers.
+In contrast to the intervention studies discussed above, AI integration into teachers’ daily practices presents a different picture. A survey by [Collie and Martin (2024)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib23) investigating 339 K-12 teachers in Australia found that less than half of respondents used GenAI for teaching-related tasks, with only 19% integrated it into student learning activities. Similarly, only 18% of U.S. K-12 teachers reported using AI through virtual learning platforms, adaptive learning systems, and chatbots on a weekly basis, while another 15% had tried AI at least once ( [Diliberti et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib33)). [Moorhouse (2024)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib65) also reported comparable findings in a study of first-year in-service English teachers in [Hong Kong](https://www.sciencedirect.com/topics/social-sciences/hong-kong), showing that GenAI tools were primarily utilized outside the classroom for lesson planning and material preparation, rather than being incorporated into direct classroom activities with students.
+Additionally, research on K-12 teachers' AI integration remains limited compared to studies in higher education, which often explore a wide range of instructional applications, such as personalized tutoring, text simplification, assessment support, and fostering critical thinking ( [Mohebi, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib64); [van den Berg, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib93)). In the K-12 context, however, AI use tends to be predominantly machine-centered, as exemplified by intelligent tutoring systems (ITS). This approach highlights teachers’ reliance on these platforms, where students are positioned as passive learners, responding to the self-paced, adaptable ITS environments ( [Díaz & Nussbaum, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib30); [Velander et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib94)). The machine-centered pedagogical approach may be influenced by the developmental levels of K-12 students, who often require more guided and structured learning with technology. Established patterns of technology use in K-12 classrooms, where technology is often used to support teacher-directed instruction or deliver content in a controlled manner ( [Cuban, 1986](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib27), [2018](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib28)), could reinforce this approach.
+### 2.3. K-12 teachers’ barriers for AI integration
+Understanding the challenges K-12 teachers encounter when integrating technology into the classroom is crucial for developing effective solutions. According to Ertmer's typology (1999), two types of barriers impact teachers' technology integration: first- and second-order barriers. First-order barriers are external limitations characterized by incremental and institutional factors, such as equipment, resources, training, policies, time, and support. For example, a study conducted in Ghana indicates that teachers have fewer opportunities to participate in technology professional development programs, which discourages them from integrating technology into instruction ( [Abedi & Ackah-Jnr, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib2)). Conversely, second-order barriers are internal factors and include teacher beliefs, concerns, attitudes, competencies, and confidence. For instance, [Wozney et al. (2006)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib100) revealed that teachers' expectancy of success and their perceived value of technology use significantly contributed to differentiating levels of computer use among teachers.
+Prior to the advent of GenAI, the impact of first-order barriers on teachers' technology use had been significantly diminishing in many countries (including the U.S.) owing to the widespread access to technology and improved support systems in schools ( [Hamutoglu, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib43); [Ottenbreit-Leftwich et al., 2018](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib72)). Consequently, research efforts have shifted to focus on investigating second-order barriers, with teacher beliefs emerging as the key factor influencing technology integration ( [Ertmer et al., 2012](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib39); [Wang & Cheng, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib96)). In particular, teachers’ \_pedagogical beliefs\_ play a critical role in technology-supported instructional practices ( [Ertmer et al., 2012](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib39); [Ottenbreit-Leftwich et al., 2010](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib71)). Pedagogical beliefs refer to the convictions teachers hold about the teaching and learning process, which influence how they analyze, plan, and implement instruction ( [Liu, 2011](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib59); [Pajares, 1992](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib75)). These beliefs are commonly associated with teacher-centered (behaviorist) belief and learner-centered (constructivist) orientations. Teachers with strong constructivist pedagogical belief are more likely to use technology in the classroom than teachers with a traditional pedagogical belief ( [Cope & Ward, 2002](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib24); [Ertmer et al., 2012](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib39)).
+More recently, teachers’ \_technology value beliefs\_ have been identified as another influential second-order barrier to technology integration ( [Backfisch et al., 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib12); [Vongkulluksn et al., 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib95)). Technology value beliefs refer to the principles and values that teachers hold regarding the use, impact, and potential of technology in education ( [Watson, 2006](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib99)). In other words, the more valuable teachers perceive a technological approach or digital tool to be in achieving their goals, the more likely they are to integrate it. Teachers will not invest time and effort in learning and integrating a specific technology into their instructional practices if they do not perceive its value ( [Hughes, 2005](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib48); [Zhao & Cziko, 2001](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib101)). Conversely, if teachers perceive value in using technology to achieve specific instructional purposes, they are more likely to adopt it even when barriers exist. For instance, despite their dissatisfaction with the available infrastructure, [Alberola-Mulet et al. (2021)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib6) found that 91% of participating primary education teachers positively valued the integration of digital educational resources (DER) into the classroom, believing that DER could motivate student learning by improving the quality of teaching. Similarly, [Collie and Martin (2024)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib23) reported that teachers who value GenAI are more likely to implement this technology in both their teaching and learning.
+The relationships between first- and second-order barriers and teachers' technology integration are nuanced and complex ( [Ertmer, 1999](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib37); [Schmitz et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib84)). For example, despite strong internal enabling factors, [Ottenbreit-Leftwich et al.’s (2018)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib72) longitudinal investigation of four beginning teachers indicated that school resources and environment had a strong impact on their technology practices. While teachers' pedagogical beliefs are influential factors in technology use ( [Lim & Chai, 2008](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib57); [Sang et al., 2010](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib82)), teachers with learner-centered belief often integrate technology in fairly traditional ways, such as lecturing with PowerPoint ( [Liu, 2011](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib59)). The misalignment between teachers' pedagogical beliefs and practices is often mediated by first-order barriers such as high-stake exam requirements, time constraints, and institutional expectations ( [Ertmer et al., 2001](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib38); [Liu, 2011](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib59)). These inconsistencies imply that first- and second-order barriers may coexist and interconnect ( [Tosuntaş et al., 2019](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib89); [Wang & Cheng, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib96)). An investigation into the barriers to integrating AI in education in Hong Kong K-12 schools showed that both first- and second-order barriers existed and appeared to be interconnected, although the types of barriers and connections varied between the cases ( [Wang & Cheng, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib96)).
+Overall, integrating GenAI in K-12 education may present barriers that are both similar to and distinct from those encountered in earlier technological innovations. As proposed by [Mishra et al. (2023)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib63), GenAI's ability to enable seamless communication in human languages and handle cognitive tasks that traditionally depended on [human intelligence](https://www.sciencedirect.com/topics/social-sciences/human-intelligence) has differentiated it from other digital technologies. These attributes can enhance [information processing](https://www.sciencedirect.com/topics/social-sciences/information-processing) and cognitive functions but also introduce risks such as [plagiarism](https://www.sciencedirect.com/topics/social-sciences/plagiarism), equity and access issues, unethical use, and overreliance on the GenAI tools ( [Alavi et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib5); [Farrelly & Baker, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib40)). This highlights the potential for new dimensions of first- or second-order barriers. Beyond identifying new dimensions, our study explores the interrelationships between first- and second-order barriers, examining how they affect one another and identifying which barriers are most substantial and require immediate intervention to promote teachers' effective and meaningful GenAI integration.
+In sum, as the demand for K-12 teachers to integrate AI grows alongside the challenges posed by GenAI innovations, the bottom-up exploration of teachers' existing conditions for GenAI integration is a pressing need. Numerous reviews and studies have highlighted that most research on K-12 AI integration and efforts to build teachers’ AI readiness have been concentrated in Asia ( [An et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib8); [Chiu, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib21); [Lee & Kwon, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib55)). This study aims to fill this gap by examining the preparedness, practices, and challenges faced by K-12 teachers in the U.S., with the goal of informing targeted professional development and other initiatives to support effective GenAI integration in education.
+## 3\. Methods
+This study employed a cross-sectional [survey research](https://www.sciencedirect.com/topics/social-sciences/survey-research) method ( [Check & Schutt, 2012](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib19)) to explore K-12 teachers' status of GenAI integration in Idaho, U.S., where the predominantly rural setting presents unique challenges and opportunities for integrating technology in education. The state's vast geographical expanse, including many [small towns](https://www.sciencedirect.com/topics/social-sciences/small-town) and remote areas, often limits access to technological resources and infrastructure. These rural conditions impact how teachers prepare for and implement new technologies ( [Wargo & Hoke, 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib97)). Currently, Idaho schools are still in the early stages of developing comprehensive technology policies and guidelines, particularly concerning GenAI. Without state-level directives, individual schools and districts must navigate these challenges independently. This underscores the need to understand the current state of GenAI preparation and implementation and the specific barriers faced by Idaho's teachers.
+### 3.1. Survey development and data collection
+To address our research questions, we conducted an online search to identify survey instruments to design a questionnaire investigating teachers' preparedness, practices, and barriers to integrating GenAI into education. The design of the survey questions was informed by and adapted from the relevant instruments developed by [Sebesta and Davis (2023)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib85) and [Hallowell (2023)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib42), which focus on educators' AI-related perceptions and practices. Closed-ended questions were created to access participants' preparation levels, learning initiatives, and perceived barriers to GenAI integration. Preparation levels were measured using a single-answer Likert scale (1 = \_Not at all prepared\_ to 5 = \_Well prepared\_). For learning initiatives and perceived barriers, participants could select multiple options and provide additional typed responses if the predefined choices did not fully represent their situations. Open-ended questions were employed to capture participants’ descriptions of their current practices and future plans for integrating GenAI in education. A copy of the survey questions was included in [Appendix A](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#appsec1).
+In survey research, validity and reliability are essential concepts typically associated with instruments designed to measure specific theoretical constructs. However, since this an exploratory study and our closed-ended survey questions were not derived from or tied to any preexisting instruments based on theoretical constructs, discussing the reliability of our survey instrument is not applicable ( [Kimberlin & Winterstein, 2008](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib52)). To ensure that our survey was well-crafted and adequately addressed our research questions (validity), we conducted expert reviews following guidelines from [Aithal and Aithal (2020)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib4) and [Dillman et al. (2014)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib34). The first author, a researcher and teacher educator with expertise in K-12 technology integration, developed and evaluated the survey questions for content alignment. Additionally, we consulted two external reviewers—the Director of Teacher Education and the Director of Field Placement in the [College of Education](https://www.sciencedirect.com/topics/social-sciences/teacher-education-schools), Health and [Human Sciences](https://www.sciencedirect.com/topics/social-sciences/human-sciences) at the University of Idaho—who are familiar with the target population. We provided external reviewers with a copy of the survey and asked them to review the questions. We then interviewed them to gather feedback on the clarity and relevance of the questions, potential comprehension issues for K-12 teachers in the target population, recommended changes, and estimated time required for thoughtful survey completion. The feedback analysis revealed no major issues, with the survey questions considered clear, comprehensive, and aligned with the study objectives. Based on their input, minor adjustments were made, including restructuring and rephrasing certain questions, to enhance readability and comprehension. Additionally, a pilot study involving three K-12 teachers yielded satisfactory results.
+The study was approved by the University of Idaho Human Research Protection Board (IRB#026288). Using a snowball sampling method ( [Goodman, 1961](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib41); [Heckathorn, 2011](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib44)), we initially distributed the survey invitation at a statewide [educational technology](https://www.sciencedirect.com/topics/social-sciences/educational-technology) conference in February 2024, inviting K-12 teacher attendees to participate and refer to other potential respondents. In March 2024, we leveraged our colleagues’ professional networks to email survey invitations to all principals in K-12 public schools across Idaho, asking them to participate and forward the invitation to their fellow teachers. To boost response rates, a reminder email was sent to principals before the spring semester ended in May 2024. Additionally, we shared the survey invitation with K-12 teachers enrolled in our graduate classes. Data collection concluded in September 2024, and responses from 89 teachers who completed at least 70% of the survey were included in the analysis.
+While snowball sampling can introduce bias owing to its reliance on personal connections or professional networks for recruiting participants, it was deemed appropriate for this study given the challenges in accessing teachers across Idaho's geographically and professionally diverse population. To mitigate this bias, we actively sought connections to reach teachers from diverse backgrounds and school settings. Specifically, we highlighted the importance of gathering insights from teachers with varying levels of technology integration experience in the survey invitation email sent to teachers through their principals. Additionally, we incentivized participation by offering a 50% chance to win a $25 gift card in a lucky draw.
+### 3.2. Participants
+Overall, 89 survey responses were collected, with participants' backgrounds presented in [Table 1](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#tbl1). Most participants are White, female teachers serving in rural elementary or high schools. This distribution closely mirrors the demographics of K-12 teachers in Idaho, where 93.4% are White ( [NCES, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib67)), and it aligns with national trends where female teachers contribute to most of the K-12 teaching workforce ( [NCES, 2018](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib66)). Furthermore, approximately 54% (393 out of 728) of the schools in Idaho are in rural areas ( [Our Kids, Idaho’s Future Final Report, 2019](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib73)). The sample also sufficiently includes a wide range of K-12 teaching experiences, from novice to experienced teachers. In terms of subject matter, 60 teachers taught STEM-related subjects (i.e., science, mathematics, computer science, career and technical education, and STEM), followed by 32 language teachers and 22 teachers with elementary specialization.
+Table 1. Participants’ background ( \_N\_ = 89).
+| Demographic Variables | Frequency | Percentage |
+| --- | --- | --- |
+| Gender | Male | 20 | 22.5 |
+| Female | 55 | 61.8 |
+| Prefer not to say | 2 | 2.2 |
+| Missing | 12 | 13.5 |
+| Total | 89 | 100.0 |
+| Ethnicity | White/Caucasian | 72 | 80.9 |
+| Hispanic/Latino/Latina/Latinx | 2 | 2.2 |
+| Black or African American | 1 | 1.1 |
+| Others | 2 | 2.2 |
+| Missing | 12 | 13.5 |
+| Total | 89 | 100.0 |
+| Location | Rural | 61 | 68.5 |
+| Suburban | 15 | 16.9 |
+| Urban | 2 | 2.2 |
+| Missing | 11 | 12.4 |
+| Total | 89 | 100.0 |
+| K-12 Teaching Experience | 0–3 years | 12 | 13.5 |
+| 4–10 years | 21 | 23.6 |
+| 11–20 years | 21 | 23.6 |
+| 21–30 years | 20 | 22.5 |
+| More than 30 years | 4 | 4.5 |
+| Missing | 11 | 12.4 |
+| Total | 89 | 100.0 |
+| School Level | Elementary school | 27 | 30.3 |
+| Middle school | 15 | 16.9 |
+| High school | 30 | 33.7 |
+| Others (across grade levels) | 6 | 6.7 |
+| Missing | 11 | 12.4 |
+| Total | 89 | 100.0 |
+| Subject (may include multiple responses) | Language | 32 (31 in English) | – |
+| Science | 19 | – |
+| Mathematics | 23 | – |
+| Visual and performing arts | 4 | – |
+| Physical and health education | 6 | – |
+| Social studies | 15 | – |
+| Computer science | 8 | – |
+| Career and technical education | 9 | – |
+| Elementary specialization | 22 | – |
+| Others (i.e., STEM, Socioemotional Learning, Study Skills/Strategies) | 3 | – |
+### 3.3. Data analysis
+For RQ1, the mean, standard deviation, frequencies, and percentages were computed to determine teachers' GenAI preparation levels. Additionally, frequencies and percentages were computed to understand teachers' initiatives across three stages of learning and exploring GenAI for educational purposes. The three stages are “not interested at all,” “would like to learn but don't know how to start,” and “have adopted one or more strategies for learning GenAI.” Since participants could select multiple options in the questionnaire to indicate their GenAI learning strategies, we included an additional layer of analysis to count the options selected for each stage, in addition to calculating the number of participants at each stage.
+For RQ2, we applied a combination of deductive and inductive approaches ( [Bingham, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib14)) to code teachers’ open-ended responses regarding their current GenAI practices and future plans. The coding process begun deductively using the techno-activities framework ( [Hughes et al., 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib102)). The first and second authors independently coded the data to assess whether the targeted users were teachers or students, along with their respective categories. Then, the authors met to review the coded responses, discussing areas of similarity and difference. This discussion also included an inductive process to identify and develop themes for responses that did not fit within the predefined framework. Following this, we independently reviewed and refined the coding of all responses, including clarifying definitions for the emerging themes. Through multiple rounds of discussion and refinement, we resolved inter-rater discrepancies and fine-tuned the themes until 100% consensus was achieved.
+[Table 2](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#tbl2) summarizes the categories and their definitions that inform our coding process, along with an example coded for each category. Specifically, the coding category “communicating with students and parents” under “Teacher Uses” in the predefined framework was revised to “administrative tasks” to include other GenAI-supported administrative routines performed by teachers. Additionally, “grant writing” was introduced as a new category under “Teacher Uses.” For “Student Uses,” a new category was created to capture GenAI-related \_content\_ (i.e., AI literacy) that students are expected to learn, in addition to using it as a \_tool\_ to support their learning.
+Table 2. Categories, definitions, and coding examples for target users of GenAI integration.
+| Category | Definition | Coding Example |
+| --- | --- | --- |
+| \_Teacher Uses\_ |
+| - •  
+ Designing and preparing lessons | Teachers use GenAI to help them prepare in advance of a class lesson. | I use it to come up with ideas for lessons and activities for my classes. (Teacher 35) |
+| - •  
+ Teaching lessons | Teachers use GenAI to support teaching in the moment. | I use it to translate and simplify information for special education kids in class. (Teacher 24) |
+| - •  
+ Grading and assessment | Teachers use GenAI to support grading and developing assessments. | We use several programs including ChatGPT for general student feedback on writing assignments. (Teacher 1) |
+| - •  
+ Administrative tasks | Teachers use GenAI to carry out school's administrative requirements. | Spreadsheets … paperwork … (Teacher 4) |
+| - •  
+ Grant writing | Teachers use GenAI for grant writing. | Grant writing - AI sounds a lot more articulate than myself. It also gives me thoughts on how to speak regarding situations. (Teacher 13) |
+| |
+| \_Student Uses\_ |
+| - •  
+ Passive hands-off | Learner hands-off use of GenAI that aims to support instructional moves and learner engagement with content, such as provided students with GenAI created information. | NA |
+| - •  
+ Passive hands-on | Learner hands-on use of GenAI to maximize exposure to content and/or to recall/practice facts and procedures, such as completing assignments via intelligent tutoring system. | NA |
+| - •  
+ Active hands-on: participation | Authentic, learner hands-on, learner-driven instructional activities and environments, such as having students exploring learning topics via GenAI tools. | I have had students use it for light research. (Teacher 78) |
+| - •  
+ Active hands-on: creation | Learner hands-on activities that maximize active, deep learning, such as cognitively complex tasks which necessitate creativity, critical thinking, problem solving, or collaboration with GenAI; but maintaining learner agency. | I plan to help students use it as a tool to enhance their writing process. (Teacher 10) |
+| - •  
+ Learning of AI literacy | Lessons created to develop students' GenAI knowledge, including promoting responsible and ethical use of GenAI. | I teach a news literacy unit, and I would like to incorporate lessons on the ethical use of AI into this unit. (Teacher 59) |
+For RQ3, teachers were provided with predefined choices to identify barriers they encountered for integrating GenAI and had the option to describe additional challenges. First, we calculated the frequencies of the predefined choices and coded teachers' open-ended responses as either aligning with existing categories (predefined choices) or representing new types of barriers. We then synthesized these initial categories into broader groups based on [Ertmer's (1999)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib37) framework of first- and second-order barriers, as described in Section [2.3](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#sec2.3). Specifically, first-order barriers refer to external factors, such as access to technology or institutional support, while second-order barriers are internal factors, including teachers' beliefs or attitudes. As “technology value beliefs” and “pedagogical beliefs” under second-order barriers involve abstract constructs, we developed themes to illustrate how these beliefs manifest concretely in our study. Finally, we calculated the frequencies and corresponding percentages for each category based on the finalized themes.
+## 4\. Results
+### 4.1. K-12 teachers’ preparedness of GenAI integration
+Regarding the preparation levels, teachers generally perceived themselves as underprepared for integrating GenAI into education (x‾ = 2.06; \_s\_ = 1.22). As shown in [Fig. 1](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#fig1), most teachers (54, 61%) responded to the single-answer Likert scale question by reporting that they felt either “not at all prepared” or “slightly prepared,” with only 10 teachers (11%) indicating they felt “prepared” or “well prepared” for GenAI integration. Additionally, seven teachers (8%) did not indicate their level of preparedness for using GenAI in education.
+![Fig. 1](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25000037-gr1.jpg)
+1. [Download: Download high-res image (209KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25000037-gr1\_lrg.jpg "Download high-res image (209KB)")
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25000037-gr1.jpg "Download full-size image")
+Fig. 1. Teachers' preparation levels for GenAI integration.
+Regarding their initiatives in learning and exploring GenAI ( [Table 3](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#tbl3)), 79 teachers provided responses to the multiple-answer question. Specifically, 19 teachers (21.3%) indicated that they were not interested in learning about GenAI at all, while 10 (11.2%) did not respond to this question. For the 32 teachers (36.0%) who stated that they wanted to learn about GenAI but did not know how to start, nine of them indicated their learning efforts mainly through attending AI presentations/webinars. For the remaining 28 teachers (31.5%) who adopted one or more strategies for learning about GenAI, more than half of their responses (35 out of 60) showed that these they were still in the early stages of GenAI learning, engaging in activities such as discussing GenAI topics with colleagues, reading articles, attending webinars/presentations on GenAI, and/or reviewing GenAI guidance and resources for education.
+Table 3. Teachers’ initiatives in learning and exploring GenAI.
+| Stage and Strategies | Number of Teachers | Percentage (%) |
+| --- | --- | --- |
+| Teachers who are not interested in learning GenAI | 19 | 21.3 |
+| Teachers who would like to but don't know how to start | 32 | 36.0 |
+| - •  
+ Discuss with colleagues about GenAI in education (3 responses) |
+| - •  
+ Read articles and/or attend webinars/presentations on the topic of GenAI (5 responses) |
+| - •  
+ Review GenAI guidance and resources for education (1 response) |
+| Teachers who adopted one or more strategies for learning and/or integrating GenAI | 28 | 31.5 |
+| - •  
+ Discuss with colleagues about GenAI in education (18 responses) |
+| - •  
+ Read articles and/or attend webinars/presentations on the topic of GenAI (12 responses) |
+| - •  
+ Review GenAI guidance and resources for education (5 responses) |
+| - •  
+ Join GenAI educational group(s) on social media (5 responses) |
+| - •  
+ Participate in GenAI professional development (8 responses) |
+| - •  
+ Explore GenAI tools to support my practice (12 responses) |
+| Teachers who did not responded | 10 | 11.2 |
+| | 89 | 100.0 |
+### 4.2. K-12 teachers’ GenAI-supported educational practices
+Based on teachers' responses to open-ened questions about their current practices and future plans, our findings reveal the diverse yet predominantly teacher-centered applications of GenAI in education ( [Table 4](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#tbl4)). Additionally, coding examples provided in [Table 2](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#tbl2) offer insight into how teachers integrated GenAI into their daily usage.
+Table 4. Teachers’ current practices and future plans of integrating GenAI.
+| Type of Usage | Number of Responses (%) |
+| --- | --- |
+| Current Practice | Future Plan |
+| --- | --- |
+| \_Teacher Uses\_ |
+| Designing and preparing lessons | 26 (44%) | 10 (37%) |
+| Teaching lessons | 5 (8%) | 3 (11%) |
+| Grading and assessment | 13 (22%) | 4 (15%) |
+| Administrative tasks | 11 (18%) | 2 (7%) |
+| Grant writing | 0 (0%) | 1 (4%) |
+| | 55 (92%) | 20 (74%) |
+| |
+| \_Student Uses\_ |
+| Active hands-on: participation (e.g., conduct research) | 2 (3%) | 1 (4%) |
+| Active hands-on: creation (e.g., enhance writing process) | 3 (5%) | 2 (7%) |
+| Learning of AI literacy | 0 (0%) | 4 (15%) |
+| | 5 (8%) | 7 (26%) |
+| \*\*Total\*\* | \*\*60 (100%)\*\* | \*\*27 (100%)\*\* |
+Among the 89 participating teachers, only 39 reported that they currently use GenAI in their daily practices. Some teachers mentioned more than one approach to GenAI usage, which resulted in a total frequency of 60 responses ( [Table 4](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#tbl4)). For “Teacher uses,” the most common application was in designing and preparing lessons (26, 44%). Teachers indicated that GenAI supported them in generating lesson ideas, creating instructional activities, differentiating lessons for diverse groups of students, and sourcing relevant teaching materials. The second most frequent use was for grading and assessment (13, 22%), where teachers primarily relied on GenAI to create test questions. Administrative tasks accounted for 11 responses (18%), with teachers using GenAI to proofread texts, enhance communications with parents, and assist with tasks in productivity software such as Excel. The least common use of GenAI was for teaching lessons directly (5, 8%). In these cases, teachers leveraged GenAI to provide translations for students or instantly access information during classroom instruction. For future plans, the percentage of “Teacher Uses” decreased from 92% to 74% compared to current practices. However, a similar trend persisted, with teachers continuing with an inclination to integrate GenAI for lesson design and preparation (10, 37%).
+Overall, teacher-reported “Student Uses” of GenAI were limited. When comparing current practices to future plans, we observed a light increase in percentage, from 8% to 26%. This increase was primarily driven by four responses (15%) indicating plans for teaching AI literacy to enhance students’ responsible and ethical use of GenAI. No responses were coded under the “Student Uses” categories of passive hands-off or passive hands-on learning.
+### 4.3. K-12 teachers’ barriers for GenAI integration
+As shown in [Table 5](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#tbl5), teachers' responses to both closed- and open-ended questions revealed the significance of both first- and second-order barriers to GenAI integration, with second-order barriers being perceived as more influential (i.e., 58% versus 42%). The major barriers reported include technology value beliefs (63, 17%), followed by pedagogical beliefs (51, 14%), concerns about unethical use of GenAI (50, 14%), and lack of policies, goals, and strategies (46, 13%). This finding slightly differs from most previous research, which has often identified teachers’ pedagogical beliefs as the predominant barrier to general technology integration.
+Table 5. Teachers’ perceived barriers to GenAI integration.
+| Barrier | Sub-count | Count | Percentage |
+| --- | --- | --- | --- |
+| \_First-order Barrier\_ |
+| Lack of policies, goals, and strategies | | 46 | 13% |
+| Lack of technology access (technology infrastructure, programs, or AI-empowered educational resources) | | 34 | 10% |
+| Lack of technical support | | 23 | 6% |
+| Lack of funding | | 19 | 5% |
+| Lack of leadership commitment and support | | 18 | 5% |
+| Lack of professional development or training | | 7 | 2% |
+| Time constraint to learn and apply GenAI | | 4 | 1% |
+| | | 151 | 42% |
+| |
+| \_Second-order barrier\_ |
+| Technology value beliefs | | 63 | 17% |
+| - •  
+ GenAI's inability to manage risks (e.g., algorithmic bias, data privacy and security) | 53 | | |
+| - •  
+ Unable to enhance learning, or benefits do not outweigh the risks | 7 | | |
+| - •  
+ Cause students to be overreliance | 3 | | |
+| Pedagogical beliefs | | 51 | 14% |
+| - •  
+ Human interaction is the core in education | 36 | | |
+| - •  
+ Young students need to develop basic, hands-on skills | 6 | | |
+| - •  
+ GenAI should be taught in technology-related subjects (e.g., programming) | 5 | | |
+| - •  
+ GenAI use misaligns with pedagogical aims | 4 | | |
+| Concern about unethical use of GenAI | | 50 | 14% |
+| Teacher awareness and/or attitudes | | 29 | 8% |
+| Lack of knowledge and skills | | 18 | 5% |
+| | | 211 | 58% |
+| \*\*Total\*\* | | \*\*363\*\* | \*\*100%\*\* |
+Under the barrier of technology value beliefs, teachers expressed doubts about the ability of GenAI systems to identify, assess, and mitigate potential negative outcomes, such algorithmic bias, data privacy, and security risks. Teacher 49 noted, “There can be many data breaches and security concerns within GenAI platforms.” Additionally, some teachers were not confident that the benefits of integrating GenAI into education would outweigh its risks or genuinely enhance learning. Concerns also arose about students potentially becoming over-reliant on GenAI. As Teacher 10 pondered, “If they always use ChatGPT to write in class, how will they know what to do when they are taking the ISAT (Idaho Standards Achievement Test)?”
+Regarding the barrier of pedagogical beliefs, most teachers expressed concerns that adopting GenAI could reduce or eliminate human interactions in teaching and learning. Some believed that integrating GenAI was inappropriate for teaching certain subjects or supporting [younger children's](https://www.sciencedirect.com/topics/social-sciences/toddlers) learning. For instance, Teacher 25 articulated, “I teach first grade where a lot of basics of human interaction and basics of learning are taught that cannot be taught with technology (GenAI).” Teacher 17 stated that he would only use GenAI for teaching specific subjects such as programming. Meanwhile, others stated that the GenAI integration does not align with their teaching aims. For instance, Teacher 76 said, “I don't need AI. I teach students skills that will never be taken over by AI.”
+Another second-order barrier identified was teachers' concern regarding the unethical use of GenAI, including issues such as [plagiarism](https://www.sciencedirect.com/topics/social-sciences/plagiarism) and cheating by students or even teacher themselves. For example, Teacher 15 shared, “Not using because I don't know how to use it responsibly.” Similarly, Teacher 3 elaborated, “If I catch my students using AI to do their work for them, then I give them a zero and have them do the assignment on their own. There is no [school policy](https://www.sciencedirect.com/topics/social-sciences/school-policy) officially, but most teachers do that.” This response also highlights the major first-order barrier reported by teachers: the lack of policies, goals, and strategies to guide the use of GenAI in education. As Teacher 48 articulated, “I have not encouraged student use or integrated it as a resource because my district has not given permission or guidance on doing so.”
+Regarding first-order barriers, teachers also reflected that they lacked necessary technology infrastructure, programs, or educational resources to support GenAI integration (31, 8%). Despite GenAI being recognized as a new wave of [technology innovation](https://www.sciencedirect.com/topics/social-sciences/technology-innovation), teachers were less likely to express a need for training or [professional development](https://www.sciencedirect.com/topics/social-sciences/professional-development) (8, 2%). This phenomenon may stem from the unique attributes of GenAI, which could lead teachers to believe that the same communication skills they use with humans are sufficient for interacting and collaborating with GenAI.
+## 5\. Discussion and implications
+### 5.1. K-12 teachers’ under-preparedness highlights an urgent need for GenAI training
+Overall, our results indicate that the participating teachers were generally underprepared for integrating GenAI into education, consistent with prior research ( [Barrett & Pack, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib13); [Sanusi et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib83)). Nearly 40% of teachers expressed an intention to learn about GenAI but were uncertain about where to begin. The primary self-directed learning strategies they employed (i.e., discussing GenAI with colleagues, reading articles, attending webinars, and reviewing educational resources and guidance) suggest that most are still in the early stages of GenAI readiness. This underscores the urgent need for systematic, targeted initiatives to develop teachers' competencies, enabling them to harness GenAI's transformative potential to fundamentally reshape teaching and learning. These initiatives should focus on developing teachers with the skills to promote students' higher-order thinking with GenAI while supporting them to optimize human–machine interactions to enhance student engagement and provide personalized support.
+Considering the distinctive and unique nature of GenAI compared to earlier AI models and other digital technologies, the current predominantly top-down research approaches and initiatives, with a focus on developing teachers' AI-related technological knowledge and skills, are valuable but insufficient ( [Kong & Yang, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib53)). Simply equipping teachers with AI knowledge and skills and training them to implement researcher-developed curriculum with fidelity may fall short of addressing local needs and the emerging challenges posed by the rapid advancements in GenAI. Emerging studies have suggested that collaborating with teachers to co-design lessons can provide opportunities for them to explore various GenAI tools, while fostering discussions on effective and responsible integration strategies for instruction ( [An et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib8); [Asunda et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib9); [Dai et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib29)). This approach can enhance teachers’ pedagogical competency with GenAI and boost their confidence in addressing novel challenges posed by GenAI.
+As most participating teachers in our study are located in rural areas shaped by Idaho's rugged geography and extensive mountain ranges, unique challenges arise for in-person professional development programs. Offering flexible, self-paced online courses could serve as an effective initial approach to introducing these teachers to GenAI ( [Petković et al., 2017](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib77); [RETCP, 2015](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib81)). With that in mind, training opportunities must ensure that teachers have reliable access to necessary technology, including computing devices, Internet connectivity, and relevant GenAI tools. This consideration aligns with the second major first-order barrier reported by teachers, highlighting a lack of technology infrastructure, programs, or AI-empowered educational resources to support their GenAI integration. As a notable number of teachers have shown reluctance to learn GenAI, offering professional development credits or certifications for completing GenAI training can incentivize their participation and help them develop essential understanding about GenAI ( [Cadero-Smith, 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib16); [Hill, 2015](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib46)).
+### 5.2. K-12 teachers as the primary users for GenAI integration
+Our findings indicate that teachers' under-preparedness and their introductory level of GenAI learning might be associated with fewer than half of them integrating GenAI into their practices. Unlike the widespread classroom integration patterns observed with general educational technologies ( [Cuban, 1986](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib27), [2018](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib28)), teachers in our study were more likely to use GenAI for out-of-classroom duties (i.e., lesson preparation, assessment, and administrative tasks) over real-time classroom implementation ( [Diliberti et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib33); [Moorhouse, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib65)). Teachers’ limited adoption of GenAI for daily classroom instruction, particularly in supporting student-centered activities, could be attributed to two key second-order barriers: technology value beliefs and pedagogical beliefs, as explained in section [5.3](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#sec5.3). Additionally, the cautious approach teachers articulated taking during the initial stages of GenAI integration may reflect their careful examination of its capabilities and limitations before incorporating it into instructional activities. This cautiousness is particularly evident in the absence of GenAI policies, goals, and implementation strategies, which our respondents reported as the most influential first-order barrier.
+While the prevailing literature on earlier AI models, such as ITS, has suggested that teachers' pedagogical approaches often position students as passive learners ( [Díaz & Nussbaum, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib30); [Velander et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib94)), our findings on teacher-reported student uses of GenAI—albeit limited—did not indicate passive usage. We attribute this difference largely to the unique \_generative\_ and \_social\_ nature of GenAI ( [Mishra et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib63)), which holds great potential for fostering students’ participation, creation, deep learning, and learner agency. These attributes enable students to collaborate and co-construct knowledge with GenAI, much like they would with their peers. Nevertheless, this potential also raises ethical concerns for teachers, particularly regarding the risk of students using GenAI for cheating or plagiarism, which they reflected as one of the major barriers in integrating GenAI. Teachers worried that, if not properly integrated, GenAI could inadvertently lead students to using it to provide direct answers, thereby bypassing independent and critical thinking.
+As research and implementation of GenAI in K-12 education remain in their early stages, guidance documents from global organizations such as UNESCO ( [Miao & Cukurova, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib61); [Miao & Shiohira, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib62)) and state agencies such as the [Oregon Department of Education (ODE, n.d.)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib69) and the [Washington Office of Superintendent of Public Instruction (OSPI, n.d.)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib98) offer valuable insights for fostering active, constructive student learning with GenAI. These resources highlight how teachers can leverage GenAI's potential to create engaging [learning experiences](https://www.sciencedirect.com/topics/social-sciences/learning-experience), support the development of research and analysis skills, encourage thoughtful questioning, and scaffold critical thinking. By providing clear direction and practical examples, these frameworks serve to guide the design and implementation of K-12 GenAI instructional practices that go beyond traditional methods and teacher-centered use, enabling meaningful student engagement with and learning about GenAI.
+### 5.3. Concerted efforts to overcome interconnected GenAI integration barriers
+Teachers' limited GenAI integration may be attributed to various first- and second-order barriers. At this early stage of GenAI integration, our results show that both orders of barriers play a substantial role in influencing teachers' adoption of GenAI. Specifically, teachers’ technology value beliefs, pedagogical beliefs, ethical considerations, and a lack of clear AI policies and guidance emerged as the major barriers.
+In the context of GenAI integration, teachers' technology value beliefs have emerged as the most influential (second-order) barrier, even when first-order barriers remain prominent. This result is consistent with recent research that identified a positive and direct relationship between teachers' technology value beliefs and their instructional practices ( [Alberola-Mulet et al., 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib6); [Collie & Martin, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib23); [Vongkulluksn et al., 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib95)). In other words, the more teachers perceive a technology or digital tool as valuable for educational purposes, the more likely they are to integrate it into their practice and vice versa. Specifically, teachers' reluctance to fully embrace GenAI integration often stems from concerns about how big data are collected and how outputs are generated, which may lead to issues such as algorithmic bias, data breaches, and data privacy issues. This underscores the importance of technology value beliefs as a crucial factor in our study ( [Chounta et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib22)). Consequently, teachers questioned the appropriateness and necessity of integrating GenAI into their instructional practices, especially to support students’ use ( [Hughes, 2005](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib48); [Zhao & Cziko, 2001](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib101)).
+[Ertmer et al. (2012)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib39) have indicated that second-order barriers, particularly pedagogical beliefs, significantly influence teachers' general technology integration once first-order barriers are largely eliminated; this assertion is well supported by ample research ( [Lim & Chai, 2008](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib57); [Sang et al., 2010](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib82)). Additionally, the relationship between teachers' pedagogical beliefs and their instructional use of technology is not always straightforward. For example, [Liu (2011)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib59) revealed that Taiwanese teachers tended to hold learner-centered belief but did not use technology to promote constructive learning because they were more likely to comply with external expectations and focus on student achievements. A literature review also underscores that teachers' pedagogical beliefs may not always align with their day-to-day technology practices, particularly when contextual factors such as high-stake exam requirements and time constraints take precedence ( [Buabeng-Andoh, 2012](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib15)). Therefore, the prevalence of first-order barriers reported in our study might have undermined the influence of teachers’ pedagogical beliefs on GenAI integration.
+Many teachers have also expressed concerns about the unethical use of GenAI, as revealed in earlier studies ( [Crompton et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib26); [Hill & Narine, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib47)). This concern represents a specific second-order barrier to GenAI integration. According to [Mishra et al. (2023)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib63), GenAI's \_generative\_ attribute allows it to produce spontaneous outputs or responses, despite the preset conditions. Its \_social\_ nature enables human–machine interactions, surpassing the functions of previous technologies such as social media and [digital learning](https://www.sciencedirect.com/topics/social-sciences/digital-education) tools, which mainly support human-to-human communication. Unlike other digital technologies that mainly serve as tools to enhance teaching and learning, GenAI's unique attributes—its generative capability and social nature—introduce both revolutionary potential and associated risks. Therefore, meaningful integration of GenAI necessitates a comprehensive understanding of its multifaceted aspects. This includes mastering its applications, grasping its underlying concepts, navigating its rapid advancements, and using it \_ethically\_ and \_responsibly\_ without compromising educational quality.
+Traditionally, first-order barriers to general technology integration have focused on challenges such as lack of technology access and insufficient professional development ( [Abedi & Ackah-Jnr, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib2); [Pittman & Gaines, 2015](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib79)). However, in this study, teachers identified the lack of AI-related policies, strategies, and guidance as the most substantial first-order barrier to GenAI integration, highlighting an urgent need for clear and informed policy frameworks. With the gradual release of AI guidance for K-12 education at the federal level and Idaho's state guidelines still under development ( [Merod, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib60); TeachAI, n.d.), the fact that teachers prioritize advocating clear and informed policies and guidance over addressing other first-order barriers is understandable. Additionally, [Dwyer and Laird (2024)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib36) reported that schools generally provided little guidance to teachers on responsible GenAI use, response to students' unethical use of GenAI, and detection of GenAI-generated work. Therefore, we infer that in the early stages of GenAI integration, clear direction and guidance beyond simply providing technology access and training are crucial.
+In conclusion, our study provides valuable insights for creating support systems and policymaking to facilitate GenAI integration, particularly within the context of Idaho's [education system](https://www.sciencedirect.com/topics/social-sciences/educational-organization) and the broader U.S. landscape. First, the findings imply that, in addition to developing teachers' GenAI knowledge and skills, professional development programs targeting their technology value beliefs and pedagogical beliefs are critical. This may involve understanding teachers' contextual needs, establishing research-practice partnerships to co-create contextually relevant AI-supported instruction and resources, and modelling best practices for GenAI integration for different grade levels and subject areas, especially in promoting student-centered learning. By doing so, we foster teachers' positive perceptions and experiences regarding GenAI's role and use in achieving their instructional goals. Second, teachers' concerns about the unethical use of GenAI underscore the importance of developing AI literacy for both teachers and students. Specifically, AI literacy should go beyond technical knowledge and skills, being grounded in well-defined rationales tailored to K-12 education, such as the six key AI literacy constructs—recognizing, knowing and understanding, using and applying, evaluating, creating, and navigating ethically—synthesized by [Almatrafi et al. (2024)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib7). Third, teachers' calls for policies and guidance highlight the need for actionable frameworks that support the responsible and effective GenAI integration in teaching and learning. Researchers can contribute by engaging with policymakers to share insights and findings, ensuring that policies are informed by the latest research and advancements in AI. In response to the lack of technology access, schools can partner with technology companies and local communities to launch educational GenAI initiatives, such as acquiring technology infrastructure, programs, and AI-empowered educational resources with enhanced security and privacy features, at reduced costs.
+## 6\. Limitations and future research
+First, limited funding and resources have restricted the researchers’ data collection through snowball sampling, where only interested teachers self-selected to participate. This non-randomized approach may limit the diversity of responses, potentially affecting the generalizability of the results to broader K-12 teacher population in Idaho. Nevertheless, our findings offer valuable insights for developing learning opportunities and implementation strategies for integrating GenAI, especially for rural teachers. Future research could assess the impact of these training designs and refine them accordingly.
+Second, relying on teachers' self-reported data in this study may introduce [social desirability](https://www.sciencedirect.com/topics/social-sciences/social-desirability) bias, potentially affecting the accuracy of participants' responses. Future research could benefit from observational studies on teachers' GenAI implementation, complemented by interviews to gain a better understanding of their preparedness and barriers influencing their real-time pedagogical decisions. Triangulating multiple data sources would help mitigate the limitations of self-reported data and provide deeper insights into teachers’ understanding and practices of GenAI integration in K-12 education. Specifically, survey respondents may provide brief and convenient answers to open-ended questions, which could obscure an accurate depiction of their GenAI practices ( [Tourangeau et al., 2000](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bib90)).
+Third, this study is one of the few to examine K-12 teachers' preparedness, daily practices, and barriers to GenAI integration. Future studies with larger, more representative samples are essential to replicate this research design for broader generalization, while also capturing the similarities and differences among rural, urban, and suburban settings. In addition to understanding teachers' barriers (factors that inhibit teachers’ GenAI integration), future research should include survey questions exploring factors that motivate teachers to use GenAI, to better encourage its adoption.
+## CRediT authorship contribution statement
+\*\*Yin Hong Cheah:\*\* Writing – review & editing, Writing – original draft, Visualization, Validation, Supervision, Project administration, Methodology, Investigation, Funding acquisition, Formal analysis, Data curation, Conceptualization. \*\*Jingru Lu:\*\* Writing – review & editing, Writing – original draft, Formal analysis. \*\*Juhee Kim:\*\* Writing – review & editing, Writing – original draft, Investigation.
+## Statements on open data and ethics
+The study was approved by an ethical committee (the University of Idaho Human Research Protection Board) with ID: 026288. Informed consent was obtained from all participants, and their privacy rights were strictly observed. The data can be obtained by sending request e-mails to the corresponding author.
+## Declaration of generative AI and AI-assisted technologies in the writing process
+During the preparation of this work the author(s) used ChatGPT in order to improve the readability and language of the manuscript. After using this tool/service, the authors reviewed and edited the content as needed and take full responsibility for the content of the published article.
+## Funding details
+This work was supported by the University of Idaho, Startup Grant.
+## Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+## Appendix A. Supplementary data
+The following is the Supplementary data to this article:[Download: Download Word document (48KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25000037-mmc1.docx "Download Word document (48KB)")
+Multimedia component 1.
+Recommended articles
+## References
+001. [Abdelghani et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib1)
+R. Abdelghani, Y.-H. Wang, X. Yuan, T. Wang, P. Lucas, H. Sauzéon, P.-Y. Oudeyer
+GPT-3-driven pedagogical agents to train children's curious question-asking skills
+International Journal of Artificial Intelligence in Education, 34 (2024), pp. 483-518, [10.1007/s40593-023-00340-7](https://doi.org/10.1007/s40593-023-00340-7)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85163710566&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=GPT-3-driven%20pedagogical%20agents%20to%20train%20childrens%20curious%20question-asking%20skills&publication\_year=2024&author=R.%20Abdelghani&author=Y.-H.%20Wang&author=X.%20Yuan&author=T.%20Wang&author=P.%20Lucas&author=H.%20Sauz%C3%A9on&author=P.-Y.%20Oudeyer)
+002. [Abedi and Ackah-Jnr, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib2)
+E.A. Abedi, F.R. Ackah-Jnr
+First-order barriers still matter in teachers' use of technology: An exploratory study of multi-stakeholder perspectives of technology integration barriers
+International Journal of Education and Development using Information and Communication Technology, 19 (2) (2023), pp. 148-165
+[http://ijedict.dec.uwi.edu/viewarticle.php?id=3164](http://ijedict.dec.uwi.edu/viewarticle.php?id=3164)
+[Crossref](https://doi.org/10.61838/kman.jarac.5.1.19) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=First-order%20barriers%20still%20matter%20in%20teachers%20use%20of%20technology%3A%20An%20exploratory%20study%20of%20multi-stakeholder%20perspectives%20of%20technology%20integration%20barriers&publication\_year=2023&author=E.A.%20Abedi&author=F.R.%20Ackah-Jnr)
+003. [Adeyele and Ramnarain, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib3)
+V.O. Adeyele, U. Ramnarain
+Exploring the integration of ChatGPT in inquiry-based learning: Teacher perspectives
+International Journal of Technology in Education, 7 (2) (2024), pp. 200-217, [10.46328/ijte.638](https://doi.org/10.46328/ijte.638)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20the%20integration%20of%20ChatGPT%20in%20inquiry-based%20learning%3A%20Teacher%20perspectives&publication\_year=2024&author=V.O.%20Adeyele&author=U.%20Ramnarain)
+004. [Aithal and Aithal, 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib4)
+A. Aithal, P.S. Aithal
+Development and validation of survey questionnaire and experimental data: A systematical review-based statistical approach
+International Journal of Management, Technology, and Social Sciences, 5 (2) (2020), pp. 233-251, [10.2139/ssrn.3724105](https://doi.org/10.2139/ssrn.3724105)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85112216357&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Development%20and%20validation%20of%20survey%20questionnaire%20and%20experimental%20data%3A%20A%20systematical%20review-based%20statistical%20approach&publication\_year=2020&author=A.%20Aithal&author=P.S.%20Aithal)
+005. [Alavi et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib5)
+M. Alavi, D.E. Leidner, R. Mousavi
+Knowledge management perspective of generative artificial intelligence
+Journal of the Association for Information Systems, 25 (1) (2024), pp. 1-12, [10.17705/1jais.00859](https://doi.org/10.17705/1jais.00859)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85182193435&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Knowledge%20management%20perspective%20of%20generative%20artificial%20intelligence&publication\_year=2024&author=M.%20Alavi&author=D.E.%20Leidner&author=R.%20Mousavi)
+006. [Alberola-Mulet et al., 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib6)
+I. Alberola-Mulet, M.J. Iglesias-Martínez, I. Lozano-Cabezas
+Teachers' beliefs about the role of digital educational resources in educational practice: A qualitative study
+Education Sciences, 11 (5) (2021), p. 239, [10.3390/educsci11050239](https://doi.org/10.3390/educsci11050239)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85107230266&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20beliefs%20about%20the%20role%20of%20digital%20educational%20resources%20in%20educational%20practice%3A%20A%20qualitative%20study&publication\_year=2021&author=I.%20Alberola-Mulet&author=M.J.%20Iglesias-Mart%C3%ADnez&author=I.%20Lozano-Cabezas)
+007. [Almatrafi et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib7)
+O. Almatrafi, A. Johri, H. Lee
+A systematic review of AI literacy conceptualization, constructs, and implementation and assessment efforts (2019-2023)
+Computers and Education Open, 6 (2024), Article 100173, [10.1016/j.caeo.2024.100173](https://doi.org/10.1016/j.caeo.2024.100173)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S2666557324000144/pdfft?md5=631e6894637842815639241b3f8314ec&pid=1-s2.0-S2666557324000144-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S2666557324000144) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85196076157&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20of%20AI%20literacy%20conceptualization%2C%20constructs%2C%20and%20implementation%20and%20assessment%20efforts%20&publication\_year=2024&author=O.%20Almatrafi&author=A.%20Johri&author=H.%20Lee)
+008. [An et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib8)
+X. An, C.S. Chai, Y. Li, Y. Zhou, X. Shen, C. Zheng, M. Chen
+Modeling English teachers' behavioral intention to use artificial intelligence in middle schools
+Education and Information Technologies, 28 (2023), pp. 5187-5208, [10.1007/s10639-022-11286-z](https://doi.org/10.1007/s10639-022-11286-z)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85141863273&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Modeling%20English%20teachers%20behavioral%20intention%20to%20use%20artificial%20intelligence%20in%20middle%20schools&publication\_year=2023&author=X.%20An&author=C.S.%20Chai&author=Y.%20Li&author=Y.%20Zhou&author=X.%20Shen&author=C.%20Zheng&author=M.%20Chen)
+009. [Asunda et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib9)
+P. Asunda, M. Faezipour, J. Tolemy, M. Engel
+Embracing computational thinking as an impetus for artificial intelligence in integrated STEM disciplines through engineering and technology education
+Journal of Technology Education, 34 (2) (2023), pp. 43-63, [10.21061/jte.v34i2.a.3](https://doi.org/10.21061/jte.v34i2.a.3)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85162993025&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Embracing%20computational%20thinking%20as%20an%20impetus%20for%20artificial%20intelligence%20in%20integrated%20STEM%20disciplines%20through%20engineering%20and%20technology%20education&publication\_year=2023&author=P.%20Asunda&author=M.%20Faezipour&author=J.%20Tolemy&author=M.%20Engel)
+010. [Ayyıldız and Yılmaz, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib11)
+P. Ayyıldız, A. Yılmaz
+A new chapter is being written about writing instruction: Instructional leadership at K-12 levels in the age of artificial intelligence (AI)
+Educational Policy Analysis and Strategic Research, 18 (4) (2023), pp. 82-101, [10.29329/epasr.2023.631.4](https://doi.org/10.29329/epasr.2023.631.4)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20new%20chapter%20is%20being%20written%20about%20writing%20instruction%3A%20Instructional%20leadership%20at%20K-12%20levels%20in%20the%20age%20of%20artificial%20intelligence%20&publication\_year=2023&author=P.%20Ayy%C4%B1ld%C4%B1z&author=A.%20Y%C4%B1lmaz)
+011. [Backfisch et al., 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib12)
+I. Backfisch, A. Lachner, K. Stürmer, K. Scheiter
+Variability of teachers' technology integration in the classroom: A matter of utility
+Computers & Education, 166 (2021), Article 104159, [10.1016/j.compedu.2021.104159](https://doi.org/10.1016/j.compedu.2021.104159)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0360131521000361/pdfft?md5=f21602897bb1e4131e615f81f7ea85cd&pid=1-s2.0-S0360131521000361-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0360131521000361) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85100909614&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Variability%20of%20teachers%20technology%20integration%20in%20the%20classroom%3A%20A%20matter%20of%20utility&publication\_year=2021&author=I.%20Backfisch&author=A.%20Lachner&author=K.%20St%C3%BCrmer&author=K.%20Scheiter)
+012. [Barrett and Pack, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib13)
+A. Barrett, A. Pack
+Not quite eye to A.I.: Student and teacher perspectives on the use of generative artificial intelligence in the writing process
+International Journal of Educational Technology in Higher Education, 20 (1) (2023), p. 59, [10.1186/s41239-023-00427-0](https://doi.org/10.1186/s41239-023-00427-0)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85176125600&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Not%20quite%20eye%20to%20A.I.%3A%20Student%20and%20teacher%20perspectives%20on%20the%20use%20of%20generative%20artificial%20intelligence%20in%20the%20writing%20process&publication\_year=2023&author=A.%20Barrett&author=A.%20Pack)
+013. [Bingham, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib14)
+A.J. Bingham
+From data management to actionable findings: A five-phase process of qualitative data analysis
+International Journal of Qualitative Methods, 22 (2023), [10.1177/16094069231183620](https://doi.org/10.1177/16094069231183620)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=From%20data%20management%20to%20actionable%20findings%3A%20A%20five-phase%20process%20of%20qualitative%20data%20analysis&publication\_year=2023&author=A.J.%20Bingham)
+014. [Buabeng-Andoh, 2012](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib15)
+C. Buabeng-Andoh
+Factors influencing teachers' adoption and integration of information and communication technology into teaching: A review of the literature
+International Journal of Education and Development using Information and Communication Technology, 8 (1) (2012), pp. 136-155
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Factors%20influencing%20teachers%20adoption%20and%20integration%20of%20information%20and%20communication%20technology%20into%20teaching%3A%20A%20review%20of%20the%20literature&publication\_year=2012&author=C.%20Buabeng-Andoh)
+015. [Cadero-Smith, 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib16)
+L.A. Cadero-Smith
+Teacher professional development challenges faced by rural superintendents
+International Society for Technology, Education and Sciences (2020)
+[https://files.eric.ed.gov/fulltext/ED605531.pdf](https://files.eric.ed.gov/fulltext/ED605531.pdf)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20professional%20development%20challenges%20faced%20by%20rural%20superintendents&publication\_year=2020&author=L.A.%20Cadero-Smith)
+016. [Celik et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib17)
+I. Celik, M. Dindar, H. Muukkonen, S. Järvelä
+The promises and challenges of artificial intelligence for teachers: A systematic review of research
+TechTrends, 66 (4) (2022), pp. 616-630, [10.1007/s11528-022-00715-y](https://doi.org/10.1007/s11528-022-00715-y)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85127243644&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20promises%20and%20challenges%20of%20artificial%20intelligence%20for%20teachers%3A%20A%20systematic%20review%20of%20research&publication\_year=2022&author=I.%20Celik&author=M.%20Dindar&author=H.%20Muukkonen&author=S.%20J%C3%A4rvel%C3%A4)
+017. [Chan and Colloton, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib18)
+C.K.Y. Chan, T. Colloton
+Introduction to artificial intelligence in higher education
+Routledge (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Introduction%20to%20artificial%20intelligence%20in%20higher%20education&publication\_year=2024&author=C.K.Y.%20Chan&author=T.%20Colloton)
+018. [Check and Schutt, 2012](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib19)
+J. Check, R.K. Schutt
+Survey research
+J. Check, R.K. Schutt (Eds.), Research methods in education (pp. 159-186), Sage Publications, Thousand Oaks, CA (2012)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Survey%20research&publication\_year=2012&author=J.%20Check&author=R.K.%20Schutt)
+019. [Cheung and Slavin, 2013](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib20)
+A.C. Cheung, R.E. Slavin
+The effectiveness of educational technology applications for enhancing mathematics achievement in K-12 classrooms: A meta-analysis
+Educational Research Review, 9 (2013), pp. 88-113, [10.1016/j.edurev.2013.01.001](https://doi.org/10.1016/j.edurev.2013.01.001)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S1747938X13000031/pdfft?md5=e54114096e95ce9a76b2edde530d1d84&pid=1-s2.0-S1747938X13000031-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S1747938X13000031) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84873956320&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20effectiveness%20of%20educational%20technology%20applications%20for%20enhancing%20mathematics%20achievement%20in%20K-12%20classrooms%3A%20A%20meta-analysis&publication\_year=2013&author=A.C.%20Cheung&author=R.E.%20Slavin)
+020. [Chiu, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib21)
+T.K.F. Chiu
+A holistic approach to artificial intelligence (AI) curriculum for K- 12 schools
+TechTrends, 65 (2021), pp. 796-807, [10.1007/s11528-021-00637-1](https://doi.org/10.1007/s11528-021-00637-1)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85112388393&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20holistic%20approach%20to%20artificial%20intelligence%20%20curriculum%20for%20K-%2012%20schools&publication\_year=2021&author=T.K.F.%20Chiu)
+021. [Chounta et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib22)
+I.A. Chounta, E. Bardone, A. Raudsep, M. Pedaste
+Exploring teachers' perceptions of artificial intelligence as a tool to support their practice in Estonian K-12 education
+International Journal of Artificial Intelligence in Education, 32 (2022), pp. 725-755, [10.1007/s40593-021-00243-5](https://doi.org/10.1007/s40593-021-00243-5)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85107392438&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20teachers%20perceptions%20of%20artificial%20intelligence%20as%20a%20tool%20to%20support%20their%20practice%20in%20Estonian%20K-12%20education&publication\_year=2022&author=I.A.%20Chounta&author=E.%20Bardone&author=A.%20Raudsep&author=M.%20Pedaste)
+022. [Collie and Martin, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib23)
+R.J. Collie, A.J. Martin
+Teachers' motivation and engagement to harness generative AI for teaching and learning: The role of contextual, occupational, and background factors
+Computers and Education. Artificial Intelligence, 6 (2024), p. 100224, [10.1016/j.caeai.2024.100224](https://doi.org/10.1016/j.caeai.2024.100224)
+100224
+[View PDF](https://www.sciencedirect.com/science/article/pii/S2666920X24000250/pdfft?md5=7696a2fce371837b1ef46dc64fcaa674&pid=1-s2.0-S2666920X24000250-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S2666920X24000250) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85190524310&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20motivation%20and%20engagement%20to%20harness%20generative%20AI%20for%20teaching%20and%20learning%3A%20The%20role%20of%20contextual%2C%20occupational%2C%20and%20background%20factors&publication\_year=2024&author=R.J.%20Collie&author=A.J.%20Martin)
+023. [Cope and Ward, 2002](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib24)
+C. Cope, P. Ward
+Integrating learning technology into classrooms: The importance of teachers' perceptions
+Educational Technology & Society, 5 (2002), pp. 67-74
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-3042602087&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Integrating%20learning%20technology%20into%20classrooms%3A%20The%20importance%20of%20teachers%20perceptions&publication\_year=2002&author=C.%20Cope&author=P.%20Ward)
+024. [Crawford et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib25)
+J. Crawford, C. Vallis, J. Yang, R. Fitzgerald, C. O'Dea, M. Cowling
+Editorial: Artificial intelligence is awesome, but good teaching should always come first
+Journal of University Teaching and Learning Practice, 20 (7) (2023), [10.53761/1.20.7.01](https://doi.org/10.53761/1.20.7.01)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Editorial%3A%20Artificial%20intelligence%20is%20awesome%2C%20but%20good%20teaching%20should%20always%20come%20first&publication\_year=2023&author=J.%20Crawford&author=C.%20Vallis&author=J.%20Yang&author=R.%20Fitzgerald&author=C.%20O%27Dea&author=M.%20Cowling)
+025. [Crompton et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib26)
+H. Crompton, M.V. Jones, D. Burke
+Affordances and challenges of artificial intelligence in K-12 education: A systematic review
+Journal of Research on Technology in Education, 56 (3) (2022), pp. 248-268, [10.1080/15391523.2022.2121344](https://doi.org/10.1080/15391523.2022.2121344)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Affordances%20and%20challenges%20of%20artificial%20intelligence%20in%20K-12%20education%3A%20A%20systematic%20review&publication\_year=2022&author=H.%20Crompton&author=M.V.%20Jones&author=D.%20Burke)
+026. [Cuban, 1986](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib27)
+L. Cuban
+Teachers and machines: The classroom use of technology since 1920
+Teachers College Press, New York (1986)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20and%20machines%3A%20The%20classroom%20use%20of%20technology%20since%201920&publication\_year=1986&author=L.%20Cuban)
+027. [Cuban, 2018](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib28)
+L. Cuban
+The flight of a butterfly or the path of a bullet? Using technology to transform teaching and learning
+Harvard Education Press, Cambridge, MA (2018)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20flight%20of%20a%20butterfly%20or%20the%20path%20of%20a%20bullet%20Using%20technology%20to%20transform%20teaching%20and%20learning&publication\_year=2018&author=L.%20Cuban)
+028. [Dai et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib29)
+Y. Dai, A. Liu, J. Qin, Y. Guo, M.S. Jong, C. Chai, Z. Lin
+Collaborative construction of artificial intelligence curriculum in primary schools
+Journal of Engineering Education, 112 (1) (2022), pp. 23-42, [10.1002/jee.20503](https://doi.org/10.1002/jee.20503)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Collaborative%20construction%20of%20artificial%20intelligence%20curriculum%20in%20primary%20schools&publication\_year=2022&author=Y.%20Dai&author=A.%20Liu&author=J.%20Qin&author=Y.%20Guo&author=M.S.%20Jong&author=C.%20Chai&author=Z.%20Lin)
+029. [Díaz and Nussbaum, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib30)
+B. Díaz, M. Nussbaum
+Artificial intelligence for teaching and learning in schools: The need for pedagogical intelligence
+Computers & Education, 217 (2024), pp. 1-19, [10.1016/j.compedu.2024.105071](https://doi.org/10.1016/j.compedu.2024.105071)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20for%20teaching%20and%20learning%20in%20schools%3A%20The%20need%20for%20pedagogical%20intelligence&publication\_year=2024&author=B.%20D%C3%ADaz&author=M.%20Nussbaum)
+030. [Dieker et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib31)
+L.A. Dieker, R. Hines, I. Wilkins, C. Hughes, K.H. Scott, S. Smith, K. Ingraham, K. Ali, T. Zaugg, S. Shah
+Using an Artificial Intelligence (AI) agent to support teacher instruction and student learning
+Special Issue on Artificial Intelligence, 4 (2) (2024), pp. 78-88, [10.33043/d8xb94q7](https://doi.org/10.33043/d8xb94q7)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using%20an%20Artificial%20Intelligence%20%20agent%20to%20support%20teacher%20instruction%20and%20student%20learning&publication\_year=2024&author=L.A.%20Dieker&author=R.%20Hines&author=I.%20Wilkins&author=C.%20Hughes&author=K.H.%20Scott&author=S.%20Smith&author=K.%20Ingraham&author=K.%20Ali&author=T.%20Zaugg&author=S.%20Shah)
+031. [Dijkstra et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib32)
+R. Dijkstra, Z. Genç, S. Kayal, J. Kamps
+Reading comprehension quiz generation using generative pre-trained transformers
+[https://intextbooks.science.uu.nl/workshop2022/files/itb22\\_p1\\_full5439.pdf](https://intextbooks.science.uu.nl/workshop2022/files/itb22\_p1\_full5439.pdf) (2022)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Reading%20comprehension%20quiz%20generation%20using%20generative%20pre-trained%20transformers&publication\_year=2022&author=R.%20Dijkstra&author=Z.%20Gen%C3%A7&author=S.%20Kayal&author=J.%20Kamps)
+032. [Diliberti et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib33)
+M.K. Diliberti, H.L. Schwartz, S. Doan, A. Shapiro, L.R. Rainey, R.J. Lake
+Using artificial intelligence tools in K–12 classrooms
+RAND Corporation eBooks (2024), [10.7249/rra956-21(RR-A956-21)](https://doi.org/10.7249/rra956-21(RR-A956-21))
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using%20artificial%20intelligence%20tools%20in%20K12%20classrooms&publication\_year=2024&author=M.K.%20Diliberti&author=H.L.%20Schwartz&author=S.%20Doan&author=A.%20Shapiro&author=L.R.%20Rainey&author=R.J.%20Lake)
+033. [Dillman et al., 2014](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib34)
+D.A. Dillman, J.D. Smyth, L.M. Christian
+Internet, phone, mail, and mixed-mode surveys: The tailored design method
+(4th ed.), John Wiley & Sons, Inc, Hoboken, NJ (2014)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Internet%2C%20phone%2C%20mail%2C%20and%20mixed-mode%20surveys%3A%20The%20tailored%20design%20method&publication\_year=2014&author=D.A.%20Dillman&author=J.D.%20Smyth&author=L.M.%20Christian)
+034. [Duan and Zhao, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib35)
+H. Duan, W. Zhao
+The effects of educational artificial intelligence-powered applications on teachers' perceived autonomy, professional development for online teaching, and digital burnout
+International Review of Research in Open and Distance Learning, 25 (3) (2024), pp. 57-76, [10.19173/irrodl.v25i3.7659](https://doi.org/10.19173/irrodl.v25i3.7659)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85203065078&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20effects%20of%20educational%20artificial%20intelligence-powered%20applications%20on%20teachers%20perceived%20autonomy%2C%20professional%20development%20for%20online%20teaching%2C%20and%20digital%20burnout&publication\_year=2024&author=H.%20Duan&author=W.%20Zhao)
+035. [Dwyer and Laird, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib36)
+M. Dwyer, E. Laird
+Up in the air: Educators juggling the potential of generative AI with detection, discipline, and disrupt
+Center for Democracy and Technology (2024)
+[https://cdt.org/wp-content/uploads/2024/03/2024-03-21-CDT-Civic-Tech-Generative-AI-Survey-Research-final.pdf](https://cdt.org/wp-content/uploads/2024/03/2024-03-21-CDT-Civic-Tech-Generative-AI-Survey-Research-final.pdf)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Up%20in%20the%20air%3A%20Educators%20juggling%20the%20potential%20of%20generative%20AI%20with%20detection%2C%20discipline%2C%20and%20disrupt&publication\_year=2024&author=M.%20Dwyer&author=E.%20Laird)
+036. [Ertmer, 1999](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib37)
+P.A. Ertmer
+Addressing first- and second-order barriers to change: Strategies for technology integration
+Educational Technology Research & Development, 47 (4) (1999), pp. 47-61, [10.1007/BF02299597](https://doi.org/10.1007/BF02299597)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0033235044&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Addressing%20first-%20and%20second-order%20barriers%20to%20change%3A%20Strategies%20for%20technology%20integration&publication\_year=1999&author=P.A.%20Ertmer)
+037. [Ertmer et al., 2001](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib38)
+P.A. Ertmer, S. Gopalakrishnan, E.M. Ross
+Technology-using teachers: Comparing perceptions of exemplary technology use to best practice
+Journal of Research on Computing in Education, 33 (5) (2001)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Technology-using%20teachers%3A%20Comparing%20perceptions%20of%20exemplary%20technology%20use%20to%20best%20practice&publication\_year=2001&author=P.A.%20Ertmer&author=S.%20Gopalakrishnan&author=E.M.%20Ross)
+038. [Ertmer et al., 2012](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib39)
+P.A. Ertmer, A.T. Ottenbreit-Leftwich, O. Sadik, E. Sendurur, P. Sendurur
+Teacher beliefs and technology integration practices: A critical relationship
+Computers & Education, 59 (2) (2012), pp. 423-435, [10.1016/j.compedu.2012.02.001](https://doi.org/10.1016/j.compedu.2012.02.001)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0360131512000437/pdfft?md5=5502f239d62f0babc5587f3d820e9d49&pid=1-s2.0-S0360131512000437-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0360131512000437) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84857519040&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20beliefs%20and%20technology%20integration%20practices%3A%20A%20critical%20relationship&publication\_year=2012&author=P.A.%20Ertmer&author=A.T.%20Ottenbreit-Leftwich&author=O.%20Sadik&author=E.%20Sendurur&author=P.%20Sendurur)
+039. [Farrelly and Baker, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib40)
+T. Farrelly, N. Baker
+Generative artificial intelligence: Implications and considerations for higher education practice
+Education Sciences, 13 (11) (2023), p. 1109, [10.3390/educsci13111109](https://doi.org/10.3390/educsci13111109)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85178314265&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20artificial%20intelligence%3A%20Implications%20and%20considerations%20for%20higher%20education%20practice&publication\_year=2023&author=T.%20Farrelly&author=N.%20Baker)
+040. [Goodman, 1961](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib41)
+L.A. Goodman
+Snowball sampling
+The Annals of Mathematical Statistics, 32 (1) (1961), pp. 148-170, [10.1214/aoms/1177705148](https://doi.org/10.1214/aoms/1177705148)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Snowball%20sampling&publication\_year=1961&author=L.A.%20Goodman)
+041. [Hallowell, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib42)
+M. Hallowell
+Key findings from 2024 educator AI report
+Imaginelearning.com (2023)
+[https://www.imaginelearning.com/wp-content/uploads/2024/06/IL-Teachers-Lounge-Key-Findings-Spring-2024-Report-2406.pdf&utm\\_campaign=il-ai-research-2024&utm\\_source=marketo&utm\\_medium=referral](https://www.imaginelearning.com/wp-content/uploads/2024/06/IL-Teachers-Lounge-Key-Findings-Spring-2024-Report-2406.pdf%26utm\_campaign=il-ai-research-2024%26utm\_source=marketo%26utm\_medium=referral)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Key%20findings%20from%202024%20educator%20AI%20report&publication\_year=2023&author=M.%20Hallowell)
+042. [Hamutoglu, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib43)
+N.B. Hamutoglu
+Testing the effects of technological barriers on high school teachers' role in technology integration
+Asian Journal of Distance Education, 16 (1) (2021), pp. 74-89
+[https://asianjde.com/ojs/index.php/AsianJDE/article/view/544](https://asianjde.com/ojs/index.php/AsianJDE/article/view/544)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Testing%20the%20effects%20of%20technological%20barriers%20on%20high%20school%20teachers%20role%20in%20technology%20integration&publication\_year=2021&author=N.B.%20Hamutoglu)
+043. [Heckathorn, 2011](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib44)
+D.D. Heckathorn
+Snowball versus respondent-driven sampling
+Sociological Methodology, 41 (1) (2011), pp. 355-366, [10.1111/j.1467-9531.2011.01244.x](https://doi.org/10.1111/j.1467-9531.2011.01244.x)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-80855144204&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Snowball%20versus%20respondent-driven%20sampling&publication\_year=2011&author=D.D.%20Heckathorn)
+044. [Hidayat, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib45)
+M.T. Hidayat
+Effectiveness of AI-based personalised reading platforms in enhancing reading comprehension
+Journal of Learning for Development, 11 (1) (2024), pp. 115-125, [10.56059/jl4d.v11i1.955](https://doi.org/10.56059/jl4d.v11i1.955)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85188663780&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Effectiveness%20of%20AI-based%20personalised%20reading%20platforms%20in%20enhancing%20reading%20comprehension&publication\_year=2024&author=M.T.%20Hidayat)
+045. [Hill, 2015](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib46)
+P.T. Hill
+States could do more for rural education (Report)
+Center on Reinventing Public Education (2015)
+[https://compcenternetwork.org/sites/default/files/archive/StatesCouldDoMoreforRuralEducation.pdf](https://compcenternetwork.org/sites/default/files/archive/StatesCouldDoMoreforRuralEducation.pdf)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=States%20could%20do%20more%20for%20rural%20education%20&publication\_year=2015&author=P.T.%20Hill)
+046. [Hill and Narine, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib47)
+P.A. Hill, L.K. Narine
+Ensuring responsible and transparent use of generative AI in extension
+Journal of Extension, 61 (2) (2023), p. 13, [10.34068/joe.61.02.13](https://doi.org/10.34068/joe.61.02.13)
+Article
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85174729408&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Ensuring%20responsible%20and%20transparent%20use%20of%20generative%20AI%20in%20extension&publication\_year=2023&author=P.A.%20Hill&author=L.K.%20Narine)
+047. [Hughes, 2005](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib48)
+J.E. Hughes
+The role of teacher knowledge and learning experiences in forming technology-integrated pedagogy
+Journal of Technology and Teacher Education, 13 (2005), pp. 277-302
+[https://www.learntechlib.org/primary/p/26105/](https://www.learntechlib.org/primary/p/26105/)
+[Crossref](https://doi.org/10.1353/tks.2005.0022) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20role%20of%20teacher%20knowledge%20and%20learning%20experiences%20in%20forming%20technology-integrated%20pedagogy&publication\_year=2005&author=J.E.%20Hughes)
+048. [Hughes, Cheah, Shi, & Hsiao, 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib102)
+J.E. Hughes, Y.H. Cheah, Y. Shi, K.-H. Hsiao
+Preservice and inservice teachers’ pedagogical reasoning underlying their most-valued technology-supported instructional activities
+Journal of Computer Assisted Learning, 36 (2020), pp. 549-568
+[https://doi.org/10.1111/jcal.12425](https://doi.org/10.1111/jcal.12425)
+[Crossref](https://doi.org/10.1111/jcal.12425) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85081627500&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Preservice%20and%20inservice%20teachers%20pedagogical%20reasoning%20underlying%20their%20most-valued%20technology-supported%20instructional%20activities&publication\_year=2020&author=J.E.%20Hughes&author=Y.H.%20Cheah&author=Y.%20Shi&author=K.-H.%20Hsiao)
+049. [International Business Machines Corporation, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib49)
+International Business Machines Corporation \[IBM\]
+What is generative AI?
+Retrieved December 5, 2024, from
+[https://www.ibm.com/topics/generative-ai](https://www.ibm.com/topics/generative-ai) (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=What%20is%20generative%20AI&publication\_year=2024&author=International%20Business%20Machines%20Corporation%20%5BIBM%5D)
+050. [J-PAL Evidence Review, 2019](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib50)
+J-PAL Evidence Review
+Will technology transform education for the better?
+Abdul Latif Jameel Poverty Action Lab, Cambridge, MA (2019)
+[https://www.povertyactionlab.org/sites/default/files/publication/education-technology-evidence-review.pdf](https://www.povertyactionlab.org/sites/default/files/publication/education-technology-evidence-review.pdf)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Will%20technology%20transform%20education%20for%20the%20better&publication\_year=2019&author=J-PAL%20Evidence%20Review)
+051. [Ji et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib51)
+H. Ji, I. Han, Y. Ko
+A systematic review of conversational AI in language education: Focusing on the collaboration with human teachers
+Journal of Research on Technology in Education, 55 (1) (2022), pp. 48-63, [10.1080/15391523.2022.2142873](https://doi.org/10.1080/15391523.2022.2142873)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20of%20conversational%20AI%20in%20language%20education%3A%20Focusing%20on%20the%20collaboration%20with%20human%20teachers&publication\_year=2022&author=H.%20Ji&author=I.%20Han&author=Y.%20Ko)
+052. [Kimberlin and Winterstein, 2008](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib52)
+C.L. Kimberlin, A.G. Winterstein
+Validity and reliability of measurement instruments used in research
+American Journal of Health-System Pharmacy, 65 (23) (2008), pp. 2276-2284, [10.2146/ajhp070364](https://doi.org/10.2146/ajhp070364)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-57149104201&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Validity%20and%20reliability%20of%20measurement%20instruments%20used%20in%20research&publication\_year=2008&author=C.L.%20Kimberlin&author=A.G.%20Winterstein)
+053. [Kong and Yang, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib53)
+S.-C. Kong, Y. Yang
+A human-centred learning and teaching framework using generative artificial intelligence for self-regulated learning development through domain knowledge learning in K–12 settings
+IEEE Transactions on Learning Technologies, 17 (2024), pp. 1588-1599, [10.1109/TLT.2024.3392830](https://doi.org/10.1109/TLT.2024.3392830)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85191348976&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20human-centred%20learning%20and%20teaching%20framework%20using%20generative%20artificial%20intelligence%20for%20self-regulated%20learning%20development%20through%20domain%20knowledge%20learning%20in%20K12%20settings&publication\_year=2024&author=S.-C.%20Kong&author=Y.%20Yang)
+054. [Lambert and Stevens, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib54)
+J. Lambert, M. Stevens
+ChatGPT and generative AI technology: A mixed bag of concerns and new opportunities
+Computers in the Schools, 41 (4) (2023), pp. 559-583, [10.1080/07380569.2023.2256710](https://doi.org/10.1080/07380569.2023.2256710)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=ChatGPT%20and%20generative%20AI%20technology%3A%20A%20mixed%20bag%20of%20concerns%20and%20new%20opportunities&publication\_year=2023&author=J.%20Lambert&author=M.%20Stevens)
+055. [Lee and Kwon, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib55)
+S.J. Lee, K. Kwon
+A systematic review of AI education in K-12 classrooms from 2018 to 2023: Topics, strategies, and learning outcomes
+Computers and Education: Artificial Intelligence, 6 (2024), Article 100211, [10.1016/j.caeai.2024.100211](https://doi.org/10.1016/j.caeai.2024.100211)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S2666920X24000122/pdfft?md5=4d73988184a83e742172fcee96392dea&pid=1-s2.0-S2666920X24000122-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S2666920X24000122) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85187716889&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20of%20AI%20education%20in%20K-12%20classrooms%20from%202018%20to%202023%3A%20Topics%2C%20strategies%2C%20and%20learning%20outcomes&publication\_year=2024&author=S.J.%20Lee&author=K.%20Kwon)
+056. [Li et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib56)
+L. Li, F.Y. Yu, E. Zhang
+A systematic review of learning task design for K-12 AI education: Trends, challenges, and opportunities
+Computers & Education: Artificial Intelligence, 6 (2024), Article 100217, [10.1016/j.caeai.2024.100217](https://doi.org/10.1016/j.caeai.2024.100217)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S2666920X24000183/pdfft?md5=284375477de49d6fce5ca0ee4294b8b4&pid=1-s2.0-S2666920X24000183-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S2666920X24000183) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85188432524&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20of%20learning%20task%20design%20for%20K-12%20AI%20education%3A%20Trends%2C%20challenges%2C%20and%20opportunities&publication\_year=2024&author=L.%20Li&author=F.Y.%20Yu&author=E.%20Zhang)
+057. [Lim and Chai, 2008](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib57)
+C.P. Lim, C.S. Chai
+Teachers' pedagogical beliefs and their planning and conduct of computer-mediated classroom lessons
+British Journal of Educational Technology, 39 (5) (2008), pp. 807-828, [10.1111/j.1467-8535.2007.00774.x](https://doi.org/10.1111/j.1467-8535.2007.00774.x)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-49749090481&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20pedagogical%20beliefs%20and%20their%20planning%20and%20conduct%20of%20computer-mediated%20classroom%20lessons&publication\_year=2008&author=C.P.%20Lim&author=C.S.%20Chai)
+058. [Lin et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib58)
+X.-F. Lin, L. Chen, K.K. Chan, S. Peng, X. Chen, S. Xie, J. Liu, Q. Hu
+Teachers' perceptions of teaching sustainable artificial intelligence: A design frame perspective
+Sustainability, 14 (13) (2022), p. 7811, [10.3390/su14137811](https://doi.org/10.3390/su14137811)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85133371094&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20perceptions%20of%20teaching%20sustainable%20artificial%20intelligence%3A%20A%20design%20frame%20perspective&publication\_year=2022&author=X.-F.%20Lin&author=L.%20Chen&author=K.K.%20Chan&author=S.%20Peng&author=X.%20Chen&author=S.%20Xie&author=J.%20Liu&author=Q.%20Hu)
+059. [Liu, 2011](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib59)
+S.-H. Liu
+Factors related to pedagogical beliefs of teachers and technology integration
+Computers & Education, 56 (4) (2011), pp. 1012-1022, [10.1016/j.compedu.2010.12.001](https://doi.org/10.1016/j.compedu.2010.12.001)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0360131510003507/pdfft?md5=de176dec7660c86d518770afeed7699d&pid=1-s2.0-S0360131510003507-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0360131510003507) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-78651113482&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Factors%20related%20to%20pedagogical%20beliefs%20of%20teachers%20and%20technology%20integration&publication\_year=2011&author=S.-H.%20Liu)
+060. [Merod, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib60)
+A. Merod
+\_Bipartisan Senate bill would create federal guidance for AI in schools.\_ K-12 Dive
+[https://www.k12dive.com/news/ai-schools-bill-federal-guidance/718062/](https://www.k12dive.com/news/ai-schools-bill-federal-guidance/718062/) (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Bipartisan%20Senate%20bill%20would%20create%20federal%20guidance%20for%20AI%20in%20schools.%20K-12%20Dive&publication\_year=2024&author=A.%20Merod)
+061. [Miao and Cukurova, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib61)
+F. Miao, M. Cukurova
+AI competency framework for teachers
+United Nations Educational, Scientific and Cultural Organization \[UNESCO (2024), [10.54675/zjte2084](https://doi.org/10.54675/zjte2084)\
+\
+\]
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20competency%20framework%20for%20teachers&publication\_year=2024&author=F.%20Miao&author=M.%20Cukurova)
+062. [Miao and Shiohira, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib62)
+F. Miao, K. Shiohira
+AI competency framework for students
+United Nations Educational, Scientific and Cultural Organization \[UNESCO\] (2024), [10.54675/JKJB9835](https://doi.org/10.54675/JKJB9835)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20competency%20framework%20for%20students&publication\_year=2024&author=F.%20Miao&author=K.%20Shiohira)
+063. [Mishra et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib63)
+P. Mishra, M. Warr, R. Islam
+TPACK in the age of ChatGPT and generative AI
+Journal of Digital Learning in Teacher Education, 39 (4) (2023), pp. 1-17, [10.1080/21532974.2023.2247480](https://doi.org/10.1080/21532974.2023.2247480)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=TPACK%20in%20the%20age%20of%20ChatGPT%20and%20generative%20AI&publication\_year=2023&author=P.%20Mishra&author=M.%20Warr&author=R.%20Islam)
+064. [Mohebi, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib64)
+L. Mohebi
+Empowering learners with ChatGPT: Insights from a systematic literature exploration
+Discover Education, 3 (1) (2024), [10.1007/s44217-024-00120-y](https://doi.org/10.1007/s44217-024-00120-y)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Empowering%20learners%20with%20ChatGPT%3A%20Insights%20from%20a%20systematic%20literature%20exploration&publication\_year=2024&author=L.%20Mohebi)
+065. [Moorhouse, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib65)
+B.L. Moorhouse
+Beginning and first-year language teachers' readiness for the generative AI age
+Computers and Education: Artificial Intelligence, 6 (2024), Article 100201, [10.1016/j.caeai.2024.100201](https://doi.org/10.1016/j.caeai.2024.100201)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S2666920X2400002X/pdfft?md5=ea87c24b7d41e0837af6420fce7266f3&pid=1-s2.0-S2666920X2400002X-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S2666920X2400002X) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85181777295&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Beginning%20and%20first-year%20language%20teachers%20readiness%20for%20the%20generative%20AI%20age&publication\_year=2024&author=B.L.%20Moorhouse)
+066. [National Center for Education Statistics, 2018](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib66)
+National Center for Education Statistics \[NCES\]
+Percentage distribution of public school teachers by sex, race/ethnicity, school level, and main teaching assignment
+(2018), pp. 2017-2018
+[https://nces.ed.gov/surveys/ntps/tables/ntps1718\\_21011202\\_t1n.asp](https://nces.ed.gov/surveys/ntps/tables/ntps1718\_21011202\_t1n.asp)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Percentage%20distribution%20of%20public%20school%20teachers%20by%20sex%2C%20raceethnicity%2C%20school%20level%2C%20and%20main%20teaching%20assignment&publication\_year=2018&author=National%20Center%20for%20Education%20Statistics%20%5BNCES%5D)
+067. [National Center for Education Statistics, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib67)
+National Center for Education Statistics \[NCES\]
+Teachers' race/ethnicity: Percentage distribution of public K–12 school teachers, by race/ethnicity and state
+(2021), pp. 2020-2021
+[https://nces.ed.gov/surveys/ntps/estable/table/ntps/ntps2021\\_sflt01\\_t1s](https://nces.ed.gov/surveys/ntps/estable/table/ntps/ntps2021\_sflt01\_t1s)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20raceethnicity%3A%20Percentage%20distribution%20of%20public%20K12%20school%20teachers%2C%20by%20raceethnicity%20and%20state&publication\_year=2021&author=National%20Center%20for%20Education%20Statistics%20%5BNCES%5D)
+068. [Nazaretsky et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib68)
+T. Nazaretsky, M. Ariely, M. Cukurova, G. Alexandron
+Teachers' trust in AI-powered educational technology and a professional development program to improve it
+British Journal of Educational Technology, 53 (4) (2022), pp. 729-1068, [10.1111/bjet.13232](https://doi.org/10.1111/bjet.13232)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20trust%20in%20AI-powered%20educational%20technology%20and%20a%20professional%20development%20program%20to%20improve%20it&publication\_year=2022&author=T.%20Nazaretsky&author=M.%20Ariely&author=M.%20Cukurova&author=G.%20Alexandron)
+069. [Oregon Department of Education,](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib69)
+Oregon Department of Education (n.d.). Generative AI in K-12 classrooms. Retrieved August 1, 2024, from [https://www.oregon.gov/ode/educator-resources/teachingcontent/Documents/ODE\\_Generative\\_Artificial\\_Intelligence\\_(AI)\\_in\\_K-12\\_Classrooms\\_2023.pdf](https://www.oregon.gov/ode/educator-resources/teachingcontent/Documents/ODE\_Generative\_Artificial\_Intelligence\_(AI)\_in\_K-12\_Classrooms\_2023.pdf).
+[Google Scholar](https://scholar.google.com/scholar?q=Oregon%20Department%20of%20Education%20(n.d.).%20Generative%20AI%20in%20K-12%20classrooms.%20Retrieved%20August%201%2C%202024%2C%20from%20https%3A%2F%2Fwww.oregon.gov%2Fode%2Feducator-resources%2Fteachingcontent%2FDocuments%2FODE\_Generative\_Artificial\_Intelligence\_(AI)\_in\_K-12\_Classrooms\_2023.pdf.)
+070. [Organization for Economic Co-operation and Development, 2015](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib70)
+Organization for Economic Co-operation and Development \[OECD\]
+Students, computers and learning: Making the connection. PISA
+OECD Publishing, Paris (2015), [10.1787/9789264239555-en](https://doi.org/10.1787/9789264239555-en)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Students%2C%20computers%20and%20learning%3A%20Making%20the%20connection.%20PISA&publication\_year=2015&author=Organization%20for%20Economic%20Co-operation%20and%20Development%20%5BOECD%5D)
+071. [Ottenbreit-Leftwich et al., 2010](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib71)
+A.T. Ottenbreit-Leftwich, K.D. Glazewski, T.J. Newby, P.A. Ertmer
+Teacher value beliefs associated with using technology: Addressing professional and student needs
+Computers & Education, 55 (3) (2010), pp. 1321-1335
+[https://www.learntechlib.org/p/66866/](https://www.learntechlib.org/p/66866/)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0360131510001612/pdfft?md5=b1ebfc47e2c40432acf40d25b80c8495&pid=1-s2.0-S0360131510001612-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0360131510001612) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77955556720&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20value%20beliefs%20associated%20with%20using%20technology%3A%20Addressing%20professional%20and%20student%20needs&publication\_year=2010&author=A.T.%20Ottenbreit-Leftwich&author=K.D.%20Glazewski&author=T.J.%20Newby&author=P.A.%20Ertmer)
+072. [Ottenbreit-Leftwich et al., 2018](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib72)
+A. Ottenbreit-Leftwich, J.Y.-C. Liao, O. Sadik, P. Ertmer
+Evolution of teachers' technology integration knowledge, beliefs, and practices: How can we support beginning teachers use of technology?
+Journal of Research on Technology in Education, 50 (4) (2018), pp. 282-304, [10.1080/15391523.2018.1487350](https://doi.org/10.1080/15391523.2018.1487350)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85056118785&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Evolution%20of%20teachers%20technology%20integration%20knowledge%2C%20beliefs%2C%20and%20practices%3A%20How%20can%20we%20support%20beginning%20teachers%20use%20of%20technology&publication\_year=2018&author=A.%20Ottenbreit-Leftwich&author=J.Y.-C.%20Liao&author=O.%20Sadik&author=P.%20Ertmer)
+073. [Our KidsIdaho’s Future Final Report, 2019](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib73)
+Our Kids, Idaho’s Future Final Report
+Opportunities in rural and Underserved schools report and recommendations
+Idaho State Board of Education (2019)
+[https://boardofed.idaho.gov/wp-content/uploads/2019/12/Final-Report-Appendix-2-Rural-and-Underserved-Report.pdf](https://boardofed.idaho.gov/wp-content/uploads/2019/12/Final-Report-Appendix-2-Rural-and-Underserved-Report.pdf)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Opportunities%20in%20rural%20and%20Underserved%20schools%20report%20and%20recommendations&publication\_year=2019&author=Our%20Kids%2C%20Idaho%E2%80%99s%20Future%20Final%20Report)
+074. [Owoeye, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib74)
+G. Owoeye
+The influence of artificial intelligence on employment trends in the United States (US)
+International Journal of Innovative Science and Research Technology (IJISRT), 9 (6) (2024), pp. 1368-1372, [10.38124/ijisrt/ijisrt24jun328](https://doi.org/10.38124/ijisrt/ijisrt24jun328)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20influence%20of%20artificial%20intelligence%20on%20employment%20trends%20in%20the%20United%20States%20&publication\_year=2024&author=G.%20Owoeye)
+075. [Pajares, 1992](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib75)
+M.F. Pajares
+Teachers' beliefs and educational research: Cleaning up a messy construct
+Review of Educational Research, 62 (3) (1992), pp. 307-333, [10.2307/1170741](https://doi.org/10.2307/1170741)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20beliefs%20and%20educational%20research%3A%20Cleaning%20up%20a%20messy%20construct&publication\_year=1992&author=M.F.%20Pajares)
+076. [Park et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib76)
+J. Park, T.J. Teo, A.C.K. Teo, J. Chang, J. Huang, S. Koo
+Integrating artificial intelligence into science lessons: Teachers' experiences and views
+International Journal of STEM Education, 10 (2023), p. 61, [10.1186/s40594-023-00454-3](https://doi.org/10.1186/s40594-023-00454-3)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0735675722006581/pdfft?md5=ee548a7c55d1166b4e62967726549d3c&pid=1-s2.0-S0735675722006581-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0735675722006581) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Integrating%20artificial%20intelligence%20into%20science%20lessons%3A%20Teachers%20experiences%20and%20views&publication\_year=2023&author=J.%20Park&author=T.J.%20Teo&author=A.C.K.%20Teo&author=J.%20Chang&author=J.%20Huang&author=S.%20Koo)
+077. [Petković et al., 2017](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib77)
+D. Petković, N. Denić, G. Perenić
+An ontology-based model for contextual recommendations in e-learning
+International Journal of Technology in Education and Science, 1 (1) (2017), pp. 18-23
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20ontology-based%20model%20for%20contextual%20recommendations%20in%20e-learning&publication\_year=2017&author=D.%20Petkovi%C4%87&author=N.%20Deni%C4%87&author=G.%20Pereni%C4%87)
+078. [Pham and Sampson, 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib78)
+S. Pham, P.M. Sampson
+The development of artificial intelligence in education: A review in context
+Journal of Computer Assisted Learning, 38 (2022), pp. 1408-1421, [10.1111/jcal.12687](https://doi.org/10.1111/jcal.12687)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85131349244&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20development%20of%20artificial%20intelligence%20in%20education%3A%20A%20review%20in%20context&publication\_year=2022&author=S.%20Pham&author=P.M.%20Sampson)
+079. [Pittman and Gaines, 2015](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib79)
+T. Pittman, T. Gaines
+Technology integration in third, fourth and fifth grade classrooms in a Florida school district
+Educational Technology Research & Development, 63 (4) (2015), pp. 539-554, [10.1007/s11423-015-9391-8](https://doi.org/10.1007/s11423-015-9391-8)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84937976709&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Technology%20integration%20in%20third%2C%20fourth%20and%20fifth%20grade%20classrooms%20in%20a%20Florida%20school%20district&publication\_year=2015&author=T.%20Pittman&author=T.%20Gaines)
+080. [Reiser, 2001](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib80)
+R.A. Reiser
+A history of instructional design and technology: Part I: A history of instructional media
+Educational Technology Research & Development, 49 (1) (2001), pp. 53-64
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0035531745&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20history%20of%20instructional%20design%20and%20technology%3A%20Part%20I%3A%20A%20history%20of%20instructional%20media&publication\_year=2001&author=R.A.%20Reiser)
+081. [Rural Education and Technology Consensus Panel, 2015](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib81)
+Rural Education and Technology Consensus Panel \[RETCP\]
+How technology can boost productivity in rural school systems
+[http://www.bscpcenter.org/resources/publications/SEAF\\_Vol4\\_ProdPromiseOfRuralEdu.pdf](http://www.bscpcenter.org/resources/publications/SEAF\_Vol4\_ProdPromiseOfRuralEdu.pdf) (2015)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=How%20technology%20can%20boost%20productivity%20in%20rural%20school%20systems&publication\_year=2015&author=Rural%20Education%20and%20Technology%20Consensus%20Panel%20%5BRETCP%5D)
+082. [Sang et al., 2010](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib82)
+G. Sang, M. Valcke, J. van Braak, J. Tondeur
+Student teachers' thinking processes and ICT integration: Predictors of prospective teaching behaviors with educational technology
+Computers & Education, 54 (1) (2010), pp. 103-112, [10.1016/j.compedu.2009.07.010](https://doi.org/10.1016/j.compedu.2009.07.010)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0360131509001870/pdfft?md5=73fd0a822bf91682c60a3b67962063f5&pid=1-s2.0-S0360131509001870-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0360131509001870) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-74249119973&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Student%20teachers%20thinking%20processes%20and%20ICT%20integration%3A%20Predictors%20of%20prospective%20teaching%20behaviors%20with%20educational%20technology&publication\_year=2010&author=G.%20Sang&author=M.%20Valcke&author=J.%20van%20Braak&author=J.%20Tondeur)
+083. [Sanusi et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib83)
+I.T. Sanusi, S.S. Oyelere, H. Vartiainen, J. Suhonen, M. Tukiainen
+A systematic review of teaching and learning machine learning in K-12 education
+Education and Information Technologies, 28 (2023), pp. 5967-5997, [10.1007/s10639-022-11416-7](https://doi.org/10.1007/s10639-022-11416-7)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85141344461&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20of%20teaching%20and%20learning%20machine%20learning%20in%20K-12%20education&publication\_year=2023&author=I.T.%20Sanusi&author=S.S.%20Oyelere&author=H.%20Vartiainen&author=J.%20Suhonen&author=M.%20Tukiainen)
+084. [Schmitz et al., 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib84)
+M.-L. Schmitz, C. Antonietti, A. Cattaneo, P. Gonon, D. Petko
+When barriers are not an issue: Tracing the relationship between hindering factors and technology use in secondary schools across Europe
+Computers & Education, 179 (2022), Article 104411, [10.1016/j.compedu.2021.104411](https://doi.org/10.1016/j.compedu.2021.104411)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S0360131521002888/pdfft?md5=72f16b639a2a0109ffd968d7669b0fb7&pid=1-s2.0-S0360131521002888-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S0360131521002888) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85121587180&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=When%20barriers%20are%20not%20an%20issue%3A%20Tracing%20the%20relationship%20between%20hindering%20factors%20and%20technology%20use%20in%20secondary%20schools%20across%20Europe&publication\_year=2022&author=M.-L.%20Schmitz&author=C.%20Antonietti&author=A.%20Cattaneo&author=P.%20Gonon&author=D.%20Petko)
+085. [Sebesta and Davis, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib85)
+J. Sebesta, V.L. Davis
+Supporting instruction and learning through artificial intelligence: A survey of institutional practices & policies
+WICHE Cooperative for Educational Technologies (2023)
+[wcet.wiche.edu/resources/wcet-report-supporting-instruction-learning-through-artificial-intelligence-a-survey-of-institutional-practices-policies/](http://wcet.wiche.edu/resources/wcet-report-supporting-instruction-learning-through-artificial-intelligence-a-survey-of-institutional-practices-policies/)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Supporting%20instruction%20and%20learning%20through%20artificial%20intelligence%3A%20A%20survey%20of%20institutional%20practices%20%20policies&publication\_year=2023&author=J.%20Sebesta&author=V.L.%20Davis)
+086. [Tang et al., 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib86)
+K.S. Tang, G. Cooper, N. Rappa, M. Cooper, C. Sims, K. Nonis
+A dialogic approach to transform teaching, learning & assessment with generative AI in secondary education: A proof of concept
+Pedagogies: International Journal, 19 (3) (2024), pp. 493-503, [10.1080/1554480X.2024.2379774](https://doi.org/10.1080/1554480X.2024.2379774)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85204626307&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20dialogic%20approach%20to%20transform%20teaching%2C%20learning%20%20assessment%20with%20generative%20AI%20in%20secondary%20education%3A%20A%20proof%20of%20concept&publication\_year=2024&author=K.S.%20Tang&author=G.%20Cooper&author=N.%20Rappa&author=M.%20Cooper&author=C.%20Sims&author=K.%20Nonis)
+087. [Tassoti, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib87)
+S. Tassoti
+Assessment of students use of generative artificial intelligence: Prompting strategies and prompt engineering in chemistry education
+Journal of Chemical Education, 101 (6) (2024), pp. 2475-2482, [10.1021/acs.jchemed.4c00212](https://doi.org/10.1021/acs.jchemed.4c00212)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85193940297&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Assessment%20of%20students%20use%20of%20generative%20artificial%20intelligence%3A%20Prompting%20strategies%20and%20prompt%20engineering%20in%20chemistry%20education&publication\_year=2024&author=S.%20Tassoti)
+088. [TeachAI,](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib88)
+TeachAI (n.d.). Foundational policy ideas for AI in education. Retrieved November 21, 2024, from [teachai.org/policy](http://teachai.org/policy).
+[Google Scholar](https://scholar.google.com/scholar?q=TeachAI%20(n.d.).%20Foundational%20policy%20ideas%20for%20AI%20in%20education.%20Retrieved%20November%2021%2C%202024%2C%20from%20teachai.org%2Fpolicy.)
+089. [Tosuntaş et al., 2019](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib89)
+Ş.B. Tosuntaş, Z. Çubukçu, İ. Tuğba
+A holistic view to barriers to technology integration in education
+Turkish Online Journal of Qualitative Inquiry, 10 (4) (2019), pp. 439-461, [10.17569/tojqi.613969](https://doi.org/10.17569/tojqi.613969)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20holistic%20view%20to%20barriers%20to%20technology%20integration%20in%20education&publication\_year=2019&author=%C5%9E.B.%20Tosunta%C5%9F&author=Z.%20%C3%87ubuk%C3%A7u&author=%C4%B0.%20Tu%C4%9Fba)
+090. [Tourangeau et al., 2000](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib90)
+R. Tourangeau, L.J. Rips, K. Rasinski
+The psychology of survey response
+Cambridge University Press, Cambridge (2000)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20psychology%20of%20survey%20response&publication\_year=2000&author=R.%20Tourangeau&author=L.J.%20Rips&author=K.%20Rasinski)
+091. [Tsai et al., 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib91)
+S.C. Tsai, C.H. Chen, Y.T. Shiao, J.S. Ciou, T.N. Wu
+Precision education with statistical learning and deep learning: A case study in taiwan
+International Journal of Educational Technology in Higher Education, 17 (2020), p. 12, [10.1186/s41239-020-00186-2](https://doi.org/10.1186/s41239-020-00186-2)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85083662578&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Precision%20education%20with%20statistical%20learning%20and%20deep%20learning%3A%20A%20case%20study%20in%20taiwan&publication\_year=2020&author=S.C.%20Tsai&author=C.H.%20Chen&author=Y.T.%20Shiao&author=J.S.%20Ciou&author=T.N.%20Wu)
+092. [U. S. Department of Education, 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib92)
+U. S. Department of Education
+Artificial intelligence and future of teaching and learning: Insights and recommendations
+Office of Educational Technology, Washington, D.C (2023)
+[https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf](https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20and%20future%20of%20teaching%20and%20learning%3A%20Insights%20and%20recommendations&publication\_year=2023&author=U.%20S.%20Department%20of%20Education)
+093. [van den Berg, 2024](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib93)
+van den Berg
+Generative AI and educators: Partnering in using open digital content for transforming education
+Open Praxis, 16 (2) (2024), pp. 130-141
+[https://search.informit.org/doi/10.3316/informit.T2024041000014202036614415](https://search.informit.org/doi/10.3316/informit.T2024041000014202036614415)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20AI%20and%20educators%3A%20Partnering%20in%20using%20open%20digital%20content%20for%20transforming%20education&publication\_year=2024&author=van%20den%20Berg)
+094. [Velander et al., 2023](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib94)
+J. Velander, M.A. Taiye, N. Otero, M. Milrad
+Artificial intelligence in K-12 education: Eliciting and reflecting on Swedish teachers' understanding of AI and its implications for teaching & learning
+Education and Information Technologies, 29 (2023), pp. 4085-4105, [10.1007/s10639-023-11990-4](https://doi.org/10.1007/s10639-023-11990-4)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20in%20K-12%20education%3A%20Eliciting%20and%20reflecting%20on%20Swedish%20teachers%20understanding%20of%20AI%20and%20its%20implications%20for%20teaching%20%20learning&publication\_year=2023&author=J.%20Velander&author=M.A.%20Taiye&author=N.%20Otero&author=M.%20Milrad)
+095. [Vongkulluksn et al., 2020](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib95)
+V.W. Vongkulluksn, K. Xie, N.A. Hawk
+Investing time in technology: Teachers' value beliefs and time cost profiles for classroom technology integration
+Teachers College Record, 122 (12) (2020), pp. 1-38, [10.1177/016146812012201214](https://doi.org/10.1177/016146812012201214)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Investing%20time%20in%20technology%3A%20Teachers%20value%20beliefs%20and%20time%20cost%20profiles%20for%20classroom%20technology%20integration&publication\_year=2020&author=V.W.%20Vongkulluksn&author=K.%20Xie&author=N.A.%20Hawk)
+096. [Wang and Cheng, 2021](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib96)
+T. Wang, E.C.K. Cheng
+An investigation of barriers to Hong Kong K-12 schools incorporating artificial intelligence in education
+Computers and Education: Artificial Intelligence, 2 (2021), Article 100031, [10.1016/j.caeai.2021.100031](https://doi.org/10.1016/j.caeai.2021.100031)
+[View PDF](https://www.sciencedirect.com/science/article/pii/S2666920X21000254/pdfft?md5=a9ff4f30b23e156ba1ea680ac2e94a0d&pid=1-s2.0-S2666920X21000254-main.pdf) [View article](https://www.sciencedirect.com/science/article/pii/S2666920X21000254) [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85123894871&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20investigation%20of%20barriers%20to%20Hong%20Kong%20K-12%20schools%20incorporating%20artificial%20intelligence%20in%20education&publication\_year=2021&author=T.%20Wang&author=E.C.K.%20Cheng)
+097. [Wargo and Hoke, 2022](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib97)
+E. Wargo, I. Hoke
+Revisiting rural education access
+Educational Considerations, 48 (2) (2022), p. 5, [10.4148/0146-9282.2333](https://doi.org/10.4148/0146-9282.2333)
+Article
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Revisiting%20rural%20education%20access&publication\_year=2022&author=E.%20Wargo&author=I.%20Hoke)
+098. [Washington Office of Superintendent of Public Instruction (OSPI, n.d.)](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib98)
+Washington Office of Superintendent of Public Instruction (OSPI, n.d.). Human-centered AI guidance for K-12 public schools. Retrieved August 1, 2024, from [https://ospi.k12.wa.us/student-success/resources-subject-area/human-centered-artificial-intelligence-schools](https://ospi.k12.wa.us/student-success/resources-subject-area/human-centered-artificial-intelligence-schools).
+[Google Scholar](https://scholar.google.com/scholar?q=Washington%20Office%20of%20Superintendent%20of%20Public%20Instruction%20(OSPI%2C%20n.d.).%20Human-centered%20AI%20guidance%20for%20K-12%20public%20schools.%20Retrieved%20August%201%2C%202024%2C%20from%20https%3A%2F%2Fospi.k12.wa.us%2Fstudent-success%2Fresources-subject-area%2Fhuman-centered-artificial-intelligence-schools.)
+099. [Watson, 2006](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib99)
+G. Watson
+Technology professional development: Long-term effects on teacher self-efficacy
+Journal of Technology and Teacher Education, 14 (1) (2006), pp. 151-165
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Technology%20professional%20development%3A%20Long-term%20effects%20on%20teacher%20self-efficacy&publication\_year=2006&author=G.%20Watson)
+100. [Wozney et al., 2006](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib100)
+L. Wozney, V. Venkatesh, P.C. Abrami
+Implementing computer technologies: Teachers' perceptions and practices
+Journal of Technology and Teacher Education, 14 (1) (2006), pp. 173-207
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Implementing%20computer%20technologies%3A%20Teachers%20perceptions%20and%20practices&publication\_year=2006&author=L.%20Wozney&author=V.%20Venkatesh&author=P.C.%20Abrami)
+101. [Zhao and Cziko, 2001](https://www.sciencedirect.com/science/article/pii/S2666920X25000037?via%3Dihub#bbib101)
+Y. Zhao, G.A. Cziko
+Teacher adoption of technology: A perceptual control theory perspective
+Journal of Technology and Teacher Education, 9 (2001), pp. 5-30
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85214075751&partnerID=10&rel=R3.0.0) [Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20adoption%20of%20technology%3A%20A%20perceptual%20control%20theory%20perspective&publication\_year=2001&author=Y.%20Zhao&author=G.A.%20Cziko)
+© 2025 Published by Elsevier Ltd.
+The Identity Selector: Persistence Service

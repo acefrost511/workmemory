@@ -1,0 +1,266 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105435
+# Content Length: 27352 characters
+# Extracted at: 2026-04-03 09:58:49
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002039?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002039?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002039)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525002039/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002039?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002039?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002039?via%3Dihub#preview-section-snippets)
+- [References (154)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002039?via%3Dihub#preview-section-references)
+- [Cited by (5)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002039?via%3Dihub#preview-section-cited-by)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 239](https://www.sciencedirect.com/journal/computers-and-education/vol/239/suppl/C "Go to table of contents for this volume/issue"), December 2025, 105435
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00117-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/239/suppl/C)
+# K-12 teachers’ ethical competencies for AI literacy: Insights from a systematic literature review
+Author links open overlay panelDeeptiTagarea, TirthaKarkib, WonjinYub
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105435](https://doi.org/10.1016/j.compedu.2025.105435 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525002039&orderBeanReset=true)
+## Highlights
+- •
+K-12 teachers' ethical knowledge, skills, and dispositions operationalize UNESCO's ‘ethics in AI’ teacher competency.
+- •
+Knowledge: Awareness of AI ethics, Limitations of AI, Socio-political awareness of AI, and Human in the loop.
+- •
+Skills: AI transparency and explainability, Critical analysis of AI, Culturally responsive and inclusive pedagogy.
+- •
+Dispositions: AI ethics sensitivity, critical attitude towards AI, being inclusive and culturally responsive.
+- •
+Teachers' AI ethics competencies are interdependent and interact within the context of AI literacy education.
+## Abstract
+Artificial Intelligence (AI) technology is now an integral part of our daily life and society. AI offers numerous affordances with potential positive and negative impact on society. K-12 educators are responsible to prepare the future generations to harness the benefits of AI ethically, responsibly, safely, and critically. Teachers need sound knowledge, skills, and dispositions to implement ethics-driven AI literacy education. To achieve this goal, there is a pressing need to identify and operationalize the competencies that teachers need to foster AI literacy. We conducted a larger systematic literature review (SLR), which reviewed empirical studies focused on AI literacy published in the last ten years (2014–2024) to explore and consolidate all competencies for K-12 teachers. This paper reports on teachers’ ethical competencies identified from this SLR. The review of 76 papers included in the final dataset unveils that the ethical AI competencies are interdependent and co-occur in a given context such that teachers may need a combination of knowledge, skills, and dispositions to successfully implement AI literacy education. The findings revealed that teachers need (1) the knowledge competencies of AI ethics issues, limitations of AI, socio-political awareness, and human in the loop, (2) skills of AI transparency and explainability, critical analysis of AI, and culturally responsive and inclusive pedagogy, and (3) the dispositions of AI ethics sensitivity, critical attitude towards AI, and being inclusive and culturally responsive. These ethical competencies can inform teacher preparation and professional development programs for teachers to leverage AI technologies ethically in education.
+## Introduction
+As artificial intelligence (AI) becomes integral to our daily lives, its societal impact is being increasingly scrutinized (Chaudhry & Kazim, 2022; Chen et al., 2020). Improper use of AI can lead to ethical issues, such as misinformation, hallucinations, bias against underrepresented communities, a growing digital divide, and social inequities (Chaudhry & Kazim, 2022; Chen et al., 2020). Hence, non-AI professionals need to understand the range and scope of AI, its social impact and ethical concerns, while also developing skills to effectively collaborate with AI (Chiu, 2024). In education, AI holds the potential to support teachers and enable learner-centered instruction (Chen et al., 2020; Miao & Cukurova, 2024). However, it also poses risks, including algorithmic bias, privacy violations, and widening the digital divide (Fukuda‐Parr & Gibbons, 2021). Biased data fed into AI systems can perpetuate unfair prejudice and discrimination which may harm students' well-being (Bingham, 2023; Chen et al., 2020; Lindgren, 2023; Nguyen et al., 2023; Prothero, 2023). In addition, more recently, with the proliferation of generative AI (GenAI) tools in education and the widespread use of GenAI by students for their coursework and assignments, there are ethical concerns around academic integrity, over-reliance on GenAI, and the inequitable implementation of GenAI (Eaton, 2025; Nguyen & Truong, 2025). These challenges highlight the urgent need for a paradigm shift in education, where teachers are equipped to address AI's opportunities and risks and ensure equitable and effective integration of AI.
+AI can transform education by redefining teaching and learning practices (Ng et al., 2023). Researchers identify three areas of AI integration in education: "AI in Education (AIED)," which enhances teaching through process automation and personalized learning; "AI education," which focuses on teaching AI principles and technical concepts; and "AI literacy education," which promotes a general understanding of AI, its creative use, and critical analysis (Grover, 2024; Ng et al., 2023). AI literacy education includes competencies like collaborating with AI, utilizing it for tasks, and critically evaluating its functions (Long & Magerko, 2020; Wong et al., 2020). While AI education and AI literacy education are often used interchangeably, the key difference between the two is the higher emphasis of AI education on developing technical knowledge and skills in AI (Grover, 2024). AI literacy education, on the other hand, focuses mainly on developing just enough technical know-how to empower the learner to be a critical user of AI. The emphasis on developing AI literacy in K-12 education is growing as seen in the guidelines for AI literacy education which stress on strengthening an ethics-driven AI literacy education (Biagini, 2025; Chiu & Chai, 2020; Lindgren, 2023; Ng et al., 2021; Siau & Wang, 2020; UNESCO, 2021).
+An ethics-driven AI literacy education requires the use of teaching approaches that focus on nurturing responsible AI users rather than solely on technology (Williams et al., 2023). Ethics-driven AI literacy education prepares students to make ethical decisions and choices while using AI systems, critically analyze AI output, and be cognizant of the potential harm done by errors and biases of the AI system in addition to having the knowledge and skills needed to interact and collaborate with AI (Miao & Shiohira, 2024). Teachers play a crucial role in recognizing AI's potential biases and ethical implications, using it critically in classrooms, and fostering ethical discussions among students to bridge educational divides (Gouseti et al., 2024; Miao & Cukurova, 2024; Miao & Shiohira, 2024). Thus, teachers should be sufficiently prepared for the implementation of ethics-driven AI literacy education (Miao & Cukurova, 2024). However, research examining teachers' ethical competencies in AI literacy remains limited and highlights that teachers hold misconceptions about AI and its ethical issues (Miao & Cukurova, 2024; Gouseti et al., 2024). Thus, this study systematically analyzes previous research on AI literacy education conducted with teachers to identify ethical competencies that teachers need to successfully implement ethics-driven AI literacy in K-12 education.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002039)
+## Section snippets
+## What is AI literacy
+AI literacy is the ability to communicate and collaborate effectively with AI in various socio-cultural contexts, critically analyze the output of AI, and utilize AI in an ethical manner (Long & Magerko, 2020; Wong et al., 2020). An AI-literate person would be able to identify AI tools, algorithms, and applications and comprehend the functioning of AI (Casal-Otero et al., 2023; Ng et al., 2021; UNESCO, 2022).To become AI literate one needs several other related pre-requisite literacies such as
+## Methods
+This paper is part of a larger study involving a systematic literature review (SLR) to identify the competencies (knowledge, skills, and dispositions) that K-12 teachers need to integrate AI Literacy in K-12 education. In this paper, we only report the ethical competencies for integrating AI literacy in K-12 education as identified in the SLR. We address two ethical aspects in AI literacy - 1) teachers' ability to integrate AI literacy in an ethical, equitable, inclusive, and just manner in
+## Results
+Among the 76 included papers, 80 % were published during or after 2022 with 16 (21 %) in 2024 (until February), 26 (34 %) in 2023, 19 (25 %) in 2022, nine (12 %) in 2021, five (6.6 %) in 2020, and one (1.3 %) in 2019 (Fig. 2). Despite conducting a search for papers from 2014 to 2024, no relevant papers investigating teacher education in AI literacy were found between 2014 and 2018. This indicates that research on AI literacy for teachers and teacher preparation for AI literacy education is a
+## Discussion
+This paper presented ethical competencies for K-12 teachers to implement AI literacy education, derived from a SLR. Using the CoLeaF framework, competencies were categorized into knowledge, skills, and dispositions that interact to complete a task (Frezza et al., 2018). Ethical knowledge competencies define what teachers need to know about AI ethics to deliver an ethics-driven AI curriculum. Ethical skill competencies focus on how teachers apply this knowledge effectively. Ethical dispositional
+## Limitations and conclusion
+This SLR investigated research papers from 2014 to February 2024 to identify teacher competencies necessary for the implementation of AI literacy education. Through this paper, we reported the ethical competencies that were identified in this SLR and presented evidence that the ethical competencies co-occur and interact within the context of AI literacy education. We also found that competencies are interdependent, and teachers need to activate more than one competency to successfully implement
+## CRediT authorship contribution statement
+\*\*Deepti Tagare:\*\* Writing – review & editing, Writing – original draft, Visualization, Validation, Supervision, Software, Resources, Project administration, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Tirtha Karki:\*\* Writing – original draft, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Wonjin Yu:\*\* Writing – original draft, Investigation, Formal analysis, Data curation, Conceptualization.
+Recommended articles
+- M.A. Ayanwale \_et al.\_
+### [Teachers' readiness and intention to teach artificial intelligence in schools](https://www.sciencedirect.com/science/article/pii/S2666920X22000546)
+### Computers and Education: Artificial Intelligence
+(2022)
+- I. Celik
+### [Towards intelligent-TPACK: An empirical study on teachers' professional knowledge to ethically integrate artificial intelligence (AI)-based tools into education](https://www.sciencedirect.com/science/article/pii/S0747563222002886)
+### Computers in Human Behavior
+(2023)
+- B. Chen \_et al.\_
+### [Integrating generative AI in knowledge building](https://www.sciencedirect.com/science/article/pii/S2666920X23000632)
+### Computers and Education: Artificial Intelligence
+(2023)
+- A.-C.E. Ding \_et al.\_
+### [Enhancing teacher AI literacy and integration through different types of cases in teacher professional development](https://www.sciencedirect.com/science/article/pii/S2666557324000193)
+### Computers and Education Open
+(2024)
+- L. Kohnke \_et al.\_
+### [Preparing future educators for AI-enhanced classrooms: Insights into AI literacy and integration](https://www.sciencedirect.com/science/article/pii/S2666920X25000384)
+### Computers and Education: Artificial Intelligence
+(2025)
+- S. Lee \_et al.\_
+### [Fostering youth's critical thinking competency about AI through exhibition](https://www.sciencedirect.com/science/article/pii/S1369847823001079)
+- S.J. Lee \_et al.\_
+### [A systematic review of AI education in K-12 classrooms from 2018 to 2023: Topics, strategies, and learning outcomes](https://www.sciencedirect.com/science/article/pii/S2666920X24000122)
+### Computers and Education: Artificial Intelligence
+(2024)
+- L. Li \_et al.\_
+### [A systematic review of learning task design for K-12 AI education: Trends, challenges, and opportunities](https://www.sciencedirect.com/science/article/pii/S2666920X24000183)
+### Computers and Education: Artificial Intelligence
+(2024)
+- D.T.K. Ng \_et al.\_
+### [Conceptualizing AI literacy: An exploratory review](https://www.sciencedirect.com/science/article/pii/S2666920X21000357)
+### Computers and Education: Artificial Intelligence
+(2021)
+- S. Rizvi \_et al.\_
+### [Artificial Intelligence teaching and learning in K-12 from 2019 to 2022: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S2666920X23000243)
+### Computers and Education: Artificial Intelligence
+(2023)
+S. Akgun \_et al.\_
+### Artificial intelligence in education: Addressing ethical challenges in K-12 settings
+### AI and Ethics
+(2021)
+R.H. Al-Qawabah
+### The impact of artificial intelligence on students in the first three grades in basic schools in the city of Amman-Jordan from the perspective of their teachers
+### International Journal of Religion
+(2024)
+S. Ali \_et al.\_
+### A picture is worth a thousand words: Co-designing text-to-image generation learning materials for K-12 with educators
+### Proceedings of the AAAI Conference on Artificial Intelligence
+(2024)
+L.K. Allen \_et al.\_
+### ED-AI Lit: An interdisciplinary framework for AI literacy in education
+### Policy Insights from the Behavioral and Brain Sciences
+(2024)
+Authors....
+M.A. Ayanwale \_et al.\_
+### Exploring factors that support pre-service teachers' engagement in learning artificial intelligence
+### Journal for STEM Education Research
+(2024)
+M.A. Ayanwale \_et al.\_
+### Perceptions of STEM vs. non-STEM teachers toward teaching artificial intelligence
+### IEEE AFRICON
+(2023)
+S. Bagchi
+### What is a black box? A computer scientist explains what it means when the inner workings of AIs are hidden
+### The Conversation
+(2023)
+G. Bekiaridis \_et al.\_
+### Supplement to the DigCompEDU framework
+### AI Pioneers: Artificial intelligence in education & training
+(2024)
+G. Biagini
+### Towards an AI-literate future: A systematic literature review exploring education, ethics, and applications
+### International Journal of Artificial Intelligence in Education
+(2025)
+K.-E.K. Bilstrup \_et al.\_
+### From demo to design in teaching machine learning
+### ACM Conference on Fairness, Accountability, and Transparency
+(2022)
+M. Bingham
+### Approach with caution: An innovative educator reviews the impact AI could have on education
+### Childhood Education
+(2023)
+N.B. Black \_et al.\_
+### A framework for approaching AI education in educator preparation programs
+### Proceedings of the AAAI Conference on Artificial Intelligence
+(2024)
+B.S. Bloom \_et al.\_
+### Taxonomy of educational objectives: The classification of educational goals
+(1956)
+B. Broll \_et al.\_
+### Beyond black-boxes: Teaching complex machine learning ideas through scaffolded interactive activities
+### Proceedings of the AAAI Conference on Artificial Intelligence
+(2023)
+N. Carter \_et al.\_
+### The use of triangulation in qualitative research
+### Oncology Nursing Forum
+(2014)
+L. Casal-Otero \_et al.\_
+### AI literacy in K-12: A systematic literature review
+### International Journal of STEM Education
+(2023)
+M.A. Chaudhry \_et al.\_
+### Artificial intelligence in education (AIEd): A high-level academic and industry note 2021
+### AI and Ethics
+(2022)
+L. Chen \_et al.\_
+### Artificial intelligence in education: A review
+### IEEE Access
+(2020)
+T.K.F. Chiu
+### A holistic approach to the design of artificial intelligence (AI) education for K-12 schools
+### TechTrends
+(2021)
+T.K.F. Chiu
+### The impact of generative AI (GenAI) on practices, policies and research direction in education: A case of ChatGPT and Midjourney
+### Interactive Learning Environments
+(2024)
+T.K.F. Chiu \_et al.\_
+### Sustainable curriculum planning for artificial intelligence education: A self-determination theory perspective
+### Sustainability
+(2020)
+T.K.F. Chiu \_et al.\_
+### Creation and evaluation of a pretertiary artificial intelligence (AI) curriculum
+### IEEE Transactions on Education
+(2022)
+M. Choudhury
+### Generative AI has a language problem
+### Nature Human Behaviour
+(2023)
+A. Clear \_et al.\_
+### Designing Computer Science Competency Statements: A Process and Curriculum Model for the 21st Century
+### Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education
+(2020)
+D.G. Cope
+### Methods and meanings: Credibility and trustworthiness of qualitative research
+### Oncology Nursing Forum
+(2014)
+H. Dabbagh \_et al.\_
+(2024)
+Y. Dai \_et al.\_
+### An embodied, analogical and disruptive approach of AI pedagogy in upper elementary education: An experimental study
+### British Journal of Educational Technology
+(2024)
+Y. Dai \_et al.\_
+### Collaborative construction of artificial intelligence curriculum in primary schools
+### Journal of Engineering Education
+(2023)
+D. DiPaola \_et al.\_
+### Make-a-Thon for middle school AI educators
+### Proceedings of the 54th ACM Technical Symposium on Computer Science Education
+(2023)
+### Data protection laws of the world: An overview of key privacy and data protection laws across more than 160 jurisdictions
+(2025)
+S. Druga \_et al.\_
+### How do children's perceptions of machine intelligence change when training and coding smart programs?
+### Interaction Design and Children
+(2021)
+S. Druga \_et al.\_
+### The landscape of teaching resources for AI education
+### Proceedings of the 27th ACM Conference on on Innovation and Technology in Computer Science Education
+(2022)
+S.E. Eaton
+### Global trends in education: Artificial intelligence, postplagiarism, and future-focused learning for 2025 and beyond – 2024–2025 Werklund distinguished research lecture
+### International Journal for Educational Integrity
+(2025)
+F. Miao \_et al.\_
+### AI competency framework for teachers
+S. Frezza \_et al.\_
+### Modelling competencies for computing education beyond 2020: A research-based approach to defining competencies in the computing disciplines
+### Proceedings companion of the 23rd annual ACM conference on innovation and technology in computer science education
+(2018)
+S. Fukuda‐Parr \_et al.\_
+### Emerging consensus on ‘ethical AI’: Human rights critique of stakeholder guidelines
+### Global Policy
+(2021)
+G. Gibellini \_et al.\_
+### AI education from the educator's perspective: Best practices for an inclusive AI curriculum for middle school
+### Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems
+(2023)
+A. Gouseti \_et al.\_
+### The ethics of using AI in K-12 education: A systematic literature review
+### Technology, Pedagogy and Education
+(2024)
+S. Grover
+### Teaching AI to K-12 learners: Lessons, issues, and guidance
+### Proceedings of the 55th ACM Technical Symposium on Computer Science Education
+(2024)
+View more references
+- ### [Unleashing human potential: An artificial intelligence competency framework for K–12 education](https://www.sciencedirect.com/science/article/pii/S2666920X26000172)
+2026, Computers and Education Artificial Intelligence
+Show abstract
+This study explores strategic approaches for integrating artificial intelligence (AI) into K–12 education to prepare learners for the AI era. It addresses two critical questions: 1) What are the key components of AI competency frameworks identified in current research? 2) What framework can guide the effective, responsible integration of AI in K–12 while prioritising human values? We conducted a scoping review of 54 studies, identifying three core student competencies: foundational AI knowledge, practical and cognitive skills of using AI, and ethical awareness. However, existing frameworks place limited emphasis on developing human values. Consequently, we propose a three-component developmental framework—Understanding, Using, and Unleashing—to guide AI integration. The ‘Understanding’ component cultivates a conceptual understanding of AI, while ‘Using’ emphasizes practical and cognitive skills of using AI to enhance learning. Finally, ‘Unleashing’ highlights AI's potential to empower personal growth, and fostering a spiritual self capable of making value-based decisions and do good. This framework aims to prepare learners to contribute meaningfully to future society. Schools must teach students to use AI for empowerment and good, avoiding mere reliance or shortcuts. Through practical activities, education should guide learners to unleash their potential and harness technology for spiritual self-development.
+- ### [STEM education: Understanding secondary students’ epistemic cognition in the design process with the support of a personalized multi-agent system](https://www.sciencedirect.com/science/article/pii/S0360131525002726)
+2026, Computers and Education
+Show abstract
+The engineering design process is a vital component of integrated STEM education, where students' design practices both shape and are shaped by their epistemic cognition (EC). Nonetheless, research on secondary students' EC in STEM contexts is limited, and implementing personalized STEM instruction that accommodates diverse students' interests and needs poses significant challenges. Harnessing a Multi-Agent System (MAS) afforded by Generative Artificial Intelligence (GAI) offers a promising pathway to address this gap. Grounded in the design thinking model of \_E\_ DIPT (Empathize-Define-Ideate-Prototype-Test), this study developed a \_P\_ ersonalized \_MAS\_, namely EPMAS, to support secondary students' STEM project-based design process. Twenty students, grouped into dyads, participated in a five-day STEM winter camp. We sought to explore students' EC within the EPMAS-supported design process and their perceptions of the system. Data were collected through in-depth group interviews, supplemented with student artifacts and interaction log data, and analyzed using theoretical thematic analysis. Findings revealed students' engagement with epistemic aims, ideals, and reliable processes, reflecting their developed understanding of engineering design. Contrary to common concerns about over-reliance on GAI, students demonstrated high epistemic agency, critically employing EPMAS's stepwise guidance as part of their epistemic repertoire to pursue creative solutions. These results suggest that EPMAS-supported authentic STEM learning holds promise for broader school adoption.
+- ### [Co-constructing adaptive lesson plans with GenAI: Pre-service teachers' Intelligent-TPACK and prompt engineering strategies](https://www.sciencedirect.com/science/article/pii/S0360131525002532)
+2026, Computers and Education
+Show abstract
+Generative Artificial Intelligence (GenAI) technologies present new opportunities for teachers to design adaptive and student-centered instruction. However, the educational value of GenAI depends not only on technical usage but also on teachers' ability to formulate pedagogically meaningful prompts. Prompting strategies are not isolated from teachers′ prior knowledge and skills. Less is known about how pre-service teachers′ AI-related knowledge influences prompt engineering strategies, in turn leading to meaningful adaptive lesson plans. Considering this gap, we design an instructional task for pre-service teachers to generate adaptive lesson plans with the help of GenAI. Prior to the task, we collected data about their AI-related skills, namely AI literacy and Intelligent-TPACK. The prompts were qualitatively analyzed based on the phases of the Knowledge Construction (KC) Framework. Then, we explored the pedagogical value of adaptive lesson plans through a rubric in terms of three indicators: student agency, adaptive strategies, and flexible tools. PLS-SEM analysis revealed that as long as pre-service teachers have AI-specific technological and pedagogical knowledge, they formulate higher phases of prompts based on the KC framework. Our analysis showed that prompts from higher phases generated more adaptive lesson plans in terms of student agency, adaptive strategies, and flexible tools. We also found an indirect effect of Intelligent-TPK on adaptive lesson plans. This study highlights that effective prompt engineering is a pedagogical act shaped by teachers’ knowledge, not merely a technical command. It also underscores the importance of embedding AI-specific pedagogical training in teacher education. By conceptualizing prompts as epistemic moves, we offer new insights into how teachers and GenAI can collaborate to produce responsive and inclusive learning experiences.
+- ### [“Is AI Inevitable?” Development of Attitudes and Practices of Czech Teachers Between 2023 and 2025](https://doi.org/10.3390/educsci16020335)
+2026, Education Sciences
+- ### [Development and validation of a multidimensional AI literacy scale for higher education students: A mixed-method study](https://doi.org/10.1177/09610006261425235)
+2026, Journal of Librarianship and Information Science
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525002039)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

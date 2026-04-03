@@ -1,0 +1,822 @@
+# Source URL: https://doi.org/10.1007/s10639-026-13938-w
+# Content Length: 109778 characters
+# Extracted at: 2026-04-03 09:56:52
+#============================================================
+
+
+
+
+
+
+
+
+
+Exploring students’ (mis)conceptions about ChatGPT-generated text: A qualitative study | Education and Information Technologies | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/10639/article&sz=728x90&pos=top&articleid=s10639-026-13938-w)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s10639-026-13938-w)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Education and Information Technologies](/journal/10639)
+3. Article
+
+Exploring students’ (mis)conceptions about ChatGPT-generated text: A qualitative study
+======================================================================================
+
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 01 April 2026
+
+* (2026)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1007/s10639-026-13938-w.pdf)
+
+
+[Save article](/article/10.1007/s10639-026-13938-w/save-research?_csrf=KnU2x6Tl24wulRBnFi1UiZVCCtVCoP7R)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Education and Information Technologies](/journal/10639)
+[Aims and scope](/journal/10639/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/eait)
+
+
+
+
+Exploring students’ (mis)conceptions about ChatGPT-generated text: A qualitative study
+
+[Download PDF](/content/pdf/10.1007/s10639-026-13938-w.pdf)
+
+
+
+
+
+* [Ivar Bråten](#auth-Ivar-Br_ten-Aff1) 
+  [ORCID: orcid.org/0000-0002-9242-9087](https://orcid.org/0000-0002-9242-9087)[1](#Aff1),
+* [Natalia Latini](#auth-Natalia-Latini-Aff1) 
+  [ORCID: orcid.org/0000-0002-4514-2403](https://orcid.org/0000-0002-4514-2403)[1](#Aff1) &
+* [Helge I. Strømsø](#auth-Helge_I_-Str_ms_-Aff1) 
+  [ORCID: orcid.org/0000-0003-1836-3339](https://orcid.org/0000-0003-1836-3339)[1](#Aff1)
+
+
+
+
+Abstract
+--------
+
+With the advent of large language models (LLMs), a major concern has become how students can be taught artificial intelligence (AI) literacy. Arguably, a necessary starting point for teaching AI literacy is knowledge about students’ pre-existing understanding of how LLMs work and the output they generate. Therefore, the main purpose of this study was to explore students’ understanding of ChatGPT-generated text, that is, their understanding of the origin of ChatGPT’s information and of how ChatGPT uses that information in generating textual output. Two hundred sixty-seven Norwegian high-school students responded in writing to broad open-ended questions about these issues, and we used thematic analysis in qualitatively exploring their conceptions and misconceptions. Students held a range of adequate and adaptive conceptions regarding the sources, the output, the function, and the use of ChatGPT-generated text. However, they also held several misconceptions that may hamper constructive use of ChatGPT as a literacy and learning tool. In particular, there was considerable confusion regarding the information sources that ChatGPT draws on in generating text, with an overestimation of the general quality of those sources also associated with a tendency to put unwarranted trust in ChatGPT-generated textual output. Potential implications concern both the conceptualization of AI literacy and efforts to promote such literacy among students.
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Applied Linguistics](/subjects/applied-linguistics)
+* [Discourse Research](/subjects/discourse-research)
+* [Educational Research](/subjects/educational-research)
+* [eLearning](/subjects/elearning)
+* [Sociolinguistics](/subjects/sociolinguistics)
+* [Pedagogy](/subjects/pedagogy)
+
+1 Introduction
+--------------
+
+Generative artificial intelligence (genAI) relies on machine learning algorithms that allow for the generation of different types of new content based on pretraining with vast datasets (Cao et al., [2023](/article/10.1007/s10639-026-13938-w#ref-CR14)). Within the social sciences, recent research on genAI spans a number of areas from business economics to anthropology, with the largest area being education (Obreja et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR52)). Further, within education, research on the application of the Chat Generative Pretrained Transformer (ChatGPT) has emerged as a major topic since its introduction by OpenAI in November 2022 (Obreja et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR52)).
+
+ChatGPT is a genAI tool that belongs to the category of large language models (LLMs), which essentially are advanced text-prediction machines programmed to generate human-like responses to prompts provided by humans (Dennis, [2024](/article/10.1007/s10639-026-13938-w#ref-CR21); Mittelstadt et al., [2023](/article/10.1007/s10639-026-13938-w#ref-CR45); Shanahan, [2023](/article/10.1007/s10639-026-13938-w#ref-CR58)). Based on an enormous amount of publicly available text, typically residing on the internet, an LLM creates a massive statistical model used for probability calculation in predicting the next word or phrase from already generated text initiated by a human prompt. In addition to just feeding the model with a huge textual dataset, designers can train it by providing positive and negative feedback on its attempts to predict the most likely string of text to follow given a particular context. Such pretraining typically is followed by fine-tuning to enhance model performance on particular tasks. Interactions with users through cycles of queries and responses can further refine the model and help it acquire statistical information about language structures and patterns that can be used for subsequent text prediction in response to a prompt. Of note is that in order to obtain task relevant output from an LLM, users need to learn how to interact with the model via clear, goal-focused, and context-rich prompts (Eager & Brunton, [2023](/article/10.1007/s10639-026-13938-w#ref-CR25); Federiakin et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR28)).
+
+Not even high-quality prompts can guarantee high-quality outputs, however. LLMs may perform impressively in generating well-formulated, well-organized, and informative outputs that are easily mistaken for human-made texts. Still, their potential as a learning and literacy tool currently comes with certain epistemic risks. Among these risks are not only the possibility to receive directly erroneous information but also more subtle inaccuracies, oversimplifications, and biased responses presented as truth in a confident way (Mittelstadt et al., [2023](/article/10.1007/s10639-026-13938-w#ref-CR45)). Further, when model responses include references to the sources they draw on (if explicitly prompted to do so), such source references may be synthesized from a range of different references, with no guarantee that the generated references are real and trustworthy (Bråten et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR10)).
+
+Interestingly, from a philosophical perspective, it can be argued that LLMs such as ChatGPT are best characterized as “bullshitters” because they essentially are indifferent to the truth of the textual information that they generate in response to a prompt (Frankfurt, [2005](/article/10.1007/s10639-026-13938-w#ref-CR29); Hicks et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR31)). That is, despite the tendency to anthropomorphize these models and align them with human truth-tellers (Mitchell, [2023](/article/10.1007/s10639-026-13938-w#ref-CR44)), they are not designed to provide truthful information about the natural and social world but, rather, to generate human-like linguistic responses by operating on already available linguistic information. In contrast, humans are embodied, biological creatures that also have extra-linguistic contact with reality and, in general, are concerned with representing this reality in an accurate way when producing linguistic output (Barandiaran & Almendros, [2025](/article/10.1007/s10639-026-13938-w#ref-CR4); Bayne & Williams, [2023](/article/10.1007/s10639-026-13938-w#ref-CR7); Chemero, [2023](/article/10.1007/s10639-026-13938-w#ref-CR16); Hicks et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR31)). Please see Liang et al. ([2025](/article/10.1007/s10639-026-13938-w#ref-CR40)) for examples of different types of ChatGPT-generated responses that represent indifference to external reality or truth. Needless to say, the epistemic risks and nature of LLMs as described above, call for epistemic vigilance and knowledge in critically evaluating both the content and source information provided by LLMs, for example, by corroborating this information by checking other sources for consistency or inconsistency (Caulfield & Wineburg, [2023](/article/10.1007/s10639-026-13938-w#ref-CR15)).
+
+Within education, LLMs have been regarded as a potential gamechanger for literacy and learning (McCarthy & Yan, [2024](/article/10.1007/s10639-026-13938-w#ref-CR43); Xing et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR64)). For example, Kalantzis and Cope ([2025](/article/10.1007/s10639-026-13938-w#ref-CR33)) have speculated that LLMs might be as transformative for literacy as the invention of the printing press (see also, Robinson & Hollett, [2024](/article/10.1007/s10639-026-13938-w#ref-CR55)). According to Kasneci et al. ([2023](/article/10.1007/s10639-026-13938-w#ref-CR35)), the new opportunities these models create for students and teachers include supporting students’ development of language, reading, writing, critical thinking, and problem-solving skills, and assisting teachers with a number of instructional tasks ranging from lesson planning to assessment. One key challenge for student learning that was noted by Kasneci et al. ([2023](/article/10.1007/s10639-026-13938-w#ref-CR35)) involves overreliance on LLMs, with students potentially replacing their own engagement in learning with computerized efficiency, sometimes even presenting model-generated textual output as their own. As demonstrated by Stadler and colleagues ([2024](/article/10.1007/s10639-026-13938-w#ref-CR59)), this tempting lure of efficiency (Baron, [2023](/article/10.1007/s10639-026-13938-w#ref-CR5)) may be counterproductive for learning because it reduces cognitive processing and, in turn, leads to lower-quality learning outcomes. It therefore seems necessary that students gain awareness and understanding of how LLMs work, that is, about their possibilities as well as their limitations in learning contexts (Bauer et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR6); Kasneci et al., [2023](/article/10.1007/s10639-026-13938-w#ref-CR35)). Such understanding may be subsumed under the construct of AI literacy.
+
+It is no surprise that in the intriguing yet challenging literacy and learning landscape introduced by LLMs, researchers and educators have become concerned with how students can be taught AI literacy (e.g., Allen & Kendeou, [2024](/article/10.1007/s10639-026-13938-w#ref-CR1); Almatrafi et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR2); Chiu et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR17); Long & Magerko, [2020](/article/10.1007/s10639-026-13938-w#ref-CR41); McCarthy & Yan, [2024](/article/10.1007/s10639-026-13938-w#ref-CR43); Zhong & Liu, [2025](/article/10.1007/s10639-026-13938-w#ref-CR66)). In an influential paper, Long and Magerko ([2020](/article/10.1007/s10639-026-13938-w#ref-CR41), p. 2) defined AI literacy as “a set of competencies that enables individuals to critically evaluate AI technologies; communicate and collaborate effectively with AI; and use AI as a tool online, at home, and in the workplace.” In educational contexts, different conceptualizations of AI literacy have highlighted that an important competency is to understand how AI tools, including LLMs such as ChatGPT, basically work (Allen & Kendeou, [2024](/article/10.1007/s10639-026-13938-w#ref-CR1); Almatrafi et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR2); Chiu et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR17); Zhong & Liu, [2025](/article/10.1007/s10639-026-13938-w#ref-CR66)). This involves gaining a foundational understanding of concepts and principles related to LLMs, as a basis for considering their potentials and limitations and the need to critically evaluate their textual outputs in light of other information sources. Presumably, gaining such foundational understanding of how LLMs work may help students use them in more careful and beneficial ways, that is, in the service of deeper learning rather than the opposite (i.e., as a replacement for engagement that may undermine deeper learning; Bauer et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR6)).
+
+Prior research on how students perceive of and understand generative AI tools and, more specifically, LLMs such as ChatGPT, has mainly used self-report questionnaires and quantitative methodologies (e.g., Dietrich & Grassini, [2025](/article/10.1007/s10639-026-13938-w#ref-CR22); Gruenhagen et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR30); Kamoun et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR34): Moghavvemi & Jam, [2025](/article/10.1007/s10639-026-13938-w#ref-CR46); Morell-Mengual et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR47); Nazaretsky et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR48); Ravselj et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR54); Stojanov et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR60); Suriano et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR61); Yu et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR65); Zhong & Liu, [2025](/article/10.1007/s10639-026-13938-w#ref-CR66)). For example, Stojanov et al. ([2024](/article/10.1007/s10639-026-13938-w#ref-CR60)) identified five profile groups based on university students’ self-reports of their reliance on ChatGPT for different learning tasks, with more than one third of the students belonging to groups that either relied heavily on ChatGPT for all learning tasks or for completing their written assignments, in particular. Interestingly, the latter group also scored lowest with respect to self-reported critical use of ChatGPT, for example, regarding the cross-checking of ChatGPT-generated output against other information sources. In the same vein, Gruenhagen et al. ([2024](/article/10.1007/s10639-026-13938-w#ref-CR30)) found that one third of their participating university students reportedly had used a chatbot for completing assessment tasks, and that these students did not perceive such use as a breach of academic integrity (although they did not necessarily perceive the information provided by the chatbot to be trustworthy). Several other quantitative questionnaire studies with university-level participants also have found that students may report considerable mistrust in content generated by AI tools, in particular, by ChatGPT (e.g., Dietrich & Grassini, [2025](/article/10.1007/s10639-026-13938-w#ref-CR22); Kamoun et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR34); Morell-Mengual et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR47); Nazaretsky et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR48); Yu et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR65)).
+
+Of note is that efforts to measure students’ foundational understanding of how AI tools work, as part of measuring the broader construct of AI literacy, typically target students’ perceived knowledge of basic concepts and principles and of how such tools work (e.g., Knoth et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR36); Pinski & Benlian, [2023](/article/10.1007/s10639-026-13938-w#ref-CR53); Zhong & Liu, [2025](/article/10.1007/s10639-026-13938-w#ref-CR66)). For example, students are asked to rate to what extent they “can describe the meaning and characteristics of AI” and “give examples of AI limitations in understanding, interpreting, and generating natural language” (Zhong & Liu, [2025](/article/10.1007/s10639-026-13938-w#ref-CR66), Supplementary materials, Table B2). Other examples include rating to what extent they have “knowledge of the input data requirements for AI,” “knowledge of using AI output and interpreting it,” and “knowledge of AI output limitations” (Knoth et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR36), p. 10). Recently, basic knowledge about ChatGPT also has been assessed with a small number of multiple-choice questions about what ChatGPT is, as well as about its key strength and main limitation (Kamoun et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR34)).
+
+In one of the few qualitative studies in this area, Sedlbauer et al. ([2024](/article/10.1007/s10639-026-13938-w#ref-CR57)) had 25 Czech college students work on an essay assignment with the help of ChatGPT and reflect on their experience of using ChatGPT in writing. When their written responses were analyzed qualitatively, the three main themes of interaction with AI, learning benefits, and perceived meaning were identified. Regarding interaction with AI, students realized the importance of the prompt for obtaining a task relevant output but considered it challenging to identify and evaluate the sources that ChatGPT drew on in generating its output. Regarding learning benefits, students perceived that interaction with ChatGPT could develop their critical thinking because of the need to critically evaluate its imperfect output, as well as their ability to consider an issue from different perspectives. Finally, regarding perceived meaning, students realized that ChatGPT could be a useful tool as well as a source of problems, and they tended to anthropomorphize the LLM, that is, to consider it a real dialogue partner with its own intention and agenda. In another qualitative study that combined questionnaires with open-ended questions (*n* = 63) and focus group interviews (*n* = 12), Higgs and Stornaiuolo ([2024](/article/10.1007/s10639-026-13938-w#ref-CR32)) found that American high-school students were concerned that ChatGPT might be a threat to human creativity and that model-generated texts might lack authenticity and reproduce biases present in the dataset used for model training.
+
+Regarding potential effects of using ChatGPT on student learning, recent meta-analyses (e.g., Deng et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR20); Laun & Wolff, [2025](/article/10.1007/s10639-026-13938-w#ref-CR39)) have suggested that such effects may be positive. However, these meta-analyses are based on a relatively small number of primary studies that compare learning with ChatGPT with control conditions and, as argued by Weidlich et al. ([2025](/article/10.1007/s10639-026-13938-w#ref-CR63)), they are typically hampered by serious methodological limitations regarding the nature of the experimental treatment, the control conditions, and the validity of the learning outcome measures. As suggested by Bauer et al. ([2025](/article/10.1007/s10639-026-13938-w#ref-CR6)), students’ AI literacy may also be an underexplored yet important moderator for the effects of using ChatGPT on students’ learning. It could be argued, however, that a more solid knowledge base is needed to better understand students’ AI literacy and, in particular, their foundational understanding of how LLMs such as ChatGPT work.
+
+Given this background analysis, the main purpose of this study was to explore Norwegian high-school students’ understanding of ChatGPT-generated text, that is, their understanding of the origin of ChatGPT’s information and of how ChatGPT uses that information in generating textual responses. Our focus on ChatGPT rather than AI tools more generally was driven by the fact that this particular tool very clearly stands out among the AI-tools reportedly used by Norwegian students (Bjaaland et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR8)). In moving beyond existing research mainly relying on quantitative questionnaire data and performing a larger scale qualitative study exploring this issue in depth, this contribution provides a unique window into high-school students’ conceptions and potential misconceptions about ChatGPT-generated text. In particular, a better understanding of students’ misconceptions seems important because, like in other areas of learning and teaching (Bransford et al., [2000](/article/10.1007/s10639-026-13938-w#ref-CR9)), such misconceptions may have to be refuted for students to reap the potential benefits and avoid the potential pitfalls of learning with ChatGPT (Schroeder & Kucera, [2022](/article/10.1007/s10639-026-13938-w#ref-CR56)). Our study was guided by the following broad exploratory research question: Which conceptions and misconceptions about ChatGPT-generated text can be identified in high-school students’ responses to open-ended questions concerning this issue? The reason we opted for one broad exploratory research question rather than several more focused questions was that we wanted to preserve analytic openness, with this approach allowing us to systematically develop themes from the data without being constrained by analytic categories implied by more focused questions (Braun & Clarke, [2006](/article/10.1007/s10639-026-13938-w#ref-CR11); Braun et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR13)).
+
+2 Method
+--------
+
+### 2.1 Participants and context
+
+Participants were 267 second-year high-school students from 13 classes at two schools in a large city in southeast Norway. Our reason for selecting these two schools was mainly pragmatic; however, they also represented some of the breadth with respect to secondary schooling within the municipality. Second-year students were selected because they already had experience at the secondary level and were expected to be more familiar with using ChatGPT than first-year students. All participants completed college-preparatory courses. They had an overall mean age of 16.79 years (*SD* = 0.51) and 52.8% identified as female, 46.4% as male, and 0.7% as other. Most participants (60.7%) had Norwegian as their sole language background, while 30.0% had a mixed language background (i.e., Norwegian and another language), and 9.4% had a non-Norwegian language background. Of note is that all participants were proficient in Norwegian regardless of their language background. On average, participants’ grade in written Norwegian at the end of the first year was 4.41 (*SD* = 0.94), based on a grading system ranging from 1 (not good) to 6 (excellent).
+
+Participation in the study was voluntary and anonymous and all participants signed an informed consent form. In Norway, adolescents above the age of 16 can provide consent for processing the kind of data collected for this study (i.e., parental consent is not required). Each class received a gift card worth approximately USD 200 that could be used for some class activity. The procedures for collecting and handling the data were reviewed and approved by the Norwegian Social Science Data Services.
+
+The context for the current study is a highly digitalized society with widespread access to digital technologies (United Nations, [2025](/article/10.1007/s10639-026-13938-w#ref-CR62)) and with students across all grade levels having access to personal digital devices provided by the school (Norwegian Directorate for Education and Training, [2024](/article/10.1007/s10639-026-13938-w#ref-CR50)). For nearly 20 years, digital competency also has been included in the national curriculum as a basic skill that should be implemented across all school subjects (Norwegian Directorate for Education and Training, [2012](/article/10.1007/s10639-026-13938-w#ref-CR49)), with the Covid-19 pandemic accelerating an already highly digitalized schooling system (Cone et al., [2021](/article/10.1007/s10639-026-13938-w#ref-CR18)). According to the current guidelines for the use of genAI in Norwegian education, teachers should ground the use of genAI in the national curriculum, include parents and students in a dialogue about the use of genAI, consider students’ age and maturity, and create a culture for trial and error (Norwegian Directorate for Education and Training, [2024](/article/10.1007/s10639-026-13938-w#ref-CR50)). However, despite such national guidelines, each municipality essentially makes an independent decision about the implementation of genAI in its schools, with Norwegian teachers also having a high level of autonomy (Mausethagen & Mølstad, [2015](/article/10.1007/s10639-026-13938-w#ref-CR42)). There is currently no comprehensive report on the variation in genAI implementation across municipalities, however.
+
+The municipality in which this study was conducted relatively quickly developed an adaptation of ChatGPT for schools that adhered to the General Data Protection Regulation Act of the European Union in protecting students’ privacy and personal data (Elstad & Eriksen, [2024](/article/10.1007/s10639-026-13938-w#ref-CR27)). At the time of data collection, this model was based on GPT-3.5 Turbo but has later been updated to GPT-4o mini by Azure OpenAI. An important feature of the model is that it allows teachers to develop pre-prompted chatbots that respond to students in certain ways (e.g., responding to students in a Socratic way by asking new questions instead of providing simple answers). When this study was conducted, the municipality-specific ChatGPT version had been available to the participants for approximately one year, while the commercial version had been available for almost two years. At the participating schools, some of the teachers had not initiated any pedagogical use of a LLM at the time of data collection, whereas others had started to implement ChatGPT in their class instruction, also informing students about potential limitations and biases of model responses. Thus, the variation among these teachers may seem to reflect the variation in ChatGPT implementation at a national level. Elstad and Eriksen ([2024](/article/10.1007/s10639-026-13938-w#ref-CR27)) discussed how the implementation of genAI in schools may follow a developmental pathway from initial awareness to full integration into classroom instruction. At the time of data collection, many teachers at the participating schools could be characterized by an initial awareness of LLMs as a potential pedagogical tool.
+
+Regarding students’ use of ChatGPT, the vast majority of the participants (94%) reported that they had used it for school work, with most of them using it daily (15.1%) or several times a week (42.6%). Only 6.4% reportedly used ChatGPT for school work less often than monthly. With respect to leisure time use, the majority (80.5%) reportedly used ChatGPT in their leisure time, with most of them using it weekly (25.6%) or monthly (48.4%). In comparison, a survey of Norwegian university students (Bjaaland et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR8)) found that 25% reported that they often used genAI (in particular, ChatGPT) for study purposes, with 34% reporting that they used it “from time to time.”
+
+### 2.2 Materials and procedure
+
+The data were collected in participants’ regular classrooms by the three authors. No students attending a class refused to participate in the study. Participants accessed a web-based questionnaire in which they first completed a demographic survey asking them about age, gender identification, and language background. With respect to gender identification, we asked which gender participants identified the most with (female, male, other), and with respect to language background, we asked which language their parents talked to them when they grew up (Norwegian, another language, both). Next, they responded to questions about the their use of ChatGPT (or similar AI tools), first for school work and then during their leisure time. Given that they reported that they had used ChatGPT in these contexts, they were asked to report their frequency of use of ChatGPT in each context on a scale including the categories of “daily,” “several times a week,” several times a month,” some times a month,” and “more seldom.” After having completed some subsequent tasks that were included for other research purposes (Latini et al., [2026](/article/10.1007/s10639-026-13938-w#ref-CR38)), participants responded to the two following open-ended questions: (1) *From where do you think ChatGPT gets its information when you ask it to make a text*? (2) *How do you think ChatGPT uses this information when it creates text*? Participants wrote their responses to these questions in two textboxes (one for each question) with no word limits. When finished, they submitted the completed questionnaire to a server by clicking on a “Send” button. Of note is that the questions concerning ChatGPT did not mention any particular version of the model that participants should think about when answering the questions.
+
+### 2.3 Researcher positionality
+
+The authors of this article are one younger associate professor and two senior professors in the field of educational psychology with extensive experience in conducting and publishing research on literacy in the context of 21st century skills. Based on our own research and our reading of the emerging literature on LLMs within education, we are open and curious about the potentials as well as the challenges associated with the application of this kind of information technology in educational contexts. From our reading of the literature regarding how LLMs operate and students’ perceptions and understanding of such models, as summarized in Sect. [1](/article/10.1007/s10639-026-13938-w#Sec1), we have developed an awareness that students may hold not only accurate conceptions but also misconceptions about model-generated output. Such misconceptions might inform future work on AI literacy, which we consider an important aspect of 21st century literacy skills.
+
+### 2.4 Data analysis
+
+We analyzed participants’ written responses to the two questions qualitatively by means of thematic analysis (Braun & Clarke, [2006](/article/10.1007/s10639-026-13938-w#ref-CR11); Braun et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR13)). Our thematic analysis was theoretically grounded in a social-cognitive perspective (Bandura, [1986](/article/10.1007/s10639-026-13938-w#ref-CR3)) in which students’ beliefs and perceptions about ChatGPT-generated text are viewed as both influencing and being influenced by their social environment. In other words, students’ conceptions of ChatGPT are, on the one hand, considered to influence their learning and literacy practices involving ChatGPT; on the other, their conceptions are considered to be shaped by social factors such as school policy, teachers, and classroom practices, as well as by social influences and practices out of school. We mainly used an inductive, data-driven approach in trying to identify themes within students’ written responses to the two open-ended questions, that is, without trying to fit those responses into a pre-defined, theoretically driven coding frame (Braun & Clarke, [2006](/article/10.1007/s10639-026-13938-w#ref-CR11)). However, because we also were interested in whether any clear misconceptions about ChatGPT-generated text might be identified in students’ responses, we were necessarily to some extent guided by our own pre-conceptions of how LLMs work, as summarized in the introductory section of this article. Thus, student responses that were incorrect in terms of how ChatGPT actually works and generates text were regarded as misconceptions in this study.
+
+After having familiarized ourselves with the data through repeated readings, we first coded participants’ written responses into units representing distinct ideas about some aspect of ChatGPT. These idea units consisted of a comment or a set of comments referring to the same aspect of ChatGPT, for example, to the origin of ChatGPT’s information. The extent of these idea units varied from one single word (e.g., “Internet”) to several sentences referring to the same aspect (e.g., “I believe ChatGPT gets its information from newspapers and other articles on the web. I also believe it gets information from different statements on social media”). The three authors collaboratively segmented students’ written responses into distinct idea units, discussing and clarifying any discrepancies until consensus about the appropriate segment was achieved. Taken together, we identified 392 relevant idea units in response to the first open-ended question and 287 relevant idea units in response to the second question (48 idea units that were not relevant were coded as “other” (e.g., jokes) or “don’t know”). Because a single participant could produce multiple idea units in response to each question, these numbers of idea units do not correspond to the number of participants.
+
+In the next phase, we coded all the relevant idea units into 13 themes concerning different aspects of ChatGPT that represented potential patterns in participants’ written responses. Of note is that these themes were identified across the two open-ended questions that participants responded to in addressing our broad exploratory question concerning students’ conceptions and misconceptions about ChatGPT-generated text.
+
+Finally, we reiteratively reviewed and refined the preliminary themes and merged them into main overarching themes including sub-themes within them (Braun & Clarke, [2006](/article/10.1007/s10639-026-13938-w#ref-CR11)). In this process, the 13 preliminary themes were reduced to 11 to reduce overlap before these themes were combined to form four main themes, each consisting of 2–5 sub-themes.
+
+Using a codebook-oriented approach with an emphasis on coding reliability (Braun & Clarke, [2021](/article/10.1007/s10639-026-13938-w#ref-CR12); Braun et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR13)), the three authors collaboratively coded the written responses of 90 participants to the first open-ended question and the responses of 50 participants to the second open-ended questions into themes. In this process, the boundaries of each theme were defined to avoid double coding (i.e., assigning two overlapping themes to the same idea unit) and ensure that the themes were mutually exclusive (Braun & Clarke, [2006](/article/10.1007/s10639-026-13938-w#ref-CR11)). To establish intercoder reliability, two independent coders subsequently used the same coding system to code the responses of 54 randomly selected participants to the first question and 54 randomly selected participants to the second question, which resulted in a Cohen’s Kappa of 0.802 for the 22.1% (*n* = 150) of the total number of idea units (*n* = 679) that were coded independently. According to Landis and Koch ([1977](/article/10.1007/s10639-026-13938-w#ref-CR37)), a kappa value above 0.80 indicates almost perfect agreement between coders. All disagreements between the two coders were solved through thorough discussion, and the three authors divided the rest of the written responses between them and coded them separately. Please note that the proportion of the data independently coded to assess intercoder reliability (22.1%) could be considered substantial given the typical recommendation of 10–25% of the data set (O’Connor & Joffe, [2020](/article/10.1007/s10639-026-13938-w#ref-CR51)). The separate coding of the rest of the data set was deemed appropriate given the high intercoder reliability that was obtained, demonstrating the stability of our coding system. The refinement and reorganization that resulted in the final thematic organization of the data in terms of main overarching themes and sub-themes was done in collaboration between the three authors. Table [1](/article/10.1007/s10639-026-13938-w#Tab1) summarizes the entire coding procedure that was implemented in this study.
+
+**Table 1 A summary of the entire coding procedure implemented in this study**
+
+[Full size table](/article/10.1007/s10639-026-13938-w/tables/1)
+
+3 Results
+---------
+
+Although the two open-ended questions to which participants responded focused on the sources of ChatGPT’s information (From where do you think ChatGPT gets its information when you ask it to make a text?) and on how ChatGPT works (How do you think ChatGPT uses this information when it creates text?), these questions, the rich nature of participants’ responses, and our mainly inductive approach allowed us to identify several themes and sub-themes that speak to participants’ conceptions and misconceptions about ChatGPT more broadly. Thus, the four main overarching themes that we identified included ideas about the sources, output, function, and use of ChatGPT. Table [2](/article/10.1007/s10639-026-13938-w#Tab2) includes an overview of these main themes and their sub-themes, as well as illustrative idea units within each sub-theme. In the following sections, we describe each main theme and its sub-themes sequentially, also highlighting variations within themes and sub-themes.
+
+**Table 2 Main themes, sub-themes, and illustrative idea units based on students’ written responses to the two open-ended questions. Numbers refer to idea units within each main theme and sub-theme. P followed by a number refers to a particular participant**
+
+[Full size table](/article/10.1007/s10639-026-13938-w/tables/2)
+### 3.1 The sources of ChatGPT
+
+The ideas within this theme concerned the sources that ChatGPT was believed to draw on in generating its textual output. Table [2](/article/10.1007/s10639-026-13938-w#Tab2) shows that we identified two sub-themes within this main theme, which we labeled Internet sources and source confusion.
+
+The most prevalent idea units (*n* = 183) within this main theme reflected the understanding that ChatGPT draws on many different sources available on the Internet. Accordingly, we termed this sub-theme “Internet sources.” The idea units falling within this sub-theme varied from one-word or brief statements assigning the Internet an essential role (e.g., “Internet,” “It gets its information from all over the Internet”) to more elaborate explanations of how information available on the Internet will impact ChatGPT’s textual output (e.g., “I think it gets its information from different websites that are openly available on the Internet,” “I think ChatGPT gets its information from a database made by OpenAI that consists of tons of different texts that have been produced and are available on the Internet, but increasingly also from what people have provided as input to ChatGPT”). Across such variations, however, the understanding that ChatGPT draws on a vast amount of information available on the Internet was a common thread.
+
+The 115 idea units categorized into the sub-theme termed “source confusion” consisted of imprecise and unclear statements regarding the sources that ChatGPT was supposed to draw on in generating its textual output, as well as direct misconceptions about particular sources and the basis for its text generation. Thus, some of these idea units only referred to sources without further specification (e.g., “From other sources”), whereas others failed to indicate any clear understanding of the sources that ChatGPT draws on (e.g., “They write it themselves,” “I think it gathers information from its own knowledge”). Further, the idea units within this sub-theme reflected misconceptions about the particular sources that ChatGPT was supposed to draw on (e.g., “from Wikipedia,” “It gets it information from Wikipedia or American websites”), with a number of idea units also indicating that participants did not understand that ChatGPT draws on a large textual dataset in generating its output (e.g., “From the first source that comes up when you search for the topic”). Taken together, the large number of idea units falling within this sub-theme indicated substantial confusion with respect to the sources of ChatGPT-generated output among our participants.
+
+### 3.2 The output of ChatGPT
+
+The ideas falling within this theme concerned the relevance and quality of the ChatGPT-generated textual output as well as the way it was written. As can be seen in Table [2](/article/10.1007/s10639-026-13938-w#Tab2), we identified five sub-themes within this main theme, which we labeled task relevance, critical stance, positive stance, rewriting and writing style, and integration.
+
+The most prevalent idea units (*n* = 81) within this main theme concerned the task relevance of the textual output, that is, the ability of ChatGPT to generate text that is appropriate given users’ goals as communicated through their queries or prompts. Thus, these idea units reflected the conception that ChatGPT is successful in generating task-relevant text (e.g., “I think it selects what answers the query best given the information provided by the user”). A number of the idea units falling within this sub-theme also indicated awareness of the importance of the prompt, especially highlighting how specific and contextual information included in the prompt would direct text generation (e.g., “If you ask ChatGPT to generate an argumentative text, it will use the sources in a more critical way than if you don’t specify this. If you ask ChatGPT to support a specific claim, it will only use information supporting this. This means that although sources include both sides, ChatGPT will only use the parts that support its case”).
+
+A critical stance toward the quality of ChatGPT-generated textual output was reflected in 62 idea units. These idea units represented doubts about the trustworthiness of ChatGPT-generated output, highlighting the risk of receiving erroneous information in response to queries (e.g., “It is made to try to give an answer that is as correct as possible, which means that if it’s unsure of something, it may well happen that it’s inventing things that’s not entirely correct. ChatGPT is mainly designed to be convincing”). Within this sub-theme, many idea units referred to the reason why ChatGPT-generated output could not be trusted, pointing out that ChatGPT might well draw on information that is not accurate or verified in generating its output (e.g., “It can take information from texts that are not based on facts or checked for quality. This means that a person may have written a text containing incorrect information and ChatGPT cannot know if the information from that text is right or wrong so it includes it”).
+
+The sub-theme termed “positive stance” included 47 idea units reflecting a positive evaluation of ChatGPT-generated textual output, as well as thoughts regarding why the output could be trusted. Thus, the idea units falling within this sub-theme captured participants’ high regard for the quality of ChatGPT-generated text, specifically for the insight, accuracy, and trustworthiness of the provided information (e.g., “It gives you a better and greater insight into the topic you are studying”). The majority of these idea units also referred to the high quality of ChatGPT’s sources in justifying why its output could be trusted, essentially representing the belief that ChatGPT selectively draws on only trustworthy information sources such as research articles and encyclopedias (e.g., “I think it emphasizes information from research journals and information from well established, reliable sources such as the Great Norwegian Encyclopedia”). Taken together, the idea units falling within this sub-theme indicated an uncritical acceptance of ChatGPT-generated text as truthful, largely based on the misconception that ChatGPT selectively gets its information from only high-quality, vetted, and trustworthy websites.
+
+The 45 idea units included in the sub-theme termed “re-writing and writing style” reflected the assumption that ChatGPT rewrites or reformulates information written in other sources, with this process also resulting in a peculiar ChatGPT-like writing or language style. Thus, these idea units indicated that participants acknowledged that ChatGPT is generating unique text rather that just reproducing text from other textual sources (e.g., “It changes word choices and sentence structures in information from the web”). In addition, they represented the view that these reformulations resulted in a somewhat rigid and recognizable language style (e.g., “I believe ChatGPT is programmed to write precisely and professionally which makes most of the content it presents seem good”).
+
+The 34 idea units included in the final sub-theme falling within this main overarching theme, which we termed “integration,” reflected the understanding that ChatGPT generates an output by combining, integrating, or summarizing information from multiple information sources (e.g., “It puts together knowledge from diverse sources and transforms it into an integrated text”). Typically, the idea units falling within this sub-theme referred to processes of combining, integrating, or summarizing information as processes intentionally performed by an active agent (e.g., “ChatGPT takes information it has retrieved from all over the internet and joins everything together to the best of its ability”). As such, they also seemed to reveal a tendency to anthropomorphize the LLM.
+
+### 3.3 The function of ChatGPT
+
+The ideas within this theme concerned the workings of the ChatGPT, that is, how ChatGPT generates text. Table [2](/article/10.1007/s10639-026-13938-w#Tab2) shows that we identified two sub-themes within this main theme, which we labeled algorithms and probability.
+
+The most prevalent idea units (*n* = 64) within this main theme referred to ChatGPT’s reliance on algorithms. Users’ awareness of the operation of algorithms as well as knowledge about how they function have been considered part of algorithmic literacy, deemed important for adaptive use of and critical reflection on models and systems that rely on algorithms (Dogruel et al., [2021](/article/10.1007/s10639-026-13938-w#ref-CR24)). The idea units falling within this sub-theme varied from those just stating that ChatGPT uses algorithms without further elaboration (e.g., “It uses algorithms”) to those trying to specify how algorithms come into play (e.g., “I believe it uses algorithms in gathering information from the Internet that together gives you the answer”). Other idea units categorized into this sub-theme referred to the pretraining involved in the design of ChatGPT (e.g., “ChatGPT gets information from large amounts of text data on which it has been trained … the model uses this as a basis for generating responses”) and to its acquisition of information through interactions with its users (e.g., “It remembers this, such that it can use it later”). These idea units were categorized into this sub-theme because pretraining and refinement through user interactions rely on algorithms, although the term “algorithms” was not explicitly mentioned.
+
+Further, 33 idea units concerning how ChatGPT works were categorized into the sub-theme of “probability.” These idea units concerned the probabilistic nature of ChatGPT’s text prediction (e.g., “the language model can calculate which word most likely comes after another word. If it continues with this repeatedly, it will eventually generate a text that looks more or less correct”). Some of these idea units did not mention “probability” explicitly but seemed to capture the same concept by referring to the frequency of available information (“It writes a sort of summary based on an enormous amount of sources, considering what is repeated in most of them”).
+
+### 3.4 The use of ChatGPT
+
+Finally, 15 idea units were coded as referring to the use of ChatGPT, with eight idea units highlighting the efficiency of using ChatGPT for information gathering and seven idea units including recommendations for the use of ChatGPT (see Table [2](/article/10.1007/s10639-026-13938-w#Tab2)). Within the first sub-theme (i.e., efficiency), the idea units referred to the speed and easiness with which ChatGPT would retrieve information and provide answers to questions (e.g., “I sometimes use it because it is a much easier way to get answers to your questions”). Within the second sub-theme (i.e., recommendations), the idea units reflected the need to ask for and check the sources that ChatGPT draws on in generating text (e.g., “Personally, I always check the sources it has used when I have asked it about something”).
+
+4 Discussion
+------------
+
+ChatGPT and similar LLMs may be considered wonderful tools for synthesizing content across a vast range of available texts, streamlining access to relevant information about a topic as well as performance of challenging synthesis writing tasks. At the same time, ChatGPT is a newcomer to the literacy and learning landscape that raises pertinent issues for education and, in particular, for what it means to be literate in the age of AI (e.g., Bauer et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR6); Kalantzis & Cope, [2025](/article/10.1007/s10639-026-13938-w#ref-CR33); Kasneci et al., [2023](/article/10.1007/s10639-026-13938-w#ref-CR35); Robinson & Hollett, [2024](/article/10.1007/s10639-026-13938-w#ref-CR55)). Although promoting students’ AI literacy has been regarded as a potentially viable pedagogical approach to helping students use LLMs in more critical and constructive ways (e.g., Allen & Kendeou, [2024](/article/10.1007/s10639-026-13938-w#ref-CR1); Zhong & Liu, [2025](/article/10.1007/s10639-026-13938-w#ref-CR66)), limited knowledge is currently available about their foundational understanding of how such models work. In particular, more qualitative empirical work on this issue is needed to gain further insight into students’ conceptions and misconceptions about what already seems to have become a crucial workmate for many of them: the ChatGPT. In turn, better insight into how students understand ChatGPT may inform more general conceptualizations of AI literacy and, thus, contribute to a more solid grounding of instructional programs targeting AI literacy at different educational levels. With this study, we contributed uniquely to building a knowledge base in this area by qualitatively exploring meaningful patterns of conceptions and misconceptions about ChatGPT-generated text in a large sample of high-school students.
+
+Unsurprisingly, our thematic analysis of participants’ written responses revealed that most participants were aware that ChatGPT draws on a vast amount of information available on the Internet when generating textual output guided by a prompt. At the same time, however, it gave us pause that so much confusion seemed to exist regarding the origin of ChatGPT’s information among our participants. In particular, it is worrisome that obvious misconceptions about the enormous breadth and quality differences in the sources that ChatGPT draws on featured so prominently in participants’ written responses. It goes without saying that believing that ChatGPT is restricted to information from Wikipedia or that it bases its output on only one source can seriously hinder students in taking both ChatGPT’s potentials and challenges into consideration when using it in or out of school.
+
+Likewise, participants’ ideas concerning ChatGPT’s textual output were more or less consistent with how the model actually seems to work. On the one hand, many participants realized that ChatGPT may generate texts that help them achieve their goals, as well as the critical role of the prompt in obtaining task relevant textual output. This is consistent with the emphasis on prompt engineering within AI literacy (Eager & Brunton, [2023](/article/10.1007/s10639-026-13938-w#ref-CR25); Federiakin et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR28)), although our data, of course, do not speak to participants’ actual mastery of this complex skill (Federiakin et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR28)). Further, a critical stance toward ChatGPT-generated text was quite prominent in participants’ written responses, based on the awareness that the model might draw on information sources that are not necessarily accurate or evidence-based. Again, developing a critical stance toward ChatGPT-generated text is consistent with the epistemic risks noted by several authors (e.g., Bråten et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR10); Hicks et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR31); Mittelstadt et al., [2023](/article/10.1007/s10639-026-13938-w#ref-CR45)), yet does not in any way guarantee that participants have the skill or will to perform highly needed critical evaluation of ChatGPT-generated text when using the model for school work or during their leisure time (e.g., Allen & Kendeou, [2024](/article/10.1007/s10639-026-13938-w#ref-CR1); Bråten et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR6); Caulfield & Wineburg, [2023](/article/10.1007/s10639-026-13938-w#ref-CR15); Federiakin et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR28)).
+
+On the other hand, participants’ ideas concerning ChatGPT’s textual output also revealed considerable misalignment with the requirement for critical evaluation to cope with epistemic risks. Importantly, this misalignment was primarily based on the misconception that ChatGPT-generated text can be trusted because it selectively draws on only high-quality, vetted, and trustworthy information sources located on the Internet. For students who reportedly use ChatGPT regularly for studying as well as for out-of-school tasks, such erroneous beliefs might have negative consequences well beyond school-based literacy and learning, both at the personal level and at the level of society. For example, at the personal level, users may come to make important personal decisions based on ChatGPT-generated text that is strongly influenced by biased or untrustworthy information sources without taking complementary or conflicting information into consideration. At the level of society, users’ unwarranted trust in ChatGPT-generated output, especially on controversial issues with important, sometimes vital, social implications (e.g., global warming, vaccination, or gun control), may hinder an open democratic discourse on how such issues can be solved and, ultimately, put democracy at risk (Ecker et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR26)). However, because such broader, potentially negative personal and societal consequences of holding certain misconceptions about ChatGPT-generated text are not grounded in the current data, they should be regarded as issues needing research at this point.
+
+Less salient categories of participant responses concerning ChatGPT-generated text captured the basic notion that the model produces unique text by transforming and integrating across information sources. Of note is, however, that these responses also revealed a tendency to anthropomorphize the model and consider it a dialogue partner with intentions and agency, a tendency that also has been observed in other research (e.g., Knoth et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR36); Sedlbauer et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR57); Zirenko et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR67)). Such anthropomorphism may lead students to use a human-to-human communication style in their prompting, such as by incorporating polite and socially acceptable and common language (Knoth et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR36)), which might potentially hinder more effective prompt engineering through precise and contextualized instructions (Eager & Brunton, [2023](/article/10.1007/s10639-026-13938-w#ref-CR25); Federiakin et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR28)).
+
+Regarding participants’ responses pertaining to the function of ChatGPT, these referred to ChatGPT’s reliance on algorithms and the probabilistic nature of ChatGPT’s text generation. Conceptions about the reliance on algorithms are consistent with the leverage of sophisticated algorithms by powerful machine learning models such as ChatGPT (Cao et al., [2023](/article/10.1007/s10639-026-13938-w#ref-CR14)). Participants’ responses in this regard seemed to map onto varying levels of algorithmic awareness, which can be considered part of the broader construct of algorithmic literacy, deemed important in empowering users to effectively navigate and evaluate digital environments (Dogruel et al., [2021](/article/10.1007/s10639-026-13938-w#ref-CR24)). Further, by specifying the role of probability calculation in ChatGPT’s text generation, the conception that the model essentially predicts words and phrases from already available linguistic information was also represented in participants’ written responses. Presumably, this conception may counteract the tendency to anthropomorphize LLMs such as ChatGPT because it helps users draw a line between how the models operate and the qualities of human truth-tellers (Chemero, [2023](/article/10.1007/s10639-026-13938-w#ref-CR16); Hicks et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR31); Mitchell, [2023](/article/10.1007/s10639-026-13938-w#ref-CR44)).
+
+Although few of the relevant idea units we identified in participants’ written responses referred to the use of ChatGPT, those idea units represented key conceptions regarding the attractive efficiency of ChatGPT use and the need for source evaluation when using the model. As noted previously, the efficiency of ChatGPT in performing literacy and learning tasks may be a double-edged sword, however, because it also may tempt students to offload cognitive processes that are crucial for deep learning to the model (Baron, [2023](/article/10.1007/s10639-026-13938-w#ref-CR5); Stadler et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR59)). And, although recommendations to evaluate sources critically when using ChatGPT is consistent with scholarly advice (e.g., Bråten et al., [2025](/article/10.1007/s10639-026-13938-w#ref-CR10); Caulfield & Wineburg, [2023](/article/10.1007/s10639-026-13938-w#ref-CR15)), source evaluation in the context of ChatGPT use is a really challenging task that seems to be somewhat contrary to the notion of efficient use and actually might be counteracted by the latter. Accordingly, Bråten et al. ([2025](/article/10.1007/s10639-026-13938-w#ref-CR10)) noted that critical source evaluation of ChatGPT-generated text “seems very different from the idea of a fun, easy, and quick activity that presumably draws many people to large language models in the first place” (p. 316).
+
+In sum, the findings of the current exploratory study contribute to the literature by showing the nuances of high-school students’ conceptions and misconceptions about ChatGPT-generated text. Thus, while students held a range of adequate and adaptive conceptions regarding the sources, the output, the function, and the use of ChatGPT-generated text, they also held several misconceptions that may hamper constructive use of ChatGPT as a literacy and learning tool. In particular, there was considerable confusion regarding the information sources that ChatGPT draws on in generating text, with an overestimation of the general quality of those sources also associated with a tendency to put unwarranted trust in ChatGPT-generated textual output. Further, we identified a potential tension between praising ChatGPT for its efficiency and recommending careful, critical evaluation of its sources.
+
+We realize, of course, that the findings of this study are limited by the participants that we recruited and the methodology that we used. First, our data collection was conducted with a particular group of high-school students in a particular context at a particular point of time, with further research therefore needed to explore how students’ conceptions and misconceptions may change across populations, contexts, and time. Second, asking participants to respond in writing to only two open-ended questions inevitably limited the number and types of conceptions and misconceptions that we were able to identify. Presumably, ecological validity would have been improved by having participants complete authentic literacy and learning tasks assisted by ChatGPT while collecting log data and think-alouds. Also, methodologies such as think-alouds and interviews may be needed to distinguish between superficial and deeper understanding of relevant concepts (e.g., algorithms, probability). For example, individual or focus group interviews could allow for follow-up questions to probe the depth of students’ understanding of such concepts. Despite these limitations, however, we sincerely believe that the meaningful patterns in students’ responses that we did identify with the help of our participants and methodology may have not only theoretical but also practical implications.
+
+Thus, beyond contributing to a better understanding of foundational knowledge of concepts and principles related to LLMs within conceptualizations of AI literacy (Almatrafi et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR2); Chiu et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR17); Zhong & Liu, [2025](/article/10.1007/s10639-026-13938-w#ref-CR66)), our findings may form a basis for refining questionnaires used to measure this aspect of AI literacy in quantitative studies (e.g., Pinski & Benlian, [2023](/article/10.1007/s10639-026-13938-w#ref-CR53); Zhong & Liu, [2025](/article/10.1007/s10639-026-13938-w#ref-CR66)). Further, our findings may inform researchers and educators aiming to promote AI literacy among students about the conceptions of LLMs that students at this education level can be expected to hold, which seems important for design and implementation of interventions that build on students’ pre-existing conceptions in trying to promote more advanced forms of AI literacy (Almatrafi et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR2); Chiu et al., [2024](/article/10.1007/s10639-026-13938-w#ref-CR17); Zhong & Liu, [2025](/article/10.1007/s10639-026-13938-w#ref-CR66)). Finally, our findings may have practical implications by informing about student misconceptions that need to be addressed, refuted, and replaced in order to promote the kind of AI literacy required to understand both the potentials and limitations of LLMs, as well as the ability to critically evaluate the textual output generated by such models.
+
+
+
+Data availability
+-----------------
+
+The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.
+
+References
+----------
+
+* Allen, L. K., & Kendeou, P. (2024). ED-AI Lit: An interdisciplinary framework for AI literacy in education. *Policy Insights from the Behavioral and Brain Sciences, 11*(1), 3–10. <https://doi.org/10.1177/23727322231220339>.
+  
+  [Article](https://doi.org/10.1177%2F23727322231220339) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ED-AI%20Lit%3A%20An%20interdisciplinary%20framework%20for%20AI%20literacy%20in%20education&journal=Policy%20Insights%20from%20the%20Behavioral%20and%20Brain%20Sciences&doi=10.1177%2F23727322231220339&volume=11&issue=1&pages=3-10&publication_year=2024&author=Allen%2CLK&author=Kendeou%2CP)
+* Almatrafi, O., Johri, A., & Lee, H. (2024). A systematic review of AI literacy conceptualization, constructs, and implementation and assessment efforts (2019-2023). *Computers and Education Open, 6*, article 100173. <https://doi.org/10.1016/j.caeo.2024.100173>.
+  
+  [Article](https://doi.org/10.1016%2Fj.caeo.2024.100173) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20systematic%20review%20of%20AI%20literacy%20conceptualization%2C%20constructs%2C%20and%20implementation%20and%20assessment%20efforts%20%282019-2023%29&journal=Computers%20and%20Education%20Open&doi=10.1016%2Fj.caeo.2024.100173&volume=6&publication_year=2024&author=Almatrafi%2CO&author=Johri%2CA&author=Lee%2CH)
+* Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice Hall.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Social%20foundations%20of%20thought%20and%20action%3A%20A%20social%20cognitive%20theory&publication_year=1986&author=Bandura%2CA)
+* Barandiaran, X E., & Almendros, L. S. (2025). Transforming agency: On the mode of existence of large language models. Phenomenology and the Cognitive Sciences. Advance online publication. <https://doi.org/10.1007/s11097-025-10094-3>.
+  
+  [Article](https://link.springer.com/doi/10.1007/s11097-025-10094-3) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transforming%20agency%3A%20On%20the%20mode%20of%20existence%20of%20large%20language%20models.%20Phenomenology%20and%20the%20Cognitive%20Sciences&journal=Advance%20online%20publication&doi=10.1007%2Fs11097-025-10094-3&publication_year=2025&author=Barandiaran%2CXE&author=Almendros%2CLS)
+* Baron, N. S. (2023). Who wrote this? How AI and the lure of efficiency threaten human writing*.* Stanford University Press.
+  
+  [Book](https://doi.org/10.1515%2F9781503637900) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Who%20wrote%20this%3F&doi=10.1515%2F9781503637900&publication_year=2023&author=Baron%2CNS)
+* Bauer, E., Greiff, S., Graesser, A. C., Scheiter, K., & Sailer, M. (2025). Looking beyond the hype: Understanding the effects of AI on learning. *Educational Psychology Review, 37*, article 45. <https://doi.org/10.1007/s10648-025-10020-8>.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10648-025-10020-8) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Looking%20beyond%20the%20hype%3A%20Understanding%20the%20effects%20of%20AI%20on%20learning&journal=Educational%20Psychology%20Review&doi=10.1007%2Fs10648-025-10020-8&volume=37&publication_year=2025&author=Bauer%2CE&author=Greiff%2CS&author=Graesser%2CAC&author=Scheiter%2CK&author=Sailer%2CM)
+* Bayne, T., & Williams, I. (2023). The Turing test is not a good benchmark for thought in LLMs. *Nature Human Behaviour, 7*, 1806–1807. <https://doi.org/10.1038/s41562-023-01710-w>.
+  
+  [Article](https://doi.org/10.1038%2Fs41562-023-01710-w) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20Turing%20test%20is%20not%20a%20good%20benchmark%20for%20thought%20in%20LLMs&journal=Nature%20Human%20Behaviour&doi=10.1038%2Fs41562-023-01710-w&volume=7&pages=1806-1807&publication_year=2023&author=Bayne%2CT&author=Williams%2CI)
+* Bjaaland, I. F., Nilsen, M. M., Guajardo, G., & Hauge, M. S. (2025). *Study survey 2024*. Norwegian Agency for Quality Assurance in Education.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Study%20survey%202024&publication_year=2025&author=Bjaaland%2CIF&author=Nilsen%2CMM&author=Guajardo%2CG&author=Hauge%2CMS)
+* Bransford, J. D., Brown, A. L., & Cocking, R. R. (2000). *How people learn: Brain, mind, experience, and school*. National Academy Press.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20people%20learn%3A%20Brain%2C%20mind%2C%20experience%2C%20and%20school&publication_year=2000&author=Bransford%2CJD&author=Brown%2CAL&author=Cocking%2CRR)
+* Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. *Qualitative Research in Psychology, 3*(2), 77–101. <https://doi.org/10.1191/1478088706qp063oa>.
+  
+  [Article](https://doi.org/10.1191%2F1478088706qp063oa) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20thematic%20analysis%20in%20psychology&journal=Qualitative%20Research%20in%20Psychology&doi=10.1191%2F1478088706qp063oa&volume=3&issue=2&pages=77-101&publication_year=2006&author=Braun%2CV&author=Clarke%2CV)
+* Braun, V., & Clarke, V. (2021). *Thematic analysis: A practical guide*. Sage.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Thematic%20analysis%3A%20A%20practical%20guide&publication_year=2021&author=Braun%2CV&author=Clarke%2CV)
+* Braun, V., Clarke, V., Hayfield, N., & Terry, G. (2024). Thematic analysis. In P. Brough (Ed.), *Advanced research methods for applied psychology: Design, analysis, and reporting* (2nd ed., pp. 238–248). Routledge.
+  
+  [Chapter](https://doi.org/10.4324%2F9781003362715-21) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Thematic%20analysis&doi=10.4324%2F9781003362715-21&pages=238-248&publication_year=2024&author=Braun%2CV&author=Clarke%2CV&author=Hayfield%2CN&author=Terry%2CG)
+* Bråten, I., Latini, N., & Salmerón, L. (2025). Source evaluation. In C. A. MacArthur, S. Graham, & J. Fitzgerald (Eds.), *Handbook of writing research* (3rd ed., pp. 308–323).
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Source%20evaluation&pages=308-323&publication_year=2025&author=Br%C3%A5ten%2CI&author=Latini%2CN&author=Salmer%C3%B3n%2CL)
+* Cao, Y., Li, S., Liu, Y., Yan, Z., Dai, Y., Yu, P. S., & Sun, L. (2023). A comprehensive survey of AI-generated content (AIGC): A history of generative AI from GAN to ChatGPT. <https://arxiv.org/pdf/2303.04226>
+* Caulfield, M., & Wineburg, S. (2023). *Verified*. The University of Chicago Press.
+  
+  [Book](https://doi.org/10.7208%2Fchicago%2F9780226829845.001.0001) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Verified&doi=10.7208%2Fchicago%2F9780226829845.001.0001&publication_year=2023&author=Caulfield%2CM&author=Wineburg%2CS)
+* Chemero, A. (2023). LLMs differ from human cognition because they are not embodied. *Nature Human Behaviour, 7*, 1828–1829. <https://doi.org/10.1038/s41562-023-01723-5>.
+  
+  [Article](https://doi.org/10.1038%2Fs41562-023-01723-5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=LLMs%20differ%20from%20human%20cognition%20because%20they%20are%20not%20embodied&journal=Nature%20Human%20Behaviour&doi=10.1038%2Fs41562-023-01723-5&volume=7&pages=1828-1829&publication_year=2023&author=Chemero%2CA)
+* Chiu, T. K. F., Ahmad, Z., Ismailov, M., & Sanusi, I. T. (2024). What are artificial intelligence literacy and competency? A comprehensive framework to support them. *Computers and Education Open, 6*, article 100171. <https://doi.org/10.1016/j.caeo.2024.100171>.
+  
+  [Article](https://doi.org/10.1016%2Fj.caeo.2024.100171) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=What%20are%20artificial%20intelligence%20literacy%20and%20competency%3F%20A%20comprehensive%20framework%20to%20support%20them&journal=Computers%20and%20Education%20Open&doi=10.1016%2Fj.caeo.2024.100171&volume=6&publication_year=2024&author=Chiu%2CTKF&author=Ahmad%2CZ&author=Ismailov%2CM&author=Sanusi%2CIT)
+* Cone, L., Brøgger, K., Berghmans, M., Decuypere, M., Förschler, A., Grimaldi, E., Hartong, S., Hillman, T., Ideland, M., Landri, P., van de Oudeweetering, K., Player-Koro, C., Bergviken Rensfeldt, A., Rönnberg, L., Taglietti, D., & Vanermen, L. (2021). Pandemic acceleration: Covid-19 and the emergency digitalization of European education. *European Educational Research Journal, 21*(5), 845–868. <https://doi.org/10.1177/14749041211041793>.
+  
+  [Article](https://doi.org/10.1177%2F14749041211041793) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Pandemic%20acceleration%3A%20Covid-19%20and%20the%20emergency%20digitalization%20of%20European%20education&journal=European%20Educational%20Research%20Journal&doi=10.1177%2F14749041211041793&volume=21&issue=5&pages=845-868&publication_year=2021&author=Cone%2CL&author=Br%C3%B8gger%2CK&author=Berghmans%2CM&author=Decuypere%2CM&author=F%C3%B6rschler%2CA&author=Grimaldi%2CE&author=Hartong%2CS&author=Hillman%2CT&author=Ideland%2CM&author=Landri%2CP&author=Oudeweetering%2CK&author=Player-Koro%2CC&author=Bergviken%20Rensfeldt%2CA&author=R%C3%B6nnberg%2CL&author=Taglietti%2CD&author=Vanermen%2CL)
+* De Freitas, J., Agarwal, S., Schmitt, B., & Haslam, N. (2023). Psychological factors underlying attitudes toward AI tools. *Nature Human Behaviour, 7*, 1845–1854. <https://doi.org/10.1038/s41562-023-01734-2>.
+  
+  [Article](https://doi.org/10.1038%2Fs41562-023-01734-2) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Psychological%20factors%20underlying%20attitudes%20toward%20AI%20tools&journal=Nature%20Human%20Behaviour&doi=10.1038%2Fs41562-023-01734-2&volume=7&pages=1845-1854&publication_year=2023&author=Freitas%2CJ&author=Agarwal%2CS&author=Schmitt%2CB&author=Haslam%2CN)
+* Deng, R., Jiang, M., Yu, X., Lu, Y., & Liu, S. (2025). Does ChatGPT enhance student learning? A systematic review and meta-analysis of experimental studies. *Computers and Education, 227*, article 105224. <https://doi.org/10.1016/j.compedu.2024.105224>.
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2024.105224) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Does%20ChatGPT%20enhance%20student%20learning%3F%20A%20systematic%20review%20and%20meta-analysis%20of%20experimental%20studies&journal=Computers%20and%20Education&doi=10.1016%2Fj.compedu.2024.105224&volume=227&publication_year=2025&author=Deng%2CR&author=Jiang%2CM&author=Yu%2CX&author=Lu%2CY&author=Liu%2CS)
+* Dennis, S. (2024). Transformer models as predication machines. *Discourse Processes, 61*(6-7), 355–358. <https://doi.org/10.1080/0163853X.2024.2362038>.
+  
+  [Article](https://doi.org/10.1080%2F0163853X.2024.2362038) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Transformer%20models%20as%20predication%20machines&journal=Discourse%20Processes&doi=10.1080%2F0163853X.2024.2362038&volume=61&issue=6-7&pages=355-358&publication_year=2024&author=Dennis%2CS)
+* Dietrich, L. K., & Grassini, S. (2025). Assessing ChatGPT acceptance and use in education: A comparative study among German-speaking students and teachers. *Education and Information Technologies, 30*, 22151–22176. <https://doi.org/10.1007/s10639-025-13658-7>.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-025-13658-7) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assessing%20ChatGPT%20acceptance%20and%20use%20in%20education%3A%20A%20comparative%20study%20among%20German-speaking%20students%20and%20teachers&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-025-13658-7&volume=30&pages=22151-22176&publication_year=2025&author=Dietrich%2CLK&author=Grassini%2CS)
+* Dogruel, L., Masur, P., & Joeckel, S. (2021). Development and validation of an algorithm literacy scale for Internet users. *Communication Methods and Measures, 16*(2), 115–133. <https://doi.org/10.1080/19312458.2021.1968361>.
+  
+  [Article](https://doi.org/10.1080%2F19312458.2021.1968361) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Development%20and%20validation%20of%20an%20algorithm%20literacy%20scale%20for%20Internet%20users&journal=Communication%20Methods%20and%20Measures&doi=10.1080%2F19312458.2021.1968361&volume=16&issue=2&pages=115-133&publication_year=2021&author=Dogruel%2CL&author=Masur%2CP&author=Joeckel%2CS)
+* Eager, B., & Brunton, R. (2023). Prompting higher education towards AI-augmented teaching and learning practice. *Journal of University Teaching and Learning Practice, 20*(5), article 2. <https://doi.org/10.53761/1.20.5.02>.
+  
+  [Article](https://doi.org/10.53761%2F1.20.5.02) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prompting%20higher%20education%20towards%20AI-augmented%20teaching%20and%20learning%20practice.%20Journal%20of%20University%20Teaching%20and%20Learning&journal=Practice&doi=10.53761%2F1.20.5.02&volume=20&issue=5&publication_year=2023&author=Eager%2CB&author=Brunton%2CR)
+* Ecker, U., Roozenbeek, J., van der Linden, S., Qian Tay, L., Cook, J., Oreskes, N., & Lewandowsky, S. (2024). Misinformation poses a bigger threat to democracy than you might think. *Nature, 630*, 29–32. <https://doi.org/10.1038/d41586-024-01587-3>.
+  
+  [Article](https://doi.org/10.1038%2Fd41586-024-01587-3) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Misinformation%20poses%20a%20bigger%20threat%20to%20democracy%20than%20you%20might%20think&journal=Nature&doi=10.1038%2Fd41586-024-01587-3&volume=630&pages=29-32&publication_year=2024&author=Ecker%2CU&author=Roozenbeek%2CJ&author=Linden%2CS&author=Qian%20Tay%2CL&author=Cook%2CJ&author=Oreskes%2CN&author=Lewandowsky%2CS)
+* Elstad, E., & Eriksen, H. (2024). High school teachers’ adoption of generative AI: Antecedents of instructional AI utility in the early stages of school-specific chatbot implementation. *Nordic Journal of Comparative and International Education, 8*(1), article 5736. <https://doi.org/10.7577/njcie.5736>.
+  
+  [Article](https://doi.org/10.7577%2Fnjcie.5736) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=High%20school%20teachers%E2%80%99%20adoption%20of%20generative%20AI%3A%20Antecedents%20of%20instructional%20AI%20utility%20in%20the%20early%20stages%20of%20school-specific%20chatbot%20implementation.%20Nordic%20Journal%20of%20Comparative%20and%20International&journal=Education&doi=10.7577%2Fnjcie.5736&volume=8&issue=1&publication_year=2024&author=Elstad%2CE&author=Eriksen%2CH)
+* Federiakin, D., Molerov, D., Zlatkin-Troitschanskaia, O., & Maur, A. (2024). Prompt engineering as a new 21st century skill. *Frontiers in Education, 9*, article 1366434. <https://doi.org/10.3389/feduc.2024.1366434>.
+  
+  [Article](https://doi.org/10.3389%2Ffeduc.2024.1366434) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prompt%20engineering%20as%20a%20new%2021st%20century%20skill.%20Frontiers&journal=Education&doi=10.3389%2Ffeduc.2024.1366434&volume=9&publication_year=2024&author=Federiakin%2CD&author=Molerov%2CD&author=Zlatkin-Troitschanskaia%2CO&author=Maur%2CA)
+* Frankfurt, H. (2005). On bullshit. Princeton.
+  
+  [Book](https://doi.org/10.1515%2F9781400826537) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=On%20bullshit&doi=10.1515%2F9781400826537&publication_year=2005&author=Frankfurt%2CH)
+* Gruenhagen, J. H., Sinclair, P. M., Carroll, J.-A., Baker, P. R. A., Wilson, A., & Demant, D. (2024). The rapid rise of generative AI and its implication for academic integrity: Students perceptions and use of chatbots for assistance with assessments. *Computers and Education: Artificial Intelligence, 7*, article 100273. <https://doi.org/10.1016/j.caeai.2024.100273>.
+  
+  [Article](https://doi.org/10.1016%2Fj.caeai.2024.100273) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20rapid%20rise%20of%20generative%20AI%20and%20its%20implication%20for%20academic%20integrity%3A%20Students%20perceptions%20and%20use%20of%20chatbots%20for%20assistance%20with%20assessments.%20Computers%20and%20Education&journal=Artificial%20Intelligence&doi=10.1016%2Fj.caeai.2024.100273&volume=7&publication_year=2024&author=Gruenhagen%2CJH&author=Sinclair%2CPM&author=Carroll%2CJ-A&author=Baker%2CPRA&author=Wilson%2CA&author=Demant%2CD)
+* Hicks, M. T., Humphries, J., & Slater, J. (2024). ChatGPT is bullshit. *Ethics and Information Technology, 26*, article 38. <https://doi.org/10.1007/s10676-024-09775-5>.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10676-024-09775-5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ChatGPT%20is%20bullshit&journal=Ethics%20and%20Information%20Technology&doi=10.1007%2Fs10676-024-09775-5&volume=26&publication_year=2024&author=Hicks%2CMT&author=Humphries%2CJ&author=Slater%2CJ)
+* Higgs, J. M., & Stornaluolo, A. (2024). Being human in the age of generative AI: Young people’s ethical concerns about writing and living with machines. *Reading Research Quarterly, 59*(4), 632–650. <https://doi.org/10.1002/rrq.552>.
+  
+  [Article](https://doi.org/10.1002%2Frrq.552) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Being%20human%20in%20the%20age%20of%20generative%20AI%3A%20Young%20people%E2%80%99s%20ethical%20concerns%20about%20writing%20and%20living%20with%20machines&journal=Reading%20Research%20Quarterly&doi=10.1002%2Frrq.552&volume=59&issue=4&pages=632-650&publication_year=2024&author=Higgs%2CJM&author=Stornaluolo%2CA)
+* Kalantzis, M., & Cope, B. (2025). Literacy in the time of artificial intelligence. *Reading Research Quarterly, 60*(1), article 591. <https://doi.org/10.1002/rrq.591>.
+  
+  [Article](https://doi.org/10.1002%2Frrq.591) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Literacy%20in%20the%20time%20of%20artificial%20intelligence&journal=Reading%20Research%20Quarterly&doi=10.1002%2Frrq.591&volume=60&issue=1&publication_year=2025&author=Kalantzis%2CM&author=Cope%2CB)
+* Kamoun, F., El Ayeb, W., Jabri, I., Sifi, S., & Iqbal, F. (2024). Exploring students’ and faculty’s knowledge, attitudes, and perceptions towards ChatGPT: A cross-sectional empirical study. *Journal of Information Technology Education: Research, 23*, article 4. <https://doi.org/10.28945/5239>.
+  
+  [Article](https://doi.org/10.28945%2F5239) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20students%E2%80%99%20and%20faculty%E2%80%99s%20knowledge%2C%20attitudes%2C%20and%20perceptions%20towards%20ChatGPT%3A%20A%20cross-sectional%20empirical%20study&journal=Journal%20of%20Information%20Technology%20Education%3A%20Research&doi=10.28945%2F5239&volume=23&publication_year=2024&author=Kamoun%2CF&author=Ayeb%2CW&author=Jabri%2CI&author=Sifi%2CS&author=Iqbal%2CF)
+* Kasneci, E., Sessler, K., Kücherman, S., Bannert, M., Dementieva, D., Fischer, F., Gasser, U., Groh, G., Günnermann, S., Hüllermeier, E., Krusche, S., Kutyniok, G., Michaeli, T., Nerdel, C., Pfeffer, J., Poquet, O., Sailer, M., Schmidt, A., Seidel, T., et al (2023). ChatGPT for good? On opportunities and challenges of large language models for education. *Learning and Individual Differences, 103*, article 102274. <https://doi.org/10.1016/j.lindif.2023.102274>.
+  
+  [Article](https://doi.org/10.1016%2Fj.lindif.2023.102274) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ChatGPT%20for%20good%3F%20On%20opportunities%20and%20challenges%20of%20large%20language%20models%20for%20education&journal=Learning%20and%20Individual%20Differences&doi=10.1016%2Fj.lindif.2023.102274&volume=103&publication_year=2023&author=Kasneci%2CE&author=Sessler%2CK&author=K%C3%BCcherman%2CS&author=Bannert%2CM&author=Dementieva%2CD&author=Fischer%2CF&author=Gasser%2CU&author=Groh%2CG&author=G%C3%BCnnermann%2CS&author=H%C3%BCllermeier%2CE&author=Krusche%2CS&author=Kutyniok%2CG&author=Michaeli%2CT&author=Nerdel%2CC&author=Pfeffer%2CJ&author=Poquet%2CO&author=Sailer%2CM&author=Schmidt%2CA&author=Seidel%2CT&author=Kasneci%2CG)
+* Knoth, N., Tolzin, A., Janson, A., & Leimeister, J. M. (2024). AI literacy and its implications for prompt engineering strategies. *Computers and Education: Artificial Intelligence, 6*, article 100225. <https://doi.org/10.1016/j.caeai.2024.100225>.
+  
+  [Article](https://doi.org/10.1016%2Fj.caeai.2024.100225) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AI%20literacy%20and%20its%20implications%20for%20prompt%20engineering%20strategies.%20Computers%20and%20Education&journal=Artificial%20Intelligence&doi=10.1016%2Fj.caeai.2024.100225&volume=6&publication_year=2024&author=Knoth%2CN&author=Tolzin%2CA&author=Janson%2CA&author=Leimeister%2CJM)
+* Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. *Biometrics, 33*(1), 159–174. <https://doi.org/10.2307/2529310>.
+  
+  [Article](https://doi.org/10.2307%2F2529310) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20measurement%20of%20observer%20agreement%20for%20categorical%20data&journal=Biometrics&doi=10.2307%2F2529310&volume=33&issue=1&pages=159-174&publication_year=1977&author=Landis%2CJR&author=Koch%2CGG)
+* Latini, L., Bråten, I., & Strømsø, H. I. (2026). Mind over model? Students’ evaluation and use of ChatGPT-generated versus human-generated texts. *Reading Research Quarterly, 61*, article e70087. <https://doi.org/10.1002/rrq.70087>.
+  
+  [Article](https://doi.org/10.1002%2Frrq.70087) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mind%20over%20model%3F%20Students%E2%80%99%20evaluation%20and%20use%20of%20ChatGPT-generated%20versus%20human-generated%20texts&journal=Reading%20Research%20Quarterly&doi=10.1002%2Frrq.70087&volume=61&publication_year=2026&author=Latini%2CL&author=Br%C3%A5ten%2CI&author=Str%C3%B8ms%C3%B8%2CHI)
+* Laun, M., & Wolff, F. (2025). Chatbots in education: Hype or help? A meta-analysis. *Learning and Individual Differences, 119*, article 102646. <https://doi.org/10.1016/j.lindif.2025.102646>.
+  
+  [Article](https://doi.org/10.1016%2Fj.lindif.2025.102646) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Chatbots%20in%20education%3A%20Hype%20or%20help%3F%20A%20meta-analysis&journal=Learning%20and%20Individual%20Differences&doi=10.1016%2Fj.lindif.2025.102646&volume=119&publication_year=2025&author=Laun%2CM&author=Wolff%2CF)
+* Liang, K., Hu, H., Zhao, X., Song, D., Griffiths, T. L., & Fisac, J. F. (2025). *Machine bullshit: Characterizing the emergent disregard for truth in large language models.* <https://doi.org/10.48550/arXiv.2507.07484>.
+* Long, D., & Magerko, B. (2020, April). What is AI literacy? Competencies and design considerations. In *CHI ´20: Proceedings of the 2020 CHI conference on human factors in computing systems* (pp. 1–14). Association for Computer Machinery.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=What%20is%20AI%20literacy%3F%20Competencies%20and%20design%20considerations&pages=1-14&publication_year=2020&author=Long%2CD&author=Magerko%2CB)
+* Mausethagen, S., & Mølstad, C. E. (2015). Shifts in curriculum control: Contesting ideas of teacher autonomy. *Nordic Journal of Studies in Educational Policy, 2015*(2), article 28520. <https://doi.org/10.3402/nstep.v1.28520>.
+  
+  [Article](https://doi.org/10.3402%2Fnstep.v1.28520) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Shifts%20in%20curriculum%20control%3A%20Contesting%20ideas%20of%20teacher%20autonomy&journal=Nordic%20Journal%20of%20Studies%20in%20Educational%20Policy&doi=10.3402%2Fnstep.v1.28520&volume=2015&issue=2&publication_year=2015&author=Mausethagen%2CS&author=M%C3%B8lstad%2CCE)
+* McCarthy, K. S., & Yan, E. F. (2024). Reading comprehension and constructive learning: Policy considerations in the age of artificial intelligence. *Policy Insights from the Behavioral and Brain Sciences, 11*(1), 19–26. <https://doi.org/10.1177/23727322231218891>.
+  
+  [Article](https://doi.org/10.1177%2F23727322231218891) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Reading%20comprehension%20and%20constructive%20learning%3A%20Policy%20considerations%20in%20the%20age%20of%20artificial%20intelligence&journal=Policy%20Insights%20from%20the%20Behavioral%20and%20Brain%20Sciences&doi=10.1177%2F23727322231218891&volume=11&issue=1&pages=19-26&publication_year=2024&author=McCarthy%2CKS&author=Yan%2CEF)
+* Mitchell, M. (2023). How do we know how smart AI systems are? *Science, 381*(6654). <https://doi.org/10.1126/science.adj5957>.
+* Mittelstadt, B., Wachter, S., & Russell, C. (2023). To protect science, we must use LLMs as zero-shot translators. *Nature Human Behaviour, 7*, 1830–1832. <https://doi.org/10.1038/s41562-023-01744-0>.
+  
+  [Article](https://doi.org/10.1038%2Fs41562-023-01744-0) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=To%20protect%20science%2C%20we%20must%20use%20LLMs%20as%20zero-shot%20translators&journal=Nature%20Human%20Behaviour&doi=10.1038%2Fs41562-023-01744-0&volume=7&pages=1830-1832&publication_year=2023&author=Mittelstadt%2CB&author=Wachter%2CS&author=Russell%2CC)
+* Moghavvemi, S., & Jam, F. A. (2025). Unraveling the influential factors driving persistent adoption of ChatGPT in learning environments. *Education and Information Technologies, 30*, 22443–22470. <https://doi.org/10.1007/s10639-025-13662-x>.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-025-13662-x) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Unraveling%20the%20influential%20factors%20driving%20persistent%20adoption%20of%20ChatGPT%20in%20learning%20environments&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-025-13662-x&volume=30&pages=22443-22470&publication_year=2025&author=Moghavvemi%2CS&author=Jam%2CFA)
+* Morrell-Mengual, V., Fernández-Garcia, O., Berenguer, C., Ortega-Barón, J., Gil-Llario, M. D., & Estruch-García, V. (2025). Characteristics, motivations and attitudes of students using ChatGPT and other language model-based chatbots in higher education. *Education and Information Technologies, 30*, 22257–22274. <https://doi.org/10.1007/s10639-025-13650-1>.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-025-13650-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Characteristics%2C%20motivations%20and%20attitudes%20of%20students%20using%20ChatGPT%20and%20other%20language%20model-based%20chatbots%20in%20higher%20education&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-025-13650-1&volume=30&pages=22257-22274&publication_year=2025&author=Morrell-Mengual%2CV&author=Fern%C3%A1ndez-Garcia%2CO&author=Berenguer%2CC&author=Ortega-Bar%C3%B3n%2CJ&author=Gil-Llario%2CMD&author=Estruch-Garc%C3%ADa%2CV)
+* Nazaretsky, T., Mejia-Domenzain, P., Swamy, V., Frej, J., & Käser, T. (2025). The critical role of trust in adopting AI-powered educational technology for learning: An instrument for measuring student perceptions. *Computers and Education: Artificial Intelligence, 8*, article 100368. <https://doi.org/10.1016/j.caeai.2025.100368>.
+  
+  [Article](https://doi.org/10.1016%2Fj.caeai.2025.100368) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20critical%20role%20of%20trust%20in%20adopting%20AI-powered%20educational%20technology%20for%20learning%3A%20An%20instrument%20for%20measuring%20student%20perceptions&journal=Computers%20and%20Education%3A%20Artificial%20Intelligence&doi=10.1016%2Fj.caeai.2025.100368&volume=8&publication_year=2025&author=Nazaretsky%2CT&author=Mejia-Domenzain%2CP&author=Swamy%2CV&author=Frej%2CJ&author=K%C3%A4ser%2CT)
+* Norwegian Directorate for Education and Training (2012). Rammeverk for grunnleggende ferdigheter [Framework for basic skills]. Retrieved May 26, 2025, from <https://www.udir.no/laring-og-trivsel/rammeverk/rammeverk-for-grunnleggende-ferdigheter/2.1-digitale-ferdigheter>
+* Norwegian Directorate for Education and Training (2024). Råd om kunstig intelligens i skolen [Advice about artificial intelligence in school]. Retrieved April 25, 2025, from <https://www.udir.no/kvalitet-og-kompetanse/digitalisering-skole/kunstig-intelligens-ki-i-skolen/kunstig-intelligens-ki-i-skolen/Norwegian>
+* Norwegian Directorate for Education and Training (2025). Den digitale tilstanden i barnehage og grunnopplæring [The state of digitalization in pre-school, primary and secondary school]. Retrieved April 25, 2025, from <https://www.udir.no/tall-og-forskning/finn-forskning/rapporter/2024/den-digitale-tilstanden-i-barnehage-og-grunnopplaring2/den-digitale-tilstanden-i-skolen/>
+* Obreja, D. M., Rughinis, R., & Rosner, D. (2025). Mapping the multidimensional trend of generative AI: A bibliometric analysis and qualitative thematic review. *Computers in Human Behavior Reports, 17*, article 100576. <https://doi.org/10.1016/j.chbr.2024.100576>.
+  
+  [Article](https://doi.org/10.1016%2Fj.chbr.2024.100576) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20the%20multidimensional%20trend%20of%20generative%20AI%3A%20A%20bibliometric%20analysis%20and%20qualitative%20thematic%20review&journal=Computers%20in%20Human%20Behavior%20Reports&doi=10.1016%2Fj.chbr.2024.100576&volume=17&publication_year=2025&author=Obreja%2CDM&author=Rughinis%2CR&author=Rosner%2CD)
+* O’Connor, C., & Joffe, H. (2020). Intercoder reliability in qualitative research: Debates and practical guidelines. *International Journal of Qualitative Methods, 19*, 1–13. <https://doi.org/10.1177/1609406919899220>.
+  
+  [Article](https://doi.org/10.1177%2F1609406919899220) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intercoder%20reliability%20in%20qualitative%20research%3A%20Debates%20and%20practical%20guidelines&journal=International%20Journal%20of%20Qualitative%20Methods&doi=10.1177%2F1609406919899220&volume=19&pages=1-13&publication_year=2020&author=O%E2%80%99Connor%2CC&author=Joffe%2CH)
+* Pinski, M., & Benlian, A. (2023). AI literacy – Towards measuring human competency in artificial intelligence. In T. X. Bui (Ed.), *Proceedings of the 56**th* *Hawaian International Conference on System Sciences (pp. 165-174)* HICSS.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AI%20literacy%20%E2%80%93%20Towards%20measuring%20human%20competency%20in%20artificial%20intelligence&publication_year=2023&author=Pinski%2CM&author=Benlian%2CA)
+* Ravselj, D., Kerzic, D., Tomazevic, N., Umek, L., Brezovar, N., Iahad, N. A., Abdulla, A. A., Akopyan, A., Segura, M. W. A., AlHumaid, J., Allam, M. F., Allo, M., Andoh, R. P. K., Andronic, O., Arthur, Y. D., Aydin, F., Badran, A., Balbontin-Alvarado, R., Saad, H. B., et al (2025). Higher education students’ perceptions of ChatGPT: A global study of early reactions. *PloS ONE, 20*(2), article 0315011. <https://doi.org/10.1371/journal.pone.0315011>.
+  
+  [Article](https://doi.org/10.1371%2Fjournal.pone.0315011) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Higher%20education%20students%E2%80%99%20perceptions%20of%20ChatGPT%3A%20A%20global%20study%20of%20early%20reactions&journal=PloS%20ONE&doi=10.1371%2Fjournal.pone.0315011&volume=20&issue=2&publication_year=2025&author=Ravselj%2CD&author=Kerzic%2CD&author=Tomazevic%2CN&author=Umek%2CL&author=Brezovar%2CN&author=Iahad%2CNA&author=Abdulla%2CAA&author=Akopyan%2CA&author=Segura%2CMWA&author=AlHumaid%2CJ&author=Allam%2CMF&author=Allo%2CM&author=Andoh%2CRPK&author=Andronic%2CO&author=Arthur%2CYD&author=Aydin%2CF&author=Badran%2CA&author=Balbontin-Alvarado%2CR&author=Saad%2CHB&author=Bencsik%2CA)
+* Robinson, B., & Hollett, Y. (2024). Literacy in the age of AI. *Reading Research Quarterly, 59*(4), 555–559. <https://doi.org/10.1002/rrq.581>.
+  
+  [Article](https://doi.org/10.1002%2Frrq.581) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Literacy%20in%20the%20age%20of%20AI&journal=Reading%20Research%20Quarterly&doi=10.1002%2Frrq.581&volume=59&issue=4&pages=555-559&publication_year=2024&author=Robinson%2CB&author=Hollett%2CY)
+* Schroeder, N. L., & Kucera, A. C. (2022). Refutation text facilitates learning: A meta-analysis of between-subjects experiments. *Educational Psychology Review, 34*(2), 957–987. <https://doi.org/10.1007/s10648-021-09656-z>.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10648-021-09656-z) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Refutation%20text%20facilitates%20learning%3A%20A%20meta-analysis%20of%20between-subjects%20experiments&journal=Educational%20Psychology%20Review&doi=10.1007%2Fs10648-021-09656-z&volume=34&issue=2&pages=957-987&publication_year=2022&author=Schroeder%2CNL&author=Kucera%2CAC)
+* Sedlbauer, J., Cincera, J., Slavik, M., & Hartlova, A. (2024). Students’ reflections on their experience with ChatGPT. *Journal of Computer Assisted Learning, 40*(4), 1526–1534. <https://doi.org/10.1111/jcal.12967>.
+  
+  [Article](https://doi.org/10.1111%2Fjcal.12967) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Students%E2%80%99%20reflections%20on%20their%20experience%20with%20ChatGPT&journal=Journal%20of%20Computer%20Assisted%20Learning&doi=10.1111%2Fjcal.12967&volume=40&issue=4&pages=1526-1534&publication_year=2024&author=Sedlbauer%2CJ&author=Cincera%2CJ&author=Slavik%2CM&author=Hartlova%2CA)
+* Shanahan, M. (2023). *Talking about large language models.* <https://doi.org/10.48550/arXiv.2212.03551>.
+* Stadler, M., Bannert, M., & Sailer, M. (2024). Cognitive ease at a cost: LLMs reduce mental effort but compromise depth in student scientific inquiry. *Computers in Human Behavior, 160*, article 108386. <https://doi.org/10.1016/j.chb.2024.108386>.
+  
+  [Article](https://doi.org/10.1016%2Fj.chb.2024.108386) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cognitive%20ease%20at%20a%20cost%3A%20LLMs%20reduce%20mental%20effort%20but%20compromise%20depth%20in%20student%20scientific%20inquiry&journal=Computers%20in%20Human%20Behavior&doi=10.1016%2Fj.chb.2024.108386&volume=160&publication_year=2024&author=Stadler%2CM&author=Bannert%2CM&author=Sailer%2CM)
+* Stojanov, A., Liu, Q., & Koh, J. H. L. (2024). University students’ self-reported reliance on ChatGPT for learning: A latent profile analysis. *Computers and Education: Artificial Intelligence, 6*, article 100243. <https://doi.org/10.1016/j.caeai.2024.100243>.
+  
+  [Article](https://doi.org/10.1016%2Fj.caeai.2024.100243) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=University%20students%E2%80%99%20self-reported%20reliance%20on%20ChatGPT%20for%20learning%3A%20A%20latent%20profile%20analysis&journal=Computers%20and%20Education%20Artificial%20Intelligence&doi=10.1016%2Fj.caeai.2024.100243&volume=6&publication_year=2024&author=Stojanov%2CA&author=Liu%2CQ&author=Koh%2CJHL)
+* Suriano, R., Plebe, A., Acciai, A., & Fabio, R. A. (2025). Student interaction with ChatGPT can promote complex critical thinking skills. *Learning and Instruction, 95*, article 102011. <https://doi.org/10.1016/.learninstruc.2024.102011>.
+  
+  [Article](https://doi.org/10.1016%2F.learninstruc.2024.102011) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Student%20interaction%20with%20ChatGPT%20can%20promote%20complex%20critical%20thinking%20skills&journal=Learning%20and%20Instruction&doi=10.1016%2F.learninstruc.2024.102011&volume=95&publication_year=2025&author=Suriano%2CR&author=Plebe%2CA&author=Acciai%2CA&author=Fabio%2CRA)
+* United Nations. (2025). *E-Government Development Index (EGDI)*. United Nations. Retrieved April 25, 2025, from <https://publicadministration.un.org/egovkb/en-us/About/Overview/-E-Government-Development-Index>.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=E-Government%20Development%20Index%20%28EGDI%29&publication_year=2025)
+* Weidlich, J., Gasevic, D., Drachsler, H., & Kirschner, P. (2025). ChatGPT in education: An effect is search of a cause. *Journal of Computer Assisted Learning, 41*(5), article 70105. <https://doi.org/10.1111/jcal.70105>.
+  
+  [Article](https://doi.org/10.1111%2Fjcal.70105) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ChatGPT%20in%20education%3A%20An%20effect%20is%20search%20of%20a%20cause&journal=Journal%20of%20Computer%20Assisted%20Learning&doi=10.1111%2Fjcal.70105&volume=41&issue=5&publication_year=2025&author=Weidlich%2CJ&author=Gasevic%2CD&author=Drachsler%2CH&author=Kirschner%2CP)
+* Xing, W., Nixon, N., Crossley, S., Denny, P., Lan, A., Stamper, J., & Yu, Z. (2025). The use of large language models in education. *International Journal of Artificial Intelligence in Education, 35*, 439–443. <https://doi.org/10.1007/s40593-025-00457-x>.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40593-025-00457-x) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20use%20of%20large%20language%20models%20in%20education&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.1007%2Fs40593-025-00457-x&volume=35&pages=439-443&publication_year=2025&author=Xing%2CW&author=Nixon%2CN&author=Crossley%2CS&author=Denny%2CP&author=Lan%2CA&author=Stamper%2CJ&author=Yu%2CZ)
+* Yu, S.-C., Huang, Y.-M., & Wu, T.-T. (2024). Tool, threat, tutor, talk, and trend: College students’ attitudes toward ChatGPT. *Behavioral Sciences, 14*, article 755. <https://doi.org/10.3390/bs14090755>.
+  
+  [Article](https://doi.org/10.3390%2Fbs14090755) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Tool%2C%20threat%2C%20tutor%2C%20talk%2C%20and%20trend%3A%20College%20students%E2%80%99%20attitudes%20toward%20ChatGPT&journal=Behavioral%20Sciences&doi=10.3390%2Fbs14090755&volume=14&publication_year=2024&author=Yu%2CS-C&author=Huang%2CY-M&author=Wu%2CT-T)
+* Zhong, B., & Liu, X. (2025). Evaluating AI literacy of secondary students: Framework and scale development. *Computers and Education, 227*, article 105230. <https://doi.org/10.1016/j.compedu.2024.105230>.
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2024.105230) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluating%20AI%20literacy%20of%20secondary%20students%3A%20Framework%20and%20scale%20development&journal=Computers%20and%20Education&doi=10.1016%2Fj.compedu.2024.105230&volume=227&publication_year=2025&author=Zhong%2CB&author=Liu%2CX)
+* Zirenko, M., Machura, I. A., Fabriz, S., Schulze-Vorberg, L., & Horz, H. (2025). AI and learning with AI: University students’ metaphorical conceptualizations. *Journal of Interactive Media in Education, 1*, article 13. <https://doi.org/10.5334/jime.994>.
+  
+  [Article](https://doi.org/10.5334%2Fjime.994) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AI%20and%20learning%20with%20AI%3A%20University%20students%E2%80%99%20metaphorical%20conceptualizations&journal=Journal%20of%20Interactive%20Media%20in%20Education&doi=10.5334%2Fjime.994&volume=1&publication_year=2025&author=Zirenko%2CM&author=Machura%2CIA&author=Fabriz%2CS&author=Schulze-Vorberg%2CL&author=Horz%2CH)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s10639-026-13938-w?format=refman&flavour=references)
+
+Funding
+-------
+
+Open access funding provided by University of Oslo (incl Oslo University Hospital). There was no external funding for this research.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Department of Education, University of Oslo, 1092, Blindern, Oslo, NO-0317, Norway
+   
+   Ivar Bråten, Natalia Latini & Helge I. Strømsø
+
+Authors
+
+1. Ivar Bråten[View author publications](/search?sortBy=newestFirst&contributor=Ivar%20Br%C3%A5ten)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Ivar%20Br%C3%A5ten) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Ivar%20Br%C3%A5ten%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Natalia Latini[View author publications](/search?sortBy=newestFirst&contributor=Natalia%20Latini)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Natalia%20Latini) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Natalia%20Latini%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Helge I. Strømsø[View author publications](/search?sortBy=newestFirst&contributor=Helge%20I.%20Str%C3%B8ms%C3%B8)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Helge%20I.%20Str%C3%B8ms%C3%B8) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Helge%20I.%20Str%C3%B8ms%C3%B8%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Corresponding author
+
+Correspondence to
+[Ivar Bråten](mailto:ivar.braten@ped.uio.no).
+
+Ethics declarations
+-------------------
+
+### Ethical approval
+
+The collection and handling of the data were approved by the Norwegian Social Science Data Services.
+
+### Informed consent
+
+Informed consent was obtained from all participants.
+
+### Conflict of interest
+
+The authors declare that they have no conflicts of interest.
+
+Additional information
+----------------------
+
+### Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Exploring%20students%E2%80%99%20%28mis%29conceptions%20about%20ChatGPT-generated%20text%3A%20A%20qualitative%20study&author=Ivar%20Br%C3%A5ten%20et%20al&contentID=10.1007%2Fs10639-026-13938-w&copyright=The%20Author%28s%29&publication=1360-2357&publicationDate=2026-04-01&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+About this article
+------------------
+
+### Cite this article
+
+Bråten, I., Latini, N. & Strømsø, H.I. Exploring students’ (mis)conceptions about ChatGPT-generated text: A qualitative study.
+*Educ Inf Technol* (2026). https://doi.org/10.1007/s10639-026-13938-w
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s10639-026-13938-w?format=refman&flavour=citation)
+
+* Received: 02 September 2025
+* Accepted: 19 February 2026
+* Published: 01 April 2026
+* Version of record: 01 April 2026
+* DOI: https://doi.org/10.1007/s10639-026-13938-w
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Large language models](/search?query=Large%20language%20models&facet-discipline="Computer%20Science")
+* [ChatGPT](/search?query=ChatGPT&facet-discipline="Computer%20Science")
+* [AI literacy](/search?query=AI%20literacy&facet-discipline="Computer%20Science")
+* [Student conceptions and misconceptions](/search?query=Student%20conceptions%20and%20misconceptions&facet-discipline="Computer%20Science")
+* [Thematic analysis](/search?query=Thematic%20analysis&facet-discipline="Computer%20Science")
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+106.14.242.219
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

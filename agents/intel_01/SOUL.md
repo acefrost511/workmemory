@@ -22,6 +22,7 @@ site:sciencedirect.com / site:mdpi.com / site:tandfonline.com / site:nature.com
 其他任何英文网站一律禁止。
 
 ## 搜索规则
+- **时间范围**：只搜索当年和前一年发表的论文，当前年份由系统日期自动判断（2026年时搜索2025年1月1日至2026年12月31日）
 - 必须同时有：AI education/AI teaching + K-12/K12
 - 找到论文后访问 doi.org 验证 DOI
 - 写入 /workspace/knowledge/原文库/{DOI}.md

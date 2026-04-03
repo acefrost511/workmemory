@@ -1,0 +1,756 @@
+# Source URL: https://doi.org/10.1007/s11423-025-10565-z
+# Content Length: 86737 characters
+# Extracted at: 2026-04-03 09:57:39
+#============================================================
+
+
+
+
+
+
+
+
+
+Empowering children online: a holistic skills framework for cybersecurity | Educational technology research and development | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/11423/article&sz=728x90&pos=top&articleid=s11423-025-10565-z)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s11423-025-10565-z)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Educational technology research and development](/journal/11423)
+3. Article
+
+Empowering children online: a holistic skills framework for cybersecurity
+=========================================================================
+
+* Development Article
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 24 October 2025
+
+* (2025)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1007/s11423-025-10565-z.pdf)
+
+
+[Save article](/article/10.1007/s11423-025-10565-z/save-research?_csrf=BTsUZfxwzpCjt_I7RiGohiHthZE7ccLX)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Educational technology research and development](/journal/11423)
+[Aims and scope](/journal/11423/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/etrd)
+
+
+
+
+Empowering children online: a holistic skills framework for cybersecurity
+
+[Download PDF](/content/pdf/10.1007/s11423-025-10565-z.pdf)
+
+
+
+
+
+* [Nicolai B. Plintz](#auth-Nicolai_B_-Plintz-Aff1) 
+  [ORCID: orcid.org/0000-0002-5280-4997](https://orcid.org/0000-0002-5280-4997)[1](#Aff1) &
+* [Dirk Ifenthaler](#auth-Dirk-Ifenthaler-Aff1-Aff2)[1](#Aff1),[2](#Aff2)
+
+* 3700 Accesses
+* 22 
+  Altmetric
+* 3 Mentions
+* [Explore all metrics](/article/10.1007/s11423-025-10565-z/metrics)
+
+
+
+Abstract
+--------
+
+As a part of the Erasmus + funded project Super Cyber Kids, we have devised a skills framework to enhance the protection of children aged between 8 and 13 years in their Internet and online activities. The framework was developed through a systematic literature review, followed by a two-round Delphi study for validation. During this process, we identified *N* = 40 relevant studies and obtained validation from up to *N* = 18 professionals in cybersecurity, education, and cybersecurity education during the Delphi study. The resulting framework is presented as a matrix and offers a comprehensive set of skills aligned with the NIST (National Initiative for Cybersecurity Education) cybersecurity framework, specifically tailored to promote cybersecurity awareness among children in this age group.
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Children and Youth Work](/subjects/children-and-youth-work)
+* [Children, Youth and Family Policy](/subjects/children-youth-and-family-policy)
+* [Children, Youth and Media](/subjects/children-youth-and-media)
+* [IT Security Awareness](/subjects/it-security-awareness)
+* [Life Skills](/subjects/life-skills)
+* [Skills](/subjects/skills)
+* [E-Learning Systems and User Interaction Design](/subjects/e-learning-systems-and-user-interaction-design)
+
+Introduction
+------------
+
+Every 11 s, an organization falls victim to a ransomware attack, and tragically, many of these cyberattacks prove to be successful. As of 2021, the global damage from cyberattacks is estimated to reach a staggering 5.5 trillion Euros (Baldini et al., [2020](/article/10.1007/s11423-025-10565-z#ref-CR7)), which continues to rise steadily. Concurrently, cybersecurity-related issues, such as cyberbullying, are increasing (Santre, [2023](/article/10.1007/s11423-025-10565-z#ref-CR53)). In light of these trends, it is essential to define cybersecurity clearly. Cybersecurity encompasses all measures required to safeguard cyberspace, its users, and affected individuals from cyber threats (ENISA, [2017](/article/10.1007/s11423-025-10565-z#ref-CR17)). A particularly vulnerable user group comprises children and adolescents who remain inadequately protected from these threats (Quayyum et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR48); Rahman et al., [2020](/article/10.1007/s11423-025-10565-z#ref-CR49)). For this reason, educating children about potential cybersecurity risks is essential while providing them with countermeasures and prevention techniques (Quayyum et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR48)). Current research focuses on areas in which children and young people should be protected, such as cyberbullying, cryptography, or handling social media (Baciu-Ureche et al., [2019](/article/10.1007/s11423-025-10565-z#ref-CR6); Vanderhoven et al., [2016](/article/10.1007/s11423-025-10565-z#ref-CR63); Weeden et al., [2013](/article/10.1007/s11423-025-10565-z#ref-CR66); Zhu et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR71)), yet specific actions are rarely discussed. Available holistic work also tends to identify scopes of action and related curricular content for this age group (Sağlam et al., [2023](/article/10.1007/s11423-025-10565-z#ref-CR52)). However, there is currently no comprehensive and age-appropriate overview of relevant cybersecurity skills. Such an overview is essential to provide practitioners, parents, and curriculum designers with a foundation that can achieve comprehensive protection for children. In response, we conducted a systematic literature search and subsequently sought validation from professionals in cybersecurity, education, and cybersecurity education to identify these essential skills. For that reason, the Super Cyber Kids initiative is strategically aligned with the European Commission’s Digital Education Action Plan 2021–2027 and is specifically designed to address the gap in cybersecurity education for children in the late primary education (8–10 years old) through to the early middle school years (10–13 years old).
+
+Literature review
+-----------------
+
+In the digital age, children are exposed to various online threats (Quayyum et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR48)). The threats and cyber risks that children face cover a wide range and encompass multiple dangers such as grooming (Ringenberg et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR50)), cyberbullying (Zhu et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR71)), privacy threats (Buchanan et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR12)), and exposure to inappropriate online content like contact with strangers, sexual messaging, content with violence or racism as well as pornography (Kenny et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR30); Livingstone & Smith, [2014](/article/10.1007/s11423-025-10565-z#ref-CR38); Livingstone et al., [2014](/article/10.1007/s11423-025-10565-z#ref-CR37)), among many others. The initial problem with these threats is that the definition of risk often varies, and it is increasingly difficult to classify them accurately (Ibrahim et al., [2024](/article/10.1007/s11423-025-10565-z#ref-CR29); Ringenberg et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR50); Finkelhor et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR19); Cranmer et al., [2009](/article/10.1007/s11423-025-10565-z#ref-CR15); Stoilova et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR58); Tokunaga, [2010](/article/10.1007/s11423-025-10565-z#ref-CR101)). In general, grooming can be understood as a process by which a potential adult abuser befriends a child to gain the child’s trust and get them into abusive activities (Gillespie, [2002](/article/10.1007/s11423-025-10565-z#ref-CR23)). Another type of threat emerging from online interaction with other people is cyberbullying. According to Tokunaga (2010), cyberbullying can be defined as any behavior by individuals or groups using electronic or digital media that repeatedly communicate hostile or aggressive messages intended to cause harm or discomfort to others. Additionally, privacy threats are defined as potential dangers that can affect the right of individuals, groups, or institutions to decide for themselves to what extent they share information about themselves with others (Westin, [1967](/article/10.1007/s11423-025-10565-z#ref-CR67)). To ensure protection against these online threats, several frameworks address prevention and protection measures. However, most of these frameworks are designed for adults and companies.
+
+These threat categories and measures, designed for organizations, may not sufficiently address children’s particular vulnerabilities and needs.
+
+The National Institute of Standards and Technology (NIST) framework ([2024](/article/10.1007/s11423-025-10565-z#ref-CR41)) is a multifaceted and adaptable framework designed to enhance organizations’ cybersecurity posture. At its core, the framework is structured around five key functions: Identify, Protect, Detect, Respond, and Recover. These functional dimensions are crucial in safeguarding organizations against online risks and threats. Unfortunately, a large part of the NIST framework cannot be applied directly to children as it is too technical and complex for this age group. For instance, databases, networks, and software need to be identified and protected in an organizational context. This includes threat and vulnerability analysis and risk assessment of these resources—requirements that are specific to organizations (NIST, [2024](/article/10.1007/s11423-025-10565-z#ref-CR41)). Children, on the other hand, face other, simpler but no less dangerous threats for their age group.
+
+While existing frameworks provide valuable foundations, they present significant limitations for children aged 8–13. For instance, the NICE Framework focuses primarily on workforce development with technical competencies for organizational cybersecurity roles UpGuardProcomservices might be inappropriate for young learners. Cyber.org’s K-12 framework, while comprehensive in scope, lacks specific validation and detailed skill breakdowns for the critical 8–13 age group. The European Cybersecurity Skills Framework (ECSF) defines 12 professional role profiles that emphasize professional competencies rather than age-appropriate foundational skills. Most critically, existing frameworks either focus on technical workforce preparation or remain too broad across all school ages without addressing the unique developmental needs, limited abstract reasoning capabilities, and specific online threats that characterize the 8–13 age group. Therefore, a specialized framework validated specifically for this vulnerable population is essential. For this reason it is important to create a holistic overview that specifically addresses the threats children face online while considering the various reasons for attacks or cyber risks, including financial gain, entertainment (Chang et al., [2023](/article/10.1007/s11423-025-10565-z#ref-CR14)), narcissism (Tanrikulu & Erdur-Baker, [2021](/article/10.1007/s11423-025-10565-z#ref-CR59)) and in general that children considered as a particularly vulnerable group (Chang et al., [2023](/article/10.1007/s11423-025-10565-z#ref-CR14)). Given these unique vulnerabilities and the distinct nature of online threats targeting children, our study aims to explore the necessary skills that are required to be fully covered in the area of cybersecurity for children aged eight until 13. Specifically, we aim to address the following research questions:
+
+**RQ1:** What are the specific cyber security skills for children in the age range between 8 and 13 that are identified in the scientific literature and professionals’ opinions?
+
+**RQ2:** Which cybersecurity skills are targeted by the learning opportunities provided through games and platforms mentioned in studies on cybersecurity education for children?
+
+**RQ3a:** How can the identified skills be categorized in a structured manner?
+
+**RQ3b:** How can a structured framework be developed by integrating the dimensions of the NIST Framework with the potential identified cybersecurity categories for children aged 8–13?
+
+The individual research questions act as necessary intermediaries that help answer the broad research question RQ3b by integrating the dimensions of the NIST framework with the identified cybersecurity categories for children ages 8 to 13.
+
+Method
+------
+
+We deployed a two-phase approach consisting of a systematic literature review and validation through a two-round Delphi study to answer the research questions and create a holistic and comprehensive skill framework.
+
+### Systematic literature review
+
+The systematic literature review followed largely the PRISMA statement (Preferred Reporting Items for Systematic Reviews and Meta-analysis; Page et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR43)) and targeted the age group of 8–13-year-old children, focusing on relevant cybersecurity skills. Leading databases in the fields of IT, education, and psychology were used for the literature search. The following databases were consulted: ACM Digital Library, ACM Guide to Computing Literature, ERIC, IEEE Xplore, Web of Science, and PsycINFO.
+
+#### Search criteria
+
+Three subject areas have been connected using an AND parameter for the search. One is the subject area (cybersecurity), the target group (8–13-year-olds), and the output (skill). Therefore, the following search strategy was implemented to search:
+
+1. 1.
+   
+   Cybersecurity and synonyms
+
+“cybersecurity” OR “Cyber-security” OR “cyber security” OR “cybersecure\*” OR “cyber-secure” OR “cyber safety” OR “cyber-safety” OR “cyber awareness” OR “Cyber-awareness” OR “IT-Security” OR “IT Security” OR “IT-Secure\*” OR “IT Secure\*” OR “Information security” OR “information technology security” OR “digital security” OR “digital-security” OR “digital-safety” OR “digital safety” OR “Online security” OR “online-security” OR “online safety” OR “E-Safety” OR “Online Security” OR “Computer security” OR “Computer-security”.
+
+1. 2.
+   
+   Target group
+
+“Primary School\*” OR “Elementary School\*” OR “grade school\*” OR “lower school\*” OR “grammar school\*” OR “Secondary Schools” OR “middle school” OR “prep school” OR “Preparatory School” OR “Secondary aged” OR “primary aged\*” OR “intermediate school\*” OR “child\*” OR “young people” OR pupil\* OR kids.
+
+Later added: K12.
+
+1. 3.
+   
+   Output
+
+Framework OR “Frame of reference” OR “Set of skill” OR Skillset OR Competenc\* OR Instruction\* OR Skill\*.
+
+#### Inclusion and exclusion criteria
+
+The search covered scientific literature published until February 2025. The inclusion criteria consisted of the following: (a) a focus on cybersecurity or measures to decrease cybersecurity-related risks, (b) mention of methods or skills, whether implicit or explicit, that enhance the understanding, knowledge, or awareness of the target group, and (c) inclusion of at least a specific age group to some extent. The exclusion criteria consisted of the following: (a) Pure implications for parents, (b) books, (c) articles that are not written in the English language, and (d) thesis. Furthermore, it also leads to exclusion (e) if the skills mentioned are inappropriate for the age group. If there was an overlap of age groups, for example, 4–18 years, these were initially included, and later, only the relevant skills for the target group were included. Specifically, (f) studies were excluded if they did not contain any skills for the target group. With the abovementioned criteria, we identified a total of *N* = 398 studies from the database search. After cleaning the duplicates, *N* = 315 remained, and after the title and abstract search, *N* = 160 were left. In addition, *N* = 5 studies were added to the reference list. After performing the full-text search, *N* = 39 suitable studies remained. In addition, *N* = 5 games and *N* = 3 platforms were identified as the basis for skill extraction. Figure [1](/article/10.1007/s11423-025-10565-z#Fig1) shows a detailed overview of the search process. From the remaining *N* = 39 papers, we extracted (a) potential risks, challenges, and threat areas; (b) skills and games as well as platforms with specific content; and (c) interaction parties.
+
+**Fig. 1**
+
+![]()[Full size image](/article/10.1007/s11423-025-10565-z/figures/1)
+
+Flow diagram of the systematic review process
+
+During the revision process, we transformed all extracted items into actionable skills. The original literature used varying formulations to describe children’s cybersecurity competencies (e.g., “should know that”, “are aware that”, “can do”, “should not”). To ensure consistency and systematic comparison, all statements were standardized in the format “Children can…”, while preserving the original intent and meaning of each study’s findings. Items that originally described knowledge or awareness were reformulated as demonstrable capabilities (e.g., “Children can recognize that malware exists”), while action-oriented statements were maintained as “Children can [perform action]”. This ensures the framework focuses on practical abilities rather than theoretical knowledge. This ensures the framework focuses on practical abilities rather than theoretical knowledge. After completing the skill extraction and the transformation process, we categorized the skills into Identify, Protect, Detect, Respond, and Recover based on the NIST framework. We selected the NIST framework dimensions based on their structural and taxonomic sequence that remains logical and comprehensible for children. The five-stage progression from Identify through Protect, Detect, Respond, to Recover provides an intuitive learning pathway that can be translated into age-appropriate learning objectives while maintaining compatibility with the established NIST standard.
+
+This adaptation required recontextualizing each dimension from organizational to child-oriented applications, following a pedagogically informed sequence: Identify builds fundamental awareness that online threats exist in general; Protect provides general protective measures and theoretical knowledge for threat recognition; Detect develops concrete skills to recognize when personally affected by a threat; Respond offers specific actions children should take when threats are identified; and Recover guides methods to restore safety after being affected by an incident. For example, while organizational “Protect” encompasses technical safeguards and policies, the children’s “Protect” dimension focuses on preventive behaviors, password hygiene, and privacy settings management. Our adapted NIST dimensions were treated as approximate taxonomies. The ‘Identify’ category encompassed fundamental knowledge and action-oriented skills. The ‘Protect’ dimension comprises general and specific measures to ensure preventive cybersecurity protection. The ‘Detect’ category included specific measures to identify the need for cybersecurity actions. ‘Respond’ refers to the skills necessary to respond to recognized threats, and the final dimension encompasses skills that contribute to restoring the original state. Afterward, the extracted skills were divided into six portions and proper categories: Malicious code, frauds, preventive technologies, abusive content, safety, and data privacy and awareness. The final result is a matrix-shaped framework with 30 fields comprising the NIST dimensions (X-axis) and the categories extracted from the literature (Y-axis).
+
+#### Characteristics of included studies
+
+For the systematic literature review, various study types were examined and included in the analysis. A total of five intervention studies were identified, while the majority consisted of survey studies (n = 9) and evaluation studies (n = 4). Additionally, the review incorporated two mixed-methods studies, two qualitative studies, two (systematic) literature reviews, and eleven conceptual studies. Further included were one comment, one quasi-experimental study, one comparative study, and one validation study. The analyzed studies were predominantly published in journals, with 26 journal articles, alongside eleven conference papers and two strategy papers. The publication years range from 2006 to 2025, with notable contributions in 2016 (n = 5), 2021 (n = 7), and 2024 (n = 5). Geographically, the studies span multiple countries, with the majority originating from the USA (n = 12), followed by the UK (n = 4). Japan, Canada, Croatia, South Africa, Australia, and Malaysia each contributed two studies, while single studies came from France, the Netherlands, India, the Czech Republic, Poland, Greece, Portugal, Cyprus, Spain, Taiwan, and Turkey.
+
+### Delphi-study
+
+To validate the skills described in the literature and to extend the skills framework, we conducted a two-round Delphi study (Scheibe et al., [1975](/article/10.1007/s11423-025-10565-z#ref-CR54)). While the typical Delphi process often involves three rounds, it can also be undertaken successfully with only two rounds (Roberson et al., [2005](/article/10.1007/s11423-025-10565-z#ref-CR51); Scheibe et al., [1975](/article/10.1007/s11423-025-10565-z#ref-CR54); Skulmoski et al., [2007](/article/10.1007/s11423-025-10565-z#ref-CR57)). The typical characteristics of a Delphi study, such as conducting several rounds, anonymity of the participants, feedback loops, and striving for consensus, were considered in our study (Scheibe et al., [1975](/article/10.1007/s11423-025-10565-z#ref-CR54); Skulmoski et al., [2007](/article/10.1007/s11423-025-10565-z#ref-CR57)). In the first round, we anonymously asked a group of professionals to identify the essential skills for the 8—13 age group in the area of cybersecurity from scratch. Subsequently, the identified skills were clustered, merged with the results from the literature, and presented to the participants as feedback in the second round to check the completeness and appropriateness of the skills for the target group. The study, conducted using Microsoft Forms, involved 18 professionals from the fields of cybersecurity (*n* = 6), cybersecurity education (*n* = 5), and general education (*n* = 6), with one additional participant from another area. The participants, hailing from countries including Estonia, Germany, Italy, the USA, France, and Hungary, had varying levels of professional experience. In cybersecurity education, the 5 participants had an average of 15.2 years of experience, ranging from 4 to 19 years. The six participants in cybersecurity averaged 14.5 years, ranging from 5 to 21 years. Those in general education also totaled six, with an average experience of 14.83 years, ranging from 5 to 35 years. Regarding educational qualifications, six participants held a PhD, eleven had a university degree, and one person had a high school diploma. The median age of the participants fell within the 40–49 age group.
+
+#### Round 1: generating skills through the subject matter professionals
+
+In the first round, the *N* = 18 professionals were asked to provide demographic information and identify skills children between the ages of 8 and 13 should have in cybersecurity. The professionals’ answers were expected to be formulated starting with “Kids can do” and describe the skills that, in their opinion, are of great significance. The professionals identified over 100 skills that might be required. These results were mapped and incorporated into the framework for the second round.
+
+#### Round 2: validation of the existing framework
+
+In the second round, participants were provided with each of the thirty matrix fields consisting of the NIST dimensions (Identify, Protect, Detect, Response, and Recovery) as well as the action fields we identified (Malicious Code, Fraud & Preventive Technologies, Abusive Content, Safety, Data Privacy & Awareness) and asked to evaluate whether the skills were appropriately related to content and age, as well as comprehensive. This part also included annotating incorrect or inapplicable skills and adding missing skills via a free text field. For this purpose, the participants were provided with four links to evaluate the individual fields of the matrix: Link 1: Malicious code (*N* = 17); Link 2: Frauds & Preventive Technologies (*N* = 14); Link 3: Abusive Content & Safety (*N* = 13); Link 4: Data Privacy & Awareness (*N* = 14). To distribute the workload for the participants, we gave them different links in a randomized order. Only Malicious Code was the link to the evaluation of this category for all participants. Therefore, the number of professionals per category varied. Based on the results from the second round of the Delphi study, the research team incorporated final adjustments to the framework.
+
+Results
+-------
+
+### RQ1: What are the specific cyber security skills for children in the age range between 8 and 13 that are identified in the scientific literature and professionals’ opinions?
+
+From the systematic literature review, we initially extracted over 500 skills from different scientific papers, games as well as the platforms mentioned in those. After excluding those that were not age-appropriate and removing duplicates, *N* = 257 relevant skills remained. In addition to the skills from the scientific literature, the professionals identified *N* = 101 skills in the first round of the Delphi study. The skills identified by the SLR and the professionals in the first round of the Delphi study range from rather general and superficial skills to specific skills. The results are shown in Tables [1](/article/10.1007/s11423-025-10565-z#Tab1) and [2](/article/10.1007/s11423-025-10565-z#Tab2).
+
+**Table 1 Excerpt from the systematic literature search**
+
+[Full size table](/article/10.1007/s11423-025-10565-z/tables/1)
+
+**Table 2 Excerpt of the first round of the Delphi study**
+
+[Full size table](/article/10.1007/s11423-025-10565-z/tables/2)
+### RQ2: Which cybersecurity skills are targeted by the learning opportunities provided through games and platforms mentioned in studies on cybersecurity education for children?
+
+Different games and platforms are mentioned in the literature. Some of them still exist today, while others no longer do. Berson et al. ([2008](/article/10.1007/s11423-025-10565-z#ref-CR10)) identified and compared various platforms and games. Over a decade later, Shen et al. ([2021](/article/10.1007/s11423-025-10565-z#ref-CR55)) adopted a similar approach. They compared the games based on gamification elements, topics, and components to create a more comprehensive game called Cyber Security Awareness Games (CSAG). In general, the games differ in terms of quality, purpose, and content. While some games only deal with a specific area of cybersecurity for children, such as Anti Phishing Phil, which specializes in phishing, or CyberCiege, which is dedicated to computer and network security, other games try to cover several categories and areas, like CyberAware (Giannakas et al., [2015](/article/10.1007/s11423-025-10565-z#ref-CR22); Khan et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR31)). The areas of the games and platforms are listed in Table [3](/article/10.1007/s11423-025-10565-z#Tab3). It is noticeable that cyberbullying, privacy and personal information, as well as netiquette and social media, occur more frequently.
+
+**Table 3 Platforms and games mentioned in the cybersecurity context**
+
+[Full size table](/article/10.1007/s11423-025-10565-z/tables/3)
+### RQ3a: How can the identified skills be categorized in a structured manner?
+
+Once all the skills had been classified along the adapted NIST dimension, the next step was to create various categories. To do this, frameworks and skills classifications mentioned in the literature were first considered to make a potentially existing classification. The criteria for the categories were based on a possible adaptation to the age group 8–13 years, so frameworks, categories, and subject areas from adult education or the private sector were also considered. One possible classification was according to knowledge, attitude, and behavior, focusing on password management, email use, internet use, social media use, mobile devices, information handling, and incident reporting (Parsons et al., [2014](/article/10.1007/s11423-025-10565-z#ref-CR44)). Another framework is the eCSIRT.net Framework (Antunes et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR4)), which was adjusted by ENISA (ENISA, [2018](/article/10.1007/s11423-025-10565-z#ref-CR18)) to train people in the field of cybersecurity.
+
+The categories abusive content, malicious code, information gathering, intrusion attempts, intrusions, availability, information content security, frauds, vulnerability, and other tests appear in this classification. Another grouping strategy could be to proceed according to existing curricula. The K-12 Cybersecurity Learning Standards (Anderson et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR3)) could be considered. This curriculum contains three different pillars: computer systems, digital citizenship, and security. Computing Systems tend to refer to technical components such as computing and networking, as well as hardware and software.
+
+Digital Citizenship, on the other hand, covers more general rules of behavior and dealing with cyberbullying in the category of ‘online safety’ (Anderson et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR3); Toledo et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR60)). In addition to frameworks, games, and curricula, various topics are covered in the different papers. Some papers focus exclusively on the area of e-safety (Cranmer et al., [2009](/article/10.1007/s11423-025-10565-z#ref-CR15); Kenny et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR30); Kritzinger & Padayachee, [2013](/article/10.1007/s11423-025-10565-z#ref-CR35)), Cyberbullying (Tanrikulu & Erdur-Baker, [2021](/article/10.1007/s11423-025-10565-z#ref-CR59); Santre, [2023](/article/10.1007/s11423-025-10565-z#ref-CR53)) or social networks (Fujikawa et al., [2019](/article/10.1007/s11423-025-10565-z#ref-CR20), [2020](/article/10.1007/s11423-025-10565-z#ref-CR21)). This diversity of topics, as well as the different clustering and inconsistent definitions, make it quite difficult to categorize them into existing classifications. Especially the definitions of terms are challenging. For instance, the term e-safety is used in similar contexts but is often very nebulous (Cranmer et al., [2009](/article/10.1007/s11423-025-10565-z#ref-CR15)). The same picture seems to be repeated across most areas. For example, Finkelhor et al. ([2021](/article/10.1007/s11423-025-10565-z#ref-CR19)) note that there is also no uniform definition of privacy. They use components that they integrate into the area, such as identity theft, cyber-harassment, sexual predators, and damage to reputation.
+
+There is also a lack of clarity in the definition of the term cyber-hygiene in academic research (Vishwanath et al., [2020](/article/10.1007/s11423-025-10565-z#ref-CR65)). This seems to be a recurring theme. For this reason, the extracted skills were analyzed with a focus on their practical applicability for teachers, as well as on the coverage of the core topics from the areas of technical, legal, and social risks, with a view to the potential creation of curriculum units. After considering the individual papers, frameworks, and curricula, it was initially possible to divide them into more technical challenges and more non-technical measures. For example, these can be divided into computer networks (Amo et al., [2019](/article/10.1007/s11423-025-10565-z#ref-CR1)), malicious code (Antunes et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR4)), cryptography (Konak, [2014](/article/10.1007/s11423-025-10565-z#ref-CR32)), abusive content (Kenny et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR30); Livingstone et al., [2014](/article/10.1007/s11423-025-10565-z#ref-CR37)) and frauds (Antunes et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR4); ENISA, [2018](/article/10.1007/s11423-025-10565-z#ref-CR18)), e-safety (Cranmer et al., [2009](/article/10.1007/s11423-025-10565-z#ref-CR15); Kenny et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR30); Kritzinger & Padayachee, [2013](/article/10.1007/s11423-025-10565-z#ref-CR35)) or general behavior on the internet (Anastasiades & Vitalaki, [2011](/article/10.1007/s11423-025-10565-z#ref-CR2)). In addition, some sources seem to focus more on the threats and how to deal with them (e.g., Kenny et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR30); Ringenberg et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR50); Santre, [2023](/article/10.1007/s11423-025-10565-z#ref-CR53)), while others are more concerned with protection (e.g., Hudson et al., [2015](/article/10.1007/s11423-025-10565-z#ref-CR27); Konak, [2014](/article/10.1007/s11423-025-10565-z#ref-CR32)). After a thorough analysis of all available information, consisting of various frameworks, existing scientific literature, and curricula, it became clear that it is essential to consider not only technical risks but also behavior-oriented risks and consider them when forming categories. For these reasons, the following categories were selected:
+
+* **Malicious code:** In the area of malicious code, a basic understanding of malware, existing technical threats, and how to deal with them should be taught.
+* **Frauds:** In the area of frauds, the basic awareness of fraud and how to deal with it should be created.
+* **Abusive Content**: In the area of abusive content, a basic understanding of the types and handling of harmful or (age-)inappropriate content that may occur in cyberspace should be provided.
+* **Preventing Technologie**s: In the area of Preventing Technologies, a basic awareness of technologies that can protect them should be created.
+* **Data Privacy and Awareness:** In the area of data privacy and awareness, an awareness of the handling and protection of personal data and privacy should be created, as well as an awareness of how to handle data.
+* **Safety**: In the area of safety, a basic awareness of general safety practices, dealing with cyberbullying, and using the internet and digital devices should be taught.
+
+Figure [2](/article/10.1007/s11423-025-10565-z#Fig2) shows the dimensions and categories that were processed into a matrix. After this matrix was created, the skills were subdivided and ranked by two independent researchers.
+
+**Fig. 2**
+
+![]()[Full size image](/article/10.1007/s11423-025-10565-z/figures/2)
+
+Design of the skills framework for cybersecurity
+
+### RQ3b: How can the identified cybersecurity skills for children aged 8–13 be integrated into a matrix-based skill framework using the dimensions of the NIST framework and our identified dimensions?
+
+To answer this research question, two independent raters classified the skills, which we extracted from the scientific literature, the first round of the Delphi study, and the games and platforms into the matrix-based framework. We subsequently gave the professionals each of the 30 fields for evaluation, asking them to assess them for completeness, age appropriateness, and correct categorization. The final result of this process can be seen in Fig. [3](/article/10.1007/s11423-025-10565-z#Fig3).
+
+**Fig. 3**
+
+![]()![]()[Full size image](/article/10.1007/s11423-025-10565-z/figures/3)
+
+Final skills framework for cybersecurity
+
+Conclusion and scientific significance
+--------------------------------------
+
+In this study, we developed a skill framework tailored to children aged 8–13, encompassing a comprehensive selection of skills extracted from scientific literature, cybersecurity games, and an online platform. To ensure the framework’s validity, we conducted a two-round Delphi study, following the robust approach outlined by Scheibe et al. ([1975](/article/10.1007/s11423-025-10565-z#ref-CR54)) for determining crucial forecasts or policy positions. During the validation process, we considered the feedback from up to 18 professionals in cybersecurity, education or cybersecurity education. Most of the skills identified by the participants were adopted. In the second round, which we used as a validation process, we received valuable feedback from the participants, including comments on individual skills that were missing from the framework or considered too complex for the target age group. For example, in the category of malicious code and recovery, four participants (02AG, 25TI, 24MG, 18BH) expressed that the skill “Children can restore files after a cyber-attack by means of a backup” was not suitable for the 8–13 age group. A proportionately more common participant comment was that certain skills were considered too advanced for 8–10-year-olds (18BH) or that certain components of skills would be more appropriate for 12–13-year-olds (21TE).
+
+In addition, a subdivision within skills by further age categories was suggested (18TE). We decided against this suggestion because we chose to maintain a holistic view to ensure a comprehensive approach. This decision allowed flexibility in implementing the framework and enabled personalized didactic adjustments based on the individual needs of trainers and teachers during practical use.
+
+Furthermore, the resulting matrix-shaped framework effectively classifies different skills based on the NIST framework (X-axis) and cybersecurity problems relevant to 8–13-year-olds (Y-axis). The choice of the NIST framework dimensions was deliberate, as it offers a holistic and well-defined approach, covering essential stages of cybersecurity problems and facilitating a taxonomic understanding suitable for our target group. Furthermore, the framework’s classification facilitates deriving direct action recommendations after identifying specific skills. Additionally, by incorporating existing literature, cybersecurity games, and various frameworks, we ensured the robustness of the Y-axis categories. While we considered an alternative classification based on cyber-awareness, cyber-hygiene, and cyberbullying, we recognized the lack of clear definitions in academic research, for example, for cyber-hygiene (Vishwanath et al., [2020](/article/10.1007/s11423-025-10565-z#ref-CR65)) and the potential overlap with the NIST framework categories. We chose not to adopt this approach to avoid ambiguity and maintain clarity. Another important aspect is the differentiation and specific impact of the required skills and threats. Many of the skills mentioned in the literature are rather general (e.g., Hammond et al., [2022](/article/10.1007/s11423-025-10565-z#ref-CR25); Skinner, [2016](/article/10.1007/s11423-025-10565-z#ref-CR56); Wishart et al., [2007](/article/10.1007/s11423-025-10565-z#ref-CR68)), which has the advantage that they can be interpreted differently in various countries. However, this also has a disadvantage: this generalization and the resulting superficiality of the skills make it more difficult to effectively address specific problems, such as fake news, which is increasing in Europe and the United States (Vlachos, [2022](/article/10.1007/s11423-025-10565-z#ref-CR100)). A more detailed differentiation between misinformation, disinformation, and malinformation would be useful in this context (Armitage & Vaccari, [2021](/article/10.1007/s11423-025-10565-z#ref-CR5); Carmi et al., [2020](/article/10.1007/s11423-025-10565-z#ref-CR13)). This would enable a more targeted approach to challenges such as radicalization, misogyny, and other negatively connoted social phenomena that can influence children (HOUSE, O. C., [2019](/article/10.1007/s11423-025-10565-z#ref-CR26)). In addition to this rather superficial definition, there seems to be a general lack of standardized definitions and clear delineation of problem areas and their subtopics (Cranmer et al., [2009](/article/10.1007/s11423-025-10565-z#ref-CR15); Finkelhor et al., [2021](/article/10.1007/s11423-025-10565-z#ref-CR19); Vishwanath et al., [2020](/article/10.1007/s11423-025-10565-z#ref-CR65)), which means that individual abilities can be interpreted differently. In future research, the individual terms could be extracted from the skills and then defined in a dedicated manner. This contrasts with the constantly changing landscape of threats. Risks and challenges change regularly (Patterson et al., [2023](/article/10.1007/s11423-025-10565-z#ref-CR103); Al-Rimy et al., [2018](/article/10.1007/s11423-025-10565-z#ref-CR104)), which argues against narrowing definitions. In addition, future research and practice could focus on the segmentation of skills and how these can be effectively delivered to the appropriate target group. In this context, the developed framework and the extracted competencies served as the project’s foundation. From the framework, an ontology was created to identify the knowledge elements and competencies required for the proposed demographic. These competencies are then used to evaluate different games and to create a learning outcome evaluation that will be made available to the public. Additionally, the framework requires empirical validation through pilot implementations in educational settings to assess real-world effectiveness and identify implementation challenges such as teacher training requirements.
+
+Furthermore, while our international literature base provides broad applicability, regional variations in cybersecurity threats (e.g., different fake news patterns across Europe vs. Asia) may require local adaptations of the framework’s generalized skills. Future research should examine regional customization needs while maintaining the framework’s core structure.
+
+To sum up, this study contributes a specialized skill framework that addresses the cybersecurity needs of children aged 8–13, providing guidance and resources to foster safe online practices. By utilizing the NIST framework and incorporating cybersecurity professionals’ insights, we have enhanced the framework’s validity, making it a valuable tool for promoting online safety among this vulnerable age group. However, it is important to note that this framework should be empirically tested in future studies to further validate and optimize its effectiveness in practice. In extension, a compacted and easy-to-use version should be created for practice and teaching.
+
+
+
+Data availability
+-----------------
+
+The relevant materials/resources are listed under the references cited. Sources marked with an asterisk are included in the systematic review.
+
+References
+----------
+
+### The references marked with an asterisk (\*) are those that were included in the systematic literature review
+
+* Al-Rimy, B. A. S., Maarof, M. A., & Shaid, S. Z. M. (2018). Ransomware threat success factors, taxonomy, and countermeasures: A survey and research directions. *Computers & Security,* *74*, 144–166. <https://doi.org/10.1016/j.cose.2018.01.001>
+  
+  [Article](https://doi.org/10.1016%2Fj.cose.2018.01.001) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Ransomware%20threat%20success%20factors%2C%20taxonomy%2C%20and%20countermeasures%3A%20A%20survey%20and%20research%20directions.&journal=Computers%20%26%20Security&doi=10.1016%2Fj.cose.2018.01.001&volume=74&pages=144-166&publication_year=2018&author=Al-Rimy%2CBAS&author=Maarof%2CMA&author=Shaid%2CSZM)
+* \*Amo, L. C., Liao, R., Frank, E., Rao, H. R., & Upadhyaya, S. (2019). Cybersecurity interventions for teens: Two time-based approaches. *IEEE Transactions on Education,* *62*(2), 134–140. <https://doi.org/10.1109/te.2018.2877182>
+  
+  [Article](https://doi.org/10.1109%2Fte.2018.2877182) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cybersecurity%20interventions%20for%20teens%3A%20Two%20time-based%20approaches&journal=IEEE%20Transactions%20on%20Education&doi=10.1109%2Fte.2018.2877182&volume=62&issue=2&pages=134-140&publication_year=2019&author=Amo%2CLC&author=Liao%2CR&author=Frank%2CE&author=Rao%2CHR&author=Upadhyaya%2CS)
+* \*Anastasiades, P. S., & Vitalaki, E. (2011). Promoting internet safety in Greek primary schools: The teacher’s role. *Journal of Educational Technology & Society,* *14*(2), 71–80.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Promoting%20internet%20safety%20in%20Greek%20primary%20schools%3A%20The%20teacher%E2%80%99s%20role&journal=Journal%20of%20Educational%20Technology%20%26%20Society&volume=14&issue=2&pages=71-80&publication_year=2011&author=Anastasiades%2CPS&author=Vitalaki%2CE)
+* Anderson, S., Bastian, B., Bellew, K., Bonzon, T., Braught, T., Carter, P., Chen, B., Day, C., Dungan, C., George, K., Gibson, R., Hartkopf, J., Henderson, W., Hendricks, N., Herbel, K., Hof, L., Hughes, C., Jacobson, D., … Underwood, J. (2021). K-12 cybersecurity learning standards. Retrieved from <https://cyber.org/standards>.
+* \*Antunes, M., Silva, C., & Marques, F. (2021). An integrated cybernetic awareness strategy to assess cybersecurity attitudes and behaviours in school context. *Applied Sciences*, *11*(23), 11269. <https://doi.org/10.3390/app112311269>
+* Armitage, R., & Vaccari, C. (2021). Misinformation and disinformation. In *The Routledge companion to media disinformation and populism* (pp. 38–48). <https://doi.org/10.4324/9781003004431-5>.
+* \*Baciu-Ureche, O. G., Sleeman, C., Moody, W. C., & Matthews, S. J. (2019). The adventures of scriptkitty: Using the raspberry pi to teach adolescents about internet safety. *Proceedings of the 20th Annual SIG Conference on Information Technology Education*, 118–123, <https://doi.org/10.1145/3349266>
+* Baldini, G., Barrero, J., Chaudron, S., Coisel, I., Draper Gil, G., Duch Brown, N., Eulaerts, O., Geneiatakis, D., Hernandez Ramos, J., Joanny, G., Junklewitz, H., Kampourakis, G., Kerckhof, S., Kounelis, I., Lewis, A., Martin, T., Nai Fovino, I., Nativi, S., … Tirendi, S. (2020). *Cybersecurity, our digital anchor* (I. Nai Fovino, G. Barry, S. Chaudron, I. Coisel, M. Dewar, H. Junklewitz, G. Kampourakis, I. Kounelis, B. Mortara, J. Nordvik, & J. Sanchez Martin, Eds.). Publications Office of the European Union. <https://doi.org/10.2760/967437>
+* \*Becta (2006). Safeguarding children in a digital world. Coventry: British Educational Communications and Technology Agency.
+* \*Beranek, L. (2009). Information systems security education for future teacher at secondary and primary schools. *Journal of Technology and Information Education,* *1*(2), 89.
+  
+  [Article](https://doi.org/10.5507%2Fjtie.2009.043) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Information%20systems%20security%20education%20for%20future%20teacher%20at%20secondary%20and%20primary%20schools&journal=Journal%20of%20Technology%20and%20Information%20Education&doi=10.5507%2Fjtie.2009.043&volume=1&issue=2&publication_year=2009&author=Beranek%2CL)
+* \*Berson, I., Berson, M., Desai, S., Falls, D., & Fenaughty, J. (2008). An analysis of electronic media to prepare children for safe and ethical practices in digital environments. *Contemporary Issues in Technology and Teacher Education*, *8*(3), 222–243.
+* \*Blinder, E. B., Chetty, M., Vitak, J., Torok, Z., Fessehazion, S., Yip, J., Fails, J. A., Bonsignore, E., & Clegg, T. (2024). Evaluating the use of hypothetical ‘Would You Rather’ scenarios to discuss privacy and security concepts with children*. Proceedings of the ACM on Human-Computer Interaction*, USA, 8(CSCW1), Article 165, 1–32. <https://doi.org/10.1145/3641004>
+* \*Buchanan, L., Scarlatos, L., & Telendii, N. (2021). Curriculum to broaden participation in cybersecurity for middle school teachers and students. In *2021 IEEE Integrated STEM Education Conference (ISEC)* (pp. 63–70). <https://doi.org/10.1109/isec52395.2021.9763930>
+* Carmi, E., Yates, S. J., Lockley, E., & Pawluczuk, A. (2020). Data citizenship: Rethinking data literacy in the age of disinformation, misinformation, and malinformation. *Internet Policy Review,* *9*(2), 1–22.
+  
+  [Article](https://doi.org/10.14763%2F2020.2.1481) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Data%20citizenship%3A%20Rethinking%20data%20literacy%20in%20the%20age%20of%20disinformation%2C%20misinformation%2C%20and%20malinformation&journal=Internet%20Policy%20Review&doi=10.14763%2F2020.2.1481&volume=9&issue=2&pages=1-22&publication_year=2020&author=Carmi%2CE&author=Yates%2CSJ&author=Lockley%2CE&author=Pawluczuk%2CA)
+* Chang, V., Golightly, L., Xu, Q. A., Boonmee, T., & Liu, B. S. (2023). Cybersecurity for children: An investigation into the application of social media. *Enterprise Information Systems,* *17*(11), 2188122. <https://doi.org/10.1080/17517575.2023.2188122>
+  
+  [Article](https://doi.org/10.1080%2F17517575.2023.2188122) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cybersecurity%20for%20children%3A%20An%20investigation%20into%20the%20application%20of%20social%20media&journal=Enterprise%20Information%20Systems&doi=10.1080%2F17517575.2023.2188122&volume=17&issue=11&publication_year=2023&author=Chang%2CV&author=Golightly%2CL&author=Xu%2CQA&author=Boonmee%2CT&author=Liu%2CBS)
+* \*Cranmer, S., Selwyn, N., & Potter, J. (2009). Exploring primary pupils’ experiences and understandings of “e-safety.” *Education and Information Technologies,* *14*(2), 127–142. <https://doi.org/10.1007/s10639-008-9083-7>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-008-9083-7) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20primary%20pupils%E2%80%99%20experiences%20and%20understandings%20of%20%E2%80%9Ce-safety%E2%80%9D&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-008-9083-7&volume=14&issue=2&pages=127-142&publication_year=2009&author=Cranmer%2CS&author=Selwyn%2CN&author=Potter%2CJ)
+* \*Dönmez, O., Odabasi, H. F., Kabakçi Yurdakul, I., Kuzu, A., & Girgin, Ü. (2017). Development of a scale to address perceptions of pre-service teachers regarding online risks for children. *Educational Sciences: Theory and Practice,* *17*(3), 923–943. <https://doi.org/10.12738/estp.2017.3.0022>
+* European Union Agency for Cybersecurity (ENISA). (2017, Sept). Overview of cybersecurity and related terminology (Version 1). Retrieved from <https://www.enisa.europa.eu/publications/overview-of-cybersecurity-and-related-terminology>
+* European Union Agency for Network and Information Security. (2018). *Reference incident classification taxonomy: Task force status and way forward*. Retrieved from <https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy>
+* \*Finkelhor, D., Jones, L., & Mitchell, K. (2021). Teaching privacy: A flawed strategy for children’s online safety. *Child Abuse & Neglect,* *117*, Article 105064. <https://doi.org/10.1016/j.chiabu.2021.105064>
+  
+  [Article](https://doi.org/10.1016%2Fj.chiabu.2021.105064) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teaching%20privacy%3A%20A%20flawed%20strategy%20for%20children%E2%80%99s%20online%20safety&journal=Child%20Abuse%20%26%20Neglect&doi=10.1016%2Fj.chiabu.2021.105064&volume=117&publication_year=2021&author=Finkelhor%2CD&author=Jones%2CL&author=Mitchell%2CK)
+* \*Fujikawa, M., Kanou, R., Itoh, A., & Abe, Y. (2019). Development of an SNS education game for higher-grade elementary school children. *Proceedings of the 10th international conference on e-education, e-business, e-management and e-learning* (pp. 130–134). <https://doi.org/10.1145/3306500.3306501>
+* \*Fujikawa, M., Ikehara, H., & Abe, Y. (2020). SNS Education Game for Upper-Grade Elementary School Students. In *Proceedings of the 2020 8th international conference on information and education technology* (pp. 137–141). <https://doi.org/10.1145/3395245.3395248>
+* Giannakas, F., Kambourakis, G., & Gritzalis, S. (2015). CyberAware: A mobile game-based app for cybersecurity education and awareness. In *2015 International conference on interactive mobile communication technologies and learning (IMCL)* (pp. 54–58). IEEE. <https://doi.org/10.1109/IMCTL.2015.7359553>
+* Gillespie, A. A. (2002). Child protection on the internet-challenges for criminal law. *Child & Fam. LQ,* *14*, 4.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Child%20protection%20on%20the%20internet-challenges%20for%20criminal%20law&journal=Child%20%26%20Fam.%20LQ&volume=14&publication_year=2002&author=Gillespie%2CAA)
+* \*Graafland, J. H. (2018, September 17). New technologies and 21st century children: recent trends and outcomes. *OECD Education working papers, No. 179*. *OECD* Publishing (pp. 1–60). <https://doi.org/10.1787/e071a505-en>
+* \*Hammond, S. P., Polizzi, G., & Bartholomew, K. J. (2022). Using a socio-ecological framework to understand how 8–12-year-olds build and show digital resilience: A multi-perspective and multimethod qualitative study. *Education and Information Technologies,* *28*, 3681–3709. <https://doi.org/10.1007/s10639-022-11240-z>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-022-11240-z) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20a%20socio-ecological%20framework%20to%20understand%20how%208%E2%80%9312-year-olds%20build%20and%20show%20digital%20resilience%3A%20A%20multi-perspective%20and%20multimethod%20qualitative%20study&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-022-11240-z&volume=28&pages=3681-3709&publication_year=2022&author=Hammond%2CSP&author=Polizzi%2CG&author=Bartholomew%2CKJ)
+* HOUSE, O. C. (2019). Disinformation and ‘fake news’: Final Report. London: House of Commons.
+* \*Hudson, C. C., Lambe, L., Pepler, D. J., & Craig, W. M. (2015). Coping while connected. *Canadian Journal of School Psychology,* *31*(1), 3–16. <https://doi.org/10.1177/0829573515619623>
+  
+  [Article](https://doi.org/10.1177%2F0829573515619623) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Coping%20while%20connected&journal=Canadian%20Journal%20of%20School%20Psychology&doi=10.1177%2F0829573515619623&volume=31&issue=1&pages=3-16&publication_year=2015&author=Hudson%2CCC&author=Lambe%2CL&author=Pepler%2CDJ&author=Craig%2CWM)
+* \*Hudson, C. C., Lambe, L., PREVNet National Youth Advisory Committee, Pepler, D. J., & Craig, W. M. (2016). Coping while connected: The association among cybervictimization, privacy settings, and reporting tools in youth. *Canadian Journal of School Psychology,* *31*(1), 3–16. <https://doi.org/10.1177/0829573515619623>
+  
+  [Article](https://doi.org/10.1177%2F0829573515619623) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Coping%20while%20connected%3A%20The%20association%20among%20cybervictimization%2C%20privacy%20settings%2C%20and%20reporting%20tools%20in%20youth&journal=Canadian%20Journal%20of%20School%20Psychology&doi=10.1177%2F0829573515619623&volume=31&issue=1&pages=3-16&publication_year=2016&author=Hudson%2CCC&author=Lambe%2CL&author=Pepler%2CDJ&author=Craig%2CWM)
+* \*Ibrahim, A., McKee, M., Sikos, L. F., & Johnson, N. F. (2024). A systematic review of K-12 cybersecurity education around the world. *IEEE Access,* *12*, 59726–59738. <https://doi.org/10.1109/ACCESS.2024.3393425>
+  
+  [Article](https://doi.org/10.1109%2FACCESS.2024.3393425) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20systematic%20review%20of%20K-12%20cybersecurity%20education%20around%20the%20world&journal=IEEE%20Access&doi=10.1109%2FACCESS.2024.3393425&volume=12&pages=59726-59738&publication_year=2024&author=Ibrahim%2CA&author=McKee%2CM&author=Sikos%2CLF&author=Johnson%2CNF)
+* \*Kenny, M. C., Long, H., Billings, D., & Malik, F. (2022). School‐based abuse prevention programming: Implementation of child safety matters with minority youth. *Child Abuse Review*. <https://doi.org/10.1002/car.2742>
+  
+  [Article](https://doi.org/10.1002%2Fcar.2742) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=School%E2%80%90based%20abuse%20prevention%20programming%3A%20Implementation%20of%20child%20safety%20matters%20with%20minority%20youth&journal=Child%20Abuse%20Review&doi=10.1002%2Fcar.2742&publication_year=2022&author=Kenny%2CMC&author=Long%2CH&author=Billings%2CD&author=Malik%2CF)
+* Khan, M. A., Merabet, A., Alkaabi, S., & Sayed, H. E. (2022). Game-based learning platform to enhance cybersecurity education. *Education and Information Technologies*. <https://doi.org/10.1007/s10639-021-10807-6>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-021-10807-6) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Game-based%20learning%20platform%20to%20enhance%20cybersecurity%20education&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-021-10807-6&publication_year=2022&author=Khan%2CMA&author=Merabet%2CA&author=Alkaabi%2CS&author=Sayed%2CHE)
+* \*Konak, A. (2014). A cyber security discovery program: Hands-on cryptography. *IEEE Integrated STEM Education Conference,* *2014*, 1–4. <https://doi.org/10.1109/ISECon.2014.6891029>
+  
+  [Article](https://doi.org/10.1109%2FISECon.2014.6891029) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20cyber%20security%20discovery%20program%3A%20Hands-on%20cryptography&journal=IEEE%20Integrated%20STEM%20Education%20Conference&doi=10.1109%2FISECon.2014.6891029&volume=2014&pages=1-4&publication_year=2014&author=Konak%2CA)
+* \*Kralj, L. (2014). Children’s safety on the Internet-development of the school curriculum. In *2014 37th international convention on information and communication technology, electronics and microelectronics (MIPRO)*, Opatija, Croatia (pp. 593–596). <https://doi.org/10.1109/MIPRO.2014.6859637>
+* \*Kralj, L. (2016). E-safety and digital skills as part of school curriculum. *Medijske Studije,* *7*(13), 59–75.
+  
+  [Article](https://doi.org/10.20901%2Fms.7.13.4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=E-safety%20and%20digital%20skills%20as%20part%20of%20school%20curriculum&journal=Medijske%20Studije&doi=10.20901%2Fms.7.13.4&volume=7&issue=13&pages=59-75&publication_year=2016&author=Kralj%2CL)
+* \*Kritzinger, E., & Padayachee, K. (2013). Engendering an e-safety awareness culture within the South African context. In *2013 Africon*, Pointe aux Piments, Mauritius (pp. 1–5). <https://doi.org/10.1109/afrcon.2013.6757708>
+* \*Kritzinger, E. (2015). Enhancing cyber safety awareness among school children in South Africa through gaming. In *2015 Science and information conference (SAI)*, London (pp. 1243–1248). <https://doi.org/10.1109/SAI.2015.7237303>
+* Livingstone, S., Kirwil, L., Ponte, C., & Staksrud, E. (2014). In their own words: What bothers children online? *European Journal of Communication,* *29*(3), 271–288. <https://doi.org/10.1177/0267323114521045>
+  
+  [Article](https://doi.org/10.1177%2F0267323114521045) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=In%20their%20own%20words%3A%20What%20bothers%20children%20online%3F&journal=European%20Journal%20of%20Communication&doi=10.1177%2F0267323114521045&volume=29&issue=3&pages=271-288&publication_year=2014&author=Livingstone%2CS&author=Kirwil%2CL&author=Ponte%2CC&author=Staksrud%2CE)
+* Livingstone, S., & Smith, P. K. (2014). Annual research review: Harms experienced by child users of online and mobile technologies: The nature, prevalence and management of sexual and aggressive risks in the digital age. *Journal of Child Psychology and Psychiatry,* *55*(6), 635–654. <https://doi.org/10.1111/jcpp.12197>
+  
+  [Article](https://doi.org/10.1111%2Fjcpp.12197) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Annual%20research%20review%3A%20Harms%20experienced%20by%20child%20users%20of%20online%20and%20mobile%20technologies%3A%20The%20nature%2C%20prevalence%20and%20management%20of%20sexual%20and%20aggressive%20risks%20in%20the%20digital%20age&journal=Journal%20of%20Child%20Psychology%20and%20Psychiatry&doi=10.1111%2Fjcpp.12197&volume=55&issue=6&pages=635-654&publication_year=2014&author=Livingstone%2CS&author=Smith%2CPK)
+* \*Martin, F., Mushi, D., Bacak, J., Wang, W., Ahlgrim-Delzell, L., & Polly, D. (2024). Elementary student experiences from digital safety immersion summer program. *Educational Media International,* *61*(3), 321–343. <https://doi.org/10.1080/09523987.2024.2389485>
+  
+  [Article](https://doi.org/10.1080%2F09523987.2024.2389485) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Elementary%20student%20experiences%20from%20digital%20safety%20immersion%20summer%20program&journal=Educational%20Media%20International&doi=10.1080%2F09523987.2024.2389485&volume=61&issue=3&pages=321-343&publication_year=2024&author=Martin%2CF&author=Mushi%2CD&author=Bacak%2CJ&author=Wang%2CW&author=Ahlgrim-Delzell%2CL&author=Polly%2CD)
+* \*Martínez-de-Morentin, J.-I., Lareki, A., & Altuna, J. (2021). Risks associated with posting content on the social media. *IEEE Revista Iberoamericana De Tecnologias Del Aprendizaje,* *16*(1), 77–83. <https://doi.org/10.1109/RITA.2021.3052655>
+  
+  [Article](https://doi.org/10.1109%2FRITA.2021.3052655) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Risks%20associated%20with%20posting%20content%20on%20the%20social%20media&journal=IEEE%20Revista%20Iberoamericana%20De%20Tecnologias%20Del%20Aprendizaje&doi=10.1109%2FRITA.2021.3052655&volume=16&issue=1&pages=77-83&publication_year=2021&author=Mart%C3%ADnez-de-Morentin%2CJ-I&author=Lareki%2CA&author=Altuna%2CJ)
+* National Institute of Standards and Technology. (2024). The NIST cybersecurity framework (CSF) 2.0. <https://doi.org/10.6028/NIST.CSWP.29>
+* \*Nicolaidou, I., & Venizelou, A. (2020). Improving children’s e-safety skills through an interactive learning environment: A quasi-experimental study. *Multimodal Technologies and Interaction,* *4*(2), Article 10. <https://doi.org/10.3390/mti4020010>
+  
+  [Article](https://doi.org/10.3390%2Fmti4020010) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Improving%20children%E2%80%99s%20e-safety%20skills%20through%20an%20interactive%20learning%20environment%3A%20A%20quasi-experimental%20study&journal=Multimodal%20Technologies%20and%20Interaction&doi=10.3390%2Fmti4020010&volume=4&issue=2&publication_year=2020&author=Nicolaidou%2CI&author=Venizelou%2CA)
+* Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., … Moher, D. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. *BMJ,* 372, n71. <https://doi.org/10.1136/bmj.n71>
+* Parsons, K., McCormac, A., Butavicius, M., Pattinson, M., & Jerram, C. (2014). Determining employee awareness using the human aspects of information security questionnaire (HAIS-Q). *Computers & Security,* *42*, 165–176. <https://doi.org/10.1016/j.cose.2013.12.003>
+  
+  [Article](https://doi.org/10.1016%2Fj.cose.2013.12.003) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Determining%20employee%20awareness%20using%20the%20human%20aspects%20of%20information%20security%20questionnaire%20%28HAIS-Q%29&journal=Computers%20%26%20Security&doi=10.1016%2Fj.cose.2013.12.003&volume=42&pages=165-176&publication_year=2014&author=Parsons%2CK&author=McCormac%2CA&author=Butavicius%2CM&author=Pattinson%2CM&author=Jerram%2CC)
+* Patterson, C. M., Nurse, J. R. C., & Franqueira, V. N. L. (2023). Learning from cyber security incidents: A systematic review and future research agenda. *Computers & Security,* *132*, 103309. <https://doi.org/10.1016/j.cose.2023.103309>
+  
+  [Article](https://doi.org/10.1016%2Fj.cose.2023.103309) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Learning%20from%20cyber%20security%20incidents%3A%20A%20systematic%20review%20and%20future%20research%20agenda&journal=Computers%20%26%20Security&doi=10.1016%2Fj.cose.2023.103309&volume=132&publication_year=2023&author=Patterson%2CCM&author=Nurse%2CJRC&author=Franqueira%2CVNL)
+* Paudel, R., & Al-Ameen, M. N. (2025). “It’s definitely new and different…it’s really engaging”: Understanding the power of storytelling towards secure password creation. *International Journal of Human-Computer Interaction*. <https://doi.org/10.1080/10447318.2024.2444046>
+  
+  [Article](https://doi.org/10.1080%2F10447318.2024.2444046) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=%E2%80%9CIt%E2%80%99s%20definitely%20new%20and%20different%E2%80%A6it%E2%80%99s%20really%20engaging%E2%80%9D%3A%20Understanding%20the%20power%20of%20storytelling%20towards%20secure%20password%20creation&journal=International%20Journal%20of%20Human-Computer%20Interaction&doi=10.1080%2F10447318.2024.2444046&publication_year=2025&author=Paudel%2CR&author=Al-Ameen%2CMN)
+* \*Pooja, P. R., & Shashidhar, R. (2022). Evaluation of students’awareness towards cyber security. *Phronimos,* *2*(4), 33–40.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluation%20of%20students%E2%80%99awareness%20towards%20cyber%20security&journal=Phronimos&volume=2&issue=4&pages=33-40&publication_year=2022&author=Pooja%2CPR&author=Shashidhar%2CR)
+* Quayyum, F., Cruzes, D. S., & Jaccheri, L. (2021). Cybersecurity awareness for children: A systematic literature review. *International Journal of Child-Computer Interaction,* *30*, 100343. <https://doi.org/10.1016/j.ijcci.2021.100343>
+  
+  [Article](https://doi.org/10.1016%2Fj.ijcci.2021.100343) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cybersecurity%20awareness%20for%20children%3A%20A%20systematic%20literature%20review&journal=International%20Journal%20of%20Child-Computer%20Interaction&doi=10.1016%2Fj.ijcci.2021.100343&volume=30&publication_year=2021&author=Quayyum%2CF&author=Cruzes%2CDS&author=Jaccheri%2CL)
+* \*Rahman, N. A. A., Sairi, I. H., Zizi, N. A. M., & Khalid, F. (2020). The importance of cybersecurity education in school. *International Journal of Information and Education Technology,* *10*(5), 378–382. <https://doi.org/10.18178/ijiet.2020.10.5.1393>
+  
+  [Article](https://doi.org/10.18178%2Fijiet.2020.10.5.1393) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20importance%20of%20cybersecurity%20education%20in%20school&journal=International%20Journal%20of%20Information%20and%20Education%20Technology&doi=10.18178%2Fijiet.2020.10.5.1393&volume=10&issue=5&pages=378-382&publication_year=2020&author=Rahman%2CNAA&author=Sairi%2CIH&author=Zizi%2CNAM&author=Khalid%2CF)
+* Ringenberg, T. R., Seigfried-Spellar, K. C., Rayz, J. M., & Rogers, M. K. (2022). A scoping review of child grooming strategies: Pre- and post-internet. *Child Abuse & Neglect,* *123*, Article 105392. <https://doi.org/10.1016/j.chiabu.2021.105392>
+  
+  [Article](https://doi.org/10.1016%2Fj.chiabu.2021.105392) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20scoping%20review%20of%20child%20grooming%20strategies%3A%20Pre-%20and%20post-internet&journal=Child%20Abuse%20%26%20Neglect&doi=10.1016%2Fj.chiabu.2021.105392&volume=123&publication_year=2022&author=Ringenberg%2CTR&author=Seigfried-Spellar%2CKC&author=Rayz%2CJM&author=Rogers%2CMK)
+* Roberson, Q. M., Collins, C. J., & Oreg, S. (2005). The effects of recruitment message specificity on applicant attraction to organizations. *Journal of Business and Psychology,* *19*, 319–339.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10869-004-2231-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effects%20of%20recruitment%20message%20specificity%20on%20applicant%20attraction%20to%20organizations&journal=Journal%20of%20Business%20and%20Psychology&doi=10.1007%2Fs10869-004-2231-1&volume=19&pages=319-339&publication_year=2005&author=Roberson%2CQM&author=Collins%2CCJ&author=Oreg%2CS)
+* Sağlam, R. B., Miller, V., & Franqueira, V. N. (2023). A systematic literature review on cyber security education for children. *IEEE Transactions on Education,* *66*(3), 274–286. <https://doi.org/10.1109/TE.2022.3231019>
+  
+  [Article](https://doi.org/10.1109%2FTE.2022.3231019) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20systematic%20literature%20review%20on%20cyber%20security%20education%20for%20children&journal=IEEE%20Transactions%20on%20Education&doi=10.1109%2FTE.2022.3231019&volume=66&issue=3&pages=274-286&publication_year=2023&author=Sa%C4%9Flam%2CRB&author=Miller%2CV&author=Franqueira%2CVN)
+* Santre, S. (2023). Cyberbullying in adolescents: A literature review. *International Journal of Adolescent Medicine and Health,* *35*(1), 1–7. <https://doi.org/10.1515/ijamh-2021-0133>
+  
+  [Article](https://doi.org/10.1515%2Fijamh-2021-0133) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cyberbullying%20in%20adolescents%3A%20A%20literature%20review&journal=International%20Journal%20of%20Adolescent%20Medicine%20and%20Health&doi=10.1515%2Fijamh-2021-0133&volume=35&issue=1&pages=1-7&publication_year=2023&author=Santre%2CS)
+* Scheibe, M., Skutsch, M., & Schofer, J. (1975). Experiments in Delphi methodology. In H. A. Linestone & M. Turoff (Eds.), *The Delphi method—Techniques and applications* (pp. 262–287). Addison-Wesley.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Experiments%20in%20Delphi%20methodology&pages=262-287&publication_year=1975&author=Scheibe%2CM&author=Skutsch%2CM&author=Schofer%2CJ)
+* \*Shen, L. W., Mammi, H. K., & Din, M. M. (2021). Cyber security awareness game (CSAG) for secondary school students. In *2021 International conference on data science and its applications (ICoDSA)* (pp. 48–53). Bandung.<https://doi.org/10.1109/ICoDSA53588.2021.9617548>
+* \*Skinner, G. (2016). Cyber security for younger demographics: A graphic based authentication and authorisation framework. In *2016 IEEE Region 10 Conference (TENCON)* (pp. 2487–2490). IEEE. https://<https://doi.org/10.1109/TENCON.2016.7848481>
+* Skulmoski, G. J., Hartman, F. T., & Krahn, J. (2007). The delphi method for graduate research. *Journal of Information Technology Education: Research,* *6*(1), 1–21.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20delphi%20method%20for%20graduate%20research&journal=Journal%20of%20Information%20Technology%20Education%3A%20Research&volume=6&issue=1&pages=1-21&publication_year=2007&author=Skulmoski%2CGJ&author=Hartman%2CFT&author=Krahn%2CJ)
+* Stoilova, M., Nandagiri, R., & Livingstone, S. (2021). Children’s understanding of personal data and privacy online–A systematic evidence mapping. *Information, Communication & Society,* *24*(4), 557–575. <https://doi.org/10.1080/1369118X.2019.1657164>
+  
+  [Article](https://doi.org/10.1080%2F1369118X.2019.1657164) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Children%E2%80%99s%20understanding%20of%20personal%20data%20and%20privacy%20online%E2%80%93A%20systematic%20evidence%20mapping&journal=Information%2C%20Communication%20%26%20Society&doi=10.1080%2F1369118X.2019.1657164&volume=24&issue=4&pages=557-575&publication_year=2021&author=Stoilova%2CM&author=Nandagiri%2CR&author=Livingstone%2CS)
+* Tokunaga, R. S. (2010). Following you home from school: A critical review and synthesis of research on cyberbullying victimization. *Computers in Human Behavior,* *26*(3), 277–287. <https://doi.org/10.1016/j.chb.2009.11.014>
+  
+  [Article](https://doi.org/10.1016%2Fj.chb.2009.11.014) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Following%20you%20home%20from%20school%3A%20A%20critical%20review%20and%20synthesis%20of%20research%20on%20cyberbullying%20victimization&journal=Computers%20in%20Human%20Behavior&doi=10.1016%2Fj.chb.2009.11.014&volume=26&issue=3&pages=277-287&publication_year=2010&author=Tokunaga%2CRS)
+* Tanrikulu, I., & Erdur-Baker, Ö. (2021). Motives behind cyberbullying perpetration: A test of uses and gratifications theory. *Journal of Interpersonal Violence*. <https://doi.org/10.1177/0886260518819882>
+  
+  [Article](https://doi.org/10.1177%2F0886260518819882) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Motives%20behind%20cyberbullying%20perpetration%3A%20A%20test%20of%20uses%20and%20gratifications%20theory&journal=Journal%20of%20Interpersonal%20Violence&doi=10.1177%2F0886260518819882&publication_year=2021&author=Tanrikulu%2CI&author=Erdur-Baker%2C%C3%96)
+* \*Toledo, W., Louis, S. J., & Sengupta, S. (2022). NetDefense: A tower defense cybersecurity game for middle and high school students. In *2022 IEEE frontiers in education conference (FIE)* (pp. 1-6) Uppsala. <https://doi.org/10.1109/FIE56618.2022.9962410>
+* \*Tomczyk, Ł. (2024). Digital transformation and digital competences of urban and rural Polish youths. *Politics and Governance*. <https://doi.org/10.17645/pag.7381>
+  
+  [Article](https://doi.org/10.17645%2Fpag.7381) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Digital%20transformation%20and%20digital%20competences%20of%20urban%20and%20rural%20Polish%20youths&journal=Politics%20and%20Governance&doi=10.17645%2Fpag.7381&publication_year=2024&author=Tomczyk%2C%C5%81)
+* \*Tseng, S. S., Yang, T. Y., Shih, W. C., & Shan, B. Y. (2022). Building a self-evolving iMonsters board game for cyber-security education. *Interactive Learning Environments,* *32*(4), 1300–1318. <https://doi.org/10.1080/10494820.2022.2120015>
+  
+  [Article](https://doi.org/10.1080%2F10494820.2022.2120015) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Building%20a%20self-evolving%20iMonsters%20board%20game%20for%20cyber-security%20education&journal=Interactive%20Learning%20Environments&doi=10.1080%2F10494820.2022.2120015&volume=32&issue=4&pages=1300-1318&publication_year=2022&author=Tseng%2CSS&author=Yang%2CTY&author=Shih%2CWC&author=Shan%2CBY)
+* Vanderhoven, E., Schellens, T., Vanderlinde, R., & Valcke, M. (2016). Developing educational materials about risks on social network sites: A design based research approach. *Educational Technology Research and Development,* *64*, 459–480. <https://doi.org/10.1007/s11423-015-9415-4>
+  
+  [Article](https://link.springer.com/doi/10.1007/s11423-015-9415-4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Developing%20educational%20materials%20about%20risks%20on%20social%20network%20sites%3A%20A%20design%20based%20research%20approach&journal=Educational%20Technology%20Research%20and%20Development&doi=10.1007%2Fs11423-015-9415-4&volume=64&pages=459-480&publication_year=2016&author=Vanderhoven%2CE&author=Schellens%2CT&author=Vanderlinde%2CR&author=Valcke%2CM)
+* \*Vishwanath, A., Neo, L. S., Goh, P., Lee, S., Khader, M., Ong, G., & Chin, J. (2020). Cyber hygiene: The concept, its measure, and its initial tests. *Decision Support Systems,* *128*, Article 113160. <https://doi.org/10.1016/j.dss.2019.113160>
+  
+  [Article](https://doi.org/10.1016%2Fj.dss.2019.113160) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cyber%20hygiene%3A%20The%20concept%2C%20its%20measure%2C%20and%20its%20initial%20tests&journal=Decision%20Support%20Systems&doi=10.1016%2Fj.dss.2019.113160&volume=128&publication_year=2020&author=Vishwanath%2CA&author=Neo%2CLS&author=Goh%2CP&author=Lee%2CS&author=Khader%2CM&author=Ong%2CG&author=Chin%2CJ)
+* VLACHOS, S. (2022). The link between mis-, dis-, and malinformation and domestic extremism. Council for Emerging National Security Affairs
+* \*Weeden, S., Cooke, B., & McVey, M. (2013). Underage children and social networking. *Journal of Research on Technology in Education,* *45*(3), 249–262. <https://doi.org/10.1080/15391523.2013.10782605>
+  
+  [Article](https://doi.org/10.1080%2F15391523.2013.10782605) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Underage%20children%20and%20social%20networking&journal=Journal%20of%20Research%20on%20Technology%20in%20Education&doi=10.1080%2F15391523.2013.10782605&volume=45&issue=3&pages=249-262&publication_year=2013&author=Weeden%2CS&author=Cooke%2CB&author=McVey%2CM)
+* Westin, A. (1967). *Privacy and freedom*. Atheneum.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Privacy%20and%20freedom&publication_year=1967&author=Westin%2CA)
+* \*Wishart, J. M., Oades, C. E., & Morris, M. (2007). Using online role play to teach internet safety awareness. *Computers & Education,* *48*(3), 460–473. <https://doi.org/10.1016/j.compedu.2005.03.003>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2005.03.003) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20online%20role%20play%20to%20teach%20internet%20safety%20awareness&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2005.03.003&volume=48&issue=3&pages=460-473&publication_year=2007&author=Wishart%2CJM&author=Oades%2CCE&author=Morris%2CM)
+* \*Witsenboer, J. W. A., Sijtsma, K., & Scheele, F. (2022). Measuring cyber secure behavior of elementary and high school students in the Netherlands. *Computers & Education,* *186*, Article 104536. <https://doi.org/10.1016/j.compedu.2022.104536>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2022.104536) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Measuring%20cyber%20secure%20behavior%20of%20elementary%20and%20high%20school%20students%20in%20the%20Netherlands&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2022.104536&volume=186&publication_year=2022&author=Witsenboer%2CJWA&author=Sijtsma%2CK&author=Scheele%2CF)
+* Zhu, C., Huang, S., Evans, R., & Zhang, W. (2021). Cyberbullying among adolescents and children: A comprehensive review of the global situation, risk factors, and preventive measures. *Frontiers in Public Health,* *9*, Article 634909. <https://doi.org/10.3389/fpubh.2021.634909>
+  
+  [Article](https://doi.org/10.3389%2Ffpubh.2021.634909) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cyberbullying%20among%20adolescents%20and%20children%3A%20A%20comprehensive%20review%20of%20the%20global%20situation%2C%20risk%20factors%2C%20and%20preventive%20measures&journal=Frontiers%20in%20Public%20Health&doi=10.3389%2Ffpubh.2021.634909&volume=9&publication_year=2021&author=Zhu%2CC&author=Huang%2CS&author=Evans%2CR&author=Zhang%2CW)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s11423-025-10565-z?format=refman&flavour=references)
+
+Funding
+-------
+
+Open Access funding enabled and organized by Projekt DEAL. This work was co-funded by the Erasmus + Programme of the European Union under Project No. 101087250—ERASMUS-EDU-2022-PI-FORWARD.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Learning, Design and Technology, University of Mannheim, L4, 1, 68161, Mannheim, BW, Germany
+   
+   Nicolai B. Plintz & Dirk Ifenthaler
+2. Curtin University, Perth, Australia
+   
+   Dirk Ifenthaler
+
+Authors
+
+1. Nicolai B. Plintz[View author publications](/search?sortBy=newestFirst&contributor=Nicolai%20B.%20Plintz)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Nicolai%20B.%20Plintz) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Nicolai%20B.%20Plintz%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Dirk Ifenthaler[View author publications](/search?sortBy=newestFirst&contributor=Dirk%20Ifenthaler)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Dirk%20Ifenthaler) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Dirk%20Ifenthaler%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+Nicolai Plintz: Conceptualization, Data curation, Investigation, Methodology, Writing–original draft. Dirk Ifenthaler: Conceptualization, Resources, Supervision, Writing–review and editing.
+
+### Corresponding author
+
+Correspondence to
+[Nicolai B. Plintz](mailto:nicolai.plintz@uni-mannheim.de).
+
+Ethics declarations
+-------------------
+
+### Conflict of interests
+
+Nicolai Plintz and Dirk Ifenthaler declares that he has no conflict of interest.
+
+### Ethical approval
+
+All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards. This article does not contain any studies with animals performed by any of the authors. This study involved the collection of professional opinions through a Delphi process. As the research did not involve direct interaction with vulnerable populations or the collection of sensitive personal data and was limited to professional opinions, it was determined in accordance with the University of Mannheim guidelines that ethics committee approval was not required. However, participants were fully informed of the aims of the study and were provided with a privacy statement, and participation was entirely voluntary and confidential.
+
+Additional information
+----------------------
+
+### Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Empowering%20children%20online%3A%20a%20holistic%20skills%20framework%20for%20cybersecurity&author=Nicolai%20B.%20Plintz%20et%20al&contentID=10.1007%2Fs11423-025-10565-z&copyright=The%20Author%28s%29&publication=1042-1629&publicationDate=2025-10-24&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+About this article
+------------------
+
+### Cite this article
+
+Plintz, N.B., Ifenthaler, D. Empowering children online: a holistic skills framework for cybersecurity.
+*Education Tech Research Dev* (2025). https://doi.org/10.1007/s11423-025-10565-z
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s11423-025-10565-z?format=refman&flavour=citation)
+
+* Received: 13 March 2025
+* Accepted: 07 October 2025
+* Published: 24 October 2025
+* Version of record: 24 October 2025
+* DOI: https://doi.org/10.1007/s11423-025-10565-z
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Cybersecurity](/search?query=Cybersecurity&facet-discipline="Education")
+* [Online safety](/search?query=Online%20safety&facet-discipline="Education")
+* [Children](/search?query=Children&facet-discipline="Education")
+* [Systematic review](/search?query=Systematic%20review&facet-discipline="Education")
+* [Delphi study](/search?query=Delphi%20study&facet-discipline="Education")
+
+
+### Profiles
+
+1. Nicolai B. Plintz
+   [View author profile](/researchers/92471153SN)
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.66.192
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

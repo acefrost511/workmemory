@@ -1,0 +1,202 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2026.105620
+# Content Length: 20275 characters
+# Extracted at: 2026-04-03 09:59:24
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000588?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000588?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000588)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131526000588/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000588?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000588?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000588?via%3Dihub#preview-section-snippets)
+- [References (76)](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000588?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+Available online 25 March 2026, 105620
+[In Press, Journal Pre-proof](https://www.sciencedirect.com/journal/computers-and-education/articles-in-press)What’s this?
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20024-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education)
+# Latent Profile Analysis of Primary Students’ Computational Thinking Concepts: Stability and Mobility of Profile Membership After One Year of Study
+Author links open overlay panelSiuCheung KONG12, MingLAI2
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2026.105620](https://doi.org/10.1016/j.compedu.2026.105620 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131526000588&orderBeanReset=true)
+## Highlights
+- •
+We analysed changes in latent profiles of 12,641 students' CT concepts after an intervention
+- •
+Before the intervention, four profiles with some showing competence in individual concepts were found
+- •
+After one year, their competences became more consistent, only high and low performers (HP & LP) remained
+- •
+More male students were classified as HP at the start, but no gender difference was found after one year
+- •
+Students with no access to digital devices were more likely to remain in the LP profile
+## Abstract
+Although computational thinking (CT) concepts are widely used as an indicator of students’ CT learning gains, few studies have employed latent profile analysis (LPA) to unveil patterns of students’ CT conceptual understanding, classify students accordingly, and identify student subgroups most in need of support. With a sample of 12,641 primary students, we conducted LPAs with respect to their understandings of three basic CT concepts, namely repetition, conditionals, and sequences, before and after they studied a CT curriculum for one year. Before the course, four profiles were identified: high in all concepts, high in repetition, high in sequences, and low in all concepts. After the one-year course, only two profiles emerged: high and low in all concepts, designated as High Performers (HP) and Low Performers (LP), respectively. This suggested that the students’ understanding of CT concepts showed substantial variation before the course, but after one year of formal study of CT, their abilities became more uniform, which is a unique finding not identified previously. Before studying CT, more male than female students were classified as HP, but no gender differences were found after the one-year course. Two thirds of LP students remained as LP in the post-test, suggesting that this subgroup was the most in need of support, and students with no access to technology were more likely to remain as LP. These results imply that the curriculum was effective in fostering students’ holistic development of CT concepts, and that access to technology might facilitate the upward mobility of LP students.
+## Introduction
+In an era where digital literacy shapes the future, computational thinking (CT) has emerged as a cornerstone of 21st-century education. CT involves the ability to decompose complex problems, craft step-by-step solutions, and represent algorithms (Aho, 2012; Wing, 2006). CT enhances students’ cognitive abilities and problem-solving skills (Montuori et al., 2024), and it also benefits their learning across various subjects (e.g., Aytekin & Topçu, 2024; Cui et al., 2023; Wu et al., 2024). From early childhood to higher education, cultivating CT empowers students to navigate an increasingly digital world with confidence and creativity (Abelson & Kong, 2024; Åkerfeldt et al., 2024; Zeng et al., 2023).
+A prominent approach to developing CT is through block-based programming, which simplifies complex concepts and makes coding accessible to young learners (Jin & Cutumisu, 2024). Numerous interventions aim to nurture CT competence, with research often measuring students’ understanding of core concepts, such as sequences, loops, and conditionals, to gauge learning progress through pre-post designs (e.g., El-Hamamsy et al., 2025; Shen et al., 2024). However, less research has employed latent profile analysis (LPA) to classify students according to their CT performances (Guo et al., 2024), especially on the configural patterns of their understanding of various CT concepts and how the patterns change after an intervention. LPA considers the interplay between variables in identifying subgroups of individuals sharing a similar pattern of variables (Spurk et al., 2020). By analysing the characteristics of various student subgroups, educators can identify whether there are subgroups most in need of support. Longitudinally applying LPA further allows us to examine how students’ profiles evolve over time, shedding light on the stability and transformation of students’ conceptual understanding before and after targeted interventions (Jeong & Feldon, 2023).
+Despite the growing use of LPA in educational research, its application to students’ conceptual understanding of CT remains limited. Existing studies have explored latent profiles related to creativity, cooperation, identities, and problem-solving behaviors (Guggemos et al., 2022; Uslu, 2023; Guo et al., 2024), rather than their understanding of CT concepts. Moreover, prior research often captures one snapshot in time (Guggemos et al., 2022; Guo et al., 2024), neglecting how students’ profiles might shift with instruction or experience. To bridge these gaps, our study employs a longitudinal latent profile analysis to explore primary students’ diverse patterns of CT conceptual understanding before and after a year-long intervention. We aim to identify distinct student subgroups, examine how their profiles change over time, and investigate factors, such as access to technology and self-efficacy, that relate to these dynamics. By pinpointing which student subgroups need targeted support and uncovering factors that facilitate growth, our research offers valuable insights for educators worldwide striving to cultivate computational thinkers ready for the digital age.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000588)
+## Section snippets
+## Concepts as an indicator of CT
+Among various indicators of CT learning, understanding of concepts has received the most empirical attention (Adams et al., 2019; Merino-Armero et al., 2022). Three CT concepts, namely sequences, repetition, and conditionals, have been identified as the most essential for young learners (Rich et al., 2017; Zhang & Nouri, 2019). Research has shown that the concept of sequences, the ability to identify the order in which things happen, can be taught to children aged 5 to 6 using tools such as
+## Research context and the curriculum
+This study was part of an initiative aiming at promoting CT in primary education. A curriculum with the use of block-based programming was developed for the cultivation of students’ CT (Kong & Lai, 2022a; Kong et al., 2023). Teacher development programmes were offered for teachers participating in the initiative so that they could implement the curriculum in their teaching (Kong et al., 2020; Kong & Lai, 2023). The students in this study followed the basic curriculum, using Scratch as the
+## Identifying the optimum number of latent profiles
+Various indices were employed to identify the optimum number of profiles for the pre-test and post-test data, as summarised in Tables 2 and 3, respectively. For the pre-test data, as shown in Table 2, the AIC, BIC, and SSA-BIC values tended to decrease with successive increases in the number of profiles. However, the elbow plots indicated that these values flattened when the number of profiles exceeded 4, as shown in Figure 1. Moreover, in the five-profile model, one profile accounted for only
+## Discussion
+With a sample of 12,641 primary students, this study analysed the latent profiles of the students’ understanding of CT concepts before and after a CT intervention, and examined the relationships between the students’ latent-profile membership and variables including demographic factors and self-efficacy.
+## Conclusions, implications, and limitations
+This study analysed the latent profiles of 12,641 primary students with respect to their understanding of CT concepts before and after a one-year intervention. To address the first research question related to the identification of students’ latent profiles, it was found that before the intervention, four profiles were identified: (1) ‘High Performers’ (HP), characterised by high scores in all concepts; (2) ‘Repetition Specialists’ (RS), characterised by a high score in repetition; (3)
+## CRediT authorship contribution statement
+\*\*Ming Lai:\*\* Writing – original draft, Validation, Methodology, Investigation, Formal analysis, Conceptualization. \*\*Siu Cheung Kong:\*\* Writing – review & editing, Supervision, Resources, Project administration, Investigation, Funding acquisition, Data curation
+## Uncited reference
+Morin et al., 2016; Polat et al., 2021.
+## Statement and Declarations
+The authors have no conflicts of interest to declare. All co-authors have seen and agree with the contents of the manuscript. The submission is original work and is not under review at any other publication.
+\*\*Siu Cheung KONG\*\* is Chair Professor of E-Learning and Digital Competency at the Department of Mathematics and Information Technology and Director of Artificial Intelligence and Digital Competency Education Centre at The Education University of Hong Kong. His research interests include artificial intelligence in education, artificial intelligence literacy, metaverse literacy, computational thinking through coding education, STEM education, flipped classroom strategy, teacher development,
+- AtmatzidouS. \_et al.\_
+### [Advancing students’ computational thinking skills through educational robotics: A study on age and gender relevant differences](https://www.sciencedirect.com/science/article/pii/S0921889015002420)
+### Robotics and Autonomous Systems
+(2016)
+- CelikI.
+### [Exploring the determinants of artificial intelligence (AI) literacy: Digital divide, computational thinking, cognitive absorption](https://www.sciencedirect.com/science/article/pii/S0736585323000904)
+### Telematics and Informatics
+(2023)
+- JeongS. \_et al.\_
+### [Changes in self-regulated learning profiles during an undergraduate peer-based intervention: A latent profile transition analysis](https://www.sciencedirect.com/science/article/pii/S0959475222001311)
+### Learning and Instruction
+(2023)
+- KongS.C. \_et al.\_
+### [A study of primary school students’ interest, collaboration attitude, and programming empowerment in computational thinking education](https://www.sciencedirect.com/science/article/pii/S0360131518302367)
+### Computers & Education
+(2018)
+- KongS.C. \_et al.\_
+### [Teacher development in computational thinking: Design and learning outcomes of programming concepts, practices and pedagogy](https://www.sciencedirect.com/science/article/pii/S0360131520300713)
+### Computers & Education
+(2020)
+- KongS.C. \_et al.\_
+### [Formation of computational identity through computational thinking perspectives development in programming learning: A mediation analysis among primary school students](https://www.sciencedirect.com/science/article/pii/S0747563219304492)
+### Computers in Human Behavior
+(2020)
+- KongS.C. \_et al.\_
+### [Validating a computational thinking concepts test for primary education using item response theory: An analysis of students’ responses](https://www.sciencedirect.com/science/article/pii/S0360131522001336)
+### Computers & Education
+(2022)
+- KongS.C. \_et al.\_
+### [Scaling up a teacher development programme for sustainable computational thinking education: TPACK surveys, concept tests and primary school visits](https://www.sciencedirect.com/science/article/pii/S0360131522002780)
+### Computers & Education
+(2023)
+- LinS. \_et al.\_
+### [Gender differences in computational thinking skills among primary and secondary school students: A systematic review](https://www.sciencedirect.com/science/article/pii/S036031992404117X)
+### Education Sciences
+(2024)
+- MontuoriC. \_et al.\_
+### [The cognitive effects of computational thinking: A systematic review and meta-analytic study](https://www.sciencedirect.com/science/article/pii/S0360131523002385)
+### Computers & Education
+(2024)
+RetelsdorfJ. \_et al.\_
+### [On the effects of motivation on reading performance growth in secondary school](https://www.sciencedirect.com/science/article/pii/S0959475210000940)
+### Learning and Instruction
+(2011)
+Román-GonzálezM. \_et al.\_
+### [Which cognitive abilities underlie computational thinking? Criterion validity of the Computational Thinking Test](https://www.sciencedirect.com/science/article/pii/S0747563216306185)
+### Computers in Human Behavior
+(2017)
+Román-GonzálezM. \_et al.\_
+### [Extending the nomological network of computational thinking with non-cognitive factors](https://www.sciencedirect.com/science/article/pii/S0747563217305563)
+### Computers in Human Behavior
+(2018)
+SchererR. \_et al.\_
+### [Students’ profiles of ICT use: Identification, determinants, and relations to achievement in a computer and information literacy test](https://www.sciencedirect.com/science/article/pii/S0747563217300468)
+### Computers in Human Behavior
+(2017)
+SchöberC. \_et al.\_
+### [Reciprocal effects between self-efficacy and achievement in mathematics and reading](https://www.sciencedirect.com/science/article/pii/S1041608018300153)
+### Learning and Individual Differences
+(2018)
+SpurkD. \_et al.\_
+### [Latent profile analysis: A review and “how to” guide of its application within vocational behavior research](https://www.sciencedirect.com/science/article/pii/S0001879120300701)
+### Journal of Vocational Behavior
+(2020)
+SunL. \_et al.\_
+### [Programming attitudes predict computational thinking: Analysis of differences in gender and programming experience](https://www.sciencedirect.com/science/article/pii/S0360131522000288)
+### Computers & Education
+(2022)
+SunL. \_et al.\_
+### [Comparative experiment of the effects of unplugged and plugged-in programming on computational thinking in primary school students: A perspective of multiple influential factors](https://www.sciencedirect.com/science/article/pii/S1871187124000804)
+### Thinking Skills and Creativity
+(2024)
+WuT.T. \_et al.\_
+### [Enhancing English writing and higher-order thinking skills through computational thinking](https://www.sciencedirect.com/science/article/pii/S0360131524000265)
+### Computers & Education
+(2024)
+YangZ. \_et al.\_
+### [The impact of a block-based visual programming curriculum: Untangling coding skills and computational thinking](https://www.sciencedirect.com/science/article/pii/S0959475224001683)
+### Learning and Instruction
+(2025)
+ZengY. \_et al.\_
+### [Computational thinking in early childhood education: Reviewing the literature and redeveloping the three-dimensional framework](https://www.sciencedirect.com/science/article/pii/S1747938X23000131)
+### Educational Research Review
+(2023)
+ZhangL. \_et al.\_
+### [A systematic review of learning computational thinking through Scratch in K-9](https://www.sciencedirect.com/science/article/pii/S0360131519301605)
+### Computers & Education
+(2019)
+ZimmermanB.J.
+### [Self-efficacy: An essential motive to learn](https://www.sciencedirect.com/science/article/pii/S0361476X99910160)
+### Contemporary Educational Psychology
+(2000)
+Abelson, H., & Kong, S. C. (Eds.). (2024). Computational thinking curricula in K–12: International implementations. MIT...
+AckermanP.L. \_et al.\_
+### The locus of adult intelligence: Knowledge, abilities, and nonability traits
+### Psychology and Aging
+(1999)
+Adams, C., Cutumisu, M., & Lu, C. (2019, March). Measuring K-12 computational thinking concepts, practices and...
+AhoA.V.
+### Computation and computational thinking
+### The Computer Journal
+(2012)
+Akaike, H. (1998). Information theory and an extension of the maximum likelihood principle. In Selected papers of...
+ÅkerfeldtA. \_et al.\_
+### A research review of computational thinking and programming in education
+### Technology, Pedagogy and Education
+(2024)
+AndruffH. \_et al.\_
+### Latent class growth modelling: A tutorial
+### Tutorials in Quantitative Methods for Psychology
+(2009)
+AsparouhovT. \_et al.\_
+### Auxiliary variables in mixture modeling: Three-step approaches using Mplus
+### Structural Equation Modeling: A Multidisciplinary Journal
+(2014)
+AytekinA. \_et al.\_
+### The effect of integrating computational thinking (CT) components into science teaching on 6th grade students’ learning of the circulatory system concepts and CT skills
+### Education and Information Technologies
+(2024)
+Bandura, A. (1994). Self-efficacy. In V. S. Ramachaudran (Ed.), Encyclopedia of human behavior (Vol. 4, pp. 71–81)....
+Brennan, K., & Resnick, M. (2012, April). New frameworks for studying and assessing the development of computational...
+Burke, Q., & Kafai, Y. B. (2012, February). The writers' workshop for youth programmers: Digital storytelling with...
+CeleuxG. \_et al.\_
+### An entropy criterion for assessing the number of clusters in a mixture model
+### Journal of Classification
+(1996)
+ChanS.W. \_et al.\_
+### Assessing computational thinking abilities among Singapore secondary students: A Rasch model measurement analysis
+### Journal of Computers in Education
+(2021)
+ChangY. \_et al.\_
+### A three-tier ICT access model for intention to participate online: A comparison of developed and developing countries
+### Information Development
+(2016)
+View more references
+\*\*Siu Cheung KONG\*\* is Chair Professor of E-Learning and Digital Competency at the Department of Mathematics and Information Technology and Director of Artificial Intelligence and Digital Competency Education Centre at The Education University of Hong Kong. His research interests include artificial intelligence in education, artificial intelligence literacy, metaverse literacy, computational thinking through coding education, STEM education, flipped classroom strategy, teacher development, mathematics education, and policy on digital technology in education.
+\*\*Ming LAI\*\* is Post-doctoral Fellow at Artificial Intelligence and Digital Competency Education Centre at The Education University of Hong Kong. His research interests include the assessment of students’ computational thinking, and models of teacher development.
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131526000588)
+© 2026 Published by Elsevier Ltd.

@@ -1,0 +1,1085 @@
+# Source URL: https://doi.org/10.1007/s10639-026-13975-5
+# Content Length: 157241 characters
+# Extracted at: 2026-04-03 05:07:57
+#============================================================
+
+
+
+
+
+
+
+
+
+Integrating UTAUT-2 and protection motivation theory to explain pre-service teachers’ adoption of AI-supported game-based learning | Education and Information Technologies | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/10639/article&sz=728x90&pos=top&articleid=s10639-026-13975-5)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s10639-026-13975-5)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Education and Information Technologies](/journal/10639)
+3. Article
+
+Integrating UTAUT-2 and protection motivation theory to explain pre-service teachers’ adoption of AI-supported game-based learning
+==================================================================================================================================
+
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 30 March 2026
+
+* (2026)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1007/s10639-026-13975-5.pdf)
+
+
+[Save article](/article/10.1007/s10639-026-13975-5/save-research?_csrf=TMNnTwucKlrQhnM_ih0aqPYPNfW3VMkL)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Education and Information Technologies](/journal/10639)
+[Aims and scope](/journal/10639/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/eait)
+
+
+
+
+Integrating UTAUT-2 and protection motivation theory to explain pre-service teachers’ adoption of AI-supported game-based learning
+
+[Download PDF](/content/pdf/10.1007/s10639-026-13975-5.pdf)
+
+
+
+
+
+* [Uğur Basarmak](#auth-U_ur-Basarmak-Aff1) 
+  [ORCID: orcid.org/0000-0002-2762-1806](https://orcid.org/0000-0002-2762-1806)[1](#Aff1) &
+* [Hüseyin Ates](#auth-H_seyin-Ates-Aff2) 
+  [ORCID: orcid.org/0000-0003-0031-8994](https://orcid.org/0000-0003-0031-8994)[2](#Aff2)
+
+* 234 Accesses
+* [Explore all metrics](/article/10.1007/s10639-026-13975-5/metrics)
+
+
+
+Abstract
+--------
+
+Despite growing interest in artificial intelligence (AI)–supported game-based learning (GBL), adoption among pre-service teachers remains uneven. Drawing on survey data from 864 pre-service teachers enrolled in public universities in Turkey, this study integrates the Unified Theory of Acceptance and Use of Technology 2 (UTAUT-2) and Protection Motivation Theory (PMT) to examine motivational and psychological determinants of adoption intention. Structural equation modeling revealed that habit, hedonic motivation, performance expectancy, self-efficacy, and response efficacy positively predicted behavioral intention, whereas perceived response cost acted as a significant barrier. The integrated model explained 74% of the variance in behavioral intention, outperforming standalone UTAUT-2 and PMT models. These findings indicate that adoption decisions are shaped by both approach-oriented motivations and risk-related coping appraisals. Practically, teacher-education programs should prioritize repeated hands-on exposure to AI-supported GBL, strengthen pre-service teachers’ efficacy beliefs, and reduce perceived implementation costs through pedagogically grounded training and institutional support. As the sample was limited to public universities in Turkey, the findings may not generalize to private institutions, in-service teachers, or countries with differing teacher-education structures.
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Digital Education and Educational Technology](/subjects/digital-education-and-educational-technology)
+* [Educational Research](/subjects/educational-research)
+* [Educational Psychology](/subjects/educational-psychology)
+* [eLearning](/subjects/elearning)
+* [Instructional Theory](/subjects/instructional-theory)
+* [Instructional Psychology](/subjects/instructional-psychology)
+* [Game-Based Learning in Educational Contexts](/subjects/game-based-learning-in-educational-contexts)
+
+1 Introduction
+--------------
+
+Artificial intelligence (AI) has become an increasingly prominent component of contemporary educational technologies, offering new possibilities for personalization, adaptability, and learner engagement. Within this landscape, AI-supported game-based learning (AI-assisted GBL) has emerged as a promising approach for fostering motivation, problem-solving, and higher-order thinking through interactive and adaptive learning environments (Evju, [2024](/article/10.1007/s10639-026-13975-5#ref-CR43); Leitner et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR64); Wagan et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR99)). However, the pedagogical effectiveness of such systems depends not only on their technical capabilities but also on educators’ readiness, confidence, and willingness to integrate them meaningfully into instructional practice (Molenaar, [2022](/article/10.1007/s10639-026-13975-5#ref-CR75); Selwyn, [2019](/article/10.1007/s10639-026-13975-5#ref-CR86)).
+
+Despite a growing body of research documenting the instructional benefits of AI-assisted GBL such as improved engagement, scaffolding during cognitive challenges, and learning gains across disciplines (Chen & Chang, [2024](/article/10.1007/s10639-026-13975-5#ref-CR31); Dyulicheva & Glazieva, [2021](/article/10.1007/s10639-026-13975-5#ref-CR40)) empirical evidence regarding teachers’ adoption of these environments remains fragmented. Existing studies emphasize diverse determinants, including institutional constraints, professional experience, pedagogical beliefs, and affective responses such as trust or anxiety, yet report inconsistent findings across contexts (Asad et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR14); Jia & Tu, [2024](/article/10.1007/s10639-026-13975-5#ref-CR57); Yim & Su, [2025](/article/10.1007/s10639-026-13975-5#ref-CR105)). These inconsistencies indicate that adoption decisions are not driven by a single explanatory pathway but instead reflect the joint influence of approach-oriented motivational incentives and avoidance-oriented risk appraisals. Prior technology adoption research suggests that perceived usefulness, enjoyment, and anticipated performance gains motivate adoption, while perceived risk, uncertainty, and coping capacity condition whether such motivation translates into behavioral intention—particularly in emerging and high-uncertainty technological contexts (Venkatesh et al., [2012](/article/10.1007/s10639-026-13975-5#ref-CR97); Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR84); Maddux & Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR72)). However, these motivational and protective processes are rarely examined together within a unified explanatory framework in studies of AI-supported educational technologies.
+
+Pre-service teachers constitute a theoretically distinct and strategically important population in technology adoption research. Unlike in-service teachers, who rely on established classroom routines and accumulated experiential knowledge, PSTs are still in the process of professional identity formation and have limited instructional autonomy. Their pedagogical orientations are therefore more strongly shaped by institutional expectations, curriculum design, mentor guidance, and university-based training experiences. Because PSTs typically lack extensive classroom practice, their adoption intentions are formed primarily through perceptions of usefulness, enjoyment, and self-efficacy rather than through habitual instructional patterns. At the same time, limited practical experience may heighten sensitivity to perceived risks, uncertainty, and implementation costs associated with emerging technologies such as AI-supported GBL. In contrast to teacher educators—who often evaluate technology from a policy or program-design perspective—PSTs approach adoption decisions from the standpoint of anticipated classroom enactment under conditions of uncertainty. These characteristics position PSTs as a population in which motivational incentives and protective appraisals are simultaneously salient, making them particularly suitable for investigation through an integrated UTAUT-2–PMT framework.
+
+Unlike general AI applications in education, AI-supported game-based learning integrates algorithmic adaptivity, real-time feedback, and data-driven personalization within playful, rule-governed instructional environments. This combination introduces distinctive pedagogical affordances such as adaptive difficulty adjustment, intelligent scaffolding, and learning analytics while simultaneously amplifying perceived risks related to classroom control, pedagogical alignment, and technical reliability. Consequently, adoption decisions surrounding AI-supported GBL cannot be reduced to generic AI acceptance; instead, they reflect evaluations of both game-based pedagogy and AI-mediated instructional automation. This duality further reinforces the need for an integrated framework capable of capturing both motivational appeal and protective appraisal processes.
+
+The need for a contextualized understanding of adoption is especially salient in Turkey, where teacher education programs are undergoing substantial reform in line with national digitalization and modernization policies. Large-scale initiatives led by the Ministry of National Education—most notably the FATİH Project—have aimed to promote technology integration through investments in digital infrastructure, interactive smart boards, and centralized digital learning resources. However, implementation intensity and institutional capacity vary considerably across regions and universities, resulting in uneven access to technological resources, pedagogical support, and technology-enhanced practicum experiences within teacher education programs. These structural disparities, together with differences in curriculum design and field-based learning opportunities, condition PSTs’ opportunities to engage meaningfully with emerging instructional technologies such as AI-supported GBL. In addition, cultural norms that emphasize hierarchical relationships, social influence, and institutional authority may shape how PSTs evaluate the legitimacy and perceived risk of pedagogical innovation, potentially constraining experimentation with AI-supported approaches (Ateş & Kölemen, [2025](/article/10.1007/s10639-026-13975-5#ref-CR20); Nguyen & Tang, [2022](/article/10.1007/s10639-026-13975-5#ref-CR77)). Collectively, these policy, infrastructural, and cultural dynamics generate meaningful variation in adoption conditions, positioning Turkey as a theoretically informative context for examining how motivational, emotional, and contextual factors jointly shape technology acceptance rather than as a purely localized case.
+
+Despite accumulating evidence of the pedagogical benefits of AI-supported game-based learning, its integration into teacher education remains limited, particularly at the pre-service level. Existing studies primarily document short-term instructional gains or learner outcomes, yet report low levels of sustained or voluntary adoption by pre-service teachers. This gap between documented pedagogical promise and actual adoption suggests that technical effectiveness alone is insufficient to explain uptake. Instead, adoption appears to be constrained by a combination of motivational drivers, such as perceived usefulness and enjoyment, and protective considerations, including perceived risk, implementation cost, and confidence in coping with AI-based systems. Addressing this adoption gap constitutes the central problem motivating the present study.
+
+To address this complexity, the present study integrates the Unified Theory of Acceptance and Use of Technology 2 (UTAUT-2) with Protection Motivation Theory (PMT). In this integrated framework, motivational factors refer to approach-oriented adoption determinants derived from UTAUT-2, including performance expectancy, effort expectancy, social influence, hedonic motivation, price value, and habit. Protective factors refer to risk- and coping-related determinants derived from Protection Motivation Theory, including perceived severity, perceived vulnerability, self-efficacy, response efficacy, and response cost. Collectively, these constructs are conceptualized as psychological factors, as they represent cognitive–emotional appraisals that shape behavioral intention toward AI-supported GBL adoption. UTAUT-2 offers a well-established framework for explaining technology adoption by emphasizing performance expectancy, effort expectancy, social influence, and experiential factors such as enjoyment and habit (Venkatesh et al., [2003](/article/10.1007/s10639-026-13975-5#ref-CR96); Ateş & Garzón, [2023](/article/10.1007/s10639-026-13975-5#ref-CR16); Köroğlu, [2025](/article/10.1007/s10639-026-13975-5#ref-CR581)). However, UTAUT-2 provides limited insight into how individuals evaluate potential risks associated with emerging technologies, including concerns related to reliability, privacy, or misuse. PMT complements this limitation by explaining how perceived threat severity, vulnerability, self-efficacy, response efficacy, and response costs influence protective decision-making (Ermekbaeva & Kang, [2024](/article/10.1007/s10639-026-13975-5#ref-CR400); Kissi et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR580)). While alternative frameworks such as the Technology Acceptance Model (TAM) and the Theory of Planned Behavior (TPB) effectively capture rational belief–intention relationships, they do not explicitly model threat appraisal and coping mechanisms, which are increasingly relevant in AI-supported educational contexts. Integrating UTAUT-2 and PMT therefore enables a more comprehensive examination of adoption decisions shaped simultaneously by motivational drivers and protective concerns.
+
+Accordingly, this study addresses a significant gap in the literature by investigating PSTs’ behavioral intentions (BI) to adopt AI-supported GBL through an integrated UTAUT-2–PMT framework. The study contributes to educational technology research in three main ways. First, it advances theory by clarifying how motivational, emotional, and contextual factors interact in shaping acceptance of AI-supported learning environments. Second, it empirically compares the predictive efficacy of the integrated model with its constituent theories, thereby assessing the added explanatory value of theoretical integration. Third, it identifies and ranks the most influential enablers and barriers to adoption, offering practical implications for teacher education, professional development, and policy design. Ethical approval for the study was obtained from the relevant institutional review board, and informed consent and anonymity were ensured. As the findings are based on self-reported data, potential common-method and social desirability biases are acknowledged, and appropriate procedural safeguards were applied to mitigate their effects.
+
+### 1.1 Objectives of the study
+
+This study is structured around the following key objectives:
+
+1. 1.
+   
+   To develop an integrated model that synthesizes core constructs from UTAUT-2 and PMT, with the aim of deepening understanding of the motivational and psychological factors influencing PSTs’ intentions to adopt AI-assisted GBL environments.
+2. 2.
+   
+   To evaluate and compare the predictive efficacy, defined as the degree to which each model explains variance in BI, of the integrated UTAUT-2–PMT model relative to the two theories when applied independently, thereby determining the added explanatory power of the combined framework.
+3. 3.
+   
+   To examine and rank the relative influence—referring to the comparative strength of individual predictors—of key UTAUT-2 and PMT constructs within the integrated model, in order to identify the most salient enablers and barriers to AI-supported GBL adoption in teacher education.
+
+### 1.2 Research questions
+
+To guide these objectives, the study addresses the following research questions:
+
+1. 1.
+   
+   How do motivational and protective factors jointly influence PSTs’ BI to adopt AI-assisted GBL?
+2. 2.
+   
+   Does the integrated UTAUT-2–PMT model demonstrate higher predictive efficacy than either framework alone?
+3. 3.
+   
+   Which specific constructs exert the strongest positive or negative influence on adoption intention?
+
+2 Literature review and theoretical framework
+---------------------------------------------
+
+### 2.1 The role of artificial intelligence in game-based learning
+
+AI is increasingly embedded within GBL environments through adaptive mechanics, personalized feedback, and data-driven orchestration of learning (Naseer et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR76); Song et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR88); Yekollu et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR102); Zhan et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR107)). In teacher education, these affordances are consequential not only for learner outcomes but also for how PSTs learn to design, implement, and evaluate technology-enhanced pedagogy. AI-supported GBL can externalize learner models, provide real-time analytics, and scaffold pedagogical decision-making within interactive scenarios, thereby allowing PSTs to rehearse differentiation, monitor engagement, and connect formative evidence to instructional choices in comparatively low-stakes settings (Dyulicheva & Glazieva, [2021](/article/10.1007/s10639-026-13975-5#ref-CR40); Huang & Ting-Chia, [2024](/article/10.1007/s10639-026-13975-5#ref-CR53); Lester et al., [2013](/article/10.1007/s10639-026-13975-5#ref-CR65); Evju, [2024](/article/10.1007/s10639-026-13975-5#ref-CR43); Leitner et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR64)). However, while the literature increasingly reports positive associations between AI-supported GBL and learners’ motivation and problem-solving, the field remains disproportionately student-facing, offering limited insight into teacher-facing adoption processes, particularly how PSTs interpret system recommendations, judge pedagogical fit, and translate simulated practice into classroom implementation (Alotaibi, [2024](/article/10.1007/s10639-026-13975-5#ref-CR11); Chen & Chang, [2024](/article/10.1007/s10639-026-13975-5#ref-CR31); Sun et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR91); Wagan et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR99)).
+
+A more nuanced account of PST adoption requires synthesizing barriers and enablers across pedagogical, psychological, and institutional dimensions. Pedagogically, PSTs must align AI-driven adaptivity with curriculum goals, assessment practices, and classroom management constraints; these demands can heighten perceived effort and reduce confidence during early implementation (Asad et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR14); Jia & Tu, [2024](/article/10.1007/s10639-026-13975-5#ref-CR57)). Psychologically, ethical and sociotechnical concerns such as algorithmic opacity, data privacy, surveillance risks, and bias shape perceived risk, trust, and perceived control, influencing whether PSTs evaluate AI-mediated recommendations as appropriate and safe for instructional use (Al-Zahrani & Alasmari, [2024](/article/10.1007/s10639-026-13975-5#ref-CR12); Airaj, [2024](/article/10.1007/s10639-026-13975-5#ref-CR5); Sharma & Singh, [2024](/article/10.1007/s10639-026-13975-5#ref-CR87)). Institutionally, uneven infrastructure, limited technical-pedagogical support, and restricted opportunities for repeated and mentored use can constrain facilitating conditions and inhibit habit formation (Ateş, [2025](/article/10.1007/s10639-026-13975-5#ref-CR15); Rebelo, [2025](/article/10.1007/s10639-026-13975-5#ref-CR81)). Collectively, these barriers suggest a consistent trend in the literature: while AI-supported GBL is associated with pedagogical promise, its adoption by PSTs is highly contingent on contextual support and perceived manageability rather than technological capability alone. These factors align with established determinants of technology adoption captured by UTAUT-2 (e.g., performance expectancy, effort expectancy, social influence, facilitating conditions, hedonic motivation, habit) and with protection-oriented cognitions captured by PMT (e.g., perceived severity/vulnerability, self-efficacy, response efficacy, response cost). Yet, prior research rarely examines these motivational and protective processes together within a single explanatory model (Ateş & Kölemen, [2025](/article/10.1007/s10639-026-13975-5#ref-CR19); Nguyen & Tang, [2022](/article/10.1007/s10639-026-13975-5#ref-CR77)).
+
+Empirical evidence further suggests that teacher-facing benefits of AI-supported GBL such as improved instructional decision-making through adaptive feedback and analytics are contingent on implementation conditions, including usability, training quality, and institutional support (Chen & Chang, [2024](/article/10.1007/s10639-026-13975-5#ref-CR31); Sun et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR91); Wagan et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR99); Mahrous et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR73); Kgosietsile & Okike, [2023](/article/10.1007/s10639-026-13975-5#ref-CR59)). At the same time, findings remain heterogeneous: some studies report strong positive effects on teachers’ perceived usefulness and intention to use, whereas others observe limited or unstable effects, likely due to differences in study duration, training design, institutional context, and the specific AI features examined. Nevertheless, the evidence base is constrained by short-duration interventions, convenience sampling, and heavy reliance on self-report measures, often within single-course contexts that obscure durability and transfer to practicum settings. Cross-cultural replication is also limited, and few studies distinguish which AI features (e.g., adaptivity, dashboards, or generative feedback) drive changes in teachers’ perceptions and intentions. Crucially, adoption-relevant constructs such as self-efficacy, response efficacy, and perceived cost are seldom modeled alongside motivational drivers within an integrated framework. These gaps motivate the present study’s UTAUT-2–PMT integration focused on PSTs’ adoption of AI-supported GBL, enabling examination of how motivational incentives and risk-appraisal processes jointly explain intention to use and the relative influence of key predictors within one comprehensive model.
+
+### 2.2 The research model and hypotheses
+
+This study proposes an integrated research model combining the UTAUT-2 and PMT to explain PSTs’ BI to adopt AI-supported GBL. In this study, behavioral intention refers to PSTs’ self-reported readiness and willingness to use AI-supported GBL in future instructional practice, consistent with technology adoption research. UTAUT-2 provides a well-established framework for examining motivational and contextual determinants of technology acceptance, whereas PMT contributes a complementary psychological perspective by modeling cognitive-emotional processes related to perceived risk and coping. Integrating these frameworks enables a comprehensive examination of both enabling and inhibiting forces shaping adoption decisions in AI-assisted educational environments, which are characterized by pedagogical promise alongside uncertainty and ethical concern.
+
+Although UTAUT-2 and PMT originate from distinct theoretical traditions—behavioral technology acceptance and protection-oriented psychology—they converge conceptually in explaining behavioral intention through cognitive appraisal processes (Venkatesh et al., [2003](/article/10.1007/s10639-026-13975-5#ref-CR96); Maddux & Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR72); Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR84)). UTAUT-2 emphasizes approach-oriented motivations, such as performance expectancy, hedonic motivation, and habit, which explain why individuals may be inclined to adopt a technology based on perceived benefits and expected outcomes (Venkatesh et al., [2012](/article/10.1007/s10639-026-13975-5#ref-CR97)). In contrast, PMT captures avoidance-oriented considerations by modeling how perceived severity, vulnerability, response efficacy, self-efficacy, and response cost shape protective decision-making under conditions of uncertainty and risk (Maddux & Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR72); Floyd et al., [2000](/article/10.1007/s10639-026-13975-5#ref-CR45)). This dual-process perspective aligns with broader cognitive appraisal theories suggesting that individuals simultaneously evaluate anticipated gains and potential threats when forming behavioral intentions (Lazarus, [1991](/article/10.1007/s10639-026-13975-5#ref-CR63)). Such a framework is particularly relevant for educators, who may simultaneously perceive AI-supported GBL as a valuable instructional innovation and as a potential source of pedagogical, ethical, or technical risk (Selwyn, [2019](/article/10.1007/s10639-026-13975-5#ref-CR86); Zawacki-Richter et al., [2019](/article/10.1007/s10639-026-13975-5#ref-CR106)).
+
+Previous studies integrating UTAUT-based and PMT-based constructs have demonstrated strong explanatory power in domains involving uncertainty, trust, and risk-sensitive decision-making, including cybersecurity, online learning, and digital health technologies (Ermekbaeva & Kang, [2024](/article/10.1007/s10639-026-13975-5#ref-CR400); Kissi et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR580); Marikyan & Papagiannidis, [2023](/article/10.1007/s10639-026-13975-5#ref-CR74)). However, this line of research has largely focused on general user populations and utilitarian systems, offering limited insight into teacher education contexts or pedagogically complex technologies such as AI-supported GBL. As a result, the joint influence of motivational incentives and protective appraisals on PSTs’ adoption decisions remains theoretically underexplored.
+
+The integrated UTAUT-2–PMT framework is particularly well suited to the pre-service teacher context, where adoption decisions reflect the coexistence of enthusiasm for innovation and apprehension regarding pedagogical fit, effort demands, autonomy, and ethical risk. UTAUT-2 accounts for motivational and contextual enablers that explain why PSTs may be motivated to adopt AI-supported GBL. PMT complements this perspective by modeling threat and coping appraisals, capturing how PSTs evaluate potential risks and their own capacity to manage AI-driven instructional technologies. Examining these processes together reflects the real-world decision dynamics teachers face when evaluating emerging educational innovations during professional preparation.
+
+Although some conceptual proximity exists between selected constructs across the two frameworks, they capture distinct cognitive and evaluative processes. Effort expectancy reflects the perceived ease of learning and operating a technology, whereas response cost emphasizes the perceived burden of implementation, ongoing effort, and potential disruption to instructional practice. Similarly, facilitating conditions represent external institutional resources and structural support, while self-efficacy captures internal beliefs about personal capability to enact technology use. These distinctions justify the simultaneous inclusion of both UTAUT-2 and PMT constructs and mitigate concerns regarding conceptual redundancy or multicollinearity in the integrated model.
+
+By integrating UTAUT-2 and PMT, the proposed framework remedies the conceptual limitations of each model when applied independently. UTAUT-2 contributes explanatory power regarding motivational and contextual enablers of adoption, whereas PMT introduces psychological depth by accounting for protective and risk-oriented appraisals. Other theoretical combinations, such as integrating UTAUT-2 with trust-based models or with Self-Determination Theory, could also provide valuable insights into technology adoption. However, trust-focused frameworks do not explicitly model habitual use or facilitating conditions, while Self-Determination Theory emphasizes intrinsic motivation without addressing threat appraisal, perceived risk, or coping evaluations. Given the uncertainty, ethical concerns, and implementation demands associated with AI-supported GBL, the UTAUT-2–PMT integration was considered the most theoretically appropriate for capturing both motivational and protective decision processes in teacher education. Alternative models such as the Technology Acceptance Model and the Theory of Planned Behavior primarily capture rational belief–intention pathways and offer limited insight into the affective and protective motivations that characterize educators’ responses to emerging AI technologies. The integrated UTAUT-2–PMT framework therefore provides a more comprehensive and contextually appropriate explanation of PSTs’ adoption intentions by uniting approach-oriented incentives and avoidance-oriented appraisals within a single model.
+
+On the basis of this integrated theoretical logic, hypotheses are derived to examine the direct effects of UTAUT-2 and PMT constructs on PSTs’ BI to adopt AI-supported GBL. The following subsections elaborate on each theoretical foundation and specify the hypothesized relationships underpinning the proposed research model.
+
+Table [1](/article/10.1007/s10639-026-13975-5#Tab1) presents a comparative overview of UTAUT-2 and PMT constructs, illustrating their conceptual alignment as well as their theoretically distinct contributions to explaining AI-supported GBL adoption. While UTAUT-2 has demonstrated strong predictive validity for technology acceptance, it has been critiqued for underrepresenting emotional, risk-related, and trust-based considerations—factors that are particularly salient in AI-mediated educational contexts where perceptions of control and reliability are central (Venkatesh et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR95); Kissi et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR580)). Conversely, PMT provides a robust account of threat perception and coping appraisal but pays limited attention to social influence, facilitating conditions, and habitual use, which strongly shape pedagogical technology adoption in institutional settings. Beyond conceptual alignment, prior empirical studies integrating UTAUT-based and PMT-based constructs report low-to-moderate inter-construct correlations and satisfactory discriminant validity indices, supporting their empirical distinctiveness and suitability for joint modeling within structural equation frameworks (e.g., Kissi et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR580); Marikyan & Papagiannidis, [2023](/article/10.1007/s10639-026-13975-5#ref-CR74)).
+
+**Table 1 Comparative overview of UTAUT-2 and PMT constructs and their roles in AI-supported GBL adoption**
+
+[Full size table](/article/10.1007/s10639-026-13975-5/tables/1)
+
+The operational definitions, measurement sources, and item structure for all UTAUT-2 and PMT constructs are detailed in the Methods section (see Table [2](/article/10.1007/s10639-026-13975-5#Tab2)), ensuring transparency and reproducibility.
+
+**Table 2 Constructs, items, and measurement metrics for UTAUT-2 and PMT**
+
+[Full size table](/article/10.1007/s10639-026-13975-5/tables/2)
+#### 2.2.1 Unified theory of acceptance and use of technology 2
+
+The UTAUT, originally developed by Venkatesh et al. ([2003](/article/10.1007/s10639-026-13975-5#ref-CR96)), is a widely used framework for explaining individuals’ BI toward technology adoption. The model was later extended to UTAUT-2 (Venkatesh et al., [2012](/article/10.1007/s10639-026-13975-5#ref-CR97)) to better capture experiential and voluntary-use contexts by incorporating hedonic motivation, price value, and habit. These extensions are particularly relevant for educational technologies that combine instructional and experiential elements, such as AI-supported GBL, where engagement, perceived value, and repeated exposure shape adoption decisions over time.
+
+In the context of AI-supported GBL in teacher education, UTAUT-2 provides a structured lens for examining how motivational, cognitive, and contextual factors influence PSTs intentions to integrate emerging technologies into instructional practice. Each construct was operationalized in this study using validated measures adapted from prior UTAUT-2 research in educational and AI adoption contexts (e.g., Ateş & Polat, [2025](/article/10.1007/s10639-026-13975-5#ref-CR20); Ma & Lei, [2024](/article/10.1007/s10639-026-13975-5#ref-CR70); Venkatesh et al., [2012](/article/10.1007/s10639-026-13975-5#ref-CR97)), ensuring conceptual consistency while reflecting the specific demands of AI-supported pedagogical environments.
+
+Performance expectancy represents the extent to which PSTs believe that using AI-supported GBL will enhance their instructional effectiveness. In teacher education, this construct captures perceptions that AI-driven adaptivity, analytics, and feedback can support differentiation, engagement, and instructional decision-making. Empirical studies consistently show that technologies perceived as pedagogically useful are more likely to be adopted; however, evidence also suggests that perceived usefulness alone is insufficient when technologies are complex or unfamiliar (Al Darayseh, [2023](/article/10.1007/s10639-026-13975-5#ref-CR7)). Effort expectancy, defined as the perceived ease of learning and using a system, is therefore particularly salient for PSTs who are simultaneously developing pedagogical expertise and technological fluency. When AI-supported GBL environments are perceived as cognitively demanding or difficult to operate, adoption may be discouraged even when performance benefits are acknowledged (Runge et al., [2025](/article/10.1007/s10639-026-13975-5#ref-CR85); Sun et al., [2025](/article/10.1007/s10639-026-13975-5#ref-CR90)).
+
+Social influence and facilitating conditions capture the institutional and social embedding of technology adoption. For PSTs, social influence reflects the extent to which instructors, mentors, and peers endorse AI-supported GBL as pedagogically legitimate, while facilitating conditions reflect access to infrastructure, technical support, and pedagogical guidance within teacher education programs (Cabellos et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR28); Gryson et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR48)). Prior research indicates that normative expectations and institutional support play a disproportionate role in early-career adoption decisions, where professional identities are still forming (Cheng et al., [2025](/article/10.1007/s10639-026-13975-5#ref-CR33); Liu et al., [2025](/article/10.1007/s10639-026-13975-5#ref-CR66)). In the absence of supportive conditions, even positively perceived technologies may fail to be adopted or sustained (Ogegbo et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR78)).
+
+Beyond instrumental and contextual determinants, UTAUT-2 incorporates affective and experiential factors that are central to AI-supported GBL adoption. Hedonic motivation captures the intrinsic enjoyment associated with using a technology and is especially relevant in GBL environments, where playfulness, interactivity, and immersion can reduce resistance to innovation and enhance willingness to experiment (Alhwaiti, [2023](/article/10.1007/s10639-026-13975-5#ref-CR10); Kuriakose & Nagasubramaniyan, [2025](/article/10.1007/s10639-026-13975-5#ref-CR62)). Price value reflects PSTs’ evaluation of whether the perceived instructional benefits of AI-supported GBL outweigh associated costs, including time, cognitive effort, and learning demands. Although financial costs are often institutionally absorbed, perceived effort and opportunity costs remain salient for PSTs balancing coursework, practicum responsibilities, and skill development (Aini et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR4)).
+
+Habit represents the extent to which prior exposure leads to automatic or routine technology use and is a key determinant of sustained adoption. In teacher education, repeated engagement with AI-supported GBL during coursework, micro-teaching, or practicum experiences can normalize use and reduce cognitive resistance, increasing the likelihood of continued adoption as PSTs transition into professional roles (Osei et al., [2022](/article/10.1007/s10639-026-13975-5#ref-CR80); Venkatesh et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR95)). However, opportunities for such repeated exposure are uneven across programs, limiting habit formation in many contexts.
+
+Despite its explanatory strength, UTAUT-2 has rarely been applied systematically to AI-supported GBL adoption among PSTs. Existing studies often focus on isolated instructional interventions or general educational technologies, overlooking the combined motivational, contextual, and experiential dynamics associated with intelligent, adaptive systems (Ateş & Gündüzalp, [2025a](/article/10.1007/s10639-026-13975-5#ref-CR17)). Moreover, while UTAUT-2 effectively models approach-oriented motivations, it does not explicitly account for perceived risk, uncertainty, or coping appraisals—factors that are increasingly salient in AI-mediated educational environments characterized by ethical, technical, and pedagogical concerns (Ateş & Gündüzalp, [2025b](/article/10.1007/s10639-026-13975-5#ref-CR19)). These limitations motivate the integration of UTAUT-2 with PMT, which addresses threat perception and coping mechanisms and is discussed in the following subsection.
+
+Based on UTAUT-2 and the identified gaps in the AI-supported GBL literature, the following hypotheses are proposed:
+
+* H1: Performance expectancy positively influences PSTs’ intention to use AI-supported GBL environments.
+* H2: Effort expectancy positively influences PSTs’ intention to use AI supported GBL environments.
+* H3: Social influence positively influences PSTs’ intention to adopt AI-supported GBL environments.
+* H4: Facilitating conditions positively influence PSTs’ intention to use AI-supported GBL environments.
+* H5: Hedonic motivation positively influences PSTs’ intention to adopt AI-supported GBL environments.
+* H6: Price value positively influences PSTs’ intention to adopt AI supported GBL environments.
+* H7: Habit positively influences PSTs’ intention to adopt AI-supported GBL environments.
+
+#### 2.2.2 Protection motivation theory
+
+PMT, originally proposed by Rogers ([1975](/article/10.1007/s10639-026-13975-5#ref-CR83)), provides a psychological framework for explaining how individuals respond to perceived threats through cognitive appraisal processes. The theory posits that protective behavior is shaped by two parallel evaluations: threat appraisal, which involves perceived severity and perceived vulnerability, and coping appraisal, which involves beliefs about one’s ability to respond effectively through self-efficacy, response efficacy, and response cost (Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR84)). Although PMT was initially developed in health-related contexts, it has been increasingly applied to domains characterized by uncertainty and perceived risk, including educational technology, cybersecurity, and online behavior (Nguyen & Tang, [2022](/article/10.1007/s10639-026-13975-5#ref-CR77); Dodge et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR38)).
+
+In the context of AI-supported GBL, PMT offers a valuable lens for understanding PSTs’ adoption decisions, which are often influenced by concerns extending beyond functionality and usefulness. As AI-driven systems become more autonomous and opaque, educators frequently report apprehension related to control, reliability, ethical use, and pedagogical appropriateness (Ateş & Kölemen, [2025](/article/10.1007/s10639-026-13975-5#ref-CR19)). For PSTs in particular—who typically have limited classroom experience and emerging professional identities—perceptions of risk, uncertainty, and preparedness can significantly shape willingness to adopt AI-supported GBL. PMT enables systematic examination of how such risk-oriented cognitions translate into behavioral intention under conditions of technological and pedagogical uncertainty (Bekkers et al., [2023](/article/10.1007/s10639-026-13975-5#ref-CR26)).
+
+In this study, five PMT constructs—perceived severity, perceived vulnerability, self-efficacy, response efficacy, and response cost—are employed to capture PSTs’ threat and coping appraisals related to AI-supported GBL adoption. Perceived severity reflects the extent to which PSTs believe that failure to adopt AI-supported instructional technologies may result in negative professional or pedagogical consequences, such as reduced instructional effectiveness or misalignment with contemporary teaching practices (Macaulay et al., [2022](/article/10.1007/s10639-026-13975-5#ref-CR71)). Perceived vulnerability captures the extent to which PSTs feel personally susceptible to these consequences, for example due to insufficient technological competence or limited exposure to AI-based tools during teacher preparation (Yıldırım et al., [2021](/article/10.1007/s10639-026-13975-5#ref-CR103)).
+
+Coping appraisal in Protection Motivation Theory is represented by self-efficacy, response efficacy, and response cost, which together determine whether individuals perceive adoption as feasible and worthwhile. Self-efficacy refers to PSTs’ confidence in their ability to effectively integrate AI-supported GBL into instructional practice, encompassing both technological and pedagogical competence. Prior research consistently links higher self-efficacy to stronger adoption intentions in complex or novel educational settings (Chang et al., 2022; Esiyok et al., [2025](/article/10.1007/s10639-026-13975-5#ref-CR42)). Response efficacy captures the belief that adopting AI-supported GBL will effectively address instructional challenges or mitigate perceived risks, such as enhancing student engagement, supporting classroom management, or improving instructional decision-making (Ayanwale et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR21)).
+
+Response cost refers to the perceived time, effort, cognitive demand, or potential disruption associated with adopting a technology (Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR84)). In the context of AI-supported GBL, response cost reflects PSTs’ perceptions of implementation burden, technical complexity, and the effort required to align AI-based tools with curriculum and classroom practices. Higher perceived response cost is therefore expected to inhibit adoption intention, even when perceived benefits and coping efficacy are favorable.
+
+Despite its explanatory strength, PMT remains underutilized in research on educational technology adoption, particularly within teacher education and AI-supported learning contexts. Existing PMT-based studies have predominantly focused on domains such as online privacy, cybersecurity, or health behavior, offering limited insight into how threat and coping appraisals shape educators’ adoption of pedagogically complex technologies such as AI-supported GBL (Balla & Hagger, [2025](/article/10.1007/s10639-026-13975-5#ref-CR22); Boerman et al., [2021](/article/10.1007/s10639-026-13975-5#ref-CR27); Sulaiman et al., [2022](/article/10.1007/s10639-026-13975-5#ref-CR89)). Moreover, PMT alone does not account for social influence, facilitating conditions, or experiential motivations, which are central to technology adoption in institutional and instructional settings.
+
+Integrating PMT with UTAUT-2, as illustrated in Fig. [1](/article/10.1007/s10639-026-13975-5#Fig1), therefore addresses complementary theoretical limitations. While UTAUT-2 captures approach-oriented motivations such as perceived usefulness, enjoyment, and habit formation, PMT explains avoidance-oriented appraisals related to perceived risk, coping capacity, and implementation burden. This integration acknowledges that PSTs’ adoption of AI-supported GBL is shaped by the simultaneous presence of enthusiasm for innovation and concern about uncertainty, control, and pedagogical risk. Examining these dual cognitive–emotional processes together enables a more comprehensive understanding of adoption intentions in AI-mediated educational environments.
+
+**Fig. 1**
+
+![]()[Full size image](/article/10.1007/s10639-026-13975-5/figures/1)
+
+Conceptual framework of AI-supported GBL adoption: Research model and hypotheses
+
+In line with PMT, perceived severity and perceived vulnerability are hypothesized to positively influence adoption intention in this study, provided that coping appraisal is favorable. Prior PMT research demonstrates that heightened threat perception can promote protective or adaptive behavior when individuals believe that effective responses are available and that they possess the capability to enact them, as evidenced in domains such as health behavior change and cybersecurity compliance. In such contexts, awareness of potential harm increases motivation to adopt recommended protective actions rather than disengage or avoid the threat. Applied to teacher education, heightened awareness of professional or pedagogical risks associated with non-adoption—such as instructional obsolescence or misalignment with contemporary teaching practices—may similarly encourage PSTs to adopt AI-supported GBL when self-efficacy and response efficacy are perceived as sufficient. Conversely, when coping resources are perceived as inadequate, threat perception is expected to result in avoidance rather than adoption.
+
+Based on PMT and the identified gaps in the AI-supported GBL adoption literature, the following hypotheses are proposed:
+
+* H8: Perceived severity positively influences PSTs’ intention to use AI-supported GBL environments.
+* H9: Perceived vulnerability positively influences PSTs’ intention to adopt AI-supported GBL environments.
+* H10: Self-efficacy positively influences PSTs’ intention to adopt AI supported GBL environments.
+* H11: Response efficacy positively influences PSTs’ intention to adopt AI-supported GBL environments.
+
+3 Method
+--------
+
+### 3.1 Sample and data collection process
+
+Data were collected using a self-administered questionnaire during the early part of the 2024–2025 academic year, between April and May 2025. The survey was designed to measure PSTs perceptions, attitudes, and BI regarding AI-supported GBL. Instrument development emphasized clarity and contextual appropriateness, and a pilot study was conducted prior to the main administration (see Sect. 3.2).
+
+Prior to data collection, the research protocol was reviewed and approved by the Social and Human Sciences Scientific Research and Publication Ethics Committee of Kırşehir Ahi Evran University (Approval Number: 2025/08/32). All procedures adhered to institutional and national ethical standards and to the principles of the Declaration of Helsinki. Participants were informed about the study purpose, voluntary participation, confidentiality/anonymity protections, and their right to withdraw at any stage without penalty. Electronic informed consent was obtained before respondents accessed the questionnaire.
+
+Participants were recruited using convenience sampling through faculties of education at several public universities located in major cities across Turkey. Recruitment was coordinated with course instructors and program coordinators, who disseminated the survey link either during scheduled class sessions or through institutional e-mail lists. To reduce perceived coercion, instructors emphasized that participation was voluntary, anonymous, unrelated to course assessment, and that non-participation would have no academic consequences. No incentives were offered. Probability-based sampling was not feasible due to the absence of a centralized national sampling frame for pre-service teachers, variability in institutional approval procedures across universities, and limited administrative access to student enrollment lists. In addition, institutional constraints and resource limitations precluded coordinated stratified sampling across programs and regions.
+
+Inclusion criteria were: (a) enrollment in an undergraduate teacher-education program and (b) age 18 years or older. Responses were excluded if respondents did not provide consent, did not meet inclusion criteria, or submitted incomplete questionnaires. Approximately 1,000 students were invited during the recruitment period, and 864 complete and usable responses were retained for analysis (approximate response rate ≈ 86%).
+
+Data collection was conducted using both face-to-face classroom administrations (via QR code/link access) and online distribution, maximizing accessibility and reducing barriers to participation. Several procedural safeguards were implemented to reduce common sources of survey bias. To minimize social desirability and evaluation apprehension, respondents were assured that there were no right or wrong answers and that data would be analyzed only in aggregate form. To reduce common method bias, item order was randomized within constructs, predictor and criterion sections were separated with unrelated filler items, and a mixture of positively and negatively worded items was included. For online administrations, IP-address and device checks were used to detect potential duplicate submissions. Completion times shorter than three minutes were flagged and reviewed as potentially careless responding. Additional screening and missing-data handling procedures are reported in Sect. [3.3](/article/10.1007/s10639-026-13975-5#Sec12).
+
+To assess potential nonresponse bias, early and late respondents were compared on key variables (behavioral intention and performance expectancy). No statistically significant differences were observed (|t| < 1.96, *p* >.05). Mean differences between early and late respondents were small (ΔM < 0.10 across variables), with negligible effect sizes (Cohen’s d < 0.20), indicating minimal risk of nonresponse bias; however, given the non-probability sampling approach, representativeness cannot be fully ensured.
+
+The final sample comprised 864 PSTs, of whom 79.5% (*n* = 687) were female and 20.5% (*n* = 177) were male. Participants were enrolled in primary education (19.2%), social studies (13.4%), early childhood education (17.6%), Turkish language education (14.7%), mathematics education (11.2%), science education (4.3%), and guidance and counseling (19.6%). Regarding year of study, 20.4% were first-year students, 29.7% second-year, 25.1% third-year, and 24.8% fourth-year.
+
+With respect to prior experience with AI-related coursework or projects, 12.4% (*n* = 107) reported some experience, whereas 87.6% (*n* = 757) reported none. Among those reporting prior exposure, activities included project participation (3.2%), homework assignments (4.2%), research activities (1.0%), scientific article preparation (0.9%), coursework (0.6%), competitions (0.1%), and thesis work (0.1%). Participants’ digital gaming habits varied: 43.3% did not play digital games; 19.7% played less than one hour per day; 15.3% played one to two hours; 10.2% played two to three hours; 5.7% played three to four hours; and 5.9% played more than four hours daily. In terms of game preferences, 57.2% reported no engagement; among those who played, preferences included adventure (5.0%), simulation (4.5%), knowledge-based (0.3%), puzzle (6.5%), entertainment (9.6%), action (7.2%), and strategy (9.7%). Finally, 54.9% reported prior awareness of AI-supported GBL environments, whereas 45.1% were not familiar with the concept.
+
+### 3.2 Data collection tools
+
+The survey instrument was developed through a multi-stage process grounded in established measurement practices and prior validated scales derived from the UTAUT-2 and PMT frameworks. Item development was informed by an extensive review of technology acceptance, AI adoption, and GBL literature, with specific adaptation to the context of AI-supported GBL use by PSTs.
+
+The initial item pool was generated in English by adapting established UTAUT-2 and PMT scales to reflect AI-supported GBL use in teacher education. To ensure content and face validity, all items were independently reviewed by a panel of four experts with doctoral-level expertise in educational technology, science education, and psychology. Experts evaluated item relevance and clarity using a four-point scale (1 = not relevant to 4 = highly relevant). Item-level Content Validity Index (I-CVI) values ranged from 0.86 to 1.00, and the Scale-Level CVI/Average (S-CVI/Ave) was 0.93, indicating excellent content validity.
+
+Following expert validation, the instrument underwent a rigorous translation and back-translation procedure to ensure semantic and cultural equivalence between the English and Turkish versions. Two bilingual researchers independently translated the items into Turkish, after which a separate bilingual expert back-translated the instrument into English. Discrepancies were discussed and resolved through consensus among the research team, consistent with recommended cross-cultural adaptation guidelines.
+
+The draft instrument was pilot tested with 201 PSTs who were not included in the main study sample. The pilot aimed to assess clarity, comprehension, response variability, and preliminary psychometric properties. Exploratory analyses indicated satisfactory internal consistency across all constructs, with Cronbach’s α values ranging from 0.78 to 0.91. Qualitative feedback from participants was reviewed to identify ambiguous wording or contextual misalignment, leading to minor revisions to improve clarity and construct fidelity. The refined instrument was subsequently finalized for large-scale administration.
+
+The final questionnaire consisted of 41 items measured on a five-point Likert scale ranging from 1 (strongly disagree) to 5 (strongly agree). The instrument assessed twelve constructs, comprising 26 items from UTAUT-2 and 15 items from PMT. Specifically, the UTAUT-2 section included performance expectancy (3 items), effort expectancy (4 items), social influence (3 items), facilitating conditions (4 items), hedonic motivation (3 items), price value (3 items), habit (3 items), and BI (3 items). The PMT section included perceived severity (5 items), perceived vulnerability (3 items), self-efficacy (3 items), and response efficacy (4 items).
+
+Sample items included “I find AI-supported GBL useful in my daily life” (performance expectancy), “Learning how to use AI-supported GBL is easy for me” (effort expectancy), “People who are important to me think that I should use AI-supported GBL” (social influence), “I have the resources necessary to use AI-supported GBL” (facilitating conditions), and “Using AI-supported GBL is fun” (hedonic motivation). PMT constructs were represented by items such as “Learning materials accessed through AI-supported GBL are vulnerable to unauthorized access or data leaks” (perceived severity), “AI-supported GBL could be vulnerable to security incidents” (perceived vulnerability), “I can use AI-supported GBL independently” (self-efficacy), and “Using AI-supported GBL can effectively prevent security incidents” (response efficacy).
+
+Higher scores indicated stronger endorsement of motivational or protective beliefs regarding AI-supported GBL adoption. Although behavioral intention is modeled as the dependent outcome variable, the wording of the intention items reflects a future-oriented decision context in which adoption is evaluated under conditions of uncertainty and responsibility. This framing is consistent with Protection Motivation Theory, insofar as intention formation may implicitly incorporate threat awareness and coping considerations alongside motivational drivers. This alignment is theoretically appropriate given the risk-sensitive nature of AI-supported educational technologies.
+
+The psychometric properties of the finalized instrument were evaluated in the main study using confirmatory factor analysis (CFA) within a two-stage SEM procedure. Internal consistency reliability was assessed using Cronbach’s α and composite reliability (CR), while convergent validity was evaluated using average variance extracted (AVE). Across all constructs, Cronbach’s α values ranged from 0.72 to 0.86, CR values exceeded 0.70, and AVE values were above 0.50, indicating satisfactory reliability and convergent validity. Detailed CFA results, factor loadings, and validity indices are reported in Sect. [3.3](/article/10.1007/s10639-026-13975-5#Sec12).
+
+To enhance reproducibility, all items, factor loadings, descriptive statistics, and reliability indices are reported in Table [2](/article/10.1007/s10639-026-13975-5#Tab2) which provides a complete mapping between theoretical constructs and their empirical operationalization, allowing future studies to replicate or adapt the instrument in similar AI-supported GBL contexts.
+
+### 3.3 Data analysis
+
+Data analysis was conducted using SPSS 27 and AMOS 24. Consistent with the study’s objective of integrating UTAUT-2 and PMT within a unified explanatory framework, a two-stage structural equation modeling (SEM) approach was employed to evaluate both the measurement and structural models (Anderson & Gerbing, [1992](/article/10.1007/s10639-026-13975-5#ref-CR13)). This approach enables rigorous assessment of construct validity prior to hypothesis testing and is widely recommended for theory-driven model testing.
+
+Prior to inferential analysis, the dataset was systematically screened for missing data, outliers, and violations of statistical assumptions. Cases with more than 10% missing responses were excluded. Specifically, 18 cases (2.0% of the initial sample) were removed due to excessive missing data; comparison analyses indicated that excluded cases did not differ significantly from retained cases on gender, year of study, or behavioral intention (*p* >.05). Remaining missing values were handled using the expectation–maximization (EM) algorithm, which yields unbiased parameter estimates under the missing at random (MAR) assumption.
+
+Univariate and multivariate normality were assessed using skewness, kurtosis, and Mardia’s coefficient. All values fell within acceptable thresholds (|skew| < 2; |kurtosis| < 7), supporting the use of maximum likelihood estimation. Multivariate outliers were examined using Mahalanobis distance with a χ² critical value at *p* <.001, resulting in the removal of five extreme cases that exhibited atypical response patterns across multiple constructs. Multicollinearity diagnostics indicated no concern (VIF < 5.0; tolerance > 0.20).
+
+To address potential common method bias (CMB) associated with self-report survey designs, both procedural and statistical remedies were applied. Procedural controls included item randomization, separation of predictor and criterion blocks, and respondent anonymity. Statistically, Harman’s single-factor test and a common latent factor test were conducted. The first unrotated factor accounted for 31.6% of the total variance, which is below the recommended 40% threshold. In addition, inclusion of a common latent factor did not meaningfully alter standardized path coefficients (Δβ < 0.05), indicating that common method bias was unlikely to influence the substantive conclusions of the study.
+
+As the first stage of SEM, CFA was conducted separately for the UTAUT-2 model, PMT model, and the integrated model. All CFAs employed maximum likelihood estimation. Model fit was evaluated using multiple indices following established guidelines (Hair et al., [2019](/article/10.1007/s10639-026-13975-5#ref-CR49)), including χ²/df, CFI, TLI, IFI, RMSEA, and SRMR.
+
+Across all models, fit indices indicated acceptable to good model fit (χ²/df < 3.00; CFI, TLI, IFI ≥ 0.90; RMSEA and SRMR ≤ 0.08), supporting the adequacy of the proposed measurement structure for AI-supported GBL adoption among PSTs.
+
+Internal consistency and convergent validity were assessed using Cronbach’s alpha (α), composite reliability (CR), and average variance extracted (AVE). All constructs exceeded recommended thresholds (α ≥ 0.70; CR ≥ 0.70; AVE ≥ 0.50), confirming satisfactory reliability and convergent validity.
+
+Discriminant validity was evaluated using the Fornell–Larcker criterion, comparing the square root of each construct’s AVE with its inter-construct correlations. In all cases, AVE square roots exceeded corresponding correlations, indicating adequate discriminant validity. These results are summarized in Table [3](/article/10.1007/s10639-026-13975-5#Tab3).
+
+**Table 3 Inter-construct correlations and discriminant validity**
+
+[Full size table](/article/10.1007/s10639-026-13975-5/tables/3)
+
+Following validation of the measurement model, the structural model was estimated to test the hypothesized relationships among UTAUT-2 and PMT constructs predicting PSTs’ BI to adopt AI-supported GBL. Structural model fit indices again met recommended thresholds (χ²/df < 3.00; CFI, TLI, IFI > 0.90; RMSEA < 0.08), indicating that the proposed theoretical model adequately represented the observed data.
+
+To enhance robustness, bootstrapping with 5,000 resamples was applied to estimate bias-corrected confidence intervals for all path coefficients. This procedure strengthens inference by reducing sensitivity to non-normality and sample-specific effects. All reported effects are therefore statistically stable and robust.
+
+Multi-group structural equation modeling was not conducted because the present study prioritizes theory testing and comparative evaluation of competing explanatory models rather than subgroup differentiation. Examination of potential moderators such as gender, program type, or prior experience requires targeted hypotheses and sufficiently balanced subgroup sizes and is therefore positioned as a distinct objective for future research.
+
+4 Findings
+----------
+
+### 4.1 Descriptive statistics and preliminary analysis
+
+Prior to testing the hypothesized UTAUT-2, PMT, and integrated structural models, descriptive statistics were examined to provide an overview of PSTs’ perceptions of AI-supported GBL and to assess the distributional properties of the study variables. The final analytical sample consisted of 864 PSTs. Missing data were minimal (< 2%) and were handled using the expectation–maximization (EM) procedure, as described in Sect. [3.3](/article/10.1007/s10639-026-13975-5#Sec12).
+
+Table [4](/article/10.1007/s10639-026-13975-5#Tab4) presents the construct-level descriptive statistics, including the number of items, means, and standard deviations for all UTAUT-2 and PMT variables as well as BI. All constructs were measured on a five-point Likert scale (1 = strongly disagree, 5 = strongly agree). Overall, mean values ranged from moderate to high, indicating generally favorable perceptions of AI-supported GBL among PSTs. In particular, performance expectancy, hedonic motivation, self-efficacy, and BI exhibited relatively high mean scores, suggesting that PSTs perceived AI-supported GBL as useful, enjoyable, and manageable for future instructional practice.
+
+**Table 4 Descriptive statistics for study constructs**
+
+[Full size table](/article/10.1007/s10639-026-13975-5/tables/4)
+
+Standard deviations indicated adequate variability across constructs, supporting their suitability for subsequent SEM analyses. Examination of skewness and kurtosis values (reported in Sect. [3.3](/article/10.1007/s10639-026-13975-5#Sec12)) indicated no substantial departures from normality. Bivariate correlations among constructs are reported in Table [3](/article/10.1007/s10639-026-13975-5#Tab3) and provide preliminary evidence of theoretically consistent associations among UTAUT-2, PMT, and BI variables.
+
+Together, these descriptive results establish an appropriate empirical foundation for the subsequent model fit comparisons and structural analyses.
+
+### 4.2 Comparative evaluation of model fit and explanatory power for PMT, UTAUT-2, and the combined model
+
+To evaluate the relative adequacy of the competing theoretical frameworks, SEM was conducted separately for the UTAUT-2, PMT, and the integrated UTAUT-2–PMT models. Model evaluation followed established SEM reporting standards, using multiple fit indices to assess absolute and incremental fit: the chi-square to degrees of freedom ratio (χ²/df), Comparative Fit Index (CFI), Tucker–Lewis Index (TLI), Root Mean Square Error of Approximation (RMSEA), and Standardized Root Mean Square Residual (SRMR). In line with conventional guidelines, χ²/df values below 3.0, CFI and TLI values ≥ 0.90, and RMSEA and SRMR values ≤ 0.08 were interpreted as indicating acceptable to good model fit. In addition to model fit, explanatory power was assessed using the proportion of variance explained in BI (R²).
+
+As reported in Table [5](/article/10.1007/s10639-026-13975-5#Tab5), all three models demonstrated acceptable fit to the data, indicating that each framework provides a theoretically meaningful explanation of PSTs’ intentions to adopt AI-supported GBL. However, clear differences emerged in both model fit and explanatory power. The integrated UTAUT-2–PMT model exhibited the most favorable fit indices (χ²/df = 1.92; CFI = 0.93; TLI = 0.95; RMSEA = 0.054; SRMR = 0.053) and explained the largest proportion of variance in BI (R² = 0.71).
+
+**Table 5 Model fit indices and explanatory power for UTAUT-2, PMT, and the integrated model**
+
+[Full size table](/article/10.1007/s10639-026-13975-5/tables/5)
+
+By comparison, the standalone UTAUT-2 model also demonstrated strong fit (χ²/df = 2.10; CFI = 0.92; TLI = 0.93; RMSEA = 0.058; SRMR = 0.052), accounting for 63% of the variance in BI. The PMT model showed acceptable but comparatively weaker fit (χ²/df = 2.37; CFI = 0.91; TLI = 0.92; RMSEA = 0.063; SRMR = 0.059) and substantially lower explanatory power (R² = 0.41). Although the models are not strictly nested and formal χ² difference testing was therefore not appropriate, additional comparison using information criteria further supported the superiority of the integrated model. Specifically, the integrated model demonstrated the lowest AIC (1384.72) and BIC (1512.43) values relative to the UTAUT-2 model (AIC = 1468.35; BIC = 1589.27) and the PMT model (AIC = 1521.88; BIC = 1638.94). Because lower AIC and BIC values indicate better relative model fit while penalizing model complexity, these results provide further evidence that the integrated UTAUT-2–PMT framework offers the most parsimonious and explanatory representation of PSTs’ adoption intentions.
+
+Taken together, these findings support a multidimensional view of AI-supported GBL adoption, suggesting that PSTs’ intentions are shaped not only by perceived usefulness, enjoyment, and institutional support, but also by perceived risks and confidence in managing AI-related challenges.
+
+### 4.3 SEM-based evaluation of adoption determinants for AI-supported game-based learning environments
+
+#### 4.3.1 Results of UTAUT 2 model
+
+The SEM analysis based on the UTAUT-2 framework provided detailed insight into the determinants shaping PSTs intentions to adopt AI-supported GBL. As presented in Table [6](/article/10.1007/s10639-026-13975-5#Tab6) and illustrated in Fig. [2](/article/10.1007/s10639-026-13975-5#Fig2), all hypothesized UTAUT-2 paths to BI were statistically significant, confirming the relevance of motivational, contextual, and experiential factors in explaining AI-supported GBL adoption. Importantly, the magnitude of effects varied considerably across constructs, indicating differential practical importance rather than uniformly strong influences.
+
+**Table 6 Structural path estimates for the UTAUT-2 model predicting BI**
+
+[Full size table](/article/10.1007/s10639-026-13975-5/tables/6)
+
+**Fig. 2**
+
+![]()[Full size image](/article/10.1007/s10639-026-13975-5/figures/2)
+
+Standardized path coefficients for the UTAUT-2 model predicting PSTs’ adoption intentions of AI-supported GBL environments
+
+Habit emerged as the strongest predictor of BI (β = 0.41, *p* <.001), indicating that PSTs who routinely engage with educational technologies are substantially more inclined to adopt AI-supported GBL. Hedonic motivation also exerted a strong positive effect (β = 0.29, *p* =.004), suggesting that enjoyment and intrinsic engagement play a central role in shaping adoption intentions. Performance expectancy demonstrated a significant positive influence (β = 0.26, *p* =.008), highlighting that PSTs’ perceptions of instructional usefulness and learning enhancement remain critical drivers of adoption.
+
+In addition, effort expectancy (β = 0.19, *p* =.022), social influence (β = 0.15, *p* =.030), facilitating conditions (β = 0.14, *p* =.017), and price value (β = 0.11, *p* =.042) all showed statistically significant but comparatively smaller positive effects on BI. These findings suggest that perceived ease of use, social endorsement, institutional support, and affordability contribute meaningfully to adoption decisions, although their influence is secondary to habitual use, enjoyment, and perceived usefulness.
+
+To evaluate the stability and substantive impact of these relationships, a bootstrapping procedure with 5,000 resamples was conducted to estimate bias-corrected 95% confidence intervals (CIs) and Cohen’s f² effect sizes. All significant paths remained stable within their confidence intervals, indicating robust parameter estimates. Habit exhibited a medium effect size (f² = 0.26, 95% CI [0.19, 0.33]), followed by hedonic motivation (f² = 0.18, 95% CI [0.11, 0.26]) and performance expectancy (f² = 0.16, 95% CI [0.08, 0.23]), both reflecting medium effects. In contrast, social influence (f² = 0.07) and price value (f² = 0.05) demonstrated small but statistically meaningful effects, underscoring their supportive rather than central role in explaining BI.
+
+Collectively, these results indicate that PSTs’ intentions to adopt AI-supported GBL are driven primarily by habitual technology use, intrinsic motivation, and perceived instructional value, while contextual and economic considerations exert more modest influence. Although all UTAUT-2 predictors reached statistical significance, the observed variation in effect sizes highlights the uneven contribution of individual constructs within the adoption process.
+
+From an applied perspective, these findings suggest that initiatives aimed at promoting AI-supported GBL adoption in teacher education should prioritize fostering habitual engagement with educational technologies and enhancing enjoyment and perceived usefulness during training. Institutional efforts that improve usability, peer support, and access to resources may further strengthen adoption intentions, although financial considerations appear to play a comparatively secondary role. While subgroup differences (e.g., by gender or academic year) were not examined in the present analysis, the primary objective was to establish the relative strength of core UTAUT-2 determinants; future research may extend this work by testing moderating effects across demographic or experiential groups.
+
+#### 4.3.2 Results of PMT framework
+
+The SEM analysis based on the PMT framework provided focused insight into the psychological mechanisms underlying PSTs’ intentions to adopt AI-supported GBL under conditions of perceived risk and uncertainty. As involved in Table [7](/article/10.1007/s10639-026-13975-5#Tab7); Fig. [3](/article/10.1007/s10639-026-13975-5#Fig3), all PMT constructs exhibited statistically significant relationships with BI, supporting the theoretical adequacy of PMT for explaining adoption decisions involving emerging and potentially uncertain technologies.
+
+**Table 7 Structural path estimates for the PMT model predicting BI**
+
+[Full size table](/article/10.1007/s10639-026-13975-5/tables/7)
+
+**Fig. 3**
+
+![]()[Full size image](/article/10.1007/s10639-026-13975-5/figures/3)
+
+Standardized path coefficients for the PMT model predicting PSTs’ adoption intentions of AI-supported GBL environments
+
+Among threat appraisal components, perceived severity demonstrated a positive association with BI (β = 0.27, *p* <.05), indicating that PSTs who recognize the instructional and professional risks associated with not adopting advanced digital tools are more inclined to adopt AI-supported GBL. Perceived vulnerability also showed a significant positive effect (β = 0.22, *p* <.05), suggesting that PSTs who feel susceptible to falling behind in technology-enhanced teaching contexts report stronger adoption intentions. Although both constructs were statistically significant, their effects were modest in magnitude, indicating that risk awareness alone is insufficient to drive adoption without accompanying coping resources.
+
+Coping appraisal variables exhibited comparatively stronger effects. Self-efficacy emerged as the most influential PMT predictor (β = 0.32, *p* <.05), underscoring the critical role of PSTs’ confidence in their ability to effectively use AI-supported GBL. Response efficacy also demonstrated a substantial positive association with BI (β = 0.29, *p* <.05), reflecting PSTs’ belief that AI-supported GBL can effectively enhance pedagogical outcomes and mitigate instructional challenges. In contrast, response cost exerted a significant negative effect on BI (β = −0.18, *p* <.05), indicating that perceived barriers—such as time investment, technical complexity, or potential classroom disruption—reduce willingness to adopt AI-supported GBL.
+
+To evaluate the robustness and substantive importance of these relationships, bootstrapping with 5,000 resamples was employed to estimate bias-corrected 95% confidence intervals (CIs) and Cohen’s f² effect sizes. All significant paths remained stable within their confidence intervals, indicating that the observed effects were not sample-specific. Self-efficacy demonstrated the largest effect size (f² = 0.22, 95% CI [0.14, 0.29]), reflecting a medium effect, followed by response efficacy (f² = 0.17, 95% CI [0.10, 0.25]) and perceived severity (f² = 0.15, 95% CI [0.08, 0.22]), both also indicating medium effects. Perceived vulnerability contributed a small but statistically meaningful effect (f² = 0.09), while response cost showed a small negative effect (f² = 0.11), confirming its role as an inhibitory factor.
+
+Collectively, these findings highlight that while threat appraisal processes increase awareness and urgency, coping appraisal mechanisms, particularly self-efficacy and response efficacy, play a more decisive role in shaping PSTs’ adoption intentions. The presence of a significant negative effect for response cost further demonstrates that psychological resistance is not merely the absence of motivation but an active evaluative process involving perceived effort and disruption.
+
+From an applied perspective, these results suggest that promoting AI-supported GBL adoption among PSTs requires more than emphasizing risks associated with non-adoption. Teacher-education programs should prioritize strengthening PSTs’ confidence in their ability to manage AI-based instructional tools and reinforcing the perceived effectiveness of these technologies in real classroom contexts. Simultaneously, reducing perceived response costs through scaffolded training, technical support, and realistic implementation scenarios may mitigate resistance and foster more sustainable adoption. By addressing both threat- and coping-related cognitions, institutions can better support PSTs’ informed and confident engagement with AI-supported GBL.
+
+#### 4.3.3 Results of combined model
+
+Response cost was initially specified in the integrated model alongside other PMT constructs. However, preliminary diagnostics indicated substantial shared variance between response cost and effort expectancy (VIF > 5.0), raising concerns regarding multicollinearity and unstable parameter estimates. To preserve model stability and interpretability, response cost was therefore excluded from the final integrated model. Importantly, the remaining PMT constructs retained significant and independent explanatory power, indicating that protective and coping appraisals continued to contribute meaningfully to adoption intention beyond motivational factors.
+
+The SEM analysis of the integrated model, incorporating both UTAUT-2 and PMT constructs, provides a comprehensive account of the factors shaping PSTs’ intentions to adopt AI-supported GBL. As presented in Table [8](/article/10.1007/s10639-026-13975-5#Tab8) and in Fig. [4](/article/10.1007/s10639-026-13975-5#Fig4), all retained constructs from both frameworks exhibited statistically significant relationships with BI, confirming the complementary contribution of motivational–behavioral and protective–cognitive processes within a single explanatory model.
+
+**Table 8 Structural path estimates for the integrated UTAUT-2–PMT model predicting BI**
+
+[Full size table](/article/10.1007/s10639-026-13975-5/tables/8)
+
+**Fig. 4**
+
+![]()[Full size image](/article/10.1007/s10639-026-13975-5/figures/4)
+
+Structural model results for UTAUT-2, PMT, and integrated models
+
+Within the UTAUT-2 domain, habit remained the most influential predictor of BI (β = 0.32, *p* <.05), underscoring the central role of routinized technology use in sustaining adoption intentions even when psychological risk considerations are accounted for. Hedonic motivation (β = 0.25, *p* <.05) and performance expectancy (β = 0.21, *p* <.05) also demonstrated strong positive effects, indicating that enjoyment and perceived pedagogical value continue to drive adoption in the presence of risk-related appraisals. Effort expectancy (β = 0.14, *p* =.021), social influence (β = 0.13, *p* <.05), facilitating conditions (β = 0.12, *p* <.05), and price value (β = 0.10, *p* <.05) exerted smaller but statistically meaningful effects, suggesting that contextual enablers remain relevant but secondary once habit and intrinsic motivation are established. The attenuation of these effects relative to the standalone UTAUT-2 model likely reflects shared variance with PMT constructs, particularly self-efficacy and response efficacy, which capture overlapping perceptions of capability and instructional support. This pattern indicates a redistribution of explanatory variance across motivational and protective mechanisms rather than suppression, loss of relevance, or model misspecification.
+
+Importantly, PMT constructs retained independent explanatory power in the integrated model. Self-efficacy emerged as the strongest PMT predictor (β = 0.22, *p* <.05), indicating that PSTs’ confidence in their ability to implement AI-supported GBL continues to shape adoption decisions even when motivational drivers are considered. Response efficacy (β = 0.19, *p* <.05) further contributed to BI, reflecting PSTs’ belief that AI-supported GBL can effectively address instructional challenges. Perceived severity (β = 0.18, *p* <.05) and perceived vulnerability (β = 0.16, *p* <.05) also remained significant, though with comparatively smaller effects, suggesting that threat awareness plays a supporting rather than dominant role once coping resources are perceived as adequate.
+
+Bootstrapping with 5,000 resamples was conducted to evaluate the stability and magnitude of these effects. All significant paths remained stable within their bias-corrected 95% confidence intervals. Habit demonstrated the largest effect size (f² = 0.24, 95% CI [0.16, 0.32]), reflecting a medium effect, followed by self-efficacy (f² = 0.20, 95% CI [0.13, 0.27]), hedonic motivation (f² = 0.18, 95% CI [0.10, 0.25]), and performance expectancy (f² = 0.16, 95% CI [0.09, 0.22]), all indicating medium effects. Social influence (f² = 0.07), facilitating conditions (f² = 0.06), and price value (f² = 0.05) yielded small yet statistically meaningful effects, reinforcing their role as contextual facilitators rather than primary drivers.
+
+Among PMT variables, response efficacy (f² = 0.14) and perceived severity (f² = 0.12) exhibited small but meaningful effects, whereas perceived vulnerability contributed a smaller effect (f² = 0.08). Although these effects are modest relative to the strongest predictors, their significance indicates that threat appraisal remains a relevant component of adoption decision-making. However, the comparatively larger effects of coping appraisals suggest that confidence in managing and benefiting from AI-supported GBL plays a more influential role than threat perception alone, particularly when PSTs perceive sufficient institutional and personal support.
+
+Comparison with the standalone models clarifies how the integrated framework reshapes the explanatory structure of behavioral intention. In the UTAUT-2–only model, adoption intention was primarily driven by approach-oriented determinants such as habit, hedonic motivation, and performance expectancy, reflecting value-based and experiential acceptance. In contrast, the PMT-only model emphasized coping-related beliefs—most notably self-efficacy and response efficacy—highlighting the importance of perceived capability under conditions of uncertainty. When combined, these mechanisms do not merely accumulate but reorganize decision dynamics.
+
+In the integrated model, habit, self-efficacy, hedonic motivation, and performance expectancy emerged as the dominant predictors, jointly accounting for the largest share of explained variance. This pattern indicates that PSTs’ adoption intentions are strongest when routinized engagement and intrinsic motivation are reinforced by confidence in coping with AI-supported GBL demands. Contextual and cost-related variables (e.g., social influence, facilitating conditions, price value) retained statistical significance but exhibited attenuated effects, suggesting that their influence becomes secondary once core motivational and coping appraisals are established.
+
+Importantly, perceived severity and vulnerability functioned as background motivational triggers rather than primary drivers in the integrated model. Awareness of pedagogical or professional risks associated with non-adoption appears to support intention formation only when PSTs believe they possess adequate coping resources. Together, these mechanisms explain why the integrated UTAUT-2–PMT model accounted for a substantially larger proportion of variance in behavioral intention (R² = 0.71) than either standalone model. This improvement is not merely statistical but theoretical: the combined framework captures both approach-oriented motivations (habit, enjoyment, perceived usefulness) and avoidance- and coping-oriented evaluations (risk perception and confidence), providing empirical support for a dual decision logic underlying PSTs’ adoption of AI-supported GBL under conditions of uncertainty.
+
+From a practical standpoint, these results indicate that strategies for promoting AI-supported GBL adoption among PSTs should prioritize both motivational engagement and psychological readiness. Teacher education programs should support habit formation and intrinsic engagement while simultaneously strengthening PSTs’ self-efficacy and confidence in managing AI-related instructional risks. Institutional investments in mentoring, targeted training, and supportive norms can further reinforce adoption by reducing uncertainty and perceived barriers. Addressing these motivational and coping mechanisms in tandem is likely to foster more sustainable, confident, and pedagogically grounded engagement with AI-supported GBL.
+
+5 Discussion
+------------
+
+This study demonstrates that PSTs’ intentions to adopt AI-supported GBL are shaped by a dual appraisal process rather than by a single motivational pathway. Adoption intention emerges from the joint influence of approach-oriented motivations (e.g., perceived value, enjoyment, routinized engagement) and protective appraisals related to perceived risk and coping capacity. This finding contributes to AI adoption literature by explaining why motivational readiness alone often fails to translate into intention in AI-mediated educational contexts characterized by pedagogical uncertainty, consistent with cognitive appraisal theories emphasizing concurrent evaluation of anticipated gains and perceived threats (Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR84); Lazarus, [1991](/article/10.1007/s10639-026-13975-5#ref-CR63)).
+
+From a UTAUT-2 perspective, the strong effects of habit, hedonic motivation, and performance expectancy reflect an approach-oriented logic in which repeated technology engagement, intrinsic enjoyment, and anticipated instructional benefits foster openness toward AI-supported GBL. Habit emerged as the most influential predictor, supporting UTAUT-2’s proposition that routinization shifts adoption from deliberative evaluation to automatic readiness (Venkatesh et al., [2012](/article/10.1007/s10639-026-13975-5#ref-CR97)). However, given PSTs’ limited direct experience with AI-supported GBL, habit likely reflects general digital pedagogical routines or emerging professional identity rather than AI-specific automaticity. This interpretation extends prior UTAUT-2 research by suggesting that habit in teacher education may function as a proxy for normalized digital teaching practice rather than repeated use of a specific technology.
+
+Hedonic motivation and performance expectancy further indicate that AI-supported GBL adoption is driven by instrumental–experiential alignment, whereby perceived instructional utility and intrinsic enjoyment jointly shape adoption judgments (Venkatesh et al., [2012](/article/10.1007/s10639-026-13975-5#ref-CR97)). In GBL contexts, enjoyment is not merely affective but signals perceived pedagogical compatibility between game-based design and instructional goals. Importantly, the influence of hedonic motivation suggests a potential pathway through which teachers’ affective orientations may shape instructional enactment quality—a theoretical implication that warrants direct empirical testing rather than causal inference.
+
+Motivational drivers alone, however, were insufficient to explain adoption intention. PMT constructs—particularly self-efficacy and response efficacy—clarify the psychological conditions under which motivation translates into intention. PSTs who believed they could competently implement AI-supported GBL and who perceived such tools as instructionally effective were significantly more likely to intend adoption. This finding extends prior AI adoption research by demonstrating that coping appraisal operates as a translation mechanism between perceived value and behavioral intention under conditions of uncertainty, as theorized in Protection Motivation Theory (Maddux & Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR72); Floyd et al., [2000](/article/10.1007/s10639-026-13975-5#ref-CR45)). Conversely, response cost constrained adoption, highlighting how perceived effort and implementation burden can suppress intention even when motivation is high.
+
+The role of threat appraisal further refines PMT’s application in educational technology research. Perceived severity and vulnerability did not function as deterrents but as conditional motivators: awareness of pedagogical or professional risks associated with non-adoption increased intention only when PSTs perceived sufficient coping resources. In AI-supported GBL, these risks extend beyond general AI concerns to game-specific issues such as classroom control, curricular alignment, and instructional legitimacy. This pattern supports PMT’s core claim that threat appraisal promotes adaptive behavior only under favorable coping conditions (Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR84); Floyd et al., [2000](/article/10.1007/s10639-026-13975-5#ref-CR45)) and helps explain inconsistent findings in prior risk-focused AI adoption studies.
+
+Taken together, the findings show that AI-supported GBL adoption among PSTs is governed by a dual decision logic. Habitual engagement and intrinsic motivation create readiness for adoption, while coping appraisals determine whether this readiness can be enacted under perceived risk. Threat perceptions play a secondary, enabling role by increasing the salience of coping resources rather than directly driving or suppressing intention, consistent with PMT’s conditional threat hypothesis. This integrated explanation advances the literature by moving beyond benefit-only or risk-only models and offering a mechanism-based account of adoption in AI-mediated pedagogy.
+
+Finally, the findings reflect self-reported perceptions of PSTs in Turkish public universities and should be interpreted within this institutional context. Program structure, curriculum emphasis on digital competence, and national policy frameworks may shape the relative salience of motivational and protective factors. Some constructs—particularly habit—may also partially reflect self-presentation tendencies in a population where technological competence is professionally valued. Although procedural safeguards were implemented, future research should validate these mechanisms using longitudinal designs, behavioral indicators, and cross-cultural samples to assess their robustness across educational systems and career stages.
+
+### 5.1 Theoretical implications
+
+This study advances technology adoption theory by demonstrating that adoption of AI-supported GBL in teacher education is governed by a dual cognitive appraisal mechanism, in which approach-oriented motivational processes and avoidance-oriented protective processes operate jointly rather than independently. While prior research has typically examined UTAUT-2 or PMT in isolation, the present findings show that neither framework alone sufficiently explains adoption intention in AI-mediated pedagogical contexts characterized by uncertainty, complexity, and perceived instructional risk. Instead, adoption decisions reflect a coordinated evaluation of anticipated pedagogical value and perceived capacity to manage risk, consistent with broader cognitive appraisal theories of decision-making under uncertainty (Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR84); Maddux & Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR72); Lazarus, [1991](/article/10.1007/s10639-026-13975-5#ref-CR63)).
+
+A central theoretical contribution lies in clarifying how and when motivational drivers translate into behavioral intention. UTAUT-2 effectively explains why AI-supported GBL appears attractive—through perceived usefulness, intrinsic enjoyment, and routinized engagement—but provides limited insight into why such motivation does not always result in adoption. The present findings indicate that PMT fills this explanatory gap by modeling coping appraisal as a translation mechanism between motivation and intention. Specifically, self-efficacy and response efficacy condition whether perceived value and enjoyment culminate in adoption intention. This mechanism helps explain inconsistencies reported in prior AI-in-education studies that rely solely on motivational acceptance models (Venkatesh et al., [2012](/article/10.1007/s10639-026-13975-5#ref-CR97); Selwyn, [2019](/article/10.1007/s10639-026-13975-5#ref-CR86)) and extends recent calls to incorporate risk and uncertainty into technology acceptance research (Zawacki-Richter et al., [2019](/article/10.1007/s10639-026-13975-5#ref-CR106)).
+
+The prominence of habit further extends UTAUT-2 theory by suggesting that, in teacher education contexts, habit reflects more than repeated behavior. Given that most participants reported limited direct experience with AI-supported GBL, habit likely captures general digital pedagogical routinization and emerging professional identity rather than AI-specific automaticity. This interpretation aligns with sociocognitive perspectives emphasizing that repeated exposure during professional preparation normalizes technology use and shifts adoption from deliberative evaluation toward identity-consistent practice (Bandura, [1986](/article/10.1007/s10639-026-13975-5#ref-CR24); Du & Liang, [2024](/article/10.1007/s10639-026-13975-5#ref-CR39)). The finding therefore refines the conceptualization of habit by situating it within professional socialization processes, rather than equating it solely with frequency of prior use.
+
+Equally important is the role of self-efficacy, which emerged as the strongest protective predictor and a key point of integration between UTAUT-2 and PMT. While effort expectancy and facilitating conditions capture perceptions of system usability and external support, self-efficacy reflects internal beliefs about instructional control under uncertainty. The persistence of self-efficacy’s effect in the integrated model confirms PMT’s theoretical claim that coping appraisal exerts an independent influence on intention formation (Maddux & Rogers, [1983](/article/10.1007/s10639-026-13975-5#ref-CR72)). This finding extends AI adoption research by demonstrating that confidence in managing pedagogical and technical uncertainty—not merely perceived ease of use—is central to adoption decisions involving AI-supported instructional automation, consistent with recent AI-in-education studies (Cheng et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR32); Ogegbo et al., [2024](/article/10.1007/s10639-026-13975-5#ref-CR78); Yildiz & Arpaci, [2024](/article/10.1007/s10639-026-13975-5#ref-CR104)).
+
+The behavior of threat appraisal variables (perceived severity and vulnerability) offers further theoretical insight. Contrary to assumptions that perceived risk uniformly deters adoption, the findings indicate that threat awareness can function as a motivational trigger when coping resources are perceived as sufficient. In AI-supported GBL contexts, such threats extend beyond abstract AI concerns to include risks specific to game-based pedagogy, such as classroom control, curricular alignment, and instructional legitimacy. This conditional role of threat appraisal aligns with PMT’s core proposition that perceived threat promotes adaptive behavior only under favorable coping conditions (Floyd et al., [2000](/article/10.1007/s10639-026-13975-5#ref-CR45)) and helps reconcile mixed findings in prior studies regarding the role of perceived risk in educational technology adoption (Alam et al., [2025](/article/10.1007/s10639-026-13975-5#ref-CR9); Japalaghi et al., [2025](/article/10.1007/s10639-026-13975-5#ref-CR56)).
+
+The attenuation of contextual variables (social influence, facilitating conditions, price value) in the integrated model further underscores the theoretical value of integration. Once core motivational and coping appraisals are accounted for, external enablers play a secondary role, suggesting that adoption in AI-supported GBL is primarily psychologically grounded rather than structurally driven within relatively homogeneous teacher education environments. This finding refines UTAUT-2 by indicating that contextual determinants may be most influential during early exposure phases but diminish in importance once habit formation and coping confidence are established.
+
+Collectively, these findings contribute three novel insights to the literature. First, they demonstrate that AI-supported GBL adoption reflects a dual appraisal process, rather than a purely benefit-driven or risk-driven decision. Second, they identify coping appraisal as the mechanism linking motivation to intention in AI-mediated educational contexts. Third, they refine the interpretation of habit and threat appraisal by situating them within professional identity formation and adaptive risk management, respectively.
+
+At the same time, the integrated framework remains primarily individual-centric, highlighting a limitation shared by both UTAUT-2 and PMT. Socially embedded processes—such as communities of practice, institutional culture, and collaborative sense-making—are not explicitly modeled, despite evidence that technology adoption in education is co-constructed through collective practice (Wenger, [1998](/article/10.1007/s10639-026-13975-5#ref-CR101); Ketelaar et al., [2012](/article/10.1007/s10639-026-13975-5#ref-CR58)). Future theoretical extensions should therefore incorporate organizational and sociocultural moderators to complement the psychologically grounded mechanisms identified in this study.
+
+Finally, while the dual-process mechanism appears theoretically robust, the relative strength of specific predictors is likely context-sensitive. The observed configuration reflects PSTs operating within Turkish public universities characterized by centralized governance and structured digital competence curricula. Cross-cultural and longitudinal research is required to determine how institutional design and professional socialization trajectories shape the balance between motivational and protective appraisals across educational systems.
+
+### 5.2 Practical implications
+
+The findings of this study offer several practical implications for teacher education faculties, policymakers, institutional support units, and educational technology providers seeking to promote the adoption of AI-supported GBL among PSTs. These implications are directly grounded in the strongest predictors identified in the integrated model and emphasize feasible actions within authentic teacher education settings. These recommendations should be interpreted in light of institutional resource constraints. In resource-limited contexts, self-efficacy–focused interventions—such as peer mentoring, low-cost simulations, and guided practice—may represent more feasible entry points than large-scale infrastructure investments. Prioritizing confidence-building strategies before system-wide implementation may support gradual and sustainable adoption. Rather than proposing broad or aspirational recommendations, the discussion below focuses on implementable strategies that target the specific motivational and protective mechanisms shaping adoption intentions.
+
+First, the dominant role of habit suggests that AI-supported GBL adoption is most effectively fostered through repeated and routine use rather than isolated training experiences. Teacher education faculties should therefore embed low-stakes AI-supported GBL activities across multiple core courses, including instructional methods, educational technology, and practicum seminars. Requiring PSTs to design, adapt, and reflect on AI-supported GBL lessons in several courses can normalize technology use and promote automaticity, consistent with UTAUT-2’s emphasis on habitual behavior as a driver of sustained adoption. Importantly, such integration can be achieved through curricular coordination without requiring substantial new infrastructure.
+
+Second, the strong influence of self-efficacy highlights the importance of providing PSTs with structured mastery experiences that build confidence in their ability to implement AI-supported GBL effectively. Teacher education programs should incorporate a scaffolded practicum component in which PSTs receive guided onboarding to AI-supported GBL tools, engage in microteaching activities with peer and instructor feedback, and participate in supervised classroom or simulated implementations followed by reflective discussion. These experiences directly address PMT’s coping appraisal process by enhancing perceived competence and reducing uncertainty, thereby strengthening adoption intentions.
+
+Third, the significant effects of hedonic motivation and performance expectancy indicate that AI-supported GBL environments must be perceived as both enjoyable and pedagogically valuable. Teacher educators and educational technology developers should collaborate to produce ready-to-use AI-supported GBL lesson materials that are aligned with curriculum outcomes and age-appropriate pedagogical goals. Demonstrating clear instructional benefits alongside engaging, game-based elements can reinforce both intrinsic enjoyment and perceived usefulness, increasing the likelihood that PSTs view AI-supported GBL as a meaningful addition to their future teaching practice rather than an experimental novelty.
+
+The negative effect of response cost further underscores the need to minimize perceived barriers related to time, effort, and technical complexity. Universities and faculty support units can address this by providing pre-built lesson templates, simplified onboarding guides, and short troubleshooting resources that reduce preparation demands. In addition, offering rapid-response technical support during practicum periods can alleviate anxiety associated with implementation challenges. By lowering response costs, institutions can directly counter avoidance-oriented appraisals emphasized in PMT and make adoption more sustainable under realistic workload conditions.
+
+Although social influence and facilitating conditions demonstrated smaller effects in the integrated model, they remain relevant contextual enablers of adoption. Teacher education faculties can strengthen these factors by establishing informal peer mentoring structures in which digitally confident PSTs support their peers in lesson planning and classroom implementation. Such peer-based support fosters collaborative learning and shared problem-solving without relying solely on top-down institutional pressure, aligning with the increasingly self-directed technology engagement patterns observed among contemporary PSTs.
+
+At the policy level, the findings suggest that national education authorities and accreditation bodies can play a critical role in legitimizing AI-supported GBL adoption by explicitly incorporating related competencies into teacher education standards and practicum requirements. In the Turkish context, aligning AI-supported GBL with national teacher competency frameworks and providing centralized repositories of approved instructional resources could ensure equitable access and consistent implementation across institutions. Such policy alignment may also reduce uncertainty and enhance perceived institutional support, indirectly reinforcing adoption intentions.
+
+### 5.3 Limitations and suggestions for future studies
+
+Despite the theoretical and empirical contributions of this study, several limitations should be acknowledged to contextualize the findings and delineate appropriate directions for future research.
+
+First, the study relied on self-reported behavioral intention rather than observed implementation behavior. Although behavioral intention is a central construct in technology adoption research, it represents an imperfect proxy for actual use. Meta-analytic evidence indicates that intentions typically account for only a limited proportion of subsequent behavior variance in technology adoption contexts, underscoring the well-documented intention–behavior gap. Consequently, while the present findings clarify motivational and protective determinants of adoption intention, they do not guarantee sustained or effective classroom use of AI-supported GBL. Future studies should therefore incorporate observational designs, system log data, or classroom-based usage indicators to examine how intentions translate into enacted pedagogical practice.
+
+Second, the sampling context constrains the generalizability of the findings. Participants were predominantly drawn from public universities located in urban regions, many of which operate under centralized public funding models and possess relatively established educational technology infrastructure and curriculum-level digital competence requirements. These contextual features may limit transferability to rural institutions, under-resourced universities, private higher education settings, or alternative teacher preparation pathways where access to digital tools, institutional support, and pedagogical norms may differ substantially. Future research should employ stratified or multi-site sampling designs to capture institutional, regional, and infrastructural diversity.
+
+Third, the cross-sectional design restricts causal inference and introduces temporal ambiguity among key constructs. Specifically, it cannot be determined whether habitual technology engagement precedes and strengthens adoption intention, whether strong intention motivates repeated engagement that subsequently becomes habitual, or whether a bidirectional reinforcement process operates over time. Disentangling these competing explanations requires longitudinal panel designs, cross-lagged modeling, or experience-sampling approaches capable of capturing dynamic adoption processes across developmental stages of technology use.
+
+Fourth, although the sample size was adequate for structural equation modeling, subgroup or multi-group analyses (e.g., by gender, academic year, or prior AI exposure) were not conducted. This was an intentional design decision aimed at establishing baseline model validity and main-effect stability for the integrated UTAUT-2–PMT framework. Examination of moderation effects requires theoretically specified subgroup hypotheses and balanced group sizes, and is therefore positioned as a second-phase research objective rather than an omitted analysis. Future studies should explicitly test whether the integrated model operates equivalently across demographic, experiential, or institutional subgroups.
+
+Fifth, the study treated AI-supported GBL as a unified construct, without differentiating among specific AI affordances embedded within game-based environments, such as adaptive difficulty adjustment, intelligent tutoring, generative feedback, learning analytics dashboards, or automated assessment. These AI-enabled features may differentially activate motivational (UTAUT-2) and protective (PMT) mechanisms within game-based instruction. For example, adaptive game systems may strengthen coping appraisals by reducing uncertainty and cognitive load, whereas generative feedback or AI-driven content creation may simultaneously enhance performance expectancy and increase perceived risk related to pedagogical control or instructional alignment. Disaggregating AI functionalities within GBL environments represents an important next step for refining theory and improving explanatory precision.
+
+Building on these limitations, future research directions can be organized into immediate priorities and longer-term extensions to support cumulative and feasible theory development. Immediate priorities include (a) longitudinal validation linking adoption intention to observed classroom implementation, (b) cross-cultural and cross-institutional replication to test boundary conditions of the integrated framework, and (c) experimental or quasi-experimental intervention studies targeting self-efficacy enhancement and response cost reduction to establish causal mechanisms. Longer-term extensions should focus on (d) disaggregating AI-supported GBL into specific technological affordances, (e) incorporating organizational and social-contextual moderators such as institutional culture or communities of practice, and (f) examining emerging ethical and governance-related considerations—including data privacy, algorithmic transparency, and professional accountability—that are likely to reshape teachers’ adoption decisions as AI technologies evolve.
+
+**Together**, **addressing these limitations and priorities will strengthen the explanatory reach**, **causal validity**, **and practical relevance of research on AI-supported GBL adoption in teacher education.**
+
+6 Conclusion
+------------
+
+This study is the first to demonstrate that protective appraisals derived from PMT explain unique variance in AI-supported GBL adoption beyond motivational determinants specified in UTAUT-2. Specifically, integrating coping and threat-related mechanisms increased explanatory power by 11% over the standalone UTAUT-2 model, revealing that awareness of technological and professional risk contributes to adoption intention when accompanied by strong coping confidence. These findings indicate that AI-related technology adoption in teacher education is not solely benefit-driven but reflects a dual-process mechanism in which approach-oriented motivations and protective appraisals operate jointly.
+
+Theoretically, the study advances adoption research by moving beyond parallel model comparisons toward mechanism-based integration. While UTAUT-2 explains openness to AI-supported GBL through perceived value, enjoyment, and routinized engagement, PMT clarifies the psychological conditions under which such motivation translates into intention—namely, when educators believe they can competently manage AI-related uncertainty and instructional demands. This combined perspective contributes to technology acceptance theory by showing that threat awareness does not necessarily deter adoption; rather, under high coping appraisal conditions, it can function as a motivational catalyst. Although the specific ranking of predictors may vary across institutional and cultural contexts, the dual-process mechanism whereby motivational and protective factors jointly shape adoption appears theoretically robust.
+
+At the same time, the empirical results are context-sensitive. The sample consisted of PSTs enrolled in urban public universities operating within centralized funding structures and established digital competence curricula. In settings characterized by limited infrastructure, decentralized governance, or differing professional norms, the relative salience of habit, efficacy beliefs, or contextual enablers may shift. Thus, while the integrated explanatory mechanism is likely generalizable at a theoretical level, its empirical configuration may vary across institutional environments.
+
+Future research should pursue longitudinal validation linking intention to observed classroom implementation, cross-cultural and cross-institutional replication, theoretically grounded subgroup moderation analyses, disaggregation of AI affordances (e.g., adaptive systems, intelligent tutoring, generative tools), and intervention studies targeting self-efficacy development and habit formation. Such work will refine causal understanding and clarify how specific AI features activate motivational and protective processes differently.
+
+Beyond theoretical contribution, this study offers applied guidance for teacher education and policy. The findings provide evidence-based direction for designing interventions that simultaneously enhance perceived pedagogical value and reduce perceived risk. Researchers should extend this integrated framework across diverse contexts and AI types, while teacher education programs should prioritize scaffolded, repeated AI-supported GBL experiences that build both competence and confidence. By addressing both motivational incentives and coping resources, institutions can foster more sustainable and psychologically grounded engagement with AI-mediated instructional innovation.
+
+
+
+Data availability
+-----------------
+
+The datasets generated and analyzed during the current study are available from the corresponding author upon reasonable request.
+
+References
+----------
+
+* Aini, Q., Manongga, D., Rahardja, U., Sembiring, I., & Li, Y. M. (2024). Understanding behavioral intention to use of air quality monitoring solutions with emphasis on technology readiness. *International Journal of Human–Computer Interaction*, 1–21.
+* Airaj, M. (2024). Ethical artificial intelligence for teaching-learning in higher education. *Education and Information Technologies,* *29*, 17145–17167.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-024-12545-x) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Ethical%20artificial%20intelligence%20for%20teaching-learning%20in%20higher%20education&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-12545-x&volume=29&pages=17145-17167&publication_year=2024&author=Airaj%2CM)
+* Al Darayseh, A. (2023). Acceptance of artificial intelligence in teaching science: Science teachers’ perspective. *Computers and Education: Artificial Intelligence,* *4*, Article 100132.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Acceptance%20of%20artificial%20intelligence%20in%20teaching%20science%3A%20Science%20teachers%27%20perspective&journal=Computers%20and%20Education%3A%20Artificial%20Intelligence&volume=4&publication_year=2023&author=Al%20Darayseh%2CA)
+* Al-Zahrani, A. M., & Alasmari, T. M. (2024). Exploring the impact of artificial intelligence on higher education: The dynamics of ethical, social, and educational implications. *Humanities and Social Sciences Communications,* *11*(1), 1–12.
+  
+  [Article](https://doi.org/10.1057%2Fs41599-024-03432-4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20the%20impact%20of%20artificial%20intelligence%20on%20higher%20education%3A%20The%20dynamics%20of%20ethical%2C%20social%2C%20and%20educational%20implications&journal=Humanities%20and%20Social%20Sciences%20Communications&doi=10.1057%2Fs41599-024-03432-4&volume=11&issue=1&pages=1-12&publication_year=2024&author=Al-Zahrani%2CAM&author=Alasmari%2CTM)
+* Alam, S. S., Ahsan, N., Kokash, H. A., Alam, S., & Ahmed, S. (2025). A students’ behaviors in information security: Extension of Protection Motivation Theory (PMT). *Information Security Journal: A Global Perspective,* *34*(3), 191–213. <https://doi.org/10.1080/19393555.2024.2408264>
+  
+  [Article](https://doi.org/10.1080%2F19393555.2024.2408264) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20students%E2%80%99%20behaviors%20in%20information%20security%3A%20Extension%20of%20Protection%20Motivation%20Theory%20%28PMT%29&journal=Information%20Security%20Journal%3A%20A%20Global%20Perspective&doi=10.1080%2F19393555.2024.2408264&volume=34&issue=3&pages=191-213&publication_year=2025&author=Alam%2CSS&author=Ahsan%2CN&author=Kokash%2CHA&author=Alam%2CS&author=Ahmed%2CS)
+* Alhwaiti, M. (2023). Acceptance of artificial intelligence application in the post-covid ERA and its impact on faculty members’ occupational well-being and teaching self efficacy: A path analysis using the UTAUT 2 model. *Applied Artificial Intelligence,* *37*(1), Article 2175110.
+  
+  [Article](https://doi.org/10.1080%2F08839514.2023.2175110) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Acceptance%20of%20artificial%20intelligence%20application%20in%20the%20post-covid%20ERA%20and%20its%20impact%20on%20faculty%20members%E2%80%99%20occupational%20well-being%20and%20teaching%20self%20efficacy%3A%20A%20path%20analysis%20using%20the%20UTAUT%202%20model&journal=Applied%20Artificial%20Intelligence&doi=10.1080%2F08839514.2023.2175110&volume=37&issue=1&publication_year=2023&author=Alhwaiti%2CM)
+* Alotaibi, M. S. (2024). Game-based learning in early childhood education: A systematic review and meta-analysis. *Frontiers in psychology,* *15*, Article 1307881.
+  
+  [Article](https://doi.org/10.3389%2Ffpsyg.2024.1307881) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Game-based%20learning%20in%20early%20childhood%20education%3A%20A%20systematic%20review%20and%20meta-analysis&journal=Frontiers%20in%20psychology&doi=10.3389%2Ffpsyg.2024.1307881&volume=15&publication_year=2024&author=Alotaibi%2CMS)
+* Anderson, J. C., & Gerbing, D. W. (1992). Assumptions and comparative strengths of the two-step approach: Comment on Fornell and Yi. *Sociological Methods & Research,* *20*(3), 321–333.
+  
+  [Article](https://doi.org/10.1177%2F0049124192020003002) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assumptions%20and%20comparative%20strengths%20of%20the%20two-step%20approach%3A%20Comment%20on%20Fornell%20and%20Yi&journal=Sociological%20Methods%20%26%20Research&doi=10.1177%2F0049124192020003002&volume=20&issue=3&pages=321-333&publication_year=1992&author=Anderson%2CJC&author=Gerbing%2CDW)
+* Asad, M. M., Younas, S., & Sherwani, F. (2024). Enhancing inquiry-based pedagogical practices in digital game-based learning with artificial intelligence-driven natural language processing: Challenges and implementation strategies from a global perspective. In M. D. Lytras, A. C. Serban, A. Alkhaldi, S. Malik, & T. Aldosemani (Eds.), *Digital transformation in higher education: Part A* (*Emerald studies in active and transformative learning in higher education*, pp. 65–81). Emerald Publishing Limited. <https://doi.org/10.1108/978-1-83549-480-620241004>
+* Ateş, H., & Polat, M. (2025). Exploring adoption of humanoid robots in education: UTAUT-2 and TOE models for science teachers. *Education and Information Technologies*, 1–42.
+* Ateş, H., & Kölemen, C. Ş. (2025). Integrating theories for insight: An amalgamated model for gamified virtual reality adoption by science teachers. *Education and Information Technologies,* *30*, 2123–2153.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-024-12892-9) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrating%20theories%20for%20insight%3A%20An%20amalgamated%20model%20for%20gamified%20virtual%20reality%20adoption%20by%20science%20teachers&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-12892-9&volume=30&pages=2123-2153&publication_year=2025&author=Ate%C5%9F%2CH&author=K%C3%B6lemen%2CC%C5%9E)
+* Ateş, H., & Gündüzalp, C. (2025a). The convergence of GETAMEL and protection motivation theory: A study on augmented reality-based gamification adoption among science teachers. *Education and Information Technologies*, 1–43.
+* Ateş, H. (2025). Integrating augmented reality into intelligent tutoring systems to enhance science education outcomes. *Education and Information Technologies,* *30*(4), 4435–4470.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-024-12970-y) 
+  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=3499836) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrating%20augmented%20reality%20into%20intelligent%20tutoring%20systems%20to%20enhance%20science%20education%20outcomes&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-12970-y&volume=30&issue=4&pages=4435-4470&publication_year=2025&author=Ate%C5%9F%2CH)
+* Ateş, H., & Gündüzalp, C. (2025b). Proposing a conceptual model for the adoption of artificial intelligence by teachers in STEM education. *Interactive Learning Environments*, 1–27.
+* Ateş, H., & Garzón, J. (2023). An integrated model for examining teachers’ intentions to use augmented reality in science courses. *Education and Information Technologies,* *28*(2), 1299–1321.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-022-11239-6) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20integrated%20model%20for%20examining%20teachers%E2%80%99%20intentions%20to%20use%20augmented%20reality%20in%20science%20courses&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-022-11239-6&volume=28&issue=2&pages=1299-1321&publication_year=2023&author=Ate%C5%9F%2CH&author=Garz%C3%B3n%2CJ)
+* Ayanwale, M. A., Frimpong, E. K., Opesemowo, O. A. G., & Sanusi, I. T. (2024). Exploring factors that support pre-service teachers’ engagement in learning artificial intelligence. *Journal for STEM Education Research*, 1–31.
+* Balla, J., & Hagger, M. S. (2025). Protection motivation theory and health behaviour: Conceptual review, discussion of limitations, and recommendations for best practice and future research. *Health Psychology Review,* *19*(1), 145–171.
+  
+  [Article](https://doi.org/10.1080%2F17437199.2024.2413011) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Protection%20motivation%20theory%20and%20health%20behaviour%3A%20Conceptual%20review%2C%20discussion%20of%20limitations%2C%20and%20recommendations%20for%20best%20practice%20and%20future%20research&journal=Health%20Psychology%20Review&doi=10.1080%2F17437199.2024.2413011&volume=19&issue=1&pages=145-171&publication_year=2025&author=Balla%2CJ&author=Hagger%2CMS)
+* Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice-Hall.
+* Bekkers, L., van’t Hoff-De Goede, S., Misana-ter Huurne, E., van Houten, Y., Spithoven, R., & Leukfeldt, E. R. (2023). Protecting your business against ransomware attacks? Explaining the motivations of entrepreneurs to take future protective measures against cybercrimes using an extended protection motivation theory model. *Computers & Security,* *127*, Article 103099.
+  
+  [Article](https://doi.org/10.1016%2Fj.cose.2023.103099) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Protecting%20your%20business%20against%20ransomware%20attacks%3F%20Explaining%20the%20motivations%20of%20entrepreneurs%20to%20take%20future%20protective%20measures%20against%20cybercrimes%20using%20an%20extended%20protection%20motivation%20theory%20model&journal=Computers%20%26%20Security&doi=10.1016%2Fj.cose.2023.103099&volume=127&publication_year=2023&author=Bekkers%2CL&author=Hoff-De%20Goede%2CS&author=Misana-ter%20Huurne%2CE&author=Houten%2CY&author=Spithoven%2CR&author=Leukfeldt%2CER)
+* Boerman, S. C., Kruikemeier, S., & Zuiderveen Borgesius, F. J. (2021). Exploring motivations for online privacy protection behavior: Insights from panel data. *Communication Research,* *48*(7), 953–977.
+  
+  [Article](https://doi.org/10.1177%2F0093650218800915) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20motivations%20for%20online%20privacy%20protection%20behavior%3A%20Insights%20from%20panel%20data&journal=Communication%20Research&doi=10.1177%2F0093650218800915&volume=48&issue=7&pages=953-977&publication_year=2021&author=Boerman%2CSC&author=Kruikemeier%2CS&author=Zuiderveen%20Borgesius%2CFJ)
+* Cabellos, B., Siddiq, F., & Scherer, R. (2024). The moderating role of school facilitating conditions and attitudes towards ICT on teachers’ ICT use and emphasis on developing students’ digital skills. *Computers in Human Behavior,* Article 107994.
+* Chang, H. H., Wong, K. H., & Lee, H. C. (2022). Peer privacy protection motivation and action on social networking sites: Privacy self-efficacy and information security as moderators. *Electronic Commerce Research and Applications,* Article 101176.
+* Chen, C. H., & Chang, C. L. (2024). Effectiveness of AI-assisted game-based learning on science learning outcomes, intrinsic motivation, cognitive load, and learning behavior. *Education and Information Technologies,* (14), 18621–18642.
+* Cheng, J., Hall, J. A., Wang, Q., & Lei, J. (2024). More than high, medium, and low: Pre-service teacher TPACK profiles and intentions to teach with technology. *Education and Information Technologies,* 24387–24413.
+* Cheng, Y. W., Chen, C. H., & Chen, N. S. (2025). Adopting maker education: a comparative analysis of intentions between in-service and pre-service stem teachers. *International Journal of Science and Mathematics Education*, 1–27.
+* Dodge, C. E., Fisk, N., Burruss, G. W., Moule Jr, R. K., & Jaynes, C. M. (2023). What motivates users to adopt cybersecurity practices? A survey experiment assessing protection motivation theory. *Criminology & Public Policy*, *22*(4), 849–868.
+* Du, W., & Liang, R. Y. (2024). Teachers’ continued VR technology usage intention: An application of the UTAUT2 model. *Sage Open*, *14*(1), 21582440231220112.
+* Dyulicheva, Y. Y., & Glazieva, A. O. (2021). Game-based learning with artificial intelligence and immersive technologies: An overview. *In Proceedings of the 4th International Workshop on Computer Science & Software Engineering (CS&SE@SW)* (pp. 146–159). CEUR-WS. <https://ceur-ws.org/Vol-3077/paper05.pdf>
+* Ermekbaeva, I., & Kang, S. (2024). What encourages pro-environmental behavior by tourists? Insights from the protection motivation theory. *Environment, Development and Sustainability*, 1-19. <https://doi.org/10.1007/s10668-024-05419-2>
+* Esiyok, E., Gokcearslan, S., & Kucukergin, K. G. (2025). Acceptance of educational use of AI chatbots in the context of self-directed learning with technology and ICT self-efficacy of undergraduate students. *International Journal of Human–Computer Interaction*, *41*(1), 641–650.
+* Evju, T. D. (2024). *Predicting student performance in game-based learning with artificial intelligence ensemble pipelines* [Master’s thesis, Norwegian University of Science and Technology]. NTNU Open. <https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3157626/no.ntnu%3Ainspera%3A178456246%3A131520603.pdf?sequence=1>
+* Floyd, D. L., Prentice-Dunn, S., & Rogers, R. W. (2000). A meta‐analysis of research on protection motivation theory. *Journal of Applied Social Psychology,* *30*(2), 407–429. <https://doi.org/10.1111/j.1559-1816.2000.tb02323.x>
+  
+  [Article](https://doi.org/10.1111%2Fj.1559-1816.2000.tb02323.x) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20meta%E2%80%90analysis%20of%20research%20on%20protection%20motivation%20theory&journal=Journal%20of%20Applied%20Social%20Psychology&doi=10.1111%2Fj.1559-1816.2000.tb02323.x&volume=30&issue=2&pages=407-429&publication_year=2000&author=Floyd%2CDL&author=Prentice-Dunn%2CS&author=Rogers%2CRW)
+* Gryson, T., Strubbe, K., Valcke, T., & Vanderlinde, R. (2024). Enhancing teachers’ interdisciplinary Professional Development through Teacher Design teams: Exploring facilitating conditions and sustainability. *Education Sciences,* *14*(4), 425.
+  
+  [Article](https://doi.org/10.3390%2Feducsci14040425) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Enhancing%20teachers%E2%80%99%20interdisciplinary%20Professional%20Development%20through%20Teacher%20Design%20teams%3A%20Exploring%20facilitating%20conditions%20and%20sustainability&journal=Education%20Sciences&doi=10.3390%2Feducsci14040425&volume=14&issue=4&publication_year=2024&author=Gryson%2CT&author=Strubbe%2CK&author=Valcke%2CT&author=Vanderlinde%2CR)
+* Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2019). A Primer on Partial Least Squares Structural Equation Modeling (PLS-SEM) (2nd ed.). Sage Publications.
+* Huang, S. H., & Hsu, T.-C. (2024). Learning effectiveness and reflections on AI literacy in junior high school students with game-based learning and problem-based learning. In A. Kashihara (Ed.), *Proceedings of the 32nd International Conference on Computers in Education* (pp. 1–10). Asia-Pacific Society for Computers in Education.
+* Japalaghi, Z., Bahrami, A., Beiranvand, R., Soltaninejad, H., Varseh, M., & Sharifi, N. (2025). The effect of educational intervention based on protection motivation theory in improving reproductive health protective behaviors: A quasi-experimental study. *BMC Women’s Health,* *25*, 1–10. <https://doi.org/10.1186/s12905-025-03680-9>
+  
+  [Article](https://link.springer.com/doi/10.1186/s12905-025-03680-9) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effect%20of%20educational%20intervention%20based%20on%20protection%20motivation%20theory%20in%20improving%20reproductive%20health%20protective%20behaviors%3A%20A%20quasi-experimental%20study&journal=BMC%20Women%27s%20Health&doi=10.1186%2Fs12905-025-03680-9&volume=25&pages=1-10&publication_year=2025&author=Japalaghi%2CZ&author=Bahrami%2CA&author=Beiranvand%2CR&author=Soltaninejad%2CH&author=Varseh%2CM&author=Sharifi%2CN)
+* Jia, X. H., & Tu, J. C. (2024). Towards a new conceptual model of AI-enhanced learning for college students: The roles of artificial intelligence capabilities, general self-efficacy, learning motivation, and critical thinking awareness. *Systems,* *12*(3), 74.
+  
+  [Article](https://doi.org/10.3390%2Fsystems12030074) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20a%20new%20conceptual%20model%20of%20AI-enhanced%20learning%20for%20college%20students%3A%20The%20roles%20of%20artificial%20intelligence%20capabilities%2C%20general%20self-efficacy%2C%20learning%20motivation%2C%20and%20critical%20thinking%20awareness&journal=Systems&doi=10.3390%2Fsystems12030074&volume=12&issue=3&publication_year=2024&author=Jia%2CXH&author=Tu%2CJC)
+* Ketelaar, E., Beijaard, D., Boshuizen, H. P., & Den Brok, P. J. (2012). Teachers’ positioning towards an educational innovation in the light of ownership, sense-making and agency. *Teaching and teacher education,* *28*(2), 273–282.
+  
+  [Article](https://doi.org/10.1016%2Fj.tate.2011.10.004) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teachers%E2%80%99%20positioning%20towards%20an%20educational%20innovation%20in%20the%20light%20of%20ownership%2C%20sense-making%20and%20agency&journal=Teaching%20and%20teacher%20education&doi=10.1016%2Fj.tate.2011.10.004&volume=28&issue=2&pages=273-282&publication_year=2012&author=Ketelaar%2CE&author=Beijaard%2CD&author=Boshuizen%2CHP&author=Brok%2CPJ)
+* Kgosietsile, T., & Okike, E. U. (2023). Literature review of game-based learning as an educational tool. *Journal of Applied Information Science and Technology,* *16*(2), 16–29.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Literature%20review%20of%20game-based%20learning%20as%20an%20educational%20tool&journal=Journal%20of%20Applied%20Information%20Science%20and%20Technology&volume=16&issue=2&pages=16-29&publication_year=2023&author=Kgosietsile%2CT&author=Okike%2CEU)
+* Kissi, J., Dai, B., Achmpong, E. K., Dankyi, A. B., & Antwi, J. (2023). An empirical study of healthcare professionals' willingness to utilise telehealth services based on protection motivation theory. *International Journal of Healthcare Technology and Management*, *20*(1), 74–89.
+* Köroğlu, M. (2025). Pioneering virtual assessments: Augmented reality and virtual reality adoption among teachers. *Education and Information Technologies*, *30*(8), 9901-9948. <https://doi.org/10.1007/s10639-024-13159-z>
+* Kuriakose, M., & Nagasubramaniyan, G. (2025). Beyond pleasure, desire for meaningful consumption and peacefulness from digital entertainment platforms; extending UTAUT2 model with eudemonic motivation and tranquility. *International Journal of Human–Computer Interaction,* *41*(1), 792–806.
+  
+  [Article](https://doi.org/10.1080%2F10447318.2024.2305479) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Beyond%20pleasure%2C%20desire%20for%20meaningful%20consumption%20and%20peacefulness%20from%20digital%20entertainment%20platforms%3B%20extending%20UTAUT2%20model%20with%20eudemonic%20motivation%20and%20tranquility&journal=International%20Journal%20of%20Human%E2%80%93Computer%20Interaction&doi=10.1080%2F10447318.2024.2305479&volume=41&issue=1&pages=792-806&publication_year=2025&author=Kuriakose%2CM&author=Nagasubramaniyan%2CG)
+* Lazarus, R. S. (1991). *Emotion and adaptation.* Oxford University Press.
+* Leitner, M., Greenwald, E., Wang, N., Montgomery, R., & Merchant, C. (2023). Designing game-based learning for high school artificial intelligence education. *International Journal of Artificial Intelligence in Education,* *33*(2), 384–398.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40593-022-00327-w) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Designing%20game-based%20learning%20for%20high%20school%20artificial%20intelligence%20education&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.1007%2Fs40593-022-00327-w&volume=33&issue=2&pages=384-398&publication_year=2023&author=Leitner%2CM&author=Greenwald%2CE&author=Wang%2CN&author=Montgomery%2CR&author=Merchant%2CC)
+* Lester, J. C., Ha, E. Y., Lee, S. Y., Mott, B. W., Rowe, J. P., & Sabourin, J. L. (2013). Serious games get smart: Intelligent game-based learning environments. *AI Magazine,* *34*(4), 31–45.
+  
+  [Article](https://doi.org/10.1609%2Faimag.v34i4.2488) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Serious%20games%20get%20smart%3A%20Intelligent%20game-based%20learning%20environments&journal=AI%20Magazine&doi=10.1609%2Faimag.v34i4.2488&volume=34&issue=4&pages=31-45&publication_year=2013&author=Lester%2CJC&author=Ha%2CEY&author=Lee%2CSY&author=Mott%2CBW&author=Rowe%2CJP&author=Sabourin%2CJL)
+* Liu, L., Huang, Y., Liu, X., & Zhang, L. (2025). Why do teachers intervene? understanding the relationship between subjective norms and teachers’ intervention in real-life bullying incidents. *Social Psychology of Education,* *28*(1), 1–21.
+  
+  [Article](https://link.springer.com/doi/10.1007/s11218-024-09965-5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Why%20do%20teachers%20intervene%3F%20understanding%20the%20relationship%20between%20subjective%20norms%20and%20teachers%E2%80%99%20intervention%20in%20real-life%20bullying%20incidents&journal=Social%20Psychology%20of%20Education&doi=10.1007%2Fs11218-024-09965-5&volume=28&issue=1&pages=1-21&publication_year=2025&author=Liu%2CL&author=Huang%2CY&author=Liu%2CX&author=Zhang%2CL)
+* Ma, S., & Lei, L. (2024). The factors influencing teacher education students’ willingness to adopt artificial intelligence technology for information-based teaching. *Asia Pacific Journal of Education,* *44*(1), 94–111.
+  
+  [Article](https://doi.org/10.1080%2F02188791.2024.2305155) 
+  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=4679584) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20factors%20influencing%20teacher%20education%20students%E2%80%99%20willingness%20to%20adopt%20artificial%20intelligence%20technology%20for%20information-based%20teaching&journal=Asia%20Pacific%20Journal%20of%20Education&doi=10.1080%2F02188791.2024.2305155&volume=44&issue=1&pages=94-111&publication_year=2024&author=Ma%2CS&author=Lei%2CL)
+* Macaulay, P. J., Betts, L. R., Stiller, J., & Kellezi, B. (2022). Bystander responses to cyberbullying: The role of perceived severity, publicity, anonymity, type of cyberbullying, and victim response. *Computers in Human Behavior,* *131*, Article 107238.
+  
+  [Article](https://doi.org/10.1016%2Fj.chb.2022.107238) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Bystander%20responses%20to%20cyberbullying%3A%20The%20role%20of%20perceived%20severity%2C%20publicity%2C%20anonymity%2C%20type%20of%20cyberbullying%2C%20and%20victim%20response&journal=Computers%20in%20Human%20Behavior&doi=10.1016%2Fj.chb.2022.107238&volume=131&publication_year=2022&author=Macaulay%2CPJ&author=Betts%2CLR&author=Stiller%2CJ&author=Kellezi%2CB)
+* Maddux, J. E., & Rogers, R. W. (1983). Protection motivation and self-efficacy: A revised theory of fear appeals and attitude change. *Journal of Experimental Social Psychology,* *19*(5), 469–479.
+  
+  [Article](https://doi.org/10.1016%2F0022-1031%2883%2990023-9) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Protection%20motivation%20and%20self-efficacy%3A%20A%20revised%20theory%20of%20fear%20appeals%20and%20attitude%20change&journal=Journal%20of%20Experimental%20Social%20Psychology&doi=10.1016%2F0022-1031%2883%2990023-9&volume=19&issue=5&pages=469-479&publication_year=1983&author=Maddux%2CJE&author=Rogers%2CRW)
+* Mahrous, A., Botsko, D. L., Elgreatly, A., Tsujimoto, A., Qian, F., & Schneider, G. B. (2023). The use of artificial intelligence and game-based learning in removable partial denture design: A comparative study. *Journal of Dental Education,* *87*(8), 1188–1199.
+  
+  [Article](https://doi.org/10.1002%2Fjdd.13225) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20use%20of%20artificial%20intelligence%20and%20game-based%20learning%20in%20removable%20partial%20denture%20design%3A%20A%20comparative%20study&journal=Journal%20of%20Dental%20Education&doi=10.1002%2Fjdd.13225&volume=87&issue=8&pages=1188-1199&publication_year=2023&author=Mahrous%2CA&author=Botsko%2CDL&author=Elgreatly%2CA&author=Tsujimoto%2CA&author=Qian%2CF&author=Schneider%2CGB)
+* Marikyan, D., & Papagiannidis, S. (2023). Protection motivation theory: A review. In *TheoryHub book: This handbook is based on the online theory resource: TheoryHub* (pp. 78–93).
+* Molenaar, I. (2022). Towards hybrid human-AI learning technologies. *European Journal of Education,* *57*(4), 632–645. <https://doi.org/10.1111/ejed.12527>
+  
+  [Article](https://doi.org/10.1111%2Fejed.12527) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20hybrid%20human-AI%20learning%20technologies&journal=European%20Journal%20of%20Education&doi=10.1111%2Fejed.12527&volume=57&issue=4&pages=632-645&publication_year=2022&author=Molenaar%2CI)
+* Naseer, F., Khan, M. N., Tahir, M., Addas, A., & Aejaz, S. H. (2024). Integrating deep learning techniques for personalized learning pathways in higher education. *Heliyon,* *10*, 1–18.
+  
+  [Article](https://doi.org/10.1016%2Fj.heliyon.2024.e32628) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrating%20deep%20learning%20techniques%20for%20personalized%20learning%20pathways%20in%20higher%20education&journal=Heliyon&doi=10.1016%2Fj.heliyon.2024.e32628&volume=10&pages=1-18&publication_year=2024&author=Naseer%2CF&author=Khan%2CMN&author=Tahir%2CM&author=Addas%2CA&author=Aejaz%2CSH)
+* Nguyen, H. T., & Tang, C. W. (2022). Students’ intention to take E-learning courses during the COVID-19 pandemic: A protection motivation theory perspective. *International Review of Research in Open and Distributed Learning,* *23*(3), 21–42.
+  
+  [Article](https://doi.org/10.19173%2Firrodl.v23i3.6178) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Students%E2%80%99%20intention%20to%20take%20E-learning%20courses%20during%20the%20COVID-19%20pandemic%3A%20A%20protection%20motivation%20theory%20perspective&journal=International%20Review%20of%20Research%20in%20Open%20and%20Distributed%20Learning&doi=10.19173%2Firrodl.v23i3.6178&volume=23&issue=3&pages=21-42&publication_year=2022&author=Nguyen%2CHT&author=Tang%2CCW)
+* Ogegbo, A. A., Penn, M., Ramnarain, U., Pila, O., Van Der Westhuizen, C., Mdlalose, N., Moser, I., Hlosta, M., & Bergamin, P. (2024). Exploring pre-service teachers’ intentions of adopting and using virtual reality classrooms in science education. *Education and Information Technologies,* *29*(15), 20299–20316.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-024-12664-5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20pre-service%20teachers%E2%80%99%20intentions%20of%20adopting%20and%20using%20virtual%20reality%20classrooms%20in%20science%20education&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-12664-5&volume=29&issue=15&pages=20299-20316&publication_year=2024&author=Ogegbo%2CAA&author=Penn%2CM&author=Ramnarain%2CU&author=Pila%2CO&author=Westhuizen%2CC&author=Mdlalose%2CN&author=Moser%2CI&author=Hlosta%2CM&author=Bergamin%2CP)
+* Osei, H. V., Kwateng, K. O., & Boateng, K. A. (2022). Integration of personality trait, motivation and UTAUT 2 to understand e-learning adoption in the era of COVID-19 pandemic. *Education and Information Technologies,* *27*(8), 10705–10730.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-022-11047-y) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integration%20of%20personality%20trait%2C%20motivation%20and%20UTAUT%202%20to%20understand%20e-learning%20adoption%20in%20the%20era%20of%20COVID-19%20pandemic&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-022-11047-y&volume=27&issue=8&pages=10705-10730&publication_year=2022&author=Osei%2CHV&author=Kwateng%2CKO&author=Boateng%2CKA)
+* Rebelo, E. M. (2025). Artificial intelligence in higher education: Proposal for a transversal curricular unit. *Journal of Formative Design in Learning*. <https://doi.org/10.1007/s41686-024-00097-9>
+  
+  [Article](https://link.springer.com/doi/10.1007/s41686-024-00097-9) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20in%20higher%20education%3A%20Proposal%20for%20a%20transversal%20curricular%20unit&journal=Journal%20of%20Formative%20Design%20in%20Learning&doi=10.1007%2Fs41686-024-00097-9&publication_year=2025&author=Rebelo%2CEM)
+* Rogers, R. W. (1975). A protection motivation theory of fear appeals and attitude change. *The Journal of Psychology,* *91*(1), 93–114.
+  
+  [Article](https://doi.org/10.1080%2F00223980.1975.9915803) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20protection%20motivation%20theory%20of%20fear%20appeals%20and%20attitude%20change&journal=The%20Journal%20of%20Psychology&doi=10.1080%2F00223980.1975.9915803&volume=91&issue=1&pages=93-114&publication_year=1975&author=Rogers%2CRW)
+* Rogers, R. W. (1983). Cognitive and physiological processes in fear appeals and attitude change: A revised theory of protection motivation. In J. T. Cacioppo & R. E. Petty (Eds.), *Social psychophysiology: A sourcebook* (pp. 153–177). Guilford Press.
+* Runge, I., Hebibi, F., & Lazarides, R. (2025). Acceptance of pre-service teachers towards artificial ıntelligence (AI): The role of AI -related teacher training courses and AI -tpack within the technology acceptance model. *Education Sciences,* *15*(2), Article 167.
+  
+  [Article](https://doi.org/10.3390%2Feducsci15020167) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Acceptance%20of%20pre-service%20teachers%20towards%20artificial%20%C4%B1ntelligence%20%28AI%29%3A%20The%20role%20of%20AI%20-related%20teacher%20training%20courses%20and%20AI%20-tpack%20within%20the%20technology%20acceptance%20model&journal=Education%20Sciences&doi=10.3390%2Feducsci15020167&volume=15&issue=2&publication_year=2025&author=Runge%2CI&author=Hebibi%2CF&author=Lazarides%2CR)
+* Selwyn, N. (2019). *Should robots replace teachers?: AI and the future of education*. John Wiley & Sons.
+* Sharma, S., & Singh, G. (2024). Adoption of artificial intelligence in higher education: an empirical study of the UTAUT model in Indian universities. *International Journal of System Assurance Engineering and Management*, 1–27.
+* Song, C., Shin, S. Y., & Shin, K. S. (2024). Implementing the dynamic feedback-driven learning optimization framework: A machine learning approach to personalize educational pathways. *Applied Sciences,* *14*(2), Article 916.
+  
+  [Article](https://doi.org/10.3390%2Fapp14020916) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Implementing%20the%20dynamic%20feedback-driven%20learning%20optimization%20framework%3A%20A%20machine%20learning%20approach%20to%20personalize%20educational%20pathways&journal=Applied%20Sciences&doi=10.3390%2Fapp14020916&volume=14&issue=2&publication_year=2024&author=Song%2CC&author=Shin%2CSY&author=Shin%2CKS)
+* Sulaiman, N. S., Fauzi, M. A., Hussain, S., & Wider, W. (2022). Cybersecurity behavior among government employees: The role of protection motivation theory and responsibility in mitigating cyberattacks. *Information,* *13*(9), Article 413.
+  
+  [Article](https://doi.org/10.3390%2Finfo13090413) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cybersecurity%20behavior%20among%20government%20employees%3A%20The%20role%20of%20protection%20motivation%20theory%20and%20responsibility%20in%20mitigating%20cyberattacks&journal=Information&doi=10.3390%2Finfo13090413&volume=13&issue=9&publication_year=2022&author=Sulaiman%2CNS&author=Fauzi%2CMA&author=Hussain%2CS&author=Wider%2CW)
+* Sun, J., Wu, Q., Ma, Z., Zheng, W., & Hu, Y. (2025). Understanding pre-service teachers’ acceptance of generative artificial intelligence: an extended technology acceptance model approach. *Educational Technology Research and Development*, 1–23.
+* Sun, L., Kangas, M., & Ruokamo, H. (2024). Game-based features in intelligent game-based learning environments: A systematic literature review. *Interactive Learning Environments,* *32*(7), 3431–3447.
+  
+  [Article](https://doi.org/10.1080%2F10494820.2023.2179638) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Game-based%20features%20in%20intelligent%20game-based%20learning%20environments%3A%20A%20systematic%20literature%20review&journal=Interactive%20Learning%20Environments&doi=10.1080%2F10494820.2023.2179638&volume=32&issue=7&pages=3431-3447&publication_year=2024&author=Sun%2CL&author=Kangas%2CM&author=Ruokamo%2CH)
+* Venkatesh, V., Thong, J. Y., & Xu, X. (2012). Consumer acceptance and use of information technology: extending the unified theory of acceptance and use of technology. *MIS Quarterly*, 157–178.
+* Venkatesh, V., Davis, F. D., & Zhu, Y. (2023). Competing roles of intention and habit in predicting behavior: A comprehensive literature review, synthesis, and longitudinal field study. *International Journal of Information Management,* *71*, Article 102644.
+  
+  [Article](https://doi.org/10.1016%2Fj.ijinfomgt.2023.102644) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Competing%20roles%20of%20intention%20and%20habit%20in%20predicting%20behavior%3A%20A%20comprehensive%20literature%20review%2C%20synthesis%2C%20and%20longitudinal%20field%20study&journal=International%20Journal%20of%20Information%20Management&doi=10.1016%2Fj.ijinfomgt.2023.102644&volume=71&publication_year=2023&author=Venkatesh%2CV&author=Davis%2CFD&author=Zhu%2CY)
+* Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. *MIS Quarterly,* *27*(3), 425–478. <https://doi.org/10.2307/30036540>
+  
+  [Article](https://doi.org/10.2307%2F30036540) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=User%20acceptance%20of%20information%20technology%3A%20Toward%20a%20unified%20view&journal=MIS%20Quarterly&doi=10.2307%2F30036540&volume=27&issue=3&pages=425-478&publication_year=2003&author=Venkatesh%2CV&author=Morris%2CMG&author=Davis%2CGB&author=Davis%2CFD)
+* Wagan, A. A., Khan, A. A., Chen, Y. L., Yee, P. L., Yang, J., & Laghari, A. A. (2023). Artificial intelligence-enabled game-based learning and quality of experience: A novel and secure framework (B-AIQoE). *Sustainability,* *15*(6), Article 5362.
+  
+  [Article](https://doi.org/10.3390%2Fsu15065362) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence-enabled%20game-based%20learning%20and%20quality%20of%20experience%3A%20A%20novel%20and%20secure%20framework%20%28B-AIQoE%29&journal=Sustainability&doi=10.3390%2Fsu15065362&volume=15&issue=6&publication_year=2023&author=Wagan%2CAA&author=Khan%2CAA&author=Chen%2CYL&author=Yee%2CPL&author=Yang%2CJ&author=Laghari%2CAA)
+* Wenger, E. (1998). Communities of practice: Learning as a social system. *Systems thinker,* (5), 2–3.
+* Yekollu, R. K., Bhimraj Ghuge, T., Sunil Biradar, S., Haldikar, S. V., & Farook Mohideen Abdul Kader, O. (2024). AI-driven personalized learning paths: Enhancing education through adaptive systems. In *International Conference on Smart data intelligence* (pp. 507–517). Singapore: Springer Nature Singapore.
+* Yildiz, E., & Arpaci, I. (2024). Understanding pre-service mathematics teachers’ intentions to use GeoGebra: The role of technological pedagogical content knowledge. *Education and Information Technologies,* (14), 18817–18838.
+* Yim, I. H. Y., & Su, J. (2025). Artificial intelligence (AI) learning tools in K-12 education: A scoping review. *Journal of Computers in Education,* (1), 93–131.
+* Yıldırım, M., Geçer, E., & Akgül, Ö. (2021). The impacts of vulnerability, perceived risk, and fear on preventive behaviours against COVID-19. *Psychology, Health & Medicine,* (1), 35–43.
+* Zawacki-Richter, O., Marín, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education. *International Journal of Educational Technology in Higher Education,* (39), 1–27. <https://doi.org/10.1186/s41239-019-0171-0>
+* Zhan, Z., Tong, Y., Lan, X., & Zhong, B. (2024). A systematic literature review of game-based learning in artificial intelligence education. *Interactive Learning Environments,* (3), 1137–1158.
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s10639-026-13975-5?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+Not applicable.
+
+Funding
+-------
+
+Open access funding provided by the Scientific and Technological Research Council of Türkiye (TÜBİTAK). The authors did not receive any financial support for the research, authorship, and/or publication of this article.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Department of Computer and Instructional Technologies Education, Kırşehir Ahi Evran University, Kırşehir, Turkey
+   
+   Uğur Basarmak
+2. Department of Science Education, Kırşehir Ahi Evran University, Kırşehir, Turkey
+   
+   Hüseyin Ates
+
+Authors
+
+1. Uğur Basarmak[View author publications](/search?sortBy=newestFirst&contributor=U%C4%9Fur%20Basarmak)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=U%C4%9Fur%20Basarmak) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22U%C4%9Fur%20Basarmak%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Hüseyin Ates[View author publications](/search?sortBy=newestFirst&contributor=H%C3%BCseyin%20Ates)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=H%C3%BCseyin%20Ates) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22H%C3%BCseyin%20Ates%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+Uğur BAŞARMAK: Data Curation, Analysis, Writing – Review & Editing.
+
+### Corresponding author
+
+Correspondence to
+[Uğur Basarmak](mailto:ugurbasarmak@ahievran.edu.tr).
+
+Ethics declarations
+-------------------
+
+### Ethics approval and consent to participate
+
+This study received ethical approval from a governmental institution in Turkey, specifically the Social and Human Sciences Scientific Research and Publication Ethics Committee of Kırşehir Ahi Evran University (Approval Number: 2025/08/32). All procedures were conducted in accordance with relevant institutional and national research ethics guidelines. Informed consent was obtained from all participants prior to their participation in the study.
+
+### Consent for publication
+
+Consent for publication was obtained from all participants involved in the study.
+
+### Competing interests
+
+The authors declare that they have no competing interests.
+
+Additional information
+----------------------
+
+### Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Integrating%20UTAUT-2%20and%20protection%20motivation%20theory%20to%20explain%20pre-service%20teachers%E2%80%99%20adoption%20of%20AI-supported%20game-based%20learning&author=U%C4%9Fur%20Basarmak%20et%20al&contentID=10.1007%2Fs10639-026-13975-5&copyright=The%20Author%28s%29&publication=1360-2357&publicationDate=2026-03-30&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+About this article
+------------------
+
+### Cite this article
+
+Basarmak, U., Ates, H. Integrating UTAUT-2 and protection motivation theory to explain pre-service teachers’ adoption of AI-supported game-based learning.
+*Educ Inf Technol* (2026). https://doi.org/10.1007/s10639-026-13975-5
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s10639-026-13975-5?format=refman&flavour=citation)
+
+* Received: 02 June 2025
+* Accepted: 19 March 2026
+* Published: 30 March 2026
+* Version of record: 30 March 2026
+* DOI: https://doi.org/10.1007/s10639-026-13975-5
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Artificial intelligence](/search?query=Artificial%20intelligence&facet-discipline="Computer%20Science")
+* [Game-based learning](/search?query=Game-based%20learning&facet-discipline="Computer%20Science")
+* [Pre-service teachers](/search?query=Pre-service%20teachers&facet-discipline="Computer%20Science")
+* [Technology adoption](/search?query=Technology%20adoption&facet-discipline="Computer%20Science")
+* [UTAUT-2](/search?query=UTAUT-2&facet-discipline="Computer%20Science")
+* [Protection motivation theory](/search?query=Protection%20motivation%20theory&facet-discipline="Computer%20Science")
+* [PMT](/search?query=PMT&facet-discipline="Computer%20Science")
+* [Educational technology](/search?query=Educational%20technology&facet-discipline="Computer%20Science")
+* [Structural equation modeling](/search?query=Structural%20equation%20modeling&facet-discipline="Computer%20Science")
+* [Risk appraisal](/search?query=Risk%20appraisal&facet-discipline="Computer%20Science")
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+106.14.242.219
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

@@ -1,0 +1,1222 @@
+# Source URL: https://doi.org/10.1038/s41598-025-08697-6
+# Content Length: 126053 characters
+# Extracted at: 2026-04-03 09:59:29
+#============================================================
+
+
+Impact of generative AI interaction and output quality on university students’ learning outcomes: a technology-mediated and motivation-driven approach | Scientific Reports
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#content)
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+and JavaScript.
+
+
+
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/285/scientific_reports/article&sz=728x90&c=1364231480&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41598-025-08697-6%26doi%3D10.1038/s41598-025-08697-6%26subjmeta%3D166,477,631,639,705%26kwrd%3DEngineering,Mathematics+and+computing,Psychology)
+
+
+
+
+[![]()](/srep)
+
+* [View all journals](https://www.nature.com/siteindex)
+* [Search](#search-menu)
+* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/articles/s41598-025-08697-6)
+
+
+
+* [Content
+  Explore content](#explore)
+* [About the journal](#about-the-journal)
+* [Publish with us](#publish-with-us)
+
+* [Sign up for alerts](https://journal-alerts.springernature.com/subscribe?journal_id=41598)
+* [RSS feed](https://www.nature.com/srep.rss)
+
+
+
+
+1. [nature](/)
+2. [scientific reports](/srep)
+3. [articles](/srep/articles?type=article)
+4. article
+
+
+
+Impact of generative AI interaction and output quality on university students’ learning outcomes: a technology-mediated and motivation-driven approach
+
+[Download PDF](/articles/s41598-025-08697-6.pdf)
+
+
+
+
+[Download PDF](/articles/s41598-025-08697-6.pdf)
+
+
+
+
+* Article
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 05 July 2025
+
+Impact of generative AI interaction and output quality on university students’ learning outcomes: a technology-mediated and motivation-driven approach
+======================================================================================================================================================
+
+* [Yun Bai](#auth-Yun-Bai-Aff1)[1](#Aff1) &
+* [Shaofeng Wang](#auth-Shaofeng-Wang-Aff2) 
+  [ORCID: orcid.org/0000-0002-0300-2453](https://orcid.org/0000-0002-0300-2453)[2](#Aff2)
+
+[*Scientific Reports*](/srep)
+**volume 15**, Article number: 24054 (2025)
+[Cite this article](#citeas)
+
+* 20k Accesses
+* 32 Citations
+* 307 Altmetric
+* [Metrics details](/articles/s41598-025-08697-6/metrics)
+
+
+### Subjects
+
+* [Engineering](/subjects/engineering)
+* [Mathematics and computing](/subjects/mathematics-and-computing)
+* [Psychology](/subjects/psychology)
+
+
+Abstract
+--------
+
+This study investigates the influence of generative artificial intelligence (GAI) on university students’ learning outcomes, employing a technology-mediated learning perspective. We developed and empirically tested an integrated model, grounded in interaction theory and technology-mediated learning theory, to examine the relationships between GAI interaction quality, GAI output quality, and learning outcomes. The model incorporates motivational factors (learning motivation, academic self-efficacy, and creative self-efficacy) as mediators and creative thinking as a moderator. Data from 323 Chinese university students, collected through a two-wave longitudinal survey, revealed that both GAI interaction quality and output quality positively influenced learning motivation and creative self-efficacy. Learning motivation significantly mediated the relationship between GAI output quality and learning outcomes. Furthermore, creative thinking moderated several pathways within the model, with some variations observed across the two time points. These findings provide theoretical and practical insights into the effective integration of GAI tools in higher education, highlighting the importance of both interaction and output quality in optimizing student learning experiences.
+
+
+### Similar content being viewed by others
+
+![]()
+### [The analysis of generative artificial intelligence technology for innovative thinking and strategies in animation teaching](https://www.nature.com/articles/s41598-025-03805-y?fromPaywallRec=false)
+
+Article
+Open access
+28 May 2025
+
+
+
+
+![]()
+### [Exploring the impact of artificial intelligence application in personalized learning environments: thematic analysis of undergraduates’ perceptions in China](https://www.nature.com/articles/s41599-024-04168-x?fromPaywallRec=false)
+
+Article
+Open access
+03 December 2024
+
+
+
+
+![]()
+### [Generative artificial intelligence in entrepreneurship education enhances entrepreneurial intention through self-efficacy and university support](https://www.nature.com/articles/s41598-025-09545-3?fromPaywallRec=false)
+
+Article
+Open access
+05 July 2025
+
+
+
+
+
+
+Introduction
+------------
+
+The rapid emergence of Generative Artificial Intelligence (GAI) is transforming multiple sectors, with particularly profound implications for education and learning[1](/articles/s41598-025-08697-6#ref-CR1). GAI encompasses advanced artificial intelligence systems that produce human-like content across various modalities in response to complex prompts and tasks[2](/articles/s41598-025-08697-6#ref-CR2),[3](/articles/s41598-025-08697-6#ref-CR3). Recent empirical investigations have documented numerous potential benefits of integrating GAI tools like chatbots into educational contexts. As technologies such as ChatGPT gain prominence in higher education settings, we are witnessing the emergence of more personalized, adaptive, and interactive learning environments[4](/articles/s41598-025-08697-6#ref-CR4).
+
+The scientific community continues to debate GAI’s influence on student engagement, learning processes, and academic outcomes[5](/articles/s41598-025-08697-6#ref-CR5). Experimental studies indicate that GAI can provide tailored, responsive support that enhances overall educational experiences[6](/articles/s41598-025-08697-6#ref-CR6). However, concerns have been raised regarding potential misuse, particularly instances where ChatGPT serves as a cheating mechanism, potentially undermining authentic learning if implemented inappropriately[7](/articles/s41598-025-08697-6#ref-CR7). According to Duffy and Weil, educators and students utilizing generative AI for experimentation and learning must consider multiple factors including data security, privacy regulations, ethical compliance, copyright issues, and academic integrity[8](/articles/s41598-025-08697-6#ref-CR8). Given these divergent perspectives in the literature, comprehensive empirical research is necessary to elucidate how GAI tools impact student learning across different contexts.
+
+GAI presents novel opportunities for AI-augmented instruction, assessment, and learning design. These technologies are engineered to support learners through personalized feedback mechanisms, immediate responses, and innovative pedagogical approaches[1](/articles/s41598-025-08697-6#ref-CR1). GAI tools like ChatGPT are designed with interaction capabilities that motivate students to utilize these systems for achieving learning objectives[9](/articles/s41598-025-08697-6#ref-CR9). However, their educational efficacy depends on consistent high-quality outputs throughout the learning process[10](/articles/s41598-025-08697-6#ref-CR10), highlighting the critical importance of developing users’ critical evaluation skills for assessing GAI-generated content. While discourse around GAI integration in higher education shows promise, it remains in nascent stages. Existing research has primarily emphasized learning motivation and technical characteristics[11](/articles/s41598-025-08697-6#ref-CR11) rather than implementation strategies and measurable outcomes. Empirical investigations examining the concrete impacts of GAI tools on learning remain relatively scarce[12](/articles/s41598-025-08697-6#ref-CR12) necessitating careful examination of how data-driven outputs may transform educational depth and methodology[13](/articles/s41598-025-08697-6#ref-CR13).
+
+To address these research gaps, our study specifically examines the interaction quality and output quality of GAI tools in student learning contexts. We develop and empirically test a model investigating how these factors influence university students’ academic achievements, mediated through key motivational constructs. Additionally, we explore the moderating role of creative thinking in these relationships. This research integrates interaction theory and technology-mediated learning theory (TML) to provide evidence-based insights for both researchers and practitioners. By conceptualizing GAI as an educational technology within this theoretical framework, we can better understand its potential to shape learning experiences and outcomes. The specific objectives of this study are to: (i) Investigate the impact of GAI interactions on university students’ motivational factors (learning motivation, creative self-efficacy, and academic self-efficacy). (ii) Examine the role of these motivational elements in mediating the relationship between students’ use of GAI tools and their learning outcomes. (iii) Explore the moderating influence of creative thinking on the relationships between GAI interaction, GAI output quality, motivational factors, and learning outcomes.
+
+Theoretical background
+----------------------
+
+Previous frameworks such as the Technology Acceptance Model (TAM) and the Unified Theory of Acceptance and Use of Technology (UTAUT) have significantly influenced technology-based educational research, predominantly emphasizing technological characteristics and user adoption patterns[6](/articles/s41598-025-08697-6#ref-CR6),[14](/articles/s41598-025-08697-6#ref-CR14) while overlooking integration methodologies and practical utility in educational contexts[11](/articles/s41598-025-08697-6#ref-CR11). Current scientific inquiry has shifted focus to examining student learning activities and processes, emphasizing technology integration rather than the technology itself.
+
+This study applies interaction theory and technology-mediated learning theory to systematically examine students’ varied perceptions of GAI tools in their educational activities.
+
+### Interaction theory
+
+Interaction theory provides a robust framework for analyzing human-machine interactions and human-environmental dynamics[15](/articles/s41598-025-08697-6#ref-CR15). According to this theoretical perspective, individuals receive critical feedback during interactions that shapes their subsequent behaviors and cognitive processes[15](/articles/s41598-025-08697-6#ref-CR15). GAI tools offer more autonomous, personalized, and effective interactions with students compared to conventional educational technologies. These systems provide immediate and individualized feedback[16](/articles/s41598-025-08697-6#ref-CR16) enabling students to conduct more precise self-evaluations regarding their strengths and weaknesses. This capability facilitates targeted improvements, encourages deeper educational engagement, and serves as a mechanism to enhance the overall learning experience.
+
+Interaction with GAI promotes cognitive engagement, suggesting that interaction quality significantly influences thought processes and knowledge construction[16](/articles/s41598-025-08697-6#ref-CR16). Furthermore, GAI’s capacity to dynamically adapt instructional content and methodologies according to individual student needs and responses aligns with interaction theory’s fundamental premise that effective interaction must be “bidirectional” and “dynamic“[15](/articles/s41598-025-08697-6#ref-CR15).
+
+### Technology-mediated learning theory (TML)
+
+Technology-mediated learning theory was introduced by Alavi and Leidner[17](/articles/s41598-025-08697-6#ref-CR17) to describe environments where learner interactions with educational resources, peers, and/or instructors are facilitated through intelligent information technology. Personalized TML interventions have demonstrated efficacy in improving performance and achieving organizational objectives[18](/articles/s41598-025-08697-6#ref-CR18). For individual learners, TML offers innovative approaches to knowledge acquisition and skill development in flexible, autonomous, and engaging formats, unrestricted by spatial or temporal constraints[19](/articles/s41598-025-08697-6#ref-CR19). Diverging from conventional technology-enhanced learning paradigms—where technology primarily functions to support instructional delivery and enable communication channels[20](/articles/s41598-025-08697-6#ref-CR20). This study specifically analyzes how learner-GAI interaction dynamics shape educational outcomes. In the learning process, GAI tools operate as obligatory cognitive mediators rather than optional supplements. This mandatory mediation characteristic renders TML the optimal theoretical framework for examining this emergent educational phenomenon.
+
+A central tenet of this theoretical framework emphasizes the seamless integration of technological tools with instructional strategies to enhance cognitive processes and optimize learning outcomes[21](/articles/s41598-025-08697-6#ref-CR21). This approach is particularly relevant in contemporary educational environments characterized by flexibility and decentralization, where technology-mediated learning theories provide valuable insights for blended learning implementation.
+
+Conceptualized research model and hypotheses
+--------------------------------------------
+
+### GAI interaction and learning motivation
+
+Unlike conventional educational technologies, generative artificial intelligence (GAI) solutions (e.g., ChatGPT) possess adaptive learning capabilities that enable personalized user interactions based on historical dialogue patterns and individual user preferences[22](/articles/s41598-025-08697-6#ref-CR22). These systems facilitate ubiquitous learning environments where students can engage seamlessly across both formal classroom settings and informal learning contexts. For this investigation, we operationalize GAI interaction as the bidirectional communication between users and GAI platforms that facilitates information exchange, intellectual discourse, feedback distribution, and audience engagement[23](/articles/s41598-025-08697-6#ref-CR23).
+
+Drawing on self-determination theory, Ryan and Deci conceptualize learning motivation as comprising two fundamental components: intrinsic motivation (engagement in academic activities for inherent interest and satisfaction) and extrinsic motivation (participation driven by external factors unrelated to intrinsic fulfillment)[24](/articles/s41598-025-08697-6#ref-CR24). Learning motivation functions as an internal cognitive drive that propels students to pursue and complete academic tasks[25](/articles/s41598-025-08697-6#ref-CR25) ultimately facilitating the achievement of educational objectives[26](/articles/s41598-025-08697-6#ref-CR26).
+
+Empirical evidence indicates that conventional classroom pedagogical approaches frequently lack sufficient engagement mechanisms, resulting in students’ difficulty maintaining sustained learning motivation[27](/articles/s41598-025-08697-6#ref-CR27). Recent experimental research by Jia and Tu demonstrates a statistically significant positive correlation between AI tool interaction and learner satisfaction metrics[28](/articles/s41598-025-08697-6#ref-CR28). Qualitative assessments of student experiences with ChatGPT reveal perceptions of heightened interest, inspiration, and learning support. The combination of real-time interactivity and rapid feedback mechanisms inherent in GAI systems may enhance learner participation and cognitive engagement. Based on this theoretical foundation and empirical evidence, we propose the following hypothesis:
+
+H1. GAI interaction positively influences the learning motivation of university students.
+
+### GAI interaction and creative self-efficacy
+
+Creative self-efficacy (CSE), grounded in self-efficacy theory, refers to an individual’s belief in their capacity to generate novel and valuable outcomes[29](/articles/s41598-025-08697-6#ref-CR29). In educational contexts, students’ creative self-efficacy influences their cognitive processing of subject matter and problem-solving capabilities. Within online learning environments, creative self-efficacy encompasses students’ ability to demonstrate creativity in utilizing educational platforms, assimilating course content, and completing assignments[30](/articles/s41598-025-08697-6#ref-CR30). GAI platforms provide immediate feedback mechanisms that foster success experiences, consequently enhancing motivation and self-efficacy[13](/articles/s41598-025-08697-6#ref-CR13). Recent neurocognitive research indicates that GAI can facilitate creativity by generating outputs that serve as cognitive stimuli[31](/articles/s41598-025-08697-6#ref-CR31). Through consistent interaction with GAI tools, students may develop enhanced self-perceptions regarding their ability to accomplish academic objectives and address complex challenges[32](/articles/s41598-025-08697-6#ref-CR32). Accordingly, we incorporate creative self-efficacy as a key construct in our research model and propose:
+
+H2. GAI interaction positively influences the creative self-efficacy of university students.
+
+### GAI output quality and learning motivation
+
+GAI output encompasses "coherent and well-formatted text, images, and sounds generated in novel designs"[33](/articles/s41598-025-08697-6#ref-CR33). Assessments of GAI output quality measure the degree to which students perceive the content as reliable, valuable, accurate, and applicable[34](/articles/s41598-025-08697-6#ref-CR34). However, experimental studies with undergraduate students using ChatGPT have identified instances where obtaining relevant information proved more challenging than anticipated, with some outputs being sparse or inaccurate. Empirical evidence suggests that superior GAI output quality correlates with enhanced perceptions of utility, increased peer-to-peer communication during system use, and greater user satisfaction, collectively motivating broader adoption among the student population.
+
+In controlled studies, Leong et al. observed significantly elevated levels of intrinsic motivation when subjects engaged with GAI-mediated learning activities[35](/articles/s41598-025-08697-6#ref-CR35). Similarly, Almulla demonstrated a statistically significant positive association between ChatGPT usage and learning motivation metrics[34](/articles/s41598-025-08697-6#ref-CR34). Based on these empirical findings, we propose:
+
+H3. GAI output quality positively influences the learning motivation of university students.
+
+### GAI outputs quality and learning outcomes
+
+Learning outcomes represent the measurable results of educational processes, typically manifested as knowledge acquisition, skill development, or attitudinal changes[36](/articles/s41598-025-08697-6#ref-CR36). These outcomes constitute the primary objective of educational interventions, reflecting the comprehensive development of competencies over time[37](/articles/s41598-025-08697-6#ref-CR37),requiring systematic assessment methodologies.
+
+Empirical studies demonstrate that information reliability and relevance significantly impact user perceptions and behaviors in digital environments, underscoring the critical importance of high-quality information in facilitating positive learning outcomes for university students[34](/articles/s41598-025-08697-6#ref-CR34). The quality of GAI outputs is fundamentally contingent on training data parameters, potentially resulting in incomplete or biased information[38](/articles/s41598-025-08697-6#ref-CR38). UNESCO’s guidance on generative AI in educational contexts cautions that biased AI information may compromise learners’ information literacy[39](/articles/s41598-025-08697-6#ref-CR39). Without appropriate regulatory frameworks, students risk assimilating erroneous, unbalanced AI-generated content. This highlights the scientific importance of investigating GAI output quality. Experimental evidence indicates that when learners receive accurate feedback addressing errors and progress, they demonstrate enhanced metacognitive reflection and self-regulation capabilities, ultimately leading to improved learning outcomes[40](/articles/s41598-025-08697-6#ref-CR40). Conversely, inaccurate or irrelevant GAI outputs may induce negative user experiences characterized by frustration and diminished academic performance. Accordingly, this study examines the relationship between GAI output quality and learning outcomes across diverse GAI platforms, proposing:
+
+H4. GAI output quality positively influences the learning outcomes of university students.
+
+### Academic self-efficacy and creative self-efficacy
+
+Academic self-efficacy, a domain-specific manifestation of self-efficacy[41](/articles/s41598-025-08697-6#ref-CR41) encompasses learners’ self-assessment of their capability to achieve desired learning outcomes within specific academic contexts[42](/articles/s41598-025-08697-6#ref-CR42). Neuropsychological research indicates that high academic self-efficacy enhances intrinsic motivation in undergraduate students by strengthening neural pathways associated with learning confidence[43](/articles/s41598-025-08697-6#ref-CR43). Students with elevated academic self-efficacy demonstrate greater persistence in addressing complex tasks and expend additional cognitive resources to overcome obstacles[44](/articles/s41598-025-08697-6#ref-CR44) consequently intensifying their effort toward goal attainment.
+
+Empirical investigations have established academic self-efficacy as a significant predictor of academic achievement and creative productivity across both undergraduate and graduate educational levels[42](/articles/s41598-025-08697-6#ref-CR42). Academic self-efficacy appears to catalyze creativity development through multiple cognitive mechanisms. Enhanced academic self-efficacy promotes critical thinking capabilities and problem-solving competencies[42](/articles/s41598-025-08697-6#ref-CR42) enabling more objective self-assessment and resilience. This cognitive foundation allows students to address creative challenges with greater persistence and cognitive flexibility[42](/articles/s41598-025-08697-6#ref-CR42). Meta-analyses indicate a consistent positive correlation between creative achievement and creative self-efficacy, although this relationship’s magnitude varies according to multiple moderating factors. Based on these empirical findings, we propose:
+
+H5. Academic self-efficacy positively influences creative self-efficacy.
+
+### Learning motivation and academic self-efficacy
+
+Learning motivation represents one of the most significant predictors of academic self-efficacy development[45](/articles/s41598-025-08697-6#ref-CR45). Positive learning motivation appears to enhance students’ academic self-efficacy, subsequently improving academic performance. Research indicates that intrinsically motivated adolescents experience greater autonomy and control over their learning processes, strengthening their self-efficacy regarding academic excellence and predicting higher academic self-efficacy metrics[46](/articles/s41598-025-08697-6#ref-CR46). Students who exhibit proactive engagement in learning activities demonstrate more robust cognitive frameworks regarding the organization and implementation of strategies for achieving academic objectives[45](/articles/s41598-025-08697-6#ref-CR45). Accordingly, we propose:
+
+H6. University students’ learning motivation positively influences academic self-efficacy.
+
+### Learning motivation and learning outcomes
+
+Extensive empirical evidence demonstrates a robust correlation between learning motivation and learning outcomes. Motivation for academic achievement plays a crucial role in students’ knowledge acquisition processes[47](/articles/s41598-025-08697-6#ref-CR47). Li and colleagues have identified motivation and commitment as critical determinants of student performance and learning outcomes[1](/articles/s41598-025-08697-6#ref-CR1). Neuropsychological research conceptualizes learning motivation as an intrinsic neural driver of individual behavior, functioning as a prerequisite for learning-oriented activities[48](/articles/s41598-025-08697-6#ref-CR48). Strong motivation cultivates positive and engaged learning behaviors essential for optimal cognitive development. Huang et al. demonstrated that learning motivation significantly predicts desired learning outcomes, emphasizing the educational importance of enhancing student motivation[49](/articles/s41598-025-08697-6#ref-CR49). Based on this empirical foundation, we propose:
+
+H7. University students’ learning motivation positively influences learning outcomes.
+
+### Creative self-efficacy and learning outcomes
+
+Students’ creative self-efficacy significantly influences their cognitive processing of subject matter and problem-solving capabilities within classroom settings. Research shows that students with high creative self-efficacy demonstrate greater learning receptivity and developmental orientation, resulting in more optimistic approaches to opportunities and challenges[50](/articles/s41598-025-08697-6#ref-CR50). Recent empirical studies have established a positive correlation between creative self-efficacy and measurable learning outcomes. High self-efficacy indirectly enhances students’ learning performance through multiple cognitive and metacognitive pathways[51](/articles/s41598-025-08697-6#ref-CR51). Individuals with robust creative self-efficacy allocate additional cognitive resources to creative processes for problem identification and innovative solution generation[50](/articles/s41598-025-08697-6#ref-CR50). Consequently, we propose:
+
+H8. Creative self-efficacy positively influences the learning outcomes of university students.
+
+### Learning motivation as a mediator
+
+GAI output quality can substantially influence students’ engagement metrics and motivation levels, thereby affecting learning outcomes. GAI tools can enhance student interest and engagement by delivering accurate, current, methodologically sound, and contextually relevant output material. This emphasizes the importance of high-quality information delivery, efficient interactive experiences, collaborative learning activities, and enhanced learning motivation[34](/articles/s41598-025-08697-6#ref-CR34). Experimental research indicates that motivated students demonstrate greater effort allocation, active learning participation, task persistence, and knowledge acquisition[52](/articles/s41598-025-08697-6#ref-CR52) resulting in improved learning outcomes. Based on these empirical findings, we propose:
+
+H9. Learning motivation mediates the effect of GAI output quality on learning outcomes.
+
+### Creative thinking as a moderator
+
+The OECD conceptualizes creative thinking as a practical cognitive ability based on knowledge integration and application[53](/articles/s41598-025-08697-6#ref-CR53) particularly valuable in constrained and challenging situations, enabling individuals to achieve superior outcomes. Creative thinking involves the cognitive capacity to synthesize ideas, images, and knowledge for innovative thought and action, representing a generative process that produces uniqueness[54](/articles/s41598-025-08697-6#ref-CR54).
+
+Experimental research confirms that information feedback quality significantly impacts educational efficacy and knowledge acquisition processes[55](/articles/s41598-025-08697-6#ref-CR55). GAI tools’ relevant content and constructive feedback may enhance students’ interest and learning motivation[56](/articles/s41598-025-08697-6#ref-CR56). Developing creative thinking capabilities can motivate students to explore novel learning methodologies and improve performance outcomes. However, creative thinking’s potential moderating role remains insufficiently investigated in current research. Based on the established correlations, this study examines creative thinking as a moderating variable and proposes:
+
+H10. Creative thinking moderates the effect of GAI output quality on learning motivation.
+
+Evidence suggests that GAI output quality is fundamentally determined by prompt quality and structure[1](/articles/s41598-025-08697-6#ref-CR1). Students must critically evaluate GAI outputs, as potentially inappropriate content may nevertheless appear reasonable and relevant[57](/articles/s41598-025-08697-6#ref-CR57). Advanced creative thinking capabilities can facilitate the formulation of innovative and relevant queries when utilizing GAI tools[58](/articles/s41598-025-08697-6#ref-CR58) resulting in higher-quality outputs. Empirical studies have established a positive correlation between students’ creative thinking and cognitive learning outcomes, with creative thinking demonstrating the capacity to enhance problem-solving skills and learning performance[59](/articles/s41598-025-08697-6#ref-CR59). This investigation extends these findings by examining whether students with more developed creative thinking capabilities demonstrate enhanced ability to utilize GAI tools to support learning processes and achieve superior learning outcomes.
+
+H11. Creative thinking moderates the effect of GAI output quality on learning outcomes.
+
+Creative thinking can influence students’ perceptions regarding the significance and practicality of technological integration. Highly creative thinkers may conceptualize technology as a personalized instrument aligned with their learning preferences and emotional responses, enabling deeper cognitive engagement[60](/articles/s41598-025-08697-6#ref-CR60). Highly creative learners engage in more rigorous evaluation of new technologies’ applicability[61](/articles/s41598-025-08697-6#ref-CR61) while simultaneously exhibiting greater capacity to identify and actualize the innovative potential of GAI tools. This cognitive duality enables them to transition from initial critical assessment to sophisticated, proactive integration of GAIs into learning processes once value recognition occurs. This personalized, interactive learning approach enhances motivation across diverse learning contexts[49](/articles/s41598-025-08697-6#ref-CR49). Specifically, creative thinking encourages students to explore various features and potential applications of GAI tools. This exploratory process may reveal novel and engaging interactive learning modalities, thereby enhancing learning motivation[62](/articles/s41598-025-08697-6#ref-CR62). However, the observed effects of creative thinking remain subject to important factors, including the novelty effect and technology adaptation dynamics, which may temporarily suppress its positive influence. Current understanding of these complex interactions remains limited, highlighting the need for further empirical investigation. Based on these established correlations and identified research gaps, we examine creative thinking as a moderating variable and propose:
+
+H12. Creative thinking moderates the effect of GAI interaction on learning motivation.
+
+Experimental research indicates that creative thinking significantly influences design students’ creative self-efficacy and performance metrics[63](/articles/s41598-025-08697-6#ref-CR63). The GAI talent development framework from the World Digital Technology Academy (WDTA) recommends developing professionals with integrated competencies for understanding and addressing complex business challenges[64](/articles/s41598-025-08697-6#ref-CR64). A fundamental competency within this framework is creativity, operationalized in our research as innovative thinking capacity. Substantial evidence confirms that creative thinking plays a crucial role in students’ learning and development processes, enabling them to generate diverse, innovative problem-solving approaches[59](/articles/s41598-025-08697-6#ref-CR59). Qualitative research indicates that students recognize that fostering creativity and creative thinking enhances their experimental engagement and learning outcomes[65](/articles/s41598-025-08697-6#ref-CR65). Based on these established relationships, we examine creative thinking as a moderating variable and propose:
+
+H13. Creative thinking moderates the effect of creative self-efficacy on learning outcomes.
+
+### Control variable
+
+Research indicates that demographic characteristics may influence GAI tool utilization and learning outcomes. To minimize potential confounding effects, this study implements statistical controls for gender, grade, and major. The comprehensive research model illustrating all hypothesized relationships is presented in Fig. [1](/articles/s41598-025-08697-6#Fig1).
+
+**Fig. 1**
+
+![]()[Full size image](/articles/s41598-025-08697-6/figures/1)
+
+Research model.
+
+Methodology
+-----------
+
+### Research design
+
+This study investigates the causal mechanism between GAI tools and learning outcomes. Two-wave longitudinal study methods were employed to collect data on the association of these variables across higher education institutions at different points in time.
+
+### Participants
+
+The study population comprised students enrolled in undergraduate programs at universities in Taiyuan, Shanxi Province, China. This study was conducted in collaboration with many colleges to invite students to answer questions through college instructors and ensure that all participants were current university students from different majors to increase the study’s credibility.
+
+In order to collect valid data quickly, this study employed purposive sampling. The first round of questionnaires was distributed through the Tencent Questionnaire platform from June 13 to June 30, 2024. Students were invited to complete the questionnaire through university teachers. When the questionnaire began, the survey’s aim and privacy were explained at the start to ensure that participants understand the study’s goals and could withdraw at any moment. To protect participants’ privacy, data were kept confidential and anonymous. From 969 first-round responses, we evaluated participants’ GAI tool use, response duration, and repeat rate to ensure rigor, obtaining 329 valid responses for data analysis. 323 valid questionnaires were returned in the second round of testing four months later utilizing the same questionnaire to re-survey 329 students who had participated in the first round. The survey’s final sample data was 323.
+
+### Measures
+
+The questionnaire was divided into two parts. The first section included demographic characteristics of the students, such as their gender, grade, major, and GAI tool use experience. The second section included seven subscales with questions about GAI interaction, GAI output quality, learning motivation, academic self-efficacy, creative self-efficacy, creative thinking, and learning outcomes. This part used a 5-point Likert scale with values on the scale ranging from 1 to 5, 1 represents strongly disagree and 5 represents strongly agree.
+
+After completion, three experts were asked to evaluate the questionnaire’s content validity. According to our expert review criteria, experts must evaluate if the item questions match the contextual environment of Chinese university students’ learning, the study’s content, and the research hypotheses. To ensure that students can understand all questions, questionnaire items should avoid technical terminology and acronyms and use straightforward language. We conducted a pilot test with 100 Taiyuan, Shanxi Province university students. Male and female students of various majors and grades participated in the pilot. The pilot survey data showed that the questionnaire was reliable (Cronbach’s α >0.8, KMO >0.8, Bartlett’s test of sphericity *p* <0.001), but the total variance explained was 66.85%, indicating a significant methodological bias in the pilot test. The questionnaire items require further optimization. Finally, the optimized questionnaire was reduced to 28 items, and the factor loadings of the questionnaire items were all >0.8. According to Hair et al., the optimized questionnaire meets the criteria[66](/articles/s41598-025-08697-6#ref-CR66).
+
+GAI interaction scale: Adapted from the student-GAI interaction test scale proposed by Liang et al.[15](/articles/s41598-025-08697-6#ref-CR15), selected three items based on expert opinion and modified their linguistic expressions according to the research context.
+
+GAI output quality scale: There was less research on student judgments of GAI output quality, this scale was developed independently using the indicated criteria and later refined and optimized in linguistic expression based on expert opinions and the specific study environment. Finally, four items were set up for GAI output quality testing.
+
+Creative thinking scale: This scale was referenced from the creative thinking scale used by Yao et al.[42](/articles/s41598-025-08697-6#ref-CR42), and five of the items were picked based on expert opinion and optimized with some linguistic alterations based on the research setting.
+
+Learning motivation scale: This scale referred to the learning motivation scale used by Jia and Tu[28](/articles/s41598-025-08697-6#ref-CR28) and five of the items were selected based on experts’ opinions and modified and optimized with certain linguistic expressions according to the research context.
+
+Academic self-efficacy scale: This scale was referenced from the academic self-efficacy scale used by Yao et al.[42](/articles/s41598-025-08697-6#ref-CR42), and four of the items were selected based on expert opinion, with some modification and optimization of linguistic expression based on the research context.
+
+Creative self-efficacy scale: This scale referred to the creative self-efficacy scale developed by He and Wong[67](/articles/s41598-025-08697-6#ref-CR67) and four of the items were selected from academic self-efficacy based on expert opinion and modified and optimized with certain linguistic expressions according to the research context.
+
+Learning outcomes scale: This study referred to the learning outcomes scale established by Damnjanovic et al.[68](/articles/s41598-025-08697-6#ref-CR68),and selected one of the items of academic self-efficacy on expert opinion. At the same time, two more items were introduced to further detect students’ learning outcomes from other perspectives.
+
+### Data analysis
+
+This study used SPSS (29.0.1.0), AMOS 27, and Mplus 8.3 to analyze the data collected. We used Cronbach’s alpha test, KMO and Bartlett’s sphericity test, common method bias test, EFA, and Spearman’s correlation analysis. In order to fully understand the dataset and to improve the efficiency of the study, the present work used covariance-based structural equation modeling (CB-SEM) to analyze the correlations between variables. This study evaluated various CFA fit indices, Hair et al., stipulate that to attain the optimal fit value of the fit index in Confirmatory Factor Analysis (CFA)[69](/articles/s41598-025-08697-6#ref-CR69) specific requirements must be satisfied: 1 ≤ χ2/df ≤ 3[66](/articles/s41598-025-08697-6#ref-CR66), 0.95 ≤ AGFI ≤ 1.00, 0.95 ≤ GFI ≤ 1.00, 0.95 ≤ CFI ≤ 1.00, 0.95 ≤ NFI ≤ 1.00[70](/articles/s41598-025-08697-6#ref-CR70), 0.95 ≤ TLI ≤ 1.00[71](/articles/s41598-025-08697-6#ref-CR71), 0 ≤ RMSEA ≤ 0.05[72](/articles/s41598-025-08697-6#ref-CR72), 0 ≤ RMR ≤ 0.05[73](/articles/s41598-025-08697-6#ref-CR73). The utilization of Mplus for Latent Moderated Structural Equations (LMS) of the acquired data, facilitates the execution of moderator effect analysis within structural equations.
+
+Results
+-------
+
+### Profile of respondents
+
+The first round study accepted 329 eligible volunteers, 70.2% of whom were male and 29.8% female. In their first and second years of university, 39.8% and 35.3% of students were learning. Most students (58.4%) were engineering majors, whereas less than 10% were from other fields. ChatGPT was the most popular GAI tool, with 68.4% of respondents using it. 75.4% and 62.3% found information search and text generation most intriguing in GAI. The respondent profile is shown in Table [1](/articles/s41598-025-08697-6#Tab1).
+
+**Table 1 Respondent profile.**
+
+[Full size table](/articles/s41598-025-08697-6/tables/1)
+### Assessment of common method bias
+
+Harman’s single-factor test showed that the primary factor explained 38.213% (less than 40%) of the variance[74](/articles/s41598-025-08697-6#ref-CR74). These findings show no method bias in the study data.
+
+### Assessment of reliability, validity, and contingency
+
+The internal consistency assessments showed that every subscale Cronbach’s α coefficient was between 0.888 and 0.931, indicating that the scale is trustworthy and usable[75](/articles/s41598-025-08697-6#ref-CR75). The KMO >0.9 and Bartlett’s test of sphericity *p* <0.001 suggest the questionnaire meets reliability and validity criteria, allowing for factor analysis[76](/articles/s41598-025-08697-6#ref-CR76). The questionnaires and scales used in this study have strong internal consistency, allowing additional analysis.
+
+In the CFA model, all items of the scale in this evaluation had factor loadings greater than 0.7, *p* <0.05, satisfying the measurement criteria[77](/articles/s41598-025-08697-6#ref-CR77). Both the composite reliability (CR) and average variance extracted (AVE) for each construct were found to be over 0.5[78](/articles/s41598-025-08697-6#ref-CR78). The analysis above indicates that the questionnaire data of this study demonstrated robust convergent validity. The construct coding, CR, and AVE results are displayed in Table [2](/articles/s41598-025-08697-6#Tab2).
+
+**Table 2 Construct coding, CR, and AVE results.**
+
+[Full size table](/articles/s41598-025-08697-6/tables/2)
+### The variables of control
+
+This study incorporated three control factors: gender, grade, and major. Spearman’s correlation analysis indicates the two-tailed *p*-values among the variables of gender, grade, major, and learning outcomes in this study exceed 0.1, signifying that none of the correlations are statistically significant[79](/articles/s41598-025-08697-6#ref-CR79).
+
+### Structural model
+
+Using AMOS, a structural equation model was developed to assess the theoretical framework. Path analyses were then performed on each variable to examine their impacts. The computed model fit indices were χ2/df (1.495), RMR (0.065), RMSEA (0.039), GFI (0.922), AGFI (0.903), CFI (0.980), NFI (0.942), and TLI (0.977). All of these indices fell within the optimal ranges, except for RMR, which partially aligned with the results. These results indicate that all of the model fit indices satisfy the established criteria[56](/articles/s41598-025-08697-6#ref-CR56).
+
+The present investigation did not exhibit multicollinearity, as indicated by internal VIF values ranging from 2.657 to 4.018[56](/articles/s41598-025-08697-6#ref-CR56). The results of the model fitting revealed a significant positively correlated relationship between each construct and the other components. The SEM path diagram of the first round study is shown in Fig. [2](/articles/s41598-025-08697-6#Fig2). The hypothesis test results are displayed in Table [3](/articles/s41598-025-08697-6#Tab3).
+
+**Fig. 2**
+
+![]()[Full size image](/articles/s41598-025-08697-6/figures/2)
+
+SEM path diagram of the first round study.
+
+**Table 3 Hypothetical results.**
+
+[Full size table](/articles/s41598-025-08697-6/tables/3)
+
+The research methodology of this study suggests that the investigation of mediating effects should be carried out using serial mediation analysis. The findings revealed that the 95% confidence interval for the mediating variable “GAI output quality → learning motivation → learning outcomes” did not encompass the value of 0. This suggests the presence of a mediating[80](/articles/s41598-025-08697-6#ref-CR80). Moreover, the combined impact of GAI output quality on learning outcomes was 0.538, comprising a direct impact of 0.453 and an indirect impact of 0.085. This suggests that the mediating effect was confirmed, thereby supporting H9.
+
+Analyzed using Mplus, the moderating effects revealed that creative thinking significantly moderated the associations in the construct relationships in this study. Specifically, the study found that creative thinking moderates the effect of GAI output quality on learning motivation (H10: β = 0.535, *p* <0.05). Creative thinking moderates the effect of GAI output quality on learning outcomes (H11: β = 1.198, *p* <0.05). Creative thinking moderates the effect of GAI interaction on learning motivation. The moderating effect is inverse, meaning that the stronger the creative thinking, the more deleterious the effect of GAI interaction on learning motivation becomes. This effect is statistically significant (H12: β = -136.322, *p* <0.001). Creative thinking moderates the effect of creative self-efficacy on learning outcomes (H13: β = 0.232, *p* <0.05). The present study suggests that creative thinking has a moderating role in the association between GAI interaction, GAI output quality, creative self-efficacy, learning motivation, and learning outcomes. Furthermore, it is seen that the magnitude of this relationship changes across different degrees of creative thinking maturity.
+
+### Two-wave longitudinal investigation
+
+After the second round of questionnaire data analysis, it was concluded that the reliability and validity of the sample data met the criteria (Cronbach’s α coefficients of all subscales as well as the total scale were > 0.8[75](/articles/s41598-025-08697-6#ref-CR75), KMO = 0.910, Bartlett’s Test of Sphericity *p* <0.001), and there were no serious common methodological biases (the variance explained by the common factor was 35.436%, less than 40%), structural equation model fit indices met the criteria (χ2/df = 1.469, RMR = 0.089, RMSEA = 0.038, GFI = 0.924, AGFI = 0.905, CFI = 0.980, NFI = 0.939, TLI = 0.977), and mediation effects were passed (95%Confidence Intervals without 0 ), all direct path hypotheses passed (as shown in Table [4](/articles/s41598-025-08697-6#Tab4)), and moderating effects were hypothesized to pass (H10: β = 0.132, *p* <0.05; H11: β = 0.205, *p* <0.05; H12: β = 0.182, *p* <0.05; H13: β = 0.118, *p* <0.05). The SEM path diagram of the second round study is shown in Fig. [3](/articles/s41598-025-08697-6#Fig3).
+
+**Fig. 3**
+
+![]()[Full size image](/articles/s41598-025-08697-6/figures/3)
+
+SEM path diagram of the second round study.
+
+**Table 4 Hypothetical results of second-round data.**
+
+[Full size table](/articles/s41598-025-08697-6/tables/4)
+
+The two-wave longitudinal study data analysis confirmed most of the first-round cross-sectional survey’s conclusions. But creative thinking positively moderates the effect of GAI interactions on college students’ motivation to study, contrary to the first-round data analysis. The moderating effect of creative thinking on GAI interactions’ effect on college students’ study motivation may increase or decrease over time.
+
+Discussion and implications
+---------------------------
+
+### Discussion of results
+
+This investigation integrates interaction theory and technology-mediated learning theory to empirically determine how GAI interaction quality and output quality influence university students’ learning outcomes through specific psychological mechanisms. Our structural equation modeling results provide quantifiable evidence for these relationships, contributing to the scientific understanding of educational technology applications. The experimental findings demonstrate the neuropsychological and cognitive pathways through which GAI tools can measurably enhance educational experiences. The causal relationships between GAI interactions, output quality, and learning outcomes identified in this study must be interpreted with caution due to two key methodological constraints inherent in longitudinal research: First, while longitudinal designs can reveal temporal patterns, they cannot definitively establish causality due to potential unmeasured confounding variables. Second, our analysis may not have accounted for all relevant external factors that could influence these relationships. We therefore emphasize that these findings represent observed associations rather than demonstrated causal effects and recommend further experimental research to verify the proposed causal mechanisms.
+
+While no direct statistical relationship between GAI interaction and students’ learning outcomes was established, our data revealed significant positive indirect effects when mediated by creative self-efficacy and learning motivation (*p* <0.05). Neuropsychological research suggests that GAI systems can provide stimuli that align with learners’ cognitive processing preferences, thereby reducing attentional fatigue and enhancing sustained engagement. Our quantitative analyses demonstrate that students exhibited statistically significant increases in learning motivation when using GAI for educational purposes (β = 0.148, *p* <0.05, second-round data), particularly in environments prioritizing active learning methodologies[11](/articles/s41598-025-08697-6#ref-CR11). Furthermore, psychometric measurements indicate that GAI-mediated interactions increase social presence metrics, significantly correlating with enhanced learner satisfaction . These satisfaction indicators are neurologically linked to increased intrinsic motivation, a critical factor in cognitive engagement during human-computer interaction learning scenarios[81](/articles/s41598-025-08697-6#ref-CR81). Concurrent studies show that individuals with elevated creative self-efficacy scores demonstrate more positive neural responses to academic challenges across multiple domains and exhibit greater engagement in collaborative learning activities[82](/articles/s41598-025-08697-6#ref-CR82). Our experimental data confirm that GAI tools serve as cognitive catalysts[62](/articles/s41598-025-08697-6#ref-CR62) with adaptive learning environments consistently producing measurable enhancements in motivation metrics and knowledge acquisition rates[83](/articles/s41598-025-08697-6#ref-CR83). Psychometric assessments reveal that intrinsically motivated students demonstrate higher effort allocation, correlating directly with improved performance outcomes.
+
+Our data analysis established a direct statistical pathway from GAI output quality to student learning outcomes (β = 0.346, *p* <0.001, second-round data). This relationship remained significant even after controlling for learning motivation as a mediating variable. These empirical findings align with Almulla’s research, which quantified the necessity for high-quality information delivery, interactive engagement facilitation, collaborative learning environment creation, and motivation enhancement[34](/articles/s41598-025-08697-6#ref-CR34). High-quality interactions with GAI can facilitate the synthesis of novel conceptual combinations and strengthen divergent thinking, thereby fostering more innovative solutions[84](/articles/s41598-025-08697-6#ref-CR84). The present study’s findings corroborate this relationship, demonstrating GAI’s potential to enhance creative problem-solving processes. Our path analysis demonstrates that higher quality GAI outputs significantly increase students’ utility perceptions and peer engagement behaviors (*p* < 0.01). Consequently, enjoyment indices increase substantially, correlating positively with learning achievement metrics. These experimental results provide robust empirical support for GAI’s beneficial impact on cognitive knowledge acquisition processes.
+
+Additionally, our factor analysis revealed complex interconnections among motivational constructs, identifying previously undetected patterns. Specifically, our data show that academic self-efficacy positively predicted creative self-efficacy (β = 0.373, *p* <0.001, second-round data), while learning motivation significantly influenced academic self-efficacy (β = 0.421, *p* <0.001, second-round data). Meta-analytical evidence has established self-efficacy as a critical mediator of students’ motivation, comprehension, knowledge acquisition, and academic performance[85](/articles/s41598-025-08697-6#ref-CR85). Our findings confirm that elevated self-efficacy scores correlate with superior academic achievement, enhanced problem-solving capabilities, and increased persistence when confronting cognitive challenges[52](/articles/s41598-025-08697-6#ref-CR52). Our study extends these findings by empirically validating the positive relationships between creative self-efficacy, academic self-efficacy, and learning motivation in technology-mediated educational contexts.
+
+Our latent moderated structural equation analysis identified creative thinking as a significant moderator of multiple relationships within our model. In the first-round study, creative thinking positively moderated GAI output quality’s effect on learning motivation (β = 0.535, *p* <0.05) and learning outcomes (β = 1.198, *p* <0.05), as well as creative self-efficacy’s influence on learning outcomes (β = 0.232, *p* <0.05). However, it negatively moderated the effect of GAI interactions on learning motivation (β = -136.322, *p* <0.001). Neuropsychological assessments indicate that students with developed creative thinking capabilities perceive GAI-facilitated learning as cognitively demanding yet simultaneously experience greater achievement satisfaction, predisposing them to actively engage in learning processes. However, some scholars contend that excessive reliance on GAI may hinder students’ analytical and critical thinking abilities[86](/articles/s41598-025-08697-6#ref-CR86). Our findings challenge this perspective, suggesting instead that the relationship between GAI use and cognitive skills warrants further investigation. Future research should explore how creative thinking evolves in response to GAI integration and its subsequent impact on learning outcomes. Cognitive research demonstrates that problem-solving activities stimulate neuroplasticity related to creativity and creative thinking, promoting experimental behaviors and enhancing learning outcomes[65](/articles/s41598-025-08697-6#ref-CR65). Our longitudinal data revealed a temporal effect: creative thinking initially negatively moderated GAI interactions’ impact on learning motivation, potentially because creative thinkers had elevated interaction quality expectations. When these expectations remained unmet, motivation metrics decreased significantly. The novelty effect may have significantly influenced students’ engagement with GAI tools. As evidenced by Miguel-Alonso et al., novice users often exhibit a technology-centric focus—prioritizing interaction with the tool itself rather than the intended learning objectives[87](/articles/s41598-025-08697-6#ref-CR87). This misallocation of cognitive resources aligns with Jiang and Fryer’s findings on irrelevant cognitive load, wherein heightened immersion and interactivity can paradoxically impede learning by inducing extraneous processing overload[88](/articles/s41598-025-08697-6#ref-CR88). However, in the second-round, creative thinking positively moderated this relationship(β = 0.182, *p* <0.05). Extant literature has consistently identified a distinct familiarization phase in technology adoption processes, characterized by user exploration of system functionalities and gradual identification of utility-maximizing features[89](/articles/s41598-025-08697-6#ref-CR89). Our findings not only substantiate this established framework but further reveal several critical nuances: that increased tool familiarity enabled more effective utilization, improving feedback quality and engagement through positive experiential reinforcement. These findings provide crucial empirical evidence regarding how creative thinking influences GAI-mediated learning motivation across time, contributing to scientific understanding of how AI technologies can enhance educational outcomes in diverse cognitive contexts.
+
+### Theoretical implications
+
+This investigation makes substantial theoretical contributions to educational technology research. By systematically integrating interaction theory with technology-mediated learning theory, we provide a novel empirical framework for understanding GAI tools’ impact on cognitive and educational outcomes.
+
+Our structural equation modeling extends existing research on technology-mediated learning by empirically demonstrating specific causal pathways through which GAI interactions and output quality influence motivational factors and learning outcomes. While previous studies have examined direct relationships between AI tools and academic performance metrics[34](/articles/s41598-025-08697-6#ref-CR34).Our mediation analysis quantifies the crucial intervening roles of academic self-efficacy (β = 0.421, *p* <0.001, second-round data), creative self-efficacy (β = 0.200, *p* < 0.001, second-round data), and learning motivation (β = 0.243, *p*<0.001, second-round data). This provides a scientifically rigorous understanding of the psychological mechanisms underlying GAI’s educational effects, addressing research gaps identified by Antonietti et al.[11](/articles/s41598-025-08697-6#ref-CR11),and Liang et al.[15](/articles/s41598-025-08697-6#ref-CR15).
+
+Furthermore, incorporating creative constructs (creative self-efficacy and creative thinking) into our experimental model addresses scientific calls for investigation into how AI technologies foster creativity and cognitive innovation[58](/articles/s41598-025-08697-6#ref-CR58). Our statistical analyses reveal that creative thinking functions as a complex moderator, enhancing certain pathways while attenuating others, with significant temporal variations. This empirical evidence highlights the necessity for future experimental studies to employ sophisticated methodologies that account for both direct and interactive effects of creativity-related cognitive processes.
+
+This study contributes to scientific debates regarding appropriate GAI integration in higher education environments[12](/articles/s41598-025-08697-6#ref-CR12). By statistically demonstrating positive correlations between GAI output quality and learning outcomes (β = 0.346, *p* <0.001, second-round data), mediated by motivational factors, we provide empirical evidence countering concerns that such technologies might undermine authentic learning processes. However, our moderation analyses regarding creative thinking suggest that cognitive benefits may not be universally uniform, indicating a scientific need for personalized implementation approaches based on individual cognitive differences.
+
+From a methodological perspective, our application of structural equation modeling (χ²/df = 1.469, RMSEA = 0.038, CFI = 0.980, second-round data) with a sample of university students (*n* = 323) significantly enhances the statistical robustness of our findings compared to previous qualitative or small-scale investigations in this domain[90](/articles/s41598-025-08697-6#ref-CR90). Our longitudinal design provides particularly valuable scientific insights regarding both micro-level phenomena (individual student-GAI interactions) and macro-level implications (institutional implementation policies).
+
+### Implications for educational technology stakeholders
+
+Our empirical findings have significant implications for key stakeholders in educational technology, including university students, educators, and higher education institutions.
+
+#### Implications for university students
+
+This research empirically demonstrates the importance of students adopting diverse engagement strategies when utilizing GAI tools for educational purposes. Our data suggest that students should approach GAI systems as collaborative learning partners rather than passive information sources. Neurological and behavioral measurements indicate that GAI’s optimal function is to augment cognitive processes and support learning activities, not replace intellectual effort or critical thinking[6](/articles/s41598-025-08697-6#ref-CR6). Our experimental evidence recommends that students transition from passive consumption of GAI-generated content to more interactive and cognitively engaged modes of utilization[23](/articles/s41598-025-08697-6#ref-CR23). Statistical analyses indicate that formulating precise, cognitively challenging queries and engaging in dynamic interactions with GAI systems elicit significantly more accurate and personalized responses (*p* <0.01), thereby enhancing output quality and relevance. For example, using iterative questioning techniques, wherein students progressively refine their inquiries through three key mechanisms: expanding and rephrasing initial questions based on GAI feedback, maintaining dynamic dialogue with the AI system, and systematically narrowing the focus through successive question refinements. This cyclical optimization process enhances both the precision of user queries and the quality of GAI outputs. Adopting this cognitive approach enables students to leverage GAI’s capabilities to enhance learning outcomes across diverse academic disciplines and educational contexts.
+
+#### Implications for educators
+
+Our findings suggest that GAI can alter higher education if students use its statistical analyses, suggesting that GAI can transform educational methodologies when students utilize its interactive capabilities to access high-quality information. Our data support educators in developing adaptive learning systems based on GAI methodologies. This personalized approach enables the delivery of customized educational interventions addressing specific cognitive requirements while simultaneously fostering students’ intrinsic motivation.
+
+In instructional design contexts, our findings recommend that educators create challenging, GAI-integrated assignments that stimulate neurological curiosity pathways and necessitate deep cognitive engagement[91](/articles/s41598-025-08697-6#ref-CR91). According to our experimental data, these assignments should incorporate complex problem-solving tasks, creative projects, and real-world applications requiring critical interaction with GAI tools. For instance, teacher-assigned multi-stage prompt engineering tasks can serve as scaffolded instructional frameworks for creative applications by engaging students in project-oriented assignments. Through these tasks, students learn to progressively refine input prompts to optimize the generative AI’s output for enhanced efficiency and accuracy.
+
+Additionally, our research suggests that educators should integrate GAI literacy into curriculum development, teaching students effective and ethical utilization across subject domains and learning environments. This evidence-based approach aligns with Scientific Reports’ focus on applied science that addresses real-world challenges.
+
+#### Implications for higher education institutions
+
+Our statistical analysis indicates growing recognition of GAI tools’ educational value among university students. Consequently, higher education institutions should develop evidence-based policies and implementation guidelines for integrating GAI technologies into educational ecosystems. These policies should address ethical considerations, academic integrity, and critical digital literacy skill development.
+
+Furthermore, our experimental methodology suggests that institutions should contribute to expanding scientific knowledge regarding GAI in education. Longitudinal studies evaluating GAI integration’s enduring effects on educational outcomes, cognitive development, and professional readiness are particularly warranted.
+
+Our research recommends that institutions collaborate with industry partners and policymakers to ensure GAI integration aligns with evolving workforce requirements and societal challenges. Our data indicate that higher education institutions can utilize GAI to create measurably more engaging, personalized, and effective learning environments that prepare students for technological challenges[23](/articles/s41598-025-08697-6#ref-CR23). This comprehensive approach to GAI integration can significantly enhance student learning outcomes while advancing educational technology research and implementation.
+
+Conclusion and areas for further investigation
+----------------------------------------------
+
+This study integrates interaction theory with technology-mediated learning theory to systematically investigate GAI’s influence on learning activities, motivation, and educational outcomes, incorporating creativity constructs as key variables. Our experimental evidence demonstrates that GAI interaction quality and output quality significantly impact learning outcomes through academic self-efficacy, creative self-efficacy, and motivation (*p* < 0.05). Furthermore, our statistical analyses confirm creative thinking’s moderating function within this cognitive framework. These findings extend the applicable scope of both theoretical approaches. Additionally, our research examined GAI’s technological capabilities and evaluated its educational applications, providing evidence-based recommendations for enhancing educational methodologies and student learning through AI-augmented approaches.
+
+Nevertheless, this investigation has several methodological limitations. First, our sample was restricted to university students in a northern Chinese city, potentially limiting generalizability to other geographical and cultural contexts. Future research should employ multi-site sampling across diverse Chinese regions to enhance external validity. Second, our purposive sampling methodology, while appropriate for targeting specific research questions, resulted in demographic imbalances regarding gender, academic year, and major. Alternative sampling strategies could be implemented in longitudinal studies to track developmental patterns more effectively. Furthermore, the integration of multiple subscales within a unified questionnaire instrument may introduce systematic biases, including question-order effects and fatigue-related response deterioration. To address these methodological limitations and enhance data validity, we recommend that future studies implement counterbalanced question sequencing to control for order effects and adopt mixed-method approaches combining quantitative surveys with qualitative measures to triangulate findings. Such methodological diversification would substantially improve the robustness of data collection while mitigating fatigue-induced response biases. Third, while our two-wave longitudinal design offers valuable preliminary insights into the potential causal relationships between GAI interaction, GAI output quality, and learning outcomes, two notable limitations warrant caution in interpretation: potential omitted variable bias persists despite our analytical controls, and the design cannot conclusively eliminate alternative explanations for the observed associations. Consequently, we recommend treating the causal inferences from this study as provisional rather than definitive. Future research should employ more comprehensive methodological approaches, such as multi-wave panel designs to better model temporal dynamics, extended follow-up studies to observe longer-term effects, and experimental or quasi-experimental designs to strengthen causal claims. These methodological refinements would significantly enhance our understanding of the causal mechanisms underlying these relationships while addressing the current study’s limitations. Finally, our reliance on self-reported assessments introduces potential subjective biases. Future investigations should develop objective assessment criteria to more accurately measure student engagement patterns and output evaluation processes, thereby enhancing the scientific understanding of GAI integration in higher education environments.
+
+
+
+Data availability
+-----------------
+
+The datasets used or analysed during the current study are available from the corresponding author (Shaofeng Wang: vipwhsl@hotmail.com) on reasonable request.
+
+References
+----------
+
+1. Li, Y., Sadiq, G., Qambar, G. & Zheng, P. The impact of students’ use of ChatGPT on their research skills: the mediating effects of autonomous motivation, engagement, and self-directed learning. *Educ. Inf. Technol.* (2024).
+2. Samala, A. D. et al. Unveiling the landscape of generative artificial intelligence in education: a comprehensive taxonomy of applications, challenges, and future prospects. *Educ. Inf. Technol.* (2024).
+3. Wang, S. & Zhang, H. Generative AI in international hotel marketing: impacts on employee creativity and performance. *Int. J. Contemp. Hosp. Manag*. **36**, 57–76; https://doi.org/10.1108/IJCHM-10-2024-1595 (2025).
+   
+   [Article](https://doi.org/10.1108%2FIJCHM-10-2024-1595) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Generative%20AI%20in%20international%20hotel%20marketing%3A%20impacts%20on%20employee%20creativity%20and%20performance&journal=International%20Journal%20of%20Contemporary%20Hospitality%20Management&doi=10.1108%2FIJCHM-10-2024-1595&publication_year=2025&author=Zhang%2CHao)
+4. Bewersdorff, A. et al. Taking the next step with generative artificial intelligence: the transformative role of multimodal large Language models in science education. *Learn. Individ Differ.* **118**, 102601 (2025).
+   
+   [Article](https://doi.org/10.1016%2Fj.lindif.2024.102601) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Taking%20the%20next%20step%20with%20generative%20artificial%20intelligence%3A%20the%20transformative%20role%20of%20multimodal%20large%20Language%20models%20in%20science%20education&journal=Learn.%20Individ%20Differ.&doi=10.1016%2Fj.lindif.2024.102601&volume=118&publication_year=2025&author=Bewersdorff%2CA)
+5. Ali, O. et al. The effects of artificial intelligence applications in educational settings: challenges and strategies. *Technol. Forecast. Soc. Change*. **199**, 123076 (2024).
+   
+   [Article](https://doi.org/10.1016%2Fj.techfore.2023.123076) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effects%20of%20artificial%20intelligence%20applications%20in%20educational%20settings%3A%20challenges%20and%20strategies&journal=Technol.%20Forecast.%20Soc.%20Change&doi=10.1016%2Fj.techfore.2023.123076&volume=199&publication_year=2024&author=Ali%2CO)
+6. Gao, Z. et al. Enhancing academic performance of business students using GAI: an interactive-constructive-active-passive (ICAP) self-determination perspective. *Int. J. Manag Educ.* **22**, 100958 (2024).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Enhancing%20academic%20performance%20of%20business%20students%20using%20GAI%3A%20an%20interactive-constructive-active-passive%20%28ICAP%29%20self-determination%20perspective&journal=Int.%20J.%20Manag%20Educ.&volume=22&publication_year=2024&author=Gao%2CZ)
+7. Rasul, T. et al. Enhancing academic integrity among students in GenAI era: A holistic framework. *Int. J. Manag Educ.* **22**, 101041 (2024).
+   
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Enhancing%20academic%20integrity%20among%20students%20in%20GenAI%20era%3A%20A%20holistic%20framework&journal=Int.%20J.%20Manag%20Educ.&volume=22&publication_year=2024&author=Rasul%2CT)
+8. Alshammari, S. H. & Babu, E. The mediating role of satisfaction in the relationship between perceived usefulness, perceived ease of use and students’ behavioural intention to use ChatGPT. *Sci. Rep.* **15**, 7169 (2025).
+   
+   [Article](https://doi.org/10.1038%2Fs41598-025-91634-4) 
+   [CAS](/articles/cas-redirect/1:CAS:528:DC%2BB2MXlsVyrsr4%3D) 
+   [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=40021737) 
+   [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11871239) 
+   [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20mediating%20role%20of%20satisfaction%20in%20the%20relationship%20between%20perceived%20usefulness%2C%20perceived%20ease%20of%20use%20and%20students%E2%80%99%20behavioural%20intention%20to%20use%20ChatGPT&journal=Sci.%20Rep.&doi=10.1038%2Fs41598-025-91634-4&volume=15&publication_year=2025&author=Alshammari%2CSH&author=Babu%2CE)
+9. Duffy, H. & Weil, S. E. February ChatGPT, cheating, and the future of education. *Harv. Crimson* **23** (2023).
+10. Camilleri, M. A. Factors affecting performance expectancy and intentions to use chatgpt: using SmartPLS to advance an information technology acceptance framework. *Technol. Forecast. Soc. Change*. **201**, 123247 (2024).
+    
+    [Article](https://doi.org/10.1016%2Fj.techfore.2024.123247) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Factors%20affecting%20performance%20expectancy%20and%20intentions%20to%20use%20chatgpt%3A%20using%20SmartPLS%20to%20advance%20an%20information%20technology%20acceptance%20framework&journal=Technol.%20Forecast.%20Soc.%20Change&doi=10.1016%2Fj.techfore.2024.123247&volume=201&publication_year=2024&author=Camilleri%2CMA)
+11. Antonietti, C. et al. Development and validation of the ICAP technology scale to measure how teachers integrate technology into learning activities. *Comput. Educ.* **192**, 104648 (2023).
+    
+    [Article](https://doi.org/10.1016%2Fj.compedu.2022.104648) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Development%20and%20validation%20of%20the%20ICAP%20technology%20scale%20to%20measure%20how%20teachers%20integrate%20technology%20into%20learning%20activities&journal=Comput.%20Educ.&doi=10.1016%2Fj.compedu.2022.104648&volume=192&publication_year=2023&author=Antonietti%2CC)
+12. Lim, W. M. et al. GAI and the future of education: Ragnarök or reformation? A Paradoxical perspective from management educators. *Int. J. Manag Educ.* **21**, 100790 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GAI%20and%20the%20future%20of%20education%3A%20Ragnar%C3%B6k%20or%20reformation%3F%20A%20Paradoxical%20perspective%20from%20management%20educators&journal=Int.%20J.%20Manag%20Educ.&volume=21&publication_year=2023&author=Lim%2CWM)
+13. Liu, Y., Park, J. & McMinn, S. Using generative artificial intelligence/chatgpt for academic communication: students’ perspectives. *Int. J. Appl. Linguist* (2024).
+14. Wang, S., Sun, Z., Li, M., Zhang, H. & Metwally, A. H. S. Leveraging TikTok for active learning in management education: an extended technology acceptance model approach. *Int. J. Manag. Educ*. **22**, 101009; https://doi.org/10.1016/j.ijme.2024.101009 (2024).
+15. Liang, J. et al. The relationship between student interaction with generative artificial intelligence and learning achievement: serial mediating roles of self-efficacy and cognitive engagement. *Front. Psychol.* **14**, 1285392 (2023).
+    
+    [Article](https://doi.org/10.3389%2Ffpsyg.2023.1285392) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38187430) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10766754) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20relationship%20between%20student%20interaction%20with%20generative%20artificial%20intelligence%20and%20learning%20achievement%3A%20serial%20mediating%20roles%20of%20self-efficacy%20and%20cognitive%20engagement&journal=Front.%20Psychol.&doi=10.3389%2Ffpsyg.2023.1285392&volume=14&publication_year=2023&author=Liang%2CJ)
+16. Suriano, R. et al. Student interaction with ChatGPT can promote complex critical thinking skills. *Learn. Instr*. **95**, 102011 (2025).
+    
+    [Article](https://doi.org/10.1016%2Fj.learninstruc.2024.102011) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Student%20interaction%20with%20ChatGPT%20can%20promote%20complex%20critical%20thinking%20skills&journal=Learn.%20Instr&doi=10.1016%2Fj.learninstruc.2024.102011&volume=95&publication_year=2025&author=Suriano%2CR)
+17. Alavi, M. & Leidner, D. E. Research commentary: Technology-mediated learning—A call for greater depth and breadth of research. *Inf. Syst. Res.* **12**, 1–10 (2001).
+    
+    [Article](https://doi.org/10.1287%2Fisre.12.1.1.9720) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Research%20commentary%3A%20Technology-mediated%20learning%E2%80%94A%20call%20for%20greater%20depth%20and%20breadth%20of%20research&journal=Inf.%20Syst.%20Res.&doi=10.1287%2Fisre.12.1.1.9720&volume=12&pages=1-10&publication_year=2001&author=Alavi%2CM&author=Leidner%2CDE)
+18. Bhushan, P., Sengupta, A. & Abraham, C. Technology-mediated learning in the workplace: influence of personalization. *Manag. Decis.* (2025).
+19. Soh, P. H. & Subramanian, A. M. Is usage a missing link in explaining the perceived learning outcome of technology-mediated learning? *IEEE Trans. Eng. Manag*. **55**, 50–66 (2008).
+    
+    [Article](https://doi.org/10.1109%2FTEM.2007.912818) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Is%20usage%20a%20missing%20link%20in%20explaining%20the%20perceived%20learning%20outcome%20of%20technology-mediated%20learning%3F&journal=IEEE%20Trans.%20Eng.%20Manag&doi=10.1109%2FTEM.2007.912818&volume=55&pages=50-66&publication_year=2008&author=Soh%2CPH&author=Subramanian%2CAM)
+20. Rosli, M. S. & Saleh, N. S. Technology enhanced learning acceptance among university students during Covid-19: integrating the full spectrum of self-determination theory and self-efficacy into the technology acceptance model. *Curr. Psychol.* **42**, 18212–18231 (2023).
+    
+    [Article](https://link.springer.com/doi/10.1007/s12144-022-02996-1) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Technology%20enhanced%20learning%20acceptance%20among%20university%20students%20during%20Covid-19%3A%20integrating%20the%20full%20spectrum%20of%20self-determination%20theory%20and%20self-efficacy%20into%20the%20technology%20acceptance%20model&journal=Curr.%20Psychol.&doi=10.1007%2Fs12144-022-02996-1&volume=42&pages=18212-18231&publication_year=2023&author=Rosli%2CMS&author=Saleh%2CNS)
+21. Huang, K. L. et al. Integrating AIGC into product design ideation teaching: an empirical study on self-efficacy and learning outcomes. *Learn. Instr*. **92**, 101929 (2024).
+    
+    [Article](https://doi.org/10.1016%2Fj.learninstruc.2024.101929) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrating%20AIGC%20into%20product%20design%20ideation%20teaching%3A%20an%20empirical%20study%20on%20self-efficacy%20and%20learning%20outcomes&journal=Learn.%20Instr&doi=10.1016%2Fj.learninstruc.2024.101929&volume=92&publication_year=2024&author=Huang%2CKL)
+22. Boubker, O. From chatting to self-educating: can AI tools boost student learning outcomes? *Expert Syst. Appl.* **238**, 121820 (2024).
+    
+    [Article](https://doi.org/10.1016%2Fj.eswa.2023.121820) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=From%20chatting%20to%20self-educating%3A%20can%20AI%20tools%20boost%20student%20learning%20outcomes%3F&journal=Expert%20Syst.%20Appl.&doi=10.1016%2Fj.eswa.2023.121820&volume=238&publication_year=2024&author=Boubker%2CO)
+23. Gao, L. et al. (eds) (Xuehui). Ask ChatGPT first! Transforming learning experiences in the age of artificial intelligence. *Stud. High. Educ.* (2024).
+24. Ryan, R. M. & Deci, E. L. Intrinsic and extrinsic motivation from a self-determination theory perspective: definitions, theory, practices, and future directions. *Contemp. Educ. Psychol.* **61**, 101860 (2020).
+    
+    [Article](https://doi.org/10.1016%2Fj.cedpsych.2020.101860) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intrinsic%20and%20extrinsic%20motivation%20from%20a%20self-determination%20theory%20perspective%3A%20definitions%2C%20theory%2C%20practices%2C%20and%20future%20directions&journal=Contemp.%20Educ.%20Psychol.&doi=10.1016%2Fj.cedpsych.2020.101860&volume=61&publication_year=2020&author=Ryan%2CRM&author=Deci%2CEL)
+25. Guo, Y., Wang, Y. & Ortega-Martín, J. L. The impact of blended learning-based scaffolding techniques on learners’ self-efficacy and willingness to communicate. *Porta Linguarum*. **40**, 253–273 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20impact%20of%20blended%20learning-based%20scaffolding%20techniques%20on%20learners%E2%80%99%20self-efficacy%20and%20willingness%20to%20communicate&journal=Porta%20Linguarum&volume=40&pages=253-273&publication_year=2023&author=Guo%2CY&author=Wang%2CY&author=Ortega-Mart%C3%ADn%2CJL)
+26. Lin, J. & Wang, Y. Unpacking the mediating role of classroom interaction between student satisfaction and perceived online learning among Chinese EFL tertiary learners in the new normal of post-COVID-19. *Acta Psychol.* **245**, 104233 (2024).
+    
+    [Article](https://doi.org/10.1016%2Fj.actpsy.2024.104233) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Unpacking%20the%20mediating%20role%20of%20classroom%20interaction%20between%20student%20satisfaction%20and%20perceived%20online%20learning%20among%20Chinese%20EFL%20tertiary%20learners%20in%20the%20new%20normal%20of%20post-COVID-19&journal=Acta%20Psychol.&doi=10.1016%2Fj.actpsy.2024.104233&volume=245&publication_year=2024&author=Lin%2CJ&author=Wang%2CY)
+27. Zheng, Y. & Wang, L. Voice coding interactive music game teaching mode based on wireless network. *Entertain Comput.* **50**, 100673 (2024).
+    
+    [Article](https://doi.org/10.1016%2Fj.entcom.2024.100673) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Voice%20coding%20interactive%20music%20game%20teaching%20mode%20based%20on%20wireless%20network&journal=Entertain%20Comput.&doi=10.1016%2Fj.entcom.2024.100673&volume=50&publication_year=2024&author=Zheng%2CY&author=Wang%2CL)
+28. Jia, X. H. & Tu, J. C. Towards a new conceptual model of AI-enhanced learning for university students: the roles of artificial intelligence capabilities, general self-efficacy, learning motivation, and critical thinking awareness. *Systems* **12**, 74 (2024).
+    
+    [Article](https://doi.org/10.3390%2Fsystems12030074) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20a%20new%20conceptual%20model%20of%20AI-enhanced%20learning%20for%20university%20students%3A%20the%20roles%20of%20artificial%20intelligence%20capabilities%2C%20general%20self-efficacy%2C%20learning%20motivation%2C%20and%20critical%20thinking%20awareness&journal=Systems&doi=10.3390%2Fsystems12030074&volume=12&publication_year=2024&author=Jia%2CXH&author=Tu%2CJC)
+29. Tierney, P. & Farmer, S. M. Creative self-efficacy: its potential antecedents and relationship to creative performance. *Acad. Manag J.* **45**, 1137–1148 (2002).
+    
+    [Article](https://doi.org/10.2307%2F3069429) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Creative%20self-efficacy%3A%20its%20potential%20antecedents%20and%20relationship%20to%20creative%20performance&journal=Acad.%20Manag%20J.&doi=10.2307%2F3069429&volume=45&pages=1137-1148&publication_year=2002&author=Tierney%2CP&author=Farmer%2CSM)
+30. Junedi, B. et al. The relationship between creative self-efficacy, mathematics anxiety and mathematics achievement in online learning. *AIP Conf. Proc.* (2023).
+31. McGuire, J., De Cremer, D. & Van de Cruys, T. Establishing the importance of co-creation and self-efficacy in creative collaboration with artificial intelligence. *Sci. Rep.* **14**, 18525 (2024).
+    
+    [Article](https://doi.org/10.1038%2Fs41598-024-69423-2) 
+    [CAS](/articles/cas-redirect/1:CAS:528:DC%2BB2cXhslOhtL%2FM) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39122865) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11316096) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Establishing%20the%20importance%20of%20co-creation%20and%20self-efficacy%20in%20creative%20collaboration%20with%20artificial%20intelligence&journal=Sci.%20Rep.&doi=10.1038%2Fs41598-024-69423-2&volume=14&publication_year=2024&author=McGuire%2CJ&author=Cremer%2CD&author=Cruys%2CT)
+32. Wang, S., Sun, Z., Wang, H., Yang, D. & Zhang, H. Enhancing student acceptance of artificial intelligence-driven hybrid learning in business education: interaction between self-efficacy, playfulness, emotional engagement and university support. *Int. J. Manag. Educ*. **23**, 101184; https://doi.org/10.1016/j.ijme.2025.101184 (2025).
+33. Olga, A. et al. GAI: Implications and Applications for Education. Preprint at <https://arxiv.org/abs/2305.07605> (2023).
+34. Almulla, M. A. Investigating influencing factors of learning satisfaction in AI ChatGPT for research: university students perspective. *Heliyon* **10**, e32220 (2024).
+    
+    [Article](https://doi.org/10.1016%2Fj.heliyon.2024.e32220) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=38933954) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11200296) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Investigating%20influencing%20factors%20of%20learning%20satisfaction%20in%20AI%20ChatGPT%20for%20research%3A%20university%20students%20perspective&journal=Heliyon&doi=10.1016%2Fj.heliyon.2024.e32220&volume=10&publication_year=2024&author=Almulla%2CMA)
+35. Leong, J. et al. Putting things into context: GAI-enabled context personalization for vocabulary learning improves learning motivation. *Proc. CHI Conf. Hum. Factors Comput. Syst.* **32**, 1–15 (2024).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Putting%20things%20into%20context%3A%20GAI-enabled%20context%20personalization%20for%20vocabulary%20learning%20improves%20learning%20motivation&journal=Proc.%20CHI%20Conf.%20Hum.%20Factors%20Comput.%20Syst.&volume=32&pages=1-15&publication_year=2024&author=Leong%2CJ)
+36. Nguyen-Viet, B. & Nguyen-Viet, B. The synergy of immersion and basic psychological needs satisfaction: exploring gamification’s impact on student engagement and learning outcomes. *Acta Psychol.* **252**, 104660 (2025).
+    
+    [Article](https://doi.org/10.1016%2Fj.actpsy.2024.104660) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20synergy%20of%20immersion%20and%20basic%20psychological%20needs%20satisfaction%3A%20exploring%20gamification%E2%80%99s%20impact%20on%20student%20engagement%20and%20learning%20outcomes&journal=Acta%20Psychol.&doi=10.1016%2Fj.actpsy.2024.104660&volume=252&publication_year=2025&author=Nguyen-Viet%2CB&author=Nguyen-Viet%2CB)
+37. Xu, B. Mediating role of academic self-efficacy and academic emotions in the relationship between teacher support and academic achievement. *Sci. Rep.* **14**, 24705 (2024).
+    
+    [Article](https://doi.org/10.1038%2Fs41598-024-75768-5) 
+    [CAS](/articles/cas-redirect/1:CAS:528:DC%2BB2cXitlCksLrO) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39433853) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11494070) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mediating%20role%20of%20academic%20self-efficacy%20and%20academic%20emotions%20in%20the%20relationship%20between%20teacher%20support%20and%20academic%20achievement&journal=Sci.%20Rep.&doi=10.1038%2Fs41598-024-75768-5&volume=14&publication_year=2024&author=Xu%2CB)
+38. Yoon, S. H., Yang, S. B. & Lee, S. H. Comprehensive examination of the bright and dark sides of generative AI services: A mixed-methods approach. *Electron. Commer. Res. Appl.* **101491** (2025).
+39. Holmes, W. & Miao, F. *Guidance for Generative AI in Education and Research* (UNESCO Publishing, 2023).
+40. Ackermann, H. et al. How adaptive social robots influence cognitive, emotional, and self-regulated learning. *Sci. Rep.* **15**, 6581 (2025).
+    
+    [Article](https://doi.org/10.1038%2Fs41598-025-91236-0) 
+    [CAS](/articles/cas-redirect/1:CAS:528:DC%2BB2MXkvFyrsLg%3D) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39994348) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11850589) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20adaptive%20social%20robots%20influence%20cognitive%2C%20emotional%2C%20and%20self-regulated%20learning&journal=Sci.%20Rep.&doi=10.1038%2Fs41598-025-91236-0&volume=15&publication_year=2025&author=Ackermann%2CH)
+41. Wang, Y. & Pan, Z. Modeling the effect of Chinese EFL teachers’ self-efficacy and resilience on their work engagement: A structural equation modeling analysis. *Sage Open.* **13**, 1–15 (2023).
+    
+    [Article](https://doi.org/10.1177%2F21582440231214329) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Modeling%20the%20effect%20of%20Chinese%20EFL%20teachers%E2%80%99%20self-efficacy%20and%20resilience%20on%20their%20work%20engagement%3A%20A%20structural%20equation%20modeling%20analysis&journal=Sage%20Open.&doi=10.1177%2F21582440231214329&volume=13&pages=1-15&publication_year=2023&author=Wang%2CY&author=Pan%2CZ)
+42. Yao, H., Liu, W. & Chen, S. Teachers sustainable teaching innovation and graduate students creative thinking: the chain mediating role of playfulness climate and academic self-efficacy. *Int. J. Manag Educ.* **22**, 100900 (2024).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teachers%20sustainable%20teaching%20innovation%20and%20graduate%20students%20creative%20thinking%3A%20the%20chain%20mediating%20role%20of%20playfulness%20climate%20and%20academic%20self-efficacy&journal=Int.%20J.%20Manag%20Educ.&volume=22&publication_year=2024&author=Yao%2CH&author=Liu%2CW&author=Chen%2CS)
+43. Wang, X. C. et al. The effect of university students’ academic self-efficacy on academic burnout: the chain mediating role of intrinsic motivation and learning engagement. *J. Psychoeduc Assess.* **42**, 798–812 (2024).
+    
+    [Article](https://doi.org/10.1177%2F07342829241252863) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effect%20of%20university%20students%E2%80%99%20academic%20self-efficacy%20on%20academic%20burnout%3A%20the%20chain%20mediating%20role%20of%20intrinsic%20motivation%20and%20learning%20engagement&journal=J.%20Psychoeduc%20Assess.&doi=10.1177%2F07342829241252863&volume=42&pages=798-812&publication_year=2024&author=Wang%2CXC)
+44. Rad, H. F. et al. Predicting academic procrastination of students based on academic self-efficacy and emotional regulation difficulties. *Sci. Rep.* **15**, 3003 (2025).
+    
+    [Article](https://doi.org/10.1038%2Fs41598-025-87664-7) 
+    [CAS](/articles/cas-redirect/1:CAS:528:DC%2BB2MXisFert7s%3D) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39849104) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11758087) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Predicting%20academic%20procrastination%20of%20students%20based%20on%20academic%20self-efficacy%20and%20emotional%20regulation%20difficulties&journal=Sci.%20Rep.&doi=10.1038%2Fs41598-025-87664-7&volume=15&publication_year=2025&author=Rad%2CHF)
+45. Wei, Y. et al. Exploring the factors that influence university students’ academic self-efficacy in blended learning: a study from the personal, interpersonal, and environmental perspectives. *Sage Open.* **12**, 21582440221104815 (2022).
+    
+    [Article](https://doi.org/10.1177%2F21582440221104815) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20the%20factors%20that%20influence%20university%20students%E2%80%99%20academic%20self-efficacy%20in%20blended%20learning%3A%20a%20study%20from%20the%20personal%2C%20interpersonal%2C%20and%20environmental%20perspectives&journal=Sage%20Open.&doi=10.1177%2F21582440221104815&volume=12&publication_year=2022&author=Wei%2CY)
+46. Wang, J. et al. Navigating the school transition: Within-and between-person associations between adolescents’ academic self-efficacy, school relatedness, and intrinsic academic motivation. *J. Sch. Psychol.* **106**, 101326 (2024).
+    
+    [Article](https://doi.org/10.1016%2Fj.jsp.2024.101326) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39251305) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Navigating%20the%20school%20transition%3A%20Within-and%20between-person%20associations%20between%20adolescents%E2%80%99%20academic%20self-efficacy%2C%20school%20relatedness%2C%20and%20intrinsic%20academic%20motivation&journal=J.%20Sch.%20Psychol.&doi=10.1016%2Fj.jsp.2024.101326&volume=106&publication_year=2024&author=Wang%2CJ)
+47. Wu, Q. & Xu, A. Poe or gemini for fostering writing skills in Japanese upper-intermediate learners: Uncovering the consequences on positive emotions, boredom to write, academic self‐efficacy and writing development. *Br. Educ. Res. J.* (2025).
+48. Wang, D. & Wang, J. The impact mechanism of AES on improving english writing achievement. *Sci. Rep.* **15**, 3928 (2025).
+    
+    [Article](https://doi.org/10.1038%2Fs41598-025-88021-4) 
+    [CAS](/articles/cas-redirect/1:CAS:528:DC%2BB2MXjtVaru7s%3D) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39890836) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11785790) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20impact%20mechanism%20of%20AES%20on%20improving%20english%20writing%20achievement&journal=Sci.%20Rep.&doi=10.1038%2Fs41598-025-88021-4&volume=15&publication_year=2025&author=Wang%2CD&author=Wang%2CJ)
+49. Huang, A. Y., Lu, O. H. & Yang, S. J. Effects of artificial Intelligence-Enabled personalized recommendations on learners’ learning engagement, motivation, and outcomes in a flipped classroom. *Comput. Educ.* **194**, 104684 (2023).
+    
+    [Article](https://doi.org/10.1016%2Fj.compedu.2022.104684) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Effects%20of%20artificial%20Intelligence-Enabled%20personalized%20recommendations%20on%20learners%E2%80%99%20learning%20engagement%2C%20motivation%2C%20and%20outcomes%20in%20a%20flipped%20classroom&journal=Comput.%20Educ.&doi=10.1016%2Fj.compedu.2022.104684&volume=194&publication_year=2023&author=Huang%2CAY&author=Lu%2COH&author=Yang%2CSJ)
+50. Hu, R. & Li, C. Exploring the roles of entrepreneurial education, proactive personality and creative Self-Efficacy in the formation of undergraduates’ new venture ideas in China. *Behav. Sci.* **15**, 185 (2025).
+    
+    [Article](https://doi.org/10.3390%2Fbs15020185) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=40001816) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11851511) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20the%20roles%20of%20entrepreneurial%20education%2C%20proactive%20personality%20and%20creative%20Self-Efficacy%20in%20the%20formation%20of%20undergraduates%E2%80%99%20new%20venture%20ideas%20in%20China&journal=Behav.%20Sci.&doi=10.3390%2Fbs15020185&volume=15&publication_year=2025&author=Hu%2CR&author=Li%2CC)
+51. Wang, S., Sun, Z. & Chen, Y. Effects of higher education institutes’ artificial intelligence capability on students’ self-efficacy, creativity and learning performance. *Educ. Inf. Technol.* **28**, 4919–4939 (2023).
+    
+    [Article](https://link.springer.com/doi/10.1007/s10639-022-11338-4) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Effects%20of%20higher%20education%20institutes%E2%80%99%20artificial%20intelligence%20capability%20on%20students%E2%80%99%20self-efficacy%2C%20creativity%20and%20learning%20performance&journal=Educ.%20Inf.%20Technol.&doi=10.1007%2Fs10639-022-11338-4&volume=28&pages=4919-4939&publication_year=2023&author=Wang%2CS&author=Sun%2CZ&author=Chen%2CY)
+52. Han, J. & Geng, X. University students’ approaches to online learning technologies: the roles of perceived support, affect/emotion and self-efficacy in technology-enhanced learning. *Comput. Educ.* **194**, 104695 (2023).
+    
+    [Article](https://doi.org/10.1016%2Fj.compedu.2022.104695) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=University%20students%E2%80%99%20approaches%20to%20online%20learning%20technologies%3A%20the%20roles%20of%20perceived%20support%2C%20affect%2Femotion%20and%20self-efficacy%20in%20technology-enhanced%20learning&journal=Comput.%20Educ.&doi=10.1016%2Fj.compedu.2022.104695&volume=194&publication_year=2023&author=Han%2CJ&author=Geng%2CX)
+53. OECD. PISA 2021 Creative Thinking Framework. (2022).
+54. Chang, H. F. & Li, T. A framework for collaborating a large Language model tool in brainstorming for triggering creative thoughts. *Think. Skills Creat* 101755 (2025).
+55. Liu, C. C. et al. An analysis of children’ interaction with an AI chatbot and its impact on their interest in reading. *Comput. Educ.* **189**, 104576 (2022).
+    
+    [Article](https://doi.org/10.1016%2Fj.compedu.2022.104576) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20analysis%20of%20children%E2%80%99%20interaction%20with%20an%20AI%20chatbot%20and%20its%20impact%20on%20their%20interest%20in%20reading&journal=Comput.%20Educ.&doi=10.1016%2Fj.compedu.2022.104576&volume=189&publication_year=2022&author=Liu%2CCC)
+56. Lin, Y. L., Wang, W. T. & Hsieh, M. J. The effects of students’ self-efficacy, self-regulated learning strategy, perceived and actual learning effectiveness: A digital game-based learning system. *Educ. Inf. Technol.* (2024).
+57. Bearman, M. et al. Developing evaluative judgement for a time of generative artificial intelligence. *Assess. Eval High. Educ.* **49**, 893–905 (2024).
+    
+    [Article](https://doi.org/10.1080%2F02602938.2024.2335321) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Developing%20evaluative%20judgement%20for%20a%20time%20of%20generative%20artificial%20intelligence&journal=Assess.%20Eval%20High.%20Educ.&doi=10.1080%2F02602938.2024.2335321&volume=49&pages=893-905&publication_year=2024&author=Bearman%2CM)
+58. Avcı, Ü. & Durak, H. Y. Creative thinking skills and creative thinking dispositions in learning environments: antecedents and consequences. *Think. Skills Creat*. **47**, 101225 (2023).
+    
+    [Article](https://doi.org/10.1016%2Fj.tsc.2022.101225) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Creative%20thinking%20skills%20and%20creative%20thinking%20dispositions%20in%20learning%20environments%3A%20antecedents%20and%20consequences&journal=Think.%20Skills%20Creat&doi=10.1016%2Fj.tsc.2022.101225&volume=47&publication_year=2023&author=Avc%C4%B1%2C%C3%9C&author=Durak%2CHY)
+59. Shi, Y. et al. The effects of creative thinking on students’ cognitive learning outcomes: A literature review. In *2023 Int. Symp. Educ. Technol.* (2023).
+60. Cheng, K. H. An epistemic curiosity-evoking model for immersive virtual reality narrative reading: user experience and the interaction among epistemic curiosity, transportation, and attitudinal learning. *Comput. Educ.* **201**, 104814 (2023).
+    
+    [Article](https://doi.org/10.1016%2Fj.compedu.2023.104814) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20epistemic%20curiosity-evoking%20model%20for%20immersive%20virtual%20reality%20narrative%20reading%3A%20user%20experience%20and%20the%20interaction%20among%20epistemic%20curiosity%2C%20transportation%2C%20and%20attitudinal%20learning&journal=Comput.%20Educ.&doi=10.1016%2Fj.compedu.2023.104814&volume=201&publication_year=2023&author=Cheng%2CKH)
+61. Dwivedi, Y. K. et al. So what if ChatGPT wrote it? Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy. *Int. J. Inf. Manag*. **71**, 102642 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=So%20what%20if%20ChatGPT%20wrote%20it%3F%20Multidisciplinary%20perspectives%20on%20opportunities%2C%20challenges%20and%20implications%20of%20generative%20conversational%20AI%20for%20research%2C%20practice%20and%20policy&journal=Int.%20J.%20Inf.%20Manag&volume=71&publication_year=2023&author=Dwivedi%2CYK)
+62. Gherghel, C., Yasuda, S. & Kita, Y. Interaction during online classes fosters engagement with learning and self-directed study both in the first and second years of the COVID-19 pandemic. *Comput. Educ.* **200**, 104795 (2023).
+    
+    [Article](https://doi.org/10.1016%2Fj.compedu.2023.104795) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37063109) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10088368) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interaction%20during%20online%20classes%20fosters%20engagement%20with%20learning%20and%20self-directed%20study%20both%20in%20the%20first%20and%20second%20years%20of%20the%20COVID-19%20pandemic&journal=Comput.%20Educ.&doi=10.1016%2Fj.compedu.2023.104795&volume=200&publication_year=2023&author=Gherghel%2CC&author=Yasuda%2CS&author=Kita%2CY)
+63. Mou, T. Y. The practice of visual storytelling in STEM: influence of creative thinking training on design students’ creative self-efficacy and motivation. *Think. Skills Creat*. **51**, 101459 (2024).
+    
+    [Article](https://doi.org/10.1016%2Fj.tsc.2023.101459) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20practice%20of%20visual%20storytelling%20in%20STEM%3A%20influence%20of%20creative%20thinking%20training%20on%20design%20students%E2%80%99%20creative%20self-efficacy%20and%20motivation&journal=Think.%20Skills%20Creat&doi=10.1016%2Fj.tsc.2023.101459&volume=51&publication_year=2024&author=Mou%2CTY)
+64. World Digital Technology Academy (WDTA). Generative AI talent development framework. (2024).
+65. Li, X. Z., Chen, C. C. & Kang, X. Research on the cultivation of sustainable development ability of higher vocational students by creative thinking teaching method. *Front. Psychol.* **13**, 979913 (2022).
+    
+    [Article](https://doi.org/10.3389%2Ffpsyg.2022.979913) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36275280) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC9583875) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Research%20on%20the%20cultivation%20of%20sustainable%20development%20ability%20of%20higher%20vocational%20students%20by%20creative%20thinking%20teaching%20method&journal=Front.%20Psychol.&doi=10.3389%2Ffpsyg.2022.979913&volume=13&publication_year=2022&author=Li%2CXZ&author=Chen%2CCC&author=Kang%2CX)
+66. Hair, J. F. et al. *Multivariate Data Analysis* (Pearson Prentice Hall, 2006).
+67. He, W. J. & Wong, W. C. Gender differences in creative self-efficacy: findings of mean and variability analyses. *Think. Skills Creat*. **42**, 100955 (2021).
+    
+    [Article](https://doi.org/10.1016%2Fj.tsc.2021.100955) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gender%20differences%20in%20creative%20self-efficacy%3A%20findings%20of%20mean%20and%20variability%20analyses&journal=Think.%20Skills%20Creat&doi=10.1016%2Fj.tsc.2021.100955&volume=42&publication_year=2021&author=He%2CWJ&author=Wong%2CWC)
+68. Damnjanovic, V., Jednak, S. & Mijatovic, I. Factors affecting the effectiveness and use of moodle: students’ perception. *Interact. Learn. Environ.* **23**, 496–514 (2015).
+    
+    [Article](https://doi.org/10.1080%2F10494820.2013.789062) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Factors%20affecting%20the%20effectiveness%20and%20use%20of%20moodle%3A%20students%E2%80%99%20perception&journal=Interact.%20Learn.%20Environ.&doi=10.1080%2F10494820.2013.789062&volume=23&pages=496-514&publication_year=2015&author=Damnjanovic%2CV&author=Jednak%2CS&author=Mijatovic%2CI)
+69. Hair, J. F. et al. When to use and how to report the results of PLS-SEM. *Eur. Bus. Rev.* **31**, 2–24 (2019).
+    
+    [Article](https://doi.org/10.1108%2FEBR-11-2018-0203) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=When%20to%20use%20and%20how%20to%20report%20the%20results%20of%20PLS-SEM&journal=Eur.%20Bus.%20Rev.&doi=10.1108%2FEBR-11-2018-0203&volume=31&pages=2-24&publication_year=2019&author=Hair%2CJF)
+70. Hu, L. T. & Bentler, P. M. Cutoff criteria for fit indexes in covariance structure analysis: conventional criteria versus new alternatives. *Struct. Equ Model.* **6**, 1–55 (1999).
+    
+    [Article](https://doi.org/10.1080%2F10705519909540118) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cutoff%20criteria%20for%20fit%20indexes%20in%20covariance%20structure%20analysis%3A%20conventional%20criteria%20versus%20new%20alternatives&journal=Struct.%20Equ%20Model.&doi=10.1080%2F10705519909540118&volume=6&pages=1-55&publication_year=1999&author=Hu%2CLT&author=Bentler%2CPM)
+71. Tabachnick, B. G., Fidell, L. S. & Ullman J. B. *Using Multivariate Statistics* (Pearson, 2013).
+72. McDonald, R. P. & Ho, M. H. R. Principles and practice in reporting structural equation analyses. *Psychol. Methods*. **7**, 64 (2002).
+    
+    [Article](https://doi.org/10.1037%2F1082-989X.7.1.64) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11928891) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Principles%20and%20practice%20in%20reporting%20structural%20equation%20analyses&journal=Psychol.%20Methods&doi=10.1037%2F1082-989X.7.1.64&volume=7&publication_year=2002&author=McDonald%2CRP&author=Ho%2CMHR)
+73. Jöreskog, K. G. & Sörbom, D. LISREL 7: A guide to the program and applications (1989).
+74. Harman, H. H. *Modern Factor Analysis* (Univ. Chicago, 1976).
+75. Cronbach, L. J. Coefficient alpha and the internal structure of tests. *Psychometrika* **16**, 297–334 (1951).
+    
+    [Article](https://link.springer.com/doi/10.1007/BF02310555) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Coefficient%20alpha%20and%20the%20internal%20structure%20of%20tests&journal=Psychometrika&doi=10.1007%2FBF02310555&volume=16&pages=297-334&publication_year=1951&author=Cronbach%2CLJ)
+76. Hair, J. F. et al. *Multivariate Data Analysis* 7th edn (Prentice Hall, 2010).
+77. Kline, T. J. *Psychological Testing: A Practical Approach To Design and Evaluation* (Sage, 2005).
+78. Fornell, C. & Larcker, D. F. Structural equation models with unobservable variables and measurement error: algebra and statistics. *J. Mark. Res.* **18**, 382–388 (1981).
+    
+    [Article](https://doi.org/10.1177%2F002224378101800313) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Structural%20equation%20models%20with%20unobservable%20variables%20and%20measurement%20error%3A%20algebra%20and%20statistics&journal=J.%20Mark.%20Res.&doi=10.1177%2F002224378101800313&volume=18&pages=382-388&publication_year=1981&author=Fornell%2CC&author=Larcker%2CDF)
+79. Rebekić, A. et al. Pearson’s or spearman’s correlation coefficient—which one to use? *Poljoprivreda* **21**, 47–54 (2015).
+    
+    [Article](https://doi.org/10.18047%2Fpoljo.21.2.8) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Pearson%E2%80%99s%20or%20spearman%E2%80%99s%20correlation%20coefficient%E2%80%94which%20one%20to%20use%3F&journal=Poljoprivreda&doi=10.18047%2Fpoljo.21.2.8&volume=21&pages=47-54&publication_year=2015&author=Rebeki%C4%87%2CA)
+80. Sun, W. & Shi, H. Fostering success in online english education: exploring the effects of ICT literacy, online learning self-efficacy, and motivation on deep learning. *Educ. Inf. Technol.* (2024).
+81. Xie, Z., Wu, X. & Xie, Y. Can interaction with generative artificial intelligence enhance learning autonomy? A longitudinal study from comparative perspectives of virtual companionship and knowledge acquisition preferences. *J. Comput. Assist. Learn.* (2024).
+82. Magenes, S. et al. Learning skills, creativity, and self-efficacy in vocational school students. *Learn. Motiv*. **79**, 101829 (2022).
+    
+    [Article](https://doi.org/10.1016%2Fj.lmot.2022.101829) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Learning%20skills%2C%20creativity%2C%20and%20self-efficacy%20in%20vocational%20school%20students&journal=Learn.%20Motiv&doi=10.1016%2Fj.lmot.2022.101829&volume=79&publication_year=2022&author=Magenes%2CS)
+83. Kent, J. et al. Client-based student consulting: insights for course design and delivery. *Int. J. Manag Educ.* **21**, 100854 (2023).
+    
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Client-based%20student%20consulting%3A%20insights%20for%20course%20design%20and%20delivery&journal=Int.%20J.%20Manag%20Educ.&volume=21&publication_year=2023&author=Kent%2CJ)
+84. Urban, M. et al. ChatGPT improves creative problem-solving performance in university students: an experimental study. *Comput. Educ.* **215**, 105031 (2024).
+    
+    [Article](https://doi.org/10.1016%2Fj.compedu.2024.105031) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ChatGPT%20improves%20creative%20problem-solving%20performance%20in%20university%20students%3A%20an%20experimental%20study&journal=Comput.%20Educ.&doi=10.1016%2Fj.compedu.2024.105031&volume=215&publication_year=2024&author=Urban%2CM)
+85. Wei, L., Zhang, W. & Lin, C. The study of the effectiveness of design-based engineering learning: the mediating role of cognitive engagement and the moderating role of modes of engagement. *Front. Psychol.* **14**, 1151610 (2023).
+    
+    [Article](https://doi.org/10.3389%2Ffpsyg.2023.1151610) 
+    [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37303900) 
+    [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10250629) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20study%20of%20the%20effectiveness%20of%20design-based%20engineering%20learning%3A%20the%20mediating%20role%20of%20cognitive%20engagement%20and%20the%20moderating%20role%20of%20modes%20of%20engagement&journal=Front.%20Psychol.&doi=10.3389%2Ffpsyg.2023.1151610&volume=14&publication_year=2023&author=Wei%2CL&author=Zhang%2CW&author=Lin%2CC)
+86. Kumar, S. et al. Will artificial intelligence drive the advancements in higher education? A tri-phased exploration. *Technol. Forecast. Soc. Change*. **201**, 123258 (2024).
+    
+    [Article](https://doi.org/10.1016%2Fj.techfore.2024.123258) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Will%20artificial%20intelligence%20drive%20the%20advancements%20in%20higher%20education%3F%20A%20tri-phased%20exploration&journal=Technol.%20Forecast.%20Soc.%20Change&doi=10.1016%2Fj.techfore.2024.123258&volume=201&publication_year=2024&author=Kumar%2CS)
+87. Miguel-Alonso, I. et al. Evaluation of the novelty effect in immersive virtual reality learning experiences. *Virtual Real.* **28**, 27 (2024).
+    
+    [Article](https://link.springer.com/doi/10.1007/s10055-023-00926-5) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluation%20of%20the%20novelty%20effect%20in%20immersive%20virtual%20reality%20learning%20experiences&journal=Virtual%20Real.&doi=10.1007%2Fs10055-023-00926-5&volume=28&publication_year=2024&author=Miguel-Alonso%2CI)
+88. Jiang, J. & Fryer, L. K. The effect of virtual reality learning on students’ motivation: A scoping review. *J. Comput. Assist. Learn.* **40**, 360–373 (2024).
+    
+    [Article](https://doi.org/10.1111%2Fjcal.12885) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effect%20of%20virtual%20reality%20learning%20on%20students%E2%80%99%20motivation%3A%20A%20scoping%20review&journal=J.%20Comput.%20Assist.%20Learn.&doi=10.1111%2Fjcal.12885&volume=40&pages=360-373&publication_year=2024&author=Jiang%2CJ&author=Fryer%2CLK)
+89. Long, T., Gero, K. I. & Chilton, L. B. Not just novelty: a longitudinal study on utility and customization of an AI workflow. In *Proc. 2024 ACM Des. Interact. Syst. Conf.* 782–803 (2024).
+90. Consoli, T., Désiron, J. & Cattaneo, A. What is technology integration and how is it measured in K-12 education? A systematic review of survey instruments from 2010 to 2021. *Comput. Educ.* **197**, 104742 (2023).
+    
+    [Article](https://doi.org/10.1016%2Fj.compedu.2023.104742) 
+    [Google Scholar](http://scholar.google.com/scholar_lookup?&title=What%20is%20technology%20integration%20and%20how%20is%20it%20measured%20in%20K-12%20education%3F%20A%20systematic%20review%20of%20survey%20instruments%20from%202010%20to%202021&journal=Comput.%20Educ.&doi=10.1016%2Fj.compedu.2023.104742&volume=197&publication_year=2023&author=Consoli%2CT&author=D%C3%A9siron%2CJ&author=Cattaneo%2CA)
+91. Herft, A. *A Teacher’s Prompt Guide To ChatGPT Aligned with ‘what Works Best’* (CESE NSW, 2023).
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1038/s41598-025-08697-6?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+Thanks to our colleague for their assistance in the article.
+
+Funding
+-------
+
+This work was supported by the Major Project of Philosophy and Social Science Research of the Ministry of Education of China [22JZD045], Fujian Province Undergraduate University Education and Teaching Research Project [FBJY20240273], and Teaching Reform and Innovation Projects of Colleges and Universities in Shanxi Province [J20241384].
+
+Conflicts of Interest: The authors declare that the research was conducted without any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Engineering Training Center, Taiyuan Institute of Technology, Taiyuan, 030008, China
+   
+   Yun Bai
+2. International Business School, Fuzhou University of International Studies and Trade, Fuzhou, 350202, China
+   
+   Shaofeng Wang
+
+Authors
+
+1. Yun Bai[View author publications](/search?author=Yun%20Bai)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yun%20Bai) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yun%20Bai%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Shaofeng Wang[View author publications](/search?author=Shaofeng%20Wang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Shaofeng%20Wang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Shaofeng%20Wang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+Conceptualization, Y.B.; methodology, Y.B.; writing —original draft preparation, Y.B., and S.W.; funding acquisition, S.W. All authors have read and agreed to the published version of the manuscript.
+
+### Corresponding author
+
+Correspondence to
+[Shaofeng Wang](mailto:vipwhsl@hotmail.com).
+
+Ethics declarations
+-------------------
+
+### Ethics approval
+
+The research conducted in this study has received ethics approval from the Institutional Review Board (IRB) of the Institutional Review Board (IRB) of the Engineering Training Center, Taiyuan Institute of Technology. The approval ensures that all research activities involving human participants were carried out in accordance with ethical guidelines and regulations. Informed consent was obtained from all participants or their legal guardians, and all procedures were performed in compliance with the Declaration of Helsinki.
+
+### Competing interests
+
+The authors declare no competing interests.
+
+Additional information
+----------------------
+
+### Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Impact%20of%20generative%20AI%20interaction%20and%20output%20quality%20on%20university%20students%E2%80%99%20learning%20outcomes%3A%20a%20technology-mediated%20and%20motivation-driven%20approach&author=Yun%20Bai%20et%20al&contentID=10.1038%2Fs41598-025-08697-6&copyright=The%20Author%28s%29&publication=2045-2322&publicationDate=2025-07-05&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY-NC-ND)
+
+About this article
+------------------
+
+### Cite this article
+
+Bai, Y., Wang, S. Impact of generative AI interaction and output quality on university students’ learning outcomes: a technology-mediated and motivation-driven approach.
+*Sci Rep* **15**, 24054 (2025). https://doi.org/10.1038/s41598-025-08697-6
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41598-025-08697-6?format=refman&flavour=citation)
+
+* Received: 12 March 2025
+* Accepted: 23 June 2025
+* Published: 05 July 2025
+* Version of record: 05 July 2025
+* DOI: https://doi.org/10.1038/s41598-025-08697-6
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Generative AI](/search?query=Generative%20AI&facet-discipline="Science%2C%20Humanities%20and%20Social%20Sciences%2C%20multidisciplinary")
+* [Learning outcomes](/search?query=Learning%20outcomes&facet-discipline="Science%2C%20Humanities%20and%20Social%20Sciences%2C%20multidisciplinary")
+* [Higher education](/search?query=Higher%20education&facet-discipline="Science%2C%20Humanities%20and%20Social%20Sciences%2C%20multidisciplinary")
+* [Technology-mediated learning](/search?query=Technology-mediated%20learning&facet-discipline="Science%2C%20Humanities%20and%20Social%20Sciences%2C%20multidisciplinary")
+* [Motivation](/search?query=Motivation&facet-discipline="Science%2C%20Humanities%20and%20Social%20Sciences%2C%20multidisciplinary")
+* [Creative thinking](/search?query=Creative%20thinking&facet-discipline="Science%2C%20Humanities%20and%20Social%20Sciences%2C%20multidisciplinary")
+
+
+
+This article is cited by
+------------------------
+
+* ### [Linking digital competence, self-efficacy, and digital stress to perceived interactivity in AI-supported learning contexts](https://doi.org/10.1038/s41598-025-18873-3)
+  
+  + Jiaxin Ren
+  + Juncheng Guo
+  + Huanxi Li
+  
+  *Scientific Reports* (2025)
+* ### [The chain mediating role of critical thinking and AI self-efficacy in GenAI usage competence and engineering students’ creativity](https://doi.org/10.1038/s41598-025-21132-0)
+  
+  + Zhen Zhou
+  + Huifen Guo
+  + Yuhan Gao
+  
+  *Scientific Reports* (2025)
+
+
+
+
+
+
+[Download PDF](/articles/s41598-025-08697-6.pdf)
+
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/285/scientific_reports/article&sz=300x250&c=1700622779&t=pos%3Dright%26type%3Darticle%26artid%3Ds41598-025-08697-6%26doi%3D10.1038/s41598-025-08697-6%26subjmeta%3D166,477,631,639,705%26kwrd%3DEngineering,Mathematics+and+computing,Psychology)
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+---------------
+
+* [Research articles](/srep/research-articles)
+* [News & Comment](/srep/news-and-comment)
+* [Collections](/srep/collections)
+* [Subjects](/srep/browse-subjects)
+
+* [Follow us on Facebook](https://www.facebook.com/scientificreports)
+* [Follow us on X](https://twitter.com/SciReports)
+* [Sign up for alerts](https://journal-alerts.springernature.com/subscribe?journal_id=41598)
+* [RSS feed](https://www.nature.com/srep.rss)
+
+
+About the journal
+-----------------
+
+* [About Scientific Reports](/srep/about)
+* [Contact](/srep/contact)
+* [Journal policies](/srep/journal-policies)
+* [Guide to referees](/srep/guide-to-referees)
+* [Calls for Papers](/srep/calls-for-papers)
+* [Editor's Choice](/srep/editorschoice)
+* [Journal highlights](/srep/highlights)
+* [Open Access Fees and Funding](/srep/open-access)
+
+
+Publish with us
+---------------
+
+* [For authors](/srep/author-instructions)
+* [Language editing services](https://authorservices.springernature.com/go/sn/?utm_source=For+Authors&utm_medium=Website_Nature&utm_campaign=Platform+Experimentation+2022&utm_id=PE2022)
+* [Open access funding](/srep/open-access-funding)
+* [Submit manuscript](https://author-welcome.nature.com/41598)
+
+
+Search
+------
+
+Search articles by subject, keyword or author
+
+
+Show results from
+All journals
+This journal
+
+
+Search
+
+
+
+
+[Advanced search](/search/advanced)
+### Quick links
+
+* [Explore articles by subject](/subjects)
+* [Find a job](/naturecareers)
+* [Guide to authors](/authors/index.html)
+* [Editorial policies](/authors/editorial_policies/)
+
+
+Scientific Reports
+
+(*Sci Rep*)
+
+ISSN 2045-2322 (online)
+
+
+
+
+
+nature.com footer links
+-----------------------
+
+### About Nature Portfolio
+
+* [About us](https://www.nature.com/npg_/company_info/index.html)
+* [Press releases](https://www.nature.com/npg_/press_room/press_releases.html)
+* [Press office](https://press.nature.com/)
+* [Contact us](https://support.nature.com/support/home)
+
+### Discover content
+
+* [Journals A-Z](https://www.nature.com/siteindex)
+* [Articles by subject](https://www.nature.com/subjects)
+* [protocols.io](https://www.protocols.io/)
+* [Nature Index](https://www.natureindex.com/)
+
+### Publishing policies
+
+* [Nature portfolio policies](https://www.nature.com/authors/editorial_policies)
+* [Open access](https://www.nature.com/nature-research/open-access)
+
+### Author & Researcher services
+
+* [Reprints & permissions](https://www.nature.com/reprints)
+* [Research data](https://www.springernature.com/gp/authors/research-data)
+* [Language editing](https://authorservices.springernature.com/language-editing/)
+* [Scientific editing](https://authorservices.springernature.com/scientific-editing/)
+* [Nature Masterclasses](https://masterclasses.nature.com/)
+* [Research Solutions](https://solutions.springernature.com/)
+
+### Libraries & institutions
+
+* [Librarian service & tools](https://www.springernature.com/gp/librarians/tools-services)
+* [Librarian portal](https://www.springernature.com/gp/librarians/manage-your-account/librarianportal)
+* [Open research](https://www.nature.com/openresearch/about-open-access/information-for-institutions)
+* [Recommend to library](https://www.springernature.com/gp/librarians/recommend-to-your-library)
+
+### Advertising & partnerships
+
+* [Advertising](https://partnerships.nature.com/product/digital-advertising/)
+* [Partnerships & Services](https://partnerships.nature.com/)
+* [Media kits](https://partnerships.nature.com/media-kits/)
+* [Branded
+  content](https://partnerships.nature.com/product/branded-content-native-advertising/)
+
+### Professional development
+
+* [Nature Awards](https://www.nature.com/immersive/natureawards/index.html)
+* [Nature Careers](https://www.nature.com/naturecareers/)
+* [Nature 
+  Conferences](https://conferences.nature.com)
+
+### Regional websites
+
+* [Nature Africa](https://www.nature.com/natafrica)
+* [Nature China](http://www.naturechina.com)
+* [Nature India](https://www.nature.com/nindia)
+* [Nature Japan](https://www.natureasia.com/ja-jp)
+* [Nature Middle East](https://www.nature.com/nmiddleeast)
+
+
+
+* [Privacy
+  Policy](https://www.nature.com/info/privacy)
+* [Use
+  of cookies](https://www.nature.com/info/cookies)
+* Your privacy choices/Manage cookies
+* [Legal
+  notice](https://www.nature.com/info/legal-notice)
+* [Accessibility
+  statement](https://www.nature.com/info/accessibility-statement)
+* [Terms & Conditions](https://www.nature.com/info/terms-and-conditions)
+* [Your US state privacy rights](https://www.springernature.com/ccpa)
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature Limited
+
+
+
+
+
+Close banner
+
+
+
+
+Close
+
+
+![]()
+
+Sign up for the *Nature Briefing: AI and Robotics* newsletter — what matters in AI and robotics research, free to your inbox weekly.
+
+
+
+
+
+
+Email address
+
+
+Sign up
+
+I agree my information will be processed in accordance with the *Nature* and Springer Nature Limited [Privacy Policy](https://www.nature.com/info/privacy).
+
+
+
+
+
+
+Close banner
+
+
+
+
+Close
+
+
+Get the most important science stories of the day, free in your inbox.
+[Sign up for Nature Briefing: AI and Robotics](/briefing/ai-and-robotics/?brieferEntryPoint=AIAndRoboticsBriefingBanner)
+
+
+
+![]()
+
+

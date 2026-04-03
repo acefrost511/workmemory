@@ -122,7 +122,7 @@
 
 ## 定期清理规则
 
-- memory/cron-health-*.md：保留7天
+- memory/cron-health-*.md：保留3天
 - extract/raw_content/：30天清理
 - .learnings/：30天清理
 - knowledge/素材库/：30天清理
