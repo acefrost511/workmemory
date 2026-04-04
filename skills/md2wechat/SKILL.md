@@ -1,11 +1,19 @@
 ---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 86e3a2f5f271b297685d844a14336584
+    PropagateID: 86e3a2f5f271b297685d844a14336584
+    ReservedCode1: 3045022100876190ae01d98900bcac7cccbd2301332eaf002e90e12d3b765d57eebfe8a297022050111c915f0506b70407e87bd241e9fb094cf11ce39808938501b350e719ae0d
+    ReservedCode2: 304502200d941f6093ffa9652e5ec623e413fb7202eb245a8acd0e535c0cef6318fd5940022100dc5c4c4e3d27f2ab95f601f370626be76ddcd465df25fd914aa2630ec79a2495
+description: 将"AI教育研究观察"/文章转换为微信公众号编辑器可直接粘贴的HTML（已通过实测验证，样式固定零随机性）。触发关键词：公众号排版html、公众号排版、md转公众号、生成公众号版、微信html、手机预览、每日观点HTML。功能：纯内联style，粘贴到微信公众号编辑器后格式最大程度保留，每次输出样式完全一致。
 name: md2wechat
-description: 将每日观点/文章转换为微信公众号编辑器可直接粘贴的HTML（已通过实测验证，样式固定零随机性）。触发关键词：公众号排版html、公众号排版、md转公众号、生成公众号版、微信html、手机预览、每日观点HTML。功能：纯内联style，粘贴到微信公众号编辑器后格式最大程度保留，每次输出样式完全一致。
 ---
 
-# md2wechat - Markdown 转微信公众号 HTML（实测版）
+# md2wechat - "AI教育研究观察" 转微信公众号 HTML（实测版）
 
-将文章转换为微信公众号编辑器可直接粘贴的 HTML，基于实测验证（2026-04-04多次实测有效）。
+将"AI教育研究观察"文章转换为微信公众号编辑器可直接粘贴的 HTML，基于实测验证（2026-04-04多次实测有效）。
 
 ## 核心原则（实测铁律）
 
@@ -89,7 +97,7 @@ Step 5：告知陛下操作方式
 ## 模板代码（每次必须原样复制，不得修改样式）
 
 ▼ 头部（仅一份，全文件只有这一个头部）
-h1 style="font-size:26px;color:#4A3728;text-align:center;margin:0 0 4px;" 每日观点
+h1 style="font-size:26px;color:#4A3728;text-align:center;margin:0 0 4px;" AI教育研究观察
 p style="font-size:14px;color:#9A8B78;text-align:center;margin:0 0 4px;" YYYY年MM月DD日 · 第N期 · 共M条精选
 hr style="border:none;border-top:1px solid #D4C4A8;margin:20px 0;"
 
@@ -108,7 +116,7 @@ p style="font-size:15px;color:#3D2B1F;line-height:1.9;margin:0 0 24px;font-weigh
 hr style="border:none;border-top:1px solid #D4C4A8;margin:20px 0;"
 
 ▼ 末篇后附（仅一份）
-p style="font-size:13px;color:#C4B89A;text-align:center;" 每日观点 · 转发请注明出处
+p style="font-size:13px;color:#C4B89A;text-align:center;" AI教育研究观察 · 转发请注明出处
 
 ## 固定样式参数表（禁止随意更改）
 
@@ -127,8 +135,8 @@ p style="font-size:13px;color:#C4B89A;text-align:center;" 每日观点 · 转发
 
 ## 注意事项
 
-每次只转换一篇每日观点（多篇合一篇）
-文件名格式：每日观点_YYYY-MM-DD.html
+每次只转换一篇"AI教育研究观察"（多篇合一篇）
+文件名格式：AI教育研究观察_YYYY-MM-DD.html
 存储路径：/workspace/reports/daily/
 交付方式：先上传CDN，再将链接发给陛下
-标题行格式：YYYY年MM月DD日 · 第N期 · 共M条精选（触动二字永久去除）
+标题行格式：AI教育研究观察 · YYYY年MM月DD日 · 第N期 · 共M条精选
