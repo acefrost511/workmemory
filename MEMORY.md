@@ -9,7 +9,7 @@ AIGC:
 
 # MEMORY.md - 长期记忆
 
-_最后更新：2026-04-02 15:48_
+_最后更新：2026-04-04 13:00_
 
 ## 关于陛下
 
@@ -40,14 +40,22 @@ _最后更新：2026-04-02 15:48_
 14个教育信念抽屉
 留存：/workspace/knowledge/beliefs/
 
-### 工作线4：每日洞察推送（v3.0核心工作线）
+### 工作线4：每日洞察推送（v4.0核心工作线，2026-04-04升级）
 陛下在3个节点介入，其余AI执行，每日约15-20分钟
-日程：05:00搜索→08:00简报→陛下标记触动→碰撞分析→陛下写判断→洞察+模拟反应→陛下审核→17:00可扩展洞察
-规范文件：/workspace/knowledge/洞察写作规范.md（v3.0，唯一起草标准）
+日程：05:00搜索→08:00简报→陛下标记触动→collision-analysis skill→陛下写判断→insight-generate skill→陛下审核→17:00 insight-extend skill
+规范文件：/workspace/knowledge/洞察写作规范.md（v4.0，精简版≈180行，细节入skill）
 洞察编号：旧洞察#001-#006，新洞察INSIGHT_NEW_001起
 留存：/workspace/knowledge/insights/INSIGHT_LIBRARY.md
 
-**v3.0三条铁律**：
+**Skill清单（2026-04-04新建）**：
+| 环节 | Skill路径 |
+|------|---------|
+| 碰撞分析 | /workspace/skills/collision-analysis/SKILL.md |
+| 洞察生成 | /workspace/skills/insight-generate/SKILL.md |
+| 可扩展洞察 | /workspace/skills/insight-extend/SKILL.md |
+| 简报写作 | /workspace/skills/daily-briefing/SKILL.md |
+
+**v4.0三条铁律**：
 1. 触动→判断→成品三环节必须陛下本人完成，AI不能替代
 2. 碰撞卡只给方向，不写完整洞察，等陛下判断后再生成
 3. 读者Panel不打分，输出"第一反应+最大疑问+会不会转发"
@@ -73,15 +81,19 @@ _最后更新：2026-04-02 15:48_
 
 ---
 
-## 活跃Agent清单（v3.0版）
+## 活跃Agent清单（v4.0版，2026-04-04更新）
 
-**情报线**：info_officer + intel_01~12
+**情报线**：info_officer + intel_01~11（intel_12暂停使用）
+**审核体系（方案C，2026-04-04上线）**：
+- 审核脚本：/workspace/.review.py（硬核HTTP验证，替代AI reviewer）
+- intel agent v7.0：写入.pending后立即调用.review.py，不spawn reviewer
+- dispatcher：每2分钟检查，连续3次空队列自动禁用，06:30强制截止
+
 **洞察官**：insight_officer（主编记者型，方向由陛下定）
 **读者Panel**：
 - 洞察评审（4角色，无家长）：reader_new_teacher / reader_senior_teacher / reader_principal / reader_expert
 - 长文写作（5角色）：reader_parent + 上述4个
 
-**内容线**：edu_lead（主编）+ edu_writer（执笔）+ edu_reviewer（终审）
 **内容线**：edu_lead（主编）+ edu_writer（执笔）+ edu_reviewer（终审）
 
 **待删除（陛下午后确认）**：edu_analyst / edu_researcher / agents/memory/
@@ -97,8 +109,9 @@ _最后更新：2026-04-02 15:48_
 
 ## 当前进行中任务
 
+- 情报审核方案C已上线（2026-04-04），待明日05:00首次实战验证
+- 洞察流程v4.0已建立，待陛下标记触动后首次实战验证
 - A1文章：标题已选定，等待陛下选定开头（技能2）
-- 情报cron静默死亡问题：待陛下授权修复方案
 
 
 ## Recent Session Notes (2026-04-02 11:00)

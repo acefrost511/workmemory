@@ -1,0 +1,186 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105536
+# Content Length: 19019 characters
+# Extracted at: 2026-04-04 06:44:34
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003057?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003057?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525003057)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525003057/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003057?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003057?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003057?via%3Dihub#preview-section-snippets)
+- [References (63)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003057?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 244](https://www.sciencedirect.com/journal/computers-and-education/vol/244/suppl/C "Go to table of contents for this volume/issue"), April 2026, 105536
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00166-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/244/suppl/C)
+# Do school-based ChatGPT policies Bridge or widen gaps in students’ computer and information literacy across gender, socioeconomic status, and immigration backgrounds
+Author links open overlay panelJia ChenLiu, Alan C.K.Cheung, HyunwooYang
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105536](https://doi.org/10.1016/j.compedu.2025.105536 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525003057&orderBeanReset=true)
+## Highlights
+- •
+Uses ICILS 2023 data to examine school-based ChatGPT policies and student CIL.
+- •
+Categories policies for teachers and students as unrestricted, restricted, or not allowed.
+- •
+Gender, SES, and immigration background remain strong predictors of CIL.
+- •
+Teacher policies (restricted or unrestricted) narrow SES-related CIL disparities.
+- •
+Student unrestricted-use policies relate to lower CIL and widen digital gender divide.
+## Abstract
+With the increasing application of generative AI tools, such as ChatGPT, many schools have developed school-based policies to regulate teachers' and students' use of these technologies. However, empirical evidence on the effectiveness of such policies remains limited. This study examines the relationship between school-based ChatGPT policies and students' computer and information literacy (CIL), and whether these policies moderate CIL disparities across students' gender, socioeconomic status (SES), and immigration background. The data come from International Computer and Information Literacy Study (ICILS) 2023, where school-based ChatGPT policies are distinguished for teachers and for students, each with three categories: unrestricted use, restricted use, and not allowed. Employing cross-level interaction models with random slopes, three findings emerge: (1) female, higher-SES, and non-immigrant students exhibit higher levels of CIL after controlling for student- and school-level covariates, including school-based ChatGPT policies; (2) policies permitting students' unrestricted use are negatively associated with CIL, whereas other policies for students and teachers show no significant direct relationship with CIL; (3) moderation is observed. Policies allowing teachers' use, whether unrestricted or restricted, narrow SES-related CIL gaps, while those permitting students’ unrestricted use exacerbate digital gender divide. These results highlight the need for well-designed and institution-supported AI use policies to promote equitable digital competence development in schools and to prevent the widening of existing digital divides.
+## Introduction
+The emergence of generative AI tools such as ChatGPT, renowned for their capabilities in natural language processing, adaptive responses, and real-time interaction, has drawn considerable attention for their potential in education and is reshaping school practices (Castonguay et al., 2023; Chiu, 2024; Copur-Gencturk et al., 2024; Zhang & Tur, 2024). Meanwhile, their widespread adoption has raised concerns regarding over-reliance, misinformation, and violations of academic integrity (Farrokhnia et al., 2024; Kasneci et al., 2023; Naamati-Schneider & Alt, 2024). In response, scholars underscore the importance of school-based AI policies to promote responsible and ethical use and offers conceptual frameworks and general recommendations from a school perspective (Chan, 2023; Chiu, 2024; Farrokhnia et al., 2024; Hadi Mogavi et al., 2024; Zhang & Tur, 2024). Many schools, based on their own culture and climate, are formulating school-based AI-related policies to support teachers and students in navigating the opportunities and challenges brought by this rapidly evolving technology. Yet empirical evidence on the associations between the emerging policies and student learning and development remains scarce, particularly large-scale quantitative studies. This gap constrains our understanding of the effectiveness of such policies and limits the design of evidence-based strategies for integrating generative AI into education.
+Among the various student outcomes of interest, digital competence has sparked growing interest in the AI era, as it is now widely recognized as essential for both academic success and modern citizenship (Muammar et al., 2025; Pagani et al., 2016; Sezer, 2020; Zou et al., 2021). One important component of digital competence is computer and information literacy (CIL), defined as “an individual's ability to use computers to investigate, create, and communicate in order to participate effectively at home, at school, in the workplace, and in society” (Fraillon & Duckworth, 2025, p. 26). This literacy is regarded as foundational for effective participation in the digital age (Fraillon et al., 2014; Schulz et al., 2020) and as a key element of 21st-century skills (Binkley et al., 2012). However, persistent digital divides in CIL have been found. Prior studies consistently document significant disparities in CIL across student background characteristics such as gender (Gebhardt et al., 2019; Gnambs, 2021; Punter et al., 2017), socioeconomic status (SES) (Aydin, 2022; Heldt et al., 2020), and immigration background (Fraillon, 2024; Heldt et al., 2020). These inequities highlight the need for sustained attention and systematic approaches, such as school-based policies, to reduce gaps in digital skills and ensure more equitable opportunities for all students.
+To address these gaps, the present study draws on data from the International Computer and Information Literacy Study (ICILS) 2023 to examine the relationship between school-based ChatGPT policies and student CIL performance. Employing cross-level interaction models with random slopes, the study investigates not only the direct association between ChatGPT policies and CIL but also the moderating role of such policies in shaping the relationship between student background characteristics (gender, SES, immigration status) and CIL. By examining school-based ChatGPT policies as a representative example of generative AI tools, this research provides early empirical insights into the significance of school-based AI policies in fostering student digital skills and promoting digital equity, contributing to ongoing discussions on the responsible and effective integration of generative AI into school systems.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525003057)
+## Section snippets
+## Computer and information literacy (CIL): concept and importance
+Computer and information literacy (CIL) refers to an individual's capacity to effectively use computers for information-related tasks across various contexts, including learning, work, and everyday life (Fraillon & Duckworth, 2025). This concept often intersects with terms such as digital literacy and ICT (information and communication technology) literacy, though they differ slightly.
+Digital literacy is the broadest concept. UNESCO conceptualizes digital literacy as the capacity to use digital
+## Sample and procedure
+The present study draws on data from the International Computer and Information Literacy Study (ICILS) 2023, a large-scale international assessment coordinated by the International Association for the Evaluation of Educational Achievement (IEA). Conducted every five years since 2013, ICILS evaluates Grade 8 students' digital competence, including computer and information literacy and, since 2018, computational thinking (CT). The assessment combines a computer-based performance test with
+## Descriptive statistics
+Table 1 presents the descriptive statistics of all variables. The dependent variable, five plausible values of students’ CIL performance, have means close to 500 and standard deviations around 89. This standard deviation is slightly lower than the overall ICILS value of 100, which reflects a more concentrated score distribution in the subsample used in this study.
+Among student-level variables, 49 % of the students are female. The mean socioeconomic status (SES) is 0.13, with a standard
+## The association between students’ background characteristics and CIL performance (RQ1)
+The present study employs the ICILS 2023 data, a large-scale assessment dataset focusing on student's computer and information literacy (CIL), and represents one of the earliest attempts to examine the relationship between student background characteristics and CIL in the emerging context of AI integration into education. The results confirm that student background characteristics, particularly gender, socioeconomic status (SES), and immigration background, remain strong and consistent
+## Conclusion
+This study provides early empirical evidence on how school-based ChatGPT policies are associated with students’ computer and information literacy (CIL), and whether these policies moderate existing CIL disparities by student gender, socioeconomic status (SES), and immigration background. Drawing on ICILS 2023 data and employing cross-level interaction models with random slopes, the analysis yields several notable findings.
+First, regarding RQ1 on the relationship between students’ background
+## CRediT authorship contribution statement
+\*\*Jia Chen Liu:\*\* Writing – review & editing, Writing – original draft, Visualization, Resources, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Alan C.K. Cheung:\*\* Writing – review & editing, Writing – original draft, Supervision, Project administration. \*\*Hyunwoo Yang:\*\* Writing – review & editing, Writing – original draft, Supervision, Methodology.
+## Declaration of generative AI and AI-assisted technologies in the manuscript preparation process
+During the preparation of this work the authors used Poe in order to improve the readability and language of the manuscript. After using this tool, the authors reviewed and edited the content as needed and take full responsibility for the content of the published article.
+## Conflict of interest
+We have no known conflict of interest to disclose.
+Recommended articles
+- A. Alieva \_et al.\_
+### [The progression of achievement gap between immigrant and native-born students from primary to secondary education](https://www.sciencedirect.com/science/article/pii/S027656242400074X)
+### Research in Social Stratification and Mobility
+(2024)
+- A. Castonguay \_et al.\_
+### [Revolutionizing nursing education through Ai integration: A reflection on the disruptive impact of ChatGPT](https://www.sciencedirect.com/science/article/pii/S0260691723002101)
+### Nurse Education Today
+(2023)
+- I. Celik
+### [Towards Intelligent-TPACK: An empirical study on teachers' professional knowledge to ethically integrate artificial intelligence (AI)-based tools into education](https://www.sciencedirect.com/science/article/pii/S0747563222002886)
+### Computers in Human Behavior
+(2023)
+- A. Dalgıç \_et al.\_
+### [ChatGPT and learning outcomes in tourism education: The role of digital literacy and individualized learning](https://www.sciencedirect.com/science/article/pii/S1473837624000042)
+### Journal of Hospitality, Leisure, Sports and Tourism Education
+(2024)
+- T. Gnambs
+### [The development of gender differences in information and communication technology (ICT) literacy in middle adolescence](https://www.sciencedirect.com/science/article/pii/S0747563220302855)
+### Computers in Human Behavior
+(2021)
+- R. Hadi Mogavi \_et al.\_
+### [ChatGPT in education: A blessing or a curse? A qualitative study exploring early adopters' utilization and perceptions](https://www.sciencedirect.com/science/article/pii/S2949882123000270)
+### Computers in Human Behavior: Artificial Humans
+(2024)
+- O.E. Hatlevik \_et al.\_
+### [Students' ICT self-efficacy and computer and information literacy: Determinants and relationships](https://www.sciencedirect.com/science/article/pii/S0360131517302555)
+### Computers & Education
+(2018)
+- F.G. Karaoglan Yilmaz \_et al.\_
+### [Exploring the role of cognitive flexibility, digital competencies, and self-regulation skills on students' generative artificial intelligence anxiety](https://www.sciencedirect.com/science/article/pii/S2949882125000714)
+### Computers in Human Behavior: Artificial Humans
+(2025)
+- E. Kasneci \_et al.\_
+### [ChatGPT for good? On opportunities and challenges of large language models for education](https://www.sciencedirect.com/science/article/pii/S1041608023000195)
+### Learning and Individual Differences
+(2023)
+- O. Kocak \_et al.\_
+### [The mediating role of critical thinking and cooperativity in the 21st century skills of higher education students](https://www.sciencedirect.com/science/article/pii/S1871187121001826)
+### Thinking Skills and Creativity
+(2021)
+H. Lei \_et al.\_
+### [The relationship between ICT literacy and academic achievement among students: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0190740921001997)
+### Children and Youth Services Review
+(2021)
+A. Rohatgi \_et al.\_
+### [The role of ICT self-efficacy for students' ICT use and their achievement in a computer and information literacy test](https://www.sciencedirect.com/science/article/pii/S0360131516301440)
+### Computers & Education
+(2016)
+R. Scherer \_et al.\_
+### [The relation between students' socioeconomic status and ICT literacy: Findings from a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0360131519300983)
+### Computers & Education
+(2019)
+B. Sezer
+### [Implementing an information literacy course: Impact on undergraduate medical students' abilities and attitudes](https://www.sciencedirect.com/science/article/pii/S0099133320301397)
+### The Journal of Academic Librarianship
+(2020)
+R. Sharma \_et al.\_
+### [Digital literacy and knowledge societies: A grounded theory investigation of sustainable development](https://www.sciencedirect.com/science/article/pii/S0308596116300428)
+### Telecommunications Policy
+(2016)
+F. Siddiq \_et al.\_
+### [Is there a gender gap? A meta-analysis of the gender differences in students' ICT literacy](https://www.sciencedirect.com/science/article/pii/S1747938X18302902)
+### Educational Research Review
+(2019)
+R. Yilmaz \_et al.\_
+### [The effect of generative artificial intelligence (AI)-based tool use on students' computational thinking skills, programming self-efficacy and motivation](https://www.sciencedirect.com/science/article/pii/S2666920X23000267)
+### Computers and Education: Artificial Intelligence
+(2023)
+J. Ainley \_et al.\_
+### A global measure of digital and ICT literacy skills
+(2016)
+N. Alqahtani \_et al.\_
+### Artificial intelligence integration: Pedagogical strategies and policies at leading universities
+### Innovative Higher Education
+(2025)
+M. Aydin
+### A multilevel modeling approach to investigating factors impacting computer and information literacy: ICILS Korea and Finland sample
+### Education and Information Technologies
+(2022)
+P. Bailey \_et al.\_
+### WeMix: Weighted mixed-effects models using multilevel Pseudo maximum likelihood estimation
+A. Barrett \_et al.\_
+### Not quite eye to AI: Student and teacher perspectives on the use of generative artificial intelligence in the writing process
+### International Journal of Educational Technology in Higher Education
+(2023)
+M. Binkley \_et al.\_
+### Defining twenty-first century skills
+D.G. Campos \_et al.\_
+### Digital gender gaps in students' knowledge, attitudes and skills: An integrative data analysis across 32 countries
+### Education and Information Technologies
+(2024)
+S. Cao \_et al.\_
+### Parental beliefs and mediation co-mediate the SES effect on Chinese preschoolers' early digital literacy: A chain-mediation model
+### Education and Information Technologies
+(2024)
+C.K.Y. Chan
+### A comprehensive AI policy education framework for university teaching and learning
+### International Journal of Educational Technology in Higher Education
+(2023)
+T.K.F. Chiu
+### The impact of Generative AI (GenAI) on practices, policies and research direction in education: A case of ChatGPT and Midjourney
+### Interactive Learning Environments
+(2024)
+Y. Copur-Gencturk \_et al.\_
+### Improving teaching at Scale: Can AI be incorporated into professional development to create interactive, personalized learning for teachers?
+### American Educational Research Journal
+(2024)
+M. Farrokhnia \_et al.\_
+### A SWOT analysis of ChatGPT: Implications for educational practice and research
+### Innovations in Education & Teaching International
+(2024)
+J. Fraillon
+### An international perspective on digital literacy: Results from ICILS 2023
+### International Association for the Evaluation of Educational Achievement (IEA)
+(2024)
+J. Fraillon \_et al.\_
+### Preparing for life in a digital world: IEA International Computer and Information Literacy Study 2018 international report
+(2020)
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525003057)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

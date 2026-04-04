@@ -1,0 +1,206 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2024.105126
+# Content Length: 27636 characters
+# Extracted at: 2026-04-04 11:07:56
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131524001404?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131524001404?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131524001404)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131524001404/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131524001404?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131524001404?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131524001404?via%3Dihub#preview-section-snippets)
+- [References (67)](https://www.sciencedirect.com/science/article/abs/pii/S0360131524001404?via%3Dihub#preview-section-references)
+- [Cited by (12)](https://www.sciencedirect.com/science/article/abs/pii/S0360131524001404?via%3Dihub#preview-section-cited-by)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 220](https://www.sciencedirect.com/journal/computers-and-education/vol/220/suppl/C "Go to table of contents for this volume/issue"), October 2024, 105126
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131524X0010X-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/220/suppl/C)
+# Dynamic interplays between self-regulated learning and computational thinking in primary school students through animations and worksheets
+Author links open overlay panelSiu-CheungKonga, Yi-QingWangb
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2024.105126](https://doi.org/10.1016/j.compedu.2024.105126 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131524001404&orderBeanReset=true)
+## Highlights
+- •
+Studied self-regulated learning ‘s developmental dynamics with cognition.
+- •
+Investigated using a mixed method to a dynamic learning system comprising SRL and CT in a program.
+- •
+Revealed a reinforcing relationship between SRL and cognitive CT abilities over time.
+- •
+Discovered positive impacts of educational tools on cognitive CT abilities.
+## Abstract
+Recent studies identify Self-Regulated Learning (SRL) as a key factor in enhancing cognitive development, particularly within Computational Thinking (CT) literature. However, research gaps remain in understanding how SRL and CT interact from a developmental perspective. Our study designed a program with tailored animations and worksheets to specifically foster students' learning and cognitive development. Using a mixed-methods approach, we administered surveys among 1235 students from 29 [Hong Kong](https://www.sciencedirect.com/topics/social-sciences/hong-kong) primary schools to investigate a dynamic learning system comprising SRL and CT in a large-scale CT program. Additionally, semi-structured interviews were conducted with 15 students to further probe insights. Quantitative findings revealed a mutually reinforcing relationship in the dynamic system, suggesting that higher SRL skills enhance cognitive CT abilities, and vice versa. Complementing these results, qualitative findings showed that integrating animations and worksheets into the CT program significantly boosted students' SRL and cognitive development. These findings have significant implications for educational practices and curriculum design. Schools should consider implementing SRL strategies, such as proactive goal setting and reflective evaluation, within their curricula to promote students’ cognitive development. Furthermore, strategic investments in [educational technology](https://www.sciencedirect.com/topics/social-sciences/educational-technology), including collaborations with EdTech developers, are essential to create effective, pedagogically sound tools that enhance learning outcomes. These insights provide valuable guidance for creating a supportive SRL environment that fosters cognitive development in primary school education.
+## Introduction
+Computational Thinking (CT) has been increasingly recognized as indispensable for equipping students with the cognitive abilities necessary for problem-solving in this digital era. CT, defined by Wing (2006, 2008), is a cognitive process of solving problems, designing systems, and understanding human behavior by drawing on the fundamental concepts of computer science. It involves key cognitive abilities, such as decomposition, pattern recognition, abstraction, and algorithmic thinking, which are crucial for problem formulation and solution development (Barr & Stephenson, 2011; Kong & Wang, 2023). Wing (2008) stressed the importance of CT introduction in early education. The primary school years are crucial for developing cognitive abilities. As highlighted by Seel (2012) and Schunk and Zimmerman (1998), these formative years shape learning habits and cognitive structures, which are vital throughout academic life.
+However, the true potential of CT unfolds when it is integrated into educational practices that foster active and self-directed learning—a pedagogical shift where self-regulated learning (SRL) plays a crucial role (Song et al., 2021). SRL is defined as a dynamic process through which students actively manage their cognitive, metacognitive, and motivational processes to enhance their academic performance (Zimmerman & Schunk, 2011). This transformation from passive receivers of information to active participants in the learning process enables students to engage deeply with content, enhancing their ability to apply knowledge creatively and effectively across various contexts (Pintrich, 2000; Zimmerman, 2002). In the CT context, SRL fosters students' abilities to internalize and reflect complex CT concepts, which is crucial for problem-solving required in today's technology-driven world (Paris & Paris, 2001).
+The potential of SRL is further magnified with educational tools. Garcia et al. (2018) in their systematic review, highlighted the critical importance of appropriately designed tools in education. They asserted that when these tools are well-tailored to students’ needs, they can improve students' abilities to grasp and internalize complex CT concepts, thereby facilitating deeper cognitive development. Among the array of available educational tools, instructional animation has been identified for its effectiveness in making learning engaging and accessible. Kong et al. (2022) emphasized that animations play a crucial role in enhancing SRL, as they can help break down complex tasks into manageable subtasks with step-by-step guides for students. Moreover, when this visual tool goes along with process worksheets, a scaffolded learning environment is created for students. These worksheets guide students to establish clear objectives, interact actively with the content, and engage in critical self-assessment of their learning (Herlina, 2021). The dual implementation of animations and worksheets not only supports autonomy and competence but also fosters a sense of relatedness among students. The relatable characters and scenarios in the animations create a shared experience, allowing students to feel connected to their peers through common reference points. This sense of connection is further reinforced by the worksheets, which encourage students to discuss their learning experiences with school friends, extending the feeling of relatedness beyond the classroom setting. This relatedness is particularly crucial for sustaining SRL, as it provides students with a sense of belonging and support.
+An in-depth understanding of how students' SRL and cognitive development mutually impact each other is of critical importance. To date, limited research has examined the interplays between SRL and cognitive development from a dynamic perspective. To fill the void, our study employed a longitudinal approach to analyze the reciprocal dynamics. Additionally, previous studies have not fully addressed how educational tools respectively enhance students’ SRL and cognitive development. Our study further addressed this gap by examining the influences of age-appropriate educational tools, namely animations and worksheets, in this relationship. To comprehensively address these research objectives, we adopted a mixed methods design, combining quantitative (i.e., surveys) and qualitative approaches (i.e., interviews). This design allows for a comprehensive understanding of the interplays between SRL, cognitive development, and educational tools examined in our study.
+To guide this investigation, we developed three interrelated research questions. Our primary inquiry is (1) how are SRL and cognitive development associated with each other over time? To empirically examine this relationship, we further formulated a hypothesis positing a reciprocal influence: higher (lower) SRL skills led to greater increases (decreases) in cognitive CT abilities, and conversely, higher (lower) cognitive CT abilities contributed to greater increases (decreases) in SRL skills. This hypothesis was tested using longitudinal survey data with three distinct measurement points. Complementing this quantitative approach, we posed two additional research questions to qualitatively explore the impact of specific educational tools: (2) How do the design features of instructional animation and process worksheets contribute to students' SRL? And, similarly, (2) how do these design features influence students' cognitive development? These questions were explored through in-depth interviews. By integrating both quantitative and qualitative methods, our study aimed to comprehensively understand the interplays between SRL, cognitive development, and educational tools in fostering students' CT learning.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131524001404)
+## Section snippets
+## Self-regulated learning theory
+Over the past few decades, theories of self-regulation have significantly evolved, with Bandura's Social-cognitive Theory (1986) being particularly influential. This theory emphasizes self-monitoring, where individuals assess their behavior against established standards and goals, with emotional responses to these assessments guiding future behavior as intrinsic rewards or sanctions (Bandura, 1991). Recognizing the importance of self-regulation in promoting independent and effective learning (
+## Method
+Our study employed a mixed methods design (Creswell & Plano Clark, 2011), integrating both quantitative and qualitative data to comprehensively address the research questions. Specifically, we used survey questionnaires to collect students’ SRL and cognitive CT abilities for examining this dynamic learning system, and incorporated semi-structured interviews to further explore the influences of educational tool use on SRL and CT. These mixed methods design thus leveraged the strengths of both
+## Preliminary analysis
+Descriptive statistics and correlations of the study variables in the hypothesized model are detailed in Table 2. Results confirmed that all variables fell within the acceptable range for normality, with no severe skewness or kurtosis. Rank order stability was moderate for SRL (r's = 0.425 to 0.611), cognitive CT abilities (r's = 0.380 to 0.672). The Cronbach's alpha reliability for SRL and cognitive CT abilities showed satisfactory internal consistency, with values exceeding 0.70, aligning
+## Discussion
+Our study examined the reciprocal dynamics between SRL and cognitive development by adopting a mixed methods design in primary schools. To further enhance this dynamic learning system, the program integrated educational tools, such as animations and worksheets, which in turn were found effective in developing SRL and cognitive CT abilities among students.
+## Funding
+The authors would like to acknowledge the funding support of this Coolthink@JC project from the Hong Kong Jockey Club Charities Trust.
+## Availability of data and material
+The datasets used and/or analyzed during the current study are available from the first author upon reasonable request.
+## Conclusion
+- •
+Ask if they have any additional comments or thoughts they would like to share about their self-regulated learning experience with Scratch programming.
+- •
+Thank them for their time and participation in the interview.
+## CRediT authorship contribution statement
+\*\*Siu-Cheung Kong:\*\* Writing – review & editing, Supervision, Resources, Project administration, Investigation, Funding acquisition, Conceptualization. \*\*Yi-Qing Wang:\*\* Writing – original draft, Methodology, Formal analysis.
+## Declaration of competing interest
+The authors have no conflicts of interest to declare. There is no financial interest to report.
+## Acknowledgment
+The authors would like to acknowledge the funding support of this Coolthink@JC project from the Hong Kong Jockey Club Charities Trust.
+Recommended articles
+- S. Atmatzidou \_et al.\_
+### [Advancing students' computational thinking skills through educational robotics: A study on age and gender relevant differences](https://www.sciencedirect.com/science/article/pii/S0921889015002420)
+### Robotics and Autonomous Systems
+(2016)
+- A. Bandura
+### [Social cognitive theory of self-regulation](https://www.sciencedirect.com/science/article/pii/074959789190022L)
+### Organizational Behavior and Human Decision Processes
+(1991)
+- R. Garcia \_et al.\_
+### [Systematic literature review: Self-Regulated Learning strategies using e-learning tools for Computer Science](https://www.sciencedirect.com/science/article/pii/S0360131518301064)
+### Computers & Education
+(2018)
+- E.J. Halcomb \_et al.\_
+### [Is verbatim transcription of interview data always necessary?](https://www.sciencedirect.com/science/article/pii/S0897189705000893)
+### Applied Nursing Research
+(2006)
+- S.-C. Kong \_et al.\_
+### [Investigating primary school principals' programming perception and support from the perspective of reasoned action: A mixed methods approach](https://www.sciencedirect.com/science/article/pii/S0360131521001445)
+### Computers & Education
+(2021)
+- S.-C. Kong \_et al.\_
+### [Item response analysis of computational thinking practices: Test characteristics and students' learning abilities in visual programming contexts](https://www.sciencedirect.com/science/article/pii/S074756322100159X)
+### Computers in Human Behavior
+(2021)
+- S.-C. Kong \_et al.\_
+### [Monitoring cognitive development through the assessment of computational thinking practices: A longitudinal intervention on primary school students](https://www.sciencedirect.com/science/article/pii/S0747563223001000)
+### Computers in Human Behavior
+(2023)
+- D. Song \_et al.\_
+### [Applying computational analysis of novice learners' computer programming patterns to reveal self-regulated learning, computational thinking, and learning performance](https://www.sciencedirect.com/science/article/pii/S0747563221000686)
+### Computers in Human Behavior
+(2021)
+- B.J. Zimmerman
+### [Attaining self-regulation: A social cognitive perspective](https://www.sciencedirect.com/science/article/pii/B9780121098902500317)
+- S. Adams-Becker \_et al.\_
+### NMC horizon report: 2017 higher education edition
+(2017)
+A. Bandura
+### The explanatory and predictive scope of self-efficacy theory
+### Journal of Social and Clinical Psychology
+(1986)
+V. Barr \_et al.\_
+### Bringing computational thinking to K–12: What is involved and what is the role of the computer science education community?
+### ACM Inroads
+(2011)
+B.R. Belland \_et al.\_
+### Synthesizing results from empirical research on computer-based scaffolding in STEM education: A meta-analysis
+### Review of Educational Research
+(2017)
+R.E. Boyatzis
+### Transforming qualitative information: Thematic analysis and code development
+(1998)
+V. Braun \_et al.\_
+### Thematic analysis
+(2012)
+K. Brennan \_et al.\_
+### New frameworks for studying and assessing the development of computational thinking
+G.V. Caprara \_et al.\_
+### Longitudinal analysis of the role of perceived self-efficacy for self-regulated learning in academic continuance and achievement
+### Journal of Educational Psychology
+(2008)
+G.W. Cheung \_et al.\_
+### Evaluating goodness-of-fit indexes for testing measurement invariance
+### Structural Equation Modeling
+(2002)
+H. Cigdem
+### How does self-regulation affect computer-programming achievement in a blended context?
+### Contemporary Educational Technology
+(2015)
+N. Clark \_et al.\_
+### Efficiency in learning: Evidence-based guidelines to manage cognitive load
+J.W. Creswell \_et al.\_
+### Designing and conducting mixed methods research
+(2011)
+B. Fishman \_et al.\_
+### What happens when the research ends? Factors related to the sustainability of a technology-infused mathematics curriculum
+### Journal of Computers in Mathematics and Science Teaching
+(2011)
+K.A. Frank \_et al.\_
+### Focus, fiddle, and friends: Experiences that transform knowledge for the implementation of innovations
+### Sociology of Education
+(2011)
+M. Fullan
+### The new meaning of educational change
+(2007)
+D. Ghosh \_et al.\_
+### Outliers: An evaluation of methodologies
+J.W. Graham
+### Missing data analysis: Making it work in the real world
+### Annual Review of Psychology
+(2009)
+C. Greenhow \_et al.\_
+### Social media and education: Reconceptualizing the boundaries of formal and informal learning
+### Learning, Media and Technology
+(2015)
+S. Grover \_et al.\_
+### Computational thinking: A competency whose time has come
+E.L. Hamaker \_et al.\_
+### A critique of the cross-lagged panel model
+### Psychological Methods
+(2015)
+K. Harwati \_et al.\_
+### Development of student worksheet to improve creative and critical thinking ability of students in causalitic-learning model
+(2021)
+K. Herlina
+### Developing electronic student worksheet (e-worksheet) based project using fliphtml5 to stimulate science process skills during the Covid-19 pandemic
+### Integrative Science Education and Teaching Activity Journal
+(2021)
+L.T. Hu \_et al.\_
+### Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives
+### Structural Equation Modeling: A Multidisciplinary Journal
+(1999)
+View more references
+- ### [Facilitating computational thinking with AI: A three-level meta-analytic evidence for future-ready learning](https://www.sciencedirect.com/science/article/pii/S1871187125003189)
+2026, Thinking Skills and Creativity
+Show abstract
+The integration of artificial intelligence (AI) tools in education to promote computational thinking (CT) among students has become a trending topic of research; however, there is no consensus on the impact of such tools on CT. Qualitative syntheses regarding both the effect of AI tools and how to unleash their power more effectively are also lacking. Using a three-level meta-analytic approach, this study evaluated the effectiveness of AI tools in improving students’ CT and investigated the various moderating variables. A total of 32 empirical studies with 44 effect sizes were included in this meta-analysis, and the results showed that AI tools have a significant and moderately large effect on students’ CT (Hedges’s \_g\_ = 0.75, 95 % CI \[0.55, 0.95\], \_p\_ < 0.0001). Moderator analyses revealed that AI technologies, the application of AI tools, as well as tool customization and its method, and sample size significantly influence the effectiveness of AI tools. Other moderators—including region, publication year, subject disciplines, instructional approach, collaboration type, intervention duration, gender, and educational level—appeared to be universally effective in promoting student CT. Overall, this meta-analysis contributes to both the academic understanding and practical application of AI tools in CT education to help students prepare for the smart society of the future.
+- ### [Exploring characteristics of primary school students’ self-regulated learning (SRL) behaviors in human-GenAI collaborative programming learning environments: Insights from a proposed framework](https://www.sciencedirect.com/science/article/pii/S0360131525002210)
+2026, Computers and Education
+Show abstract
+Programming education in primary school is vital for nurturing future-ready talents, yet primary school students often struggle with self-regulated learning (SRL), particularly in resource utilization and strategy regulation. Although human-generative AI (GenAI) collaborative programming learning might have the potential to enhance personalized programming education, GenAI's interplay with SRL processes remains underexplored. To address this gap, this study first proposed a SRL Behavior Analysis Framework for human-GenAI collaborative programming learning environments and then examined SRL behaviors of a group of sixth-grade students (n = 36) in such an environment using this framework, along with various learning analytics methods including cluster analysis, descriptive statistics and lag sequential analysis. The analysis yielded the following results: (1) Based on their learning performance, primary school students were identified as three distinct clusters: programming specialized unit (PSU), high performance unit (HPU), and low performance unit (LPU). (2) Regarding SRL behaviors, students prioritized self-control (65.8 %), followed by self-observation (19 %), task analysis (12.1 %), and behavior stagnation (3.2 %). (3) Students in PSU and HPU consistently adopted goal-oriented SRL strategies, whereas students in LPU exhibited passive dependence and fragmented strategy use. GenAI's facilitative effect in supporting learning correlated with users' SRL capabilities. (4) Students in PSU and HPU exhibited frequent transitions between SRL behaviors, whereas students in LPU had insufficient ability to switch strategies when facing programming difficulties. Based on these findings, this study proposed four forward-looking design recommendations: effectively integrating GenAI with the programming environment, utilizing multimodal data and AI for learning assessment and feedback, building a cluster-driven early warning mechanism, and conducting dynamic SRL analysis and guidance based on fine-grained time-series data.
+- ### [Identifying students’ metacognition patterns by their needs for cognitive closure in human-GenAI collaboration](https://www.sciencedirect.com/science/article/pii/S0360131525001903)
+2025, Computers and Education
+Show abstract
+As human–artificial intelligence collaborative learning advances, understanding how learners interact with AI tools in the cognition process becomes increasingly important. In generative AI (GenAI)-assisted learning, \_metacognition,\_ referring to the ability to monitor and regulate individuals' thinking, supports deeper cognitive engagement. Meanwhile, \_Need for Cognitive Closure (NFCC)\_, which involves a desire for certainty and an aversion to ambiguity, regulates how students engage with GenAI and their metacognitive processes. However, little is known about how NFCC dynamically interacts with metacognition in GenAI-supported contexts. This study explores how varying NFCC levels (low, medium, high) and NFCC stages (seizing, freezing) are associated with students' metacognition patterns during GenAI-supported learning. A three-week intervention was conducted with 82 undergraduates, assigned to 16 groups (5–6 students each), completing three cognitively demanding tasks with GenAI support. Leveraging GenAI interaction metadata and self-reported data on NFCC, quantitative content analysis and epistemic network analysis were employed to trace metacognitive shifts across NFCC profiles. Findings revealed that higher NFCC levels were associated with more frequent expressions of NFCC-related behaviors (e.g., desire for predictability, discomfort with ambiguity). Students with lower NFCC engaged more reflectively and deeply in metacognitive processing, while higher-NFCC learners favored fast, goal-driven strategies. Across all groups, a shift from metacognitive strategies to knowledge was observed from the seizing to freezing stage, with high-NFCC students showing pronounced goal orientation early on. These findings highlight how GenAI-supported learning reveals and reinforces cognitive–motivational tendencies, offering design implications for adaptive AI systems that foster metacognitive development tailored to learners' NFCC profiles.
+- ### [Self-regulated learning and technological integration competency: A multilevel latent profile analysis of preschool teachers](https://www.sciencedirect.com/science/article/pii/S0360131525000636)
+2025, Computers and Education
+Show abstract
+Existing research has independently examined teachers' beliefs, emotions, and knowledge related to technology use, but few studies have explored how these components can be combined to form technological integration competency (TIC). Furthermore, the role of self-regulated learning (SRL) in predicting TIC remains underexplored. This study employed multilevel latent profile analysis (MLPA) to identify TIC profiles at both teacher and school levels and examineed their associations with continuous usage intention and technology-enabled productivity. Using data from 3256 teachers nested within 274 schools, single-level latent profile analysis revealed three teacher profiles: Novice, Competent, and Advanced. Teachers in more advanced profiles exhibited higher usage intention and reduced productivity. At the school level, three profiles, Developing, Progressing, and Leading, were identified based on the distribution of teacher profiles, with substantial differences in school-level usage intention and productivity. SRL emerged as a significant predictor of TIC profiles at both levels, with higher SRL increasing the likelihood of teachers and schools belonging to better profiles. The discussion emphasizes integrating beliefs, emotions, and knowledge into teacher training programs to promote TIC while considering the Chinese cultural context.
+- ### [CT4ALL: Towards Putting Teachers in the Loop to Advance Automated Computational Thinking Metric Assessments in Game-Based Learning](https://doi.org/10.1145/3706598.3713368)
+2025, Conference on Human Factors in Computing Systems Proceedings
+- ### [Trends and Impacts of Artificial Intelligence Application in the Development of Computational Thinking Skills](https://doi.org/10.15388/infedu.2025.14)
+2025, Informatics in Education
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-85199508326&md5=8ddb4adecf366f2742f2eafc06b17d7)
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131524001404)
+© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

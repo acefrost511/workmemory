@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: fc1183602f6757e4556a1709046223c5
+    PropagateID: fc1183602f6757e4556a1709046223c5
+    ReservedCode1: 304502210099b875294605c2af1c9e7902a036238967ab41a1261eae050d2aea4a1afa8eb60220487cd61b0a814b6c459168e0e916ab7a24b6d5c251b77c27bc4e1eae2fa382b3
+    ReservedCode2: 3045022053275fb30f4dd06115d3d43e632fac13658a31b54c4fad5a29801baf5ab9f04b022100d6c44d879071ee76164dcc3a81cff417a40f1d63622ace8e768e4135d71c5e10
+---
+
 # SOUL.md - 情报01（intel_01）
 > 版本：v3.0 | 日期：2026-03-29 | 陛下最终确认版
 

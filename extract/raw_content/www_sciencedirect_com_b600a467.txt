@@ -1,0 +1,688 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S2666920X26000263
+# Content Length: 115709 characters
+# Extracted at: 2026-04-04 06:48:41
+#============================================================
+
+Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student learning in artificial intelligence (AI) education - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X26000263&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X26000263)
+\* [View \*\*PDF\*\*](/science/article/pii/S2666920X26000263/pdfft?md5=aead16a2151ac3361816cf2f0b052a13&pid=1-s2.0-S2666920X26000263-main.pdf)
+\* Download full issue
+Search ScienceDirect
+[![](https://sciencedirect.elseviercdn.cn/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](/journal/computers-and-education-artificial-intelligence)
+## [Computers and Education: Artificial Intelligence](/journal/computers-and-education-artificial-intelligence)
+[Volume 10](/journal/computers-and-education-artificial-intelligence/vol/10/suppl/C), June 2026, 100564
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X25X00023-cov150h.gif)](/journal/computers-and-education-artificial-intelligence/vol/10/suppl/C)
+# Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student learning in artificial intelligence (AI) education
+Author links open overlay panelWeipengShena, Ching-singChaib, Thomas K.F.Chiuc, King WoonYaud, HelenMenge, IrwinKingf, SavioWongg, YeungYamh
+Show more
+Outline
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S2666920X26000263&orderBeanReset=true)
+Under a Creative Commons [license](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Open access
+## Abstract
+For current K-12 AI education, understanding how teacher professional knowledge influences student learning is essential. This study employed social cognitive theory to conceptualize teachers' instructional practice and conducted a multilevel structural equation model analysis to examine the cross-level effects of teacher AI knowledge (TAIK) and pedagogical AI knowledge (TPAIK) on student AI knowledge (SAIK), perceptions of AI for social good (SAISG), and behavioral intention to learn AI (SBIAI). Data from 46 secondary school teachers and 2832 students revealed intricate mechanisms. TAIK alone was insufficient and could slightly diminish SAISG without TPAIK. Instead, TPAIK played a fundamental role in fostering SAISG and SBIAI. Neither TAIK nor TPAIK was directly associated with SAIK. Our findings distinguished the roles of TAIK and TPAIK, which demonstrated the “Pedagogy first, technology second” guideline: TPAIK should be prioritized over TAIK for teachers' and students’ excellence in K-12 AI education.
+\* [Previousarticle in issue](/science/article/pii/S2666920X26000214)
+\* [Nextarticle in issue](/science/article/pii/S2666920X26000275)
+## Keywords
+Artificial intelligence
+Professional knowledge
+Teacher
+Multilevel structural equation model
+Social cognitive theory
+K-12 education
+## 1. Introduction
+Emerging artificial intelligence (AI) has given rise to the new AI subject in K-12 education and challenged teachers. In this revolution, teachers often grapple with technological resources, knowledge acquisition, and attitude deficiencies ([Rizvi et al., 2023](#bib66); [T. Wang & Cheng, 2021](#bib80)). To address these barriers, a growing body of research has examined teacher professional knowledge in K-12 AI education ([X. Liu & Zhong, 2024](#bib52); [Fengchun & Cukurova, 2024](#bib96), [Sun et al., 2023](#bib74)). Teachers' technological understanding and pedagogical capacity for teaching AI constitute the foundation of their professional knowledge. Drawing from the technological pedagogical and content knowledge (TPACK) framework ([Mishra & Koehler, 2006](#bib56)), the two components can be regarded as teachers’ AI knowledge (TAIK) and teacher pedagogical AI knowledge (TPAIK) ([Chai, et al., 2024](#bib91)). Considering TAIK and TPAIK, their positive implications are not limited to teachers ([Hava & Babayiğit, 2025](#bib33); [Tan et al., 2025](#bib75)), but extend to student motivation and competence as well ([J. Kim et al., 2022](#bib39)). However, there remains a research gap in modeling the relationships between TAIK, TPAIK, and student learning in K-12 AI education.
+Researchers valued the associations between teacher professional knowledge and student learning to understand teachers' teaching proficiency and design training programs ([X. Liu & Zhong, 2024](#bib52); [Sun et al., 2023](#bib74)). Prior research distinguished the components of teacher professional knowledge to explore their impact. The impact of different components was distinct and discipline-specific. For instance, [Ekmekci et al. (2019)](#bib21) and [Hill et al. (2019)](#bib34) reported that teacher mathematical knowledge for teaching (i.e., the combination of general content knowledge and pedagogical content knowledge) significantly enhanced student achievement in math education. While in biology education, others established that only teacher academic content knowledge (i.e., general content knowledge) was pivotal for student achievement, but general pedagogical knowledge and pedagogical content knowledge showed no significant influence ([Gess-Newsome et al., 2019](#bib30)). [Metzler and Woessmann (2012)](#bib54) also explored the effect of teacher general content knowledge, which is significant in a math curriculum but less significant in a reading curriculum. Their conflicting evidence of impacts warrants further investigation. In addition, teachers' different knowledge components were found interrelated ([M. Li & Li, 2024](#bib46); [Pamuk et al., 2015](#bib61)). They can exhibit compounding effects. In light of the complexity outlined, this study delved into the diverse and intertwined impact of teachers’ TAIK and TPAIK. We explored their associations and distinguished their relationships with student learning in K-12 AI education.
+For this purpose, social cognitive theory (SCT) ([Bandura, 1986](#bib7)) was adopted as the theoretical foundation. This theory interprets teacher instructional practice as an environmental factor for student learning ([K.-W. Lee & Tseng, 2024](#bib45)). Teacher practice is grounded in their professional knowledge ([Ekmekci et al., 2019](#bib21)). Guided by SCT, this study examined the association between teacher professional knowledge and student learning by connecting teacher-level environmental factors and student-level individual factors. Their associations link factors at two levels and form cross-level predictions ([Ekmekci et al., 2019](#bib21); [Hill et al., 2019](#bib34); [J. Wang et al., 2022](#bib81)). Specifically, TAIK and TPAIK were identified as two connected teacher-level factors ([Chai et al., 2024](#bib91)). For students, their learning was indicated by three associated factors: student AI knowledge (SAIK), perception of applying AI for social good (SAISG), and behavioral intention to learn AI (SBIAI). Together, the three factors capture knowledge, perception, and intention as core outcomes of students’ learning. These student-level factors have demonstrated outstanding roles in student learning within AI education ([Liu & Zhong, 2024](#bib52)).
+The present study proposed a conceptual model comprising ten hypotheses and examined the model with multilevel structural equation modeling (MSEM). The contributions of this study are threefold. First, it interpreted the implications of teacher professional knowledge on student learning in K-12 AI education. The interpretation enriches current research that solely examines mechanisms at the single teacher level or student level ([Ayanwale et al., 2022](#bib5), [Chai et al., 2022](#bib93), [Chai et al., 2024](#bib91)) . Besides, the cross-level relationships identified in this study characterize teacher proficiency in K-12 AI education. Our findings responded to the urgent demand for guidelines to efficiently equip AI teachers with professional knowledge for their development ([Dogan et al., 2025](#bib20), [Fengchun & Cukurova, 2024](#bib96)). Finally, the model construction extends the application of social cognitive theory to AI education. Previous applications mainly emphasized AI as an assistant in the social environment for student learning ([Dai & Ke, 2022](#bib19); [Guan et al., 2024](#bib32)), whereas this study focused on the role of teachers in the environment. Notably, this study was situated within the Hong Kong secondary education system, which is influenced by Asian educational traditions, such as structured classroom interactions and emphasis on academic achievement ([Saha & Dworkin, 2009](#bib67)). AI education in Hong Kong remains at an early developmental stage, with limited curriculum time allocation and debates about its integration ([Su et al., 2022](#bib73); [Yue et al., 2024](#bib86)). The possible impacts of environmental factors in this context were explored in our analysis as well.
+## 2. Literature review
+### 2.1. Teacher professional knowledge for teaching AI
+Teacher professional knowledge is foundational for AI education. Researchers have been committed to conceptualizing and promoting teachers' professional knowledge in AI education. The technological pedagogical and content knowledge (TPACK) framework ([Mishra & Koehler, 2006](#bib56)) has been frequently utilized in this regard ([Celik, 2023](#bib16); [Velander et al., 2024](#bib79); [Yue et al., 2024](#bib86)). Through the lens of TPACK, the independent and associated components of teachers' professional knowledge were acknowledged as essential indicators of their proficiency ([Celik, 2023](#bib16); [X. Liu & Zhong, 2024](#bib52)). Contemporary AI innovation has transformed the components of TPACK ([Mishra et al., 2023](#bib57)). In AI education, initial studies distinguished two fundamental types of knowledge underpinning teachers' proficiency: teachers' conceptual and practical understanding of AI technology (TAIK), as well as pedagogical expertise in teaching AI curricula (TPAIK) ([Chai et al., 2024](#bib91), [Liu and Zhong, 2024](#bib52), [Su et al., 2022](#bib73)). TAIK combines teachers' technological and content knowledge. It intersects with the context of AI education, wherein AI serves both as an instructional tool and the subject. To translate their AI knowledge into effective instruction, teachers draw upon TPAIK, a domain-specific synthesis of pedagogical content and technological knowledge. Teachers' acquisition of TPAIK facilitates their pedagogical application of TAIK. In addition to these two knowledge types, a current review by [Tan et al. (2025)](#bib75) also highlighted teachers' knowledge of AI ethics, which has been integrated with TPACK components to frame intelligent-TPACK ([Celik, 2023](#bib16)) or teachers’ AI literacy ([Sperling et al., 2024](#bib72)). This research prioritized TAIK and TPAIK, given their evident connections and existing evidence suggesting their cross-level effects.
+Teachers have been trained and evaluated to promote their professional knowledge for K-12 AI education ([Dogan et al., 2025](#bib20)). To assess instructional effectiveness, student learning has long been recognized as a critical outcome of teacher professional knowledge, especially for student learning achievement and engagement ([Ekmekci et al., 2019](#bib21); [J. Wang et al., 2022](#bib81)). However, such relationships remain underexplored in AI education research. Existing research mainly comprises intervention studies, but lacks mechanism analysis for relationships between teacher professional knowledge and student learning ([X. Liu & Zhong, 2024](#bib52); [Zhai, 2025](#bib87)). To address this research gap, the current study correlated teachers' TAIK and TPAIK to student learning in K-12 AI education. Two factors’ intercorrelations and distinct effects were investigated.
+### 2.2. Student learning in AI education
+Educators have managed to schedule, support, and evaluate student learning in AI education for K-12 AI curricula ([K. Kim & Kwon, 2024](#bib38); [Williams et al., 2023](#bib82); [Velander et al., 2024](#bib79)). Current articles have developed effective interventions for student learning ([Almatrafi et al., 2024](#bib2); [Yue et al., 2024](#bib86)). Teacher professional knowledge about AI technology and designing student-centered instruction was emphasized for providing sufficient support ([Chiu, 2024](#bib90); [Choi et al., 2026](#bib17)). Yet existing evidence concerning the extent to which student learning depends on teacher professional knowledge was rather general and nebulous ([X. Liu & Zhong, 2024](#bib52)). Based on previous research, this study screened key factors regarding student learning in AI education to characterize their learning, then modeled the mechanisms underlying students’ supported learning in K-12 AI education.
+For modeling, SAIK was highlighted due to its foundational role across students' continuous learning ([L. Li et al., 2024](#bib47)). K-12 students' knowledge construction necessitates grasping technological concepts about AI and applying them when learning AI ([X. Liu & Zhong, 2024](#bib52)). Moreover, SAISG and SBIAI have also been underlined as crucial for students learning about AI. SAISG highlights students' positive perceptions of social good that orient students' learning about AI and assumes a prominent place in K-12 AI curricula ([Casal-Otero et al., 2023](#bib15)). Ethical awareness prepares students to actively engage with AI in a socially responsible manner, both in belief and practice ([Usher & Barak, 2024](#bib78)). In addition, enhancing students' learning intentions is a vital goal of AI curricula as well. Students’ behavioral intentions in learning AI motivate sustainable effort, and the success of AI curricula relies on their continuous effort toward expansive and dynamic AI knowledge ([Chai et al., 2022](#bib94), [Kim and Kwon, 2024](#bib38)). Therefore, the current study incorporated SAISG and SBIAI, then correlated them with SAIK to indicate the characteristics of student learning in K-12 education.
+### 2.3. Relationships between teacher professional knowledge and student learning in AI education
+This research correlated teacher professional knowledge with student learning based on the social cognitive theory (SCT) by [Bandura (1986)](#bib7). The approach has been examined by [Ekmekci et al. (2019)](#bib21) in the context of math education before. SCT posits that individual learning is motivated by personal, behavioral, and environmental factors, as well as their reciprocal interactions. SCT stresses that diverse environmental factors can be taken into account when studying individual learning within the social environment ([Bandura, 1977](#bib6)). Accordingly, teacher instructional practice serves as an influential environmental factor for student learning ([Costa et al., 2024](#bib18); [J. Lee & Shute, 2010](#bib44)). Teacher practice shapes student learning progress and outcomes, partially determines student social experience. Moreover, teachers' professional knowledge underpins their practice ([Gess-Newsome et al., 2019](#bib30)). Teachers draw upon their knowledge to construct conducive environments that optimize student learning ([Baumert et al., 2010](#bib9); [Ekmekci et al., 2019](#bib21)). Students depend on teachers’ support to cultivate motivation and self-regulation in their social cognitive learning ([K.-W. Lee & Tseng, 2024](#bib45)).
+Drawing from SCT, we hypothesized that teacher professional knowledge could affect students' personal factors, such as their knowledge, perceptions, and intentions about learning AI in a multilevel model ([Schunk & DiBenedetto, 2023](#bib71)). Existing literature has consistently reported positive cross-level relationships between teacher professional knowledge and student learning in multilevel modeling ([Ekmekci et al., 2019](#bib21); [Förtsch et al., 2016](#bib29); [Mahler et al., 2017](#bib53); [J. Wang et al., 2022](#bib81)). Particularly, TAIK was proposed to promote students' comprehension of AI concepts in their teaching (Hypothesis 1, H1). Teachers can also cultivate students' ethical awareness and their motivation when teaching AI knowledge, which in turn develops students' social good beliefs (H2) and encourages them to keep learning (H3). Similarly, TPAIK underpins teachers' instructional support for students. It was expected to facilitate students’ acquisition of AI knowledge (H4), social good beliefs (H5), and learning intentions (H6) as well. Some additional relationships were constructed in accordance with existing studies. From TAIK to TPAIK (H7), a connection has been previously identified ([Chai et al., 2024](#bib91)). The prediction also made TPAIK a mediator in the model. For student-level factors, research has suggested positive relationships between SAIK and SAISG, SAIK and SBIAI, as well as SAISG and SBIAI ([Chai et al., 2022](#bib93), [Chai et al., 2021](#bib92), [Chai et al., 2022](#bib94)). We therefore proposed H8, H9, and H10. As [Fig. 1](#fig1) shows, the conceptual model illustrates all hypothesized relationships.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X26000263-gr1.jpg)
+1. [Download: Download high-res image (231KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X26000263-gr1\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X26000263-gr1.jpg)
+Fig. 1. Conceptual model
+\*Note\*. TAIK: Teacher AI knowledge; TPAIK: Teacher pedagogical AI knowledge; TETE: Teaching Experience in Technology Education (year); SAIK: Student AI knowledge; SAISG: Student perception of applying AI for social good; SBIAI: Student behavior intention in learning AI.
+## 3. Method
+### 3.1. Research goals and questions
+The recent study held the purpose of elucidating the mechanisms underlying teaching proficiency in K-12 AI education. Such mechanisms were demonstrated by cross-level relationships between teacher professional knowledge and student learning in AI education. Specifically, the intertwined roles of TPAIK and TAIK were disentangled. Multilevel modeling distinguished the two factors’ different effects in fostering SAIK, SAISG, and SBIAI, thereby providing guidance to teacher training and instruction.
+The conceptual model was examined with the Multilevel Structural Equation Model (MSEM), which offers specific benefits. On one hand, MSEM is ideal for analyzing nested data, as in this study where students clustered under teachers. MSEM accounts for the non-independence of observations within clusters, recognizing that participants within the same cluster may display a degree of similarity, leading to an underestimation of sampling error. MSEM outperforms SEM by correctly calculating standard errors in nested data ([Kline, 2023](#bib41)). On the other hand, the conceptual model incorporates cross-level and within-level mediation effects, which will be inappropriately tested or overlooked in the traditional multilevel modeling (MLM) ([Preacher et al., 2010](#bib64), [2011](#bib63)). We also considered the advantages of MSEM over MLM in analyzing samples containing fewer clusters ([D. Zhang & Willson, 2006](#bib89)). In the MSEM, corresponding teacher-level factors were aggregated from three student-level factors based on their average value. The aggregated factors’ relationships with two teacher-level factors demonstrate our hypotheses ([Kline, 2023](#bib41)). Our analyses focused on the impact of TAIK and TPAIK, as well as the potential mediating role of TPAIK between TAIK and student-level factors. Two research questions were raised.
+\* RQ1: Are TAIK and TPAIK positively associated with SAIK, SAISG, and SBIAI as hypothesized?
+\* RQ2: Can TPAIK mediate the relationships between TAIK and SAIK, SAISG, SBIAI?
+### 3.2. Background and participants
+This study obtained data from Hong Kong secondary schools relying on the AI for the Future (AI4Future) project. AI4Future is a collaborative project that has designed and implemented AI education with interdisciplinary programs in Hong Kong secondary schools since 2019 ([Chiu et al., 2022](#bib95)). Teachers were provided with technical support and workshops to help them implement AI. They also had access to various materials for enriched AI curricula, including an e-platform and AI robots. Students in grades 7 through 9 were taught (1) Knowledge of AI (2) Process in AI (application of AI), and (3) Impact of AI in AI curricula. Teachers and students were investigated every year for evaluation.
+The dataset of this study was collected from September 2023 to May 2024. A total of 46 teachers from 29 schools participated in this study. They corresponded to 2832 students in 144 classes. The teacher-student configuration remained stable throughout the academic year. Although 46 high-level (teacher-level) samples were relatively small, it is close to 50 and can be regarded as acceptable for multilevel modeling with sufficient low-level (student-level) samples ([Goddard & Goddard, 2001](#bib31); [Hox & McNeish, 2020](#bib36)). The demographic information of teachers and students is presented in [Table 1](#tbl1), including teachers' gender and teaching experience, as well as students' gender, age, and grade. Instead of investigating teachers' age, this study highlighted teachers' teaching experience in technology education, considering its similar impact as age on students’ learning in the context of this study. No teacher reported more than 30 years of teaching experience in the response.
+Table 1. Demographic characteristics of the sample.
+| Demographic characteristics | N | % |
+| --- | --- | --- |
+| Teacher (N = 46) |
+| Gender | Female | 10 | 21.7% |
+| Male | 36 | 78.3% |
+| Teaching experience in Technology Education (year) | <1 | 3 | 6.5% |
+| 1 - 10 | 25 | 54.3% |
+| 11 - 20 | 11 | 23.9% |
+| 21 - 30 | 7 | 15.2% |
+| Student (N = 2832; 61.57 students per teacher; SD = 48.37) |
+| Gender | Female | 1611 | 56.9% |
+| Male | 1221 | 43.1% |
+| Age | 11 | 56 | 2.0% |
+| 12 | 797 | 28.1% |
+| 13 | 964 | 34.0% |
+| 14 | 795 | 28.1% |
+| 15 | 158 | 5.6% |
+| 16 | 50 | 1.8% |
+| 17 | 8 | .3% |
+| 18 | 4 | .1% |
+| Grade | 7 | 931 | 32.9% |
+| 8 | 977 | 34.5% |
+| 9 | 924 | 32.6% |
+### 3.3. Measures
+#### 3.3.1. Teacher questionnaire
+A questionnaire was adopted from the previous survey of [Chai et al. (2024)](#bib91) to assess TAIK (α = .91) and TPAIK (α = .95) using a 6-point Likert-type scale ranging from 6 = strongly agree to 1 = strongly disagree. Both Chinese and English versions of the questionnaire were provided to teachers for selection.
+TAIK was measured with 9 items covering key techniques applying AI, such as machine learning, natural language processing, and optimization. Teachers were asked to estimate their perceived ability in whether they could help students acquire knowledge about each technique. The survey for TPAIK consists of 7 items assessing teachers’ teaching strategies in AI curricula. The strategies include employing problem-based learning, inquiry-based learning, discussion, etc. Notably, parts of the 7-item scale were different from the previously reported 10-item scale ([Chai et al., 2024](#bib91)). This study selected different items from the original survey, considering the specific situation of teaching in the current study.
+#### 3.3.2. Student questionnaire
+All surveys for students were adopted from previous studies on student learning in AI education ([Chai et al., 2022](#bib93), [Chai et al., 2021](#bib92), [Chai et al., 2022](#bib94)) to measure SAIK (α = .87 - .91), SAISG (α = .82 - .92), and SBIAI (α = .90 - .91). The student questionnaire also used 6-point Likert-type scales and had two versions. All questionnaires are available in the supplementary material.
+SAIK was assessed by 6 items. Students were asked to respond with their perceived knowledge about AI applications, like “I know how AI can be used to predict possible outcomes through statistics”. SAISG was measured by 4 items. The items investigated students' agreement with applying AI for the benefit of society, such as “I can design AI applications that can benefit people”. The scale for SBIAI has 5 items, focusing on students’ intentions in continuous learning about AI. One example is “I intend to use AI to facilitate my learning”.
+### 3.4. Analyses
+SPSS 26 was employed to calculate descriptive information and the correlation of factors in the MSEM. The scales were validated in SPSS as well. Moreover, the feasibility of aggregating teacher-level factors from student-level factors in the dataset was justified using between-group heterogeneity and within-group homogeneity ([Bryk & Raudenbush, 1992](#bib13)). The intraclass correlation coefficients (ICCs) and within-group agreement (rWG) of student-level factors were analyzed employing R 4.2.2 with the R package \*multilevel\* V2.7 ([Bliese et al., 2022](#bib12)). ICCs quantified the similarity of grouped samples and the variability between groups. ICC(1) and ICC(2) with bootstrap 95% confidence intervals (1000 iterations) were calculated. ICC(1) values are often expected to be modest (typically .05–.20) ([Bliese, 2000](#bib11)). While even smaller ICC(1) can yield acceptable ICC(2) values (≥.70) with sufficient average cluster sizes, thereby supporting aggregation ([Bliese, 1998](#bib10); [Klein & Kozlowski, 2000](#bib40)). Accounting for this, we computed the average cluster size with its SD in [Table 1](#tbl1). Because cluster sizes varied substantially (M = 61.57, SD = 48.37, CV = 78.56%), given this heterogeneity, we used the adjusted average cluster size (adjusted k = 60.74; [Bliese, 2000](#bib11)) rather than the arithmetic mean. We also measured the design effect (DEFF) of each construct in R. DEFF quantifies the inflation in standard errors due to clustering. A DEFF exceeding 2 is generally regarded as a signal for employing multilevel analysis ([Hox & Maas, 2002](#bib35)). We then calculated rWG(j) with multiple items per construct, assuming a uniform null distribution (Level-1 residual variance (σEU2) = 2.917 for all 6-point Likert scales) ([James et al., 1984](#bib37)). The rWG(j) of factors represents the degree of shared properties among samples in one group. The mean and median of factors’ rWG(j) were reported alongside the interquartile range (IQR) and the percentage of groups equal to or higher than .70/.80. We selected .70 as the minimum standard of strong agreement in within-group homogeneity ([Bliese, 2000](#bib11); [Woehr et al., 2015](#bib83)).
+All multilevel analyses were conducted in Mplus 8.3 ([Muthén & Muthén, 1998](#bib58)–2017) using maximum likelihood with robust standard errors (MLR) estimation. Goodness-of-fit was satisfied if Root Mean Square of Approximation (RMSEA) was at or below .08 and Standardized Root Mean Square Residual (SRMR) was at or below .10; Both Comparative Fit Index (CFI) and Tucker-Lewis Index (TLI) should be at or above .90 ([Kline, 2023](#bib41)). Responses were averaged to an overall score for factors in the models. Following a procedure suggested by [Liu and Yin (2023](#bib50), [2024)](#bib51), this study examined the conceptual model in three steps. First, multilevel confirmatory factor analyses (MCFAs) were conducted to validate the structure of our multilevel model. We restructured and tested alternative models to evaluate the discriminant validity of these constructs. Given that large samples can inflate Chi-square values, this study did not include the Chi-square test in model comparisons ([Schermelleh-Engel et al., 2003](#bib69)). Second, the constructed model was examined after adding covariates. In a two-level MSEM, the cluster means of student-level factors introduced new latent factors as collective student factors at the teacher level. Relationships between teacher factors and these aggregated latent factors allowed us to test hypotheses. Third, the mediation effects of possible mediators were assessed by a Monte Carlo method employing the product of coefficients and 95% Monte Carlo Confidence Interval (MC CI) ([Preacher & Selig, 2012](#bib62)).
+## 4. Results
+### 4.1. Reliability and aggregation justification
+The validation of the latent variables' measurement reliability, intraclass correlations, and within-group agreement is presented in [Table 2](#tbl2), [Table 3](#tbl3). The results suggest that all scales were reliable. For all variables, their ICC(2) > .70, DEFF >2. Besides, all rWG >.70, and the vast majority of teachers’ students met this criterion: 93.5% for SAIK, 84.8% for SAISG, and 91.3% for SBIAI. These strong within-group agreement values provide robust support for aggregation validity. The dataset was appropriate for MSEM analysis.
+Table 2. The measurement reliability, ICCs, and design effect for latent variables.
+| Variables | Cronbach's alpha | CR | AVE | ICC(1) [95% CI] | ICC(2) [95% CI] | DEFF |
+| --- | --- | --- | --- | --- | --- | --- |
+| TAIK | .933 | .970 | .783 |
+| TPAIK | .955 | .976 | .854 |
+| SAIK | .897 | .929 | .684 | .077 [.063, .153] | .836 [.802, .916] | 5.58 |
+| SAISG | .923 | .946 | .813 | .044 [.038, .103] | .737 [.705, .874] | 3.60 |
+| SBIAI | .902 | .927 | .719 | .048 [.035, .097] | .755 [.689, .867] | 3.85 |
+\*Note\*. TAIK: Teacher AI knowledge; TPAIK: Teacher pedagogical AI knowledge; SAIK: Student AI knowledge; SAISG: Student perception of applying AI for social good; SBIAI: Student behavior intention in learning AI.
+Table 3. The rWG(j) for student latent variables.
+| Variable | Mean | Median | IQR | % Groups ≥ .70 | % Groups ≥ .80 |
+| --- | --- | --- | --- | --- | --- |
+| SAIK | .851 | .880 | .115 | 93.5% | 73.9% |
+| SAISG | .782 | .810 | .117 | 84.8% | 52.2% |
+| SBIAI | .820 | .839 | .124 | 91.3% | 69.6% |
+\*Note\*. SAISG: Student perception of applying AI for social good; SBIAI: Student behavior intention in learning AI.
+### 4.2. Descriptive statistics and correlations
+Apart from five latent variables, five covariates were added as control variables in the multilevel model. Two covariates at the teacher level were teachers' genders and teaching experience in technology education (years). They were separately coded into category variables with 0 – 1 (0 for female, 1 for male) and 1 – 4 (<1; 1 – 10; 11 – 20; 21 – 30). Three student-level covariates were students' gender, age, and grade. Students’ genders were coded following the same rules as teachers, while their grades were coded as 1 – 3 (grades 7, 8, 9). [Table 4](#tbl4) shows descriptive statistics and Pearson correlations of all variables.
+Table 4. Descriptive statistics and correlations for variables.
+| Teacher Level | M | SD | TAIK | TPAIK | Gender | TETE | Empty Cell | Empty Cell |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| TAIK | 4.155 | .960 | - |
+| TPAIK | 4.240 | .931 | .848∗∗ | - |
+| Gender | .780 | .417 | −.081 | −.092 | - |
+| TETE | 2.480 | .836 | .155 | −.003 | −.078 | - |
+| Student Level | SAIK | SAISG | SBIAI | Gender | Age | Grade |
+| SAIK | 4.209 | .973 | - |
+| SAISG | 4.026 | 1.081 | .649∗∗ | - |
+| SBIAI | 4.208 | .990 | .586∗∗ | .632∗∗∗ | - |
+| Gender | .430 | .495 | .046∗ | .064∗ | .032 | - |
+| Age | 13.140 | 1.041 | −.004 | .014 | .055∗∗ | .106∗∗ | - |
+| Grade | 2.000 | .809 | .015 | .031 | .101∗∗ | .122∗∗ | .787∗∗ | - |
+\*Note\*. ∗\*p\* < .05; ∗∗\*p\* < .01; ∗∗∗\*p\* < .001. TAIK: Teacher AI knowledge; TPAIK: Teacher pedagogical AI knowledge; TETE: Teaching Experience in Technology Education (year); SAIK: Student AI knowledge; SAISG: Student perception of applying AI for social good; SBIAI: Student behavior intention in learning AI.
+### 4.3. Hypothesis testing
+#### 4.3.1. Multilevel confirmatory factor analyses
+[Table 5](#tbl5) reports the results of MCFAs. High latent correlations between factors appeared at both levels (.558 < r < .713, p < .05). We thus combined items of different factors at the two levels to construct alternative models. Four- and three-factor models were compared with the original five-factor model. According to goodness-of-fit indices, the original model (Five-factor model) produced a good fit (χ2 = 915.466, df = 190, RMSEA = .037, CFI = .965, TLI = .958, W\\_SRMR = .027, B\\_SRMR = .051) and outperformed other models. Our conceptual model was appropriate for multilevel modeling.
+Table 5. Comparison of alternative models.
+| Model feature | χ2 | df | RMSEA | CFI | TLI | W\\_SRMR | B\\_SRMR |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Five-factor model | 915.466 | 190 | .037 | .965 | .958 | .027 | .051 |
+| TAIK + TPAIK | 961.214 | 191 | .038 | .963 | .956 | .027 | .065 |
+| SAISG + SBIAI | 3265.830 | 192 | .075 | .851 | .825 | .062 | .051 |
+| SAISG + SAIK | 3186.760 | 192 | .074 | .855 | .830 | .063 | .051 |
+| SBIAI + SAIK | 3612.292 | 192 | .079 | .834 | .805 | .075 | .051 |
+| SAISG + SBIAI + SAIK | 5160.594 | 193 | .095 | .759 | .719 | .089 | .051 |
+\*Note\*. W\\_SRMR: Within-level SRMR; B\\_SRMR: Between-level SRMR. All \*p\* < .001. TAIK: Teacher AI knowledge; TPAIK: Teacher pedagogical AI knowledge; SAIK: Student AI knowledge; SAISG: Student perception of applying AI for social good; SBIAI: Student behavior intention in learning AI.
+#### 4.3.2. Multilevel structural equation modeling
+The MSEM analysis obtained acceptable model fits (χ2 = 57.263, df = 12, p < .001, RMSEA = .036, CFI = .984, TLI = .960, W\\_SRMR = .067, B\\_SRMR = .084). As [Fig. 2](#fig2) illustrates, half of our ten hypotheses were supported. For teacher factors, TAIK could positively predict TPAIK (H7, β = .820, \*p\* < .001), but it negatively predicted collective SAISG (H2, β = −.170, \*p\* < .001). TPAIK could positively predict collective SAISG (H5, β = .141, \*p\* < .01) and SBIAI (H6, β = .173, \*p\* < .05). Especially, strong correlations were displayed between collective SAIK and SAISG (H8, β = .649, \*p\* < .001), SBIAI (H9, β = .803, \*p\* < .05) at the teacher level, but did not appear between collective SAISG and SBIAI. While at the student level, correlations between the three student factors were significant. SAIK positively related to SAISG (β = .721, \*p\* < .001) and SBIAI (β = .297, \*p\* < .001). SAISG had a positive relationship with SBIAI (β = .397, \*p\* < .001). For covariates, only the path coefficient from student gender to SBIAI was significant (β = .093, p < .01) at the student level, suggesting differences in students’ intention can be partially attributed to their gender.[Table. 6](#tbl6)
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X26000263-gr2.jpg)
+1. [Download: Download high-res image (300KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X26000263-gr2\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X26000263-gr2.jpg)
+Fig. 2. MSEM analysis results
+\*Note\*. “C\\_” means collective; ∗\*p\* < .05; ∗∗\*p\* < .01; ∗∗∗\*p\* < .001. TAIK: Teacher AI knowledge; TPAIK: Teacher pedagogical AI knowledge; SAIK: Student AI knowledge; SAISG: Student perception of applying AI for social good; SBIAI: Student behavior intention in learning AI.
+Table 6. Mediation effects.
+| Type of effect | Estimates | 95% MC CI |
+| --- | --- | --- |
+| Lower 2.5% | Upper 2.5% |
+| Partial Mediation (Suppression): TAIK → TPAIK → C\\_SAISG |
+| Total | −.055∗ | −.101 | −.007 |
+| Direct | −.170∗∗∗ | −.235 | −.105 |
+| Indirect | .115∗∗ | .044 | .187 |
+| Full Mediation: TAIK → TPAIK → C\\_SBIAI |
+| Total | −.011 | −.084 | .063 |
+| Direct | −.153 | −.317 | .011 |
+| Indirect | .142∗ | .025 | .259 |
+| Partial Mediation: SAIK → SAISG → SBIAI |
+| Total | .583∗∗∗ | .528 | .637 |
+| Direct | .297∗∗∗ | .253 | .340 |
+| Indirect | .286∗∗∗ | .252 | .320 |
+\*Note\*. “C\\_” means collective; ∗\*p\* < .05; ∗∗\*p\* < .01; ∗∗∗\*p\* < .001. TAIK: Teacher AI knowledge; TPAIK: Teacher pedagogical AI knowledge; SAIK: Student AI knowledge; SAISG: Student perception of applying AI for social good; SBIAI: Student behavior intention in learning AI.
+#### 4.3.3. Mediation effects
+According to the result of the MSEM analysis, three mediation effects could be examined. [Table 6](#tbl6) illustrates that TPAIK mediated the relationships between TAIK and collective SAISG, SBIAI. A negative direct effect was identified from TAIK to collective SAISG (β = −.170, \*p\* < .001), whereas the indirect effect of TAIK was positive (β = .115, \*p\* < .01). Subsequently, the negative total effect (β = −.055, \*p\* < .05) suggests the partial mediation effect of TPAIK (95% MC CI = [.044, .187]), which is a suppression effect as well. TAIK also had a positive indirect effect on collective SBIAI (β = .142, \*p\* < .05), but its direct effect (β = −.153, \*p\* > .05) and total effect (β = −.011, \*p\* > .05) were not significant. Hence, the relationship between TAIK and collective SBIAI was fully mediated by TPAIK (95% MC CI = [.025, .259]). In addition, the partial mediation effect of SAISG at the student level was supported (95% MC CI = [.252, .320]). SAIK showed positive direct (β = .297, \*p\* < .001) and indirect (β = .286, \*p\* < .001) effects on SBIAI. Its total effect was significant and positive (β = .583, \*p\* < .001).
+## 5. Discussion
+### 5.1. Cross-level impact of TAIK and TPAIK
+To answer the first research question, our MSEM investigated the cross-level impact of TAIK and TPAIK, which revealed divergent outcomes. While TAIK exhibited a slight negative effect on SAISG, TPAIK positively affected SAISG and SBIAI. Unexpectedly, neither of the two factors demonstrated a significant impact on SAIK. This counterintuitive finding suggests intricate mechanisms underlie the development of students in K-12 AI curricula ([Wu & Yang, 2022](#bib84)). The lack of significant effects may be attributed to various reasons. In our AI curricula, teachers currently encounter both external and internal constraints. Although the AI4future project has progressed for five years, K-12 AI education in Hong Kong remains in its infancy ([Su et al., 2022](#bib73); [Yue et al., 2024](#bib86)). Teachers could struggle without sufficient technological resources and limited time ([T. Wang & Cheng, 2021](#bib80)). Meanwhile, they could generally suffer from misconceptions about AI and occasional resistance in their practices ([Antonenko & Abramowitz, 2023](#bib4)). Knowledgeable teachers can still be constrained by instructional setbacks that lead to unsatisfactory outcomes of student learning ([Kopcha, 2012](#bib42); [Lindner & Berges, 2020](#bib49), pp. 1–9). Another alternative explanation is the absence of essential mediators between teacher professional knowledge and SAIK in the model, such as teachers' pedagogical engagement, which reflects their intention toward AI education. Teachers usually approach AI education with both enthusiasm and apprehension ([Tripathi et al., 2025](#bib76); [Uğraş et al., 2024](#bib77)). Given that most teachers were adapting to novel AI curricula in this study, they may have encountered difficulties in facilitating students' acquisition of AI knowledge due to insufficient pedagogical engagement during the initial adaptation period. From the aspect of students, since AI education has not become one of the core school subjects in Hong Kong like math and Chinese language ([Su et al., 2022](#bib73); [Yue et al., 2024](#bib86)), they might deprioritize AI knowledge and dedicate insufficient effort to their studies, irrespective of teachers’ endeavors. At this early stage of AI education, students may be motivated but superficial when learning, which results in limited knowledge ([L. Li et al., 2024](#bib47); [M. Zhang & Quintana, 2012](#bib88)). Nevertheless, the gap between teacher professional knowledge and SAIK should be addressed by further exploration and professional training for Hong Kong K-12 teachers.
+The slight negative effects of TAIK on SAISG echo some scholars' concerns about overemphasis on teacher technical knowledge and skills in AI education ([Celik, 2023](#bib16); [Reich et al., 2020](#bib65), pp. 296–302). Although TAIK is fundamental for teaching practice and student learning in AI education, this study empirically verified the adverse effects of inadequate teacher knowledge, which can even hinder student awareness of AI ethics. Teachers who prioritize technical concepts and tools may inadvertently narrow students' horizons, leading them to underestimate the potential risks and ethical implications of AI applications ([Nguyen et al., 2023](#bib60)). Contrary to TAIK, TPAIK positively impacted both SAISG and SBIAI. The prediction suggested that TPAIK is a vital indicator of teacher support for student learning. Our evidence underscored the necessity of pedagogy for AI ethics education ([Adams et al., 2023](#bib1); [Williams et al., 2023](#bib82)) and student learning intention in AI education ([Wu & Yang, 2022](#bib84)). TPAIK should be prioritized over TAIK to bolster teachers' teaching proficiency through efficient training programs, encouraging more organized approaches that base technological knowledge on pedagogical strategies ([Dogan et al., 2025](#bib20); [Sanusi et al., 2023](#bib68)). For K-12 students’ learning, TPAIK as a facilitator surpassed TAIK in this research.
+### 5.2. The mediating effect of TPAIK
+The recent study connected TAIK and TPAIK to address the second question. The MSEM distinguished TAIK and TPAIK, underlined the imperative role of TPAIK in AI education. In alignment with [Chai et al. (2024)](#bib91), our analysis confirmed the positive prediction from TAIK to TPAIK. We further delved into the cross-level mediating effect of TPAIK, which was affirmed as a mediator in two distinct relationships. Specifically, TPAIK had a suppression effect when mediating the relationship between TAIK and SAISG. Although TAIK maintained a minimal negative effect (total effect) on SAISG, TPAIK compensated for this deficiency. Its effect may result from teachers' instructional effort to help students critique AI artifacts and foster responsibility when learning AI knowledge ([Adams et al., 2023](#bib1); [Williams et al., 2023](#bib82)). Moreover, TPAIK fully mediated the relationship between TAIK and SBIAI. This suggests that teachers' instructional scaffolding is essential for students’ autonomy and self-regulation, which engages students in their learning about and collaboration with AI ([J. Kim et al., 2022](#bib39); [Wu & Yang, 2022](#bib84)). The mediating role of TPAIK articulated existing vague evidence about the impact of TAIK and TPAIK in K-12 AI curricula.
+Consequently, TAIK could exert positive indirect effects on SAISG and SBIAI only when TPAIK was taken into account. In other words, it is not enough and may even prove detrimental to solely equip teachers with TAIK. Teachers' efficient application of TAIK necessitates adequate pedagogy. For example, K-12 teachers should direct students' self-regulated learning to help them understand AI concepts and avoid misconceptions ([Chiu, 2024](#bib90); [J. Kim et al., 2022](#bib39)). Interaction and co-creation with AI should be highlighted when students are learning AI applications ([Rizvi et al., 2023](#bib66)). TPAIK is essential for these instructional strategies. TPAIK transcends being merely an indicator of teachers’ competence in AI education ([Celik, 2023](#bib16); [Mikeladze et al., 2024](#bib55)). It emerges as a critical component that mitigates the potential negativity of TAIK and fundamentally determines teacher professional development in K-12 AI curricula.
+## 6. Implications
+### 6.1. Theoretical implications
+The MSEM expands the limited applications of SCT in AI education. Prior applications concentrated on the transformation brought by AI in students' interactions ([Dai & Ke, 2022](#bib19); [Guan et al., 2024](#bib32)), where AI was treated as a learning tool rather than the learning content. SCT was adopted to guide interventions rather than modeling analyses, such as the theoretical detection of environmental factors influencing student learning. Drawing upon SCT, this research analyzed a multilevel model in the context of K-12 AI curriculum. Our assessment identified TAIK and TPAIK as two environmental factors for student learning in AI education. These two factors' impact met the proposition of SCT, yet their divergent effects characterized complicated mechanisms unique to the context of AI education. Drawing on the absence of significant effects from both TAIK and TPAIK on SAIK, we proposed that teacher professional knowledge in AI education represents a distal environmental factor for students' knowledge acquisition. Behavioral and perceptual mediators strongly shape its impacts. SCT suggests mediators like instructional strategies and students’ self-efficacy in the ecosystem of teaching and learning ([Fast et al., 2010](#bib27); [Kunter et al., 2013](#bib43)). In contrast, SAISG and SBIAI as motivational outcomes may be more proximally impacted by teacher professional knowledge ([Schunk & DiBenedetto, 2020](#bib70)). These complex relationships indicate varying proximities of different student outcomes to teacher input. Knowledge outcomes may require more scaffolded supports, whereas attitudinal and intentional outcomes can be obtained more directly.
+Similar complexities were observed among student factors. The association between collective SAISG and collective SBIAI did not demonstrate significance at the teacher level. SAISG functioned as a partial mediator between SAIK and SBIAI solely at the student level. When correlating the three factors, other researchers have discovered insignificant associations between SAIK and SAISG, SAIK and SBIAI as well ([Chai, Chiu, et al., 2022](#bib93)). The varying associations among student factors at different levels reveal distinct cognitive states in individual versus collective contexts. SCT distinguishes among individual, proxy, and collective agency of humans ([Bandura, 2006](#bib8)). To achieve collective agency, shared intentionality and coordination of individuals are necessary. Consequently, students may need greater effort to sustain performance from the individual level to the collective level. The different constructs of individual- and collective-level factors may also result in unstable associations ([Lin et al., 2023](#bib48)). Our multilevel analysis combines the two levels to add a new perspective and evidence for SCT-based education research. These diverse and unsustainable relationships among teacher and student factors also implied the need for more inclusive assumptions in the scope of SCT-based interpretation. This study suggests that theoretical assumptions from SCT can yield counterintuitive outcomes in education research.
+### 6.2. Practical implications
+Based on the effects of TAIK and TPAIK observed in this study, K-12 teachers' professional development programs in AI education may yield more immediate outcomes in fostering student ethical awareness and motivation, while improvements in student knowledge require additional instructional behaviors and learning activities to bridge teacher knowledge and student cognition. Furthermore, the pivotal role of TPAIK and the potential drawback of relying solely on TAIK suggest practical priorities in teacher training. Hence, this study proposes a “Pedagogy first, technology second” guideline for K-12 teachers’ professional development.
+To follow the guideline, educators should first guarantee teachers' robust pedagogy foundation for K-12 AI education. Teachers should be equipped with efficient approaches that facilitate students' comprehension of AI concepts, rather than getting caught up in the concern about unfamiliar AI technology. To prevent teachers' misconceptions, educators should help teachers explore the appropriate form of AI knowledge for students as well as instructional strategies for knowledge delivery, instead of inundating them with an excess of technological information. To this end, initial explanations of AI processes and human-AI comparisons can alleviate teachers' concerns, impart technical know-how and concepts about AI to them ([Nazaretsky et al., 2022](#bib59)). Subsequent training programs can incorporate hands-on assembly, collaborative curriculum design, and on-site observation, which have proven to be effective ([Sun et al., 2023](#bib74); [Y.-F. Yang et al., 2024](#bib85)). These approaches allow teachers to prioritize pedagogical considerations for their AI curricula, then integrate AI concepts with flexible instruction. Furthermore, teachers' well-being is essential for their successful implementation of AI curricula. A friendly atmosphere is vital in schools’ supportive systems. These systems necessitate resources like accessible teaching tools and curriculum development community for teachers ([Casal-Otero et al., 2023](#bib15); [Dogan et al., 2025](#bib20)). Such support empowers teachers to adopt and deliver challenging AI curricula.
+It is also essential to recognize that teachers' adequate instruction in AI curricula roots in their understanding of K-12 students' comprehensive AI literacy and competence ([Chiu, 2024](#bib90)). These concepts encompass students' knowledge of AI, its practical applications, and their awareness of its broader implications. Teachers should not limit their focus to the technological aspects of AI, but should also cultivate students' ethical awareness and positive learning habits. Teachers' proficiency in AI education is manifested through their ability to design and implement pedagogical approaches that enhance students’ AI literacy and competence ([Chiu, 2024](#bib90)). Consequently, school evaluation for teachers should prioritize instructional efforts that advance pedagogy in this domain. Engaging strategies should also be introduced to teachers, such as co-creation projects and game-based approaches, to facilitate their instruction ([Su et al., 2022](#bib73); [Tan et al., 2025](#bib75)). These strategies enable teachers to ground technological content in attractive activities, which help students overcome inherent barriers like anxiety and discomfort. Teachers should appreciate the importance of student-centered design when integrating technical tools into their AI curricula. A student-centered pedagogy deserves more attention than diversified AI tools.
+## 7. Conclusion, limitations, and future directions
+Grounded in SCT, this research disentangled the intertwined effects of TAIK and TPAIK on student learning. The cross-level effects of TAIK and TPAIK were divergent and interrelated. Neither TAIK nor TPAIK significantly related to SAIK. The relationship between TAIK and SAISG was slight and negative. TAIK depended on TPAIK to positively associate with SAISG and SBIAI. TPAIK dominated the positive effects of teacher professional knowledge on student learning. These cross-level relationships indicated that teachers' and students' excellence in AI education necessitates a “Pedagogy first, technology second” guideline. Our multilevel analysis highlighted TPAIK as a pivotal indicator of AI teachers' proficiency and students’ performance. The result offers valuable insights to direct schools, teacher educators, and teachers, illuminating mechanisms essential for the cultivation of teachers and students in K-12 AI education.
+This study acknowledges several limitations. First, our investigation was plagued by teachers' limited responses, whereas 46 teachers were deemed acceptable for multilevel analysis ([Goddard & Goddard, 2001](#bib31); [Hox & McNeish, 2020](#bib36)). A dataset encompassing more teachers would improve the robustness of future analyses. Second, our samples from Hong Kong secondary schools limited the generalizability of the results. For example, the influence of the Confucian Heritage Culture partly shapes teachers' habitual approach and the classroom environment in Hong Kong schools. Teachers' emphasis on academic achievements may reduce students' engagement with non-major subjects (e.g., AI education). Directed by teachers' expository instruction, students may diminish motivation when encountering unfamiliar AI knowledge ([Saha & Dworkin, 2009](#bib67)). Besides, the specific school level and government mandates may further complicate the outcomes of teachers' instruction. Future studies are encouraged to evaluate and compare similar cross-level relationships across different contexts. Third, we involved only two factors at the teacher level. Future research can add other factors, like teacher professional knowledge about AI ethics, to uncover a broader range of factors influencing student learning in AI education ([Celik, 2023](#bib16)). Fourth, our examination reported unexpected relationships between TAIK and SAIK, as well as TPAIK and SAIK, both of which were insignificant. Several potential reasons for the results should be clarified with further investigation. Apart from the influence of our specific educational environment, the non-significant relationships may be partially attributable to measurement challenges in assessing teachers' professional knowledge and student learning outcomes. For instance, the longitudinal dynamics of these relationships were not captured in the present study. The rapid evolution of AI technology and students' informal exposure to it may attenuate teachers’ influence on student knowledge acquisition, introducing unmeasured mediators. Future research should consider updating the measurement instruments and employing longitudinal designs to elucidate underlying reasons. We advocate for researchers to interpret the cross-level mechanisms identified in our study with additional qualitative and quantitative evidence.
+## CRediT authorship contribution statement
+\*\*Weipeng Shen:\*\* Writing – review & editing, Writing – original draft, Methodology, Formal analysis, Data curation, Conceptualization. \*\*Ching-sing Chai:\*\* Writing – review & editing, Supervision, Project administration, Methodology, Investigation, Conceptualization. \*\*Thomas K.F. Chiu:\*\* Writing – review & editing, Methodology, Investigation, Conceptualization. \*\*King Woon Yau:\*\* Writing – review & editing, Investigation, Data curation. \*\*Helen Meng:\*\* Writing – review & editing. \*\*Irwin King:\*\* Writing – review & editing. \*\*Savio Wong:\*\* Writing – review & editing. \*\*Yeung Yam:\*\* Writing – review & editing, Project administration, Funding acquisition.
+## Ethics approval and consent to participate
+The study was approved by the Survey and Behavioural Research Ethics Committee of The Chinese University of Hong Kong with ID: SBRE-21-0830A. Informed consent was obtained from all participants, and their privacy rights were strictly observed. The data can be obtained by sending request e-mails to the corresponding author.
+## Ethical approval
+This study was approved by an ethical committee. Informed consent was obtained from all participants, and their privacy rights were strictly observed.
+## Availability of supporting data
+The datasets used for the current study are available from the corresponding author upon reasonable request.
+## Funding
+This work was supported in part by the Hong Kong Jockey Club Charities Trust under Project [6905143](#gs1).
+## Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+## Appendix A. Supplementary data
+The following is the Supplementary data to this article.[Download: Download Word document (20KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X26000263-mmc1.docx)
+Multimedia component 1.
+Recommended articles
+## References
+1. [Adams et al., 2023](#bbib1)
+C.Adams, P.Pente, G.Lemermeyer, G.Rockwell
+Ethical principles for artificial intelligence in K-12 education
+Computers and Education: Artificial Intelligence, 4 (2023), Article 100131, [10.1016/j.caeai.2023.100131](https://doi.org/10.1016/j.caeai.2023.100131)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85150801921&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Ethical%20principles%20for%20artificial%20intelligence%20in%20K-12%20education&publication\_year=2023&author=C.%20Adams&author=P.%20Pente&author=G.%20Lemermeyer&author=G.%20Rockwell)
+2. [Almatrafi et al., 2024](#bbib2)
+O.Almatrafi, A.Johri, H.Lee
+A systematic review of AI literacy conceptualization, constructs, and implementation and assessment efforts (2019-2023)
+Computers and Education Open, 6 (2024), Article 100173, [10.1016/j.caeo.2024.100173](https://doi.org/10.1016/j.caeo.2024.100173)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85196076157&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20of%20AI%20literacy%20conceptualization%2C%20constructs%2C%20and%20implementation%20and%20assessment%20efforts%20&publication\_year=2024&author=O.%20Almatrafi&author=A.%20Johri&author=H.%20Lee)
+3. [Antonenko and Abramowitz, 2023](#bbib4)
+P.Antonenko, B.Abramowitz
+In-service teachers' (mis)conceptions of artificial intelligence in K-12 science education
+Journal of Research on Technology in Education, 55 (1) (2023), pp. 64-78, [10.1080/15391523.2022.2119450](https://doi.org/10.1080/15391523.2022.2119450)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85138224526&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=In-service%20teachers%20conceptions%20of%20artificial%20intelligence%20in%20K-12%20science%20education&publication\_year=2023&author=P.%20Antonenko&author=B.%20Abramowitz)
+4. [Ayanwale et al., 2022](#bbib5)
+M.A.Ayanwale, I.T.Sanusi, O.P.Adelana, K.D.Aruleba, S.S.Oyelere
+Teachers' readiness and intention to teach artificial intelligence in schools
+Computers and Education: Artificial Intelligence, 3 (2022), Article 100099, [10.1016/j.caeai.2022.100099](https://doi.org/10.1016/j.caeai.2022.100099)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85138033458&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20readiness%20and%20intention%20to%20teach%20artificial%20intelligence%20in%20schools&publication\_year=2022&author=M.A.%20Ayanwale&author=I.T.%20Sanusi&author=O.P.%20Adelana&author=K.D.%20Aruleba&author=S.S.%20Oyelere)
+5. [Bandura, 1977](#bbib6)
+A.Bandura
+Social learning theory
+Prentice Hall (1977)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Social%20learning%20theory&publication\_year=1977&author=A.%20Bandura)
+6. [Bandura, 1986](#bbib7)
+A.Bandura
+Social foundations of thought and action: A social cognitive theory
+Prentice-Hall, Inc (1986)
+xiii, 617
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Social%20foundations%20of%20thought%20and%20action%3A%20A%20social%20cognitive%20theory&publication\_year=1986&author=A.%20Bandura)
+7. [Bandura, 2006](#bbib8)
+A.Bandura
+Toward a psychology of human agency
+Perspectives on Psychological Science: A Journal of the Association for Psychological Science, 1 (2) (2006), pp. 164-180, [10.1111/j.1745-6916.2006.00011.x](https://doi.org/10.1111/j.1745-6916.2006.00011.x)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84993790889&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Toward%20a%20psychology%20of%20human%20agency&publication\_year=2006&author=A.%20Bandura)
+8. [Baumert et al., 2010](#bbib9)
+J.Baumert, M.Kunter, W.Blum, M.Brunner, T.Voss, A.Jordan, U.Klusmann, S.Krauss, M.Neubrand, Y.-M.Tsai
+Teachers' mathematical knowledge, cognitive activation in the classroom, and student progress
+American Educational Research Journal, 47 (1) (2010), pp. 133-180, [10.3102/0002831209345157](https://doi.org/10.3102/0002831209345157)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77951478560&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20mathematical%20knowledge%2C%20cognitive%20activation%20in%20the%20classroom%2C%20and%20student%20progress&publication\_year=2010&author=J.%20Baumert&author=M.%20Kunter&author=W.%20Blum&author=M.%20Brunner&author=T.%20Voss&author=A.%20Jordan&author=U.%20Klusmann&author=S.%20Krauss&author=M.%20Neubrand&author=Y.-M.%20Tsai)
+9. [Bliese, 1998](#bbib10)
+P.D.Bliese
+Group size, ICC values, and Group-Level correlations: A simulation
+Organizational Research Methods, 1 (4) (1998), pp. 355-373, [10.1177/109442819814001](https://doi.org/10.1177/109442819814001)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0000983012&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Group%20size%2C%20ICC%20values%2C%20and%20Group-Level%20correlations%3A%20A%20simulation&publication\_year=1998&author=P.D.%20Bliese)
+10. [Bliese, 2000](#bbib11)
+P.D.Bliese
+Within-group agreement, non-independence, and reliability: Implications for data aggregation and analysis
+Multilevel theory, research, and methods in organizations: Foundations, extensions, and new directions, Jossey-Bass/Wiley (2000), pp. 349-381
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Within-group%20agreement%2C%20non-independence%2C%20and%20reliability%3A%20Implications%20for%20data%20aggregation%20and%20analysis&publication\_year=2000&author=P.D.%20Bliese)
+11. [Bliese et al., 2022](#bbib12)
+P.Bliese, G.Chen, P.Downes, D.Schepker, J.Lang
+Multilevel: Multilevel functions
+, Version 2.7 (2022)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Multilevel%3A%20Multilevel%20functions&publication\_year=2022&author=P.%20Bliese&author=G.%20Chen&author=P.%20Downes&author=D.%20Schepker&author=J.%20Lang)
+12. [Bryk and Raudenbush, 1992](#bbib13)
+A.S.Bryk, S.W.Raudenbush
+Hierarchical linear models: Applications and data analysis methods
+Sage Publications, Inc (1992)
+xvi, 265
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Hierarchical%20linear%20models%3A%20Applications%20and%20data%20analysis%20methods&publication\_year=1992&author=A.S.%20Bryk&author=S.W.%20Raudenbush)
+13. [Casal-Otero et al., 2023](#bbib15)
+L.Casal-Otero, A.Catala, C.Fernández-Morante, M.Taboada, B.Cebreiro, S.Barro
+AI literacy in K-12: A systematic literature review
+International Journal of STEM Education, 10 (1) (2023), p. 29, [10.1186/s40594-023-00418-7](https://doi.org/10.1186/s40594-023-00418-7)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85152942023&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20literacy%20in%20K-12%3A%20A%20systematic%20literature%20review&publication\_year=2023&author=L.%20Casal-Otero&author=A.%20Catala&author=C.%20Fern%C3%A1ndez-Morante&author=M.%20Taboada&author=B.%20Cebreiro&author=S.%20Barro)
+14. [Celik, 2023](#bbib16)
+I.Celik
+Towards Intelligent-TPACK: An empirical study on teachers' professional knowledge to ethically integrate artificial intelligence (AI)-based tools into education
+Computers in Human Behavior, 138 (2023), Article 107468, [10.1016/j.chb.2022.107468](https://doi.org/10.1016/j.chb.2022.107468)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85137060930&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Towards%20Intelligent-TPACK%3A%20An%20empirical%20study%20on%20teachers%20professional%20knowledge%20to%20ethically%20integrate%20artificial%20intelligence%20-based%20tools%20into%20education&publication\_year=2023&author=I.%20Celik)
+15. [Chai et al., 2022](#bbib93)
+C.S.Chai, T.K.F.Chiu, X.Wang, F.Jiang, X.-F.Lin
+Modeling Chinese secondary school students’ behavioral intentions to learn artificial intelligence with the theory of planned behavior and self-determination theory
+Sustainability, 15 (1) (2022), p. 605
+[Crossref](https://doi.org/10.3390/su15010605)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Modeling%20Chinese%20secondary%20school%20students%20behavioral%20intentions%20to%20learn%20artificial%20intelligence%20with%20the%20theory%20of%20planned%20behavior%20and%20self-determination%20theory&publication\_year=2022&author=C.S.%20Chai&author=T.K.F.%20Chiu&author=X.%20Wang&author=F.%20Jiang&author=X.-F.%20Lin)
+16. [Chai et al., 2024](#bbib91)
+C.S.Chai, S.Liang, X.Wang
+A survey study of Chinese teachers’ continuous intentions to teach artificial intelligence
+Education and Information Technologies, 29 (11) (2024), pp. 14015-14034
+[Crossref](https://doi.org/10.1007/s10639-023-12430-z)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85181193805&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20survey%20study%20of%20Chinese%20teachers%20continuous%20intentions%20to%20teach%20artificial%20intelligence&publication\_year=2024&author=C.S.%20Chai&author=S.%20Liang&author=X.%20Wang)
+17. [Chai et al., 2021](#bbib92)
+C.S.Chai, P.-Y.Lin, Jong, Y.Dai, T.K.F.Chiu, J.Qin
+Perceptions of and behavioral intentions towards learning artificial intelligence in primary school students
+Educational Technology & Society, 24 (3) (2021), pp. 89-101
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85110532692&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Perceptions%20of%20and%20behavioral%20intentions%20towards%20learning%20artificial%20intelligence%20in%20primary%20school%20students&publication\_year=2021&author=C.S.%20Chai&author=P.-Y.%20Lin&author=Jong&author=Y.%20Dai&author=T.K.F.%20Chiu&author=J.%20Qin)
+18. [Chai et al., 2022](#bbib94)
+C.S.Chai, T.Teo, F.Huang, T.K.F.Chiu, X.W.Wang
+Secondary school students’ intentions to learn AI: Testing moderation effects of readiness, social good and optimism
+Educational Technology Research and Development, 70 (3) (2022), pp. 765-782
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Secondary%20school%20students%20intentions%20to%20learn%20AI%3A%20Testing%20moderation%20effects%20of%20readiness%2C%20social%20good%20and%20optimism&publication\_year=2022&author=C.S.%20Chai&author=T.%20Teo&author=F.%20Huang&author=T.K.F.%20Chiu&author=X.W.%20Wang)
+19. [Chiu, 2024](#bbib90)
+T.K.F.Chiu
+Empowering K-12 Education with AI: Preparing for the Future of Education and Work (1st ed.), Routledge (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Empowering%20K-12%20Education%20with%20AI%3A%20Preparing%20for%20the%20Future%20of%20Education%20and%20Work&publication\_year=2024&author=T.K.F.%20Chiu)
+20. [Chiu et al., 2022](#bbib95)
+T.K.F.Chiu, H.Meng, C.S.Chai, I.King, S.Wong, Y.Yam
+Creation and Evaluation of a Pretertiary Artificial Intelligence (AI)
+Curriculum. IEEE Transactions on Education, 65, IEEE Transactions on Education (2022), pp. 30-39
+[Crossref](https://doi.org/10.1109/te.2021.3085878)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85112396810&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Creation%20and%20Evaluation%20of%20a%20Pretertiary%20Artificial%20Intelligence%20&publication\_year=2022&author=T.K.F.%20Chiu&author=H.%20Meng&author=C.S.%20Chai&author=I.%20King&author=S.%20Wong&author=Y.%20Yam)
+21. [Choi et al., 2026](#bbib17)
+S.Choi, S.Jeong, S.Park, Y.Kim, I.Han
+Analyzing teacher–AI interaction patterns across teacher experience and AI proficiency in student-centered lesson design
+Teaching and Teacher Education, 169 (2026), Article 105266, [10.1016/j.tate.2025.105266](https://doi.org/10.1016/j.tate.2025.105266)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-105019233633&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Analyzing%20teacherAI%20interaction%20patterns%20across%20teacher%20experience%20and%20AI%20proficiency%20in%20student-centered%20lesson%20design&publication\_year=2026&author=S.%20Choi&author=S.%20Jeong&author=S.%20Park&author=Y.%20Kim&author=I.%20Han)
+22. [Costa et al., 2024](#bbib18)
+A.Costa, D.Moreira, J.Casanova, Â.Azevedo, A.Gonçalves, Í.Oliveira, R.Azevedo, P.C.Dias
+Determinants of academic achievement from the middle to secondary school education: A systematic review
+Social Psychology of Education, 27 (6) (2024), pp. 3533-3572, [10.1007/s11218-024-09941-z](https://doi.org/10.1007/s11218-024-09941-z)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85199293703&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Determinants%20of%20academic%20achievement%20from%20the%20middle%20to%20secondary%20school%20education%3A%20A%20systematic%20review&publication\_year=2024&author=A.%20Costa&author=D.%20Moreira&author=J.%20Casanova&author=%C3%82.%20Azevedo&author=A.%20Gon%C3%A7alves&author=%C3%8D.%20Oliveira&author=R.%20Azevedo&author=P.C.%20Dias)
+23. [Dai and Ke, 2022](#bbib19)
+C.-P.Dai, F.Ke
+Educational applications of artificial intelligence in simulation-based learning: A systematic mapping review
+Computers and Education: Artificial Intelligence, 3 (2022), Article 100087, [10.1016/j.caeai.2022.100087](https://doi.org/10.1016/j.caeai.2022.100087)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85135521223&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Educational%20applications%20of%20artificial%20intelligence%20in%20simulation-based%20learning%3A%20A%20systematic%20mapping%20review&publication\_year=2022&author=C.-P.%20Dai&author=F.%20Ke)
+24. [Dogan et al., 2025](#bbib20)
+S.Dogan, U.Y.Nalbantoglu, I.Celik, N.Agacli Dogan
+Artificial intelligence professional development: A systematic review of TPACK, designs, and effects for teacher learning
+Professional Development in Education (2025), pp. 1-28, [10.1080/19415257.2025.2454457](https://doi.org/10.1080/19415257.2025.2454457)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20professional%20development%3A%20A%20systematic%20review%20of%20TPACK%2C%20designs%2C%20and%20effects%20for%20teacher%20learning&publication\_year=2025&author=S.%20Dogan&author=U.Y.%20Nalbantoglu&author=I.%20Celik&author=N.%20Agacli%20Dogan)
+25. [Ekmekci et al., 2019](#bbib21)
+A.Ekmekci, D.Corkin, W.Fan
+A multilevel analysis of the impact of teachers' beliefs and mathematical knowledge for teaching on students' mathematics achievement
+Australian Journal of Teacher Education, 44 (12) (2019), pp. 57-80, [10.14221/ajte.2019v44n12.4](https://doi.org/10.14221/ajte.2019v44n12.4)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85085569156&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20multilevel%20analysis%20of%20the%20impact%20of%20teachers%20beliefs%20and%20mathematical%20knowledge%20for%20teaching%20on%20students%20mathematics%20achievement&publication\_year=2019&author=A.%20Ekmekci&author=D.%20Corkin&author=W.%20Fan)
+26. [Fast et al., 2010](#bbib27)
+L.Fast, J.Lewis, M.Bryant, K.Bocian, R.Cardullo, M.Rettig, K.Hammond
+Does math self-efficacy mediate the effect of the perceived classroom environment on standardized math test performance?
+Journal of Educational Psychology, 102 (3) (2010), pp. 729-740, [10.1037/a0018863](https://doi.org/10.1037/a0018863)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77955732314&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Does%20math%20self-efficacy%20mediate%20the%20effect%20of%20the%20perceived%20classroom%20environment%20on%20standardized%20math%20test%20performance&publication\_year=2010&author=L.%20Fast&author=J.%20Lewis&author=M.%20Bryant&author=K.%20Bocian&author=R.%20Cardullo&author=M.%20Rettig&author=K.%20Hammond)
+27. [Fengchun & Cukurova, 2024](#bbib96)
+M.Fengchun, M.Cukurova, UNESCO
+AI competency framework for teachers
+UNESCO (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20competency%20framework%20for%20teachers&publication\_year=2024&author=M.%20Fengchun&author=M.%20Cukurova&author=UNESCO)
+28. [Förtsch et al., 2016](#bbib29)
+C.Förtsch, S.Werner, L.von Kotzebue, B.J.Neuhaus
+Effects of biology teachers' professional knowledge and cognitive activation on students' achievement
+International Journal of Science Education, 38 (17) (2016), pp. 2642-2666, [10.1080/09500693.2016.1257170](https://doi.org/10.1080/09500693.2016.1257170)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84999792312&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Effects%20of%20biology%20teachers%20professional%20knowledge%20and%20cognitive%20activation%20on%20students%20achievement&publication\_year=2016&author=C.%20F%C3%B6rtsch&author=S.%20Werner&author=L.%20von%20Kotzebue&author=B.J.%20Neuhaus)
+29. [Gess-Newsome et al., 2019](#bbib30)
+J.Gess-Newsome, J.A.Taylor, J.Carlson, A.L.Gardner, C.D.Wilson, M.A.M.Stuhlsatz
+Teacher pedagogical content knowledge, practice, and student achievement
+International Journal of Science Education, 41 (7) (2019), pp. 944-963, [10.1080/09500693.2016.1265158](https://doi.org/10.1080/09500693.2016.1265158)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85008622424&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20pedagogical%20content%20knowledge%2C%20practice%2C%20and%20student%20achievement&publication\_year=2019&author=J.%20Gess-Newsome&author=J.A.%20Taylor&author=J.%20Carlson&author=A.L.%20Gardner&author=C.D.%20Wilson&author=M.A.M.%20Stuhlsatz)
+30. [Goddard and Goddard, 2001](#bbib31)
+R.D.Goddard, Y.L.Goddard
+A multilevel analysis of the relationship between teacher and collective efficacy in urban schools
+Teaching and Teacher Education, 17 (7) (2001), pp. 807-818, [10.1016/S0742-051X(01)00032-4](https://doi.org/10.1016/S0742-051X(01)00032-4)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0035600938&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20multilevel%20analysis%20of%20the%20relationship%20between%20teacher%20and%20collective%20efficacy%20in%20urban%20schools&publication\_year=2001&author=R.D.%20Goddard&author=Y.L.%20Goddard)
+31. [Guan et al., 2024](#bbib32)
+L.Guan, E.Y.Zhang, M.M.Gu
+Examining generative AI–mediated informal digital learning of English practices with social cognitive theory: A mixed-methods study
+ReCALL (2024), pp. 1-17, [10.1017/S0958344024000259](https://doi.org/10.1017/S0958344024000259)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Examining%20generative%20AImediated%20informal%20digital%20learning%20of%20English%20practices%20with%20social%20cognitive%20theory%3A%20A%20mixed-methods%20study&publication\_year=2024&author=L.%20Guan&author=E.Y.%20Zhang&author=M.M.%20Gu)
+32. [Hava and Babayiğit, 2025](#bbib33)
+K.Hava, Ö.Babayiğit
+Exploring the relationship between teachers' competencies in AI-TPACK and digital proficiency
+Education and Information Technologies, 30 (3) (2025), pp. 3491-3508, [10.1007/s10639-024-12939-x](https://doi.org/10.1007/s10639-024-12939-x)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85201559329&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20the%20relationship%20between%20teachers%20competencies%20in%20AI-TPACK%20and%20digital%20proficiency&publication\_year=2025&author=K.%20Hava&author=%C3%96.%20Babayi%C4%9Fit)
+33. [Hill et al., 2019](#bbib34)
+H.C.Hill, C.Y.Charalambous, M.J.Chin
+Teacher characteristics and student learning in mathematics: A comprehensive assessment
+Educational Policy, 33 (7) (2019), pp. 1103-1134, [10.1177/0895904818755468](https://doi.org/10.1177/0895904818755468)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85042075866&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20characteristics%20and%20student%20learning%20in%20mathematics%3A%20A%20comprehensive%20assessment&publication\_year=2019&author=H.C.%20Hill&author=C.Y.%20Charalambous&author=M.J.%20Chin)
+34. [Hox and Maas, 2002](#bbib35)
+J.J.Hox, C.J.M.Maas
+Sample sizes for multilevel modeling
+J.Blasius, J.J.Hox, E.de Leeuw, P.Schmidt (Eds.), Social science methodology in the new millennium: Proceedings of the fifth international conference on logic and methodology (2nd expanded ed.), Opladen, RG: Leske + Budrich (2002)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Sample%20sizes%20for%20multilevel%20modeling&publication\_year=2002&author=J.J.%20Hox&author=C.J.M.%20Maas)
+35. [Hox and McNeish, 2020](#bbib36)
+J.Hox, D.McNeish
+Small samples in multilevel modeling
+Small sample size solutions, Routledge (2020)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Small%20samples%20in%20multilevel%20modeling&publication\_year=2020&author=J.%20Hox&author=D.%20McNeish)
+36. [James et al., 1984](#bbib37)
+L.R.James, R.G.Demaree, G.Wolf
+Estimating within-group interrater reliability with and without response bias
+Journal of Applied Psychology, 69 (1) (1984), pp. 85-98, [10.1037/0021-9010.69.1.85](https://doi.org/10.1037/0021-9010.69.1.85)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-58049220690&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Estimating%20within-group%20interrater%20reliability%20with%20and%20without%20response%20bias&publication\_year=1984&author=L.R.%20James&author=R.G.%20Demaree&author=G.%20Wolf)
+37. [Kim and Kwon, 2024](#bbib38)
+K.Kim, K.Kwon
+Tangible computing tools in AI education: Approach to improve elementary students' knowledge, perception, and behavioral intention towards AI
+Education and Information Technologies, 29 (13) (2024), pp. 16125-16156, [10.1007/s10639-024-12497-2](https://doi.org/10.1007/s10639-024-12497-2)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85184258251&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Tangible%20computing%20tools%20in%20AI%20education%3A%20Approach%20to%20improve%20elementary%20students%20knowledge%2C%20perception%2C%20and%20behavioral%20intention%20towards%20AI&publication\_year=2024&author=K.%20Kim&author=K.%20Kwon)
+38. [Kim et al., 2022](#bbib39)
+J.Kim, H.Lee, Y.H.Cho
+Learning design to support student-AI collaboration: Perspectives of leading teachers for AI in education
+Education and Information Technologies, 27 (5) (2022), pp. 6069-6104, [10.1007/s10639-021-10831-6](https://doi.org/10.1007/s10639-021-10831-6)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85123892599&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Learning%20design%20to%20support%20student-AI%20collaboration%3A%20Perspectives%20of%20leading%20teachers%20for%20AI%20in%20education&publication\_year=2022&author=J.%20Kim&author=H.%20Lee&author=Y.H.%20Cho)
+39. [Klein and Kozlowski, 2000](#bbib40)
+K.J.Klein, S.W.J.Kozlowski
+From Micro to meso: Critical steps in conceptualizing and conducting multilevel research
+Organizational Research Methods, 3 (3) (2000), pp. 211-236, [10.1177/109442810033001](https://doi.org/10.1177/109442810033001)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0000436129&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=From%20Micro%20to%20meso%3A%20Critical%20steps%20in%20conceptualizing%20and%20conducting%20multilevel%20research&publication\_year=2000&author=K.J.%20Klein&author=S.W.J.%20Kozlowski)
+40. [Kline, 2023](#bbib41)
+R.B.Kline
+Principles and practice of structural equation modeling
+(5th ed.), The Guilford Press (2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Principles%20and%20practice%20of%20structural%20equation%20modeling&publication\_year=2023&author=R.B.%20Kline)
+41. [Kopcha, 2012](#bbib42)
+T.J.Kopcha
+Teachers' perceptions of the barriers to technology integration and practices with technology under situated professional development
+Computers & Education, 59 (4) (2012), pp. 1109-1121, [10.1016/j.compedu.2012.05.014](https://doi.org/10.1016/j.compedu.2012.05.014)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84864048448&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20perceptions%20of%20the%20barriers%20to%20technology%20integration%20and%20practices%20with%20technology%20under%20situated%20professional%20development&publication\_year=2012&author=T.J.%20Kopcha)
+42. [Kunter et al., 2013](#bbib43)
+M.Kunter, U.Klusmann, J.Baumert, D.Richter, T.Voss, A.Hachfeld
+Professional competence of teachers: Effects on instructional quality and student development
+Journal of Educational Psychology, 105 (3) (2013), pp. 805-820, [10.1037/a0032583](https://doi.org/10.1037/a0032583)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84881628392&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Professional%20competence%20of%20teachers%3A%20Effects%20on%20instructional%20quality%20and%20student%20development&publication\_year=2013&author=M.%20Kunter&author=U.%20Klusmann&author=J.%20Baumert&author=D.%20Richter&author=T.%20Voss&author=A.%20Hachfeld)
+43. [Lee and Shute, 2010](#bbib44)
+J.Lee, V.J.Shute
+Personal and social-contextual factors in K–12 academic performance: An integrative perspective on student learning
+Educational Psychologist, 45 (3) (2010), pp. 185-202, [10.1080/00461520.2010.493471](https://doi.org/10.1080/00461520.2010.493471)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77954705942&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Personal%20and%20social-contextual%20factors%20in%20K12%20academic%20performance%3A%20An%20integrative%20perspective%20on%20student%20learning&publication\_year=2010&author=J.%20Lee&author=V.J.%20Shute)
+44. [Lee and Tseng, 2024](#bbib45)
+K.-W.Lee, Y.-F.Tseng
+Driving the dual learning process of management knowledge: A social cognitive theory perspective
+International Journal of Management in Education, 22 (1) (2024), Article 100940, [10.1016/j.ijme.2024.100940](https://doi.org/10.1016/j.ijme.2024.100940)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85183970496&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Driving%20the%20dual%20learning%20process%20of%20management%20knowledge%3A%20A%20social%20cognitive%20theory%20perspective&publication\_year=2024&author=K.-W.%20Lee&author=Y.-F.%20Tseng)
+45. [Li and Li, 2024](#bbib46)
+M.Li, B.Li
+Unravelling the dynamics of technology integration in mathematics education: A structural equation modelling analysis of TPACK components
+Education and Information Technologies, 29 (17) (2024), pp. 23687-23715, [10.1007/s10639-024-12805-w](https://doi.org/10.1007/s10639-024-12805-w)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85194705802&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Unravelling%20the%20dynamics%20of%20technology%20integration%20in%20mathematics%20education%3A%20A%20structural%20equation%20modelling%20analysis%20of%20TPACK%20components&publication\_year=2024&author=M.%20Li&author=B.%20Li)
+46. [Li et al., 2024](#bbib47)
+L.Li, F.Yu, E.Zhang
+A systematic review of learning task design for K-12 AI education: Trends, challenges, and opportunities
+Computers and Education: Artificial Intelligence, 6 (2024), Article 100217, [10.1016/j.caeai.2024.100217](https://doi.org/10.1016/j.caeai.2024.100217)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85188432524&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20of%20learning%20task%20design%20for%20K-12%20AI%20education%3A%20Trends%2C%20challenges%2C%20and%20opportunities&publication\_year=2024&author=L.%20Li&author=F.%20Yu&author=E.%20Zhang)
+47. [Lin et al., 2023](#bbib48)
+H.-M.Lin, J.-Y.Wu, J.-C.Liang, Y.-H.Lee, P.-C.Huang, O.-M.Kwok, C.-C.Tsai
+A review of using multilevel modeling in e-learning research
+Computers & Education, 198 (2023), Article 104762, [10.1016/j.compedu.2023.104762](https://doi.org/10.1016/j.compedu.2023.104762)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85149939889&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20review%20of%20using%20multilevel%20modeling%20in%20e-learning%20research&publication\_year=2023&author=H.-M.%20Lin&author=J.-Y.%20Wu&author=J.-C.%20Liang&author=Y.-H.%20Lee&author=P.-C.%20Huang&author=O.-M.%20Kwok&author=C.-C.%20Tsai)
+48. [Lindner and Berges, 2020](#bbib49)
+A.Lindner, M.Berges
+Can you explain AI to me? Teachers' pre-concepts about Artificial Intelligence
+2020 IEEE frontiers in education conference (FIE) (2020), [10.1109/FIE44824.2020.9274136](https://doi.org/10.1109/FIE44824.2020.9274136)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Can%20you%20explain%20AI%20to%20me%20Teachers%20pre-concepts%20about%20Artificial%20Intelligence&publication\_year=2020&author=A.%20Lindner&author=M.%20Berges)
+49. [Liu and Yin, 2023](#bbib50)
+S.Liu, H.Yin
+Does school power distance matter for the effectiveness of professional learning communities in China? A multilevel moderated mediation analysis
+Teaching and Teacher Education, 134 (2023), Article 104335, [10.1016/j.tate.2023.104335](https://doi.org/10.1016/j.tate.2023.104335)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85168993679&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Does%20school%20power%20distance%20matter%20for%20the%20effectiveness%20of%20professional%20learning%20communities%20in%20China%20A%20multilevel%20moderated%20mediation%20analysis&publication\_year=2023&author=S.%20Liu&author=H.%20Yin)
+50. [Liu and Yin, 2024](#bbib51)
+S.Liu, H.Yin
+Opening the black box: How professional learning communities, collective teacher efficacy, and cognitive activation affect students' mathematics achievement in schools
+Teaching and Teacher Education, 139 (2024), Article 104443, [10.1016/j.tate.2023.104443](https://doi.org/10.1016/j.tate.2023.104443)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85180577593&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Opening%20the%20black%20box%3A%20How%20professional%20learning%20communities%2C%20collective%20teacher%20efficacy%2C%20and%20cognitive%20activation%20affect%20students%20mathematics%20achievement%20in%20schools&publication\_year=2024&author=S.%20Liu&author=H.%20Yin)
+51. [Liu and Zhong, 2024](#bbib52)
+X.Liu, B.Zhong
+A systematic review on how educators teach AI in K-12 education
+Educational Research Review, 45 (2024), Article 100642, [10.1016/j.edurev.2024.100642](https://doi.org/10.1016/j.edurev.2024.100642)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85205540124&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20on%20how%20educators%20teach%20AI%20in%20K-12%20education&publication\_year=2024&author=X.%20Liu&author=B.%20Zhong)
+52. [Mahler et al., 2017](#bbib53)
+D.Mahler, J.Großschedl, U.Harms
+Using doubly latent multilevel analysis to elucidate relationships between science teachers' professional knowledge and students' performance
+International Journal of Science Education, 39 (2) (2017), pp. 213-237, [10.1080/09500693.2016.1276641](https://doi.org/10.1080/09500693.2016.1276641)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85009273479&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Using%20doubly%20latent%20multilevel%20analysis%20to%20elucidate%20relationships%20between%20science%20teachers%20professional%20knowledge%20and%20students%20performance&publication\_year=2017&author=D.%20Mahler&author=J.%20Gro%C3%9Fschedl&author=U.%20Harms)
+53. [Metzler and Woessmann, 2012](#bbib54)
+J.Metzler, L.Woessmann
+The impact of teacher subject knowledge on student achievement: Evidence from within-teacher within-student variation
+Journal of Development Economics, 99 (2) (2012), pp. 486-496, [10.1016/j.jdeveco.2012.06.002](https://doi.org/10.1016/j.jdeveco.2012.06.002)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84864381979&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20impact%20of%20teacher%20subject%20knowledge%20on%20student%20achievement%3A%20Evidence%20from%20within-teacher%20within-student%20variation&publication\_year=2012&author=J.%20Metzler&author=L.%20Woessmann)
+54. [Mikeladze et al., 2024](#bbib55)
+T.Mikeladze, P.C.Meijer, R.P.Verhoeff
+A comprehensive exploration of artificial intelligence competence frameworks for educators: A critical review
+European Journal of Education, 59 (3) (2024), Article e12663, [10.1111/ejed.12663](https://doi.org/10.1111/ejed.12663)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85190970903&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20comprehensive%20exploration%20of%20artificial%20intelligence%20competence%20frameworks%20for%20educators%3A%20A%20critical%20review&publication\_year=2024&author=T.%20Mikeladze&author=P.C.%20Meijer&author=R.P.%20Verhoeff)
+55. [Mishra and Koehler, 2006](#bbib56)
+P.Mishra, M.J.Koehler
+Technological pedagogical content knowledge: A framework for teacher knowledge
+Teachers College Record, 108 (6) (2006), pp. 1017-1054, [10.1111/j.1467-9620.2006.00684.x](https://doi.org/10.1111/j.1467-9620.2006.00684.x)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-33744758928&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Technological%20pedagogical%20content%20knowledge%3A%20A%20framework%20for%20teacher%20knowledge&publication\_year=2006&author=P.%20Mishra&author=M.J.%20Koehler)
+56. [Mishra et al., 2023](#bbib57)
+P.Mishra, M.Warr, R.Islam
+TPACK in the age of ChatGPT and generative AI
+Journal of Digital Learning in Teacher Education, 39 (4) (2023), pp. 235-251, [10.1080/21532974.2023.2247480](https://doi.org/10.1080/21532974.2023.2247480)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85168652558&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=TPACK%20in%20the%20age%20of%20ChatGPT%20and%20generative%20AI&publication\_year=2023&author=P.%20Mishra&author=M.%20Warr&author=R.%20Islam)
+57. [Muthén and Muthén, 1998](#bbib58)
+L.K.Muthén, B.Muthén
+Mplus user's guide
+Muthén & Muthén, Los Angeles, CA (1998)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Mplus%20users%20guide&publication\_year=1998&author=L.K.%20Muth%C3%A9n&author=B.%20Muth%C3%A9n)
+58. [Nazaretsky et al., 2022](#bbib59)
+T.Nazaretsky, M.Ariely, M.Cukurova, G.Alexandron
+Teachers' trust in AI-powered educational technology and a professional development program to improve it
+British Journal of Educational Technology, 53 (4) (2022), pp. 914-931, [10.1111/bjet.13232](https://doi.org/10.1111/bjet.13232)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85129603240&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%20trust%20in%20AI-powered%20educational%20technology%20and%20a%20professional%20development%20program%20to%20improve%20it&publication\_year=2022&author=T.%20Nazaretsky&author=M.%20Ariely&author=M.%20Cukurova&author=G.%20Alexandron)
+59. [Nguyen et al., 2023](#bbib60)
+A.Nguyen, H.N.Ngo, Y.Hong, B.Dang, B.-P.T.Nguyen
+Ethical principles for artificial intelligence in education
+Education and Information Technologies, 28 (4) (2023), pp. 4221-4241, [10.1007/s10639-022-11316-w](https://doi.org/10.1007/s10639-022-11316-w)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85139799259&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Ethical%20principles%20for%20artificial%20intelligence%20in%20education&publication\_year=2023&author=A.%20Nguyen&author=H.N.%20Ngo&author=Y.%20Hong&author=B.%20Dang&author=B.-P.T.%20Nguyen)
+60. [Pamuk et al., 2015](#bbib61)
+S.Pamuk, M.Ergun, R.Cakir, H.B.Yilmaz, C.Ayas
+Exploring relationships among TPACK components and development of the TPACK instrument
+Education and Information Technologies, 20 (2) (2015), pp. 241-263, [10.1007/s10639-013-9278-4](https://doi.org/10.1007/s10639-013-9278-4)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84889853619&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Exploring%20relationships%20among%20TPACK%20components%20and%20development%20of%20the%20TPACK%20instrument&publication\_year=2015&author=S.%20Pamuk&author=M.%20Ergun&author=R.%20Cakir&author=H.B.%20Yilmaz&author=C.%20Ayas)
+61. [Preacher and Selig, 2012](#bbib62)
+K.J.Preacher, J.P.Selig
+Advantages of Monte Carlo confidence intervals for indirect effects
+Communication Methods and Measures, 6 (2) (2012), pp. 77-98, [10.1080/19312458.2012.679848](https://doi.org/10.1080/19312458.2012.679848)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84862335646&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Advantages%20of%20Monte%20Carlo%20confidence%20intervals%20for%20indirect%20effects&publication\_year=2012&author=K.J.%20Preacher&author=J.P.%20Selig)
+62. [Preacher et al., 2011](#bbib63)
+K.J.Preacher, Z.Zhang, M.J.Zyphur
+Alternative methods for assessing mediation in multilevel data: The advantages of multilevel SEM
+Structural Equation Modeling: A Multidisciplinary Journal, 18 (2) (2011), pp. 161-182, [10.1080/10705511.2011.557329](https://doi.org/10.1080/10705511.2011.557329)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-79957829538&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Alternative%20methods%20for%20assessing%20mediation%20in%20multilevel%20data%3A%20The%20advantages%20of%20multilevel%20SEM&publication\_year=2011&author=K.J.%20Preacher&author=Z.%20Zhang&author=M.J.%20Zyphur)
+63. [Preacher et al., 2010](#bbib64)
+K.J.Preacher, M.J.Zyphur, Z.Zhang
+A general multilevel SEM framework for assessing multilevel mediation
+Psychological Methods, 15 (2010), pp. 209-233, [10.1037/a0020141](https://doi.org/10.1037/a0020141)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-77956838713&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20general%20multilevel%20SEM%20framework%20for%20assessing%20multilevel%20mediation&publication\_year=2010&author=K.J.%20Preacher&author=M.J.%20Zyphur&author=Z.%20Zhang)
+64. [Reich et al., 2020](#bbib65)
+R.Reich, M.Sahami, J.M.Weinstein, H.Cohen
+Teaching computer ethics: A deeply multidisciplinary approach
+Proceedings of the 51st ACM technical symposium on computer science education (2020), [10.1145/3328778.3366951](https://doi.org/10.1145/3328778.3366951)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teaching%20computer%20ethics%3A%20A%20deeply%20multidisciplinary%20approach&publication\_year=2020&author=R.%20Reich&author=M.%20Sahami&author=J.M.%20Weinstein&author=H.%20Cohen)
+65. [Rizvi et al., 2023](#bbib66)
+S.Rizvi, J.Waite, S.Sentance
+Artificial Intelligence teaching and learning in K-12 from 2019 to 2022: A systematic literature review
+Computers and Education: Artificial Intelligence, 4 (2023), Article 100145, [10.1016/j.caeai.2023.100145](https://doi.org/10.1016/j.caeai.2023.100145)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85161689961&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20Intelligence%20teaching%20and%20learning%20in%20K-12%20from%202019%20to%202022%3A%20A%20systematic%20literature%20review&publication\_year=2023&author=S.%20Rizvi&author=J.%20Waite&author=S.%20Sentance)
+66. [Saha and Dworkin, 2009](#bbib67)
+L.J.Saha, A.G.Dworkin (Eds.), International handbook of research on teachers and teaching, Springer (2009)
+[Google Scholar](https://scholar.google.com/scholar?q=Saha%2C%20L.%20J.%2C%20%26%20Dworkin%2C%20A.%20G.%20(Eds.).%20(2009).%20International%20Handbook%20of%20Research%20on%20Teachers%20and%20Teaching.%20Springer.)
+67. [Sanusi et al., 2023](#bbib68)
+I.T.Sanusi, S.S.Oyelere, H.Vartiainen, J.Suhonen, M.Tukiainen
+A systematic review of teaching and learning machine learning in K-12 education
+Education and Information Technologies, 28 (5) (2023), pp. 5967-5997, [10.1007/s10639-022-11416-7](https://doi.org/10.1007/s10639-022-11416-7)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85141344461&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20of%20teaching%20and%20learning%20machine%20learning%20in%20K-12%20education&publication\_year=2023&author=I.T.%20Sanusi&author=S.S.%20Oyelere&author=H.%20Vartiainen&author=J.%20Suhonen&author=M.%20Tukiainen)
+68. [Schermelleh-Engel et al., 2003](#bbib69)
+K.Schermelleh-Engel, H.Moosbrugger, H.Müller
+Evaluating the fit of structural equation models: Tests of significance and descriptive goodness-of-fit measures
+Methods of Psychological Research, 8 (2) (2003), pp. 23-74
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-2542553531&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Evaluating%20the%20fit%20of%20structural%20equation%20models%3A%20Tests%20of%20significance%20and%20descriptive%20goodness-of-fit%20measures&publication\_year=2003&author=K.%20Schermelleh-Engel&author=H.%20Moosbrugger&author=H.%20M%C3%BCller)
+69. [Schunk and DiBenedetto, 2020](#bbib70)
+D.H.Schunk, M.K.DiBenedetto
+Motivation and social cognitive theory
+Contemporary Educational Psychology, 60 (2020), Article 101832, [10.1016/j.cedpsych.2019.101832](https://doi.org/10.1016/j.cedpsych.2019.101832)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85076861740&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Motivation%20and%20social%20cognitive%20theory&publication\_year=2020&author=D.H.%20Schunk&author=M.K.%20DiBenedetto)
+70. [Schunk and DiBenedetto, 2023](#bbib71)
+D.H.Schunk, M.K.DiBenedetto
+Learning from a social cognitive theory perspective
+R.J.Tierney, F.Rizvi, K.Ercikan (Eds.), International encyclopedia of education (4th ed.), Elsevier (2023), pp. 22-35, [10.1016/B978-0-12-818630-5.14004-7](https://doi.org/10.1016/B978-0-12-818630-5.14004-7)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85148833178&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Learning%20from%20a%20social%20cognitive%20theory%20perspective&publication\_year=2023&author=D.H.%20Schunk&author=M.K.%20DiBenedetto)
+71. [Sperling et al., 2024](#bbib72)
+K.Sperling, C.-J.Stenberg, C.McGrath, A.Åkerfeldt, F.Heintz, L.Stenliden
+In search of artificial intelligence (AI) literacy in teacher education: A scoping review
+Computers and Education Open, 6 (2024), Article 100169, [10.1016/j.caeo.2024.100169](https://doi.org/10.1016/j.caeo.2024.100169)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85209462293&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=In%20search%20of%20artificial%20intelligence%20%20literacy%20in%20teacher%20education%3A%20A%20scoping%20review&publication\_year=2024&author=K.%20Sperling&author=C.-J.%20Stenberg&author=C.%20McGrath&author=A.%20%C3%85kerfeldt&author=F.%20Heintz&author=L.%20Stenliden)
+72. [Su et al., 2022](#bbib73)
+J.Su, Y.Zhong, D.T.K.Ng
+A meta-review of literature on educational approaches for teaching AI at the K-12 levels in the Asia-Pacific region
+Computers and Education: Artificial Intelligence, 3 (2022), Article 100065, [10.1016/j.caeai.2022.100065](https://doi.org/10.1016/j.caeai.2022.100065)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85127359314&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20meta-review%20of%20literature%20on%20educational%20approaches%20for%20teaching%20AI%20at%20the%20K-12%20levels%20in%20the%20Asia-Pacific%20region&publication\_year=2022&author=J.%20Su&author=Y.%20Zhong&author=D.T.K.%20Ng)
+73. [Sun et al., 2023](#bbib74)
+J.Sun, H.Ma, Y.Zeng, D.Han, Y.Jin
+Promoting the AI teaching competency of K-12 computer science teachers: A TPACK-based professional development approach
+Education and Information Technologies, 28 (2) (2023), pp. 1509-1533, [10.1007/s10639-022-11256-5](https://doi.org/10.1007/s10639-022-11256-5)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85148930423&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Promoting%20the%20AI%20teaching%20competency%20of%20K-12%20computer%20science%20teachers%3A%20A%20TPACK-based%20professional%20development%20approach&publication\_year=2023&author=J.%20Sun&author=H.%20Ma&author=Y.%20Zeng&author=D.%20Han&author=Y.%20Jin)
+74. [Tan et al., 2025](#bbib75)
+X.Tan, G.Cheng, M.H.Ling
+Artificial intelligence in teaching and teacher professional development: A systematic review
+Computers and Education: Artificial Intelligence, 8 (2025), Article 100355, [10.1016/j.caeai.2024.100355](https://doi.org/10.1016/j.caeai.2024.100355)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85213209009&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20in%20teaching%20and%20teacher%20professional%20development%3A%20A%20systematic%20review&publication\_year=2025&author=X.%20Tan&author=G.%20Cheng&author=M.H.%20Ling)
+75. [Tripathi et al., 2025](#bbib76)
+T.Tripathi, S.R.Sharma, V.Singh, P.Bhargava, C.Raj
+Teaching and learning with AI: A qualitative study on K-12 teachers' use and engagement with artificial intelligence
+Frontiers in Education, 10 (2025), [10.3389/feduc.2025.1651217](https://doi.org/10.3389/feduc.2025.1651217)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teaching%20and%20learning%20with%20AI%3A%20A%20qualitative%20study%20on%20K-12%20teachers%20use%20and%20engagement%20with%20artificial%20intelligence&publication\_year=2025&author=T.%20Tripathi&author=S.R.%20Sharma&author=V.%20Singh&author=P.%20Bhargava&author=C.%20Raj)
+76. [Uğraş et al., 2024](#bbib77)
+H.Uğraş, M.Uğraş, S.Papadakis, M.Kalogiannakis
+ChatGPT-Supported education in primary schools: The potential of ChatGPT for sustainable practices
+Sustainability, 16 (22) (2024), p. 9855, [10.3390/su16229855](https://doi.org/10.3390/su16229855)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85210254261&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=ChatGPT-Supported%20education%20in%20primary%20schools%3A%20The%20potential%20of%20ChatGPT%20for%20sustainable%20practices&publication\_year=2024&author=H.%20U%C4%9Fra%C5%9F&author=M.%20U%C4%9Fra%C5%9F&author=S.%20Papadakis&author=M.%20Kalogiannakis)
+77. [Usher and Barak, 2024](#bbib78)
+M.Usher, M.Barak
+Unpacking the role of AI ethics online education for science and engineering students
+International Journal of STEM Education, 11 (1) (2024), p. 35, [10.1186/s40594-024-00493-4](https://doi.org/10.1186/s40594-024-00493-4)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Unpacking%20the%20role%20of%20AI%20ethics%20online%20education%20for%20science%20and%20engineering%20students&publication\_year=2024&author=M.%20Usher&author=M.%20Barak)
+78. [Velander et al., 2024](#bbib79)
+J.Velander, M.A.Taiye, N.Otero, M.Milrad
+Artificial Intelligence in K-12 Education: Eliciting and reflecting on Swedish teachers' understanding of AI and its implications for teaching & learning
+Education and Information Technologies, 29 (4) (2024), pp. 4085-4105, [10.1007/s10639-023-11990-4](https://doi.org/10.1007/s10639-023-11990-4)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85163769587&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20Intelligence%20in%20K-12%20Education%3A%20Eliciting%20and%20reflecting%20on%20Swedish%20teachers%20understanding%20of%20AI%20and%20its%20implications%20for%20teaching%20%20learning&publication\_year=2024&author=J.%20Velander&author=M.A.%20Taiye&author=N.%20Otero&author=M.%20Milrad)
+79. [Wang and Cheng, 2021](#bbib80)
+T.Wang, E.C.K.Cheng
+An investigation of barriers to Hong Kong K-12 schools incorporating Artificial Intelligence in education
+Computers and Education: Artificial Intelligence, 2 (2021), Article 100031, [10.1016/j.caeai.2021.100031](https://doi.org/10.1016/j.caeai.2021.100031)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85123894871&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20investigation%20of%20barriers%20to%20Hong%20Kong%20K-12%20schools%20incorporating%20Artificial%20Intelligence%20in%20education&publication\_year=2021&author=T.%20Wang&author=E.C.K.%20Cheng)
+80. [Wang et al., 2022](#bbib81)
+J.Wang, D.E.H.Tigelaar, J.Luo, W.Admiraal
+Teacher beliefs, classroom process quality, and student engagement in the smart classroom learning environment: A multilevel analysis
+Computers & Education, 183 (2022), Article 104501, [10.1016/j.compedu.2022.104501](https://doi.org/10.1016/j.compedu.2022.104501)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85126658916&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teacher%20beliefs%2C%20classroom%20process%20quality%2C%20and%20student%20engagement%20in%20the%20smart%20classroom%20learning%20environment%3A%20A%20multilevel%20analysis&publication\_year=2022&author=J.%20Wang&author=D.E.H.%20Tigelaar&author=J.%20Luo&author=W.%20Admiraal)
+81. [Williams et al., 2023](#bbib82)
+R.Williams, S.Ali, N.Devasia, D.DiPaola, J.Hong, S.P.Kaputsos, B.Jordan, C.Breazeal
+AI plus ethics curricula for middle school youth: Lessons learned from three project-based curricula
+International Journal of Artificial Intelligence in Education, 33 (2) (2023), pp. 325-383, [10.1007/s40593-022-00298-y](https://doi.org/10.1007/s40593-022-00298-y)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85135260266&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20plus%20ethics%20curricula%20for%20middle%20school%20youth%3A%20Lessons%20learned%20from%20three%20project-based%20curricula&publication\_year=2023&author=R.%20Williams&author=S.%20Ali&author=N.%20Devasia&author=D.%20DiPaola&author=J.%20Hong&author=S.P.%20Kaputsos&author=B.%20Jordan&author=C.%20Breazeal)
+82. [Woehr et al., 2015](#bbib83)
+D.J.Woehr, A.C.Loignon, P.B.Schmidt, M.L.Loughry, M.W.Ohland
+Justifying aggregation with consensus-based constructs: A review and examination of cutoff values for common aggregation indices
+Organizational Research Methods, 18 (4) (2015), pp. 704-737, [10.1177/1094428115582090](https://doi.org/10.1177/1094428115582090)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84941360579&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Justifying%20aggregation%20with%20consensus-based%20constructs%3A%20A%20review%20and%20examination%20of%20cutoff%20values%20for%20common%20aggregation%20indices&publication\_year=2015&author=D.J.%20Woehr&author=A.C.%20Loignon&author=P.B.%20Schmidt&author=M.L.%20Loughry&author=M.W.%20Ohland)
+83. [Wu and Yang, 2022](#bbib84)
+S.-Y.Wu, K.-K.Yang
+The Effectiveness of teacher support for students' learning of artificial intelligence popular science activities
+Frontiers in Psychology, 13 (2022)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20Effectiveness%20of%20teacher%20support%20for%20students%20learning%20of%20artificial%20intelligence%20popular%20science%20activities&publication\_year=2022&author=S.-Y.%20Wu&author=K.-K.%20Yang)
+84. [Yang et al., 2024](#bbib85)
+Y.-F.Yang, C.C.Tseng, S.-C.Lai
+Enhancing teachers' self-efficacy beliefs in AI-based technology integration into English speaking teaching through a professional development program
+Teaching and Teacher Education, 144 (2024), Article 104582, [10.1016/j.tate.2024.104582](https://doi.org/10.1016/j.tate.2024.104582)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85189872663&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Enhancing%20teachers%20self-efficacy%20beliefs%20in%20AI-based%20technology%20integration%20into%20English%20speaking%20teaching%20through%20a%20professional%20development%20program&publication\_year=2024&author=Y.-F.%20Yang&author=C.C.%20Tseng&author=S.-C.%20Lai)
+85. [Yue et al., 2024](#bbib86)
+M.Yue, M.S.-Y.Jong, D.T.K.Ng
+Understanding K–12 teachers' technological pedagogical content knowledge readiness and attitudes toward artificial intelligence education
+Education and Information Technologies, 29 (15) (2024), pp. 19505-19536, [10.1007/s10639-024-12621-2](https://doi.org/10.1007/s10639-024-12621-2)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85188156713&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Understanding%20K12%20teachers%20technological%20pedagogical%20content%20knowledge%20readiness%20and%20attitudes%20toward%20artificial%20intelligence%20education&publication\_year=2024&author=M.%20Yue&author=M.S.-Y.%20Jong&author=D.T.K.%20Ng)
+86. [Zhai, 2025](#bbib87)
+X.Zhai
+Transforming teachers' roles and agencies in the era of generative AI: Perceptions, acceptance, knowledge, and practices
+Journal of Science Education and Technology, 34 (6) (2025), pp. 1323-1333, [10.1007/s10956-024-10174-0](https://doi.org/10.1007/s10956-024-10174-0)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85209348346&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Transforming%20teachers%20roles%20and%20agencies%20in%20the%20era%20of%20generative%20AI%3A%20Perceptions%2C%20acceptance%2C%20knowledge%2C%20and%20practices&publication\_year=2025&author=X.%20Zhai)
+87. [Zhang and Quintana, 2012](#bbib88)
+M.Zhang, C.Quintana
+Scaffolding strategies for supporting middle school students' online inquiry processes
+Computers & Education, 58 (1) (2012), pp. 181-196, [10.1016/j.compedu.2011.07.016](https://doi.org/10.1016/j.compedu.2011.07.016)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-80052517594&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Scaffolding%20strategies%20for%20supporting%20middle%20school%20students%20online%20inquiry%20processes&publication\_year=2012&author=M.%20Zhang&author=C.%20Quintana)
+88. [Zhang and Willson, 2006](#bbib89)
+D.Zhang, V.L.Willson
+Comparing empirical power of multilevel structural equation models and hierarchical linear models: Understanding cross-level interactions
+Structural Equation Modeling: A Multidisciplinary Journal, 13 (4) (2006), pp. 615-630, [10.1207/s15328007sem1304\\_6](https://doi.org/10.1207/s15328007sem1304\_6)
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-33750352003&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Comparing%20empirical%20power%20of%20multilevel%20structural%20equation%20models%20and%20hierarchical%20linear%20models%3A%20Understanding%20cross-level%20interactions&publication\_year=2006&author=D.%20Zhang&author=V.L.%20Willson)
+## Cited by (0)
+© 2026 The Authors. Published by Elsevier Ltd.
+## Recommended articles
+\* ### [Short-term gains, long-term gaps: Unpacking the role of learning analytics in student engagement in social annotation](/science/article/pii/S1096751626000059)
+The Internet and Higher Education, Volume 69, 2026, Article 101078
+YeonjiJung, …, Alyssa FriendWise
+[View PDF](/science/article/pii/S1096751626000059/pdfft?md5=612d7a21d91de416d1955aa6875a37f9&pid=1-s2.0-S1096751626000059-main.pdf)
+\* ### [Pre-service teachers' assessment competence for grading students’ solutions of mathematical modelling problems](/science/article/pii/S0742051X25003580)
+Teaching and Teacher Education, Volume 169, 2026, Article 105281
+RitaBorromeo Ferri, GilbertGreefrath
+[View PDF](/science/article/pii/S0742051X25003580/pdfft?md5=d95ec0388af90863a89b6dad40732820&pid=1-s2.0-S0742051X25003580-main.pdf)
+\* ### [The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes](/science/article/pii/S2666920X26000330)
+Computers and Education: Artificial Intelligence, Volume 10, 2026, Article 100571
+ChangyueLi, …, Linda SerraHagedorn
+[View PDF](/science/article/pii/S2666920X26000330/pdfft?md5=f9939d32e35418770076ecb48671e3b8&pid=1-s2.0-S2666920X26000330-main.pdf)
+\* ### [Latent profile analysis of teachers’ self-efficacy: Relations with professional practices and team innovativeness](/science/article/pii/S0742051X25004469)
+Teaching and Teacher Education, Volume 172, 2026, Article 105368
+Mehmet TufanYalçın
+\* ### [Understanding the role of refutation texts on pre-service teachers’ mathematics-related beliefs](/science/article/pii/S0732312325000422)
+The Journal of Mathematical Behavior, Volume 80, 2025, Article 101278
+DionneCross Francis, …, JiHong
+\* ### [An exploration of the role of generative AI in fostering creativity in architectural learning environments](/science/article/pii/S2666920X25001419)
+Computers and Education: Artificial Intelligence, Volume 9, 2025, Article 100501
+CarlosMedel-Vera, …, William FrancisGates
+[View PDF](/science/article/pii/S2666920X25001419/pdfft?md5=89212d8fa9ef9ccd7988d34c53139a43&pid=1-s2.0-S2666920X25001419-main.pdf)
+Show 3 more articles
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X26000263)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

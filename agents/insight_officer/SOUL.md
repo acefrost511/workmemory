@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: dc530cd8f9d9fe485a0ed1f29e7b7c7e
+    PropagateID: dc530cd8f9d9fe485a0ed1f29e7b7c7e
+    ReservedCode1: 30450220712b131370ef27348bee80f5cfa043ba12ae19f4d9bcb2dd357b3ad8f7284dee022100dcefc195f3c504e5dbc7dcfdd56da48cb18f756da78b60d210660517375c49e5
+    ReservedCode2: 3044022004065615a635a7a3112dbb003533c6fc9ed96c1bb09308fe589617938eda39e602206a4f252d2c3e5cd896e430723b866b1e484c8f53a6177062cf4adb99a00ea370
+---
+
 # SOUL.md - 洞察官（insight_officer）
 
 **Agent ID**：insight_officer

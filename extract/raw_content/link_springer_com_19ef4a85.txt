@@ -1,0 +1,896 @@
+# Source URL: https://link.springer.com/article/10.1007/s40593-025-00483-9
+# Content Length: 103625 characters
+# Extracted at: 2026-04-04 06:59:26
+#============================================================
+
+
+
+
+
+
+
+
+
+The Evolution of Research on AI and Education Across Four Decades: Insights from the AIxEd Framework | International Journal of Artificial Intelligence in Education | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/40593/article&sz=728x90&pos=top&articleid=s40593-025-00483-9)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s40593-025-00483-9)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [International Journal of Artificial Intelligence in Education](/journal/40593)
+3. Article
+
+The Evolution of Research on AI and Education Across Four Decades: Insights from the AIxEd Framework
+====================================================================================================
+
+* Article
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 15 May 2025
+
+* Volume 35, pages 2797–2820, (2025)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1007/s40593-025-00483-9.pdf)
+
+
+[Save article](/article/10.1007/s40593-025-00483-9/save-research?_csrf=_3WwbPhdAEROP3WOKfewwStZ0RyFu3JM)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+International Journal of Artificial Intelligence in Education](/journal/40593)
+[Aims and scope](/journal/40593/aims-and-scope)
+
+
+
+
+The Evolution of Research on AI and Education Across Four Decades: Insights from the AIxEd Framework
+
+[Download PDF](/content/pdf/10.1007/s40593-025-00483-9.pdf)
+
+
+
+
+
+* [Sina Rismanchian](#auth-Sina-Rismanchian-Aff1)[1](#Aff1) &
+* [Shayan Doroudi](#auth-Shayan-Doroudi-Aff1)[1](#Aff1)
+
+* 7965 Accesses
+* 6 Citations
+* [Explore all metrics](/article/10.1007/s40593-025-00483-9/metrics)
+
+
+
+Abstract
+--------
+
+This paper presents a new framework (AI\(\times \)Ed) to categorize the various kinds of relationships between artificial intelligence (AI) and education in terms of two axes. Using this framework, we examine the evolution of the field of Artificial Intelligence in Education over four decades by examining papers published in AIED proceedings (1985, 1993, 2021, and 2024) and the International Journal of Artificial Intelligence in Education (2004, 2014, and 2021). We argue that AI’s role in education extends beyond its use as a practical tool for solving educational problems. AI also serves as a conceptual analogy for understanding human intelligence and learning. However, we show that this way of thinking about AI and education, which was once prevalent, has received much less focus in recent years. We suggest that the growing enthusiasm among researchers for using generative AI, as evidenced by papers in AIED 2024, offers opportunities to deepen our insights into student knowledge and learning processes. Finally, we propose new directions for future AIED research that span the different kinds of research in AI\(\times \)Ed.
+
+
+
+### Similar content being viewed by others
+
+![]()
+### [Four Interactions Between AI and Education: Broadening Our Perspective on What AI Can Offer Education](https://link.springer.com/10.1007/978-3-031-36336-8_1?fromPaywallRec=false)
+
+Chapter
+© 2023
+
+
+
+
+![]()
+### [Out of the laboratory and into the classroom: the future of artificial intelligence in education](https://link.springer.com/10.1007/s00146-020-01033-8?fromPaywallRec=false)
+
+Article
+09 August 2020
+
+
+
+
+![]()
+### [Competency, Understanding and the Role of Explanation in AI-Driven Education](https://link.springer.com/10.1007/978-3-031-93567-1_21?fromPaywallRec=false)
+
+Chapter
+© 2025
+
+
+
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Anthropology of Education](/subjects/anthropology-of-education)
+* [Educational Research](/subjects/educational-research)
+* [History of Education](/subjects/history-of-education)
+* [Intelligence Development](/subjects/intelligence-development)
+* [Philosophy of Artificial Intelligence](/subjects/philosophy-of-artificial-intelligence)
+* [Artificial Intelligence](/subjects/artificial-intelligence)
+* [Artificial Intelligence Applications in Higher Education](/subjects/artificial-intelligence-applications-in-higher-education)
+
+Introduction
+------------
+
+In 1977—over 15 years prior to the establishment of the International Artificial Intelligence in Education Society—Kenneth Kahn published a paper entitled “Three Interactions between AI and Education” (Kahn, [1977](/article/10.1007/s40593-025-00483-9#ref-CR32)). Motivated by his work as a graduate student in the Logo Group, Kahn suggested that there are (at least) three roles that artificial intelligence (AI) could play in education:
+
+1. 1.
+   
+   Children can write “simple AI programs”
+2. 2.
+   
+   Children can interact with “AI ‘teaching programs’ ” and
+3. 3.
+   
+   “AI theories of intelligence and learning” can guide the design of learning environments.
+
+Over forty-five years later, we contend that the Artificial Intelligence in Education (AIED) community has not given equal focus to these three interactions. Among these three, the AIED community has disproportionately focused on the second. The first has only recently gained popularity under the banners of “AI education” and “AI literacy.” The third was a focus in the early days of AIED, but has since become unpopular. In this paper, we present AI\(\times \)Ed, a framework that can help categorize the diversity of roles that AI can play in education. This framework was first presented in our AIED 2023 Blue Sky paper (Rismanchian & Doroudi, [2023b](/article/10.1007/s40593-025-00483-9#ref-CR62)) on the occasion of the 30th anniversary of the International Artificial Intelligence in Education Society. It was inspired by that of Kahn but also resonates with a recent framework proposed by Porayska-Pomsta and Holmes (Porayska-Pomsta, [2016](/article/10.1007/s40593-025-00483-9#ref-CR59); Porayska-Pomsta & Holmes, [2022](/article/10.1007/s40593-025-00483-9#ref-CR60)). What all three of our frameworks share in common is the notion that the relationship between AI and education is more than a purely instrumental one, which has become increasingly common. Rather, AI and machine learning (ML) can also act as analogies to human intelligence (HI) and learning, which can in turn influence how we think about and design educational environments.
+
+Below we introduce our framework for thinking about the relationships between AI and education. We propose two axes, which give rise to four quadrants, each of which highlights a particular role that AI can play in education. We then examine four proceedings of AIED and three volumes of the International Journal of Artificial Intelligence in Education (IJAIED) and locate each paper in these venues in our framework to see how the focus of the field has evolved over the past four decades. We discuss examples of papers in the different quadrants of our framework and show that while the field used to have a mix of instrumental applications of AI in education (e.g., AI “teaching programs”) and research focusing on the analogy between AI and HI, today it almost exclusively focuses on instrumental applications. In order to show that earlier approaches may still be relevant today, we then discuss several strands of recent work that exemplify the less-represented uses of AI in education. In comparison to our original paper (Rismanchian & Doroudi, [2023b](/article/10.1007/s40593-025-00483-9#ref-CR62)), we have added a section describing our methods in more detail (Section “[Methods](/article/10.1007/s40593-025-00483-9#Sec7)”), we locate three additional years of papers in our framework in Section “[Locating AIED Research on AI\(\times \)Ed](/article/10.1007/s40593-025-00483-9#Sec8)”, and we added an expanded discussion of generative AI in terms of our framework (Section “[AIED in the Age of Generative AI](/article/10.1007/s40593-025-00483-9#Sec18)” as well as our examination of papers from AIED 2024 in Section “[Locating AIED Research on AI\(\times \)Ed](/article/10.1007/s40593-025-00483-9#Sec8)”). The additional data (i.e., additional journal and conference papers considered) validate the findings of our original paper but also highlight that while most of the recent work on generative AI in education is applied, there seems to be burgeoning work that considers generative AI as an analogy to HI. This suggests that generative AI may open up new opportunities to revive this largely abandoned way of thinking about the relationship between AI and education, a theme we explore in Section “[AIED in the Age of Generative AI](/article/10.1007/s40593-025-00483-9#Sec18)”.
+
+**Fig. 1**
+
+![]()[Full size image](/article/10.1007/s40593-025-00483-9/figures/1)
+
+The AI\(\times \)Ed framework, illustrated with examples of topics studied in AIED. The y-axis represents the role of AI, while the x-axis indicates the spectrum of AIED stakeholders-from researchers to learners-with practitioners and parents positioned in between
+
+Our overall approach in this paper is to examine the past to reflect on what the future could be. Our primary message is that AI has more to offer education than we are currently taking advantage of.
+
+The AI\(\times \)Ed Framework
+-----------------------------
+
+AI\(\times \)Ed uses two main axes to interpret the position of any particular research project in AIED; it is depicted in Fig. [1](/article/10.1007/s40593-025-00483-9#Fig1). We conceptualize work in AIED as primarily being about some kind of interaction between AI and one or more people (which we refer to as end users). However, this interaction can look quite different depending on the role that AI plays and the kind of end user, giving rise to the two axes of AI\(\times \)Ed. Below, we first describe the two axes and then we describe how the axes interact with one another, mentioning representative research in each of the four quadrants.
+
+### End User Axis
+
+The horizontal axis considers the role of the end user who is interacting with AI. We put forward a dichotomy between whether the person *primarily* interacting with AI is a researcher or a learner. Of course, in a paper where a learner is the primary end user, a researcher can also benefit downstream (e.g., by learning about learning) and vice versa. To clarify our perspective, we bring up instances representing each end of the spectrum and then describe the middle of the spectrum.
+
+### Learner End
+
+Most of the papers in areas such as intelligent tutoring systems (ITS), adaptive assessment, and personalized learning, are categorized at this end as they serve as a means to teach *learners*, assess *learners*, and personalize *learners*’ experience. In these papers, learners are the first-hand consumers of the contribution, which means that the results of the papers are intended to improve learners’ education immediately. While the focus here is on the use of AI to advance education, we can extend the AI\(\times \)Ed framework to also consider the use of education to advance AI. In this case, work on AI literacy and AI education would also be examples of learners interacting with AI, where education serves as a means to advance knowledge about AI among learners.
+
+### Researcher End
+
+Studies at this end typically involve researchers using AI to improve our understanding of learning and educational systems. Most research in the educational data mining (EDM) field is categorized at the researcher end. These contributions apply machine learning tools to enhance the community’s understanding of teaching and learning (Käser & Schwartz, [2020](/article/10.1007/s40593-025-00483-9#ref-CR36)). Other examples include using computational models to study how children learn (Anderson & Lebiere, [2014](/article/10.1007/s40593-025-00483-9#ref-CR2); VanLehn, [1993a](/article/10.1007/s40593-025-00483-9#ref-CR75)) or applying fundamental AI concepts to education to generate novel insights and research questions (Doroudi, [2020](/article/10.1007/s40593-025-00483-9#ref-CR20)). Although the way that researchers interact with AI is different in these two types, they are similar in that researchers are the primary end users of the AI, even if the insights generated are intended to benefit learners downstream. The implications of these contributions are beneficial for other researchers and practitioners to push forward the field.
+
+### Other Stakeholders in the Middle
+
+We postulate that this axis is more of a spectrum rather than a binary, which means that we leave room in between the ends of the spectrum to include teachers, practitioners, policy makers, parents, and educational technology developers as the end users of AI. Thus, we position contributions such as using AI tools to improve teachers’ experience (e.g., AI-based dashboards and at-risk detectors) or AI curricula designed for teachers in the middle of the axis. Work on intelligent tutor authoring tools might fit somewhere between the left and middle of the *x*-axis, as the end user might be researchers, educational technology developers, or educators who want to create their own software.
+
+### Role of AI Axis
+
+The vertical axis indicates the role that AI is playing. The two ends for this spectrum are AI as an applied tool vs. AI as an analogy to HI.
+
+### AI as an Applied Tool
+
+This end of the axis includes research that emphasizes employing AI techniques toward pragmatic educational ends, analogous to how researchers would apply AI to other fields such as medicine, physics, business, or law. We contend this is what people typically mean today when they refer to “AI in education.” In essence, the novelty of these works lies in the ways they can utilize AI as an applied tool to tackle educational problems. This includes developing new AI-driven educational technologies (e.g., intelligent tutoring systems, personalized learning platforms, and teacher dashboards) and applying data mining techniques to educational datasets. Importantly, such work can leverage any AI algorithms without being concerned with whether such algorithms model thinking and learning in human-like ways or not.
+
+### AI as an Analogy to Human Intelligence
+
+This end of the axis refers to a more principled interplay between AI and education: they are both about agents that think and learn; they both investigate epistemological questions. Using AI as an analogy to HI—and vice versa—is rooted in cognitive science and was much more popular in the early days of the AIED community (as we show below). Indeed, many early AI researchers were interested in exploring this interplay between AI and education (Doroudi, [2022](/article/10.1007/s40593-025-00483-9#ref-CR21)). The field of information-processing psychology, which has been very influential in AIED and education research more broadly, initially formed out of research that involved reasoning about thinking in both humans and machines.
+
+Work in this area can fall under at least one of two varieties. First, researchers can build computational models of how people learn, such as ACT-R (Anderson & Lebiere, [2014](/article/10.1007/s40593-025-00483-9#ref-CR2)), Cascade (VanLehn, [1993a](/article/10.1007/s40593-025-00483-9#ref-CR75)), and SimStudent (Matsuda et al., [2011](/article/10.1007/s40593-025-00483-9#ref-CR48)). This involves improving our understanding of how people learn (and how we can better teach them) by building machines that can learn (and be taught). The development of such rule-based AI models has also influenced the design of intelligent tutoring systems like cognitive tutors (Anderson et al., [1990](/article/10.1007/s40593-025-00483-9#ref-CR1)).
+
+Second, *theoretical* concepts in AI and machine learning might have analogs in HI and human learning. For example, knowledge representation is an important area of research in both AI and education (Porayska-Pomsta, [2016](/article/10.1007/s40593-025-00483-9#ref-CR59)). Relatedly, Seymour Papert and Marvin Minsky developed the notion of a microworld in the context of programming AI (Minsky & Papert, [1971](/article/10.1007/s40593-025-00483-9#ref-CR49)) and then applied that concept to how kids learn—giving rise to the notion of educational microworlds (Hoyles, [1993](/article/10.1007/s40593-025-00483-9#ref-CR27); Papert, [2002](/article/10.1007/s40593-025-00483-9#ref-CR56)). More recently, the field of machine teaching is interested in how insights from how to optimally teach machine learners may apply to teaching human learners (Zhu et al., [2018](/article/10.1007/s40593-025-00483-9#ref-CR83)). Recent work has also shown how the bias-variance tradeoff in machine learning may help explain recent results on individual differences in how people learn (Doroudi & Rastegar, [2023](/article/10.1007/s40593-025-00483-9#ref-CR22)) as well as debates around what instructional strategies are optimal (Doroudi, [2020](/article/10.1007/s40593-025-00483-9#ref-CR20)).
+
+While we primarily focus on how AI as an analogy to HI can give insights on how people learn and how to design educational systems, we notice that this analogy can also result in taking insights from education and learning sciences to advance AI. For example, although they are not focused on education per se, see the special issue edited by Cassenti et al. ([2022](/article/10.1007/s40593-025-00483-9#ref-CR14)) on cognition-inspired AI. We do not focus on this as we think it falls outside of the main interests of the AIED community and is more directly relevant to AI research, but some of the early research described here (e.g., Minsky & Papert, [1971](/article/10.1007/s40593-025-00483-9#ref-CR49)) was interested in pursuing both directions in tandem; indeed, we think this could be an interesting area for AIED researchers to work on in the future.
+
+### Interaction of the Two Axes
+
+Although we described the two axes separately, the nature of different kinds of research at the intersection of AI and education will depend on their position on both axes. Learners can learn by interacting with applied AI tools like intelligent tutoring systems or conversational agents; learners can also learn *about* applied AI (upper right quadrant). Researchers can also learn about learning by using AI tools to tackle educational questions (upper left quadrant). Alternatively, researchers can use AI as an analogy to human intelligence (lower left quadrant) to gain insights into how people learn and how to teach, for example by simulating computational models of learning or by applying results from machine teaching. Finally, researchers are not the only ones who can use AI as an analogy to human intelligence; learners can also do this in order to improve their own learning (lower right quadrant), for example by writing AI programs and reflecting on the nature of the program’s cognitive capacities and their own.
+
+This last use case might be the most foreign to AIED researchers and deserves further exposition. The idea was initially proposed by Papert and colleagues (Papert, [1980](/article/10.1007/s40593-025-00483-9#ref-CR54)):
+
+> The aim of AI is to give concrete form to ideas about thinking that previously might have seemed abstract, even metaphysical. It is this concretizing quality that has made ideas from AI so attractive to many contemporary psychologists. We propose to teach AI to children so that they, too, can think more concretely about mental processes. While psychologists use ideas from AI to build formal, scientific theories about mental processes, children use the same ideas in a more informal and personal way to think about themselves. (pp. 157-158)
+
+Interestingly, Papert suggests this idea first came up (but was forgotten) in a conversation he had with Jean Piaget (likely in the early 1960s) when “engag[ing] in playful speculation about what would happen if children could play at building little artificial minds” (Papert, [1993](/article/10.1007/s40593-025-00483-9#ref-CR55)). However, as we see below, this idea has been rather underexplored in recent decades. We discuss this idea and its potential relevance today in more depth elsewhere (Ojeda-Ramirez et al., [2023](/article/10.1007/s40593-025-00483-9#ref-CR51)).
+
+Comparison to Other Frameworks
+------------------------------
+
+AI\(\times \)Ed was largely inspired by Kahn’s early list of three interactions between AI and education but it was expanded to account for the range of work at the intersection of AI and education, both in the past and today. In Kahn’s framework, the first interaction is having children write simple AI programs. As discussed above, this could fall in either the top right or bottom right quadrants of AI\(\times \)Ed. Having children learn about their own learning (bottom right) was indeed one of the key motivations to having children program AI at the time (Kahn, [1977](/article/10.1007/s40593-025-00483-9#ref-CR32)). The second form of interaction refers largely to intelligent tutoring systems and would fall under the upper right quadrant of AI\(\times \)Ed. Finally, the third form of interaction—using AI theories to inform our understanding of how children learn and in turn guide the design of learning environments—falls under the bottom right quadrant of AI\(\times \)Ed (with Papert’s microworlds being a clear example).
+
+More recently, Porayska-Pomsta has also called on a categorization of the roles of AI in education that moves beyond seeing AI as a purely engineering discipline (Porayska-Pomsta, [2016](/article/10.1007/s40593-025-00483-9#ref-CR59); Porayska-Pomsta & Holmes, [2022](/article/10.1007/s40593-025-00483-9#ref-CR60)). Porayska-Pomsta and Holmes ([2022](/article/10.1007/s40593-025-00483-9#ref-CR60)) have suggested three roles for AI in education: AI can act “as a form of *civil engineering* concerned with addressing immediate education-related challenges within society at large;” it can act as an *applied philosophy* that investigates foundational questions around how people learn and think; and it can act as a *research methodology* that concretely applies AI tools to investigate the nature of teaching and learning (e.g., through computational cognitive models) (Porayska-Pomsta & Holmes, [2022](/article/10.1007/s40593-025-00483-9#ref-CR60)). The civil engineering approach is the same as our notion of AI as an applied tool that interacts with learners and teachers (top right quadrant), though perhaps it also includes some applications that are researcher-focused (top left quadrant). The use of AI as applied philosophy and research methodology both fall under our bottom left quadrant. The distinction between applied philosophy and research methodology is interesting, but we believe the more salient feature is that they both rely on the analogy between AI and HI. We note that Porayska-Pomsta’s categorization appears to be similar to an earlier tripartite categorization in AIED; Baker suggested that models (broadly conceived) can be applied to AIED in three ways: as a component in an AIED system, as a basis for design, and as a scientific tool, Baker ([2000](/article/10.1007/s40593-025-00483-9#ref-CR4)).
+
+All of these frameworks are useful for thinking about the ways in which AI can interact with education, but AI\(\times \)Ed tries to identify more general categories that capture the range of work in AIED over the past few decades. For example, the upper left quadrant of our framework has not been represented in previous frameworks (largely because the use of EDM to learn about learning is a recent phenomenon). However, we note that all of these frameworks agree with our own on the fact that AI is not merely an engineering discipline, but also a fundamental tool that can be used to investigate the nature of thinking, problem-solving, learning, and teaching and, in turn, influence the design of educational environments.
+
+Methods
+-------
+
+In this section, we describe the procedure we used for locating each paper on AI\(\times \)Ed. For AIED 2021 and 2024, we only considered full papers in the conference proceedings. For IJAIED papers, we looked at all papers published in the volume for that year excluding prefaces or editor’s introductions. Each paper was given a single point based on the main focus of the work as identified by the authors. For instance, if a paper discusses a novel speech recognition architecture as a tool for assisting teachers, we would categorize it towards the center of the *x*-axis, even though such dashboards could also serve as student-facing learning analytics tools. In cases where the work had multiple aspects that would be categorized in different quadrants (e.g., a work that both describes the impact of an intelligent tutoring system on student learning and the use of data mining techniques to study student learning in the tutoring system), we made a holistic judgment that resulted in positioning the paper somewhere in between the different locations. In the future, it may be more precise to give such papers multiple points (one for each aspect of the work), however, this would have overcomplicated the analysis for our purposes and it was infrequent enough that we do not think it would have added much insight. Importantly, the exact position of the papers in relation to neighboring points is arbitrary. We separated the points out for visualization purposes but points that are within a small cluster are generally interchangeable.
+
+To the extent that it was clear, we categorized the papers based on their abstracts. In the case of AIED 1985, the papers only consisted of extended abstracts. Typically, recent AIED papers could be distinguished by how the authors described their proposed tools and target audience. For example, a paper detailing the development of a specialized science tutor and reporting on student learning outcomes can be easily classified. However, not all papers were as straightforward to categorize, as some works are multi-faceted, involving AI interactions with different user types or various roles for AI. In cases where we were not certain where the paper would fit based on the abstract, we examined the body of the paper, often focusing on the methods and discussion sections. Each paper was positioned by one of the two authors. If one author was unsure about the position of a paper, the two authors discussed the work together and decided on its location. Additionally, papers that were initially identified (which tended to be harder to classify) to be in the bottom half were also often examined by the second author and discussed by both authors.
+
+In our initial paper (Rismanchian & Doroudi, [2023b](/article/10.1007/s40593-025-00483-9#ref-CR62)), we examined the 2nd International Conference on Artificial Intelligence and Education (AIED 1985) proceedings (Yazdani & Lawler, [1985](/article/10.1007/s40593-025-00483-9#ref-CR81)) and the AIED 1993 proceedings (Brna et al., [1993](/article/10.1007/s40593-025-00483-9#ref-CR9)) as examples of early work in AIED and we chose the IJAIED 2021 and AIED 2021 proceedings (Roll et al., [2021](/article/10.1007/s40593-025-00483-9#ref-CR64)) as examples of recent work in AIED. The choice of the 1985 proceedings was due to one author’s knowledge of the interdisciplinary nature of the study of learning in that year as described in our prior work (Doroudi, [2022](/article/10.1007/s40593-025-00483-9#ref-CR21)). 1993 was the year that the IAIED society formed, so on the occasion of the 30th anniversary of IAIED, it was fitting to examine the proceedings from that year; moreover, the authors could easily access the proceedings from that year. 2021 was chosen simply as a recent year. In preparing the present version of the paper, we decided to add AIED 2024 (Olney et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR53)). We thought that work on LLMs—which we had speculatively discussed in our initial paper—might play a very prominent role in the proceedings and we aimed to see how this recent shift in AIED might result in changes that we could examine in terms of the AI\(\times \)Ed framework. Moreover, we decided to examine work from the 2000s and 2010s to get a more complete picture of how trends had changed over time. For these decades, we chose to examine papers from the journal as they were more easily accessible. We chose the years 2004 and 2014 to have points in time that were roughly evenly spaced out. (Notice that we did not examine IJAIED for 2024, because only two issues had been released at the point of this writing and IJAIED papers take longer to be published, so 2024 journal papers would not accurately represented the recent shift towards work on LLMs.)
+
+**Table 1 Summary of AIED and IJAIED Publications Located on AI\(\times \)Ed**
+
+[Full size table](/article/10.1007/s40593-025-00483-9/tables/1)
+
+Thus, we examine one venue from each of the four previous decades and three venues from the 2020s (Table [1](/article/10.1007/s40593-025-00483-9#Tab1)). One limitation is that the number of papers is not the same across the years, in part due to shifts in how many papers were accepted or published over time as well as differences in how many papers were published in the conference proceedings vs. the journal. Another limitation is that two IJAIED issues in 2014[Footnote 1](#Fn1) and one IJAIED issue in 2021 were special issues, which could bias the pool of papers towards specific topics. While choosing different years could affect the distribution of papers to some degree and would change the specific papers we highlight here—and examining more years would increase the reliability of our findings—we believe the overall trends would remain similar. This can also be seen in the next section by clustering the results from neighboring years together.
+
+Locating AIED Research on AI\(\times \)Ed
+-----------------------------------------
+
+Figure [2](/article/10.1007/s40593-025-00483-9#Fig2) depicts the location of papers across the venues we examined on AI\(\times \)Ed. Below we chronologically discuss the key trends for each year. We chose some papers that we thought gave insights about the trends in their representative years. We have depicted some of these papers using a different color and special shapes (e.g., orange diamond) to easily point readers to where that paper appears in the framework.
+
+**Fig. 2**
+
+![]()[Full size image](/article/10.1007/s40593-025-00483-9/figures/2)
+
+Locating early and recent AIED articles in AI\(\times \)Ed. The exact positions of points within clusters are arbitrary. The special shapes signify articles discussed in the paper. The green shapes in plot (g) show the papers that have utilized LLMs in their work as a part of their design, methodology, evaluation, or evaluation. For an interactive version of the figure that also provides the paper title associated with each point, see <https://sinaris76.github.io/AIxEd/>
+
+### Proceedings of AIED 1985
+
+As shown in Fig. [2](/article/10.1007/s40593-025-00483-9#Fig2)a, we observe a diverse range of papers, with many clustered near the bottom quadrants and in the middle. The top right quadrant includes papers focusing on ITS (e.g., “Computers Teaching Programming” and “Architectures for Intelligent Tutoring”). On the other hand, there are a substantial number of works that lie at the learner interaction end and in the middle of the AI role axis. Some of these articles focus on microworlds, Logo, and AI curricula. While microworlds are conceptually rooted in Papert’s work in AI, some of these works are more about the design of microworld learning environments (sometimes without using any applied AI). Other papers describe curricula and analyses of the impacts of teaching AI to non-researchers and children. We place these articles in the middle of the *y*-axis because in the 1980s, teaching children AI was motivated by both pragmatic reasons and for students to learn about human learning. For example, Kareev and Avrahami ([1985](/article/10.1007/s40593-025-00483-9#ref-CR33), orange square) describe an AI course for teenagers “designed to meet the challenge [of preparing students for the future] by making children aware of the capabilities of intelligent machines and of the way they work” but they note that “since human intelligence and its manifestations are the major source of basic ideas employed in artificial intelligence, we start by increasing our students’ awareness of human mental activity” (p. 64).
+
+Finally, we find that there are several papers where researchers utilize the analogy between AI and HI (bottom left quadrant). Here, we briefly describe three of these papers (orange diamonds) to give a flavor for the kind of work being conducted in this quadrant. First, Carley describes an agent-based model of “knowledge acquisition as a social phenomenon” which combines AI-based knowledge representation formalisms with a socio-cultural theory of learning (Carley, [1985](/article/10.1007/s40593-025-00483-9#ref-CR12)). An extended version of this paper was published in *Instructional Science* and serves as an interesting case study for how to computationally model learning as a socio-cultural and situated process (Carley, [1986](/article/10.1007/s40593-025-00483-9#ref-CR13)). Second, in a paper titled “The Epistemics of Computer Based Microworlds,” Groen ([1985](/article/10.1007/s40593-025-00483-9#ref-CR24)) offered a formal definition of a microworld, which was previously only loosely defined in both the fields of AI and educational technology. This paper took a step in the direction of asking what it means to learn in a microworld. Third, Samurcay ([1985](/article/10.1007/s40593-025-00483-9#ref-CR65)) tackles the nature of AI as an analogy to human intelligence head-on by asking whether this approach (e.g., thinking about general-purpose learning mechanisms) is sufficient for investigating how people learn in complex domains. He concludes that it is insufficient if we do not take into account the role of the teacher and the domain-specific nature of content matter.
+
+We find that the work lying on the *x*-axis and below in 1985 presents the ethos of the interdisciplinary study of learning that was prominent at this time. For the benefit of the AIED community and others to draw inspiration for future work in this direction, we scanned and digitized the entire proceedings of this conference which The Society for the Study of Artificial Intelligence and Simulation of Behaviour (who sponsored the 1985 conference) has graciously made publicly available online: <https://aisb.org.uk/wp-content/uploads/2023/05/AIED-1985.pdf>.
+
+### Proceedings of AIED 1993
+
+We find that 1993 had a similar distribution to the papers from 1985, except that there are no longer papers in the middle of the *y*-axis at the learner interaction end; see Fig. [2](/article/10.1007/s40593-025-00483-9#Fig2)b. This is because the AIED community had moved away from emphasizing microworlds and AI curricula.
+
+In the upper right, we find that AIED continued to emphasize work on ITS, and moving beyond developing the technical abilities of such systems, researchers called for using these systems in school settings (Koedinger & Anderson, [1993](/article/10.1007/s40593-025-00483-9#ref-CR40), diamond). Another new trend that becomes visible in the proceedings is the endeavor to develop intelligent curricula and intelligent systems for teachers (e.g., Winkels & Breuker, [1993](/article/10.1007/s40593-025-00483-9#ref-CR79)). These articles are mostly placed closer to the middle of the *x*-axis, as their first-hand users are teachers and practitioners. The development of new knowledge acquisition models and student models continued to be a research focus in 1993. VanLehn ([1993a](/article/10.1007/s40593-025-00483-9#ref-CR75), orange hexagon) developed Cascade, a program to simulate cognitive procedures in self-explanation based on previous experiments, which we classify as an example of AI as an analogy for HI. However, VanLehn and colleagues then use this model as a component of OLAE, their Bayesian student modeler to assist human assessors (VanLehn, [1993b](/article/10.1007/s40593-025-00483-9#ref-CR76), orange square), which we classify as an example of AI as an applied tool. In this proceedings, we also see the emergence of Bayesian models in two articles (VanLehn, [1993b](/article/10.1007/s40593-025-00483-9#ref-CR76); Sime, [1993](/article/10.1007/s40593-025-00483-9#ref-CR71)). The models are early examples in AIED of data-driven models to be incorporated into intelligent tutoring systems. The use of Bayesian models became ubiquitous in developing ITS in the following years (Conati, [2010](/article/10.1007/s40593-025-00483-9#ref-CR17)).
+
+### IJAIED 2004
+
+We see that in 2004, as represented by the papers in IJAIED Volume 14, in contrast to the earlier years, there were no papers in the bottom left quadrant; see Fig. [2](/article/10.1007/s40593-025-00483-9#Fig2)c. This apparently signifies a shift away from studying the analogy of AI to human intelligence as relevant to educational questions. Moreover, while there are two papers in the bottom right quadrant, they did not explicitly frame their work as considering AI as an analogy to human intelligence. One of these papers (the one on the left), was about having students and teachers interact with Bayesian student models (Zapata-Rivera & Greer, [2004](/article/10.1007/s40593-025-00483-9#ref-CR82)); hence, students have an opportunity to understand and modify models of themselves as learners, and thereby possibly learn both about themselves and how their learning can be modeled with AI. This is an early example of work on open learner modeling, that was becoming prominent around this time (Kay, [1997](/article/10.1007/s40593-025-00483-9#ref-CR37); Bull, [2004](/article/10.1007/s40593-025-00483-9#ref-CR11)). The other paper (on the right) is an early example of work on teachable agents (Uresti & Du Boulay, [2004](/article/10.1007/s40593-025-00483-9#ref-CR74)). In contrast to intelligent tutoring systems, where the AI tutors the students, in a teachable agent, the student learns by teaching the AI (Brophy et al., [1999](/article/10.1007/s40593-025-00483-9#ref-CR10); Blair et al., [2007](/article/10.1007/s40593-025-00483-9#ref-CR7)). Although this work might be classified as using AI as an applied tool, we note that it (typically) relies on the ability of AI to mimic student-like behaviors and the student’s ability to reflect on their own learning as they help the AI learn—hence it also draws upon the analogy between AI and HI. As such, here and below, we classify work on teachable agents in the bottom left quadrant, but only midway down the *y*-axis.
+
+### IJAIED 2014
+
+The papers from IJAIED Volume 24 are located in our framework in Fig. [2](/article/10.1007/s40593-025-00483-9#Fig2)d. We see that again in 2014, there are no papers in the bottom left quadrant, but there is also a new trend: for the first time, we see papers appearing in the upper left quadrant. These papers reflect the growing use of machine learning techniques to learn from educational data. Some of this work is an extension of work on ITS. Namely, intelligent tutoring systems leave traces of learning; as such, we can use data mining algorithms—in some cases, the same learner models that are used to power the adaptivity in the ITS, such as Bayesian knowledge tracing corbett1994knowledge—to analyze trends in learning. The emergence of papers in this quadrant at this time reflects the fact that the Educational Data Mining conference was first held in 2008 and the Learning Analytics & Knowledge conference was first held in 2011. Alongside the shift to analyze data from ITS and other systems, around this time there was also an increasing shift in such systems from relying on rule-based and knowledge engineering approaches to utilizing data-driven approaches Koedinger et al. ([2013](/article/10.1007/s40593-025-00483-9#ref-CR41)). The growing popularity of data-driven optimization is perhaps one of the reasons why the AIED community has shifted away from papers emphasizing AI as an analogy to HI.
+
+There are also three papers in the bottom right. Two of these papers again focus on the use of teachable agents. The third paper (Khachatryan et al., [2014](/article/10.1007/s40593-025-00483-9#ref-CR39), orange diamond), which was particularly difficult to categorize, was about how knowledge from Russian teachers was translated into an American tutoring system, Reasoning Mind. Although some aspects of this work were about cross-cultural transfer of pedagogical knowledge, we focused on categorizing the novel AI aspect of the work. Namely, consistent with the AI tradition of knowledge engineering, the authors described how they interviewed Russian teachers and translated their pedagogical strategies into explicit rules and procedural algorithms in the decision system of their tutoring system. This approach is consistent with the use of production rules in Cognitive Tutors; however, in intelligent tutoring systems, production rules traditionally describe the content knowledge of an expert or student, rather than the pedagogical knowledge of teachers. Moreover, other tutoring systems may involve implicitly encoding teachers’ strategies in the pedagogical module, but here we see a more explicit attempt to consider the analogy between AI and human intelligence with “the goal of capturing the reasoning process used by the Russian teachers” (Khachatryan et al., [2014](/article/10.1007/s40593-025-00483-9#ref-CR39)).
+
+### Proceedings of AIED 2021 and IJAIED 2021
+
+As shown in Fig. [2](/article/10.1007/s40593-025-00483-9#Fig2)e and f, we see a substantial number of papers at the intersection of AI as an applied tool and researcher interaction—a trend that likely grew since 2014. Researchers employed advances in the fields of ML, natural language processing, and network analysis to investigate learners’ behaviors using large fine-grained datasets. These papers largely belong to the recent fields of EDM and learning analytics as discussed in Section “[IJAIED 2014](/article/10.1007/s40593-025-00483-9#Sec12)”. Additionally, research on ITSs continued to garner significant attention in the field, though consistent with prior years, the AI innovations typically involved data-driven techniques rather than rule-based approaches. Finally, we found only one paper in 2021 that lies at the bottom of AI\(\times \)Ed (diamond). Kent et al. ([2021](/article/10.1007/s40593-025-00483-9#ref-CR38)) “explores the relationship between unsupervised machine learning models, and the mental models of those who develop or use them.” They show that learners (e.g., managers of an organization) can engage in a co-learning process with unsupervised ML models to mitigate biases in their mental models.
+
+### Proceedings of AIED 2024
+
+While the overall trends seen in 2021 were approximately replicated in the proceedings of AIED 2024, there were three notable changes that we will discuss here.
+
+#### Rise of Large Language Models
+
+AIED 2024 sees a surge of interest in applying generative AI tools and large language models to educational platforms and praxis. Interestingly, we found that about 50% of the full papers in AIED 2024 have used LLMs in some way in their developed tools, methodologies, or evaluations. For instance, researchers have utilized LLMs as students’ tutors (Schmucker et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR66)), teacher dashboard companions (Yan et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR80)), and educational researchers’ codebook generators (Barany et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR5)). The papers that used LLMs are colored in green in Fig. [2](/article/10.1007/s40593-025-00483-9#Fig2)g.
+
+#### More Papers in The Bottom Half
+
+Although still only a few, we see more papers on the bottom half of AI\(\times \)Ed. Interestingly, three out of four papers that lie on the bottom half have used LLMs.
+
+The paper by Ma et al. ([2024b](/article/10.1007/s40593-025-00483-9#ref-CR46)) (hexagon), which won the best paper award at the conference, leverages LLMs’ role-playing abilities to provide students with teachable agents that they can teach programming to—in order to ultimately learn by teaching. As noted before, teachable agents can be seen as both an applied tool and as leveraging the analogy between AI and HI. Here, Ma et al. discuss how students not only benefit by fixing bugs that LLMs make, but can also learn about the fallibility of LLMs in programming—a useful form of AI literacy for computer scientists who may be tempted to use these tools to write code for them. As mentioned in Section “[IJAIED 2004](/article/10.1007/s40593-025-00483-9#Sec11)”, developing teachable agents is an older initiative within AIED research (e.g., Leelawong & Biswas, [2008](/article/10.1007/s40593-025-00483-9#ref-CR42); Matsuda et al., [2011](/article/10.1007/s40593-025-00483-9#ref-CR48)). However, it is now experiencing a renovation by the enhanced natural language understanding capabilities of LLMs. Recent work in other venues reflects this renewed attention and innovation in the field (e.g., Markel et al., [2023](/article/10.1007/s40593-025-00483-9#ref-CR47); Jin et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR29)).
+
+On the other side of the *x*-axis, we see three papers that lie only slightly below the *x*-axis. Two of these papers aim to understand LLMs using approaches that are usually applied to people. Blanchard and Mohammed ([2024](/article/10.1007/s40593-025-00483-9#ref-CR8). green square) show that LLMs often show inconsistency in their cultural personality and that might affect the effectiveness of using these tools in educational domains. Additionally, Karumbaiah et al. ([2024](/article/10.1007/s40593-025-00483-9#ref-CR34), green diamond) use a novel methodology to evaluate pre-trained LLMs in pedagogical contexts by analyzing their behavior in terms of stakeholders’ expectations for how they need to behave in downstream tasks. There is a noteworthy pattern here. Due to the flexibility of these models in understanding and generating natural language, they come closer to mimicking—or rather, *appearing* to mimic—human behavior. As such, AIED might need to evaluate these tools as cognitive agents using behavioral science methods that were previously reserved for studying humans (Frank, [2023](/article/10.1007/s40593-025-00483-9#ref-CR23); Binz & Schulz, [2023](/article/10.1007/s40593-025-00483-9#ref-CR6); Hagendorff et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR25)). We will elaborate on the implications of this in the next section. The third paper that is slightly below the *x*-axis examines how the zone of proximal development can be modeled using the uncertainty in a predictive model (Schulze Bernd & Chounta, [2024](/article/10.1007/s40593-025-00483-9#ref-CR67)). On the one hand, this work relies upon the same kind of predictive modeling common in work that fits in the upper left quadrant; on the other hand, its attempt to bridge between machine learning models and a theoretical construct in human learning aligns with the bottom left quadrant.
+
+In Section “[AIED in the Age of Generative AI](/article/10.1007/s40593-025-00483-9#Sec18)”, we will contend that this increase in the number of papers on the bottom half is not incidental, and might be indicative of a feature of LLMs that might open up new avenues of research where AI is seen as an analogy to human intelligence.
+
+#### Educators as Prominent Stakeholders
+
+As shown in Fig. [2](/article/10.1007/s40593-025-00483-9#Fig2)g, the number of papers in the middle of the *x*-axis has increased. Specifically, more papers lie in the middle top cluster. This might be explained by the percentage of papers that use LLMs in this cluster (60%). We find that in AIED 2024, there is a noticeable number of papers that develop AI tools for educators and other educational practitioners. For instance, we see efforts in developing chatbots for teachers to help them diagnose their students’ problem behavior (Chen et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR15)), LLM-based tools to determine the quality of educational tests (Rodrigues et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR63)), and LLMs that facilitate the process of teaching-to-the-curriculum for teachers (Li et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR43)).
+
+AIED in the Age of Generative AI
+--------------------------------
+
+As discussed in Section “[Proceedings of AIED 2024](/article/10.1007/s40593-025-00483-9#Sec14)”, AIED researchers have shown enthusiasm for using generative AI applications in their work. Indeed, we saw that work on generative AI can span all four quadrants of AI\(\times \)Ed. However, this enthusiasm comes with caveats. One of the challenges that AIED faces is the lack of structured systematic approaches to evaluate the affordances and limitations of current LLMs in education. For instance, only a few papers in the proceedings of AIED 2024 tried to benchmark existing AI models in authentic educational tasks (e.g., Sonkar et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR72)).
+
+On the other hand, despite these challenges, integrating technology into educational domains can be seen as an opportunity to shed light on the process of learning in humans. That was the case with ITSs a decade ago when researchers attempted to understand the differences between human tutors and intelligent tutoring systems leading to interesting discoveries and discussions over the nature of tutoring and its importance (e.g., VanLehn, [2011](/article/10.1007/s40593-025-00483-9#ref-CR77) discusses what makes tutoring effective by comparing human tutors to different types of ITSs). We claim that this can be the case with LLMs as well, where these models can help us better understand human intelligence and learning mechanisms. In this section, we focus on the two points mentioned above as opportunities for AIED to cultivate new directions in the bottom half of AI\(\times \)Ed. We acknowledge that in pursuing any of the directions we highlight below, researchers should be aware of the various methodological and ethical limitations of using LLMs (especially black box proprietary models) in education and research (see e.g., Selwyn, [2024](/article/10.1007/s40593-025-00483-9#ref-CR68); Holmes & Zhgenti, [2024](/article/10.1007/s40593-025-00483-9#ref-CR26)). While we do not wish to take these issues lightly, we do not focus on them here as they go beyond the scope of this paper.
+
+### Human-Inspired Evaluation of LLMs in Education
+
+Consider the case of dropout prediction as a recent problem tackled by work in AIED (Del Bonifro et al., [2020](/article/10.1007/s40593-025-00483-9#ref-CR19); Pereira et al., [2019](/article/10.1007/s40593-025-00483-9#ref-CR58)). In these problems, researchers have used technical measures such as accuracy or F1-score to determine the performance of their proposed AI models. The question is whether such techniques suffice to evaluate LLMs that are highly flexible in their tasks. This issue was raised by Karumbaiah et al. ([2024](/article/10.1007/s40593-025-00483-9#ref-CR34)), who proposed using behavior analysis to evaluate how closely LLMs address the downstream needs of stakeholders. Tack and Piech ([2022](/article/10.1007/s40593-025-00483-9#ref-CR73)) took a similar approach to designing an AI teacher test for evaluating how well an LLM tutor really performs in terms of pedagogical ability compared to what we would expect from human tutors. While Karumbaiah et al. ([2024](/article/10.1007/s40593-025-00483-9#ref-CR34)) used automated methods, Tack and Piech ([2022](/article/10.1007/s40593-025-00483-9#ref-CR73)) relied on human evaluations of dialogue. In designing their LearnLM tutor, researchers from Google (Jurenka et al., [2024](/article/10.1007/s40593-025-00483-9#ref-CR31)) proposed an approach similar to that of Tack and Piech ([2022](/article/10.1007/s40593-025-00483-9#ref-CR73)) but with more dimensions to capture the richness of pedagogy; they proposed both human evaluations and automated methods to evaluate different aspects of their tutor.
+
+Although experimental studies on students’ learning outcomes can be effective tools for understanding the practical impact of an AI-based tool, they are usually costly, time-consuming, and inefficient. AIED research can seek systematic approaches to understand how an LLM-based tool might work before using it in practice.
+
+Determining the performance of an AI model in multi-turn dialogues can be challenging as it still is an open question in AI research (Ma et al., [2024a](/article/10.1007/s40593-025-00483-9#ref-CR45)). Requiring human evaluation of dialogue can be costly and may not cover behaviors that show up infrequently or only after many turns of dialog with a real student. However, AIED researchers can leverage well-known methodologies that can help evaluate AI tutors. For instance, student models (VanLehn, [2013](/article/10.1007/s40593-025-00483-9#ref-CR78)) and simulated students (Käser & Alexandron, [2024](/article/10.1007/s40593-025-00483-9#ref-CR35)) can be instrumental in evaluating AI-based tutors. With inspiration from human intelligence, AI models can role-play students’ learning processes to evaluate how a tutor can teach a student. As a concrete example, we can think of LLM-based math tutors (e.g., Khan Academy’s Khanmigo). There are many aspects to teaching math, and the variability in the performance of the models and the diversity of the ways in which students learn and think can make the evaluation of these math tutors challenging. For instance, what happens if a student with a specific math misconception (Ojose, [2015](/article/10.1007/s40593-025-00483-9#ref-CR52)) tackles a fraction problem? Does the model address the students’ misconceptions with additional explanations (similar to an expert tutor) or not? What happens if a student gets stuck at a particular stage of problem-solving? Will the model provide answers or only keep asking more questions? How often does the AI generate mathematical mistakes given their suboptimal performance in mathematical reasoning (Cherian et al., [2023](/article/10.1007/s40593-025-00483-9#ref-CR16))?
+
+We do not mention these questions to criticize AI tutors, but rather, we think that these types of questions are common and can be asked from most learner-facing AIED tools. These questions can be answered by human-inspired evaluation techniques that AIED researchers develop in the future.
+
+### Learning About Human Learners Using LLMs
+
+Our discussion of evaluating LLMs focused on applying methods that might traditionally be applied to people to evaluate the behavior of LLMs. Here, we consider what might be called the converse: how studying LLMs can give us insight into human intelligence. We have not seen examples of this in the AIED 2024 proceedings. In fact, one could argue this style of work is operating on a flawed assumption because LLMs are not like humans, so treating them as such would only mislead us. We agree that LLMs are very different from human intelligence, but we do not think this should prevent us from studying them as models that could give us insight into human intelligence—provided that we remain cautious about the assumptions and limitations of this approach. For example, on the one hand, perhaps we can learn about how children learn from dialogue by studying the *differences* between human and LLM language learning. On the other hand, studying certain properties of LLMs could generate novel hypotheses or provide a novel form of evidence for existing hypotheses on human learning. For example, we could use LLMs to simulate sophisticated learning agents that interact in various ways to get a sense for how learning takes place in complex social contexts. This work could take inspiration from existing work on social simulations of LLMs (Park et al., [2023](/article/10.1007/s40593-025-00483-9#ref-CR57)). In such work—as with work on social simulation more generally—each individual agent may not need to be high-fidelity replica of humans in order to gain insight on emerging trends. These are just a few examples of the kind of work that could be done, but we suspect researchers could come up with many other creative and generative ways of using LLMs to study human learning, so long as the AIED community is willing to return to thinking about AI as an analogy to human intelligence.
+
+Envisioning the Future Beyond Generative AI
+-------------------------------------------
+
+When examining the current state of the AIED community from the lens of AI\(\times \)Ed, we notice that a large swath of potential research at the intersection of AI and education—namely research in the bottom half of AI\(\times \)Ed—has been largely absent from the current discourse on AI in education. However, this kind of research was popular in the early days of AIED. We contend that AI has more to offer education than simply a tool that can be pragmatically applied like it is in any other field. In the previous section, we discussed some possibilities around generative AI in education. Here we articulate other ways that the AIED community might reinvigorate research in the bottom half of AI\(\times \)Ed drawing on recent strands of work that go beyond (but at times still intersect with) generative AI. We do not claim these are necessarily the most productive routes, but they may help set a research agenda for AIED’s future that is more expansive about the role that AI plays in education.
+
+### AI Literacy
+
+Proposing AI curricula for educating students has been one of the categories of research articles in the early stages of the AIED community but only recently has it gained renewed attention; as shown by Ng et al. ([2021](/article/10.1007/s40593-025-00483-9#ref-CR50)), the number of published AI literacy articles has increased sharply during recent years. We contend that recent work in AI literacy has almost exclusively focused on the top right quadrant (i.e., teaching AI toward pragmatic ends), whereas earlier work also extended to the bottom right quadrant (i.e., teaching AI to encourage students to reflect on how they learn). Reinvigorating this latter strand of work could push AI literacy research in new directions. We discuss elsewhere how learning about different kinds of AI (from computational models of learning to deep learning and large language models) might foster metacognitive reflection on one’s own ability to learn (Ojeda-Ramirez et al., [2023](/article/10.1007/s40593-025-00483-9#ref-CR51))—but experimental work is needed to test this idea.
+
+A key area of AI literacy is teaching students about AI ethics, including topics such as fairness, transparency, and safety (Long & Magerko, [2020](/article/10.1007/s40593-025-00483-9#ref-CR44)). Learning about the ethics of applying certain AI tools in society or learning techniques for improving the fairness of AI would fit under the top right quadrant. However, students can also use AI ethics as an opportunity to revisit fundamental questions about humanity that researchers have been asking for decades (bottom right quadrant). For instance, self-driving cars have led to a renewed interest in the trolley problem in philosophy (Awad et al., [2018](/article/10.1007/s40593-025-00483-9#ref-CR3)). The need to answer such questions in order to design ethical self-driving cars is now inevitable. Relatedly, a discussion of algorithmic bias could deal with the similarities between algorithmic bias and human cognitive biases (Johnson, [2021](/article/10.1007/s40593-025-00483-9#ref-CR30)) and what our understanding of unfair AI says about ourselves.
+
+Generative AI opens up new challenges and opportunities for AI literacy in both the upper and bottom right quadrants. In the upper right quadrant, there is a need for students to develop generative AI literacy—perhaps a greater need than AI literacy, given the prevalence and ease with which students can access and use these tools for various purposes. Generative AI literacy is also important for educators who need to decide whether and how to use generative AI in the classroom—and whether and how their students might be using such tools. In the bottom half, generative AI presents new opportunities for students to learn about thinking and learning by engaging with generative AI microworlds (Ojeda-Ramirez et al., [2023](/article/10.1007/s40593-025-00483-9#ref-CR51)). For example, students could try to teach LLM-based chatbots new things and exhibit what they learn (and do not learn)—and engage in reflective activities where they compare their own learning to that of the chatbot. In this sense, generative AI teachable agents might be designed to simultaneously help students learn particular content knowledge, develop generative AI literacy (i.e., learning more about the limitations of generative AI), and learn something about themselves as learners and thinkers!
+
+### Machine Teaching Applications to Education
+
+Machine teaching studies the inverse problem of machine learning, which has recently garnered attention among computer science researchers to primarily address the difficulty in implementing machine learning algorithms (Simard et al., [2017](/article/10.1007/s40593-025-00483-9#ref-CR70)). As illustrated by Zhu et al., machine teaching could also be used as a method to enhance teaching individual learners in the field of education (Zhu et al., [2018](/article/10.1007/s40593-025-00483-9#ref-CR83)). For example, Sen et al. ([2018](/article/10.1007/s40593-025-00483-9#ref-CR69)) have employed machine teaching methods to try to optimally sequence visual representations of molecules in chemistry education and have shown that their approach beats human experts in the chemistry field (Sen et al., [2018](/article/10.1007/s40593-025-00483-9#ref-CR69)). Although these techniques may suffer from using oversimplified learner models, further research on machine teaching methods could inform teaching techniques used by individual teachers as contended by Zhu et al. ([2018](/article/10.1007/s40593-025-00483-9#ref-CR83)). In that case, investigating the algorithms used by machines could enhance human teaching strategies by finding the analogies between AI and HI.
+
+### Agent-Based Models and Complex Systems Methodology
+
+We contend that two reasons why computational models of human learning have gone out of favor in AIED are that (1) AI techniques have moved away from rule-based systems to data-driven AI and (2) over the past few decades many education researchers have turned to learning theories that suggest learning is too complex to be described by simple rule-based cognitive systems. Recently, there has been a call toward complex systems methodology in education research (Jacobson & Wilensky, [2006](/article/10.1007/s40593-025-00483-9#ref-CR28)). Agent-based modeling is a particular complex systems method that could be used to simulate learning in a more bottom-up fashion. This may help bridge the divide between contemporary theories of learning and the insights that computational modeling might provide (Baker, [2000](/article/10.1007/s40593-025-00483-9#ref-CR4)); for example, we have developed an agent-based model for the ICAP framework (Rismanchian & Doroudi, [2023a](/article/10.1007/s40593-025-00483-9#ref-CR61)). (Once again, Papert had long ago advocated for the use of agent-based models for theorizing about how kids learn (Papert, [1980](/article/10.1007/s40593-025-00483-9#ref-CR54)).) Beyond benefiting researchers (bottom left quadrant), we contend that agent-based models of learning could also be used to teach learners about the complex nature of learning (bottom right quadrant), building on the importance of teaching children about complex systems (Jacobson & Wilensky, [2006](/article/10.1007/s40593-025-00483-9#ref-CR28)).
+
+Limitations
+-----------
+
+Perhaps the most salient limitation of our work is that our method for locating papers in AI\(\times \)Ed is not systematic, as the two authors collaboratively decided on the categorization of papers. This approach presents two key limitations. First, it may affect the accuracy of our classifications—some papers might have been miscategorized. However, we approached each classification with careful scrutiny, and we believe the overall message of our work remains intact. Second, our method makes it difficult to scale AI\(\times \)Ed for analyzing emerging trends, as there is currently no data-driven or automated process for categorizing papers within the framework. To address these limitations, we have made our dataset publicly available as supplementary material so that other researchers can engage with our coding and use it as a reference for future applications of AI\(\times \)Ed in their own work. Finally, we note that the framework may not be rich enough to capture all work in AIED or some work may be very difficult to situate in either or both axes. If this is the case, future work that surfaces such examples would be useful to help us refine our understanding of the relationships between AI and education.
+
+Conclusion
+----------
+
+In this paper, we extended our work on AI\(\times \)Ed (Rismanchian & Doroudi, [2023a](/article/10.1007/s40593-025-00483-9#ref-CR61)), a novel framework to use as a lens to view the relationships between artificial intelligence and education and to better understand how AIED as a field has moved forward over the last four decades. As stated in IJAIED’s current submission guidelines[Footnote 2](#Fn2), “AI is much more than a collection of techniques and concepts. It is a rather complex methodology (or set of methodologies) concerned with issues many of which (such as the nature of knowledge and learning) are intrinsically related to education.” However, we see that such an approach to the interaction of AI and education has unfortunately declined over the past two decades. With the recent emergence of generative AI, we see that perhaps there is growing recognition of AI as an analogy to human intelligence, which may push the field of AIED to return to its conceptual roots.
+
+As we look toward the future, it is tempting to think about how technological advances in AI (e.g., deep learning and large language models) and the increasing ubiquity and computational power of technology will change education. But as we argue here, it is worth taking a step back to better understand the kinds of relationships that AI can have and *has had* with education. The future of AIED may look different if we reinvigorate the emphasis on AI as an analogy to human intelligence. We hope the AI\(\times \)Ed framework is a useful tool for thinking about how we can combine some of the early theoretical and conceptual advances of the AIED community with the technological advances of our times.
+
+
+
+Data Availability
+-----------------
+
+Our research data includes the papers published in the proceedings of the AIED conference in the years 1985, 1993, 2021, and 2024, as well as papers published in IJAIED in 2004, 2014, and 2021. We used these papers to research the evolution of AIED’s research agenda as a society from the lens of our framework. We located each paper in the AIxEd framework as described in the Methods section of our manuscript. For replicability, we have provided full data access to the titles of the papers as categorized in our framework here: <https://sinaris76.github.io/AIxEd/>. We have also provided our categorization of papers as a .csv file in the supplementary materials.
+
+Notes
+-----
+
+1. We believe the special issues in 2014, which were dedicated to Erica Melis, actually make that year’s IJAIED volume a useful case study. One of the special issues presents papers with novel and emerging educational technologies and the other presents papers on landmark AIED systems.
+2. <https://iaied.org/news/3R8ZnlVPhK08KwUy4s8sKm>
+
+References
+----------
+
+* Anderson, J. R., Boyle, C. F., Corbett, A. T., & Lewis, M. W. (1990). Cognitive modeling and intelligent tutoring. *Artificial Intelligence,* *42*(1), 7–49.
+  
+  [Article](https://doi.org/10.1016%2F0004-3702%2890%2990093-F) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cognitive%20modeling%20and%20intelligent%20tutoring&journal=Artificial%20Intelligence&doi=10.1016%2F0004-3702%2890%2990093-F&volume=42&issue=1&pages=7-49&publication_year=1990&author=Anderson%2CJR&author=Boyle%2CCF&author=Corbett%2CAT&author=Lewis%2CMW)
+* Anderson, J. R., & Lebiere, C. J. (2014). *The atomic components of thought*. Psychology Press.
+  
+  [Book](https://doi.org/10.4324%2F9781315805696) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20atomic%20components%20of%20thought&doi=10.4324%2F9781315805696&publication_year=2014&author=Anderson%2CJR&author=Lebiere%2CCJ)
+* Awad, E., Dsouza, S., Kim, R., Schulz, J., Henrich, J., Shariff, A., Bonnefon, J.-F., & Rahwan, I. (2018). The moral machine experiment. *Nature,* *563*(7729), 59–64.
+  
+  [Article](https://doi.org/10.1038%2Fs41586-018-0637-6) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20moral%20machine%20experiment&journal=Nature&doi=10.1038%2Fs41586-018-0637-6&volume=563&issue=7729&pages=59-64&publication_year=2018&author=Awad%2CE&author=Dsouza%2CS&author=Kim%2CR&author=Schulz%2CJ&author=Henrich%2CJ&author=Shariff%2CA&author=Bonnefon%2CJ-F&author=Rahwan%2CI)
+* Baker, M. J. (2000). The roles of models in Artificial Intelligence and Education research: a prospective view. *International Journal of Artificial Intelligence in Education,* *11*, 122–143.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20roles%20of%20models%20in%20Artificial%20Intelligence%20and%20Education%20research%3A%20a%20prospective%20view&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&volume=11&pages=122-143&publication_year=2000&author=Baker%2CMJ)
+* Barany, A., Nasiar, N., Porter, C., Zambrano, A. F., Andres, A. L., Bright, D., Shah, M., Liu, X., Gao, S., Zhang, J., et al. (2024). ChatGPT for education research: Exploring the potential of large language models for qualitative codebook development. In *International Conference on Artificial Intelligence in Education*, (pp. 134–149). Springer.
+* Binz, M., & Schulz, E. (2023). *Turning large language models into cognitive models*. [arXiv:2306.03917](http://arxiv.org/abs/2306.03917).
+* Blair, K., Schwartz, D. L., Biswas, G., & Leelawong, K. (2007). Pedagogical agents for learning by teaching: Teachable agents. *Educational Technology*, 56–61.
+* Blanchard, E. G., & Mohammed, P. (2024). On cultural intelligence in LLM-based chatbots: Implications for artificial intelligence in education. In *International Conference on Artificial Intelligence in Education*, (pp. 439–453). Springer.
+* Brna, P., Ohlsson, S., & Pain, H. (1993). *Proceedings of AI-ED 93 World Conference on Artificial Intelligence in Education*. AACE.
+* Brophy, S., Biswas, G., Katzlberger, T., Bransford, J., & Schwartz, D. (1999). Teachable agents: Combining insights from learning theory and computer science. In *Artificial Intelligence in Education*, (vol. 50, pp. 21–28). IOS Press.
+* Bull, S. (2004). Supporting learning with open learner models. *Planning,* *29*(14), 1.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Supporting%20learning%20with%20open%20learner%20models&journal=Planning&volume=29&issue=14&publication_year=2004&author=Bull%2CS)
+* Carley, K. (1985). Knowledge acquisition as a social phenomenon. In M. Yazdani & R. Lawler (Eds.), *2nd International Conference on Artificial Intelligence and Education* (pp. 27–29). University of Exeter.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Knowledge%20acquisition%20as%20a%20social%20phenomenon&pages=27-29&publication_year=1985&author=Carley%2CK)
+* Carley, K. (1986). Knowledge acquisition as a social phenomenon. *Instructional Science,* *14*, 381–438.
+  
+  [Article](https://link.springer.com/doi/10.1007/BF00051829) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Knowledge%20acquisition%20as%20a%20social%20phenomenon&journal=Instructional%20Science&doi=10.1007%2FBF00051829&volume=14&pages=381-438&publication_year=1986&author=Carley%2CK)
+* Cassenti, D. N., Veksler, V. D., & Ritter, F. E. (2022). Editor’s review and introduction: Cognition-inspired artificial intelligence. *Topics in Cognitive Science,* *14*(4), 652–664.
+  
+  [Article](https://doi.org/10.1111%2Ftops.12622) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Editor%E2%80%99s%20review%20and%20introduction%3A%20Cognition-inspired%20artificial%20intelligence&journal=Topics%20in%20Cognitive%20Science&doi=10.1111%2Ftops.12622&volume=14&issue=4&pages=652-664&publication_year=2022&author=Cassenti%2CDN&author=Veksler%2CVD&author=Ritter%2CFE)
+* Chen, P., Fan, Z., Lu, Y., & Xu, Q. (2024). PBChat: Enhance student’s problem behavior diagnosis with large language model. In *International Conference on Artificial Intelligence in Education*, (pp. 32–45). Springer.
+* Cherian, A., Peng, K.-C., Lohit, S., Smith, K. A., & Tenenbaum, J. B. (2023). Are deep neural networks smarter than second graders? In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, (pp. 10834–10844).
+* Conati, C. (2010). Bayesian student modeling. *Advances in Intelligent Tutoring Systems*, 281–299.
+* Corbett, A. T., & Anderson, J. R. (1994). Knowledge tracing: Modeling the acquisition of procedural knowledge. *User Modeling and User-Adapted Interaction,* *4*, 253–278.
+  
+  [Article](https://link.springer.com/doi/10.1007/BF01099821) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Knowledge%20tracing%3A%20Modeling%20the%20acquisition%20of%20procedural%20knowledge&journal=User%20Modeling%20and%20User-Adapted%20Interaction&doi=10.1007%2FBF01099821&volume=4&pages=253-278&publication_year=1994&author=Corbett%2CAT&author=Anderson%2CJR)
+* Del Bonifro, F., Gabbrielli, M., Lisanti, G., & Zingaro, S. P. (2020). Student dropout prediction. In *Artificial Intelligence in Education: 21st International Conference*, AIED 2020, Ifrane, Morocco, July 6–10, 2020, Proceedings, Part I 21, (pp. 129–140). Springer.
+* Doroudi, S. (2020). The bias-variance tradeoff: How data science can inform educational debates. *AERA Open,* *6*(4), 2332858420977208.
+  
+  [Article](https://doi.org/10.1177%2F2332858420977208) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20bias-variance%20tradeoff%3A%20How%20data%20science%20can%20inform%20educational%20debates&journal=AERA%20Open&doi=10.1177%2F2332858420977208&volume=6&issue=4&publication_year=2020&author=Doroudi%2CS)
+* Doroudi, S. (2022). The intertwined histories of artificial intelligence and education. *International Journal of Artificial Intelligence in Education*, 1–44.
+* Doroudi, S., & Rastegar, S. A. (2023). The bias-variance tradeoff in cognitive science. *Cognitive Science,* *47*(1), Article e13241.
+  
+  [Article](https://doi.org/10.1111%2Fcogs.13241) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20bias-variance%20tradeoff%20in%20cognitive%20science&journal=Cognitive%20Science&doi=10.1111%2Fcogs.13241&volume=47&issue=1&publication_year=2023&author=Doroudi%2CS&author=Rastegar%2CSA)
+* Frank, M. C. (2023). *Large language models as models of human cognition*.
+* Groen, G. J. (1985). The epistemics of computer based Microworlds. In M. Yazdani & R. Lawler (Eds.), *2nd International Conference on Artificial Intelligence and Education* (pp. 49–50). University of Exeter.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20epistemics%20of%20computer%20based%20Microworlds&pages=49-50&publication_year=1985&author=Groen%2CGJ)
+* Hagendorff, T., Dasgupta, I., Binz, M., Chan, S. C. Y., Lampinen, A., Wang, J. X., Akata, Z., & Schulz, E. (2024). *Machine psychology*.
+* Holmes, W., & Zhgenti, S. (2024). Exploring the ethics of generative AI, education, and democracy. *Journal of Artificial Intelligence for Sustainable Development,* *1*(1), 1–9.
+  
+  [Article](https://doi.org/10.69828%2F4d4kqf) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Exploring%20the%20ethics%20of%20generative%20AI%2C%20education%2C%20and%20democracy&journal=Journal%20of%20Artificial%20Intelligence%20for%20Sustainable%20Development&doi=10.69828%2F4d4kqf&volume=1&issue=1&pages=1-9&publication_year=2024&author=Holmes%2CW&author=Zhgenti%2CS)
+* Hoyles, C. (1993). Microworlds/schoolworlds: The transformation of an innovation. In C. Keitel & K. Ruthven (Eds.), *Learning from Computers: Mathematics Education and Technology* (pp. 1–17). Springer.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Microworlds%2Fschoolworlds%3A%20The%20transformation%20of%20an%20innovation&pages=1-17&publication_year=1993&author=Hoyles%2CC)
+* Jacobson, M. J., & Wilensky, U. (2006). Complex systems in education: Scientific and educational importance and implications for the learning sciences. *The Journal of the Learning Sciences,* *15*(1), 11–34.
+  
+  [Article](https://doi.org/10.1207%2Fs15327809jls1501_4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Complex%20systems%20in%20education%3A%20Scientific%20and%20educational%20importance%20and%20implications%20for%20the%20learning%20sciences&journal=The%20Journal%20of%20the%20Learning%20Sciences&doi=10.1207%2Fs15327809jls1501_4&volume=15&issue=1&pages=11-34&publication_year=2006&author=Jacobson%2CMJ&author=Wilensky%2CU)
+* Jin, H., Lee, S., Shin, H., & Kim, J. (2024). Teach AI how to code: Using large language models as teachable agents for programming education. In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems*, volume 652 of CHI ’24, (pp. 1–28).
+* Johnson, G. M. (2021). Algorithmic bias: on the implicit biases of social technology. *Synthese,* *198*(10), 9941–9961.
+  
+  [Article](https://link.springer.com/doi/10.1007/s11229-020-02696-y) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Algorithmic%20bias%3A%20on%20the%20implicit%20biases%20of%20social%20technology&journal=Synthese&doi=10.1007%2Fs11229-020-02696-y&volume=198&issue=10&pages=9941-9961&publication_year=2021&author=Johnson%2CGM)
+* Jurenka, I., Kunesch, M., McKee, K. R., Gillick, D., Zhu, S., Wiltberger, S., Phal, S. M., Hermann, K., Kasenberg, D., Bhoopchand, A., et al. (2024). *Towards responsible development of generative AI for education: An evaluation-driven approach*. [arXiv:2407.12687](http://arxiv.org/abs/2407.12687).
+* Kahn, K. (1977). Three interactions between AI and education. *Machine Intelligence,* *8*, 422–429.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Three%20interactions%20between%20AI%20and%20education&journal=Machine%20Intelligence&volume=8&pages=422-429&publication_year=1977&author=Kahn%2CK)
+* Kareev, Y., & Avrahami, J. (1985). Teaching children AI. In M. Yazdani & R. Lawler (Eds.), *2nd International Conference on Artificial Intelligence and Education* (pp. 64–66). University of Exeter.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teaching%20children%20AI&pages=64-66&publication_year=1985&author=Kareev%2CY&author=Avrahami%2CJ)
+* Karumbaiah, S., Ganesh, A., Bharadwaj, A., & Anderson, L. (2024). Evaluating behaviors of general purpose language models in a pedagogical context. In *International Conference on Artificial Intelligence in Education*, (pp. 47–61). Springer.
+* Käser, T., & Alexandron, G. (2024). Simulated learners in educational technology: A systematic literature review and a Turing-like test. *International Journal of Artificial Intelligence in Education,* *34*(2), 545–585.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40593-023-00337-2) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Simulated%20learners%20in%20educational%20technology%3A%20A%20systematic%20literature%20review%20and%20a%20Turing-like%20test&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.1007%2Fs40593-023-00337-2&volume=34&issue=2&pages=545-585&publication_year=2024&author=K%C3%A4ser%2CT&author=Alexandron%2CG)
+* Käser, T., & Schwartz, D. L. (2020). Modeling and analyzing inquiry strategies in open-ended learning environments. *International Journal of Artificial Intelligence in Education,* *30*(3), 504–535.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40593-020-00199-y) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Modeling%20and%20analyzing%20inquiry%20strategies%20in%20open-ended%20learning%20environments&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.1007%2Fs40593-020-00199-y&volume=30&issue=3&pages=504-535&publication_year=2020&author=K%C3%A4ser%2CT&author=Schwartz%2CDL)
+* Kay, J. (1997). Learner know thyself: Student models to give learner control and responsibility. In *Proceedings of International Conference on Computers in Education*, (pp. 17–24).
+* Kent, C., Chaudhry, M. A., Cukurova, M., Bashir, I., Pickard, H., Jenkins, C., du Boulay, B., Moeini, A., & Luckin, R. (2021). Machine learning models and their development process as learning affordances for humans. In *AIED 2021. LNCS (LNAI)*, (vol. 12748, pp. 228–240). Springer.
+* Khachatryan, G. A., Romashov, A. V., Khachatryan, A. R., Gaudino, S. J., Khachatryan, J. M., Guarian, K. R., & Yufa, N. V. (2014). Reasoning Mind Genie 2: An intelligent tutoring system as a vehicle for international transfer of instructional methods in mathematics. *International Journal of Artificial Intelligence in Education,* *24*(3), 333–382.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40593-014-0019-7) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Reasoning%20Mind%20Genie%202%3A%20An%20intelligent%20tutoring%20system%20as%20a%20vehicle%20for%20international%20transfer%20of%20instructional%20methods%20in%20mathematics&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.1007%2Fs40593-014-0019-7&volume=24&issue=3&pages=333-382&publication_year=2014&author=Khachatryan%2CGA&author=Romashov%2CAV&author=Khachatryan%2CAR&author=Gaudino%2CSJ&author=Khachatryan%2CJM&author=Guarian%2CKR&author=Yufa%2CNV)
+* Koedinger, K. R., & Anderson, J. R. (1993). Effective use of intelligent software in high school math classrooms. In *Proceedings of AI-ED 93 World Conference on Artificial Intelligence in Education*. AACE.
+* Koedinger, K. R., Brunskill, E., Baker, R. S., McLaughlin, E. A., & Stamper, J. (2013). New potentials for data-driven intelligent tutoring system development and optimization. *AI Magazine,* *34*(3), 27–41.
+  
+  [Article](https://doi.org/10.1609%2Faimag.v34i3.2484) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=New%20potentials%20for%20data-driven%20intelligent%20tutoring%20system%20development%20and%20optimization&journal=AI%20Magazine&doi=10.1609%2Faimag.v34i3.2484&volume=34&issue=3&pages=27-41&publication_year=2013&author=Koedinger%2CKR&author=Brunskill%2CE&author=Baker%2CRS&author=McLaughlin%2CEA&author=Stamper%2CJ)
+* Leelawong, K., & Biswas, G. (2008). Designing learning by teaching agents: The Betty’s Brain system. *International Journal of Artificial Intelligence in Education,* *18*(3), 181–208.
+  
+  [Article](https://doi.org/10.3233%2FIRG-2008-18%283%2902) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Designing%20learning%20by%20teaching%20agents%3A%20The%20Betty%E2%80%99s%20Brain%20system&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.3233%2FIRG-2008-18%283%2902&volume=18&issue=3&pages=181-208&publication_year=2008&author=Leelawong%2CK&author=Biswas%2CG)
+* Li, X., Henriksson, A., Duneld, M., Nouri, J., & Wu, Y. (2024). Supporting teaching-to-the-curriculum by linking diagnostic tests to curriculum goals: Using textbook content as context for retrieval-augmented generation with large language models. In *International Conference on Artificial Intelligence in Education*, (pp. 118–132). Springer.
+* Long, D., & Magerko, B. (2020). What is AI literacy? competencies and design considerations. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*, (pp. 1–16).
+* Ma, C., Zhang, J., Zhu, Z., Yang, C., Yang, Y., Jin, Y., Lan, Z., Kong, L., & He, J. (2024a). *Agentboard: An analytical evaluation board of multi-turn llm agents*.
+* Ma, Q., Shen, H., Koedinger, K., & Wu, S. T. (2024b). How to teach programming in the AI era? using llms as a teachable agent for debugging. In *International Conference on Artificial Intelligence in Education*, (pp. 265–279). Springer.
+* Markel, J. M., Opferman, S. G., Landay, J. A., & Piech, C. (2023). GPTeach: Interactive TA training with GPT-based students. In *Proceedings of the Tenth ACM Conference on Learning@Scale*, (pp. 226–236).
+* Matsuda, N., Yarzebinski, E., Keiser, V., Raizada, R., Stylianides, G. J., Cohen, W. W., & Koedinger, K. R. (2011). Learning by teaching SimStudent–an initial classroom baseline study comparing with cognitive tutor. In *AIED 2011. LNCS (LNAI)*, (vol. 6738, pp. 213–221). Springer.
+* Minsky, M., & Papert, S. (1971). *Artificial intelligence progress report*. MIT Artificial Intelligence Laboratory: Technical report.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20progress%20report&publication_year=1971&author=Minsky%2CM&author=Papert%2CS)
+* Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, M. S. (2021). Conceptualizing AI literacy: An exploratory review. *Computers and Education: Artificial Intelligence,* *2*, Article 100041.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Conceptualizing%20AI%20literacy%3A%20An%20exploratory%20review&journal=Computers%20and%20Education%3A%20Artificial%20Intelligence&volume=2&publication_year=2021&author=Ng%2CDTK&author=Leung%2CJKL&author=Chu%2CSKW&author=Qiao%2CMS)
+* Ojeda-Ramirez, S., Rismanchian, S., & Doroudi, S. (2023). *Learning about AI to learn about learning: Artificial intelligence as a tool for metacognitive reflection.*
+* Ojose, B. (2015). *Common misconceptions in mathematics: Strategies to correct them*. University Press of America.
+* Olney, A. M., Chounta, I.-A., Liu, Z., Santos, O. C., & Bittencourt, I. I. (2024). *Artificial Intelligence in Education: 25th International Conference*, AIED 2024, Recife, Brazil, July 8-12, 2024, Proceedings. Springer.
+* Papert, S. (1980). *Mindstorms: Children, computers, and powerful ideas*. Basic Books, Inc.
+* Papert, S. (1993). *The children’s machine: Rethinking school in the age of the computer.* Basic Books, Inc.
+* Papert, S. (2002). The turtle’s long slow trip: Macro-educological perspectives on Microworlds. *Journal of Educational Computing Research,* *27*(1), 7–27.
+  
+  [Article](https://doi.org/10.2190%2FXG11-B72E-JK04-K8TA) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20turtle%E2%80%99s%20long%20slow%20trip%3A%20Macro-educological%20perspectives%20on%20Microworlds&journal=Journal%20of%20Educational%20Computing%20Research&doi=10.2190%2FXG11-B72E-JK04-K8TA&volume=27&issue=1&pages=7-27&publication_year=2002&author=Papert%2CS)
+* Park, J. S., O’Brien, J., Cai, C. J., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). Generative agents: Interactive simulacra of human behavior. In *Proceedings of the 36th annual ACM Symposium on User Interface Software and Technology*, (pp. 1–22).
+* Pereira, F. D., Oliveira, E., Cristea, A., Fernandes, D., Silva, L., Aguiar, G., Alamri, A., & Alshehri, M. (2019). Early dropout prediction for programming courses supported by online judges. In *Artificial Intelligence in Education: 20th International Conference*, AIED 2019, Chicago, IL, USA, June 25-29, 2019, Proceedings, Part II 20, (pp. 67–72). Springer.
+* Porayska-Pomsta, K. (2016). AI as a methodology for supporting educational praxis and teacher metacognition. *International Journal of Artificial Intelligence in Education,* *26*, 679–700.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40593-016-0101-4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AI%20as%20a%20methodology%20for%20supporting%20educational%20praxis%20and%20teacher%20metacognition&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.1007%2Fs40593-016-0101-4&volume=26&pages=679-700&publication_year=2016&author=Porayska-Pomsta%2CK)
+* Porayska-Pomsta, K. & Holmes, W. (2022). *Toward ethical AIED*. [arXiv:2203.07067](http://arxiv.org/abs/2203.07067).
+* Rismanchian, S., & Doroudi, S. (2023a). A computational model for the ICAP framework: Exploring agent-based modeling as an AIED methodology. In *International Conference on Artificial Intelligence in Education*, (pp. 792–797). Springer.
+* Rismanchian, S., & Doroudi, S. (2023b). Four interactions between AI and education: Broadening our perspective on what AI can offer education. In *International Conference on Artificial Intelligence in Education*, (pp. 1–12). Springer.
+* Rodrigues, L., Pereira, F. D., Cabral, L., Ramalho, G., Gasevic, D., & Mello, R. F. (2024). Can GPT4 answer educational tests? empirical analysis of answer quality based on question complexity and difficulty. In *International Conference on Artificial Intelligence in Education*, (pp. 192–205). Springer.
+* Roll, I., McNamara, D., Sosnovsky, S., Luckin, R., & Dimitrova, V. (2021). *Artificial Intelligence in Education: 22nd International Conference, AIED 2021, Utrecht, The Netherlands, June 14–18, 2021, Proceedings*. Part I: Springer.
+  
+  [Book](https://link.springer.com/doi/10.1007/978-3-030-78292-4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20Intelligence%20in%20Education%3A%2022nd%20International%20Conference%2C%20AIED%202021%2C%20Utrecht%2C%20The%20Netherlands%2C%20June%2014%E2%80%9318%2C%202021%2C%20Proceedings&doi=10.1007%2F978-3-030-78292-4&publication_year=2021&author=Roll%2CI&author=McNamara%2CD&author=Sosnovsky%2CS&author=Luckin%2CR&author=Dimitrova%2CV)
+* Samurcay, R. (1985). Is the AI approach adequate to study how people gain complex knowledge? In M. Yazdani & R. Lawler (Eds.), *2nd International Conference on Artificial Intelligence and Education* (pp. 89–90). University of Exeter.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Is%20the%20AI%20approach%20adequate%20to%20study%20how%20people%20gain%20complex%20knowledge%3F&pages=89-90&publication_year=1985&author=Samurcay%2CR)
+* Schmucker, R., Xia, M., Azaria, A., & Mitchell, T. (2024). Ruffle & Riley: Insights from designing and evaluating a large language model-based conversational tutoring system. In *International Conference on Artificial Intelligence in Education*, (pp. 75–90). Springer.
+* Schulze Bernd, N., & Chounta, I.-A. (2024). Beyond the grey area: Exploring the effectiveness of scaffolding as a learning measure. In *International Conference on Artificial Intelligence in Education*, (pp. 365–378). Springer.
+* Selwyn, N. (2024). On the limits of artificial intelligence (AI) in education. *Nordisk Tidsskrift for Pedagogikk og Kritikk,* *10*(1), 3–14.
+  
+  [Article](https://doi.org/10.23865%2Fntpk.v10.6062) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=On%20the%20limits%20of%20artificial%20intelligence%20%28AI%29%20in%20education&journal=Nordisk%20Tidsskrift%20for%20Pedagogikk%20og%20Kritikk&doi=10.23865%2Fntpk.v10.6062&volume=10&issue=1&pages=3-14&publication_year=2024&author=Selwyn%2CN)
+* Sen, A., Patel, P., Rau, M. A., Mason, B., Nowak, R., Rogers, T. T., & Zhu, X. (2018). Machine beats human at sequencing visuals for perceptual-fluency practice. *International Educational Data Mining Society*.
+* Simard, P. Y., Amershi, S., Chickering, D. M., Pelton, A. E., Ghorashi, S., Meek, C., Ramos, G., Suh, J., Verwey, J., Wang, M., et al. (2017). *Machine teaching: A new paradigm for building machine learning systems*. [arXiv:1707.06742](http://arxiv.org/abs/1707.06742).
+* Sime, J.-A. (1993). Modelling a learner’s multiple models with Bayesian belief networks. In *Proceedings of AI-ED 93 World Conference on Artificial Intelligence in Education*, (pp. 426–432). AACE.
+* Sonkar, S., Ni, K., Tran Lu, L., Kincaid, K., Hutchinson, J. S., & Baraniuk, R. G. (2024). Automated long answer grading with RiceChem dataset. In *International Conference on Artificial Intelligence in Education*, (pp. 163–176). Springer.
+* Tack, A., & Piech, C. (2022). The AI teacher test: Measuring the pedagogical ability of blender and gpt-3 in educational dialogues. In *Proceedings of the 15th International Conference on Educational Data Mining*, (p. 522).
+* Uresti, J. A. R., & Du Boulay, B. (2004). Expertise, motivation and teaching in learning companion systems. *International Journal of Artificial Intelligence in Education,* *14*(2), 193–231.
+  
+  [Article](https://doi.org/10.3233%2FIRG-2004-14%282%2903) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Expertise%2C%20motivation%20and%20teaching%20in%20learning%20companion%20systems&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.3233%2FIRG-2004-14%282%2903&volume=14&issue=2&pages=193-231&publication_year=2004&author=Uresti%2CJAR&author=Boulay%2CB)
+* VanLehn, K. (1993a). Cascade: A simulation of human learning and its applications. In *Proceedings of AI-ED 93 World Conference on Artificial Intelligence in Education*. AACE.
+* VanLehn, K. (1993b). OLAE. progress toward a multi-activity, Bayesian student modeler. In *Proceedings of AI-ED 93 World Conference on Artificial Intelligence in Education*. AACE.
+* VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. *Educational Psychologist,* *46*(4), 197–221.
+  
+  [Article](https://doi.org/10.1080%2F00461520.2011.611369) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20relative%20effectiveness%20of%20human%20tutoring%2C%20intelligent%20tutoring%20systems%2C%20and%20other%20tutoring%20systems&journal=Educational%20Psychologist&doi=10.1080%2F00461520.2011.611369&volume=46&issue=4&pages=197-221&publication_year=2011&author=VanLehn%2CK)
+* VanLehn, K. (2013). Student modeling. *Foundations of Intelligent Tutoring Systems*, (pp. 55–78).
+* Winkels, R., & Breuker, J. (1993). Automatic generation of optimal learning routes. In *Proceedings of AI-ED 93 World Conference on Artificial Intelligence in Education*, (pp. 330–337). AACE.
+* Yan, L., Zhao, L., Echeverria, V., Jin, Y., Alfredo, R., Li, X., Gaševi’c, D., & Martinez-Maldonado, R. (2024). Vizchat: Enhancing learning analytics dashboards with contextualised explanations using multimodal generative AI chatbots. In *International Conference on Artificial Intelligence in Education*, (pp. 180–193). Springer.
+* Yazdani, M., & Lawler, R. (1985). *2nd International Conference on Artificial Intelligence and Education*. University of Exeter.
+* Zapata-Rivera, J.-D., & Greer, J. E. (2004). Interacting with inspectable Bayesian student models. *International Journal of Artificial Intelligence in Education,* *14*(2), 127–163.
+  
+  [Article](https://doi.org/10.3233%2FIRG-2004-14%282%2901) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interacting%20with%20inspectable%20Bayesian%20student%20models&journal=International%20Journal%20of%20Artificial%20Intelligence%20in%20Education&doi=10.3233%2FIRG-2004-14%282%2901&volume=14&issue=2&pages=127-163&publication_year=2004&author=Zapata-Rivera%2CJ-D&author=Greer%2CJE)
+* Zhu, X., Singla, A., Zilles, S., & Rafferty, A. N. (2018). *An overview of machine teaching*. [arXiv:1801.05927](http://arxiv.org/abs/1801.05927).
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s40593-025-00483-9?format=refman&flavour=references)
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. University of California, Irvine, Irvine, CA, 92697, USA
+   
+   Sina Rismanchian & Shayan Doroudi
+
+Authors
+
+1. Sina Rismanchian[View author publications](/search?sortBy=newestFirst&contributor=Sina%20Rismanchian)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Sina%20Rismanchian) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Sina%20Rismanchian%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Shayan Doroudi[View author publications](/search?sortBy=newestFirst&contributor=Shayan%20Doroudi)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Shayan%20Doroudi) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Shayan%20Doroudi%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+SR: Conceptualization, Writing - review & editing, Data collection, Investigation. SD: Conceptualization, Writing - review & editing, Data collection, Supervision, Investigation.
+
+### Corresponding author
+
+Correspondence to
+[Sina Rismanchian](mailto:srismanc@uci.edu).
+
+Ethics declarations
+-------------------
+
+### Competing interests
+
+The authors declare no competing interests.
+
+Additional information
+----------------------
+
+### Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=The%20Evolution%20of%20Research%20on%20AI%20and%20Education%20Across%20Four%20Decades%3A%20Insights%20from%20the%20AIxEd%20Framework&author=Sina%20Rismanchian%20et%20al&contentID=10.1007%2Fs40593-025-00483-9&copyright=The%20Author%28s%29&publication=1560-4292&publicationDate=2025-05-15&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+About this article
+------------------
+
+### Cite this article
+
+Rismanchian, S., Doroudi, S. The Evolution of Research on AI and Education Across Four Decades: Insights from the AIxEd Framework.
+*Int J Artif Intell Educ* **35**, 2797–2820 (2025). https://doi.org/10.1007/s40593-025-00483-9
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s40593-025-00483-9?format=refman&flavour=citation)
+
+* Accepted: 09 May 2025
+* Published: 15 May 2025
+* Version of record: 15 May 2025
+* Issue date: December 2025
+* DOI: https://doi.org/10.1007/s40593-025-00483-9
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Computational models of learning](/search?query=Computational%20models%20of%20learning&facet-discipline="Computer%20Science")
+* [Intelligent tutoring systems](/search?query=Intelligent%20tutoring%20systems&facet-discipline="Computer%20Science")
+* [AI literacy](/search?query=AI%20literacy&facet-discipline="Computer%20Science")
+* [Generative artificial intelligence](/search?query=Generative%20artificial%20intelligence&facet-discipline="Computer%20Science")
+* [Large language models](/search?query=Large%20language%20models&facet-discipline="Computer%20Science")
+
+
+
+
+Associated Content
+------------------
+
+Part of a collection:
+
+### [Best of AIED 2023](https://link.springer.com/collections/fghdhbacff)
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.66.192
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

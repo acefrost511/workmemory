@@ -1,0 +1,273 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S0360131525002416
+# Content Length: 23702 characters
+# Extracted at: 2026-04-04 11:07:46
+#============================================================
+
+Adaptive vs. planned metacognitive scaffolding for computational thinking: Evidence from generative AI-supported programming in elementary education - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131525002416&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131525002416)
+\* [Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002416)
+\* [Purchase PDF](/getaccess/pii/S0360131525002416/purchase)
+Search ScienceDirect
+## Article preview
+\* [Abstract](#preview-section-abstract)
+\* [Introduction](#preview-section-introduction)
+\* [Section snippets](#preview-section-snippets)
+\* [References (78)](#preview-section-references)
+\* [Cited by (3)](#preview-section-cited-by)
+[![](https://sciencedirect.elseviercdn.cn/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](/journal/computers-and-education)
+## [Computers & Education](/journal/computers-and-education)
+[Volume 241](/journal/computers-and-education/vol/241/suppl/C), February 2026, 105473
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00130-cov150h.gif)](/journal/computers-and-education/vol/241/suppl/C)
+# Adaptive vs. planned metacognitive scaffolding for computational thinking: Evidence from generative AI-supported programming in elementary education
+Author links open overlay panelJinfangLiua, YiZhanga, WeiLib, [QiyunWangc](/author/24588226800/qiyun-wang), PingxiuNiud, XueZhanga
+Show more
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525002416&orderBeanReset=true)
+## Highlights
+\* •
+AMS improves contextualized CT performance and solution complexity.
+\* •
+AMS lowers intrinsic cognitive load via just-in-time regulation.
+\* •
+PMS increases germane cognitive load through structured reflection.
+\* •
+Blending AMS (in-task) with PMS (post-task) personalizes CT learning.
+## Abstract
+Metacognitive scaffolding plays a pivotal role in supporting the development of computational thinking (CT) among elementary students. Compared to planned scaffolding, adaptive scaffolding supported by generative AI (GAI) agents offers a promising option by providing real–time, adaptive and personalized response. This study investigated how adaptive metacognitive scaffolding (AMS) and planned metacognitive scaffolding (PMS) influenced elementary students’ CT in a GAI–supported programming environment. 74 students were assigned to AMS, PMS, or control conditions. Using a mixed-methods approach, we examined CT task performance, CT skill use, metacognitive regulation, and cognitive load through standardized assessments, programming artifacts, discourse logs, video-coded behaviors, classroom observation records, cognitive load ratings. Results showed that AMS significantly enhanced contextualized CT performance and promoted more complex, diverse skill use compared to PMS and control groups. AMS also fostered more recursive metacognitive behaviors and reduced mental efforts, while PMS supported higher meaningful engagement. These findings highlight the potential of adaptive scaffolding powered by GAI to support CT development in elementary programming education.
+## Introduction
+The rise of generative AI (GAI), such as ChatGPT and other large language models (LLMs), plays a pivotal role in developing elementary students’ computational thinking (CT) (Yilmaz & Yilmaz, 2023). CT encompasses abilities such as decomposition, pattern recognition, abstraction, algorithmic design, and evaluation, which has been recognized as a foundational skill for addressing complex problems across academic and real-world domains (Israel-Fishelson & Hershkovitz, 2022). In response, CT has been increasingly integrated into K–12 education globally, often via visual programming platforms like Scratch, which aim to lower entry barriers for novice learners (Grover, 2021; Xu et al., 2023). Yet, many elementary students struggle to grasp abstract programming constructs—especially loops and conditionals—and frequently encounter difficulties in designing structured algorithmic solutions (Hsu & Gainsburg, 2021; Weintrop & Wilensky, 2019). Through natural language interaction, GAI agents can provide timely, adaptive, and personalized feedback, helping students understand abstract concepts and navigate ill-structured problems (Rahman & Watanobe, 2023). Recent studies report encouraging results from using GAI tools to assist novice programmers, including improved comprehension and enhanced CT skills (Hijón-Neira et al., 2024; Weng et al., 2024).
+However, concerns have emerged regarding potential overreliance on GAI-generated solutions (Rahman & Watanobe, 2023). Some argue that depending too heavily on automated feedback may undermine students’ active cognitive engagement and weaken their problem–solving abilities (Ifelebuegu et al., 2023; Memarian & Doleck, 2023). Elementary students, in particular, may lack the metacognitive strategies necessary to critically evaluate GAI responses or reflect on their own learning processes (Mosaiyebzadeh et al., 2023). These findings suggest that while GAI holds educational promise, its effectiveness depends on instructional supports that actively mitigate over-reliance risks (Li & Samah, 2025). Specifically, well-designed scaffolding should intervene by prompting students to reflect GAI-generated solutions and consciously regulate their problem-solving strategies (Avcı, 2024; Mittal et al., 2024). By embedding appropriate cognitive prompts and encouraging justification of answers, scaffolding helps students shift from passive reception of GAI outputs to active cognitive processing, thereby reducing the likelihood of disengagement from automation (Ba et al., 2025; Karaoglan Yilmaz & Yilmaz, 2025; Lee & Wu, 2025)—especially for younger learners with no prior experience (Chang et al., 2023).
+To address this challenge, researchers have increasingly emphasized the value of metacognitive scaffolding, which helps students regulate their thinking through planning, monitoring, and adjusting actions rather than passively accepting GAI outputs (Wu et al., 2025). Scaffolding mechanisms—such as prompting students to justify GAI-provided solutions or reflect on the reasoning process—are designed to activate students’ metacognition and foster strategic engagement during problem-solving tasks (Joksimovic et al., 2023; Urban et al., 2024), especially in programming contexts (Kim et al., 2022; Zhou et al., 2023). A key distinction in this domain lies between planned metacognitive scaffolding (PMS), which provides pre-set prompts in a uniform manner, and adaptive metacognitive scaffolding (AMS), which delivers personalized, real-time feedback tailored to learners’ ongoing needs (Saye & Brush, 2002). While PMS is easier to implement, its static nature may not sufficiently address students’ varying levels of reliance on GAI feedback. In contrast, AMS—especially when powered by GAI—can dynamically detect students’ problem-solving behaviors and deliver timely prompts that encourage deeper cognitive engagement, actively correcting tendencies toward passive acceptance (Al-Fattal, 2025; Sardi et al., 2025; Yan et al., 2025). The latest research suggests that integrating AMS with GAI agents may enhance college students’ deep learning by aligning support with learning trajectories (Wu et al., 2025).
+Despite this promise, most existing research on GAI and CT has focused on higher education or generalized outcomes (Crompton & Burke, 2023), with limited attention to how different scaffolding types function in elementary programming education (Liao et al., 2024; Xu et al., 2023). Aligned with the special issue, we frame this study within personalized learning—adapting instruction to individual learners’ needs, strengths, and interests—and conceptualize AMS as the in-situ mechanism that delivers such personalization in GAI-supported tasks.
+To address this gap, the present quasi-experimental study investigates the effects of adaptive and planned metacognitive scaffolding on elementary students’ CT learning in a visual programming environment (VPE) supported by GAI agents. The findings aim to inform the design of personalized instructional support systems and contribute new insights into how different types of scaffolding influence CT development in younger learners.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002416)
+## Section snippets
+## Literature review
+Research on CT in elementary VPEs has consistently documented difficulties with abstract control structures (e.g., loops, conditionals) and with coordinating multiple CT skills, underscoring the need for targeted metacognitive scaffolding that supports planning, monitoring, and adjusting. PMS offers structured, uniformly delivered routines that cultivate reflection and germane investment, yet its static timing and granularity limit responsiveness to learners’ moment-to-moment needs. In
+## GAI agents development and design
+To support students’ learning and regulation in the Scratch-based VPE, two GAI agents were developed and deployed: Conbot, a knowledge-based assistant for all learners, and Xiaotongbao, the AMS exclusively for the AMS group. Both agents were implemented on the Coze platform using the Dou Bao LLM and structured through a three-layer architecture (see Fig. 1).
+## Participants
+A total of 74 fifth-grade students (aged 9–11) from an elementary school in an urban area of mainland China participated in this study. The students were randomly assigned to one of three groups: AMS (15 boys, 13 girls), PMS (14 boys, 12 girls), and control groups (11 boys, 9 girls). Most participants had minimal or no prior experiences with Scratch and GAI interaction. To address this, all students completed two preparatory sessions before the formal intervention, during which they were
+## Results
+This section presents the results of data analyses conducted to examine the effects of adaptive and planned scaffolding on elementary students’ CT. The findings are reported according to the three target constructs identified in this study: CT task performance, CT skill use, and metacognitive regulation. These constructs were operationalized through a combination of standardized tests, behavioral coding, and network-based discourse analysis.
+## Discussion
+Anchored in H1–H3, this discussion contrasts AMS and PMS in a GAI-supported VPE across three outcome families—CT task performance, CT skill use, and metacognitive regulation (Table 6). In brief, the patterns align with our hypotheses: consistent with H1, AMS outperformed PMS on contextualized CT tasks (Bebras; open-ended goal attainment and program size) while showing no reliable advantage on the abstract CTt; consistent with H3, AMS reduced ICL during problem solving whereas PMS increased GCL
+## Conclusion
+This study investigated the differential effects of adaptive and planned metacognitive scaffolding on elementary students’ development of CT in a GAI–supported VPE. AMS yielded significant advantages on contextualized tasks (Bebras; open-ended goal attainment and program complexity) and reduced ICL during problem solving, whereas PMS increased GCL through structured reflection. Trends on CT skill integration favored AMS but were not statistically significant.
+Beyond outcomes, our GAI-supported
+## CRediT authorship contribution statement
+\*\*Jinfang Liu:\*\* Writing – original draft, Software, Methodology, Formal analysis, Data curation, Conceptualization. \*\*Yi Zhang:\*\* Writing – review & editing, Supervision, Project administration, Funding acquisition, Conceptualization. \*\*Wei Li:\*\* Writing – review & editing, Validation, Methodology. \*\*Qiyun Wang:\*\* Writing – review & editing. \*\*Pingxiu Niu:\*\* Software, Data curation. \*\*Xue Zhang:\*\* Software, Data curation.
+## Consent to participate
+The participants all agreed to take part in this study.
+## Ethical statement
+This study was approved by the Ethics Committee of Central China Normal University (CCNU-IRB-202405013b).
+## Consent for publication
+The publication of this study has been approved by all authors.
+## Funding
+This study was funded by the National Natural Science Foundation of China (Grant No. 72274076).
+## Acknowledgments
+We sincerely thank all the research assistants and participants who have contributed to this study.
+Recommended articles
+## References (78)
+\* R. Azevedo \*et al.\*
+### [Does adaptive scaffolding facilitate students' ability to regulate their learning with hypermedia?](/science/article/pii/S0361476X03000572)
+### Contemporary Educational Psychology
+(2004)
+\* P.Y. Chao
+### [Exploring students' computational practice, design and performance of problem-solving through a visual programming environment](/science/article/pii/S0360131516300161)
+### Computers & Education
+(2016)
+\* J. Chen \*et al.\*
+### [Generative AI-powered arts-based learning in middle school history: Impact on achievement, motivation, and cognitive load](/science/article/pii/S2772683524000451)
+### The Journal of Educational Research
+(2025)
+\* S. Joksimovic \*et al.\*
+### [Opportunities of artificial intelligence for supporting complex problem-solving: Findings from a scoping review](/science/article/pii/S2666920X23000176)
+### Computers and Education: Artificial Intelligence
+(2023)
+\* S.Y. Lye \*et al.\*
+### [Review on teaching and learning of computational thinking through programming: What is next for K-12?](/science/article/pii/S0747563214004634)
+### Computers in Human Behavior
+(2014)
+\* M. Román-González \*et al.\*
+### [Which cognitive abilities underlie computational thinking? Criterion validity of the computational thinking test](/science/article/pii/S0747563216306185)
+### Computers in Human Behavior
+(2017)
+\* V.J. Shute \*et al.\*
+### [Demystifying computational thinking](/science/article/pii/S1747938X17300350)
+### Educational Research Review
+(2017)
+\* M. Urban \*et al.\*
+### [ChatGPT improves creative problem-solving performance in university students: An experimental study](/science/article/pii/S0360131524000459)
+### Computers & Education
+(2024)
+\* A.V. Aho
+### Computation and computational thinking
+### The Computer Journal
+(2012)
+\* A. Al-Fattal
+### You Do It, AI does It, you compare and reflect: Exploring reflective learning with generative AI in principles of marketing
+### Journal of Marketing Education
+(2025)
+- Ü. Avcı
+### Students' GAI acceptance: Role of demographics, creative mindsets, anxiety, attitudes
+### Journal of Computer Information Systems
+(2024)
+- S. Ba \*et al.\*
+### Investigating the impact of ChatGPT‐assisted feedback on the dynamics and outcomes of online inquiry‐based discussion
+### British Journal of Educational Technology
+(2025)
+- B. Batni \*et al.\*
+### Redefining computational thinking: Synergizing unplugged activities with block-based programming
+### Education and Information Technologies
+(2025)
+- D.H. Chang \*et al.\*
+### Educational design principles of using AI chatbot that supports self-regulated learning in education: Goal setting, feedback, and personalization
+### Sustainability
+(2023)
+- C.C. Chien \*et al.\*
+### Learning by playing with generative AI: Design and evaluation of a role-playing educational game with generative AI as scaffolding for instant feedback interaction
+### Journal of Research on Technology in Education
+(2024)
+- W.J. Conover
+### Practical nonparametric statistics
+(1999)
+- H. Crompton \*et al.\*
+### Artificial intelligence in higher education: The state of the field
+### International journal of educational technology in higher education
+(2023)
+- R. Dorgnier \*et al.\*
+### Enhancing primary school learning through growth mindset and memory strategy interventions
+### The Journal of Educational Research
+(2025)
+- J. Eberhart \*et al.\*
+### Are metacognition interventions in young children effective? Evidence from a series of meta-analyses
+### Metacognition and Learning
+(2025)
+- N.L. Fanchamps \*et al.\*
+### The impact of SRA-programming on computational thinking in a visual oriented programming environment
+### Education and Information Technologies
+(2021)
+- J.W. Fang \*et al.\*
+### Effects of a GenAI-based debugging approach integrating the reflective strategy on senior high school students' learning performance and computational thinking
+### Educational Technology & Society
+(2025)
+- J.W. Fang \*et al.\*
+### Realization of parasocial interaction theory in STEAM education with an AI pedagogical agent: Insights from learning performance, collaboration tendency, and problem-solving tendency
+### Interactive Learning Environments
+(2025)
+- A. Field
+### Discovering statistics using IBM SPSS statistics
+(2013)
+- M.O. Gani \*et al.\*
+### Towards enhanced assessment question classification: A study using machine learning, deep learning, and generative AI
+### Connection Science
+(2025)
+- X. Gao \*et al.\*
+### Effect of mind mapping-based scaffolding on elementary students' computational thinking in block-based programming
+### Journal of Educational Computing Research
+(2025)
+- S. Grover
+### Teaching and assessing for transfer from block-to-text programming in middle school computer science
+- R. Hijón-Neira \*et al.\*
+### AI-Generated context for teaching robotics to improve computational thinking in early childhood education
+### Education Sciences
+(2024)
+- W.C. Hsu \*et al.\*
+### Hybrid and non-hybrid block-based programming languages in an introductory college computer-science course
+### Journal of Educational Computing Research
+(2021)
+- Y.P. Huang \*et al.\*
+### Promoting elementary school students' programming learning: Effects of metacognitive vs. cognitive scaffolding
+### Journal of Research on Technology in Education
+(2024)
+- A.Y. Huang \*et al.\*
+### The impact of GenAI‐enabled coding hints on students' programming performance and cognitive load in an SRL‐based Python course
+### British Journal of Educational Technology
+(2025)
+- A.O. Ifelebuegu \*et al.\*
+### Chatbots and AI in Education (AIEd) tools: The good, the bad, and the ugly
+### Journal of Applied Learning and Teaching
+(2023)
+- R. Israel-Fishelson \*et al.\*
+### Studying interrelations of computational thinking and creativity: A scoping review (2011–2020)
+### Computers & Education
+(2022)
+- F.G. Karaoglan Yilmaz \*et al.\*
+### Exploring the role of self-regulated learnings skills, cognitive flexibility, and metacognitive awareness on generative artificial intelligence attitude
+### Innovations in Education & Teaching International
+(2025)
+- N.J. Kim \*et al.\*
+### Influence of scaffolding on information literacy and argumentation skills in virtual field trips and problem-based learning for scientific problem solving
+### International Journal of Science and Mathematics Education
+(2022)
+- H.Y. Lee \*et al.\*
+### Enhancing blended learning discussions with a scaffolded knowledge integration–based ChatGPT Mobile instant messaging system
+### Computers & Education
+(2025)
+- Y. Lei \*et al.\*
+### The effect of ability grouping on students' computational thinking in shared regulation-supported collaborative programming
+### Education and Information Technologies
+(2024)
+- J. Leppink \*et al.\*
+### Development of an instrument for measuring different types of cognitive load
+### Behavior Research Methods
+(2013)
+- W. Li \*et al.\*
+### Development of a metacognitive regulation‐based collaborative programming system and its effects on students' learning achievements, computational thinking tendency and group metacognition
+### British Journal of Educational Technology
+(2024)
+- D. Li \*et al.\*
+### Generative AI in inclusive classrooms: Enhancing social interactions, personalised learning, and metacognitive skills
+### Journal of Contemporary Educational Studies
+(2025)
+View more references
+## Cited by (3)
+\* ### [Teachers’ doings in the AI era: From transmission to relation](/science/article/pii/S0360131526000552)
+2026, Computers and Education
+\* ### [An Adaptive Task Difficulty Model for Personalized Reading Comprehension in AI-Based Learning Systems](https://doi.org/10.3390/a19020100)
+2026, Algorithms
+\* ### [Technology-based scaffolding for ill-structured problem-solving: a systematic review and emerging directions with AI](https://doi.org/10.1080/23735082.2025.2591403)
+2025, Learning Research and Practice
+: This article is part of a special issue entitled: GenAI enhanced learning published in Computers & Education.
+[View full text](/science/article/pii/S0360131525002416)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+## Recommended articles
+\* ### [Forms of synchronous hybrid learning spaces in higher education – A type-building qualitative content analysis](/science/article/pii/S0360131525002088)
+Computers & Education, Volume 240, 2026, Article 105440
+ChristinaHümmer, …, RamonFlecha
+\* ### [Team collaborative norms enhance students’ behavioral engagement in team-based flipped classrooms: A multilevel analysis](/science/article/pii/S0360131525002362)
+Computers & Education, Volume 241, 2026, Article 105468
+Hui-MinLai, …, Fang-ChuanOu Yang
+\* ### [Ex-Edchat: Historic retrospective of X/Twitter #Edchat](/science/article/pii/S0360131525002441)
+Computers & Education, Volume 241, 2026, Article 105476
+K. BretStaudt Willet, …, HunhuiNa
+\* ### [Assessing digital etiquette in adolescents: A stealth approach using game-based learning to reduce anxiety, promote flow, and enhance learning gains](/science/article/pii/S036013152500243X)
+Computers & Education, Volume 243, 2026, Article 105475
+JiawenLiu, …, RuotongZhou
+\* ### [Identifying effective timer and proctoring settings for online exam systems: Insights from an eye-tracking experiment based on the stimulus-organism-response model](/science/article/pii/S0360131525002040)
+Computers & Education, Volume 239, 2025, Article 105436
+TingtingJiang, …, HanLong
+\* ### [The promise of mastery-based testing for promoting student engagement, self-regulated learning, and performance in gateway STEM courses](/science/article/pii/S0360131525001551)
+Computers & Education, Volume 237, 2025, Article 105387
+Michael W.Asher, …, Paulo F.Carvalho
+Show 3 more articles
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131525002416)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

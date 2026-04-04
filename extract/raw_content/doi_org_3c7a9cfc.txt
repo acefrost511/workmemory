@@ -1,0 +1,242 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2026.105621
+# Content Length: 23515 characters
+# Extracted at: 2026-04-04 06:44:33
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S036013152600059X?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S036013152600059X?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS036013152600059X)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S036013152600059X/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S036013152600059X?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S036013152600059X?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S036013152600059X?via%3Dihub#preview-section-snippets)
+- [References (89)](https://www.sciencedirect.com/science/article/abs/pii/S036013152600059X?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 250](https://www.sciencedirect.com/journal/computers-and-education/vol/250/suppl/C "Go to table of contents for this volume/issue"), September 2026, 105621
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20036-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/250/suppl/C)
+# Enhancing a large language model with a chain-of-metacognitive reasoning approach increases argumentative writing evaluation accuracy, student writing outcomes, and mental effort
+Author links open overlay panelSikaiWanga, Khe FoonHewb
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2026.105621](https://doi.org/10.1016/j.compedu.2026.105621 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S036013152600059X&orderBeanReset=true)
+## Highlights
+- •
+Introduces CMR-GRPO ArguCoach for metacognitive, think-aloud feedback.
+- •
+Outperforms leading LLMs on over 5000 essays with higher agreement, fewer errors.
+- •
+Boosts EFL students' writing and mental effort vs teacher feedback.
+- •
+Gains persist post-intervention; user acceptance similar to teacher feedback.
+- •
+RL aligns LLM feedback with pedagogy for human-AI classroom partnership.
+## Abstract
+Effective feedback is crucial for learning, especially in the English as a Foreign Language (EFL) writing context. However, teacher feedback is often delayed and difficult to scale, while automated writing evaluation systems may struggle to address complex reasoning skills such as argumentation. Although large language models (LLMs) offer new possibilities because of their ability to interpret context, their feedback remains generic, lacks transparency, and can diminish students’ mental effort. To address these challenges, this study introduces a novel chain-of-metacognitive reasoning (CMR) framework, implemented through group relative policy optimization (GRPO) using reward functions. This training procedure was used to fine-tune a small-scale open-source LLM. The resulting CMR-GRPO system, \_ArguCoach\_, generates structured reasoning chains that assess argumentative writing. Unlike existing systems, \_ArguCoach\_ drives the model to “think aloud,” modeling metacognitive strategies such as planning, monitoring, and evaluation. In the first stage, \_ArguCoach\_ achieved higher agreement and fewer errors than did leading LLMs on over 5000 argumentative essays. In the second stage, undergraduate EFL students (n = 50) receiving \_ArguCoach\_ feedback exhibited significantly greater writing performance and mental effort than did those (n = 60) with traditional teacher feedback in an eight-week quasi-experiment; notably, the writing performance gains persisted even \_after\_ the intervention concluded. Feedback acceptance was similar across groups. However, students who received \_ArguCoach\_ feedback were more likely to elaborate on suggestions with new content, whereas those who received teacher feedback were more likely to adopt suggestions directly. These findings indicate that aligning LLMs with metacognitive reasoning via reinforcement learning enables them to serve as effective partners in human–AI collaborative language education.
+## Introduction
+Feedback, defined as information from an agent such as a teacher regarding one's performance, is a foundation of effective learning (Hattie & Timperley, 2007). This is especially true in domains emphasizing production skills, such as English as a foreign language (EFL) writing, where feedback guides revision and improvement (Zou et al., 2025). To be educationally useful, feedback must be actionable, clearly identify areas requiring attention, and be personalized to each learner (Dawson et al., 2018). Timeliness is also critical. Feedback delivered within 48 h helps preserve task context and maximize instructional value (McCarthy, 2016), a factor particularly salient for Generation Z students, who are accustomed to instant responses and tend to dislike delays (Gabrielova & Buchko, 2021).
+In EFL education, feedback has traditionally relied on human assessors such as teachers (Wang & Gayed, 2024). However, teacher feedback is time-intensive and resource-demanding (Godwin-Jones, 2022), often resulting in delays. Human judgments are also vulnerable to fatigue and bias, which can undermine reliability (Choi et al., 2025). These constraints have generated growing interest in automated writing evaluation (AWE) tools that promise timely, scalable feedback.
+Despite their ability to provide immediate responses, most AWE systems are designed around surface-level features. They tend to focus on grammar (Ramesh & Sanampudi, 2022), punctuation or spelling, vocabulary (Wang & Gayed, 2024), transitional phrases (Escalante et al., 2023), organization (Liew & Tan, 2025), or essay length (Ramesh & Sanampudi, 2022). They rarely address skills essential for argumentative writing (Godwin-Jones, 2022; Wang & Gayed, 2024), such as constructing clear claims, supporting them with appropriate evidence, developing counterarguments, and sustaining persuasiveness. This limitation is likely due to traditional AWEs’ restricted capacity to understand nuanced contextual meanings.
+We focus on argumentative writing because it is a cognitively demanding task closely tied to critical thinking (Hirvela, 2017). Many EFL learners struggle to engage in argumentation and to produce high-quality argumentative texts (Zou et al., 2021). Feedback that merely corrects language form is therefore insufficient; students also need support that helps them monitor and regulate their reasoning, structure their arguments, and critically evaluate their own texts. In other words, effective feedback for argumentative writing should not only be accurate and timely but should also scaffold learners’ metacognitive engagement with argumentative quality.
+Recent advances in large language models (LLMs) offer new possibilities for such higher-order feedback. Unlike traditional AWE systems, LLMs can process words in context and identify argumentative moves such as claims, counterclaims, and rebuttals (Qin et al., 2025). However, the educational utility of generic LLMs remains contested. Recent empirical studies by Bui and Barrot (2025a, 2025b) indicate that while models like ChatGPT can assign scores, they often exhibit inconsistency across different time points and may apply stricter, less nuanced criteria compared to human raters. Furthermore, standard LLM feedback often suffers from a lack of transparency, functioning as a “black box” that outputs a score or revision without revealing the evaluative logic. According to the Explainable AI in Education (XAI-ED) framework proposed by Khosravi et al. (2022), this opacity hinders trust and limits the pedagogical value of the tool. Stakeholders, particularly learners, require “actionable explanations” that clarify not just what is wrong, but why it does not meet the standard, thereby enabling them to bridge the gap between their current performance and the learning goal.
+To address the previous limitations, we argue that LLMs must be adapted to perform what we term “Chain-of-Metacognitive Reasoning” (CMR). While previous attempts using supervised fine-tuning (SFT) have improved score alignment, they frequently produce formulaic "pseudo-reasoning" that lacks pedagogical depth (Chen, Tu, et al., 2025; Trung et al., 2024). In contrast, \*\*CMR constrains the LLM to follow a reasoning sequence aligned with the three theoretical phases of metacognitive regulation\*\* (Flavell, 1987; Zimmerman, 2002) before arriving at a holistic score. Specifically, the architecture requires the model to: analyze rubric requirements and identify what needs to be checked (planning), inspect specific text spans against those criteria (monitoring), and synthesize these observations into a justified judgment (evaluation).
+Because the final score is conditioned on this preceding evaluative output, the design enforces deliberative, criterion-referenced analysis rather than direct score prediction. Importantly, this intermediate reasoning chain is surfaced to learners as a visible think-aloud demonstration. This approach differs from standard feedback by making the underlying evaluative process transparent. This does not guarantee that learners themselves engage in metacognitive regulation, but it makes the evaluative process transparent. Rather than simply delivering a score, the ArguCoach system articulates how a writer would check argument quality. For example, the system explicitly notes whether a rebuttal is present before judging the counterargument dimension. By exposing this step-by-step analytic process, CMR provides a metacognitively structured scaffold that students can observe and apply to support their own writing.
+To implement this framework, we utilize GRPO (Shao et al., 2024), a reinforcement learning technique that directly optimizes the quality of these reasoning chains without relying on extensive human annotations. The resulting system, ArguCoach, drives the model to “think aloud” in a structured, rubric-aligned manner. This approach aims to mitigate the rating inconsistency issues identified by Bui and Barrot (2025a) while fulfilling the XAI-ED goal of transparency. By producing feedback that is both technically accurate and pedagogically interpretable, ArguCoach is designed to scaffold students’ metacognitive engagement with their writing.
+Therefore, this study has two overarching objectives: to determine whether ArguCoach can provide valid, rubric-based assessments of argumentative essays compared with leading large language models (LLMs), and to examine how ArguCoach-supported feedback affects EFL students’ outcomes in authentic classroom settings.
+Accordingly, we address four research questions. First, how does ArguCoach perform, relative to leading commercial and open-source LLMs, in rubric-based assessment of argumentative essays at the technical level? Second, what is the effect of ArguCoach's feedback, compared with traditional teacher feedback, on Chinese EFL students' argumentative writing performance, and to what extent are any gains retained after the intervention? Third, how do students receiving ArguCoach feedback differ from those receiving teacher feedback in their invested mental effort, feedback acceptance, and metacognitive behaviors? Fourth, what are students' perceptions of ArguCoach's feedback?
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS036013152600059X)
+## Section snippets
+## Argumentation and metacognition in EFL writing
+Argumentation is a process of justification in which writers coordinate claims with reasons and evidence through warranted inferences to persuade a critical audience (Farsani et al., 2025). Beyond merely presenting data, strong argumentation involves stating a claim with supporting evidence, acknowledging and addressing opposing views, offering rebuttals, and drawing a reasoned conclusion (Kuhn, 1991; Toulmin et al., 1990). Argumentation is thus both a product (a coherent, logically structured
+## Research design overview
+This study was motivated by an educational concern regarding how feedback design may influence EFL students' argumentative writing and metacognitive engagement. Accordingly, we adopted a two-stage research design to evaluate the effectiveness and generalizability of the CMR–GRPO approach in automated evaluation and feedback for EFL argumentative writing. Stage 1 examined the accuracy and interpretability of the CMR–GRPO-based evaluator, providing validity evidence for its use in instruction.
+## Stage 1: Model development and validation
+Stage 1 developed and validated ArguCoach via a CMR–GRPO post-training pipeline. Fig. 1 summarizes the workflow.
+## Participants
+Stage 2 included 110 undergraduate engineering-major students who were taking an EFL course. Their average age was 19 years. They were grouped according to their existing classes at the start of the Spring 2025 semester. Following a quasi-experimental design, one intact class (N = 50) was assigned as the experimental group (EG) and another (N = 60) as the control group (CG).
+Both groups were taught by the same instructor, followed the same syllabus, and used identical instructional materials.
+## Discussion
+This study examined how a chain-of-metacognitive-reasoning approach implemented through group relative policy optimization can support automated writing evaluation in higher education. Evidence from both algorithmic benchmarking and a quasi-experimental classroom study revealed higher technical performance in scoring and discourse annotation, as well as positive effects on students' writing outcomes, mental effort, and metacognitive behaviors. In the following sections, we situate these
+## Conclusion
+This study examined whether embedding chain-of-metacognitive reasoning into reinforcement learning can enhance automated writing evaluation in EFL higher education. At the technical level, reinforcement learning with metacognitive reward signals enabled a small open-source model to achieve higher agreement with human raters than leading commercial LLMs. At the pedagogical level, students receiving transparent, reasoning-based feedback demonstrated greater improvements in argumentative writing,
+## CRediT authorship contribution statement
+\*\*Sikai Wang:\*\* Writing – original draft, Software, Methodology, Formal analysis, Conceptualization. \*\*Khe Foon Hew:\*\* Writing – review & editing, Supervision, Funding acquisition, Conceptualization.
+## Funding
+This work was supported by a fellowship award from the Research Grants Council of the Hong Kong SAR, China (RFS2223-7H02).
+## Declaration of competing interest
+The authors have no conflicts of interest regarding the content of this article.
+Recommended articles
+- O. Alsaiari \_et al.\_
+### [Directive, metacognitive, or a blend of both? A comparison of AI-generated feedback types on student engagement, confidence, and outcomes](https://www.sciencedirect.com/science/article/pii/S2666920X26000147)
+### Computers and Education: Artificial Intelligence
+(2026)
+- S.A. Crossley \_et al.\_
+### [A large-scale corpus for assessing written argumentation: Persuade 2.0](https://www.sciencedirect.com/science/article/pii/S1075293524000588)
+### Assessing Writing
+(2024)
+- J. Du \_et al.\_
+### [What can online traces tell Us about students' self-regulated learning? A systematic review of online trace data analysis](https://www.sciencedirect.com/science/article/pii/S0360131523001057)
+### Computers and Education
+(2023)
+- E. Ene \_et al.\_
+### [Synchronous and asynchronous teacher electronic feedback and learner uptake in ESL composition](https://www.sciencedirect.com/science/article/pii/S1060374317304393)
+### Journal of Second Language Writing
+(2018)
+- R. Fidalgo \_et al.\_
+### [Strategy-focused writing instruction: Just observing and reflecting on a model benefits 6th grade students](https://www.sciencedirect.com/science/article/pii/S0361476X14000721)
+### Contemporary Educational Psychology
+(2015)
+- K. Gabrielova \_et al.\_
+### [Here comes generation Z: Millennials as managers](https://www.sciencedirect.com/science/article/pii/S000768132100015X)
+### Business Horizons
+(2021)
+- A.R. Hirvela
+### [Argumentation & second language writing: Are we missing the boat?](https://www.sciencedirect.com/science/article/pii/S1060374317301558)
+### Journal of Second Language Writing
+(2017)
+- F. Hyland
+### [The impact of teacher written feedback on individual writers](https://www.sciencedirect.com/science/article/pii/S1060374398900170)
+### Journal of Second Language Writing
+(1998)
+- H. Khosravi \_et al.\_
+### [Explainable artificial intelligence in education](https://www.sciencedirect.com/science/article/pii/S2666920X22000297)
+### Computers and education: Artificial Intelligence
+(2022)
+- S. Koltovskaia \_et al.\_
+### [Graduate students' use of ChatGPT for academic text revision: Behavioral, cognitive, and affective engagement](https://www.sciencedirect.com/science/article/pii/S1060374324000377)
+### Journal of Second Language Writing
+(2024)
+G.-G. Lee \_et al.\_
+### [Applying large language models and chain-of-thought for automatic scoring. Computers and education](https://www.sciencedirect.com/science/article/pii/S2666920X24000146)
+### Artificial Intelligence
+(2024)
+J. Li \_et al.\_
+### [A measure of EFL argumentative writing cognitive load: Scale development and validation](https://www.sciencedirect.com/science/article/pii/S106037432400002X)
+### Journal of Second Language Writing
+(2024)
+A. Mizumoto \_et al.\_
+### [Exploring the potential of using an AI language model for automated essay scoring](https://www.sciencedirect.com/science/article/pii/S2772766123000101)
+### Research Methods in Applied Linguistics
+(2023)
+E.F. Risko \_et al.\_
+### [Cognitive offloading](https://www.sciencedirect.com/science/article/pii/S1364661316300985)
+### Trends in Cognitive Sciences
+(2016)
+D. Shin
+### [The effects of explainability and causability on perception, trust, and acceptance: Implications for explainable AI](https://www.sciencedirect.com/science/article/pii/S1071581920301531)
+### International Journal of Human-Computer Studies
+(2021)
+M. Stadler \_et al.\_
+### [Cognitive ease at a cost: LLMs reduce mental effort but compromise depth in student scientific inquiry](https://www.sciencedirect.com/science/article/pii/S0747563224002541)
+### Computers in Human Behavior
+(2024)
+D.C.D. van Alten \_et al.\_
+### [Effects of self-regulated learning prompts in a flipped history classroom](https://www.sciencedirect.com/science/article/pii/S0747563220300728)
+### Computers in Human Behavior
+(2020)
+A. Bandura
+### Social foundations of thought and action
+(1986)
+S.K. Banihashem \_et al.\_
+### Feedback sources in essay writing: Peer-generated or AI-generated feedback?
+### International Journal of Educational Technology in Higher Education
+(2024)
+S.K. Banihashem \_et al.\_
+### Pedagogical framework for hybrid intelligent feedback
+### Innovations in Education & Teaching International
+(2025)
+M. Bergamaschi Ganapini \_et al.\_
+### Fast, slow, and metacognitive thinking in AI
+### NPJ Artificial Intelligence
+(2025)
+N.M. Bui \_et al.\_
+### ChatGPT as an automated essay scoring tool in the writing classrooms: How it compares with human scoring
+### Education and Information Technologies
+(2025)
+N.M. Bui \_et al.\_
+### Using generative artificial intelligence as an automated essay scoring tool: A comparative study
+### Innovation in Language Learning and Teaching
+(2025)
+M. Charles
+### Responding to problems in written English using a student self-monitoring technique
+### ELT Journal
+(1990)
+H. Chen \_et al.\_
+### SFT or RL? An early investigation into training R1-like reasoning large vision-language models
+J. Choi \_et al.\_
+### Anchor is the key: Toward accessible automated essay scoring with large language models through prompting
+T. Chu \_et al.\_
+### SFT memorizes, RL generalizes: A comparative study of foundation model post-training
+J. Cohen
+### Statistical power analysis for the behavioral sciences
+(1988)
+S.A. Crossley \_et al.\_
+### The persuasive essays for rating, selecting, and understanding argumentative and discourse elements (PERSUADE) corpus 1.0
+### Assessing Writing
+(2022)
+P. Dawson \_et al.\_
+### What makes for effective feedback: Staff and student perspectives
+### Assessment & Evaluation in Higher Education
+(2018)
+B.J. Dietvorst \_et al.\_
+### Algorithm aversion: People erroneously avoid algorithms after seeing them err
+### Journal of Experimental Psychology: General
+(2015)
+S. Elo \_et al.\_
+### The qualitative content analysis process
+### Journal of Advanced Nursing
+(2008)
+J. Escalante \_et al.\_
+### AI-generated feedback on writing: Insights into efficacy and ENL student preference
+### International Journal of Educational Technology in Higher Education
+(2023)
+Y. Fan \_et al.\_
+### Improving the measurement of self-regulated learning using multi-channel data
+### Metacognition and Learning
+(2022)
+Y. Fan \_et al.\_
+### Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance
+### British Journal of Educational Technology
+(2025)
+M. Farrokhnia \_et al.\_
+### Generative AI offers more, but students revise less: Comparing the effects of teacher and AI feedback on student essay revisions
+### International Journal of Educational Technology in Higher Education
+(2026)
+M.A. Farsani \_et al.\_
+### Charting L2 argumentative writing: A systematic review
+### Journal of Second Language Writing
+(2025)
+F. Faul \_et al.\_
+### Statistical power analyses using G∗ Power 3.1: Tests for correlation and regression analyses
+### Behavior Research Methods
+(2009)
+F. Faul \_et al.\_
+### G∗ power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences
+### Behavior Research Methods
+(2007)
+J.H. Flavell
+### Speculations about the nature and development of metacognition
+M. Gerlich
+### AI tools in society: Impacts on cognitive offloading and the future of critical thinking
+### Societies
+(2025)
+R. Godwin-Jones
+### Partnering with AI: Intelligent writing assistance and instructed language learning
+### Language, Learning and Technology
+(2022)
+D. Guo \_et al.\_
+### DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning
+### Nature
+(2025)
+J. Hattie \_et al.\_
+### The power of feedback
+### Review of Educational Research
+(2007)
+View more references
+This article is part of a special issue entitled: Pedagogy × Digital Tech published in Computers & Education.
+[View full text](https://www.sciencedirect.com/science/article/pii/S036013152600059X)
+© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

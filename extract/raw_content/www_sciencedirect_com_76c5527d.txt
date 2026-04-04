@@ -1,6 +1,6 @@
 # Source URL: https://www.sciencedirect.com/science/article/pii/S2666920X24000122
-# Content Length: 12754 characters
-# Extracted at: 2026-04-03 05:09:57
+# Content Length: 5116 characters
+# Extracted at: 2026-04-04 05:13:27
 #============================================================
 
 A systematic review of AI education in K-12 classrooms from 2018 to 2023: Topics, strategies, and learning outcomes - ScienceDirect
@@ -14,32 +14,6 @@ A systematic review of AI education in K-12 classrooms from 2018 to 2023: Topics
 \* [View \*\*PDF\*\*](/science/article/pii/S2666920X24000122/pdfft?md5=4d73988184a83e742172fcee96392dea&pid=1-s2.0-S2666920X24000122-main.pdf)
 \* Download full issue
 Search ScienceDirect
-## Outline
-1. [Highlights](#abs0015)
-2. [Abstract](#abs0010)
-3. [Keywords](#kwrds0010)
-4. [1. Introduction](#sec1)
-5. [2. Limitations of previous systematic reviews on AI education](#sec2)
-6. [3. Research questions](#sec3)
-7. [4. Method](#sec4)
-8. [5. Findings](#sec5)
-9. [6. Discussion](#sec6)
-10. [7. Implications for practice](#sec7)
-11. [8. Conclusion](#sec8)
-12. [Statements on open data and ethics](#sec9)
-13. [CRediT authorship contribution statement](#sec10)
-14. [Declaration of competing interest](#coi0010)
-15. [Acknowledgments](#ack0005)
-16. [References](#cebib0010)
-Show full outline
-## [Cited by (98)](#section-cited-by)
-## Figures (1)
-1. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24000122-gr1.sml)](#fig1)
-## Tables (4)
-1. [Table 1](#tbl1)
-2. [Table 2](#tbl2)
-3. [Table 3](#tbl3)
-4. [Table 4](#tbl4)
 [![](https://sciencedirect.elseviercdn.cn/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](/journal/computers-and-education-artificial-intelligence)
 ## [Computers and Education: Artificial Intelligence](/journal/computers-and-education-artificial-intelligence)
 [Volume 6](/journal/computers-and-education-artificial-intelligence/vol/6/suppl/C), June 2024, 100211
@@ -47,7 +21,6 @@ Show full outline
 # A systematic review of AI education in K-12 classrooms from 2018 to 2023: Topics, strategies, and learning outcomes
 Author links open overlay panelSang JoonLeea, KyungbinKwonb
 Show more
-Outline
 Add to Mendeley
 Share
 Cite
@@ -67,8 +40,8 @@ AI education fosters motivation, positive attitudes, and an interest in technolo
 We recommend tailored AI curricula, strategies, and tools for seamless integration into various subjects.
 ## Abstract
 AI education aims to teach AI concepts, essential knowledge, and skills related to the fundamental ideas in AI. As AI becomes increasingly prevalent in our daily lives, schools and educators have started to recognize the importance of AI education in K-12 schools. However, there have been a limited number of studies reporting on the implementation of AI education in classrooms. This systematic review aimed to provide an overview of the current state of AI education in K-12 schools, exploring topics, instructional approaches, and learning outcomes. Twenty-five peer-reviewed journal articles published between 2018 and 2023 were selected for this systematic review. The findings highlighted that various topics were covered in K-12 AI education, including fundamental AI concepts, different types of AI, AI applications, and ethical considerations related to AI. To facilitate meaningful learning experiences, educators frequently integrated hands-on activities and project-based learning. The findings supported the benefits of AI education in enhancing students' AI literacy, problem-solving skills, and ethical reflections on AI's societal impact. Furthermore, it fostered motivation, positive attitudes toward AI, and an interest in technology while inspiring career aspirations. It is recommended to develop tailored AI curricula, instructional strategies, and appropriate tools and resources that seamlessly integrate into various subjects within the standard school curriculum.
-\* [Previousarticle in issue](/science/article/pii/S2666920X24000092)
-\* [Nextarticle in issue](/science/article/pii/S2666920X24000109)
+\* Previousarticle in issue
+\* Nextarticle in issue
 ## Keywords
 Artificial intelligence
 AI education
@@ -76,28 +49,7 @@ Systematic review
 K-12
 Loading...
 Recommended articles
-## Cited by (98)
-\* ### [Integrating generative artificial intelligence in K-12 education: Examining teachers’ preparedness, practices, and barriers](/science/article/pii/S2666920X25000037)
-2025, Computers and Education Artificial Intelligence
-Show abstract
-Despite the growing body of research on developing K-12 teachers' generative AI (GenAI) knowledge and skills, its integration into daily teaching practices remains underexplored. Using a snowball sampling method, this study examined the preparedness, practices, and barriers encountered by 89 U.S. teachers in the state of Idaho. Participants were predominantly White, female teachers serving in rural schools. A mixed-methods analysis of survey responses revealed that teachers were generally underprepared for integrating GenAI, with fewer than half incorporating it into their educational practices. Unlike the widespread classroom integration patterns observed with general educational technologies, teachers in this study tended to use GenAI for out-of-classroom duties (i.e., lesson preparation, assessment, and administrative tasks) rather than for real-time teaching and learning. These preferences could be attributed to key barriers teachers faced, including doubts about GenAI's ability to manage risks (i.e., technology value beliefs), reduced human interaction in instruction (i.e., pedagogical beliefs), ethical considerations, and the absence of policies and guidance. This study highlights the need to develop support systems and targeted policies to facilitate teachers' GenAI integration, offering implications for Idaho's education system and the broader U.S. context.
-\* ### [Analyzing K-12 AI education: A large language model study of classroom instruction on learning theories, pedagogy, tools, and AI literacy](/science/article/pii/S2666920X24000985)
-2024, Computers and Education Artificial Intelligence
-Citation Excerpt :
-Educators can select from a variety of AI learning tools based on learning objectives and tool functionalities. Lee and Kwon (2024) categorizes these tools into three groups: programming languages and environments, machine learning and AI platforms, and educational platforms and provisioning, which include tools such as Scratch, Scikit-Learn, and School-Book. When choosing or developing AI tools, educators must consider factors such as age-appropriateness (Lee & Kwon, 2024) and alignment with the content being taught.
-Show abstract
-There is growing recognition among researchers and stakeholders about the significant impact of artificial intelligence (AI) technology on classroom instruction. As a crucial element in developing AI literacy, AI education in K-12 schools is increasingly gaining attention. However, most existing research on K-12 AI education relies on experiential methodologies and suffers from a lack of quantitative analysis based on extensive classroom data, hindering a comprehensive depiction of AI education's current state at these educational levels. To address this gap, this article employs the advanced semantic understanding capabilities of large language models (LLMs) to create an intelligent analysis framework that identifies learning theories, pedagogical approaches, learning tools, and levels of AI literacy in AI classroom instruction. Compared with the results of manual analysis, analysis based on LLMs can achieve more than 90% consistency. Our findings, based on the analysis of 98 classroom instruction videos in central Chinese cities, reveal that current AI classroom instruction insufficiently foster AI literacy, with only 35.71% addressing higher-level skills such as evaluating and creating AI. AI ethics are even less commonly addressed, featured in just 5.1% of classroom instruction. We classified AI classroom instruction into three categories: conceptual (50%), heuristic (18.37%), and experimental (31.63%). Correlation analysis suggests a significant relationship between the adoption of pedagogical approaches and the development of advanced AI literacy. Specifically, integrating Project-based/Problem-based learning (PBL) with Collaborative learning appears effective in cultivating the capacity to evaluate and create AI.
-\* ### [The effectiveness of artificial intelligence on English language learning achievement](/science/article/pii/S0346251X24002100)
-2024, System
-Show abstract
-Over the past few decades, artificial intelligence (AI) has undergone exponential growth and has been overwhelmingly permeated in the educational field, including English language education. Many individual studies have paid close attention to probing the effect of AI on learning. However, no quantitative meta-analysis has been conducted on the overall effectiveness of AI on English language learning achievement. Hence, to fill the research gap and strengthen the statistical power, this article aims to carry out a meta-analysis for examining the effectiveness of AI on English learning outcomes. A total of 40 empirical studies with 3290 participants across ten countries filtered from five academic electronic databases, yielding 55 effect sizes. Via Comprehensive Meta-Analysis (CMA) software, the results found that AI had a high effect size (\*g\* = 0.812) on English language learning achievement, indicating that students who integrated AI significantly outperformed their counterparts who followed traditional pedagogy in English achievement. Additionally, the moderating effect of ten categorical variables (i.e. nation development level, whether undergoing the COVID-19 pandemic, sample size, learning phases, students' majors, sub-fields of English learning, AI applications, intervention duration, research design, research settings) was examined. It found that sample size, learning phases and students’ majors significantly moderated the effectiveness of AI. Confronting the results, potential reasons behind them are discussed, and practical and research implications are proposed.
-\* ### [AI-Powered Educational Agents: Opportunities, Innovations, and Ethical Challenges](https://doi.org/10.3390/info16060469)
-2025, Information Switzerland
-\* ### [A systematic review of literature reviews on artificial intelligence in education (AIED): a roadmap to a future research agenda](https://doi.org/10.1186/s40561-024-00350-5)
-2024, Smart Learning Environments
-\* ### [Data Privacy in AI Driven Education: An In- Depth Exploration Into the Data Privacy Concerns and Potential Solutions](https://doi.org/10.4018/979-8-3693-5443-8.ch008)
-2024, AI Applications and Strategies in Teacher Education
-[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-85187716889&md5=e3dbf82a1a88a97982f832bab4182)
+## Cited by (0)
 © 2024 The Authors. Published by Elsevier Ltd.
 ## Recommended articles
 Loading...

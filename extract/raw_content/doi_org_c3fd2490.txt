@@ -1,0 +1,208 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105471
+# Content Length: 23537 characters
+# Extracted at: 2026-04-04 11:07:55
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002398?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002398?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002398)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525002398/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002398?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002398?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002398?via%3Dihub#preview-section-snippets)
+- [References (69)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525002398?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 241](https://www.sciencedirect.com/journal/computers-and-education/vol/241/suppl/C "Go to table of contents for this volume/issue"), February 2026, 105471
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00130-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/241/suppl/C)
+# Incremental project-based robot programming: Effects on young children's computational thinking, executive function, and learning behavioral patterns
+Author links open overlay panelYuchenChena, XinliZhangb, LailinHub, Gwo-JenHwangcde, HaoranXief, Yun-FangTug
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105471](https://doi.org/10.1016/j.compedu.2025.105471 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525002398&orderBeanReset=true)
+## Highlights
+- •
+An incremental project-based robot programming approach was proposed.
+- •
+An experiment was conducted in a kindergarten.
+- •
+The approach prompted young children's computational thinking.
+- •
+The approach facilitated young children's executive function.
+- •
+The approach facilitated young children's positive learning behaviors.
+## Abstract
+Robot programming is an age-appropriate means to cultivate children's computational thinking (CT) and executive function (EF). Project-based learning (PBL) is commonly applied to teach robot programming. PBL involves complex, large-scale projects consisting of multiple sub-projects. Each sub-project introduces new knowledge but offers few opportunities to connect it with previously learned knowledge, thus misaligning with children's cognitive development. In comparison, incremental PBL (IPBL) is a tailored design of PBL that begins with basic knowledge, with each new sub-project building on all learned knowledge from previous sub-projects and progressively adding new knowledge to achieve complete project learning. Hence, this research integrated IPBL into robot programming to develop an incremental project-based robot programming (I-PBRP) approach, and evaluated its effect on young children's CT, EF, and learning behavioral patterns. Ninety-five children aged 5–6 engaged in 12-week interventions. They were randomly assigned to the I-PBRP group and the conventional project-based robot programming (C-PBRP) group. Results manifested that the I-PBRP group achieved better performance than the C-PBRP group in CT and in the three components of EF (inhibition, working memory, and cognitive flexibility) over time. The progressive behavioral analysis manifested that the I-PBRP approach promoted superior performance in robot programming activities and more positive learning behaviors for children. This research has implications for robot programming teaching approaches for young children's CT and EF development.
+## Introduction
+Computational thinking (CT), a set of thinking skills involving computer science principles for individuals to solve problems, has become a priority for K-12 Science, Technology, Engineering, and Mathematics (STEM) education (Wing, 2006; Zhang et al., 2025). In recent years, CT has been progressively integrated into early childhood education (Su & Yang, 2023). Cultivating young children's CT is significant as it is positively associated with STEM learning, cognitive development, and career pathways (Lin et al., 2023; Tsarava et al., 2022).
+Programming, which involves children applying computer science principles (e.g., algorithms, debugging) to solve problems, is an effective approach to fostering CT (Hsu et al., 2018; McCormick & Hall, 2021). In programming activities, children plan, handle information, and change their ways of thinking, which also benefits executive function (EF) (Arfé et al., 2020; Zhang et al., 2025). EF involves a series of cognitive skills that self-regulate thoughts and behaviors to solve problems (Diamond, 2012). It is closely linked with academic performance, social bonds, and health (Ahmed et al., 2018; Lohndorf et al., 2021). EF and CT share a similar problem-solving nature. Studies have revealed a correlation between them (Liu, 2024; Pellas, 2024; Robertson et al., 2020).
+With advancements in robotics, educational robots have been adopted to support children's cognitive growth (Kalogiannakis, Papadakis, & Dorouka, 2020; Misirli and Komis, 2023). Programmable robots are an age-appropriate tool that offers children playful and hands-on experiences of manipulating tangible objects (Chen et al., 2024; Levinson & Bers, 2024). Empirical studies have demonstrated that robot programming could effectively enhance children's CT and EF (Berson et al., 2023; Zurnacı & Turan, 2024).
+The teaching approach for robot programming is crucial for fostering CT and EF (Hsu et al., 2018; Zhang et al., 2025). Studies have identified that project-based learning (PBL) is the most commonly adopted teaching approach for robot programming (Ching & Hsu, 2023; Pugnali et al., 2017; Saad & Zainudin, 2024). PBL has been shown to be appropriate and effective for young children (Holm, 2011; Lev et al., 2020). Conventional PBL (CPBL) often involves a complex, large-scale project composed of multiple sub-projects. Each sub-project requires children to learn a large amount of new knowledge and apply it to achieve the final goal (Hao et al., 2016; Huang, 2016). For example, Wang et al. (2023) adopted PBL to teach computer programming and designed five sub-projects. Each sub-project introduced new knowledge: “algorithm,” “selection and bubble sort,” “linear and dichotomous search,” “flowcharting,” and “mind mapping.” However, in CPBL, introducing new knowledge in every sub-project offers few chances for children to connect it with the learned knowledge from previous sub-projects. This approach mismatches the staged nature of children's cognitive development, where higher-level skills build upon foundational ones (Piaget, 1971). It also fails to activate children's Zone of Proximal Development (ZPD; i.e., the gap between the current and potential level of development to be achieved with appropriate support; Vygotsky, 1987). Furthermore, CPBL may overwhelm children with limited working memory and increase their cognitive load, thereby hindering CT and EF growth (Hao et al., 2016; Liu, 2024).
+Incremental PBL (IPBL), a tailored design of PBL, originated from and is commonly used to teach computer programming. Unlike CPBL, it systematically integrates all learned content in previous sub-projects and new knowledge in each sub-project (Huang, 2016; Vega et al., 2012). For example, Huang (2016) applied IPBL to teach Java programming. He designed nine sub-projects, each combining new knowledge with all knowledge from previous sub-projects (e.g., sub-project 3 integrated new knowledge “classes and objects” with all learned content from sub-projects 1, “language basics,” and 2, “strings and arrays”). IPBL matches children's gradual development nature and supports learning within the ZPD by providing optimal challenges based on prior learning that bridge the gap between their current and potential development (Piaget, 1971; Vygotsky, 1987). IPBL also exerts a lower cognitive load by engaging children in sub-projects featured in progressively increased knowledge and similar problem-solving contexts (Hao et al., 2016). Accordingly, IPBL may address the problems of CPBL and be an appropriate teaching approach for robot programming to support children's CT and EF (Di Lieto et al., 2017; Fallon, 2024). For CT development, IPBL progressively connects new knowledge with what children have learned, which reinforces memory retention and enables children to acquire programming knowledge and apply it to solve increasingly complex tasks easily. For EF development, IPBL builds on existing knowledge with each task, encouraging children to stay focused on goals and manipulate information. As tasks become progressively more challenging, children learn to switch between different requirements, enhancing their cognitive flexibility. Although studies have applied IPBL to teaching older students computer programming (Huang, 2016; Vega et al., 2012), its applicability in robot programming for young children's CT and EF development remains under-explored.
+Hence, our purpose was to integrate IPBL into robot programming to propose an incremental project-based robot programming (I-PBRP) approach and compare its effect on young children's CT and EF with the conventional project-based robot programming (C-PBRP) approach. Besides, Bers et al. (2019, 2022) underscored the significance of delving into children's behaviors in robot programming learning. However, previous literature reviews identified that existing studies mainly collected quantitative data to examine children's learning outcomes, rather than the learning process (e.g., behaviors; McCormick & Hall, 2021; Su & Yang, 2023). Since children exposed to different teaching approaches exhibit distinct behaviors, analyzing their behaviors offers qualitative and explainable insights into different robot programming teaching approaches (Hwang et al., 2017; Sun et al., 2021). Hence, children's behaviors under the I-PBRP and C-PBRP approaches were further explored. Three research questions guided this study.
+- RQ1: What are the differences in CT between children under the I-PBRP and C-PBRP approaches?
+- RQ2: What are the differences in EF between children under the I-PBRP and C-PBRP approaches?
+- RQ3: What are the differences in behavioral patterns between children under the I-PBRP and C-PBRP approaches?
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525002398)
+## Section snippets
+## Computational thinking (CT) for young children
+CT stemmed from Papert (1980) and was advanced by Wing (2006). It refers to a set of thinking skills employing computer science principles to solve problems related to STEM and real life (Zhang et al., 2024, 2025). Researchers have proposed specific and operational definitions of CT. For instance, Brennan and Resnick (2012) classified CT into three dimensions based on Scratch: concepts, practices, and perspectives of CT. With growing attention to children's CT, Bers (2020) proposed a CT
+## Theoretical foundations: Children's cognitive development theories
+Children's cognitive development theories provide theoretical foundations for the I-PBRP approach in CT and EF development. Children's cognitive development has a stage-like nature, from simple to complex, with higher-level skills building on earlier ones (Piaget, 1971). The I-PBRP approach aligns with this by starting with basic programming knowledge and gradually introducing more advanced concepts. Vygotsky (1987) implied that children learn best when working on tasks just beyond their
+## Research design
+We designed a 12-week quasi-experiment and conducted within-group and between-group comparisons. A mixed-method approach was employed to comprehensively interpret the effectiveness of the proposed approach. Quantitative data were collected using the CT and EF tests, while qualitative data comprised children's behaviors through classroom videos.
+## Participants
+Wang and Xie (2024) and Zhang et al. (2021) reported medium effect sizes of robot programming on CT and EF. A prior power analysis using G∗power ( \_f\_
+## Analysis of computational thinking (CT)
+Table 2 shows the descriptive statistics and time effects of the two groups’ CT. The time effect manifested significant improvements in CT for the I-PBRP ( \_F\_ = 38.40, \_p <\_ 0.001, \_η\_ \_2\_ = 0.35) and C-PBRP ( \_F\_ = 16.04, \_p <\_ 0.001, \_η\_ \_2\_ = 0.19) groups after the 12-week intervention. Fig. 11 also manifests that the I-PBRP group had a more prominent upward trajectory in CT than the C-PBRP group over time.
+Table 3 displays the linear mixed-effects model results of the two groups' CT. The entire model explained
+## Discussion and conclusions
+This research proposed an I-PBRP approach and evaluated its impact on 5-6-year-old children's CT, EF, and learning behavioral patterns. Following 12-week interventions, the I-PBRP group performed better in CT and EF than the C-PBRP group over time. Additionally, progressive behavioral analysis disclosed that the I-PBRP approach facilitated superior performance in robot programming and more positive behaviors for children as time progressed. The following sections discuss the main findings of
+## Contributions and implications
+First, considering the problems with C-PBRP, this study proposed the I-PBRP approach for young children's CT and EF. We extended the studies by Huang (2016) and Vega et al. (2012), applying IPBL to robot programming for young children, and confirmed its effectiveness in CT and EF. The results provide insights into effective pedagogical approaches in robot programming to support young children's CT and EF. Hence, this study should inspire educators to receive training for effective
+## Limitations and future directions
+Five limitations should be acknowledged. First, this research enrolled children from China. The sample size is relatively small. It limits the generality of the findings. Second, this experiment was conducted for 12 weeks, which was still short, thus limiting to reveal the long-term effectiveness of the I-PBRP approach. Third, we selected three sessions for progressive sequential analysis, which may not have captured all possible behaviors in the different phases. Fourth, the EF test used is
+## CRediT authorship contribution statement
+\*\*Yuchen Chen:\*\* Writing – original draft, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Xinli Zhang:\*\* Supervision, Project administration, Investigation, Funding acquisition, Conceptualization. \*\*Lailin Hu:\*\* Validation, Supervision, Resources. \*\*Gwo-Jen Hwang:\*\* Writing – review & editing, Validation, Resources, Conceptualization. \*\*Haoran Xie:\*\* Software, Resources, Methodology. \*\*Yun-Fang Tu:\*\* Writing – original draft, Validation, Investigation, Conceptualization.
+## Ethics approval and informed consent
+Approval for the research protocol was received from the institution's ethics board under reference number WZUED20250101. Informed consent was also obtained from kindergarten administrators and participants' parents. All children voluntarily engaged in this research.
+## Availability of data and material
+The data was available upon request from the corresponding authors.
+## Competing interests
+The authors declare no conflicts of interest.
+## Acknowledgment
+This study was is supported by the Humanities and Social Science Project by the Ministry of Education in China \[grant number: 24YJA880096\].
+Recommended articles
+- B. Arfé \_et al.\_
+### [The effects of coding on children's planning and inhibition skills](https://www.sciencedirect.com/science/article/pii/S0360131520300099)
+### Computers & Education
+(2020)
+- M.U. Bers \_et al.\_
+### [Computational thinking and tinkering: Exploration of an early childhood robotics curriculum](https://www.sciencedirect.com/science/article/pii/S0360131513003059)
+### Computers & Education
+(2014)
+- M.U. Bers \_et al.\_
+### [Coding as a playground: Promoting positive learning experiences in childhood classrooms](https://www.sciencedirect.com/science/article/pii/S0360131519300995)
+### Computers & Education
+(2019)
+- I.R. Berson \_et al.\_
+### [An exploration of robot programming as a foundation for spatial reasoning and computational thinking in preschoolers' guided play](https://www.sciencedirect.com/science/article/pii/S0885200623000777)
+### Early Childhood Research Quarterly
+(2023)
+- M.C. Di Lieto \_et al.\_
+### [Educational robotics intervention on executive functions in preschool children: A pilot study](https://www.sciencedirect.com/science/article/pii/S0747563217300195)
+### Computers in Human Behavior
+(2017)
+- G. Falloon
+### [Advancing young students' computational thinking: An investigation of structured curriculum in early years primary schooling](https://www.sciencedirect.com/science/article/pii/S0360131524000599)
+### Computers & Education
+(2024)
+- T.C. Hsu \_et al.\_
+### [How to learn and how to teach computational thinking: Suggestions based on a review of the literature](https://www.sciencedirect.com/science/article/pii/S0360131518301799)
+### Computers & Education
+(2018)
+- H. Huang
+### [The incremental teaching project design for project-based learning and its application in java programming course](https://www.sciencedirect.com/science/article/pii/B9780128030660000046)
+### Science Journal of Education
+(2016)
+- G.J. Hwang \_et al.\_
+### [Interaction of problem-based gaming and learning anxiety in language students’ English listening performance and progressive behavioral patterns](https://www.sciencedirect.com/science/article/pii/S0360131516302391)
+### Computers & Education
+(2017)
+- R.T. Lohndorf \_et al.\_
+### [Socioeconomic status, parental beliefs, and parenting practices as predictors of preschoolers' school readiness and executive functions in Chile](https://www.sciencedirect.com/science/article/pii/S0885200621000569)
+### Early Childhood Research Quarterly
+(2021)
+L. Meteyard \_et al.\_
+### [Best practice guidance for linear mixed-effects models in psychological science](https://www.sciencedirect.com/science/article/pii/S0749596X20300061)
+### Journal of Memory and Language
+(2020)
+A. Misirli \_et al.\_
+### [Computational thinking in early childhood education: The impact of programming a tangible robot on developing debugging knowledge](https://www.sciencedirect.com/science/article/pii/S0885200623000765)
+### Early Childhood Research Quarterly
+(2023)
+A. Miyake \_et al.\_
+### [The unity and diversity of executive functions and their contributions to complex “frontal lobe” tasks: A latent variable analysis](https://www.sciencedirect.com/science/article/pii/S001002859990734X)
+### Cognitive Psychology
+(2000)
+C. Robledo-Castro \_et al.\_
+### [Effects of a computational thinking intervention program on executive functions in children aged 10 to 11](https://www.sciencedirect.com/science/article/pii/S2212868922000812)
+### International Journal of Child-Computer Interaction
+(2023)
+J. Su \_et al.\_
+### [A systematic review of integrating computational thinking in early childhood education](https://www.sciencedirect.com/science/article/pii/S2666557323000010)
+### Computers and Education Open
+(2023)
+K. Tsarava \_et al.\_
+### [A cognitive definition of computational thinking in primary education](https://www.sciencedirect.com/science/article/pii/S036013152100302X)
+### Computers & Education
+(2022)
+Y. Wang \_et al.\_
+### [Can robot-supported learning enhance computational thinking? A meta-analysis](https://www.sciencedirect.com/science/article/pii/S187118712400066X)
+### Thinking Skills and Creativity
+(2024)
+X. Zhang \_et al.\_
+### [A metaphor-based robot programming approach to facilitating young children’s computational thinking and positive learning behaviors](https://www.sciencedirect.com/science/article/pii/S0360131524000538)
+### Computers & Education
+(2024)
+B. Zurnacı \_et al.\_
+### [Educational robotics or unplugged coding activities in kindergartens?: Comparison of the effects on pre-school children's computational thinking and executive function skills](https://www.sciencedirect.com/science/article/pii/S1871187124001147)
+### Thinking Skills and Creativity
+(2024)
+S.F. Ahmed \_et al.\_
+### Executive function and academic achievement: Longitudinal relations from early childhood to adolescence
+(2018)
+T.V. Akhutina \_et al.\_
+### The role of the analysis of the zone of proximal development in the course of remediation of executive functions: An example
+R. Bakeman \_et al.\_
+### Observing interaction: An introduction to sequential analysis (2nd ed
+(1997)
+R. Bakeman \_et al.\_
+### Sequential analysis and observational methods for the behavioral sciences (1st ed
+(2011)
+B. Barron \_et al.\_
+### Doing with understanding: Lessons from research on problem and project-based learning
+### The Journal of the Learning Sciences
+(1998)
+M.U. Bers
+### Coding as a playground: Programming and computational thinking in the early childhood classroom
+(2020)
+M.U. Bers \_et al.\_
+### The state of the field of computational thinking in early childhood education
+### OECD education working papers
+(2022)
+K. Brennan \_et al.\_
+### April). New frameworks for studying and assessing the development of computational thinking
+(2012)
+### What is PBL?
+J.L. Campbell \_et al.\_
+### Coding in-depth semistructured interviews: Problems of unitization and intercoder reliability and agreement
+### Sociological Methods & Research
+(2013)
+R.M. Capraro \_et al.\_
+### STEM project-based learning : An integrated science, technology, engineering, and mathematics (STEM) approach
+### SensePublishers
+(2013)
+Y. Chen \_et al.\_
+### Young children’s conceptions of robot programming learning: A draw-a-picture and epistemic network analysis
+### Educational Technology & Society
+(2024)
+K.H. Cheng \_et al.\_
+### Exploring students' behavioural patterns during online peer assessment from the affective, cognitive, and metacognitive perspectives: A progressive sequential analysis
+### Technology, Pedagogy and Education
+(2013)
+Y.H. Ching \_et al.\_
+### Educational robotics for developing computational thinking in young learners: A systematic review
+### TechTrends
+(2023)
+S. Chookaew \_et al.\_
+### Implementation of a robotic-transformed five-phase inquiry learning to foster students' computational thinking and engagement: A mobile learning perspective
+### International Journal of Mobile Learning and Organisation
+(2022)
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525002398)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

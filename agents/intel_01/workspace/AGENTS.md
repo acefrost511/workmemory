@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 8f1f41642797dc8d79c72d3c84a09e4b
+    PropagateID: 8f1f41642797dc8d79c72d3c84a09e4b
+    ReservedCode1: 3045022100b8d68cd0fb93e12642e2c68dbf425c44c85fdd4b24bf8a2a17de1fac9ba3541902204cc30b9f1f2c8df2760ee74a996438924c5e979efd9a570e6d5d04da12988976
+    ReservedCode2: 3045022100cfbd22c4cb587a029646fc91a1cb7bea07ff8478f1827e1c2e5a6de54cb85b3702204e9b987589cc05dcadcd3ebfc41fd28a95c147f3f4a9f3106d5aca7613f94cf9
+---
+
 # AGENTS.md - Your Workspace
 
 This folder is home. Treat it that way.

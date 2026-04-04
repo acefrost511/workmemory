@@ -1,0 +1,193 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105538
+# Content Length: 21077 characters
+# Extracted at: 2026-04-04 06:44:33
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003070?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003070?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525003070)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525003070/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003070?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003070?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003070?via%3Dihub#preview-section-snippets)
+- [References (62)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003070?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 244](https://www.sciencedirect.com/journal/computers-and-education/vol/244/suppl/C "Go to table of contents for this volume/issue"), April 2026, 105538
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00166-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/244/suppl/C)
+# Augmented reality and generative learning in K-12 writing: Performance outcomes and the mediating roles of motivation and metacognition
+Author links open overlay panelMingLia, Xin-XiangWanga, YutingChenb, MutluCukurovac
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105538](https://doi.org/10.1016/j.compedu.2025.105538 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525003070&orderBeanReset=true)
+## Highlights
+- •
+A generative learning-based AR writing education approach was proposed.
+- •
+This approach is based on the SOI model of generative learning.
+- •
+This approach enhanced writing and developed motivation and metacognition.
+- •
+Motivation and metacognition partially improved writing performance.
+## Abstract
+Writing requires both metacognitive support for cognitive monitoring to ensure clear and logical organization of ideas and motivation to sustain this process. These factors complicate writing instruction. In K–12 education, writing instruction often does not provide authentic learning experiences, resulting in low student motivation. Augmented reality (AR), which enhances real-world contexts with interactive virtual elements, has been shown to increase motivation, yet it may also introduce extraneous processing that does not effectively support metacognitive development during writing. By contrast, generative learning strategies (e.g., summarizing, imagining, and self-testing) are well recognized for fostering metacognition by prompting learners to actively organize and integrate knowledge to construct coherent mental representations, but they are often perceived as cognitively effortful and thus struggle to sustain student motivation. To overcome these limitations, this study integrates AR with generative learning strategies to propose a generative-learning-based AR (GLAR) approach. This approach aims to combine the motivational benefits of AR with the metacognitive benefits of generative learning strategies to support students' writing. Additionally, the mediating roles of motivation and metacognition in the effects of pedagogical approach on students' writing performance were examined. The effectiveness of the GLAR approach and the validity of the mediation model were evaluated in a quasi-experimental study involving 117 pupils in China. The students were randomly assigned to one of three groups: the experimental group, which received the GLAR intervention; control group 1, which received a generative learning (GL) intervention without AR; and control group 2, which received an AR-based learning (AL) intervention without GL. The following results were obtained. (1) The GLAR group outperformed the AL group in writing accuracy, organization, and metacognition. (2) The GLAR group outperformed the GL group in writing organization, creativity, motivation, and metacognition. (3) Compared with the AL approach, the GLAR approach improved writing accuracy, organization, and overall writing performance through metacognition as a mediator. (4) Compared with the GL approach, the GLAR approach improved writing creativity and overall writing performance through motivation as a mediator and improved writing organization through the sequential mediation of motivation and metacognition. The present results demonstrated both the effectiveness of the proposed GLAR approach in improving students’ writing performance and the mediating role of motivation in its effect on metacognition.
+## Introduction
+Writing is a powerful skill that aids learning, reading comprehension, self-awareness, and communication (Graham & Harris, 2019). However, writing can be challenging due to its complex, fluid nature, meaning that ongoing problem-solving and progress monitoring are required (Chen et al., 2022). The complexity of writing tasks often leads students to have negative emotions and develop inefficient writing habits, creating motivational challenges (Bruning & Horn, 2000). Teachers have also reported that students’ writing motivation declines over an academic year, often due to a lack of authentic learning opportunities (Boscolo & Hidi, 2007).
+Augmented reality (AR) can increase learners' motivation by providing authentic experiences directly related to writing topics (Li et al., 2023). As an immersive technology, AR enriches real-world environments by overlaying virtual elements such as text, images, or videos, thereby creating interactive learning experiences (Azuma, 1997). The use of AR in teaching can increase learners’ active engagement in writing (Koç et al., 2022). Although Koç et al. (2022) suggested that AR-induced motivation can considerably improve writing performance, additional evidence is needed to fully understand how motivation mediates the effects of AR on writing performance.
+In addition to motivation, metacognition is essential to the writing process; it enables learners to effectively plan, monitor, and evaluate their work (Lee & Mak, 2018). With metacognition, students can progress beyond simply describing their knowledge and purposefully transform it into a written work while considering the work's audience, genre, and rhetorical stance to achieve their writing objectives (Bruning & Horn, 2000). Without metacognitive support, students may struggle to meaningfully apply their knowledge (Lee & Mak, 2018). Although AR is a promising educational tool, its ability to foster metacognition is limited. Tugtekin and Odabasi (2022) reported that AR promotes metacognition under only specific learning environment conditions. If used ineffectively, AR can result in extraneous cognitive processing, causing students to become more focused on the technology itself than their writing task. This shift can create an imbalance between metacognitive and motivational factors, preventing students from achieving meaningful learning outcomes (Chen et al., 2020, Chen, Li, Huang, et al., 2024; Mayer et al., 2023). Because successful writing requires a delicate balance of motivational and metacognitive factors (Igo, 2008; Nückles et al., 2020), AR must be paired with effective learning strategies if it is to sustain students' motivation, promote metacognitive engagement to achieve instructional objectives, and guide self-monitoring of learning progress.
+Within this context, generative learning (GL) has exhibited promise as a strategy for improving AR-enhanced writing education (Chen, Li, Huang, et al., 2024). Rooted in constructivist theory, GL fosters active learning engagement by encouraging students to reorganize and integrate course materials with their prior knowledge (Fiorella & Mayer, 2016). For instance, a generative summarizing strategy can enable students to monitor their understanding, which in turn improves their performance and retention, conferring metacognitive benefits (Thiede & Anderson, 2003). Similarly, GL activities, such as engaging in debates, may deepen students' learning more than is achieved by nongenerative activities, such as reading course materials or watching recorded lectures (Zhou et al., 2024). GL can also reduce extraneous cognitive processing, honing students' focus on understanding the learning material. Efficient generative processing directs students’ focus to core cognitive processes and thus fosters a balance between motivational conditions and metacognition (Mayer et al., 2023; Petersen et al., 2023).
+In this paper, we integrate AR with generative learning strategies to propose a generative-learning-based AR (GLAR) approach, which was designed to improve both learning motivation and metacognition in relation to writing tasks. We experimentally evaluated the effect of the GLAR approach on students' writing performance and determined the mediating roles of the students’ motivation and metacognition.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525003070)
+## Section snippets
+## Application of AR in writing education
+AR is gaining increasing attention in writing education (Li et al., 2023; Koç et al., 2022; Wang, 2017). For example, in a prior study (Li et al., 2023), we developed an AR-based approach for the learning of first-language writing to provide an authentic learning environment and motivate active writing engagement. This approach improved students' writing performance, particularly their feature descriptiveness and innovative thinking, and was found to be most effective for highly engaged
+## System structure
+The structure of the GLAR system developed in this study is illustrated in Fig. 3. This system featured a teacher terminal through which educators designed AR presentations to serve as learning materials for students. Students then used the tailored AR system to learn and interact with the course material, offering them an immersive and interactive learning experience. Data generated during the learning process (including interaction data, questionnaires, and essays) were collected in a
+## Experimental design
+To test our conceptual framework and address our research questions, we employed a quasi-experimental design and conducted quantitative analyses (i.e., one-way analysis of covariance \[ANCOVA\], mediation analysis, and Mann–Whitney U tests). Learning approach was the independent variable, and posttest writing score, motivation, and metacognition were the dependent variables. The pretest dependent variable scores served as covariates. Additionally, motivation and metacognition were treated as
+## Writing outcomes
+As indicated in Table 2, overall writing performance differed significantly between the GLAR group and the two control groups (GL & AL groups). A pairwise test revealed significantly higher average posttest overall writing score in the GLAR group (adjusted \_M\_ = 78.81) compared with the GL (adjusted \_M\_ = 73.74) and AL (adjusted \_M\_ = 72.94) groups, indicating that both the AR environment and GLS-related guidance improved the students’ writing performance.
+As indicated in Table 2, Table 3, the GLAR
+## RQ1: What are the differences in writing performance among students receiving instruction of differing types (GLAR vs. AL approach; GLAR vs. GL approach)?
+RQ1 focuses on whether the GLAR approach can improve students' writing performance to a greater degree than the other approaches can. Our results indicated that the GLAR group outperformed the AL group in overall writing score ( \_F\_ = 10.309, \_p\_ < 0.01, \_η\_ \_2\_ = 0.124), accuracy ( \_F\_ = 4.38, \_p\_ < 0.05, \_η\_ \_2\_ = 0.057, small effect size), and organization ( \_F\_ = 24.548, \_p\_ < 0.001, \_η\_ \_2\_ = 0.252, large effect size). The advantages of the GLAR approach over the AL approach in organization and accuracy were
+## Limitations and suggestions
+Despite our thorough preparation and implementation, this study has three main limitations that should be addressed in future research. First, although 5 weeks may be sufficient to observe changes in certain aspects of metacognition (Jones et al., 2012), this duration may be too short to observe other aspects of metacognitive development. Studies conducted over a longer period, such as an entire semester or academic year, may yield different conclusions. Second, regarding the proposed mechanism
+## Implications and conclusions
+The contributions of this study to the existing literature lie in both theoretical and practical dimensions. From a theoretical perspective, the proposed mediation model provides empirical support for Mayer's (2014) hypothesis regarding the roles of motivation and metacognition in CTML. Two key findings support this validation. First, motivation shapes metacognition during writing learning: as Molin et al. (2020) noted, students who value a task and are positively motivated, are also more
+## CRediT authorship contribution statement
+\*\*Ming Li:\*\* Writing – review & editing, Writing – original draft, Validation, Supervision, Methodology, Funding acquisition, Conceptualization. \*\*Xin-Xiang Wang:\*\* Writing – original draft, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Yuting Chen:\*\* Writing – review & editing, Methodology, Data curation, Conceptualization. \*\*Mutlu Cukurova:\*\* Writing – review & editing, Methodology, Conceptualization.
+## Statements and declarations
+The participants were recruited during the first semester of the 2023–2024 academic year, and we were granted permission to conduct the intervention study during the instructional period. Each participant obtained parental consent, and all participants were informed that their participation was voluntary and that they had the right to withdraw from the experiment at any time during the process. Participants consented to the collection and analysis of their data, and to having their data used
+## Declaration of generative AI and AI-assisted technologies in the writing process
+During the preparation of this work, the authors used ChatGPT in order to help with some grammar issues and translation. After using these tools, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
+## Declaration of competing interest
+The authors have no competing interests to declare.
+## Acknowledgements
+This work was supported in part by “Pioneer” and “Leading Goose” R&D Program of Zhejiang (No. 2024C03262), and Jinhua Science and Technology Plan (No. 2023–3-003a).
+Recommended articles
+- Y. Huang \_et al.\_
+### [The trajectory of syntactic complexity development in L1 Chinese narrative writings of primary school children: A systematic 5-year longitudinal study](https://www.sciencedirect.com/science/article/pii/S1075293522000186)
+### Assessing Writing
+(2022)
+- M. Li \_et al.\_
+### [From motivational experience to creative writing: A motivational AR-based learning approach to promoting Chinese writing performance and positive writing behaviours](https://www.sciencedirect.com/science/article/pii/S0360131523001215)
+### Computers & Education
+(2023)
+- F. Molin \_et al.\_
+### [The effect of feedback on metacognition-A randomized experiment using polling technology](https://www.sciencedirect.com/science/article/pii/S0360131520300841)
+### Computers & Education
+(2020)
+- G.B. Petersen \_et al.\_
+### [Collaborative generative learning activities in immersive virtual reality increase learning](https://www.sciencedirect.com/science/article/pii/S0360131523002087)
+### Computers & Education
+(2023)
+- G. Schraw \_et al.\_
+### [Assessing metacognitive awareness](https://www.sciencedirect.com/science/article/pii/S0361476X84710332)
+### Contemporary Educational Psychology
+(1994)
+- F. Teng
+### [Immediate and delayed effects of embedded metacognitive instruction on Chinese EFL students' English writing and regulation of cognition](https://www.sciencedirect.com/science/article/pii/S1871187116300347)
+### Thinking Skills and Creativity
+(2016)
+- K.W. Thiede \_et al.\_
+### [Summarizing can improve metacomprehension accuracy](https://www.sciencedirect.com/science/article/pii/S0361476X02000115)
+### Contemporary Educational Psychology
+(2003)
+- Y.H. Wang
+### [Exploring the effectiveness of integrating augmented reality-based materials to support writing activities](https://www.sciencedirect.com/science/article/pii/S0360131517300969)
+### Computers & Education
+(2017)
+- T. Zhao \_et al.\_
+### [A serial mediation model of the relationship between suppression emotion-regulation tendency and outcomes of MOOC learning by Chinese university students: The role of cognitive appraisals, boredom, and behavioral avoidance](https://www.sciencedirect.com/science/article/pii/S0360131522001208)
+### Computers & Education
+(2022)
+- R.T. Azuma
+### A survey of augmented reality
+### Presence: Teleoperators and Virtual Environments
+(1997)
+F.C. Bartlett
+### Remembering: A study in experimental and social psychology
+(1995)
+P. Boscolo \_et al.\_
+### The multiple meanings of motivation to write
+R. Bruning \_et al.\_
+### Developing motivation to write
+### Educational Psychologist
+(2000)
+Y. Cai \_et al.\_
+### Augmented reality technology in language learning: A meta‐analysis
+### Journal of Computer Assisted Learning
+(2022)
+A. Camacho \_et al.\_
+### Writing motivation in school: A systematic review of empirical research in the early twenty-first century
+### Educational Psychology Review
+(2021)
+Y.T. Chen \_et al.\_
+### Unleashing imagination: an effective pedagogical approach to integrate into spherical video-based virtual reality to improve students’ creative writing
+### Education and Information Technologies
+(2024)
+Y.T. Chen \_et al.\_
+### A systematic review of research on immersive technology-enhanced writing education: The current state and a research agenda
+### IEEE Transactions on Learning Technologies
+(2024)
+Y.T. Chen \_et al.\_
+### Promoting deep writing with immersive technologies: An SVVR‐supported Chinese composition writing approach for primary schools
+### British Journal of Educational Technology
+(2022)
+Y. Chen \_et al.\_
+### Google Earth Virtual Reality and expository writing for young English Learners from a Funds of Knowledge perspective
+### Computer Assisted Language Learning
+(2020)
+Y.T. Chen \_et al.\_
+### Understanding the dynamics of motivation and learning behaviors in augmented reality-based writing courses
+### Education and Information Technologies
+(2025)
+J. Cohen
+### Statistical power analysis jbr the behavioral sciences
+(1988)
+K. Conradi \_et al.\_
+### Motivation terminology in reading research: A conceptual review
+### Educational Psychology Review
+(2014)
+Z. Dörnyei
+### Attitudes, orientations, and motivations in language learning: Advances in theory, research, and applications
+### Language Learning
+(2003)
+A. Efklides
+### Metacognition: Defining its facets and levels of functioning in relation to self-regulation and co-regulation
+### European Psychologist
+(2008)
+F. Faul \_et al.\_
+### G∗Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences
+### Behavior Research Methods
+(2007)
+A. Field
+### Discovering statistics using SPSS: (and sex and drugs and rock “n” roll)
+(2009)
+L. Fiorella \_et al.\_
+### Eight ways to promote generative learning
+### Educational Psychology Review
+(2016)
+J.H. Flavell
+### Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry
+### American Psychologist
+(1979)
+C. Fornell \_et al.\_
+### Evaluating structural equation models with unobservable variables and measurement error
+### Journal of Marketing Research
+(1981)
+S. Graham \_et al.\_
+### Writing motivation questionnaire: Validation and application as a formative assessment
+### Assessment in Education: Principles, Policy & Practice
+(2022)
+S. Graham \_et al.\_
+### Evidence-based practices in writing
+### Best Practices in Writing Instruction
+(2019)
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525003070)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

@@ -1,0 +1,1577 @@
+# Source URL: https://arxiv.org/search/?searchtype=all&query=K-12+AND+AI+AND+education&start=0&order=-announced_date_first
+# Content Length: 123642 characters
+# Extracted at: 2026-04-04 05:11:00
+#============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search | arXiv e-print repository
+
+
+
+
+[Skip to main content](#main-container)
+
+[![]()](https://cornell.edu/)
+
+We gratefully acknowledge support from  
+ the Simons Foundation, [member institutions](https://info.arxiv.org/about/ourmembers.html), and all contributors. [Donate](https://info.arxiv.org/about/donate.html)
+
+
+
+
+[![]()](https://arxiv.org/)
+
+
+[Help](https://info.arxiv.org/help) | [Advanced Search](https://arxiv.org/search/advanced)
+
+
+All fields
+Title
+Author
+Abstract
+Comments
+Journal reference
+ACM classification
+MSC classification
+Report number
+arXiv identifier
+DOI
+ORCID
+arXiv author ID
+Help pages
+Full text
+
+
+
+
+Search
+
+
+
+ 
+[Login](https://arxiv.org/login)
+
+
+
+Showing 1–50 of 82 results for all: K-12 AND AI AND education
+=============================================================
+
+
+[Search v0.5.6 released 2020-02-24](https://github.com/arXiv/arxiv-search/releases)  
+
+
+Search term or terms
+
+
+Field
+All fieldsTitleAuthor(s)AbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDLicense (URI)arXiv author IDHelp pagesFull text
+
+Search
+
+
+ Show abstracts
+
+ Hide abstracts
+
+
+
+[Advanced Search](/search/advanced?terms-0-term=K-12+AND+AI+AND+education&terms-0-field=all&size=50&order=-announced_date_first)
+
+
+
+
+
+All fieldsTitleAuthor(s)AbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDLicense (URI)arXiv author IDHelp pagesFull text
+
+* Show abstracts
+* Hide abstracts
+
+2550100200
+
+results per page.
+
+Sort results by
+Announcement date (newest first)Announcement date (oldest first)Submission date (newest first)Submission date (oldest first)Relevance
+
+
+Go
+
+
+
+
+
+Previous
+[Next](/search/?searchtype=all&query=K-12+AND+AI+AND+education&start=50&order=-announced_date_first)
+
+* [1](/search/?searchtype=all&query=K-12+AND+AI+AND+education&start=0&order=-announced_date_first)
+* [2](/search/?searchtype=all&query=K-12+AND+AI+AND+education&start=50&order=-announced_date_first)
+
+1. [arXiv:2604.01396](https://arxiv.org/abs/2604.01396)
+    [[pdf](https://arxiv.org/pdf/2604.01396), [ps](https://arxiv.org/ps/2604.01396), [other](https://arxiv.org/format/2604.01396)] 
+   
+   cs.CY
+   cs.ET
+   cs.HC
+   
+   Democratizing Foundations of Problem-Solving with AI: A Breadth-First Search Curriculum for Middle School Students
+   
+   Authors:
+   [Griffin Pitts](/search/?searchtype=author&query=Pitts%2C+G),
+   [Kimia Fazeli](/search/?searchtype=author&query=Fazeli%2C+K),
+   [Tirth Bhatt](/search/?searchtype=author&query=Bhatt%2C+T),
+   [Jennifer Albert](/search/?searchtype=author&query=Albert%2C+J),
+   [Marnie Hill](/search/?searchtype=author&query=Hill%2C+M),
+   [Tiffany Barnes](/search/?searchtype=author&query=Barnes%2C+T),
+   [Shiyan Jiang](/search/?searchtype=author&query=Jiang%2C+S),
+   [Bita Akram](/search/?searchtype=author&query=Akram%2C+B)
+   
+   Abstract:
+   As AI becomes more common in students' everyday experiences, a major challenge for…
+   ▽ More
+   
+   As AI becomes more common in students' everyday experiences, a major challenge for K-12 AI education is designing learning experiences that can be meaningfully integrated into existing subject-area instruction. This paper presents the design and implementation of an AI4K12-aligned curriculum that embeds AI learning goals within a rural middle school science classroom using Breadth-First Search (BFS) as an accessible entry point to AI problem-solving. Through unplugged activities and an interactive simulation environment, students learned BFS as a strategy for exploring networks and identifying shortest paths, then applied it to science contexts involving virus spread and contact tracing. To examine engagement and learning, we analyzed pre- and post-assessments, student work artifacts, and a teacher interview. Results suggest that students engaged productively with the curriculum, improved their understanding of BFS and AI problem-solving, and benefited from learning these ideas within ongoing science instruction. Teacher feedback further indicated that the module fit well within the science curriculum while supporting intended science learning outcomes. We conclude with curriculum and design considerations for broadening access to learning about problem-solving with AI in education.
+   △ Less
+   
+   
+   Submitted 1 April, 2026;
+   originally announced April 2026.
+   
+   Comments:
+   Paper accepted to the 27th International Conference on AI in Education (AIED 2026)
+2. [arXiv:2603.26004](https://arxiv.org/abs/2603.26004)
+    [[pdf](https://arxiv.org/pdf/2603.26004), [ps](https://arxiv.org/ps/2603.26004), [other](https://arxiv.org/format/2603.26004)] 
+   
+   cs.CY
+   
+   A Human-Centered Approach to Ethical AI Education in Underresourced Secondary Schools
+   
+   Authors:
+   [Valentina Kuskova](/search/?searchtype=author&query=Kuskova%2C+V),
+   [Sonia Howell](/search/?searchtype=author&query=Howell%2C+S),
+   [Brianna Stines](/search/?searchtype=author&query=Stines%2C+B),
+   [Brianna Conaghan](/search/?searchtype=author&query=Conaghan%2C+B)
+   
+   Abstract:
+   National and international policy efforts increasingly promote AI literacy in…
+   ▽ More
+   
+   National and international policy efforts increasingly promote AI literacy in K--12 education, yet access to AI tools alone is insufficient to ensure equitable and responsible participation, particularly in under-resourced contexts. Without designs that integrate ethical reasoning, human support, and opportunities for judgment, AI initiatives risk reinforcing inequities and preparing students to use powerful technologies without critically evaluating their societal consequences. To address this gap, we developed a human-centered, college credit--bearing course on Responsible and Ethical AI for students attending Title I and Title I--eligible high schools, implemented in partnership with the National Education Opportunity Network (NEON). The bichronous course integrates foundational AI concepts with ethical and socio-technical reasoning through asynchronous instruction, near-peer mentorship, and synchronous, discussion-based instruction. In its inaugural year, nearly 180 students from 12 U.S. schools completed the course, with a 97.8% completion rate. Using end-of-course survey data from students, co-teachers, and teaching fellows, this study examines academic agency, confidence with college-level expectations, critical engagement with responsible AI, and perceived post-secondary trajectory expansion. Results indicate that students were challenged to apply learning and reason about ethical tradeoffs, while educators reported high engagement, rigor, and meaningfulness relative to typical high school coursework. Overall, findings highlight the importance of human connections in advancing equitable Artificial Intelligence in Education and support ethical judgment as a core learning outcome alongside AI literacy.
+   △ Less
+   
+   
+   Submitted 26 March, 2026;
+   originally announced March 2026.
+   
+   Comments:
+   14 pages
+   
+   ACM Class:
+   K.3
+3. [arXiv:2603.22588](https://arxiv.org/abs/2603.22588)
+    [[pdf](https://arxiv.org/pdf/2603.22588)] 
+   
+   cs.HC
+   cs.ET
+   
+   Practitioner Voices Summit: How Teachers Evaluate AI Tools through Deliberative Sensemaking
+   
+   Authors:
+   [Dorottya Demszky](/search/?searchtype=author&query=Demszky%2C+D),
+   [Christopher Mah](/search/?searchtype=author&query=Mah%2C+C),
+   [Helen Higgins](/search/?searchtype=author&query=Higgins%2C+H)
+   
+   Abstract:
+   Teachers face growing pressure to integrate AI tools into their classrooms, yet are rarely positioned as agentic decision-makers in this process. Understanding the criteria teachers use to evaluate…
+   ▽ More
+   
+   Teachers face growing pressure to integrate AI tools into their classrooms, yet are rarely positioned as agentic decision-makers in this process. Understanding the criteria teachers use to evaluate AI tools, and the conditions that support such reasoning, is essential for responsible AI integration. We address this gap through a two-day national summit in which 61 U.S. K-12 mathematics educators developed personal rubrics for evaluating AI classroom tools. The summit was designed to support deliberative sensemaking, a process we conceptualize by integrating Technological Pedagogical Content Knowledge (TPACK) with deliberative agency. Teachers generated over 200 criteria - initial articulations spanning four higher-order themes (Practical, Equitable, Flexible, and Rigorous) - that addressed both AI outputs and the process of using AI. Criteria contained productive tensions (e.g., personalization versus fairness, adaptability versus efficiency), and the vast majority framed AI as an assistant rather than a coaching tool for professional learning. Analysis of surveys, interviews, and summit discussions revealed five mechanisms supporting deliberative sensemaking: time and space for deliberation, artifact-centered sensemaking, collaborative reflection through diverse viewpoints, knowledge-building, and psychological safety. Across these mechanisms, TPACK and agency operated in a mutually reinforcing cycle - knowledge-building enabled more grounded evaluative judgment, while the act of constructing criteria deepened teachers' understanding of tools. We discuss implications for edtech developers seeking practitioner input, school leaders making adoption decisions, educators and professional learning designers, and researchers working to elicit teachers' evaluative reasoning about rapidly evolving technologies.
+   △ Less
+   
+   
+   Submitted 31 March, 2026; v1 submitted 23 March, 2026;
+   originally announced March 2026.
+4. [arXiv:2603.20220](https://arxiv.org/abs/2603.20220)
+    [[pdf](https://arxiv.org/pdf/2603.20220)] 
+   
+   cs.CY
+   
+   Development and Validation of a Faculty Artificial Intelligence Literacy and Competency (FALCON-AI) Scale for Higher Education
+   
+   Authors:
+   [Yukyeong Song](/search/?searchtype=author&query=Song%2C+Y),
+   [Hyunjoo Moon](/search/?searchtype=author&query=Moon%2C+H),
+   [Hyewon Yang](/search/?searchtype=author&query=Yang%2C+H),
+   [Chris Kilgore](/search/?searchtype=author&query=Kilgore%2C+C)
+   
+   Abstract:
+   The integration of artificial intelligence (AI) in higher…
+   ▽ More
+   
+   The integration of artificial intelligence (AI) in higher education underscores the growing importance of faculty AI literacy and competency across teaching, research, and service. Existing AI literacy instruments, however, primarily target the general public, students, or K-12 teachers, and therefore lack the role-embedded indicators and psychometric validation needed for scalable assessment among university faculty. Grounded in the Critical Tech-resilient Literacies (CTRL) framework, this study develops and validates the Faculty Artificial Intelligence Literacy and Competency (FALCON-AI) Scale as a concise and practically deployable tool for higher education contexts. Using a theory-driven development process, we generated an initial pool of 43 items mapped to three literacies (functional, evaluative, and ethical literacy) and situated them across four faculty work domains (general, teaching, research, service/administration), creating a 3 x 4 framework. Content validation was conducted through structured interviews with four subject-matter experts, supplemented by a GPT-based reviewer to triangulate ratings of clarity, relevance, and necessity, yielding refined 39 items for pilot testing. Pilot testing involved 269 valid responses, which were analyzed using confirmatory factor analysis (CFA). CFA evaluated the theoretically specified structure, followed by item reduction to minimize respondent burden while preserving content coverage. The final 23-item FALCON-AI demonstrated good model fit for the AI Literacy x Faculty Work measurement and strong reliability. This study presents a validated FALCON-AI scale with good reliability and validity, offering a refined practical instrument for assessing faculty AI in higher education.
+   △ Less
+   
+   
+   Submitted 3 March, 2026;
+   originally announced March 2026.
+   
+   Comments:
+   32 pages
+5. [arXiv:2603.11709](https://arxiv.org/abs/2603.11709)
+    [[pdf](https://arxiv.org/pdf/2603.11709), [ps](https://arxiv.org/ps/2603.11709), [other](https://arxiv.org/format/2603.11709)] 
+   
+   cs.AI
+   
+   Scaling Laws for Educational AI Agents
+   
+   Authors:
+   [Mengsong Wu](/search/?searchtype=author&query=Wu%2C+M),
+   [Hao Hao](/search/?searchtype=author&query=Hao%2C+H),
+   [Shuzhen Bi](/search/?searchtype=author&query=Bi%2C+S),
+   [Keqian Li](/search/?searchtype=author&query=Li%2C+K),
+   [Wentao Liu](/search/?searchtype=author&query=Liu%2C+W),
+   [Siyu Song](/search/?searchtype=author&query=Song%2C+S),
+   [Hongbo Zhao](/search/?searchtype=author&query=Zhao%2C+H),
+   [Aimin Zhou](/search/?searchtype=author&query=Zhou%2C+A)
+   
+   Abstract:
+   …laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of LLM-based educational agents remains unexplored. We propose that…
+   ▽ More
+   
+   While scaling laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of LLM-based educational agents remains unexplored. We propose that educational agent capability scales not merely with the underlying model size, but through structured dimensions that we collectively term the Agent Scaling Law: role definition clarity, skill depth, tool completeness, runtime capability, and educator expertise injection. Central to this framework is AgentProfile, a structured JSON-based specification that serves as the mechanism enabling systematic capability growth of educational agents. We present EduClaw, a profile-driven multi-agent platform that operationalizes this scaling law, demonstrating its effectiveness through the construction and deployment of 330+ educational agent profiles encompassing 1,100+ skill modules across K-12 subjects. Our empirical observations suggest that educational agent performance scales predictably with profile structural richness. We identify two complementary scaling axes -- Tool Scaling and Skill Scaling -- as future directions, arguing that the path to more capable educational AI lies not solely in larger models, but in stronger structured capability systems.
+   △ Less
+   
+   
+   Submitted 12 March, 2026;
+   originally announced March 2026.
+   
+   Comments:
+   19 pages, 6 figures, 3 tables, 1 algorithm
+6. [arXiv:2602.16894](https://arxiv.org/abs/2602.16894)
+    [[pdf](https://arxiv.org/pdf/2602.16894)] 
+   
+   cs.CY
+   cs.HC
+   
+   CreateAI Insights from an NSF Workshop on K12 Students, Teachers, and Families as Designers of Artificial Intelligence and Machine Learning Applications
+   
+   Authors:
+   [Yasmin Kafai](/search/?searchtype=author&query=Kafai%2C+Y),
+   [José Ramón Lizárraga](/search/?searchtype=author&query=Liz%C3%A1rraga%2C+J+R),
+   [R. Benjamin Shapiro](/search/?searchtype=author&query=Shapiro%2C+R+B)
+   
+   Abstract:
+   In response to the exponential growth in the use of artificial intelligence and machine learning applications, educators, researchers and policymakers have taken steps to integrate artificial intelligence applications into…
+   ▽ More
+   
+   In response to the exponential growth in the use of artificial intelligence and machine learning applications, educators, researchers and policymakers have taken steps to integrate artificial intelligence applications into K-12 education. Among these efforts, one equally important approach has received little, if any attention: What if students and teachers were not just learning to be competent users of AI but also its creators? This question is at the heart of CreateAI in which K12 educators, researchers, and learning scientists addressed the following questions: (1) What tools, skills, and knowledge will empower students and teachers to build their own AI/ML applications? (2) How can we integrate these approaches into classrooms? and (3) What new possibilities for learning emerge when students and teachers become innovators and creators? In the report we provide recommendations for what tools designed for creating AI/ML applications should address in terms of design features, and learner progression in investigations. To promote effective learning and teaching of creating AI applications, we also need to help students and teachers select appropriate tools. We outline how we need to develop a better understanding of learning practices and funds of knowledge to support youth as they create and evaluate AI/ML applications. This also includes engaging youth in learning about ethics and critically that is authentic, empowering, and relevant throughout the design process. Here we advocate for the integration of ethics in the curriculum. We also address what teachers need to know and how assessments can help establish baselines, include different instruments, and promote students as responsible creators of AI. Together, these recommendations provide important insights for preparing students to engage thoughtfully and critically with these technologies.
+   △ Less
+   
+   
+   Submitted 18 February, 2026;
+   originally announced February 2026.
+   
+   ACM Class:
+   K.3.2; H.5.0
+7. [arXiv:2602.16890](https://arxiv.org/abs/2602.16890)
+    [[pdf](https://arxiv.org/pdf/2602.16890)] 
+   
+   cs.CY
+   cs.HC
+   
+   Expanding the Scope of Computational Thinking in Artificial Intelligence for K-12 Education
+   
+   Authors:
+   [Yasmin Kafai](/search/?searchtype=author&query=Kafai%2C+Y),
+   [Shuchi Grover](/search/?searchtype=author&query=Grover%2C+S)
+   
+   Abstract:
+   The introduction of generative artificial intelligence applications to the public has led to heated discussions about its potential impacts and risks for K-…
+   ▽ More
+   
+   The introduction of generative artificial intelligence applications to the public has led to heated discussions about its potential impacts and risks for K-12 education. One particular challenge has been to decide what students should learn about AI, and how this relates to computational thinking, which has served as an umbrella for promoting and introducing computing education in schools. In this paper, we situate in which ways we should expand computational thinking to include artificial intelligence and machine learning technologies. Furthermore, we discuss how these efforts can be informed by lessons learned from the last decade in designing instructional programs, integrating computing with other subjects, and addressing issues of algorithmic bias and justice in teaching computing in schools.
+   △ Less
+   
+   
+   Submitted 18 February, 2026;
+   originally announced February 2026.
+   
+   Comments:
+   1 figure
+   
+   ACM Class:
+   K.3.2
+8. [arXiv:2602.15531](https://arxiv.org/abs/2602.15531)
+    [[pdf](https://arxiv.org/pdf/2602.15531), [ps](https://arxiv.org/ps/2602.15531), [other](https://arxiv.org/format/2602.15531)] 
+   
+   cs.AI
+   cs.DB
+   
+   EduEVAL-DB: A Role-Based Dataset for Pedagogical Risk Evaluation in Educational Explanations
+   
+   Authors:
+   [Javier Irigoyen](/search/?searchtype=author&query=Irigoyen%2C+J),
+   [Roberto Daza](/search/?searchtype=author&query=Daza%2C+R),
+   [Aythami Morales](/search/?searchtype=author&query=Morales%2C+A),
+   [Julian Fierrez](/search/?searchtype=author&query=Fierrez%2C+J),
+   [Francisco Jurado](/search/?searchtype=author&query=Jurado%2C+F),
+   [Alvaro Ortigosa](/search/?searchtype=author&query=Ortigosa%2C+A),
+   [Ruben Tolosana](/search/?searchtype=author&query=Tolosana%2C+R)
+   
+   Abstract:
+   This work introduces EduEVAL-DB, a dataset based on teacher roles designed to support the evaluation and training of automatic pedagogical evaluators and AI tutors for instructional explanations. The dataset comprises 854 explanations corresponding to 139 questions from a curated subset of the ScienceQA benchmark, spanning science, language, and social scien…
+   ▽ More
+   
+   This work introduces EduEVAL-DB, a dataset based on teacher roles designed to support the evaluation and training of automatic pedagogical evaluators and AI tutors for instructional explanations. The dataset comprises 854 explanations corresponding to 139 questions from a curated subset of the ScienceQA benchmark, spanning science, language, and social science across K-12 grade levels. For each question, one human-teacher explanation is provided and six are generated by LLM-simulated teacher roles. These roles are inspired by instructional styles and shortcomings observed in real educational practice and are instantiated via prompt engineering. We further propose a pedagogical risk rubric aligned with established educational standards, operationalizing five complementary risk dimensions: factual correctness, explanatory depth and completeness, focus and relevance, student-level appropriateness, and ideological bias. All explanations are annotated with binary risk labels through a semi-automatic process with expert teacher review. Finally, we present preliminary validation experiments to assess the suitability of EduEVAL-DB for evaluation. We benchmark a state-of-the-art education-oriented model (Gemini 2.5 Pro) against a lightweight local Llama 3.1 8B model and examine whether supervised fine-tuning on EduEVAL-DB supports pedagogical risk detection using models deployable on consumer hardware.
+   △ Less
+   
+   
+   Submitted 19 February, 2026; v1 submitted 17 February, 2026;
+   originally announced February 2026.
+   
+   Comments:
+   10 pages, 3 figures. Published in Intl. Conf. on Learning Analytics & Knowledge Workshops (LAK Workshops 2026, GenAI-LA 26)
+9. [arXiv:2602.13243](https://arxiv.org/abs/2602.13243)
+    [[pdf](https://arxiv.org/pdf/2602.13243), [ps](https://arxiv.org/ps/2602.13243), [other](https://arxiv.org/format/2602.13243)] 
+   
+   cs.CY
+   cs.AI
+   
+   Judging the Judges: Human Validation of Multi-LLM Evaluation for High-Quality K--12 Science Instructional Materials
+   
+   Authors:
+   [Peng He](/search/?searchtype=author&query=He%2C+P),
+   [Zhaohui Li](/search/?searchtype=author&query=Li%2C+Z),
+   [Zeyuan Wang](/search/?searchtype=author&query=Wang%2C+Z),
+   [Jinjun Xiong](/search/?searchtype=author&query=Xiong%2C+J),
+   [Tingting Li](/search/?searchtype=author&query=Li%2C+T)
+   
+   Abstract:
+   Designing high-quality, standards-aligned instructional materials for K--…
+   ▽ More
+   
+   Designing high-quality, standards-aligned instructional materials for K--12 science is time-consuming and expertise-intensive. This study examines what human experts notice when reviewing AI-generated evaluations of such materials, aiming to translate their insights into design principles for a future GenAI-based instructional material design agent. We intentionally selected 12 high-quality curriculum units across life, physical, and earth sciences from validated programs such as OpenSciEd and Multiple Literacies in Project-based Learning. Using the EQuIP rubric with 9 evaluation items, we prompted GPT-4o, Claude, and Gemini to produce numerical ratings and written rationales for each unit, generating 648 evaluation outputs. Two science education experts independently reviewed all outputs, marking agreement (1) or disagreement (0) for both scores and rationales, and offering qualitative reflections on AI reasoning. This process surfaces patterns in where LLM judgments align with or diverge from expert perspectives, revealing reasoning strengths, gaps, and contextual nuances. These insights will directly inform the development of a domain-specific GenAI agent to support the design of high-quality instructional materials in K--12 science education.
+   △ Less
+   
+   
+   Submitted 30 January, 2026;
+   originally announced February 2026.
+10. [arXiv:2602.13242](https://arxiv.org/abs/2602.13242)
+     [[pdf](https://arxiv.org/pdf/2602.13242), [ps](https://arxiv.org/ps/2602.13242), [other](https://arxiv.org/format/2602.13242)] 
+    
+    cs.CY
+    
+    doi
+    [10.1609/aaai.v40i47.41515](https://doi.org/10.1609/aaai.v40i47.41515) 
+    
+    
+    AI Unplugged: Embodied Interactions for AI Literacy in Higher Education
+    
+    Authors:
+    [Jennifer M. Reddig](/search/?searchtype=author&query=Reddig%2C+J+M),
+    [Scott Moon](/search/?searchtype=author&query=Moon%2C+S),
+    [Kaitlyn Crutcher](/search/?searchtype=author&query=Crutcher%2C+K),
+    [Christopher J. MacLellan](/search/?searchtype=author&query=MacLellan%2C+C+J)
+    
+    Abstract:
+    As artificial intelligence (AI) becomes increasingly integrated into daily life, higher…
+    ▽ More
+    
+    As artificial intelligence (AI) becomes increasingly integrated into daily life, higher education must move beyond code-centric instruction to foster holistic AI literacy. We present a novel pedagogical approach that integrates embodied, unplugged activities into a university-level Introduction to AI course. Inspired by the effectiveness of CS Unplugged in K-12 education, our physical, collaborative activities gave students a first-person perspective on AI decision-making. Through interactive games modeling Search Algorithms, Markov Decision Processes, Q-learning, and Hidden Markov Models, students built an intuition for complex AI concepts and more easily transitioned to mathematical formalizations and code implementations. We present four unplugged AI activities, describe how to bridge from unplugged activities to plugged coding tasks, reflect on implementation challenges, and propose refinements. We suggest that unplugged activities can effectively bridge conceptual reasoning and technical skill-building in university-level AI education.
+    △ Less
+    
+    
+    Submitted 30 January, 2026;
+    originally announced February 2026.
+    
+    Journal ref:
+    In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 40, No. 47, pp. 40679-40687). 2026
+11. [arXiv:2601.22788](https://arxiv.org/abs/2601.22788)
+     [[pdf](https://arxiv.org/pdf/2601.22788), [ps](https://arxiv.org/ps/2601.22788), [other](https://arxiv.org/format/2601.22788)] 
+    
+    cs.HC
+    
+    FACET: Multi-Agent AI Supporting Teachers in Scaling Differentiated Learning for Diverse Students
+    
+    Authors:
+    [Jana Gonnermann-Müller](/search/?searchtype=author&query=Gonnermann-M%C3%BCller%2C+J),
+    [Jennifer Haase](/search/?searchtype=author&query=Haase%2C+J),
+    [Nicolas Leins](/search/?searchtype=author&query=Leins%2C+N),
+    [Moritz Igel](/search/?searchtype=author&query=Igel%2C+M),
+    [Konstantin Fackeldey](/search/?searchtype=author&query=Fackeldey%2C+K),
+    [Sebastian Pokutta](/search/?searchtype=author&query=Pokutta%2C+S)
+    
+    Abstract:
+    …the need for differentiated instruction, growing workloads create substantial barriers, making differentiated instruction an ideal that is often unrealized in practice. Current AI…
+    ▽ More
+    
+    Classrooms are becoming increasingly heterogeneous, comprising learners with diverse performance and motivation levels, language proficiencies, and learning differences such as dyslexia and ADHD. While teachers recognize the need for differentiated instruction, growing workloads create substantial barriers, making differentiated instruction an ideal that is often unrealized in practice. Current AI educational tools, which promise differentiated materials, are predominantly student-facing and performance-centric, ignoring other aspects that shape learning outcomes. We introduce FACET, a teacher-facing multi-agent framework designed to address these gaps by supporting differentiation that accounts for motivation, performance, and learning differences. Developed with educational stakeholders from the outset, the framework coordinates four specialized agents, including learner simulation, diagnostic assessment, material generation, and evaluation within a teacher-in-the-loop design. School principals (N = 30) shaped system requirements through participatory workshops, while in-service K-12 teachers (N = 70) evaluated material quality. Mixed-methods evaluation demonstrates strong perceived value for inclusive differentiation. Practitioners emphasized both the urgent need arising from classroom heterogeneity and the importance of maintaining pedagogical autonomy as a prerequisite for adoption. We discuss implications for future school deployment and outline partnerships for longitudinal classroom implementation.
+    △ Less
+    
+    
+    Submitted 18 March, 2026; v1 submitted 30 January, 2026;
+    originally announced January 2026.
+12. [arXiv:2601.21631](https://arxiv.org/abs/2601.21631)
+     [[pdf](https://arxiv.org/pdf/2601.21631), [ps](https://arxiv.org/ps/2601.21631), [other](https://arxiv.org/format/2601.21631)] 
+    
+    cs.CY
+    
+    Turning Language Model Training from Black Box into a Sandbox
+    
+    Authors:
+    [Nicolas Pope](/search/?searchtype=author&query=Pope%2C+N),
+    [Matti Tedre](/search/?searchtype=author&query=Tedre%2C+M)
+    
+    Abstract:
+    Most classroom engagements with generative AI focus on prompting pre-trained models, leaving the role of training data and model mechanics opaque. We developed a browser-based tool that allows students to train a small transformer language model entirely on their own device, making the training process visible. In a CS1 course, 162 students completed pre- an…
+    ▽ More
+    
+    Most classroom engagements with generative AI focus on prompting pre-trained models, leaving the role of training data and model mechanics opaque. We developed a browser-based tool that allows students to train a small transformer language model entirely on their own device, making the training process visible. In a CS1 course, 162 students completed pre- and post-test explanations of why language models sometimes produce incorrect or strange output. After a brief hands-on training activity, students' explanations shifted significantly from anthropomorphic and misconceived accounts toward data- and model-based reasoning. The results suggest that enabling learners to directly observe training can support conceptual understanding of the data-driven nature of language models and model training, even within a short intervention. For K-12 AI literacy and AI education research, the study findings suggest that enabling students to train - and not only prompt - language models can shift how they think about AI.
+    △ Less
+    
+    
+    Submitted 29 January, 2026;
+    originally announced January 2026.
+    
+    Comments:
+    4 pages, 2 figures, WIP, accepted to IEEE conference
+13. [arXiv:2601.06101](https://arxiv.org/abs/2601.06101)
+     [[pdf](https://arxiv.org/pdf/2601.06101), [ps](https://arxiv.org/ps/2601.06101), [other](https://arxiv.org/format/2601.06101)] 
+    
+    cs.CY
+    cs.AI
+    
+    How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures
+    
+    Authors:
+    [Shan Zhang](/search/?searchtype=author&query=Zhang%2C+S),
+    [Ruiwei Xiao](/search/?searchtype=author&query=Xiao%2C+R),
+    [Anthony F. Botelho](/search/?searchtype=author&query=Botelho%2C+A+F),
+    [Guanze Liao](/search/?searchtype=author&query=Liao%2C+G),
+    [Thomas K. F. Chiu](/search/?searchtype=author&query=Chiu%2C+T+K+F),
+    [John Stamper](/search/?searchtype=author&query=Stamper%2C+J),
+    [Kenneth R. Koedinger](/search/?searchtype=author&query=Koedinger%2C+K+R)
+    
+    Abstract:
+    The widespread adoption of Artificial Intelligence (AI) in…
+    ▽ More
+    
+    The widespread adoption of Artificial Intelligence (AI) in K-12 education highlights the need for psychometrically-tested measures of teachers' AI literacy. Existing work has primarily relied on either self-report (SR) or objective-based (OB) assessments, with few studies aligning the two within a shared framework to compare perceived versus demonstrated competencies or examine how prior AI literacy experience shapes this relationship. This gap limits the scalability of learning analytics and the development of learner profile-driven instructional design. In this study, we developed and evaluated SR and OB measures of teacher AI literacy within the established framework of Concept, Use, Evaluate, and Ethics. Confirmatory factor analyses support construct validity with good reliability and acceptable fit. Results reveal a low correlation between SR and OB factors. Latent profile analysis identified six distinct profiles, including overestimation (SR > OB), underestimation (SR < OB), alignment (SR close to OB), and a unique low-SR/low-OB profile among teachers without AI literacy experience. Theoretically, this work extends existing AI literacy frameworks by validating SR and OB measures on shared dimensions. Practically, the instruments function as diagnostic tools for professional development, supporting AI-informed decisions (e.g., growth monitoring, needs profiling) and enabling scalable learning analytics interventions tailored to teacher subgroups.
+    △ Less
+    
+    
+    Submitted 2 January, 2026;
+    originally announced January 2026.
+    
+    Comments:
+    16 pages, 6 figures, LAK2026
+14. [arXiv:2512.23834](https://arxiv.org/abs/2512.23834)
+     [[pdf](https://arxiv.org/pdf/2512.23834), [ps](https://arxiv.org/ps/2512.23834), [other](https://arxiv.org/format/2512.23834)] 
+    
+    cs.CY
+    cs.AI
+    
+    Artificial Intelligence for All? Brazilian Teachers on Ethics, Equity, and the Everyday Challenges of AI in Education
+    
+    Authors:
+    [Bruno Florentino](/search/?searchtype=author&query=Florentino%2C+B),
+    [Camila Sestito](/search/?searchtype=author&query=Sestito%2C+C),
+    [Wellington Cruz](/search/?searchtype=author&query=Cruz%2C+W),
+    [André de Carvalho](/search/?searchtype=author&query=de+Carvalho%2C+A),
+    [Robson Bonidia](/search/?searchtype=author&query=Bonidia%2C+R)
+    
+    Abstract:
+    This study examines the perceptions of Brazilian K-…
+    ▽ More
+    
+    This study examines the perceptions of Brazilian K-12 education teachers regarding the use of AI in education, specifically General Purpose AI. This investigation employs a quantitative analysis approach, extracting information from a questionnaire completed by 346 educators from various regions of Brazil regarding their AI literacy and use. Educators vary in their educational level, years of experience, and type of educational institution. The analysis of the questionnaires shows that although most educators had only basic or limited knowledge of AI (80.3\%), they showed a strong interest in its application, particularly for the creation of interactive content (80.6%), lesson planning (80.2%), and personalized assessment (68.6%). The potential of AI to promote inclusion and personalized learning is also widely recognized (65.5%). The participants emphasized the importance of discussing ethics and digital citizenship, reflecting on technological dependence, biases, transparency, and responsible use of AI, aligning with critical education and the development of conscious students. Despite enthusiasm for the pedagogical potential of AI, significant structural challenges were identified, including a lack of training (43.4%), technical support (41.9%), and limitations of infrastructure, such as low access to computers, reliable Internet connections, and multimedia resources in schools. The study shows that Brazil is still in a bottom-up model for AI integration, missing official curricula to guide its implementation and structured training for teachers and students. Furthermore, effective implementation of AI depends on integrated public policies, adequate teacher training, and equitable access to technology, promoting ethical, inclusive, and contextually grounded adoption of AI in Brazilian K-12 education.
+    △ Less
+    
+    
+    Submitted 29 December, 2025;
+    originally announced December 2025.
+15. [arXiv:2512.23036](https://arxiv.org/abs/2512.23036)
+     [[pdf](https://arxiv.org/pdf/2512.23036), [ps](https://arxiv.org/ps/2512.23036), [other](https://arxiv.org/format/2512.23036)] 
+    
+    cs.AI
+    
+    Problems With Large Language Models for Learner Modelling: Why LLMs Alone Fall Short for Responsible Tutoring in K--12 Education
+    
+    Authors:
+    [Danial Hooshyar](/search/?searchtype=author&query=Hooshyar%2C+D),
+    [Yeongwook Yang](/search/?searchtype=author&query=Yang%2C+Y),
+    [Gustav Šíř](/search/?searchtype=author&query=%C5%A0%C3%AD%C5%99%2C+G),
+    [Tommi Kärkkäinen](/search/?searchtype=author&query=K%C3%A4rkk%C3%A4inen%2C+T),
+    [Raija Hämäläinen](/search/?searchtype=author&query=H%C3%A4m%C3%A4l%C3%A4inen%2C+R),
+    [Mutlu Cukurova](/search/?searchtype=author&query=Cukurova%2C+M),
+    [Roger Azevedo](/search/?searchtype=author&query=Azevedo%2C+R)
+    
+    Abstract:
+    The rapid rise of large language model (LLM)-based tutors in K--…
+    ▽ More
+    
+    The rapid rise of large language model (LLM)-based tutors in K--12 education has fostered a misconception that generative models can replace traditional learner modelling for adaptive instruction. This is especially problematic in K--12 settings, which the EU AI Act classifies as high-risk domain requiring responsible design. Motivated by these concerns, this study synthesises evidence on limitations of LLM-based tutors and empirically investigates one critical issue: the accuracy, reliability, and temporal coherence of assessing learners' evolving knowledge over time. We compare a deep knowledge tracing (DKT) model with a widely used LLM, evaluated zero-shot and fine-tuned, using a large open-access dataset. Results show that DKT achieves the highest discrimination performance (AUC = 0.83) on next-step correctness prediction and consistently outperforms the LLM across settings. Although fine-tuning improves the LLM's AUC by approximately 8\% over the zero-shot baseline, it remains 6\% below DKT and produces higher early-sequence errors, where incorrect predictions are most harmful for adaptive support. Temporal analyses further reveal that DKT maintains stable, directionally correct mastery updates, whereas LLM variants exhibit substantial temporal weaknesses, including inconsistent and wrong-direction updates. These limitations persist despite the fine-tuned LLM requiring nearly 198 hours of high-compute training, far exceeding the computational demands of DKT. Our qualitative analysis of multi-skill mastery estimation further shows that, even after fine-tuning, the LLM produced inconsistent mastery trajectories, while DKT maintained smooth and coherent updates. Overall, the findings suggest that LLMs alone are unlikely to match the effectiveness of established intelligent tutoring systems, and that responsible tutoring requires hybrid frameworks that incorporate learner modelling.
+    △ Less
+    
+    
+    Submitted 28 December, 2025;
+    originally announced December 2025.
+16. [arXiv:2512.04115](https://arxiv.org/abs/2512.04115)
+     [[pdf](https://arxiv.org/pdf/2512.04115), [ps](https://arxiv.org/ps/2512.04115), [other](https://arxiv.org/format/2512.04115)] 
+    
+    cs.CY
+    cs.AI
+    cs.HC
+    
+    Artificial Intelligence Competence of K-12 Students Shapes Their AI Risk Perception: A Co-occurrence Network Analysis
+    
+    Authors:
+    [Ville Heilala](/search/?searchtype=author&query=Heilala%2C+V),
+    [Pieta Sikström](/search/?searchtype=author&query=Sikstr%C3%B6m%2C+P),
+    [Mika Setälä](/search/?searchtype=author&query=Set%C3%A4l%C3%A4%2C+M),
+    [Tommi Kärkkäinen](/search/?searchtype=author&query=K%C3%A4rkk%C3%A4inen%2C+T)
+    
+    Abstract:
+    As artificial intelligence (AI) becomes increasingly integrated into…
+    ▽ More
+    
+    As artificial intelligence (AI) becomes increasingly integrated into education, understanding how students perceive its risks is essential for supporting responsible and effective adoption. This research aimed to examine the relationships between perceived AI competence and risks among Finnish K-12 upper secondary students (n = 163) by utilizing a co-occurrence analysis. Students reported their self-perceived AI competence and concerns related to AI across systemic, institutional, and personal domains. The findings showed that students with lower competence emphasized personal and learning-related risks, such as reduced creativity, lack of critical thinking, and misuse, whereas higher-competence students focused more on systemic and institutional risks, including bias, inaccuracy, and cheating. These differences suggest that students' self-reported AI competence is related to how they evaluate both the risks and opportunities associated with artificial intelligence in education (AIED). The results of this study highlight the need for educational institutions to incorporate AI literacy into their curricula, provide teacher guidance, and inform policy development to ensure personalized opportunities for utilization and equitable integration of AI into K-12 education.
+    △ Less
+    
+    
+    Submitted 1 December, 2025;
+    originally announced December 2025.
+    
+    Comments:
+    Accepted for Proceedings of the 41th ACM/SIGAPP Symposium on Applied Computing (SAC'26)
+    
+    ACM Class:
+    K.3; I.2
+17. [arXiv:2510.19196](https://arxiv.org/abs/2510.19196)
+     [[pdf](https://arxiv.org/pdf/2510.19196)] 
+    
+    cs.CY
+    
+    Integration of AI in STEM Education, Addressing Ethical Challenges in K-12 Settings
+    
+    Authors:
+    [Shaouna Shoaib Lodhi](/search/?searchtype=author&query=Lodhi%2C+S+S),
+    [Shoaib Lodhi](/search/?searchtype=author&query=Lodhi%2C+S)
+    
+    Abstract:
+    The rapid integration of Artificial Intelligence (AI) into…
+    ▽ More
+    
+    The rapid integration of Artificial Intelligence (AI) into K-12 STEM education presents transformative opportunities alongside significant ethical challenges. While AI-powered tools such as Intelligent Tutoring Systems (ITS), automated assessments, and predictive analytics enhance personalized learning and operational efficiency, they also risk perpetuating algorithmic bias, eroding student privacy, and exacerbating educational inequities. This paper examines the dual-edged impact of AI in STEM classrooms, analyzing its benefits (e.g., adaptive learning, real-time feedback) and drawbacks (e.g., surveillance risks, pedagogical limitations) through an ethical lens. We identify critical gaps in current AI education research, particularly the lack of subject-specific frameworks for responsible integration and propose a three-phased implementation roadmap paired with a tiered professional development model for educators. Our framework emphasizes equity-centered design, combining technical AI literacy with ethical reasoning to foster critical engagement among students. Key recommendations include mandatory bias audits, low-resource adaptation strategies, and policy alignment to ensure AI serves as a tool for inclusive, human-centered STEM education. By bridging theory and practice, this work advances a research-backed approach to AI integration that prioritizes pedagogical integrity, equity, and student agency in an increasingly algorithmic world. Keywords: Artificial Intelligence, STEM education, algorithmic bias, ethical AI, K-12 pedagogy, equity in education
+    △ Less
+    
+    
+    Submitted 21 October, 2025;
+    originally announced October 2025.
+    
+    Comments:
+    This paper pursues three goals: (1) analyzing ethical challenges in AI-driven STEM education, (2) evaluating AI and ethics curricula for STEM relevance, and (3) proposing a research-based framework for responsible integration that bridges teacher readiness gaps and promotes equity through STEM-focused strategies
+18. [arXiv:2510.17389](https://arxiv.org/abs/2510.17389)
+     [[pdf](https://arxiv.org/pdf/2510.17389), [ps](https://arxiv.org/ps/2510.17389), [other](https://arxiv.org/format/2510.17389)] 
+    
+    cs.CL
+    cs.AI
+    
+    EduAdapt: A Question Answer Benchmark Dataset for Evaluating Grade-Level Adaptability in LLMs
+    
+    Authors:
+    [Numaan Naeem](/search/?searchtype=author&query=Naeem%2C+N),
+    [Abdellah El Mekki](/search/?searchtype=author&query=Mekki%2C+A+E),
+    [Muhammad Abdul-Mageed](/search/?searchtype=author&query=Abdul-Mageed%2C+M)
+    
+    Abstract:
+    Large language models (LLMs) are transforming education by answering questions, explaining complex concepts, and generating content across a wide range of subjects. Despite strong performance on academic benchmarks, they often fail to tailor responses to students' grade levels. This is a critical need in…
+    ▽ More
+    
+    Large language models (LLMs) are transforming education by answering questions, explaining complex concepts, and generating content across a wide range of subjects. Despite strong performance on academic benchmarks, they often fail to tailor responses to students' grade levels. This is a critical need in K-12 education, where age-appropriate vocabulary and explanation are essential for effective learning. Existing models frequently produce outputs that are too advanced or vague for younger learners, and there are no standardized benchmarks to evaluate their ability to adjust across cognitive and developmental stages. To address this gap, we introduce EduAdapt, a benchmark of nearly 48k grade-labeled QA pairs across nine science subjects, spanning Grades 1-12 and grouped into four grade levels. We evaluate a diverse set of open-source LLMs on EduAdapt and find that while larger models generally perform better, they still struggle with generating suitable responses for early-grade students (Grades 1-5). Our work presents the first dataset and evaluation framework for assessing grade-level adaptability in LLMs, aiming to foster more developmentally aligned educational AI systems through better training and prompting strategies. EduAdapt code and datasets are publicly available at https://github.com/NaumanNaeem/EduAdapt.
+    △ Less
+    
+    
+    Submitted 20 October, 2025;
+    originally announced October 2025.
+    
+    Comments:
+    28 pages, 2 figures, 14 tables, 50 listings, EMNLP 2025 Main
+    
+    ACM Class:
+    I.2.7
+19. [arXiv:2509.25293](https://arxiv.org/abs/2509.25293)
+     [[pdf](https://arxiv.org/pdf/2509.25293), [ps](https://arxiv.org/ps/2509.25293), [other](https://arxiv.org/format/2509.25293)] 
+    
+    cs.CY
+    cs.AI
+    
+    AI in Pakistani Schools: Adoption, Usage, and Perceived Impact among Educators
+    
+    Authors:
+    [Syed Hassan Raza](/search/?searchtype=author&query=Raza%2C+S+H),
+    [Azib Farooq](/search/?searchtype=author&query=Farooq%2C+A)
+    
+    Abstract:
+    Artificial Intelligence (AI) is increasingly permeating classrooms worldwide, yet its adoption in schools of developing countries remains under-explored. This paper investigates…
+    ▽ More
+    
+    Artificial Intelligence (AI) is increasingly permeating classrooms worldwide, yet its adoption in schools of developing countries remains under-explored. This paper investigates AI adoption, usage patterns, and perceived impact in Pakistani K-12 schools based on a survey of 125 educators. The questionnaire covered educator's familiarity with AI, frequency and modes of use, and attitudes toward AI's benefits and challenges. Results reveal a generally positive disposition towards AI: over two-thirds of teachers expressed willingness to adopt AI tools given proper support and many have begun integrating AI for lesson planning and content creation. However, AI usage is uneven - while about one-third of respondents actively use AI tools frequently, others remain occasional users. Content generation emerged as the most common AI application, whereas AI-driven grading and feedback are rarely used. Teachers reported moderate improvements in student engagement and efficiency due to AI, but also voiced concerns about equitable access. These findings highlight both the enthusiasm for AI's potential in Pakistan's schools and the need for training and infrastructure to ensure inclusive and effective implementation.
+    △ Less
+    
+    
+    Submitted 29 September, 2025;
+    originally announced September 2025.
+20. [arXiv:2509.16276](https://arxiv.org/abs/2509.16276)
+     [[pdf](https://arxiv.org/pdf/2509.16276), [ps](https://arxiv.org/ps/2509.16276), [other](https://arxiv.org/format/2509.16276)] 
+    
+    cs.CY
+    cs.AI
+    cs.HC
+    
+    doi
+    [10.1007/978-3-031-93567-1\_9](https://doi.org/10.1007/978-3-031-93567-1_9) 
+    
+    
+    Comparative Analysis of STEM and non-STEM Teachers' Needs for Integrating AI into Educational Environments
+    
+    Authors:
+    [Bahare Riahi](/search/?searchtype=author&query=Riahi%2C+B),
+    [Veronica Catete](/search/?searchtype=author&query=Catete%2C+V)
+    
+    Abstract:
+    There is an increasing imperative to integrate programming platforms within AI frameworks to enhance…
+    ▽ More
+    
+    There is an increasing imperative to integrate programming platforms within AI frameworks to enhance educational tasks for both teachers and students. However, commonly used platforms such as Code.org, Scratch, and Snap fall short of providing the desired AI features and lack adaptability for interdisciplinary applications. This study explores how educational platforms can be improved by incorporating AI and analytics features to create more effective learning environments across various subjects and domains. We interviewed 8 K-12 teachers and asked their practices and needs while using any block-based programming (BBP) platform in their classes. We asked for their approaches in assessment, course development and expansion of resources, and student monitoring in their classes. Thematic analysis of the interview transcripts revealed both commonalities and differences in the AI tools needed between the STEM and non-STEM groups. Our results indicated advanced AI features that could promote BBP platforms. Both groups stressed the need for integrity and plagiarism checks, AI adaptability, customized rubrics, and detailed feedback in assessments. Non-STEM teachers also emphasized the importance of creative assignments and qualitative assessments. Regarding resource development, both AI tools desired for updating curricula, tutoring libraries, and generative AI features. Non-STEM teachers were particularly interested in supporting creative endeavors, such as art simulations. For student monitoring, both groups prioritized desktop control, daily tracking, behavior monitoring, and distraction prevention tools. Our findings identify specific AI-enhanced features needed by K-12 teachers across various disciplines and lay the foundation for creating more efficient, personalized, and engaging educational experiences.
+    △ Less
+    
+    
+    Submitted 18 September, 2025;
+    originally announced September 2025.
+    
+    Comments:
+    16 pages, 3 figures, Published in HCII 2025 Conference Proceedings
+    
+    ACM Class:
+    I.2.1; I.2.4; K.3.1; H.5.2
+    
+    Journal ref:
+    In: Smith, B.K., Borge, M. (eds) Learning and Collaboration Technologies. HCII 2025, Lecture Notes in Computer Science, vol 15807 (2025)
+21. [arXiv:2509.10780](https://arxiv.org/abs/2509.10780)
+     [[pdf](https://arxiv.org/pdf/2509.10780), [ps](https://arxiv.org/ps/2509.10780), [other](https://arxiv.org/format/2509.10780)] 
+    
+    cs.HC
+    cs.AI
+    
+    Bridging Cultural Distance Between Models Default and Local Classroom Demands: How Global Teachers Adopt GenAI to Support Everyday Teaching Practices
+    
+    Authors:
+    [Ruiwei Xiao](/search/?searchtype=author&query=Xiao%2C+R),
+    [Qing Xiao](/search/?searchtype=author&query=Xiao%2C+Q),
+    [Xinying Hou](/search/?searchtype=author&query=Hou%2C+X),
+    [Hanqi Jane Li](/search/?searchtype=author&query=Li%2C+H+J),
+    [Phenyo Phemelo Moletsane](/search/?searchtype=author&query=Moletsane%2C+P+P),
+    [Hong Shen](/search/?searchtype=author&query=Shen%2C+H),
+    [John Stamper](/search/?searchtype=author&query=Stamper%2C+J)
+    
+    Abstract:
+    Generative AI (GenAI) is rapidly entering…
+    ▽ More
+    
+    Generative AI (GenAI) is rapidly entering K-12 classrooms, offering teachers new ways for teaching practices. Yet GenAI models are often trained on culturally uneven datasets, embedding a "default culture" that often misaligns with local classrooms. To understand how teachers navigate this gap, we defined the new concept Cultural Distance (the gap between GenAI's default cultural repertoire and the situated demands of teaching practice) and conducted in-depth interviews with 30 K-12 teachers, 10 each from South Africa, Taiwan, and the United States, who had integrated AI into their teaching practice. These teachers' experiences informed the development of our three-level cultural distance framework. This work contributes the concept and framework of cultural distance, six illustrative instances spanning in low, mid, high distance levels with teachers' experiences and strategies for addressing them. Empirically, we offer implications to help AI designers, policymakers, and educators create more equitable and culturally responsive GenAI tools for education.
+    △ Less
+    
+    
+    Submitted 12 September, 2025;
+    originally announced September 2025.
+    
+    Comments:
+    15 pages, 1 figure
+22. [arXiv:2508.14201](https://arxiv.org/abs/2508.14201)
+     [[pdf](https://arxiv.org/pdf/2508.14201), [ps](https://arxiv.org/ps/2508.14201), [other](https://arxiv.org/format/2508.14201)] 
+    
+    cs.CY
+    
+    Breakable Machine: A K-12 Classroom Game for Transformative AI Literacy Through Spoofing and eXplainable AI (XAI)
+    
+    Authors:
+    [Olli Hilke](/search/?searchtype=author&query=Hilke%2C+O),
+    [Nicolas Pope](/search/?searchtype=author&query=Pope%2C+N),
+    [Juho Kahila](/search/?searchtype=author&query=Kahila%2C+J),
+    [Henriikka Vartiainen](/search/?searchtype=author&query=Vartiainen%2C+H),
+    [Teemu Roos](/search/?searchtype=author&query=Roos%2C+T),
+    [Tuomo Parkki](/search/?searchtype=author&query=Parkki%2C+T),
+    [Matti Tedre](/search/?searchtype=author&query=Tedre%2C+M)
+    
+    Abstract:
+    This paper, submitted to the special track on resources for teaching AI in…
+    ▽ More
+    
+    This paper, submitted to the special track on resources for teaching AI in K-12, presents an eXplainable AI (XAI)-based classroom game "Breakable Machine" for teaching critical, transformative AI literacy through adversarial play and interrogation of AI systems. Designed for learners aged 10-15, the game invites students to spoof an image classifier by manipulating their appearance or environment in order to trigger high-confidence misclassifications. Rather than focusing on building AI models, this activity centers on breaking them-exposing their brittleness, bias, and vulnerability through hands-on, embodied experimentation. The game includes an XAI view to help students visualize feature saliency, revealing how models attend to specific visual cues. A shared classroom leaderboard fosters collaborative inquiry and comparison of strategies, turning the classroom into a site for collective sensemaking. This approach reframes AI education by treating model failure and misclassification not as problems to be debugged, but as pedagogically rich opportunities to interrogate AI as a sociotechnical system. In doing so, the game supports students in developing data agency, ethical awareness, and a critical stance toward AI systems increasingly embedded in everyday life. The game and its source code are freely available.
+    △ Less
+    
+    
+    Submitted 19 August, 2025;
+    originally announced August 2025.
+23. [arXiv:2508.14109](https://arxiv.org/abs/2508.14109)
+     [[pdf](https://arxiv.org/pdf/2508.14109), [ps](https://arxiv.org/ps/2508.14109), [other](https://arxiv.org/format/2508.14109)] 
+    
+    cs.CY
+    cs.AI
+    cs.ET
+    
+    PAPPL: Personalized AI-Powered Progressive Learning Platform
+    
+    Authors:
+    [Shayan Bafandkar](/search/?searchtype=author&query=Bafandkar%2C+S),
+    [Sungyong Chung](/search/?searchtype=author&query=Chung%2C+S),
+    [Homa Khosravian](/search/?searchtype=author&query=Khosravian%2C+H),
+    [Alireza Talebpour](/search/?searchtype=author&query=Talebpour%2C+A)
+    
+    Abstract:
+    Engineering education has historically been constrained by rigid, standardized frameworks, often neglecting students' diverse learning needs and interests. While significant advancements have been made in online and personalized…
+    ▽ More
+    
+    Engineering education has historically been constrained by rigid, standardized frameworks, often neglecting students' diverse learning needs and interests. While significant advancements have been made in online and personalized education within K-12 and foundational sciences, engineering education at both undergraduate and graduate levels continues to lag in adopting similar innovations. Traditional evaluation methods, such as exams and homework assignments, frequently overlook individual student requirements, impeding personalized educational experiences. To address these limitations, this paper introduces the Personalized AI-Powered Progressive Learning (PAPPL) platform, an advanced Intelligent Tutoring System (ITS) designed specifically for engineering education. It highlights the development of a scalable, data-driven tutoring environment leveraging cutting-edge AI technology to enhance personalized learning across diverse academic disciplines, particularly in STEM fields. PAPPL integrates core ITS components including the expert module, student module, tutor module, and user interface, and utilizes GPT-4o, a sophisticated large language model (LLM), to deliver context-sensitive and pedagogically sound hints based on students' interactions. The system uniquely records student attempts, detects recurring misconceptions, and generates progressively targeted feedback, providing personalized assistance that adapts dynamically to each student's learning profile. Additionally, PAPPL offers instructors detailed analytics, empowering evidence-based adjustments to teaching strategies. This study provides a fundamental framework for the progression of Generative ITSs scalable to all education levels, delivering important perspectives on personalized progressive learning and the wider possibilities of Generative AI in the field of education.
+    △ Less
+    
+    
+    Submitted 17 August, 2025;
+    originally announced August 2025.
+24. [arXiv:2508.13962](https://arxiv.org/abs/2508.13962)
+     [[pdf](https://arxiv.org/pdf/2508.13962), [ps](https://arxiv.org/ps/2508.13962), [other](https://arxiv.org/format/2508.13962)] 
+    
+    cs.HC
+    cs.AI
+    
+    Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+    
+    Authors:
+    [Ruiwei Xiao](/search/?searchtype=author&query=Xiao%2C+R),
+    [Xinying Hou](/search/?searchtype=author&query=Hou%2C+X),
+    [Ying-Jui Tseng](/search/?searchtype=author&query=Tseng%2C+Y),
+    [Hsuan Nieu](/search/?searchtype=author&query=Nieu%2C+H),
+    [Guanze Liao](/search/?searchtype=author&query=Liao%2C+G),
+    [John Stamper](/search/?searchtype=author&query=Stamper%2C+J),
+    [Kenneth R. Koedinger](/search/?searchtype=author&query=Koedinger%2C+K+R)
+    
+    Abstract:
+    As Artificial Intelligence (AI) becomes increasingly integrated into daily life, there is a growing need to equip the next generation with the ability to apply, interact with, evaluate, and collaborate with…
+    ▽ More
+    
+    As Artificial Intelligence (AI) becomes increasingly integrated into daily life, there is a growing need to equip the next generation with the ability to apply, interact with, evaluate, and collaborate with AI systems responsibly. Prior research highlights the urgent demand from K-12 educators to teach students the ethical and effective use of AI for learning. To address this need, we designed an Large-Language Model (LLM)-based module to teach prompting literacy. This includes scenario-based deliberate practice activities with direct interaction with intelligent LLM agents, aiming to foster secondary school students' responsible engagement with AI chatbots. We conducted two iterations of classroom deployment in 11 authentic secondary education classrooms, and evaluated 1) AI-based auto-grader's capability; 2) students' prompting performance and confidence changes towards using AI for learning; and 3) the quality of learning and assessment materials. Results indicated that the AI-based auto-grader could grade student-written prompts with satisfactory quality. In addition, the instructional materials supported students in improving their prompting skills through practice and led to positive shifts in their perceptions of using AI for learning. Furthermore, data from Study 1 informed assessment revisions in Study 2. Analyses of item difficulty and discrimination in Study 2 showed that True/False and open-ended questions could measure prompting literacy more effectively than multiple-choice questions for our target learners. These promising outcomes highlight the potential for broader deployment and highlight the need for broader studies to assess learning effectiveness and assessment design.
+    △ Less
+    
+    
+    Submitted 6 December, 2025; v1 submitted 19 August, 2025;
+    originally announced August 2025.
+    
+    Comments:
+    Accepted to AAAI2026
+25. [arXiv:2508.11401](https://arxiv.org/abs/2508.11401)
+     [[pdf](https://arxiv.org/pdf/2508.11401), [ps](https://arxiv.org/ps/2508.11401), [other](https://arxiv.org/format/2508.11401)] 
+    
+    cs.HC
+    cs.MA
+    
+    FACET: Teacher-Centred LLM-Based Multi-Agent Systems-Towards Personalized Educational Worksheets
+    
+    Authors:
+    [Jana Gonnermann-Müller](/search/?searchtype=author&query=Gonnermann-M%C3%BCller%2C+J),
+    [Jennifer Haase](/search/?searchtype=author&query=Haase%2C+J),
+    [Konstantin Fackeldey](/search/?searchtype=author&query=Fackeldey%2C+K),
+    [Sebastian Pokutta](/search/?searchtype=author&query=Pokutta%2C+S)
+    
+    Abstract:
+    The increasing heterogeneity of student populations poses significant challenges for teachers, particularly in mathematics education, where cognitive, motivational, and emotional differences strongly influence learning outcomes. While…
+    ▽ More
+    
+    The increasing heterogeneity of student populations poses significant challenges for teachers, particularly in mathematics education, where cognitive, motivational, and emotional differences strongly influence learning outcomes. While AI-driven personalization tools have emerged, most remain performance-focused, offering limited support for teachers and neglecting broader pedagogical needs. This paper presents the FACET framework, a teacher-facing, large language model (LLM)-based multi-agent system designed to generate individualized classroom materials that integrate both cognitive and motivational dimensions of learner profiles. The framework comprises three specialized agents: (1) learner agents that simulate diverse profiles incorporating topic proficiency and intrinsic motivation, (2) a teacher agent that adapts instructional content according to didactical principles, and (3) an evaluator agent that provides automated quality assurance. We tested the system using authentic grade 8 mathematics curriculum content and evaluated its feasibility through a) automated agent-based assessment of output quality and b) exploratory feedback from K-12 in-service teachers. Results from ten internal evaluations highlighted high stability and alignment between generated materials and learner profiles, and teacher feedback particularly highlighted structure and suitability of tasks. The findings demonstrate the potential of multi-agent LLM architectures to provide scalable, context-aware personalization in heterogeneous classroom settings, and outline directions for extending the framework to richer learner profiles and real-world classroom trials.
+    △ Less
+    
+    
+    Submitted 18 March, 2026; v1 submitted 15 August, 2025;
+    originally announced August 2025.
+26. [arXiv:2508.06851](https://arxiv.org/abs/2508.06851)
+     [[pdf](https://arxiv.org/pdf/2508.06851), [ps](https://arxiv.org/ps/2508.06851), [other](https://arxiv.org/format/2508.06851)] 
+    
+    cs.AI
+    cs.CY
+    
+    MDK12-Bench: A Comprehensive Evaluation of Multimodal Large Language Models on Multidisciplinary Exams
+    
+    Authors:
+    [Pengfei Zhou](/search/?searchtype=author&query=Zhou%2C+P),
+    [Xiaopeng Peng](/search/?searchtype=author&query=Peng%2C+X),
+    [Fanrui Zhang](/search/?searchtype=author&query=Zhang%2C+F),
+    [Zhaopan Xu](/search/?searchtype=author&query=Xu%2C+Z),
+    [Jiaxin Ai](/search/?searchtype=author&query=Ai%2C+J),
+    [Yansheng Qiu](/search/?searchtype=author&query=Qiu%2C+Y),
+    [Chuanhao Li](/search/?searchtype=author&query=Li%2C+C),
+    [Zhen Li](/search/?searchtype=author&query=Li%2C+Z),
+    [Ming Li](/search/?searchtype=author&query=Li%2C+M),
+    [Yukang Feng](/search/?searchtype=author&query=Feng%2C+Y),
+    [Jianwen Sun](/search/?searchtype=author&query=Sun%2C+J),
+    [Haoquan Zhang](/search/?searchtype=author&query=Zhang%2C+H),
+    [Zizhen Li](/search/?searchtype=author&query=Li%2C+Z),
+    [Xiaofeng Mao](/search/?searchtype=author&query=Mao%2C+X),
+    [Zekai Li](/search/?searchtype=author&query=Li%2C+Z),
+    [Wangbo Zhao](/search/?searchtype=author&query=Zhao%2C+W),
+    [Kai Wang](/search/?searchtype=author&query=Wang%2C+K),
+    [Xiaojun Chang](/search/?searchtype=author&query=Chang%2C+X),
+    [Wenqi Shao](/search/?searchtype=author&query=Shao%2C+W),
+    [Yang You](/search/?searchtype=author&query=You%2C+Y),
+    [Kaipeng Zhang](/search/?searchtype=author&query=Zhang%2C+K)
+    
+    Abstract:
+    …knowledge, offering only static and undifferentiated evaluations. To bridge this gap, we introduce MDK12-Bench, a large-scale multidisciplinary benchmark built from real-world K-…
+    ▽ More
+    
+    Multimodal large language models (MLLMs), which integrate language and visual cues for problem-solving, are crucial for advancing artificial general intelligence (AGI). However, current benchmarks for measuring the intelligence of MLLMs suffer from limited scale, narrow coverage, and unstructured knowledge, offering only static and undifferentiated evaluations. To bridge this gap, we introduce MDK12-Bench, a large-scale multidisciplinary benchmark built from real-world K-12 exams spanning six disciplines with 141K instances and 6,225 knowledge points organized in a six-layer taxonomy. Covering five question formats with difficulty and year annotations, it enables comprehensive evaluation to capture the extent to which MLLMs perform over four dimensions: 1) difficulty levels, 2) temporal (cross-year) shifts, 3) contextual shifts, and 4) knowledge-driven reasoning. We propose a novel dynamic evaluation framework that introduces unfamiliar visual, textual, and question form shifts to challenge model generalization while improving benchmark objectivity and longevity by mitigating data contamination. We further evaluate knowledge-point reference-augmented generation (KP-RAG) to examine the role of knowledge in problem-solving. Key findings reveal limitations in current MLLMs in multiple aspects and provide guidance for enhancing model robustness, interpretability, and AI-assisted education.
+    △ Less
+    
+    
+    Submitted 9 August, 2025;
+    originally announced August 2025.
+    
+    Comments:
+    35 pages, 33 figures
+27. [arXiv:2508.01169](https://arxiv.org/abs/2508.01169)
+     [[pdf](https://arxiv.org/pdf/2508.01169), [ps](https://arxiv.org/ps/2508.01169), [other](https://arxiv.org/format/2508.01169)] 
+    
+    cs.CY
+    
+    WIP: Enhancing Game-Based Learning with AI-Driven Peer Agents
+    
+    Authors:
+    [Chengzhang Zhu](/search/?searchtype=author&query=Zhu%2C+C),
+    [Cecile H. Sam](/search/?searchtype=author&query=Sam%2C+C+H),
+    [Yanlai Wu](/search/?searchtype=author&query=Wu%2C+Y),
+    [Ying Tang](/search/?searchtype=author&query=Tang%2C+Y)
+    
+    Abstract:
+    …paper presents SPARC (Systematic Problem Solving and Algorithmic Reasoning for Children), a gamified learning platform designed to enhance engagement and knowledge retention in K-…
+    ▽ More
+    
+    This work-in-progress paper presents SPARC (Systematic Problem Solving and Algorithmic Reasoning for Children), a gamified learning platform designed to enhance engagement and knowledge retention in K-12 STEM education. Traditional approaches often struggle to motivate students or facilitate deep understanding, especially for complex scientific concepts. SPARC addresses these challenges by integrating interactive, narrative-driven gameplay with an artificial intelligence peer agent built on large language models. Rather than simply providing answers, the agent engages students in dialogue and inquiry, prompting them to explain concepts and solve problems collaboratively. The platform's design is grounded in educational theory and closely aligned with state learning standards. Initial classroom pilots utilized a multi-method assessment framework combining pre- and post-tests, in-game analytics, and qualitative feedback from students and teachers. Preliminary findings indicate that SPARC significantly increases student engagement, with most participants reporting greater interest in STEM subjects and moderate gains in conceptual understanding observed in post-test results. Ongoing development focuses on refining the AI agent, expanding curriculum integration, and improving accessibility. These early results demonstrate the potential of combining AI-driven peer support with game-based learning to create inclusive, effective, and engaging educational experiences for K-12 learners.
+    △ Less
+    
+    
+    Submitted 1 August, 2025;
+    originally announced August 2025.
+    
+    MSC Class:
+    2020; 97U50
+28. [arXiv:2507.17985](https://arxiv.org/abs/2507.17985)
+     [[pdf](https://arxiv.org/pdf/2507.17985), [ps](https://arxiv.org/ps/2507.17985), [other](https://arxiv.org/format/2507.17985)] 
+    
+    cs.HC
+    cs.AI
+    
+    How K-12 Educators Use AI: LLM-Assisted Qualitative Analysis at Scale
+    
+    Authors:
+    [Alex Liu](/search/?searchtype=author&query=Liu%2C+A),
+    [Lief Esbenshade](/search/?searchtype=author&query=Esbenshade%2C+L),
+    [Shawon Sarkar](/search/?searchtype=author&query=Sarkar%2C+S),
+    [Victor Tian](/search/?searchtype=author&query=Tian%2C+V),
+    [Zachary Zhang](/search/?searchtype=author&query=Zhang%2C+Z),
+    [Kevin He](/search/?searchtype=author&query=He%2C+K),
+    [Min Sun](/search/?searchtype=author&query=Sun%2C+M)
+    
+    Abstract:
+    This study investigates how K-…
+    ▽ More
+    
+    This study investigates how K-12 educators use generative AI tools in real-world instructional contexts and how large language models (LLMs) can support scalable qualitative analysis of these interactions. Drawing on over 13,000 unscripted educator-AI conversations from an open-access platform, we examine educators' use of AI for lesson planning, differentiation, assessment, and pedagogical reflection. Methodologically, we introduce a replicable, LLM-assisted qualitative analysis pipeline that supports inductive theme discovery, codebook development, and large-scale annotation while preserving researcher control over conceptual synthesis. Empirically, the findings surface concrete patterns in how educators prompt, adapt, and evaluate AI-generated suggestions as part of their instructional reasoning. This work demonstrates the feasibility of combining LLM support with qualitative rigor to analyze complex educator behaviors at scale and inform the design of AI-powered educational tools.
+    △ Less
+    
+    
+    Submitted 15 December, 2025; v1 submitted 23 July, 2025;
+    originally announced July 2025.
+29. [arXiv:2507.14207](https://arxiv.org/abs/2507.14207)
+     [[pdf](https://arxiv.org/pdf/2507.14207), [ps](https://arxiv.org/ps/2507.14207), [other](https://arxiv.org/format/2507.14207)] 
+    
+    cs.CR
+    cs.AI
+    
+    Mitigating Trojanized Prompt Chains in Educational LLM Use Cases: Experimental Findings and Detection Tool Design
+    
+    Authors:
+    [Richard M. Charles](/search/?searchtype=author&query=Charles%2C+R+M),
+    [James H. Curry](/search/?searchtype=author&query=Curry%2C+J+H),
+    [Richard B. Charles](/search/?searchtype=author&query=Charles%2C+R+B)
+    
+    Abstract:
+    The integration of Large Language Models (LLMs) in K--…
+    ▽ More
+    
+    The integration of Large Language Models (LLMs) in K--12 education offers both transformative opportunities and emerging risks. This study explores how students may Trojanize prompts to elicit unsafe or unintended outputs from LLMs, bypassing established content moderation systems with safety guardrils. Through a systematic experiment involving simulated K--12 queries and multi-turn dialogues, we expose key vulnerabilities in GPT-3.5 and GPT-4. This paper presents our experimental design, detailed findings, and a prototype tool, TrojanPromptGuard (TPG), to automatically detect and mitigate Trojanized educational prompts. These insights aim to inform both AI safety researchers and educational technologists on the safe deployment of LLMs for educators.
+    △ Less
+    
+    
+    Submitted 15 July, 2025;
+    originally announced July 2025.
+    
+    Comments:
+    12 pages, 1 figure
+    
+    ACM Class:
+    I.2.1; I.2.7
+30. [arXiv:2507.02162](https://arxiv.org/abs/2507.02162)
+     [[pdf](https://arxiv.org/pdf/2507.02162), [ps](https://arxiv.org/ps/2507.02162), [other](https://arxiv.org/format/2507.02162)] 
+    
+    physics.ed-ph
+    astro-ph.IM
+    
+    Dangerous Questions in Astronomy Education
+    
+    Authors:
+    [Michael Fitzgerald](/search/?searchtype=author&query=Fitzgerald%2C+M),
+    [Rachel Freed](/search/?searchtype=author&query=Freed%2C+R),
+    [Dan Reichart](/search/?searchtype=author&query=Reichart%2C+D),
+    [Kate Meredith](/search/?searchtype=author&query=Meredith%2C+K),
+    [Kalee Tock](/search/?searchtype=author&query=Tock%2C+K),
+    [Daryl Janzen](/search/?searchtype=author&query=Janzen%2C+D),
+    [Saeed Salimpour](/search/?searchtype=author&query=Salimpour%2C+S),
+    [Jennifer Lynn Bartlett](/search/?searchtype=author&query=Bartlett%2C+J+L),
+    [Matthew Beaky](/search/?searchtype=author&query=Beaky%2C+M),
+    [Art Borja](/search/?searchtype=author&query=Borja%2C+A),
+    [Ken Brandt](/search/?searchtype=author&query=Brandt%2C+K),
+    [Jim Buchholz](/search/?searchtype=author&query=Buchholz%2C+J),
+    [Patricia Craig](/search/?searchtype=author&query=Craig%2C+P),
+    [Anthony Crider](/search/?searchtype=author&query=Crider%2C+A),
+    [Richard Datwyler](/search/?searchtype=author&query=Datwyler%2C+R),
+    [Marta Dark-McNeese](/search/?searchtype=author&query=Dark-McNeese%2C+M),
+    [Anna DeJong](/search/?searchtype=author&query=DeJong%2C+A),
+    [Donovan Domingue](/search/?searchtype=author&query=Domingue%2C+D),
+    [Debbie French](/search/?searchtype=author&query=French%2C+D),
+    [Oliver Fraser](/search/?searchtype=author&query=Fraser%2C+O),
+    [Amy L. Glazier](/search/?searchtype=author&query=Glazier%2C+A+L),
+    [Enrique Gomez](/search/?searchtype=author&query=Gomez%2C+E),
+    [Erika Grundstrom](/search/?searchtype=author&query=Grundstrom%2C+E),
+    [Nicole Gugliucci](/search/?searchtype=author&query=Gugliucci%2C+N),
+    [Kevin Healy](/search/?searchtype=author&query=Healy%2C+K)
+    , et al. (41 additional authors not shown)
+    
+    Abstract:
+    As astronomy enters an era defined by global telescope networks, petabyte-scale surveys, and powerful computational tools, the longstanding goals of astronomy education, particularly introductory ``ASTRO101'', but equally encompassing both higher and lower level courses, warrant fresh examination. In June 2024, the AstroEdUNC meeting at UNC--Chapel H…
+    ▽ More
+    
+    As astronomy enters an era defined by global telescope networks, petabyte-scale surveys, and powerful computational tools, the longstanding goals of astronomy education, particularly introductory ``ASTRO101'', but equally encompassing both higher and lower level courses, warrant fresh examination. In June 2024, the AstroEdUNC meeting at UNC--Chapel Hill convened 100 astronomers, education researchers, and practitioners to synthesise community perspectives on the purpose, content, and delivery of astronomy education. Beginning with historical vignettes, the meeting's deliberations were organised into six interrelated themes: (1) Context, highlighting astronomy's evolution from classical charting to multi-messenger discovery and its role as a connective thread across STEM and the humanities; (2) Content, exploring how curricula can balance essential concepts with authentic investigations and leverage open-source and AI-augmented resources; (3) Skills, arguing that astronomy should foreground scientific literacy, computational fluency, and communication through genuine data-driven inquiry; (4) Engagement, advocating for active-learning strategies, formative assessment, and culturally inclusive narratives; (5) Beyond the Classroom, emphasising scaffolding, universal-design practices, and K--12/community partnerships; and (6) Astronomy Education Research, outlining priority areas for assessing knowledge, attitudes, and long-term outcomes. We provide concrete recommendations for future astronomy education research development, underscoring the need for approaches to education that are authentic while meeting the learning and life goal needs of the students, a vibrant community of practice and robust researcher-practitioner partnerships to ensure that introductory astronomy is pertinent, applicable and inspiring to a broad student population.
+    △ Less
+    
+    
+    Submitted 2 July, 2025;
+    originally announced July 2025.
+31. [arXiv:2507.00224](https://arxiv.org/abs/2507.00224)
+     [[pdf](https://arxiv.org/pdf/2507.00224), [ps](https://arxiv.org/ps/2507.00224), [other](https://arxiv.org/format/2507.00224)] 
+    
+    cs.CV
+    cs.HC
+    
+    Computer Vision for Objects used in Group Work: Challenges and Opportunities
+    
+    Authors:
+    [Changsoo Jung](/search/?searchtype=author&query=Jung%2C+C),
+    [Sheikh Mannan](/search/?searchtype=author&query=Mannan%2C+S),
+    [Jack Fitzgerald](/search/?searchtype=author&query=Fitzgerald%2C+J),
+    [Nathaniel Blanchard](/search/?searchtype=author&query=Blanchard%2C+N)
+    
+    Abstract:
+    Interactive and spatially aware technologies are transforming educational frameworks, particularly in…
+    ▽ More
+    
+    Interactive and spatially aware technologies are transforming educational frameworks, particularly in K-12 settings where hands-on exploration fosters deeper conceptual understanding. However, during collaborative tasks, existing systems often lack the ability to accurately capture real-world interactions between students and physical objects. This issue could be addressed with automatic 6D pose estimation, i.e., estimation of an object's position and orientation in 3D space from RGB images or videos. For collaborative groups that interact with physical objects, 6D pose estimates allow AI systems to relate objects and entities. As part of this work, we introduce FiboSB, a novel and challenging 6D pose video dataset featuring groups of three participants solving an interactive task featuring small hand-held cubes and a weight scale. This setup poses unique challenges for 6D pose because groups are holistically recorded from a distance in order to capture all participants -- this, coupled with the small size of the cubes, makes 6D pose estimation inherently non-trivial. We evaluated four state-of-the-art 6D pose estimation methods on FiboSB, exposing the limitations of current algorithms on collaborative group work. An error analysis of these methods reveals that the 6D pose methods' object detection modules fail. We address this by fine-tuning YOLO11-x for FiboSB, achieving an overall mAP\_50 of 0.898. The dataset, benchmark results, and analysis of YOLO11-x errors presented here lay the groundwork for leveraging the estimation of 6D poses in difficult collaborative contexts.
+    △ Less
+    
+    
+    Submitted 30 June, 2025;
+    originally announced July 2025.
+    
+    Comments:
+    Accepted to AIED 2025 Late Breaking Results Track
+32. [arXiv:2506.18330](https://arxiv.org/abs/2506.18330)
+     [[pdf](https://arxiv.org/pdf/2506.18330), [ps](https://arxiv.org/ps/2506.18330), [other](https://arxiv.org/format/2506.18330)] 
+    
+    cs.LG
+    cs.AI
+    cs.CL
+    
+    Confucius3-Math: A Lightweight High-Performance Reasoning LLM for Chinese K-12 Mathematics Learning
+    
+    Authors:
+    [Lixin Wu](/search/?searchtype=author&query=Wu%2C+L),
+    [Na Cai](/search/?searchtype=author&query=Cai%2C+N),
+    [Qiao Cheng](/search/?searchtype=author&query=Cheng%2C+Q),
+    [Jiachen Wang](/search/?searchtype=author&query=Wang%2C+J),
+    [Yitao Duan](/search/?searchtype=author&query=Duan%2C+Y)
+    
+    Abstract:
+    …SOTA performances on a range of mathematical reasoning tasks, outperforming many models with significantly larger sizes. In particular, as part of our mission to enhancing education and knowledge dissemination with…
+    ▽ More
+    
+    We introduce Confucius3-Math, an open-source large language model with 14B parameters that (1) runs efficiently on a single consumer-grade GPU; (2) achieves SOTA performances on a range of mathematical reasoning tasks, outperforming many models with significantly larger sizes. In particular, as part of our mission to enhancing education and knowledge dissemination with AI, Confucius3-Math is specifically committed to mathematics learning for Chinese K-12 students and educators. Built via post-training with large-scale reinforcement learning (RL), Confucius3-Math aligns with national curriculum and excels at solving main-stream Chinese K-12 mathematical problems with low cost. In this report we share our development recipe, the challenges we encounter and the techniques we develop to overcome them. In particular, we introduce three technical innovations: Targeted Entropy Regularization, Recent Sample Recovery and Policy-Specific Hardness Weighting. These innovations encompass a new entropy regularization, a novel data scheduling policy, and an improved group-relative advantage estimator. Collectively, they significantly stabilize the RL training, improve data efficiency, and boost performance. Our work demonstrates the feasibility of building strong reasoning models in a particular domain at low cost. We open-source our model and code at https://github.com/netease-youdao/Confucius3-Math.
+    △ Less
+    
+    
+    Submitted 25 June, 2025; v1 submitted 23 June, 2025;
+    originally announced June 2025.
+33. [arXiv:2505.08083](https://arxiv.org/abs/2505.08083)
+     [[pdf](https://arxiv.org/pdf/2505.08083), [ps](https://arxiv.org/ps/2505.08083), [other](https://arxiv.org/format/2505.08083)] 
+    
+    cs.CY
+    cs.HC
+    
+    LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example
+    
+    Authors:
+    [Jiayi Wang](/search/?searchtype=author&query=Wang%2C+J),
+    [Ruiwei Xiao](/search/?searchtype=author&query=Xiao%2C+R),
+    [Xinying Hou](/search/?searchtype=author&query=Hou%2C+X),
+    [Hanqi Li](/search/?searchtype=author&query=Li%2C+H),
+    [Ying Jui Tseng](/search/?searchtype=author&query=Tseng%2C+Y+J),
+    [John Stamper](/search/?searchtype=author&query=Stamper%2C+J),
+    [Ken Koedinger](/search/?searchtype=author&query=Koedinger%2C+K)
+    
+    Abstract:
+    Culturally Relevant Pedagogy (CRP) is vital in K-…
+    ▽ More
+    
+    Culturally Relevant Pedagogy (CRP) is vital in K-12 education, yet teachers struggle to implement CRP into practice due to time, training, and resource gaps. This study explores how Large Language Models (LLMs) can address these barriers by introducing CulturAIEd, an LLM tool that assists teachers in adapting AI literacy curricula to students' cultural contexts. Through an exploratory pilot with four K-12 teachers, we examined CulturAIEd's impact on CRP integration. Results showed CulturAIEd enhanced teachers' confidence in identifying opportunities for cultural responsiveness in learning activities and making culturally responsive modifications to existing activities. They valued CulturAIEd's streamlined integration of student demographic information, immediate actionable feedback, which could result in high implementation efficiency. This exploration of teacher-AI collaboration highlights how LLM can help teachers include CRP components into their instructional practices efficiently, especially in global priorities for future-ready education, such as AI literacy.
+    △ Less
+    
+    
+    Submitted 12 May, 2025;
+    originally announced May 2025.
+34. [arXiv:2505.03163](https://arxiv.org/abs/2505.03163)
+     [[pdf](https://arxiv.org/pdf/2505.03163), [other](https://arxiv.org/format/2505.03163)] 
+    
+    cs.CY
+    cs.HC
+    
+    The Impact of Large Language Models on K-12 Education in Rural India: A Thematic Analysis of Student Volunteer's Perspectives
+    
+    Authors:
+    [Harshita Goyal](/search/?searchtype=author&query=Goyal%2C+H),
+    [Garima Garg](/search/?searchtype=author&query=Garg%2C+G),
+    [Prisha Mordia](/search/?searchtype=author&query=Mordia%2C+P),
+    [Veena Ramachandran](/search/?searchtype=author&query=Ramachandran%2C+V),
+    [Dhruv Kumar](/search/?searchtype=author&query=Kumar%2C+D),
+    [Jagat Sesh Challa](/search/?searchtype=author&query=Challa%2C+J+S)
+    
+    Abstract:
+    AI-driven…
+    ▽ More
+    
+    AI-driven education, particularly Large Language Models (LLMs), has the potential to address learning disparities in rural K-12 schools. However, research on AI adoption in rural India remains limited, with existing studies focusing primarily on urban settings. This study examines the perceptions of volunteer teachers on AI integration in rural education, identifying key challenges and opportunities. Through semi-structured interviews with 23 volunteer educators in Rajasthan and Delhi, we conducted a thematic analysis to explore infrastructure constraints, teacher preparedness, and digital literacy gaps. Findings indicate that while LLMs could enhance personalized learning and reduce teacher workload, barriers such as poor connectivity, lack of AI training, and parental skepticism hinder adoption. Despite concerns over over-reliance and ethical risks, volunteers emphasize that AI should be seen as a complementary tool rather than a replacement for traditional teaching. Given the potential benefits, LLM-based tutors merit further exploration in rural classrooms, with structured implementation and localized adaptations to ensure accessibility and equity.
+    △ Less
+    
+    
+    Submitted 6 May, 2025;
+    originally announced May 2025.
+    
+    Comments:
+    Under review, 23 pages, 1 figure, 1 table
+35. [arXiv:2504.05449](https://arxiv.org/abs/2504.05449)
+     [[pdf](https://arxiv.org/pdf/2504.05449), [other](https://arxiv.org/format/2504.05449)] 
+    
+    cs.CY
+    
+    Connecting Feedback to Choice: Understanding Educator Preferences in GenAI vs. Human-Created Lesson Plans in K-12 Education -- A Comparative Analysis
+    
+    Authors:
+    [Shawon Sarkar](/search/?searchtype=author&query=Sarkar%2C+S),
+    [Min Sun](/search/?searchtype=author&query=Sun%2C+M),
+    [Alex Liu](/search/?searchtype=author&query=Liu%2C+A),
+    [Zewei Tian](/search/?searchtype=author&query=Tian%2C+Z),
+    [Lief Esbenshade](/search/?searchtype=author&query=Esbenshade%2C+L),
+    [Jian He](/search/?searchtype=author&query=He%2C+J),
+    [Zachary Zhang](/search/?searchtype=author&query=Zhang%2C+Z)
+    
+    Abstract:
+    As generative AI (GenAI) models are increasingly explored for…
+    ▽ More
+    
+    As generative AI (GenAI) models are increasingly explored for educational applications, understanding educator preferences for AI-generated lesson plans is critical for their effective integration into K-12 instruction. This exploratory study compares lesson plans authored by human curriculum designers, a fine-tuned LLaMA-2-13b model trained on K-12 content, and a customized GPT-4 model to evaluate their pedagogical quality across multiple instructional measures: warm-up activities, main tasks, cool-down activities, and overall quality. Using a large-scale preference study with K-12 math educators, we examine how preferences vary across grade levels and instructional components. We employ both qualitative and quantitative analyses. The raw preference results indicate that human-authored lesson plans are generally favored, particularly for elementary education, where educators emphasize student engagement, scaffolding, and collaborative learning. However, AI-generated models demonstrate increasing competitiveness in cool-down tasks and structured learning activities, particularly in high school settings. Beyond quantitative results, we conduct thematic analysis using LDA and manual coding to identify key factors influencing educator preferences. Educators value human-authored plans for their nuanced differentiation, real-world contextualization, and student discourse facilitation. Meanwhile, AI-generated lesson plans are often praised for their structure and adaptability for specific instructional tasks. Findings suggest a human-AI collaborative approach to lesson planning, where GenAI can serve as an assistive tool rather than a replacement for educator expertise in lesson planning. This study contributes to the growing discourse on responsible AI integration in education, highlighting both opportunities and challenges in leveraging GenAI for curriculum development.
+    △ Less
+    
+    
+    Submitted 7 April, 2025;
+    originally announced April 2025.
+36. [arXiv:2503.20701](https://arxiv.org/abs/2503.20701)
+     [[pdf](https://arxiv.org/pdf/2503.20701), [ps](https://arxiv.org/ps/2503.20701), [other](https://arxiv.org/format/2503.20701)] 
+    
+    cs.CL
+    
+    UniEDU: A Unified Language and Vision Assistant for Education Applications
+    
+    Authors:
+    [Zhendong Chu](/search/?searchtype=author&query=Chu%2C+Z),
+    [Jian Xie](/search/?searchtype=author&query=Xie%2C+J),
+    [Shen Wang](/search/?searchtype=author&query=Wang%2C+S),
+    [Zichao Wang](/search/?searchtype=author&query=Wang%2C+Z),
+    [Qingsong Wen](/search/?searchtype=author&query=Wen%2C+Q)
+    
+    Abstract:
+    Education materials for…
+    ▽ More
+    
+    Education materials for K-12 students often consist of multiple modalities, such as text and images, posing challenges for models to fully understand nuanced information in these materials. In this paper, we propose a unified language and vision assistant UniEDU designed for various educational applications, including knowledge recommendation, knowledge tracing, time cost prediction, and user answer prediction, all within a single model. Unlike conventional task-specific models, UniEDU offers a unified solution that excels across multiple educational tasks while maintaining strong generalization capabilities. Its adaptability makes it well-suited for real-world deployment in diverse learning environments. Furthermore, UniEDU is optimized for industry-scale deployment by significantly reducing computational overhead-achieving approximately a 300\% increase in efficiency-while maintaining competitive performance with minimal degradation compared to fully fine-tuned models. This work represents a significant step toward creating versatile AI systems tailored to the evolving demands of education.
+    △ Less
+    
+    
+    Submitted 8 October, 2025; v1 submitted 26 March, 2025;
+    originally announced March 2025.
+37. [arXiv:2503.08003](https://arxiv.org/abs/2503.08003)
+     [[pdf](https://arxiv.org/pdf/2503.08003)] 
+    
+    cs.CY
+    
+    How Can Video Generative AI Transform K-12 Education? Examining Teachers' Perspectives through TPACK and TAM
+    
+    Authors:
+    [Unggi Lee](/search/?searchtype=author&query=Lee%2C+U),
+    [Yeil Jeong](/search/?searchtype=author&query=Jeong%2C+Y),
+    [Seungha Kim](/search/?searchtype=author&query=Kim%2C+S),
+    [Yoorim Son](/search/?searchtype=author&query=Son%2C+Y),
+    [Gyuri Byun](/search/?searchtype=author&query=Byun%2C+G),
+    [Hyeoncheol Kim](/search/?searchtype=author&query=Kim%2C+H),
+    [Cheolil Lim](/search/?searchtype=author&query=Lim%2C+C)
+    
+    Abstract:
+    The rapid advancement of generative AI technology, particularly video generative…
+    ▽ More
+    
+    The rapid advancement of generative AI technology, particularly video generative AI (Video GenAI), has opened new possibilities for K-12 education by enabling the creation of dynamic, customized, and high-quality visual content. Despite its potential, there is limited research on how this emerging technology can be effectively integrated into educational practices. This study explores the perspectives of leading K-12 teachers on the educational applications of Video GenAI, using the TPACK (Technological Pedagogical Content Knowledge) and TAM (Technology Acceptance Model) frameworks as analytical lenses. Through interviews and hands-on experimentation with video generation tools, the research identifies opportunities for enhancing teaching strategies, fostering student engagement, and supporting authentic task design. It also highlights challenges such as technical limitations, ethical considerations, and the need for institutional support. The findings provide actionable insights into how Video GenAI can transform teaching and learning, offering practical implications for policy, teacher training, and the future development of educational technology.
+    △ Less
+    
+    
+    Submitted 10 March, 2025;
+    originally announced March 2025.
+38. [arXiv:2503.02999](https://arxiv.org/abs/2503.02999)
+     [[pdf](https://arxiv.org/pdf/2503.02999)] 
+    
+    cs.HC
+    
+    Adapting to Educate: Conversational AI's Role in Mathematics Education Across Different Educational Contexts
+    
+    Authors:
+    [Alex Liu](/search/?searchtype=author&query=Liu%2C+A),
+    [Lief Esbenshade](/search/?searchtype=author&query=Esbenshade%2C+L),
+    [Min Sun](/search/?searchtype=author&query=Sun%2C+M),
+    [Shawon Sarkar](/search/?searchtype=author&query=Sarkar%2C+S),
+    [Jian He](/search/?searchtype=author&query=He%2C+J),
+    [Victor Tian](/search/?searchtype=author&query=Tian%2C+V),
+    [Zachary Zhang](/search/?searchtype=author&query=Zhang%2C+Z)
+    
+    Abstract:
+    As educational settings increasingly integrate artificial intelligence (…
+    ▽ More
+    
+    As educational settings increasingly integrate artificial intelligence (AI), understanding how AI tools identify -- and adapt their responses to -- varied educational contexts becomes paramount. This study examines conversational AI's effectiveness in supporting K-12 mathematics education across various educational contexts. Through qualitative content analysis, we identify educational contexts and key instructional needs present in educator prompts and assess AI's responsiveness. Our findings indicate that educators focus their AI conversations on assessment methods, how to set the cognitive demand level of their instruction, and strategies for making meaningful real-world connections. However, educators' conversations with AI about instructional practices do vary across revealed educational contexts; they shift their emphasis to tailored, rigorous content that addresses their students' unique needs. Educators often seek actionable guidance from AI and reject responses that do not align with their inquiries. While AI can provide accurate, relevant, and useful information when educational contexts or instructional practices are specified in conversation queries, its ability to consistently adapt responses along these evaluation dimensions varies across different educational settings. Significant work remains to realize the response-differentiating potential of conversational AI tools in complex educational use cases. This research contributes insights into developing AI tools that are responsive, proactive, and anticipatory, adapting to evolving educational needs before they are explicitly stated, and provides actionable recommendations for both developers and educators to enhance AI integration in educational practices.
+    △ Less
+    
+    
+    Submitted 4 March, 2025;
+    originally announced March 2025.
+39. [arXiv:2503.00967](https://arxiv.org/abs/2503.00967)
+     [[pdf](https://arxiv.org/pdf/2503.00967), [other](https://arxiv.org/format/2503.00967)] 
+    
+    cs.HC
+    
+    How Do Teachers Create Pedagogical Chatbots?: Current Practices and Challenges
+    
+    Authors:
+    [Minju Yoo](/search/?searchtype=author&query=Yoo%2C+M),
+    [Hyoungwook Jin](/search/?searchtype=author&query=Jin%2C+H),
+    [Juho Kim](/search/?searchtype=author&query=Kim%2C+J)
+    
+    Abstract:
+    AI chatbots have emerged as promising…
+    ▽ More
+    
+    AI chatbots have emerged as promising educational tools for personalized learning experiences, with advances in large language models (LLMs) enabling teachers to create and customize these chatbots for their specific classroom needs. However, there is a limited understanding of how teachers create pedagogical chatbots and integrate them into their lessons. Through semi-structured interviews with seven K-12 teachers, we examined their practices and challenges when designing, implementing, and deploying chatbots. Our findings revealed that teachers prioritize developing task-specific chatbots aligned with their lessons. Teachers engaged in various creation practices and had different challenges; novices in chatbot creation struggled mainly with initial design and technical implementation, while experienced teachers faced challenges with technical aspects and analyzing conversational data. Based on these insights, we explore approaches to supporting teachers' chatbot development and opportunities for designing future chatbot creation systems. This work provides foundational insights from teachers that can empower teacher-created chatbots, facilitating AI-augmented teaching.
+    △ Less
+    
+    
+    Submitted 4 April, 2025; v1 submitted 2 March, 2025;
+    originally announced March 2025.
+    
+    Comments:
+    CHI 2025 Workshop on Augmented Educators and AI
+40. [arXiv:2503.00079](https://arxiv.org/abs/2503.00079)
+     [[pdf](https://arxiv.org/pdf/2503.00079), [other](https://arxiv.org/format/2503.00079)] 
+    
+    cs.CY
+    cs.AI
+    
+    doi
+    [10.1145/3702652.3744217](https://doi.org/10.1145/3702652.3744217) 
+    
+    
+    AI Literacy in K-12 and Higher Education in the Wake of Generative AI: An Integrative Review
+    
+    Authors:
+    [Xingjian Gu](/search/?searchtype=author&query=Gu%2C+X),
+    [Barbara J. Ericson](/search/?searchtype=author&query=Ericson%2C+B+J)
+    
+    Abstract:
+    Even though AI literacy has emerged as a prominent…
+    ▽ More
+    
+    Even though AI literacy has emerged as a prominent education topic in the wake of generative AI, its definition remains vague. There is little consensus among researchers and practitioners on how to discuss and design AI literacy interventions. The term has been used to describe both learning activities that train undergraduate students to use ChatGPT effectively and having kindergarten children interact with social robots. This paper applies an integrative review method to examine empirical and theoretical AI literacy studies published since 2020. In synthesizing the 124 reviewed studies, three ways to conceptualize literacy-functional, critical, and indirectly beneficial-and three perspectives on AI-technical detail, tool, and sociocultural-were identified, forming a framework that reflects the spectrum of how AI literacy is approached in practice. The framework highlights the need for more specialized terms within AI literacy discourse and indicates research gaps in certain AI literacy objectives.
+    △ Less
+    
+    
+    Submitted 28 March, 2025; v1 submitted 27 February, 2025;
+    originally announced March 2025.
+    
+    Comments:
+    25 pages, 7 figures; submitted to ICER 2025
+    
+    ACM Class:
+    I.2.0; K.3.2
+41. [arXiv:2502.20354](https://arxiv.org/abs/2502.20354)
+     [[pdf](https://arxiv.org/pdf/2502.20354), [other](https://arxiv.org/format/2502.20354)] 
+    
+    cs.AI
+    cs.CL
+    
+    Towards Responsible AI in Education: Hybrid Recommendation System for K-12 Students Case Study
+    
+    Authors:
+    [Nazarii Drushchak](/search/?searchtype=author&query=Drushchak%2C+N),
+    [Vladyslava Tyshchenko](/search/?searchtype=author&query=Tyshchenko%2C+V),
+    [Nataliya Polyakovska](/search/?searchtype=author&query=Polyakovska%2C+N)
+    
+    Abstract:
+    The growth of Educational Technology (EdTech) has enabled highly personalized learning experiences through Artificial Intelligence (…
+    ▽ More
+    
+    The growth of Educational Technology (EdTech) has enabled highly personalized learning experiences through Artificial Intelligence (AI)-based recommendation systems tailored to each student needs. However, these systems can unintentionally introduce biases, potentially limiting fair access to learning resources. This study presents a recommendation system for K-12 students, combining graph-based modeling and matrix factorization to provide personalized suggestions for extracurricular activities, learning resources, and volunteering opportunities. To address fairness concerns, the system includes a framework to detect and reduce biases by analyzing feedback across protected student groups. This work highlights the need for continuous monitoring in educational recommendation systems to support equitable, transparent, and effective learning opportunities for all students.
+    △ Less
+    
+    
+    Submitted 27 February, 2025;
+    originally announced February 2025.
+42. [arXiv:2502.19422](https://arxiv.org/abs/2502.19422)
+     [[pdf](https://arxiv.org/pdf/2502.19422)] 
+    
+    cs.CY
+    cs.AI
+    cs.HC
+    
+    Generative AI in K-12 Education: The CyberScholar Initiative
+    
+    Authors:
+    [Vania Castro](/search/?searchtype=author&query=Castro%2C+V),
+    [Ana Karina de Oliveira Nascimento](/search/?searchtype=author&query=Nascimento%2C+A+K+d+O),
+    [Raigul Zheldibayeva](/search/?searchtype=author&query=Zheldibayeva%2C+R),
+    [Duane Searsmith](/search/?searchtype=author&query=Searsmith%2C+D),
+    [Akash Saini](/search/?searchtype=author&query=Saini%2C+A),
+    [Bill Cope](/search/?searchtype=author&query=Cope%2C+B),
+    [Mary Kalantzis](/search/?searchtype=author&query=Kalantzis%2C+M)
+    
+    Abstract:
+    This paper focuses on the piloting of CyberScholar, a Generative AI assistant tool that aims to provide formative feedback on writing in…
+    ▽ More
+    
+    This paper focuses on the piloting of CyberScholar, a Generative AI assistant tool that aims to provide formative feedback on writing in K-12 contexts. Specifically, this study explores how students worked with CyberScholar in diverse subject areas, including English Language Arts, Social Studies, and Modern World History classes in Grades 7, 8, 10, and 11 in three schools in the Midwest and one in the Northwest of the United States. This paper focuses on CyberScholar's potential to support K-12 students' writing in diverse subject areas requiring written assignments. Data were collected through implementation observations, surveys, and interviews by participating 121 students and 4 teachers. Thematic qualitative analysis revealed that the feedback tool was perceived as a valuable tool for supporting student writing through detailed feedback, enhanced interactivity, and alignment with rubric criteria. Students appreciated the tool's guidance in refining their writing. For the students, the assistant tool suggests restructuring feedback as a dynamic, dialogic process rather than a static evaluation, a shift that aligns with the cyber-social learning idea, self-regulation, and metacognition. For the teaching side, the findings indicate a shift in teachers' roles, from serving primarily as evaluators to guiding AI feedback processes that foster better student writing and critical thinking.
+    △ Less
+    
+    
+    Submitted 19 August, 2025; v1 submitted 28 January, 2025;
+    originally announced February 2025.
+43. [arXiv:2502.17855](https://arxiv.org/abs/2502.17855)
+     [[pdf](https://arxiv.org/pdf/2502.17855), [other](https://arxiv.org/format/2502.17855)] 
+    
+    cs.HC
+    
+    doi
+    [10.1145/3706598.3713646](https://doi.org/10.1145/3706598.3713646) 
+    
+    
+    Exploring K-12 Physical Education Teachers' Perspectives on Opportunities and Challenges of AI Integration Through Ideation Workshops
+    
+    Authors:
+    [Dakyeom Ahn](/search/?searchtype=author&query=Ahn%2C+D),
+    [Hajin Lim](/search/?searchtype=author&query=Lim%2C+H)
+    
+    Abstract:
+    While AI's potential in…
+    ▽ More
+    
+    While AI's potential in education and professional sports is widely recognized, its application in K-12 physical education (PE) remains underexplored with significant opportunities for innovation. This study aims to address this gap by engaging 17 in-service secondary school PE teachers in group ideation workshops to explore potential AI applications and challenges in PE classes. Participants envisioned AI playing multidimensional roles, such as an operational assistant, personal trainer, group coach, and evaluator, as solutions to address unique instructional and operational challenges in K-12 PE classes. These roles reflected participants' perspectives on how AI could enhance class management, deliver personalized feedback, promote balanced team activities, and streamline performance assessments. Participants also highlighted critical considerations for AI integration, including the need to ensure robust student data security and privacy measures, minimize the risk of over-reliance on AI for instructional decisions, and accommodate the varying levels of technological proficiency among PE teachers. Our findings provide valuable insights and practical guidance for AI developers, educators, and policymakers, offering a foundation for the effective integration of AI into K-12 PE curricula to enhance teaching practices and student outcomes.
+    △ Less
+    
+    
+    Submitted 25 February, 2025;
+    originally announced February 2025.
+    
+    Comments:
+    16 pages, 5 figures, Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems
+44. [arXiv:2502.09799](https://arxiv.org/abs/2502.09799)
+     [[pdf](https://arxiv.org/pdf/2502.09799), [other](https://arxiv.org/format/2502.09799)] 
+    
+    cs.HC
+    cs.AI
+    cs.CY
+    
+    doi
+    [10.1145/3706598.3713971](https://doi.org/10.1145/3706598.3713971) 
+    
+    
+    Co-designing Large Language Model Tools for Project-Based Learning with K12 Educators
+    
+    Authors:
+    [Prerna Ravi](/search/?searchtype=author&query=Ravi%2C+P),
+    [John Masla](/search/?searchtype=author&query=Masla%2C+J),
+    [Gisella Kakoti](/search/?searchtype=author&query=Kakoti%2C+G),
+    [Grace Lin](/search/?searchtype=author&query=Lin%2C+G),
+    [Emma Anderson](/search/?searchtype=author&query=Anderson%2C+E),
+    [Matt Taylor](/search/?searchtype=author&query=Taylor%2C+M),
+    [Anastasia Ostrowski](/search/?searchtype=author&query=Ostrowski%2C+A),
+    [Cynthia Breazeal](/search/?searchtype=author&query=Breazeal%2C+C),
+    [Eric Klopfer](/search/?searchtype=author&query=Klopfer%2C+E),
+    [Hal Abelson](/search/?searchtype=author&query=Abelson%2C+H)
+    
+    Abstract:
+    The emergence of generative AI, particularly large language models (LLMs), has opened the door for student-centered and active learning methods like project-based learning (PBL). However, PBL poses practical implementation challenges for…
+    ▽ More
+    
+    The emergence of generative AI, particularly large language models (LLMs), has opened the door for student-centered and active learning methods like project-based learning (PBL). However, PBL poses practical implementation challenges for educators around project design and management, assessment, and balancing student guidance with student autonomy. The following research documents a co-design process with interdisciplinary K-12 teachers to explore and address the current PBL challenges they face. Through teacher-driven interviews, collaborative workshops, and iterative design of wireframes, we gathered evidence for ways LLMs can support teachers in implementing high-quality PBL pedagogy by automating routine tasks and enhancing personalized learning. Teachers in the study advocated for supporting their professional growth and augmenting their current roles without replacing them. They also identified affordances and challenges around classroom integration, including resource requirements and constraints, ethical concerns, and potential immediate and long-term impacts. Drawing on these, we propose design guidelines for future deployment of LLM tools in PBL.
+    △ Less
+    
+    
+    Submitted 13 February, 2025;
+    originally announced February 2025.
+    
+    Comments:
+    25 pages
+    
+    Journal ref:
+    CHI Conference on Human Factors in Computing Systems (CHI '25), April 26-May 01, 2025, Yokohama, Japan. ACM, New York, NY, USA
+45. [arXiv:2412.17243](https://arxiv.org/abs/2412.17243)
+     [[pdf](https://arxiv.org/pdf/2412.17243), [other](https://arxiv.org/format/2412.17243)] 
+    
+    cs.AI
+    cs.CY
+    cs.HC
+    
+    "From Unseen Needs to Classroom Solutions": Exploring AI Literacy Challenges & Opportunities with Project-based Learning Toolkit in K-12 Education
+    
+    Authors:
+    [Hanqi Li](/search/?searchtype=author&query=Li%2C+H),
+    [Ruiwei Xiao](/search/?searchtype=author&query=Xiao%2C+R),
+    [Hsuan Nieu](/search/?searchtype=author&query=Nieu%2C+H),
+    [Ying-Jui Tseng](/search/?searchtype=author&query=Tseng%2C+Y),
+    [Guanze Liao](/search/?searchtype=author&query=Liao%2C+G)
+    
+    Abstract:
+    As artificial intelligence (AI) becomes increasingly central to various fields, there is a growing need to equip…
+    ▽ More
+    
+    As artificial intelligence (AI) becomes increasingly central to various fields, there is a growing need to equip K-12 students with AI literacy skills that extend beyond computer science. This paper explores the integration of a Project-Based Learning (PBL) AI toolkit into diverse subject areas, aimed at helping educators teach AI concepts more effectively. Through interviews and co-design sessions with K-12 teachers, we examined current AI literacy levels and how teachers adapt AI tools like the AI Art Lab, AI Music Studio, and AI Chatbot into their course designs. While teachers appreciated the potential of AI tools to foster creativity and critical thinking, they also expressed concerns about the accuracy, trustworthiness, and ethical implications of AI-generated content. Our findings reveal the challenges teachers face, including limited resources, varying student and instructor skill levels, and the need for scalable, adaptable AI tools. This research contributes insights that can inform the development of AI curricula tailored to diverse educational contexts.
+    △ Less
+    
+    
+    Submitted 22 December, 2024;
+    originally announced December 2024.
+    
+    Comments:
+    Accepted to AAAI2025
+46. [arXiv:2412.14200](https://arxiv.org/abs/2412.14200)
+     [[pdf](https://arxiv.org/pdf/2412.14200)] 
+    
+    cs.HC
+    
+    ActiveAI: Enabling K-12 AI Literacy Education & Analytics at Scale
+    
+    Authors:
+    [Ruiwei Xiao](/search/?searchtype=author&query=Xiao%2C+R),
+    [Ying-Jui Tseng](/search/?searchtype=author&query=Tseng%2C+Y),
+    [Hanqi Li](/search/?searchtype=author&query=Li%2C+H),
+    [Hsuan Nieu](/search/?searchtype=author&query=Nieu%2C+H),
+    [Guanze Liao](/search/?searchtype=author&query=Liao%2C+G),
+    [John Stamper](/search/?searchtype=author&query=Stamper%2C+J),
+    [Kenneth Koedinger](/search/?searchtype=author&query=Koedinger%2C+K)
+    
+    Abstract:
+    Interest in K-…
+    ▽ More
+    
+    Interest in K-12 AI Literacy education has surged in the past year, yet large-scale learning data remains scarce despite considerable efforts in developing learning materials and running summer programs. To make larger scale dataset available and enable more replicable findings, we developed an intelligent online learning platform featuring AI Literacy modules and assessments, engaging 1,000 users from 12 secondary schools. Preliminary analysis of the data reveals patterns in prior knowledge levels of AI Literacy, gender differences in assessment scores, and the effectiveness of instructional activities. With open access to this de-identified dataset, researchers can perform secondary analyses, advancing the understanding in this emerging field of AI Literacy education.
+    △ Less
+    
+    
+    Submitted 15 December, 2024;
+    originally announced December 2024.
+    
+    Comments:
+    Companion Proceedings 15th International Conference on Learning Analytics & Knowledge (LAK25)
+47. [arXiv:2412.13554](https://arxiv.org/abs/2412.13554)
+     [[pdf](https://arxiv.org/pdf/2412.13554), [other](https://arxiv.org/format/2412.13554)] 
+    
+    cs.CY
+    
+    An XAI Social Media Platform for Teaching K-12 Students AI-Driven Profiling, Clustering, and Engagement-Based Recommending
+    
+    Authors:
+    [Nicolas Pope](/search/?searchtype=author&query=Pope%2C+N),
+    [Juho Kahila](/search/?searchtype=author&query=Kahila%2C+J),
+    [Henriikka Vartiainen](/search/?searchtype=author&query=Vartiainen%2C+H),
+    [Mohammed Saqr](/search/?searchtype=author&query=Saqr%2C+M),
+    [Sonsoles Lopez-Pernas](/search/?searchtype=author&query=Lopez-Pernas%2C+S),
+    [Teemu Roos](/search/?searchtype=author&query=Roos%2C+T),
+    [Jari Laru](/search/?searchtype=author&query=Laru%2C+J),
+    [Matti Tedre](/search/?searchtype=author&query=Tedre%2C+M)
+    
+    Abstract:
+    This paper, submitted to the special track on resources for teaching AI in…
+    ▽ More
+    
+    This paper, submitted to the special track on resources for teaching AI in K-12, presents an explainable AI (XAI) education tool designed for K-12 classrooms, particularly for students in grades 4-9. The tool was designed for interventions on the fundamental processes behind social media platforms, focusing on four AI- and data-driven core concepts: data collection, user profiling, engagement metrics, and recommendation algorithms. An Instagram-like interface and a monitoring tool for explaining the data-driven processes make these complex ideas accessible and engaging for young learners. The tool provides hands-on experiments and real-time visualizations, illustrating how user actions influence both their personal experience on the platform and the experience of others. This approach seeks to enhance learners' data agency, AI literacy, and sensitivity to AI ethics. The paper includes a case example from 12 two-hour test sessions involving 209 children, using learning analytics to demonstrate how they navigated their social media feeds and the browsing patterns that emerged.
+    △ Less
+    
+    
+    Submitted 18 December, 2024;
+    originally announced December 2024.
+    
+    Comments:
+    9 pages, 8 figures, accepted to AAAI 25 conference
+48. [arXiv:2412.09029](https://arxiv.org/abs/2412.09029)
+     [[pdf](https://arxiv.org/pdf/2412.09029)] 
+    
+    cs.CY
+    
+    doi
+    [10.53761/rrm4y757](https://doi.org/10.53761/rrm4y757) 
+    
+    
+    The AI Assessment Scale Revisited: A Framework for Educational Assessment
+    
+    Authors:
+    [Mike Perkins](/search/?searchtype=author&query=Perkins%2C+M),
+    [Jasper Roe](/search/?searchtype=author&query=Roe%2C+J),
+    [Leon Furze](/search/?searchtype=author&query=Furze%2C+L)
+    
+    Abstract:
+    Recent developments in Generative Artificial Intelligence (GenAI) have created significant uncertainty in education, particularly in terms of assessment practices. Against this backdrop, we present an updated version of the…
+    ▽ More
+    
+    Recent developments in Generative Artificial Intelligence (GenAI) have created significant uncertainty in education, particularly in terms of assessment practices. Against this backdrop, we present an updated version of the AI Assessment Scale (AIAS), a framework with two fundamental purposes: to facilitate open dialogue between educators and students about appropriate GenAI use and to support educators in redesigning assessments in an era of expanding AI capabilities.
+    Grounded in social constructivist principles and designed with assessment validity in mind, the AIAS provides a structured yet flexible approach that can be adapted across different educational contexts. Building on implementation feedback from global adoption across both the K-12 and higher education contexts, this revision represents a significant change from the original AIAS. Among these changes is a new visual guide that moves beyond the original traffic light system and utilises a neutral colour palette that avoids implied hierarchies between the levels. The scale maintains five distinct levels of GenAI integration in assessment, from "No AI" to "AI Exploration", but has been refined to better reflect rapidly advancing technological capabilities and emerging pedagogical needs.
+    This paper presents the theoretical foundations of the revised framework, provides detailed implementation guidance through practical vignettes, and discusses its limitations and future directions. As GenAI capabilities continue to expand, particularly in multimodal content generation, the AIAS offers a starting point for reimagining assessment design in an era of disruptive technologies.
+    △ Less
+    
+    
+    Submitted 12 December, 2024;
+    originally announced December 2024.
+49. [arXiv:2412.09001](https://arxiv.org/abs/2412.09001)
+     [[pdf](https://arxiv.org/pdf/2412.09001), [other](https://arxiv.org/format/2412.09001)] 
+    
+    cs.HC
+    
+    MindScratch: A Visual Programming Support Tool for Classroom Learning Based on Multimodal Generative AI
+    
+    Authors:
+    [Yunnong Chen](/search/?searchtype=author&query=Chen%2C+Y),
+    [Shuhong Xiao](/search/?searchtype=author&query=Xiao%2C+S),
+    [Yaxuan Song](/search/?searchtype=author&query=Song%2C+Y),
+    [Zejian Li](/search/?searchtype=author&query=Li%2C+Z),
+    [Lingyun Sun](/search/?searchtype=author&query=Sun%2C+L),
+    [Liuqing Chen](/search/?searchtype=author&query=Chen%2C+L)
+    
+    Abstract:
+    Programming has become an essential component of K-…
+    ▽ More
+    
+    Programming has become an essential component of K-12 education and serves as a pathway for developing computational thinking skills. Given the complexity of programming and the advanced skills it requires, previous research has introduced user-friendly tools to support young learners. However, our interviews with six programming educators revealed that current tools often fail to reflect classroom learning objectives, offer flexible, high-quality guidance, and foster student creativity. This highlights the need for more adaptive and reflective tools. Therefore, we introduced MindScratch, a multimodal generative AI (GAI) powered visual programming support tool. MindScratch aims to balance structured classroom activities with free programming creation, supporting students in completing creative programming projects based on teacher-set learning objectives while also providing programming scaffolding. Our user study results indicate that, compared to the baseline, MindScratch more effectively helps students achieve high-quality projects aligned with learning objectives. It also enhances students' computational thinking skills and creative thinking. Overall, we believe that GAI-driven educational tools like MindScratch offer students a focused and engaging learning experience.
+    △ Less
+    
+    
+    Submitted 12 December, 2024;
+    originally announced December 2024.
+    
+    Comments:
+    18 pages,7 figures
+50. [arXiv:2412.06989](https://arxiv.org/abs/2412.06989)
+     [[pdf](https://arxiv.org/pdf/2412.06989), [other](https://arxiv.org/format/2412.06989)] 
+    
+    cs.HC
+    cs.AI
+    cs.CY
+    
+    Learning About Algorithm Auditing in Five Steps: Scaffolding How High School Youth Can Systematically and Critically Evaluate Machine Learning Applications
+    
+    Authors:
+    [Luis Morales-Navarro](/search/?searchtype=author&query=Morales-Navarro%2C+L),
+    [Yasmin B. Kafai](/search/?searchtype=author&query=Kafai%2C+Y+B),
+    [Lauren Vogelstein](/search/?searchtype=author&query=Vogelstein%2C+L),
+    [Evelyn Yu](/search/?searchtype=author&query=Yu%2C+E),
+    [Danaë Metaxa](/search/?searchtype=author&query=Metaxa%2C+D)
+    
+    Abstract:
+    …systems, there is little research on how we can support them in inquiring about how these systems work and what their limitations and implications may be. Outside of K-…
+    ▽ More
+    
+    While there is widespread interest in supporting young people to critically evaluate machine learning-powered systems, there is little research on how we can support them in inquiring about how these systems work and what their limitations and implications may be. Outside of K-12 education, an effective strategy in evaluating black-boxed systems is algorithm auditing-a method for understanding algorithmic systems' opaque inner workings and external impacts from the outside in. In this paper, we review how expert researchers conduct algorithm audits and how end users engage in auditing practices to propose five steps that, when incorporated into learning activities, can support young people in auditing algorithms. We present a case study of a team of teenagers engaging with each step during an out-of-school workshop in which they audited peer-designed generative AI TikTok filters. We discuss the kind of scaffolds we provided to support youth in algorithm auditing and directions and challenges for integrating algorithm auditing into classroom activities. This paper contributes: (a) a conceptualization of five steps to scaffold algorithm auditing learning activities, and (b) examples of how youth engaged with each step during our pilot study.
+    △ Less
+    
+    
+    Submitted 10 January, 2025; v1 submitted 9 December, 2024;
+    originally announced December 2024.
+    
+    ACM Class:
+    H.5.0; K.4.0; K.7.4
+
+Previous
+[Next](/search/?searchtype=all&query=K-12+AND+AI+AND+education&start=50&order=-announced_date_first)
+
+* [1](/search/?searchtype=all&query=K-12+AND+AI+AND+education&start=0&order=-announced_date_first)
+* [2](/search/?searchtype=all&query=K-12+AND+AI+AND+education&start=50&order=-announced_date_first)
+
+[Search v0.5.6 released 2020-02-24](https://github.com/arXiv/arxiv-search/releases)  
+
+
+
+* [About](https://info.arxiv.org/about)
+* [Help](https://info.arxiv.org/help)
+
+* contact arXivClick here to contact arXiv
+   [Contact](https://info.arxiv.org/help/contact.html)
+* subscribe to arXiv mailingsClick here to subscribe
+   [Subscribe](https://info.arxiv.org/help/subscribe)
+
+
+ 
+
+* [Copyright](https://info.arxiv.org/help/license/index.html)
+* [Privacy Policy](https://info.arxiv.org/help/policies/privacy_policy.html)
+
+* [Web Accessibility Assistance](https://info.arxiv.org/help/web_accessibility.html)
+* [arXiv Operational Status](https://status.arxiv.org)   
+  
+  Get status notifications via
+  [email](https://subscribe.sorryapp.com/24846f03/email/new)
+  or [slack](https://subscribe.sorryapp.com/24846f03/slack/new)
+
+
+ 
+
+
+

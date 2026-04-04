@@ -1,0 +1,939 @@
+# Source URL: https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/full
+# Content Length: 110260 characters
+# Extracted at: 2026-04-04 06:56:52
+#============================================================
+
+
+
+Frontiers | Artificial intelligence in higher education, opportunities, and challenges: a review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![]()Frontiers in Education](//www.frontiersin.org/journals/education) About usAbout us
+
+* Who we are
+* [Mission and values](https://www.frontiersin.org/about/mission)
+* [History](https://www.frontiersin.org/about/history)
+* [Leadership](https://www.frontiersin.org/about/leadership)
+* [Awards](https://www.frontiersin.org/about/awards)
+
+* Impact and progress
+* [Frontiers' impact](https://www.frontiersin.org/about/impact)
+* [Our annual reports](https://www.frontiersin.org/about/annual-reports)
+* [Thought leadership](https://www.frontiersin.org/about/thought-leadership)
+
+* Publishing model
+* [How we publish](https://www.frontiersin.org/about/how-we-publish)
+* [Open access](https://www.frontiersin.org/about/open-access)
+* [Peer review](https://www.frontiersin.org/about/peer-review)
+* [Research integrity](https://www.frontiersin.org/about/research-integrity)
+* [Research Topics](https://www.frontiersin.org/about/research-topics)
+* [FAIR² Data Management](https://www.frontiersin.org/about/fair-data-management)
+* [Fee policy](https://www.frontiersin.org/about/fee-policy)
+
+* Services
+* [Societies](https://publishingpartnerships.frontiersin.org/)
+* [National consortia](https://www.frontiersin.org/open-access-agreements/consortia)
+* [Institutional partnerships](https://www.frontiersin.org/about/open-access-agreements)
+* [Collaborators](https://www.frontiersin.org/about/collaborators)
+
+* More from Frontiers
+* [Frontiers Forum](https://forum.frontiersin.org/)
+* [Frontiers Planet Prize](https://www.frontiersin.org/about/frontiers-planet-prize)
+* [Press office](https://pressoffice.frontiersin.org/)
+* [Sustainability](https://www.frontiersin.org/about/sustainability)
+* [Career opportunities](https://careers.frontiersin.org/)
+* [Contact us](https://www.frontiersin.org/about/contact)
+
+[All journals](https://www.frontiersin.org/journals)[All articles](https://www.frontiersin.org/articles)[Submit your research](https://www.frontiersin.org/submission/submit?domainid=5&fieldid=21&specialtyid=0&entitytype=2&entityid=1239)[Search](//www.frontiersin.org/search)[![]()Frontiers in Education](//www.frontiersin.org/journals/education) SectionsSections
+
+* [Assessment, Testing and Applied Measurement](/journals/education/sections/assessment-testing-and-applied-measurement)
+* [Digital Education](/journals/education/sections/digital-education)
+* [Digital Learning Innovations](/journals/education/sections/digital-learning-innovations)
+* [Higher Education](/journals/education/sections/higher-education)
+* [Language, Culture and Diversity](/journals/education/sections/language-culture-and-diversity)
+* [Leadership in Education](/journals/education/sections/leadership-in-education)
+* [Mental Health and Wellbeing in Education](/journals/education/sections/mental-health-and-wellbeing-in-education)
+* [Psychology in Education](/journals/education/sections/psychology-in-education)
+* [STEM Education](/journals/education/sections/stem-education)
+* [Special Educational Needs](/journals/education/sections/special-educational-needs)
+* [Teacher Education](/journals/education/sections/teacher-education)
+
+[Articles](//www.frontiersin.org/journals/education/articles)[Research Topics](//www.frontiersin.org/journals/education/research-topics)[Editorial board](//www.frontiersin.org/journals/education/editors) About journalAbout journal
+
+* Scope
+* [Field chief editors](https://www.frontiersin.org/journals/education/about#about-editors)
+* [Mission & scope](https://www.frontiersin.org/journals/education/about#about-scope)
+* [Facts](https://www.frontiersin.org/journals/education/about#about-facts)
+* [Journal sections](https://www.frontiersin.org/journals/education/about#about-submission)
+* [Open access statement](https://www.frontiersin.org/journals/education/about#about-open)
+* [Copyright statement](https://www.frontiersin.org/journals/education/about#copyright-statement)
+* [Quality](https://www.frontiersin.org/journals/education/about#about-quality)
+
+* For authors
+* [Why submit?](https://www.frontiersin.org/journals/education/for-authors/why-submit)
+* [Article types](https://www.frontiersin.org/journals/education/for-authors/article-types)
+* [Author guidelines](https://www.frontiersin.org/journals/education/for-authors/author-guidelines)
+* [Editor guidelines](https://www.frontiersin.org/journals/education/for-authors/editor-guidelines)
+* [Publishing fees](https://www.frontiersin.org/journals/education/for-authors/publishing-fees)
+* [Submission checklist](https://www.frontiersin.org/journals/education/for-authors/submission-checklist)
+* [Contact editorial office](https://www.frontiersin.org/journals/education/for-authors/contact-editorial-office)
+
+ About usAbout us
+
+* Who we are
+* [Mission and values](https://www.frontiersin.org/about/mission)
+* [History](https://www.frontiersin.org/about/history)
+* [Leadership](https://www.frontiersin.org/about/leadership)
+* [Awards](https://www.frontiersin.org/about/awards)
+
+* Impact and progress
+* [Frontiers' impact](https://www.frontiersin.org/about/impact)
+* [Our annual reports](https://www.frontiersin.org/about/annual-reports)
+* [Thought leadership](https://www.frontiersin.org/about/thought-leadership)
+
+* Publishing model
+* [How we publish](https://www.frontiersin.org/about/how-we-publish)
+* [Open access](https://www.frontiersin.org/about/open-access)
+* [Peer review](https://www.frontiersin.org/about/peer-review)
+* [Research integrity](https://www.frontiersin.org/about/research-integrity)
+* [Research Topics](https://www.frontiersin.org/about/research-topics)
+* [FAIR² Data Management](https://www.frontiersin.org/about/fair-data-management)
+* [Fee policy](https://www.frontiersin.org/about/fee-policy)
+
+* Services
+* [Societies](https://publishingpartnerships.frontiersin.org/)
+* [National consortia](https://www.frontiersin.org/open-access-agreements/consortia)
+* [Institutional partnerships](https://www.frontiersin.org/about/open-access-agreements)
+* [Collaborators](https://www.frontiersin.org/about/collaborators)
+
+* More from Frontiers
+* [Frontiers Forum](https://forum.frontiersin.org/)
+* [Frontiers Planet Prize](https://www.frontiersin.org/about/frontiers-planet-prize)
+* [Press office](https://pressoffice.frontiersin.org/)
+* [Sustainability](https://www.frontiersin.org/about/sustainability)
+* [Career opportunities](https://careers.frontiersin.org/)
+* [Contact us](https://www.frontiersin.org/about/contact)
+
+[All journals](https://www.frontiersin.org/journals)[All articles](https://www.frontiersin.org/articles)[Submit your research](https://www.frontiersin.org/submission/submit?domainid=5&fieldid=21&specialtyid=0&entitytype=2&entityid=1239)[![]()Frontiers in Education](//www.frontiersin.org/journals/education) SectionsSections
+
+* [Assessment, Testing and Applied Measurement](/journals/education/sections/assessment-testing-and-applied-measurement)
+* [Digital Education](/journals/education/sections/digital-education)
+* [Digital Learning Innovations](/journals/education/sections/digital-learning-innovations)
+* [Higher Education](/journals/education/sections/higher-education)
+* [Language, Culture and Diversity](/journals/education/sections/language-culture-and-diversity)
+* [Leadership in Education](/journals/education/sections/leadership-in-education)
+* [Mental Health and Wellbeing in Education](/journals/education/sections/mental-health-and-wellbeing-in-education)
+* [Psychology in Education](/journals/education/sections/psychology-in-education)
+* [STEM Education](/journals/education/sections/stem-education)
+* [Special Educational Needs](/journals/education/sections/special-educational-needs)
+* [Teacher Education](/journals/education/sections/teacher-education)
+
+[Articles](//www.frontiersin.org/journals/education/articles)[Research Topics](//www.frontiersin.org/journals/education/research-topics)[Editorial board](//www.frontiersin.org/journals/education/editors) About journalAbout journal
+
+* Scope
+* [Field chief editors](https://www.frontiersin.org/journals/education/about#about-editors)
+* [Mission & scope](https://www.frontiersin.org/journals/education/about#about-scope)
+* [Facts](https://www.frontiersin.org/journals/education/about#about-facts)
+* [Journal sections](https://www.frontiersin.org/journals/education/about#about-submission)
+* [Open access statement](https://www.frontiersin.org/journals/education/about#about-open)
+* [Copyright statement](https://www.frontiersin.org/journals/education/about#copyright-statement)
+* [Quality](https://www.frontiersin.org/journals/education/about#about-quality)
+
+* For authors
+* [Why submit?](https://www.frontiersin.org/journals/education/for-authors/why-submit)
+* [Article types](https://www.frontiersin.org/journals/education/for-authors/article-types)
+* [Author guidelines](https://www.frontiersin.org/journals/education/for-authors/author-guidelines)
+* [Editor guidelines](https://www.frontiersin.org/journals/education/for-authors/editor-guidelines)
+* [Publishing fees](https://www.frontiersin.org/journals/education/for-authors/publishing-fees)
+* [Submission checklist](https://www.frontiersin.org/journals/education/for-authors/submission-checklist)
+* [Contact editorial office](https://www.frontiersin.org/journals/education/for-authors/contact-editorial-office)
+
+[![]()Frontiers in Education](//www.frontiersin.org/journals/education) SectionsSections
+
+* [Assessment, Testing and Applied Measurement](/journals/education/sections/assessment-testing-and-applied-measurement)
+* [Digital Education](/journals/education/sections/digital-education)
+* [Digital Learning Innovations](/journals/education/sections/digital-learning-innovations)
+* [Higher Education](/journals/education/sections/higher-education)
+* [Language, Culture and Diversity](/journals/education/sections/language-culture-and-diversity)
+* [Leadership in Education](/journals/education/sections/leadership-in-education)
+* [Mental Health and Wellbeing in Education](/journals/education/sections/mental-health-and-wellbeing-in-education)
+* [Psychology in Education](/journals/education/sections/psychology-in-education)
+* [STEM Education](/journals/education/sections/stem-education)
+* [Special Educational Needs](/journals/education/sections/special-educational-needs)
+* [Teacher Education](/journals/education/sections/teacher-education)
+
+[Articles](//www.frontiersin.org/journals/education/articles)[Research Topics](//www.frontiersin.org/journals/education/research-topics)[Editorial board](//www.frontiersin.org/journals/education/editors) About journalAbout journal
+
+* Scope
+* [Field chief editors](https://www.frontiersin.org/journals/education/about#about-editors)
+* [Mission & scope](https://www.frontiersin.org/journals/education/about#about-scope)
+* [Facts](https://www.frontiersin.org/journals/education/about#about-facts)
+* [Journal sections](https://www.frontiersin.org/journals/education/about#about-submission)
+* [Open access statement](https://www.frontiersin.org/journals/education/about#about-open)
+* [Copyright statement](https://www.frontiersin.org/journals/education/about#copyright-statement)
+* [Quality](https://www.frontiersin.org/journals/education/about#about-quality)
+
+* For authors
+* [Why submit?](https://www.frontiersin.org/journals/education/for-authors/why-submit)
+* [Article types](https://www.frontiersin.org/journals/education/for-authors/article-types)
+* [Author guidelines](https://www.frontiersin.org/journals/education/for-authors/author-guidelines)
+* [Editor guidelines](https://www.frontiersin.org/journals/education/for-authors/editor-guidelines)
+* [Publishing fees](https://www.frontiersin.org/journals/education/for-authors/publishing-fees)
+* [Submission checklist](https://www.frontiersin.org/journals/education/for-authors/submission-checklist)
+* [Contact editorial office](https://www.frontiersin.org/journals/education/for-authors/contact-editorial-office)
+
+[Submit your research](https://www.frontiersin.org/submission/submit?domainid=5&fieldid=21&specialtyid=0&entitytype=2&entityid=1239)[Search](//www.frontiersin.org/search)
+
+REVIEW article
+--------------
+
+Front. Educ., 29 January 2026
+
+Sec. Higher Education
+
+Volume 10 - 2025 | <https://doi.org/10.3389/feduc.2025.1683968>
+
+[Published in![]()
+
+Frontiers in Education 
+
+* #### Higher Education
+
+* **1.9** impact factor
+* **3.7** citescore](https://www.frontiersin.org/journals/education)
+### Editor & Reviewers
+
+Edited by
+
+[SH
+
+Susana Henriques](https://loop.frontiersin.org/people/1730761)
+
+Reviewed by
+
+[CB
+
+Claudia Bellini](https://loop.frontiersin.org/people/3223756)[EB
+
+Emna Baccour](https://loop.frontiersin.org/people/987447)[DA
+
+Dennis Arias-Chávez](https://loop.frontiersin.org/people/1993288)
+
+Outline
+
+* [Abstract](#h1)
+* [1 Introduction](#sec1)
+* [2 The impact of AI on pedagogy and learning](#sec2)
+* [3 AI in assessments and academic integrity](#sec6)
+* [4 Ethical and psychological implications of AI in higher education](#sec10)
+* [5 Institutional strategies and governance of AI in higher education](#sec13)
+* [6 Future trends and emerging technologies](#sec16)
+* [7 Recommendations](#sec17)
+* [8 Conclusion](#sec18)
+* [Author contributions](#sec19)
+* [Funding](#h11)
+* [Conflict of interest](#sec20)
+* [Generative AI statement](#sec21)
+* [Publisher’s note](#sec22)
+* [References](#h15)
+
+Figures and Tables 
+
+* Figure 1
+  
+  ![]()[View in article](#fig1)
+* Table 1
+  
+  Summary of major AI applications in higher education.
+  
+  [View in article](#tab1)
+
+REVIEW article
+--------------
+
+Front. Educ., 29 January 2026
+
+Sec. Higher Education
+
+Volume 10 - 2025 | <https://doi.org/10.3389/feduc.2025.1683968>
+
+Artificial intelligence in higher education, opportunities, and challenges: a review
+====================================================================================
+
+* [SA
+  
+  Sharifa AlBlooshi † \*](https://loop.frontiersin.org/people/2091697)
+
+* Department of Health Sciences, College of Natural and Health Sciences, Zayed University, Dubai, United Arab Emirates
+
+ Article metrics
+
+[View details](#metrics)
+
+A correction has been applied to this article in:
+
+2. Correction: Artificial intelligence in higher education, opportunities, and challenges: a review
+   
+   2. [Read correction](/journals/education/articles/10.3389/feduc.2026.1836421/full)
+
+Abstract
+--------
+
+Artificial intelligence (AI) is a growing force of change in higher education, providing assistance to students, teachers, and administrators in teaching, learning, and administration. As AI technologies advance rapidly, they present a combination of significant opportunities and complex challenges. In this study, we examine the role of AI in higher education, highlighting both its positive and negative impacts, as well as current policy gaps and issues arising from its deployment. The literature on the topic was reviewed to determine how AI decisively impacts teaching and learning, the role of AI in assessments and academic integrity, as well as ethics, psychological considerations, and institutional governance from an ethical and psychological perspective. Technologies used in new areas, such as adaptive AI-based systems, intelligent tutoring platforms, and generative AI tools, create new opportunities for accessibility and personalization of learning experiences, thereby increasing student motivation. Skills development, such as writing and linguistic skills, can enhance AI capabilities. Additionally, it facilitates assessment methods by improving processes, providing immediate feedback, and adjusting evaluations accordingly. However, when students rely heavily on AI for their assessment tasks, it raises questions about academic integrity, cognitive offloading, and the limits of skills acquisition. While progress has been made, numerous open questions remain regarding the detection of AI-generated content, including the incorporation of fake narratives into generative AI tools, biases, privacy concerns, and the impact of the technology on our environment. Policies on AI governance have not yet matured in many higher education institutions; an integrated approach will be required from a broader perspective, including training faculty and utilizing institutional resources to benefit from AI while mitigating associated risks. To synthesize recent research on artificial intelligence in higher education, this study employs a narrative review approach. Unlike existing reviews that focus primarily on the integrated analysis of AI’s pedagogical, assessment, ethical, psychological, and institutional governance implications, this multidimensional perspective provides a consolidated framework to support responsible AI use across higher education systems.
+
+1 Introduction
+--------------
+
+AI use in writing accumulates ethical dilemmas, such as unclear authorship, hidden bias, and a lack of transparency and justice. It boosts efficiency but challenges accountability and integrity. The ability to ensure the ethical use of AI rests on the careful supervision of users and researchers. AI is defined as the technology that aims to mimic the human brain, enabling machines to acquire, adjust, and make data-driven decisions based on experience. This vision was primarily articulated by Alan Turing and John McCarthy, who coined the term in 1956 ([Crompton and Burke, 2023](#ref12)). Following this, AI has progressed rapidly in various directions; today, it plays a leading role in education ([Crompton and Burke, 2023](#ref12)). It has progressed from basic automation to advanced applications, such as IBM’s Watson, which supports student advising and administrative functions ([Popenici and Kerr, 2017](#ref24)). The increasing integration of AI in education has been fueled by breakthroughs in machine learning, natural language processing (NLP), and neural network design, shifting from tools such as spell checkers, grammar correction software, grading systems, and plagiarism detection to sophisticated solutions like adaptive instruction, predictive analytics, and intelligent tutoring systems ([Popenici and Kerr, 2017](#ref24); [Tenakwah et al., 2023](#ref27); [Cabero-Almenara et al., 2024](#ref10)). While early AI adoption in education was initially concentrated in STEM fields, its applications have now expanded to the humanities, social sciences, language education, medical training, engineering, academic research, and beyond ([Roll and Wylie, 2016](#ref26); [Crompton and Burke, 2023](#ref12)).
+
+The emergence of generative AI models such as GPT-2 and GPT-3 has broadened the scope of AI in educational contexts ([Tenakwah et al., 2023](#ref27)). Generative AI can create digital content—including human-like text, images, video, and audio—by analyzing patterns in existing data. Two categories of interest are generative adversarial networks (GANs) and generative pre-trained transformers (GPT) ([Baidoo-Anu and Owusu Ansah, 2023](#ref6)). GANs are primarily concerned with generating new images and sounds. In contrast, models based on GPT, such as ChatGPT, focus on interacting with people through text in a manner similar to humans. ChatGPT, a product of the GPT models, was introduced on November 30, 2022. Within 1 week, it had garnered more than a million users, and by the end of 2 months, it had amassed a total of 100 million users, making it the fastest-growing online application ever ([Bobula, 2024](#ref8); [Alier et al., 2024](#ref3)). It has provided an understanding of context, facilitated the generation of language, offered multilingual support, and enabled adaptability for various educational purposes ([Bobula, 2024](#ref8)). Large language models (LLMs) like GPT-4 are now capable of performing tasks that were previously dependent on human intelligence, such as creating content, tutoring, and designing assessments ([Francis et al., 2025](#ref15)).
+
+The process of AI acceptance in educational settings has been elaborated upon by [Diamandis and Kotler (2020)](#ref9004) as one of the stages they describe. It began with the digitalization phase, marking the shift from traditional to digital learning. Next, the deceptive phase followed, during which the functionalities of early AI systems were minimal. Gradual improvements led to the disruptive phase, featuring automation, personalized learning, and advanced analytics. A decline in the price of AI tools during the demonetization stage made them widely available and accessible, paving the way for decentralization, which has become an integral part of the design process for curricula, assessments, and learning environments. The final dematerialization phase involves the complete replacement of traditional educational resources (printed textbooks and encyclopedias) with electronic ones, which not only facilitates knowledge access and delivery but also accelerates the process ([Alier et al., 2024](#ref3)).
+
+The COVID-19 pandemic has led to a significant shift in the adoption of educational technology and AI, which has become increasingly prevalent in education. The challenges that universities faced with traditional methods for delivering courses and conducting assessments during the pandemic highlighted the need for new, scalable, digital, and AI-supported approaches ([Richardson and Clesham, 2021](#ref25); [AlBlooshi et al., 2023](#ref9001)). Nevertheless, various institutions responded to AI in different ways; some still show reluctance in adopting the technology due to factors such as institutional inertia, risk aversion, and doubts about AI reliability ([Richardson and Clesham, 2021](#ref25)). For instance, the NYC education authority took the drastic measure of banning ChatGPT to minimize the risk of misuse ([Baidoo-Anu and Owusu Ansah, 2023](#ref6)). Advocates on the other side would agree on major AI-related issues and collaborate with institutions for a smooth transition as their preferred approach.
+
+Artificial intelligence, in the form of various applications, is a technology poised for widespread adoption in higher education, offering several advantages, including enhanced teaching and learning, increased student engagement, support for writing and research, innovative assessment techniques, and the automation of administrative tasks. However, it also presents a long list of challenges, including academic integrity issues, the difficulty of recognizing AI-generated content, the propagation of misinformation and hallucinations, ethical and bias-related concerns, privacy and security risks, dependency on AI, environmental impacts, the divide between tech-savvy and non-tech-savvy populations, job cuts, market monopolization, and reduced human interaction ([Elkhatat et al., 2023](#ref13); [Bobula, 2024](#ref8); [Crompton and Burke, 2023](#ref12); [Francis et al., 2025](#ref15); [Popenici and Kerr, 2017](#ref24); [Baidoo-Anu and Owusu Ansah, 2023](#ref6); [Tenakwah et al., 2023](#ref27); [Borges et al., 2024](#ref9); [Zhong et al., 2024](#ref30); [Hooda et al., 2022](#ref16)). The lack of clear strategies for AI integration in the higher education sector presents a significant challenge in developing comprehensive guidelines for responsible use, maximizing benefits, and minimizing risks within institutions. This study examines and synthesizes the existing literature on the use of AI in higher education using a narrative review methodology. This approach facilitates broader conceptual integration of pedagogical, assessment, ethical, psychological, and institutional policy perspectives, as opposed to more specific systematic reviews that focus on narrowly defined outcomes. This review provides a thorough examination of the educational consequences and governance issues associated with AI, in contrast to previous reviews that tend to concentrate on specific aspects of AI use.
+
+2 The impact of AI on pedagogy and learning
+-------------------------------------------
+
+### 2.1 AI-powered teaching and learning
+
+The integration of Artificial Intelligence into education marks the beginning of a new era, positively affecting both teachers and learners. Among its various contributions, improved accessibility stands out as the most significant. AI-based learning platforms are evolving and taking the initiative in creating educational content tailored to individual learners, providing specific context for each course, and making real-time instructional materials available during the learning process ([Alier et al., 2024](#ref3)). Natural language processing (NLP)-enabled bots enhance accessibility by providing rapid support to learners ([Alqahtani et al., 2023](#ref4)). The AI-powered chatbot can immediately respond to students’ inquiries, offer in-depth explanations of concepts, point out additional resources, provide personal tutoring, assist with assignments, prepare students for standardized tests, and act as a therapist during mental distress, all at once, functioning like virtual teaching assistants ([Labadze et al., 2023](#ref17)). In instances where chatbots support learners during assignments and exams, students receive step-by-step guidance, constructive feedback on their work, and help with the most challenging aspects ([Labadze et al., 2023](#ref17)). They can also assist in various other ways, such as translating languages, providing concise overviews of material, working through exercises, correcting students’ writing, and facilitating brainstorming sessions ([Atchley et al., 2024](#ref5); [Baidoo-Anu and Owusu Ansah, 2023](#ref6)). For example, [Essel et al. (2022)](#ref14) noted that in large classes, chatbots can substitute for instructor interaction by providing instant, automated answers, reducing workload, and increasing engagement. They also offer real-time feedback and problem-solving assistance ([Atchley et al., 2024](#ref5)). Furthermore, tools such as ChatGPT, Grammarly, QuillBot, and Copilot are widely used. New studies demonstrate the growing adoption of AI in education and learning, primarily for language support and adaptive learning ([Crompton and Burke, 2023](#ref12); [Bobula, 2024](#ref8); [Tenakwah et al., 2023](#ref27); [Cabero-Almenara et al., 2024](#ref10)). This rapid expansion reflects AI’s broader pedagogical and research roles, as well as numerous other aspects.
+
+As per [Essel et al. (2022)](#ref14), in educational setups with a very high instructor-to-student ratio, chatbots can mimic direct communication with teachers by asking questions and providing immediate, automated answers. This reduces teachers’ workload while making learners more active and involved. Learning with these tools offers benefits such as one-on-one interaction and instant feedback, which are hard to find in traditional teaching methods ([Atchley et al., 2024](#ref5)). By receiving timely feedback, individuals can self-reflect and prepare to learn independently, recognizing and correcting their mistakes ([Adiguzel et al., 2023](#ref1)). In addition, AI chatbots aid in skill development, such as writing, by providing suggestions on grammar and syntax, offering guided solutions, and promoting collaboration and argumentation skills, as well as deeper learner engagement ([Labadze et al., 2023](#ref17)). They also help relate new information to previously acquired knowledge, making difficult concepts easier to comprehend. For example, OwlMentor, an AI-integrated learning tool, enhances the comprehension of scientific texts through document-based chats, automated summaries, question generation, and quiz creation. It allows students to engage with course materials, understand main points, assess themselves during the process, and strengthen their comprehension ([Thüs et al., 2024](#ref28)).
+
+AI-based applications can promote independence by developing customized learning strategies that align with learners’ strengths, weaknesses, and learning styles ([Francis et al., 2025](#ref15)). GenAI is one tool that supports the self-learning process, increasing cognitive engagement and improving memory retrieval practices, which leads to the development of independence, flexible learning paths, and better retention ([Monzon and Hays, 2025](#ref21)). Another significant benefit of AI, particularly in metacognitive development, is the ability to automate lower-order cognitive tasks, enabling students to focus on higher-order thinking ([Atchley et al., 2024](#ref5)). Furthermore, AI can personalize educational experiences tailored to individual learner profiles. This is made possible through technologies such as intelligent tutoring systems (ITS), interactive learning environments (ILEs), and adaptive learning platforms, which provide a level of customized, interactive teaching similar to human tutoring ([Roll and Wylie, 2016](#ref26); [Tenakwah et al., 2023](#ref27)). AI-empowered ITS not only maps learning strategies and activities according to individual needs but also provides real-time guidance, feedback, and follow-up, making it particularly suitable for higher education ([Crompton and Burke, 2023](#ref12)). AI’s capabilities include tracking progress, monitoring behavior, identifying challenges, and offering recommendations for necessary interventions ([Alqahtani et al., 2023](#ref4)).
+
+GenAI is pushing the boundaries of personalization to the maximum by optimizing learning activities according to students’ needs, pace, and preferences ([Francis et al., 2025](#ref15)). It can also adjust the difficulty of questions quickly using performance data, allowing individuals to learn in the most effective way ([Francis et al., 2025](#ref15); [Monzon and Hays, 2025](#ref21)). Specific AI systems identify learning gaps and guide students through problems with structured, step-by-step solutions ([Tenakwah et al., 2023](#ref27)). A prime example is iTalk2Learn, a speech-based math tutor that assists learners struggling with fractions ([Tenakwah et al., 2023](#ref27)). One of the most popular GenAI tools, ChatGPT, offers systematic explanations for a wide range of subjects, making it particularly useful for learners who need additional support beyond what is provided in the classroom ([Baidoo-Anu and Owusu Ansah, 2023](#ref6)). AI tools are being used to assist neurodivergent students in managing time, outlining, and understanding complex concepts ([Bobula, 2024](#ref8)).
+
+For instructors, AI can aid in planning the curriculum, designing instruction, creating assessments, providing timely feedback, and predicting academic performance ([Crompton and Burke, 2023](#ref12)). Teachers can analyze data from AI to determine students’ academic performance and likelihood of success, enabling them to plan targeted strategies for specific student groups ([Adiguzel et al., 2023](#ref1)). Overall, learners generally have a positive view of AI in education. [Chan and Hu (2023)](#ref11) reported that students appreciate AI for its quick responses, unique insights, personalized recommendations, customized feedback, and anonymous support.
+
+### 2.2 Enhancing student engagement through AI
+
+AI integration in education not only improves student engagement but also provides interactive and immersive learning experiences that ultimately boost motivation and academic outcomes. The use of AI-based tools has significantly expanded the reach of education by introducing virtual and augmented reality, which provides access to interactive experiences that surpass traditional teaching methods ([Tenakwah et al., 2023](#ref27)). The application of Generative AI (GenAI) in the classroom is a key factor, as it not only cultivates learners’ motivation but also attracts them through constantly changing learning strategies and adaptive pathways ([Monzon and Hays, 2025](#ref21)). AI-powered platforms, such as Smart Sparrow, play a crucial role in engaging students by creating interactive environments and supporting their participation in course material ([Adiguzel et al., 2023](#ref1)). Chatbots offer distinct advantages for learners who may struggle to participate in conventional classroom settings for various reasons ([Essel et al., 2022](#ref14)). AI has been widely utilized in education to create learning environments that are both supportive and stimulating, enabling students to feel more confident in their abilities and reducing anxiety about learning ([Adiguzel et al., 2023](#ref1)). The real-time feedback provided by AI tools helps learners refine their thoughts and explore the content in greater depth. Studies indicate that timely assessments and feedback are among the most important factors contributing to student engagement in courses ([Hooda et al., 2022](#ref16)). Additionally, AI-enabled personalized learning leads to increased engagement, improved understanding, and enhanced academic performance ([Francis et al., 2025](#ref15)). [Alqahtani et al. (2023)](#ref4) asserted that learning activities, such as personalized experiences, cater to the interests, styles, and goals of each student, thereby enhancing motivation and contributing to better academic results. This paper aims to examine the advantages and disadvantages of utilizing AI in higher education. It discusses how AI influences teaching, learning, and assessment while also affecting ethics, academic transparency, and integrity. It considers psychological influences and offers institutional adoption strategies with well-defined responsible policies. Additionally, AI tools such as ChatGPT play a role in computer-supported collaborative learning (CSCL) by acting as secondary collaborators in student groups, facilitating the exploration of novel communication methods and fostering smoother and more productive group interactions ([Atchley et al., 2024](#ref5)). This interactive process is not limited to common instructor–learner or peer-to-peer relationships but also includes interactions between learners and GenAI, with GenAI acting as a private tutor or study buddy, thereby stimulating motivation and engagement ([Monzon and Hays, 2025](#ref21)). ChatGPT is recognized as a creative partner in team collaboration processes through its ability to facilitate group discussions, peer review, and scenario-based learning activities, making it a key factor in supporting student interaction and participation ([Mokmin and Ibrahim, 2021](#ref20)).
+
+Further, the interactive nature of ChatGPT is designed so that users feel and behave like humans, providing students with a kind of freedom that fosters self-reliance, interest, and engagement, thus making learning more unique and enjoyable ([Baidoo-Anu and Owusu Ansah, 2023](#ref6); [Labadze et al., 2023](#ref17)). During the process of learning a foreign language, ChatGPT creates a lively environment where students can interact with a virtual teacher, who, in turn, assists them not only with their language development but also with their communication with peers ([Baidoo-Anu and Owusu Ansah, 2023](#ref6); [Adiguzel et al., 2023](#ref1)).
+
+AI technologies have been highly effective in reducing dropout rates and student disengagement by continuously monitoring performance and engagement, providing targeted interventions at the right time ([Adiguzel et al., 2023](#ref1)). A qualitative study analyzing students’ perspectives on AI tools revealed high satisfaction levels with chatbots, attributed to their fast responses and feedback ([Essel et al., 2022](#ref14)). Students noted that learning became more attractive and interactive, as the chatbot helped them organize and review their knowledge, making the educational process more engaging ([Essel et al., 2022](#ref14)).
+
+This interaction is not limited to instructor–learner, peer-to-peer, and learner–GenAI engagement (with GenAI serving as a personal tutor or study partner). It also influences students’ motivation and attentiveness during the learning process ([Monzon and Hays, 2025](#ref21)). ChatGPT is also a novel tool that enhances team-based learning by facilitating engaging group discussions, peer reviews, and collaborative activities, thereby promoting learner engagement and interaction ([Mokmin and Ibrahim, 2021](#ref20)).
+
+Additionally, the conversational style of ChatGPT mimics human-like interaction, allowing students to feel a sense of agency, leading to greater independence, engagement, and interest by involving them in personalizing and reflecting on learning in a more enjoyable way ([Baidoo-Anu and Owusu Ansah, 2023](#ref6); [Labadze et al., 2023](#ref17)). In language learning, ChatGPT fosters an interactive environment that enhances learners’ proficiency and communication skills through peer-to-peer interactions with a virtual tutor ([Baidoo-Anu and Owusu Ansah, 2023](#ref6); [Adiguzel et al., 2023](#ref1)).
+
+AI has proven successful in reducing student disengagement and dropout rates by monitoring performance and engagement over time and intervening when necessary ([Adiguzel et al., 2023](#ref1)). A qualitative analysis of student responses to AI tools revealed a high level of satisfaction with chatbots, mainly due to their prompt responses and feedback ([Essel et al., 2022](#ref14)). According to the students, their learning environment became more enjoyable and interactive, as it helped them organize and revise their knowledge, making education more engaging ([Essel et al., 2022](#ref14)). To consolidate the key ideas discussed in this section and enhance clarity, [Table 1](#tab1) summarizes the main AI applications in higher education, highlighting their core functions, pedagogical value, and the challenges associated with their implementation.
+
+Table 1
+
+| AI application | Educational function | Pedagogical benefits | Associated challenges |
+| Intelligent tutoring systems (ITS) | Personalized instruction and adaptive feedback | Individualized learning paths, real-time support, and improved retention | Over-reliance on automation and limited human interaction |
+| Generative AI | Content generation, tutoring, and writing support | Brainstorming, explanation of concepts, language, and writing enhancement | Academic integrity risks and plagiarism |
+| AI chatbots | Academic support and student assistance | Instant feedback, 24/7 availability, and reduced instructor workload | Dependency and limited contextual accuracy |
+| Automated grading systems | Essay scoring and assessment feedback | Faster grading, consistency, and reduced assessment burden | Bias in scoring and lack of qualitative judgment |
+| Adaptive Learning Platforms | Curriculum personalization | Increased engagement, targeted remediation, and self-paced learning | Data privacy risks and over-personalization |
+| AI detection tools | Identification of AI-generated content | Support for academic integrity monitoring | False-positives and bias against non-native speakers |
+| AI-supported writing tools | Editing, rewriting, and language support | Improved writing quality, grammar, and clarity enhancement | Skill dependency and authorship ambiguity |
+
+Summary of major AI applications in higher education.
+
+### 2.3 AI-supported research and academic writing
+
+AI holds significant potential to enhance writing and research skills. Generative AI (GenAI) could enable students to write like professionals. AI text generators offer substantial assistance to writers who do not speak English as their native language, as they aid in brainstorming and providing suggestions that can improve the writing process ([Chan and Hu, 2023](#ref11)). AI is also a writing skill enhancer; it identifies and highlights key content in various styles and formats ([Bobula, 2024](#ref8)). GenAI tools can perform various functions, including checking grammar, rewriting sentences, providing feedback, and assisting in polishing drafts ([Chan and Hu, 2023](#ref11)). ChatGPT and similar platforms have the capability to write articles, stories, poems, and essays, provide summaries with or without extending the length of a text, and modify the tone and viewpoint according to requirements ([Baidoo-Anu and Owusu Ansah, 2023](#ref6)). Additionally, ChatGPT can evaluate the clarity of the text, assist with content organization, and offer suggestions for enhancing arguments, thereby making writing more convincing ([Alier et al., 2024](#ref3)).
+
+While basic cognitive tasks such as researching and summarizing information can be performed using search engines, more advanced tasks like evaluation and analysis can now be accomplished by AI tools like ChatGPT, which can produce original work ([Atchley et al., 2024](#ref5)).
+
+In research contexts, GenAI plays a crucial role by suggesting ideas, proposing relevant topics, and facilitating the development of project concepts ([Bobula, 2024](#ref8)). However, new applications of AI in research continue to emerge, including presenting information to users through data visualization, extracting and summarizing news articles, simultaneous speech interpretation, and translations, as seen in Marantz. AI also improves the precision and relevance of abstracts, introductions, or conclusions, enhancing the quality of scientific papers ([Alqahtani et al., 2023](#ref4)). Additionally, ChatGPT can generate meaningful study designs from existing methods, compare historical examples of research to inform choices about theoretical assumptions and concepts, connect related research areas or data processing techniques that may not be familiar to readers due to their interdisciplinary nature, and recommend data analysis methods or statistical approaches. It could also project future research directions based on earlier work ([Alier et al., 2024](#ref3)). AI tools provide editing, check for spelling and grammar, and perform style and format checks for the computer interface layouts of papers, which could make scientific writing more transparent and readable ([Alqahtani et al., 2023](#ref4)). Moreover, AI can conduct a comprehensive evaluation of research design, methodology, and statistical basis ([Alqahtani et al., 2023](#ref4)).
+
+3 AI in assessments and academic integrity
+------------------------------------------
+
+### 3.1 AI-driven assessment methods
+
+AI technology can be integrated into various assessment types, including formative, summative, normative, and diagnostic assessments ([Bennett, 2023](#ref7)). AI can personalize the curriculum by utilizing assessment tasks that support the learning process ([Baidoo-Anu and Owusu Ansah, 2023](#ref6)). Various tools, such as ChatGPT, are being used in classrooms to enhance learning by developing discussion prompts, quizzes, and exercises ([Monzon and Hays, 2025](#ref21)), while other online platforms, such as Kahoot, Socrates, and Moodle, are incorporating AI into their game-based assessments, making the learning environment more engaging and motivating for learners ([Bennett, 2023](#ref7)). In terms of formative assessment, AI enables teachers to tailor instruction to students’ needs; for instance, generative AI could digitize performance ratings and overall learning credits for summative assessments ([Monzon and Hays, 2025](#ref21)). This is facilitated by GenAI’s proficiency in presenting comprehensive tests that accurately measure the achievement of learning goals ([Perkins et al., 2024](#ref23); [Crompton and Burke, 2023](#ref12)). ChatGPT can generate various question types for different subjects, along with the corresponding correct answers ([Labadze et al., 2023](#ref17), p. 11). Furthermore, AI is also capable of formulating open-ended queries that align with teaching objectives and unit success criteria ([Baidoo-Anu and Owusu Ansah, 2023](#ref6); [Labadze et al., 2023](#ref17)).
+
+Educational platforms that utilize Massive Open Online Courses (MOOCs) are leveraging GenAI tools to develop curriculum assessments ([Francis et al., 2025](#ref15)). Additionally, AI technologies assist in grading students’ work, providing instantaneous, impartial, and consistent feedback ([Francis et al., 2025](#ref15); [Adiguzel et al., 2023](#ref1)). “AutoGrader” is one of the tools that automates the grading of homework and tests, thereby alleviating the burden and saving time, which in turn allows for professional development ([Adiguzel et al., 2023](#ref1); [Alier et al., 2024](#ref3)). AI’s application in grading also extends to essay scoring, where computational algorithms evaluate and provide feedback on student essays ([Mizumoto and Eguchi, 2023](#ref19)). Natural Language Processing techniques, including semantic and discourse analysis, are employed in this process ([Alqahtani et al., 2023](#ref4)). The grading system evaluates answers based on their quality, using a gold standard answer as a reference ([Borges et al., 2024](#ref9)). For large groups of students, AI-assisted automatic essay scoring offers a grading process that is quick, consistent, and reliable ([Francis et al., 2025](#ref15); [Mizumoto and Eguchi, 2023](#ref19); [Chan and Hu, 2023](#ref11)). Studies comparing the grades assigned by AI and those assigned by humans reported no significant difference between the two grading methods ([Francis et al., 2025](#ref15); [Mizumoto and Eguchi, 2023](#ref19)). Nevertheless, AI-assisted essay scoring should complement human grading rather than replace it ([Mizumoto and Eguchi, 2023](#ref19); [Figure 1](#fig1)).
+
+Figure 1
+
+![]()
+
+
+
+A visual summary of the main features of AI-assisted text generation and evaluation.
+
+
+
+AI evaluation tools are used in both formative and summative assessment situations ([Richardson and Clesham, 2021](#ref25)). In diagnostic assessment, AI plays a crucial role in identifying learning deficiencies before and during instruction, allowing teachers to provide targeted support based on identified gaps ([Monzon and Hays, 2025](#ref21)). GenAI, in normative assessment, can be a valuable asset for setting and analyzing standards and benchmarks, as well as reporting student performance in relation to those benchmarks ([Monzon and Hays, 2025](#ref21)). In summary, AI across formative, summative, peer, and self-assessment enables institutions to influence curriculum, teaching, feedback, and resource allocation, thereby contributing to improved educational and learning outcomes.
+
+### 3.2 The issue of academic integrity and AI detection challenges
+
+AI has evolved to the point where it can answer typical questions found in university assessments and perform additional tasks such as writing essays, solving math problems, conducting research, and analyzing documents ([Alier et al., 2024](#ref3)). The results of a study conducted with GPT-4 showed that it was able to provide correct answers to approximately 66% of the questions asked. This was determined by a majority vote method, where responses generated using different prompting techniques were collectively assessed ([Borges et al., 2024](#ref9)). It was revealed that GPT-4 can provide at least one correct answer for almost every question posed; as a result, this indicates a more significant weakness in tests where someone with adequate subject knowledge can identify the correct answer but cannot produce it themselves ([Borges et al., 2024](#ref9)). The educational sector would be compromised by such AI capability if cheating were the only concern; however, cheating would not be the only problem. Education would also face issues of plagiarism, attribution, copyright, and the distinction between human and machine authorship ([Elkhatat et al., 2023](#ref13); [Chan and Hu, 2023](#ref11); [Tenakwah et al., 2023](#ref27)). It is possible that students may not fully grasp the entire course material, yet they will still be able to present AI-generated work as their own ([Alqahtani et al., 2023](#ref4); [Alier et al., 2024](#ref3)). Increasingly, education representatives are questioning the fairness of essay-based evaluations, viewing the use of AI as a risk to the integrity of academic assessments and a source of unfair advantage ([Adiguzel et al., 2023](#ref1); [Labadze et al., 2023](#ref17)). A similar problem arises in college admissions, as committees struggle to determine the extent to which an applicant has utilized AI in their work and the quality of that work ([Zhao et al., 2024](#ref29)). Detecting AI-generated texts remains a significant hurdle, as conventional detection systems like Turnitin usually do not perform well in identifying AI texts and often result in false positives or negatives ([Alier et al., 2024](#ref3); [Liang et al., 2023](#ref18); [Peres et al., 2023](#ref22); [Atchley et al., 2024](#ref5)). A globally applicable detection method is still not available, although research is ongoing and tools are being developed ([Zhao et al., 2024](#ref29); [Labadze et al., 2023](#ref17)). The natural language of AI poses a significant barrier that makes it increasingly challenging to detect AI content universally, mainly because AI can produce texts that are remarkably similar to those of humans ([Zhao et al., 2024](#ref29); [Baidoo-Anu and Owusu Ansah, 2023](#ref6); [Bobula, 2024](#ref8)).
+
+Generative AI detection tools themselves present issues, including false accusations and potential biases ([Francis et al., 2025](#ref15); [Perkins et al., 2024](#ref23)). AI detection is fallible due to the variety of writing genres, resulting in both false positives and negatives ([Bobula, 2024](#ref8); [Alier et al., 2024](#ref3)). This disproportionately impacts non-native English speakers and neurodiverse learners ([Francis et al., 2025](#ref15)).
+
+It was discovered that large numbers of human-written texts produced by non-native English speakers were incorrectly identified as AI-generated by the detectors, whereas texts written by native English speakers were not ([Liang et al., 2023](#ref18)). The tool performed significantly better with samples from native English speakers, achieving an accuracy of nearly 100%. Since these tools rely on identifying texts with low perplexity, they tend to misclassify texts by non-native speakers who have limited vocabulary and range of expression ([Bobula, 2024](#ref8); [Liang et al., 2023](#ref18)). This suggests that current systems are better at recognizing genuine writing from native speakers. Therefore, it can be concluded that AI detection tools can aid in identifying AI-produced content, but they should not be the sole consideration in academic integrity investigations ([Elkhatat et al., 2023](#ref13)).
+
+There are instances of human-written pieces being incorrectly labeled as AI-produced, while AI-generated text can also be modified to evade detection. For example, a better design of ChatGPT prompts can lead to success in the battle against detection mechanisms ([Liang et al., 2023](#ref18)). This may cause non-native speakers to rely on GPT for synonyms, thereby mimicking native fluency and creating clear content ([Liang et al., 2023](#ref18)). This suggests that current AI detection should be verified when considering works by non-native English speakers ([Liang et al., 2023](#ref18)). AI detection will not be the only method available to educators; a comprehensive approach will be adopted when assessing students’ work. Students’ texts produced through GPT-3.5 indicate that, while they can exhibit a degree of naturalness and intelligence in composition, they still have limitations in vocabulary that is narrow, formal, repetitive, and sophisticated compared to human writing ([Zhao et al., 2024](#ref29)). Considering these attributes, a manual check accompanied by contextual considerations is vital to ensure the fairness of academic evaluations, and students who use AI should be encouraged to report their usage as a means of promoting transparency and maintaining academic integrity ([Tenakwah et al., 2023](#ref27)).
+
+### 3.3 Redesigning assessments for the AI era
+
+To maintain academic integrity, traditional assessment methodologies need to change and adapt to the AI scenario. In other words, descriptive written assignments can no longer be the primary measure of knowledge, and assessments should be redesigned to accommodate AI use instead of prohibiting it entirely ([Bennett, 2023](#ref7)). Non-proctored exams should be designed with the presumption that AI will be actively assisting the student, rather than merely being a potential source of help ([Borges et al., 2024](#ref9)). Students should be encouraged to interact critically with AI tools, evaluate AI-generated material theoretically, differentiate reliable from unreliable AI outputs, and reflect on their own learning processes ([Atchley et al., 2024](#ref5); [Francis et al., 2025](#ref15); [Elkhatat et al., 2023](#ref13); [Bennett, 2023](#ref7); [Chan and Hu, 2023](#ref11)). The use of AI in education should not only address the technical and ethical issues involved but also consider the teaching and learning of AI tools ([Borges et al., 2024](#ref9); [Peres et al., 2023](#ref22)). Such a program could include instruction in prompt engineering, specifically how to create effective prompts, evaluate AI-generated results, and understand the limitations of generative AI ([Peres et al., 2023](#ref22)).
+
+To reduce unethical practices in genuine learning, the implementation of new and AI-proof assessment techniques is necessary. The evaluation process should focus on the acquisition of knowledge rather than the end product alone, with feedback provided at various stages so that students can correct mistakes or improve their work before final submission ([Francis et al., 2025](#ref15)). The aforementioned methods include the use of scaffolding and experiential learning, as the scaffolding method provides learners with support and guidance in a structured manner, thereby reducing task difficulty ([Tenakwah et al., 2023](#ref27)). As students progress along the continuum of learning, they become less dependent on the teacher’s help and solve problems independently, leading to greater involvement and the acquisition of analytical and problem-solving skills ([Tenakwah et al., 2023](#ref27)). Project-based learning is a good alternative to traditional tests, which often consist of proctored examinations or tasks with little practical application, such as regular assignments and homework. These extended projects, which include ongoing studies and design tasks, will require students to engage with course concepts and apply them to real-world issues, thereby reducing the likelihood of AI misuse and encouraging original thought ([Francis et al., 2025](#ref15); [Tenakwah et al., 2023](#ref27)). In turn, this method will enable students to participate actively in decision-making about problem-solving rather than relying on AI passively ([Borges et al., 2024](#ref9)).
+
+AI has the potential to create sophisticated and realistic evaluation tasks, thereby making cheating much more difficult ([Elkhatat et al., 2023](#ref13)). Open-ended assessments that require students to support their responses with course materials, examples, and their own thoughts discourage AI usage while encouraging original ideas ([Borges et al., 2024](#ref9)). It is advisable for teachers to formulate questions that require analysis, creativity, and critical thinking, rather than merely recalling facts ([Bobula, 2024](#ref8)).
+
+Assessment methods that evaluate students’ approaches to problems, their processes, individual contributions, critical analysis, evidence-based conclusions, draft submissions, reflections, and content interaction should be prioritized over simply grading final answers ([Bobula, 2024](#ref8); [Bennett, 2023](#ref7)). The use of case studies or scenarios that engage students in ethical and cultural considerations is also recommended ([Bennett, 2023](#ref7)). Moreover, alternative assessment methods, such as presentations and podcasts, provide students with opportunities to express their ideas and interact in real time, thereby developing their communication skills, creativity, and originality while avoiding AI-susceptible methods ([Alier et al., 2024](#ref3)).
+
+4 Ethical and psychological implications of AI in higher education
+------------------------------------------------------------------
+
+### 4.1 AI dependency and cognitive offloading
+
+The growing use of generative AI tools has raised concerns about their impact on students’ learning processes, particularly regarding excessive reliance and cognitive offloading in educational settings. Impulsive individuals, performance-oriented students, and those with low self-efficacy may turn to AI as a convenient means of escaping academic pressure ([Zhong et al., 2024](#ref30)).
+
+Generative AI could lead learners to become less independent, potentially causing some to lose the habit of thinking and solving problems on their own ([Chan and Hu, 2023](#ref11); [Ali et al., 2024](#ref2)). Certain students may misuse these tools to their advantage, engaging in academic dishonesty and avoiding the hard work required to achieve results through their own efforts ([Alier et al., 2024](#ref3)). The easy access and comfort that AI technologies provide may encourage procrastination, as students might delay tasks, expecting to receive help from AI just before the deadline ([Zhong et al., 2024](#ref30)). Additionally, relying on AI can hinder the acquisition of necessary skills; some AIs do the work entirely, meaning the user often provides only instructions sufficient to obtain the output, thus bypassing the skill-building process altogether ([Thüs et al., 2024](#ref28)). Students may depend on AI outputs and invest less effort in learning the required skills ([Chan and Hu, 2023](#ref11)). This quest for quick solutions leads to students skipping critical stages of thorough planning, in-depth participation, and extensive evaluation, ultimately resulting in the loss of essential skills, such as critical thinking, creativity, and problem-solving ([Zhong et al., 2024](#ref30); [Alqahtani et al., 2023](#ref4); [Labadze et al., 2023](#ref17); [Chan and Hu, 2023](#ref11); [Alier et al., 2024](#ref3)). Due to cognitive offloading, students end up relying on external tools or technologies that diminish the need for thinking and remembering. The practice of using AI, however, could also lead to a decline in human memory capabilities ([Atchley et al., 2024](#ref5)). While making information more accessible through AI might make it easier to recall details, habitual users may become increasingly accustomed to seeking information externally rather than internalizing it; the resulting loss in capacity is inevitable. Cognitive offloading can be subliminal, often going unnoticed by individuals, creating a false sense of learning and leading to an overestimation of mastered knowledge ([Atchley et al., 2024](#ref5)). This illusion endangers both learning and life.
+
+To protect students’ freedom and ensure they remain independent individuals, it is imperative to develop a solution that allows for the coexistence of AI tools in educational institutions while harnessing the advantages of technology to stimulate the development of essential skills.
+
+### 4.2 Ethical considerations and bias in AI
+
+The integration of AI into higher education raises a multitude of ethical concerns, including issues related to academic integrity, accuracy, bias, data privacy, transparency, intellectual property rights, and the environmental impact of this technology. When AI is used inappropriately, it jeopardizes academic honesty and creates situations where various problems arise, such as plagiarism, the authenticity of student submissions, and the use of AI-generated content in educational settings. Moreover, AI’s hallucination is another significant issue, wherein it communicates incorrect or misleading information as a result of its indiscriminate gathering of information from its sources ([Monzon and Hays, 2025](#ref21)). Gen AI tools often lack sufficient context, reliability, and learning capabilities through experience, which can lead to the creation of false content, especially when untrustworthy sources are used ([Alqahtani et al., 2023](#ref4)). These tools provide answers that appear reasonable and confident, potentially leading users to be misled if they uncritically accept AI outputs ([Francis et al., 2025](#ref15); [Bobula, 2024](#ref8)). [Atchley et al. (2024)](#ref5) emphasize the problem of fabricated citations, reporting that ChatGPT created 69% of fictitious references by taking author names and journal titles from real publications, making them difficult to detect. Likewise, [Tenakwah et al. (2023)](#ref27) found that a significant portion of the literature generated by ChatGPT in various fields did not exist during their verification process. This indicates a concerning educational and research environment, where the accuracy of information is crucial. Bias is another deeply rooted problem in AI, stemming from the very nature of the training data. AI models can incorporate the biases that already exist in the training data ([Baidoo-Anu and Owusu Ansah, 2023](#ref6); [Bobula, 2024](#ref8); [Adiguzel et al., 2023](#ref1)).
+
+Conversational AI is influenced by human cognitive biases, particularly the biases of availability, selection, and confirmation, which are, respectively, facilitated by easily recalled information, unrepresentative data, and pre-existing beliefs ([Bobula, 2024](#ref8)). This can result in the perpetuation of distorted viewpoints, stereotypes, discriminatory language, or biased recommendations ([Labadze et al., 2023](#ref17)).
+
+Another critical issue is the opaque “black box” nature of deep learning models; the composition of the training data is unclear ([Monzon and Hays, 2025](#ref21)), as users generally do not understand how AI systems arrive at their decisions and content ([Mizumoto and Eguchi, 2023](#ref19)). The absence of clear communication and accountability surrounding the operation of AI technologies leads to distrust in these technologies ([Adiguzel et al., 2023](#ref1); [Chan and Hu, 2023](#ref11)).
+
+It is possible for AI systems to gather and retain confidential information about students, often without students being fully aware of the extent or purpose of their data being used ([Adiguzel et al., 2023](#ref1)). The issue of intellectual property regarding the authorship of AI-generated material remains a topic of debate, encompassing plagiarism, data ownership, permissions, credits, copyrights, and the role of the artist ([Alier et al., 2024](#ref3); [Chan and Hu, 2023](#ref11)). According to [Bobula (2024)](#ref8), it is imperative to have appropriate legal frameworks that can address the copyright issues related to the datasets utilized for training large language models, with research institutions encouraged to articulate their needs and gain control. The AI sphere is largely dominated by a few tech giants, which raises concerns about market monopolization and a decline in the variety of information sources ([Popenici and Kerr, 2017](#ref24)). This concentration of power can hinder the development of diverse knowledge and even pose a threat to academic freedom and human perspectives. Moreover, there is growing anxiety over the potential for automation to replace human jobs, leading to workforce displacement ([Richardson and Clesham, 2021](#ref25)). Finally, the environmental footprint associated with training and running large AI models has been considerable, with the training process alone responsible for approximately 284 tons of CO₂ emissions, which is a substantial amount ([Francis et al., 2025](#ref15)).
+
+It is possible for AI systems to gather and retain confidential information about students, often without students being fully aware of the extent or purpose of their data being used ([Adiguzel et al., 2023](#ref1)). The issue of intellectual property regarding the authorship of AI-generated material remains a topic of debate, encompassing plagiarism, data ownership, permissions, credits, copyrights, and the artist ([Alier et al., 2024](#ref3); [Chan and Hu, 2023](#ref11)). According to [Bobula (2024)](#ref8), it is imperative to have appropriate legal frameworks that can navigate the copyright issues related to the datasets utilized for training large language models, with research institutions being encouraged to articulate their needs and gain control. The AI sphere is largely dominated by a few tech giants, which raises concerns about market monopolization and a decline in the variety of information sources ([Popenici and Kerr, 2017](#ref24)), the concentration of power in this manner can hinder the development of diverse knowledge and even pose a threat to academic freedom and human viewpoints. Moreover, there is also growing anxiety over the potential for automation to replace human jobs, leading to workforce displacement ([Richardson and Clesham, 2021](#ref25)). Finally, the environmental footprint associated with training and running large AI models has been considerable, with the training process alone responsible for approximately 284 tons of CO₂ emissions, which is a substantial amount ([Francis et al., 2025](#ref15)).
+
+Generative AI and LLMs are bringing changes to the fields of healthcare, education, and business through increased operational efficiency and personalization. In healthcare, they provide accurate health diagnostics and documentation; in education, they enhance learning but raise integrity issues and concerns; and in business, they are used for content creation and client support, with results varying by field. Ultimately, the actual impact of these technologies is determined by the surrounding conditions, moral values, and the quality of the data.
+
+5 Institutional strategies and governance of AI in higher education
+-------------------------------------------------------------------
+
+### 5.1 Faculty adoption and AI training needs
+
+The faculty accepts these tools with open arms; however, they also need to be educated on their practical application ([Atchley et al., 2024](#ref5)). They consistently found one thing: Capacity building and professional development play key roles for faculty members and departments in cultivating the ability to comprehend AIs through research media ([Cabero-Almenara et al., 2024](#ref10); [Francis et al., 2025](#ref15)). Research has shown that as educators become more aware of the value of AIs in education, they are also more willing to integrate them into their classrooms. Teachers’ self-efficacy in AI instruction is a strong predictor of the acceptance of AI tools in their classes, highlighting the importance of perceived usefulness ([Cabero-Almenara et al., 2024](#ref10)). For instance, educators with a constructivist teaching background are more likely to view AI as a useful and effective technology and, therefore, adopt it ([Cabero-Almenara et al., 2024](#ref10)). AI literacy, particularly regarding Generative AI (GenAI), is crucial for both faculty and students to understand the capabilities and limitations of these tools ([Francis et al., 2025](#ref15)). Therefore, training sessions should cover both the cognitive and emotional aspects of AI adoption ([Zhong et al., 2024](#ref30)). Autonomy in the use of AI tools, tailored to the specific requirements of their fields and the individual teaching styles of faculty, should be granted ([Bobula, 2024](#ref8)). As AI technologies are complex, active and informed participation is necessary to understand their educational implications rather than just passive exposure ([Thüs et al., 2024](#ref28)). Some universities have already run support programs for teachers through courses, workshops, and information sessions regarding the use of AI in the classroom ([Monzon and Hays, 2025](#ref21)). The issues of plagiarism, automation, and the potential impact of AI on students’ engagement are prompting educators to enroll in GenAI training ([Alier et al., 2024](#ref3)). AI integration calls for more than just awareness; it requires institutional support, infrastructure that promotes critical thinking, clear regulations, and diverse teaching methods ([Alier et al., 2024](#ref3)). The use of AI in the classroom must be responsible, meaning it aligns with learning goals and supports students’ understanding, which highlights the teacher’s dual role as both facilitator and guardian of effective AI use ([Alier et al., 2024](#ref3)).
+
+Additionally, the benefits of AI training are not limited to direct classroom use; teachers can utilize AI to assess their teaching methods, gain insights into their pedagogical practices, and receive practical feedback ([Adiguzel et al., 2023](#ref1)). Consequently, faculty development that includes training, mentoring, and teamwork is crucial because it equips faculty to engage critically with AI technologies, enabling them to become both skilled users and critical evaluators.
+
+### 5.2 University guidelines on AI’S educational use
+
+The rapid development of AI and Generative AI (GenAI) technologies necessitates the establishment of comprehensive, forward-thinking policies that ensure the responsible use of these technologies. However, responses from the higher education sector remain mixed and inconsistent. [Francis et al. (2025)](#ref15) conducted a survey, revealing that only a little more than half of the examined institutions had publicly accessible GenAI guidelines, with most lacking a formal policy regarding the use of GenAI at the institutional level. The absence of a student policy increases the likelihood of difficult ethical dilemmas as the use of AI tools becomes more widespread in the educational process. Colleges and universities should abandon the traditional defensive and restrictive strategies that have characterized their responses, and adopt a proactive, flexible, and adaptable approach that keeps pace with the rapid evolution of technology ([Francis et al., 2025](#ref15)). Current responses range from complete prohibitions to more compromise solutions; however, regulations regarding the use of AI for teaching purposes are still lacking ([Köbis and Mehner, 2021](#ref9003); [Zhao et al., 2024](#ref29)). Institutions are expected to develop ethical frameworks to address dilemmas, promote the responsible use of technology, and balance safeguards against innovations in education. The AI Assessment Scale (AIAS) and the Digital Assessment Stretching Framework for the Twenty-first Century (DASH C21) are two frameworks that support the redesign of assessments compatible with Artificial Intelligence (AI) by institutions. The AIAS provides a roadmap for teachers to re-evaluate assessments by considering AI use, identifying where and how AI tools can be ethically incorporated into teaching, thereby preserving academic integrity ([Perkins et al., 2024](#ref23)). It is all about teaching practices that are adaptable, ethical, and future-ready. The DASH C21 framework aligns with this, modernizing assessment through innovative methods (encouraging originality and creativity), authenticity (linking to real-world contexts), experiential learning (involving active participation), and future focus (preparing students for future careers), while also adhering to ethical standards ([Bennett, 2023](#ref7)). This framework promotes the development of higher-order thinking and practical engagement, thereby keeping assessments relevant in the AI-driven academic world. Institutions should reassess their assessment methods and adopt AI-resistant techniques to reduce academic dishonesty and promote authentic learning. Additionally, regulations on plagiarism must be revised to account for AI content creation, and the dividing line between acceptable and unacceptable use should be clearly defined ([Bobula, 2024](#ref8); [Tenakwah et al., 2023](#ref27)). However, policy changes alone are not enough; universities must also enhance their operational infrastructure to support the responsible integration of AI. Regular faculty development, the establishment of EdTech centers, and improved cybersecurity are among the initiatives that universities must undertake ([Labadze et al., 2023](#ref17); [Ali et al., 2024](#ref2)).
+
+The AI Ecological Education Policy Framework established by [Chan and Hu (2023)](#ref11) indicates the necessity for comprehensive approaches that encompass pedagogical, governance, and operational dimensions. These strategies should protect data privacy, offer algorithmic transparency, and provide equitable access among different stakeholders ([Ali et al., 2024](#ref2); [Labadze et al., 2023](#ref17)). Above all, UNESCO is developing a global platform to track and guide the use of AI in a manner that ensures its responsible application ([Hooda et al., 2022](#ref16)). Education policies need to prepare students for the impact of AI on workplaces, not only through hard skills but also through soft skills such as critical engagement with the societal and ethical considerations of GenAI ([Baidoo-Anu and Owusu Ansah, 2023](#ref6); [Chan and Hu, 2023](#ref11)). These technologies should be integrated into educational programs and informal learning activities, thereby establishing an AI connection with real-world consequences ([Roll and Wylie, 2016](#ref26)). To sum up, the higher education sector must be proactive in outlining and enforcing usage boundaries, enriching both faculty and students, and employing comprehensive frameworks that lead to clarity in ethics, innovation, and responsible transformation.
+
+6 Future trends and emerging technologies
+-----------------------------------------
+
+The ongoing rapid development of both large language models (LLMs) and multimodal large language models (MLLMs) points to the direction of artificial general intelligence (AGI) ([Alier et al., 2024](#ref3)). The advancement of AI is toward an intelligent agent that will surpass humans not only in facts and reasoning but also in strategic and fluent thinking, mimicking human cognitive processes ([Atchley et al., 2024](#ref5)). The capabilities of LLMs in programming, solving arithmetic problems, correcting misconceptions, and answering exam questions across various fields have surprised many. It is observed that the larger the model, the better its abilities ([Alier et al., 2024](#ref3)). This suggests that with continued scaling and growing sophistication, involving billions of parameters, LLMs’ competencies will expand further, revealing emergent properties. Their capacity for self-correction, reasoning, and ongoing improvement positions AI as a tool that will continue to play a pivotal role in education.
+
+“Cloud lecturers” have been introduced in the classroom to deliver content, assist the learning process, and provide administrative feedback in blended and fully online courses, thus acting as disruptive substitutes for traditional teaching assistants ([Popenici and Kerr, 2017](#ref24)). Furthermore, AI-powered educational chatbots are expected to advance to more sophisticated stages soon, providing even more precise information, recognizing user voices to facilitate deeper interaction with learners, detecting human emotions, and even engaging in social interactions ([Labadze et al., 2023](#ref17)).
+
+AI’s continuous development in deep learning and its ability to generate reproducible results have made it possible to produce high-tech digital materials that encompass audio and video inputs, moving images, and interactive instructions ([Ali et al., 2024](#ref2)). This could help make student learning more engaging and enjoyable. These changes will not only break down the barriers of knowledge but also create opportunities for learners to develop a thorough understanding of the subject matter by being actively involved in the learning environment. Many large technology companies are trying to create AI text-to-video tools; one example is Microsoft, which has its 3D version of reality that can be used in Freeview. This tool is meant to assist readers who have difficulty seeing and requires minimal user input, thus emphasizing the creation of more multimedia materials ([Jones et al., 2020](#ref9002)). In addition, immersive technologies such as virtual reality (VR), augmented reality (AR), and advanced video capture are making previously inaccessible areas of the curriculum and professional experiences available to many people through traditional teaching methods ([Richardson and Clesham, 2021](#ref25)). Looking ahead, as AI becomes more powerful, it has the potential to bring disruptive changes to higher education, moving from rule-based decisions about content and procedures to a fully integrated partnership with researchers and instructors connected to learning content at a massive scale through creativity instead of regulation, resulting in teaching environments that are entirely absorbing and responsive on the fly, and evolving innovative curriculum design rather than static designs in print media.
+
+7 Recommendations
+-----------------
+
+To effectively navigate the AI era and integrate AI responsibly in higher education and applications, educators, institutions, and researchers must collaborate rather than compete. As a first step, educators should be trained to recognize AI’s abilities and limitations. Graduate educational practices should develop a clearly defined AI use policy to align college visions with future-proof strategies. Institutions should encourage robust AI-resistant structures for the secure continuation of modern examinations. Good business practice also involves making ongoing investments in AI literacy projects for both teachers and students, helping them successfully navigate the educational challenges of tailoring AI. Driving AI research, researchers and model builders should develop algorithms that minimize bias and explore more effective methods for AI detection. Additionally, they should play a crucial role in establishing policies and guidelines on the use, ethics, and governance of AI, drawing on carefully collected evidence. Research workers should also strive for assessments that accurately address the issue of AI misuse (by preventing students from thinking critically, creatively, and solving problems) while upholding strong moral values. However, cooperation among different stakeholders can lead to a unified and effective strategy for the full integration of AI in higher education institutions.
+
+To prepare for the AI era, higher education needs to equip teachers and trainers with AI knowledge and adapt assessment methods to foster students’ critical thinking and creativity. Universities should establish clear guidelines for AI and promote the development of ethical, bias-aware applications. Partnerships between educators, researchers, and policymakers can ensure that AI is used responsibly across various academic domains.
+
+8 Conclusion
+------------
+
+The use of artificial intelligence (AI) presents new opportunities in the field of education, research, and administration. It delivers a more individualized approach to learning for students through accessibility, personalization, and interaction.
+
+AI tools, such as intelligent tutoring systems, adaptive learning solutions, and generative programming, foster self-directed learning and increased student involvement, making education more accessible and efficient. They meet students when and where they are ready to learn. AI can also aid in learning and instruction, as it enables researchers to generate new ideas, review written work, and facilitate data analysis. While AI can greatly enhance learning, concerns arise that an overreliance on these tools risks diluting critical thinking, creativity, and the nurturing of qualified graduates. For assessment purposes, AI allows for personalized evaluation and instantaneous feedback.
+
+On the other hand, the risk to academic integrity persists when students misuse these tools, and the detection technology is not yet advanced enough. As artificial intelligence continues to develop rapidly, the education system will need to be proactive and devise strategies to reap the benefits while mitigating the risks.
+
+Thus, it is necessary to incorporate comprehensive policymaking that is continually updated for new situations, ethical guidelines that are compelling enough for adoption by everyone in all roles and capacities, teachers who are adequately prepared, a new type of assessment tailored to the AI era, and targeted institutional investments. If these steps are taken, we can sensibly integrate new AI into our teaching environment while equipping students with the skills they need to thrive in an AI-oriented future.
+
+Statements
+----------
+
+### Author contributions
+
+SA: Investigation, Writing – review & editing, Conceptualization, Writing – original draft, Visualization, Data curation, Validation, Resources, Methodology.
+
+### Funding
+
+The author(s) declared that financial support was not received for this work and/or its publication.
+
+### Conflict of interest
+
+The author(s) declared that this work was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+### Generative AI statement
+
+The author(s) declared that Generative AI was used in the creation of this manuscript. Generative AI was used to check spelling and grammar.
+
+Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.
+
+### Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+References
+----------
+
+* 1
+  
+  AdiguzelT.KayaM. H.CansuF. K. (2023). Revolutionizing education with AI: exploring the transformative potential of ChatGPT. *Contemp. Educ. Technol.*15:ep429. doi: 10.30935/cedtech/13152
+  
+  + [CrossRef](https://doi.org/10.30935/cedtech/13152)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=T..%2BAdiguzel&author=M.%2BH..%2BKaya&author=F.%2BK..%2BCansu&publication_year=2023&title=Revolutionizing%2Beducation%2Bwith%2BAI%3A%2Bexploring%2Bthe%2Btransformative%2Bpotential%2Bof%2BChatGPT&journal=Contemp.+Educ.+Technol.&volume=15)
+* 2
+  
+  AlBlooshiSSmailLAlbedwawiAAl WahediMAlSafiM. The effect of COVID-19 on the academic performance of Zayed University students in the United Arab Emirates. *Front Psychol.* (2023) 6:1199684. doi: 10.3389/fpsyg.2023.1199684, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/37744581)
+  + [CrossRef](https://doi.org/10.3389/fpsyg.2023.1199684)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=S.%2BAlBlooshi&author=L.%2BSmail&author=A.%2BAlbedwawi&author=M.%2BAl%2BWahedi&author=M.%2BAlSafi&publication_year=2023&title=The%2Beffect%2Bof%2BCOVID-19%2Bon%2Bthe%2Bacademic%2Bperformance%2Bof%2BZayed%2BUniversity%2Bstudents%2Bin%2Bthe%2BUnited%2BArab%2BEmirates&journal=Front+Psychol.&volume=6)
+* 3
+  
+  AlierM.García-PeñalvoF. J.CambaJ. D. (2024). Generative artificial intelligence in education: from deceptive to disruptive. *Int. J. Interact. Multimed. Artif. Intell.*8 (Special issue on Generative Artificial Intelligence in Education), 5–14. doi: 10.9781/IJIMAI.2024.02.011
+  
+  + [CrossRef](https://doi.org/10.9781/IJIMAI.2024.02.011)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BAlier&author=F.%2BJ..%2BGarc%C3%ADa-Pe%C3%B1alvo&author=J.%2BD..%2BCamba&publication_year=2024&title=Generative%2Bartificial%2Bintelligence%2Bin%2Beducation%3A%2Bfrom%2Bdeceptive%2Bto%2Bdisruptive&journal=Int.+J.+Interact.+Multimed.+Artif.+Intell.&volume=8&pages=5-14)
+* 4
+  
+  AliO.MurrayP. A.MominM.DwivediY. K.MalikT. (2024). The effects of artificial intelligence applications in educational settings: challenges and strategies. *Technol. Forecast. Soc. Change*199:123076. doi: 10.1016/J.TECHFORE.2023.123076
+  
+  + [CrossRef](https://doi.org/10.1016/J.TECHFORE.2023.123076)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=O..%2BAli&author=P.%2BA..%2BMurray&author=M..%2BMomin&author=Y.%2BK..%2BDwivedi&author=T..%2BMalik&publication_year=2024&title=The%2Beffects%2Bof%2Bartificial%2Bintelligence%2Bapplications%2Bin%2Beducational%2Bsettings%3A%2Bchallenges%2Band%2Bstrategies&journal=Technol.+Forecast.+Soc.+Change&volume=199)
+* 5
+  
+  AlqahtaniT.BadreldinH. A.AlrashedM.AlshayaA. I.AlghamdiS. S.bin SalehK.et al. (2023). The emergent role of artificial intelligence, natural learning processing, and large language models in higher education and research. *Res. Soc. Adm. Pharm.*19, 1236–1242. doi: 10.1016/J.SAPHARM.2023.05.016, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/37321925)
+  + [CrossRef](https://doi.org/10.1016/J.SAPHARM.2023.05.016)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=T..%2BAlqahtani&author=H.%2BA..%2BBadreldin&author=M..%2BAlrashed&author=A.%2BI..%2BAlshaya&author=S.%2BS..%2BAlghamdi&author=K..%2Bbin%2BSaleh&publication_year=2023&title=The%2Bemergent%2Brole%2Bof%2Bartificial%2Bintelligence%2C%2Bnatural%2Blearning%2Bprocessing%2C%2Band%2Blarge%2Blanguage%2Bmodels%2Bin%2Bhigher%2Beducation%2Band%2Bresearch&journal=Res.+Soc.+Adm.+Pharm.&volume=19&pages=1236-1242)
+* 6
+  
+  AtchleyP.PannellH.WoffordK.HopkinsM.AtchleyR. A. (2024). Human and AI collaboration in the higher education environment: opportunities and concerns. *Cogn. Res.*9:20. doi: 10.1186/s41235-024-00547-9, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/38589710)
+  + [CrossRef](https://doi.org/10.1186/s41235-024-00547-9)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=P..%2BAtchley&author=H..%2BPannell&author=K..%2BWofford&author=M..%2BHopkins&author=R.%2BA..%2BAtchley&publication_year=2024&title=Human%2Band%2BAI%2Bcollaboration%2Bin%2Bthe%2Bhigher%2Beducation%2Benvironment%3A%2Bopportunities%2Band%2Bconcerns&journal=Cogn.+Res.&volume=9)
+* 7
+  
+  Baidoo-AnuD.Owusu AnsahL. (2023). Education in the era of generative artificial intelligence (AI): understanding the potential benefits of ChatGPT in promoting teaching and learning. *SSRN Electron. J.* doi: 10.2139/SSRN.4337484
+  
+  + [CrossRef](https://doi.org/10.2139/SSRN.4337484)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D..%2BBaidoo-Anu&author=L..%2BOwusu%2BAnsah&publication_year=2023&title=Education%2Bin%2Bthe%2Bera%2Bof%2Bgenerative%2Bartificial%2Bintelligence%2B%28AI%29%3A%2Bunderstanding%2Bthe%2Bpotential%2Bbenefits%2Bof%2BChatGPT%2Bin%2Bpromoting%2Bteaching%2Band%2Blearning&journal=SSRN+Electron.+J.)
+* 8
+  
+  BennettL. (2023). Optimising the Interface between artificial intelligence and human intelligence in higher education. *Int. J. Teach. Learn. Educ.*2, 12–25. doi: 10.22161/IJTLE.2.3.3
+  
+  + [CrossRef](https://doi.org/10.22161/IJTLE.2.3.3)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=L..%2BBennett&publication_year=2023&title=Optimising%2Bthe%2BInterface%2Bbetween%2Bartificial%2Bintelligence%2Band%2Bhuman%2Bintelligence%2Bin%2Bhigher%2Beducation&journal=Int.+J.+Teach.+Learn.+Educ.&volume=2&pages=12-25)
+* 9
+  
+  BobulaM. (2024). Generative artificial intelligence (AI) in higher education: a comprehensive review of challenges, opportunities, and implications. *J. Learn. Dev. High. Educ.*30. doi: 10.47408/JLDHE.VI30.1137
+  
+  + [CrossRef](https://doi.org/10.47408/JLDHE.VI30.1137)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BBobula&publication_year=2024&title=Generative%2Bartificial%2Bintelligence%2B%28AI%29%2Bin%2Bhigher%2Beducation%3A%2Ba%2Bcomprehensive%2Breview%2Bof%2Bchallenges%2C%2Bopportunities%2C%2Band%2Bimplications&journal=J.+Learn.+Dev.+High.+Educ.&volume=30)
+* 10
+  
+  BorgesB.ForoutanN.BayazitD.SotnikovaA.MontariolS.NazaretzkyT.et al. (2024). Could ChatGPT get an engineering degree? Evaluating higher education vulnerability to AI assistants. *Proc. Natl. Acad. Sci. USA*121:e2414955121. doi: 10.1073/pnas.2414955121, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39589890)
+  + [CrossRef](https://doi.org/10.1073/pnas.2414955121)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=B..%2BBorges&author=N..%2BForoutan&author=D..%2BBayazit&author=A..%2BSotnikova&author=S..%2BMontariol&author=T..%2BNazaretzky&publication_year=2024&title=Could%2BChatGPT%2Bget%2Ban%2Bengineering%2Bdegree%3F%2BEvaluating%2Bhigher%2Beducation%2Bvulnerability%2Bto%2BAI%2Bassistants&journal=Proc.+Natl.+Acad.+Sci.+USA&volume=121)
+* 11
+  
+  Cabero-AlmenaraJ.Palacios-RodríguezA.Loaiza-AguirreM. I.Andrade-AbarcaP. S. (2024). The impact of pedagogical beliefs on the adoption of generative AI in higher education: predictive model from UTAUT2. *Front. Artifi. Int.*7:1497705. doi: 10.3389/frai.2024.1497705, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39484153)
+  + [CrossRef](https://doi.org/10.3389/frai.2024.1497705)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=J..%2BCabero-Almenara&author=A..%2BPalacios-Rodr%C3%ADguez&author=M.%2BI..%2BLoaiza-Aguirre&author=P.%2BS..%2BAndrade-Abarca&publication_year=2024&title=The%2Bimpact%2Bof%2Bpedagogical%2Bbeliefs%2Bon%2Bthe%2Badoption%2Bof%2Bgenerative%2BAI%2Bin%2Bhigher%2Beducation%3A%2Bpredictive%2Bmodel%2Bfrom%2BUTAUT2&journal=Front.+Artifi.+Int.&volume=7)
+* 12
+  
+  ChanC. K. Y.HuW. (2023). Students’ voices on generative AI: perceptions, benefits, and challenges in higher education. *Int. J. Educ. Technol. High. Educ.*20, 1–18. doi: 10.1186/S41239-023-00411-8
+  
+  + [CrossRef](https://doi.org/10.1186/S41239-023-00411-8)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=C.%2BK.%2BY..%2BChan&author=W..%2BHu&publication_year=2023&title=Students%E2%80%99%2Bvoices%2Bon%2Bgenerative%2BAI%3A%2Bperceptions%2C%2Bbenefits%2C%2Band%2Bchallenges%2Bin%2Bhigher%2Beducation&journal=Int.+J.+Educ.+Technol.+High.+Educ.&volume=20&pages=1-18)
+* 13
+  
+  CromptonH.BurkeD. (2023). Artificial intelligence in higher education: the state of the field. *Int. J. Educ. Technol. High. Educ.*20:22. doi: 10.1186/s41239-023-00392-8
+  
+  + [CrossRef](https://doi.org/10.1186/s41239-023-00392-8)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=H..%2BCrompton&author=D..%2BBurke&publication_year=2023&title=Artificial%2Bintelligence%2Bin%2Bhigher%2Beducation%3A%2Bthe%2Bstate%2Bof%2Bthe%2Bfield&journal=Int.+J.+Educ.+Technol.+High.+Educ.&volume=20)
+* 14
+  
+  DiamandisP. H.KotlerS. (2020). *The future is faster than you think: How converging technologies are transforming business, industries, and our lives*. Simon & Schuster.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=P.%2BH..%2BDiamandis&author=S..%2BKotler&publication_year=2020&journal=The+future+is+faster+than+you+think%3A+How+converging+technologies+are+transforming+business%2C+industries%2C+and+our+lives)
+* 15
+  
+  ElkhatatA. M.ElsaidK.AlmeerS. (2023). Evaluating the efficacy of AI content detection tools in differentiating between human and AI-generated text. *Int. J. Educ. Integr.*19. doi: 10.1007/S40979-023-00140-5
+  
+  + [CrossRef](https://doi.org/10.1007/S40979-023-00140-5)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A.%2BM..%2BElkhatat&author=K..%2BElsaid&author=S..%2BAlmeer&publication_year=2023&title=Evaluating%2Bthe%2Befficacy%2Bof%2BAI%2Bcontent%2Bdetection%2Btools%2Bin%2Bdifferentiating%2Bbetween%2Bhuman%2Band%2BAI-generated%2Btext&journal=Int.+J.+Educ.+Integr.&volume=19)
+* 16
+  
+  EsselH. B.VlachopoulosD.Tachie-MensonA.JohnsonE. E.BaahP. K. (2022). The impact of a virtual teaching assistant (chatbot) on students’ learning in Ghanaian higher education. *Int. J. Educ. Technol. High. Educ.*19:57. doi: 10.1186/s41239-022-00362-6
+  
+  + [CrossRef](https://doi.org/10.1186/s41239-022-00362-6)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=H.%2BB..%2BEssel&author=D..%2BVlachopoulos&author=A..%2BTachie-Menson&author=E.%2BE..%2BJohnson&author=P.%2BK..%2BBaah&publication_year=2022&title=The%2Bimpact%2Bof%2Ba%2Bvirtual%2Bteaching%2Bassistant%2B%28chatbot%29%2Bon%2Bstudents%E2%80%99%2Blearning%2Bin%2BGhanaian%2Bhigher%2Beducation&journal=Int.+J.+Educ.+Technol.+High.+Educ.&volume=19)
+* 17
+  
+  FrancisN. J.JonesS.SmithD. P. (2025). Generative AI in higher education: balancing innovation and integrity. *Br. J. Biomed. Sci.*81:14048. doi: 10.3389/BJBS.2024.14048, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39850144)
+  + [CrossRef](https://doi.org/10.3389/BJBS.2024.14048)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N.%2BJ..%2BFrancis&author=S..%2BJones&author=D.%2BP..%2BSmith&publication_year=2025&title=Generative%2BAI%2Bin%2Bhigher%2Beducation%3A%2Bbalancing%2Binnovation%2Band%2Bintegrity&journal=Br.+J.+Biomed.+Sci.&volume=81)
+* 18
+  
+  HoodaM.RanaC.DahiyaO.RizwanA.HossainM. S. (2022). Artificial intelligence for assessment and feedback to enhance student success in higher education. *Math. Probl. Eng.*2022:5215722. doi: 10.1155/2022/5215722
+  
+  + [CrossRef](https://doi.org/10.1155/2022/5215722)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BHooda&author=C..%2BRana&author=O..%2BDahiya&author=A..%2BRizwan&author=M.%2BS..%2BHossain&publication_year=2022&title=Artificial%2Bintelligence%2Bfor%2Bassessment%2Band%2Bfeedback%2Bto%2Benhance%2Bstudent%2Bsuccess%2Bin%2Bhigher%2Beducation&journal=Math.+Probl.+Eng.&volume=2022)
+* 19
+  
+  JonesK. M.AsherA.GobenA.PerryM. R.SaloD.BrineyK. A.et al. (2020). “We’re being tracked at all times”: Student perspectives of their privacy in relation to learning analytics in higher education. *Journal of the Association for Information Science and Technology*, 71, 1044–1059.
+  
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=K.%2BM..%2BJones&author=A..%2BAsher&author=A..%2BGoben&author=M.%2BR..%2BPerry&author=D..%2BSalo&author=K.%2BA..%2BBriney&publication_year=2020&title=%E2%80%9CWe%E2%80%99re%2Bbeing%2Btracked%2Bat%2Ball%2Btimes%E2%80%9D%3A%2BStudent%2Bperspectives%2Bof%2Btheir%2Bprivacy%2Bin%2Brelation%2Bto%2Blearning%2Banalytics%2Bin%2Bhigher%2Beducation&journal=Journal+of+the+Association+for+Information+Science+and+Technology&volume=71&pages=1044-1059)
+* 20
+  
+  KöbisLMehnerC. (2021) Ethical Questions Raised by AI-Supported Mentoring in Higher Education. *Front. Artif. Intell.*4:624050. doi: 10.3389/frai.2021.624050
+  
+  + [CrossRef](https://doi.org/10.3389/frai.2021.624050)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=L.%2BK%C3%B6bis&author=C.%2BMehner&publication_year=2021&title=Ethical%2BQuestions%2BRaised%2Bby%2BAI-Supported%2BMentoring%2Bin%2BHigher%2BEducation&journal=Front.+Artif.+Intell.&volume=4)
+* 21
+  
+  LabadzeL.GrigoliaM.MachaidzeL. (2023). Role of AI chatbots in education: systematic literature review. *Int. J. Educ. Technol. High. Educ.*20, 1–17. doi: 10.1186/S41239-023-00426-1
+  
+  + [CrossRef](https://doi.org/10.1186/S41239-023-00426-1)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=L..%2BLabadze&author=M..%2BGrigolia&author=L..%2BMachaidze&publication_year=2023&title=Role%2Bof%2BAI%2Bchatbots%2Bin%2Beducation%3A%2Bsystematic%2Bliterature%2Breview&journal=Int.+J.+Educ.+Technol.+High.+Educ.&volume=20&pages=1-17)
+* 22
+  
+  LiangW.YuksekgonulM.MaoY.WuE.ZouJ. (2023). GPT detectors are biased against non-native English writers. *Patterns*4. doi: 10.1016/J.PATTER.2023.100779, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/37521038)
+  + [CrossRef](https://doi.org/10.1016/J.PATTER.2023.100779)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=W..%2BLiang&author=M..%2BYuksekgonul&author=Y..%2BMao&author=E..%2BWu&author=J..%2BZou&publication_year=2023&title=GPT%2Bdetectors%2Bare%2Bbiased%2Bagainst%2Bnon-native%2BEnglish%2Bwriters&journal=Patterns&volume=4)
+* 23
+  
+  MizumotoA.EguchiM. (2023). Exploring the potential of using an Ai language model for automated essay scoring. doi: 10.2139/SSRN.4373111
+  
+  + [CrossRef](https://doi.org/10.2139/SSRN.4373111)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=A..%2BMizumoto&author=M..%2BEguchi&publication_year=2023&title=Exploring%2Bthe%2Bpotential%2Bof%2Busing%2Ban%2BAi%2Blanguage%2Bmodel%2Bfor%2Bautomated%2Bessay%2Bscoring)
+* 24
+  
+  MokminN. A. M.IbrahimN. A. (2021). The evaluation of chatbot as a tool for health literacy education among undergraduate students. *Educ. Inf. Technol.*26, 6033–6049. doi: 10.1007/s10639-021-10542-y, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/34054328)
+  + [CrossRef](https://doi.org/10.1007/s10639-021-10542-y)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N.%2BA.%2BM..%2BMokmin&author=N.%2BA..%2BIbrahim&publication_year=2021&title=The%2Bevaluation%2Bof%2Bchatbot%2Bas%2Ba%2Btool%2Bfor%2Bhealth%2Bliteracy%2Beducation%2Bamong%2Bundergraduate%2Bstudents&journal=Educ.+Inf.+Technol.&volume=26&pages=6033-6049)
+* 25
+  
+  MonzonN.HaysF. A. (2025). Leveraging generative AI to improve motivation and retrieval in higher education learners. *JMIR Med. Educ.* doi: 10.2196/59210
+  
+  + [CrossRef](https://doi.org/10.2196/59210)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=N..%2BMonzon&author=F.%2BA..%2BHays&publication_year=2025&title=Leveraging%2Bgenerative%2BAI%2Bto%2Bimprove%2Bmotivation%2Band%2Bretrieval%2Bin%2Bhigher%2Beducation%2Blearners&journal=JMIR+Med.+Educ.)
+* 26
+  
+  PeresR.SchreierM.SchweidelD.SorescuA. (2023). On ChatGPT and beyond: how generative artificial intelligence may affect research, teaching, and practice. *Int. J. Res. Mark.*40, 269–275. doi: 10.1016/j.ijresmar.2023.03.001
+  
+  + [CrossRef](https://doi.org/10.1016/j.ijresmar.2023.03.001)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=R..%2BPeres&author=M..%2BSchreier&author=D..%2BSchweidel&author=A..%2BSorescu&publication_year=2023&title=On%2BChatGPT%2Band%2Bbeyond%3A%2Bhow%2Bgenerative%2Bartificial%2Bintelligence%2Bmay%2Baffect%2Bresearch%2C%2Bteaching%2C%2Band%2Bpractice&journal=Int.+J.+Res.+Mark.&volume=40&pages=269-275)
+* 27
+  
+  PerkinsM.FurzeL.RoeJ.MacvaughJ. (2024). The artificial intelligence assessment scale (AIAS): a framework for ethical integration of generative AI in educational assessment. *J. Univ. Teach. Learn. Pract.*21:21. doi: 10.53761/Q3AZDE36
+  
+  + [CrossRef](https://doi.org/10.53761/Q3AZDE36)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BPerkins&author=L..%2BFurze&author=J..%2BRoe&author=J..%2BMacvaugh&publication_year=2024&title=The%2Bartificial%2Bintelligence%2Bassessment%2Bscale%2B%28AIAS%29%3A%2Ba%2Bframework%2Bfor%2Bethical%2Bintegration%2Bof%2Bgenerative%2BAI%2Bin%2Beducational%2Bassessment&journal=J.+Univ.+Teach.+Learn.+Pract.&volume=21)
+* 28
+  
+  PopeniciS. A. D.KerrS. (2017). Exploring the impact of artificial intelligence on teaching and learning in higher education. *Res. Pract. Technol. Enhanc. Learn.*12:22. doi: 10.1186/S41039-017-0062-8, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/30595727)
+  + [CrossRef](https://doi.org/10.1186/S41039-017-0062-8)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=S.%2BA.%2BD..%2BPopenici&author=S..%2BKerr&publication_year=2017&title=Exploring%2Bthe%2Bimpact%2Bof%2Bartificial%2Bintelligence%2Bon%2Bteaching%2Band%2Blearning%2Bin%2Bhigher%2Beducation&journal=Res.+Pract.+Technol.+Enhanc.+Learn.&volume=12)
+* 29
+  
+  RichardsonM.CleshamR. (2021). Rise of the machines? The evolving role of AI technologies in high-stakes assessment. *Lond. Rev. Educ.*19. doi: 10.14324/LRE.19.1.09
+  
+  + [CrossRef](https://doi.org/10.14324/LRE.19.1.09)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=M..%2BRichardson&author=R..%2BClesham&publication_year=2021&title=Rise%2Bof%2Bthe%2Bmachines%3F%2BThe%2Bevolving%2Brole%2Bof%2BAI%2Btechnologies%2Bin%2Bhigh-stakes%2Bassessment&journal=Lond.+Rev.+Educ.&volume=19)
+* 30
+  
+  RollI.WylieR. (2016). Evolution and revolution in artificial intelligence in education. *Int. J. Artif. Intell. Educ.*26, 582–599. doi: 10.1007/S40593-016-0110-3
+  
+  + [CrossRef](https://doi.org/10.1007/S40593-016-0110-3)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=I..%2BRoll&author=R..%2BWylie&publication_year=2016&title=Evolution%2Band%2Brevolution%2Bin%2Bartificial%2Bintelligence%2Bin%2Beducation&journal=Int.+J.+Artif.+Intell.+Educ.&volume=26&pages=582-599)
+* 31
+  
+  TenakwahE. S.BoaduG.TenakwahE. J.ParzakonisM.BradyM.KansiimeP.et al. (2023). Generative AI and higher education assessments: a competency-based analysis. doi: 10.21203/RS.3.RS-2968456/V1
+  
+  + [CrossRef](https://doi.org/10.21203/RS.3.RS-2968456/V1)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=E.%2BS..%2BTenakwah&author=G..%2BBoadu&author=E.%2BJ..%2BTenakwah&author=M..%2BParzakonis&author=M..%2BBrady&author=P..%2BKansiime&publication_year=2023&title=Generative%2BAI%2Band%2Bhigher%2Beducation%2Bassessments%3A%2Ba%2Bcompetency-based%2Banalysis)
+* 32
+  
+  ThüsD.MaloneS.BrünkenR. (2024). Exploring generative AI in higher education: a RAG system to enhance student engagement with scientific literature. *Front. Psychol.*15:1474892. doi: 10.3389/fpsyg.2024.1474892, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39463458)
+  + [CrossRef](https://doi.org/10.3389/fpsyg.2024.1474892)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=D..%2BTh%C3%BCs&author=S..%2BMalone&author=R..%2BBr%C3%BCnken&publication_year=2024&title=Exploring%2Bgenerative%2BAI%2Bin%2Bhigher%2Beducation%3A%2Ba%2BRAG%2Bsystem%2Bto%2Benhance%2Bstudent%2Bengagement%2Bwith%2Bscientific%2Bliterature&journal=Front.+Psychol.&volume=15)
+* 33
+  
+  ZhaoY.BorelliA.MartinezF.XueH.WeissG. M. (2024). Admissions in the age of AI: detecting AI-generated application materials in higher education. *Sci. Rep.*14:26411. doi: 10.1038/s41598-024-77847-z, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39488584)
+  + [CrossRef](https://doi.org/10.1038/s41598-024-77847-z)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=Y..%2BZhao&author=A..%2BBorelli&author=F..%2BMartinez&author=H..%2BXue&author=G.%2BM..%2BWeiss&publication_year=2024&title=Admissions%2Bin%2Bthe%2Bage%2Bof%2BAI%3A%2Bdetecting%2BAI-generated%2Bapplication%2Bmaterials%2Bin%2Bhigher%2Beducation&journal=Sci.+Rep.&volume=14)
+* 34
+  
+  ZhongW.LuoJ.LyuY. (2024). How do personal attributes shape AI dependency in Chinese higher education context? Insights from needs frustration perspective. *PLoS One*19:e0313314. doi: 10.1371/journal.pone.0313314, 
+  
+  + [Pubmed Abstract](https://pubmed.ncbi.nlm.nih.gov/39485818)
+  + [CrossRef](https://doi.org/10.1371/journal.pone.0313314)
+  + [Google Scholar](http://scholar.google.com/scholar_lookup?author=W..%2BZhong&author=J..%2BLuo&author=Y..%2BLyu&publication_year=2024&title=How%2Bdo%2Bpersonal%2Battributes%2Bshape%2BAI%2Bdependency%2Bin%2BChinese%2Bhigher%2Beducation%2Bcontext%3F%2BInsights%2Bfrom%2Bneeds%2Bfrustration%2Bperspective&journal=PLoS+One&volume=19)
+
+Summary
+-------
+
+Keywords
+
+adaptive learning, AI policy, artificial intelligence, ChatGPT, generative AI
+
+Citation
+
+AlBlooshi S (2026) Artificial intelligence in higher education, opportunities, and challenges: a review. *Front. Educ.* 10:1683968. doi: [10.3389/feduc.2025.1683968](http://dx.doi.org/10.3389/feduc.2025.1683968)
+
+Received
+
+11 August 2025
+
+Revised
+
+11 December 2025
+
+Accepted
+
+22 December 2025
+
+Published
+
+29 January 2026
+
+Volume
+
+10 - 2025
+
+Edited by
+
+[Susana Henriques](https://loop.frontiersin.org/people/1730761/overview), Universidade Aberta (UAb), Portugal
+
+Reviewed by
+
+[Emna Baccour](https://loop.frontiersin.org/people/987447/overview), Hamad bin Khalifa University, Qatar
+
+[Mounir Hamdi](https://loop.frontiersin.org/people/3192205/overview), Hong Kong University of Science and Technology, Hong Kong SAR, China in collaboration with reviewer EB
+
+[Dennis Arias-Chávez](https://loop.frontiersin.org/people/1993288/overview), Universidad Continental–Arequipa, Peru
+
+[Claudia Bellini](https://loop.frontiersin.org/people/3223756/overview), University Hospital of Modena, Italy
+
+Updates
+
+![]()
+
+Check for updates
+
+Copyright
+
+© 2026 AlBlooshi.
+
+This is an open-access article distributed under the terms of the [Creative Commons Attribution License (CC BY)](https://creativecommons.org/licenses/by/4.0/). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+**\***Correspondence: Sharifa AlBlooshi, [sharifa.alblooshi@zu.ac.ae](mailto:sharifa.alblooshi@zu.ac.ae)
+
+**†**
+
+ORCID: Sharifa AlBlooshi, [orcid.org/0000-0003-2609-4001](https://orcid.org/0000-0003-2609-4001)
+
+Disclaimer
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article or claim that may be made by its manufacturer is not guaranteed or endorsed by the publisher.
+
+ Article metrics
+
+[View details](#metrics)[Download
+
+PDF](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/pdf)
+
+Download other formats
+
+* [ReadCube](http://www.readcube.com/articles/10.3389/feduc.2025.1683968)
+* [epub](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/epub)
+* [XML](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/xml)
+Cite articleShare article
+
+Frontiers' quality
+
+![]()
+
+How do we build trust in science?
+---------------------------------
+
+Behind each Frontiers journal is an editorial board committed to upholding research integrity and scientific quality
+
+  
+[Learn more](https://www.frontiersin.org/about/quality)
+
+* [PDF](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/pdf)
+  
+  Download other format
+  
+  + [ReadCube](http://www.readcube.com/articles/10.3389/feduc.2025.1683968)
+  + [epub](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/epub)
+  + [XML](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/xml)
+* [Outline](#outline)
+* [Figures](#figures)
+* [Cite](#cite)
+* [Share](#share)
+* [Metrics](#metrics)
+* More
+
+Outline
+-------
+
+Figures
+-------
+
+Cite article
+------------
+
+Copy to clipboard
+
+Copy citation  
+
+Export citation file
+
+* [BibTex](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/bibTex)
+* [EndNote](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/endNote)
+* [Reference Manager](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/reference)
+* [Simple Text file](https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/text)
+
+  
+
+Share article
+-------------
+
+* [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/full)
+* [X](https://www.twitter.com/share?url=https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/full)
+* [LinkedIn](https://www.linkedin.com/share?url=https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/full)
+* [Email](mailto:?subject=Interesting science article: Artificial intelligence in higher education, opportunities, and challenges: a review&body=Hi!!%0D%0A%0D%0AI think you might find interesting the article "Artificial intelligence in higher education, opportunities, and challenges: a review".%0D%0A%0D%0AYou can read more about it here: https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1683968/full)
+* WeChat
+
+Share on WeChat
+
+Scan with WeChat to share this article
+
+Article metrics
+---------------
+
+* Guidelines
+  + [Author guidelines](https://www.frontiersin.org/guidelines/author-guidelines)
+  + [Services for authors](https://www.frontiersin.org/for-authors/author-services)
+  + [Policies and publication ethics](https://www.frontiersin.org/guidelines/policies-and-publication-ethics)
+  + [Editor guidelines](https://www.frontiersin.org/guidelines/editor-guidelines)
+  + [Fee policy](https://www.frontiersin.org/about/fee-policy)
+* Explore
+  + [Articles](https://www.frontiersin.org/articles)
+  + [Research Topics](https://www.frontiersin.org/research-topics)
+  + [Journals](https://www.frontiersin.org/journals)
+  + [How we publish](https://www.frontiersin.org/about/how-we-publish)
+* Outreach
+  + [Frontiers Forum](https://forum.frontiersin.org/)
+  + [Frontiers Policy Labs](https://policylabs.frontiersin.org/)
+  + [Frontiers for Young Minds](https://kids.frontiersin.org/)
+  + [Frontiers Planet Prize](https://www.frontiersin.org/about/frontiers-planet-prize)
+* Connect
+  + [Help center](https://helpcenter.frontiersin.org)
+  + [Emails and alerts](https://subscription-management.frontiersin.org/emails/preferences#block0)
+  + [Contact us](https://www.frontiersin.org/about/contact)
+  + [Submit](https://www.frontiersin.org/submission/submit)
+  + [Career opportunities](https://careers.frontiersin.org/)
+
+Follow us© 2026 Frontiers Media SA. All rights reserved.[Privacy policy](https://www.frontiersin.org/legal/privacy-policy) | [Terms and conditions](https://www.frontiersin.org/legal/terms-and-conditions) | [Accessibility statement](https://www.frontiersin.org/about/accessibility-statement)
+

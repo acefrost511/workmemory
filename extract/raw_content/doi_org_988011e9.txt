@@ -1,0 +1,254 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105555
+# Content Length: 22249 characters
+# Extracted at: 2026-04-04 06:44:47
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003240?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003240?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525003240)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525003240/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003240?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003240?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003240?via%3Dihub#preview-section-snippets)
+- [References (106)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003240?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 245](https://www.sciencedirect.com/journal/computers-and-education/vol/245/suppl/C "Go to table of contents for this volume/issue"), May 2026, 105555
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00178-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/245/suppl/C)
+# The effects of GAI-enhanced pedagogical agents in the metaverse (GPAiM) on elementary school students’ conceptual understanding and cognitive engagement patterns
+Author links open overlay panelTinghuiWua, XuesongZhaia, YanjieSongb
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105555](https://doi.org/10.1016/j.compedu.2025.105555 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525003240&orderBeanReset=true)
+## Highlights
+- •
+This study examines the effects of GAI-enhanced pedagogical agents in the metaverse (GPAiM).
+- •
+The use of GPAiM has promotive effects on students' conceptual understanding.
+- •
+The 2D-GPAiM group exhibited the \_highest levels of interactive and cognitive engagement patterns.\_
+- •
+This study provides empirical evidence from the perspective of pedagogical agents in immersive learning environments.
+## Abstract
+This study examines the effects of generative artificial intelligence (GAI)-enhanced pedagogical agents in the metaverse (GPAiM) on elementary school students' conceptual understanding of traditional festival customs and on the students' cognitive engagement patterns. The participants included 116 students from three intact classes. These classes were randomly assigned to two experimental groups (with 2D-GPAiM and 3D-GPAiM, respectively) and one control group (without GPAiM but with a real-person teacher). All the participants learned in the metaverse, and students in different groups were allowed to interact with 2D-GPAiM, 3D-GPAiM, and the real-person teacher during their learning, respectively. This study was conducted under a three-week AI literacy project with the learning topic of traditional festival customs. The results showed that the experimental groups (both 2D-GPAiM and 3D-GPAiM) had a positive impact on the students' conceptual understanding of traditional festivals, while the control group did not. More importantly, the 2D-GPAiM group showed a significantly positive difference in the participants’ conceptual understanding compared with the control group. In addition, regarding cognitive engagement, the 2D-GPAiM group showed a \_highly interactive, low-fluctuating, and high-level cognitive engagement\_ pattern; The 3D-GPAiM group demonstrated a \_highly interactive, highly fluctuating, medium-level cognitive engagement\_ pattern, while the control group exhibited a \_low-interactive, low-fluctuating, low-level cognitive engagement pattern\_. These findings provide valuable insights into future GAI-assisted pedagogical designs.
+## Introduction
+The \_Convention for the Safeguarding of the Intangible Cultural Heritage\_, released by UNESCO (Kurin, 2004), emphasizes the importance of protecting and transmitting intangible cultural heritage from national and international perspectives. One of the most important aspects of protection and transmission pertains to traditional festival customs (Smith & Akagawa, 2018). The sustainable development of traditional festival customs plays a significant role in national tourism (Suntikul, 2018), social interconnection (Akintan, 2013), and regional economic development (Apostolakis & Viskadouraki, 2017). However, studies have shown that interest in some traditional festivals is gradually fading among school students (Chen & Tao, 2017; LearnHub, 2024), which may lead to a lack of strong willingness to spontaneously promote traditional festival customs. Therefore, scholars have suggested that the learning of traditional festivals can adapt to the trend of technologies and make good use of their potential benefits (Chen, 2024, Chen, 2024; Kye et al., 2021).
+Nowadays, advancements in technology have helped promote traditional festivals learning. For example, virtual reality technology was used in Spain during the Covid-19 pandemic for local festival management, offering new ideas for employing technology to celebrate traditional festivals (Estanyol, 2022). Researchers have indicated that virtual environments can authentically recapture the era and setting of traditional festivals, offering immersive experiences that transcend physical limitations (Anthes et al., 2016). However, delivering personalized guidance and immediate feedback to learners in virtual settings remains a challenge. Under these circumstances, learners with limited background knowledge of traditional festival customs may find their study efficiency compromised (Serral et al., 2016). According to previous literature, pedagogical agents with humanlike appearance and synthesized voice designs (Craig & Schroeder, 2017; Siegle & Craig, 2024) have been considered effective tools for providing support in virtual learning environments (Davis, 2018; Park, 2015; Zhang et al., 2024). For example, a meta-analysis conducted by Davis et al. (2023) indicated that pedagogical agents significantly increased learning outcomes, with notable effect sizes across various types of test questions. However, previous pedagogical agents were mostly used for directing attention with mechanical and predetermined algorithms rather than engaging in in-depth, immediate, and human-like interactions (Castro-Alonso et al., 2021; Schneider et al., 2022). This contradicts the modern educational philosophy of student-centered embodied learning and experiential learning (Fitton et al., 2020). Therefore, researchers have introduced the concept of “GAI-enhanced pedagogical agents” in the virtual metaverse to address this issue (Sikström et al., 2024; Song et al., 2024).
+On the one hand, empirical studies have shown that powered by a multi-head attention and feed-forward mechanism, transformer-based GAI has significant potential in education (Ghafouri et al., 2024; Wang et al., 2024). Previous research has valued the design of pedagogical agents embedded with GAI in many learning subjects (Chen et al., 2024; Lan & Chen, 2024; Mittal et al., 2024). On the other hand, researchers have recently recognized three-dimensional virtual metaverse learning environments as suitable digital landscapes for pedagogical agents (Chamola, Sai, et al., 2024; Zhai et al., 2023). In the metaverse, learners can experience traditional festival customs virtually through avatars and engage with GAI-enhanced pedagogical agents with the perceived characteristics of immersion, sociability, and exploration (Kye et al., 2021). However, the application of GAI-enhanced pedagogical agents in the metaverse (GPAiM) is scarce. Thus, this study aimed to examine the effects of GPAiM (both 2D-GPAiM and 3D-GPAiM) on elementary school students’ conceptual understanding and cognitive engagement concerning traditional festival customs through an empirical study based on the theory of embodied cognition (Shapiro & Spaulding, 2014).
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525003240)
+## Section snippets
+## GAI-enhanced pedagogical agents in the metaverse (GPAiM) for learning
+Pedagogical agents represent an extension of intelligent tutoring systems, with the primary objective of delivering pedagogical support to learners (Azevedo et al., 2016). Previous studies have shown that pedagogical agents are mostly designed as animated characters presented on the screen, with educational gestures, speeches, or facial expressions to promote learning (Carlotto & Jaques, 2016; Gulz & Haake, 2006). For example, Chin et al. (2016) incorporated pedagogical agents into
+## Participants
+At the beginning, three intact classes (139 students in total) were selected from an elementary school in eastern China. During the experiment, some students withdrew for external reasons, resulting in 116 participants in this study (63 females and 53 males), aged 10–13 years. Participants in this age group were selected because they are more likely to exhibit a suitable equilibrium between natural curiosity and self-discipline when encountering new experiences (Davis et al., 2002), which may
+## What are the effects of 2D-GPAiM, 3D-GPAiM and the real-person teacher without GPAiM on students’ conceptual understanding in the two experimental groups and the control group?
+Descriptive statistics for the means and standard deviations of the participants' conceptual understanding scores are shown in Table 2. The results presented in Table 3 revealed that the only significant difference in participants’ conceptual understanding scores was between the 2D-GPAiM group and the control group ( \_p\_ = .004 < 0.01).
+In Table 3, we noticed that both the 2D-GPAiM group and the 3D-GPAiM group had promotive effect on participants' conceptual understanding scores, while the control
+## Discussion
+This study aimed to examine the effects of GPAiM (both 2D-GPAiM and 3D-GPAiM) versus the control group (without GPAiM but with a real-person teacher) on elementary school students’ conceptual understanding and cognitive engagement. Thus, we proposed two research questions and conducted an empirical study among elementary school students.
+With respect to the first research question, the results indicate that there is a significant positive effect of 2D-GPAiM on students' conceptual understanding (
+## Limitations, future research, and conclusion
+This study is not without limitations. First, the intervention period of this study was relatively short, and educational interventions with new technologies may raise concerns about potential novelty effects among elementary school students. Future research should consider extending the experimental period and incorporate data from interviews to further validate the actual effects. Second, even though the GPAiM positively affects elementary school students’ conceptual understanding, its
+## CRediT authorship contribution statement
+\*\*Tinghui Wu:\*\* Writing – original draft, Formal analysis, Data curation. \*\*Xuesong Zhai:\*\* Writing – review & editing, Supervision, Resources. \*\*Yanjie Song:\*\* Writing – review & editing, Supervision, Software, Resources, Project administration, Methodology, Funding acquisition, Conceptualization.
+## Declaration of competing interest
+The authors declare that there is no conflict of interest.
+## Acknowledgments
+This work was funded by RGC General Research Fund (Ref. 18609224) (2024-26) and The Centre for Immersive Learning and Metaverse in Education (CILME) (Ref. 04A43) (2023-24), The Education University of Hong Kong.
+Recommended articles
+- R.K. Atkinson \_et al.\_
+### [Fostering social agency in multimedia learning: Examining the impact of an animated agent's voice](https://www.sciencedirect.com/science/article/pii/S0361476X04000414)
+### Contemporary Educational Psychology
+(2005)
+- T. Carlotto \_et al.\_
+### [The effects of animated pedagogical agents in an English-as-a-foreign-language learning environment](https://www.sciencedirect.com/science/article/pii/S1071581916300738)
+### International Journal of Human-Computer Studies
+(2016)
+- S.D. Craig \_et al.\_
+### [Reconsidering the voice effect when learning from a virtual human](https://www.sciencedirect.com/science/article/pii/S0360131517301653)
+### Computers & Education
+(2017)
+- L. Dai \_et al.\_
+### [A systematic review of pedagogical agent research: Similarities, differences and unexplored aspects](https://www.sciencedirect.com/science/article/pii/S0360131522001786)
+### Computers & Education
+(2022)
+- R.O. Davis
+### [The impact of pedagogical agent gesturing in multimedia learning environments: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S1747938X18302343)
+### Educational Research Review
+(2018)
+- A. Gulz \_et al.\_
+### [Design of animated pedagogical agents—A look at their look](https://www.sciencedirect.com/science/article/pii/S107158190500162X)
+### International Journal of Human-Computer Studies
+(2006)
+- L. Hasenbein \_et al.\_
+### [Learning with simulated virtual classmates: Effects of social-related configurations on students' visual attention and learning experiences in an immersive virtual reality classroom](https://www.sciencedirect.com/science/article/pii/S0747563222001042)
+### Computers in Human Behavior
+(2022)
+- S. Heidig \_et al.\_
+### [Do pedagogical agents make a difference to student motivation and learning?](https://www.sciencedirect.com/science/article/pii/S1747938X10000424)
+### Educational Research Review
+(2011)
+- G.J. Hwang \_et al.\_
+### [Definition, roles, and potential research issues of the metaverse in education: An artificial intelligence perspective](https://www.sciencedirect.com/science/article/pii/S2666920X22000376)
+### Computers and Education: Artificial Intelligence
+(2022)
+- J.S. Jauhiainen
+### [The metaverse: Innovations and generative AI](https://www.sciencedirect.com/science/article/pii/S2096248724000183)
+### International Journal of Innovation Studies
+(2024)
+D.Y. Kim \_et al.\_
+### [Avatar-mediated experience in the metaverse: The impact of avatar realism on user-avatar relationship](https://www.sciencedirect.com/science/article/pii/S0969698923001297)
+### Journal of Retailing and Consumer Services
+(2023)
+Z.M. Liu \_et al.\_
+### [Integrating large language models into EFL writing instruction: Effects on performance, self-regulated learning strategies, and motivation](https://www.sciencedirect.com/science/article/pii/S1003632623663794)
+### Computer Assisted Language Learning
+(2024)
+B.Z. Mahon \_et al.\_
+### [A critical look at the embodied cognition hypothesis and a new proposal for grounding conceptual content](https://www.sciencedirect.com/science/article/pii/S0928425708000193)
+### Journal of Physiology Paris
+(2008)
+N. Norouzi \_et al.\_
+### [The advantages of virtual dogs over virtual people: Using augmented reality to provide social support in stressful situations](https://www.sciencedirect.com/science/article/pii/S1071581922000659)
+### International Journal of Human-Computer Studies
+(2022)
+S. Schneider \_et al.\_
+### [The impact of video lecturers' nonverbal communication on learning–An experiment on gestures and facial expressions of pedagogical agents](https://www.sciencedirect.com/science/article/pii/S036013152100227X)
+### Computers & Education
+(2022)
+H. Shang \_et al.\_
+### [Interactive teaching using human-machine interaction for higher education systems](https://www.sciencedirect.com/science/article/pii/S0045790622001112)
+### Computers & Electrical Engineering
+(2022)
+D. Shin
+### [The actualization of meta affordances: Conceptualizing affordance actualization in the metaverse games](https://www.sciencedirect.com/science/article/pii/S0747563222001145)
+### Computers in Human Behavior
+(2022)
+P. Sikström \_et al.\_
+### [Pedagogical agents communicating and scaffolding students' learning: High school teachers' and students' perspectives](https://www.sciencedirect.com/science/article/pii/S0360131524001544)
+### Computers & Education
+(2024)
+Y. Song \_et al.\_
+### [Developing an immersive game-based learning platform with generative artificial intelligence and virtual reality technologies –“LearningverseVR”](https://www.sciencedirect.com/science/article/pii/S2949678024000199)
+### Computers & Education: X Reality
+(2024)
+T.Y. Tai \_et al.\_
+### [Improving elementary EFL speaking skills with generative AI chatbots: Exploring individual and paired interactions](https://www.sciencedirect.com/science/article/pii/S036013152400126X)
+### Computers & Education
+(2024)
+H. Tillema \_et al.\_
+### [Assessing assessment quality: Criteria for quality assurance in design of (peer) assessment for learning–A review of research studies](https://www.sciencedirect.com/science/article/pii/S0191491X11000174)
+### Studies In Educational Evaluation
+(2011)
+M. Urban \_et al.\_
+### [ChatGPT improves creative problem-solving performance in university students: An experimental study](https://www.sciencedirect.com/science/article/pii/S0360131524000459)
+### Computers & Education
+(2024)
+F. Wang \_et al.\_
+### [Animated pedagogical agents as aids in multimedia learning: Effects on eye-fixations during learning and learning outcomes](https://www.sciencedirect.com/science/article/pii/S0360544218304092)
+### Journal of Educational Psychology
+(2018)
+M.A. Adarkwah \_et al.\_
+### ChatGPT implementation in the metaverse: Towards another level of immersiveness in education
+### Applications of Generative AI
+(2024)
+O.A. Akintan
+### Traditional religious festivals and modernity: A case study of female-oriented cults annual festivals in Ijebuland of South Western Nigeria
+### International Journal of Humanities and Social Science
+(2013)
+O.A. Akyeampong
+### Aboakyer: Traditional festival in decline
+### Ghana Social Science Journal
+(2019)
+C. Anthes \_et al.\_
+### State of the art of virtual reality technology
+A. Apostolakis \_et al.\_
+### Analysis of the economic impact of cultural festivals in the local economy
+### Cultural Management: Science & Education
+(2017)
+M. Armando \_et al.\_
+### The impact of pedagogical agents' gender on academic learning: A systematic review
+### Frontiers in Artificial Intelligence
+(2022)
+R. Azevedo \_et al.\_
+### Are pedagogical agents' external regulation effective in fostering learning with intelligent tutoring systems?
+L. Balachandran \_et al.\_
+### Facilitating student learning in the informal curriculum: Community engagement festival as a case study
+E. Brooker \_et al.\_
+### Is imitation the best form of flattery? Innovation challenges in festivals and events
+### Journal of Hospitality Marketing & Management
+(2016)
+D.T. Campbell \_et al.\_
+### Quasi-experimental design
+### International encyclopedia of the social sciences
+(1968)
+S.G. Carmer \_et al.\_
+### Least significant differences for combined analyses of experiments with two‐or three‐factor treatment designs
+### Agronomy Journal
+(1989)
+C.P. Carter \_et al.\_
+### Measuring student engagement among elementary students: Pilot of the student engagement instrument—Elementary version
+### School Psychology Quarterly
+(2012)
+J.C. Castro-Alonso \_et al.\_
+### Effectiveness of multimedia pedagogical agents predicted by diverse theories: A meta-analysis
+### Educational Psychology Review
+(2021)
+V. Chamola \_et al.\_
+### A comprehensive survey on generative AI for metaverse: Enabling immersive experience
+### Cognitive Computation
+(2024)
+S.X. Chen
+### From traditional to digital: Children's learning of traditional Chinese culture through festival-related storytelling
+### Event Management
+(2024)
+Z. Chen
+### Exploring the application scenarios and issues facing Metaverse technology in education
+### Interactive Learning Environments
+(2024)
+M.S. Chen \_et al.\_
+### GAI-assisted personal discussion process analysis
+J. Chen \_et al.\_
+### A systematic literature review of virtual embodied experience
+### Psychology and Marketing
+(2023)
+H. Chen \_et al.\_
+### The revival and restructuring of a traditional folk festival: Cultural landscape and memory in Guangzhou, South China
+### Sustainability
+(2017)
+K.Y. Chin \_et al.\_
+### Courseware development with animated pedagogical agents in learning system to improve learning motivation
+### Interactive Learning Environments
+(2016)
+T.J. Cleary \_et al.\_
+### A cyclical self-regulatory account of student engagement: Theoretical foundations and applications
+M. Cukurova
+### The interplay of learning, analytics and artificial intelligence in education: A vision for hybrid intelligence
+### British Journal of Educational Technology
+(2024)
+R. Davis \_et al.\_
+### Elementary school students' understanding of technology concepts
+### Journal of Technology Education
+(2002)
+R.O. Davis \_et al.\_
+### A meta-analytic review on embodied pedagogical agent design and testing formats
+### Journal of Educational Computing Research
+(2023)
+C. Deville
+### Language testing and validation: An evidence-based approach by WEIR
+### CYRIL
+(2007)
+A. ElSayary
+### An investigation of teachers' perceptions of using ChatGPT as a supporting tool for teaching and learning in the digital era
+### Journal of Computer Assisted Learning
+(2024)
+S.E. Embretson \_et al.\_
+### Item response theory for psychologists
+(2013)
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525003240)
+© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

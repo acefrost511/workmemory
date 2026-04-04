@@ -1,579 +1,962 @@
 # Source URL: https://link.springer.com/article/10.1007/s11423-026-10612-3
-# Content Length: 120505 characters
-# Extracted at: 2026-04-03 05:06:58
+# Content Length: 69190 characters
+# Extracted at: 2026-04-04 06:42:52
 #============================================================
 
+
+
+
+
+
+
+
+
 Examining teachers’ deep and shallow AIoT integration: SEM and regression tree analyses | Educational technology research and development | Springer Nature Link
-## Your privacy, your choice
-We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
-By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
-See our [privacy policy](https://link.springer.com/privacystatement) for more information on the use of your personal data.
-Manage preferences for further information and to change your choices.
-Accept all cookiesReject optional cookies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Skip to main content](#main)
+
 Advertisement
-[![](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)](https://link.springer.com)
-[Log in](https://idp.springer.com/auth/personal/springernature?redirect\_uri=https://link.springer.com/article/10.1007/s11423-026-10612-3)
-[Menu](javascript:;)
-[Find a journal](https://link.springer.com/journals/)[Publish with us](https://www.springernature.com/gp/authors)[Track your research](https://link.springernature.com/home/)
-[Search](javascript:;)
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/11423/article&sz=728x90&pos=top&articleid=s11423-026-10612-3)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s11423-026-10612-3)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
 [Saved research](/saved-research)
+
 [Cart](https://order.springer.com/public/cart)
-## Search
-Search by keyword or author
-Search
-## Navigation
-\* [Find a journal](https://link.springer.com/journals/)
-\* [Publish with us](https://www.springernature.com/gp/authors)
-\* [Track your research](https://link.springernature.com/home/)
+
+
+
+
+
+
 1. [Home](/)
 2. [Educational technology research and development](/journal/11423)
 3. Article
-# Examining teachers’ deep and shallow AIoT integration: SEM and regression tree analyses
-\* Research Article
-\* Published: 24 March 2026
-\* (2026)
-\* [Cite this article](#citeas)
-[Save article](/article/10.1007/s11423-026-10612-3/save-research?\_csrf=pOoyZHM8AHefOwHXaTPY9vhIJLE2YupG)
+
+Examining teachers’ deep and shallow AIoT integration: SEM and regression tree analyses
+=======================================================================================
+
+* Research Article
+* Published: 24 March 2026
+
+* (2026)
+* [Cite this article](#citeas)
+
+[Save article](/article/10.1007/s11423-026-10612-3/save-research?_csrf=jcQqslWVfJWLJad1J3mvGxFMVMUV_m6b)
 [View saved research](/saved-research)
-[![](https://media.springernature.com/w72/springer-static/cover-hires/journal/11423?as=webp)Educational technology research and development](/journal/11423)[Aims and scope](/journal/11423/aims-and-scope)[Submit manuscript](https://www.editorialmanager.com/etrd)
-\* [Shuo Feng](#auth-Shuo-Feng-Aff1)[1](#Aff1),
-\* [Xin Gao](#auth-Xin-Gao-Aff1)[1](#Aff1),
-\* [Qianqian Liu](#auth-Qianqian-Liu-Aff2)[2](#Aff2),
-\* [Zezhi Zhang](#auth-Zezhi-Zhang-Aff3)[3](#Aff3),
-\* [Mingjie Li](#auth-Mingjie-Li-Aff4)[4](#Aff4),
-\* [Qiyu Zhang](#auth-Qiyu-Zhang-Aff5)[5](#Aff5),
-\* [Yingbin Zhang](#auth-Yingbin-Zhang-Aff6)[6](#Aff6) &
-\* …
-\* [Shuai Wang](#auth-Shuai-Wang-Aff1)[ORCID: orcid.org/0000-0002-4983-9558](https://orcid.org/0000-0002-4983-9558)[1](#Aff1)
+
+
+
+
+
+[![]()
+
+Educational technology research and development](/journal/11423)
+[Aims and scope](/journal/11423/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/etrd)
+
+
+
+
+* [Shuo Feng](#auth-Shuo-Feng-Aff1)[1](#Aff1),
+* [Xin Gao](#auth-Xin-Gao-Aff1)[1](#Aff1),
+* [Qianqian Liu](#auth-Qianqian-Liu-Aff2)[2](#Aff2),
+* [Zezhi Zhang](#auth-Zezhi-Zhang-Aff3)[3](#Aff3),
+* [Mingjie Li](#auth-Mingjie-Li-Aff4)[4](#Aff4),
+* [Qiyu Zhang](#auth-Qiyu-Zhang-Aff5)[5](#Aff5),
+* [Yingbin Zhang](#auth-Yingbin-Zhang-Aff6)[6](#Aff6) &
+* …
+* [Shuai Wang](#auth-Shuai-Wang-Aff1) 
+  [ORCID: orcid.org/0000-0002-4983-9558](https://orcid.org/0000-0002-4983-9558)[1](#Aff1)
+
 Show authors
-\* 89 Accesses
-\* [Explore all metrics](/article/10.1007/s11423-026-10612-3/metrics)
-## Abstract
+
+* 100 Accesses
+* [Explore all metrics](/article/10.1007/s11423-026-10612-3/metrics)
+
+
+
+Abstract
+--------
+
 The integration of interconnected devices with artificial intelligence enables Artificial Intelligence of Things (AIoT) that can assist teachers in monitoring student learning and providing timely interventions in classrooms. However, limited research has examined the factors influencing the quality of teachers’ AIoT integration, established theoretical foundations to predict quality, or applied comprehensive methodologies to address this issue, leaving open questions about how to promote high-quality AIoT integration. This study draws on the Capability, Opportunity, Motivation, and Behavior (COM-B) model and the Interactive-Constructive-Active–Passive (ICAP) framework through both linear (structural equation modeling) and nonlinear analyses (regression tree analysis). Survey data from 930 teachers in primary and middle schools with the adoption of an AIoT system supported by generative AI were analyzed to examine the impact of their capability (technological pedagogical content knowledge), opportunity (perceived support on first-order barriers), and motivation (self-efficacy, utility value, enjoyment, and habit) conceptualized in AIoT integration contexts on the integration quality (interactive, constructive, active, and passive learning). The linear analysis showed that opportunity directly and indirectly through motivation enhances AIoT integration quality, whereas capability affects AIoT integration quality only indirectly through motivation. The nonlinear analysis uncovered multiple effects of opportunity (the quality balance scale and brake) and motivation factors (the brake and amplifier). The findings advance the understanding of predictors of AIoT integration quality, informing interventions towards the effective application of novel technologies in education.
-This is a preview of subscription content, [log in via an institution](//wayf.springernature.com?redirect\_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11423-026-10612-3) to check access.
-## Access this article
-[Log in via an institution](//wayf.springernature.com?redirect\_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11423-026-10612-3)
-## Subscribe and save
+
+
+
+
+This is a preview of subscription content, [log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11423-026-10612-3)
+
+ to check access.
+
+
+Access this article
+-------------------
+
+[Log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11423-026-10612-3)
+
+
+Subscribe and save
+------------------
+
+
 Springer+
+
 from €37.37 /Month
-\* Starting from 10 chapters or articles per month
-\* Access and download chapters and articles from more than 300k books and 2,500 journals
-\* Cancel anytime
+
+* Starting from 10 chapters or articles per month
+* Access and download chapters and articles from more than 300k books and 2,500 journals
+* Cancel anytime
+
 [View plans](https://link.springer.com/product/springer-plus)
-## Buy Now
+
+Buy Now
+-------
+
+
 Buy article PDF 39,95 €
+
 Price includes VAT (China (P.R.))
+  
+
+
 Instant access to the full article PDF.
+
+
+
+
 [Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/journals)
-\*\*Fig. 1\*\*
-![](//media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11423-026-10612-3/MediaObjects/11423\_2026\_10612\_Fig1\_HTML.png)
-\*\*Fig. 2\*\*
-![](//media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11423-026-10612-3/MediaObjects/11423\_2026\_10612\_Fig2\_HTML.png)
-\*\*Fig. 3\*\*
-![](//media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11423-026-10612-3/MediaObjects/11423\_2026\_10612\_Fig3\_HTML.png)
-\*\*Fig. 4\*\*
-![](//media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11423-026-10612-3/MediaObjects/11423\_2026\_10612\_Fig4\_HTML.png)
-\*\*Fig. 5\*\*
-![](//media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11423-026-10612-3/MediaObjects/11423\_2026\_10612\_Fig5\_HTML.png)
-\*\*Fig. 6\*\*
-![](//media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11423-026-10612-3/MediaObjects/11423\_2026\_10612\_Fig6\_HTML.png)
-\*\*Fig. 7\*\*
-![](//media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11423-026-10612-3/MediaObjects/11423\_2026\_10612\_Fig7\_HTML.png)
+
+
+
+
+
+**Fig. 1**
+
+![]()
+
+**Fig. 2**
+
+![]()
+
+**Fig. 3**
+
+![]()
+
+**Fig. 4**
+
+![]()
+
+**Fig. 5**
+
+![]()
+
+**Fig. 6**
+
+![]()
+
+**Fig. 7**
+
+![]()
+
+
 ### Similar content being viewed by others
-![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs10639-025-13867-0/MediaObjects/10639\_2025\_13867\_Fig1\_HTML.png)
+
+![]()
 ### [AI for educational innovation: opportunities and challenges amidst protracted crises](https://link.springer.com/10.1007/s10639-025-13867-0?fromPaywallRec=true)
-Article27 December 2025
-![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-032-09077-5?as=webp)
-### [Technological Challenges in the Use of AI in the Context of Initial Teacher Training](https://link.springer.com/10.1007/978-3-032-09077-5\_47?fromPaywallRec=true)
-Chapter© 2026
-![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-031-90921-4?as=webp)
-### [The Evolution of Teaching and Training in the Age of Artificial General Intelligence: Opportunities, Challenges, and Ethical Considerations](https://link.springer.com/10.1007/978-3-031-90921-4\_49?fromPaywallRec=true)
-Chapter© 2025
+
+Article
+27 December 2025
+
+
+
+
+![]()
+### [Technological Challenges in the Use of AI in the Context of Initial Teacher Training](https://link.springer.com/10.1007/978-3-032-09077-5_47?fromPaywallRec=true)
+
+Chapter
+© 2026
+
+
+
+
+![]()
+### [The Evolution of Teaching and Training in the Age of Artificial General Intelligence: Opportunities, Challenges, and Ethical Considerations](https://link.springer.com/10.1007/978-3-031-90921-4_49?fromPaywallRec=true)
+
+Chapter
+© 2025
+
+
+
+
+
+
 ### Explore related subjects
+
 Discover the latest articles, books and news in related subjects, suggested using machine learning.
-\* [Conceptual Analysis](/subjects/conceptual-analysis)
-\* [Educational Research](/subjects/educational-research)
-\* [Instructional Theory](/subjects/instructional-theory)
-\* [Instructional Design](/subjects/instructional-design)
-\* [Instructional Psychology](/subjects/instructional-psychology)
-\* [Artificial Intelligence](/subjects/artificial-intelligence)
-\* [Artificial Intelligence Applications in Higher Education](/subjects/artificial-intelligence-applications-in-higher-education)
-## Data availability
+
+* [Conceptual Analysis](/subjects/conceptual-analysis)
+* [Educational Research](/subjects/educational-research)
+* [Instructional Theory](/subjects/instructional-theory)
+* [Instructional Design](/subjects/instructional-design)
+* [Instructional Psychology](/subjects/instructional-psychology)
+* [Artificial Intelligence](/subjects/artificial-intelligence)
+* [Artificial Intelligence Applications in Higher Education](/subjects/artificial-intelligence-applications-in-higher-education)
+
+Data availability
+-----------------
+
 The research data is available from the corresponding author on reasonable request.
-## References
-\* Acosta-Enriquez, B. G., Villena Zapata, L. I., Huamaní Jordan, O., López Roca, C., Cabrera Cipirán, B. M., Saavedra Villacrez, W., & Arbulu Perez Vargas, C. G. (2025). Acceptance of artificial intelligence as a teaching strategy among university professors: The role of habit, hedonic motivation, and competence for technology integration. \*Human Behavior and Emerging Technologies,\*\*2025\*(1), Article 5933157.
-[Article](https://doi.org/10.1155%2Fhbe2%2F5933157)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Acceptance%20of%20artificial%20intelligence%20as%20a%20teaching%20strategy%20among%20university%20professors%3A%20The%20role%20of%20habit%2C%20hedonic%20motivation%2C%20and%20competence%20for%20technology%20integration.&journal=Human%20Behavior%20and%20Emerging%20Technologies&doi=10.1155%2Fhbe2%2F5933157&volume=2025&issue=1&publication\_year=2025&author=Acosta-Enriquez%2CBG&author=Villena%20Zapata%2CLI&author=Huaman%C3%AD%20Jordan%2CO&author=L%C3%B3pez%20Roca%2CC&author=Cabrera%20Cipir%C3%A1n%2CBM&author=Saavedra%20Villacrez%2CW&author=Arbulu%20Perez%20Vargas%2CCG)
-\* Akcaoglu, M., & Akcaoglu, M. O. (2022). Understanding the relationship among self-efficacy, utility value, and the community of inquiry framework in preservice teacher education. \*The International Review of Research in Open and Distributed Learning,\*\*23\*(2), 86–106. 
-[Article](https://doi.org/10.19173%2Firrodl.v23i1.5717)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Understanding%20the%20relationship%20among%20self-efficacy%2C%20utility%20value%2C%20and%20the%20community%20of%20inquiry%20framework%20in%20preservice%20teacher%20education.&journal=The%20International%20Review%20of%20Research%20in%20Open%20and%20Distributed%20Learning&doi=10.19173%2Firrodl.v23i1.5717&volume=23&issue=2&pages=86-106&publication\_year=2022&author=Akcaoglu%2CM&author=Akcaoglu%2CMO)
-\* An, X., Chai, C. S., Li, Y., Zhou, Y., Shen, X., Zheng, C., & Chen, M. (2023). Modeling English teachers’ behavioral intention to use artificial intelligence in middle schools. \*Education and Information Technologies,\*\*28\*(5), 5187–5208.
-[Article](https://link.springer.com/doi/10.1007/s10639-022-11286-z)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Modeling%20English%20teachers%E2%80%99%20behavioral%20intention%20to%20use%20artificial%20intelligence%20in%20middle%20schools&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-022-11286-z&volume=28&issue=5&pages=5187-5208&publication\_year=2023&author=An%2CX&author=Chai%2CCS&author=Li%2CY&author=Zhou%2CY&author=Shen%2CX&author=Zheng%2CC&author=Chen%2CM)
-\* Anderson, L., & Krathwohl, D. (2001). \*A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives (Completed)\*. Longman.
-[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20taxonomy%20for%20learning%2C%20teaching%2C%20and%20assessing%3A%20A%20revision%20of%20Bloom%E2%80%99s%20taxonomy%20of%20educational%20objectives%20%28Completed%29&publication\_year=2001&author=Anderson%2CL&author=Krathwohl%2CD)
-\* Antonietti, C., Schmitz, M.-L., Consoli, T., Cattaneo, A., Gonon, P., & Petko, D. (2023). Development and validation of the ICAP Technology Scale to measure how teachers integrate technology into learning activities. \*Computers & Education,\*\*192\*, Article 104648. 
-[Article](https://doi.org/10.1016%2Fj.compedu.2022.104648)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Development%20and%20validation%20of%20the%20ICAP%20Technology%20Scale%20to%20measure%20how%20teachers%20integrate%20technology%20into%20learning%20activities&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2022.104648&volume=192&publication\_year=2023&author=Antonietti%2CC&author=Schmitz%2CM-L&author=Consoli%2CT&author=Cattaneo%2CA&author=Gonon%2CP&author=Petko%2CD)
-\* Antonietti, C., Schmitz, M. L., Consoli, T., Cattaneo, A., Gonon, P., & Petko, D. (2025). Examining technology integration in upper secondary schools: A comparative analysis across school programs and subjects. \*Technology Knowledge and Learning\*. 
-[Article](https://link.springer.com/doi/10.1007/s10758-025-09889-9)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Examining%20technology%20integration%20in%20upper%20secondary%20schools%3A%20A%20comparative%20analysis%20across%20school%20programs%20and%20subjects&journal=Technology%20Knowledge%20and%20Learning&doi=10.1007%2Fs10758-025-09889-9&publication\_year=2025&author=Antonietti%2CC&author=Schmitz%2CML&author=Consoli%2CT&author=Cattaneo%2CA&author=Gonon%2CP&author=Petko%2CD)
-\* Ayton, D., Hillman, C., Hatzikiriakidis, K., Tsindos, T., Sadasivan, S., Maloney, S., Bragge, P., Diug, B., & Illic, D. (2022). Why do students plagiarise? Informing higher education teaching and learning policy and practice. \*Studies in Higher Education,\*\*47\*(9), 1921–1934. 
-[Article](https://doi.org/10.1080%2F03075079.2021.1985103)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Why%20do%20students%20plagiarise%3F%20Informing%20higher%20education%20teaching%20and%20learning%20policy%20and%20practice&journal=Studies%20in%20Higher%20Education&doi=10.1080%2F03075079.2021.1985103&volume=47&issue=9&pages=1921-1934&publication\_year=2022&author=Ayton%2CD&author=Hillman%2CC&author=Hatzikiriakidis%2CK&author=Tsindos%2CT&author=Sadasivan%2CS&author=Maloney%2CS&author=Bragge%2CP&author=Diug%2CB&author=Illic%2CD)
-\* Backfisch, I., Lachner, A., Stürmer, K., & Scheiter, K. (2021). Variability of teachers’ technology integration in the classroom: A matter of utility! \*Computers & Education,\*\*166\*, Article 104159. 
-[Article](https://doi.org/10.1016%2Fj.compedu.2021.104159)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Variability%20of%20teachers%E2%80%99%20technology%20integration%20in%20the%20classroom%3A%20A%20matter%20of%20utility%21&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2021.104159&volume=166&publication\_year=2021&author=Backfisch%2CI&author=Lachner%2CA&author=St%C3%BCrmer%2CK&author=Scheiter%2CK)
-\* Banihashem, S. K., Gašević, D., & Noroozi, O. (2025). A critical review of using learning analytics for formative assessment: Progress, pitfalls and path forward. \*Journal of Computer Assisted Learning,\*\*41\*(3), Article e70056.
-[Article](https://doi.org/10.1111%2Fjcal.70056)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20critical%20review%20of%20using%20learning%20analytics%20for%20formative%20assessment%3A%20Progress%2C%20pitfalls%20and%20path%20forward&journal=Journal%20of%20Computer%20Assisted%20Learning&doi=10.1111%2Fjcal.70056&volume=41&issue=3&publication\_year=2025&author=Banihashem%2CSK&author=Ga%C5%A1evi%C4%87%2CD&author=Noroozi%2CO)
-\* Blanch, A., & Aluja, A. (2013). A regression tree of the aptitudes, personality, and academic performance relationship. \*Personality and Individual Differences,\*\*54\*(6), 703–708.
-[Article](https://doi.org/10.1016%2Fj.paid.2012.11.032)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20regression%20tree%20of%20the%20aptitudes%2C%20personality%2C%20and%20academic%20performance%20relationship&journal=Personality%20and%20Individual%20Differences&doi=10.1016%2Fj.paid.2012.11.032&volume=54&issue=6&pages=703-708&publication\_year=2013&author=Blanch%2CA&author=Aluja%2CA)
-\* Bloom, B. (1956). \*Taxonomy of educational objectives: The classification of educational goals\* (1st ed.). Longmans, Green.
-[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Taxonomy%20of%20educational%20objectives%3A%20The%20classification%20of%20educational%20goals&publication\_year=1956&author=Bloom%2CB)
-\* Bowman, M. A., Vongkulluksn, V. W., Jiang, Z., & Xie, K. (2022). Teachers’ exposure to professional development and the quality of their instructional technology use: The mediating role of teachers’ value and ability beliefs. \*Journal of Research on Technology in Education,\*\*54\*(2), 188–204.
-[Article](https://doi.org/10.1080%2F15391523.2020.1830895)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Teachers%E2%80%99%20exposure%20to%20professional%20development%20and%20the%20quality%20of%20their%20instructional%20technology%20use%3A%20The%20mediating%20role%20of%20teachers%E2%80%99%20value%20and%20ability%20beliefs&journal=Journal%20of%20Research%20on%20Technology%20in%20Education&doi=10.1080%2F15391523.2020.1830895&volume=54&issue=2&pages=188-204&publication\_year=2022&author=Bowman%2CMA&author=Vongkulluksn%2CVW&author=Jiang%2CZ&author=Xie%2CK)
-\* Brown, C. E., Richardson, K., Halil-Pizzirani, B., Atkins, L., Yücel, M., & Segrave, R. A. (2024). Key influences on university students’ physical activity: A systematic review using the theoretical domains framework and the COM-B model of human behaviour. \*BMC Public Health,\*\*24\*(1), Article 418.
-[Article](https://link.springer.com/doi/10.1186/s12889-023-17621-4)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Key%20influences%20on%20university%20students%27%20physical%20activity%3A%20A%20systematic%20review%20using%20the%20theoretical%20domains%20framework%20and%20the%20COM-B%20model%20of%20human%20behaviour&journal=BMC%20Public%20Health&doi=10.1186%2Fs12889-023-17621-4&volume=24&issue=1&publication\_year=2024&author=Brown%2CCE&author=Richardson%2CK&author=Halil-Pizzirani%2CB&author=Atkins%2CL&author=Y%C3%BCcel%2CM&author=Segrave%2CRA)
-\* Cai, Y., Yang, Y., & Shi, W. (2022). A predictive model of the knowledge-sharing intentions of social Q&A community members: A regression tree approach. \*International Journal of Human–computer Interaction,\*\*38\*(4), 324–338.
-[Article](https://doi.org/10.1080%2F10447318.2021.1938393)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20predictive%20model%20of%20the%20knowledge-sharing%20intentions%20of%20social%20Q%26A%20community%20members%3A%20A%20regression%20tree%20approach&journal=International%20Journal%20of%20Human%E2%80%93computer%20Interaction&doi=10.1080%2F10447318.2021.1938393&volume=38&issue=4&pages=324-338&publication\_year=2022&author=Cai%2CY&author=Yang%2CY&author=Shi%2CW)
-\* Carter, E., Onwuegbuzie, A., Singal, N., & van der Velde, L. (2021). Perceptions of teaching quality in Rwandan secondary schools: A contextual analysis. \*International Journal of Educational Research,\*\*109\*, Article 101843. 
-[Article](https://doi.org/10.1016%2Fj.ijer.2021.101843)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Perceptions%20of%20teaching%20quality%20in%20Rwandan%20secondary%20schools%3A%20A%20contextual%20analysis&journal=International%20Journal%20of%20Educational%20Research&doi=10.1016%2Fj.ijer.2021.101843&volume=109&publication\_year=2021&author=Carter%2CE&author=Onwuegbuzie%2CA&author=Singal%2CN&author=Velde%2CL)
-\* Chadha, A., & Kaushik, B. (2022). A hybrid deep learning model using grid search and cross-validation for effective classification and prediction of suicidal ideation from social network data. \*New Generation Computing,\*\*40\*(4), 889–914.
-[Article](https://link.springer.com/doi/10.1007/s00354-022-00191-1)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20hybrid%20deep%20learning%20model%20using%20grid%20search%20and%20cross-validation%20for%20effective%20classification%20and%20prediction%20of%20suicidal%20ideation%20from%20social%20network%20data&journal=New%20Generation%20Computing&doi=10.1007%2Fs00354-022-00191-1&volume=40&issue=4&pages=889-914&publication\_year=2022&author=Chadha%2CA&author=Kaushik%2CB)
-\* Chen, D., Zhang, H., Shao, J., Tang, L., Cui, N., Wang, X., Wu, J., Wang, D., & Ye, Z. (2023). Determinants of adherence to diet and exercise behaviours among individuals with metabolic syndrome based on the capability, opportunity, motivation, and behaviour model: A cross-sectional study. \*European Journal of Cardiovascular Nursing,\*\*22\*(2), 193–200.
-[Article](https://doi.org/10.1093%2Feurjcn%2Fzvac034)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Determinants%20of%20adherence%20to%20diet%20and%20exercise%20behaviours%20among%20individuals%20with%20metabolic%20syndrome%20based%20on%20the%20capability%2C%20opportunity%2C%20motivation%2C%20and%20behaviour%20model%3A%20A%20cross-sectional%20study&journal=European%20Journal%20of%20Cardiovascular%20Nursing&doi=10.1093%2Feurjcn%2Fzvac034&volume=22&issue=2&pages=193-200&publication\_year=2023&author=Chen%2CD&author=Zhang%2CH&author=Shao%2CJ&author=Tang%2CL&author=Cui%2CN&author=Wang%2CX&author=Wu%2CJ&author=Wang%2CD&author=Ye%2CZ)
-\* Cheng, L., Antonenko, P. D., & Ritzhaupt, A. D. (2024). The impact of teachers’ pedagogical beliefs, self-efficacy, and technology value beliefs on 3D printing integration in K-12 science classrooms. \*Educational Technology Research and Development,\*\*72\*(1), 181–208. 
-[Article](https://link.springer.com/doi/10.1007/s11423-023-10276-3)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20impact%20of%20teachers%E2%80%99%20pedagogical%20beliefs%2C%20self-efficacy%2C%20and%20technology%20value%20beliefs%20on%203D%20printing%20integration%20in%20K-12%20science%20classrooms&journal=Educational%20Technology%20Research%20and%20Development&doi=10.1007%2Fs11423-023-10276-3&volume=72&issue=1&pages=181-208&publication\_year=2024&author=Cheng%2CL&author=Antonenko%2CPD&author=Ritzhaupt%2CAD)
-\* Cheng, S.-L., Lu, L., Xie, K., & Vongkulluksn, V. W. (2020). Understanding teacher technology integration from expectancy-value perspectives. \*Teaching and Teacher Education,\*\*91\*, Article 103062. 
-[Article](https://doi.org/10.1016%2Fj.tate.2020.103062)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Understanding%20teacher%20technology%20integration%20from%20expectancy-value%20perspectives&journal=Teaching%20and%20Teacher%20Education&doi=10.1016%2Fj.tate.2020.103062&volume=91&publication\_year=2020&author=Cheng%2CS-L&author=Lu%2CL&author=Xie%2CK&author=Vongkulluksn%2CVW)
-\* Cheng, S.-L., & Xie, K. (2018). The relations among teacher value beliefs, personal characteristics, and TPACK in intervention and non-intervention settings. \*Teaching and Teacher Education,\*\*74\*, 98–113. 
-[Article](https://doi.org/10.1016%2Fj.tate.2018.04.014)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20relations%20among%20teacher%20value%20beliefs%2C%20personal%20characteristics%2C%20and%20TPACK%20in%20intervention%20and%20non-intervention%20settings&journal=Teaching%20and%20Teacher%20Education&doi=10.1016%2Fj.tate.2018.04.014&volume=74&pages=98-113&publication\_year=2018&author=Cheng%2CS-L&author=Xie%2CK)
-\* Chi, M. T., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Chi, M. T. H., Levy, R., Li, N., McEldoon, K. L., Stump, G. S., Wylie, R., Xu, D., & Yaghmourian, D. L. (2018). Translating the ICAP theory of cognitive engagement into practice. \*Cognitive Science,\*\*42\*(6), 1777–1832.
-[Article](https://doi.org/10.1111%2Fcogs.12626)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Translating%20the%20ICAP%20theory%20of%20cognitive%20engagement%20into%20practice&journal=Cognitive%20Science&doi=10.1111%2Fcogs.12626&volume=42&issue=6&pages=1777-1832&publication\_year=2018&author=Chi%2CMT&author=Adams%2CJ&author=Bogusch%2CEB&author=Bruchok%2CC&author=Kang%2CS&author=Lancaster%2CM&author=Chi%2CMTH&author=Levy%2CR&author=Li%2CN&author=McEldoon%2CKL&author=Stump%2CGS&author=Wylie%2CR&author=Xu%2CD&author=Yaghmourian%2CDL)
-\* Chi, M. T., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. \*Educational Psychologist,\*\*49\*(4), 219–243.
-[Article](https://doi.org/10.1080%2F00461520.2014.965823)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20ICAP%20framework%3A%20Linking%20cognitive%20engagement%20to%20active%20learning%20outcomes&journal=Educational%20Psychologist&doi=10.1080%2F00461520.2014.965823&volume=49&issue=4&pages=219-243&publication\_year=2014&author=Chi%2CMT&author=Wylie%2CR)
-\* China’s Ministry of Education. (2018). \*Notice of the Ministry of Education on the issuance of the “Education Informatization 2.0 Action Plan”.\*
-\* Churches, A. (2010). \*Bloom’s digital taxonomy\*. Australian School Library Association NSW Inc.
-[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Bloom%E2%80%99s%20digital%20taxonomy&publication\_year=2010&author=Churches%2CA)
-\* Consoli, T., Schmitz, M.-L., Antonietti, C., Gonon, P., Cattaneo, A., & Petko, D. (2025). Quality of technology integration matters: Positive associations with students’ behavioral engagement and digital competencies for learning. \*Education and Information Technologies,\*\*30\*(6), 7719–7752. 
-[Article](https://link.springer.com/doi/10.1007/s10639-024-13118-8)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Quality%20of%20technology%20integration%20matters%3A%20Positive%20associations%20with%20students%E2%80%99%20behavioral%20engagement%20and%20digital%20competencies%20for%20learning&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-13118-8&volume=30&issue=6&pages=7719-7752&publication\_year=2025&author=Consoli%2CT&author=Schmitz%2CM-L&author=Antonietti%2CC&author=Gonon%2CP&author=Cattaneo%2CA&author=Petko%2CD)
-\* Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. \*MIS Quarterly,\*\*13\*, 319–340.
-[Article](https://doi.org/10.2307%2F249008)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Perceived%20usefulness%2C%20perceived%20ease%20of%20use%2C%20and%20user%20acceptance%20of%20information%20technology&journal=MIS%20Quarterly&doi=10.2307%2F249008&volume=13&pages=319-340&publication\_year=1989&author=Davis%2CFD)
-\* DiStefano, C., Zhu, M., & Mindrila, D. (2009). Understanding and using factor scores: Considerations for the applied researcher. \*Practical Assessment Research and Evaluation,\*\*14\*(1), 20.
-[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Understanding%20and%20using%20factor%20scores%3A%20Considerations%20for%20the%20applied%20researcher&journal=Practical%20Assessment%20Research%20and%20Evaluation&volume=14&issue=1&publication\_year=2009&author=DiStefano%2CC&author=Zhu%2CM&author=Mindrila%2CD)
-\* Faber, J. M., & Visscher, A. J. (2018). The effects of a digital formative assessment tool on spelling achievement: Results of a randomized experiment. \*Computers & Education,\*\*122\*, 1–8.
-[Article](https://doi.org/10.1016%2Fj.compedu.2018.03.008)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20effects%20of%20a%20digital%20formative%20assessment%20tool%20on%20spelling%20achievement%3A%20Results%20of%20a%20randomized%20experiment&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2018.03.008&volume=122&pages=1-8&publication\_year=2018&author=Faber%2CJM&author=Visscher%2CAJ)
-\* Fu, H., Rao, J., Deng, F., Wang, Y., Zhao, B., Liu, Z., Guan, H., Malinowski, P. H., & Xu, L. (2025). AIoT: Artificial intelligence and the internet of things for monitoring and prognosis of systems and structures. \*IEEE Transactions on Instrumentation and Measurement.\*
-\* Fütterer, T., Scheiter, K., Cheng, X., & Stürmer, K. (2022). Quality beats frequency? Investigating students’ effort in learning when introducing technology in classrooms. \*Contemporary Educational Psychology,\*\*69\*, Article 102042.
-[Article](https://doi.org/10.1016%2Fj.cedpsych.2022.102042)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Quality%20beats%20frequency%3F%20Investigating%20students%E2%80%99%20effort%20in%20learning%20when%20introducing%20technology%20in%20classrooms&journal=Contemporary%20Educational%20Psychology&doi=10.1016%2Fj.cedpsych.2022.102042&volume=69&publication\_year=2022&author=F%C3%BCtterer%2CT&author=Scheiter%2CK&author=Cheng%2CX&author=St%C3%BCrmer%2CK)
-\* Gibson Miller, J., Hartman, T. K., Levita, L., Martinez, A. P., Mason, L., McBride, O., McKay, R., Murphy, J., Shevlin, M., & Stocks, T. V. (2020). Capability, opportunity, and motivation to enact hygienic practices in the early stages of the COVID‐19 outbreak in the United Kingdom. \*British Journal of Health Psychology,\*\*25\*(4), 856–864.
-[Article](https://doi.org/10.1111%2Fbjhp.12426)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Capability%2C%20opportunity%2C%20and%20motivation%20to%20enact%20hygienic%20practices%20in%20the%20early%20stages%20of%20the%20COVID%E2%80%9019%20outbreak%20in%20the%20United%20Kingdom&journal=British%20Journal%20of%20Health%20Psychology&doi=10.1111%2Fbjhp.12426&volume=25&issue=4&pages=856-864&publication\_year=2020&author=Gibson%20Miller%2CJ&author=Hartman%2CTK&author=Levita%2CL&author=Martinez%2CAP&author=Mason%2CL&author=McBride%2CO&author=McKay%2CR&author=Murphy%2CJ&author=Shevlin%2CM&author=Stocks%2CTV)
-\* Gomes, C. M. A., Amantes, A., & Jelihovschi, E. G. (2020). Applying the regression tree method to predict students’ science achievement. \*Trends in Psychology,\*\*28\*(1), 99–117.
-[Article](https://doi.org/10.9788%2Fs43076-019-00002-5)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Applying%20the%20regression%20tree%20method%20to%20predict%20students%E2%80%99%20science%20achievement&journal=Trends%20in%20Psychology&doi=10.9788%2Fs43076-019-00002-5&volume=28&issue=1&pages=99-117&publication\_year=2020&author=Gomes%2CCMA&author=Amantes%2CA&author=Jelihovschi%2CEG)
-\* Gomes, C. M. A., & Jelihovschi, E. (2020). Presenting the regression tree method and its application in a large-scale educational dataset. \*International Journal of Research & Method in Education,\*\*43\*(2), 201–221.
-[Article](https://doi.org/10.1080%2F1743727X.2019.1654992)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Presenting%20the%20regression%20tree%20method%20and%20its%20application%20in%20a%20large-scale%20educational%20dataset&journal=International%20Journal%20of%20Research%20%26%20Method%20in%20Education&doi=10.1080%2F1743727X.2019.1654992&volume=43&issue=2&pages=201-221&publication\_year=2020&author=Gomes%2CCMA&author=Jelihovschi%2CE)
-\* Guo, J. (2025). \*From "Mountains and Seas" to the future: Smart education ensures every child is "Seen"\*. qdcaijing. 
-\* Han, L., Pan, B., Chen, Y., & Tang, J. (2025). A digital pen-based writing state recognition algorithm for student performance assessment. \*Neural Computing and Applications,\*\*37\*(19), 13309–13319.
-[Article](https://link.springer.com/doi/10.1007/s00521-024-09955-w)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20digital%20pen-based%20writing%20state%20recognition%20algorithm%20for%20student%20performance%20assessment&journal=Neural%20Computing%20and%20Applications&doi=10.1007%2Fs00521-024-09955-w&volume=37&issue=19&pages=13309-13319&publication\_year=2025&author=Han%2CL&author=Pan%2CB&author=Chen%2CY&author=Tang%2CJ)
-\* Hornstein, H. A. (2017). Student evaluations of teaching are an inadequate assessment tool for evaluating faculty performance. \*Cogent Education,\*\*4\*(1), Article 1304016.
-[Article](https://doi.org/10.1080%2F2331186X.2017.1304016)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Student%20evaluations%20of%20teaching%20are%20an%20inadequate%20assessment%20tool%20for%20evaluating%20faculty%20performance&journal=Cogent%20Education&doi=10.1080%2F2331186X.2017.1304016&volume=4&issue=1&publication\_year=2017&author=Hornstein%2CHA)
-\* Howlett, N., Schulz, J., Trivedi, D., Troop, N., & Chater, A. (2019). A prospective study exploring the construct and predictive validity of the COM-B model for physical activity. \*Journal of Health Psychology,\*\*24\*(10), 1378–1391.
-[Article](https://doi.org/10.1177%2F1359105317739098)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20prospective%20study%20exploring%20the%20construct%20and%20predictive%20validity%20of%20the%20COM-B%20model%20for%20physical%20activity&journal=Journal%20of%20Health%20Psychology&doi=10.1177%2F1359105317739098&volume=24&issue=10&pages=1378-1391&publication\_year=2019&author=Howlett%2CN&author=Schulz%2CJ&author=Trivedi%2CD&author=Troop%2CN&author=Chater%2CA)
-\* Hu, L. T., & Bentler, P. M. (1998). Fit indices in covariance structure modeling: Sensitivity to underparameterized model misspecification. \*Psychological Methods,\*\*3\*(4), 424.
-[Article](https://doi.org/10.1037%2F1082-989X.3.4.424)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Fit%20indices%20in%20covariance%20structure%20modeling%3A%20Sensitivity%20to%20underparameterized%20model%20misspecification&journal=Psychological%20Methods&doi=10.1037%2F1082-989X.3.4.424&volume=3&issue=4&publication\_year=1998&author=Hu%2CLT&author=Bentler%2CPM)
-\* Huang, Z.-E., Qiu, X., Yan, J., Liao, D.-D., Huang, H., Fu, Y.-Q., Liu, B.-R., Zhu, S.-C., & Yi, Q.-F. (2024). Structural equation modeling for associated factors with patient safety behaviors among nursing interns: A cross-sectional study based on the capability opportunity motivation-behavior model. \*Nurse Education Today,\*\*132\*, Article 105992.
-[Article](https://doi.org/10.1016%2Fj.nedt.2023.105992)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Structural%20equation%20modeling%20for%20associated%20factors%20with%20patient%20safety%20behaviors%20among%20nursing%20interns%3A%20A%20cross-sectional%20study%20based%20on%20the%20capability%20opportunity%20motivation-behavior%20model&journal=Nurse%20Education%20Today&doi=10.1016%2Fj.nedt.2023.105992&volume=132&publication\_year=2024&author=Huang%2CZ-E&author=Qiu%2CX&author=Yan%2CJ&author=Liao%2CD-D&author=Huang%2CH&author=Fu%2CY-Q&author=Liu%2CB-R&author=Zhu%2CS-C&author=Yi%2CQ-F)
-\* Jenßen, L., Gierlinger, F., & Eilerts, K. (2021). Pre-service teachers’ enjoyment and ICT teaching self-efficacy in mathematics–an application of control-value theory. \*Journal of Digital Learning in Teacher Education,\*\*37\*(3), 183–195.
-[Article](https://doi.org/10.1080%2F21532974.2021.1929585)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Pre-service%20teachers%E2%80%99%20enjoyment%20and%20ICT%20teaching%20self-efficacy%20in%20mathematics%E2%80%93an%20application%20of%20control-value%20theory&journal=Journal%20of%20Digital%20Learning%20in%20Teacher%20Education&doi=10.1080%2F21532974.2021.1929585&volume=37&issue=3&pages=183-195&publication\_year=2021&author=Jen%C3%9Fen%2CL&author=Gierlinger%2CF&author=Eilerts%2CK)
-\* Keyworth, C., Epton, T., Goldthorpe, J., Calam, R., & Armitage, C. J. (2020). Acceptability, reliability, and validity of a brief measure of capabilities, opportunities, and motivations (“COM-B”). \*British Journal of Health Psychology,\*\*25\*(3), 474–501.
-[Article](https://doi.org/10.1111%2Fbjhp.12417)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Acceptability%2C%20reliability%2C%20and%20validity%20of%20a%20brief%20measure%20of%20capabilities%2C%20opportunities%2C%20and%20motivations%20%28%E2%80%9CCOM-B%E2%80%9D%29&journal=British%20Journal%20of%20Health%20Psychology&doi=10.1111%2Fbjhp.12417&volume=25&issue=3&pages=474-501&publication\_year=2020&author=Keyworth%2CC&author=Epton%2CT&author=Goldthorpe%2CJ&author=Calam%2CR&author=Armitage%2CCJ)
-\* Kopcha, T. J. (2012). Teachers’ perceptions of the barriers to technology integration and practices with technology under situated professional development. \*Computers & Education,\*\*59\*(4), 1109–1121.
-[Article](https://doi.org/10.1016%2Fj.compedu.2012.05.014)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Teachers%E2%80%99%20perceptions%20of%20the%20barriers%20to%20technology%20integration%20and%20practices%20with%20technology%20under%20situated%20professional%20development&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2012.05.014&volume=59&issue=4&pages=1109-1121&publication\_year=2012&author=Kopcha%2CTJ)
-\* Kuhl, J. (2020). Philosophy of science, motivation and volition, and developing motivational assessment. \*Motivation Science,\*\*6\*(3), 189.
-[Article](https://doi.org/10.1037%2Fmot0000184)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Philosophy%20of%20science%2C%20motivation%20and%20volition%2C%20and%20developing%20motivational%20assessment&journal=Motivation%20Science&doi=10.1037%2Fmot0000184&volume=6&issue=3&publication\_year=2020&author=Kuhl%2CJ)
-\* Kwon, H. R., & Silva, E. A. (2020). Mapping the landscape of behavioral theories: Systematic literature review. \*Journal of Planning Literature,\*\*35\*(2), 161–179.
-[Article](https://doi.org/10.1177%2F0885412219881135)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Mapping%20the%20landscape%20of%20behavioral%20theories%3A%20Systematic%20literature%20review&journal=Journal%20of%20Planning%20Literature&doi=10.1177%2F0885412219881135&volume=35&issue=2&pages=161-179&publication\_year=2020&author=Kwon%2CHR&author=Silva%2CEA)
-\* Lai, C., Wang, Q., & Huang, X. (2022). The differential interplay of TPACK, teacher beliefs, school culture and professional development with the nature of in-service EFL teachers’ technology adoption. \*British Journal of Educational Technology,\*\*53\*(5), 1389–1411. 
-[Article](https://doi.org/10.1111%2Fbjet.13200)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20differential%20interplay%20of%20TPACK%2C%20teacher%20beliefs%2C%20school%20culture%20and%20professional%20development%20with%20the%20nature%20of%20in-service%20EFL%20teachers%E2%80%99%20technology%20adoption&journal=British%20Journal%20of%20Educational%20Technology&doi=10.1111%2Fbjet.13200&volume=53&issue=5&pages=1389-1411&publication\_year=2022&author=Lai%2CC&author=Wang%2CQ&author=Huang%2CX)
-\* Lantz, M. E., & Stawiski, A. (2014). Effectiveness of clickers: Effect of feedback and the timing of questions on learning. \*Computers in Human Behavior,\*\*31\*, 280–286.
-[Article](https://doi.org/10.1016%2Fj.chb.2013.10.009)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Effectiveness%20of%20clickers%3A%20Effect%20of%20feedback%20and%20the%20timing%20of%20questions%20on%20learning&journal=Computers%20in%20Human%20Behavior&doi=10.1016%2Fj.chb.2013.10.009&volume=31&pages=280-286&publication\_year=2014&author=Lantz%2CME&author=Stawiski%2CA)
-\* Lee, C.-S., Wang, M.-H., Ciou, Z.-H., Chang, R.-P., Tsai, C.-H., Chen, S.-C., Huang, T.-X., Sato-Shimokawara, E., & Yamaguchi, T. (2021). Robotic assistant agent for student and machine co-learning on AI-FML practice with AIoT application. In \*Proceedings of the 2021 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)\*.
-\* Ling Koh, J. H., Chai, C. S., & Tay, L. Y. (2014). TPACK-in-Action: Unpacking the contextual influences of teachers’ construction of technological pedagogical content knowledge (TPACK). \*Computers & Education,\*\*78\*, 20–29. 
-[Article](https://doi.org/10.1016%2Fj.compedu.2014.04.022)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=TPACK-in-Action%3A%20Unpacking%20the%20contextual%20influences%20of%20teachers%E2%80%99%20construction%20of%20technological%20pedagogical%20content%20knowledge%20%28TPACK%29&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2014.04.022&volume=78&pages=20-29&publication\_year=2014&author=Ling%20Koh%2CJH&author=Chai%2CCS&author=Tay%2CLY)
-\* Lu, G., Liu, Q., Xie, K., Long, T., & Zheng, X. (2023). Quality or quantity: How do teachers’ knowledge and beliefs persuade them to engage in technology integration in a massive government-led training programme? \*The Asia-Pacific Education Researcher,\*\*32\*(4), 459–471.
-[Article](https://link.springer.com/doi/10.1007/s40299-022-00668-z)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Quality%20or%20quantity%3A%20How%20do%20teachers%E2%80%99%20knowledge%20and%20beliefs%20persuade%20them%20to%20engage%20in%20technology%20integration%20in%20a%20massive%20government-led%20training%20programme%3F&journal=The%20Asia-Pacific%20Education%20Researcher&doi=10.1007%2Fs40299-022-00668-z&volume=32&issue=4&pages=459-471&publication\_year=2023&author=Lu%2CG&author=Liu%2CQ&author=Xie%2CK&author=Long%2CT&author=Zheng%2CX)
-\* Maity, I., Mandal, A., Roy, P., & Sarkar, S. K. (2025). AIoT in smart education systems. In M. U. Tariq (Ed.), \*Merging artificial intelligence with the internet of things\* (pp. 299–328). IGI Global Scientific Publishing.
-[Chapter](https://doi.org/10.4018%2F979-8-3693-8547-0.ch010)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=AIoT%20in%20smart%20education%20systems&doi=10.4018%2F979-8-3693-8547-0.ch010&pages=299-328&publication\_year=2025&author=Maity%2CI&author=Mandal%2CA&author=Roy%2CP&author=Sarkar%2CSK)
-\* Maričić, M., Anđić, B., Mumcu, F., Rokos, L., Vondruška, J., Weinhandl, R., Lavicza, Z., & Špernjak, A. (2024). Evaluating the quality of technology integration across seven European countries with the ICAP Technology Scale. \*Journal of Computers in Education\*. 
-[Article](https://link.springer.com/doi/10.1007/s40692-024-00341-y)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Evaluating%20the%20quality%20of%20technology%20integration%20across%20seven%20European%20countries%20with%20the%20ICAP%20Technology%20Scale&journal=Journal%20of%20Computers%20in%20Education&doi=10.1007%2Fs40692-024-00341-y&publication\_year=2024&author=Mari%C4%8Di%C4%87%2CM&author=An%C4%91i%C4%87%2CB&author=Mumcu%2CF&author=Rokos%2CL&author=Vondru%C5%A1ka%2CJ&author=Weinhandl%2CR&author=Lavicza%2CZ&author=%C5%A0pernjak%2CA)
-\* McDonagh, L. K., Saunders, J. M., Cassell, J., Curtis, T., Bastaki, H., Hartney, T., & Rait, G. (2018). Application of the COM-B model to barriers and facilitators to chlamydia testing in general practice for young people and primary care practitioners: A systematic review. \*Implementation Science,\*\*13\*(1), 130.
-[Article](https://link.springer.com/doi/10.1186/s13012-018-0821-y)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Application%20of%20the%20COM-B%20model%20to%20barriers%20and%20facilitators%20to%20chlamydia%20testing%20in%20general%20practice%20for%20young%20people%20and%20primary%20care%20practitioners%3A%20A%20systematic%20review&journal=Implementation%20Science&doi=10.1186%2Fs13012-018-0821-y&volume=13&issue=1&publication\_year=2018&author=McDonagh%2CLK&author=Saunders%2CJM&author=Cassell%2CJ&author=Curtis%2CT&author=Bastaki%2CH&author=Hartney%2CT&author=Rait%2CG)
-\* Michie, S., Van Stralen, M. M., & West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. \*Implementation Science,\*\*6\*(1), 42.
-[Article](https://link.springer.com/doi/10.1186/1748-5908-6-42)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20behaviour%20change%20wheel%3A%20A%20new%20method%20for%20characterising%20and%20designing%20behaviour%20change%20interventions&journal=Implementation%20Science&doi=10.1186%2F1748-5908-6-42&volume=6&issue=1&publication\_year=2011&author=Michie%2CS&author=Stralen%2CMM&author=West%2CR)
-\* Nikolopoulou, K., Gialamas, V., & Lavidas, K. (2021). Habit, hedonic motivation, performance expectancy and technological pedagogical knowledge affect teachers’ intention to use mobile internet. \*Computers and Education Open,\*\*2\*, Article 100041.
-[Article](https://doi.org/10.1016%2Fj.caeo.2021.100041)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Habit%2C%20hedonic%20motivation%2C%20performance%20expectancy%20and%20technological%20pedagogical%20knowledge%20affect%20teachers%E2%80%99%20intention%20to%20use%20mobile%20internet&journal=Computers%20and%20Education%20Open&doi=10.1016%2Fj.caeo.2021.100041&volume=2&publication\_year=2021&author=Nikolopoulou%2CK&author=Gialamas%2CV&author=Lavidas%2CK)
-\* Norman, G. (2010). Likert scales, levels of measurement and the “laws” of statistics. \*Advances in Health Sciences Education,\*\*15\*(5), 625–632.
-[Article](https://link.springer.com/doi/10.1007/s10459-010-9222-y)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Likert%20scales%2C%20levels%20of%20measurement%20and%20the%20%E2%80%9Claws%E2%80%9D%20of%20statistics&journal=Advances%20in%20Health%20Sciences%20Education&doi=10.1007%2Fs10459-010-9222-y&volume=15&issue=5&pages=625-632&publication\_year=2010&author=Norman%2CG)
-\* OECD. (2015). \*Students, computers and learning: Making the connection\*. 
-\* Olszewski, B., & Crompton, H. (2020). Educational technology conditions to support the development of digital age skills. \*Computers & Education,\*\*150\*, Article 103849.
-[Article](https://doi.org/10.1016%2Fj.compedu.2020.103849)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Educational%20technology%20conditions%20to%20support%20the%20development%20of%20digital%20age%20skills&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2020.103849&volume=150&publication\_year=2020&author=Olszewski%2CB&author=Crompton%2CH)
-\* Ozili, P. K. (2023). The acceptable R-square in empirical modelling for social science research. \*Social research methodology and publishing results: A guide to non-native English speakers\* (pp. 134–143). IGI global.
-[Chapter](https://doi.org/10.4018%2F978-1-6684-6859-3.ch009)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20acceptable%20R-square%20in%20empirical%20modelling%20for%20social%20science%20research&doi=10.4018%2F978-1-6684-6859-3.ch009&pages=134-143&publication\_year=2023&author=Ozili%2CPK)
-\* Passey, D. (2020). Theories, theoretical and conceptual frameworks, models and constructs: Limiting research outcomes through misconceptions and misunderstandings. \*Studies in Technology Enhanced Learning\*. 
-[Article](https://doi.org/10.21428%2F8c225f6e.56810a1a)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Theories%2C%20theoretical%20and%20conceptual%20frameworks%2C%20models%20and%20constructs%3A%20Limiting%20research%20outcomes%20through%20misconceptions%20and%20misunderstandings&journal=Studies%20in%20Technology%20Enhanced%20Learning&doi=10.21428%2F8c225f6e.56810a1a&publication\_year=2020&author=Passey%2CD)
-\* Patel, K. M., & Burgsteiner, H. (2025). Next-Gen IoT teaching and learning platform with AIoT development Kit and IoT cloud. In T. Bastiaens (Ed.), \*Proceedings of EdMedia + innovate learning\* (pp. 374–379). AACE.
-[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Next-Gen%20IoT%20teaching%20and%20learning%20platform%20with%20AIoT%20development%20Kit%20and%20IoT%20cloud&pages=374-379&publication\_year=2025&author=Patel%2CKM&author=Burgsteiner%2CH)
-\* Sawyer, R. K. (2022). The learning sciences in the 2020s: implications for schools and beyond. In R. K. Sawyer (Ed.), \*The Cambridge handbook of the learning sciences\* (pp. 658–686). Cambridge University Press.
-[Chapter](https://doi.org/10.1017%2F9781108888295.040)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20learning%20sciences%20in%20the%202020s%3A%20implications%20for%20schools%20and%20beyond&doi=10.1017%2F9781108888295.040&pages=658-686&publication\_year=2022&author=Sawyer%2CRK)
-\* Shen, W., Lin, X. F., Chiu, T. K., Chen, X., Xie, S., Chen, R., & Jiang, N. (2024). How school support and teacher perception affect teachers’ technology integration: A multilevel mediation model analysis. \*Education and Information Technologies,\*\*29\*(18), 25069–25091.
-[Article](https://link.springer.com/doi/10.1007/s10639-024-12802-z)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=How%20school%20support%20and%20teacher%20perception%20affect%20teachers%27%20technology%20integration%3A%20A%20multilevel%20mediation%20model%20analysis&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-12802-z&volume=29&issue=18&pages=25069-25091&publication\_year=2024&author=Shen%2CW&author=Lin%2CXF&author=Chiu%2CTK&author=Chen%2CX&author=Xie%2CS&author=Chen%2CR&author=Jiang%2CN)
-\* Shrout, P. E., & Bolger, N. (2002). Mediation in experimental and nonexperimental studies: New procedures and recommendations. \*Psychological Methods,\*\*7\*(4), 422–445.
-[Article](https://doi.org/10.1037%2F1082-989X.7.4.422)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Mediation%20in%20experimental%20and%20nonexperimental%20studies%3A%20New%20procedures%20and%20recommendations&journal=Psychological%20Methods&doi=10.1037%2F1082-989X.7.4.422&volume=7&issue=4&pages=422-445&publication\_year=2002&author=Shrout%2CPE&author=Bolger%2CN)
-\* Sun, J., Wu, Q., Ma, Z., Zheng, W., & Hu, Y. (2025). Understanding pre-service teachers’ acceptance of generative artificial intelligence: An extended technology acceptance model approach. \*Educational Technology Research and Development\*. 
-[Article](https://link.springer.com/doi/10.1007/s11423-025-10495-w)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Understanding%20pre-service%20teachers%27%20acceptance%20of%20generative%20artificial%20intelligence%3A%20An%20extended%20technology%20acceptance%20model%20approach&journal=Educational%20Technology%20Research%20and%20Development&doi=10.1007%2Fs11423-025-10495-w&publication\_year=2025&author=Sun%2CJ&author=Wu%2CQ&author=Ma%2CZ&author=Zheng%2CW&author=Hu%2CY)
-\* Tabuenca, B., Uche-Soria, M., Greller, W., Hernández-Leo, D., Balcells-Falgueras, P., Gloor, P., & Garbajosa, J. (2024). Greening smart learning environments with artificial intelligence of things. \*Internet of Things,\*\*25\*, Article 101051. 
-[Article](https://doi.org/10.1016%2Fj.iot.2023.101051)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Greening%20smart%20learning%20environments%20with%20artificial%20intelligence%20of%20things&journal=Internet%20of%20Things&doi=10.1016%2Fj.iot.2023.101051&volume=25&publication\_year=2024&author=Tabuenca%2CB&author=Uche-Soria%2CM&author=Greller%2CW&author=Hern%C3%A1ndez-Leo%2CD&author=Balcells-Falgueras%2CP&author=Gloor%2CP&author=Garbajosa%2CJ)
-\* Teo, T., Sang, G., Mei, B., & Hoi, C. K. W. (2019). Investigating pre-service teachers’ acceptance of Web 2.0 technologies in their future teaching: A Chinese perspective. \*Interactive Learning Environments,\*\*27\*(4), 530–546. 
-[Article](https://doi.org/10.1080%2F10494820.2018.1489290)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Investigating%20pre-service%20teachers%E2%80%99%20acceptance%20of%20Web%202.0%20technologies%20in%20their%20future%20teaching%3A%20A%20Chinese%20perspective&journal=Interactive%20Learning%20Environments&doi=10.1080%2F10494820.2018.1489290&volume=27&issue=4&pages=530-546&publication\_year=2019&author=Teo%2CT&author=Sang%2CG&author=Mei%2CB&author=Hoi%2CCKW)
-\* Thien, L. M., & Liu, P. (2024). Linear and nonlinear relationships between instructional leadership and teacher professional learning through teacher self-efficacy as a mediator: A partial least squares analysis. \*Humanities and Social Sciences Communications,\*\*11\*(1), Article 7. 
-[Article](https://doi.org/10.1057%2Fs41599-023-02500-5)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Linear%20and%20nonlinear%20relationships%20between%20instructional%20leadership%20and%20teacher%20professional%20learning%20through%20teacher%20self-efficacy%20as%20a%20mediator%3A%20A%20partial%20least%20squares%20analysis&journal=Humanities%20and%20Social%20Sciences%20Communications&doi=10.1057%2Fs41599-023-02500-5&volume=11&issue=1&publication\_year=2024&author=Thien%2CLM&author=Liu%2CP)
-\* Toro-Troconis, M., Voce, J., Alexander, J., Vasant, S., & Frutos-Perez, M. (2021). Using behaviour change as a critical frame of reference to understand the adoption of learning design methodologies in higher education. \*World Journal of Education\*. 
-[Article](https://doi.org/10.5430%2Fwje.v11n2p1)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Using%20behaviour%20change%20as%20a%20critical%20frame%20of%20reference%20to%20understand%20the%20adoption%20of%20learning%20design%20methodologies%20in%20higher%20education&journal=World%20Journal%20of%20Education&doi=10.5430%2Fwje.v11n2p1&publication\_year=2021&author=Toro-Troconis%2CM&author=Voce%2CJ&author=Alexander%2CJ&author=Vasant%2CS&author=Frutos-Perez%2CM)
-\* Vongkulluksn, V., Lu, L., & Xie, K. (2019). Bloom’s digital taxonomy scale: A validation study. Annual meeting of the American Educational Research Association.
-\* Vongkulluksn, V. W., Xie, K., & Bowman, M. A. (2018). The role of value on teachers’ internalization of external barriers and externalization of personal beliefs for classroom technology integration. \*Computers & Education,\*\*118\*, 70–81. 
-[Article](https://doi.org/10.1016%2Fj.compedu.2017.11.009)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20role%20of%20value%20on%20teachers%E2%80%99%20internalization%20of%20external%20barriers%20and%20externalization%20of%20personal%20beliefs%20for%20classroom%20technology%20integration&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2017.11.009&volume=118&pages=70-81&publication\_year=2018&author=Vongkulluksn%2CVW&author=Xie%2CK&author=Bowman%2CMA)
-\* Wang, J., Wu, L., Fan, G., & Ji, Y. (2025). The mediating effect of self-efficacy on adherence to pelvic floor muscle training: An analysis based on the COM-B model. \*European Journal of Obstetrics & Gynecology and Reproductive Biology,\*\*312\*, Article 114514. 
-[Article](https://doi.org/10.1016%2Fj.ejogrb.2025.114514)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20mediating%20effect%20of%20self-efficacy%20on%20adherence%20to%20pelvic%20floor%20muscle%20training%3A%20An%20analysis%20based%20on%20the%20COM-B%20model&journal=European%20Journal%20of%20Obstetrics%20%26%20Gynecology%20and%20Reproductive%20Biology&doi=10.1016%2Fj.ejogrb.2025.114514&volume=312&publication\_year=2025&author=Wang%2CJ&author=Wu%2CL&author=Fan%2CG&author=Ji%2CY)
-\* Wigfield, A. (1994). Expectancy-value theory of achievement motivation: A developmental perspective. \*Educational Psychology Review,\*\*6\*(1), 49–78.
-[Article](https://link.springer.com/doi/10.1007/BF02209024)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Expectancy-value%20theory%20of%20achievement%20motivation%3A%20A%20developmental%20perspective&journal=Educational%20Psychology%20Review&doi=10.1007%2FBF02209024&volume=6&issue=1&pages=49-78&publication\_year=1994&author=Wigfield%2CA)
-\* Willmott, T. J., Pang, B., & Rundle-Thiele, S. (2021). Capability, opportunity, and motivation: An across contexts empirical examination of the COM-B model. \*BMC Public Health,\*\*21\*(1), Article 1014.
-[Article](https://link.springer.com/doi/10.1186/s12889-021-11019-w)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Capability%2C%20opportunity%2C%20and%20motivation%3A%20An%20across%20contexts%20empirical%20examination%20of%20the%20COM-B%20model&journal=BMC%20Public%20Health&doi=10.1186%2Fs12889-021-11019-w&volume=21&issue=1&publication\_year=2021&author=Willmott%2CTJ&author=Pang%2CB&author=Rundle-Thiele%2CS)
-\* Wilson, C., Broughan, C., & Marselle, M. (2019). A new framework for the design and evaluation of a learning institution’s student engagement activities. \*Studies in Higher Education,\*\*44\*(11), 1931–1944.
-[Article](https://doi.org/10.1080%2F03075079.2018.1469123)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20new%20framework%20for%20the%20design%20and%20evaluation%20of%20a%20learning%20institution%E2%80%99s%20student%20engagement%20activities&journal=Studies%20in%20Higher%20Education&doi=10.1080%2F03075079.2018.1469123&volume=44&issue=11&pages=1931-1944&publication\_year=2019&author=Wilson%2CC&author=Broughan%2CC&author=Marselle%2CM)
-\* Wood, T., Cobb, P., & Yackel, E. (1990). The contextual nature of teaching: Mathematics and reading instruction in one second-grade classroom. \*The Elementary School Journal,\*\*90\*(5), 497–513.
-[Article](https://doi.org/10.1086%2F461629)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20contextual%20nature%20of%20teaching%3A%20Mathematics%20and%20reading%20instruction%20in%20one%20second-grade%20classroom&journal=The%20Elementary%20School%20Journal&doi=10.1086%2F461629&volume=90&issue=5&pages=497-513&publication\_year=1990&author=Wood%2CT&author=Cobb%2CP&author=Yackel%2CE)
-\* Xia, Y., Patthoff, A., Balloffet, L., Bravo, M. A., & Téllez, K. (2025). Beyond boundaries: Leveraging technology for differentiated professional development with lesson study video club. \*Educational Technology Research and Development\*. 
-[Article](https://link.springer.com/doi/10.1007/s11423-025-10524-8)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Beyond%20boundaries%3A%20Leveraging%20technology%20for%20differentiated%20professional%20development%20with%20lesson%20study%20video%20club&journal=Educational%20Technology%20Research%20and%20Development&doi=10.1007%2Fs11423-025-10524-8&publication\_year=2025&author=Xia%2CY&author=Patthoff%2CA&author=Balloffet%2CL&author=Bravo%2CMA&author=T%C3%A9llez%2CK)
-\* Zhao, J., Xu, M., & Wang, X. (2024). A novel dataset based on indoor teacher-student interactive mode using AIoT. \*Internet of Things,\*\*25\*, Article 101044. 
-[Article](https://doi.org/10.1016%2Fj.iot.2023.101044)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20novel%20dataset%20based%20on%20indoor%20teacher-student%20interactive%20mode%20using%20AIoT&journal=Internet%20of%20Things&doi=10.1016%2Fj.iot.2023.101044&volume=25&publication\_year=2024&author=Zhao%2CJ&author=Xu%2CM&author=Wang%2CX)
-\* Zheng, S., Yang, Q., Wang, X., Zhang, X., & Zhou, Q. (2022). Capability, opportunity, motivation, and hand hygiene behavior in healthcare workers: A structural equation modeling. \*Psychology Research and Behavior Management\*. 
-[Article](https://doi.org/10.2147%2Fprbm.s373287)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Capability%2C%20opportunity%2C%20motivation%2C%20and%20hand%20hygiene%20behavior%20in%20healthcare%20workers%3A%20A%20structural%20equation%20modeling&journal=Psychology%20Research%20and%20Behavior%20Management&doi=10.2147%2Fprbm.s373287&publication\_year=2022&author=Zheng%2CS&author=Yang%2CQ&author=Wang%2CX&author=Zhang%2CX&author=Zhou%2CQ)
+
+References
+----------
+
+* Acosta-Enriquez, B. G., Villena Zapata, L. I., Huamaní Jordan, O., López Roca, C., Cabrera Cipirán, B. M., Saavedra Villacrez, W., & Arbulu Perez Vargas, C. G. (2025). Acceptance of artificial intelligence as a teaching strategy among university professors: The role of habit, hedonic motivation, and competence for technology integration. *Human Behavior and Emerging Technologies,* *2025*(1), Article 5933157.
+  
+  [Article](https://doi.org/10.1155%2Fhbe2%2F5933157) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Acceptance%20of%20artificial%20intelligence%20as%20a%20teaching%20strategy%20among%20university%20professors%3A%20The%20role%20of%20habit%2C%20hedonic%20motivation%2C%20and%20competence%20for%20technology%20integration.&journal=Human%20Behavior%20and%20Emerging%20Technologies&doi=10.1155%2Fhbe2%2F5933157&volume=2025&issue=1&publication_year=2025&author=Acosta-Enriquez%2CBG&author=Villena%20Zapata%2CLI&author=Huaman%C3%AD%20Jordan%2CO&author=L%C3%B3pez%20Roca%2CC&author=Cabrera%20Cipir%C3%A1n%2CBM&author=Saavedra%20Villacrez%2CW&author=Arbulu%20Perez%20Vargas%2CCG)
+* Akcaoglu, M., & Akcaoglu, M. O. (2022). Understanding the relationship among self-efficacy, utility value, and the community of inquiry framework in preservice teacher education. *The International Review of Research in Open and Distributed Learning,* *23*(2), 86–106. <https://doi.org/10.19173/irrodl.v23i1.5717>
+  
+  [Article](https://doi.org/10.19173%2Firrodl.v23i1.5717) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Understanding%20the%20relationship%20among%20self-efficacy%2C%20utility%20value%2C%20and%20the%20community%20of%20inquiry%20framework%20in%20preservice%20teacher%20education.&journal=The%20International%20Review%20of%20Research%20in%20Open%20and%20Distributed%20Learning&doi=10.19173%2Firrodl.v23i1.5717&volume=23&issue=2&pages=86-106&publication_year=2022&author=Akcaoglu%2CM&author=Akcaoglu%2CMO)
+* An, X., Chai, C. S., Li, Y., Zhou, Y., Shen, X., Zheng, C., & Chen, M. (2023). Modeling English teachers’ behavioral intention to use artificial intelligence in middle schools. *Education and Information Technologies,* *28*(5), 5187–5208.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-022-11286-z) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Modeling%20English%20teachers%E2%80%99%20behavioral%20intention%20to%20use%20artificial%20intelligence%20in%20middle%20schools&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-022-11286-z&volume=28&issue=5&pages=5187-5208&publication_year=2023&author=An%2CX&author=Chai%2CCS&author=Li%2CY&author=Zhou%2CY&author=Shen%2CX&author=Zheng%2CC&author=Chen%2CM)
+* Anderson, L., & Krathwohl, D. (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives (Completed)*. Longman.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20taxonomy%20for%20learning%2C%20teaching%2C%20and%20assessing%3A%20A%20revision%20of%20Bloom%E2%80%99s%20taxonomy%20of%20educational%20objectives%20%28Completed%29&publication_year=2001&author=Anderson%2CL&author=Krathwohl%2CD)
+* Antonietti, C., Schmitz, M.-L., Consoli, T., Cattaneo, A., Gonon, P., & Petko, D. (2023). Development and validation of the ICAP Technology Scale to measure how teachers integrate technology into learning activities. *Computers & Education,* *192*, Article 104648. <https://doi.org/10.1016/j.compedu.2022.104648>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2022.104648) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Development%20and%20validation%20of%20the%20ICAP%20Technology%20Scale%20to%20measure%20how%20teachers%20integrate%20technology%20into%20learning%20activities&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2022.104648&volume=192&publication_year=2023&author=Antonietti%2CC&author=Schmitz%2CM-L&author=Consoli%2CT&author=Cattaneo%2CA&author=Gonon%2CP&author=Petko%2CD)
+* Antonietti, C., Schmitz, M. L., Consoli, T., Cattaneo, A., Gonon, P., & Petko, D. (2025). Examining technology integration in upper secondary schools: A comparative analysis across school programs and subjects. *Technology Knowledge and Learning*. <https://doi.org/10.1007/s10758-025-09889-9>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10758-025-09889-9) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Examining%20technology%20integration%20in%20upper%20secondary%20schools%3A%20A%20comparative%20analysis%20across%20school%20programs%20and%20subjects&journal=Technology%20Knowledge%20and%20Learning&doi=10.1007%2Fs10758-025-09889-9&publication_year=2025&author=Antonietti%2CC&author=Schmitz%2CML&author=Consoli%2CT&author=Cattaneo%2CA&author=Gonon%2CP&author=Petko%2CD)
+* Ayton, D., Hillman, C., Hatzikiriakidis, K., Tsindos, T., Sadasivan, S., Maloney, S., Bragge, P., Diug, B., & Illic, D. (2022). Why do students plagiarise? Informing higher education teaching and learning policy and practice. *Studies in Higher Education,* *47*(9), 1921–1934. <https://doi.org/10.1080/03075079.2021.1985103>
+  
+  [Article](https://doi.org/10.1080%2F03075079.2021.1985103) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Why%20do%20students%20plagiarise%3F%20Informing%20higher%20education%20teaching%20and%20learning%20policy%20and%20practice&journal=Studies%20in%20Higher%20Education&doi=10.1080%2F03075079.2021.1985103&volume=47&issue=9&pages=1921-1934&publication_year=2022&author=Ayton%2CD&author=Hillman%2CC&author=Hatzikiriakidis%2CK&author=Tsindos%2CT&author=Sadasivan%2CS&author=Maloney%2CS&author=Bragge%2CP&author=Diug%2CB&author=Illic%2CD)
+* Backfisch, I., Lachner, A., Stürmer, K., & Scheiter, K. (2021). Variability of teachers’ technology integration in the classroom: A matter of utility! *Computers & Education,* *166*, Article 104159. <https://doi.org/10.1016/j.compedu.2021.104159>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2021.104159) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Variability%20of%20teachers%E2%80%99%20technology%20integration%20in%20the%20classroom%3A%20A%20matter%20of%20utility%21&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2021.104159&volume=166&publication_year=2021&author=Backfisch%2CI&author=Lachner%2CA&author=St%C3%BCrmer%2CK&author=Scheiter%2CK)
+* Banihashem, S. K., Gašević, D., & Noroozi, O. (2025). A critical review of using learning analytics for formative assessment: Progress, pitfalls and path forward. *Journal of Computer Assisted Learning,* *41*(3), Article e70056.
+  
+  [Article](https://doi.org/10.1111%2Fjcal.70056) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20critical%20review%20of%20using%20learning%20analytics%20for%20formative%20assessment%3A%20Progress%2C%20pitfalls%20and%20path%20forward&journal=Journal%20of%20Computer%20Assisted%20Learning&doi=10.1111%2Fjcal.70056&volume=41&issue=3&publication_year=2025&author=Banihashem%2CSK&author=Ga%C5%A1evi%C4%87%2CD&author=Noroozi%2CO)
+* Blanch, A., & Aluja, A. (2013). A regression tree of the aptitudes, personality, and academic performance relationship. *Personality and Individual Differences,* *54*(6), 703–708.
+  
+  [Article](https://doi.org/10.1016%2Fj.paid.2012.11.032) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20regression%20tree%20of%20the%20aptitudes%2C%20personality%2C%20and%20academic%20performance%20relationship&journal=Personality%20and%20Individual%20Differences&doi=10.1016%2Fj.paid.2012.11.032&volume=54&issue=6&pages=703-708&publication_year=2013&author=Blanch%2CA&author=Aluja%2CA)
+* Bloom, B. (1956). *Taxonomy of educational objectives: The classification of educational goals* (1st ed.). Longmans, Green.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Taxonomy%20of%20educational%20objectives%3A%20The%20classification%20of%20educational%20goals&publication_year=1956&author=Bloom%2CB)
+* Bowman, M. A., Vongkulluksn, V. W., Jiang, Z., & Xie, K. (2022). Teachers’ exposure to professional development and the quality of their instructional technology use: The mediating role of teachers’ value and ability beliefs. *Journal of Research on Technology in Education,* *54*(2), 188–204.
+  
+  [Article](https://doi.org/10.1080%2F15391523.2020.1830895) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teachers%E2%80%99%20exposure%20to%20professional%20development%20and%20the%20quality%20of%20their%20instructional%20technology%20use%3A%20The%20mediating%20role%20of%20teachers%E2%80%99%20value%20and%20ability%20beliefs&journal=Journal%20of%20Research%20on%20Technology%20in%20Education&doi=10.1080%2F15391523.2020.1830895&volume=54&issue=2&pages=188-204&publication_year=2022&author=Bowman%2CMA&author=Vongkulluksn%2CVW&author=Jiang%2CZ&author=Xie%2CK)
+* Brown, C. E., Richardson, K., Halil-Pizzirani, B., Atkins, L., Yücel, M., & Segrave, R. A. (2024). Key influences on university students’ physical activity: A systematic review using the theoretical domains framework and the COM-B model of human behaviour. *BMC Public Health,* *24*(1), Article 418.
+  
+  [Article](https://link.springer.com/doi/10.1186/s12889-023-17621-4) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Key%20influences%20on%20university%20students%27%20physical%20activity%3A%20A%20systematic%20review%20using%20the%20theoretical%20domains%20framework%20and%20the%20COM-B%20model%20of%20human%20behaviour&journal=BMC%20Public%20Health&doi=10.1186%2Fs12889-023-17621-4&volume=24&issue=1&publication_year=2024&author=Brown%2CCE&author=Richardson%2CK&author=Halil-Pizzirani%2CB&author=Atkins%2CL&author=Y%C3%BCcel%2CM&author=Segrave%2CRA)
+* Cai, Y., Yang, Y., & Shi, W. (2022). A predictive model of the knowledge-sharing intentions of social Q&A community members: A regression tree approach. *International Journal of Human–computer Interaction,* *38*(4), 324–338.
+  
+  [Article](https://doi.org/10.1080%2F10447318.2021.1938393) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20predictive%20model%20of%20the%20knowledge-sharing%20intentions%20of%20social%20Q%26A%20community%20members%3A%20A%20regression%20tree%20approach&journal=International%20Journal%20of%20Human%E2%80%93computer%20Interaction&doi=10.1080%2F10447318.2021.1938393&volume=38&issue=4&pages=324-338&publication_year=2022&author=Cai%2CY&author=Yang%2CY&author=Shi%2CW)
+* Carter, E., Onwuegbuzie, A., Singal, N., & van der Velde, L. (2021). Perceptions of teaching quality in Rwandan secondary schools: A contextual analysis. *International Journal of Educational Research,* *109*, Article 101843. <https://doi.org/10.1016/j.ijer.2021.101843>
+  
+  [Article](https://doi.org/10.1016%2Fj.ijer.2021.101843) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Perceptions%20of%20teaching%20quality%20in%20Rwandan%20secondary%20schools%3A%20A%20contextual%20analysis&journal=International%20Journal%20of%20Educational%20Research&doi=10.1016%2Fj.ijer.2021.101843&volume=109&publication_year=2021&author=Carter%2CE&author=Onwuegbuzie%2CA&author=Singal%2CN&author=Velde%2CL)
+* Chadha, A., & Kaushik, B. (2022). A hybrid deep learning model using grid search and cross-validation for effective classification and prediction of suicidal ideation from social network data. *New Generation Computing,* *40*(4), 889–914.
+  
+  [Article](https://link.springer.com/doi/10.1007/s00354-022-00191-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20hybrid%20deep%20learning%20model%20using%20grid%20search%20and%20cross-validation%20for%20effective%20classification%20and%20prediction%20of%20suicidal%20ideation%20from%20social%20network%20data&journal=New%20Generation%20Computing&doi=10.1007%2Fs00354-022-00191-1&volume=40&issue=4&pages=889-914&publication_year=2022&author=Chadha%2CA&author=Kaushik%2CB)
+* Chen, D., Zhang, H., Shao, J., Tang, L., Cui, N., Wang, X., Wu, J., Wang, D., & Ye, Z. (2023). Determinants of adherence to diet and exercise behaviours among individuals with metabolic syndrome based on the capability, opportunity, motivation, and behaviour model: A cross-sectional study. *European Journal of Cardiovascular Nursing,* *22*(2), 193–200.
+  
+  [Article](https://doi.org/10.1093%2Feurjcn%2Fzvac034) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Determinants%20of%20adherence%20to%20diet%20and%20exercise%20behaviours%20among%20individuals%20with%20metabolic%20syndrome%20based%20on%20the%20capability%2C%20opportunity%2C%20motivation%2C%20and%20behaviour%20model%3A%20A%20cross-sectional%20study&journal=European%20Journal%20of%20Cardiovascular%20Nursing&doi=10.1093%2Feurjcn%2Fzvac034&volume=22&issue=2&pages=193-200&publication_year=2023&author=Chen%2CD&author=Zhang%2CH&author=Shao%2CJ&author=Tang%2CL&author=Cui%2CN&author=Wang%2CX&author=Wu%2CJ&author=Wang%2CD&author=Ye%2CZ)
+* Cheng, L., Antonenko, P. D., & Ritzhaupt, A. D. (2024). The impact of teachers’ pedagogical beliefs, self-efficacy, and technology value beliefs on 3D printing integration in K-12 science classrooms. *Educational Technology Research and Development,* *72*(1), 181–208. <https://doi.org/10.1007/s11423-023-10276-3>
+  
+  [Article](https://link.springer.com/doi/10.1007/s11423-023-10276-3) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20impact%20of%20teachers%E2%80%99%20pedagogical%20beliefs%2C%20self-efficacy%2C%20and%20technology%20value%20beliefs%20on%203D%20printing%20integration%20in%20K-12%20science%20classrooms&journal=Educational%20Technology%20Research%20and%20Development&doi=10.1007%2Fs11423-023-10276-3&volume=72&issue=1&pages=181-208&publication_year=2024&author=Cheng%2CL&author=Antonenko%2CPD&author=Ritzhaupt%2CAD)
+* Cheng, S.-L., Lu, L., Xie, K., & Vongkulluksn, V. W. (2020). Understanding teacher technology integration from expectancy-value perspectives. *Teaching and Teacher Education,* *91*, Article 103062. <https://doi.org/10.1016/j.tate.2020.103062>
+  
+  [Article](https://doi.org/10.1016%2Fj.tate.2020.103062) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Understanding%20teacher%20technology%20integration%20from%20expectancy-value%20perspectives&journal=Teaching%20and%20Teacher%20Education&doi=10.1016%2Fj.tate.2020.103062&volume=91&publication_year=2020&author=Cheng%2CS-L&author=Lu%2CL&author=Xie%2CK&author=Vongkulluksn%2CVW)
+* Cheng, S.-L., & Xie, K. (2018). The relations among teacher value beliefs, personal characteristics, and TPACK in intervention and non-intervention settings. *Teaching and Teacher Education,* *74*, 98–113. <https://doi.org/10.1016/j.tate.2018.04.014>
+  
+  [Article](https://doi.org/10.1016%2Fj.tate.2018.04.014) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20relations%20among%20teacher%20value%20beliefs%2C%20personal%20characteristics%2C%20and%20TPACK%20in%20intervention%20and%20non-intervention%20settings&journal=Teaching%20and%20Teacher%20Education&doi=10.1016%2Fj.tate.2018.04.014&volume=74&pages=98-113&publication_year=2018&author=Cheng%2CS-L&author=Xie%2CK)
+* Chi, M. T., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Chi, M. T. H., Levy, R., Li, N., McEldoon, K. L., Stump, G. S., Wylie, R., Xu, D., & Yaghmourian, D. L. (2018). Translating the ICAP theory of cognitive engagement into practice. *Cognitive Science,* *42*(6), 1777–1832.
+  
+  [Article](https://doi.org/10.1111%2Fcogs.12626) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Translating%20the%20ICAP%20theory%20of%20cognitive%20engagement%20into%20practice&journal=Cognitive%20Science&doi=10.1111%2Fcogs.12626&volume=42&issue=6&pages=1777-1832&publication_year=2018&author=Chi%2CMT&author=Adams%2CJ&author=Bogusch%2CEB&author=Bruchok%2CC&author=Kang%2CS&author=Lancaster%2CM&author=Chi%2CMTH&author=Levy%2CR&author=Li%2CN&author=McEldoon%2CKL&author=Stump%2CGS&author=Wylie%2CR&author=Xu%2CD&author=Yaghmourian%2CDL)
+* Chi, M. T., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist,* *49*(4), 219–243.
+  
+  [Article](https://doi.org/10.1080%2F00461520.2014.965823) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20ICAP%20framework%3A%20Linking%20cognitive%20engagement%20to%20active%20learning%20outcomes&journal=Educational%20Psychologist&doi=10.1080%2F00461520.2014.965823&volume=49&issue=4&pages=219-243&publication_year=2014&author=Chi%2CMT&author=Wylie%2CR)
+* China’s Ministry of Education. (2018). *Notice of the Ministry of Education on the issuance of the “Education Informatization 2.0 Action Plan”.* <http://www.moe.gov.cn/srcsite/A16/s3342/201804/t20180425_334188.html>
+* Churches, A. (2010). *Bloom’s digital taxonomy*. Australian School Library Association NSW Inc.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Bloom%E2%80%99s%20digital%20taxonomy&publication_year=2010&author=Churches%2CA)
+* Consoli, T., Schmitz, M.-L., Antonietti, C., Gonon, P., Cattaneo, A., & Petko, D. (2025). Quality of technology integration matters: Positive associations with students’ behavioral engagement and digital competencies for learning. *Education and Information Technologies,* *30*(6), 7719–7752. <https://doi.org/10.1007/s10639-024-13118-8>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-024-13118-8) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Quality%20of%20technology%20integration%20matters%3A%20Positive%20associations%20with%20students%E2%80%99%20behavioral%20engagement%20and%20digital%20competencies%20for%20learning&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-13118-8&volume=30&issue=6&pages=7719-7752&publication_year=2025&author=Consoli%2CT&author=Schmitz%2CM-L&author=Antonietti%2CC&author=Gonon%2CP&author=Cattaneo%2CA&author=Petko%2CD)
+* Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. *MIS Quarterly,* *13*, 319–340.
+  
+  [Article](https://doi.org/10.2307%2F249008) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Perceived%20usefulness%2C%20perceived%20ease%20of%20use%2C%20and%20user%20acceptance%20of%20information%20technology&journal=MIS%20Quarterly&doi=10.2307%2F249008&volume=13&pages=319-340&publication_year=1989&author=Davis%2CFD)
+* DiStefano, C., Zhu, M., & Mindrila, D. (2009). Understanding and using factor scores: Considerations for the applied researcher. *Practical Assessment Research and Evaluation,* *14*(1), 20.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Understanding%20and%20using%20factor%20scores%3A%20Considerations%20for%20the%20applied%20researcher&journal=Practical%20Assessment%20Research%20and%20Evaluation&volume=14&issue=1&publication_year=2009&author=DiStefano%2CC&author=Zhu%2CM&author=Mindrila%2CD)
+* Faber, J. M., & Visscher, A. J. (2018). The effects of a digital formative assessment tool on spelling achievement: Results of a randomized experiment. *Computers & Education,* *122*, 1–8.
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2018.03.008) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effects%20of%20a%20digital%20formative%20assessment%20tool%20on%20spelling%20achievement%3A%20Results%20of%20a%20randomized%20experiment&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2018.03.008&volume=122&pages=1-8&publication_year=2018&author=Faber%2CJM&author=Visscher%2CAJ)
+* Fu, H., Rao, J., Deng, F., Wang, Y., Zhao, B., Liu, Z., Guan, H., Malinowski, P. H., & Xu, L. (2025). AIoT: Artificial intelligence and the internet of things for monitoring and prognosis of systems and structures. *IEEE Transactions on Instrumentation and Measurement.*
+* Fütterer, T., Scheiter, K., Cheng, X., & Stürmer, K. (2022). Quality beats frequency? Investigating students’ effort in learning when introducing technology in classrooms. *Contemporary Educational Psychology,* *69*, Article 102042.
+  
+  [Article](https://doi.org/10.1016%2Fj.cedpsych.2022.102042) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Quality%20beats%20frequency%3F%20Investigating%20students%E2%80%99%20effort%20in%20learning%20when%20introducing%20technology%20in%20classrooms&journal=Contemporary%20Educational%20Psychology&doi=10.1016%2Fj.cedpsych.2022.102042&volume=69&publication_year=2022&author=F%C3%BCtterer%2CT&author=Scheiter%2CK&author=Cheng%2CX&author=St%C3%BCrmer%2CK)
+* Gibson Miller, J., Hartman, T. K., Levita, L., Martinez, A. P., Mason, L., McBride, O., McKay, R., Murphy, J., Shevlin, M., & Stocks, T. V. (2020). Capability, opportunity, and motivation to enact hygienic practices in the early stages of the COVID‐19 outbreak in the United Kingdom. *British Journal of Health Psychology,* *25*(4), 856–864.
+  
+  [Article](https://doi.org/10.1111%2Fbjhp.12426) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Capability%2C%20opportunity%2C%20and%20motivation%20to%20enact%20hygienic%20practices%20in%20the%20early%20stages%20of%20the%20COVID%E2%80%9019%20outbreak%20in%20the%20United%20Kingdom&journal=British%20Journal%20of%20Health%20Psychology&doi=10.1111%2Fbjhp.12426&volume=25&issue=4&pages=856-864&publication_year=2020&author=Gibson%20Miller%2CJ&author=Hartman%2CTK&author=Levita%2CL&author=Martinez%2CAP&author=Mason%2CL&author=McBride%2CO&author=McKay%2CR&author=Murphy%2CJ&author=Shevlin%2CM&author=Stocks%2CTV)
+* Gomes, C. M. A., Amantes, A., & Jelihovschi, E. G. (2020). Applying the regression tree method to predict students’ science achievement. *Trends in Psychology,* *28*(1), 99–117.
+  
+  [Article](https://doi.org/10.9788%2Fs43076-019-00002-5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Applying%20the%20regression%20tree%20method%20to%20predict%20students%E2%80%99%20science%20achievement&journal=Trends%20in%20Psychology&doi=10.9788%2Fs43076-019-00002-5&volume=28&issue=1&pages=99-117&publication_year=2020&author=Gomes%2CCMA&author=Amantes%2CA&author=Jelihovschi%2CEG)
+* Gomes, C. M. A., & Jelihovschi, E. (2020). Presenting the regression tree method and its application in a large-scale educational dataset. *International Journal of Research & Method in Education,* *43*(2), 201–221.
+  
+  [Article](https://doi.org/10.1080%2F1743727X.2019.1654992) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Presenting%20the%20regression%20tree%20method%20and%20its%20application%20in%20a%20large-scale%20educational%20dataset&journal=International%20Journal%20of%20Research%20%26%20Method%20in%20Education&doi=10.1080%2F1743727X.2019.1654992&volume=43&issue=2&pages=201-221&publication_year=2020&author=Gomes%2CCMA&author=Jelihovschi%2CE)
+* Guo, J. (2025). *From "Mountains and Seas" to the future: Smart education ensures every child is "Seen"*. qdcaijing. <https://www.qdcaijing.com/p/535707.html>
+* Han, L., Pan, B., Chen, Y., & Tang, J. (2025). A digital pen-based writing state recognition algorithm for student performance assessment. *Neural Computing and Applications,* *37*(19), 13309–13319.
+  
+  [Article](https://link.springer.com/doi/10.1007/s00521-024-09955-w) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20digital%20pen-based%20writing%20state%20recognition%20algorithm%20for%20student%20performance%20assessment&journal=Neural%20Computing%20and%20Applications&doi=10.1007%2Fs00521-024-09955-w&volume=37&issue=19&pages=13309-13319&publication_year=2025&author=Han%2CL&author=Pan%2CB&author=Chen%2CY&author=Tang%2CJ)
+* Hornstein, H. A. (2017). Student evaluations of teaching are an inadequate assessment tool for evaluating faculty performance. *Cogent Education,* *4*(1), Article 1304016.
+  
+  [Article](https://doi.org/10.1080%2F2331186X.2017.1304016) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Student%20evaluations%20of%20teaching%20are%20an%20inadequate%20assessment%20tool%20for%20evaluating%20faculty%20performance&journal=Cogent%20Education&doi=10.1080%2F2331186X.2017.1304016&volume=4&issue=1&publication_year=2017&author=Hornstein%2CHA)
+* Howlett, N., Schulz, J., Trivedi, D., Troop, N., & Chater, A. (2019). A prospective study exploring the construct and predictive validity of the COM-B model for physical activity. *Journal of Health Psychology,* *24*(10), 1378–1391.
+  
+  [Article](https://doi.org/10.1177%2F1359105317739098) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20prospective%20study%20exploring%20the%20construct%20and%20predictive%20validity%20of%20the%20COM-B%20model%20for%20physical%20activity&journal=Journal%20of%20Health%20Psychology&doi=10.1177%2F1359105317739098&volume=24&issue=10&pages=1378-1391&publication_year=2019&author=Howlett%2CN&author=Schulz%2CJ&author=Trivedi%2CD&author=Troop%2CN&author=Chater%2CA)
+* Hu, L. T., & Bentler, P. M. (1998). Fit indices in covariance structure modeling: Sensitivity to underparameterized model misspecification. *Psychological Methods,* *3*(4), 424.
+  
+  [Article](https://doi.org/10.1037%2F1082-989X.3.4.424) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Fit%20indices%20in%20covariance%20structure%20modeling%3A%20Sensitivity%20to%20underparameterized%20model%20misspecification&journal=Psychological%20Methods&doi=10.1037%2F1082-989X.3.4.424&volume=3&issue=4&publication_year=1998&author=Hu%2CLT&author=Bentler%2CPM)
+* Huang, Z.-E., Qiu, X., Yan, J., Liao, D.-D., Huang, H., Fu, Y.-Q., Liu, B.-R., Zhu, S.-C., & Yi, Q.-F. (2024). Structural equation modeling for associated factors with patient safety behaviors among nursing interns: A cross-sectional study based on the capability opportunity motivation-behavior model. *Nurse Education Today,* *132*, Article 105992.
+  
+  [Article](https://doi.org/10.1016%2Fj.nedt.2023.105992) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Structural%20equation%20modeling%20for%20associated%20factors%20with%20patient%20safety%20behaviors%20among%20nursing%20interns%3A%20A%20cross-sectional%20study%20based%20on%20the%20capability%20opportunity%20motivation-behavior%20model&journal=Nurse%20Education%20Today&doi=10.1016%2Fj.nedt.2023.105992&volume=132&publication_year=2024&author=Huang%2CZ-E&author=Qiu%2CX&author=Yan%2CJ&author=Liao%2CD-D&author=Huang%2CH&author=Fu%2CY-Q&author=Liu%2CB-R&author=Zhu%2CS-C&author=Yi%2CQ-F)
+* Jenßen, L., Gierlinger, F., & Eilerts, K. (2021). Pre-service teachers’ enjoyment and ICT teaching self-efficacy in mathematics–an application of control-value theory. *Journal of Digital Learning in Teacher Education,* *37*(3), 183–195.
+  
+  [Article](https://doi.org/10.1080%2F21532974.2021.1929585) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Pre-service%20teachers%E2%80%99%20enjoyment%20and%20ICT%20teaching%20self-efficacy%20in%20mathematics%E2%80%93an%20application%20of%20control-value%20theory&journal=Journal%20of%20Digital%20Learning%20in%20Teacher%20Education&doi=10.1080%2F21532974.2021.1929585&volume=37&issue=3&pages=183-195&publication_year=2021&author=Jen%C3%9Fen%2CL&author=Gierlinger%2CF&author=Eilerts%2CK)
+* Keyworth, C., Epton, T., Goldthorpe, J., Calam, R., & Armitage, C. J. (2020). Acceptability, reliability, and validity of a brief measure of capabilities, opportunities, and motivations (“COM-B”). *British Journal of Health Psychology,* *25*(3), 474–501.
+  
+  [Article](https://doi.org/10.1111%2Fbjhp.12417) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Acceptability%2C%20reliability%2C%20and%20validity%20of%20a%20brief%20measure%20of%20capabilities%2C%20opportunities%2C%20and%20motivations%20%28%E2%80%9CCOM-B%E2%80%9D%29&journal=British%20Journal%20of%20Health%20Psychology&doi=10.1111%2Fbjhp.12417&volume=25&issue=3&pages=474-501&publication_year=2020&author=Keyworth%2CC&author=Epton%2CT&author=Goldthorpe%2CJ&author=Calam%2CR&author=Armitage%2CCJ)
+* Kopcha, T. J. (2012). Teachers’ perceptions of the barriers to technology integration and practices with technology under situated professional development. *Computers & Education,* *59*(4), 1109–1121.
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2012.05.014) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teachers%E2%80%99%20perceptions%20of%20the%20barriers%20to%20technology%20integration%20and%20practices%20with%20technology%20under%20situated%20professional%20development&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2012.05.014&volume=59&issue=4&pages=1109-1121&publication_year=2012&author=Kopcha%2CTJ)
+* Kuhl, J. (2020). Philosophy of science, motivation and volition, and developing motivational assessment. *Motivation Science,* *6*(3), 189.
+  
+  [Article](https://doi.org/10.1037%2Fmot0000184) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Philosophy%20of%20science%2C%20motivation%20and%20volition%2C%20and%20developing%20motivational%20assessment&journal=Motivation%20Science&doi=10.1037%2Fmot0000184&volume=6&issue=3&publication_year=2020&author=Kuhl%2CJ)
+* Kwon, H. R., & Silva, E. A. (2020). Mapping the landscape of behavioral theories: Systematic literature review. *Journal of Planning Literature,* *35*(2), 161–179.
+  
+  [Article](https://doi.org/10.1177%2F0885412219881135) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mapping%20the%20landscape%20of%20behavioral%20theories%3A%20Systematic%20literature%20review&journal=Journal%20of%20Planning%20Literature&doi=10.1177%2F0885412219881135&volume=35&issue=2&pages=161-179&publication_year=2020&author=Kwon%2CHR&author=Silva%2CEA)
+* Lai, C., Wang, Q., & Huang, X. (2022). The differential interplay of TPACK, teacher beliefs, school culture and professional development with the nature of in-service EFL teachers’ technology adoption. *British Journal of Educational Technology,* *53*(5), 1389–1411. <https://doi.org/10.1111/bjet.13200>
+  
+  [Article](https://doi.org/10.1111%2Fbjet.13200) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20differential%20interplay%20of%20TPACK%2C%20teacher%20beliefs%2C%20school%20culture%20and%20professional%20development%20with%20the%20nature%20of%20in-service%20EFL%20teachers%E2%80%99%20technology%20adoption&journal=British%20Journal%20of%20Educational%20Technology&doi=10.1111%2Fbjet.13200&volume=53&issue=5&pages=1389-1411&publication_year=2022&author=Lai%2CC&author=Wang%2CQ&author=Huang%2CX)
+* Lantz, M. E., & Stawiski, A. (2014). Effectiveness of clickers: Effect of feedback and the timing of questions on learning. *Computers in Human Behavior,* *31*, 280–286.
+  
+  [Article](https://doi.org/10.1016%2Fj.chb.2013.10.009) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Effectiveness%20of%20clickers%3A%20Effect%20of%20feedback%20and%20the%20timing%20of%20questions%20on%20learning&journal=Computers%20in%20Human%20Behavior&doi=10.1016%2Fj.chb.2013.10.009&volume=31&pages=280-286&publication_year=2014&author=Lantz%2CME&author=Stawiski%2CA)
+* Lee, C.-S., Wang, M.-H., Ciou, Z.-H., Chang, R.-P., Tsai, C.-H., Chen, S.-C., Huang, T.-X., Sato-Shimokawara, E., & Yamaguchi, T. (2021). Robotic assistant agent for student and machine co-learning on AI-FML practice with AIoT application. In *Proceedings of the 2021 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)*.
+* Ling Koh, J. H., Chai, C. S., & Tay, L. Y. (2014). TPACK-in-Action: Unpacking the contextual influences of teachers’ construction of technological pedagogical content knowledge (TPACK). *Computers & Education,* *78*, 20–29. <https://doi.org/10.1016/j.compedu.2014.04.022>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2014.04.022) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=TPACK-in-Action%3A%20Unpacking%20the%20contextual%20influences%20of%20teachers%E2%80%99%20construction%20of%20technological%20pedagogical%20content%20knowledge%20%28TPACK%29&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2014.04.022&volume=78&pages=20-29&publication_year=2014&author=Ling%20Koh%2CJH&author=Chai%2CCS&author=Tay%2CLY)
+* Lu, G., Liu, Q., Xie, K., Long, T., & Zheng, X. (2023). Quality or quantity: How do teachers’ knowledge and beliefs persuade them to engage in technology integration in a massive government-led training programme? *The Asia-Pacific Education Researcher,* *32*(4), 459–471.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40299-022-00668-z) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Quality%20or%20quantity%3A%20How%20do%20teachers%E2%80%99%20knowledge%20and%20beliefs%20persuade%20them%20to%20engage%20in%20technology%20integration%20in%20a%20massive%20government-led%20training%20programme%3F&journal=The%20Asia-Pacific%20Education%20Researcher&doi=10.1007%2Fs40299-022-00668-z&volume=32&issue=4&pages=459-471&publication_year=2023&author=Lu%2CG&author=Liu%2CQ&author=Xie%2CK&author=Long%2CT&author=Zheng%2CX)
+* Maity, I., Mandal, A., Roy, P., & Sarkar, S. K. (2025). AIoT in smart education systems. In M. U. Tariq (Ed.), *Merging artificial intelligence with the internet of things* (pp. 299–328). IGI Global Scientific Publishing.
+  
+  [Chapter](https://doi.org/10.4018%2F979-8-3693-8547-0.ch010) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AIoT%20in%20smart%20education%20systems&doi=10.4018%2F979-8-3693-8547-0.ch010&pages=299-328&publication_year=2025&author=Maity%2CI&author=Mandal%2CA&author=Roy%2CP&author=Sarkar%2CSK)
+* Maričić, M., Anđić, B., Mumcu, F., Rokos, L., Vondruška, J., Weinhandl, R., Lavicza, Z., & Špernjak, A. (2024). Evaluating the quality of technology integration across seven European countries with the ICAP Technology Scale. *Journal of Computers in Education*. <https://doi.org/10.1007/s40692-024-00341-y>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40692-024-00341-y) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluating%20the%20quality%20of%20technology%20integration%20across%20seven%20European%20countries%20with%20the%20ICAP%20Technology%20Scale&journal=Journal%20of%20Computers%20in%20Education&doi=10.1007%2Fs40692-024-00341-y&publication_year=2024&author=Mari%C4%8Di%C4%87%2CM&author=An%C4%91i%C4%87%2CB&author=Mumcu%2CF&author=Rokos%2CL&author=Vondru%C5%A1ka%2CJ&author=Weinhandl%2CR&author=Lavicza%2CZ&author=%C5%A0pernjak%2CA)
+* McDonagh, L. K., Saunders, J. M., Cassell, J., Curtis, T., Bastaki, H., Hartney, T., & Rait, G. (2018). Application of the COM-B model to barriers and facilitators to chlamydia testing in general practice for young people and primary care practitioners: A systematic review. *Implementation Science,* *13*(1), 130.
+  
+  [Article](https://link.springer.com/doi/10.1186/s13012-018-0821-y) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Application%20of%20the%20COM-B%20model%20to%20barriers%20and%20facilitators%20to%20chlamydia%20testing%20in%20general%20practice%20for%20young%20people%20and%20primary%20care%20practitioners%3A%20A%20systematic%20review&journal=Implementation%20Science&doi=10.1186%2Fs13012-018-0821-y&volume=13&issue=1&publication_year=2018&author=McDonagh%2CLK&author=Saunders%2CJM&author=Cassell%2CJ&author=Curtis%2CT&author=Bastaki%2CH&author=Hartney%2CT&author=Rait%2CG)
+* Michie, S., Van Stralen, M. M., & West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. *Implementation Science,* *6*(1), 42.
+  
+  [Article](https://link.springer.com/doi/10.1186/1748-5908-6-42) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20behaviour%20change%20wheel%3A%20A%20new%20method%20for%20characterising%20and%20designing%20behaviour%20change%20interventions&journal=Implementation%20Science&doi=10.1186%2F1748-5908-6-42&volume=6&issue=1&publication_year=2011&author=Michie%2CS&author=Stralen%2CMM&author=West%2CR)
+* Nikolopoulou, K., Gialamas, V., & Lavidas, K. (2021). Habit, hedonic motivation, performance expectancy and technological pedagogical knowledge affect teachers’ intention to use mobile internet. *Computers and Education Open,* *2*, Article 100041.
+  
+  [Article](https://doi.org/10.1016%2Fj.caeo.2021.100041) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Habit%2C%20hedonic%20motivation%2C%20performance%20expectancy%20and%20technological%20pedagogical%20knowledge%20affect%20teachers%E2%80%99%20intention%20to%20use%20mobile%20internet&journal=Computers%20and%20Education%20Open&doi=10.1016%2Fj.caeo.2021.100041&volume=2&publication_year=2021&author=Nikolopoulou%2CK&author=Gialamas%2CV&author=Lavidas%2CK)
+* Norman, G. (2010). Likert scales, levels of measurement and the “laws” of statistics. *Advances in Health Sciences Education,* *15*(5), 625–632.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10459-010-9222-y) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Likert%20scales%2C%20levels%20of%20measurement%20and%20the%20%E2%80%9Claws%E2%80%9D%20of%20statistics&journal=Advances%20in%20Health%20Sciences%20Education&doi=10.1007%2Fs10459-010-9222-y&volume=15&issue=5&pages=625-632&publication_year=2010&author=Norman%2CG)
+* OECD. (2015). *Students, computers and learning: Making the connection*. <https://doi.org/10.1787/9789264239555-en>
+* Olszewski, B., & Crompton, H. (2020). Educational technology conditions to support the development of digital age skills. *Computers & Education,* *150*, Article 103849.
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2020.103849) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Educational%20technology%20conditions%20to%20support%20the%20development%20of%20digital%20age%20skills&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2020.103849&volume=150&publication_year=2020&author=Olszewski%2CB&author=Crompton%2CH)
+* Ozili, P. K. (2023). The acceptable R-square in empirical modelling for social science research. *Social research methodology and publishing results: A guide to non-native English speakers* (pp. 134–143). IGI global.
+  
+  [Chapter](https://doi.org/10.4018%2F978-1-6684-6859-3.ch009) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20acceptable%20R-square%20in%20empirical%20modelling%20for%20social%20science%20research&doi=10.4018%2F978-1-6684-6859-3.ch009&pages=134-143&publication_year=2023&author=Ozili%2CPK)
+* Passey, D. (2020). Theories, theoretical and conceptual frameworks, models and constructs: Limiting research outcomes through misconceptions and misunderstandings. *Studies in Technology Enhanced Learning*. <https://doi.org/10.21428/8c225f6e.56810a1a>
+  
+  [Article](https://doi.org/10.21428%2F8c225f6e.56810a1a) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Theories%2C%20theoretical%20and%20conceptual%20frameworks%2C%20models%20and%20constructs%3A%20Limiting%20research%20outcomes%20through%20misconceptions%20and%20misunderstandings&journal=Studies%20in%20Technology%20Enhanced%20Learning&doi=10.21428%2F8c225f6e.56810a1a&publication_year=2020&author=Passey%2CD)
+* Patel, K. M., & Burgsteiner, H. (2025). Next-Gen IoT teaching and learning platform with AIoT development Kit and IoT cloud. In T. Bastiaens (Ed.), *Proceedings of EdMedia + innovate learning* (pp. 374–379). AACE.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Next-Gen%20IoT%20teaching%20and%20learning%20platform%20with%20AIoT%20development%20Kit%20and%20IoT%20cloud&pages=374-379&publication_year=2025&author=Patel%2CKM&author=Burgsteiner%2CH)
+* Sawyer, R. K. (2022). The learning sciences in the 2020s: implications for schools and beyond. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 658–686). Cambridge University Press.
+  
+  [Chapter](https://doi.org/10.1017%2F9781108888295.040) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20learning%20sciences%20in%20the%202020s%3A%20implications%20for%20schools%20and%20beyond&doi=10.1017%2F9781108888295.040&pages=658-686&publication_year=2022&author=Sawyer%2CRK)
+* Shen, W., Lin, X. F., Chiu, T. K., Chen, X., Xie, S., Chen, R., & Jiang, N. (2024). How school support and teacher perception affect teachers’ technology integration: A multilevel mediation model analysis. *Education and Information Technologies,* *29*(18), 25069–25091.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-024-12802-z) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20school%20support%20and%20teacher%20perception%20affect%20teachers%27%20technology%20integration%3A%20A%20multilevel%20mediation%20model%20analysis&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-12802-z&volume=29&issue=18&pages=25069-25091&publication_year=2024&author=Shen%2CW&author=Lin%2CXF&author=Chiu%2CTK&author=Chen%2CX&author=Xie%2CS&author=Chen%2CR&author=Jiang%2CN)
+* Shrout, P. E., & Bolger, N. (2002). Mediation in experimental and nonexperimental studies: New procedures and recommendations. *Psychological Methods,* *7*(4), 422–445.
+  
+  [Article](https://doi.org/10.1037%2F1082-989X.7.4.422) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mediation%20in%20experimental%20and%20nonexperimental%20studies%3A%20New%20procedures%20and%20recommendations&journal=Psychological%20Methods&doi=10.1037%2F1082-989X.7.4.422&volume=7&issue=4&pages=422-445&publication_year=2002&author=Shrout%2CPE&author=Bolger%2CN)
+* Sun, J., Wu, Q., Ma, Z., Zheng, W., & Hu, Y. (2025). Understanding pre-service teachers’ acceptance of generative artificial intelligence: An extended technology acceptance model approach. *Educational Technology Research and Development*. <https://doi.org/10.1007/s11423-025-10495-w>
+  
+  [Article](https://link.springer.com/doi/10.1007/s11423-025-10495-w) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Understanding%20pre-service%20teachers%27%20acceptance%20of%20generative%20artificial%20intelligence%3A%20An%20extended%20technology%20acceptance%20model%20approach&journal=Educational%20Technology%20Research%20and%20Development&doi=10.1007%2Fs11423-025-10495-w&publication_year=2025&author=Sun%2CJ&author=Wu%2CQ&author=Ma%2CZ&author=Zheng%2CW&author=Hu%2CY)
+* Tabuenca, B., Uche-Soria, M., Greller, W., Hernández-Leo, D., Balcells-Falgueras, P., Gloor, P., & Garbajosa, J. (2024). Greening smart learning environments with artificial intelligence of things. *Internet of Things,* *25*, Article 101051. <https://doi.org/10.1016/j.iot.2023.101051>
+  
+  [Article](https://doi.org/10.1016%2Fj.iot.2023.101051) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Greening%20smart%20learning%20environments%20with%20artificial%20intelligence%20of%20things&journal=Internet%20of%20Things&doi=10.1016%2Fj.iot.2023.101051&volume=25&publication_year=2024&author=Tabuenca%2CB&author=Uche-Soria%2CM&author=Greller%2CW&author=Hern%C3%A1ndez-Leo%2CD&author=Balcells-Falgueras%2CP&author=Gloor%2CP&author=Garbajosa%2CJ)
+* Teo, T., Sang, G., Mei, B., & Hoi, C. K. W. (2019). Investigating pre-service teachers’ acceptance of Web 2.0 technologies in their future teaching: A Chinese perspective. *Interactive Learning Environments,* *27*(4), 530–546. <https://doi.org/10.1080/10494820.2018.1489290>
+  
+  [Article](https://doi.org/10.1080%2F10494820.2018.1489290) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Investigating%20pre-service%20teachers%E2%80%99%20acceptance%20of%20Web%202.0%20technologies%20in%20their%20future%20teaching%3A%20A%20Chinese%20perspective&journal=Interactive%20Learning%20Environments&doi=10.1080%2F10494820.2018.1489290&volume=27&issue=4&pages=530-546&publication_year=2019&author=Teo%2CT&author=Sang%2CG&author=Mei%2CB&author=Hoi%2CCKW)
+* Thien, L. M., & Liu, P. (2024). Linear and nonlinear relationships between instructional leadership and teacher professional learning through teacher self-efficacy as a mediator: A partial least squares analysis. *Humanities and Social Sciences Communications,* *11*(1), Article 7. <https://doi.org/10.1057/s41599-023-02500-5>
+  
+  [Article](https://doi.org/10.1057%2Fs41599-023-02500-5) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Linear%20and%20nonlinear%20relationships%20between%20instructional%20leadership%20and%20teacher%20professional%20learning%20through%20teacher%20self-efficacy%20as%20a%20mediator%3A%20A%20partial%20least%20squares%20analysis&journal=Humanities%20and%20Social%20Sciences%20Communications&doi=10.1057%2Fs41599-023-02500-5&volume=11&issue=1&publication_year=2024&author=Thien%2CLM&author=Liu%2CP)
+* Toro-Troconis, M., Voce, J., Alexander, J., Vasant, S., & Frutos-Perez, M. (2021). Using behaviour change as a critical frame of reference to understand the adoption of learning design methodologies in higher education. *World Journal of Education*. <https://doi.org/10.5430/wje.v11n2p1>
+  
+  [Article](https://doi.org/10.5430%2Fwje.v11n2p1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20behaviour%20change%20as%20a%20critical%20frame%20of%20reference%20to%20understand%20the%20adoption%20of%20learning%20design%20methodologies%20in%20higher%20education&journal=World%20Journal%20of%20Education&doi=10.5430%2Fwje.v11n2p1&publication_year=2021&author=Toro-Troconis%2CM&author=Voce%2CJ&author=Alexander%2CJ&author=Vasant%2CS&author=Frutos-Perez%2CM)
+* Vongkulluksn, V., Lu, L., & Xie, K. (2019). Bloom’s digital taxonomy scale: A validation study. Annual meeting of the American Educational Research Association.
+* Vongkulluksn, V. W., Xie, K., & Bowman, M. A. (2018). The role of value on teachers’ internalization of external barriers and externalization of personal beliefs for classroom technology integration. *Computers & Education,* *118*, 70–81. <https://doi.org/10.1016/j.compedu.2017.11.009>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2017.11.009) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20role%20of%20value%20on%20teachers%E2%80%99%20internalization%20of%20external%20barriers%20and%20externalization%20of%20personal%20beliefs%20for%20classroom%20technology%20integration&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2017.11.009&volume=118&pages=70-81&publication_year=2018&author=Vongkulluksn%2CVW&author=Xie%2CK&author=Bowman%2CMA)
+* Wang, J., Wu, L., Fan, G., & Ji, Y. (2025). The mediating effect of self-efficacy on adherence to pelvic floor muscle training: An analysis based on the COM-B model. *European Journal of Obstetrics & Gynecology and Reproductive Biology,* *312*, Article 114514. <https://doi.org/10.1016/j.ejogrb.2025.114514>
+  
+  [Article](https://doi.org/10.1016%2Fj.ejogrb.2025.114514) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20mediating%20effect%20of%20self-efficacy%20on%20adherence%20to%20pelvic%20floor%20muscle%20training%3A%20An%20analysis%20based%20on%20the%20COM-B%20model&journal=European%20Journal%20of%20Obstetrics%20%26%20Gynecology%20and%20Reproductive%20Biology&doi=10.1016%2Fj.ejogrb.2025.114514&volume=312&publication_year=2025&author=Wang%2CJ&author=Wu%2CL&author=Fan%2CG&author=Ji%2CY)
+* Wigfield, A. (1994). Expectancy-value theory of achievement motivation: A developmental perspective. *Educational Psychology Review,* *6*(1), 49–78.
+  
+  [Article](https://link.springer.com/doi/10.1007/BF02209024) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Expectancy-value%20theory%20of%20achievement%20motivation%3A%20A%20developmental%20perspective&journal=Educational%20Psychology%20Review&doi=10.1007%2FBF02209024&volume=6&issue=1&pages=49-78&publication_year=1994&author=Wigfield%2CA)
+* Willmott, T. J., Pang, B., & Rundle-Thiele, S. (2021). Capability, opportunity, and motivation: An across contexts empirical examination of the COM-B model. *BMC Public Health,* *21*(1), Article 1014.
+  
+  [Article](https://link.springer.com/doi/10.1186/s12889-021-11019-w) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Capability%2C%20opportunity%2C%20and%20motivation%3A%20An%20across%20contexts%20empirical%20examination%20of%20the%20COM-B%20model&journal=BMC%20Public%20Health&doi=10.1186%2Fs12889-021-11019-w&volume=21&issue=1&publication_year=2021&author=Willmott%2CTJ&author=Pang%2CB&author=Rundle-Thiele%2CS)
+* Wilson, C., Broughan, C., & Marselle, M. (2019). A new framework for the design and evaluation of a learning institution’s student engagement activities. *Studies in Higher Education,* *44*(11), 1931–1944.
+  
+  [Article](https://doi.org/10.1080%2F03075079.2018.1469123) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20new%20framework%20for%20the%20design%20and%20evaluation%20of%20a%20learning%20institution%E2%80%99s%20student%20engagement%20activities&journal=Studies%20in%20Higher%20Education&doi=10.1080%2F03075079.2018.1469123&volume=44&issue=11&pages=1931-1944&publication_year=2019&author=Wilson%2CC&author=Broughan%2CC&author=Marselle%2CM)
+* Wood, T., Cobb, P., & Yackel, E. (1990). The contextual nature of teaching: Mathematics and reading instruction in one second-grade classroom. *The Elementary School Journal,* *90*(5), 497–513.
+  
+  [Article](https://doi.org/10.1086%2F461629) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20contextual%20nature%20of%20teaching%3A%20Mathematics%20and%20reading%20instruction%20in%20one%20second-grade%20classroom&journal=The%20Elementary%20School%20Journal&doi=10.1086%2F461629&volume=90&issue=5&pages=497-513&publication_year=1990&author=Wood%2CT&author=Cobb%2CP&author=Yackel%2CE)
+* Xia, Y., Patthoff, A., Balloffet, L., Bravo, M. A., & Téllez, K. (2025). Beyond boundaries: Leveraging technology for differentiated professional development with lesson study video club. *Educational Technology Research and Development*. <https://doi.org/10.1007/s11423-025-10524-8>
+  
+  [Article](https://link.springer.com/doi/10.1007/s11423-025-10524-8) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Beyond%20boundaries%3A%20Leveraging%20technology%20for%20differentiated%20professional%20development%20with%20lesson%20study%20video%20club&journal=Educational%20Technology%20Research%20and%20Development&doi=10.1007%2Fs11423-025-10524-8&publication_year=2025&author=Xia%2CY&author=Patthoff%2CA&author=Balloffet%2CL&author=Bravo%2CMA&author=T%C3%A9llez%2CK)
+* Zhao, J., Xu, M., & Wang, X. (2024). A novel dataset based on indoor teacher-student interactive mode using AIoT. *Internet of Things,* *25*, Article 101044. <https://doi.org/10.1016/j.iot.2023.101044>
+  
+  [Article](https://doi.org/10.1016%2Fj.iot.2023.101044) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20novel%20dataset%20based%20on%20indoor%20teacher-student%20interactive%20mode%20using%20AIoT&journal=Internet%20of%20Things&doi=10.1016%2Fj.iot.2023.101044&volume=25&publication_year=2024&author=Zhao%2CJ&author=Xu%2CM&author=Wang%2CX)
+* Zheng, S., Yang, Q., Wang, X., Zhang, X., & Zhou, Q. (2022). Capability, opportunity, motivation, and hand hygiene behavior in healthcare workers: A structural equation modeling. *Psychology Research and Behavior Management*. <https://doi.org/10.2147/prbm.s373287>
+  
+  [Article](https://doi.org/10.2147%2Fprbm.s373287) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Capability%2C%20opportunity%2C%20motivation%2C%20and%20hand%20hygiene%20behavior%20in%20healthcare%20workers%3A%20A%20structural%20equation%20modeling&journal=Psychology%20Research%20and%20Behavior%20Management&doi=10.2147%2Fprbm.s373287&publication_year=2022&author=Zheng%2CS&author=Yang%2CQ&author=Wang%2CX&author=Zhang%2CX&author=Zhou%2CQ)
+
 [Download references](https://citation-needed.springer.com/v2/references/10.1007/s11423-026-10612-3?format=refman&flavour=references)
-## Acknowledgements
+
+Acknowledgements
+----------------
+
 We extend our thanks to all the participating teachers.
-## Funding
+
+Funding
+-------
+
 The authors have not disclosed any funding.
-## Author information
+
+Author information
+------------------
+
 ### Authors and Affiliations
+
 1. School of Education, Shanghai Jiao Tong University, Shanghai, 200240, China
-Shuo Feng, Xin Gao & Shuai Wang
+   
+   Shuo Feng, Xin Gao & Shuai Wang
 2. Laoshan District Education Development Research Center, Qingdao, Shandong Province, China
-Qianqian Liu
+   
+   Qianqian Liu
 3. Digital Education Research Center of the Laoshan District Education and Sports Bureau, Qingdao, Shandong Province, China
-Zezhi Zhang
+   
+   Zezhi Zhang
 4. Shibei District Education Research and Development Center, Qingdao, Shandong Province, China
-Mingjie Li
+   
+   Mingjie Li
 5. Faculty of Education, Shandong Normal University, Jinan, Shandong Province, China
-Qiyu Zhang
+   
+   Qiyu Zhang
 6. Institute of Artificial Intelligence in Education, South China Normal University, Guangzhou, Guangdong Province, China
-Yingbin Zhang
+   
+   Yingbin Zhang
+
 Authors
-1. Shuo Feng
-[View author publications](/search?sortBy=newestFirst&contributor=Shuo%20Feng)
-Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Shuo%20Feng)[Google Scholar](https://scholar.google.co.uk/scholar?as\_q=#=10&btnG=Search+Scholar&as\_epq=&as\_oq=&as\_eq=&as\_occt=any&as\_sauthors=%22Shuo%20Feng%22&as\_publication=&as\_ylo=&as\_yhi=&as\_allsubj=all&hl=en)
-2. Xin Gao
-[View author publications](/search?sortBy=newestFirst&contributor=Xin%20Gao)
-Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Xin%20Gao)[Google Scholar](https://scholar.google.co.uk/scholar?as\_q=#=10&btnG=Search+Scholar&as\_epq=&as\_oq=&as\_eq=&as\_occt=any&as\_sauthors=%22Xin%20Gao%22&as\_publication=&as\_ylo=&as\_yhi=&as\_allsubj=all&hl=en)
-3. Qianqian Liu
-[View author publications](/search?sortBy=newestFirst&contributor=Qianqian%20Liu)
-Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Qianqian%20Liu)[Google Scholar](https://scholar.google.co.uk/scholar?as\_q=#=10&btnG=Search+Scholar&as\_epq=&as\_oq=&as\_eq=&as\_occt=any&as\_sauthors=%22Qianqian%20Liu%22&as\_publication=&as\_ylo=&as\_yhi=&as\_allsubj=all&hl=en)
-4. Zezhi Zhang
-[View author publications](/search?sortBy=newestFirst&contributor=Zezhi%20Zhang)
-Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zezhi%20Zhang)[Google Scholar](https://scholar.google.co.uk/scholar?as\_q=#=10&btnG=Search+Scholar&as\_epq=&as\_oq=&as\_eq=&as\_occt=any&as\_sauthors=%22Zezhi%20Zhang%22&as\_publication=&as\_ylo=&as\_yhi=&as\_allsubj=all&hl=en)
-5. Mingjie Li
-[View author publications](/search?sortBy=newestFirst&contributor=Mingjie%20Li)
-Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Mingjie%20Li)[Google Scholar](https://scholar.google.co.uk/scholar?as\_q=#=10&btnG=Search+Scholar&as\_epq=&as\_oq=&as\_eq=&as\_occt=any&as\_sauthors=%22Mingjie%20Li%22&as\_publication=&as\_ylo=&as\_yhi=&as\_allsubj=all&hl=en)
-6. Qiyu Zhang
-[View author publications](/search?sortBy=newestFirst&contributor=Qiyu%20Zhang)
-Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Qiyu%20Zhang)[Google Scholar](https://scholar.google.co.uk/scholar?as\_q=#=10&btnG=Search+Scholar&as\_epq=&as\_oq=&as\_eq=&as\_occt=any&as\_sauthors=%22Qiyu%20Zhang%22&as\_publication=&as\_ylo=&as\_yhi=&as\_allsubj=all&hl=en)
-7. Yingbin Zhang
-[View author publications](/search?sortBy=newestFirst&contributor=Yingbin%20Zhang)
-Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yingbin%20Zhang)[Google Scholar](https://scholar.google.co.uk/scholar?as\_q=#=10&btnG=Search+Scholar&as\_epq=&as\_oq=&as\_eq=&as\_occt=any&as\_sauthors=%22Yingbin%20Zhang%22&as\_publication=&as\_ylo=&as\_yhi=&as\_allsubj=all&hl=en)
-8. Shuai Wang
-[View author publications](/search?sortBy=newestFirst&contributor=Shuai%20Wang)
-Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Shuai%20Wang)[Google Scholar](https://scholar.google.co.uk/scholar?as\_q=#=10&btnG=Search+Scholar&as\_epq=&as\_oq=&as\_eq=&as\_occt=any&as\_sauthors=%22Shuai%20Wang%22&as\_publication=&as\_ylo=&as\_yhi=&as\_allsubj=all&hl=en)
+
+1. Shuo Feng[View author publications](/search?sortBy=newestFirst&contributor=Shuo%20Feng)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Shuo%20Feng) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Shuo%20Feng%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Xin Gao[View author publications](/search?sortBy=newestFirst&contributor=Xin%20Gao)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Xin%20Gao) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Xin%20Gao%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Qianqian Liu[View author publications](/search?sortBy=newestFirst&contributor=Qianqian%20Liu)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Qianqian%20Liu) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Qianqian%20Liu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+4. Zezhi Zhang[View author publications](/search?sortBy=newestFirst&contributor=Zezhi%20Zhang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zezhi%20Zhang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Zezhi%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+5. Mingjie Li[View author publications](/search?sortBy=newestFirst&contributor=Mingjie%20Li)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Mingjie%20Li) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Mingjie%20Li%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+6. Qiyu Zhang[View author publications](/search?sortBy=newestFirst&contributor=Qiyu%20Zhang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Qiyu%20Zhang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Qiyu%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+7. Yingbin Zhang[View author publications](/search?sortBy=newestFirst&contributor=Yingbin%20Zhang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yingbin%20Zhang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yingbin%20Zhang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+8. Shuai Wang[View author publications](/search?sortBy=newestFirst&contributor=Shuai%20Wang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Shuai%20Wang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Shuai%20Wang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
 ### Corresponding author
+
 Correspondence to
 [Shuai Wang](mailto:shuai.wang@sjtu.edu.cn).
-## Ethics declarations
+
+Ethics declarations
+-------------------
+
 ### Conflict of interest
+
 The study has no competing interests.
+
 ### Ethical approval and consent to participate
+
 Ethics approval was obtained from the institutional review board of Shanghai Jiao Tong University. Informed consent of participants was obtained.
+
 ### Consent for publication
+
 All contributing authors and participants have provided consent for publication.
-## Additional information
+
+Additional information
+----------------------
+
 ### Publisher's Note
+
 Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
-## Appendix
+
+Appendix
+--------
+
 ### Appendix
+
 See Tables
 [2](/article/10.1007/s11423-026-10612-3#Tab2), [3](/article/10.1007/s11423-026-10612-3#Tab3) and [4](/article/10.1007/s11423-026-10612-3#Tab4).
-\*\*Table 2 Information about the five-point likert scales\*\*
+
+**Table 2 Information about the five-point likert scales**
+
 [Full size table](/article/10.1007/s11423-026-10612-3/tables/2)
-\*\*Table 3 Influential pathway derived from the regression tree for deep AIoT integration frequency\*\*
+
+**Table 3 Influential pathway derived from the regression tree for deep AIoT integration frequency**
+
 [Full size table](/article/10.1007/s11423-026-10612-3/tables/3)
-\*\*Table 4 Influential pathway derived from the regression tree for shallow AIoT integration frequency\*\*
+
+**Table 4 Influential pathway derived from the regression tree for shallow AIoT integration frequency**
+
 [Full size table](/article/10.1007/s11423-026-10612-3/tables/4)
-## Rights and permissions
+
+Rights and permissions
+----------------------
+
 Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
 [Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Examining%20teachers%E2%80%99%20deep%20and%20shallow%20AIoT%20integration%3A%20SEM%20and%20regression%20tree%20analyses&author=Shuo%20Feng%20et%20al&contentID=10.1007%2Fs11423-026-10612-3&copyright=Association%20for%20Educational%20Communications%20and%20Technology&publication=1042-1629&publicationDate=2026-03-24&publisherName=SpringerNature&orderBeanReset=true)
-## About this article
+
+About this article
+------------------
+
 ### Cite this article
-Feng, S., Gao, X., Liu, Q. \*et al.\* Examining teachers’ deep and shallow AIoT integration: SEM and regression tree analyses.
-\*Education Tech Research Dev\* (2026). https://doi.org/10.1007/s11423-026-10612-3
+
+Feng, S., Gao, X., Liu, Q. *et al.* Examining teachers’ deep and shallow AIoT integration: SEM and regression tree analyses.
+*Education Tech Research Dev* (2026). https://doi.org/10.1007/s11423-026-10612-3
+
 [Download citation](https://citation-needed.springer.com/v2/references/10.1007/s11423-026-10612-3?format=refman&flavour=citation)
-\* Received: 02 December 2025
-\* Accepted: 16 March 2026
-\* Published: 24 March 2026
-\* Version of record: 24 March 2026
-\* DOI: https://doi.org/10.1007/s11423-026-10612-3
+
+* Received: 02 December 2025
+* Accepted: 16 March 2026
+* Published: 24 March 2026
+* Version of record: 24 March 2026
+* DOI: https://doi.org/10.1007/s11423-026-10612-3
+
 ### Share this article
+
 Anyone you share the following link with will be able to read this content:
+
 Get shareable link
+
 Sorry, a shareable link is not currently available for this article.
+
 Copy shareable link to clipboard
+
 Provided by the Springer Nature SharedIt content-sharing initiative
+
 ### Keywords
-\* [AIoT](/search?query=AIoT&facet-discipline="Education")
-\* [Technology integration quality](/search?query=Technology%20integration%20quality&facet-discipline="Education")
-\* [COM-B model](/search?query=COM-B%20model&facet-discipline="Education")
-\* [ICAP framework](/search?query=ICAP%20framework&facet-discipline="Education")
-\* [Structural equation modeling](/search?query=Structural%20equation%20modeling&facet-discipline="Education")
-\* [Regression tree analysis](/search?query=Regression%20tree%20analysis&facet-discipline="Education")
-## Access this article
-[Log in via an institution](//wayf.springernature.com?redirect\_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11423-026-10612-3)
-## Subscribe and save
+
+* [AIoT](/search?query=AIoT&facet-discipline="Education")
+* [Technology integration quality](/search?query=Technology%20integration%20quality&facet-discipline="Education")
+* [COM-B model](/search?query=COM-B%20model&facet-discipline="Education")
+* [ICAP framework](/search?query=ICAP%20framework&facet-discipline="Education")
+* [Structural equation modeling](/search?query=Structural%20equation%20modeling&facet-discipline="Education")
+* [Regression tree analysis](/search?query=Regression%20tree%20analysis&facet-discipline="Education")
+
+
+
+
+Access this article
+-------------------
+
+[Log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11423-026-10612-3)
+
+
+Subscribe and save
+------------------
+
+
 Springer+
+
 from €37.37 /Month
-\* Starting from 10 chapters or articles per month
-\* Access and download chapters and articles from more than 300k books and 2,500 journals
-\* Cancel anytime
+
+* Starting from 10 chapters or articles per month
+* Access and download chapters and articles from more than 300k books and 2,500 journals
+* Cancel anytime
+
 [View plans](https://link.springer.com/product/springer-plus)
-## Buy Now
+
+Buy Now
+-------
+
+
 Buy article PDF 39,95 €
+
 Price includes VAT (China (P.R.))
+  
+
+
 Instant access to the full article PDF.
+
+
+
+
 [Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/journals)
-\* Sections
-\* Figures
-\* References
-\* [Abstract](#Abs1)
-\* [Data availability](#data-availability)
-\* [References](#Bib1)
-\* [Acknowledgements](#Ack1)
-\* [Funding](#Fun)
-\* [Author information](#author-information)
-\* [Ethics declarations](#ethics)
-\* [Additional information](#additional-information)
-\* [Appendix](#appendices)
-\* [Rights and permissions](#rightslink)
-\* [About this article](#article-info)
+
+
+
+
+
 Advertisement
-\* \*\*Fig. 1\*\*
-![]()
-[View in article](#Fig1)
-\* \*\*Fig. 2\*\*
-![]()
-[View in article](#Fig2)
-\* \*\*Fig. 3\*\*
-![]()
-[View in article](#Fig3)
-\* \*\*Fig. 4\*\*
-![]()
-[View in article](#Fig4)
-\* \*\*Fig. 5\*\*
-![]()
-[View in article](#Fig5)
-\* \*\*Fig. 6\*\*
-![]()
-[View in article](#Fig6)
-\* \*\*Fig. 7\*\*
-![]()
-[View in article](#Fig7)
-1. Acosta-Enriquez, B. G., Villena Zapata, L. I., Huamaní Jordan, O., López Roca, C., Cabrera Cipirán, B. M., Saavedra Villacrez, W., & Arbulu Perez Vargas, C. G. (2025). Acceptance of artificial intelligence as a teaching strategy among university professors: The role of habit, hedonic motivation, and competence for technology integration. \*Human Behavior and Emerging Technologies,\*\*2025\*(1), Article 5933157.
-[Article](https://doi.org/10.1155%2Fhbe2%2F5933157)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Acceptance%20of%20artificial%20intelligence%20as%20a%20teaching%20strategy%20among%20university%20professors%3A%20The%20role%20of%20habit%2C%20hedonic%20motivation%2C%20and%20competence%20for%20technology%20integration.&journal=Human%20Behavior%20and%20Emerging%20Technologies&doi=10.1155%2Fhbe2%2F5933157&volume=2025&issue=1&publication\_year=2025&author=Acosta-Enriquez%2CBG&author=Villena%20Zapata%2CLI&author=Huaman%C3%AD%20Jordan%2CO&author=L%C3%B3pez%20Roca%2CC&author=Cabrera%20Cipir%C3%A1n%2CBM&author=Saavedra%20Villacrez%2CW&author=Arbulu%20Perez%20Vargas%2CCG)
-2. Akcaoglu, M., & Akcaoglu, M. O. (2022). Understanding the relationship among self-efficacy, utility value, and the community of inquiry framework in preservice teacher education. \*The International Review of Research in Open and Distributed Learning,\*\*23\*(2), 86–106. 
-[Article](https://doi.org/10.19173%2Firrodl.v23i1.5717)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Understanding%20the%20relationship%20among%20self-efficacy%2C%20utility%20value%2C%20and%20the%20community%20of%20inquiry%20framework%20in%20preservice%20teacher%20education.&journal=The%20International%20Review%20of%20Research%20in%20Open%20and%20Distributed%20Learning&doi=10.19173%2Firrodl.v23i1.5717&volume=23&issue=2&pages=86-106&publication\_year=2022&author=Akcaoglu%2CM&author=Akcaoglu%2CMO)
-3. An, X., Chai, C. S., Li, Y., Zhou, Y., Shen, X., Zheng, C., & Chen, M. (2023). Modeling English teachers’ behavioral intention to use artificial intelligence in middle schools. \*Education and Information Technologies,\*\*28\*(5), 5187–5208.
-[Article](https://link.springer.com/doi/10.1007/s10639-022-11286-z)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Modeling%20English%20teachers%E2%80%99%20behavioral%20intention%20to%20use%20artificial%20intelligence%20in%20middle%20schools&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-022-11286-z&volume=28&issue=5&pages=5187-5208&publication\_year=2023&author=An%2CX&author=Chai%2CCS&author=Li%2CY&author=Zhou%2CY&author=Shen%2CX&author=Zheng%2CC&author=Chen%2CM)
-4. Anderson, L., & Krathwohl, D. (2001). \*A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives (Completed)\*. Longman.
-[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20taxonomy%20for%20learning%2C%20teaching%2C%20and%20assessing%3A%20A%20revision%20of%20Bloom%E2%80%99s%20taxonomy%20of%20educational%20objectives%20%28Completed%29&publication\_year=2001&author=Anderson%2CL&author=Krathwohl%2CD)
-5. Antonietti, C., Schmitz, M.-L., Consoli, T., Cattaneo, A., Gonon, P., & Petko, D. (2023). Development and validation of the ICAP Technology Scale to measure how teachers integrate technology into learning activities. \*Computers & Education,\*\*192\*, Article 104648. 
-[Article](https://doi.org/10.1016%2Fj.compedu.2022.104648)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Development%20and%20validation%20of%20the%20ICAP%20Technology%20Scale%20to%20measure%20how%20teachers%20integrate%20technology%20into%20learning%20activities&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2022.104648&volume=192&publication\_year=2023&author=Antonietti%2CC&author=Schmitz%2CM-L&author=Consoli%2CT&author=Cattaneo%2CA&author=Gonon%2CP&author=Petko%2CD)
-6. Antonietti, C., Schmitz, M. L., Consoli, T., Cattaneo, A., Gonon, P., & Petko, D. (2025). Examining technology integration in upper secondary schools: A comparative analysis across school programs and subjects. \*Technology Knowledge and Learning\*. 
-[Article](https://link.springer.com/doi/10.1007/s10758-025-09889-9)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Examining%20technology%20integration%20in%20upper%20secondary%20schools%3A%20A%20comparative%20analysis%20across%20school%20programs%20and%20subjects&journal=Technology%20Knowledge%20and%20Learning&doi=10.1007%2Fs10758-025-09889-9&publication\_year=2025&author=Antonietti%2CC&author=Schmitz%2CML&author=Consoli%2CT&author=Cattaneo%2CA&author=Gonon%2CP&author=Petko%2CD)
-7. Ayton, D., Hillman, C., Hatzikiriakidis, K., Tsindos, T., Sadasivan, S., Maloney, S., Bragge, P., Diug, B., & Illic, D. (2022). Why do students plagiarise? Informing higher education teaching and learning policy and practice. \*Studies in Higher Education,\*\*47\*(9), 1921–1934. 
-[Article](https://doi.org/10.1080%2F03075079.2021.1985103)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Why%20do%20students%20plagiarise%3F%20Informing%20higher%20education%20teaching%20and%20learning%20policy%20and%20practice&journal=Studies%20in%20Higher%20Education&doi=10.1080%2F03075079.2021.1985103&volume=47&issue=9&pages=1921-1934&publication\_year=2022&author=Ayton%2CD&author=Hillman%2CC&author=Hatzikiriakidis%2CK&author=Tsindos%2CT&author=Sadasivan%2CS&author=Maloney%2CS&author=Bragge%2CP&author=Diug%2CB&author=Illic%2CD)
-8. Backfisch, I., Lachner, A., Stürmer, K., & Scheiter, K. (2021). Variability of teachers’ technology integration in the classroom: A matter of utility! \*Computers & Education,\*\*166\*, Article 104159. 
-[Article](https://doi.org/10.1016%2Fj.compedu.2021.104159)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Variability%20of%20teachers%E2%80%99%20technology%20integration%20in%20the%20classroom%3A%20A%20matter%20of%20utility%21&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2021.104159&volume=166&publication\_year=2021&author=Backfisch%2CI&author=Lachner%2CA&author=St%C3%BCrmer%2CK&author=Scheiter%2CK)
-9. Banihashem, S. K., Gašević, D., & Noroozi, O. (2025). A critical review of using learning analytics for formative assessment: Progress, pitfalls and path forward. \*Journal of Computer Assisted Learning,\*\*41\*(3), Article e70056.
-[Article](https://doi.org/10.1111%2Fjcal.70056)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20critical%20review%20of%20using%20learning%20analytics%20for%20formative%20assessment%3A%20Progress%2C%20pitfalls%20and%20path%20forward&journal=Journal%20of%20Computer%20Assisted%20Learning&doi=10.1111%2Fjcal.70056&volume=41&issue=3&publication\_year=2025&author=Banihashem%2CSK&author=Ga%C5%A1evi%C4%87%2CD&author=Noroozi%2CO)
-10. Blanch, A., & Aluja, A. (2013). A regression tree of the aptitudes, personality, and academic performance relationship. \*Personality and Individual Differences,\*\*54\*(6), 703–708.
-[Article](https://doi.org/10.1016%2Fj.paid.2012.11.032)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20regression%20tree%20of%20the%20aptitudes%2C%20personality%2C%20and%20academic%20performance%20relationship&journal=Personality%20and%20Individual%20Differences&doi=10.1016%2Fj.paid.2012.11.032&volume=54&issue=6&pages=703-708&publication\_year=2013&author=Blanch%2CA&author=Aluja%2CA)
-11. Bloom, B. (1956). \*Taxonomy of educational objectives: The classification of educational goals\* (1st ed.). Longmans, Green.
-[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Taxonomy%20of%20educational%20objectives%3A%20The%20classification%20of%20educational%20goals&publication\_year=1956&author=Bloom%2CB)
-12. Bowman, M. A., Vongkulluksn, V. W., Jiang, Z., & Xie, K. (2022). Teachers’ exposure to professional development and the quality of their instructional technology use: The mediating role of teachers’ value and ability beliefs. \*Journal of Research on Technology in Education,\*\*54\*(2), 188–204.
-[Article](https://doi.org/10.1080%2F15391523.2020.1830895)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Teachers%E2%80%99%20exposure%20to%20professional%20development%20and%20the%20quality%20of%20their%20instructional%20technology%20use%3A%20The%20mediating%20role%20of%20teachers%E2%80%99%20value%20and%20ability%20beliefs&journal=Journal%20of%20Research%20on%20Technology%20in%20Education&doi=10.1080%2F15391523.2020.1830895&volume=54&issue=2&pages=188-204&publication\_year=2022&author=Bowman%2CMA&author=Vongkulluksn%2CVW&author=Jiang%2CZ&author=Xie%2CK)
-13. Brown, C. E., Richardson, K., Halil-Pizzirani, B., Atkins, L., Yücel, M., & Segrave, R. A. (2024). Key influences on university students’ physical activity: A systematic review using the theoretical domains framework and the COM-B model of human behaviour. \*BMC Public Health,\*\*24\*(1), Article 418.
-[Article](https://link.springer.com/doi/10.1186/s12889-023-17621-4)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Key%20influences%20on%20university%20students%27%20physical%20activity%3A%20A%20systematic%20review%20using%20the%20theoretical%20domains%20framework%20and%20the%20COM-B%20model%20of%20human%20behaviour&journal=BMC%20Public%20Health&doi=10.1186%2Fs12889-023-17621-4&volume=24&issue=1&publication\_year=2024&author=Brown%2CCE&author=Richardson%2CK&author=Halil-Pizzirani%2CB&author=Atkins%2CL&author=Y%C3%BCcel%2CM&author=Segrave%2CRA)
-14. Cai, Y., Yang, Y., & Shi, W. (2022). A predictive model of the knowledge-sharing intentions of social Q&A community members: A regression tree approach. \*International Journal of Human–computer Interaction,\*\*38\*(4), 324–338.
-[Article](https://doi.org/10.1080%2F10447318.2021.1938393)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20predictive%20model%20of%20the%20knowledge-sharing%20intentions%20of%20social%20Q%26A%20community%20members%3A%20A%20regression%20tree%20approach&journal=International%20Journal%20of%20Human%E2%80%93computer%20Interaction&doi=10.1080%2F10447318.2021.1938393&volume=38&issue=4&pages=324-338&publication\_year=2022&author=Cai%2CY&author=Yang%2CY&author=Shi%2CW)
-15. Carter, E., Onwuegbuzie, A., Singal, N., & van der Velde, L. (2021). Perceptions of teaching quality in Rwandan secondary schools: A contextual analysis. \*International Journal of Educational Research,\*\*109\*, Article 101843. 
-[Article](https://doi.org/10.1016%2Fj.ijer.2021.101843)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Perceptions%20of%20teaching%20quality%20in%20Rwandan%20secondary%20schools%3A%20A%20contextual%20analysis&journal=International%20Journal%20of%20Educational%20Research&doi=10.1016%2Fj.ijer.2021.101843&volume=109&publication\_year=2021&author=Carter%2CE&author=Onwuegbuzie%2CA&author=Singal%2CN&author=Velde%2CL)
-16. Chadha, A., & Kaushik, B. (2022). A hybrid deep learning model using grid search and cross-validation for effective classification and prediction of suicidal ideation from social network data. \*New Generation Computing,\*\*40\*(4), 889–914.
-[Article](https://link.springer.com/doi/10.1007/s00354-022-00191-1)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20hybrid%20deep%20learning%20model%20using%20grid%20search%20and%20cross-validation%20for%20effective%20classification%20and%20prediction%20of%20suicidal%20ideation%20from%20social%20network%20data&journal=New%20Generation%20Computing&doi=10.1007%2Fs00354-022-00191-1&volume=40&issue=4&pages=889-914&publication\_year=2022&author=Chadha%2CA&author=Kaushik%2CB)
-17. Chen, D., Zhang, H., Shao, J., Tang, L., Cui, N., Wang, X., Wu, J., Wang, D., & Ye, Z. (2023). Determinants of adherence to diet and exercise behaviours among individuals with metabolic syndrome based on the capability, opportunity, motivation, and behaviour model: A cross-sectional study. \*European Journal of Cardiovascular Nursing,\*\*22\*(2), 193–200.
-[Article](https://doi.org/10.1093%2Feurjcn%2Fzvac034)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Determinants%20of%20adherence%20to%20diet%20and%20exercise%20behaviours%20among%20individuals%20with%20metabolic%20syndrome%20based%20on%20the%20capability%2C%20opportunity%2C%20motivation%2C%20and%20behaviour%20model%3A%20A%20cross-sectional%20study&journal=European%20Journal%20of%20Cardiovascular%20Nursing&doi=10.1093%2Feurjcn%2Fzvac034&volume=22&issue=2&pages=193-200&publication\_year=2023&author=Chen%2CD&author=Zhang%2CH&author=Shao%2CJ&author=Tang%2CL&author=Cui%2CN&author=Wang%2CX&author=Wu%2CJ&author=Wang%2CD&author=Ye%2CZ)
-18. Cheng, L., Antonenko, P. D., & Ritzhaupt, A. D. (2024). The impact of teachers’ pedagogical beliefs, self-efficacy, and technology value beliefs on 3D printing integration in K-12 science classrooms. \*Educational Technology Research and Development,\*\*72\*(1), 181–208. 
-[Article](https://link.springer.com/doi/10.1007/s11423-023-10276-3)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20impact%20of%20teachers%E2%80%99%20pedagogical%20beliefs%2C%20self-efficacy%2C%20and%20technology%20value%20beliefs%20on%203D%20printing%20integration%20in%20K-12%20science%20classrooms&journal=Educational%20Technology%20Research%20and%20Development&doi=10.1007%2Fs11423-023-10276-3&volume=72&issue=1&pages=181-208&publication\_year=2024&author=Cheng%2CL&author=Antonenko%2CPD&author=Ritzhaupt%2CAD)
-19. Cheng, S.-L., Lu, L., Xie, K., & Vongkulluksn, V. W. (2020). Understanding teacher technology integration from expectancy-value perspectives. \*Teaching and Teacher Education,\*\*91\*, Article 103062. 
-[Article](https://doi.org/10.1016%2Fj.tate.2020.103062)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Understanding%20teacher%20technology%20integration%20from%20expectancy-value%20perspectives&journal=Teaching%20and%20Teacher%20Education&doi=10.1016%2Fj.tate.2020.103062&volume=91&publication\_year=2020&author=Cheng%2CS-L&author=Lu%2CL&author=Xie%2CK&author=Vongkulluksn%2CVW)
-20. Cheng, S.-L., & Xie, K. (2018). The relations among teacher value beliefs, personal characteristics, and TPACK in intervention and non-intervention settings. \*Teaching and Teacher Education,\*\*74\*, 98–113. 
-[Article](https://doi.org/10.1016%2Fj.tate.2018.04.014)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20relations%20among%20teacher%20value%20beliefs%2C%20personal%20characteristics%2C%20and%20TPACK%20in%20intervention%20and%20non-intervention%20settings&journal=Teaching%20and%20Teacher%20Education&doi=10.1016%2Fj.tate.2018.04.014&volume=74&pages=98-113&publication\_year=2018&author=Cheng%2CS-L&author=Xie%2CK)
-21. Chi, M. T., Adams, J., Bogusch, E. B., Bruchok, C., Kang, S., Lancaster, M., Chi, M. T. H., Levy, R., Li, N., McEldoon, K. L., Stump, G. S., Wylie, R., Xu, D., & Yaghmourian, D. L. (2018). Translating the ICAP theory of cognitive engagement into practice. \*Cognitive Science,\*\*42\*(6), 1777–1832.
-[Article](https://doi.org/10.1111%2Fcogs.12626)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Translating%20the%20ICAP%20theory%20of%20cognitive%20engagement%20into%20practice&journal=Cognitive%20Science&doi=10.1111%2Fcogs.12626&volume=42&issue=6&pages=1777-1832&publication\_year=2018&author=Chi%2CMT&author=Adams%2CJ&author=Bogusch%2CEB&author=Bruchok%2CC&author=Kang%2CS&author=Lancaster%2CM&author=Chi%2CMTH&author=Levy%2CR&author=Li%2CN&author=McEldoon%2CKL&author=Stump%2CGS&author=Wylie%2CR&author=Xu%2CD&author=Yaghmourian%2CDL)
-22. Chi, M. T., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. \*Educational Psychologist,\*\*49\*(4), 219–243.
-[Article](https://doi.org/10.1080%2F00461520.2014.965823)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20ICAP%20framework%3A%20Linking%20cognitive%20engagement%20to%20active%20learning%20outcomes&journal=Educational%20Psychologist&doi=10.1080%2F00461520.2014.965823&volume=49&issue=4&pages=219-243&publication\_year=2014&author=Chi%2CMT&author=Wylie%2CR)
-23. China’s Ministry of Education. (2018). \*Notice of the Ministry of Education on the issuance of the “Education Informatization 2.0 Action Plan”.\*
-24. Churches, A. (2010). \*Bloom’s digital taxonomy\*. Australian School Library Association NSW Inc.
-[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Bloom%E2%80%99s%20digital%20taxonomy&publication\_year=2010&author=Churches%2CA)
-25. Consoli, T., Schmitz, M.-L., Antonietti, C., Gonon, P., Cattaneo, A., & Petko, D. (2025). Quality of technology integration matters: Positive associations with students’ behavioral engagement and digital competencies for learning. \*Education and Information Technologies,\*\*30\*(6), 7719–7752. 
-[Article](https://link.springer.com/doi/10.1007/s10639-024-13118-8)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Quality%20of%20technology%20integration%20matters%3A%20Positive%20associations%20with%20students%E2%80%99%20behavioral%20engagement%20and%20digital%20competencies%20for%20learning&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-13118-8&volume=30&issue=6&pages=7719-7752&publication\_year=2025&author=Consoli%2CT&author=Schmitz%2CM-L&author=Antonietti%2CC&author=Gonon%2CP&author=Cattaneo%2CA&author=Petko%2CD)
-26. Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. \*MIS Quarterly,\*\*13\*, 319–340.
-[Article](https://doi.org/10.2307%2F249008)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Perceived%20usefulness%2C%20perceived%20ease%20of%20use%2C%20and%20user%20acceptance%20of%20information%20technology&journal=MIS%20Quarterly&doi=10.2307%2F249008&volume=13&pages=319-340&publication\_year=1989&author=Davis%2CFD)
-27. DiStefano, C., Zhu, M., & Mindrila, D. (2009). Understanding and using factor scores: Considerations for the applied researcher. \*Practical Assessment Research and Evaluation,\*\*14\*(1), 20.
-[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Understanding%20and%20using%20factor%20scores%3A%20Considerations%20for%20the%20applied%20researcher&journal=Practical%20Assessment%20Research%20and%20Evaluation&volume=14&issue=1&publication\_year=2009&author=DiStefano%2CC&author=Zhu%2CM&author=Mindrila%2CD)
-28. Faber, J. M., & Visscher, A. J. (2018). The effects of a digital formative assessment tool on spelling achievement: Results of a randomized experiment. \*Computers & Education,\*\*122\*, 1–8.
-[Article](https://doi.org/10.1016%2Fj.compedu.2018.03.008)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20effects%20of%20a%20digital%20formative%20assessment%20tool%20on%20spelling%20achievement%3A%20Results%20of%20a%20randomized%20experiment&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2018.03.008&volume=122&pages=1-8&publication\_year=2018&author=Faber%2CJM&author=Visscher%2CAJ)
-29. Fu, H., Rao, J., Deng, F., Wang, Y., Zhao, B., Liu, Z., Guan, H., Malinowski, P. H., & Xu, L. (2025). AIoT: Artificial intelligence and the internet of things for monitoring and prognosis of systems and structures. \*IEEE Transactions on Instrumentation and Measurement.\*
-30. Fütterer, T., Scheiter, K., Cheng, X., & Stürmer, K. (2022). Quality beats frequency? Investigating students’ effort in learning when introducing technology in classrooms. \*Contemporary Educational Psychology,\*\*69\*, Article 102042.
-[Article](https://doi.org/10.1016%2Fj.cedpsych.2022.102042)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Quality%20beats%20frequency%3F%20Investigating%20students%E2%80%99%20effort%20in%20learning%20when%20introducing%20technology%20in%20classrooms&journal=Contemporary%20Educational%20Psychology&doi=10.1016%2Fj.cedpsych.2022.102042&volume=69&publication\_year=2022&author=F%C3%BCtterer%2CT&author=Scheiter%2CK&author=Cheng%2CX&author=St%C3%BCrmer%2CK)
-31. Gibson Miller, J., Hartman, T. K., Levita, L., Martinez, A. P., Mason, L., McBride, O., McKay, R., Murphy, J., Shevlin, M., & Stocks, T. V. (2020). Capability, opportunity, and motivation to enact hygienic practices in the early stages of the COVID‐19 outbreak in the United Kingdom. \*British Journal of Health Psychology,\*\*25\*(4), 856–864.
-[Article](https://doi.org/10.1111%2Fbjhp.12426)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Capability%2C%20opportunity%2C%20and%20motivation%20to%20enact%20hygienic%20practices%20in%20the%20early%20stages%20of%20the%20COVID%E2%80%9019%20outbreak%20in%20the%20United%20Kingdom&journal=British%20Journal%20of%20Health%20Psychology&doi=10.1111%2Fbjhp.12426&volume=25&issue=4&pages=856-864&publication\_year=2020&author=Gibson%20Miller%2CJ&author=Hartman%2CTK&author=Levita%2CL&author=Martinez%2CAP&author=Mason%2CL&author=McBride%2CO&author=McKay%2CR&author=Murphy%2CJ&author=Shevlin%2CM&author=Stocks%2CTV)
-32. Gomes, C. M. A., Amantes, A., & Jelihovschi, E. G. (2020). Applying the regression tree method to predict students’ science achievement. \*Trends in Psychology,\*\*28\*(1), 99–117.
-[Article](https://doi.org/10.9788%2Fs43076-019-00002-5)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Applying%20the%20regression%20tree%20method%20to%20predict%20students%E2%80%99%20science%20achievement&journal=Trends%20in%20Psychology&doi=10.9788%2Fs43076-019-00002-5&volume=28&issue=1&pages=99-117&publication\_year=2020&author=Gomes%2CCMA&author=Amantes%2CA&author=Jelihovschi%2CEG)
-33. Gomes, C. M. A., & Jelihovschi, E. (2020). Presenting the regression tree method and its application in a large-scale educational dataset. \*International Journal of Research & Method in Education,\*\*43\*(2), 201–221.
-[Article](https://doi.org/10.1080%2F1743727X.2019.1654992)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Presenting%20the%20regression%20tree%20method%20and%20its%20application%20in%20a%20large-scale%20educational%20dataset&journal=International%20Journal%20of%20Research%20%26%20Method%20in%20Education&doi=10.1080%2F1743727X.2019.1654992&volume=43&issue=2&pages=201-221&publication\_year=2020&author=Gomes%2CCMA&author=Jelihovschi%2CE)
-34. Guo, J. (2025). \*From "Mountains and Seas" to the future: Smart education ensures every child is "Seen"\*. qdcaijing. 
-35. Han, L., Pan, B., Chen, Y., & Tang, J. (2025). A digital pen-based writing state recognition algorithm for student performance assessment. \*Neural Computing and Applications,\*\*37\*(19), 13309–13319.
-[Article](https://link.springer.com/doi/10.1007/s00521-024-09955-w)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20digital%20pen-based%20writing%20state%20recognition%20algorithm%20for%20student%20performance%20assessment&journal=Neural%20Computing%20and%20Applications&doi=10.1007%2Fs00521-024-09955-w&volume=37&issue=19&pages=13309-13319&publication\_year=2025&author=Han%2CL&author=Pan%2CB&author=Chen%2CY&author=Tang%2CJ)
-36. Hornstein, H. A. (2017). Student evaluations of teaching are an inadequate assessment tool for evaluating faculty performance. \*Cogent Education,\*\*4\*(1), Article 1304016.
-[Article](https://doi.org/10.1080%2F2331186X.2017.1304016)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Student%20evaluations%20of%20teaching%20are%20an%20inadequate%20assessment%20tool%20for%20evaluating%20faculty%20performance&journal=Cogent%20Education&doi=10.1080%2F2331186X.2017.1304016&volume=4&issue=1&publication\_year=2017&author=Hornstein%2CHA)
-37. Howlett, N., Schulz, J., Trivedi, D., Troop, N., & Chater, A. (2019). A prospective study exploring the construct and predictive validity of the COM-B model for physical activity. \*Journal of Health Psychology,\*\*24\*(10), 1378–1391.
-[Article](https://doi.org/10.1177%2F1359105317739098)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20prospective%20study%20exploring%20the%20construct%20and%20predictive%20validity%20of%20the%20COM-B%20model%20for%20physical%20activity&journal=Journal%20of%20Health%20Psychology&doi=10.1177%2F1359105317739098&volume=24&issue=10&pages=1378-1391&publication\_year=2019&author=Howlett%2CN&author=Schulz%2CJ&author=Trivedi%2CD&author=Troop%2CN&author=Chater%2CA)
-38. Hu, L. T., & Bentler, P. M. (1998). Fit indices in covariance structure modeling: Sensitivity to underparameterized model misspecification. \*Psychological Methods,\*\*3\*(4), 424.
-[Article](https://doi.org/10.1037%2F1082-989X.3.4.424)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Fit%20indices%20in%20covariance%20structure%20modeling%3A%20Sensitivity%20to%20underparameterized%20model%20misspecification&journal=Psychological%20Methods&doi=10.1037%2F1082-989X.3.4.424&volume=3&issue=4&publication\_year=1998&author=Hu%2CLT&author=Bentler%2CPM)
-39. Huang, Z.-E., Qiu, X., Yan, J., Liao, D.-D., Huang, H., Fu, Y.-Q., Liu, B.-R., Zhu, S.-C., & Yi, Q.-F. (2024). Structural equation modeling for associated factors with patient safety behaviors among nursing interns: A cross-sectional study based on the capability opportunity motivation-behavior model. \*Nurse Education Today,\*\*132\*, Article 105992.
-[Article](https://doi.org/10.1016%2Fj.nedt.2023.105992)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Structural%20equation%20modeling%20for%20associated%20factors%20with%20patient%20safety%20behaviors%20among%20nursing%20interns%3A%20A%20cross-sectional%20study%20based%20on%20the%20capability%20opportunity%20motivation-behavior%20model&journal=Nurse%20Education%20Today&doi=10.1016%2Fj.nedt.2023.105992&volume=132&publication\_year=2024&author=Huang%2CZ-E&author=Qiu%2CX&author=Yan%2CJ&author=Liao%2CD-D&author=Huang%2CH&author=Fu%2CY-Q&author=Liu%2CB-R&author=Zhu%2CS-C&author=Yi%2CQ-F)
-40. Jenßen, L., Gierlinger, F., & Eilerts, K. (2021). Pre-service teachers’ enjoyment and ICT teaching self-efficacy in mathematics–an application of control-value theory. \*Journal of Digital Learning in Teacher Education,\*\*37\*(3), 183–195.
-[Article](https://doi.org/10.1080%2F21532974.2021.1929585)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Pre-service%20teachers%E2%80%99%20enjoyment%20and%20ICT%20teaching%20self-efficacy%20in%20mathematics%E2%80%93an%20application%20of%20control-value%20theory&journal=Journal%20of%20Digital%20Learning%20in%20Teacher%20Education&doi=10.1080%2F21532974.2021.1929585&volume=37&issue=3&pages=183-195&publication\_year=2021&author=Jen%C3%9Fen%2CL&author=Gierlinger%2CF&author=Eilerts%2CK)
-41. Keyworth, C., Epton, T., Goldthorpe, J., Calam, R., & Armitage, C. J. (2020). Acceptability, reliability, and validity of a brief measure of capabilities, opportunities, and motivations (“COM-B”). \*British Journal of Health Psychology,\*\*25\*(3), 474–501.
-[Article](https://doi.org/10.1111%2Fbjhp.12417)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Acceptability%2C%20reliability%2C%20and%20validity%20of%20a%20brief%20measure%20of%20capabilities%2C%20opportunities%2C%20and%20motivations%20%28%E2%80%9CCOM-B%E2%80%9D%29&journal=British%20Journal%20of%20Health%20Psychology&doi=10.1111%2Fbjhp.12417&volume=25&issue=3&pages=474-501&publication\_year=2020&author=Keyworth%2CC&author=Epton%2CT&author=Goldthorpe%2CJ&author=Calam%2CR&author=Armitage%2CCJ)
-42. Kopcha, T. J. (2012). Teachers’ perceptions of the barriers to technology integration and practices with technology under situated professional development. \*Computers & Education,\*\*59\*(4), 1109–1121.
-[Article](https://doi.org/10.1016%2Fj.compedu.2012.05.014)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Teachers%E2%80%99%20perceptions%20of%20the%20barriers%20to%20technology%20integration%20and%20practices%20with%20technology%20under%20situated%20professional%20development&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2012.05.014&volume=59&issue=4&pages=1109-1121&publication\_year=2012&author=Kopcha%2CTJ)
-43. Kuhl, J. (2020). Philosophy of science, motivation and volition, and developing motivational assessment. \*Motivation Science,\*\*6\*(3), 189.
-[Article](https://doi.org/10.1037%2Fmot0000184)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Philosophy%20of%20science%2C%20motivation%20and%20volition%2C%20and%20developing%20motivational%20assessment&journal=Motivation%20Science&doi=10.1037%2Fmot0000184&volume=6&issue=3&publication\_year=2020&author=Kuhl%2CJ)
-44. Kwon, H. R., & Silva, E. A. (2020). Mapping the landscape of behavioral theories: Systematic literature review. \*Journal of Planning Literature,\*\*35\*(2), 161–179.
-[Article](https://doi.org/10.1177%2F0885412219881135)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Mapping%20the%20landscape%20of%20behavioral%20theories%3A%20Systematic%20literature%20review&journal=Journal%20of%20Planning%20Literature&doi=10.1177%2F0885412219881135&volume=35&issue=2&pages=161-179&publication\_year=2020&author=Kwon%2CHR&author=Silva%2CEA)
-45. Lai, C., Wang, Q., & Huang, X. (2022). The differential interplay of TPACK, teacher beliefs, school culture and professional development with the nature of in-service EFL teachers’ technology adoption. \*British Journal of Educational Technology,\*\*53\*(5), 1389–1411. 
-[Article](https://doi.org/10.1111%2Fbjet.13200)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20differential%20interplay%20of%20TPACK%2C%20teacher%20beliefs%2C%20school%20culture%20and%20professional%20development%20with%20the%20nature%20of%20in-service%20EFL%20teachers%E2%80%99%20technology%20adoption&journal=British%20Journal%20of%20Educational%20Technology&doi=10.1111%2Fbjet.13200&volume=53&issue=5&pages=1389-1411&publication\_year=2022&author=Lai%2CC&author=Wang%2CQ&author=Huang%2CX)
-46. Lantz, M. E., & Stawiski, A. (2014). Effectiveness of clickers: Effect of feedback and the timing of questions on learning. \*Computers in Human Behavior,\*\*31\*, 280–286.
-[Article](https://doi.org/10.1016%2Fj.chb.2013.10.009)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Effectiveness%20of%20clickers%3A%20Effect%20of%20feedback%20and%20the%20timing%20of%20questions%20on%20learning&journal=Computers%20in%20Human%20Behavior&doi=10.1016%2Fj.chb.2013.10.009&volume=31&pages=280-286&publication\_year=2014&author=Lantz%2CME&author=Stawiski%2CA)
-47. Lee, C.-S., Wang, M.-H., Ciou, Z.-H., Chang, R.-P., Tsai, C.-H., Chen, S.-C., Huang, T.-X., Sato-Shimokawara, E., & Yamaguchi, T. (2021). Robotic assistant agent for student and machine co-learning on AI-FML practice with AIoT application. In \*Proceedings of the 2021 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)\*.
-48. Ling Koh, J. H., Chai, C. S., & Tay, L. Y. (2014). TPACK-in-Action: Unpacking the contextual influences of teachers’ construction of technological pedagogical content knowledge (TPACK). \*Computers & Education,\*\*78\*, 20–29. 
-[Article](https://doi.org/10.1016%2Fj.compedu.2014.04.022)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=TPACK-in-Action%3A%20Unpacking%20the%20contextual%20influences%20of%20teachers%E2%80%99%20construction%20of%20technological%20pedagogical%20content%20knowledge%20%28TPACK%29&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2014.04.022&volume=78&pages=20-29&publication\_year=2014&author=Ling%20Koh%2CJH&author=Chai%2CCS&author=Tay%2CLY)
-49. Lu, G., Liu, Q., Xie, K., Long, T., & Zheng, X. (2023). Quality or quantity: How do teachers’ knowledge and beliefs persuade them to engage in technology integration in a massive government-led training programme? \*The Asia-Pacific Education Researcher,\*\*32\*(4), 459–471.
-[Article](https://link.springer.com/doi/10.1007/s40299-022-00668-z)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Quality%20or%20quantity%3A%20How%20do%20teachers%E2%80%99%20knowledge%20and%20beliefs%20persuade%20them%20to%20engage%20in%20technology%20integration%20in%20a%20massive%20government-led%20training%20programme%3F&journal=The%20Asia-Pacific%20Education%20Researcher&doi=10.1007%2Fs40299-022-00668-z&volume=32&issue=4&pages=459-471&publication\_year=2023&author=Lu%2CG&author=Liu%2CQ&author=Xie%2CK&author=Long%2CT&author=Zheng%2CX)
-50. Maity, I., Mandal, A., Roy, P., & Sarkar, S. K. (2025). AIoT in smart education systems. In M. U. Tariq (Ed.), \*Merging artificial intelligence with the internet of things\* (pp. 299–328). IGI Global Scientific Publishing.
-[Chapter](https://doi.org/10.4018%2F979-8-3693-8547-0.ch010)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=AIoT%20in%20smart%20education%20systems&doi=10.4018%2F979-8-3693-8547-0.ch010&pages=299-328&publication\_year=2025&author=Maity%2CI&author=Mandal%2CA&author=Roy%2CP&author=Sarkar%2CSK)
-51. Maričić, M., Anđić, B., Mumcu, F., Rokos, L., Vondruška, J., Weinhandl, R., Lavicza, Z., & Špernjak, A. (2024). Evaluating the quality of technology integration across seven European countries with the ICAP Technology Scale. \*Journal of Computers in Education\*. 
-[Article](https://link.springer.com/doi/10.1007/s40692-024-00341-y)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Evaluating%20the%20quality%20of%20technology%20integration%20across%20seven%20European%20countries%20with%20the%20ICAP%20Technology%20Scale&journal=Journal%20of%20Computers%20in%20Education&doi=10.1007%2Fs40692-024-00341-y&publication\_year=2024&author=Mari%C4%8Di%C4%87%2CM&author=An%C4%91i%C4%87%2CB&author=Mumcu%2CF&author=Rokos%2CL&author=Vondru%C5%A1ka%2CJ&author=Weinhandl%2CR&author=Lavicza%2CZ&author=%C5%A0pernjak%2CA)
-52. McDonagh, L. K., Saunders, J. M., Cassell, J., Curtis, T., Bastaki, H., Hartney, T., & Rait, G. (2018). Application of the COM-B model to barriers and facilitators to chlamydia testing in general practice for young people and primary care practitioners: A systematic review. \*Implementation Science,\*\*13\*(1), 130.
-[Article](https://link.springer.com/doi/10.1186/s13012-018-0821-y)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Application%20of%20the%20COM-B%20model%20to%20barriers%20and%20facilitators%20to%20chlamydia%20testing%20in%20general%20practice%20for%20young%20people%20and%20primary%20care%20practitioners%3A%20A%20systematic%20review&journal=Implementation%20Science&doi=10.1186%2Fs13012-018-0821-y&volume=13&issue=1&publication\_year=2018&author=McDonagh%2CLK&author=Saunders%2CJM&author=Cassell%2CJ&author=Curtis%2CT&author=Bastaki%2CH&author=Hartney%2CT&author=Rait%2CG)
-53. Michie, S., Van Stralen, M. M., & West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. \*Implementation Science,\*\*6\*(1), 42.
-[Article](https://link.springer.com/doi/10.1186/1748-5908-6-42)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20behaviour%20change%20wheel%3A%20A%20new%20method%20for%20characterising%20and%20designing%20behaviour%20change%20interventions&journal=Implementation%20Science&doi=10.1186%2F1748-5908-6-42&volume=6&issue=1&publication\_year=2011&author=Michie%2CS&author=Stralen%2CMM&author=West%2CR)
-54. Nikolopoulou, K., Gialamas, V., & Lavidas, K. (2021). Habit, hedonic motivation, performance expectancy and technological pedagogical knowledge affect teachers’ intention to use mobile internet. \*Computers and Education Open,\*\*2\*, Article 100041.
-[Article](https://doi.org/10.1016%2Fj.caeo.2021.100041)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Habit%2C%20hedonic%20motivation%2C%20performance%20expectancy%20and%20technological%20pedagogical%20knowledge%20affect%20teachers%E2%80%99%20intention%20to%20use%20mobile%20internet&journal=Computers%20and%20Education%20Open&doi=10.1016%2Fj.caeo.2021.100041&volume=2&publication\_year=2021&author=Nikolopoulou%2CK&author=Gialamas%2CV&author=Lavidas%2CK)
-55. Norman, G. (2010). Likert scales, levels of measurement and the “laws” of statistics. \*Advances in Health Sciences Education,\*\*15\*(5), 625–632.
-[Article](https://link.springer.com/doi/10.1007/s10459-010-9222-y)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Likert%20scales%2C%20levels%20of%20measurement%20and%20the%20%E2%80%9Claws%E2%80%9D%20of%20statistics&journal=Advances%20in%20Health%20Sciences%20Education&doi=10.1007%2Fs10459-010-9222-y&volume=15&issue=5&pages=625-632&publication\_year=2010&author=Norman%2CG)
-56. OECD. (2015). \*Students, computers and learning: Making the connection\*. 
-57. Olszewski, B., & Crompton, H. (2020). Educational technology conditions to support the development of digital age skills. \*Computers & Education,\*\*150\*, Article 103849.
-[Article](https://doi.org/10.1016%2Fj.compedu.2020.103849)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Educational%20technology%20conditions%20to%20support%20the%20development%20of%20digital%20age%20skills&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2020.103849&volume=150&publication\_year=2020&author=Olszewski%2CB&author=Crompton%2CH)
-58. Ozili, P. K. (2023). The acceptable R-square in empirical modelling for social science research. \*Social research methodology and publishing results: A guide to non-native English speakers\* (pp. 134–143). IGI global.
-[Chapter](https://doi.org/10.4018%2F978-1-6684-6859-3.ch009)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20acceptable%20R-square%20in%20empirical%20modelling%20for%20social%20science%20research&doi=10.4018%2F978-1-6684-6859-3.ch009&pages=134-143&publication\_year=2023&author=Ozili%2CPK)
-59. Passey, D. (2020). Theories, theoretical and conceptual frameworks, models and constructs: Limiting research outcomes through misconceptions and misunderstandings. \*Studies in Technology Enhanced Learning\*. 
-[Article](https://doi.org/10.21428%2F8c225f6e.56810a1a)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Theories%2C%20theoretical%20and%20conceptual%20frameworks%2C%20models%20and%20constructs%3A%20Limiting%20research%20outcomes%20through%20misconceptions%20and%20misunderstandings&journal=Studies%20in%20Technology%20Enhanced%20Learning&doi=10.21428%2F8c225f6e.56810a1a&publication\_year=2020&author=Passey%2CD)
-60. Patel, K. M., & Burgsteiner, H. (2025). Next-Gen IoT teaching and learning platform with AIoT development Kit and IoT cloud. In T. Bastiaens (Ed.), \*Proceedings of EdMedia + innovate learning\* (pp. 374–379). AACE.
-[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Next-Gen%20IoT%20teaching%20and%20learning%20platform%20with%20AIoT%20development%20Kit%20and%20IoT%20cloud&pages=374-379&publication\_year=2025&author=Patel%2CKM&author=Burgsteiner%2CH)
-61. Sawyer, R. K. (2022). The learning sciences in the 2020s: implications for schools and beyond. In R. K. Sawyer (Ed.), \*The Cambridge handbook of the learning sciences\* (pp. 658–686). Cambridge University Press.
-[Chapter](https://doi.org/10.1017%2F9781108888295.040)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20learning%20sciences%20in%20the%202020s%3A%20implications%20for%20schools%20and%20beyond&doi=10.1017%2F9781108888295.040&pages=658-686&publication\_year=2022&author=Sawyer%2CRK)
-62. Shen, W., Lin, X. F., Chiu, T. K., Chen, X., Xie, S., Chen, R., & Jiang, N. (2024). How school support and teacher perception affect teachers’ technology integration: A multilevel mediation model analysis. \*Education and Information Technologies,\*\*29\*(18), 25069–25091.
-[Article](https://link.springer.com/doi/10.1007/s10639-024-12802-z)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=How%20school%20support%20and%20teacher%20perception%20affect%20teachers%27%20technology%20integration%3A%20A%20multilevel%20mediation%20model%20analysis&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-12802-z&volume=29&issue=18&pages=25069-25091&publication\_year=2024&author=Shen%2CW&author=Lin%2CXF&author=Chiu%2CTK&author=Chen%2CX&author=Xie%2CS&author=Chen%2CR&author=Jiang%2CN)
-63. Shrout, P. E., & Bolger, N. (2002). Mediation in experimental and nonexperimental studies: New procedures and recommendations. \*Psychological Methods,\*\*7\*(4), 422–445.
-[Article](https://doi.org/10.1037%2F1082-989X.7.4.422)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Mediation%20in%20experimental%20and%20nonexperimental%20studies%3A%20New%20procedures%20and%20recommendations&journal=Psychological%20Methods&doi=10.1037%2F1082-989X.7.4.422&volume=7&issue=4&pages=422-445&publication\_year=2002&author=Shrout%2CPE&author=Bolger%2CN)
-64. Sun, J., Wu, Q., Ma, Z., Zheng, W., & Hu, Y. (2025). Understanding pre-service teachers’ acceptance of generative artificial intelligence: An extended technology acceptance model approach. \*Educational Technology Research and Development\*. 
-[Article](https://link.springer.com/doi/10.1007/s11423-025-10495-w)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Understanding%20pre-service%20teachers%27%20acceptance%20of%20generative%20artificial%20intelligence%3A%20An%20extended%20technology%20acceptance%20model%20approach&journal=Educational%20Technology%20Research%20and%20Development&doi=10.1007%2Fs11423-025-10495-w&publication\_year=2025&author=Sun%2CJ&author=Wu%2CQ&author=Ma%2CZ&author=Zheng%2CW&author=Hu%2CY)
-65. Tabuenca, B., Uche-Soria, M., Greller, W., Hernández-Leo, D., Balcells-Falgueras, P., Gloor, P., & Garbajosa, J. (2024). Greening smart learning environments with artificial intelligence of things. \*Internet of Things,\*\*25\*, Article 101051. 
-[Article](https://doi.org/10.1016%2Fj.iot.2023.101051)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Greening%20smart%20learning%20environments%20with%20artificial%20intelligence%20of%20things&journal=Internet%20of%20Things&doi=10.1016%2Fj.iot.2023.101051&volume=25&publication\_year=2024&author=Tabuenca%2CB&author=Uche-Soria%2CM&author=Greller%2CW&author=Hern%C3%A1ndez-Leo%2CD&author=Balcells-Falgueras%2CP&author=Gloor%2CP&author=Garbajosa%2CJ)
-66. Teo, T., Sang, G., Mei, B., & Hoi, C. K. W. (2019). Investigating pre-service teachers’ acceptance of Web 2.0 technologies in their future teaching: A Chinese perspective. \*Interactive Learning Environments,\*\*27\*(4), 530–546. 
-[Article](https://doi.org/10.1080%2F10494820.2018.1489290)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Investigating%20pre-service%20teachers%E2%80%99%20acceptance%20of%20Web%202.0%20technologies%20in%20their%20future%20teaching%3A%20A%20Chinese%20perspective&journal=Interactive%20Learning%20Environments&doi=10.1080%2F10494820.2018.1489290&volume=27&issue=4&pages=530-546&publication\_year=2019&author=Teo%2CT&author=Sang%2CG&author=Mei%2CB&author=Hoi%2CCKW)
-67. Thien, L. M., & Liu, P. (2024). Linear and nonlinear relationships between instructional leadership and teacher professional learning through teacher self-efficacy as a mediator: A partial least squares analysis. \*Humanities and Social Sciences Communications,\*\*11\*(1), Article 7. 
-[Article](https://doi.org/10.1057%2Fs41599-023-02500-5)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Linear%20and%20nonlinear%20relationships%20between%20instructional%20leadership%20and%20teacher%20professional%20learning%20through%20teacher%20self-efficacy%20as%20a%20mediator%3A%20A%20partial%20least%20squares%20analysis&journal=Humanities%20and%20Social%20Sciences%20Communications&doi=10.1057%2Fs41599-023-02500-5&volume=11&issue=1&publication\_year=2024&author=Thien%2CLM&author=Liu%2CP)
-68. Toro-Troconis, M., Voce, J., Alexander, J., Vasant, S., & Frutos-Perez, M. (2021). Using behaviour change as a critical frame of reference to understand the adoption of learning design methodologies in higher education. \*World Journal of Education\*. 
-[Article](https://doi.org/10.5430%2Fwje.v11n2p1)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Using%20behaviour%20change%20as%20a%20critical%20frame%20of%20reference%20to%20understand%20the%20adoption%20of%20learning%20design%20methodologies%20in%20higher%20education&journal=World%20Journal%20of%20Education&doi=10.5430%2Fwje.v11n2p1&publication\_year=2021&author=Toro-Troconis%2CM&author=Voce%2CJ&author=Alexander%2CJ&author=Vasant%2CS&author=Frutos-Perez%2CM)
-69. Vongkulluksn, V., Lu, L., & Xie, K. (2019). Bloom’s digital taxonomy scale: A validation study. Annual meeting of the American Educational Research Association.
-70. Vongkulluksn, V. W., Xie, K., & Bowman, M. A. (2018). The role of value on teachers’ internalization of external barriers and externalization of personal beliefs for classroom technology integration. \*Computers & Education,\*\*118\*, 70–81. 
-[Article](https://doi.org/10.1016%2Fj.compedu.2017.11.009)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20role%20of%20value%20on%20teachers%E2%80%99%20internalization%20of%20external%20barriers%20and%20externalization%20of%20personal%20beliefs%20for%20classroom%20technology%20integration&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2017.11.009&volume=118&pages=70-81&publication\_year=2018&author=Vongkulluksn%2CVW&author=Xie%2CK&author=Bowman%2CMA)
-71. Wang, J., Wu, L., Fan, G., & Ji, Y. (2025). The mediating effect of self-efficacy on adherence to pelvic floor muscle training: An analysis based on the COM-B model. \*European Journal of Obstetrics & Gynecology and Reproductive Biology,\*\*312\*, Article 114514. 
-[Article](https://doi.org/10.1016%2Fj.ejogrb.2025.114514)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20mediating%20effect%20of%20self-efficacy%20on%20adherence%20to%20pelvic%20floor%20muscle%20training%3A%20An%20analysis%20based%20on%20the%20COM-B%20model&journal=European%20Journal%20of%20Obstetrics%20%26%20Gynecology%20and%20Reproductive%20Biology&doi=10.1016%2Fj.ejogrb.2025.114514&volume=312&publication\_year=2025&author=Wang%2CJ&author=Wu%2CL&author=Fan%2CG&author=Ji%2CY)
-72. Wigfield, A. (1994). Expectancy-value theory of achievement motivation: A developmental perspective. \*Educational Psychology Review,\*\*6\*(1), 49–78.
-[Article](https://link.springer.com/doi/10.1007/BF02209024)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Expectancy-value%20theory%20of%20achievement%20motivation%3A%20A%20developmental%20perspective&journal=Educational%20Psychology%20Review&doi=10.1007%2FBF02209024&volume=6&issue=1&pages=49-78&publication\_year=1994&author=Wigfield%2CA)
-73. Willmott, T. J., Pang, B., & Rundle-Thiele, S. (2021). Capability, opportunity, and motivation: An across contexts empirical examination of the COM-B model. \*BMC Public Health,\*\*21\*(1), Article 1014.
-[Article](https://link.springer.com/doi/10.1186/s12889-021-11019-w)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Capability%2C%20opportunity%2C%20and%20motivation%3A%20An%20across%20contexts%20empirical%20examination%20of%20the%20COM-B%20model&journal=BMC%20Public%20Health&doi=10.1186%2Fs12889-021-11019-w&volume=21&issue=1&publication\_year=2021&author=Willmott%2CTJ&author=Pang%2CB&author=Rundle-Thiele%2CS)
-74. Wilson, C., Broughan, C., & Marselle, M. (2019). A new framework for the design and evaluation of a learning institution’s student engagement activities. \*Studies in Higher Education,\*\*44\*(11), 1931–1944.
-[Article](https://doi.org/10.1080%2F03075079.2018.1469123)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20new%20framework%20for%20the%20design%20and%20evaluation%20of%20a%20learning%20institution%E2%80%99s%20student%20engagement%20activities&journal=Studies%20in%20Higher%20Education&doi=10.1080%2F03075079.2018.1469123&volume=44&issue=11&pages=1931-1944&publication\_year=2019&author=Wilson%2CC&author=Broughan%2CC&author=Marselle%2CM)
-75. Wood, T., Cobb, P., & Yackel, E. (1990). The contextual nature of teaching: Mathematics and reading instruction in one second-grade classroom. \*The Elementary School Journal,\*\*90\*(5), 497–513.
-[Article](https://doi.org/10.1086%2F461629)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=The%20contextual%20nature%20of%20teaching%3A%20Mathematics%20and%20reading%20instruction%20in%20one%20second-grade%20classroom&journal=The%20Elementary%20School%20Journal&doi=10.1086%2F461629&volume=90&issue=5&pages=497-513&publication\_year=1990&author=Wood%2CT&author=Cobb%2CP&author=Yackel%2CE)
-76. Xia, Y., Patthoff, A., Balloffet, L., Bravo, M. A., & Téllez, K. (2025). Beyond boundaries: Leveraging technology for differentiated professional development with lesson study video club. \*Educational Technology Research and Development\*. 
-[Article](https://link.springer.com/doi/10.1007/s11423-025-10524-8)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Beyond%20boundaries%3A%20Leveraging%20technology%20for%20differentiated%20professional%20development%20with%20lesson%20study%20video%20club&journal=Educational%20Technology%20Research%20and%20Development&doi=10.1007%2Fs11423-025-10524-8&publication\_year=2025&author=Xia%2CY&author=Patthoff%2CA&author=Balloffet%2CL&author=Bravo%2CMA&author=T%C3%A9llez%2CK)
-77. Zhao, J., Xu, M., & Wang, X. (2024). A novel dataset based on indoor teacher-student interactive mode using AIoT. \*Internet of Things,\*\*25\*, Article 101044. 
-[Article](https://doi.org/10.1016%2Fj.iot.2023.101044)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=A%20novel%20dataset%20based%20on%20indoor%20teacher-student%20interactive%20mode%20using%20AIoT&journal=Internet%20of%20Things&doi=10.1016%2Fj.iot.2023.101044&volume=25&publication\_year=2024&author=Zhao%2CJ&author=Xu%2CM&author=Wang%2CX)
-78. Zheng, S., Yang, Q., Wang, X., Zhang, X., & Zhou, Q. (2022). Capability, opportunity, motivation, and hand hygiene behavior in healthcare workers: A structural equation modeling. \*Psychology Research and Behavior Management\*. 
-[Article](https://doi.org/10.2147%2Fprbm.s373287)[Google Scholar](http://scholar.google.com/scholar\_lookup?&title=Capability%2C%20opportunity%2C%20motivation%2C%20and%20hand%20hygiene%20behavior%20in%20healthcare%20workers%3A%20A%20structural%20equation%20modeling&journal=Psychology%20Research%20and%20Behavior%20Management&doi=10.2147%2Fprbm.s373287&publication\_year=2022&author=Zheng%2CS&author=Yang%2CQ&author=Wang%2CX&author=Zhang%2CX&author=Zhou%2CQ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
 ### Discover content
-\* [Journals A-Z](https://link.springer.com/journals/a/1)
-\* [Books A-Z](https://link.springer.com/books/a/1)
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
 ### Publish with us
-\* [Journal finder](https://link.springer.com/journals)
-\* [Publish your research](https://www.springernature.com/gp/authors)
-\* [Language editing](https://authorservices.springernature.com/go/sn/?utm\_source=SNLinkfooter&utm\_medium=Web&utm\_campaign=SNReferral)
-\* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
 ### Products and services
-\* [Our products](https://www.springernature.com/gp/products)
-\* [Librarians](https://www.springernature.com/gp/librarians)
-\* [Societies](https://www.springernature.com/gp/societies)
-\* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
 ### Our brands
-\* [Springer](https://link.springer.com/brands/springer)
-\* [Nature Portfolio](https://www.nature.com/)
-\* [BMC](https://link.springer.com/brands/bmc)
-\* [Palgrave Macmillan](/brands/palgrave)
-\* [Apress](/brands/apress)
-\* [Discover](https://link.springer.com/brands/discover)
-\* Your privacy choices/Manage cookies
-\* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
-\* [Accessibility statement](https://link.springer.com/accessibility)
-\* [Terms and conditions](https://link.springer.com/termsandconditions)
-\* [Privacy policy](https://link.springer.com/privacystatement)
-\* [Help and support](https://support.springernature.com/en/support/home)
-\* [Legal notice](https://link.springer.com/legal-notice)
-\* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
-106.14.242.219
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+47.100.94.83
+
 Not affiliated
-[![](/oscar-static/images/logo-springernature-white-dbadd2cbd6.svg)](https://www.springernature.com/)
+
+
+[![]()](https://www.springernature.com/)
+
 © 2026 Springer Nature
+
+
+
+
+
+
+

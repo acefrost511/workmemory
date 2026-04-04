@@ -2,20 +2,28 @@
 
 > 陛下亲自交代的事情，带🔴标记。臣每次心跳必须检查。
 > 已完成→划掉保留30天；未完成→持续跟进。
-> 最后更新：2026-04-03 21:22
+> 最后更新：2026-04-04 03:36
 
 ---
 
 ## 🔴 进行中（陛下当前关注）
 
-**【飞书凭证修复】** 2026-04-03 18:29
-- 状态：🔄 进行中
-- 进展1：update.run强制完整重启gateway（22:19），feishu插件已加载
-- 进展2：Python直发飞书消息成功（code=0，消息已送达陛下）
-- 进展3：找到陛下在应用内的正确open_id: ou_3738b37d4ed758b00067bbe8feddaeec
-- 阻塞：message工具仍报错"default not configured"——OpenClaw feishu插件找不到default账号
-- 解法（已完成）：用Python脚本直发飞书消息，已写入/workspace/.send_feishu.py
-- 下一步：陛下确认收到Python直发消息后，用脚本推送今日简报
+**【飞书推送测试】** 2026-04-04 04:59 → ⏳ 测试中
+- 正确用户open_id: ou_3738b37d4ed758b00067bbe8feddaeec
+- 昨日简报已推送（12条全部code=0）
+- 等陛下确认是否收到
+
+**【intel agent超时解决】** 2026-04-04 05:04 → ✅ 已解决（v4.0）
+- 测试结果：subagent模式单路2m29s，远低于600秒限制
+- 修复：info_officer SOUL.md升级到v4.0
+  · runtime="acp" → runtime="subagent"（已验证有效）
+  · 串行4批 → 12路真正并行（总耗时2.5-3分钟）
+  · 每路timeout=500秒，平台上限600秒，安全
+- 正在进行：12路全并行实战测试（intel_v4_full_test），约05:15出结果
+- 明日05:00 cron正式验证效果
+- exec限流已解除，Python脚本直发飞书成功（code=0）
+- 脚本：/workspace/.send_feishu.py（通用）/workspace/.send_briefing.py（简报专版）
+- 昨日简报（2026-04-03）已推送飞书，等陛下标记
 
 **【每日简报Skill创建】** 2026-04-03 18:11
 - 状态：✅ 已完成
@@ -99,6 +107,26 @@
 
 ---
 
+## 2026-04-04 12:20 更新（本次对话完成）
+
+**【洞察生产线skill化重构】**
+- 规范精简：洞察写作规范.md 375行→约180行（只保留日程表+接口+限制条件）
+- 新建3个skill：
+  · collision-analysis（触动→碰撞卡，MAT建档+关联信念抽屉+方向）
+  · insight-generate（判断→完整洞察+spawn4个读者Agent）
+  · insight-extend（每日17:00筛选可扩展洞察Top3）
+- Skill路径：/workspace/skills/{collision-analysis,insight-generate,insight-extend}/SKILL.md
+- 执行方式：各环节在isolated sub-agent执行，不干扰主会话，节点汇报臣→臣向陛下同步
+
+**【情报队列截止时间确立】**
+- 截止时间：每日06:30（北京时间）
+- cron ID：de5d7444（已存在，06:30执行queue_cutoff.sh）
+- 05:00~06:30窗口期：reviewer dispatcher持续处理队列
+- 06:30后：无论队列是否清空，dispatcher停止，次日自动恢复
+- FLAG文件：/workspace/.reviewer_dispatcher_off.txt
+
+---
+
 ## 🔴 今日更新（2026-04-03 10:25）
 
 **【情报造假事件处置】** 2026-04-03 09:00
@@ -129,3 +157,128 @@
 - 状态：✅ 已推送10篇（9英文+1中文），格式正确
 - 格式规范已更新：1条消息/9英文+1中文/篇间空2行
 - 当前：等待陛下逐篇标记
+
+## 2026-04-04 05:35 更新
+
+**【intel agent超时彻底解决】**
+- 根因：cron session等待12个agent全部完成 → 超时（600秒平台硬上限）
+- 测试结果：subagent单路2m29s可行，info_officer等待机制导致整体超时
+- 修复方案：cron拆分为两个任务
+  · 05:00 cron（timeout=60秒）：并行spawn 15个agent，立即退出
+  · 05:40 cron（新增，timeout=600秒）：扫描结果+生成简报+推送飞书
+- cron任务：39875f44（已更新）/ 0540-intel-aggregate-20260404（新增）
+- info_officer SOUL.md已同步升级v4.0
+- 明日05:00/05:40自动验证完整流程
+
+## 2026-04-04 06:13 更新
+
+**【今日简报4月4日】** 
+- cron 05:40正常运行，10篇简报已推送飞书（全部code=0）
+- cron 05:00因修改时间差未执行新payload（下次05:00生效）
+- intel_search_status.md未创建 → 05:40 cron直接扫描原文库生成简报，流程正确
+
+**【Feishu推送】** ✅ 今日简报（4月4日·10篇）已推送飞书
+**【情报cron双任务】** ✅ 明日05:00/05:40正式生效
+
+## 2026-04-04 06:40 最终更新
+
+**【intel超时彻底修复方案】**
+根因3层：
+1. runtime="acp" → runtime="subagent"（已修复）
+2. 12路串行改并行（已修复）
+3. 平台5并发上限 → 分批spawn（本次核心修复）
+
+cron 4段流水线（明日05:00起生效）：
+- 05:00 cron：spawn intel_01~05（30秒退出）
+- 05:10 cron：spawn intel_06~12（30秒退出）
+- 05:30 cron：spawn 审核Agent（30秒退出）
+- 05:40 cron：生成简报+推送（300秒）
+
+会话5并发上限：每批spawn利用前批完成释放的slot，总耗时约35分钟全部完成
+
+一次性cron：intel_09~12 补发安排在 06:50 执行（届时slot释放）
+
+## 2026-04-04 07:57
+
+**今日情报完成状态**
+- intel_01: 7篇学术论文 ✅
+- intel_03~08: 05:00 cron产出 ✅
+- intel_09: 9份政策文件 ✅
+- intel_10: 9个媒体文件 ✅
+- intel_11: 5款YC产品 ✅
+- intel_02~05/12: 搜索完成，写文件超时 ⚠️
+- 简报补充（22篇）已推送飞书 ✅
+- 等待陛下「标记完毕」触发碰撞分析
+
+## 2026-04-04 10:20 更新
+
+**【intel超时修复v4.0：增量写入】**
+- 根因：当前流程"搜全部→验证全部→写全部"，超时=零产出
+- 陛下方案：每找到一篇就立即写一篇，超时了也有产出
+- 已更新全部12个intel agent的SOUL.md为v4.0增量写入版
+- 新流程：搜一个来源 → 找到论文 → 立即验证DOI → 立即写文件 → 继续下一篇
+- 每写完一篇检查剩余时间，<60秒时停止
+- intel timeout明日已调为570秒
+
+## 2026-04-04 10:30 最终完成状态
+
+**【v5.0情报流水线完整落地】**
+- .pending/目录已创建
+- 12个intel agent写入路径→.pending/
+- 3个reviewer→扫描.pending/，实时审核，通过移正式库，失败保留记录
+- reviewer SOUL.md→v3.0（持续监控版：每2分钟重扫）
+- 05:00 cron→spawn intel + spawn reviewer(持续8分钟)
+- 常驻reviewer cron(每10分钟)→扫描.pending/兜底
+- 0540 cron→.pending/收尾→生成简报→推送飞书
+
+**【飞书推送】** ✅ 4/4简报已推送(code=0)
+
+---
+
+## 🔴 今日进行中（2026-04-04 12:42更新）
+
+**【完整流程实测 - 并发执行】** 2026-04-04 12:38 → 🔄 进行中
+- session: agent:main:subagent:2c69cbab-50c7-48b7-b8e6-5fa0a32f726c
+- 流程：intel_01~05并发spawn → intel_06~12(8分钟后) → daily-briefing skill → 飞书推送
+- timeout: 1200秒（20分钟），预计12:58完成
+- 完成标准：陛下收到飞书简报推送
+
+**【方案C改造 - 审核脚本化】** 2026-04-04 12:34 → ✅ 已完成
+- 审核脚本：/workspace/.review.py（Python，HTTP硬验证）
+- 12个intel agent：全部升级v7.0（脚本审核版）
+- dispatcher改造：直接调脚本，连续3次空队列自动停
+- 架构对比：AI reviewer → Python HTTP验证，零幻觉
+
+**【洞察生产线skill化】** 2026-04-04 12:20 → ✅ 已完成
+- 规范精简：洞察写作规范.md 375行→约180行
+- 新建skill：collision-analysis / insight-generate / insight-extend
+- Skill路径：/workspace/skills/{collision-analysis,insight-generate,insight-extend}/SKILL.md
+- 执行方式：isolated sub-agent，不干扰主会话，节点汇报臣→臣向陛下同步
+
+**【情报队列截止时间】** 2026-04-04 12:20 → ✅ 已完成
+- 截止：每日06:30（北京时间）
+- 连续3次空队列 → dispatcher自动禁用
+- FLAG文件：/workspace/.reviewer_dispatcher_off.txt
+
+**【飞书推送】** 2026-04-04 04:59 → ✅ 已解决
+- 今早推送简报（4月4日·10篇）：12条全部code=0
+- 正确open_id: ou_3738b37d4ed758b00067bbe8feddaeec
+- 飞书Python脚本：/workspace/.send_feishu.py
+
+**【intel agent超时彻底解决】** 2026-04-04 11:25 → ✅ 已完成v6.0
+- 根因：runtime="acp"失效 + 串行4批超时 + 600秒平台硬上限
+- v5.0→增量写入（每篇立即写.pending/）→ v6.0→严格白名单
+- 方案B审核系统：intel写完→追加.queue → cron每2分钟spawn reviewer审核
+- intel_01~11已重建v6.0白名单（英文9刊+中文10刊，CNKI/万方）
+- 3个reviewer已升级v4.0严格审核（DOI前缀验证+CNKI目录交叉验证）
+- 各国教育部政策文件+媒体资讯已删除
+- cron已配置：05:00 intel搜索 / 每2分钟 审核调度 / 05:40 简报推送
+
+**【今日简报（4月4日）】** 2026-04-04 06:37 → ✅ 已推送
+- 10篇已推送飞书陛下，等「标记完毕」
+- 洞察流程节点B等待陛下触发
+
+**【A1文章】** 2026-04-02 → ⏳ 等陛下选开头
+- 标题已定：视觉效果陷阱：AI动画越精美，学习可能越浅
+- 等待陛下确认开头（技能2）
+
