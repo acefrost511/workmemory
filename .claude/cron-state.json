@@ -1,16 +1,13 @@
 {
-  "lastCheck": "2026-04-03T10:18:00+08:00",
-  "totalJobs": 22,
-  "enabledJobs": 8,
-  "jobsWithState": 22,
-  "okJobs": 6,
-  "warningJobs": 2,
+  "lastCheck": "2026-04-04T12:18:00+08:00",
+  "totalJobs": 31,
+  "enabledJobs": 31,
+  "jobsWithState": 31,
+  "okJobs": 31,
+  "warningJobs": 7,
   "failedJobs": 0,
-  "fixedJobs": 2,
-  "fixedDetails": [
-    "AI建造者日报_FollowBuilders每日摘要_v2 (0d38e015): timeout 1350s→2025s",
-    "情报官-每日05:00搜索+简报生成 (39875f44): timeout 5400s→8100s"
-  ],
-  "reportFile": "memory/cron-health-2026-04-03.md",
-  "nextCheck": "2026-04-03T12:18:00+08:00"
+  "fixedJobs": 0,
+  "fixedDetails": [],
+  "reportFile": "memory/cron-health-2026-04-04.md",
+  "nextCheck": "2026-04-04T14:18:00+08:00"
 }
