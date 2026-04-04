@@ -35,6 +35,19 @@ clawhub search [关键词] --base-url https://mirror-cn.clawhub.com
 
 **搜索语法**：以后搜索skills用镜像站，不用原生官方站
 
+## 高频调用防护规则（2026-04-05新增）
+
+**核心原则：先规划，再执行，禁止边想边改。**
+
+修改多个相关配置项时（cron/gateway/文件等）：
+1. 先在脑中/草稿区列出所有需要改动的项
+2. 合并为一次工具调用完成，不逐个调用
+3. 调用失败后等待片刻，不立即重试
+4. 严禁在同一个工具上连续调用超过2次
+
+**反面案例**：对同一个cron任务连续6次update/patch，每次只改一个字段 → 触发高频保护
+**正确做法**：把payload+timeout+delivery三项合并，一次update完成
+
 ## Cron配置关键知识（2026-04-02从定时任务可靠性计划迁移）
 
 **isolated session硬上限：平台对isolated agent session的默认timeout = 600秒（10分钟）**
