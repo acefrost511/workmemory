@@ -1,0 +1,145 @@
+# Source URL: https://deepmind.google/models/gemma/gemma-4/
+# Content Length: 13216 characters
+# Extracted at: 2026-04-04 18:35:00
+#============================================================
+
+[Skip to main content](https://deepmind.google/models/gemma/gemma-4/#page-content)
+Gemma 4
+# Our most intelligent open models, built from Gemini 3 research and technology to maximize intelligence-per-parameter
+[Read docs](https://ai.google.dev/gemma/docs?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content) [Try in Google AI Studio](https://aistudio.google.com/prompts/new\_chat?model=gemma-4-31b-it&utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content=)
+![](https://lh3.googleusercontent.com/-pT0obGj4NI3YcivFrLZ63AQDh4VNe6TgS8IzpAx-z9O3LUTKYuec\_GeM2WDHuB0VtmjvlcO8Gwyb\_XUQf-ol8WYbInLE3xlXhrs7VnmET0Fk2g=w1440-h810-n-nu)![](https://lh3.googleusercontent.com/9niq7sKOnvFUhmkPb\_QYGSj4CMb-jo7TW86H54-lJXaUoXvcDx\_Y5YJ52sZZATVgFw9xKmOQA1aEBPX3tn-KZ-8KZA2zZtm14o2ztm1zG7K0bkCL0Eg=w1440-h810-n-nu)
+### Model sizes
+Slide 1 of 1
+[Learn more Maximum compute and memory efficiency](https://deepmind.google/models/gemma/gemma-4/#e2b-and-e4b)
+![](https://lh3.googleusercontent.com/241kUbfd5jozU-ETxthrBSW7\_xgCEvMzxVVuThwIzazfHluocz1svdDFjkXpZjNqbGEwMCJDtwa9u9QJAjgOfa5Y8-ss43U4yClrEY241305bqThgbU=w1440)![](https://lh3.googleusercontent.com/LoBNGAVAJpiKOwh-79dLSX\_swo\_0DOrHKQ4pxZ\_TaD5NzTtTIsaQ6wnglBvW8gvyPVd1tMLPVeqKtbVW8z-n3\_3SDy\_e3A9DZwFvBvDhgxl40OPDTg=w1440)
+Your browser does not support the video tag.
+E2B & E4B
+### Maximum compute and memory efficiency
+A new level of intelligence for mobile and IoT devices
+[Learn more](https://deepmind.google/models/gemma/gemma-4/#e2b-and-e4b)
+[Learn more Unprecedented intelligence-per-parameter](https://deepmind.google/models/gemma/gemma-4/#26b-and-31b)
+![](https://lh3.googleusercontent.com/c9w8JGekqO0jTMuXmWjsS9bZJVlNKAl1F5rJmg-emLQkQul5PNmENZosqnmp7kmRWTz0XsmIFK1BVob56zvgb9fw\_9NmX4yDCDMrJ442CB9bKNRc5w=w1440)![](https://lh3.googleusercontent.com/qLgbEgFwoqchYFAGqMocshvKENOJjhaFOdhStt8phLcfJIyTpryiW8heA-I-zC5J3-Ky483GgA88F1G8CfVgUfMfYKU62ivg0w12sBTI\_uURtEAjNA=w1440)
+Your browser does not support the video tag.
+26B & 31B
+### Unprecedented intelligence-per-parameter
+Frontier intelligence on personal computers
+[Learn more](https://deepmind.google/models/gemma/gemma-4/#26b-and-31b)
+[Learn more Maximum compute and memory efficiency](https://deepmind.google/models/gemma/gemma-4/#e2b-and-e4b)
+![](https://lh3.googleusercontent.com/241kUbfd5jozU-ETxthrBSW7\_xgCEvMzxVVuThwIzazfHluocz1svdDFjkXpZjNqbGEwMCJDtwa9u9QJAjgOfa5Y8-ss43U4yClrEY241305bqThgbU=w1440)![](https://lh3.googleusercontent.com/LoBNGAVAJpiKOwh-79dLSX\_swo\_0DOrHKQ4pxZ\_TaD5NzTtTIsaQ6wnglBvW8gvyPVd1tMLPVeqKtbVW8z-n3\_3SDy\_e3A9DZwFvBvDhgxl40OPDTg=w1440)
+Your browser does not support the video tag.
+E2B & E4B
+### Maximum compute and memory efficiency
+A new level of intelligence for mobile and IoT devices
+[Learn more](https://deepmind.google/models/gemma/gemma-4/#e2b-and-e4b)
+[Learn more Unprecedented intelligence-per-parameter](https://deepmind.google/models/gemma/gemma-4/#26b-and-31b)
+![](https://lh3.googleusercontent.com/c9w8JGekqO0jTMuXmWjsS9bZJVlNKAl1F5rJmg-emLQkQul5PNmENZosqnmp7kmRWTz0XsmIFK1BVob56zvgb9fw\_9NmX4yDCDMrJ442CB9bKNRc5w=w1440)![](https://lh3.googleusercontent.com/qLgbEgFwoqchYFAGqMocshvKENOJjhaFOdhStt8phLcfJIyTpryiW8heA-I-zC5J3-Ky483GgA88F1G8CfVgUfMfYKU62ivg0w12sBTI\_uURtEAjNA=w1440)
+Your browser does not support the video tag.
+26B & 31B
+### Unprecedented intelligence-per-parameter
+Frontier intelligence on personal computers
+[Learn more](https://deepmind.google/models/gemma/gemma-4/#26b-and-31b)
+- [Capabilities](https://deepmind.google/models/gemma/gemma-4/#capabilities)
+- [Performance](https://deepmind.google/models/gemma/gemma-4/#performance)
+- [Safety](https://deepmind.google/models/gemma/gemma-4/#safety)
+- [Download](https://deepmind.google/models/gemma/gemma-4/#download)
+### Capabilities
+Slide 1 of 1
+### Agentic workflows
+Build autonomous agents that plan, navigate apps, and complete tasks on your behalf, with native support for function calling.
+### Multimodal reasoning
+Develop applications with strong audio and visual understanding, for rich multimodal support.
+### Support for 140 languages
+Create multilingual experiences that go beyond translation and understand cultural context.
+### Fine tuning
+Improve performance for specific tasks by training Gemma using your preferred frameworks and techniques.
+### Efficient architecture
+Run models on your own hardware for efficient development and deployment.
+\* \* \*
+### Performance
+#### Industry-leading efficiency
+[View model card](https://ai.google.dev/gemma/docs/core/model\_card\_4?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/QInH6awnEGY0Anki/gemma\_\_gemma-4\_\_elo-size\_\_light\_lk35LoW.svg)![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/QInH6awnEGY0Anki/gemma\_\_gemma-4\_\_elo-size\_\_dark\_QICdcNx.svg)
+| Benchmark | | Gemma 4 31B IT Thinking | Gemma 4 26B A4B IT Thinking | Gemma 4 E4B IT Thinking | Gemma 4 E2B IT Thinking | Gemma 3 27B IT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Arena AI (text) As of 4/2/26 | | \*\*1452\*\* | 1441 | — | — | 1365 |
+| MMMLU Multilingual Q&A | No tools | \*\*85.2%\*\* | 82.6% | 69.4% | 60.0% | 67.6% |
+| MMMU Pro Multimodal reasoning | | \*\*76.9%\*\* | 73.8% | 52.6% | 44.2% | 49.7% |
+| AIME 2026 Mathematics | No tools | \*\*89.2%\*\* | 88.3% | 42.5% | 37.5% | 20.8% |
+| LiveCodeBench v6 Competitive coding problems | | \*\*80.0%\*\* | 77.1% | 52.0% | 44.0% | 29.1% |
+| GPQA Diamond Scientific knowledge | No tools | \*\*84.3%\*\* | 82.3% | 58.6% | 43.4% | 42.4% |
+| τ2-bench Agentic tool use | Retail | \*\*86.4%\*\* | 85.5% | 57.5% | 29.4% | 6.6% |
+These models were evaluated against a large collection of datasets and metrics to cover different aspects of text generation. See additional benchmarks in [model card](https://ai.google.dev/gemma/docs/core/model\_card\_4?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content).
+\* \* \*
+E2B and E4B
+### A new level of intelligence for mobile and IoT devices
+#### Audio and vision support for real-time edge processing. They can run completely offline with near-zero latency on edge devices like phones, Raspberry Pi, and Jetson Nano.
+[Try in Google AI Edge Gallery](https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery&hl=en\_US&e=Refresh::Arm\_Force)
+\* \* \*
+26B and 31B
+### Frontier intelligence, efficient performance
+#### Advanced reasoning for IDEs, coding assistants, and agentic workflows. These models are optimized for consumer GPUs — giving students, researchers, and developers the ability to turn workstations into local-first AI servers.
+[Try in Google AI Studio](https://aistudio.google.com/prompts/new\_chat?model=gemma-4-31b-it&utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content=)
+\* \* \*
+### Safety
+Gemma 4 models undergo the same rigorous infrastructure security protocols as our proprietary models. By choosing Gemma 4, enterprises and sovereign organizations gain a trusted, transparent foundation that delivers state-of-the-art capabilities while meeting the highest standards for security and reliability.
+[Learn more](https://deepmind.google/responsibility-and-safety/)
+\* \* \*
+### Download
+#### Model weights
+[Hugging Face ](https://huggingface.co/collections/google/gemma-4)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_hugging-face.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_hugging-face.svg)
+[Hugging Face](https://huggingface.co/collections/google/gemma-4)
+[Ollama ](https://ollama.com/library/gemma4)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_ollama\_\_light.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_ollama\_\_dark.svg)
+[Ollama](https://ollama.com/library/gemma4)
+[Kaggle ](https://www.kaggle.com/models/google/gemma-4)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_kaggle.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_kaggle.svg)
+[Kaggle](https://www.kaggle.com/models/google/gemma-4)
+[LM Studio ](https://lmstudio.ai/models/gemma-4)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_lmstudio.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_lmstudio.svg)
+[LM Studio](https://lmstudio.ai/models/gemma-4)
+[Docker ](https://hub.docker.com/r/ai/gemma4)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/C7YfT6oUTvVQgou1/ecosystem\_\_docker\_\_light.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/C7YfT6oUTvVQgou1/ecosystem\_\_docker\_\_dark.svg)
+[Docker](https://hub.docker.com/r/ai/gemma4)
+\* \* \*
+### Run
+#### Train and deploy
+[Jax ](https://gemma-llm.readthedocs.io/en/latest/index.html?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content=)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/jax\_y6ruUHZ.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/jax\_y6ruUHZ.svg)
+[Jax](https://gemma-llm.readthedocs.io/en/latest/index.html?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content=)
+[Vertex AI ](https://ai.google.dev/gemma/docs/integrations/google-cloud?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content=)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/try\_\_vertex-ai\_\_light.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/try\_\_vertex-ai\_\_dark.svg)
+[Vertex AI](https://ai.google.dev/gemma/docs/integrations/google-cloud?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content=)
+[Keras ](https://ai.google.dev/gemma/docs/core/keras\_inference?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_keras\_9L65lch.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_keras\_9L65lch.svg)
+[Keras](https://ai.google.dev/gemma/docs/core/keras\_inference?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content)
+[Google AI Edge ](https://ai.google.dev/edge?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content=)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_google.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_google.svg)
+[Google AI Edge](https://ai.google.dev/edge?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content=)
+[Google Kubernetes Engine ](https://ai.google.dev/gemma/docs/core/gke?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content=)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_google.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_google.svg)
+[Google Kubernetes Engine](https://ai.google.dev/gemma/docs/core/gke?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content=)
+[Ollama ](https://ai.google.dev/gemma/docs/integrations/ollama?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_ollama\_\_light.svg)
+![](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original\_images/gemma-ecosystem\_\_ollama\_\_dark.svg)
+[Ollama](https://ai.google.dev/gemma/docs/integrations/ollama?utm\_source=deepmind.google&utm\_medium=referral&utm\_campaign=gdm&utm\_content)
+[Learn more Join the Gemmaverse](https://deepmind.google/models/gemma/gemmaverse/)
+![](https://lh3.googleusercontent.com/F75RQDkVmDPzXVe53VodHM1u78XnXQJujfUf6lQNjkNlCTjZLYZ2hPD3-p2i4khXLWUGzcGqCfDW0ZgloF\_3CXm62jpeNK8bMj8QhQcVec1ZZls=w1440)![](https://lh3.googleusercontent.com/ybH3Uxy0dhfm1\_7uBBQJVLdD9FEYNScrQISKF5QS\_oUsgGaOA8ZyXuOsuFxYp0D9QIfrP4BzCM0Fh1RuqjUUeChGRQWdjEvAblrgBBWDNyaAKXxH=w1440)
+### Join the Gemmaverse
+Explore how others build with Gemma
+[Learn more](https://deepmind.google/models/gemma/gemmaverse/)
+What’s new in Gemma 4 - YouTube
+Tap to unmute
+[What’s new in Gemma 4](https://www.youtube.com/watch?v=jZVBoFOJK-Q) [Google for Developers](https://www.youtube.com/channel/UC\_x5XG1OV2P6uZZ5FSM9Ttw)
+![thumbnail-image](https://yt3.ggpht.com/WZ\_63J\_-745xyW\_DGxGi3VUyTZAe0Jvhw2ZCg7fdz-tv9esTbNPZTFR9X79QzA0ArIrMjYJCDA=s68-c-k-c0x00ffffff-no-rj)
+Google for Developers2.61M subscribers

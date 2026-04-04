@@ -60,6 +60,7 @@
 
 ## Skill监控节点（v4.0新增）
 
+- daily-viewpoint skill：触动→每日观点（待陛下标记完毕触发，与碰撞分析并行）
 - collision-analysis skill：触动→碰撞卡（待陛下标记完毕触发）
 - insight-generate skill：判断→完整洞察（待陛下写判断触发）
 - insight-extend skill：每日17:00自动（cron）

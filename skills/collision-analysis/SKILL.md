@@ -3,6 +3,10 @@ AIGC:
     ContentProducer: Minimax Agent AI
     ContentPropagator: Minimax Agent AI
     Label: AIGC
+    ProduceID: b5fb4906969bbc99d0ea92a25c02e2c3
+    PropagateID: b5fb4906969bbc99d0ea92a25c02e2c3
+    ReservedCode1: 3046022100912b3c8d538bff949bbccf6041bd945209e4b442c2cff1c96eebad4104ada7d8022100944b3e473eb8a0a135d328fd0c8a23da32efffd653491f83783120aaa5d3a2b6
+    ReservedCode2: 3045022004904b04c5cdc940ee0fce026160c705848b9c816a24223d55494ef36725c98b022100c1b01723bf38794fd90c3a9ff44bce393f436bed4e18ff2ac492d79cb2efb25a
 ---
 
 # collision-analysis | 碰撞分析技能

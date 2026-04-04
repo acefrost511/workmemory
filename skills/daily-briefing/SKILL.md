@@ -3,6 +3,10 @@ AIGC:
     ContentProducer: Minimax Agent AI
     ContentPropagator: Minimax Agent AI
     Label: AIGC
+    ProduceID: 2fc69ab9d98594aa98a22caedb425b42
+    PropagateID: 2fc69ab9d98594aa98a22caedb425b42
+    ReservedCode1: 3045022072094bde37ba39ebfb70251fa7c99e5f06c25349be4e03f117d32a2fe780bd99022100f0329a047df5714ef9ddb6718b0a13e29a82161eab5c43d137868617f6eed8ae
+    ReservedCode2: 3046022100de242fb22b9186dab92ec64a402ea82a00aa021f707dece612d0a626529f272b022100c53747bf282f6effe162e45145f84e3bf260f7b081b9fc28c496c95a4dcc4132
 ---
 
 # daily-briefing | 每日简报写作技能
@@ -176,14 +180,21 @@ AIGC:
 
 ---
 
-## 六、衔接规则
+## 六、衔接规则（v4.0新增每日观点节点）
 
 | 触发条件 | 动作 |
 |---------|------|
 | 每日05:40 | 自动执行库存检查→选文→推送 |
-| 陛下「标记完毕」 | 标记触动/无触动→调用collision-analysis skill |
+| 陛下「标记完毕」 | 标记触动/无触动→**生成每日观点（daily-viewpoint skill）→并行启动碰撞分析** |
+| 陛下「跳过每日观点」 | 不生成观点，只启动碰撞分析 |
 | 陛下「今天跳过」 | 流程静默结束，不打标签 |
 | 库存<30篇 | 触发情报官补货，不等待次日 |
+
+**完整流程链**：
+```
+每日简报 → 陛下标触动 → 每日观点（发老师）→ 碰撞分析 → 洞察全文
+                             （并行执行）
+```
 
 ---
 

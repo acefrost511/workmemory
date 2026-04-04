@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 185b3137c239081f64c3418640397275
+    PropagateID: 185b3137c239081f64c3418640397275
+    ReservedCode1: 3046022100fc8f981927af51d1d6c111ce6f1074a838d445388f1bbd0a979091c3c036e547022100dcfa1e079aef102070385263ffc33ea498fc51222419582c5558b04b09ce3434
+    ReservedCode2: 3046022100b91dc20c31e7bd98f6f55996aa420c9ae16b2f8c6b947085ced2d49d2d48a461022100ad269ee8781255beddc1004e04cc261242dcb7d669978eee735fd51b1506a3f4
+---
+
 # 技能3：结构规划
 > 版本：v1.0 | 日期：2026-04-01
 > 定位：基于标题+开头，设计文章骨架

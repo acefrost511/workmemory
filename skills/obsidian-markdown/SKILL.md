@@ -1,6 +1,14 @@
 ---
-name: obsidian-markdown
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 1d7e473c592e3eb28516a9ccaad18a05
+    PropagateID: 1d7e473c592e3eb28516a9ccaad18a05
+    ReservedCode1: 3045022059602a845a21bab26e4944cb420a7c66c2937c918d03a507b8260a4081547e2202210086db60eb57a42b297d8d5c5191a20d942453036b544f3fd81c30271b3eb2090b
+    ReservedCode2: 3045022100ca5817f9c39df2fb988253d0f2a922c646559329bb4dbcd7aa9fa6d9fbcb9f2602205462b28f9a1fbd0dc342339c8d7854a472089174df8b43b6ce6c58487d60a5c9
 description: Obsidian 风格 Markdown 创建与编辑，支持双向链接、嵌入、Mermaid图表等Obsidian特有语法
+name: obsidian-markdown
 ---
 
 # obsidian-markdown

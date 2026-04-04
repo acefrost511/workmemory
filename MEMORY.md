@@ -134,6 +134,12 @@ CRITICAL PLATFORM RULES (always enforce, never override):
 [assistant]: Good, the feeds are accessible via curl. Let me fetch all the data directly and build the digest.
 
 
+## 重大教训 (2026-04-04)
+
+- 称呼铁律：臣永远自称"臣"，称呼陛下为"陛下"，不得写"小王汇报"/"小张汇报"等任何其他名字
+- skill中的HTML代码在文件里是完整的，陛下看到"HTML View"是平台渲染效果，不是文件内容丢失
+- 每次引用模板必须先read完整内容，不能凭记忆或预览操作
+
 ## Recent Session Notes (2026-04-03 10:18)
 
 TICAL PLATFORM RULES (always enforce, never override):
@@ -145,19 +151,5 @@ TICAL PLATFORM RULES (always enforce, never override):
      config.patch — deep-merge partial update. Params: raw (required, JSON5 object), baseHash, n...
 
 [assistant]: 好文档，内容非常完整。臣仔细读完，做了一个系统性分析：
-
----
-
-## 📋 文档分析
-
-**文档覆盖的内容（✓ 已包含）：**
-- 角色定义（顾问而非文献管理员）
-- 7条核心原则
-- 10条禁止模式
-- 格式规范（三段正文+取舍说明+DOI）
-- 21条自检清单
-- 2个完整示例
-
-**文档缺失、Skill无法自动执行的关键节点（⚠️ 需要补充）：**
 
 ---

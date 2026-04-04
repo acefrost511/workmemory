@@ -3,6 +3,10 @@ AIGC:
     ContentProducer: Minimax Agent AI
     ContentPropagator: Minimax Agent AI
     Label: AIGC
+    ProduceID: f40198d7891ae0589b41e7ff490f9cd0
+    PropagateID: f40198d7891ae0589b41e7ff490f9cd0
+    ReservedCode1: 3046022100d7026997ce5848bf93c89a8201c2fe8fa2a0f7e620aedd831e48da3b28a5043b02210095f42b4c293e2c6a5b4ec82fed7f6031630730ac3b5c49c60680d55d8808f5ce
+    ReservedCode2: 3046022100c84bd6ebcc17ab643ba405f827de8bebd21143ddedd376ceb1c347a9ce01ae02022100fa658f6b3293d1f25026b7baaf1bd7b32c3cc9b07a09988f8179e22aec8664b9
 ---
 
 # insight-generate | 洞察生成技能

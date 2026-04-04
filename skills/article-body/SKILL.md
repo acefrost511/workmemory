@@ -1,3 +1,14 @@
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 4fce3c1adf868b646c1ef2462aa729ae
+    PropagateID: 4fce3c1adf868b646c1ef2462aa729ae
+    ReservedCode1: 304502210093f768e608b6f817f0abf3f4d8cd033a9017c99432595e4cabbd7bac37fe012102203526e53fe4da35b9574e51c259f1b401b1b8135f97f1e18f7fee494d666507ab
+    ReservedCode2: 3045022100c4bc31aa343ae16bee44bd7a259e139d4db484261f713077200e6297328bb0ef022076040c7efb37b0b1386e5bb5c53d2d3e53c02e165cad56e810af0c129ab6fefe
+---
+
 # 技能4：正文写作
 > 版本：v1.0 | 日期：2026-04-01
 > 定位：基于骨架，填充完整正文初稿
