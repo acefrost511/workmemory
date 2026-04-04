@@ -1,6 +1,6 @@
 ---
 name: md2wechat
-description: 将每日观点/文章转换为微信公众号编辑器可直接粘贴的HTML（已通过实测验证）。触发关键词：公众号排版html、公众号排版、md转公众号、生成公众号版、微信html、手机预览、每日观点HTML。功能：纯内联style，粘贴到微信公众号编辑器后格式最大程度保留。
+description: 将每日观点/文章转换为微信公众号编辑器可直接粘贴的HTML（已通过实测验证，样式固定零随机性）。触发关键词：公众号排版html、公众号排版、md转公众号、生成公众号版、微信html、手机预览、每日观点HTML。功能：纯内联style，粘贴到微信公众号编辑器后格式最大程度保留，每次输出样式完全一致。
 ---
 
 # md2wechat - Markdown 转微信公众号 HTML（实测版）
@@ -64,10 +64,19 @@ blockquote style="..."                <!-- 引用块样式会变形 -->
 ### Step 1：读取 Markdown 源文件
 读取 `/.daily_viewpoint.md` 或陛下指定的 markdown 文件
 
-### Step 2：按格式规范转换为 HTML
-- 只用 h1/h2/p/hr 四种标签
-- 每行样式直接写在 tag 内（inline）
-- 不使用任何 div 包裹卡片
+### Step 2：复制模板并替换内容（铁律：样式不得更改）
+1. 复制上方「模板代码」，粘贴进write内容
+2. 按顺序替换以下内容，不得更改任何style属性：
+   - `YYYY年MM月DD日` → 实际日期
+   - `第N期` → 实际期数
+   - `共M条精选` → 实际篇数
+   - `壹` → 中文大写序号（第几篇用几）
+   - `文章标题` → 篇目标题
+   - `English Title` → 英文原标题（中文论文则无此行）
+   - `来源：期刊名 · YYYY年M月` → 实际来源
+   - `正文内容……` → 对应段落正文
+   - `看法正文……` → 我的看法内容
+   - `金句正文……` → 一句话内容
 
 ### Step 3：保存文件
 ```bash
@@ -80,16 +89,18 @@ write <content> /workspace/reports/daily/每日观点_YYYY-MM-DD.html
 ### Step 5：告知陛下操作方式
 "浏览器打开 → Ctrl+A全选 → Ctrl+C复制 → 粘贴进微信公众平台编辑器"
 
-## 模板代码（直接复制使用）
+**铁律：模板代码中的所有style属性（颜色/字号/间距/对齐方式）一律不得修改，只允许替换文本内容。**
+
+## 模板代码（每次必须原样复制，不得修改样式）
 
 ```html
 <h1 style="font-size:26px;color:#4A3728;text-align:center;margin:0 0 4px;">每日观点</h1>
-<p style="font-size:14px;color:#9A8B78;text-align:center;margin:0 0 4px;">YYYY年MM月DD日 · 第N期</p>
+<p style="font-size:14px;color:#9A8B78;text-align:center;margin:0 0 4px;">YYYY年MM月DD日 · 第N期 · 共M条精选</p>
 <hr style="border:none;border-top:1px solid #D4C4A8;margin:20px 0;">
 
 <h2 style="font-size:20px;color:#3D2B1F;margin:0 0 4px;">壹 · 文章标题</h2>
 <p style="font-size:13px;color:#888;font-style:italic;margin:0 0 4px;">English Title</p>
-<p style="font-size:13px;color:#B8A07A;margin:0 0 14px;">来源：期刊 · YYYY年M月</p>
+<p style="font-size:13px;color:#B8A07A;margin:0 0 14px;">来源：期刊名 · YYYY年M月</p>
 
 <p style="font-size:14px;color:#8B7355;font-weight:bold;margin:0 0 4px;">▶ 这篇在说什么</p>
 <p style="font-size:15px;color:#3D2B1F;line-height:1.9;margin:0 0 12px;">正文内容……</p>
@@ -104,15 +115,36 @@ write <content> /workspace/reports/daily/每日观点_YYYY-MM-DD.html
 <p style="font-size:15px;color:#3D2B1F;line-height:1.9;margin:0 0 24px;font-weight:bold;">金句正文……</p>
 
 <hr style="border:none;border-top:1px solid #D4C4A8;margin:20px 0;">
+```
 
-<!-- 重复以上结构至末篇 -->
-
+**每篇重复以上结构，末篇后附：**
+```html
 <p style="font-size:13px;color:#C4B89A;text-align:center;">每日观点 · 转发请注明出处</p>
 ```
 
+---
+
+## 固定样式参数表（禁止随意更改）
+
+| 元素 | 标签 | font-size | color | font-weight | 其他 |
+|------|------|-----------|-------|-------------|------|
+| 主标题 | h1 | 26px | #4A3728 | — | text-align:center; margin:0 0 4px |
+| 期号行 | p | 14px | #9A8B78 | — | text-align:center; margin:0 0 4px |
+| 分隔线 | hr | — | — | — | border:none; border-top:1px solid #D4C4A8; margin:20px 0 |
+| 篇名标题 | h2 | 20px | #3D2B1F | — | margin:0 0 4px |
+| 英文标题 | p | 13px | #888 | — | font-style:italic; margin:0 0 4px |
+| 来源 | p | 13px | #B8A07A | — | margin:0 0 14px |
+| 章节标签 | p | 14px | #8B7355 | bold | margin:0 0 4px |
+| 正文 | p | 15px | #3D2B1F | — | line-height:1.9; margin:0 0 12px |
+| 我的看法正文 | p | 15px | #5C4A3D | — | font-style:italic; line-height:1.9; margin:0 0 12px |
+| 我的看法标签 | p | 14px | #C49A3C | bold | margin:0 0 4px |
+| 金句 | p | 15px | #3D2B1F | bold | line-height:1.9; margin:0 0 24px |
+| 底部 | p | 13px | #C4B89A | — | text-align:center |
+
 ## 注意事项
 
-- 每次只转换一篇每日观点（7篇合一篇）
+- 每次只转换一篇每日观点（多篇合一篇）
 - 文件名格式：`每日观点_YYYY-MM-DD.html`
 - 存储路径：`/workspace/reports/daily/`
 - 交付方式：先上传CDN，再将链接发给陛下
+- 标题行格式：`YYYY年MM月DD日 · 第N期 · 共M条精选`（"触动"二字永久去除）
