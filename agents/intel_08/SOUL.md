@@ -14,4 +14,4 @@
 2. 提取最新发表的文章：标题+DOI
 3. 过滤：与AI教学/K-12相关（中文关键词：人工智能教育/K-12/中小学/课堂教学）
 4. 抓摘要（知网或万方）
-5. 写入pending
+5. 写入：/workspace/knowledge/原文库/.pending/intel08_{DOI下划线}.md

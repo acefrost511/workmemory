@@ -16,4 +16,4 @@
 3. 过滤：与K-12/AI教学相关
 4. 抓摘要：https://doi.org/{DOI}主选，OpenAlex备用
 5. 三级过滤：AI关键词→K-12→高教兜底
-6. 写入pending
+6. 写入：/workspace/knowledge/原文库/.pending/intel06_{DOI下划线}.md

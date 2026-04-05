@@ -28,7 +28,7 @@ AI education K-12 / AI teaching K-12 / AI classroom / AI teacher development / g
 2. 取前3篇
 3. **对每篇立即执行：**
    a. **检查英文标题是否已获取**：搜索结果中必须包含论文英文标题，若标题字段为空或仅显示"待补充"，必须访问论文摘要页补充完整英文标题，仍无法获取则跳过该篇，不得写入
-   b. 写入 `/workspace/knowledge/原文库/.pending/.pending/{DOI或arXivID}.md`，文件内必须包含 `**标题**：[完整英文标题]` 字段
+   b. 写入 `/workspace/knowledge/原文库/.pending/{DOI或arXivID}.md`，文件内必须包含 `**标题**：[完整英文标题]` 字段
    c. **立即调用审核脚本**：
       ```bash
       

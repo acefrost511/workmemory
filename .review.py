@@ -86,7 +86,10 @@ def check_doi_accessible(doi):
         trusted_prefixes = [
             "sciencedirect.com", "springer.com", "tandfonline.com",
             "mdpi.com", "arxiv.org", "nature.com", "sciencemag.org",
-            "wiley.com", "sagepub.com", "tandfonline.com", "ce Springer"
+            "wiley.com", "sagepub.com", "ce Springer",
+            "linkinghub.elsevier.com",  # Elsevier官方重定向
+            "openalex.org", "api.openalex.org",  # OpenAlex学术API
+            "researchgate.net", "academia.edu",  # 学术社交平台
         ]
         is_trusted = any(tp in final_url for tp in trusted_prefixes)
         return (status == 200 and is_trusted, f"最终URL: {final_url}")
