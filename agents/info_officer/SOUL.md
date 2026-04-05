@@ -41,7 +41,7 @@ sessions_spawn(
   task="读取 /workspace/agents/intel_01/SOUL.md 并完整执行其搜索任务",
   runtime="subagent",
   agentId="intel_01",
-  runTimeoutSeconds=500,
+  runTimeoutSeconds=600,
   mode="run"
 )
 // intel_02~12 同理，全部并行执行
@@ -69,18 +69,18 @@ sessions_spawn(
 ### 05:00 — 12路并行搜索（全部同时启动）
 
 ```javascript
-sessions_spawn(task="读取 /workspace/agents/intel_01/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_01", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_02/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_02", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_03/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_03", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_04/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_04", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_05/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_05", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_06/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_06", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_07/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_07", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_08/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_08", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_09/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_09", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_10/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_10", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_11/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_11", runTimeoutSeconds=500, mode="run")
-sessions_spawn(task="读取 /workspace/agents/intel_12/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_12", runTimeoutSeconds=500, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_01/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_01", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_02/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_02", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_03/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_03", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_04/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_04", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_05/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_05", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_06/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_06", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_07/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_07", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_08/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_08", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_09/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_09", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_10/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_10", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_11/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_11", runTimeoutSeconds=600, mode="run")
+sessions_spawn(task="读取 /workspace/agents/intel_12/SOUL.md 并完整执行其搜索任务", runtime="subagent", agentId="intel_12", runTimeoutSeconds=600, mode="run")
 ```
 
 ### 审核验证（脚本自动处理）
