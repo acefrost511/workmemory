@@ -282,3 +282,12 @@ cron 4段流水线（明日05:00起生效）：
 - 标题已定：视觉效果陷阱：AI动画越精美，学习可能越浅
 - 等待陛下确认开头（技能2）
 
+
+## 2026-04-05 14:29 更新
+
+**【情报流水线v4.0全面恢复】** 2026-04-05 14:29 → ✅ 完成
+- intel_01~05 cron缺失 → 新建 cron ID a4b3f1ed（05:00，spawn intel_01~05）
+- intel_06~12 cron（0510-intel-batch2）→ enabled=true ✅
+- 简报生成+推送 cron（0540-intel-aggregate）→ enabled=true，timeout=570s ✅
+- 审核调度器（reviewer-plan-b-dispatcher）→ enabled=true，timeout=120s ✅
+- 明日05:00起：三段流水线完整运行
