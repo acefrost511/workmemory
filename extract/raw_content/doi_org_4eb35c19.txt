@@ -1,0 +1,256 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2024.105071
+# Content Length: 25748 characters
+# Extracted at: 2026-04-05 05:07:03
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S036013152400085X?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S036013152400085X?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS036013152400085X)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S036013152400085X/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S036013152400085X?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S036013152400085X?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S036013152400085X?via%3Dihub#preview-section-snippets)
+- [References (135)](https://www.sciencedirect.com/science/article/abs/pii/S036013152400085X?via%3Dihub#preview-section-references)
+- [Cited by (78)](https://www.sciencedirect.com/science/article/abs/pii/S036013152400085X?via%3Dihub#preview-section-cited-by)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/a5e606d86afa94817e1983e67790246fdee34f13/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 217](https://www.sciencedirect.com/journal/computers-and-education/vol/217/suppl/C "Go to table of contents for this volume/issue"), August 2024, 105071
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131524X0007X-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/217/suppl/C)
+# Artificial intelligence for teaching and learning in schools: The need for pedagogical intelligence
+Author links open overlay panelBrayanDíaza, MiguelNussbaumb
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2024.105071](https://doi.org/10.1016/j.compedu.2024.105071 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S036013152400085X&orderBeanReset=true)
+## Highlights
+- •
+The application of AI in education largely follows the same principles of previous technologies.
+- •
+Systematic Literature Review of the pedagogical applications of AI in K-12 contexts.
+- •
+Lack of pedagogical foundations that lead the current research of AI in schools.
+- •
+Critical analysis of AI research across the lens of pedagogical frames.
+## Abstract
+Artificial intelligence (AI) has been hailed for its potential to revolutionize teaching and learning practices. Undoubtedly, there has been development, but has it transferred to a new pedagogical trend? Indeed, research shows more tools, software, etc., built through AI, but there is still a limited understanding of its pedagogical impact. This review aims to assess whether AI has indeed led to new pedagogical trends in education using a Human Center AI framework. To accomplish this, a [systematic review](https://www.sciencedirect.com/topics/psychology/systematic-review) of research on the pedagogical applications of AI in K-12 contexts was conducted, following the PRISMA guidelines. The review involved an inductive coding analysis of a comprehensive search across WoS, Scopus, and EBSBU. From a pool of 3277 publications spanning 2019 to 2023, 183 papers met the inclusion criteria for detailed analysis. Six categories emerged: Behaviorism, Cognitivism, [Constructivism](https://www.sciencedirect.com/topics/psychology/constructivism), [Social Constructivism](https://www.sciencedirect.com/topics/psychology/social-constructivism), Experiential Learning, and [Community of Practices](https://www.sciencedirect.com/topics/social-sciences/communities-of-practice). The findings of this research provide a promising perspective on synthesizing the results based on the pedagogical framework that describes AI implementation. While technological advancements have improved AI capabilities, the application of AI in education largely follows the same principles of previous technologies. This research suggests that the failure to transform education through AI stems from a lack of consideration of Gardner's proposed ninth intelligence type—pedagogical intelligence. Furthermore, this paper offers a critical analysis of the HCAI framework and proposes an adaptation called Pedagogical Centered AI (PCAI) for designing and using AI in K-12 education. Final discussions highlight the implications and future perspectives of AI in educational settings.
+## Introduction
+The potential of artificial intelligence (AI) in education has been widely recognized (European Commission Directorate-General for Education Youth Sport and Culture, 2022; U.S. Department of Education, 2023). However, despite the increasing attention given to AI's transformative impact on education, there remains a gap in understanding this impact, as highlighted by policy reports (EDUCAUSE, 2019; Pedro, Subosa, Rivas, & Valverde, 2019), researchers (Ahmad, Rahmat, Mubarik, Alam, & Hyder, 2021; Crompton & Burke, 2023; Gillani, Eynon, Chiabaut, & Finkel, 2023; Rahm & Rahm‐Skågeby, 2023), and even journals (e.g., Bates, Cobo, Mariño, & Wheeler, 2020; Sadler, Mensah, & Tam, 2024).
+Understanding the widespread impact of AI in educational systems presents challenges due to its proliferation across various disciplines (Crompton & Burke, 2023). To address this, scholars have conducted systematic literature reviews (e.g., Martin, Chen, Moore, & Westine, 2020; Surahman & Wang, 2022), bibliometric analyses (e.g., Huang, Zou, Cheng, Chen, & Xie, 2023), scoping review (e.g., Joksimovic et al., 2023; Su & Yang, 2022), and meta-analyses (e.g., Hwang, 2022; Li & Gu, 2023;Su et al., 2022) to gain insights into the current state of the art of AI. However, despite these substantial efforts, a gap remains regarding the pedagogical aims and support for AI in educational practice (Chiu, Moorhouse, Chai, & Ismailov, 2023; Li & Gu, 2023), particularly in the K-12 context (Zafari, Bazargani, Sadeghi-Niaraki, & Choi, 2022). In fact, current literature reviews (e.g., Huang et al., 2023; Lo, 2023) mainly aim to summarize the usage of AI in educational settings but lack comprehensive discussions on how, why, and for what pedagogical reasons AI has been implemented and how those implementations align with previous pedagogical practices.
+In sum, there is a lack of discussion about whether AI is genuinely transforming teaching and learning practices in schools or if AI merely represents just another set of new technological devices being employed similarly to traditional pedagogical tools. By conducting a comprehensive analysis of the literature, this study seeks to contribute to a deeper understanding of the current state of the pedagogical trends of AI implementation in K-12 education and shed light on potential avenues for future research. Therefore, our research question is as follows:
+What pedagogical aims have driven the implementation of AI in education, and how do they relate to our existing knowledge of teaching and learning practices in schools?
+This research goes beyond providing a mere updated description of AI applications; it critically analyzes AI as a pedagogical tool. The goal is to comprehend its impact within the educational context, considering it not merely as a technology but as a means to enhance teaching and learning experiences.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS036013152400085X)
+## Section snippets
+## AI in education
+The concept of AI traces back to the early 1950s by Alan Turing, who proposed that a system could be deemed “intelligent” if it could mimic human behavior to the extent that the distinction between the machine and a human performing the task becomes indistinguishable (Russell & Norvig, 2010). From Turing's early work, several sub-fields of AI technology have been developed (e.g., Machine Learning) (Akgun & Greenhow, 2022).
+Various technology applications and definitions of AI within an
+## Method
+This research used the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines (Moher, Liberati, Tetzlaff, Altman, & PRISMA Group∗, 2009; Page et al., 2021).
+## Behaviorism
+AI studies in education emphasizing stimulus, response, and reinforcement align with behaviorism (e.g., CH & Saha, 2019; Wang, Ma, Baker, & Li, 2022, June; Bang, Li, & Flynn, 2023; Robles & Quintero M, 2020). Behaviorist AI systems overlook students' initial conditions and past experiences, instead focusing on providing incentives and reinforcement, following behaviorist learning principles (Skinner, 1948). Table 5 exemplifies two behaviorist studies. Bang et al. (2023) implemented a math
+## Discussion
+Many studies in the literature review fail to build their AI innovations on solid theoretical learning frameworks or demonstrate how their teaching and learning practices align with these frameworks. The majority of these studies lack pedagogical conceptual foundations and justifications for using a specific AI system, generating issues regarding how we are investigating and implementing AI in education. For example, one issue that emerges from this disconnection is the potential risk of
+## Pedagogical Center AI framework
+Aligning with others' research (e.g., Chiu et al., 2023; Zawacki-Richter et al., 2019; Gillani et al., 2023; Rahm & Rahm-Skågeby, 2023), our findings reveal a lack of pedagogical connections and absence of pedagogical support in designing and implementing AI in education. To facilitate and improve the pedagogical purpose and operationalization guiding the application of AI in education, we have adapted Shneiderman's (2020) two-dimensional (human control and computer automation) model of HCA to
+## Limitations
+Despite the researchers' efforts to integrate different databases and employ rigorous search, selection, and analysis processes, this study acknowledges a limitation regarding the scope of the search and analysis. For instance, restricting the search to English languages may have excluded studies conducted in other languages. Furthermore, the focus on K-12 educational contexts may limit the generalizability of the findings to other educational levels or settings. Different levels of education
+## Conclusion
+Our research question that drives this work is as follows: \_What pedagogical aims have been driven by the implementation of AI in education, and how do they relate to our existing knowledge of teaching and learning practices in schools?\_ Through a systematic literature review of publications from the last five years (2019–2023) across three databases (WoS, Scopus, and EBSBU), we discovered that none of the current implementations of AI in education are leading to fundamentally new pedagogical
+## CRediT authorship contribution statement
+\*\*Brayan Díaz:\*\* Writing – original draft, Methodology, Formal analysis, Conceptualization. \*\*Miguel Nussbaum:\*\* Writing – review & editing, Supervision, Formal analysis, Conceptualization.
+## Acknowledgements
+This research was supported by the National Center for Artificial Intelligence CENIA FB210017, Basal ANID.
+Recommended articles
+- R. Alfredo \_et al.\_
+### [Human-Centred Learning Analytics and AI in Education: a Systematic Literature Review](https://www.sciencedirect.com/science/article/pii/S2666920X2400016X)
+### Computers and Education: Artificial Intelligence
+(2024)
+- W.J. Bingley \_et al.\_
+### [Where is the human in human-centered AI? Insights from developer priorities and user experiences](https://www.sciencedirect.com/science/article/pii/S074756322200437X)
+### Computers in Human Behavior
+(\[object Object\])
+- N. Bonneton-Botté \_et al.\_
+### [Can tablet apps support the learning of handwriting? An investigation of learning outcomes in kindergarten classroom](https://www.sciencedirect.com/science/article/pii/S0360131520300336)
+### Computers & Education
+(2020)
+- C.M. Chen \_et al.\_
+### [An instant perspective comparison system to facilitate learners' discussion effectiveness in an online discussion process](https://www.sciencedirect.com/science/article/pii/S0360131520302359)
+### Computers & Education
+(2021)
+- T.K. Chiu \_et al.\_
+### [Systematic literature review on opportunities, challenges, and future research recommendations of artificial intelligence in education](https://www.sciencedirect.com/science/article/pii/S2666920X2200073X)
+### Computers & Education
+(2023)
+- T. Ingkavara \_et al.\_
+### [The use of a personalized learning approach to implementing self-regulated online learning](https://www.sciencedirect.com/science/article/pii/S2666920X22000418)
+### Computers & Education: Artificial Intelligence
+(2022)
+- S. Järvelä \_et al.\_
+### [Predicting regulatory activities for socially shared regulation to optimize collaborative learning](https://www.sciencedirect.com/science/article/pii/S0747563223000882)
+### Computers in Human Behavior
+(2023)
+- S. Joksimovic \_et al.\_
+### [Opportunities of artificial intelligence for supporting complex problem-solving: Findings from a scoping review](https://www.sciencedirect.com/science/article/pii/S2666920X23000176)
+### Computers & Education: Artificial Intelligence
+(2023)
+- M.H. Kaspersen \_et al.\_
+### [High school students exploring machine learning and its societal implications: Opportunities and challenges](https://www.sciencedirect.com/science/article/pii/S2212868922000575)
+### International Journal of Child-Computer Interaction
+(2022)
+- C.C. Liu \_et al.\_
+### [An analysis of children’interaction with an AI chatbot and its impact on their interest in reading](https://www.sciencedirect.com/science/article/pii/S0360131522001476)
+### Computers & Education
+(2022)
+J. Liu \_et al.\_
+### [Screen media overuse and associated physical, cognitive, and emotional/behavioral outcomes in children and adolescents: An integrative review](https://www.sciencedirect.com/science/article/pii/S0891524521001267)
+### Journal of Pediatric Health Care
+(2022)
+M.J. Page \_et al.\_
+### [Updating guidance for reporting systematic reviews: Development of the PRISMA 2020 statement](https://www.sciencedirect.com/science/article/pii/S0895435621000408)
+### Journal of Clinical Epidemiology
+(2021)
+M. Rojas \_et al.\_
+### [Assessing collaborative problem-solving skills among elementary school students](https://www.sciencedirect.com/science/article/pii/S0360131521001901)
+### Computers & Education
+(2021)
+J. Su \_et al.\_
+### [Artificial intelligence in early childhood education: A scoping review](https://www.sciencedirect.com/science/article/pii/S2666920X22000042)
+### Computers & Education: Artificial Intelligence
+(2022)
+J. Su \_et al.\_
+### [A meta-review of literature on educational approaches for teaching AI at the K-12 levels in the Asia-Pacific region](https://www.sciencedirect.com/science/article/pii/S2666920X22000200)
+### Computers & Education: Artificial Intelligence
+(2022)
+S.F. Ahmad \_et al.\_
+### Artificial intelligence and its role in education
+### Sustainability
+(2021)
+S. Akgun \_et al.\_
+### Artificial intelligence in education: Addressing ethical challenges in K-12 settings
+### AI Ethics
+(2022)
+F.S. Al-Anzi
+### Self-adaptive feedback E-learning scheme for elementary math in Kuwait
+R. Alexander
+### Essays on pedagogy
+(2013)
+A. Andinia \_et al.\_
+### Design of learning application using trivia method based on google assistant for vision impairment disability
+M. Arguedas \_et al.\_
+### Analysing the role of a pedagogical agent in psychological and cognitive preparatory activities
+### Journal of Computer Assisted Learning
+(2021)
+T. Baker \_et al.\_
+### Educ-AI-tion rebooted? Exploring the future of artificial intelligence in schools and colleges
+H.J. Bang \_et al.\_
+### Efficacy of an adaptive game-based math learning app to support personalized learning and improve early elementary school students' learning
+### Early Childhood Education Journal
+(2023)
+T. Bates \_et al.\_
+### Can artificial intelligence transform higher education?
+### International Journal of Educational Technology in Higher Education
+(2020)
+J.S. Bruner
+### Toward a theory of instruction
+(1966)
+D.R. Ch \_et al.\_
+### RemedialTutor: A blended learning platform for weak students and study its efficiency in social science learning of middle school students in India
+### Education and Information Technologies
+(2019)
+X. Chen \_et al.\_
+### Two decades of artificial intelligence in education
+### Educational Technology & Society
+(2022)
+D.R. Chine \_et al.\_
+### Educational equity through combined human-AI personalization: A propensity matching evaluation
+T.K. Chiu \_et al.\_
+### Teacher support and student motivation to learn with Artificial Intelligence (AI) based chatbot
+### Interactive Learning Environments
+(2023)
+J.H. Choi \_et al.\_
+### Chatgpt goes to law school
+(2023)
+C.H. Chuang \_et al.\_
+### Integrating chatbot and augmented reality technology into biology learning during COVID-19
+### Electronics
+(2023)
+J. Corbin \_et al.\_
+### Basics of qualitative research
+### Techniques and procedures for developing grounded theory
+(2008)
+J. Cornejo-Reyes \_et al.\_
+### “Pachamanta”, a multi-thematic platform for teaching friendly living with the environment
+H. Crompton \_et al.\_
+### Artificial intelligence in higher education: The state of the field
+### International Journal of Educational Technology in Higher Education
+(2023)
+H. Crompton \_et al.\_
+### Affordances and challenges of artificial intelligence in K-12 education: A systematic review
+### Journal of Research on Technology in Education
+(2022)
+J.O. De Nieva \_et al.\_
+### Investigating students' use of a mental health chatbot to alleviate academic stress
+B. Díaz \_et al.\_
+### Use of communities of practice to analyze and improve graduate engineering education
+B. Díaz \_et al.\_
+### Improving graduate engineering education through communities of practice approach: Analysis of implementation in computer science, robotics, and construction engineering courses
+B. Diaz \_et al.\_
+### Using communities of practice to investigate work-integrated learning in engineering education: a grounded theory approach
+### \_Higher Education\_
+(2024)
+### Horizon report: 2019 higher education edition
+### Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for educators
+(2022)
+B. Flanagan \_et al.\_
+### Towards explainable group formation by knowledge map based genetic algorithm
+M.I. Furenes \_et al.\_
+### A comparison of children's reading on paper versus screen: A meta-analysis
+### Review of Educational Research
+(2021)
+(2003)
+H.E. Gardner
+### Frames of mind: The theory of multiple intelligences
+(2011)
+H. Gardner
+### Pedagogical (teaching) intelligence: Some intriguing findings
+D.R. Garrison \_et al.\_
+### Critical inquiry in a text-based environment: Computer conferencing in higher education
+### The internet and higher education
+(2000)
+K.F. Geisinger
+### 21st century skills: What are they and how do we assess them?
+### Applied Measurement in Education
+(2016)
+N. Gillani \_et al.\_
+### Unpacking the “black box” of AI in education
+### Educational Technology & Society
+(2023)
+A. Gilson \_et al.\_
+### How does ChatGPT perform on the United States medical licensing examination? The implications of large language models for medical education and knowledge assessment
+### JMIR Medical Education
+(2023)
+View more references
+- ### [Integrating generative artificial intelligence in K-12 education: Examining teachers’ preparedness, practices, and barriers](https://www.sciencedirect.com/science/article/pii/S2666920X25000037)
+2025, Computers and Education Artificial Intelligence
+Show abstract
+Despite the growing body of research on developing K-12 teachers' generative AI (GenAI) knowledge and skills, its integration into daily teaching practices remains underexplored. Using a snowball sampling method, this study examined the preparedness, practices, and barriers encountered by 89 U.S. teachers in the state of Idaho. Participants were predominantly White, female teachers serving in rural schools. A mixed-methods analysis of survey responses revealed that teachers were generally underprepared for integrating GenAI, with fewer than half incorporating it into their educational practices. Unlike the widespread classroom integration patterns observed with general educational technologies, teachers in this study tended to use GenAI for out-of-classroom duties (i.e., lesson preparation, assessment, and administrative tasks) rather than for real-time teaching and learning. These preferences could be attributed to key barriers teachers faced, including doubts about GenAI's ability to manage risks (i.e., technology value beliefs), reduced human interaction in instruction (i.e., pedagogical beliefs), ethical considerations, and the absence of policies and guidance. This study highlights the need to develop support systems and targeted policies to facilitate teachers' GenAI integration, offering implications for Idaho's education system and the broader U.S. context.
+- ### [Navigating elementary EFL speaking skills with generative AI chatbots: Exploring individual and paired interactions](https://www.sciencedirect.com/science/article/pii/S036013152400126X)
+2024, Computers and Education
+Citation Excerpt :
+These findings align with the principles of social constructivism, which indicate that learners collectively construct knowledge through interactions and collaboration (Vygotsky, 1980). Meaning negotiation occurs when interlocutors adjust their language to achieve agreement and mutual understanding during communication breakdowns, often by asking for clarification, correcting errors, and repeating (Díaz & Nussbaum, 2024; Su & Zou, 2022). Additionally, by replicating real-life language environments, AI chatbots create learning contexts similar to everyday situations, thus enabling learners to apply acquired skills in practical scenarios (Tai & Chen, 2022).
+Show abstract
+Generative artificial intelligence (GAI) and automatic speech recognition (ASR) have ushered in promising tools for foreign language learning, notably GAI chatbots. This study investigated the impact of GAI chatbots on elementary school English as a foreign language (EFL) learners' speaking skills, focusing on two interaction configurations—individual and paired. Eighty-five elementary school EFL learners participated in a three-week summer program, engaging in daily 45-min interactions with CoolE Bot. The participants were randomly assigned to three groups: (1) individual interaction with CoolE Bot (I-Bot group), (2) paired interaction with CoolE Bot (P-Bot group), and (3) interaction with teachers and peers in a conventional English classroom (No-Bot group). In each class, participants in the Bot group received worksheets with a topic, prompts, and vocabulary to guide their interactions with CoolE Bot, while those in the No-Bot group also received worksheets for comparable activities. Quantitative (English-speaking tests) and qualitative data (semi-structured interviews) were collected and analyzed. Results revealed that the I-Bot and P-Bot groups' post-test speaking skills were significantly higher than those of the No-Bot group. CoolE Bot significantly improved the speaking skills of EFL learners. Both individual and paired interactions with CoolE Bot demonstrated positive effects, with no significant differences between groups. Interviews highlight CoolE Bot's adeptness in coherent interaction, charismatic conversational style with a human-like voice, diverse topic discussions tailored to learners' interests, and supportive functions. The participants found GAI chatbot-assisted EFL speaking enjoyable, motivating, and engaging appreciating its cartoonish, human-like characters, conversational style, and voice. Additionally, CoolE Bot fostered rapport and a supportive environment enhancing learners' confidence and reducing anxiety regarding EFL speaking. Individual interactions encourage personalized engagement and self-directed learning, whereas paired interactions involve social dynamics, shared learning experiences, and mutual resolution of language challenges.
+- ### [Pedagogical framework for hybrid intelligent feedback](https://doi.org/10.1080/14703297.2025.2499174)
+2026, Innovations in Education and Teaching International
+- ### [Design and assessment of AI-based learning tools in higher education: a systematic review](https://doi.org/10.1186/s41239-025-00540-2)
+2025, International Journal of Educational Technology in Higher Education
+- ### [Systematic Review of Artificial Intelligence in Education: Trends, Benefits, and Challenges](https://doi.org/10.3390/mti9080084)
+2025, Multimodal Technologies and Interaction
+- ### [AI-Driven Optimization of Blockchain Scalability, Security, and Privacy Protection](https://doi.org/10.3390/a18050263)
+2025, Algorithms
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-85193904698&md5=6a8e273bfb54438d1c17799b99a54bf4)
+[View full text](https://www.sciencedirect.com/science/article/pii/S036013152400085X)
+© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

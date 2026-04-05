@@ -31,3 +31,5 @@ Artificial intelligence (AI), which enables machines to learn to perform a task 
 - **入库时间**：2026-04-04
 - **情报官**：intel_03（超时未完成，小艾代为写入）
 - **注**：本文为2022年预印本（arXiv），发表时间早于2025-2026时间范围，属白名单来源中的历史重要文献
+
+**审核状态**：✅已补审（历史遗留文件）

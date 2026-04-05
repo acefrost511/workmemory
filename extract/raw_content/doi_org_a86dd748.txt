@@ -1,0 +1,204 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2025.105550
+# Content Length: 35505 characters
+# Extracted at: 2026-04-05 11:23:01
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003197?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003197?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525003197)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131525003197/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003197?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003197?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003197?via%3Dihub#preview-section-snippets)
+- [References (65)](https://www.sciencedirect.com/science/article/abs/pii/S0360131525003197?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 244](https://www.sciencedirect.com/journal/computers-and-education/vol/244/suppl/C "Go to table of contents for this volume/issue"), April 2026, 105550
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131525X00166-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/244/suppl/C)
+# Brain–Computer Interface driven BOPPPS: Empirical evidence for enhanced educational practices
+Author links open overlay panelYangAn, Steven W.Su
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2025.105550](https://doi.org/10.1016/j.compedu.2025.105550 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131525003197&orderBeanReset=true)
+## Highlights
+- •
+A role playing teaching model improves student engagement and learning experience
+- •
+Brain computer interface feedback supports real time adjustments in BOPPPS classes
+- •
+Scripted tasks guide peer interaction and collaboration during class activities
+- •
+Cognitive and emotional states enable more objective assessment beyond exam scores
+## Abstract
+Current educational practices often fall short in delivering personalized instruction, accurately assessing teaching effectiveness, and fostering interactivity in educational settings. Integrating Brain–Computer Interface (BCI) technology with the BOPPPS (Bridge-in, Objective, Pre-assessment, Participatory Learning, Post-assessment, and Summary) teaching model may offer a promising solution to these challenges, yet remains largely unexplored. This study employed a quasi-experimental design involving 24 undergraduate students. The experimental group utilized a BCI-enhanced Scripted Performance-based BOPPPS model (SP-BOPPPS), while the control group followed the traditional BOPPPS model. The instructional approach was examined using electroencephalogram (EEG) data, classroom tests, and project completion evaluations. Preliminary results suggested that students using the SP-BOPPPS model appeared to show higher test scores and project completion outcomes than those using the traditional BOPPPS model, although these observations were made across different but closely related course topics. EEG analysis from this small exploratory sub-sample of four participants suggested preliminary trends toward higher attention levels and more positive emotional states under the SP-BOPPPS model. These qualitative observations may indicate that BCI technology helps provide real-time information about students’ cognitive and emotional states, potentially supporting more personalized instructional adjustments. Taken together, these tentative findings suggest that integrating BCI into traditional teaching models may offer a promising direction for supporting student engagement, and the study provides early empirical indications and a potential framework for applying BCI-based technologies in educational contexts. Future research with larger and more diverse student samples, as well as fully randomized controlled designs using identical instructional content, will be essential for assessing the robustness and generalizability of these preliminary findings.
+## Introduction
+With the rapid development of educational informatization, integrating emerging technologies into teaching has become an important focus for improving instructional quality and learning outcomes. In recent years, advances in Brain–Computer Interface (BCI) technology have introduced new possibilities for innovation in education. By monitoring brain activity in real time, BCI can offer objective information about students’ cognitive states and thereby supporting more personalized and adaptive instruction (Rudroff, 2025). Meanwhile, the BOPPPS teaching model, which consists of the Bridge-in, Objective, Pre-assessment, Participatory Learning, Post-assessment, and Summary stages, has been widely adopted in educational practice and has been shown to enhance student engagement and overall learning effectiveness (Shen et al., 2024).
+However, current educational practice continues to face challenges, including limited opportunities for personalized instruction, insufficient mechanisms for evaluating teaching effectiveness, and restricted levels of classroom interactivity (Hughey, 2020). Integrating BCI technology with the BOPPPS teaching model has therefore become an important and timely research direction. Although previous studies have begun to explore the potential of BCI in educational settings and research on the BOPPPS model has demonstrated clear benefits for improving teaching effectiveness, their deeper integration is still at an early stage. Most existing work remains conceptual or focuses on technical feasibility, with relatively few systematic empirical studies or classroom-based implementations (Chen et al., 2024, Siqiang et al., 2024). In addition, research examining how BCI can be embedded into specific teaching processes, how it influences students’ learning experiences, and how instructors can adjust their teaching strategies based on BCI data remains limited (Jingyu, 2024).
+In light of these challenges, this study aims to investigate the application of BCI technology within the BOPPPS teaching model through empirical analysis. The study examines how BCI may influence students’ learning experiences and instructional effectiveness and proposes directions for further improvement. Specifically, this research focuses on three key questions: First, how can BCI technology be incorporated into the participatory learning stage of the BOPPPS model to inform instructional adjustments based on real-time data? Addressing this question can help better meet individual learning needs and enhance both teaching effectiveness and student engagement. Second, in what ways can BCI technology be used to evaluate students’ learning experiences within the BOPPPS framework, particularly in relation to attention levels, emotional states, and learning motivation? Third, does the integration of BCI technology within the BOPPPS model contribute to measurable improvements in learning outcomes, such as academic performance and knowledge retention?
+The innovation of this study lies in the integrated use of BCI technology and the BOPPPS model. By enabling real-time monitoring of students’ learning states, the approach provides data-informed support for personalized instruction and offers a practical pathway for deeper integration of educational technology and pedagogical design. This work not only addresses the current gap in empirical research on combining BCI with instructional models but also provides a new perspective on promoting personalized learning and improving educational equity.
+The structure of this paper is organized as follows. The Section 1 presents a literature review that outlines the theoretical foundations of the study and explains the need for integrating Brain–Computer Interface technology with the BOPPPS teaching model. The Section 2 introduces the research methodology, including the research design, sample selection, and procedures for data collection and analysis. The Section 3 reports the research findings and examines the effects of applying BCI technology within the BOPPPS framework. The Section 4 discusses the meaning of these findings and their implications for educational practice. Finally, the paper concludes with a summary of the main results, acknowledges the study’s limitations, and offers directions for future research.
+Research on the application of Brain–Computer Interface (BCI) technology in education has expanded rapidly in recent years, with studies focusing on several interconnected areas including attention monitoring, personalized learning, integration with instructional tools, and broader system-level educational applications.
+A growing line of research has examined how BCI can be used to monitor students’ attention and other cognitive states during learning. For example, a recent scoping review by Wang, Zhang et al. (2023) synthesized 45 studies on portable EEG systems and noted that most investigations used low-cost consumer devices such as the NeuroSky MindWave to examine how learning-related factors relate to attention or to develop attention-monitoring tools. These studies typically extracted spectral features such as alpha, beta, and theta power to estimate attentional levels, but many also reported recurring methodological challenges, including small sample sizes, brief recording periods, and variability in signal quality.
+Building on these methodological approaches, subsequent studies have applied portable EEG-based measures of attention and cognitive state in various learning environments. For instance, Chen et al. (2017) developed an EEG-based online attention assessment system that provided real-time feedback to learners. Apicella et al. (2022) also found that EEG frequency bands were associated with learners’ cognitive and emotional engagement in technology-supported classroom settings. Additional investigations have explored how low-cost EEG devices can be used to estimate cognitive load during complex tasks (Knoll et al., 2011) and to measure sustained attention in younger learners (Aleksandrova et al., 2019), offering further evidence that EEG-based monitoring is feasible in a variety of applied educational contexts.
+Apart from the use of BCI for monitoring attention and cognitive states, another stream of research examines how BCI can facilitate personalized learning and promote non-academic skill development. Pan and Cristea (2024) reviewed how BCI-based interventions may help cultivate abilities such as attention regulation, emotional control, and creativity through neurofeedback practices. Likewise, Spüler et al. (2017) discussed how neural data could be used to guide individualized learning pathways, manage cognitive load, and provide support in special education contexts. Studies informed by cognitive neuroscience and affective learning theory further indicate that monitoring learners’ cognitive and emotional states can contribute to refining instructional strategies and improving learning performance (Jamil et al., 2021). In addition, research on passive BCI approaches suggests that continuous observation of brain activity may help maintain student engagement in digital learning environments (Andujar & Gilbert, 2013).
+Drawing on these studies, which offer initial evidence that BCI technology can serve as a learning-monitoring tool, BCI has also been integrated into instructional tools and learning platforms to foster interactivity and enhance learning efficiency. For example, Cai et al. (2022) evaluated a BCI-supported augmented reality inquiry tool in elementary science education and found that it reduced cognitive load while encouraging active exploration. In addition to tool-level applications, several platform-based implementations have emerged. Studies have introduced low-cost EEG systems for monitoring attention and academic performance in middle school students (Fuentes-Martinez et al., 2023, Ishtiaque et al., 2023), as well as EEG-based attention tracking mechanisms for large-scale online learning environments (Aggarwal et al., 2021). Taken together, these studies illustrate that BCI-enabled tools can provide teachers with real-time insight into learners’ cognitive states, thereby supporting more responsive and timely instructional adjustments.
+Beyond direct instructional support, BCI technology has also been examined from broader educational and behavioral perspectives. Wegemer (2019) reviewed the development of BCI applications in education and noted their potential roles in attention monitoring, personalized learning, and special education, while also outlining several ongoing challenges, including technological complexity, uncertain long-term effects, and concerns related to data privacy. Building on this broader view, Jiang et al. (2024) drew on the Theory of Diffusion of Innovations to analyze how BCI technologies may help address issues such as individualized instruction, the development of non-academic competencies, and educational equity, and also discussed the possibility that cloud-based platforms could improve access to BCI-supported learning resources. Research has additionally examined factors influencing learners’ acceptance of BCI tools. For example, Wang, Wei et al. (2023) reported that perceived usefulness, ease of use, and social influences were associated with students’ intention to adopt BCI technologies in gamified learning settings, where game-based elements appeared to increase learners’ motivation and openness to BCI-based systems.
+Brain–Computer Interface technology has shown considerable promise for monitoring and supporting learners’ cognitive and emotional states. By providing real-time information on attention, cognitive load, and emotional engagement, BCI can help educators adjust their instructional strategies to better address individual learners’ needs (Papanastasiou et al., 2020). However, to ensure that BCI is applied effectively and contributes to meaningful learning, its use should be embedded within a structured and evidence-based instructional framework. The BOPPPS model (Bridge-In, Objective, Pre-Assessment, Participatory Learning, Post-Assessment, Summary) is a widely recognized framework that provides a systematic approach to planning and implementing high-quality instruction (Hu et al., 2022). Its emphasis on student-centered and interactive learning aligns well with the types of information that BCI technology can provide, making the two highly complementary.
+Research on course-level instructional design has shown that the BOPPPS model can effectively support project-based teaching in technical subjects and contribute to improvements in students’ conceptual understanding and learning performance (Wen et al., 2023). For instance, Ma and Yan (2023) implemented the BOPPPS model in a Microcontroller Units and Interface Technology course through a project-based structure that divided the “Water Level Monitoring and Display” project into smaller components with clearly defined learning objectives. This design helped students understand the underlying project elements and supported a more organized learning process. Likewise, Wu et al. (2022) examined the use of the BOPPPS model in teaching the “Series Feedback Regulator Circuit”, illustrating how the framework informed lesson planning and guided students in analyzing circuit modifications during classroom activities. Building on these applications, Wu et al. (2023) integrated Tina virtual simulation software into the BOPPPS framework to further strengthen circuitry instruction, which was associated with improvements in students’ analytical and design skills as well as higher levels of engagement.
+Further applications of the BOPPPS model have been examined in a variety of instructional settings. In mechanical drawing education, Zhou et al. (2023) integrated the BOPPPS framework with cloud-based platforms, MOOCs, virtual reality tools, and smart classroom systems to enhance the effectiveness of remote instruction. Their results suggest that combining BOPPPS with emerging instructional technologies can strengthen teaching quality and improve students’ learning experiences. Building on this direction, Chen et al. (2023) introduced the BP-CM instructional model, which incorporates elements of BOPPPS, PAD (Presentation, Assimilation, and Discussion), and memory-based learning approaches to address challenges related to classroom feedback and student engagement in Internet of Things (IoT) hardware courses. Evidence from both quantitative and qualitative assessments indicated that BP-CM supported higher levels of student participation and improved knowledge retention, contributing to students’ cognitive and technical development.
+The pedagogical flexibility of the BOPPPS model has also been demonstrated through its integration with other evidence-based instructional approaches. For example, Wang (2020) investigated the combined application of flipped classroom strategies, outcome-based education, and the BOPPPS model in a computer applications course. Their results indicated that the integrated approach supported improvements in instructional quality and student learning performance, aided by a clearly structured flipped-classroom design that facilitated comprehension and encouraged active participation. In clinical hematology education, Feng et al. (2024) incorporated problem-based learning into the BOPPPS framework and reported notable gains in students’ examination performance, suggesting that this combined method helped cultivate self-directed learning habits and strengthened students’ problem-solving skills.
+In addition, a growing body of research has examined blended implementations of the BOPPPS model. The blended learning BOPPPS model (BL-BOPPPS), which combines traditional classroom instruction with online learning formats, has been reported to enhance learning experiences across multiple subject areas. In a health service management course, Ma et al. (2021) found that BL-BOPPPS was associated with improvements in both skill development and academic performance relative to traditional lecture-based instruction. Related findings were reported in veterinary infectious diseases, where Dai et al. (2024) observed higher levels of student engagement and more effective instructional delivery when using the BL-BOPPPS approach. Within clinical training settings, Xu et al. (2023) noted that hybrid BOPPPS formats supported the development of clinical competencies and were viewed positively by students in obstetrics and gynecology internships. Similarly, Liu et al. (2022) showed that the hybrid BOPPPS model in physiology courses was associated with higher exam performance and favorable student feedback. Taken together, these studies indicate that integrating online and face-to-face instruction within the BOPPPS framework can help enhance student engagement, support learning outcomes, and create a more effective instructional environment.
+Despite progress in the application of BCI technology in education, important gaps remain, especially in its integration with existing teaching models and its influence on students’ learning experiences. First, the specific ways in which BCI technology can be used within the teaching process remain unclear, particularly in terms of its effective integration with established models such as BOPPPS. This area of research is still in its early stages, with limited evidence on how BCI can be incorporated into structured instructional approaches. Additionally, the BOPPPS model often follows a standardized format that does not address the diversity of students’ learning needs. This limitation makes it challenging to meet the varied abilities and preferences of learners. Furthermore, when course material becomes highly complex, the BOPPPS model may be less effective; difficult content can make it harder to keep students engaged, leading to weaker support for learning motivation and reduced classroom participation.
+Second, the influence of BCI technology on students’ learning experiences and the ways in which teachers can adjust their instructional strategies based on BCI data remain insufficiently explored. Traditional assessments of students’ attention, learning states, and learning outcomes often rely on subjective observations, which do not provide real-time feedback or support personalized adjustments. As a result, teachers may struggle to understand learners’ cognitive states and emotional responses during the lesson, potentially leading to inconsistent instructional effectiveness. In addition, BOPPPS model-based teaching often uses a uniform approach to student engagement and has not fully leveraged the potential of participatory learning methods. This limitation can reduce opportunities for meaningful interaction between teachers and students, as well as among students themselves, which may hinder the development of communication skills and a sense of collaboration.
+To address these challenges, this study proposes a new interactive and closed-loop teaching approach, the Scripted Performance-based BOPPPS (SP-BOPPPS) model. This method incorporates role-playing into the traditional BOPPPS structure and integrates BCI technology as a mechanism for assessment and feedback. The SP-BOPPPS framework combines elements of gamification and problem-based learning to create a more immersive and engaging classroom environment. By involving students in role-based scenarios, the model encourages active participation and supports the practical application of course content, offering a more interactive alternative to conventional instructional formats. In addition, the model incorporates real-time BCI feedback, which brings neurophysiological information directly into the teaching process. This integration allows instructors to make timely adjustments based on students’ cognitive and emotional states, thereby supporting more personalized learning experiences. While the SP-BOPPPS structure introduces a novel form of active learning, the use of BCI feedback provides a complementary data-driven component that helps instructors better respond to individual student needs.
+The aim of this study is to examine how incorporating role-playing into participatory teaching methods influences students’ learning experiences and instructional effectiveness. In addition, the study explores how BCI technology can support the participatory stage of the BOPPPS model by providing real-time feedback and personalized instructional cues, thereby helping address individual learning needs and potentially improving learning outcomes. The contribution of this work lies in proposing a gamified participatory teaching model designed to increase student engagement, together with the integration of BCI technology within the SP-BOPPPS framework. In this study, BCI serves as a case-study tool to evaluate the proposed model and to deliver real-time feedback that supports individualized learning during instruction. The specific innovations are as follows:
+- 1.
+\*\*Personalize Learning Pathways:\*\* Traditional teaching approaches often rely on uniform instructional methods that do not fully address the diverse learning needs of students. In this study, BCI technology serves as a case-study tool to investigate how real-time monitoring of students’ brain activity can reflect their attention levels, cognitive load, and emotional states. The use of these data helps inform personalized learning pathways and enables instructional content to be adjusted based on individual needs, thereby enhancing the relevance and effectiveness of the teaching process.
+- 2.
+\*\*Improve Interactive Learning:\*\* The SP-BOPPPS instructional approach integrates role-playing activities, allowing students to participate in structured scenario-based tasks and increasing their engagement with the course content. This method enhances students’ interest and motivation, encouraging more active learning. By fostering meaningful interactions between teachers and peers, it supports students’ comprehension and retention of the learning material and helps develop collaboration, communication, and problem-solving skills.
+- 3.
+\*\*Enhance Learning Effectiveness Assessment:\*\* Traditional assessments that rely primarily on exam scores offer only a partial view of student performance and do not capture the learning process or the difficulties students may encounter. In contrast, integrating BCI technology with the BOPPPS model makes it possible to monitor cognitive and emotional changes through EEG signals, providing a more detailed and dynamic understanding of students’ learning states. This approach may help teachers identify challenges such as learning fatigue or reduced engagement at an earlier stage. Furthermore, incorporating BCI into the instructional process gives educators more objective and data-informed insights that can assist in refining teaching strategies and strengthening the connection between educational technology and conventional pedagogical methods. These insights may also be applicable in a variety of instructional settings, including face-to-face classrooms, online learning environments, and special education contexts, offering a flexible and adaptable approach for supporting teaching and learning.
+- 4.
+\*\*Integrate teaching model and BCI technology:\*\* The integration of the SP-BOPPPS teaching model with BCI technology may further strengthen the participatory components of the learning process. By using real-time BCI feedback to guide adjustments during interactive activities, students may participate more effectively in active learning. This approach not only supports student engagement but may also help foster self-directed learning skills, thereby enhancing the participatory elements of the BOPPPS model.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131525003197)
+## Section snippets
+## Research model and procedure
+The BOPPPS model, comprising six stages — Bridge-in, Objective, Pre-assessment, Participatory Learning, Post-assessment, and Summary — is a widely used teaching strategy. In this study, we propose the Scripted Performance-based BOPPPS (SP-BOPPPS) model, which enhances the Participatory Learning stage by introducing two new segments: Public Discourse and Private Discourse. These segments are integrated with BCI feedback technology to monitor and adapt to students’ learning states in real-time,
+## Results
+Based on the distribution of classroom quiz scores and project evaluation results, we conducted a comparative analysis of student performance under the two instructional conditions. Fig. 11 illustrates the score distribution of students in the classroom quizzes for both teaching models. As depicted in the figure, students scored higher in the SP-BOPPPS condition across most intervals compared with the scores observed in the traditional BOPPPS condition. Notably, in the highest score interval of
+## Attention analysis
+In this experiment, EEG signals were used to monitor and analyze changes in students’ attention levels during the learning process. The procedure included the acquisition, preprocessing, and analysis of EEG data to obtain neural activity patterns associated with attention. To maintain analytical consistency, EEG segments recorded during rest periods and quiz sessions were excluded, as these intervals may reflect non-learning activities. Only the EEG signals captured during instructional
+## Conclusion
+This study examined the integration of Brain–Computer Interface (BCI) technology into the proposed SP-BOPPPS teaching model, using BCI as a case-study vehicle to explore how students responded to this approach in comparison with the traditional BOPPPS model. Findings from classroom assessments, project outcomes, subjective evaluations, and an exploratory EEG sub-sample offer promising preliminary indications that BCI-generated cognitive and emotional information may support more personalized
+## CRediT authorship contribution statement
+\*\*Yang An:\*\* Writing – original draft, Visualization, Validation, Resources, Project administration, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. \*\*Steven W. Su:\*\* Writing – review & editing, Visualization, Validation, Supervision, Data curation, Conceptualization.
+## Funding statement
+This research was supported by the Academic Promotion Project of Shandong First Medical University.
+## Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Recommended articles
+- P.M. Keune \_et al.\_
+### [Exploring resting-state EEG brain oscillatory activity in relation to cognitive functioning in multiple sclerosis](https://www.sciencedirect.com/science/article/pii/S1388245717304819)
+### Clinical Neurophysiology
+(2017)
+- C. Li \_et al.\_
+### [Development of engagement evaluation method and learning mechanism in an engagement enhancing rehabilitation system](https://www.sciencedirect.com/science/article/pii/S0952197616000257)
+### Engineering Applications of Artificial Intelligence
+(2016)
+- X.-Y. Liu \_et al.\_
+### [Assessment of the effectiveness of BOPPPS-based hybrid teaching model in physiology education](https://www.sciencedirect.com/science/article/pii/S2352484721011574)
+### BMC Medical Education
+(2022)
+- G. Papanastasiou \_et al.\_
+### [Brain computer interface based applications for training and rehabilitation of students with neurodevelopmental disorders. A literature review](https://www.sciencedirect.com/science/article/pii/S240584402031094X)
+### Heliyon
+(2020)
+- A.T. Pope \_et al.\_
+### [Biocybernetic system evaluates indices of operator engagement in automated task](https://www.sciencedirect.com/science/article/pii/0301051195051163)
+### Biological Psychology
+(1995)
+- T. Rudroff
+### [Decoding thoughts, encoding ethics: A narrative review of the BCI-AI revolution](https://www.sciencedirect.com/science/article/pii/S0006899324006784)
+### Brain Research
+(2025)
+- C. Shah \_et al.\_
+### [Collaboration and synergy in hybrid Q&A: Participatory design method and results](https://www.sciencedirect.com/science/article/pii/S0740818815000353)
+### Library & Information Science Research
+(2015)
+- N. Unin
+### [Brainstorming as a way to approach student-centered learning in the ESL classroom](https://www.sciencedirect.com/science/article/pii/S1877042816305353)
+### Procedia-Social and Behavioral Sciences
+(2016)
+- R.R. Aduradola \_et al.\_
+### The power of student’s involvement: Using posters as teaching tools in managing large classes
+### English for Specific Purposes World
+(2013)
+- S. Aggarwal \_et al.\_
+### A preliminary investigation for assessing attention levels for massive online open courses learning environment using eeg signals: An experimental study
+### Human Behavior and Emerging Technologies
+(2021)
+A. Al-Nafjan \_et al.\_
+### Predict students’ attention in online learning using EEG data
+### Sustainability
+(2022)
+N.A. Aleksandrova \_et al.\_
+### Study of the elementary school students’ attention functioning on the basis of the brain–computer interface
+Y. An \_et al.\_
+### Auto-denoising for EEG signals using generative adversarial network
+### Sensors
+(2022)
+M. Andujar \_et al.\_
+### Let’s learn! enhancing user’s engagement levels through passive brain–computer interfaces
+A. Apicella \_et al.\_
+### EEG-based measurement system for monitoring student engagement in learning 4.0
+### Scientific Reports
+(2022)
+S. Bock \_et al.\_
+### A proof of local convergence for the adam optimizer
+R.M. Bottino \_et al.\_
+### Transforming classroom teaching & learning through technology: Analysis of a case study
+### Journal of Educational Technology and Society
+(2007)
+S. Cai \_et al.\_
+### Effects of a BCI-based AR inquiring tool on primary students’ science learning: a quasi-experimental field study
+### Journal of Science Education and Technology
+(2022)
+R. Chen \_et al.\_
+### BP-CM Model: A teaching model for improving the teaching quality of IoT hardware technology based on BOPPPS and memory system
+### Education and Information Technologies
+(2023)
+C.-Y. Chen \_et al.\_
+### Application of the online teaching model based on BOPPPS virtual simulation platform in preventive medicine undergraduate experiment
+### BMC Medical Education
+(2024)
+C.-M. Chen \_et al.\_
+### Assessing the attention levels of students by using a novel attention aware system based on brainwave signals
+### British Journal of Educational Technology
+(2017)
+N. Cressie \_et al.\_
+### How to use the two sample t-test
+### Biometrical Journal
+(1986)
+M. Dai \_et al.\_
+### Application and exploration of blended learning with BOPPPS teaching model in a veterinary infectious diseases course
+### Journal of Biological Education
+(2024)
+E.M. Dogo \_et al.\_
+### A comparative analysis of gradient descent-based optimization algorithms on convolutional neural networks
+X. Feng \_et al.\_
+### Reform of teaching and practice of the integrated teaching method BOPPPS-PBL in the course “clinical haematological test technique”
+### BMC Medical Education
+(2024)
+V.J. Fuentes-Martinez \_et al.\_
+### Low-cost EEG multi-subject recording platform for the assessment of students’ attention and the estimation of academic performance in secondary school
+### Sensors
+(2023)
+N.-D. Hoang
+### Image processing-based spall object detection using gabor filter, texture analysis, and adaptive moment estimation (adam) optimized logistic regression models
+### Advances in Civil Engineering
+(2020)
+E.H. Houssein \_et al.\_
+### Human emotion recognition from EEG-based brain–computer interface using machine learning: a comprehensive review
+### Neural Computing and Applications
+(2022)
+K. Hu \_et al.\_
+### Comparison of the BOPPPS model and traditional instructional approaches in thoracic surgery education
+### BMC Medical Education
+(2022)
+J. Hughey
+### Individual personalized learning
+### Educational Considerations
+(2020)
+F. Ishtiaque \_et al.\_
+### Students’ attention classification during class lecture using BCI and machine learning: A pathway towards neurofeedback-based learning
+N. Jamil \_et al.\_
+### Cognitive and affective brain–computer interfaces for improving learning strategies and enhancing student capabilities: A systematic literature review
+### IEEE Access
+(2021)
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131525003197)
+© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

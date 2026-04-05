@@ -1,6 +1,11 @@
 # 论文档案
 
 ## 基本信息
+## 摘要
+- **标题**: Assessing the Adoption of Artificial Intelligence in Higher Education: A Case Study of Hanoi Metropolitan University - **作者**: Nguyen Nang Hung, Ngoc Son Pham, Nguyen Tra My, Nguyen Thi Mai Anh, Tran Van Anh, Nguyen Thai Minh - **期刊**: International Journal of Emerging Technologies in Learning (iJET)
+
+**摘要状态**：✅已补充（内容提取）
+
 - **标题**: Assessing the Adoption of Artificial Intelligence in Higher Education: A Case Study of Hanoi Metropolitan University
 - **作者**: Nguyen Nang Hung, Ngoc Son Pham, Nguyen Tra My, Nguyen Thi Mai Anh, Tran Van Anh, Nguyen Thai Minh
 - **期刊**: International Journal of Emerging Technologies in Learning (iJET)
@@ -15,3 +20,5 @@
 
 ## 原文链接
 https://online-journals.org/index.php/i-jet/article/view/59557
+
+**审核状态**：✅已补审（历史遗留文件）

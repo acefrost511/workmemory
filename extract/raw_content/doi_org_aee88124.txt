@@ -1,0 +1,962 @@
+# Source URL: https://doi.org/10.1007/s10639-026-13931-3
+# Content Length: 114524 characters
+# Extracted at: 2026-04-05 14:29:17
+#============================================================
+
+
+
+
+
+
+
+
+
+Determinants of lecturer readiness to adopt generative AI in higher education: survey evidence from UTAUT and self-determination theory | Education and Information Technologies | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/10639/article&sz=728x90&pos=top&articleid=s10639-026-13931-3)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s10639-026-13931-3)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Education and Information Technologies](/journal/10639)
+3. Article
+
+Determinants of lecturer readiness to adopt generative AI in higher education: survey evidence from UTAUT and self-determination theory
+=======================================================================================================================================
+
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 12 March 2026
+
+* (2026)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1007/s10639-026-13931-3.pdf)
+
+
+[Save article](/article/10.1007/s10639-026-13931-3/save-research?_csrf=ps6Wj5anJeaXhKiGjBqXPMILzH0q_7xC)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Education and Information Technologies](/journal/10639)
+[Aims and scope](/journal/10639/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/eait)
+
+
+
+
+Determinants of lecturer readiness to adopt generative AI in higher education: survey evidence from UTAUT and self-determination theory
+
+[Download PDF](/content/pdf/10.1007/s10639-026-13931-3.pdf)
+
+
+
+
+
+* [Yujuan Luo](#auth-Yujuan-Luo-Aff1)[1](#Aff1) &
+* [Michael James Day](#auth-Michael_James-Day-Aff2) 
+  [ORCID: orcid.org/0000-0001-9612-2595](https://orcid.org/0000-0001-9612-2595)[2](#Aff2)
+
+* 898 Accesses
+* [Explore all metrics](/article/10.1007/s10639-026-13931-3/metrics)
+
+
+
+Abstract
+--------
+
+Generative artificial intelligence (GAI) is reshaping higher education, yet lecturers’ readiness remains under-examined. This study integrates the Unified Theory of Acceptance and Use of Technology (UTAUT) with Self-Determination Theory (SDT) and individual attributes (AI literacy, teaching values, personal innovativeness) to explain lecturers’ behavioural intention and GAI use. A cross-sectional survey of 651 university lecturers in mainland China measured UTAUT constructs (performance expectancy, effort expectancy, social influence, facilitating conditions), SDT needs (autonomy, competence, relatedness), and individual attributes. Confirmatory factor analysis and covariance-based structural equation modelling assessed measurement quality and structural paths; bootstrapped mediation tested indirect effects via intention, and latent-interaction moderation examined whether SDT strengthened antecedent–intention links. SDT was the strongest predictor of intention; UTAUT constructs were also significant. Teaching values and personal innovativeness showed positive effects, and AI literacy was positively associated with use/intention, which strongly predicted use, with facilitating conditions and SDT also showing direct effects. Findings conclude the value of professional development in Technology Enhanced Learning (TEL) that builds faculty AI literacy and competence, which supports autonomy and collegial relatedness, and must be underpinned by reliable institutional infrastructures to accelerate responsible GAI integration.
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Educational Research](/subjects/educational-research)
+* [Educational Psychology](/subjects/educational-psychology)
+* [Instructional Theory](/subjects/instructional-theory)
+* [Instructional Psychology](/subjects/instructional-psychology)
+* [Pedagogy](/subjects/pedagogy)
+* [Self-efficacy](/subjects/self-efficacy)
+* [Artificial Intelligence Applications in Higher Education](/subjects/artificial-intelligence-applications-in-higher-education)
+
+1 Introduction
+--------------
+
+Generative artificial intelligence (GAI) is increasingly embedded in higher education (HE), reshaping academic practices. While policy discourse and institutional strategies often emphasise AI’s transformative potential, its educational impact depends considerably on how lecturers integrate AI tools effectively into teaching and curriculum shape. Lecturers act as key gatekeepers, then, in technology adoption, shaping pedagogical practices, modelling responsible use, and influencing students’ development of AI-related competencies relevant to graduate employability (Selwyn, [2019](/article/10.1007/s10639-026-13931-3#ref-CR44); Zawacki-Richter et al., [2019](/article/10.1007/s10639-026-13931-3#ref-CR65); Bankins et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR8)). China provides a salient context for examining lecturers’ readiness for GAI adoption. National initiatives, including the Ministry of Education’s (MOE) recent AI action plans, position AI and generative technologies as central to educational reform and workforce development (Knox, [2024](/article/10.1007/s10639-026-13931-3#ref-CR28); Day, [2025b](/article/10.1007/s10639-026-13931-3#ref-CR7)). However, empirical studies suggest that implementation remains uneven. Many lecturers report limited professional development, uncertainty around ethical use, and insufficient institutional guidance, despite growing expectations to integrate AI into teaching (Fu & Li, [2024](/article/10.1007/s10639-026-13931-3#ref-CR20); Chiu et al., [2023](/article/10.1007/s10639-026-13931-3#ref-CR14); Day, [2025a](/article/10.1007/s10639-026-13931-3#ref-CR6)). Existing research on AI adoption in HE has often focused on students or examined acceptance using general technology acceptance models, weighted towards Western contexts (Habibi et al., [2023](/article/10.1007/s10639-026-13931-3#ref-CR22); Strzelecki, [2024](/article/10.1007/s10639-026-13931-3#ref-CR50)).
+
+To address these gaps, this study integrates the Unified Theory of Acceptance and Use of Technology (UTAUT; Venkatesh et al., [2003](/article/10.1007/s10639-026-13931-3#ref-CR51)) with Self-Determination Theory (SDT; Ryan & Deci, [2017](/article/10.1007/s10639-026-13931-3#ref-CR39)), alongside individual attributes relevant to GAI-integrated pedagogy. UTAUT captures expectancy-based beliefs and organisational conditions influencing adoption, while SDT explains how psychological need fulfilment, autonomy, competence, and relatedness, supports internalisation and sustained engagement. In addition, individual attributes including AI literacy, teaching values, and personal innovativeness are incorporated to reflect educators’ capability resources, pedagogical identity, and openness to experimentation.
+
+Accordingly, this study addresses the following research questions:
+
+* **RQ1**: How do UTAUT constructs (performance expectancy, effort expectancy, social influence, facilitating conditions) influence lecturers’ behavioural intention to adopt GAI?
+* **RQ2**: How do SDT psychological needs and individual attributes (AI literacy, teaching values, personal innovativeness) shape lecturers’ behavioural intention and actual GAI use?
+* **RQ3**: Does behavioural intention mediate the relationships between these antecedents and actual GAI use?
+* **RQ4**: Does SDT-based motivation moderate the relationships between UTAUT constructs and lecturers’ behavioural intention?
+
+By focusing on lecturers and integrating acceptance, motivation, and individual capability perspectives, this study contributes theoretically by extending UTAUT with motivational and pedagogical dimensions, and practically by offering evidence to inform professional development and institutional support strategies for responsible and equitable GAI adoption in HE. This study contributes insight in three ways. First, it integrates UTAUT with Self-Determination Theory to explain lecturers’ readiness to adopt generative AI as both a cognitive and motivational process, thereby demonstrating that psychological need fulfilment significantly strengthens traditional technology acceptance pathways. Second, it extends adoption research by incorporating focus of AI literacy, teaching values, and personal innovativeness, demonstrating lecturers’ engagement with generative AI depends not only on intention but also on professional capability, pedagogical alignment, and openness to experimentation. Third, the findings advance teaching practice and institutional strategy by showing that effective generative AI adoption requires more than encouraging use. It concludes by positioning recommendations showcasing that universities must support lecturers’ autonomy, competence, and relatedness, strengthen AI literacy, and provide enabling institutional conditions to foster sustainable and responsible teaching innovation.
+
+2 Literature review
+-------------------
+
+There is a need to drive exploration of what AI competencies are required to do this effectively and in a manner that can enhance student experience (Selwyn, [2019](/article/10.1007/s10639-026-13931-3#ref-CR44); Zawacki-Richter et al., [2019](/article/10.1007/s10639-026-13931-3#ref-CR65); Day, [2025b](/article/10.1007/s10639-026-13931-3#ref-CR7)). Therefore, understanding faculty readiness remains pivotal, because educators play a central role in determining how students engage with AI, as part of their broader learning and wellbeing experiences (Advance HE, [2023](/article/10.1007/s10639-026-13931-3#ref-CR1); [2024](/article/10.1007/s10639-026-13931-3#ref-CR2); Day, [2023](/article/10.1007/s10639-026-13931-3#ref-CR5)).
+
+### 2.1 Lecturer readiness for GAI in higher education
+
+Lecturer readiness for educational technology adoption extends beyond technical competence to encompass pedagogical adaptation, ethical awareness, and institutional support (Lukin et al., [2022](/article/10.1007/s10639-026-13931-3#ref-CR31)). In the context of GAI, readiness is particularly consequential because lecturers shape how AI is framed, legitimised, and used within teaching practices, influencing students’ learning experiences and long-term employability (Welch, [2024](/article/10.1007/s10639-026-13931-3#ref-CR57); Xia, [2022](/article/10.1007/s10639-026-13931-3#ref-CR61); Xu, [2022](/article/10.1007/s10639-026-13931-3#ref-CR63); Zawacki-Richter et al., [2019](/article/10.1007/s10639-026-13931-3#ref-CR65); Bankins et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR8)). Despite growing institutional emphasis on AI, lecturers often report uncertainty regarding appropriate pedagogical use, ethical boundaries, and assessment implications (Chaudhry & Kazim, [2021](/article/10.1007/s10639-026-13931-3#ref-CR13); Fu & Li, [2024](/article/10.1007/s10639-026-13931-3#ref-CR20)). Universities have been suggested to frequently prioritise policy responses focused on preventing misuse, such as plagiarism, rather than supporting educators to model responsible and pedagogically meaningful AI integration, which impacts the student experience and creates confusion amongst students (Ryan, [2004](/article/10.1007/s10639-026-13931-3#ref-CR38); Williams, [2011](/article/10.1007/s10639-026-13931-3#ref-CR58); Selwyn, [2019](/article/10.1007/s10639-026-13931-3#ref-CR44); Zeide, [2019](/article/10.1007/s10639-026-13931-3#ref-CR66)). As a result, adoption patterns are uneven: some lecturers engage experimentally as early adopters, while others avoid GAI due to concerns about deskilling, workload, or professional identity (Srinivasan, 2021; Zawacki-Richter et al., [2019](/article/10.1007/s10639-026-13931-3#ref-CR65)). Understanding lecturers’ readiness, therefore, requires theoretical frameworks that capture not only perceptions of technology but also motivational and contextual conditions shaping professional practice (Bian, [2024](/article/10.1007/s10639-026-13931-3#ref-CR10); Farrelly, [2023](/article/10.1007/s10639-026-13931-3#ref-CR17); Lin, [2020](/article/10.1007/s10639-026-13931-3#ref-CR30); Sage, [2025](/article/10.1007/s10639-026-13931-3#ref-CR41)).
+
+### 2.2 Technology acceptance: The UTAUT perspective
+
+The Unified Theory of Acceptance and Use of Technology (UTAUT) provides a well-established framework for examining adoption of digital technologies (Venkatesh et al., [2003](/article/10.1007/s10639-026-13931-3#ref-CR51)). It identifies four core determinants: performance expectancy, effort expectancy, social influence, and facilitating conditions. These constructs have been applied in educational technology research to predict behavioural intention and use adoption (Williams et al., [2015](/article/10.1007/s10639-026-13931-3#ref-CR59); Xue et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR64)). In teaching contexts, UTAUT is relevant because lecturers’ adoption decisions are embedded within organisational structures and professional norms. Performance expectancy, therefore, reflects beliefs that GAI can enhance teaching effectiveness, while effort expectancy concerns the perceived ease of integrating GAI into pedagogical workflows. Social influence, meanwhile, captures perceived expectations from colleagues and institutional leadership, and facilitating conditions reflect access to infrastructure, training, and policy support. Prior research suggests that facilitating conditions and social influence may be especially salient for lecturers (Marks & Thomas, [2022](/article/10.1007/s10639-026-13931-3#ref-CR33); Rahiman & Kodikal, [2024](/article/10.1007/s10639-026-13931-3#ref-CR36)). However, UTAUT primarily emphasises cognitive evaluations and external conditions, offering limited insight into why educators persist in adoption when experimentation involves uncertainty and professional risk.
+
+### 2.3 Motivational foundations: self-determination theory
+
+Self-Determination Theory (SDT) offers some mediation to this, and addresses this limitation by explaining how motivation is internalised and sustained through fulfilment of three psychological needs: autonomy, competence, and relatedness (Ryan & Deci, [2017](/article/10.1007/s10639-026-13931-3#ref-CR39), [2020](/article/10.1007/s10639-026-13931-3#ref-CR40)). In educational technology contexts, SDT highlights that adoption is more likely when educators feel volitional and socially supported in the process. SDT complements UTAUT conceptually, then, so is used within this research to create a mutually complemented research toolkit. While effort expectancy captures perceived operational ease, SDT competence reflects a broader sense of mastery and professional efficacy. Social influence reflects perceived expectations, whereas SDT relatedness concerns supportive professional relationships. Facilitating conditions describe external resources, while SDT autonomy captures whether engagement is experienced as self-endorsed rather than imposed. Empirical studies demonstrate that SDT-related motivation strongly predicts intention to use AI and can amplify the effects of expectancy (Bergdahl et al., [2023](/article/10.1007/s10639-026-13931-3#ref-CR9); Hsu, [2023](/article/10.1007/s10639-026-13931-3#ref-CR26); Zheng et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR67)). This suggests that lecturers may recognise the usefulness of GAI yet remain reluctant to adopt it if their psychological needs are not supported; SDT, therefore, provides a critical motivational lens for understanding lecturers’ readiness.
+
+### 2.4 Individual attributes relevant to GAI adoption
+
+In addition to acceptance and motivation, lecturers’ readiness for GAI-integrated teaching is shaped by individual attributes that capture capability, pedagogical identity, and openness to innovation. Three attributes are particularly salient across literature and studies therein. First, AI literacy encompasses educators’ ability to understand, evaluate, and ethically apply GAI tools in teaching, hence must be explored in terms of institutional conditions building that literacy (Mah & Groß [2024](/article/10.1007/s10639-026-13931-3#ref-CR32); Wang et al. [2025a](/article/10.1007/s10639-026-13931-3#ref-CR55), [2025b](/article/10.1007/s10639-026-13931-3#ref-CR56)). While distinct from effort expectancy and perceived competence, AI literacy reflects substantive knowledge required to judge output quality, bias, and pedagogical appropriateness. Therefore, second, teaching values represent lecturers’ normative beliefs about pedagogical integrity, assessment fairness, and the legitimacy of technology use in their teaching (Sitar-Taut & Mican, [2021](/article/10.1007/s10639-026-13931-3#ref-CR46); Foroughi et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR19)). Unlike social influence, teaching values reflect internalised professional standards that can enable or constrain adoption even when usefulness is acknowledged, and as such are unique, personal and case specific. Third, personal innovativeness captures a dispositional openness to experimentation with new technologies (Agarwal & Prasad, [1998](/article/10.1007/s10639-026-13931-3#ref-CR3)). This trait, then, is especially relevant in emergent domains such as GAI, where norms and institutional guidance are still evolving (Pesovski et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR34)). Together, these attributes explain variance in lecturers’ readiness that cannot be fully accounted for by acceptance beliefs or motivational states alone.
+
+### 2.5 Conceptual integration and research model
+
+Drawing on these strands, this study conceptualises lecturers’ readiness for GAI adoption as a multi-layered process. UTAUT provides the expectancy-based and contextual foundation of adoption, SDT explains motivational internalisation and persistence, and individual attributes capture capability, pedagogical alignment, and openness to innovation. Behavioural intention is positioned as the central mediator translating beliefs, motivation, and attributes into actual use, while SDT is further theorised to moderate the strength of expectancy–intention relationships. This integrated framework responds directly to calls for more theory-driven, faculty-focused research on AI adoption in HE (Zawacki-Richter et al., [2019](/article/10.1007/s10639-026-13931-3#ref-CR65); Crompton & Burke, [2023](/article/10.1007/s10639-026-13931-3#ref-CR15)). Hence, our integrated approach provides a coherent basis for the hypotheses tested in this study. Students’ experiences reflect AI unevenness, with those studying in elite universities suggested to gain more benefits and see AI’s potential stronger, but overall awareness remains only moderate amongst Chinese learners (Li et al., [2025](/article/10.1007/s10639-026-13931-3#ref-CR29)). Lecturers are reported in studies as worrying about cheating, and other forms of misuse, showing tension between national policy and everyday practice, and constant focus of misuse as a common language around AI technologies (Fu & Li, [2024](/article/10.1007/s10639-026-13931-3#ref-CR20); Chiu et al., [2023](/article/10.1007/s10639-026-13931-3#ref-CR14)). If staff and students alike identify feeling pushed to adopt AI without proper training, this indicates further need for critical investigation (Knox, [2024](/article/10.1007/s10639-026-13931-3#ref-CR28)), as research points to growing efforts to share good practice, deal with ethical concerns and strengthen staff capacity (Xu & Ouyang, [2022](/article/10.1007/s10639-026-13931-3#ref-CR62)). This makes it important to ask how lecturers see their own readiness to use GAI and what conditions make adoption fair and effective. The subsequent summary of the landscape, then, is outlined in Table [1](/article/10.1007/s10639-026-13931-3#Tab1):
+
+**Table 1 Conceptual framework: construct definitions and theoretical distinctions**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/1)
+
+3 Methodology
+-------------
+
+Readiness can thus be investigated amongst lecturers through an ‘investigatory mix’ exploring cognitive appraisals (UTAUT), motivation (SDT) and individual traits such as AI literacy, teaching values and openness to change. Doing so helps identify what barriers remain, and where policy and training are weak. China’s strong national ambitions clash with patchy local practice, leaving clear gaps in educator preparedness and student outcomes, as well as shortfalls in original and novel insight, which this article seeks to address by reporting findings of a study enacted to investigate lecturer readiness to use GAI.
+
+### 3.1 Instruments and participants
+
+Institutional support and professional development are widely recognised as critical enablers of AI readiness. Universities that invest in AI literacy programmes, clear guidelines, and supportive cultures are more likely to achieve effective AI integration (Lukin et al., [2022](/article/10.1007/s10639-026-13931-3#ref-CR31)). Building on this premise, the present study employed a quantitative research design to investigate factors influencing university lecturers’ readiness to integrate generative AI (GAI) into HE classroom practices in mainland China. Unlike much existing research that foregrounds student perspectives, this study focused specifically on educators’ acceptance, readiness, and determinants of GAI use. This study surveyed university lecturers from a range of institutions across mainland China to capture diversity in discipline, teaching experience, and prior exposure to generative AI (GAI). The final sample comprised 651 classroom-focused lecturers with varying degrees of familiarity with GAI. The Unified Theory of Acceptance and Use of Technology (UTAUT) was adopted as the primary framework, given its established utility for studying technology adoption (Venkatesh et al., [2003](/article/10.1007/s10639-026-13931-3#ref-CR51)). UTAUT highlights performance expectancy, effort expectancy, social influence, and facilitating conditions as predictors of behavioural intention and technology uptake. While UTAUT has been widely applied in educational contexts (Da Silva Soares et al., [2025](/article/10.1007/s10639-026-13931-3#ref-CR16); Xue et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR64)), its application to GAI adoption among teachers in China remains limited. Moreover, critiques suggest UTAUT may overlook intrinsic motivational processes (Williams et al., [2015](/article/10.1007/s10639-026-13931-3#ref-CR59)). To address this, the study integrated Self-Determination Theory (SDT) and additional individual attributes, thereby extending the framework to capture both extrinsic and intrinsic determinants of adoption.
+
+### 3.2 Ethical approval
+
+The study protocol, ethics and approach was reviewed and approved through an institutional review board (ID ER-LRR-11000128120240606102842) at the first-author’s university. All participants provided informed consent, participation was voluntary, and data were anonymised to ensure confidentiality.
+
+### 3.3 Theoretical framework
+
+The research was guided by a conceptual framework integrating the Unified Theory of Acceptance and Use of Technology (UTAUT) and Self-Determination Theory (SDT), alongside individual attributes relevant to GAI-integrated pedagogy. UTAUT (Venkatesh et al., [2003](/article/10.1007/s10639-026-13931-3#ref-CR51)) conceptualises adoption through expectancy-based beliefs and contextual enablers: *performance expectancy* (belief that GAI enhances job performance), *effort expectancy* (perceived ease of GAI use), *social influence* (perception of peer or institutional expectations), and *facilitating conditions* (availability of technical and organisational support). Meanwhile, SDT (Ryan & Deci, [2017](/article/10.1007/s10639-026-13931-3#ref-CR39), [2020](/article/10.1007/s10639-026-13931-3#ref-CR40)) complements this by explaining the motivational internalisation of adoption through fulfilment of psychological needs: *autonomy* (sense of volition and choice), *competence* (sense of efficacy in using GAI), and *relatedness* (connection with others during GAI adoption), which supports sustained engagement when teachers must experiment and redesign pedagogy. In addition, several individual attributes were factored, and three micro-level variables capture variance beyond acceptance beliefs and need fulfilment in a rapidly evolving domain. First, *personal innovativeness* (PI), so the willingness to experiment with new technologies (Agarwal & Prasad, [1998](/article/10.1007/s10639-026-13931-3#ref-CR3)). Second, *teaching values* (TV), so the perceived pedagogical utility and efficiency of educational tools (Sitar-Taut & Mican, [2021](/article/10.1007/s10639-026-13931-3#ref-CR46)). Third, *AI literacy (AL)*, encompassing awareness, usage, evaluation, and ethical considerations in AI adoption (Wang et al. [2025a](/article/10.1007/s10639-026-13931-3#ref-CR55), [2025b](/article/10.1007/s10639-026-13931-3#ref-CR56)). These attributes enabled examination of how personal orientations and pedagogical values intersect with broader acceptance and motivational constructs.
+
+### 3.4 Participants and sampling
+
+The target population comprised lecturers working in universities across mainland China. Using convenience sampling, 651 lecturers were recruited through university colleagues, departmental mailing lists, and WeChat-based academic groups, enabling access to lecturers across a range of disciplines, teaching experience, and prior exposure to GAI tools within a shared professional context of institutional and formal teaching. A total of 651 lecturers completed the online survey (Table [2](/article/10.1007/s10639-026-13931-3#Tab2)). Because recruitment combined network-based and group dissemination, the total number of lecturers who received the invitation could not be precisely determined; however, the sample profile is largely representative and reported in Table [1](/article/10.1007/s10639-026-13931-3#Tab1) to document participant characteristics and variation in GAI readiness. The sample was predominantly female and represented a wide range of teaching experiences. GAI use was common with 55.30% reported using GAI daily or several times per week while 21.51% used it in a limited manner, indicating meaningful variation in adoption experience.
+
+**Table 2 Participant characteristics**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/2)
+### 3.5 Survey instrument & data collection
+
+The survey instrument included validated scales for UTAUT constructs (Venkatesh et al., [2003](/article/10.1007/s10639-026-13931-3#ref-CR51), [2012](/article/10.1007/s10639-026-13931-3#ref-CR52)), SDT psychological needs (Standage et al., [2005](/article/10.1007/s10639-026-13931-3#ref-CR49); Ryan & Deci, [2017](/article/10.1007/s10639-026-13931-3#ref-CR39)), and individual attributes (Agarwal & Prasad [1998](/article/10.1007/s10639-026-13931-3#ref-CR3); Sitar-Taut & Mican [2021](/article/10.1007/s10639-026-13931-3#ref-CR46); Wang et al. [2025a](/article/10.1007/s10639-026-13931-3#ref-CR55), [2025b](/article/10.1007/s10639-026-13931-3#ref-CR56)). Items were adapted to the GAI-integrated teaching context by rewording items to reference to GAI use for teaching (e.g. lesson planning, feedback, assessment support) while preserving the original construct meaning. The adapted items were reviewed for clarity and contextual relevance and refined through a pilot test with 20 lecturers (12 female, 8 male) to evaluate item clarity, response burden, and construct coverage, resulting in minor wording adjustments prior to full deployment. The questionnaire was administrated in Chinese. Items originally developed in English were translated using a standard forward–back translation procedure by bilingual researchers. Discrepancies were resolved through iterative discussion to ensure sematic equivalence and alignment with the intended construct definitions. The pilot test further confirmed item comprehensibility and appropriateness in the target context. Items were measured using five-point Likert scales (1 = strongly disagree to 5 = strongly agree). Data from participants was collected via structured online surveys. To ensure data completeness and minimise missing data, the survey platform required all items to be answered before submission; as a result, the final valid sample comprised 651 fully completed questionnaires without item-level missing data. Completed responses were screened for response quality (e.g., unusually short completion times and patterned responding), and retained cases met the research’s inclusion criteria. To reduce potential common method bias, several procedural steps were taken. Participants were voluntary and anonymous, and informed consent was obtained electronically prior to survey completion. Respondents were informed there were no right or wrong answers, which helps reduce evaluative apprehension and socially desirable responding. Besides, predictor and criterion constructs were presented in separate blocks with clear construct labels to minimise interpretive overlap.
+
+Because all constructs were measured through self-report within a single survey, the potential common method bias was assessed using Harman’s single-factor test and collinearity diagnostics (tolerance and variance inflation factor; VIF). Harman’s test provides an initial indication of whether a single general factor accounts for the majority of covariance among items, while tolerance/VIF help identify whether common-source inflation may be present through problematic collinearity. Hence, the analytical strategy employed covariance-based structural equation modelling (CB-SEM) using AMOS 26, chosen for its ability to test complex relationships among latent variables. First, confirmatory factor analysis (CFA) was conducted to assess measurement validity and reliability. Second, the hypothesised relationships were tested through SEM, complemented by mediation analysis (bootstrapping) and moderation testing to evaluate the role of motivation (SDT) in strengthening or weakening UTAUT–intention–behaviour pathways, consistent with the proposition that psychological need fulfilment supports motivation internalisation of adoption decisions (Ryan & Deci, [2017](/article/10.1007/s10639-026-13931-3#ref-CR39), [2020](/article/10.1007/s10639-026-13931-3#ref-CR40); Shen et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR45); Zheng et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR67)).
+
+### 3.6 Hypothesis formation
+
+Hypotheses were derived deductively from UTAUT and SDT, with individual attributes included to capture capability, pedagogical identity, and openness to innovation (Table [1](/article/10.1007/s10639-026-13931-3#Tab1); Fig. [1](/article/10.1007/s10639-026-13931-3#Fig1)). UTAUT predicts intention and behaviour through expectancy beliefs and enabling conditions, while SDT explains why teachers internalise adoption and persist through skill development and institutional implementation。 Drawing on the research questions articulated in the introduction above, and articulated into a research process within this study, a series of hypotheses were created to test the survey data gained through the research methodology described above:
+
+**Fig. 1**
+
+![]()[Full size image](/article/10.1007/s10639-026-13931-3/figures/1)
+
+Proposed research model and hypotheses. *Note.* PE= performance expectancy; EE = effort expectancy; SI = social influence; FC = facilitating conditions; SDT = self-determination theory; AL = AI literacy; TV= teaching values; PI = personal innovativeness; BI = behavioural intention; UB= use behaviour
+
+#### 3.6.1 Hypotheses related to the original UTAUT model
+
+UTAUT proposes that behavioural intention is shaped by performance expectancy, effort expectancy and social influence, while enacted behaviour is supported by behavioural intention and facilitating conditions (Venkatesh et al., [2003](/article/10.1007/s10639-026-13931-3#ref-CR51)). Accordingly:
+
+* H1: Lecturers’ behavioural intention (BI) positively predicts their use behaviour (UB) of GAI.
+* H2: Facilitating conditions (FC) positively predict lecturers’ UB of GAI.
+* H3: Performance expectancy (PE) positively predicts lecturers’ BI to use GAI.
+* H4: Effort expectancy (EE) positively predicts lecturers’ BI to use GAI.
+* H5: Social influence (SI) positively predicts lecturers’ BI to use GAI.
+
+#### 3.6.2 Hypotheses related to the SDT model
+
+SDT posits that adoption is more likely to be internalised and sustained when lecturers fulfil psychological needs through autonomy, competence, and relatedness in the adoption process (Ryan & Deci, [2017](/article/10.1007/s10639-026-13931-3#ref-CR39), [2020](/article/10.1007/s10639-026-13931-3#ref-CR40)). Therefore:
+
+* H6: Lecturers’ self-determination theory (SDT) psychological need fulfilment positively predicts their BI to use GAI.
+* H7: Lecturers’ SDT psychological need fulfilment positively predicts their UB of GAI.
+
+#### 3.6.3 Hypotheses related to other variables
+
+As discussed, GAI adoption in teaching and supporting student learning requires responsible capability, pedagogical legitimacy, and openness to experimentation, additional hypotheses are proposed that lecturer attributes explain variance in intention beyond UTAUT and SDT. Hence:
+
+* H8: Lecturers’ AI literacy (AL) positively predicts their BI to use GAI.
+* H9: Teaching values (TV) positively predict lecturers’ BI to use GAI.
+* H10: Lecturers’ personal innovativeness (PI) positively predicts their BI to use GAI.
+
+#### 3.6.4 Hypotheses related to moderating effects
+
+SDT further suggests that expectancy beliefs are more likely to translate into intention when adoption is psychologically supported. Therefore, we hypothesise that SDT need fulfilment strengthens key UTAUT constructs and behavioural intention. Accordingly:
+
+* H11: Lecturers’ SDT need fulfilment has a significant moderating effect on the relationships proposed in the use of GAI.
+
+### 3.7 Data analysis & triangulation
+
+Data were collected via an online structured survey provided with a link and participant information, as well as right to withdraw. A pilot study from one randomly selected university informed instrument refinement in the initial stages, providing a baseline for engagement. The final survey was then distributed across public and private universities to ensure variation in institutional context, with the total number of participants amalgamated into one specific grouping to avoid re-identification risks, whether of the participants themselves, or of their universities. This was considered in line with China’s national emphasis on technological innovation, this setting offered valuable insight into how socioeconomic, sociocultural, and institutional factors shape lecturers’ readiness for GAI integration. Equally, we wanted to recognise some faculty may be concerned that their views might reflect negatively on their institutions, creating duress, and hence did not seek to codify or identify based on university, region or geography, focusing instead overall on ‘lecturers’. The instruments were triangulated, as they measured UTAUT constructs, SDT psychological needs, and exploratory controls as detailed earlier (Sagnier et al. [2020](/article/10.1007/s10639-026-13931-3#ref-CR42); Standage et al. [2005](/article/10.1007/s10639-026-13931-3#ref-CR49); Venkatesh et al. [2012](/article/10.1007/s10639-026-13931-3#ref-CR52); Wang et al. [2023a](/article/10.1007/s10639-026-13931-3#ref-CR53), [2025b](/article/10.1007/s10639-026-13931-3#ref-CR56)). Items were rated on five-point Likert scales, providing scope of agreement. Covariance-based Structural Equation Modelling (CB-SEM) was employed to assess direct and indirect effects among latent variables, chosen for its suitability in testing complex relationships involving both reflective and formative constructs. Mediation analysis (bootstrapping) and moderation tests were also undertaken to evaluate the role of motivation (SDT) in shaping links between UTAUT predictors, behavioural intention, and actual use of GAI. Ethical protocols were strictly observed beyond the IRB. Participants were informed that participation was voluntary, provided consent, and were assured confidentiality through anonymisation. These measures supported a rigorous, theory-driven analysis of the multidimensional factors influencing lecturers’ readiness for GAI adoption in Chinese HE.
+
+To test the research hypotheses, the study employed structural equation modelling (SEM), selected for its ability to control measurement error and estimate mediating and moderating effects with precision. Data analysis was conducted using SPSS and IBM AMOS 26, following Kline’s ([2023](/article/10.1007/s10639-026-13931-3#ref-CR27)) guidelines. Model fit was assessed using standard indices: comparative fit index (CFI) and Tucker–Lewis index (TLI) values above 0.9, chi-square to degrees of freedom ratio (χ²/df) below 3, and root mean square error of approximation (RMSEA) between 0.05 and 0.08. These benchmarks confirmed the suitability and predictive power of the proposed model. After establishing measurement validity (convergent and discriminant), path significance was examined using CB-SEM. Moderation analyses were then conducted to explore the role of motivation and demographic variables. Exploratory factor analysis (EFA) was also performed in SPSS to evaluate construct validity. Principal axis factoring with varimax rotation produced satisfactory loadings, with a Kaiser–Meyer–Olkin (KMO) value of 0.948 indicating excellent sampling adequacy. Bartlett’s sphericity test was significant (*p* < 0.001), confirming factorability. The extracted factors explained 65.72% of total variance. Confirmatory factor analysis (CFA) further validated the measurement model, with items below the threshold loading of 0.5 removed (Hair et al., [2019](/article/10.1007/s10639-026-13931-3#ref-CR23)). Results are reported in the following section.
+
+4 Findings
+----------
+
+### 4.1 CFA results
+
+Prior to testing the structural relationships among the key constructs, confirmatory factor analysis was conducted to verify the relationships between latent factors and their observed variables, assessing the extent to which these relationships align with the theoretical expectations. CFA was conducted using AMOS 26 to evaluate the structural validity of the scale and determine the structural appropriateness for the subsequent structural equation modelling (SEM). Model fit indices supported the robustness of the measurement model to the data. The chi-square to degrees-of-freedom ratio (χ²/df = 1.679) was below the recommended threshold of 3. Goodness-of-Fit Index (GFI = 0.904). Adjusted Good-of-Fit Index (AGFI = 0.892), Normed Fit Index (NFI-0.913), Tucker-Lewis Index (TLI = 0.960), and Comparative Fit Index (CFI = 0.963) all surpassed the commonly accepted threshold values, indicating a strong fit (Appendix: Table 10). Additionally, the Root Mean Square Error of Approximation (RMSEA = 0.032) was substantially lower than the basic acceptable maximum of 0.08, reflecting minimal model misfit (Gallagher & Brown, [2013](/article/10.1007/s10639-026-13931-3#ref-CR21)). Descriptive analysis further confirmed that there were not strong floor or ceiling effects based on the mean calculation of individual items (Table [11](/article/10.1007/s10639-026-13931-3#Tab11) in Appendix). In addition, the correlation matrix among the constructs is also presented (Table E in Appendix). Normality testing suggests that the data exhibits a normal distribution. Specifically, the absolute skewness magnitudes, ranging from 0.457 to 1.029, are considered acceptable for large samples (Kline, [2023](/article/10.1007/s10639-026-13931-3#ref-CR27)). All kurtosis values fell within the range − 0.51 to + 1.03, indicating no serious issues with peakedness or flatness of the distribution, though we note that multivariate normality was not directly tested as AMOS assumes multivariate normality (Cain et al., [2017](/article/10.1007/s10639-026-13931-3#ref-CR12)). Thus, the data can be considered sufficient for parametric analysis, especially given the robustness of such methods with large sample sizes, as summarised in Table [11](/article/10.1007/s10639-026-13931-3#Tab11) (Appendix).
+
+In addition, the standardised factor loadings ranged from 0.671 to 0.901, all exceeding the recommended threshold of 0.6, indicating strong measurement validity (Hair et al., [2019](/article/10.1007/s10639-026-13931-3#ref-CR23)). All loadings were statistically significant (*p* < 0.001), confirming each observed variable reliably measures its corresponding latent factor. The Cronbach’s alpha values, ranging from 0.807 to 0.952, confirm satisfactory internal reliability of the measurement (see Table [9](/article/10.1007/s10639-026-13931-3#Tab9) in Appendix). Moreover, the assessment of convergent validity and divergent validity was carried out to further validate the measure models of the proposed framework. Further, Harman’s single-factor test indicated that the first factor accounted for 30.395% of the total variance, which is below the commonly used 40% threshold, suggesting common method bias is not pronounced (Harman, [1967](/article/10.1007/s10639-026-13931-3#ref-CR25); Podsakoff et al., [2003](/article/10.1007/s10639-026-13931-3#ref-CR35)). Collinearity diagnostics further supported this conclusion: tolerance values ranged from 0.324 to 0.785 m and VIF values from 1.274 to 3.086, with all VIF values below the conservative threshold of 3.3 (Table [12](/article/10.1007/s10639-026-13931-3#Tab12) in Appendix).
+
+Methodologically, convergent validity and divergent validity are commonly tested for construct validity (Table [3](/article/10.1007/s10639-026-13931-3#Tab3)). The convergent validity assesses whether constructs that are theoretically related exhibit the anticipated relationship, while divergent validity scrutinises whether constructs theorised as unrelated genuinely show no connection. Convergent validity was established through the Average Variance Extracted (AVE) values and Composite Reliability (CR) indices. The AVE values ranged from 0.573 to 0.679, surpassing the recommended benchmark (Fornell & Larcker, [1981](/article/10.1007/s10639-026-13931-3#ref-CR18)). The CR values varied from 0.808 to 0.952, exceeding the acceptable threshold of 0.7, confirming excellent internal consistency (Hair et al., [2019](/article/10.1007/s10639-026-13931-3#ref-CR23)). The authors note that CR is generally considered a more robust measure, but Cronbach’s alpha is included for research transparency. Discriminant validity was ensured, as the square root of AVE for each construct was greater than the highest correlation between that construct and any other construct in the model (Fornell & Larcker, [1981](/article/10.1007/s10639-026-13931-3#ref-CR18)). Specifically, the square roots for SDT (0.757), PE (0.805), EE (0.796), SI (0.764), FC (0.771), PI (0.786), TV (0.770), AL (0.778), BI (0.794) and UB (0.824) were all higher than the respective highest inter-construct correlations, indicating sufficiently good discriminant validity (Table [4](/article/10.1007/s10639-026-13931-3#Tab4)). The reliability and convergent validity indices and discriminant validity methodologically support measurement quality and construct distinctiveness, ensuring conceptual separation among UTAUT, SDT and individual attribute constructs. Overall, the CFA demonstrated robust measurement properties and model fit, confirming that the data structure adequately represents the underlying theoretical constructs. This model is therefore suitable for further analysis through structural equation modelling (SEM).
+
+### 4.2 Descriptive and correlation analysis
+
+As indicated in the table below, the participants reported moderately positive perceptions regarding PE (M = 3.70, SD = 1.03), EE (M = 3.73, SD = 0.91), SI (M = 3.65, SD = 1.06), PI (M = 3.63, SD = 0.85), and FC (M = 3.80, SD = 0.92). Notably, the perceived TV (M = 3.95, SD = 0.87) and BI (M = 3.99, SD = 0.92) towards using GAI are particularly strong, showing teachers’ positive attitudes and perceptions. However, AI literacy (M = 3.60; SD = 0.93) and motivation as reflected via SDT (M = 3.48, SD = 0.83) and use behaviour (UB) (M = 3.61, SD = 1.03) show moderate scores, indicating variability in teachers’ acceptance of employing GAI. This is summarised in Table [11](/article/10.1007/s10639-026-13931-3#Tab11) (see Appendix).
+
+The correlation analysis revealed significant positive correlations among all variables. In fact, the highest correlation was observed between UB and BI (*r*=0.571, *p*<0.01), suggesting a strong relationship between lecturers’ intentions and actual usage of GAI. Other variables, including FC (*r*=0.436), AL (*r*=0.382), TV (*r*=0.366), PE (*r*=0.348), and SI (*r*=0.341), also showed significant positive correlations with UB (*p* < 0.01). In addition, BI demonstrated substantial positive links with PE (*r*=0.606), SI (*r*=0.615), FC (*r*=0.618), TV (*r*=0.645), and AL (*r*=0.597). However, motivation had relatively weaker but still significant correlations with UB (*r*=0.402) and BI (*r*=0.445), indicating moderate influence from lecturers’ psychological readiness for the GAI adoption. Such insights are outlined in Table [13](/article/10.1007/s10639-026-13931-3#Tab13) (Appendix), Tables [3](/article/10.1007/s10639-026-13931-3#Tab3) and [4](/article/10.1007/s10639-026-13931-3#Tab4) below. Within Table [4](/article/10.1007/s10639-026-13931-3#Tab4), all constructs satisfy discriminant validity, which strengthens the measurement model robustness, and such findings are summarised in Fig. [2](/article/10.1007/s10639-026-13931-3#Fig2).
+
+**Table 3 Average variance extracted and composite reliability for each construct**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/3)
+
+**Table 4 Discriminant validity assessment using the Fornell-Larcker criterion**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/4)
+
+**Fig. 2**
+
+![]()[Full size image](/article/10.1007/s10639-026-13931-3/figures/2)
+
+Confirmatory factor analysis model for the measurement model. *Note.* Numbers indicate standardised factor loadings and inter-construct correlations
+
+### 4.3 Structural equation modelling results
+
+Prior to exploring the moderation effects of motivation, SEM analysis was carried out to explore learners’ readiness for GAI tools in the HE context. Figure [3](/article/10.1007/s10639-026-13931-3#Fig3) presents both unstandardised and standardised estimates of the path coefficients in the model. In addition, the squared multiple correlations (R2) of the endogenous variables (i.e., BI and AU), which signify the percentage of explained variance, were reported. The overall model fit was assessed using standard criteria based on the structural equation modelling: the ratio of Chi-square to degrees of freedom (χ²/df), the Goodness-of-Fit Index (GFI), the Normed Fit Index (NFI), the Tucker-Lewis Index (TLI), the Comparative Fit Index (CFI), and the Root Mean Square Error of Approximation (RMSEA). As indicated in Table [14](/article/10.1007/s10639-026-13931-3#Tab14) (Appendix), the model demonstrates a strong model fit. The χ²/dfvalue of 1.694 is below the cut-off of 3.0, indicating low model misspecification (Kline, [2023](/article/10.1007/s10639-026-13931-3#ref-CR27)). The GFI (0.903) and AGFI (0.891) exceed the acceptable threshold of 0.80, suggesting satisfactory absolute fit. The incremental fit indices, including NFI (0.911), TLI (0.959), and CFI (0.962), all surpass the 0.90 benchmark, demonstrating a substantial improvement in the proposed model relative to the baseline model. Additionally, the RMSEA value (0.032) was well below the acceptable upper limit of 0.08, further confirming the robust fit of the model (Hair et al., [2019](/article/10.1007/s10639-026-13931-3#ref-CR23)). The path analysis results revealed significant relationships among the core constructs. Specifically, PE positive influenced BI (ß=0.076, S.E.=0.032, C.R.=2.332, *p* = 0.02), indicating that lecturers’ perceptions of GAI enhancing teaching performance significantly drive their intention to adoption it. EE demonstrated a stronger influence on BI (ß=0.115, S.E.=0.039, C.R.=2.918, *p* = 0.004), suggesting the importance of perceived ease of use in the process of adoption. SI also positively influenced BI (ß=0.108, S.E.=0.053, C.R.=2.022, *p* = 0.043), highlighting that external social expectations significantly affect teaches’ intentions. FC significantly predicted BI (ß=0.16, S.E.=0.042, C.R.=3.775, *p* < 0.001), emphasising the critical role of organisational and technical support. PI (ß=0.194, S.E.=0.055, C.R.=3.549, *p* < 0.001) and TV (ß=0.318, S.E.=0.058, C.R.=5.461, *p* < 0.001) showed highly significant positive impacts on BI, underscoring teachers’ innovative tendencies and perceived educational benefits as key motivators. AL also positively affected BI (ß=0.088, S.E.= 0.035, C.R.= 2.542, *p* = 0.011), indicating that higher AI literacy increases teachers’ willingness to adopt GAI. SDT emerged as the strongest predictor of BI (ß=0.339, S.E.=0.03, C.R.=11.327, *P* < 0.001), emphasising perceived autonomy, competence and relatedness as critical factors influencing teachers’ willingness to use GAI. Regarding teachers’ adoption behaviour (UB), FC (ß=0.154, S.E.=0.067, C.R.=2.298, *p* = 0.022) and SDT (β = 0.235, S.E.=0.051, C.R.=4.58, *p* < 0.001) significantly predicted actual GAI use. BI had a particularly strong influence on UB (ß=0.457, S.E.=0.078, C.R.=5.866, *p* < 0.001), demonstrating that lecturers’ intentions strongly translate into actual usage. In sum, the SEM analysis confirmed multiple critical pathways influencing lecturers’ intention and adoption behaviours regarding GAI use. Factors such as behavioural internation, facilitating conditions, psychological motivation (SDT), performance expectancy, and individual innovativeness were essential determinants in lecturers’ adoption and integration of GAI into teaching practice. Such insights are consolidated across Table [13](/article/10.1007/s10639-026-13931-3#Tab13) in Appendix, Table [5](/article/10.1007/s10639-026-13931-3#Tab5), and Fig. [3](/article/10.1007/s10639-026-13931-3#Fig3) below.
+
+**Table 5 Structural model path estimates and hypothesis support**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/5)
+
+**Fig. 3**
+
+![]()[Full size image](/article/10.1007/s10639-026-13931-3/figures/3)
+
+Structural equation model with standardised path coefficients. *Note:* Values on paths indicate standardised regression coefficients. SEM illustrating standardised path coefficients and relationships among latent constructs. *Note.* Numbers indicate standardised path coefficients
+
+### 4.4 Mediation analysis
+
+To examine whether BI significantly mediates the relationships between PE, EE, SI, FC, TV, AL, SDT, and UB, the mediation analysis follows Hair et al.’s ([2021](/article/10.1007/s10639-026-13931-3#ref-CR24)) study, in which bootstrapping was used to assess the significance of indirect effects. The detailed mediation results are presented in (Table [6](/article/10.1007/s10639-026-13931-3#Tab6)).
+
+**Table 6 Mediation effects via behavioural intention between antecedents and use behaviour**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/6)
+
+The above table indicated that BI significantly mediated the relationships between all investigated antecedents and UB. Specifically, UTAUT constructs (i.e., PE, EE, SI, FC) all demonstrated a significant and noteworthy indirect effect on UB through BI. Additionally, PI showed a substantial indirect effect (effect = 0.096, z = 6.004, *p* < 0.001), highlighting individual innovativeness as a crucial determinant of actual GAI adoption through increased intention. TV had a particularly robust indirect effect on UB (effect = 0.131, z = 5.056, *p* < 0.001), suggesting that lecturers’ acknowledgement of the educational benefits of GAI significantly boosts their intention and adoption. Further, AL positively affected UB through BI (effect = 0.068, z = 4.953, *p* < 0.001), indicating that higher AI literacy promotes intention and adoption. Last, SDT, as reflected on student intrinsic motivation, displayed the strongest indirect effect on UB (effect = 0.270, z = 10.156, *p* < 0.001), highlighting that lecturers’ psychological needs for autonomy, competence and relatedness critically drive their intention and subsequent behaviour regarding GAI adoption.
+
+### 4.5 Moderating effects
+
+To investigate the moderating role of motivation through SDT on the relationships among the UTAUT constructs (PE, EE, SI, FC and BI) and extended variables (i.e., PI, AL and TV), moderation analysis was conducted. Table [7](/article/10.1007/s10639-026-13931-3#Tab7) summarises the findings. The results demonstrate that the inclusion of SDT as a moderator significantly enhanced the explanatory power of the model. Specifically, SDT positively and significantly moderated the relationships between PE (ß=0.161, t = 6.091, *p* < 0.001), EE (ß=0.148, t = 4.891, *p* < 0.001), SI (ß=0.180, t = 7.121, *p* < 0.001), PI (ß=0.218, t = 6.867, *p* < 0.001), FC (ß=0.216, t = 7.811, *p* < 0.001), TV (ß=0.126, t = 4.281, *p* < 0.001) and AL (ß=0.158, t = 5.519, *p* < 0.001) and BI. These findings indicate that lecturers with higher intrinsic motivation and psychological needs (SDT) tend to exhibit stronger intentions to use GAI tools when influenced by performance expectations, ease of use, social influence, individual innovativeness, facilitating support, perceived educational values, and AI literacy. The moderating effects of SDT thus underscore the critical role of autonomy and motivation in shaping lecturers’ behavioural intention towards adopting GAI technologies.
+
+**Table 7 Moderation effects of self-determination theory on behavioural intention**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/7)
+
+5 Discussion
+------------
+
+### 5.1 Overview of the results
+
+The study examined the determinants of lecturers’ readiness to adopt GAI, extending the UTAUT framework with SDT and individual factors (PI, TV, AL). Given the cross-sectional design, the SEM estimates are interpreted as predictive relationships. Structural modelling indicated that most hypothesised relationships were statistically supported. Consistent with prior research (Venkatesh et al., [2003](/article/10.1007/s10639-026-13931-3#ref-CR51); Budhathoki et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR11)), PE, EE, SI, and FC were significant predictors of behavioural intention (BI). However, the relative salience differed. FC and SI showed comparatively stronger associations than is often reported in student-focused studies (e.g., Strzelecki, [2024](/article/10.1007/s10639-026-13931-3#ref-CR50); Habibi et al., [2023](/article/10.1007/s10639-026-13931-3#ref-CR22)), which aligns with the view that lecturers’ adoption is more contingent on institutional support and peer expectations (Marks & Thomas, [2022](/article/10.1007/s10639-026-13931-3#ref-CR33); Rahiman & Kodikal, [2024](/article/10.1007/s10639-026-13931-3#ref-CR36)). Among the extended variables, TV showed the strongest association with BI, followed by PI and AL. This underscores that lecturers’ willingness to adopt GAI is anchored in perceived pedagogical benefit rather than technological novelty (Sitar-Taut and Mican [2021](/article/10.1007/s10639-026-13931-3#ref-CR46); Wang et al. [2025a](/article/10.1007/s10639-026-13931-3#ref-CR55), [2025b](/article/10.1007/s10639-026-13931-3#ref-CR56)). PI reflected openness to experimentation, while AL reduced uncertainty and strengthened confidence, potentially translating into inclination to adopt GAI for educational purposes (Wang et al. [2023a](/article/10.1007/s10639-026-13931-3#ref-CR53), [2025b](/article/10.1007/s10639-026-13931-3#ref-CR56)). Taken together, these findings indicate that adoption readiness is associated with both perceived pedagogical relevance and competence-related preparedness to innovate.
+
+SDT-related need fulfilment showed the strongest links to BI. It was also positively related to adoption behaviour (UB) and exhibited moderation effects on selected UTAUT pathways. For example, interactions between SDT and expectancy constructs (PE, EE) revealed that higher intrinsic motivation amplified the effect of performance and effort beliefs on BI (Bergdahl et al., [2023](/article/10.1007/s10639-026-13931-3#ref-CR9); Hsu, [2023](/article/10.1007/s10639-026-13931-3#ref-CR26); Ryan & Deci, [2020](/article/10.1007/s10639-026-13931-3#ref-CR40); Zheng et al., [2024](/article/10.1007/s10639-026-13931-3#ref-CR67)). This pattern is consistent with the interpretation that motivational conditions can shape how cognitive appraisals translate into intention, extending UTAUT with a motivational perspective. Finally, BI was the strongest direct predictor of actual adoption (UB), consistent with UTAUT’s intention and behaviour logic. UB was also directly associated with FC and SDT, suggesting that both structural support and psychological need fulfilment relate to use beyond intention alone. Mediation analysis further confirmed that BI transmitted the effects of multiple antecedents, with SDT showing the strongest indirect association with UB via BI. Overall, the results emphasise SDT as a key correlate of lecturers’ preparedness, operating through both direct and indirect pathways in the proposed model.
+
+### 5.2 Theoretical and practical contributions
+
+The study offers important theoretical and practical contributions on GAI adoption in education from lecturers’ perspectives. Theoretically, the integration of SDT with UTAUT provides a framework that extends expectancy-based explanations by incorporating motivational internationalisation processes. SDT-related need fulfilment emerged as the strongest predictor of BI while significantly moderating selected UTAUT relationship, suggesting that novel technology readiness among lecturers may be shaped not only by perceived utility and ease, but also by whether adoption is experienced as agentic, manageable, and socially supported. In this regard, the findings align with Zheng et al.’s ([2024](/article/10.1007/s10639-026-13931-3#ref-CR67)) study in highlighting the importance of intrinsic motivational dynamics in lecturers’ readiness to engage with GAI. More importantly, this integrated approach suggests that adoption models may benefit from incorporating motivational conditions when explaining variance in professional technology acceptance, particularly where sustained pedagogical change is needed. A second contribution concerns the salience of teaching values. TV showed a relatively strong association with BI, supporting that lecturers’ intentions may depend on values-based judgements about pedagogical legitimacy and utility, not simply generic usefulness. TV captures perceptions of pedagogical affordances (e.g., personalised feedback generation, adaptive content creation, and assessment design support). This finding echoes Ain et al. ([2016](/article/10.1007/s10639-026-13931-3#ref-CR4)) and Foroughi et al. ([2024](/article/10.1007/s10639-026-13931-3#ref-CR19)) that perceived educational values of GAI is closely linked to lecturers’ willingness to engage with GAI in routine teaching practice. The implication is that this domain-specific conceptualisation provides theoretical precision for understanding professional technology adoption where context- and discipline-specific values supersede general usefulness. Finally, AI literacy showed a more modest direct link to BI, yet it remains theoretically important as a capability resource that may underpin ethical and confident adoption. While AI literacy has been conceptualised, empirical evidence linking lecturers’ AI literacy to overall readiness for GAI remains limited (Mah & Groß, [2024](/article/10.1007/s10639-026-13931-3#ref-CR32); Schmidt et al., [2025](/article/10.1007/s10639-026-13931-3#ref-CR43)). Our findings suggest that AI literacy may function as a facilitative condition in technology-enhanced education contexts, potentially shaping whether perceived values and motivational conditions can be translated into sustained adoption. That is, without basic literacy, even strong motivation and perceived values may not lead to adoption, suggesting that AL should be conceptualised as core factor that influences technology readiness.
+
+Regarding the practical implications, institutional strategies to support GAI-integrated teaching may be more effective when they go beyond technical training alone. Given SDT’s direct and moderating associations, professional development may benefit from incoporating autonomy-supported elements (e.g., providing choices and rationale, enabling self-paced experimentation), competence support (e.g., scaffolded progression from basic operational skills to pedagogically grounded applications), and relatedness support (e.g., discipline-specific communities of practice, peer mentoring, and teaching practice demonstration). Such approaches may help transform one-off workshops into more sustained developmental ecosystems aligned with lecturers’ motivational conditions. In addition, the salience of teaching values indicates that institutional communication may be more persuasive when it foregrounds pedagogical impact rather than tool features. Universities could document and disseminate evidence-based examples of teaching improvement (e.g., efficiencies in feedback processes, enhanced learning design), and support lecturers to integrate GAI within exisitng curriculum and assessment development practices. Developing discipline-specific use cases may help align GAI adoption with lecturers’ pedagogical philosophies and professional standards, thereby strengthening value-based legitimacy. Additionally, with respect to AI literacy, universities may consider implementing more systematic competence-building provision rather than relying on ad hoc training. This could include practical skill development (e.g., promoting strategies, output evaluation), ethical and governance dimensions (e.g., integrity, privacy, bias awareness), and guidance on appropriate use and limitations. Embedding these components within continuing professional development frameworks may support sustained capability as GAI technologies evolves. Finally, facilitating conditions remained important for both intention and actual adoption, indicating that institutional infrastructure and governance are closely related to full embrace of GAI in institutional education. Beyond technical provisions, universities may consider developing coordinated support structures, including accessible expertise for pedagogically contextualised assistance, clear policy guidance, and visible leadership endorsement through resource allocation and workload recognition. Such support may help position GAI adoption as a collectively enabled and pedagogically validated practice rather than solely an individual initiative.
+
+### 5.3 Hypotheses testing outcomes
+
+The study tested the proposed hypotheses concerning the determinants of lecturers’ readiness to adopt GAI. The results are summarised as follows:
+
+* H1a–d (UTAUT constructs): Performance expectancy (PE), effort expectancy (EE), social influence (SI), and facilitating conditions (FC) were all found to significantly predict behavioural intention (BI) (β = 0.076, p = 0.020; β = 0.115, p = 0.004; β = 0.108, p = 0.043; β = 0.160, p < 0.001). Thus, H1a–d were supported.
+* H2a–c (Individual attributes): Teaching values (TV), personal innovativeness (PI), and AI literacy (AL) had significant positive effects on BI (β = 0.318, p < 0.001; β = 0.194, p < 0.001; β = 0.088, p = 0.011), supporting H2a–c.
+* H3 (SDT → BI): Self-determination theory (SDT) factors strongly predicted BI (β = 0.339, p < 0.001), confirming H3.
+* H4 (BI → UB): BI significantly predicted use behaviour (UB) (β = 0.457, p < 0.001), supporting H4.
+* H5a–b (Direct effects on UB): Facilitating conditions and SDT directly predicted UB (β = 0.154, p = 0.022; β = 0.235, p < 0.001), supporting H5a–b.
+* H6 (Mediation): Mediation analysis confirmed that BI significantly mediated the relationships between all antecedents (PE, EE, SI, FC, TV, PI, AL, SDT) and UB.
+* H7 (Moderation): Moderation analysis revealed that SDT significantly moderated and amplified the effects of PE, EE, SI, PI, FC, TV, and AL on BI, supporting H7.
+
+In summary, all proposed hypotheses were supported by the empirical findings, with SDT emerging as both the strongest direct determinant of BI and the most influential moderator.
+
+6 Conclusion
+------------
+
+This study examined how university lecturers’ motivational needs, cognitive appraisals, and individual attributes influence readiness for GAI use in HE. We surveyed 651 lecturers from Chinese universities and our findings showed that technology use is a motivated behaviour rather than purely a rational calculation. Our discussion above addresses the formed research questions, in doing so identifying that UTAUT constructs (PE, EE, SI, FC) predicted behavioural intention (BI) and adoption, but SDT emerged as the strongest predictor and moderator, underscoring the role of *autonomy*, *competence*, and *relatedness* in shaping technology acceptance. Individual-level determinants (teaching value, AI literacy, personal innovativeness) proved crucial, suggesting context-specific pedagogical considerations outweigh generic technology perceptions. Yet, despite offering useful insight, limitations can be identified within the study.
+
+### 6.1 Limitations
+
+Despite the study’s breadth and our focus on ethical design, several methodological limitations should be acknowledged, and are discussed further in the concluding remarks. First, the reliance on a cross-sectional online survey may introduce common method bias and restrict causal inference; after all, measures were self-reported and collected at a single point in time. Second, while the sample of 651 lecturers across mainland China provided broad representation, the use of convenience sampling limits generalisability, particularly as the number and distribution of universities engaged was not precisely quantified. Third, although validated instruments were employed, responses may have been shaped by social desirability bias or by participants’ varying levels of familiarity with GAI at the time of data collection. Finally, the exclusive use of quantitative measures means the study may not fully capture the nuanced, contextualised experiences underlying lecturers’ motivational orientations and readiness for GAI integration, and hence a mixed-methods qualitative follow up is advised, with a complementary longitudinal focus for future research.
+
+### 6.2 Recommendations
+
+Pragmatically, institutions should build ecosystems that support psychological needs, demonstrate pedagogical value, and strengthen AI literacy, rather than focusing solely on financial or technical provision. Based on our findings, we can offer the following recommendations to policy makers and leaders:
+
+1. 1.
+   
+   Embed psychological needs in HE lecturers professional development: Training should nurture lecturers’ autonomy, competence, and relatedness, since we found SDT was the strongest predictor of behavioural intention (β = 0.339, *p* < 0.001) and also directly influenced actual use (UB) (β = 0.235, *p* < 0.001).
+2. 2.
+   
+   Highlight pedagogical value, not just technical features in such development: Demonstrating GAI’s teaching value (TV) is essential, as we found it was the largest individual determinant of intention (β = 0.318, *p* < 0.001). Communicating pedagogical benefits will thus encourage adoption beyond technical novelty.
+3. 3.
+   
+   Strengthen AI literacy systematically across institutions: AI literacy (AL), we found, had a significant effect on intention (β = 0.088, *p* = 0.011) and an indirect effect on use through BI. Universities should implement structured literacy programmes addressing awareness, usage, evaluation, and ethics.
+4. 4.
+   
+   Provide robust institutional support: Facilitating conditions (FC) significantly predicted intention we found, (β = 0.160, *p* < 0.001) and directly predicted use (β = 0.154, *p* = 0.022). Universities must ensure infrastructure, policies, and technical assistance are in place.
+5. 5.
+   
+   Foster innovation through safe experimentation and communities of practice: Personal innovativeness (PI) influenced intention (β = 0.194, *p* < 0.001) in our study, thus indirectly affected use. Institutions should provide opportunities for safe experimentation, such as pilots and sandbox projects.
+6. 6.
+   
+   Leverage peer and social influence: Social influence (SI) positively predicted intention (β = 0.108, *p* = 0.043) in our study. Universities can thus amplify adoption by cultivating peer networks, mentoring, and showcasing departmental success stories.
+7. 7.
+   
+   Integrate adoption into long-term professional ecosystems: Since behavioural intention strongly predicted actual use in our findings (β = 0.457, *p* < 0.001), adoption strategies should be sustained through ongoing CPD frameworks, not one-off workshops, to translate intention into lasting classroom practices.
+8. 8.
+   
+   Address cultural and contextual factors: Our moderation analysis showed that SDT strengthened the impact of all predictors (e.g., PE × SDT, β = 0.161, *p* < 0.001). Universities should tailor training and support to disciplinary and cultural contexts, as motivation shapes the strength of other determinants.
+
+To translate the empirical findings into actionable guidance, Table [8](/article/10.1007/s10639-026-13931-3#Tab8), noted below, summarises the key determinants of lecturers’ AI adoption and their implications for institutional strategy alongside evolving teaching practice within universities, thereby providing structured direction for policy makers:
+
+**Table 8 Summary of recommendations**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/8)
+### 6.3 Future directions
+
+Consequently, the adoption strategies describe above offer a direction forward for universities, which demonstrates that it is important leaders integrate and build a culture of continuous AI professional development that fosters autonomy, agency and confidence amongst faculty. The findings described set a foundation for future research, which should examine how these dynamics vary across cultural and disciplinary contexts, and distinguish externally imposed from intrinsically developed motivation.
+
+
+
+Data Availability
+-----------------
+
+Correspondence and requests for materials and data availability should be addressed to both authors and will be considered on appropriate request.
+
+References
+----------
+
+* Advance, H. E. (2023). *Higher education in the era of AI*. <https://www.advance-he.ac.uk/news-and-views/higher-education-era-ai>
+* Advance, H. E. (2024). *Artificial intelligence*. <https://www.advance-he.ac.uk/taxonomy/term/23506>
+* Agarwal, R., & Prasad, J. (1998). A conceptual and operational definition of personal innovativeness in the domain of information technology. *Information Systems Research*, *9*(2), 204–215. <http://www.jstor.org/stable/23010927>
+  
+  [Article](https://doi.org/10.1287%2Fisre.9.2.204) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20conceptual%20and%20operational%20definition%20of%20personal%20innovativeness%20in%20the%20domain%20of%20information%20technology&journal=Information%20Systems%20Research&doi=10.1287%2Fisre.9.2.204&volume=9&issue=2&pages=204-215&publication_year=1998&author=Agarwal%2CR&author=Prasad%2CJ)
+* Ain, N., Kaur, K., & Waheed, M. (2016). The influence of learning value on learning management system use: An extension of UTAUT2. *Information Development*, *32*(5), 1306–1321. <https://doi.org/10.1177/0266666915597546>
+  
+  [Article](https://doi.org/10.1177%2F0266666915597546) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20influence%20of%20learning%20value%20on%20learning%20management%20system%20use%3A%20An%20extension%20of%20UTAUT2&journal=Information%20Development&doi=10.1177%2F0266666915597546&volume=32&issue=5&pages=1306-1321&publication_year=2016&author=Ain%2CN&author=Kaur%2CK&author=Waheed%2CM)
+* Bankins, S., Formosa, P., & McMullan, J. (2024). Artificial intelligence and the future of work: Implications for vocational behaviour and career development. *Journal of Vocational Behavior*, *146*, 104011. <https://doi.org/10.1016/j.jvb.2024.104011>
+  
+  [Article](https://doi.org/10.1016%2Fj.jvb.2024.104011) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20and%20the%20future%20of%20work%3A%20Implications%20for%20vocational%20behaviour%20and%20career%20development&journal=Journal%20of%20Vocational%20Behavior&doi=10.1016%2Fj.jvb.2024.104011&volume=146&publication_year=2024&author=Bankins%2CS&author=Formosa%2CP&author=McMullan%2CJ)
+* Bergdahl, J., Latikka, R., Celuch, M., Savolainen, I., Soares Mantere, E., Savela, N., & Oksanen, A. (2023). Self-determination and attitudes toward artificial intelligence: Cross-national and longitudinal perspectives. *Telematics and Informatics*, *82*, 102013. <https://doi.org/10.1016/j.tele.2023.102013>
+  
+  [Article](https://doi.org/10.1016%2Fj.tele.2023.102013) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Self-determination%20and%20attitudes%20toward%20artificial%20intelligence%3A%20Cross-national%20and%20longitudinal%20perspectives&journal=Telematics%20and%20Informatics&doi=10.1016%2Fj.tele.2023.102013&volume=82&publication_year=2023&author=Bergdahl%2CJ&author=Latikka%2CR&author=Celuch%2CM&author=Savolainen%2CI&author=Soares%20Mantere%2CE&author=Savela%2CN&author=Oksanen%2CA)
+* Bian, Y., Ling, X., & Yan, Z. (2024). University teachers’ attitudes towards artificial intelligence in education: A mixed-methods study. *Journal of Education Society and Behavioural Science*, *37*(3), 179–192. <https://doi.org/10.25159/1947-9417/17983>
+  
+  [Article](https://doi.org/10.25159%2F1947-9417%2F17983) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=University%20teachers%E2%80%99%20attitudes%20towards%20artificial%20intelligence%20in%20education%3A%20A%20mixed-methods%20study&journal=Journal%20of%20Education%20Society%20and%20Behavioural%20Science&doi=10.25159%2F1947-9417%2F17983&volume=37&issue=3&pages=179-192&publication_year=2024&author=Bian%2CY&author=Ling%2CX&author=Yan%2CZ)
+* Budhathoki, T., Zirar, A., Njoya, E. T., & Timsina, A. (2024). ChatGPT adoption and anxiety: A cross-country analysis utilising the unified theory of acceptance and use of technology (UTAUT). *Studies in Higher Education*, *49*(5), 831–846. <https://doi.org/10.1080/03075079.2024.2333937>
+  
+  [Article](https://doi.org/10.1080%2F03075079.2024.2333937) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ChatGPT%20adoption%20and%20anxiety%3A%20A%20cross-country%20analysis%20utilising%20the%20unified%20theory%20of%20acceptance%20and%20use%20of%20technology%20%28UTAUT%29&journal=Studies%20in%20Higher%20Education&doi=10.1080%2F03075079.2024.2333937&volume=49&issue=5&pages=831-846&publication_year=2024&author=Budhathoki%2CT&author=Zirar%2CA&author=Njoya%2CET&author=Timsina%2CA)
+* Cain, M. K., Zhang, Z., & Yuan, K. H. (2017). Univariate and multivariate skewness and kurtosis for measuring nonnormality: Prevalence, influence and estimation. *Behavior Research Methods*, *49*(5), 1716–1735. <https://doi.org/10.3758/s13428-016-0814-1>
+  
+  [Article](https://doi.org/10.3758%2Fs13428-016-0814-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Univariate%20and%20multivariate%20skewness%20and%20kurtosis%20for%20measuring%20nonnormality%3A%20Prevalence%2C%20influence%20and%20estimation&journal=Behavior%20Research%20Methods&doi=10.3758%2Fs13428-016-0814-1&volume=49&issue=5&pages=1716-1735&publication_year=2017&author=Cain%2CMK&author=Zhang%2CZ&author=Yuan%2CKH)
+* Chaudhry, B. M., & Kazim, S. F. (2021). Ethical concerns of artificial intelligence in higher education. *AI and Ethics*, *2*, 245–256. <https://doi.org/10.1007/s43681-021-00074-z>
+  
+  [Article](https://link.springer.com/doi/10.1007/s43681-021-00074-z) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Ethical%20concerns%20of%20artificial%20intelligence%20in%20higher%20education&journal=AI%20and%20Ethics&doi=10.1007%2Fs43681-021-00074-z&volume=2&pages=245-256&publication_year=2021&author=Chaudhry%2CBM&author=Kazim%2CSF)
+* Chiu, T. K. F., Chen, J. C., & Hsu, C. C. (2023). Artificial intelligence in education: A systematic literature review. *Expert Systems with Applications,* *237*, Article 120047. <https://doi.org/10.1016/j.eswa.2023.120047>
+  
+  [Article](https://doi.org/10.1016%2Fj.eswa.2023.120047) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20in%20education%3A%20A%20systematic%20literature%20review&journal=Expert%20Systems%20with%20Applications&doi=10.1016%2Fj.eswa.2023.120047&volume=237&publication_year=2023&author=Chiu%2CTKF&author=Chen%2CJC&author=Hsu%2CCC)
+* Crompton, H., & Burke, D. (2023). Artificial intelligence in higher education: The state of the field. *International Journal of Educational Technology in Higher Education,* *20*(1), Article 22. <https://doi.org/10.1186/s41239-023-00392-8>
+  
+  [Article](https://link.springer.com/doi/10.1186/s41239-023-00392-8) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20in%20higher%20education%3A%20The%20state%20of%20the%20field&journal=International%20Journal%20of%20Educational%20Technology%20in%20Higher%20Education&doi=10.1186%2Fs41239-023-00392-8&volume=20&issue=1&publication_year=2023&author=Crompton%2CH&author=Burke%2CD)
+* Da Silva Soares, A., Lerigo-Sampson, M., & Barker, J. (2025). Recontextualising the unified theory of acceptance and use of technology (UTAUT) framework to higher education online marking. *Journal of University Teaching & Learning Practice,* *21*(8), 1–26. <https://doi.org/10.53761/7ft8x880>
+  
+  [Article](https://doi.org/10.53761%2F7ft8x880) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Recontextualising%20the%20unified%20theory%20of%20acceptance%20and%20use%20of%20technology%20%28UTAUT%29%20framework%20to%20higher%20education%20online%20marking&journal=Journal%20of%20University%20Teaching%20%26%20Learning%20Practice&doi=10.53761%2F7ft8x880&volume=21&issue=8&pages=1-26&publication_year=2025&author=Da%20Silva%20Soares%2CA&author=Lerigo-Sampson%2CM&author=Barker%2CJ)
+* Day, M. J. (2023). Towards ethical artificial intelligence in universities: ChatGPT, culture, and mental health stigmas in Asian higher education post COVID-19, *Journal of Technology in Counselor Education and Supervision,4*(1), Article 7. <https://doi.org/10.61888/2692-4129.1097>
+* Day, M. J. (2025a). Digital piracy in higher education: Exploring social media users and Chinese postgraduate students motivations for supporting ‘academic cybercrime’ by shelving ebooks from Z-Library. Journal of University Teaching and Learning Practice, 22(1) <https://doi.org/10.53761/90p10x24>
+* Day, M. J. (2025b). Becoming artificially intelligent: Student perspectives on AI-enabled success and guanxi in higher education. *Journal of Education, Learning, and Management,* *2*(2), 13-25. <https://doi.org/10.69739/jelm.v2i2.720>
+* Farrelly, T., & Baker, N. (2023). Generative artificial intelligence: Implications and considerations for higher education practice. *Education Sciences*. <https://doi.org/10.3390/educsci13111109>
+  
+  [Article](https://doi.org/10.3390%2Feducsci13111109) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Generative%20artificial%20intelligence%3A%20Implications%20and%20considerations%20for%20higher%20education%20practice&journal=Education%20Sciences&doi=10.3390%2Feducsci13111109&publication_year=2023&author=Farrelly%2CT&author=Baker%2CN)
+* Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. *Journal of Marketing Research,* *18*(1), 39–50. <https://doi.org/10.1177/002224378101800104>
+  
+  [Article](https://doi.org/10.1177%2F002224378101800104) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evaluating%20structural%20equation%20models%20with%20unobservable%20variables%20and%20measurement%20error&journal=Journal%20of%20Marketing%20Research&doi=10.1177%2F002224378101800104&volume=18&issue=1&pages=39-50&publication_year=1981&author=Fornell%2CC&author=Larcker%2CDF)
+* Foroughi, B., Senali, M. G., Iranmanesh, M., Khanfar, A., Ghobakhloo, M., Annamalai, N., & Naghmeh-Abbaspour, B. (2024). Determinants of intention to use ChatGPT for educational purposes: Findings from PLS-SEM and fsQCA. *International Journal of Human-Computer Interaction,* *40*(17), 4501–4520. <https://doi.org/10.1080/10447318.2023.2226495>
+  
+  [Article](https://doi.org/10.1080%2F10447318.2023.2226495) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Determinants%20of%20intention%20to%20use%20ChatGPT%20for%20educational%20purposes%3A%20Findings%20from%20PLS-SEM%20and%20fsQCA&journal=International%20Journal%20of%20Human-Computer%20Interaction&doi=10.1080%2F10447318.2023.2226495&volume=40&issue=17&pages=4501-4520&publication_year=2024&author=Foroughi%2CB&author=Senali%2CMG&author=Iranmanesh%2CM&author=Khanfar%2CA&author=Ghobakhloo%2CM&author=Annamalai%2CN&author=Naghmeh-Abbaspour%2CB)
+* Fu, K., & Li, Q. (2024). How would artificial intelligence propel higher education in China? *Advances in Social Science, Education and Humanities Research,* *914*, 161–172. <https://doi.org/10.2991/978-2-38476-384-9_19>
+  
+  [Article](https://doi.org/10.2991%2F978-2-38476-384-9_19) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=How%20would%20artificial%20intelligence%20propel%20higher%20education%20in%20China%3F&journal=Advances%20in%20Social%20Science%2C%20Education%20and%20Humanities%20Research&doi=10.2991%2F978-2-38476-384-9_19&volume=914&pages=161-172&publication_year=2024&author=Fu%2CK&author=Li%2CQ)
+* Gallagher, M. W., & Brown, T. A. (2013). Introduction to confirmatory factor analysis and structural equation modeling. In T. Teo (Ed.), *Handbook of quantitative methods for educational research* (pp. 289–314). *SensePublishers*. <https://doi.org/10.1007/978-94-6209-404-8_14>
+* Habibi, A., Muhaimin, M., Danibao, B. K., Wibowo, Y. G., Wahyuni, S., & Octavia, A. (2023). ChatGPT in higher education learning: Acceptance and use. *Computers and Education: Artificial Intelligence,* *5*, Article 100190. <https://doi.org/10.1016/j.caeai.2023.100190>
+  
+  [Article](https://doi.org/10.1016%2Fj.caeai.2023.100190) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ChatGPT%20in%20higher%20education%20learning%3A%20Acceptance%20and%20use&journal=Computers%20and%20Education%3A%20Artificial%20Intelligence&doi=10.1016%2Fj.caeai.2023.100190&volume=5&publication_year=2023&author=Habibi%2CA&author=Muhaimin%2CM&author=Danibao%2CBK&author=Wibowo%2CYG&author=Wahyuni%2CS&author=Octavia%2CA)
+* Hair, J. F., Black, W., Babin, B., & Anderson, R. (2019). *Multivariate data analysis* (8th ed.). Cengage.
+* Hair, J. F., Hult, G. T. M., Ringle, C. M., Sarstedt, M., Danks, N. P., & Ray, S. (2021). Mediation analysis. In J. F. Hair Jr et al. (Eds.), *Partial least squares structural equation modeling (PLS-SEM) using R: A workbook* (pp. 139–153). Springer. <https://doi.org/10.1007/978-3-030-80519-7_7>
+* Harman, H. H. (1967). *Modern factor analysis* (2nd ed.). University of Chicago Press.
+* Hsu, L. (2023). EFL learners’ self-determination and acceptance of LMOOCs: The UTAUT model. *Computer Assisted Language Learning*, *36*(7), 1177–1205. <https://doi.org/10.1080/09588221.2021.1976210>
+  
+  [Article](https://doi.org/10.1080%2F09588221.2021.1976210) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=EFL%20learners%E2%80%99%20self-determination%20and%20acceptance%20of%20LMOOCs%3A%20The%20UTAUT%20model&journal=Computer%20Assisted%20Language%20Learning&doi=10.1080%2F09588221.2021.1976210&volume=36&issue=7&pages=1177-1205&publication_year=2023&author=Hsu%2CL)
+* Kline, R. B. (2023). *Principles and practice of structural equation modeling* (5th ed.). Guilford Press.
+* Knox, J. (2024). Artificial intelligence and education in China. *Learning, Media and Technology,* *45*(3), 298–311. <https://doi.org/10.1080/17439884.2020.1754236>
+  
+  [Article](https://doi.org/10.1080%2F17439884.2020.1754236) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20and%20education%20in%20China&journal=Learning%2C%20Media%20and%20Technology&doi=10.1080%2F17439884.2020.1754236&volume=45&issue=3&pages=298-311&publication_year=2024&author=Knox%2CJ)
+* Lin, X., & Gao, L. (2020). Students’ sense of community and perspectives of taking synchronous and asynchronous online courses. *Asian Journal of Distance Education*, *15*(1), 169–179. <https://doi.org/10.5281/zenodo.3881614>
+  
+  [Article](https://doi.org/10.5281%2Fzenodo.3881614) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Students%E2%80%99%20sense%20of%20community%20and%20perspectives%20of%20taking%20synchronous%20and%20asynchronous%20online%20courses&journal=Asian%20Journal%20of%20Distance%20Education&doi=10.5281%2Fzenodo.3881614&volume=15&issue=1&pages=169-179&publication_year=2020&author=Lin%2CX&author=Gao%2CL)
+* Li, Y., Castulo, N. J., & Xu, X. (2025). Embracing or rejecting AI? A mixed-method study on undergraduate students’ perceptions of artificial intelligence at a private university in China. *Frontiers in Education,* *10*, Article 1505856. <https://doi.org/10.3389/feduc.2025.1505856>
+  
+  [Article](https://doi.org/10.3389%2Ffeduc.2025.1505856) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Embracing%20or%20rejecting%20AI%3F%20A%20mixed-method%20study%20on%20undergraduate%20students%E2%80%99%20perceptions%20of%20artificial%20intelligence%20at%20a%20private%20university%20in%20China&journal=Frontiers%20in%20Education&doi=10.3389%2Ffeduc.2025.1505856&volume=10&publication_year=2025&author=Li%2CY&author=Castulo%2CNJ&author=Xu%2CX)
+* Lukin, R., Cukurova, M., Kent, C., & Boulay, B. (2022). Empowering educators to be AI-ready. *Computers and Education: Artificial Intelligence,* *3*(1), Article 100076. <https://doi.org/10.1016/j.caeai.2022.100076>
+  
+  [Article](https://doi.org/10.1016%2Fj.caeai.2022.100076) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Empowering%20educators%20to%20be%20AI-ready&journal=Computers%20and%20Education%3A%20Artificial%20Intelligence&doi=10.1016%2Fj.caeai.2022.100076&volume=3&issue=1&publication_year=2022&author=Lukin%2CR&author=Cukurova%2CM&author=Kent%2CC&author=Boulay%2CB)
+* Mah, D.-K., & Groß, N. (2024). Artificial intelligence in higher education: Exploring faculty use, self-efficacy, distinct profiles, and professional development needs. *International Journal of Educational Technology in Higher Education,* *21*, Article 58. <https://doi.org/10.1186/s41239-024-00490-1>
+  
+  [Article](https://link.springer.com/doi/10.1186/s41239-024-00490-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20in%20higher%20education%3A%20Exploring%20faculty%20use%2C%20self-efficacy%2C%20distinct%20profiles%2C%20and%20professional%20development%20needs&journal=International%20Journal%20of%20Educational%20Technology%20in%20Higher%20Education&doi=10.1186%2Fs41239-024-00490-1&volume=21&publication_year=2024&author=Mah%2CD-K&author=Gro%C3%9F%2CN)
+* Marks, B., & Thomas, J. (2022). Adoption of virtual reality technology in higher education. *Education and Information Technologies*, *27*(1), 1287–1305. <https://doi.org/10.1007/s10639-021-10653-6>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-021-10653-6) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Adoption%20of%20virtual%20reality%20technology%20in%20higher%20education&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-021-10653-6&volume=27&issue=1&pages=1287-1305&publication_year=2022&author=Marks%2CB&author=Thomas%2CJ)
+* Pesovski, I., Santos, R., Henriques, R., & Trajkovik, V. (2024). Generative AI for customizable learning experiences. *Sustainability,* *16*(7), Article 3034. <https://doi.org/10.3390/su16073034>
+  
+  [Article](https://doi.org/10.3390%2Fsu16073034) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Generative%20AI%20for%20customizable%20learning%20experiences&journal=Sustainability&doi=10.3390%2Fsu16073034&volume=16&issue=7&publication_year=2024&author=Pesovski%2CI&author=Santos%2CR&author=Henriques%2CR&author=Trajkovik%2CV)
+* Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). Common method biases in behavioral research. *Journal of Applied Psychology,* *88*(5), 879–903. <https://doi.org/10.1037/0021-9010.88.5.879>
+  
+  [Article](https://doi.org/10.1037%2F0021-9010.88.5.879) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Common%20method%20biases%20in%20behavioral%20research&journal=Journal%20of%20Applied%20Psychology&doi=10.1037%2F0021-9010.88.5.879&volume=88&issue=5&pages=879-903&publication_year=2003&author=Podsakoff%2CPM&author=MacKenzie%2CSB&author=Lee%2CJ-Y&author=Podsakoff%2CNP)
+* Rahiman, H. U., & Kodikal, R. (2024). Revolutionizing education. *Cogent Education,* *11*(1), Article 2293431. <https://doi.org/10.1080/2331186X.2023.2293431>
+  
+  [Article](https://doi.org/10.1080%2F2331186X.2023.2293431) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Revolutionizing%20education&journal=Cogent%20Education&doi=10.1080%2F2331186X.2023.2293431&volume=11&issue=1&publication_year=2024&author=Rahiman%2CHU&author=Kodikal%2CR)
+* Ryan, R., & Deci, E. (2000). Self-determination theory and the facilitation of intrinsic motivation. *American Psychologist*, *55*(1), 68–78. <https://doi.org/10.1037/0003-066X.55.1.68>
+  
+  [Article](https://doi.org/10.1037%2F0003-066X.55.1.68) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Self-determination%20theory%20and%20the%20facilitation%20of%20intrinsic%20motivation&journal=American%20Psychologist&doi=10.1037%2F0003-066X.55.1.68&volume=55&issue=1&pages=68-78&publication_year=2000&author=Ryan%2CR&author=Deci%2CE)
+* Ryan, R. M., & Deci, E. L. (2004). Autonomy is no illusion. In J. Greenberg et al. (Eds.), *Handbook of experimental existential psychology* (pp. 449–479). Guilford Press.
+* Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory*. Guilford Press.
+* Ryan, R. M., & Deci, E. L. (2020). Intrinsic and extrinsic motivation. *Contemporary Educational Psychology,* *61*, Article 101860. <https://doi.org/10.1016/j.cedpsych.2020.101860>
+  
+  [Article](https://doi.org/10.1016%2Fj.cedpsych.2020.101860) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Intrinsic%20and%20extrinsic%20motivation&journal=Contemporary%20Educational%20Psychology&doi=10.1016%2Fj.cedpsych.2020.101860&volume=61&publication_year=2020&author=Ryan%2CRM&author=Deci%2CEL)
+* Sage, D. (2025). The transformative impact of artificial intelligence on higher education. *International Journal of Chinese Education*, *14*(1), 1–16. <https://doi.org/10.1177/2212585X251319364>
+  
+  [Article](https://doi.org/10.1177%2F2212585X251319364) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20transformative%20impact%20of%20artificial%20intelligence%20on%20higher%20education&journal=International%20Journal%20of%20Chinese%20Education&doi=10.1177%2F2212585X251319364&volume=14&issue=1&pages=1-16&publication_year=2025&author=Sage%2CD)
+* Sagnier, C., Emilie, L.-E., Domitile, L., Indira, T., & Valléry, G. (2020). User acceptance of virtual reality. *International Journal of Human-Computer Interaction,* *36*(11), 993–1007. <https://doi.org/10.1080/10447318.2019.1708612>
+  
+  [Article](https://doi.org/10.1080%2F10447318.2019.1708612) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=User%20acceptance%20of%20virtual%20reality&journal=International%20Journal%20of%20Human-Computer%20Interaction&doi=10.1080%2F10447318.2019.1708612&volume=36&issue=11&pages=993-1007&publication_year=2020&author=Sagnier%2CC&author=Emilie%2CL-E&author=Domitile%2CL&author=Indira%2CT&author=Vall%C3%A9ry%2CG)
+* Schmidt, D. A., Alboloushi, B., Thomas, A., & Magalhaes, R. (2025). Integrating artificial intelligence in higher education. *Computers and Education Open,* *9*, Article 100274. <https://doi.org/10.1016/j.caeo.2025.100274>
+  
+  [Article](https://doi.org/10.1016%2Fj.caeo.2025.100274) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Integrating%20artificial%20intelligence%20in%20higher%20education&journal=Computers%20and%20Education%20Open&doi=10.1016%2Fj.caeo.2025.100274&volume=9&publication_year=2025&author=Schmidt%2CDA&author=Alboloushi%2CB&author=Thomas%2CA&author=Magalhaes%2CR)
+* Selwyn, N. (2019). *Should robots replace teachers? Wiley*.
+* Shen, H., Ye, X., Zhang, J., & Huang, D. (2024). Perceived emotional support and learner well-being. *Learning and Motivation,* *86*, Article 101968. <https://doi.org/10.1016/j.lmot.2024.101968>
+  
+  [Article](https://doi.org/10.1016%2Fj.lmot.2024.101968) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Perceived%20emotional%20support%20and%20learner%20well-being&journal=Learning%20and%20Motivation&doi=10.1016%2Fj.lmot.2024.101968&volume=86&publication_year=2024&author=Shen%2CH&author=Ye%2CX&author=Zhang%2CJ&author=Huang%2CD)
+* Sitar-Taut, D.-A., & Mican, D. (2021). Mobile learning acceptance. *Online Information Review,* *45*(5), 1000–1019. <https://doi.org/10.1108/OIR-01-2021-0017>
+  
+  [Article](https://doi.org/10.1108%2FOIR-01-2021-0017) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mobile%20learning%20acceptance&journal=Online%20Information%20Review&doi=10.1108%2FOIR-01-2021-0017&volume=45&issue=5&pages=1000-1019&publication_year=2021&author=Sitar-Taut%2CD-A&author=Mican%2CD)
+* Slimi, Z. (2023). Artificial intelligence in education. *European Journal of Educational Sciences*, *10*(1), 255–270. <https://doi.org/10.19044/ejes.v10no1a17>
+  
+  [Article](https://doi.org/10.19044%2Fejes.v10no1a17) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20in%20education&journal=European%20Journal%20of%20Educational%20Sciences&doi=10.19044%2Fejes.v10no1a17&volume=10&issue=1&pages=255-270&publication_year=2023&author=Slimi%2CZ)
+* Srinivasan, V., & Murthy, H. (2021). Improving reading and comprehension in K–12. *Computers and Education: Artificial Intelligence,* *2*, Article 100019. <https://doi.org/10.1016/j.caeai.2021.100019>
+  
+  [Article](https://doi.org/10.1016%2Fj.caeai.2021.100019) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Improving%20reading%20and%20comprehension%20in%20K%E2%80%9312&journal=Computers%20and%20Education%3A%20Artificial%20Intelligence&doi=10.1016%2Fj.caeai.2021.100019&volume=2&publication_year=2021&author=Srinivasan%2CV&author=Murthy%2CH)
+* Standage, M., Duda, J. L., & Ntoumanis, N. (2005). A test of self-determination theory. *British Journal of Educational Psychology*, *75*(3), 411–433. <https://doi.org/10.1348/000709904X22359>
+  
+  [Article](https://doi.org/10.1348%2F000709904X22359) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20test%20of%20self-determination%20theory&journal=British%20Journal%20of%20Educational%20Psychology&doi=10.1348%2F000709904X22359&volume=75&issue=3&pages=411-433&publication_year=2005&author=Standage%2CM&author=Duda%2CJL&author=Ntoumanis%2CN)
+* Strzelecki, A. (2024). Students’ acceptance of ChatGPT. *Innovative Higher Education*, *49*(2), 223–245. <https://doi.org/10.1007/s10755-023-09686-1>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10755-023-09686-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Students%E2%80%99%20acceptance%20of%20ChatGPT&journal=Innovative%20Higher%20Education&doi=10.1007%2Fs10755-023-09686-1&volume=49&issue=2&pages=223-245&publication_year=2024&author=Strzelecki%2CA)
+* Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology. *MIS Quarterly,* *27*(3), 425–478.
+  
+  [Article](https://doi.org/10.2307%2F30036540) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=User%20acceptance%20of%20information%20technology&journal=MIS%20Quarterly&doi=10.2307%2F30036540&volume=27&issue=3&pages=425-478&publication_year=2003&author=Venkatesh%2CV&author=Morris%2CMG&author=Davis%2CGB&author=Davis%2CFD)
+* Venkatesh, V., Thong, J. Y. L., & Xu, X. (2012). Consumer acceptance of information technology. *MIS Quarterly,* *36*(1), 157–178.
+  
+  [Article](https://doi.org/10.2307%2F41410412) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Consumer%20acceptance%20of%20information%20technology&journal=MIS%20Quarterly&doi=10.2307%2F41410412&volume=36&issue=1&pages=157-178&publication_year=2012&author=Venkatesh%2CV&author=Thong%2CJYL&author=Xu%2CX)
+* Wang, B., Patrick, R.-L., & Yuan, T. (2023a). Measuring user competence in using artificial intelligence. *Behaviour & Information Technology,* *42*(9), 1324–1337. <https://doi.org/10.1080/0144929X.2022.2072768>
+  
+  [Article](https://doi.org/10.1080%2F0144929X.2022.2072768) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Measuring%20user%20competence%20in%20using%20artificial%20intelligence&journal=Behaviour%20%26%20Information%20Technology&doi=10.1080%2F0144929X.2022.2072768&volume=42&issue=9&pages=1324-1337&publication_year=2023&author=Wang%2CB&author=Patrick%2CR-L&author=Yuan%2CT)
+* Wang, C., Wang, H., Li, Y., Dai, J., Gu, X., & Yu, T. (2025a). Factors influencing university students’ behavioral intention. *International Journal of Human-Computer Interaction,* *41*(11), 6649–6671. <https://doi.org/10.1080/10447318.2024.2383033>
+  
+  [Article](https://doi.org/10.1080%2F10447318.2024.2383033) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Factors%20influencing%20university%20students%E2%80%99%20behavioral%20intention&journal=International%20Journal%20of%20Human-Computer%20Interaction&doi=10.1080%2F10447318.2024.2383033&volume=41&issue=11&pages=6649-6671&publication_year=2025&author=Wang%2CC&author=Wang%2CH&author=Li%2CY&author=Dai%2CJ&author=Gu%2CX&author=Yu%2CT)
+* Wang, P., Jing, Y., & Shen, S. (2025b). A systematic literature review on generative artificial intelligence. *The Internet and Higher Education,* *65*, Article 100996. <https://doi.org/10.1016/j.iheduc.2025.100996>
+  
+  [Article](https://doi.org/10.1016%2Fj.iheduc.2025.100996) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20systematic%20literature%20review%20on%20generative%20artificial%20intelligence&journal=The%20Internet%20and%20Higher%20Education&doi=10.1016%2Fj.iheduc.2025.100996&volume=65&publication_year=2025&author=Wang%2CP&author=Jing%2CY&author=Shen%2CS)
+* Wang, Y., Han, X., & Yang, J. (2023). Factors influencing teachers’ intention to use artificial intelligence. *Computers in Human Behavior,* *144*, Article 107674. <https://doi.org/10.1016/j.chb.2023.107674>
+  
+  [Article](https://doi.org/10.1016%2Fj.chb.2023.107674) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Factors%20influencing%20teachers%E2%80%99%20intention%20to%20use%20artificial%20intelligence&journal=Computers%20in%20Human%20Behavior&doi=10.1016%2Fj.chb.2023.107674&volume=144&publication_year=2023&author=Wang%2CY&author=Han%2CX&author=Yang%2CJ)
+* Welch, A. (2024). Private higher education in China. *Asia Pacific Education Review*, *25*(2), 211–225. <https://doi.org/10.1007/s12564-023-09876-1>
+  
+  [Article](https://link.springer.com/doi/10.1007/s12564-023-09876-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Private%20higher%20education%20in%20China&journal=Asia%20Pacific%20Education%20Review&doi=10.1007%2Fs12564-023-09876-1&volume=25&issue=2&pages=211-225&publication_year=2024&author=Welch%2CA)
+* Williams, M. D., Rana, N. P., & Dwivedi, Y. K. (2015). The unified theory of acceptance and use of technology (UTAUT). *Journal of Enterprise Information Management,* *28*(3), 443–488. <https://doi.org/10.1108/jeim-09-2014-0088>
+  
+  [Article](https://doi.org/10.1108%2Fjeim-09-2014-0088) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20unified%20theory%20of%20acceptance%20and%20use%20of%20technology%20%28UTAUT%29&journal=Journal%20of%20Enterprise%20Information%20Management&doi=10.1108%2Fjeim-09-2014-0088&volume=28&issue=3&pages=443-488&publication_year=2015&author=Williams%2CMD&author=Rana%2CNP&author=Dwivedi%2CYK)
+* Williams, M., Rana, N., Dwivedi, Y., & Lal, B. (2011). Is UTAUT really used or just cited for the sake of it? *ECIS 2011 Proceedings*. <https://aisel.aisnet.org/ecis2011/231>
+* Wong, K. T., Teo, T., & Russo, S. (2013). Interactive whiteboard acceptance. *Asia-Pacific Education Researcher,* *22*(1), 1–10. <https://doi.org/10.1007/s40299-012-0001-9>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40299-012-0001-9) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Interactive%20whiteboard%20acceptance&journal=Asia-Pacific%20Education%20Researcher&doi=10.1007%2Fs40299-012-0001-9&volume=22&issue=1&pages=1-10&publication_year=2013&author=Wong%2CKT&author=Teo%2CT&author=Russo%2CS)
+* Xia, Q., Chiu, T. K. F., Lee, M., Sanusi, I. T., Dai, Y., & Chai, C. S. (2022). A self-determination theory design approach. *Computers & Education,* *189*, Article 104582. <https://doi.org/10.1016/j.compedu.2022.104582>
+  
+  [Article](https://doi.org/10.1016%2Fj.compedu.2022.104582) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20self-determination%20theory%20design%20approach&journal=Computers%20%26%20Education&doi=10.1016%2Fj.compedu.2022.104582&volume=189&publication_year=2022&author=Xia%2CQ&author=Chiu%2CTKF&author=Lee%2CM&author=Sanusi%2CIT&author=Dai%2CY&author=Chai%2CCS)
+* Xu, B., & Ouyang, F. (2022). Artificial intelligence in STEM education in China. *Education and Information Technologies*, *27*, 12345–12367. <https://doi.org/10.1007/s10639-021-10712-9>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-021-10712-9) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Artificial%20intelligence%20in%20STEM%20education%20in%20China&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-021-10712-9&volume=27&pages=12345-12367&publication_year=2022&author=Xu%2CB&author=Ouyang%2CF)
+* Xue, L., Rashid, A. M., & Ouyang, S. (2024). The unified theory of acceptance and use of technology in higher education. *SAGE Open*, *14*(1). <https://doi.org/10.1177/21582440241229570>
+* Xu, W., Shen, Z. Y., Lin, S. J., & Chen, J. C. (2022). Improving behavioral intention of continuous online learning. *Frontiers in Psychology,* *13*, Article 857709. <https://doi.org/10.3389/fpsyg.2022.857709>
+  
+  [Article](https://doi.org/10.3389%2Ffpsyg.2022.857709) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Improving%20behavioral%20intention%20of%20continuous%20online%20learning&journal=Frontiers%20in%20Psychology&doi=10.3389%2Ffpsyg.2022.857709&volume=13&publication_year=2022&author=Xu%2CW&author=Shen%2CZY&author=Lin%2CSJ&author=Chen%2CJC)
+* Zawacki-Richter, O., Marín, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of AI applications in higher education. *International Journal of Educational Technology in Higher Education,* *16*(1), Article 39. <https://doi.org/10.1186/s41239-019-0171-0>
+  
+  [Article](https://link.springer.com/doi/10.1186/s41239-019-0171-0) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Systematic%20review%20of%20AI%20applications%20in%20higher%20education&journal=International%20Journal%20of%20Educational%20Technology%20in%20Higher%20Education&doi=10.1186%2Fs41239-019-0171-0&volume=16&issue=1&publication_year=2019&author=Zawacki-Richter%2CO&author=Mar%C3%ADn%2CVI&author=Bond%2CM&author=Gouverneur%2CF)
+* Zeide, E. (2019). Artificial intelligence in higher education: applications, promises and perils, and ethical questions. *EDUCAUSE Review*. <https://er.educause.edu/articles/2019/8/artificial-intelligence-in-higher-education-applications-promise-and-perils-andethical-questions>
+* Zheng, Y., Wang, Y., Liu, K.-X., & Jiang, M.-C. (2024). Motivation and technology acceptance of generative AI. *Education and Information Technologies,* *29*, 23547–23575. <https://doi.org/10.1007/s10639-024-12763-3>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10639-024-12763-3) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Motivation%20and%20technology%20acceptance%20of%20generative%20AI&journal=Education%20and%20Information%20Technologies&doi=10.1007%2Fs10639-024-12763-3&volume=29&pages=23547-23575&publication_year=2024&author=Zheng%2CY&author=Wang%2CY&author=Liu%2CK-X&author=Jiang%2CM-C)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s10639-026-13931-3?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+We acknowledge gratefully that research was supported by Northwestern Polytechnical University, China (internal project grant: 2025HZ020).
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Northwestern Polytechnical University, Xi’an, China
+   
+   Yujuan Luo
+2. University of Greenwich, London, UK
+   
+   Michael James Day
+
+Authors
+
+1. Yujuan Luo[View author publications](/search?sortBy=newestFirst&contributor=Yujuan%20Luo)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yujuan%20Luo) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yujuan%20Luo%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Michael James Day[View author publications](/search?sortBy=newestFirst&contributor=Michael%20James%20Day)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Michael%20James%20Day) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Michael%20James%20Day%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Contributions
+
+Per CRediT: YL was responsible for research data protocols, data analysis and modelling. MJD was responsible for the literature review, supporting data analysis and discussion. Both contributed equally to the conceptualisation of the manuscript. The authors declare no competing interests, and per COPE, identify AI tools were used for copy-editing and language proofing purposes.
+
+### Corresponding author
+
+Correspondence to
+[Michael James Day](mailto:m.j.day@greenwich.ac.uk).
+
+Ethics declarations
+-------------------
+
+### Ethical approval
+
+This study received ethical approval from the Institutional Review Board under project with IRB ID ER-LRR-11000128120240606102842 at the affiliated university of YL. All procedures performed in this study adhered to the ethical standards outlined in the Declaration of Helsinki. Participants’ confidentiality and anonymity were strictly maintained to protect their privacy throughout the research process.
+
+### Conflict of interests
+
+There is no potential conflict of interest was reported by the authors.
+
+Additional information
+----------------------
+
+### Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Appendix
+--------
+
+### Appendix
+
+**Table 9 Item analysis and internal consistency reliability**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/9)
+
+**Table 10 Goodness-of-fit indices for the overall measurement model**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/10)
+
+**Table 11 Descriptive statistics for the research variables**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/11)
+
+**Table 12 Collinearity diagnostics**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/12)
+
+**Table 13 Correlation coefficients among the study variables**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/13)
+
+**Table 14 Goodness-of-fit indices for the structural equation model**
+
+[Full size table](/article/10.1007/s10639-026-13931-3/tables/14)
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Determinants%20of%20lecturer%20readiness%20to%20adopt%20generative%20AI%20in%20higher%20education%3A%20survey%20evidence%20from%20UTAUT%20and%20self-determination%20theory&author=Yujuan%20Luo%20et%20al&contentID=10.1007%2Fs10639-026-13931-3&copyright=The%20Author%28s%29&publication=1360-2357&publicationDate=2026-03-12&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+About this article
+------------------
+
+### Cite this article
+
+Luo, Y., Day, M.J. Determinants of lecturer readiness to adopt generative AI in higher education: survey evidence from UTAUT and self-determination theory.
+*Educ Inf Technol* (2026). https://doi.org/10.1007/s10639-026-13931-3
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s10639-026-13931-3?format=refman&flavour=citation)
+
+* Received: 11 September 2025
+* Accepted: 16 February 2026
+* Published: 12 March 2026
+* Version of record: 12 March 2026
+* DOI: https://doi.org/10.1007/s10639-026-13931-3
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Generative Artificial Intelligence (GAI)](/search?query=Generative%20Artificial%20Intelligence%20%28GAI%29&facet-discipline="Computer%20Science")
+* [Higher Education](/search?query=Higher%20Education&facet-discipline="Computer%20Science")
+* [UTAUT](/search?query=UTAUT&facet-discipline="Computer%20Science")
+* [Self-Determination Theory (SDT)](/search?query=Self-Determination%20Theory%20%28SDT%29&facet-discipline="Computer%20Science")
+* [Lecturer Readiness](/search?query=Lecturer%20Readiness&facet-discipline="Computer%20Science")
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.44.184
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

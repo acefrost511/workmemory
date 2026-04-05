@@ -1,0 +1,887 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S2666920X2400122X
+# Content Length: 160115 characters
+# Extracted at: 2026-04-05 08:29:58
+#============================================================
+
+A critical review of teaching and learning artificial intelligence (AI) literacy: Developing an intelligence-based AI literacy framework for primary school education - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X2400122X&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X2400122X)
+\* [View \*\*PDF\*\*](/science/article/pii/S2666920X2400122X/pdfft?md5=6fec23995331aaad0427f650090ba677&pid=1-s2.0-S2666920X2400122X-main.pdf)
+\* Download full issue
+Search ScienceDirect
+## Outline
+1. [Abstract](#abs0010)
+2. [Keywords](#kwrds0010)
+3. [1. Introduction](#sec1)
+4. [2. Literature review](#sec2)
+5. [3. Research aims and questions](#sec3)
+6. [4. Methodology](#sec4)
+7. [5. Findings](#sec5)
+8. [6. Discussion](#sec6)
+9. [7. A proposed intelligence-based AI literacy framework for young students](#sec7)
+10. [8. Research implications: transitioning to an intelligence-based AI literacy framework](#sec8)
+11. [9. Conclusion and limitations](#sec9)
+12. [Ethics approval and consent to participate](#sec11)
+13. [Data availability](#sec12)
+14. [Declaration of competing interest](#coi0010)
+15. [Acknowledgments](#ack0010)
+16. [References](#cebib0010)
+17. [Vitae](#vt1)
+Show full outline
+## [Cited by (82)](#section-cited-by)
+## Figures (4)
+1. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr1.sml)](#fig1)
+2. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr2.sml)](#fig2)
+3. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr3.sml)](#fig3)
+4. [![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr4.sml)](#fig4)
+## Tables (7)
+1. [Table 1](#tbl1)
+2. [Table 2](#tbl2)
+3. [Table 3](#tbl3)
+4. [Table 4](#tbl4)
+5. [Table 5](#tbl5)
+6. [Table 6](#tbl6)
+Show all tables
+[![](https://sciencedirect.elseviercdn.cn/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](/journal/computers-and-education-artificial-intelligence)
+## [Computers and Education: Artificial Intelligence](/journal/computers-and-education-artificial-intelligence)
+[Volume 7](/journal/computers-and-education-artificial-intelligence/vol/7/suppl/C), December 2024, 100319
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X24X00028-cov150h.gif)](/journal/computers-and-education-artificial-intelligence/vol/7/suppl/C)
+# A critical review of teaching and learning artificial intelligence (AI) literacy: Developing an intelligence-based AI literacy framework for primary school education
+Author links open overlay panelIris HeungYue Yim
+Show more
+Outline
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S2666920X2400122X&orderBeanReset=true)
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+Open access
+## Abstract
+Artificial intelligence (AI) literacy education mainly targets secondary and university students, often overlooking the unique needs of younger students. This gap in AI literacy primary school education presents theoretical and pedagogical challenges. Despite the pervasive influence of AI, which can exacerbate inequalities and raise ethical challenges, primary students often lack an understanding of AI principles and mechanisms. Recent developments in age-appropriate AI learning tools have extended AI literacy to primary schools, but AI literacy frameworks for this age group remain underdeveloped. This study aims to conceptualize AI literacy by analyzing existing theoretical frameworks and proposing a new inclusive AI literacy framework for young students. A scoping review is employed using four credible index databases, and 19 articles are selected, with 17 AI literacy frameworks identified across all educational levels, from early childhood to university. This study reveals that the predominant methodologies for developing AI literacy frameworks involve empirical research studies and literature reviews, adhering to national government or institutional standards. These frameworks commonly incorporate 1) Bloom's taxonomy or a similar progression framework, such as Use-Create-Modify, 2) constructionism, and 3) computer science perspectives such as theories of computation. The findings reveal that AI literacy is situated at the intersection of digital literacy, data literacy, computational thinking, and AI ethics, emphasizing the need for a transdisciplinary and interdisciplinary approach that encompasses both technological and societal impacts. However, the study argues that the current paradigms of AI literacy frameworks for young students often emphasize constructionist perspectives without fully considering the interactions between human and technological agents. This gap highlights the necessity for a new conceptual framework that acknowledges both human and non-human agents in AI literacy education for young students. The research contributes by conceptualizing AI literacy and guiding policymakers and curriculum designers to implement holistic AI literacy education for young students.
+\* [Previousarticle in issue](/science/article/pii/S2666920X24000699)
+\* [Nextarticle in issue](/science/article/pii/S2666920X24001309)
+## Keywords
+Artificial intelligence
+AI literacy
+Intelligence-based AI literacy framework
+AI thinking
+Primary school students
+Systematic review
+AI learning and teaching
+## 1. Introduction
+The origins of artificial intelligence (AI) literacy education can be traced back to the pioneering work of [Papert and Solomon (1971)](#bib66), who used Logo, the first programming language to control a robotic turtle, to engage primary school students in active learning so that they could gain deeper understanding of abstract computer science concepts. Drawing on Jean Piaget's constructivism, which emphasizes that understanding is constructed through experience ([Piaget, 1977](#bib68)), Papert advanced a “constructionist” approach which highlighted the importance of creating tangible artifacts as part of the learning process ([Papert, 1980](#bib64)).
+This constructionist approach, closely linked to the field of AI ([Kahn & Winters, 2021](#bib34)), continues to influence AI literacy initiatives, where students are encouraged to build computational artifacts ([Touretzky et al., 2019](#bib86) & 2023), primarily by applying technical skills ([Casal-Otero et al., 2023](#bib16)) for coding and programming, as a means to develop computational thinking ([Van Brummelen et al., 2019](#bib89); [Williams et al., 2019](#bib98)). As a result of this constructionist influence ([Miao et al., 2021](#bib52); [Morales-Navarro et al., 2023](#bib55)), current efforts in AI literacy education for primary school students stress the importance of hands-on activities ([Ali et al., 2019](#bib4); [Rodríguez-Garciá et al., 2021](#bib74); [Shamir & Levin, 2022](#bib76)).
+While such constructionist and constructivist approaches remain valuable, they are insufficient in pedagogical scope and for addressing the AI literacy needs of young students. [Kahn and Winters (2021)](#bib34), for example, argue that young learners may lack the intellectual ability to benefit from the constructionist approach. Others argue that many educators overly emphasize technical skills, which limits their pedagogy ([Deng et al., 2021](#bib24)). In addition, it has been claimed that constructionism views knowledge as only constructed within the human cognitive process ([Bandura, 1989](#bib8); [Frank et al., 2022](#bib27)), which undermines other ways of knowing and interacting with knowledge.
+The constructionist and constructivist approaches also tend to overlook the transdisciplinary ([Southworth et al., 2023](#bib78)) and interdisciplinary nature of AI ([Wang, 2019](#bib91)). AI literacy must expand beyond its traditional boundaries to acknowledge the transdisciplinary integration of diverse fields ([Southworth et al., 2023](#bib78)), such as computer science, ethics, sociology, economics, and law. Acknowledging transdisciplinarity involves creating AI literacy education that integrates knowledge from diverse fields, offering students a comprehensive understanding of the impact of AI on society. Interdisciplinarity, meanwhile, promotes collaboration across these fields as well as with AI to tackle complex real-life challenges. This holistic approach is essential because AI impacts diverse aspects of society, requiring input from multiple disciplines to ensure that students develop not only technical skills but also their thinking and ethical reasoning, fostering well-rounded AI literacy and preparing them for future challenges ([Stolpe & Hallström, 2024](#bib79)).
+Despite the growing interest in AI literacy, efforts targeting young students remain limited ([Yim & Su, 2024](#bib103)). According to [Miao and Shiohira (2022)](#bib53), over ten countries have designed and implemented government-endorsed AI curricula. However, while educators have begun to develop various AI literacy learning theoretical frameworks to guide curriculum design ([Chiu et al., 2024](#bib17); [Kandlhofer et al., 2016](#bib35)), these frameworks may overlook the needs of young students ([Yim, 2023](#bib102), pp. 65–90). Identifying relevant AI literacy learning content for young students is vital ([Almatrafi et al., 2024](#bib5); [Chiu et al., 2024](#bib17)) for effective AI literacy implementation in primary school contexts.
+[Long and Magerko (2020)](#bib43) call on researchers and educators to expand existing frameworks in order to accommodate new findings, technologies, and social norms. In response, this paper aims to conceptualize AI literacy for young learners by identifying and analyzing 17 AI literacy frameworks across different educational levels. Through this analysis, the paper aims to design a new, intelligence-based AI literacy framework for primary school students.
+This paper calls for a transition from a traditional humanistic to a post-humanistic approach in AI literacy education by introducing a new intelligence-based framework that incorporates AI thinking, designed specifically for primary school settings. The proposed framework in this study defines AI literacy in the primary school context and provides guidance for educators to design and implement AI education curricula. To our knowledge, this is the first study to offer a comprehensive overview of existing AI literacy frameworks and to design an AI literacy theoretical framework specifically for young students.
+## 2. Literature review
+### 2.1. What is AI and AI literacy
+AI gained prominence through the work of John [McCarthy (2006)](#bib48), an American mathematician and computer scientist. McCarthy initially defined AI as “the science and engineering of creating intelligent devices, particularly intelligent computer programmes” ([McCarthy 2006, p.2](#bib48)). Over time, AI has come to be broadly recognised as computational systems and toolsets ([Southworth et al., 2023](#bib78)), evolving from problem-solving challenges to the automation of human actions and cognition. [Wang (2019)](#bib91) argues that there is no widely accepted definition of AI due to the fact that “AI” has been used to refer to a wide range of phenomena both within the professional AI community and the general public.
+AI has become ubiquitous in various domains, including social media ([Wu et al., 2019](#bib99)), education (Zawacki-Richter et al., 2019), and healthcare ([Jiang et al., 2017](#bib33)). Its application has also extended to academic institutions, including the implementation of automatic grading systems and intelligent tutoring systems ([Kahn & Winters, 2021](#bib34)). However, AI poses risks to society and raises questions concerning its ethical, social, and economic implications ([Floridi et al., 2021](#bib26)). With the increasing number of young students who have grown up engaging with AI technologies ([Ali et al., 2019](#bib4)) such as SIRI and ChatGPT, it is important to educate them regarding AI's underlying mechanisms ([Miao & Shiohira, 2022](#bib53)), while also informing them about data justice, inclusive data, the accuracy of AI information (Pedro et al., 2019), and the societal and ethical implications of AI ([Miao et al., 2021](#bib52)). Educators have advocated the inclusion of AI literacy education for young students, upholding its importance not only for computer scientists ([Ng et al., 2021](#bib58)) but also for the social good in general ([Floridi et al., 2021](#bib26)). Despite interactions with AI, many young students lack foundational knowledge regarding AI's core technologies, mechanisms (Casal-Otero et al., 2024; [Chiu et al., 2024](#bib17)), and ethical concerns ([Han et al., 2024](#bib30)). This underscores the necessity to incorporate AI ethics within AI literacy education ([Chiu et al., 2024](#bib17)).
+Many academics believe that teaching AI literacy is a global strategy for digital citizenship education ([Yim & Su, 2024](#bib103)). Indeed, AI literacy has evolved from digital, data, and scientific literacy ([Long and Magerko, 202](#bib43)0) into a field incorporating concepts, knowledge, skills, and attitudes from a variety of disciplines ([Southworth et al., 2023](#bib78)). However, determining what AI literacy content is relevant to young students ([Chiu et al., 2024](#bib17)) remains challenging due to a lack of a universal definition of AI ([Chiu & Sanusi, 2024](#bib19)).
+### 2.2. AI literacy primary school education
+AI literacy education was previously primarily taught at universities and secondary schools ([Su & Yang, 2024](#bib82)), but has recently expanded to primary schools. As more age-appropriate learning tools have been developed ([Yim & Su, 2024](#bib103)), more researchers have used various educational tools such as teachable machines ([Toivonen et al., 2020](#bib85)), block-based programming such as Scratch ([Dai, 2024](#bib22)), creativity tasks and tools ([Williams et al., 2024](#bib97)), as well as the use of Generative AI ([Jauhiainen & Guerra, 2023](#bib32)) to scaffold AI literacy knowledge and concepts to primary school students. However, there have been limited studies exploring what to teach young students and how to assess their learning outcomes ([Chiu & Sanusi, 2024](#bib19); Yau et al., 2023).
+Researchers have recently designed various AI literacy learning frameworks ([Chiu et al., 2024](#bib17)) for adults and university and K-12 students. These include [Long and Magerko’s (2020)](#bib43) “AI Literacy Framework” for students and the general public, [Southworth et al.’s (2023)](#bib78) “UF (University of Florida) AI Across the Curriculum Model” for university students, and [Touretzky et al.’s (2019)](#bib86) “Five Big AI Ideas” framework for K12 students. However, very little has been developed specifically for primary school education\*\*.\*\* In addition, the main frameworks emphasize technical knowledge from the perspective of higher education ([Chiu et al., 2024](#bib17)), engineering ([Chiu et al., 2021](#bib18); [Kong et al., 2022](#bib38)), computer science ([Van Brummelen et al., 2019](#bib89)), making them inappropriate for use with primary school students without a technical and computer science background. Despite the pivotal role of primary education as a formal and foundational learning stage ([UNESCO, 2005](#bib88)), the introduction of AI literacy is crucial. It helps to build foundational conceptual understanding and skills ([Chiu et al., 2024](#bib17)), preparing students for future learning and careers ([Li, 2022](#bib41); [OECD, 2023](#bib62)). Additionally, it bridges the digital divide, ensuring that all students, regardless of their background ([Luckin & Holmes, 2016](#bib46)), have access to AI literacy. However, the development of an AI literacy learning framework specifically targeting primary school students remains largely unexplored.
+## 3. Research aims and questions
+Research indicates that recent developments in age-appropriate AI learning tools have extended AI literacy to primary schools, but AI literacy frameworks in this setting remain underdeveloped. Previous literature demonstrates that there is a need for AI literacy education for primary school students, but little is known about what AI is and what existing AI learning frameworks have been established for its implementation among this specific group of students. To address this gap, this study examines the conceptual understanding of AI literacy within existing AI learning theoretical frameworks, with the aim of proposing an AI literacy framework for primary school students. Four research questions are formulated as follows.
+\* RQ1
+How many studies on AI literacy learning frameworks have been published and which educational levels have they addressed?
+\* RQ2
+What are the underlying methodologies and theoretical orientations to learning employed in the selected theoretical frameworks for AI literacy education?
+\* RQ3
+What are the themes regarding AI literacy within the identified AI literacy frameworks at each educational level?
+\* RQ4
+What are the learning focuses identified in the selected AI literacy theoretical frameworks?
+## 4. Methodology
+This section provides an overview of the article search and analysis strategy implemented by this study, influenced by the methodological guidance of [Arksey and O'malley (2005)](#bib7). This review has followed the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) Statement approach ([Page et al., 2021](#bib63)), and has been conducted in three stages: (1) article selection, (2) article screening, and (3) data coding, extraction, and analysis.
+### 4.1. Article selection
+To ensure that the article search identified quality, evidence-based literature, four credible citation index databases, ACM, IEEE, Scopus, and Web of Science, were used. Two selection criteria were applied: (1) that the selected studies were peer-reviewed journal articles or conference papers from the aforementioned databases; and (2) that they were relevant to the terms “AI literacy”, “conceptual”, “framework”, and “design considerations”. The search strings reflect the specific requirement to identify target articles and data as of the end of March 2024, as shown in [Table 1](#tbl1).
+Table 1. Search strings.
+| Database | Search Strings |
+| --- | --- |
+| ACM | [[Title: “Artificial Intelligence"] OR [Title: “AI"] OR [Title: “AI literacy"] OR [Title: “Artificial intelligence literacy"] OR [Title: “AI competencies"]] AND [[Abstract: “preschool∗"] OR [Abstract: “kindergarten∗"] OR [Abstract: “pre-k∗"] OR [Abstract: “primary school∗"] OR [Abstract: “elementary school∗"] OR [Abstract: “middle school∗"] OR [Abstract: “secondary school∗"] OR [Abstract: “high school∗"] OR [Abstract: “k-12"] OR [Abstract: “university∗"] OR [Abstract: “higher education∗"] OR [Abstract: " ai education∗"] OR [Abstract: “students∗"]] AND [[Full Text: “conceptual"] OR [Full Text: “framework"] OR [Full Text: “design considerations"]] |
+| IEEE | (“Document Title”: “Artificial Intelligence” OR “Document Title”: “AI” OR “Document Title”: “AI literacy” OR “Document Title”: “Artificial Intelligence literacy” OR “Document Title”: “AI Competencies”) AND (“Author Keywords”: “AI education” OR “Author Keywords”: “conceptual” OR “Author Keywords”: “framework” OR “Author Keywords”: “design considerations") |
+| Scopus | (ABS (“Artificial Intelligence” OR “AI” OR “AI literacy” OR “Artificial Intelligence literacy” OR “AI Competencies”) AND KEY (“preschool∗" OR “kindergarten∗" OR “pre-k∗" OR “primary school∗" OR “elementary school∗" OR “middle school∗" OR “secondary school∗" OR “high school∗" OR “K-12″ OR “university∗" OR “higher education∗" OR “AI education∗" OR “students”) AND ABS (“framework” OR “conceptual” OR “design considerations”) |
+| Web of Science | “Artificial Intelligence” OR “AI” OR “AI literacy” OR “Artificial Intelligence literacy” OR “AI Competencies” (Title) AND “preschool∗” OR “kindergarten∗” OR “pre-k∗” OR “primary school∗” OR “elementary school∗” OR “middle school∗” OR “secondary school∗” OR “high school∗” OR “K-12” OR “university∗” OR “higher education∗” OR “AI education∗” OR “students∗” (Abstract) AND “conceptual” OR “framework” OR “design considerations” (All field) |
+### 4.2. Eligible criteria and the snowball method
+As shown in [Fig. 1](#fig1), a total of 1550 articles were identified, 226 from ACM, 169 from IEEE, 452 from Web of Science, and 703 from Scopus. The inclusion criteria were peer-reviewed articles written in English, covering all educational levels where AI literacy is taught, namely early childhood, primary, secondary, and university, and higher education. The exclusion criteria were as follows: (1) studies that were excluded by title and abstract (n = 1498); (2) duplicate studies (n = 9); and (3) studies that were irrelevant to the research topic (n = 27). For example, the empirical research studies by [Yau et al. (2022)](#bib100) and [Sinha et al. (2023)](#bib77), as well as the discussion paper by [Su and Yang (2023)](#bib81), were removed because they examined the AI4K12 Five Big Ideas framework ([AI4K12, 2024](#bib2)), which was already represented by the other articles selected for this review. [Li et al. (2022)](#bib42) were excluded since their research discussed a chatbot-server framework to facilitate online learning using crowdsourcing data, which is a topic unrelated to AI literacy learning content. A systematic review by [Bond et al. (2024)](#bib12) and a critical review by [Luo (2024)](#bib47) about GenAI policies in higher education assessment were also removed because they did not discuss AI literacy frameworks for teaching students AI literacy. Therefore, 16 studies were selected.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr1.jpg)
+1. [Download: Download high-res image (661KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr1\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr1.jpg)
+Fig. 1. Prisma diagram of included articles in the scoping review.
+To enhance the systematic search for relevant literature, a non-probability snowball sampling method, as outlined by [Parker et al. (2019)](#bib67), was adopted to research the chain references from the selected studies. Utilising this method led to the identification of three additional articles that met the eligibility criteria described above.
+A total of 19 articles were selected and reviewed, with 17 AI literacy frameworks identified. The research for most of these articles took place in Hong Kong (N = 7), the United States (N = 6), and Germany (N = 2). The others were conducted in Austria, Italy, Ireland, and the United Kingdom. The number of frameworks is lower than the number of articles since four articles were intrinsically linked by their use of two frameworks, the Five Big Ideas framework and the affective, behavioral, cognitive and ethical (ABCE) learning framework, each providing complementary insights that led to a broader and deeper understanding of their frameworks. For example, [Touretzky et al. (2019)](#bib86) initially proposed the Five Big Ideas framework and invited researchers to provide feedback and views. Subsequently, [Touretzky et al. (2023)](#bib87) offered a detailed elaboration. Similarly, [Ng et al. (2023)](#bib60) introduced the ABCE learning framework, and a subsequent paper by [Ng et al. (2024)](#bib59) validated an AI literacy assessment questionnaire based on this ABCE framework. Thus, both articles were included in this review to capture the full development and application of the frameworks discussed.
+### 4.3. Data charting and collation
+All of the included articles were initially coded by the author of this paper. To ensure the reliability of the coding process, two independent researchers were engaged: one coded approximately 25% of the data (five articles), and the other coded an additional 35% (seven articles), resulting in 60% of the data being independently verified. The information about the theoretical orientations and underlying methodologies, themes, arguments, and elements, as well as the learning focus regarding AI literacy within the identified AI literacy frameworks at each educational level, was entered separately in a table ([Table 2](#tbl2)). To achieve an inter-rater reliability of over 80%, discrepancies between the author and the two independent researchers were then compared, reviewed, and discussed, which led to necessary revisions of the tables.
+Table 2. Coding table.
+| Coding category | Sub-theme |
+| --- | --- |
+| Year | Year of publication |
+| Educational level | Early childhood education (ECE), primary, secondary, K-12 (kindergarten to secondary school), university or higher education, across all educational level |
+| Name of the AI literacy framework | The name of the AI literacy framework designed or developed in the selected articles |
+| Methodologies | The methods used for the development or design of the framework, including empirical research studies, literature reviews, adherence to government or institutional standards, framework modification through comparative analysis, and others. |
+| Theoretical orientation | The theoretical framing guiding the framework’ design or development, including constructionism, Bloom's taxonomy, use-modify-create scaffolding learning progression, and theory of computation. |
+| Theme and argument | Main theme and arguments of the selected articles |
+| Learning focus | The learning focus is categorized according to the 16 competencies outlined by [Long and Magerko (2020)](#bib43), including digital literacy, data literacy, computational thinking, AI ethics, and transdisciplinary skills. |
+## 5. Findings
+\* RQ1
+\*\*How many studies on AI literacy learning frameworks have been published and which educational levels have they addressed?\*\*
+The first article, published in 2016, aimed to equip individuals with AI literacy across all educational levels. Between 2019 and 2022, six articles were published, with a peak of ten articles in 2023 (see [Fig. 2](#fig2)). During the year 2023, AI literacy frameworks were specifically designed for various educational levels: university ([Kong et al., 2023](#bib39); [Southworth et al., 2023](#bib78)), secondary ([Ng et al., 2023](#bib60), [2024](#bib59)), primary ([Mott et al., 2023](#bib56)), early childhood ([Su & Yang, 2023](#bib81)), and K-12 grade ([Touretzky et al., 2023](#bib87); [Waite et al., 2023](#bib90)). AI literacy frameworks were also designed for citizens irrespective of formal educational settings ([Quille et al., 2022](#bib71)). This indicates that AI literacy has grown in importance and has been integrated at various educational stages.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr2.jpg)
+1. [Download: Download high-res image (181KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr2\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr2.jpg)
+Fig. 2. The trend of AI literacy framework publications.
+[Table 3](#tbl3) presents an overview of the 19 selected studies, with their year of publication, the AI literacy framework they address, and the educational levels they focus on. Out of the 17 AI literacy frameworks, five focus on all educational levels, four focus on K-12 contexts (i.e., kindergarten to secondary school), four on university and higher education, three on secondary schools, and one on early childhood education (ECE).
+\* RQ2
+\*\*What are the underlying methodologies and theoretical orientations to learning employed in the selected theoretical frameworks for AI literacy education?\*\*
+Table 3. Overview of the selected articles and AI literacy frameworks.
+| Author | Year | Education Level | AI Framework |
+| --- | --- | --- | --- |
+| [Kandlhofer et al. (2016)](#bib35) | 2016 | Across all educational levels | AI Curriculum Framework |
+| [Long and Magerko (2020)](#bib43) | 2020 | Across all educational levels | AI Literacy Framework (17 competencies and 15 design considerations) |
+| [Ng et al. (2021)](#bib58) | 2021 | Across all educational levels | AI literacy technological pedagogical and content knowledge (TPACK) Framework |
+| [Schüller (2022)](#bib75) | 2022 | Across all educational levels | HFD (Hochschulforum Digitalisierung, “German University Forum on Digitization”) Data Literacy Framework |
+| [Quille et al. (2022)](#bib71) | 2023 | Across all educational levels | Linked to Digital Competence Framework for Citizens (EU's DigComp 2.2) |
+| [Biagini et al. (2024)](#bib11) | 2023 | University and higher education | Based on Digital literacy Framework (Calvani et al., 2008); The AI literacy framework (Cuomo et al., 2022) |
+| Kong et al. (2023a) | 2023 | University | Cognitive, Affective and Socio-cultural Framework |
+| [Southworth et al. (2023)](#bib78) | 2023 | University | University of Florida (UF) AI Literacy Model |
+| [Tenório and Romeike(2023)](#bib84) | 2024 | University and higher education | AI Competencies Framework for Non-computer Science Students |
+| [Chiu et al. (2021)](#bib18) | 2021 | K-12 | AKIEE Curriculum Framework (1) Awareness; 2) Knowledge; 3) Interaction; 4) Empowerment; and 5) Ethics |
+| [Touretzky et al. (2019)](#bib86) | 2019 | K-12 | the Five Big Ideas Framework |
+| [Touretzky et al. (2023)](#bib87) | 2023 | K-12 | the Five Big Ideas framework (same as [Touretzky et al., 2019](#bib86)) |
+| [Van Brummelen et al. (2019)](#bib89) | 2019 | K-12 | AI Extensions to Computational Thinking Framework |
+| [Waite et al. (2023)](#bib90) | 2023 | K-12 | The AI learning levels SEAME framework (socio-ethics (SE), its applications (A), models (M), and engine (E)) |
+| [Kong et al. (2024)](#bib37) | 2024 | Secondary school | Four dimensions of the AI Literacy Framework (AILF): Cognitive, metacognitive, affective, and social. |
+| [Ng et al. (2023)](#bib60) | 2023 | Secondary school | The affective, behavioral, cognitive and ethical (ABCE) Learning Framework |
+| [Ng et al. (2024)](#bib59) | 2023 | Secondary school | The affective, behavioral, cognitive and ethical (ABCE) Learning Framework (same as [Ng et al., 2023](#bib60)) |
+| [Mott et al. (2023)](#bib56) | 2023 | Primary school | Use-Modify-Create (UMC) Scaffolding Progression Framework |
+| [Su and Yang (2023)](#bib81) | 2023 | Early childhood education | Five Big Ideas for ECE |
+\*\*\*Underlying methodologies\*\*\* refer to the specific research methods and techniques used by the selected articles to collect and analyze data for the design and development of their AI literacy frameworks. Among the 19 selected articles, 17 frameworks are identified ([Table 4](#tbl4)). The most common methodologies employed in the framework formulation were empirical research studies (n = 7) and literature review studies (n = 4), and some articles followed government or institutional standards (n = 4).
+Table 4. Underlying methodologies.
+| Underlying Methodologies | n = | Examples |
+| --- | --- | --- |
+| Empirical research studies | n = 7 | A questionnaire completed by 191 student primary school teachers at the University of Florence, for data collection and survey validation (Biagini et al., 2023); a team of 14 professors collaborated with 17 principals and teachers from six secondary schools ([Chiu et al., 2021](#bib18)); 82 university students participated in two AI literacy courses, which comprised of 7 h of machine learning and 9 h of deep learning ([Kong et al., 2023](#bib39)); 21 fifth grade students were involved in a pilot study to evaluate and refine scaffolding progression based on the use-modify-create framework([Mott et al., 2023](#bib56)); A self-reported questionnaire based on the ABCE framework was designed and validated with the participation of 363 secondary school students from two different schools in Hong Kong ([Ng et al., 2023](#bib60) & 2024); interviews were conducted with 17 multidisciplinary professionals with AI experience regarding the topic of AI competencies for non-computer science students in undergraduate education ([Tenório and Romeike, 2023](#bib84)) |
+| Literature review studies | n = 4 | Framework based on: four previous reviews and five AI literacy assessment surveys (Biagini et al., 2023); a scoping review based on 150 articles (from conferences, journals, books, and grey literature) up to 2019 ([Long & Magerko, 2020](#bib43)); five previous reviews, and AI teaching resources created before 2023 and identified using web searches ([Waite et al., 2023](#bib90)); and review studies from 2016 to 2021 on AI literacy from kindergarten to adult education ([Ng et al., 2021](#bib58)). |
+| Government or institutional standards | n = 4 | European Commission policy documents such as \*Digital Education Action Plan\* (DEAP) 2021–2027 and \*DigComp 2.2\* ([Quille et al., 2022](#bib71)); Institute of Electrical and Electronics Engineers (IEEE) standard for digital intelligence ([Schüller, 2022](#bib75)); Computer Science Teachers Association's (CSTA) K-12 Computer Science Standards, Common Core standards, and Next Generation Science Standards ([Touretzky et al., 2019](#bib86) & 2023) |
+Several researchers constructed their frameworks based on empirical research data collection (N = 7). [Tenório and Romeike(2023)](#bib84) built their AI competencies framework for non-computer science students by interviewing 17 multidisciplinary professionals with experience in AI competencies in undergraduate education. Also, [Kong et al. (2023)](#bib39) involved 82 university students in two AI literacy courses, consisting of 7 h of machine learning and 9 h of deep learning. [Mott et al. (2023)](#bib56) interviewed 21 fifth-grade students in their study. Similarly, based on a study of 128 secondary students who took part in an 18-h AI course in machine learning and deep learning, [Kong et al. (2024)](#bib37) used their empirical evidence to develop the four dimensions of their AI literacy framework: cognitive, metacognitive, affective, and social. In addition, [Ng et al. (2023](#bib60) a & c) developed and validated an AI literacy questionnaire based on the ABCE learning framework by conducting a pilot study of 363 secondary students from two different schools in Hong Kong.
+While many of the articles employed empirical studies to inform the development of their frameworks, some involved systematically reviewing and synthesising existing research related to AI literacy (N = 4). For example, [Long and Magerko (2020)](#bib43) conducted a literature review of 150 interdisciplinary studies on AI literacy between 2000 and 2019 and proposed an AI literacy framework with 17 competencies and 13 considerations for individuals seeking AI literacy. Ng et al. (2021b) proposed their AI literacy technological pedagogical and content knowledge (TPACK) framework based on a literature review of 30 peer-reviewed AI literacy articles addressing K-12 to higher education levels between 2014 and 2020. Similarly, [Waite et al. (2023)](#bib90) derived their AI learning levels framework (SEAME), and suggested learning resources for each level, based on online and literature evidence, such as Google web searches for AI learning resources and five previous literature reviews (i.e., [Arksey and O'malley, 2005](#bib7); [Long & Magerko, 2020](#bib43); Sanusi et al., 2021; Giannakos et al., 2020; Marques et al., 2020) between 2005 and 2022.
+On the other hand, a small number of the studies developed their frameworks based on the benchmarks and standards set by government bodies or authoritative institutions (N = 4), to ensure alignment with regulatory requirements. For example, the Five Big Ideas framework of [Touretzky et al. (2019](#bib86) & 2023) identified learning content based on Computer Science Teachers Association's (CSTA) K-12 Computer Science Standards, Next Generation Science Standards (NGSS), and Common Core standards. [Schüller (2022)](#bib75), meanwhile, followed the Institute of Electrical and Electronics Engineers (IEEE) standard for digital intelligence when designing her AI literacy framework.
+\*\*\*Underlying theoretical orientations to learning\*\*\* refer to the theoretical concepts and theories that guide the design and development of the AI literacy frameworks in the selected articles. As shown in [Table 5](#tbl5), nine articles explicitly or implicitly stated their underlying theoretical orientations in their framework formulation. The search results indicate that some studies used Bloom's taxonomy or similar scaffolding learning progressions (N = 4) as frameworks for developing cognitive classification systems aimed at designing AI literacy learning objectives. [Ng et al. (2021)](#bib58), for example, adopted Bloom's taxonomy to address the lack of a structured cognitive classification system for AI literacy among educators. They highlighted that a clear framework for categorizing cognitive processes related to AI learning has not yet been established. According to [Ng et al. (2021)](#bib58), Bloom's taxonomy, with its hierarchy of educational objectives “Know and Understand AI”, “Use and Apply AI ”, and “Evaluate and create AI”, can be used to serve as a foundational pedagogical theory, aid in defining learning objectives, and support the development of AI literacy curricula. Similarly, [Mott et al. (2023)](#bib56) adopted a Use-Modify-Create learning progression framework to scaffold students' AI literacy learning. [Southworth et al. (2023)](#bib78) adapted [Ng et al.’s (2021)](#bib58) Bloom Taxonomy concept in order to develop their University of Florida (UF) AI Literacy Model.
+Table 5. Underlying theoretical orientations to learning.
+| Underlying Theoretical orientations | n = | Examples |
+| --- | --- | --- |
+| Bloom's taxonomy and similar learning progression | n = 4 | A cognitive classification system that includes “know and understand”, “use and apply”, “evaluate and create” AI ([Ng et al., 2021](#bib58) & 2024); A Use-Modify-Create learning progression to scaffold students' AI literacy learning ([Mott et al., 2023](#bib56)); The UF AI Literacy Model is modified based on the model from [Ng et al. (2021)](#bib58) ([Southworth et al., 2023](#bib78)) |
+| Constructionism | n = 4 | Constructionist principles for model building, experimentation and construction of computational artifacts ([Touretzky et al., 2019](#bib86) & 2023); a constructionist approach, focusing on hands-on, activity-based learning ([Kandlhofer et al., 2016](#bib35)); The Five Big Ideas for ECE” framework is modified from the Five Big Ideas framework proposed by [Touretzky et al., 2019](#bib86); [Su & Yang, 2023](#bib81)) |
+| Theory of computation | n = 1 | To explore the mathematical and logical foundations of computation ([Kandlhofer et al., 2016](#bib35)) |
+In addition, some studies employed constructionism (N = 4) as a pedagogical approach emphasizing hands-on learning. For example, the Five Big Ideas framework draws upon constructionist principles to emphasize model building, experimentation, and the creation of computational artifacts for K-12 students to learn AI literacy ([Touretzky et al., 2023](#bib87)). Subsequently, [Su and Yang (2023)](#bib81) modified the Five Big Ideas framework proposed by [Touretzky et al. (2019)](#bib86), to construct their Five Big Ideas for ECE [early childhood education]. Lastly, one study applied the theory of computation to explore the mathematical and logical foundations of AI literacy learning ([Kandlhofer et al., 2016](#bib35)).
+Meanwhile, Bloom's taxonomy is an educational framework to classify learning objectives into levels of complexity and specificity. [Ng et al. (2021)](#bib58) employed such a hierarchical approach to categorize various levels of cognitive processes integral to AI literacy learning. This categorization encompassed not only the cognitive stages of “Know and Understand”, “Use and Apply”, and “Evaluate and Create”, but also extends to the interdisciplinary dimension of “AI ethics” in K-12 and higher education contexts. [Southworth et al. (2023)](#bib78) developed their own University of Florida (UF) AI Literacy Model, which was modified based on Bloom's Taxonomy as presented by [Ng et al. (2021)](#bib58).
+In addition, one of the first AI literacy frameworks, the “AI Curriculum Framework”, was designed by [Kandlhofer et al. (2016)](#bib35) based on the theory of computation, based on an undergraduate textbook authored by Russell and Norvig (2010) and exploring the mathematical and logical foundations of computation for students interested in AI.
+\* RQ3
+\*\*What are the themes regarding AI literacy within the identified AI literacy frameworks at each educational level?\*\*
+The themes refer to the main topics, central argument and overarching elements emphasized within the identified AI literacy frameworks at each educational level are shown in [Table 6](#tbl6). To summarize, AI literacy frameworks at the university level traditionally focused on the technical aspects of AI within computer science and engineering, but they have more recently expanded to include interdisciplinary collaboration and ethical considerations to prepare students for the multifaceted challenges they will encounter in future careers. In contrast, at the K-12 level, older school students benefit from frameworks that encourage critical thinking and problem-solving in real-world contexts, allowing them to explore the societal and ethical impacts of AI in their daily life. For younger students, AI literacy emphasizes a basic conceptual understanding of AI and ethical awareness through creative pedagogies over mere technical proficiency. For instance, storytelling, and robotics are used, and how machines learn for early years and primary school students, as this engages their imagination, creativity, and thinking in an accessible and age-appropriate manner.
+Table 6. The themes regarding AI literacy within various AI literacy frameworks.
+| \*\*Across All educational Levels\*\* | \*\*AI literacy Framework\*\* | \*\*Themes\*\* | \*\*Overarching elements\*\* |
+| --- | --- | --- | --- |
+| [Kandlhofer et al. (2016)](#bib35) | AI Curriculum Framework | Postulate that AI literacy originated as a branch of computer science topics. AI literacy is as crucial as traditional literacy for future careers in science and engineering, necessitating that everyone from kindergarten through university must learn it. | 7 elements: 1) automata; 2) intelligent agents; 3) graphs and data structures; 4) sorting; 5) problem solving by search; 6) classic planning; and 7) machine learning |
+| [Long and Magerko (2020)](#bib43) | AI Literacy Framework | State that AI literacy is “a set of competencies that enables individuals to critically evaluate AI technologies; communicate and collaborate effectively with AI; and use AI as a tool online, at home, and in the workplace” ([Long & Magerko, 2020](#bib43)). Emphasizes broad access to AI knowledge and the importance of educating diverse groups. | 17 competencies (e.g. Recognizing AI, understanding intelligence, interdisciplinary, General vs narrow) and 15 design considerations (e.g. explainability, embodied interactions, contextualizing data, promote transparency, unveil gradually) |
+| [Ng et al. (2021)](#bib58) | AI literacy TPACK Framework | Argue that AI becomes a fundamental skill for everyone. AI literacy should focus on the cognitive aspect of learning as well as use AI in a responsible and ethical way. | 4 elements: 1) know and understand; 2) use and apply; 3) evaluate and create AI; 4) AI ethics |
+| [Schüller (2022)](#bib75) | HFD (Hochschulforum Digitalisierung, “German University Forum on Digitization”) Data Literacy Framework | Postulate that AI literacy cannot be learned without data literacy, discuss the importance of data and AI literacy across all societal and professional levels. | 5 principles: 1) accessible to everyone; 2) taught throughout all educational levels; 3) taught as transdisciplinary and interdisciplinary skills; 4) cover the entire process of knowledge and decision-making with data; 5) encompass knowledge, skills, and attitudes for conscious and ethically sound handling of data |
+| [Quille et al. (2022)](#bib71) | Digital Competence Framework for Citizens | Postulate that AI literacy is part of digital literacy and the need for ethical guidelines in AI education. | Six areas: 1) professional engagement; 2) digital resources; 3) teaching and learning; 4) assessment; 5) empowering learners (AI address); and 6) facilitating learners' digital competency |
+| \*\*University and higher education\*\* | \*\*AI literacy framework\*\* | \*\*Themes\*\* | \*\*Overarching elements\*\* |
+| [Biagini et al. (2024)](#bib11) | The AI literacy framework: A multidimensional approach | Postulate that teaching and assessing AI literacy should move beyond the narrow scope of computer science and engineering to embrace a multi-dimensional approach. | 4 elements: 1) knowledge-related; 2) operational; 3) critical; and 4) ethical dimensions |
+| [Kong et al. (2023)](#bib39) | The Cognitive, Affective and Socio-cultural Framework | Postulate that AI literacy programmes should prioritize conceptual understanding, empowerment, and ethical awareness through project work, rather than initially focusing on mathematical formulas and programming codes. This approach would lower barriers to entry and ensure more equitable access to AI literacy. | 3 elements: 1) cognitive (AI concept); 2) affective (meaningfulness, impact, creative self-efficacy and AI self-efficacy); 3) socio-cultural (ethical) |
+| [Southworth et al. (2023)](#bib78) | University of Florida (UF) AI Literacy Model | Argue that AI literacy education should not be confined to computer science and electrical and computer engineering departments. Instead, AI literacy teaching and learning should be integrated across all curricula at the University of Florida. | 5 elements: 1) know and understand; 2) use and apply; 3) evaluate and create AI; 4) AI ethics; and 5) enabling AI |
+| [Tenório and Romeike(2023)](#bib84) | AI Competencies framework for Non-computer Science Students | Argue that research on AI literacy has predominantly concentrated on school education; however, it is equally crucial to enhance AI literacy among non-computer science university students | 9 elements: 1) computing; 2) basic of AI; 3) AI capabilities; 4) multidisciplinary AI; 5) data; 6) machine learning; 7) advanced machine learning; 8) human-AI interaction; 9) responsible AI |
+| \*\*K-12 levels\*\* | \*\*AI literacy framework\*\* | \*\*Themes\*\* | \*\*Overarching elements\*\* |
+| [Chiu et al. (2021)](#bib18) | AKIEE Curriculum Framework | State that since AI literacy education is typically included within engineering and computer science curricula at tertiary levels, the programme design for young students should also reference K-12 engineering education. | 5 elements: awareness, knowledge, interaction, empowerment; and ethics |
+| [Touretzky et al. (2019)](#bib86) | the Five Big Ideas framework | State that the rationale behind the development of the Five Big Ideas centers on providing a structured and comprehensive framework to guide educators in developing a broad understanding of AI, machine learning, and robotics as part of the AI literacy framework for K-12 education. | 5 elements: perception, representation and reasoning, learning, natural interaction, and societal impact |
+| [Touretzky et al. (2023)](#bib87) | the Five Big Ideas framework (same as [Touretzky et al., 2019](#bib86)) | Argue that as AI technologies increasingly influence various aspects of daily life, it becomes crucial that the next generation is equipped not only to use these technologies but to understand and critically evaluate their implications. | 5 elements: 1) perception; 2) representation and reasoning; 3) learning; 4) natural interaction; and 5) societal impact |
+| [Van Brummelen et al. (2019)](#bib89) | AI extensions to computational thinking (CT) framework | Postulate that AI literacy requires an understanding of computational concepts, practices, and perspectives. | 5 elements: 1) classification; 2) prediction, 3) generation, 4) training, validating and testing; 5) evaluation |
+| [Waite et al. (2023)](#bib90) | The AI Learning Levels Framework (SEAME) | Emphasize the need for structured educational content and resource accessibility. Introduce a learning content analysis framework for evaluating AI resources and envision a progression of AI concepts and skills across multiple levels. | 4 elements: AI's socio-ethics (SE), its applications (A), models (M), and engine (E). |
+| \*\*Secondary education\*\* | \*\*AI literacy framework\*\* | \*\*Themes\*\* | \*\*Overarching elements\*\* |
+| [Kong et al. (2024)](#bib37) | Four dimensions of the AI literacy framework: Cognitive, metacognitive, affective, and social. | Argue that AI literacy includes the ability to understand AI concepts, apply these in real-world contexts, consider ethical implications, and use AI for problem-solving, emphasize the development of problem-solving skills and adopt a project-based learning approach. | 4 elements: cognitive, metacognitive, affective, and social. And the five steps of machine learning for problem solving using AI are 1) problem definition; 2) data collection; 3) data pre-processing; 4) model training; and 5) inference and prediction |
+| [Ng et al. (2023)](#bib60) | The affective, behavorial, cognitive and ethical (ABCE) Learning Framework | Argue the necessity of measuring AI literacy beyond just the ability to use AI tools, including higher-order thinking skills and ethical considerations. for secondary students | 4 elements: affective, behaviourial, cognitive and ethical learning |
+| [Ng et al. (2024)](#bib59) | The affective, behavorial, cognitive and ethical (ABCE) Learning Framework | Argue the importance of a holistic approach to measuring AI literacy, integrating not just cognitive abilities but also affective, behavioural, and ethical dimensions to provide a full spectrum of student learning and attitudes towards A | 4 elements: 1) affective learning (intrinsic motivation and self-efficacy/confidence); 2) behavioural learning (behavioural commitment and collaboration); 3) cognitive learning (know and understand; apply, evaluate and create); and 4) ethical learning |
+| \*\*Primary school education\*\* | \*\*AI literacy framework\*\* | \*\*Themes\*\* | \*\*Overarching elements\*\* |
+| [Mott et al. (2023)](#bib56) | Use-Modify-Create Scaffolding Progression Framework | Argue that employing a scaffolding progression, especially in problem-solving and computational tasks, can enhance students' learning of AI planning concepts more effectively. Introduce AI literacy learning through game-based approach | 3 elements: Use, Modify, Create |
+| \*\*Early childhood education\*\* | \*\*AI literacy framework\*\* | \*\*Themes\*\* | \*\*Overarching elements\*\* |
+| [Su and Yang (2023)](#bib81) | Five Big Ideas for ECE | Argue the existing Five Big Ideas of AI ([Touretzky et al., 2023](#bib87)) might not be aligned with young students' developmental, and cognitive abilities and needs especially for preschoolers aged 2–6 years. | 5 elements (followed by the Five Big Ideas, but with the use of storytelling and robotics): perception, representation and reasoning, learning, natural interaction, and societal impact |
+### 5.1. Across all educational levels
+Five of the frameworks in the selected studies were addressed both to individuals with an interest in AI literacy learning and academic specialists across all educational levels. Each of these five frameworks argued that AI literacy originated as a branch of computer science ([Kandlhofer et al., 2016](#bib35)), emphasizing its inclusion of crucial technical skills, such as digital literacy ([Quille et al., 2022](#bib71)) and data literacy ([Schüller (2022)](#bib75). [Long and Magerko (2020)](#bib43) specifically highlight the necessity of an operational definition of AI literacy, which they present as crucial for its design and practical application.
+For example, [Kandlhofer et al. (2016)](#bib35) argued that teaching computational models is pivotal for enabling students to understand the principles behind AI algorithms and AI systems and preparing them for future careers in science and engineering. Hence, their proposed framework comprises seven computer science and computational thinking perspectives: 1) automata; 2) intelligent agents; 3) graphs and data structures; 4) sorting; 5) problem-solving by search; 6) classic planning; and 7) machine learning.
+Meanwhile, frameworks such as the “Digital Competence Framework for Citizens” ([Quille et al., 2022](#bib71)) postulate that digital competency is integral to AI literacy, encompassing a range of skills from information and media literacy to digital content creation, problem solving, and the responsible use of AI. Similarly, [Schüller (2022)](#bib75) detailed the vital role of data within the Hochschulforum Digitalisierung (HFD) data literacy framework, covering the entire process of ethically handling data as well as decision-making with data.
+[Ng et al. (2021)](#bib58), on the other hand, elaborated that AI literacy extends beyond digital literacy, and should emphasize the cognitive learning aspects of knowledge acquisition, use and application, alongside considerations of AI ethics, within their AI literacy TPACK framework.
+### 5.2. University level
+At university level, AI literacy frameworks have traditionally been anchored in the fields of computer science and engineering, and have later incorporated an affective and socio-cultural dimension to reflect the transdisciplinary and interdisciplinary nature of AI. For example, [Southworth et al. (2023)](#bib78) modified the AI Literacy TPACK Framework ([Ng et al., 2021](#bib58)) by adding a new construct, “Enabling AI”, aimed at nurturing interdisciplinary engagement. This enhancement facilitated the incorporation of disciplines such as programming and statistics into AI literacy, suggesting that AI education should not be confined to computer science and electrical and computer engineering departments alone but integrated across all curricula at the University of Florida.
+Similarly, Kong et al. (2023a) argued that focusing solely on the cognitive domain (AI concepts) is insufficient. They proposed the inclusion of affective (i.e., meaningfulness, impactfulness, creative self-efficacy, and AI self-efficacy) and socio-cultural (i.e., ethical awareness) dimensions through project work, ensuring inclusivity and comprehensive educational outcomes. Furthermore, [Tenório and Romeike(2023)](#bib84) argued that the current AI literacy frameworks, primarily designed from a computer science perspective, may not adequately serve non-computer-science students. To democratize AI literacy so that it can be acquired by students regardless of their technical proficiency, they proposed an AI competencies framework that includes nine elements (including basic AI, machine learning, and responsible AI) tailored to students from diverse academic backgrounds. This holistic approach highlights the need for AI literacy education to adapt to the multifaceted and evolving landscape of AI, ensuring inclusivity and comprehensive educational outcomes.
+### 5.3. K-12 level
+Four frameworks targeting K-12 students have been developed within the domain of computer science and engineering, with each offering a distinct approach for building an early foundational understanding of AI. For example, the Five Big Ideas framework by [Touretzky et al. (2019](#bib86) & 2023) provided a structured guideline focusing on machine learning and the ethical use of AI within K-12 settings, encompassing key topics such as perception, representation, and societal impacts.
+Additionally, [Van Brummelen et al. (2019)](#bib89) demonstrated the feasibility of adapting complex AI and computational thinking concepts from Brennan and Resnick's (2012) computational thinking framework (which involves classification, prediction, and generation). Whereas Brennan and Resnick's (2012) framework involved classification, prediction, and generation data, [Van Brummelen et al.’s (2019)](#bib89) adaptation involved integrating AI-related processes, such as training, validating, testing, and evaluation, thereby integrating AI concepts into established educational models, particularly for teaching computational thinking in K12 AI literacy learning.
+Conversely, referring to K-12 engineering education while reflecting on the wide use and impact of AI, [Chiu et al. (2021)](#bib18) developed an AKIEE Curriculum Framework encompassing (1) awareness, 2) knowledge, 3) interaction, 4) empowerment, and 5) ethics (AKIEE), advocating an AI literacy approach that prioritises ethical consideration, critical thinking, and creativity over mere proficiency in technical skills such as coding or robotics.
+### 5.4. Secondary, primary, and ECE levels
+Some researchers recognised the necessity to modify existing AI literacy frameworks to suit different educational levels, from ECE to secondary education, ensuring that these frameworks are developmentally appropriate and relevant.
+For secondary students, Ng et al. (2023a & 2023b) developed the affective, behavioral, cognitive and ethical (ABCE) learning framework, building on the cognitive aspects of the AI literacy TPACK framework ([Ng et al., 2021](#bib58)). This new framework emphasizes not just knowledge acquisition of the technological aspects of AI but also of its affective, behavioural, and ethical applications, reflecting a holistic approach to AI education. Similarly, [Kong et al. (2024)](#bib37) emphasize the value in adopting a project-based approach when teaching AI literacy to secondary students, to cultivate problem-solving skills to address real-world problems.
+In ECE and primary school education, traditional frameworks are used and modified with different strategies to introduce AI concepts to young students. [Mott et al. (2023)](#bib56) leverage the existing educational progression framework of “Use-Modify and Create” by suggesting game-based learning for primary school students, thus improving engagement and effectiveness in teaching AI planning concepts through interactive and problem-solving activities.
+On a different note, [Su and Yang (2023)](#bib81) argue that the traditional Five Big Ideas framework for K-12 students might not adequately align with the developmental and cognitive capabilities of students aged 2–6 years. They propose a modification so that the framework not only teach how machines perceive the world and learn from data, but also employs story-telling and robotics to better suit the abilities of preschoolers.
+\* RQ4
+\*\*What are the learning focuses identified in the selected AI literacy theoretical frameworks?\*\*
+As shown in [Table 7](#tbl7), this study reveals that the 19 selected articles express, explicitly and implicitly, five learning focuses: AI ethics (n = 13), computational thinking (n = 8), digital literacy (n = 7), data literacy (n = 7), and interdisciplinary and transdisciplinary content knowledge (n = 6).
+Table 7. The learning focus of AI literacy.
+| Author | Education Level | AI Ethics | Computational thinking | Data Literacy | Digital Literacy | Transdisciplinary or interdisciplinary knowledge |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Kandlhofer et al. (2016)](#bib35) | Across all educational levels | – | Yes | Yes | Yes | – |
+| [Long and Magerko (2020)](#bib43) | Across all educational levels | Yes | – | Yes | Yes | Yes |
+| [Ng et al. (2021)](#bib58) | Across all educational levels (K-12 to university level) | Yes | ~~–~~ | ~~–~~ | ~~–~~ | ~~–~~ |
+| [Schüller (2022)](#bib75) | Across all educational levels | Yes | – | Yes | Yes | Yes |
+| Q uille et al. (2023) | All citizen | Yes | – | ~~–~~ | Yes | – |
+| [Biagini et al. (2024)](#bib11) | University and higher education | Yes | – | – | Yes | Yes |
+| [Kong et al. (2023)](#bib39) | University | Yes | ~~–~~ | ~~–~~ | ~~–~~ | – |
+| [Southworth et al. (2023)](#bib78) | University | Yes | Yes | Yes | ~~–~~ | Yes |
+| [Tenório and Romeike (2023)](#bib84) | University | Yes | Yes | Yes | Yes | Yes |
+| [Chiu et al. (2021)](#bib18) | K-12 | Yes | – | – | ~~–~~ | Yes |
+| [Touretzky et al., 2019](#bib86), [Touretzky et al., 2023](#bib87) | K-12 | Yes | Yes | Yes | Yes | – |
+| [Van Brummelen et al. (2019)](#bib89) | K-12 | – | Yes | – | – | – |
+| [Waite et al. (2023)](#bib90) | K-12 | Yes | Yes | Yes | ~~–~~ | – |
+| [Kong et al. (2024)](#bib37) | Secondary education | Yes | Yes | – | ~~–~~ | – |
+| [Ng et al., 2024](#bib59), [Ng et al., 2023](#bib60) | Secondary education | Yes | – | – | ~~–~~ | – |
+| [Mott et al. (2023)](#bib56) | Primary school education | – | Yes | – | – | – |
+\*\*AI ethics (n=1\*\*\*\*3\*\*\*\*):\*\* AI ethics is a critical construct of AI literacy that many researchers advocate integrating into AI literacy education to enhance responsible AI development and usage for all students regardless of their educational level. For example, [Touretzky et al. (2023)](#bib87) emphasize understanding the human role in AI, particularly the importance of recognizing the role humans play in the actions and reactions of AI (i.e., how the human decisions made in AI development affect the behaviour of AI). They argue for AI literacy education on the ethical principles concerning the human role in AI, particularly the ethics of data usage, emphasizing privacy concerns and the detection and mitigation of bias in datasets. These issues are central to their “Big Idea Three (Learning)” and “Big Idea Five (Societal Impact)”. Similarly, Kong et al. (2023b) highlight the sociocultural impact of AI, addressing ethical issues such as human autonomy under AI, the beneficence of AI, and the fairness of AI. [Chiu et al. (2021)](#bib18) also contribute by suggesting that AI literacy should foster ethical use of AI, promote social good, and help students understand AI's potential to transform the future of work. Moreove r, [Quille et al. (2022)](#bib71) underline the importance of teaching AI principles ethically, lawfully, and robustly to both students and educators.
+\*\*Computational thinking (n=8):\*\* Computational thinking encompasses problem-solving skills and logical reasoning, focusing on the integration of computing with physical artifacts to help students develop AI literacy ([Tenório and Romeike, 2023](#bib84))\*\*.\*\* As AI agents are programmable, [Van Brummelen et al. (2019)](#bib89) advocate the inclusion of computational concepts, practices, and perspectives that more effectively capture the technical skills and competencies necessary to raise students’ understanding of AI. At the university level, [Tenório and Romeike(2023)](#bib84) emphasize traditional computation skills, such as coding and understanding data structure. At the K-12 level, researchers such as [Touretzky et al. (2023)](#bib87) suggest that students not only learn about AI theoretically, but engage practically by creating computational artifacts or performing hands-on activities that apply AI concepts in their learning. [Waite et al. (2023)](#bib90) suggest that students can explore AI applications at the “application” level of their SEAME framework, which involves engaging with IT applications that incorporate AI components, without necessarily delving into the details of how the underlying AI training models function. The “application” level serves as an entry point for students to engage with AI, setting the stage for deeper exploration, in subsequent learning activities, of the underlying models (M level) and the social and ethical implications (SE level). Resources like Scratch provide an accessible entry point into the world of programming and can allow students to use, amend, or build AI applications.
+\*\*Digital literacy (n=7):\*\* Digital literacy is widely recognised as a foundational element for AI literacy. [Long and Magerko (2020)](#bib43) emphasize that “individuals need to understand how to use computers to make sense of AI” (p.2). While digital literacy is not explicitly named as one of the Five Big Ideas ([Touretzky et al. (2023)](#bib87), the skills and knowledge associated with digital literacy are embedded within the AI4K12 initiative. Their Big Idea One (Perception), Big Idea Two (Representation and Reasoning), and Big Idea Three (Learning) require students to learn how AI perceives the world, analyzes information, draws conclusions, and makes decisions based on information—and in order for students to understand these AI processes, they must possess a certain degree of digital literacy. [Tenório and Romeike(2023)](#bib84) further elaborate that AI literacy extends digital literacy by demanding not only understanding but also the critical application of AI technologies.
+\*\*Data literacy (n=7):\*\* Understanding how computers learn from data is fundamental to AI literacy ([Touretzky et al., 2023](#bib87)). Machine learning algorithms, such as decision trees and neural networks, adjust their internal logic to improve reasoning based on data input ([Touretzky et al., 2019](#bib86), [Touretzky et al., 2023](#bib87)).[Touretzky et al.’s (2023](#bib87)) Big Idea Three (Learning) indicates that machine learning is a kind of statistical inference that finds patterns in data.[Waite et al. (2023](#bib90)) state that AI literacy encompasses not only AI models but also data science in their training processes, including machine learning paradigms (i.e., supervised, unsupervised, and reinforcement learning). These all necessitate the sourcing and preparing of data for model training, involving data collecting, cleaning, classifying, visualising, and testing. Highlighting the importance of data, [Long and Magerko (2020)](#bib43) argue that data literacy is crucial, particularly in the subfield of machine learning, to developing effective AI systems. [Schüller (2022)](#bib75) advocates a multidisciplinary approach to teaching data literacy, incorporating three main perspectives: “application-oriented” (i.e., how to use data in real-world situations), “technical methodological” (i.e., the technical competency necessary to handle and analyze data effectively). and “socio-cultural” (i.e., the social, cultural, and ethical implications of data). She argues that this comprehensive approach not only enhances individual competency but also benefits society as a whole ([Schüller, 2022](#bib75)).
+\*\*Interdisciplinary and transdisciplinary content knowledge (n=6):\*\* AI literacy extends beyond traditional academic boundaries, incorporating interdisciplinary ([Chiu et al., 2021](#bib18); [Schüller, 2022](#bib75), [Tenório and Romeike, 2023](#bib84)) and transdisciplinary approaches ([Long and Magerko, 2020](#bib43); Southworth et al., 2024). An interdisciplinary approach to AI literacy education involves integrating concepts and methods from multiple disciplines to enhance the understanding and application of AI. For example, [Schüller (2022)](#bib75) emphasizes incorporating computer science and related fields into AI literacy education, viewing AI as part of a broader data ecosystem. [Chiu et al. (2021)](#bib18) likewise consider AI to be interdisciplinary in nature, highlighting the importance of engineering and computer science as foundational disciplines. Second, a transdisciplinary approach goes beyond combining disciplines to create new approaches that transcend traditional boundaries but also connect learning to human needs and real-world challenges. This approach is particularly important in the development of AI machines ([Long ang Magerko, 2020](#bib43)), as it permits numerous ways to conceptualize and create AI by drawing on diverse fields of knowledge. [Southworth et al. (2023)](#bib78) emphasize that understanding AI requires more than knowledge of isolated technologies; it demands a holistic comprehension spanning multiple disciplines. Indeed, AI literacy has been regarded as entailing a holistic understanding of AI for transdisciplinary inquiry to solve complex problems in life and learning ([Southworth et al., 2023](#bib78)), as well as to encourage responsible societal engagement ([Long and Magerko, 2020](#bib43)). Similarly, [Biagini et al. (2024)](#bib11) postulate that teaching and assessing AI literacy should move beyond the narrow scope of computer science and engineering to embrace not only the knowledge-based (e.g., knowing how AI works) and operational dimensions (e.g., using AI concepts and applications in various contexts), but also critical (e.g., applying AI to improve critical thinking) and ethical dimension (e.g., considering justice, responsibility, openness, ethics, and safety).
+## 6. Discussion
+First, this study reveals that 17 AI literacy frameworks have been developed across all educational levels, from early childhood to university, confirming the growing significance of AI literacy education. This is consistent with [Yim and Su (2024)](#bib103)'s recent review, which argues that AI literacy is no longer limited to computer scientists but has been expanded to encompass a wider audience, including young students without a computing or technical background ([Chiu et al., 2024](#bib17); Long & Magerko, 2019).
+Second, the predominant methodologies used in developing AI literacy frameworks primarily involve empirical research studies and literature reviews, often guided by national government or institutional standards. These frameworks commonly incorporate Bloom's taxonomy or similar cognitive scaffolding progressions, constructionism, and computer science perspectives, such as theories of computation. The findings of this study are aligned with the UNESCO report that constructionist and constructivist approaches are dominant in AI literacy K-12 education settings ([Miao & Shiohira, 2022](#bib53); [Relmasira et al., 2023](#bib72)). In K-12 contexts, researchers have also tended to adopt constructionist principles and focus on cognitive domains, which emphasize “learning by doing” ([Touretzky et al., 2019](#bib86) & 2023).
+Third, this study confirms the finding of previous reviews that computational thinking and data literacy have been a key focus of AI literacy education ([Casal-Otero et al., 2023](#bib16); [Rizvi et al., 2023](#bib73); [Yue et al., 2022](#bib104)). This aligns with Andries and Robertson's (2023) recommendation that basic machine learning concepts should be taught along with algorithmic thinking in computer science education and AI literacy. In its consideration of the 17 AI learning frameworks, this study finds that the concept of AI literacy has been situated at the intersection of digital literacy (i.e., using computational devices), data literacy (i.e., data labelling, modelling, and evaluation, and analyzing and arguing with data), and computational thinking (i.e., using code to communicate ideas). This focus of the existing frameworks is rooted in the belief that, given the inherent relationship between AI and computers, students should acquire digital literacy ([Long and Magerko, 2020](#bib43)) and computer and data science knowledge in their AI literacy learning ([Casal-Otero et al., 2023](#bib16); [Rizvi et al., 2023](#bib73); [Yim & Su, 2024](#bib103)). Furthermore, these frameworks predominantly focus on the acquisition of knowledge and technical skills to prepare students for future AI-driven environments ([Almatrafi et al., 2024](#bib5); [Casal-Otero et al., 2023](#bib16)), and contain limited focus on empowering them with the agency to think critically and on fostering a creative and innovative mindset in AI literacy learning.
+Fourth, this study's findings reveal that, while AI literacy frameworks have tended to focus on the fields of computer science and engineering, the approach to teaching AI literacy at university level has progressively evolved to embrace multidimensional perspectives. This shift reflects a recognition of the interdisciplinary nature of AI, suggesting that higher education is adapting to the complexities of AI technological development. This transition is paralleled in K-12, where AI literacy frameworks emphasize a cognitive and constructionist base, while integrating AI ethical considerations from an early age.
+Consistent with the reviews of [Almatrafi et al. (2024)](#bib5) and [Casal-Otero et al. (2023)](#bib16), this study reveals that AI ethics has recently become a focus of most AI literacy frameworks for young students. These frameworks have used varied terminology to refer to AI ethics, such as “AI ethical learning” ([Chiu et al., 2021](#bib18); [Ng et al., 2023](#bib60); [Southworth et al., 2023](#bib78)), “socio-ethics” ([Waite et al., 2023](#bib90)), “social-cultural” ([Kong et al., 2023](#bib39)), “social awareness” ([Kong et al., 2024](#bib37)), “responsible AI” (Romeike et al., 2024), and “societal impact” ([Touretzky et al., 2019](#bib86) & 2023). This focus on ethics creates the need for a transdisciplinary and interdisciplinary approach to AI literacy, one which encompasses an understanding of both technology and its societal impacts.
+## 7. A proposed intelligence-based AI literacy framework for young students
+This review has identified several research gaps. First, the current paradigm of AI literacy education for young students is deeply rooted in Piaget's constructivist and Papert's constructionist perspectives, which focus on developmental stages and cognitive growth as primarily individual and internal human processes. While many existing AI literacy frameworks have been instrumental in defining the stages of cognitive readiness, they have not sufficiently accounted for the impact of socially and technologically mediated interactions on the development of cognition ([Cole & Wertsch, 1996](#bib21)). The inherently transdisciplinary nature of AI demands a more expansive educational framework that goes beyond the current priority to acquire knowledge and skills such as digital literacy, computational thinking, data literacy, and AI ethics.
+Second, teaching students to acquire knowledge and skills alone is not sufficient, since knowledge and skills are highly vulnerable to obsolescence given the fast-paced technological development of modern society ([Li, 2022](#bib41); [OECD, 2023](#bib62)). AI literacy education should therefore focus not only on students’ acquisition of computational and other technical skills, but also on fostering adaptability and thinking with AI technology to solve novel problems. In AI literacy, students need creative and cognitive thinking skills alongside computational thinking and data literacy skills. For instance, [Long et al. (2023)](#bib44) use family activities to illustrate AI literacy concepts (e.g., knowledge representations and machine learning) to parents and children and engage them in building machine-learning models at home. They later transform these technical activities into interactive museum exhibits, showing how creativity can enhance AI literacy in informal settings. This transformation illustrates the vital role of creative thinking in rendering AI literacy learning experiences more engaging, relevant, and impactful in real-life settings.
+Similarly, [Williams et al. (2024)](#bib97) developed Doodlebot, an interactive tool that fosters not only students' understanding of technical algorithms but also their creative collaboration with AI machines. Their study highlights the importance of creative thinking in developing AI literacy. As Steve Jobs once stated, “It is in Apple's DNA that technology alone is not enough—it's technology married with liberal arts, married with the humanities, that yields us the results that make our hearts sing” ([Dediu, 2011](#bib23)). The iPhone's integration of AI exemplifies how AI technology combined with human creative thinking leads to innovations. Humanity relies on innovation and the creation of knowledge to solve novel problems ([Green et al., 2010](#bib29)). Collaboration with human creativity is a prerequisite for generating innovative solutions via AI to address real-life challenges. Education should empower students with the competency to collaborate with technologies to solve novel problems and thereby contribute to humanity's future wellbeing ([OECD, 2023](#bib62)). Viewing AI merely as a replication of human cognition oversimplifies its complexities and overlooks the dynamic interactions that occur between humans and non-human (e.g., technological) entities.
+Furthermore, AI literacy education, with its strongly constructionist basis, tends to reflect a technological determinism ([Poel, 2020](#bib70)) that assumes a linear and predetermined progression of AI development shaped solely by its internal logic. This approach does not sufficiently consider the dynamics of human-technological interaction, thereby revealing a significant gap in how AI literacy is currently taught. This gap points to the necessity for a revised conceptual framework for AI literacy learning that more accurately acknowledges and reflects the role of both humans and non-humans. Teaching AI only through the lens of computer science may offer technical solutions, but also encourage a narrow focus regarding the role of AI and its risks. For example, it may not adequately address human influence over dataset training and how the process of datafication can introduce bias and other associated problems (Benjamin, 2019) (such as those which Google confronted in 2018, when its AI algorithms mistakenly tagged black people as “gorillas” in Google image searches due to dataset inadequacies unintentionally introduced by humans ([Google, 2018](#bib28))). Without a broader interdisciplinary approach, AI literacy may risk overlooking the possible societal impacts of AI technology.
+Knowledge infrastructures consist of the networks of people, machines, artifacts, and institutions that generate, share, and maintain knowledge about the world ([Frank et al., 2022](#bib27)). However, the existing knowledge base often struggles to address the complex realities of our evolving technological landscape ([Carrillo & Koch, 2021](#bib15)). An anthropocentric perspective which regards knowledge as constructed solely in the human mind may limit the comprehension of these emerging knowledge infrastructures. In contrast, post-humanism encourages moving beyond an anthropocentric view, recognizing both human and non-human actors as co-creators of knowledge ([Barad, 2007](#bib9); [Braidotti, 2019](#bib13)). In the age of the technosphere, combined with the development of AI and machine learning, knowledge and decision-making are no longer solely the domain of humans ([Herrmann-Pillath, 2018](#bib31)). The influence of AI extends far beyond simple localized computational functions, and plays a significant role in societal applications, such as surveillance systems using facial recognition in smart cities to manage traffic and prevent crime ([Yigitcanlar et al., 2020](#bib101)), and in tracking contacts for Covid-19 detection ([Agbehadji et al., 2020](#bib1)). In other words, AI is not merely a piece of technology but a dynamic participant in the broader processes of societal and educational evolution ([Watson & Romic, 2023](#bib92)), representing a partnership between humans and machines in co-constructing the world ([Benjamin, 2020](#bib10)). Thus this study invites researchers and educators in the field of AI literacy education to move away from the anthropocentric mindset and recognize the role of all agents, human and non-human, in the construction of knowledge.
+In terms of teaching AI ethics, this study recommends a holistic approach allowing students to examine questions from differing angles and thus develop a more comprehensive ethical consideration of AI. For example, philosophy can encourage students to explore moral dilemmas, such as whether AI systems should prioritize certain human values and how responsibility is shared in AI decision-making. In economics, students can evaluate AI's impact on labor markets, income inequality, and resource distribution, considering how AI might both contribute to and mitigate economic disparities. In law, students can investigate accountability, privacy, and regulation, exploring how legal frameworks can ensure that AI systems respect human rights and comply with existing laws. Finally, regarding ecology, students can learn how AI could be leveraged to protect and manage natural resources and balance technological innovation with environmental sustainability. This interdisciplinary approach can help students develop a more comprehensive understanding of AI's ethical implications.
+### 7.1. The conceptual framework for the “AI literacy intelligence-based framework”
+This paper defines AI thinking as a novel manifestation of thinking, resulting from the amalgamation of human cognition with human and artificial intelligence. This unique cognitive entity comes into existence through human interaction and collaboration with AI, giving rise to a new agent and cognitive entity. In short, AI thinking is characterized by cognitive thinking, creative thinking, and analysis from different perspectives, having regard to social, ethical, and environmental considerations.
+Building on the social-cultural perspectives of Lev Vygotsky ([Amineh and Asl, 2015](#bib6)), this study proposes a new post-humanistic AI literacy framework that incorporates “AI thinking”, a transdisciplinary approach that includes ethical, cognitive, and creative engagement with AI technologies. This framework is designed to empower young students with agency, particularly in primary school settings, to effectively learn AI literacy.
+As shown in [Fig. 3](#fig3), the proposed framework aims to advance equality and inclusiveness, by integrating AI thinking into AI literacy learning frameworks. By recognizing young students’ level of cognitive development ([Piaget, 2000](#bib69)) and moving away from a heavy focus on the technical aspects of AI, the proposed framework would be a means to include more early education learners in AI literacy education. Primary school education is the foundational stage that shapes future learning trajectories ([Membrive et al., 2022](#bib51)) and ethical perspectives ([Alawneh et al., 2024](#bib3)). As a result, fostering AI literacy at this stage can promote more equitable access to technology education and nurture responsible AI engagement from an early age.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr3.jpg)
+1. [Download: Download high-res image (208KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr3\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr3.jpg)
+Fig. 3. An intelligence-based AI Literacy Framework for young students.
+Young students are central to a view of education that emphasizes human agency, where individuals are seen as the primary drivers of change ([Duoblienė et al., 2023](#bib25); [OECD, 2019](#bib61)). Since primary school students are at a crucial stage of their cognitive development ([Piaget, 2000](#bib69)), where they develop core skills such as literacy, numeracy, and cognitive thinking ([OECD, 2019](#bib61)), the integration of AI literacy into their education can help them learn not only how to use AI but also to contribute to its future development ethically and responsibly. By empowering students with AI thinking from an early age, this study aims to prepare them to become not only AI consumers but also AI producers in the global AI community of the future.
+### 7.2. Limitations of current educational paradigms and frameworks in AI literacy education
+This proposal begins with a discussion on the nature of cognition, particularly comparing the “proximal locus of development” of Jean Piaget and Lev Vygotsky, and delving into their contrasting views on how cognitive development occurs in individuals ([Cole & Wertsch, 1996](#bib21)). Jean Piaget's cognitive and constructivist views posit that learning and cognitive development involve specific developmental “ages and stages” ([Amineh and Asl, 2015](#bib6)), where new personal experiences disrupt existing cognitive structures, leading to a state of disequilibrium (i.e., new knowledge creating conflicting ideas and feelings in the human mind). To regain equilibrium, children adapt their thinking through processes of assimilation (i.e., fitting the new information into what already know) and accommodation (i.e., changing the existing knowledge to accommodate new knowledge), by restructuring their present knowledge to higher-order thinking ([Piaget, 1977](#bib68)).
+While foundational and valuable, this view can be limiting in the context of AI literacy education, where learning and thinking is not only about individual adaptation but also interacting with and through technology. Furthermore, while constructionism builds on constructivism and recognizes the role of technology in learning ([Papert & Harel, 1991](#bib65)), it views thinking as an attribute of individuals, as a property of individual brains, rather than an integral part of cognitive processes ([Wegerif, 2002](#bib93)). Although this view acknowledges technology, such as the computer, as “an object to think with”, it does not conceptualize thinking as mediated by technology.
+### 7.3. Theoretical underpinning for an intelligence-based AI literacy framework
+In contrast, Lev Vygotsky's sociocultural theory provides a more comprehensive understanding of cognition ([Kozulin, 2003](#bib40)), and can therefore play a crucial role in informing the design of an inclusive AI literacy framework. His notion of mediation explains that thinking and cognitive development are significantly influenced by social interactions and cultural tools ([Wertsch, 2003](#bib96)). This perspective suggests that thinking is not merely an individual construct but is contextually specific and mediated by cultural tools (Robbins, 2005), while intelligence is also not solely a biological property ([Cole & Derry, 2005](#bib20)). This is particularly relevant in today's technological context, in which scholars such as [Wegerif (2002)](#bib93) and [McLuhan (2023)](#bib50) emphasize technology as an integral cultural system that mediates human learning and cognition.
+[Cole and Derry (2005)](#bib20) explore this relationship, arguing that the development of technology both shapes and is shaped by human cognitive processes, indicating a reciprocal relationship between technology and human intelligence. This duality indicates that technology is not only a result of human intelligence but also a catalyst for advancing human cognitive abilities and intelligence. For AI literacy, this means recognizing technology's dual role in both enhancing task efficiency and enriching cognitive processes. This comprehensive view supports a more integrated AI literacy framework that views AI as an active participant in the cognitive development of students, moving beyond its traditional role as a mere tool and acknowledging its deeper impact on expanding human cognitive capacities.
+As “Learning occurs when biological organisms join together with technology to form a larger self-organising systems” ([Wegerif & Major, 2024](#bib95), p. 197), [Cole and Derry (2005)](#bib20) call for an interdisciplinary collaboration, involving humans and technology, that would permit the discovery of transformative solutions to effectively address real-life challenges. “Thinking skills” refer to teaching mental processes that include not only how to acquire knowledge, but also “learning to learn” effectively ([Wegerif, 2006](#bib94)). The ability to leverage AI computational power and data processing abilities in tandem with human creativity, intuition, and ethical reasoning ([Nebreda et al., 2024](#bib57)) open up possibilities to enhance individuals’ thinking skills ([Wegerif & Major, 2024](#bib95), p. 121) and creative potential ([Lubart, 2018](#bib45)). Therefore, this study argues that the inclusion of AI thinking—the human-AI cognitive process—is an effective way to learn AI literacy ([Fig. 4](#fig4)).
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr4.jpg)
+1. [Download: Download high-res image (117KB)](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr4\_lrg.jpg)
+2. [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S2666920X2400122X-gr4.jpg)
+Fig. 4. Conceptual understanding of AI Thinking.
+## 8. Research implications: transitioning to an intelligence-based AI literacy framework
+This study proposes a shift from a traditional knowledge and skills acquisition approach to a more dynamic, intelligence-based framework for AI literacy that incorporates AI thinking to transcend the existing boundaries of knowledge. It agrees with [Wegerif and Major (2024, p. 121)](#bib95) that educational technology can be used to expand knowledge by enabling students to engage with new and unforeseen challenges, as well as address existing ones.
+In the context of environmental degradation ([Zalasiewicz et al., 2011](#bib105)) and the urgent need for education on sustainability, this study highlights the importance of collaboration between humans and AI and the introduction of human values and ethical and societal considerations into the design of AI technology. Environmental challenges cannot be addressed by AI alone, or humans alone.
+AI systems are often perceived as objective due to their binary nature (0s and 1s) and their ability to uncover universal laws and structures underlying observable phenomena ([McCarty, 2024](#bib49)). This perception of objectivity is misleading because human involvement in data selection and algorithm design inherently introduces biases ([Benjamin, 2020](#bib10)). As a result, AI systems can propagate these biases, leading to ethical issues and reinforcing existing inequalities ([McCarty, 2024](#bib49)). Integrating the AI thinking into AI literacy education may address inherent data biases and ethical issues, thereby harnessing the potential of AI for the benefit of all humans, non-humans, and the environment. This intelligence-based framework promotes a deeper understanding of AI literacy, encouraging students to collaborate effectively with AI in cognitive and creative thinking. Moreover, it encourages students to engage cognitively, creatively, and ethically with AI technology, fostering a more inclusive and sustainable future.
+## 9. Conclusion and limitations
+This study argues that constructivist/constructionist and human cognitive approaches alone may not fully enable students of AI literacy education to understand critical issues such as data injustice and the ethical and societal impact of AI. It adds that, although there is a variety of theoretical frameworks for AI literacy education for adults, university students, and students within K-12 contexts, there has been limited focus on primary school students. This paper adds to existing research by providing educators and researchers with a new intelligence-based AI literacy framework for students in primary school contexts, one which broadens students' thinking by including both human and non-human elements in their AI literacy education.
+The study also contributes to existing research by conceptualizing AI literacy and informing policymakers and curriculum designers of a new way of implementing a holistic, interdisciplinary, and transdisciplinary AI literacy education program. In addition, the study seeks to empower primary students by transforming them from AI consumers to AI producers, so that they may fully explore their potential in AI literacy learning. It is hoped that this intelligence-based AI literacy framework will serve as a valuable resource for researchers and educators seeking to introduce AI literacy to primary school students. Ultimately, the adoption of this framework is expected to lay the groundwork for a more comprehensive and inclusive approach to AI literacy education in primary schools.
+The limitations of this study must also be acknowledged. Given that it was conducted using only four major citation index databases, some relevant studies may have been overlooked. Expanding the research to include additional databases, especially those focusing on interdisciplinary studies or emerging technologies, could yield a broader range of insights. Another limitation is the subjective nature of interpretation and coding of the data. While 60% of the data was independently verified by three coders, this process would have been strengthened by independently verifying the full dataset. It is hoped that this study will encourage future studies to explore these possibilities.
+The success and refinement of this new framework will depend heavily on subsequent empirical research studies. It is essential for future research to test this framework's principles, providing data that can validate, refute, or refine the foundational concepts proposed in this study. To effectively implement AI literacy education for future generations, it is crucial to explore educators' and teachers' readiness to teach AI literacy, their challenges, as well as their professional development requirements.
+## Ethics approval and consent to participate
+This research is carried out in accordance to ethics recommendations. As it focuses on a scoping literature review as a research method, ethics approval by the University ethics committee does not apply.
+## Data availability
+The author declares that the data supporting the findings of this study are available within the article and its supplementary information files.
+## Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+## Acknowledgments
+This paper is a contribution arising from the author's ongoing PhD research. The author appreciates the support and guidance provided by Professor Rupert Wegerif and the University of Cambridge throughout this study. The author also extends sincere gratitude to the independent researchers, Associate Professor Roxana Rebolledo Font de la Vall and Dr. Jiahong Su for their invaluable assistance with the coding work for this paper. Their help is greatly appreciated.
+Recommended articles
+## References
+1. [Agbehadji et al., 2020](#bbib1)
+I.E.Agbehadji, B.O.Awuzie, A.B.Ngowi, R.C.Millham
+Review of big data analytics, artificial intelligence and nature-inspired computing models towards accurate detection of COVID-19 pandemic cases and contact tracing
+International Journal of Environmental Research and Public Health, 17 (15) (2020), p. 5330
+[Crossref](https://doi.org/10.3390/ijerph17155330)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Review%20of%20big%20data%20analytics%2C%20artificial%20intelligence%20and%20nature-inspired%20computing%20models%20towards%20accurate%20detection%20of%20COVID-19%20pandemic%20cases%20and%20contact%20tracing&publication\_year=2020&author=I.E.%20Agbehadji&author=B.O.%20Awuzie&author=A.B.%20Ngowi&author=R.C.%20Millham)
+2. [AI4K12, 2024](#bbib2)
+AI4K12
+Retrieved from
+ (2024)
+[Google Scholar](https://scholar.google.com/scholar?q=AI4K12.%20(2024).%20Retrieved%20from%20https%3A%2F%2Fai4k12.org)
+3. [Alawneh et al., 2024](#bbib3)
+Y.J.J.Alawneh, E.N.Z.Radwan, F.N.Salman, S.I.Makhlouf, K.Makhamreh, M.S.Alawneh
+Ethical considerations in the use of AI in primary education: Privacy, bias, and inclusivity
+2024 international conference on knowledge engineering and communication systems (ICKECS), Vol. 1, IEEE (2024), pp. 1-6
+[Crossref](https://doi.org/10.1109/ickecs61492.2024.10616986)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Ethical%20considerations%20in%20the%20use%20of%20AI%20in%20primary%20education%3A%20Privacy%2C%20bias%2C%20and%20inclusivity&publication\_year=2024&author=Y.J.J.%20Alawneh&author=E.N.Z.%20Radwan&author=F.N.%20Salman&author=S.I.%20Makhlouf&author=K.%20Makhamreh&author=M.S.%20Alawneh)
+4. [Ali et al., 2019](#bbib4)
+S.Ali, B.H.Payne, R.Williams, H.W.Park, C.Breazeal
+Constructionism, ethics, and creativity: Developing primary and middle school artificial intelligence education
+International workshop on education in artificial intelligence k-12 (eduai'19) (2019), pp. 1-4
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Constructionism%2C%20ethics%2C%20and%20creativity%3A%20Developing%20primary%20and%20middle%20school%20artificial%20intelligence%20education&publication\_year=2019&author=S.%20Ali&author=B.H.%20Payne&author=R.%20Williams&author=H.W.%20Park&author=C.%20Breazeal)
+5. [Almatrafi et al., 2024](#bbib5)
+O.Almatrafi, A.Johri, H.Lee
+A systematic review of AI literacy conceptualization, constructs, and implementation and assessment efforts (2019-2023)
+Computers and Education Open (2024), Article 100173
+[View PDF](/science/article/pii/S2666557324000144/pdfft?md5=631e6894637842815639241b3f8314ec&pid=1-s2.0-S2666557324000144-main.pdf)[View article](/science/article/pii/S2666557324000144)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85196076157&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20systematic%20review%20of%20AI%20literacy%20conceptualization%2C%20constructs%2C%20and%20implementation%20and%20assessment%20efforts%20&publication\_year=2024&author=O.%20Almatrafi&author=A.%20Johri&author=H.%20Lee)
+6. [Amineh and Asl, 2015](#bbib6)
+R.J.Amineh, H.D.Asl
+Review of constructivism and social constructivism
+Journal of social sciences, literature and languages, 1 (1) (2015), pp. 9-16
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Review%20of%20constructivism%20and%20social%20constructivism&publication\_year=2015&author=R.J.%20Amineh&author=H.D.%20Asl)
+7. [Arksey and O'malley, 2005](#bbib7)
+H.Arksey, L.O'malley
+Scoping studies: Towards a methodological framework
+International Journal of Social Research Methodology, 8 (1) (2005), pp. 19-32
+[Crossref](https://doi.org/10.1080/1364557032000119616)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-14644388070&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Scoping%20studies%3A%20Towards%20a%20methodological%20framework&publication\_year=2005&author=H.%20Arksey&author=L.%20O'malley)
+8. [Bandura, 1989](#bbib8)
+A.Bandura
+Human agency in social cognitive theory
+American Psychologist, 44 (9) (1989), p. 1175
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0024722365&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Human%20agency%20in%20social%20cognitive%20theory&publication\_year=1989&author=A.%20Bandura)
+9. [Barad, 2007](#bbib9)
+K.Barad
+Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning
+duke university Press (2007)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Meeting%20the%20universe%20halfway%3A%20Quantum%20physics%20and%20the%20entanglement%20of%20matter%20and%20meaning&publication\_year=2007&author=K.%20Barad)
+10. [Benjamin, 2020](#bbib10)
+R.Benjamin
+Race after technology: Abolitionist tools for the new jim code
+(2020)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Race%20after%20technology%3A%20Abolitionist%20tools%20for%20the%20new%20jim%20code&publication\_year=2020&author=R.%20Benjamin)
+11. [Biagini et al., 2024](#bbib11)
+∗
+G.Biagini, S.Cuomo, M.Ranieri
+Developing and validating a multidimensional AI literacy questionnaire: Operationalizing AI literacy for higher education
+D.Schicchi, D.Taibi, M.Temperini (Eds.), Proceedings of the first international workshop on high-performance artificial intelligence systems in education (2024), p. 1
+0
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Developing%20and%20validating%20a%20multidimensional%20AI%20literacy%20questionnaire%3A%20Operationalizing%20AI%20literacy%20for%20higher%20education&publication\_year=2024&author=G.%20Biagini&author=S.%20Cuomo&author=M.%20Ranieri)
+12. [Bond et al., 2024](#bbib12)
+M.Bond, H.Khosravi, M.De Laat, N.Bergdahl, V.Negrea, E.Oxley, G.Siemens, \*et al.\*
+A meta systematic review of artificial intelligence in higher education: A call for increased ethics, collaboration, and rigour
+International Journal of Educational Technology in Higher Education, 21 (1) (2024), p. 4
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85182720860&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20meta%20systematic%20review%20of%20artificial%20intelligence%20in%20higher%20education%3A%20A%20call%20for%20increased%20ethics%2C%20collaboration%2C%20and%20rigour&publication\_year=2024&author=M.%20Bond&author=H.%20Khosravi&author=M.%20De%20Laat&author=N.%20Bergdahl&author=V.%20Negrea&author=E.%20Oxley&author=G.%20Siemens)
+13. [Braidotti, 2019](#bbib13)
+R.Braidotti
+Posthuman knowledge, Vol. 2, Polity Press, Cambridge (2019)
+[Google Scholar](https://scholar.google.com/scholar?q=Braidotti%2C%20R.%20(2019).%20Posthuman%20knowledge%20(Vol.%202).%20Cambridge%3A%20Polity%20Press.)
+14. [Carrillo and Koch, 2021](#bbib15)
+F.J.Carrillo, G.Koch (Eds.), Knowledge for the anthropocene: A multidisciplinary approach, Edward Elgar Publishing (2021)
+[Google Scholar](https://scholar.google.com/scholar?q=Carrillo%2C%20F.%20J.%2C%20%26%20Koch%2C%20G.%20(Eds.).%20(2021).%20Knowledge%20for%20the%20Anthropocene%3A%20A%20Multidisciplinary%20Approach.%20Edward%20Elgar%20Publishing.)
+15. [Casal-Otero et al., 2023](#bbib16)
+L.Casal-Otero, A.Catala, C.Fernández-Morante, M.Taboada, B.Cebreiro, S.Barro
+AI literacy in K-12: A systematic literature review
+International Journal of STEM Education, 10 (1) (2023), p. 29
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85152942023&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20literacy%20in%20K-12%3A%20A%20systematic%20literature%20review&publication\_year=2023&author=L.%20Casal-Otero&author=A.%20Catala&author=C.%20Fern%C3%A1ndez-Morante&author=M.%20Taboada&author=B.%20Cebreiro&author=S.%20Barro)
+16. [Chiu et al., 2024](#bbib17)
+T.K.Chiu, Z.Ahmad, M.Ismailov, I.T.Sanusi
+What are artificial intelligence literacy and competency? A comprehensive framework to support them
+Computers and Education Open, 6 (2024), Article 100171
+[View PDF](/science/article/pii/S2666557324000120/pdfft?md5=93c7a04ec33c1105ed68603d377091e9&pid=1-s2.0-S2666557324000120-main.pdf)[View article](/science/article/pii/S2666557324000120)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85196157040&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=What%20are%20artificial%20intelligence%20literacy%20and%20competency%20A%20comprehensive%20framework%20to%20support%20them&publication\_year=2024&author=T.K.%20Chiu&author=Z.%20Ahmad&author=M.%20Ismailov&author=I.T.%20Sanusi)
+17. [Chiu et al., 2021](#bbib18)
+∗
+T.K.Chiu, H.Meng, C.S.Chai, I.King, S.Wong, Y.Yam
+Creation and evaluation of a pretertiary artificial intelligence (AI) curriculum
+IEEE Transactions on Education, 65 (1) (2021), pp. 30-39
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85104421534&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Creation%20and%20evaluation%20of%20a%20pretertiary%20artificial%20intelligence%20%20curriculum&publication\_year=2021&author=T.K.%20Chiu&author=H.%20Meng&author=C.S.%20Chai&author=I.%20King&author=S.%20Wong&author=Y.%20Yam)
+18. [Chiu and Sanusi, 2024](#bbib19)
+T.K.Chiu, I.T.Sanusi
+Define, foster, and assess student and teacher AI literacy and competency for all: Current status and future research direction
+Computers and Education Open (2024), Article 100182
+[View PDF](/science/article/pii/S2666557324000223/pdfft?md5=5b6db7314e6938c29371f4539ae1f572&pid=1-s2.0-S2666557324000223-main.pdf)[View article](/science/article/pii/S2666557324000223)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85206803040&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Define%2C%20foster%2C%20and%20assess%20student%20and%20teacher%20AI%20literacy%20and%20competency%20for%20all%3A%20Current%20status%20and%20future%20research%20direction&publication\_year=2024&author=T.K.%20Chiu&author=I.T.%20Sanusi)
+19. [Cole and Derry, 2005](#bbib20)
+M.Cole, J.Derry
+We have met technology and it is us
+Intelligence and technology, Routledge (2005), pp. 233-252
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=We%20have%20met%20technology%20and%20it%20is%20us&publication\_year=2005&author=M.%20Cole&author=J.%20Derry)
+20. [Cole and Wertsch, 1996](#bbib21)
+M.Cole, J.V.Wertsch
+Beyond the individual-social antinomy in discussions of Piaget and Vygotsky
+Human Development, 39 (5) (1996), pp. 250-256
+[Crossref](https://doi.org/10.1159/000278475)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-0345993191&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Beyond%20the%20individual-social%20antinomy%20in%20discussions%20of%20Piaget%20and%20Vygotsky&publication\_year=1996&author=M.%20Cole&author=J.V.%20Wertsch)
+21. [Dai, 2024](#bbib22)
+Y.Dai
+Dual-contrast pedagogy for AI literacy in upper elementary schools
+Learning and Instruction, 91 (2024), Article 101899
+[View PDF](/science/article/pii/S0959475224000264/pdfft?md5=38d3ebb6a529acf5259edc02e2cf8b32&pid=1-s2.0-S0959475224000264-main.pdf)[View article](/science/article/pii/S0959475224000264)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85186315706&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Dual-contrast%20pedagogy%20for%20AI%20literacy%20in%20upper%20elementary%20schools&publication\_year=2024&author=Y.%20Dai)
+22. [Dediu, 2011](#bbib23)
+H.Dediu
+Steve jobs's ultimate lesson for companies
+Harvard Business Review (2011)
+Retrieved from
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Steve%20jobss%20ultimate%20lesson%20for%20companies&publication\_year=2011&author=H.%20Dediu)
+23. [Deng et al., 2021](#bbib24)
+W.Deng, X.Huang, Q.Liu, Z.Wang
+Curriculum design of artificial intelligence in middle school-taking posture recognition as an example
+2021 tenth international conference of educational innovation through technology (EITT), IEEE (2021), pp. 310-315
+[Crossref](https://doi.org/10.1109/eitt53287.2021.00067)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85126672600&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Curriculum%20design%20of%20artificial%20intelligence%20in%20middle%20school-taking%20posture%20recognition%20as%20an%20example&publication\_year=2021&author=W.%20Deng&author=X.%20Huang&author=Q.%20Liu&author=Z.%20Wang)
+24. [Duoblienė et al., 2023](#bbib25)
+L.Duoblienė, S.Kaire, J.Vaitekaitis
+Education for the future: Applying concepts from the new materialist discourse to UNESCO and OECD publications
+The Journal of Environmental Education, 54 (3) (2023), pp. 213-224
+[Crossref](https://doi.org/10.1080/00958964.2023.2188576)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85150834623&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Education%20for%20the%20future%3A%20Applying%20concepts%20from%20the%20new%20materialist%20discourse%20to%20UNESCO%20and%20OECD%20publications&publication\_year=2023&author=L.%20Duoblien%C4%97&author=S.%20Kaire&author=J.%20Vaitekaitis)
+25. [Floridi et al., 2021](#bbib26)
+L.Floridi, J.Cowls, M.Beltrametti, R.Chatila, P.Chazerand, V.Dignum, E.Vayena, \*et al.\*
+An ethical framework for a good AI society: Opportunities, risks, principles, and recommendations
+Ethics, governance, and policies in artificial intelligence (2021), pp. 19-39
+[Crossref](https://doi.org/10.1007/978-3-030-81907-1\_3)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85118781491&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20ethical%20framework%20for%20a%20good%20AI%20society%3A%20Opportunities%2C%20risks%2C%20principles%2C%20and%20recommendations&publication\_year=2021&author=L.%20Floridi&author=J.%20Cowls&author=M.%20Beltrametti&author=R.%20Chatila&author=P.%20Chazerand&author=V.%20Dignum&author=E.%20Vayena)
+26. [Frank et al., 2022](#bbib27)
+A.Frank, D.Grinspoon, S.Walker
+Intelligence as a planetary scale process
+International Journal of Astrobiology, 21 (2) (2022), pp. 47-61
+[Crossref](https://doi.org/10.1017/s147355042100029x)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85124836072&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Intelligence%20as%20a%20planetary%20scale%20process&publication\_year=2022&author=A.%20Frank&author=D.%20Grinspoon&author=S.%20Walker)
+27. [Google, 2018](#bbib28)
+Google
+Retrieved from
+ (2018)
+[Google Scholar](https://scholar.google.com/scholar?q=Google.%20(2018).%20Retrieved%20from%20https%3A%2F%2Fwww.theverge.com%2F2018%2F1%2F12%2F16882408%2Fgoogle-racist-gorillas-photo-recognition-algorithm-ai)
+28. [Green et al., 2010](#bbib29)
+R.Green, S.Liyanage, T.Pitsis, D.Scott-Kemis, R.Agarwal
+The OECD innovation strategy: Getting a head start on tomorrow
+(2010)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20OECD%20innovation%20strategy%3A%20Getting%20a%20head%20start%20on%20tomorrow&publication\_year=2010&author=R.%20Green&author=S.%20Liyanage&author=T.%20Pitsis&author=D.%20Scott-Kemis&author=R.%20Agarwal)
+29. [Han et al., 2024](#bbib30)
+A.Han, X.Zhou, Z.Cai, S.Han, R.Ko, S.Corrigan, K.A.Peppler
+Teachers, parents, and students' perspectives on integrating generative AI into elementary literacy education
+Proceedings of the CHI conference on human factors in computing systems (2024), pp. 1-17
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teachers%2C%20parents%2C%20and%20students%20perspectives%20on%20integrating%20generative%20AI%20into%20elementary%20literacy%20education&publication\_year=2024&author=A.%20Han&author=X.%20Zhou&author=Z.%20Cai&author=S.%20Han&author=R.%20Ko&author=S.%20Corrigan&author=K.A.%20Peppler)
+30. [Herrmann-Pillath, 2018](#bbib31)
+C.Herrmann-Pillath
+The case for a new discipline: Technosphere science
+Ecological Economics, 149 (2018), pp. 212-225
+[View PDF](/science/article/pii/S0921800917315677/pdfft?md5=2eb205941e1fb0b5da31f25f6da5271c&pid=1-s2.0-S0921800917315677-main.pdf)[View article](/science/article/pii/S0921800917315677)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85044509480&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20case%20for%20a%20new%20discipline%3A%20Technosphere%20science&publication\_year=2018&author=C.%20Herrmann-Pillath)
+31. [Jauhiainen and Guerra, 2023](#bbib32)
+J.S.Jauhiainen, A.G.Guerra
+Generative AI and ChatGPT in school children's education: Evidence from a school lesson
+Sustainability, 15 (18) (2023), Article 14025
+[Crossref](https://doi.org/10.3390/su151814025)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85172906289&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Generative%20AI%20and%20ChatGPT%20in%20school%20childrens%20education%3A%20Evidence%20from%20a%20school%20lesson&publication\_year=2023&author=J.S.%20Jauhiainen&author=A.G.%20Guerra)
+32. [Jiang et al., 2017](#bbib33)
+F.Jiang, Y.Jiang, H.Zhi, Y.Dong, H.Li, S.Ma, Y.Wang, \*et al.\*
+Artificial intelligence in healthcare: Past, present and future
+Stroke and vascular neurology, 2 (4) (2017)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20in%20healthcare%3A%20Past%2C%20present%20and%20future&publication\_year=2017&author=F.%20Jiang&author=Y.%20Jiang&author=H.%20Zhi&author=Y.%20Dong&author=H.%20Li&author=S.%20Ma&author=Y.%20Wang)
+33. [Kahn and Winters, 2021](#bbib34)
+K.Kahn, N.Winters
+Constructionism and AI: A history and possible futures
+British Journal of Educational Technology, 52 (3) (2021), pp. 1130-1142
+[Crossref](https://doi.org/10.1111/bjet.13088)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85105091248&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Constructionism%20and%20AI%3A%20A%20history%20and%20possible%20futures&publication\_year=2021&author=K.%20Kahn&author=N.%20Winters)
+34. [Kandlhofer et al., 2016](#bbib35)
+∗
+M.Kandlhofer, G.Steinbauer, S.Hirschmugl-Gaisch, P.Huber
+Artificial intelligence and computer science in education: From kindergarten to university
+2016 IEEE frontiers in education conference (FIE), IEEE (2016), pp. 1-9
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20and%20computer%20science%20in%20education%3A%20From%20kindergarten%20to%20university&publication\_year=2016&author=M.%20Kandlhofer&author=G.%20Steinbauer&author=S.%20Hirschmugl-Gaisch&author=P.%20Huber)
+35. [Kong et al., 2024](#bbib37)
+∗
+S.C.Kong, M.Y.W.Cheung, O.Tsang
+Developing an artificial intelligence literacy framework: Evaluation of a literacy course for senior secondary students using a project-based learning approach
+Computers and Education: Artificial Intelligence, 6 (2024), Article 100214
+[View PDF](/science/article/pii/S2666920X24000158/pdfft?md5=2f0e81dd3823f65faf890b1f3754aea8&pid=1-s2.0-S2666920X24000158-main.pdf)[View article](/science/article/pii/S2666920X24000158)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85187209768&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Developing%20an%20artificial%20intelligence%20literacy%20framework%3A%20Evaluation%20of%20a%20literacy%20course%20for%20senior%20secondary%20students%20using%20a%20project-based%20learning%20approach&publication\_year=2024&author=S.C.%20Kong&author=M.Y.W.%20Cheung&author=O.%20Tsang)
+36. [Kong et al., 2022](#bbib38)
+S.C.Kong, W.M.Y.Cheung, G.Zhang
+Evaluating artificial intelligence literacy courses for fostering conceptual learning, literacy and empowerment in university students: Refocusing to conceptual building
+Computers in Human Behavior Reports, 7 (2022), Article 100223
+[View PDF](/science/article/pii/S2451958822000574/pdfft?md5=42d1d46e2d85c06f381be315c09b8fb2&pid=1-s2.0-S2451958822000574-main.pdf)[View article](/science/article/pii/S2451958822000574)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85135555947&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Evaluating%20artificial%20intelligence%20literacy%20courses%20for%20fostering%20conceptual%20learning%2C%20literacy%20and%20empowerment%20in%20university%20students%3A%20Refocusing%20to%20conceptual%20building&publication\_year=2022&author=S.C.%20Kong&author=W.M.Y.%20Cheung&author=G.%20Zhang)
+37. [Kong et al., 2023](#bbib39)
+∗
+S.C.Kong, W.M.Y.Cheung, G.Zhang
+Evaluating an artificial intelligence literacy programme for developing university students' conceptual understanding, literacy, empowerment and ethical awareness
+Educational Technology & Society, 26 (1) (2023), pp. 16-30
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85140490145&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Evaluating%20an%20artificial%20intelligence%20literacy%20programme%20for%20developing%20university%20students%20conceptual%20understanding%2C%20literacy%2C%20empowerment%20and%20ethical%20awareness&publication\_year=2023&author=S.C.%20Kong&author=W.M.Y.%20Cheung&author=G.%20Zhang)
+38. [Kozulin, 2003](#bbib40)
+A.Kozulin
+Psychological tools and mediated learning
+Vygotsky's educational theory in cultural context, 4 (6) (2003), pp. 15-38
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-84925661505&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Psychological%20tools%20and%20mediated%20learning&publication\_year=2003&author=A.%20Kozulin)
+39. [Li, 2022](#bbib41)
+L.Li
+Reskilling and upskilling the future-ready workforce for industry 4.0 and beyond
+Information Systems Frontiers (2022), pp. 1-16
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Reskilling%20and%20upskilling%20the%20future-ready%20workforce%20for%20industry%204.0%20and%20beyond&publication\_year=2022&author=L.%20Li)
+40. [Li et al., 2022](#bbib42)
+J.Li, C.W.Tan, C.N.Hang, X.Qi
+A chatbot-server framework for scalable machine learning education through crowdsourced data
+Proceedings of the ninth ACM conference on learning@ scale (2022), pp. 271-274
+[Crossref](https://doi.org/10.1145/3491140.3528300)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85132152692&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20chatbot-server%20framework%20for%20scalable%20machine%20learning%20education%20through%20crowdsourced%20data&publication\_year=2022&author=J.%20Li&author=C.W.%20Tan&author=C.N.%20Hang&author=X.%20Qi)
+41. [Long and Magerko, 2020](#bbib43)
+∗
+D.Long, B.Magerko
+What is AI literacy? Competencies and design considerations
+Proceedings of the 2020 CHI conference on human factors in computing systems (2020), pp. 1-16
+[Crossref](https://doi.org/10.1145/3313831.3376727)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85143738831&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=What%20is%20AI%20literacy%20Competencies%20and%20design%20considerations&publication\_year=2020&author=D.%20Long&author=B.%20Magerko)
+42. [Long et al., 2023](#bbib44)
+D.Long, S.Rollins, J.Ali-Diaz, K.Hancock, S.Nuonsinoeun, J.Roberts, B.Magerko
+Fostering AI literacy with embodiment & creativity: From activity boxes to museum exhibits
+Proceedings of the 22nd annual ACM interaction design and children conference (2023), pp. 727-731
+[Crossref](https://doi.org/10.1145/3585088.3594495)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85169100223&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Fostering%20AI%20literacy%20with%20embodiment%20%20creativity%3A%20From%20activity%20boxes%20to%20museum%20exhibits&publication\_year=2023&author=D.%20Long&author=S.%20Rollins&author=J.%20Ali-Diaz&author=K.%20Hancock&author=S.%20Nuonsinoeun&author=J.%20Roberts&author=B.%20Magerko)
+43. [Lubart, 2018](#bbib45)
+T.Lubart
+Creative process
+Palgrave Studies in Creativity and Culture (2018), [10.1057/978-1-137-50563-7\\_1](https://doi.org/10.1057/978-1-137-50563-7\_1)
+\*(Online)\*
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Creative%20process&publication\_year=2018&author=T.%20Lubart)
+44. [Luckin and Holmes, 2016](#bbib46)
+R.Luckin, W.Holmes
+Intelligence unleashed: An argument for AI in education
+(2016)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Intelligence%20unleashed%3A%20An%20argument%20for%20AI%20in%20education&publication\_year=2016&author=R.%20Luckin&author=W.%20Holmes)
+45. [Luo, 2024](#bbib47)
+J.Luo
+A critical review of GenAI policies in higher education assessment: A call to reconsider the “originality” of students' work
+Assessment & Evaluation in Higher Education (2024), pp. 1-14
+[Crossref](https://doi.org/10.1080/00036846.2024.2396087)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20critical%20review%20of%20GenAI%20policies%20in%20higher%20education%20assessment%3A%20A%20call%20to%20reconsider%20the%20originality%20of%20students%20work&publication\_year=2024&author=J.%20Luo)
+46. [McCarthy et al., 2006](#bbib48)
+J.McCarthy, M.L.Minsky, N.Rochester, C.E.Shannon
+A proposal for the dartmouth summer research project on artificial intelligence, august 31, 1955
+AI Magazine, 27 (4) (2006), p. 12
+12. Retrieved from
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-33846092536&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20proposal%20for%20the%20dartmouth%20summer%20research%20project%20on%20artificial%20intelligence%2C%20august%2031%2C%201955&publication\_year=2006&author=J.%20McCarthy&author=M.L.%20Minsky&author=N.%20Rochester&author=C.E.%20Shannon)
+47. [McCarty, 2024](#bbib49)
+W.McCarty
+Steps towards a therapeutic artificial intelligence
+Interdisciplinary Science Reviews, 49 (1) (2024), pp. 104-149
+[Crossref](https://doi.org/10.1177/03080188241233129)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85189337107&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Steps%20towards%20a%20therapeutic%20artificial%20intelligence&publication\_year=2024&author=W.%20McCarty)
+48. [McLuhan, 2023](#bbib50)
+M.McLuhan
+We shape our tools, and thereafter our tools shape us
+Feeling unreal: Depersonalization and the loss of the self, Vol. 240 (2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=We%20shape%20our%20tools%2C%20and%20thereafter%20our%20tools%20shape%20us&publication\_year=2023&author=M.%20McLuhan)
+49. [Membrive et al., 2022](#bbib51)
+A.Membrive, N.Silva, M.J.Rochera, I.Merino
+Advancing the conceptualization of learning trajectories: A review of learning across contexts
+Learning, Culture and Social Interaction, 37 (2022), Article 100658
+[View PDF](/science/article/pii/S2210656122000599/pdfft?md5=6dc8c2f06a18f2030f7d1c66be52e99a&pid=1-s2.0-S2210656122000599-main.pdf)[View article](/science/article/pii/S2210656122000599)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85139239512&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Advancing%20the%20conceptualization%20of%20learning%20trajectories%3A%20A%20review%20of%20learning%20across%20contexts&publication\_year=2022&author=A.%20Membrive&author=N.%20Silva&author=M.J.%20Rochera&author=I.%20Merino)
+50. [Miao et al., 2021](#bbib52)
+F.Miao, W.Holmes, R.Huang, H.Zhang
+AI and education: \*A guidance for policymakers\*
+UNESCO Publishing (2021)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20and%20education%3A%20A%20guidance%20for%20policymakers&publication\_year=2021&author=F.%20Miao&author=W.%20Holmes&author=R.%20Huang&author=H.%20Zhang)
+51. [Miao and Shiohira, 2022](#bbib53)
+F.Miao, K.Shiohira
+K-12 AI curricula. A mapping of government-endorsed AI curricula
+(2022)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=K-12%20AI%20curricula.%20A%20mapping%20of%20government-endorsed%20AI%20curricula&publication\_year=2022&author=F.%20Miao&author=K.%20Shiohira)
+52. [Morales-Navarro et al., 2023](#bbib55)
+L.Morales-Navarro, Y.B.Kafai, K.Kahn, R.Romeike, T.Michaeli, D.DiPaola, C.Solomon, \*et al.\*
+Constructionist approaches to learning artificial intelligence/machine learning: Past, present, and future
+Proceedings of constructionism 2023 (2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Constructionist%20approaches%20to%20learning%20artificial%20intelligencemachine%20learning%3A%20Past%2C%20present%2C%20and%20future&publication\_year=2023&author=L.%20Morales-Navarro&author=Y.B.%20Kafai&author=K.%20Kahn&author=R.%20Romeike&author=T.%20Michaeli&author=D.%20DiPaola&author=C.%20Solomon)
+53. [Mott et al., 2023](#bbib56)
+∗
+B.Mott, A.Gupta, K.Glazewski, A.Ottenbreit-Leftwich, C.Hmelo-Silver, A.Scribner, J.Lester, \*et al.\*
+Fostering upper elementary AI education: Iteratively refining a use-modify-create scaffolding progression for AI planning
+Proceedings of the 2023 conference on innovation and technology in computer science education, Vol. 2 (2023), p. 647
+647
+[Crossref](https://doi.org/10.1145/3587103.3594170)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85166348424&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Fostering%20upper%20elementary%20AI%20education%3A%20Iteratively%20refining%20a%20use-modify-create%20scaffolding%20progression%20for%20AI%20planning&publication\_year=2023&author=B.%20Mott&author=A.%20Gupta&author=K.%20Glazewski&author=A.%20Ottenbreit-Leftwich&author=C.%20Hmelo-Silver&author=A.%20Scribner&author=J.%20Lester)
+54. [Nebreda et al., 2024](#bbib57)
+A.Nebreda, D.Shpakivska-Bilan, C.Camara, G.Susi
+The social machine: Artificial intelligence (AI) approaches to theory of mind
+The theory of mind under scrutiny: Psychopathology, neuroscience, philosophy of mind and artificial intelligence, Springer Nature Switzerland, Cham (2024), pp. 681-722
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20social%20machine%3A%20Artificial%20intelligence%20%20approaches%20to%20theory%20of%20mind&publication\_year=2024&author=A.%20Nebreda&author=D.%20Shpakivska-Bilan&author=C.%20Camara&author=G.%20Susi)
+55. [Ng et al., 2021](#bbib58)
+∗
+D.T.K.Ng, J.K.L.Leung, S.K.W.Chu, M.S.Qiao
+Conceptualizing AI literacy: An exploratory review
+Computers and Education: Artificial Intelligence, 2 (2021), Article 100041
+[View PDF](/science/article/pii/S2666920X21000357/pdfft?md5=9ebc39b3aa03c751155117ee4819d621&pid=1-s2.0-S2666920X21000357-main.pdf)[View article](/science/article/pii/S2666920X21000357)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85123925348&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Conceptualizing%20AI%20literacy%3A%20An%20exploratory%20review&publication\_year=2021&author=D.T.K.%20Ng&author=J.K.L.%20Leung&author=S.K.W.%20Chu&author=M.S.%20Qiao)
+56. [Ng et al., 2024](#bbib59)
+∗
+D.T.K.Ng, W.Wu, J.K.L.Leung, T.K.F.Chiu, S.K.W.Chu
+Design and validation of the AI literacy questionnaire: The affective, behavioural, cognitive and ethical approach
+British Journal of Educational Technology, 55 (3) (2024), pp. 1082-1104
+[Crossref](https://doi.org/10.1111/bjet.13411)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85179315222&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Design%20and%20validation%20of%20the%20AI%20literacy%20questionnaire%3A%20The%20affective%2C%20behavioural%2C%20cognitive%20and%20ethical%20approach&publication\_year=2024&author=D.T.K.%20Ng&author=W.%20Wu&author=J.K.L.%20Leung&author=T.K.F.%20Chiu&author=S.K.W.%20Chu)
+57. [Ng et al., 2023](#bbib60)
+∗
+D.T.K.Ng, W.Wu, J.K.L.Leung, S.K.W.Chu
+Artificial intelligence (AI) literacy questionnaire with confirmatory factor analysis
+2023 IEEE international conference on advanced learning technologies (ICALT), IEEE (2023), pp. 233-235
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20%20literacy%20questionnaire%20with%20confirmatory%20factor%20analysis&publication\_year=2023&author=D.T.K.%20Ng&author=W.%20Wu&author=J.K.L.%20Leung&author=S.K.W.%20Chu)
+58. [OECD, 2019](#bbib61)
+OECD
+An OECD learning framework 2030
+The Future of Education and Labor (2019), pp. 23-35
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=An%20OECD%20learning%20framework%202030&publication\_year=2019&author=OECD)
+59. [OECD, 2023](#bbib62)
+OECD
+Retrieved from:
+ (2023)
+[Google Scholar](https://scholar.google.com/scholar?q=OECD.%20(2023)%20Retrieved%20from%3A%20https%3A%2F%2Fwww.oecd.org%2Fpisa%2Fpublications%2FPISA-2021-creative-thinking-framework.pdf)
+60. [Page et al., 2021](#bbib63)
+M.J.Page, J.E.McKenzie, P.M.Bossuyt, I.Boutron, T.C.Hoffman, C.D.Mulrow, D.Moher, \*et al.\*
+The PRIMSA 2020 statement: An updating guideline for reporting systematic reviews
+BMJ (2021)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20PRIMSA%202020%20statement%3A%20An%20updating%20guideline%20for%20reporting%20systematic%20reviews&publication\_year=2021&author=M.J.%20Page&author=J.E.%20McKenzie&author=P.M.%20Bossuyt&author=I.%20Boutron&author=T.C.%20Hoffman&author=C.D.%20Mulrow&author=D.%20Moher)
+61. [Papert, 1980](#bbib64)
+S.Papert
+Mindstorms: Children, computers, and powerful ideas
+Basic Books, Inc (1980)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Mindstorms%3A%20Children%2C%20computers%2C%20and%20powerful%20ideas&publication\_year=1980&author=S.%20Papert)
+62. [Papert and Harel, 1991](#bbib65)
+S.Papert, I.Harel (Eds.), Constructionism: Research reports and essays, 1985-1990, Ablex publishing corporation (1991)
+[Google Scholar](https://scholar.google.com/scholar?q=Papert%2C%20S.%2C%20%26%20Harel%2C%20I.%20(Eds.).%20(1991).%20Constructionism%3A%20research%20reports%20and%20essays%2C%201985-1990.%20Ablex%20publishing%20corporation.)
+63. [Papert and Solomon, 1971](#bbib66)
+S.Papert, C.Solomon
+Twenty things to do with a computer
+(1971)
+Cambridge, MA
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Twenty%20things%20to%20do%20with%20a%20computer&publication\_year=1971&author=S.%20Papert&author=C.%20Solomon)
+64. [Parker et al., 2019](#bbib67)
+C.Parker, S.Scott, A.Geddes
+Snowball sampling
+SAGE research methods foundations (2019)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Snowball%20sampling&publication\_year=2019&author=C.%20Parker&author=S.%20Scott&author=A.%20Geddes)
+65. [Piaget, 1977](#bbib68)
+J.Piaget
+The development of thought: Equilibration of cognitive structures
+Viking (1977)
+Trans A. Rosin)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20development%20of%20thought%3A%20Equilibration%20of%20cognitive%20structures&publication\_year=1977&author=J.%20Piaget)
+66. [Piaget, 2000](#bbib69)
+J.Piaget
+Piaget's theory of cognitive development. Childhood cognitive development
+The essential readings, 2 (7) (2000), pp. 33-47
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Piagets%20theory%20of%20cognitive%20development.%20Childhood%20cognitive%20development&publication\_year=2000&author=J.%20Piaget)
+67. [Poel, 2020](#bbib70)
+I.V.D.Poel
+Three philosophical perspectives on the relation between technology and society, and how they affect the current debate about artificial intelligence
+Human Affairs, 30 (4) (2020), pp. 499-511
+[Crossref](https://doi.org/10.1515/humaff-2020-0042)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Three%20philosophical%20perspectives%20on%20the%20relation%20between%20technology%20and%20society%2C%20and%20how%20they%20affect%20the%20current%20debate%20about%20artificial%20intelligence&publication\_year=2020&author=I.V.D.%20Poel)
+68. [Quille et al., 2022](#bbib71)
+∗
+K.Quille, B.A.Becker, L.Vidal-Meliá
+The European commission and AI: Guidelines, acts and plans impacting the teaching of AI and teaching with AI
+Proceedings of the 54th ACM technical symposium on computer science education, Vol. 2 (2022), p. 1410
+1410
+[Crossref](https://doi.org/10.1145/3545947.3576353)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20European%20commission%20and%20AI%3A%20Guidelines%2C%20acts%20and%20plans%20impacting%20the%20teaching%20of%20AI%20and%20teaching%20with%20AI&publication\_year=2022&author=K.%20Quille&author=B.A.%20Becker&author=L.%20Vidal-Meli%C3%A1)
+69. [Relmasira et al., 2023](#bbib72)
+S.C.Relmasira, Y.C.Lai, J.P.Donaldson
+Fostering AI literacy in elementary science, technology, engineering, art, and mathematics (STEAM) education in the age of generative AI
+Sustainability, 15 (18) (2023), Article 13595
+[Crossref](https://doi.org/10.3390/su151813595)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85172889293&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Fostering%20AI%20literacy%20in%20elementary%20science%2C%20technology%2C%20engineering%2C%20art%2C%20and%20mathematics%20%20education%20in%20the%20age%20of%20generative%20AI&publication\_year=2023&author=S.C.%20Relmasira&author=Y.C.%20Lai&author=J.P.%20Donaldson)
+70. [Rizvi et al., 2023](#bbib73)
+S.Rizvi, J.Waite, S.Sentance
+Artificial intelligence teaching and learning in K-12 from 2019 to 2022: A systematic literature review
+Computers and Education: Artificial Intelligence (2023), Article 100145
+[View PDF](/science/article/pii/S2666920X23000243/pdfft?md5=5468b61794f63f9fac0ff1c18e614cb8&pid=1-s2.0-S2666920X23000243-main.pdf)[View article](/science/article/pii/S2666920X23000243)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85161689961&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20teaching%20and%20learning%20in%20K-12%20from%202019%20to%202022%3A%20A%20systematic%20literature%20review&publication\_year=2023&author=S.%20Rizvi&author=J.%20Waite&author=S.%20Sentance)
+71. [Rodríguez-García et al., 2021](#bbib74)
+J.D.Rodríguez-García, J.Moreno-León, M.Román-González, G.Robles
+Evaluation of an online intervention to teach artificial intelligence with learningml to 10-16-year-old students
+Proceedings of the 52nd ACM technical symposium on computer science education (2021), pp. 177-183
+[Crossref](https://doi.org/10.1145/3408877.3432393)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85103320988&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Evaluation%20of%20an%20online%20intervention%20to%20teach%20artificial%20intelligence%20with%20learningml%20to%2010-16-year-old%20students&publication\_year=2021&author=J.D.%20Rodr%C3%ADguez-Garc%C3%ADa&author=J.%20Moreno-Le%C3%B3n&author=M.%20Rom%C3%A1n-Gonz%C3%A1lez&author=G.%20Robles)
+72. [Schüller, 2022](#bbib75)
+∗
+K.Schüller
+Data and AI literacy for everyone
+Statistical Journal of the IAOS, 38 (2) (2022), pp. 477-490
+[Crossref](https://doi.org/10.3233/sji-220941)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85132365265&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Data%20and%20AI%20literacy%20for%20everyone&publication\_year=2022&author=K.%20Sch%C3%BCller)
+73. [Shamir and Levin, 2022](#bbib76)
+G.Shamir, I.Levin
+Teaching machine learning in elementary school
+International Journal of Child-Computer Interaction, 31 (2022), Article 100415
+[View PDF](/science/article/pii/S2212868921000994/pdfft?md5=1f131171404a0780085240dc42e00141&pid=1-s2.0-S2212868921000994-mainext.pdf)[View article](/science/article/pii/S2212868921000994)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85122188490&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teaching%20machine%20learning%20in%20elementary%20school&publication\_year=2022&author=G.%20Shamir&author=I.%20Levin)
+74. [Sinha et al., 2023](#bbib77)
+N.Sinha, R.F.Evans, M.Carbo
+Hands-on active learning approach to teach artificial intelligence/machine learning to elementary and middle school students
+2023 32nd wireless and optical communications conference (WOCC), IEEE (2023), pp. 1-6
+[Crossref](https://doi.org/10.1109/wocc58016.2023.10139678)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Hands-on%20active%20learning%20approach%20to%20teach%20artificial%20intelligencemachine%20learning%20to%20elementary%20and%20middle%20school%20students&publication\_year=2023&author=N.%20Sinha&author=R.F.%20Evans&author=M.%20Carbo)
+75. [Southworth et al., 2023](#bbib78)
+∗
+J.Southworth, K.Migliaccio, J.Glover, D.Reed, C.McCarty, J.Brendemuhl, A.Thomas
+Developing a model for AI across the curriculum: Transforming the higher education landscape via innovation in AI literacy
+Computers and Education: Artificial Intelligence, 4 (2023), Article 100127
+[View PDF](/science/article/pii/S2666920X23000061/pdfft?md5=4cb935046e2503845efbe58cccb5ffb8&pid=1-s2.0-S2666920X23000061-main.pdf)[View article](/science/article/pii/S2666920X23000061)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85147361242&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Developing%20a%20model%20for%20AI%20across%20the%20curriculum%3A%20Transforming%20the%20higher%20education%20landscape%20via%20innovation%20in%20AI%20literacy&publication\_year=2023&author=J.%20Southworth&author=K.%20Migliaccio&author=J.%20Glover&author=D.%20Reed&author=C.%20McCarty&author=J.%20Brendemuhl&author=A.%20Thomas)
+76. [Stolpe and Hallström, 2024](#bbib79)
+K.Stolpe, J.Hallström
+Artificial intelligence literacy for technology education
+Computers and Education Open, 6 (2024), Article 100159
+[View PDF](/science/article/pii/S2666557324000016/pdfft?md5=3dbf07c312a64c8a45fd2076197c9e3a&pid=1-s2.0-S2666557324000016-main.pdf)[View article](/science/article/pii/S2666557324000016)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85207170137&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20literacy%20for%20technology%20education&publication\_year=2024&author=K.%20Stolpe&author=J.%20Hallstr%C3%B6m)
+77. [Su and Yang, 2023](#bbib81)
+∗
+J.Su, W.Yang
+Artificial intelligence and robotics for young children: Redeveloping the five big ideas framework
+ECNU Review of Education (2023), Article 20965311231218013
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20and%20robotics%20for%20young%20children%3A%20Redeveloping%20the%20five%20big%20ideas%20framework&publication\_year=2023&author=J.%20Su&author=W.%20Yang)
+78. [Su and Yang, 2024](#bbib82)
+J.Su, W.Yang
+AI literacy curriculum and its relation to children's perceptions of robots and attitudes towards engineering and science: An intervention study in early childhood education
+Journal of Computer Assisted Learning, 40 (1) (2024), pp. 241-253
+[Crossref](https://doi.org/10.1111/jcal.12867)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85172301294&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20literacy%20curriculum%20and%20its%20relation%20to%20childrens%20perceptions%20of%20robots%20and%20attitudes%20towards%20engineering%20and%20science%3A%20An%20intervention%20study%20in%20early%20childhood%20education&publication\_year=2024&author=J.%20Su&author=W.%20Yang)
+79. [Tenório and Romeike, 2023](#bbib84)
+∗
+K.Tenório, R.Romeike
+AI Competencies for non-computer science students in undergraduate education: Towards a competency framework
+Proceedings of the 23rd koli calling international conference on computing education research (2023), pp. 1-12
+[Crossref](https://doi.org/10.1145/3631802.3631829)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI%20Competencies%20for%20non-computer%20science%20students%20in%20undergraduate%20education%3A%20Towards%20a%20competency%20framework&publication\_year=2023&author=K.%20Ten%C3%B3rio&author=R.%20Romeike)
+80. [Toivonen et al., 2020](#bbib85)
+T.Toivonen, I.Jormanainen, J.Kahila, M.Tedre, T.Valtonen, H.Vartiainen
+Co-designing machine learning apps in K–12 with primary school children
+2020 IEEE 20th international conference on advanced learning technologies (ICALT), IEEE (2020), pp. 308-310
+[Crossref](https://doi.org/10.1109/icalt49669.2020.00099)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85091134282&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Co-designing%20machine%20learning%20apps%20in%20K12%20with%20primary%20school%20children&publication\_year=2020&author=T.%20Toivonen&author=I.%20Jormanainen&author=J.%20Kahila&author=M.%20Tedre&author=T.%20Valtonen&author=H.%20Vartiainen)
+81. [Touretzky et al., 2019](#bbib86)
+∗
+D.Touretzky, C.Gardner-McCune, F.Martin, D.Seehorn
+Envisioning AI for K-12: What should every child know about AI?
+Proceedings of the AAAI Conference on Artificial Intelligence, 33 (1) (2019), pp. 9795-9799
+[Crossref](https://doi.org/10.1609/aaai.v33i01.33019795)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85090807995&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Envisioning%20AI%20for%20K-12%3A%20What%20should%20every%20child%20know%20about%20AI&publication\_year=2019&author=D.%20Touretzky&author=C.%20Gardner-McCune&author=F.%20Martin&author=D.%20Seehorn)
+82. [Touretzky et al., 2023](#bbib87)
+∗
+D.Touretzky, C.Gardner-McCune, D.Seehorn
+Machine learning and the five big ideas in AI
+International Journal of Artificial Intelligence in Education, 33 (2) (2023), pp. 233-266
+[Crossref](https://doi.org/10.1007/s40593-022-00314-1)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85140843109&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Machine%20learning%20and%20the%20five%20big%20ideas%20in%20AI&publication\_year=2023&author=D.%20Touretzky&author=C.%20Gardner-McCune&author=D.%20Seehorn)
+83. [UNESCO, 2005](#bbib88)
+UNESCO
+Retrieved from
+ (2005)
+[Google Scholar](https://scholar.google.com/scholar?q=UNESCO.%20(2005).%20Retrieved%20from%20https%3A%2F%2Funesdoc.unesco.org%2Fark%3A%2F48223%2Fpf0000142001)
+84. [Van Brummelen et al., 2019](#bbib89)
+∗
+J.Van Brummelen, J.H.Shen, E.W.Patton
+The popstar, the poet, and the grinch: Relating artificial intelligence to the computational thinking framework with block-based coding
+Proceedings of International Conference on Computational Thinking Education, 3 (2019), pp. 160-161
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85085608555&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20popstar%2C%20the%20poet%2C%20and%20the%20grinch%3A%20Relating%20artificial%20intelligence%20to%20the%20computational%20thinking%20framework%20with%20block-based%20coding&publication\_year=2019&author=J.%20Van%20Brummelen&author=J.H.%20Shen&author=E.W.%20Patton)
+85. [Waite et al., 2023](#bbib90)
+∗
+J.Waite, E.Tshukudu, V.Cucuiat, R.Whyte, S.Sentance
+Towards a framework for learning content analysis in K-12 AI/ML education
+2023 IEEE frontiers in education conference (FIE), IEEE (2023), pp. 1-5
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Towards%20a%20framework%20for%20learning%20content%20analysis%20in%20K-12%20AIML%20education&publication\_year=2023&author=J.%20Waite&author=E.%20Tshukudu&author=V.%20Cucuiat&author=R.%20Whyte&author=S.%20Sentance)
+86. [Wang, 2019](#bbib91)
+P.Wang
+On defining artificial intelligence
+Journal of Artificial General Intelligence, 10 (2) (2019), pp. 1-37
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85083006121&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=On%20defining%20artificial%20intelligence&publication\_year=2019&author=P.%20Wang)
+87. [Watson and Romic, 2023](#bbib92)
+S.Watson, J.Romic
+ChatGPT and the entangled evolution of society, education, and technology: A systems theory perspective
+European Educational Research Journal (2023), Article 14749041231221266
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=ChatGPT%20and%20the%20entangled%20evolution%20of%20society%2C%20education%2C%20and%20technology%3A%20A%20systems%20theory%20perspective&publication\_year=2023&author=S.%20Watson&author=J.%20Romic)
+88. [Wegerif, 2002](#bbib93)
+R.Wegerif
+Literature review in thinking skills, technology and learning
+(2002)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Literature%20review%20in%20thinking%20skills%2C%20technology%20and%20learning&publication\_year=2002&author=R.%20Wegerif)
+89. [Wegerif, 2006](#bbib94)
+R.Wegerif
+A dialogic understanding of the relationship between CSCL and teaching thinking skills
+International Journal of Computer-Supported Collaborative Learning, 1 (2006), pp. 143-157
+[Crossref](https://doi.org/10.1007/s11412-006-6840-8)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-33746137703&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20dialogic%20understanding%20of%20the%20relationship%20between%20CSCL%20and%20teaching%20thinking%20skills&publication\_year=2006&author=R.%20Wegerif)
+90. [Wegerif and Major, 2024](#bbib95)
+R.Wegerif, L.Major
+A dialogic theory of educational technology
+Education and dialogue in polarized societies: Dialogic perspectives in times of change (2024)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A%20dialogic%20theory%20of%20educational%20technology&publication\_year=2024&author=R.%20Wegerif&author=L.%20Major)
+91. [Wertsch, 2003](#bbib96)
+J.V.Wertsch
+Commentary on: Deliberation with computers: Exploring the distinctive contribution of new technologies to collaborative thinking and learning
+International Journal of Educational Research, 39 (8) (2003), pp. 899-904
+[View PDF](/science/article/pii/S0883035504001028/pdfft?md5=8b36683d3c053a541137438ab19610a4&pid=1-s2.0-S0883035504001028-main.pdf)[View article](/science/article/pii/S0883035504001028)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-13444278559&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Commentary%20on%3A%20Deliberation%20with%20computers%3A%20Exploring%20the%20distinctive%20contribution%20of%20new%20technologies%20to%20collaborative%20thinking%20and%20learning&publication\_year=2003&author=J.V.%20Wertsch)
+92. [Williams et al., 2024](#bbib97)
+R.Williams, S.Ali, R.Alcantara, T.Burghleh, S.Alghowinem, C.Breazeal
+Doodlebot: An educational robot for creativity and AI literacy
+Proceedings of the 2024 ACM/IEEE international conference on human-robot interaction (2024), pp. 772-780
+[Crossref](https://doi.org/10.1145/3610977.3634950)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85188430121&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Doodlebot%3A%20An%20educational%20robot%20for%20creativity%20and%20AI%20literacy&publication\_year=2024&author=R.%20Williams&author=S.%20Ali&author=R.%20Alcantara&author=T.%20Burghleh&author=S.%20Alghowinem&author=C.%20Breazeal)
+93. [Williams et al., 2019](#bbib98)
+R.Williams, H.W.Park, L.Oh, C.Breazeal
+Popbots: Designing an artificial intelligence curriculum for early childhood education
+Proceedings of the AAAI Conference on Artificial Intelligence, 33 (1) (2019), pp. 9729-9736
+[Crossref](https://doi.org/10.1609/aaai.v33i01.33019729)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85087622337&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Popbots%3A%20Designing%20an%20artificial%20intelligence%20curriculum%20for%20early%20childhood%20education&publication\_year=2019&author=R.%20Williams&author=H.W.%20Park&author=L.%20Oh&author=C.%20Breazeal)
+94. [Wu et al., 2019](#bbib99)
+C.J.Wu, D.Brooks, K.Chen, D.Chen, S.Choudhury, M.Dukhan, P.Zhang, \*et al.\*
+Machine learning at facebook: Understanding inference at the edge
+2019 IEEE international symposium on high performance computer architecture (HPCA), IEEE (2019), pp. 331-344
+[Crossref](https://doi.org/10.1109/hpca.2019.00048)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85064189318&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Machine%20learning%20at%20facebook%3A%20Understanding%20inference%20at%20the%20edge&publication\_year=2019&author=C.J.%20Wu&author=D.%20Brooks&author=K.%20Chen&author=D.%20Chen&author=S.%20Choudhury&author=M.%20Dukhan&author=P.%20Zhang)
+95. [Yau et al., 2022](#bbib100)
+K.W.Yau, C.S.Chai, T.K.Chiu, H.Meng, I.King, S.W.H.Wong, Y.Yam, \*et al.\*
+Developing an AI literacy test for junior secondary students: The first stage
+2022 IEEE international conference on teaching, assessment and learning for engineering (TALE), IEEE (2022), pp. 59-64
+[Crossref](https://doi.org/10.1109/tale54877.2022.00018)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85163883688&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Developing%20an%20AI%20literacy%20test%20for%20junior%20secondary%20students%3A%20The%20first%20stage&publication\_year=2022&author=K.W.%20Yau&author=C.S.%20Chai&author=T.K.%20Chiu&author=H.%20Meng&author=I.%20King&author=S.W.H.%20Wong&author=Y.%20Yam)
+96. [Yigitcanlar et al., 2020](#bbib101)
+T.Yigitcanlar, L.Butler, E.Windle, K.C.Desouza, R.Mehmood, J.M.Corchado
+Can building “artificially intelligent cities” safeguard humanity from natural disasters, pandemics, and other catastrophes? An urban scholar's perspective
+Sensors, 20 (10) (2020), p. 2988
+[Crossref](https://doi.org/10.3390/s20102988)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85085490306&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Can%20building%20artificially%20intelligent%20cities%20safeguard%20humanity%20from%20natural%20disasters%2C%20pandemics%2C%20and%20other%20catastrophes%20An%20urban%20scholars%20perspective&publication\_year=2020&author=T.%20Yigitcanlar&author=L.%20Butler&author=E.%20Windle&author=K.C.%20Desouza&author=R.%20Mehmood&author=J.M.%20Corchado)
+97. [Yim, 2023](#bbib102)
+I.H.Y.Yim
+Design of artificial intelligence (AI) education for primary schools: Arts-based approach
+Istes Books (2023)
+[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Design%20of%20artificial%20intelligence%20%20education%20for%20primary%20schools%3A%20Arts-based%20approach&publication\_year=2023&author=I.H.Y.%20Yim)
+98. [Yim and Su, 2024](#bbib103)
+I.H.Y.Yim, J.Su
+Artificial intelligence (AI) learning tools in K-12 education: A scoping review
+Journal of Computers in Education (2024), pp. 1-39
+[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85190760074&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial%20intelligence%20%20learning%20tools%20in%20K-12%20education%3A%20A%20scoping%20review&publication\_year=2024&author=I.H.Y.%20Yim&author=J.%20Su)
+99. [Yue et al., 2022](#bbib104)
+M.Yue, M.S.Y.Jong, Y.Dai
+Pedagogical design of K-12 artificial intelligence education: A systematic review
+Sustainability, 14 (23) (2022), Article 15620
+[Crossref](https://doi.org/10.3390/su142315620)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85143795606&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Pedagogical%20design%20of%20K-12%20artificial%20intelligence%20education%3A%20A%20systematic%20review&publication\_year=2022&author=M.%20Yue&author=M.S.Y.%20Jong&author=Y.%20Dai)
+100. [Zalasiewicz et al., 2011](#bbib105)
+J.Zalasiewicz, M.Williams, A.Haywood, M.Ellis
+The anthropocene: A new epoch of geological time?. Philosophical transactions of the royal society \*A: Mathematical, Physical and engineering sciences\*
+369 (1938) (2011), pp. 835-841
+[Crossref](https://doi.org/10.1098/rsta.2010.0339)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-79952328409&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The%20anthropocene%3A%20A%20new%20epoch%20of%20geological%20time.%20Philosophical%20transactions%20of%20the%20royal%20society%20A%3A%20Mathematical%2C%20Physical%20and%20engineering%20sciences&publication\_year=2011&author=J.%20Zalasiewicz&author=M.%20Williams&author=A.%20Haywood&author=M.%20Ellis)
+## Cited by (82)
+\* ### [Fostering responsible AI literacy: A systematic review of K-12 AI ethics education](/science/article/pii/S2666920X25000621)
+2025, Computers and Education Artificial Intelligence
+Show abstract
+AI ethics education remains significantly underprioritized in classroom practice, despite the global push for AI literacy in K-12 curricula. This systematic review analyzes 68 peer-reviewed publications (from January 2014 to March 2025) to map the research landscape of K-12 AI ethics education. The results reveal global trends in the current research landscape, pedagogical designs addressing major responsible AI (RAI) principles, and various learning assessment methods, and students’ ethical learning outcomes manifested across cognitive, affective, and behavioral domains. By further synthesizing findings, we identify disparities of eastern and western contexts, gaps in addressing RAI principles and emerging ethical issues, limitations of methodological methods, and issues in assessing ethical learning outcomes. Building on this synthesis, we propose a competency-based responsible AI literacy framework that reconceptualizes AI ethics as a transformative learning dimension that progressively permeates all the learning dimensions of AI literacy development. The framework also provides actionable insights to empower K-12 educators and policymakers in fostering students' responsible AI literacy. The review concludes with three future research directions to advance this critical field.
+\* ### [Empowering creativity and engagement: The impact of generative artificial intelligence usage on Chines EFL students' language learning experience](/science/article/pii/S2451958825000429)
+2025, Computers in Human Behavior Reports
+Show abstract
+Present study examines the impact of Generative Artificial Intelligence (GAI) like Use of ChatGPT on Language Learning Engagement and EFL Students Creativity among Chinese EFL students at the tertiary level in China. Present study aims to investigates the direct effects of Use of ChatGPT on Language Learning Engagement, impact of engagement on EFL students' creativity and the mediating role of engagement between Use of ChatGPT and EFL student ‘creativity thereby, the moderating effect of creative self-efficacy on Language learning engagement and EFL students’ creativity is also investigated. Present study uses quantitative empirical research design and the data were collected from n = 370 EFL students at Yangzhou University of China through a structured survey. Moreover, the analysis for present study was conducted using SPSS and PLS-SEM. The Findings reveal that ChatGPT use positively influences language engagement, enhancing creativity. Language Learning Engagement mediates the relationship between Use of ChatGPT and EFL student’s creativity, while creative self-efficacy significantly moderates the engagement and creativity. These results align with existing research, underscoring the importance of engagement in driving creativity and highlighting the role of self-efficacy in amplifying this effect. The study’s implications suggest that integrating Use of ChatGPT into EFL education can foster both engagement and creative outcomes, providing valuable insights for educators and policy-makers aiming to enhance language learning experiences. Future research could explore additional factors influencing the AI-engagement-creativity dynamic.
+\* ### [Artificial intelligence literacy education in primary schools: a review](https://doi.org/10.1007/s10798-025-09979-w)
+2025, International Journal of Technology and Design Education
+\* ### [Effects of Technology Perceptions, Teacher Beliefs, and AI Literacy on AI Technology Adoption in Sustainable Mathematics Education](https://doi.org/10.3390/su17083698)
+2025, Sustainability Switzerland
+\* ### [Gamification and Artificial Intelligence in Education: A Review of Innovative Approaches to Fostering Critical Thinking](https://doi.org/10.1109/ACCESS.2025.3576147)
+2025, IEEE Access
+\* ### [Unveiling AI literacy in K-12 education: a systematic literature review of empirical research](https://doi.org/10.1080/10494820.2025.2482586)
+2025, Interactive Learning Environments
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-85206796935&md5=e888722635cb94ce8425aa3d88d5b81b)
+\*\*Iris Heung Yue YIM\*\* is a Ph.D. student in the Faculty of Education at the University of Cambridge. Her research interests include artificial intelligence literacy, dialogic education, STEAM education, arts-based pedagogy, technologically enhanced pedagogic innovation, and early childhood and primary education.
+© 2024 The Author. Published by Elsevier Ltd.
+## Recommended articles
+\* ### [Artificial Intelligence Literacy: Developing a Multi-institutional Infrastructure for AI Education](/science/article/pii/S1076633222005165)
+Academic Radiology, Volume 30, Issue 7, 2023, pp. 1472-1480
+J.D.Perchik, …, H.Sotoudeh
+\* ### [AI literacy for users – A comprehensive review and future research directions of learning methods, components, and effects](/science/article/pii/S2949882124000227)
+Computers in Human Behavior: Artificial Humans, Volume 2, Issue 1, 2024, Article 100062
+MarcPinski, AlexanderBenlian
+[View PDF](/science/article/pii/S2949882124000227/pdfft?md5=67048bb47ad6e81dd544c466338d703f&pid=1-s2.0-S2949882124000227-main.pdf)
+\* ### [Integrating AI-based and conventional cybersecurity measures into online higher education settings: Challenges, opportunities, and prospects](/science/article/pii/S2666920X24001309)
+Computers and Education: Artificial Intelligence, Volume 7, 2024, Article 100327
+Medha Mohan AmbaliParambil, …, FadyAlnajjar
+[View PDF](/science/article/pii/S2666920X24001309/pdfft?md5=3fa361bf07412343fbbdf28a3df5b026&pid=1-s2.0-S2666920X24001309-main.pdf)
+\* ### [Enhancing teacher AI literacy and integration through different types of cases in teacher professional development](/science/article/pii/S2666557324000193)
+Computers and Education Open, Volume 6, 2024, Article 100178
+Ai-Chu ElishaDing, …, IkseonChoi
+[View PDF](/science/article/pii/S2666557324000193/pdfft?md5=a1b6ec2678373f52883e55e40221b69a&pid=1-s2.0-S2666557324000193-main.pdf)
+\* ### [Examining artificial intelligence literacy among pre-service teachers for future classrooms](/science/article/pii/S266655732400020X)
+Computers and Education Open, Volume 6, 2024, Article 100179
+Musa AdekunleAyanwale, …, Adebayo MonsurIshola
+[View PDF](/science/article/pii/S266655732400020X/pdfft?md5=aec328a2d89d5b09074f94f147bf9aef&pid=1-s2.0-S266655732400020X-main.pdf)
+\* ### [Overview and confirmatory and exploratory factor analysis of AI literacy scale](/science/article/pii/S2666920X24001139)
+Computers and Education: Artificial Intelligence, Volume 7, 2024, Article 100310
+Martin J.Koch, …, AstridCarolus
+[View PDF](/science/article/pii/S2666920X24001139/pdfft?md5=bfdc9f755ca9da05a18071720ee35d9f&pid=1-s2.0-S2666920X24001139-main.pdf)
+Show 3 more articles
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2666920X2400122X)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

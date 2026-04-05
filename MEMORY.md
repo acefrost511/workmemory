@@ -148,8 +148,3 @@ TICAL PLATFORM RULES (always enforce, never override):
    - NEVER run: openclaw doctor --fix, openclaw config fix, or any command that auto-modifies openclaw config.
    - Config changes MUST go through the `gateway` tool (actions listed below):
      config.get — read config, returns { raw: JSON5, hash: SHA256 }.
-     config.patch — deep-merge partial update. Params: raw (required, JSON5 object), baseHash, n...
-
-[assistant]: 好文档，内容非常完整。臣仔细读完，做了一个系统性分析：
-
----

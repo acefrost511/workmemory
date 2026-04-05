@@ -1,0 +1,721 @@
+# Source URL: https://link.springer.com/chapter/10.1007/978-3-031-09687-7_7
+# Content Length: 64619 characters
+# Extracted at: 2026-04-05 05:26:15
+#============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Analysis and Improvement of Classroom Teaching Based on Artificial Intelligence | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main-content)
+
+Advertisement
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/chapter/10.1007/978-3-031-09687-7_7)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+
+1. [Home](/)
+2. [AI in Learning: Designing the Future](/book/10.1007/978-3-031-09687-7)
+3. Chapter
+
+Analysis and Improvement of Classroom Teaching Based on Artificial Intelligence
+===============================================================================
+
+* Chapter
+* Open Access
+* First Online: 27 November 2022
+
+* pp 105–121
+* [Cite this chapter](#citeas)
+
+
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) chapter
+
+[Download book PDF](/content/pdf/10.1007/978-3-031-09687-7.pdf)
+
+[Download book EPUB](/download/epub/10.1007/978-3-031-09687-7.epub)
+
+
+
+
+
+[![]()
+
+AI in Learning: Designing the Future](/book/10.1007/978-3-031-09687-7)
+
+
+
+
+
+
+Analysis and Improvement of Classroom Teaching Based on Artificial Intelligence
+
+[Download book PDF](/content/pdf/10.1007/978-3-031-09687-7.pdf)
+
+[Download book EPUB](/download/epub/10.1007/978-3-031-09687-7.epub)
+
+
+
+
+
+* [Zhong Sun](#auth-Zhong-Sun)[4](#Aff4),
+* [Zi Chun Yu](#auth-Zi_Chun-Yu)[4](#Aff4) &
+* [Fei Yun Xu](#auth-Fei_Yun-Xu)[4](#Aff4)
+
+* 23k Accesses
+* 4 Citations
+
+
+
+
+Abstract
+--------
+
+Common classroom teaching analysis, which has focused on counting and coding the teacher-student behaviors and discourse interactions, faces many difficulties as content-free, low efficiency, and small scale in analysis. To overcome these shortcomings, and foster high-quality classroom teaching, the current study proposes a blended human and Artificial Intelligence (AI) technology for classroom teaching analysis named as TESTII. It consists of five steps identifying teaching events, sequencing the pedagogies of classroom teaching structure, analyzing teacher-student interaction, interpreting teaching meaning, and providing improvement strategies for high-quality classroom teaching.
+
+
+You have full access to this open access chapter, 
+[Download chapter PDF](/content/pdf/10.1007/978-3-031-09687-7_7.pdf?pdf=inline%20link)
+
+
+
+
+
+
+### Similar content being viewed by others
+
+![]()
+### [The Analysis Path of Classroom Teacher Behavior Supported by Artificial Intelligence](https://link.springer.com/10.1007/978-981-16-6502-8_20?fromPaywallRec=false)
+
+Chapter
+© 2021
+
+
+
+
+![]()
+### [Application of artificial intelligence visual analysis technology in classroom English teaching evaluation](https://link.springer.com/10.1007/s44163-025-00258-0?fromPaywallRec=false)
+
+Article
+Open access
+12 April 2025
+
+
+
+
+![]()
+### [Introduction](https://link.springer.com/10.1007/978-3-031-32653-0_1?fromPaywallRec=false)
+
+Chapter
+© 2023
+
+
+
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Classroom management](/subjects/classroom-management)
+* [Computational Intelligence](/subjects/computational-intelligence)
+* [Education Science](/subjects/education-science)
+* [Instructional Theory](/subjects/instructional-theory)
+* [Learning and Instruction](/subjects/learning-and-instruction)
+* [Artificial Intelligence](/subjects/artificial-intelligence)
+* [Smart Classroom Technologies and Learning Environments](/subjects/smart-classroom-technologies-and-learning-environments)
+
+1 Introduction
+--------------
+
+The classroom is the core environment for teaching and learning and provides a complex, multielement interwoven real situation. Classroom teaching plays an important role for achieving high-quality education. Thus, many scholars have put efforts into classroom teaching analysis and efforts for improvements employing quantitative and qualitative methods since the last century (Jacobs et al. [1999](#ref-CR21)). For example, the quantitative analysis such as Student-Teacher analysis method (Cheng et al. [2018](#ref-CR4)) and Flanders Interaction Analysis System (FIAS; Flanders [1963](#ref-CR9)) are based on time-coding analysis. The qualitative analysis is mainly reflected in the analysis of teaching activities and the content of courses (Hatun Ataş and Delialioğlu [2018](#ref-CR14)).
+
+However, common classroom teaching analysis, which is based on coding and counting behaviors and discourse interactions between teacher and students, has been criticized as content-free and low efficiency. With the rapid development of the Artificial Intelligence (AI) technology, applications of AI provide significant new methods to the field of teaching analysis. The AI technologies integrated into learning environment promise totally new tools for classroom teaching analysis. Specific, new capabilities to computing, including sensing, recognizing patterns, representing knowledge, making and acting on plans, and supporting naturalistic interactions with people (Roschelle et al. [2020](#ref-CR37)) have become potential research methods for analysis on interactions between teacher and students.
+
+Therefore, the aim of the chapter is to analyze effective framework and key technologies to conduct classroom teaching analysis and improvement based on the AI. Two research questions are raised as follows:
+
+1. 1.
+   
+   What could be the effective and comprehensive analysis perspectives for classroom teaching to overcome the shortcoming of common research methods that are often time coding and require activity coding?
+2. 2.
+   
+   How to use AI technologies to empower classroom teaching analysis and improvement?
+
+2 Literature Review
+-------------------
+
+### 2.1 Classroom Teaching Analysis
+
+#### 2.1.1 Time Coding
+
+Since the 1970s, time coding on observing in a live classroom or using video tape recording has been applied in the area of classroom teaching quantitative analysis. Researchers cataloged and counted various kinds of behaviors, interactions, or verbal communications between teachers and students during the whole lesson time every 3 s or 15 s, then calculated the total numbers or frequency of each code to draw a conclusion about the teaching styles or qualities.
+
+For instance, The Flanders Interaction Analysis System (FIAS) and Student-Teacher (S-T) analysis have been applied for verbal and behavior analysis, respectively, since last century. Flanders Interaction Analysis Categories (FIAC) provided a Ten Category System of coding classroom communication. Seven categories for teacher talk, two for pupil talk, and the tenth category for silence or confusion (Flanders [1963](#ref-CR9)). S-T analysis is a quantitative analysis method which simplifies behaviors into two types as teacher behaviors (T) and student behaviors (S) in the lesson time. To improve the efficiency of classroom observation and the accuracy of data, behavioral data is collected every 30 s. Finally, the classroom teaching model was analyzed according to the frequency of behavior conversion and teacher behavior occupancy, which provided a basis for teaching evaluation and theoretical research (Gui et al. [2020](#ref-CR12)).
+
+Although the theory and practice of time-coding classroom interaction segments is a century old, many scholars still use the method for classroom interaction analysis (Amatari [2015](#ref-CR1)), even promoting the original FIAS coding system into the Information Technology-Based Interaction Analysis System (ITIAS) to keep up with the times (Gu and Wang [2004](#ref-CR13)). Some scholars conduct S-T method on videos from several Massive Open Online Courses (MOOC) to detect different teaching styles Sun and Ma ([2012](#ref-CR44)).
+
+In general, the time-coding methods shed a light on the quantitative classroom teaching analysis by making behavior or discourse codable and countable. However, time-coding method had to face the inevitable shortcomings like content-free, hard to explain the authentic teaching meaning, and failing to provide valuable feedback for teachers to reflect on and adjust their classroom teaching design and implementation.
+
+#### 2.1.2 Activity Coding
+
+The classroom is a teaching and learning system composed of two dimensions as time and space. The dimension of space could be presented with the activities of teaching and learning. Therefore, some researchers took space into consideration to analyze classroom interactions by applying sampling activities or activity-coding method.
+
+For instance, Rowntree ([1990](#ref-CR36)) cataloged learning activities in the classroom into five types: reporting observations or experiences, retelling facts or principles, distinguishing different concepts and principles from examples, enumerating examples, applying new concepts and principles. Mishra and Gaba ([2001](#ref-CR32)) suggested analyzing learning activities from two dimensions as questions and reflective actions. Horton ([2012](#ref-CR17)) proposed that learning activities should be grouped into absorption activities, doing activities and associative activities. Mu and Zhu ([2015](#ref-CR33)) constructed the Teaching Behavior Analysis System with three types of information-based classroom activities including teaching activities, learning activities, and meaningless activities.
+
+Although activity coding had taken content and authentic teaching meaning into consideration which overcame some disadvantages of time coding in some extent, it still failed to answer the problems. Firstly, did all activities deserve to be analyzed if some failed to support the learners’ cognitive processes of learning? Secondly, could all kinds of activities possibly be cataloged and analyzed with common agreements on classified rules? If time and activity are not appropriate coding dimensions for classroom analysis, then what should be?
+
+#### 2.1.3 Event Coding
+
+Events of instruction might be the potential answer. Originally proposed by R. Gagné, who is best known for the theories of learning outcomes, learning conditions, and nine events of instruction, the events refer to a series of external stimulus to promote learning in the learner’s cognitive processing (Gagné [1970](#ref-CR10)) (Table [1](#Tab1)).
+
+**Table 1 Nine events of instruction (Gagné [1970](#ref-CR10))**
+
+[Full size table](/chapter/10.1007/978-3-031-09687-7_7/tables/1)
+
+Based on the nine events of instruction, scholars and practitioners refined and applied the theories into practice from multiple school levels and subjects like website design (Zhu and Amant [2010](#ref-CR47)), medical teaching (Goode [2018](#ref-CR11)), physics teaching in junior high school (Huang [2015](#ref-CR18)), information technology in university (Jing [2012](#ref-CR23)), and graphic design in secondary vocational school (Zhang [2019](#ref-CR46)).
+
+Compared with time and activity-coding methods, event coding provides several advantages for classroom analysis. First, events play a vital role in stimulating learners’ cognitive processing. Not all activities could be regarded as events of instructions, but events are all valid activities for learning. Second, the kinds of events are limited in number, with clear rules of classification. Therefore, this study identified event coding as the appropriate dimension for classroom analysis.
+
+### 2.2 Improvement of Classroom Teaching
+
+#### 2.2.1 Purpose of Teaching Improvement
+
+Classroom improvement is a continuous cycle of constantly discovering and improving problems in real teaching situations. Mehan ([1979](#ref-CR30)) proposed a tripartite model of interaction (initiation–response–feedback), which intends to emphasize that feedback is an important tool for promoting classroom interaction and improving classroom teaching through effective feedback. Therefore, the development of teachers and the improvement of teaching quality cannot be separated from teaching improvement.
+
+In early studies, some scholars attempted to improve the classroom quality from different perspectives. For instance, Seldin ([2010](#ref-CR39)) used students’ feedback to judge teachers’ behavior with suggestions as improving the quality of education through group teaching diagnosis. Ellis ([1990](#ref-CR8)) analyzed teaching behaviors and evaluated teacher performance through the indicators of recommended teaching behaviors. According to the analysis results, the recommended teaching behaviors include giving students feedback, talking about students’ thinking, suggesting extended activities, and calling attention to the competencies of low-status students. Stanulis et al. ([2012](#ref-CR43)) considered classroom discussion as a point of improvement and took classroom discussions as a high-leverage practice to effective teaching.
+
+To sum up, the aforementioned researches decomposed the analysis elements of classroom teaching into various dimensions such as teachers and students’ behavior, teaching activities, students’ feedback, and so on. Although these elements are vital and necessary to the classroom, lack of inclusive and systematic destination made practitioners confused about the analysis results. What is behind the behaviors? What is deep reason for behaviors or discourse analysis? The classroom teaching is a compound structural system. As Bryk et al. ([2011](#ref-CR2)) noted that rather than thinking about the proven effectiveness of a tool, routine, or some other instructional resource, improvement research directs efforts toward understanding how such methods can be adaptively integrated with efficacy into varied contexts. Therefore, we need found an inclusive and systematic perspective for classroom analysis and improvement. What it should be? Teaching structure.
+
+No matter what kinds of educational settings like formal or informal, Western or Eastern, old times or nowadays, there are always four important components in a teaching and learning environment as teacher, student, learning contents, and media. The dynamic and systemic relationships among the four components in various teaching and learning contexts are named as teaching structure. Chinese scholar He ([2002](#ref-CR15)) defined the teaching structure as clear, stable, and on purpose teaching practice plan which embodied different pedagogies. He summarized out three teaching structures as the teacher-centered, student-centered, and teacher-guided-student-centered structures. According to He ([2002](#ref-CR15)), each teaching structure has reasonable application to achieve specific learning goals, but the teacher-guided-and-student-centered structure plays the most important role for students’ growth in the classroom or school setting. Therefore, revealing the relationships of the four components and detecting the teaching structure of classroom became the fundamental and inclusive destination for teaching analysis and improvement.
+
+#### 2.2.2 Methods of Teaching Improvement
+
+As the next step of classroom analysis, improving the quality of classroom teaching has been explored continuously in the recent decades. Some of these methods are introduced in this section.
+
+Lesson study is a professional development method that originated from Japan, and centers on the collaborative study of live classroom observation, analysis, and improvement have spread rapidly since 1999 (Lewis et al. [2006](#ref-CR26)). For instance, math teachers from the USA have applied this intervention pattern for carrying out case studies, including four lesson study features (i.e., investigation, planning, research lesson, and reflection) and three pathways through which lesson study improves instruction (i.e., changes in teachers’ knowledge and beliefs, professional community, and teaching–learning resources) (Lewis et al. [2009](#ref-CR27)). A framework for conducting lesson study in a teacher development project in Austria established a checklist for research lesson planning to frame teacher and student learning. The framework established the criteria for evaluating teacher behavior and learning and their effects on student learning (Mewald and Mürwald-Scheifinger [2019](#ref-CR31)).
+
+Action research is another research tool for improving classroom teaching. Research indicates that a carefully designed action research project can effectively capture the attention of faculty and administrators and achieve teaching improvement objectives (Cook et al. [2007](#ref-CR5)).
+
+Since the beginning of the twenty-first century, the vigorous development of information technology has brought technological innovation into classroom improvement methods. The time and activity-coding limitations in classroom analysis have been addressed to some extent toward a new level by the integration of cutting-edge technologies. For example, the Classroom Assessment Scoring System observed 180 early childhood classrooms and pointed out problems that should be improved in teaching (Hu et al. [2016a](#ref-CR20)). Digital Interactive Video Exploration and Reflection (Pea and Lindgren [2008](#ref-CR34)) applied the look–notice–comment strategy and a specific software to support the analysis and improvement of teaching after analyzing teaching practice videos (Derry et al. [2010](#ref-CR7)). The Learning Cell platform supports site classroom observation with a mobile application and records before, during, and after class teaching behaviors. After class, teachers in a group engage in a collaborative improvement discussion based on the analysis results (Chen et al. [2018](#ref-CR3)). The Learning Instruction Curriculum and Culture (LICC) model is a classroom observation and evaluation theory framework and uses a series of evaluation tools (Cui [2012](#ref-CR6)). The LICC has 4 dimensions and 68 observation points for classroom teaching. After on-site observation, teachers who use LICC tools record and identify specific problems of the current lesson. Then, the teachers show the analysis results and provide feedback for improvement. Measuring Effective Teaching (MET) was initiated by the Bill and Melinda Gates Foundation ([2013](#ref-CR24)) to improve the quality of teaching. MET describes three approaches to measuring different aspects of teaching, namely, student surveys, video recorded classroom observations, and student achievement gains on state tests. The findings suggest that the existing measures of teacher effectiveness provide important and useful information on the causal effects that teachers have on students’ outcomes. However, problems in both non-tech- and technology-based improvement methods remain.
+
+First, the evidence of the connection between analysis results and improvement solutions is insufficient. Regardless of the communication after classroom observation (oral or written), most of the feedback about improvement is based on personal teaching experience.
+
+Second, some quantitative research methods focus on a single element, such as behaviors and discourse. However, class is a complex setting containing multimodal data. Evidence from different resources should be considered.
+
+Third, descriptive statistics of the analysis data fail to need effective improvement. In addition to the frequency statistics and percentage calculation of the behaviors or discourse in the classroom, the teaching structure and the specific strategies embody an important educational meaning.
+
+In summary, on the basis of the current research achievements in theory and practice, new methods and technologies should be explored to take classroom teaching analysis and improvement to the next level.
+
+3 Methodology
+-------------
+
+In this chapter, an AI-supported classroom teaching analysis framework is proposed named as TESTII (Fig. [1](#Fig1)). The current TESTII framework is based on the nine major teaching events of Gagné, and the analysis is carried out in the cognitive way of teachers’ teaching. TESTII includes the following analysis phases and key techniques.
+
+**Fig. 1**
+
+[![]()](/chapter/10.1007/978-3-031-09687-7_7/figures/1)
+
+TESTII framework: AI-supported classroom teaching analysis
+
+[Full size image](/chapter/10.1007/978-3-031-09687-7_7/figures/1)
+### Step 1: Identifying Teaching Events
+
+As mentioned above, teaching events approach overcomes the time and activity-coding limitations with the advantages of improving the efficiency of classroom teaching analysis and effectively establishing connections between the quantitative structure and the meaning understanding. Therefore, identifying different teaching events is the first step of TESTII analysis.
+
+Teaching events can be extracted and identified from the lesson plan and classroom teaching videos of each teaching case. Lesson plans are mainly composed of texts. Therefore, the use of natural language processing (NLP) and computer vision (CV) technologies to analyze texts and videos and identify teaching events has become the key approach in this stage. Compared with the common method of relying on manual classroom observation, the use of CV/NLP technology has significant advantages in time and resource savings but fails to recognize the deep meaning of the word, accurately locate the changing expressions of the same type of activities or events, and find the meaningful sequence in the teaching structure. Therefore, the human–machine cooperation mode is adopted for the recognition of teaching events, and the specific analysis steps are as follows.
+
+The first stage involves the collection of videos of each lesson and the random selection of static images. The researchers classify part of the scene data, and these labelled data are used as the training set to train the neural network model of scene classification. Then, computer vision technology is applied to detect the key scenes and cut the video into pieces for possible teaching events recognition (Fig. [2](#Fig2)).
+
+**Fig. 2**
+
+[![]()](/chapter/10.1007/978-3-031-09687-7_7/figures/2)
+
+Detecting the key scenes of classroom teaching by computer vision
+
+[Full size image](/chapter/10.1007/978-3-031-09687-7_7/figures/2)
+
+Second, NLP technology is applied to select teaching events using key words of every event. The researchers divide the teaching events into labels and mark texts to form corresponding judgment rules. Then, deep learning model Word2vec is used to generate an event classifier on the basis of the gate recurrent unit (GRU) to judge the accuracy of the model. Furthermore, the specific teaching event was recognized through NLP technology, and the time distribution map of teaching events for a lesson could be generated visually as shown in Fig. [3](#Fig3).
+
+**Fig. 3**
+
+[![]()](/chapter/10.1007/978-3-031-09687-7_7/figures/3)
+
+Sample diagram of time distribution of teaching events
+
+[Full size image](/chapter/10.1007/978-3-031-09687-7_7/figures/3)
+
+After using the aforementioned method to identify the teaching events, the study found that some classrooms did not have all the nine teaching events. For example, several teachers did not stimulate the recall of the previous learning but directly informed the learners of the objectives. The phenomenon results in some teaching events being left blank in the statistics. Therefore, the TESTII framework groups the nine teaching events into teaching phases.
+
+Actually, grouping teaching events into phases is not a new idea. Gagné classified the nine teaching events into three teaching phases, namely, preparation, instruction, and practice, and assessment and transfer (Gagné [1970](#ref-CR10)). On this basis, Indian scholars Mishra and Gaba ([2001](#ref-CR32)) divided 15 teaching events into four teaching phases including introduction, new knowledge teaching, conclusion, and evaluation. In combination with the existing research results and our classroom observation, this study grouped nine teaching events into four teaching phases as introduction, new knowledge teaching, conclusion, and migration, as shown in Table [2](#Tab2).
+
+**Table 2 Nine teaching activities and teaching phases**
+
+[Full size table](/chapter/10.1007/978-3-031-09687-7_7/tables/2)
+### Step 2: Sequencing Pedagogical Structure
+
+The significant value of classroom teaching analysis is to identify high-quality teaching. Chinese scholar He ([2002](#ref-CR15)) proposed that the teacher-guided and student-centered teaching structure is the foundation of high-quality teaching and learning in the classroom. In He’s opinion, the teaching structure refers to the stable structural form of the teaching process under the guidance of certain educational ideas and teaching and learning theories. This structure is the concrete embodiment of the interaction between the four components of the teaching system, namely, teachers, students, content, and media. However, the teaching structure is a macrolevel theory, and specific and relatively microlevel theories should be applied to directly identify the structure.
+
+Sequencing of Pedagogical Structure (SPS), proposed by Jacobson et al. ([2013](#ref-CR22)), regards the teacher-centered direct instruction and student-centered learning as two poles. According to the proportion of teacher guidance or student discovery learning in different teaching phases, the SPS marked the phase with H or h means large or small proportion of the direct instruction of the specific stage, same for L and l about the discovery learning.
+
+The SPS theory showed advantage in analyzing the teaching structure to some extent, but it failed to address the roles of teachers and students in the different phases. Therefore, this study introduced Schulman’s classification of teacher roles (Scheurman [1998](#ref-CR38)) to facilitate coding for SPS as seen in Table [3](#Tab3).
+
+**Table 3 Teacher and student roles in the SPS**
+
+[Full size table](/chapter/10.1007/978-3-031-09687-7_7/tables/3)
+
+Combining the theories of SPS and teacher roles, this study analyzed four lessons as example A, B, C, and D. Results are shown in Table [4](#Tab4). Time sequence is presented as well. The plus sign (+) indicates simultaneous pedagogies, while the arrow (→) indicates the sequence. The most common sequence in teaching is the high-to-low (H→L) sequence, such as a lecture followed by unsupervised homework, while the low teaching structure sequence (L→H) is probably the least common (Hu et al. [2016b](#ref-CR19)).
+
+**Table 4 Example of four lessons with SPS coding**
+
+[Full size table](/chapter/10.1007/978-3-031-09687-7_7/tables/4)
+
+To apply NLP technology, a teaching method structure sequence classifier should be established first. The input of the classifier is textual data, which contains contextual information. For a better understanding of the meaning of a sentence or word in the input data, the attention mechanism is introduced, which has the advantage of being able to intuitively explain the text content and show the importance of different sentences and words to the classification category. Sentence core words and event core sentences can be determined by the attention mechanism. The sequence of the teaching method structure is given by modeling sentences and chapters in text data.
+
+### Step 3: Time Coding for Interaction
+
+Interactions between the teacher and the students in the classroom are important indicators of high-quality classroom teaching. Compared with the traditional single resource analysis methods, such as FIAS or S-T behaviors, TESTII conducts multimodal recognition via visual and auditory fusion on behaviors and discourse (Fig. [4](#Fig4)). Instead of sampling the entire lesson through the time process, time coding is adopted within the teaching phases composed of teaching events. Then, the teacher-student interaction is analyzed in this stage, providing evidence for interpreting the teaching method structure sequence in the lesson examples.
+
+**Fig. 4**
+
+[![]()](/chapter/10.1007/978-3-031-09687-7_7/figures/4)
+
+Multimodal recognized analysis for interaction
+
+[Full size image](/chapter/10.1007/978-3-031-09687-7_7/figures/4)
+
+To analyze the teacher-student dialogical interaction in different teaching phases, this study divided the teaching events into labels firstly and marked texts to form specific judgment rules. Subsequently, Word2vec, a deep learning model of natural language understanding, is used to train and verify the data. Then complete the automatic classification, analysis, and statistics of dialogical interaction in the current teaching phases.
+
+As for the analysis dimension about behavioral interaction, the teaching scene is preliminarily classified according to the static frames. Then, the key interactive devices in the video are detected through the target detection method. Finally, the actions of teachers and students are identified based on the deep convolutional neural network method. For instance, computer vision technology can judge the behaviors in the video like raising hand, walking, standing, writing on the blackboard, operating the tablet, and so on through matrix identification. Based on the analysis results, the features of teaching and learning behaviors could be figured out automatically.
+
+### Step 4: Interpreting the Result of Analysis
+
+The explainability of the decision made and the actions taken is the core appeal of the future development of artificial intelligence and the premise of man–machine mutual trust. Teachers are not professional data analysts and thus require explanations that are easy to understand and conform to the rules of education and teaching to help them understand the analysis results of the machine, such as data content analysis, analysis of logic, analysis results, and problems identified.
+
+On the basis of the aforementioned three steps, an interpretable, evidence-based visual analysis report is presented in Step 4. The report includes the number and time distribution diagram of teaching events in a lesson, the sequencing of the pedagogical structures of the classroom teaching, and the interaction of behaviors and discourse within each teaching event. A readable, effective, and persuasive data analysis report will help teachers implement specific teaching improvements while improving the credibility of teaching improvement plans, facilitating the transformation of data-driven teaching analysis to knowledge-driven teaching decisions.
+
+### Step 5: Improving Strategies Recommended
+
+Providing effective improvement strategies for teachers on the basis of the analysis results of classroom teaching is the last and the most valuable step. According to the analysis results, the features of classroom teaching are identified. Then, the features are classified into kinds of teaching problems, such as teacher-centered structure and passive learning. Subsequently, the problems are matched with the database of effective teaching strategies and cases, which are recommended. Following the instruction and recommendation, which are collaboratively developed by the human–AI system, the teachers improve the teaching structure. The proposed AI-based analysis method takes the classroom as the main analysis object and it provides opportunities to build a flowchart model of classroom teaching analysis and improvements using Analysis–Problems–Strategies–Practice (APSP) method (Fig.[5](#Fig5)).
+
+**Fig. 5**
+
+[![]()](/chapter/10.1007/978-3-031-09687-7_7/figures/5)
+
+APSP cycle
+
+[Full size image](/chapter/10.1007/978-3-031-09687-7_7/figures/5)
+
+The APSP model draws lessons from the core idea of “problem-solving and continuous inquiry learning” in the improvement science to identify shortcomings in teaching and improve teaching quality effectively.
+
+The APSP cycle aims to answer four questions about the teaching improvement. (1) Analysis: What are the characteristics of the class? (2) Problems: What specifically are we trying to accomplish? (3) Strategies: What change(s) might we introduce and why? (4) Practice: How will we know that a change is actually an improvement?
+
+To answer the four questions, the current chapter conducted four steps. Firstly, detecting the features or characteristics of the classroom teaching for further analysis; secondly, the features are categorized in different teaching structure types to address the problems; then, recommended teaching strategies for improvement matched to problems; finally, the strategies are applied to the teaching practice to improve the teaching quality.
+
+Meanwhile, the APSP model integrated AI and human–AI technologies for recommended improvement strategies. In the beginning of our research process, experienced K12 teachers are invited as human experts to analyze many lessons and propose improvement strategies according to various problems. The experts’ opinions and wisdom are classified into “question–strategy” pairs and stored in the database for machine learning. Then the experts are invited again to ensure or revise the “question–strategy” pairs created by machine learning which construct the human–AI collaboration improvement mechanism in the APSP model.
+
+4 Conclusion
+------------
+
+The chapter summarizes the development of classroom teaching analysis and improvement. Aiming at the problems encountered in the current stage, the TESTII framework of artificial intelligence is proposed to support classroom teaching analysis, taking teaching events as the basic analysis dimension, and forming five steps for teaching improvement.
+
+Future teaching analysis would benefit from the integration with AI technologies. AI has the potential to make powerful impacts on the future of teaching and learning, which are reflected in the learning scene and the teaching process. AI for learning provides many applications and multimodal channels for supporting people in cognitive and noncognitive task domains (Niemi [2021](#ref-CR16)).
+
+TESTII framework has some limitations. The analysis of classroom teaching is based on event coding followed the Gagné’s nine teaching events theory which is teacher-centered perspectives. Therefore, the student-centered classroom such as inquiry-based learning, discovery learning should be considered in the future. The other shortcoming is that the major lessons are from elementary Math classroom. We would expand the research lesson database in the future.
+
+In summary, the TESTII would keep on building multimodal analysis and human-AI integrated improvement mechanisms to optimize the quality of classroom teaching and learning. In follow-up research, artificial intelligence technology is expected to be applied to teaching practice and integrated into the main process of education, so as to form a deep integration of artificial intelligence and normal classroom teaching and make a high impact on the quality of teaching and learning in classrooms.
+
+
+
+References
+----------
+
+* Amatari, V.O. (2015). The instructional process: a review of Flanders’ interaction analysis in a classroom setting. *International Journal of Secondary Education*, *3*(5), 43-49. <https://doi.org/10.11648/j.ijsedu.20150305.11>.
+  
+  [Article](https://doi.org/10.11648%2Fj.ijsedu.20150305.11) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=The%20instructional%20process%3A%20a%20review%20of%20Flanders%E2%80%99%20interaction%20analysis%20in%20a%20classroom%20setting&journal=International%20Journal%20of%20Secondary%20Education&doi=10.11648%2Fj.ijsedu.20150305.11&volume=3&issue=5&pages=43-49&publication_year=2015&author=Amatari%2CVO)
+* Bryk, A.S., Gomez, L.M., Grunow, A. (2011). Getting Ideas into Action: Building Networked Improvement Communities in Education. Springer Netherlands*.*
+  
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Getting%20Ideas%20into%20Action%3A%20Building%20Networked%20Improvement%20Communities%20in%20Education&publication_year=2011&author=Bryk%2CAS&author=Gomez%2CLM&author=Grunow%2CA)
+* Chen, L.,Yang, D.,Huang, X.R. (2018). Does mobile listening and assessment classes promote equal communication and in-depth collaboration among teachers: An empirical study based on mobile listening and assessment tools. *China Audio-visual Education*, 4(6): 107-114.
+  
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Does%20mobile%20listening%20and%20assessment%20classes%20promote%20equal%20communication%20and%20in-depth%20collaboration%20among%20teachers%3A%20An%20empirical%20study%20based%20on%20mobile%20listening%20and%20assessment%20tools&journal=China%20Audio-visual%20Education&volume=4&issue=6&pages=107-114&publication_year=2018&author=Chen%2CL&author=Yang%2CD&author=Huang%2CXR)
+* Cheng, Y.,Wang, Y.L.,Wang, F.,Zheng, L.L.,Guo, Y.C. (2018). Research on the analysis method of teaching model based on the classroom teaching behavior cloud. *Modern Educational Technology*, 28(5), 61-67. CNKI:SUN:XJJS.0.2018-05-010.
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Cheng%2C%20Y.%2CWang%2C%20Y.L.%2CWang%2C%20F.%2CZheng%2C%20L.L.%2CGuo%2C%20Y.C.%20%282018%29.%20Research%20on%20the%20analysis%20method%20of%20teaching%20model%20based%20on%20the%20classroom%20teaching%20behavior%20cloud.%20Modern%20Educational%20Technology%2C%2028%285%29%2C%2061-67.%20CNKI%3ASUN%3AXJJS.0.2018-05-010.)
+* Cook, C.E.,Wright, M.,O’Neal, C. (2007). Action research for instructional improvement: Using data to enhance student learning at your institution. *To improve the academy*, 25(1), 123-138. <https://doi.org/10.1002/j.2334-4822.2007.tb00478.x>.
+  
+  [Article](https://doi.org/10.1002%2Fj.2334-4822.2007.tb00478.x) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Action%20research%20for%20instructional%20improvement%3A%20Using%20data%20to%20enhance%20student%20learning%20at%20your%20institution&journal=To%20improve%20the%20academy&doi=10.1002%2Fj.2334-4822.2007.tb00478.x&volume=25&issue=1&pages=123-138&publication_year=2007&author=Cook%2CCE&author=Wright%2CM&author=O%E2%80%99Neal%2CC)
+* Cui, Y.K. (2012). LICC Paradigm of Classroom Observation: A Professional Listening and evaluating Class. *Education Research* (05),79-83. CNKI:SUN:JYYJ.0.2012-05-015.
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Cui%2C%20Y.K.%20%282012%29.%20LICC%20Paradigm%20of%20Classroom%20Observation%3A%20A%20Professional%20Listening%20and%20evaluating%20Class.%20Education%20Research%20%2805%29%2C79-83.%20CNKI%3ASUN%3AJYYJ.0.2012-05-015.)
+* Derry, S.J.,Pea, R.D., Barron, B., Engle, R.A., Erickson, F., Goldman, R.,Sherin, B.L. (2010). Conducting video research in the learning sciences: Guidance on selection, analysis, technology, and ethics. *The journal of the learning sciences*, *19*(1), 3-53.
+  
+  [Article](https://doi.org/10.1080%2F10508400903452884) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Conducting%20video%20research%20in%20the%20learning%20sciences%3A%20Guidance%20on%20selection%2C%20analysis%2C%20technology%2C%20and%20ethics&journal=The%20journal%20of%20the%20learning%20sciences&volume=19&issue=1&pages=3-53&publication_year=2010&author=Derry%2CSJ&author=Pea%2CRD&author=Barron%2CB&author=Engle%2CRA&author=Erickson%2CF&author=Goldman%2CR&author=Sherin%2CBL)
+* Ellis, N.E. (1990). Collaborative interaction for improvement of teaching. *Teaching and Teacher Education*, *6*(3), 267-277. <https://doi.org/10.1016/0742-051X(90)90018-Z>.
+  
+  [Article](https://doi.org/10.1016%2F0742-051X%2890%2990018-Z) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Collaborative%20interaction%20for%20improvement%20of%20teaching&journal=Teaching%20and%20Teacher%20Education&doi=10.1016%2F0742-051X%2890%2990018-Z&volume=6&issue=3&pages=267-277&publication_year=1990&author=Ellis%2CNE)
+* Flanders, N.A. (1963). Intent, action and feedback: a preparation for teaching. *Journal of Teacher Education*, 14(3), 251-260. <https://doi.org/10.1177/002248716301400305>.
+  
+  [Article](https://doi.org/10.1177%2F002248716301400305) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Intent%2C%20action%20and%20feedback%3A%20a%20preparation%20for%20teaching&journal=Journal%20of%20Teacher%20Education&doi=10.1177%2F002248716301400305&volume=14&issue=3&pages=251-260&publication_year=1963&author=Flanders%2CNA)
+* Gagné, R.M. (1970). The conditions of learning. Holt, Rinehart and Winston.
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Gagn%C3%A9%2C%20R.M.%20%281970%29.%20The%20conditions%20of%20learning.%20Holt%2C%20Rinehart%20and%20Winston.)
+* Goode, P. (2018). Using the ASSURE Model and Gagne’s 9 Events of Instruction as a Teaching Strategy. *Nurse Educator*, *43*(4), 205. <https://doi.org/10.1097/NNE.0000000000000514>.
+  
+  [Article](https://doi.org/10.1097%2FNNE.0000000000000514) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Using%20the%20ASSURE%20Model%20and%20Gagne%E2%80%99s%209%20Events%20of%20Instruction%20as%20a%20Teaching%20Strategy&journal=Nurse%20Educator&doi=10.1097%2FNNE.0000000000000514&volume=43&issue=4&publication_year=2018&author=Goode%2CP)
+* Gui, L., Liu, Z.Z., Chen, R. (2020). Real-Time S-T Analysis Method Based on Speaker Recognition. Proceedings of 2020 2nd International Conference on Advanced Control, *Automation and Artificial Intelligence* (ACAAI 2020) (pp.147-151). 10.12783/dtetr/acaai2020/34199.
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Gui%2C%20L.%2C%20Liu%2C%20Z.Z.%2C%20Chen%2C%20R.%20%282020%29.%20Real-Time%20S-T%20Analysis%20Method%20Based%20on%20Speaker%20Recognition.%20Proceedings%20of%202020%202nd%20International%20Conference%20on%20Advanced%20Control%2C%20Automation%20and%20Artificial%20Intelligence%20%28ACAAI%202020%29%20%28pp.147-151%29.%2010.12783%2Fdtetr%2Facaai2020%2F34199.)
+* Gu, X., & Wang, W. (2004). New exploration of classroom analysis in support of teacher professional development. *China Educational Technology*, 7, 18-21.
+  
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=New%20exploration%20of%20classroom%20analysis%20in%20support%20of%20teacher%20professional%20development&journal=China%20Educational%20Technology&volume=7&pages=18-21&publication_year=2004&author=Gu%2CX&author=Wang%2CW)
+* Hatun Ataş, A., Delialioğlu, Ö. (2018). A question–answer system for mobile devices in lecture-based instruction: a qualitative analysis of student engagement and learning. *Interactive Learning Environments*, 26(1), 75-90.
+  
+  [Article](https://doi.org/10.1080%2F10494820.2017.1283331) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=A%20question%E2%80%93answer%20system%20for%20mobile%20devices%20in%20lecture-based%20instruction%3A%20a%20qualitative%20analysis%20of%20student%20engagement%20and%20learning&journal=Interactive%20Learning%20Environments&volume=26&issue=1&pages=75-90&publication_year=2018&author=Hatun%20Ata%C5%9F%2CA&author=Delialio%C4%9Flu%2C%C3%96)
+* He, K.K. (2002). Theoretical Thinking on the Integration of Information Technology and Curriculum. *Information Technology Education in Primary and Secondary Schools* (Z1),27-36. CNKI:SUN: zxja.0.2002-Z1-009.
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=He%2C%20K.K.%20%282002%29.%20Theoretical%20Thinking%20on%20the%20Integration%20of%20Information%20Technology%20and%20Curriculum.%20Information%20Technology%20Education%20in%20Primary%20and%20Secondary%20Schools%20%28Z1%29%2C27-36.%20CNKI%3ASUN%3A%20zxja.0.2002-Z1-009.)
+* Niemi, H. (2021). AI in learning: Preparing grounds for future learning. *Journal of Pacific Rim Psychology* 15, 1-12. <https://doi.org/10.1177/18344909211038105>.
+  
+  [Article](https://doi.org/10.1177%2F18344909211038105) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=AI%20in%20learning%3A%20Preparing%20grounds%20for%20future%20learning&journal=Journal%20of%20Pacific%20Rim%20Psychology&doi=10.1177%2F18344909211038105&volume=15&pages=1-12&publication_year=2021&author=Niemi%2CH)
+* Horton, W.K. (2012). *E-learning by design*. Pfeiffer, San Francisco.
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Horton%2C%20W.K.%20%282012%29.%20E-learning%20by%20design.%20Pfeiffer%2C%20San%20Francisco.)
+* Huang, W.G. (2015). Nine ‘Teaching Events’ – the second reflection based on Gagné’s teaching theory. *Educational Research and Review (Secondary Education Teaching)*, 6:5-11.
+  
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Nine%20%E2%80%98Teaching%20Events%E2%80%99%20%E2%80%93%20the%20second%20reflection%20based%20on%20Gagn%C3%A9%E2%80%99s%20teaching%20theory&journal=Educational%20Research%20and%20Review%20%28Secondary%20Education%20Teaching%29&volume=6&pages=5-11&publication_year=2015&author=Huang%2CWG)
+* Hu, B.Y., Dieker, L., Yang, Y., Yang, N. (2016a). The quality of classroom experiences in Chinese kindergarten classrooms across settings and learning activities: implications for teacher preparation. *Teaching & Teacher Education*, 57, 39-50. <https://doi.org/10.1016/j.tate.2016.03.001>.
+  
+  [Article](https://doi.org/10.1016%2Fj.tate.2016.03.001) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=The%20quality%20of%20classroom%20experiences%20in%20Chinese%20kindergarten%20classrooms%20across%20settings%20and%20learning%20activities%3A%20implications%20for%20teacher%20preparation&journal=Teaching%20%26%20Teacher%20Education&doi=10.1016%2Fj.tate.2016.03.001&volume=57&pages=39-50&publication_year=2016&author=Hu%2CBY&author=Dieker%2CL&author=Yang%2CY&author=Yang%2CN)
+* Hu, L.R., Mike, J., Zhang, B.H., Song, L.Q. (2016b). Flip or not? Transcend the trend of education and move towards a research-based classroom: Interview with Professor Mike Jacobson, University of Sydney. *China Audio-visual Education*, 138-141. <https://doi.org/10.3969/j.issn.1006-9860.2016.05.022>.
+* Jacobs, J.K., Kawanaka, T., Stigler, J.W. (1999). Integrating qualitative and quantitative approaches to the analysis of video data on classroom teaching. *International Journal of Educational Research*, 31(8), 717-724. <https://doi.org/10.1016/S0883-0355(99)00036-1>.
+  
+  [Article](https://doi.org/10.1016%2FS0883-0355%2899%2900036-1) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Integrating%20qualitative%20and%20quantitative%20approaches%20to%20the%20analysis%20of%20video%20data%20on%20classroom%20teaching&journal=International%20Journal%20of%20Educational%20Research&doi=10.1016%2FS0883-0355%2899%2900036-1&volume=31&issue=8&pages=717-724&publication_year=1999&author=Jacobs%2CJK&author=Kawanaka%2CT&author=Stigler%2CJW)
+* Jacobson, M.J., Kim, B., Pathak, S., Zhang, B. (2013). To guide or not to guide: issues in the sequencing of pedagogical structure in computational model-based learning. *Interactive learning environments*, 23(6), 715-730. <https://doi.org/10.1080/10494820.2013.792845>.
+  
+  [Article](https://doi.org/10.1080%2F10494820.2013.792845) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=To%20guide%20or%20not%20to%20guide%3A%20issues%20in%20the%20sequencing%20of%20pedagogical%20structure%20in%20computational%20model-based%20learning&journal=Interactive%20learning%20environments&doi=10.1080%2F10494820.2013.792845&volume=23&issue=6&pages=715-730&publication_year=2013&author=Jacobson%2CMJ&author=Kim%2CB&author=Pathak%2CS&author=Zhang%2CB)
+* Jing, J. (2012). The design and practice of ‘Nine Teaching Events’ in information Technology courses. *Computer Education*, 24, 91-94. <https://doi.org/10.16512/j.cnki.jsjjy.2012.24.015>.
+  
+  [Article](https://doi.org/10.16512%2Fj.cnki.jsjjy.2012.24.015) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=The%20design%20and%20practice%20of%20%E2%80%98Nine%20Teaching%20Events%E2%80%99%20in%20information%20Technology%20courses&journal=Computer%20Education&doi=10.16512%2Fj.cnki.jsjjy.2012.24.015&volume=24&pages=91-94&publication_year=2012&author=Jing%2CJ)
+* Kane, T.J., McCaffrey, D.F., Miller, T., Staiger, D.O. (2013). Have we identified effective teachers? Validating measures of effective teaching using random assignment. In Research Paper. MET Project. Bill & Melinda Gates Foundation.
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Kane%2C%20T.J.%2C%20McCaffrey%2C%20D.F.%2C%20Miller%2C%20T.%2C%20Staiger%2C%20D.O.%20%282013%29.%20Have%20we%20identified%20effective%20teachers%3F%20Validating%20measures%20of%20effective%20teaching%20using%20random%20assignment.%20In%20Research%20Paper.%20MET%20Project.%20Bill%20%26%20Melinda%20Gates%20Foundation.)
+* Lewis, C., Perry, R., Murata, A. (2006). How should research contribute to instructional improvement? The case of lesson study. *Educational researcher*, *35*(3), 3-14. <https://doi.org/10.3102/0013189X035003003>.
+  
+  [Article](https://doi.org/10.3102%2F0013189X035003003) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=How%20should%20research%20contribute%20to%20instructional%20improvement%3F%20The%20case%20of%20lesson%20study&journal=Educational%20researcher&doi=10.3102%2F0013189X035003003&volume=35&issue=3&pages=3-14&publication_year=2006&author=Lewis%2CC&author=Perry%2CR&author=Murata%2CA)
+* Lewis, C. C., Perry, R. R., Hurd, J. (2009). Improving mathematics instruction through lesson study: A theoretical model and North American case. *Journal of mathematics teacher education*, 12(4), 285-304.
+  
+  [Article](https://link.springer.com/doi/10.1007/s10857-009-9102-7) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Improving%20mathematics%20instruction%20through%20lesson%20study%3A%20A%20theoretical%20model%20and%20North%20American%20case&journal=Journal%20of%20mathematics%20teacher%20education&volume=12&issue=4&pages=285-304&publication_year=2009&author=Lewis%2CCC&author=Perry%2CRR&author=Hurd%2CJ)
+* Mehan, H. (1979). “What time is it, Denise?” Asking known information questions in classroom discourse. *Theory Into practice*, 18(4), 285-294. <https://doi.org/10.1080/00405847909542846>.
+  
+  [Article](https://doi.org/10.1080%2F00405847909542846) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=%E2%80%9CWhat%20time%20is%20it%2C%20Denise%3F%E2%80%9D%20Asking%20known%20information%20questions%20in%20classroom%20discourse&journal=Theory%20Into%20practice&doi=10.1080%2F00405847909542846&volume=18&issue=4&pages=285-294&publication_year=1979&author=Mehan%2CH)
+* Mewald, C., Mürwald-Scheifinger, E. (2019). Lesson Study in Teacher Development: A Paradigm Shift from A Culture of Receiving to a Culture of Acting and Reflecting. *European Journal of Education*, *54*(2), 218-232. <https://doi.org/10.1111/ejed.12335>.
+  
+  [Article](https://doi.org/10.1111%2Fejed.12335) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Lesson%20Study%20in%20Teacher%20Development%3A%20A%20Paradigm%20Shift%20from%20A%20Culture%20of%20Receiving%20to%20a%20Culture%20of%20Acting%20and%20Reflecting&journal=European%20Journal%20of%20Education&doi=10.1111%2Fejed.12335&volume=54&issue=2&pages=218-232&publication_year=2019&author=Mewald%2CC&author=M%C3%BCrwald-Scheifinger%2CE)
+* Mishra, S., & Gaba, A.K. (2001). How do distance learners use activities in self-instructional materials?. *Indian Journal of Open Learning*, *10*(1), 40-51.
+  
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=How%20do%20distance%20learners%20use%20activities%20in%20self-instructional%20materials%3F&journal=Indian%20Journal%20of%20Open%20Learning&volume=10&issue=1&pages=40-51&publication_year=2001&author=Mishra%2CS&author=Gaba%2CAK)
+* Mu, S., & Zhu, P. P. (2015). Research on classroom teaching behavior analysis method under information teaching environment. *E-education Research*, (9), 62-68. <https://doi.org/10.13811/j.cnki.eer.2015.09.011>.
+  
+  [Article](https://doi.org/10.13811%2Fj.cnki.eer.2015.09.011) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Research%20on%20classroom%20teaching%20behavior%20analysis%20method%20under%20information%20teaching%20environment&journal=E-education%20Research&doi=10.13811%2Fj.cnki.eer.2015.09.011&volume=9&pages=62-68&publication_year=2015&author=Mu%2CS&author=Zhu%2CPP)
+* Pea, R, & Lindgren, R. (2008). Video collaboratories for research and education: An analysis of collaboration design patterns. *IEEE Transactions on Learning Technologies*, 1(4), 235-247.
+  
+  [Article](https://doi.org/10.1109%2FTLT.2009.5) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Video%20collaboratories%20for%20research%20and%20education%3A%20An%20analysis%20of%20collaboration%20design%20patterns&journal=IEEE%20Transactions%20on%20Learning%20Technologies&volume=1&issue=4&pages=235-247&publication_year=2008&author=Pea%2CR&author=Lindgren%2CR)
+* Rowntree, D. (1990). *Teaching through self-instruction: how to develop open learning materials*. Kogan Page, London.
+  
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Teaching%20through%20self-instruction%3A%20how%20to%20develop%20open%20learning%20materials&publication_year=1990&author=Rowntree%2CD)
+* Roschelle, J., Lester, J., Fusco, J. (2020). AI and the future of learning: Expert panel report. *Digital Promise*.
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Roschelle%2C%20J.%2C%20Lester%2C%20J.%2C%20Fusco%2C%20J.%20%282020%29.%20AI%20and%20the%20future%20of%20learning%3A%20Expert%20panel%20report.%20Digital%20Promise.)
+* Scheurman, G. (1998). From behaviorist to constructivist teaching. *Social education*, 62(1), 6-9.
+  
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=From%20behaviorist%20to%20constructivist%20teaching&journal=Social%20education&volume=62&issue=1&pages=6-9&publication_year=1998&author=Scheurman%2CG)
+* Seldin, P. (2010). Using student feedback to improve teaching. *New Directions for Teaching & Learning*, 1989(37), 89-97.
+  
+  [Article](https://doi.org/10.1002%2Ftl.37219893711) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Using%20student%20feedback%20to%20improve%20teaching&journal=New%20Directions%20for%20Teaching%20%26%20Learning&volume=1989&issue=37&pages=89-97&publication_year=2010&author=Seldin%2CP)
+* Stanulis, R.N., Little, S., Wibbens, E. (2012). Intensive mentoring that contributes to change in beginning elementary teachers’ learning to lead classroom discussions. *Teaching & Teacher Education*, 28(1), 32-43.
+  
+  [Article](https://doi.org/10.1016%2Fj.tate.2011.08.007) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Intensive%20mentoring%20that%20contributes%20to%20change%20in%20beginning%20elementary%20teachers%E2%80%99%20learning%20to%20lead%20classroom%20discussions&journal=Teaching%20%26%20Teacher%20Education&volume=28&issue=1&pages=32-43&publication_year=2012&author=Stanulis%2CRN&author=Little%2CS&author=Wibbens%2CE)
+* Sun, Z., & Ma, Y.H. (2012). The power of classroom teaching video-a new channel for teacher group learning in the Internet age. *Open Education Research*, 18(02):80-85. <https://doi.org/10.13966/j.cnki.kfjyyj.2012.02.002>.
+  
+  [Article](https://doi.org/10.13966%2Fj.cnki.kfjyyj.2012.02.002) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=The%20power%20of%20classroom%20teaching%20video-a%20new%20channel%20for%20teacher%20group%20learning%20in%20the%20Internet%20age&journal=Open%20Education%20Research&doi=10.13966%2Fj.cnki.kfjyyj.2012.02.002&volume=18&issue=02&pages=80-85&publication_year=2012&author=Sun%2CZ&author=Ma%2CYH)
+* Zhang, H. (2019). Gagné nine teaching events in the secondary vocational graphic design course teaching application. *Chinese Educational Technology Equipment* 24. 79-81. CNKI: SUN: ZJJB.0.2019-24-027.
+  
+  [Google Scholar](https://scholar.google.com/scholar?&q=Zhang%2C%20H.%20%282019%29.%20Gagn%C3%A9%20nine%20teaching%20events%20in%20the%20secondary%20vocational%20graphic%20design%20course%20teaching%20application.%20Chinese%20Educational%20Technology%20Equipment%2024.%2079-81.%20CNKI%3A%20SUN%3A%20ZJJB.0.2019-24-027.)
+* Zhu, P., & Amant, K.S. (2010). An application of Robert Gagné’s nine events of instruction to the teaching of website localization. *Journal of technical writing and communication.* 40(3):213-245. <https://doi.org/10.2190/TW.40.3.f>.
+  
+  [Article](https://doi.org/10.2190%2FTW.40.3.f) 
+  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=An%20application%20of%20Robert%20Gagn%C3%A9%E2%80%99s%20nine%20events%20of%20instruction%20to%20the%20teaching%20of%20website%20localization&journal=Journal%20of%20technical%20writing%20and%20communication.&doi=10.2190%2FTW.40.3.f&volume=40&issue=3&pages=213-245&publication_year=2010&author=Zhu%2CP&author=Amant%2CKS)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-09687-7_7?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+This study was funded by the National Science Foundation of China (Research on key technology of classroom teaching interactive analysis based on artificial intelligence, Grant Number: NSFC61977048).
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Capital Normal University, Beijing, China
+   
+   Zhong Sun, Zi Chun Yu & Fei Yun Xu
+
+Authors
+
+1. Zhong Sun[View author publications](/search?sortBy=newestFirst&contributor=Zhong%20Sun)
+   
+   Search author on:[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zhong%20Sun) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Zhong%20Sun%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Zi Chun Yu[View author publications](/search?sortBy=newestFirst&contributor=Zi%20Chun%20Yu)
+   
+   Search author on:[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zi%20Chun%20Yu) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Zi%20Chun%20Yu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Fei Yun Xu[View author publications](/search?sortBy=newestFirst&contributor=Fei%20Yun%20Xu)
+   
+   Search author on:[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Fei%20Yun%20Xu) [Google Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Fei%20Yun%20Xu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Corresponding author
+
+Correspondence to
+[Zhong Sun](mailto:sunzhong@cnu.edu.cn) .
+
+Editor information
+------------------
+
+### Editors and Affiliations
+
+1. Faculty of Educational Sciences, University of Helsinki, Helsinki, Finland
+   
+   Hannele Niemi
+2. Graduate School of Education, Stanford University, Stanford, CA, USA
+   
+   Roy D. Pea
+3. Advanced Innovation Center for Future Education, Faculty of Education, Beijing Normal University, Beijing, China
+   
+   Yu Lu
+
+Rights and permissions
+----------------------
+
+**Open Access** This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (<http://creativecommons.org/licenses/by/4.0/>), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.
+
+The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?publisherName=SpringerNature&orderBeanReset=true&orderSource=SpringerLink&title=Analysis%20and%20Improvement%20of%20Classroom%20Teaching%20Based%20on%20Artificial%20Intelligence&author=Zhong%20Sun%2C%20Zi%20Chun%20Yu%2C%20Fei%20Yun%20Xu&contentID=10.1007%2F978-3-031-09687-7_7&copyright=The%20Author%28s%29&publication=eBook&publicationDate=2023&startPage=105&endPage=121&imprint=The%20Author%28s%29&oa=CC%20BY)
+
+Copyright information
+---------------------
+
+© 2023 The Author(s)
+
+About this chapter
+------------------
+
+### Cite this chapter
+
+Sun, Z., Yu, Z.C., Xu, F.Y. (2023). Analysis and Improvement of Classroom Teaching Based on Artificial Intelligence.
+In: Niemi, H., Pea, R.D., Lu, Y. (eds) AI in Learning: Designing the Future. Springer, Cham. https://doi.org/10.1007/978-3-031-09687-7\_7
+
+### Download citation
+
+* [.RIS](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-09687-7_7?format=refman&flavour=citation)
+* [.ENW](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-09687-7_7?format=endnote&flavour=citation)
+* [.BIB](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-09687-7_7?format=bibtex&flavour=citation)
+
+* DOI: https://doi.org/10.1007/978-3-031-09687-7\_7
+* Published: 27 November 2022
+* Publisher Name: Springer, Cham
+* Print ISBN: 978-3-031-09686-0
+* Online ISBN: 978-3-031-09687-7
+* eBook Packages: [Behavioral Science and Psychology](/search?facet-content-type=%22Book%22&package=41168&facet-start-year=2023&facet-end-year=2023)[Behavioral Science and Psychology (R0)](/search?facet-content-type=%22Book%22&package=43718&facet-start-year=2023&facet-end-year=2023)
+
+### Share this chapter
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Classroom teaching analysis](/search?query=Classroom%20teaching%20analysis&facet-discipline="Psychology")
+* [Artificial intelligence](/search?query=Artificial%20intelligence&facet-discipline="Psychology")
+* [Teaching events](/search?query=Teaching%20events&facet-discipline="Psychology")
+* [Teaching structure](/search?query=Teaching%20structure&facet-discipline="Psychology")
+
+Publish with us
+---------------
+
+[Policies and ethics](https://www.springernature.com/gp/policies/book-publishing-policies)
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.49.92
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+
+
+

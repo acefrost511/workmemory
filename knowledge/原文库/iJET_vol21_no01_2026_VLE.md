@@ -1,6 +1,11 @@
 # 论文档案
 
 ## 基本信息
+## 摘要
+研究发现VLE整合教学显著提升了学生的学习成绩和学习效率；学生的自主学习能力和学习参与度在使用VLE后有显著改善；VLE提供的互动功能（如虚拟实验、模拟情境）对学习效果有正向促进作用；教师在VLE整合教学中扮演了关键的引导和调节角色
+
+**摘要状态**：✅已补充（内容提取）
+
 - **标题**: Enhancing Educational Outcomes through the Integration of Virtual Learning Environment
 - **作者**: Anwar Alwaalan, Paul Manuel
 - **期刊**: International Journal of Emerging Technologies in Learning (iJET)
@@ -15,3 +20,5 @@
 
 ## 原文链接
 https://online-journals.org/index.php/i-jet/article/view/59363
+
+**审核状态**：✅已补审（历史遗留文件）

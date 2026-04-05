@@ -1,0 +1,149 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2026.105619
+# Content Length: 16400 characters
+# Extracted at: 2026-04-05 14:05:11
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000576?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000576?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000576)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131526000576/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000576?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000576?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000576?via%3Dihub#preview-section-snippets)
+- [References (45)](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000576?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 249](https://www.sciencedirect.com/journal/computers-and-education/vol/249/suppl/C "Go to table of contents for this volume/issue"), August 2026, 105619
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20036-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/249/suppl/C)
+# Innovating diagnostic learning: How generative AI explanation styles influence cognitive load and confidence calibration in medical students
+Author links open overlay panelFangTanga, FengYaoa, MingheZhoub
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2026.105619](https://doi.org/10.1016/j.compedu.2026.105619 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131526000576&orderBeanReset=true)
+## Highlights
+- •
+Randomized trial: 60 medical students, 12 cases, post-decision AI advice.
+- •
+Both explanation styles improved diagnostic accuracy versus control.
+- •
+Analogical explanations yielded highest accuracy and lowest cognitive load.
+- •
+Technical explanations improved trust calibration but increased cognitive load.
+- •
+Technical style broadened hypotheses, deepened evidence search, improved safety.
+## Abstract
+Generative AI can augment diagnostic learning, yet the impact of explanation style on novices’ reasoning remains unclear. We evaluate two styles—technical (evidence-/probability-based) and analogical (case-based)—in a randomized controlled trial with 60 third- and fourth-year medical students who diagnosed twelve de-identified acute abdominal pain cases. After an initial judgment, participants were randomized to one of three conditions (technical, analogical, or control \[no AI advice\]) and received ex post AI advice (or none in control) while thinking aloud; outcomes were diagnostic accuracy, confidence calibration, and cognitive load analyzed via mixed-effects models and protocol analysis. Both AI styles improved accuracy over control; analogical yielded the highest accuracy and the lowest cognitive load, whereas technical produced the best confidence calibration but increased load. Think-aloud data showed that technical explanations triggered deeper evidence search, broader differentials, and more active agreement/disagreement with the AI; when the AI was incorrect in 2 of 12 cases, students in the technical condition were less likely to follow it, though estimates were imprecise. Results were robust to alternative measures and specifications and consistent across typical/atypical cases. Positioning explanation style as a design lever for AI-assisted learning, we show how design choices translate into generalizable knowledge for diagnostic training and decision calibration. Technical explanations are suited to cultivating critical reasoning and calibrated confidence; analogical explanations efficiently support Hypotheses generation when cognitive bandwidth is limited.
+## Introduction
+The integration of artificial intelligence (AI) into healthcare has revolutionized clinical decision-making, especially in diagnostics, where AI systems excel at analyzing complex medical data to deliver precise predictions (Esteva et al., 2019). Generative AI, with its ability to generate human-like explanations, holds particular promise for medical education by scaffolding diagnostic skills among novices (Chew & Achananuparp, 2022). Yet, the efficacy of such AI assistance hinges critically on how outputs are presented, notably the style of explanations provided. This study examines how two generative AI explanation styles—technical (focusing on clinical evidence and probabilistic reasoning) and analogical (drawing on case-based similarities)—influence medical students’ diagnostic decision-making, with emphasis on accuracy, confidence calibration, and cognitive load.
+As novice diagnosticians, medical students grapple with processing intricate clinical information amid limited expertise and elevated cognitive demands (Fraser et al., 2015). Cognitive load theory posits that information presentation shapes learning efficiency: overly complex formats inflate extraneous load, impeding performance, while optimized designs foster germane load for schema-building (Sweller, 2020). Complementing this, dual-process theory delineates intuitive (System 1) processing—fast and pattern-driven but bias-prone—and analytical (System 2) processing—deliberate and evidence-based but effort-intensive (Kahneman et al., 2011; Mance, 2022). AI explanations can modulate these cognitive modes: technical explanations may activate System 2, enhancing calibration through critical evaluation yet potentially heightening cognitive load; analogical explanations could leverage System 1 for intuitive pattern recognition, boosting accuracy but potentially encouraging superficial engagement and biases. This dual-process interpretation extrapolates established theory to AI-generated explanations (Kahneman et al., 2011; Mance, 2022) and is conceptually consistent with evidence on cognitive biases in prehospital diagnostic decision-making synthesized by Awanzo and Thompson (2025), even though their review does not explicitly adopt System-1/System-2 terminology.
+Empirical evidence on AI in healthcare diagnostics remains equivocal. While some research highlights accuracy gains from human–AI synergy (Li et al., 2022; Tschandl et al., 2020), others report marginal or null benefits, often attributed to opaque advice or user overload (Aoki et al., 2020; Cabitza et al., 2023; Kiani et al., 2020). Explainable AI (XAI) mitigates these issues via interpretable rationales, yet optimal explanation designs for novices—particularly in balancing transparency with usability—are underexplored (Busch et al., 2023; Jussupow et al., 2021). Recent insights into AI advice timing indicate that ex post delivery (post-initial judgment) promotes deeper engagement than ex ante advice (Yin et al., 2025). Extending this foundation, we concentrate on ex post advice to probe how explanation styles affect novices’ performance, filling a void in understanding how design choices facilitate knowledge acquisition and mitigate cognitive pitfalls in medical training.
+This study advances the field on several fronts. First, it enriches XAI scholarship by elucidating how explanation styles cognitively impact medical students, complementing timing-focused studies (Cabitza et al., 2023; Yin et al., 2025) and underscoring design as a lever for human–AI knowledge co-creation. Second, it helps resolve inconsistencies in AI's diagnostic utility by spotlighting explanation design's moderating role, yielding actionable insights for educational innovation. Third, it illuminates trade-offs between cognitive load and confidence calibration in novice training, addressing a pressing gap in healthcare knowledge management. The paper proceeds as follows: Section 2 reviews theoretical underpinnings and develops hypotheses; Section 3 outlines the experimental method; Section 4 reports the results; Section 5 examines underlying mechanisms; Section 6 presents post hoc analyses; and Section 7 discusses implications, limitations, and future directions. A graphical abstract (Fig. 1) that summarizes the study design, key findings, and the trade-off between the two explanation styles.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000576)
+## Section snippets
+## Theoretical background and hypothesis development
+To investigate how generative AI explanation styles affect medical students' diagnostic learning, we draw on three complementary theoretical perspectives: cognitive load theory (CLT), dual-process theory (DPT), and literature on (XAI in healthcare (Cabitza et al., 2023; Mance, 2022; Sweller, 2020). CLT and DPT provide insight into the cognitive mechanisms by which explanation designs may influence learning and decision-making, while XAI research contextualizes AI explanations as an educational
+## Development and validation of the AI system
+The AI system used in this study was a generative AI model designed to provide diagnostic decision support for acute abdominal pain cases, with explanations tailored to either the technical or analogical style. The system was built on a GPT-4-based large language model (LLM) fine-tuned on a subset of the MIMIC-IV database (Johnson et al., 2023) comprising over 1000 de-identified emergency department records of abdominal pain presentations (see Online Appendix A). Fine-tuning involved supervised
+## Results
+In this section, we present the empirical results of the experiment. We begin with descriptive statistics and manipulation checks. Next, we test our main Hypotheses regarding the effects of AI explanation style on diagnostic accuracy, confidence calibration, and cognitive load using multilevel mixed-effects regressions. We then examine the role of control variables, and conclude with an overall summary of the findings. All analyses are conducted at the case level (N = 720 case observations from
+## Mechanism testing
+We now delve into \_how\_ and \_why\_ the technical vs. analogical explanations produced the observed differences, by examining intermediate process measures from the protocol analysis and other mechanism checks. Specifically, we investigate: (5.1) differences in clinical information processing (depth and breadth of features and Hypotheses considered), (5.2) differences in engagement with the AI's reasoning process, and (5.3) differences in how students followed or rejected the AI's suggestions
+## Post hoc analyses
+To bolster our primary findings and mitigate potential alternative interpretations, we undertook a series of supplementary analyses. These encompass: (1) alternative operationalizations of diagnostic accuracy, confidence calibration, and an extension to diagnostic appropriateness to evaluate reasoning breadth; (2) robustness checks via varied model specifications; (3) heterogeneous treatment effects moderated by participant and case attributes; and (4) examinations of perceptual mediators
+## Discussion
+Our research advances the literature on AI-assisted decision-making by examining how generative AI explanation styles—technical and analogical—shape medical students' diagnostic performance, thereby innovating knowledge creation in healthcare education. Unlike prior work that focused on AI design factors such as system \_explainability\_ (e.g. transparency vs. black-box)(Zhang et al., 2024), human adjustments to AI predictions (Savcisens et al., 2024), or reciprocal human–machine learning dynamics (
+## CRediT authorship contribution statement
+\*\*Fang Tang:\*\* Writing – original draft, Software, Methodology, Formal analysis, Data curation. \*\*Feng Yao:\*\* Validation, Supervision. \*\*Minghe Zhou:\*\* Writing – review & editing, Validation, Formal analysis.
+## Declaration of generative AI and AI-assisted technologies in the writing process
+During the preparation of this work the author(s) used Chat-GPT 5 to enhance the grammar and readability of the text, as well as to assist with programming in R during the data analysis phase. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the publication.
+## Funding
+None.
+## Declaration of competing interest
+None.
+- D. Gentner
+### [Structure-mapping: A theoretical framework for analogy](https://www.sciencedirect.com/science/article/pii/S0364021383800093)
+### Cognitive Science
+(1983)
+- T. Lombrozo
+### [Learning by thinking in natural and artificial minds](https://www.sciencedirect.com/science/article/pii/S1364661324001918)
+### Trends in Cognitive Sciences
+(2024)
+- B.M. Abdel-Karim \_et al.\_
+### How ai-based systems can induce reflections: The case of ai-augmented diagnostic work
+### MIS Quarterly
+(2023)
+- T. Aoki \_et al.\_
+### Clinical usefulness of a deep learning-based system as the first screening on small-bowel capsule endoscopy reading
+### Digestive Endoscopy
+(2020)
+- B.A. Armstrong \_et al.\_
+### Cognitive biases in surgery: Systematic review
+### British Journal of Surgery
+(2023)
+- A. Awanzo \_et al.\_
+### Cognitive biases in clinical decision-making in prehospital critical care; a scoping review
+### Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine
+(2025)
+- N.C. Benda \_et al.\_
+### Trust in AI: Why we should be designing for appropriate reliance
+### Journal of the American Medical Informatics Association
+(2022)
+- F. Busch \_et al.\_
+### Biomedical ethical aspects towards the implementation of artificial intelligence in medical education
+### Medical Science Educator
+(2023)
+- F. Cabitza \_et al.\_
+### Toward a perspectivist turn in ground truthing for predictive computing
+- F. Cabitza \_et al.\_
+### Open, multiple, adjunct. Decision support at the time of relational AI. In HHAI 2022
+Campagner, A., Fregosi, C., Natali, C., & Cabitza, F. (2026). Under what influence: Measuring AI influence to fit user...
+H.S.J. Chew \_et al.\_
+### Perceptions and needs of artificial intelligence in health care to increase adoption: Scoping review
+### Journal of Medical Internet Research
+(2022)
+B.J. Dietvorst \_et al.\_
+### Overcoming algorithm aversion: People will use imperfect algorithms if they can (even slightly) modify them
+### Management Science
+(2018)
+A. Esteva \_et al.\_
+### A guide to deep learning in healthcare
+### Nature Medicine
+(2019)
+K.W. Eva
+### What every teacher needs to know about clinical reasoning
+### Medical Education
+(2005)
+F. Faul \_et al.\_
+### G∗Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences
+### Behavior Research Methods
+(2007)
+K.L. Fraser \_et al.\_
+### Cognitive load theory for the design of medical simulations
+### Simulation in Healthcare-Journal of the Society for Simulation in Healthcare
+(2015)
+S. Gaube \_et al.\_
+### Do as AI say: Susceptibility in deployment of clinical decision-aids
+### npj Digital Medicine
+(2021)
+K.J. Holyoak \_et al.\_
+### Mental leaps: Analogy in creative thought
+(1994)
+S. Jala \_et al.\_
+### Cognitive bias during clinical decision-making and its influence on patient outcomes in the emergency department: A scoping review
+### Journal of Clinical Nursing
+(2023)
+A.E.W. Johnson \_et al.\_
+### MIMIC-IV, a freely accessible electronic health record dataset (vol 10, 1, 2023)
+### Scientific Data
+(2023)
+E. Jussupow \_et al.\_
+### Augmenting medical diagnosis decisions? An investigation into physicians' decision-making process with artificial intelligence
+### Information Systems Research
+(2021)
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131526000576)
+© 2026 Published by Elsevier Ltd.

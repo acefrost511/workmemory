@@ -1,0 +1,328 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S0360131524002446
+# Content Length: 33041 characters
+# Extracted at: 2026-04-05 08:32:32
+#============================================================
+
+Evaluating AI literacy of secondary students: Framework and scale development - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131524002446&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131524002446)
+\* [Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131524002446)
+\* [Purchase PDF](/getaccess/pii/S0360131524002446/purchase)
+Search ScienceDirect
+## Article preview
+\* [Abstract](#preview-section-abstract)
+\* [Introduction](#preview-section-introduction)
+\* [Section snippets](#preview-section-snippets)
+\* [References (152)](#preview-section-references)
+\* [Cited by (28)](#preview-section-cited-by)
+[![](https://sciencedirect.elseviercdn.cn/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](/journal/computers-and-education)
+## [Computers & Education](/journal/computers-and-education)
+[Volume 227](/journal/computers-and-education/vol/227/suppl/C), April 2025, 105230
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S0360131524X00172-cov150h.gif)](/journal/computers-and-education/vol/227/suppl/C)
+# Evaluating AI literacy of secondary students: Framework and scale development
+Author links open overlay panelBaichangZhong, XiaofanLiu
+Show more
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131524002446&orderBeanReset=true)
+## Highlights
+\* •
+K-12 AI education is increasingly critical to prepare students with AI literacy (AIL).
+\* •
+Secondary students were particularly well-suited for comprehensive AI education.
+\* •
+AI Knowledge, AI Affectivity, and AI Thinking (KAT) constitute the framework of AIL.
+\* •
+The KAT framework emphasizes developing secondary students' higher cognitive skills.
+\* •
+The AIL scale with three-factor of 48 items shows satisfactory validity and reliability.
+## Abstract
+K-12 AI education not only equips students with AI literacy but also encourages underrepresented groups to pursue further studies or careers in this field. Secondary students were particularly well-suited for comprehensive AI education due to their cognitive characteristics and developmental readiness. While most studies have focused on developing pedagogy, curriculum, and tools for secondary AI education, they have prioritized measuring students' learning outcomes over [literacy development](/topics/social-sciences/literacy-development). Referring to the empirical research on secondary AI education as well as Piaget's Epistemology and Bloom's Taxonomy, this study figured out a KAT framework that constitutes AI literacy: (1) AI Knowledge (AI fundamentals, elements of AI technology, application of AI technology), (2) AI Affectivity (AI and human, AI and society), and (3) AI Thinking (engineering design thinking, computational thinking). Based on this, a 57-item AI literacy scale (AILS) was developed, and 56 items were retained after expert judgement. Then, a large sample of Chinese secondary students was surveyed, resulting in 1392 valid samples, which were randomly divided into two sub-samples: 720 samples were used for item reduction through Rasch Analysis and [Exploratory Factor Analysis](/topics/psychology/exploratory-factor-analysis); 672 samples were used for model validation and comparison through [Confirmatory Factor Analysis](/topics/social-sciences/confirmatory-factor-analysis). Results indicated the AILS with three-factor structure of 48 items has a good reliability and validity. Moreover, [gender differences](/topics/social-sciences/gender-difference) in AI literacy among secondary students were examined. Results indicated that boys had significantly higher AI Knowledge than girls, whereas girls had significantly higher AI Affectivity than boys. The implications, limitations and future research were also discussed.
+## Introduction
+Nowadays, the rapid development of Artificial Intelligence (AI) like ChatGPT have provided free and low-threshold access to powerful AI applications for everyone (Yilmaz et al., 2023). The ubiquity of AI applications requires future generations to acquire sufficient \*\*AI literacy (AIL)\*\* to most effectively use such technologies (Chiu, 2021; Long & Magerko, 2020). Although scholars first proposed AIL in the 1970s, the focus was on professional literacy about AI (Agre, 1972). Until 2016, AIL emerged as a key component of 21st century abilities, which refers to the general literacy that every citizen should possess (Kandlhofer et al., 2016). As a result, numerous studies have conceptualized AIL for individuals of various age ranges. For instance, Kandlhofer et al. (2016) introduced AIL as “a set of competencies that enable individuals to know, understand and use AI technologies”. Likewise, Long and Magerko (2020) defined AIL as “a set of competencies that enable individuals to critically evaluate AI technologies; communicate and collaborate effectively with AI; and use AI as a tool online, at home, and in the workplace”. However, these general conceptualizations consider users as AI literate even without in-depth technical knowledge or the ability to develop or create AI applications.
+The escalating significance of AIL necessitates a shift in AI education from “AI in education” to “education about AI”. Teaching about AI has traditionally been carried out at the university level, primarily for high-achieving male students (Casal-Otero et al., 2023). However, it is equally, if not more, important to introduce AI to all students during the K-12 stage. This is because developing AIL at an early age not only equips students with the knowledge and skills to address complex problems in an AI-driven society, but also motivates underrepresented groups to pursue further studies or careers in this field (Ng et al., 2023b). Compared to the general population, AIL for younger students focuses more on the interactions and development of AI application than conceptual understanding of AI for problem-solving (Chiu et al., 2022; Gresse von Wangenheim et al., 2021). Based on this, many scholars (e.g., Ali et al., 2021; Estevez et al., 2019) have advocated that secondary students were particularly well-suited for comprehensive AI education due to their cognitive characteristics and developmental readiness. Meanwhile, a growing body of empirical research (e.g., Chang & Tsai, 2021; Huang & Qiao, 2022; Martins et al., 2023) has focused on developing pedagogy, curriculum, and tools for secondary AI education, with some studies (e.g., Chiu et al., 2021; Xia et al., 2022) addressing gender issues to promote inclusiveness. Regarding the learning evaluation, most of these studies did not explicitly assess students’ AIL, but rather their AI concepts, attitudes, ethics and creativity, etc. The specific skills encompassed by AIL remain unclear, as each study assessed different elements of AI learning. However, these elements can be broadly categorized into three outcomes: knowledge, affective, and thinking, which offer valuable insights for this study.
+As AI education becomes increasingly prevalent from kindergarten to higher education, the demand for AIL has diversified across learning stages. In higher education, AIL is tailored to specific professional fields such as healthcare (Teng et al., 2022), medicine (Karaca et al., 2021), and business (Xu & Babaian, 2021). In contrast, AIL for K-12 students focuses on foundational understanding, application, development, and ethical considerations of AI without focusing on specific subject areas (Ng et al., 2024). Besides, the upper K-12 students devote higher cognitive skills than the lower K-12 students for AIL development (Su et al., 2023). Therefore, it is crucial to develop age-appropriate framework and instruments tailored to secondary students' cognitive stages and learning experiences. Currently, several studies have developed frameworks and measurements for identifying knowledge and skill shortages, as well as evaluating interventions aimed at improving AIL (e.g., Carolus et al., 2023; Laupichler et al., 2022; Ng et al., 2024; Pinski & Benlian, 2023; Wang et al., 2023), which shed light on this study. However, the existing studies have the following limitations: (1) existing frameworks exhibit dimensional fragmentation and fail to emphasize the higher cognitive skills essential to AIL; (2) unilateral use of exploratory factor analysis (EFA) or confirmatory factor analysis (CFA) in validity tests without integration of Item Response Theory (IRT); and (3) most studies did not consider examining gender differences in AIL among secondary students. Therefore, the present study aims to propose a new AIL framework emphasizing high-order thinking and dimensional connections, develop a reliable and valid instrument for evaluating secondary students’ AIL, and examine gender differences in AIL among these students. In this vein, three questions should be addressed.
+\* (1)
+What are covered in AIL for secondary students?
+\* (2)
+How to evaluate AIL of secondary students?
+\* (3)
+How does AIL differ by gender in secondary students?
+By addressing these three questions, this study will provide a comprehensive AIL framework as a curriculum design outline for secondary AI education, while avoiding the limitations of previous instruments that assessed secondary students’ AIL.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131524002446)
+## Section snippets
+## Literature review
+This section aims to examine related studies in four categories: (1) significance of inclusive AI education for gender disparities; (2) evaluations in secondary AI education; (3) framework of AIL; and (4) measurement of AIL.
+## AIL framework
+The discussion of the AIL framework cannot be separated from the epistemological foundation due to its close relationship with student growth. Meanwhile, incorporating an educational psychology perspective into this study will offer valuable insights into the cognitive and affective aspects of AIL within students’ overall development.
+## Method
+This section aims to develop and validate an AILS for examining secondary students' knowledge, affective and thinking outcomes in AI education. After obtaining approval from the ethics review board of the authors' university, we developed the AILS according to Hinkin's (1998) step-by-step recommendations as follows.
+\* (1)
+\*\*Item generation:\*\* this process relies on establishing a well-defined theoretical foundation that delineates the content domain for the new measure. Researchers should sample potential
+## Item reduction
+The item reduction aimed to retain a fair number of items representing the AILS dimensions, thus providing evidence of construct validity (Hinkin, 1998). For this purpose, the data analyses in this section included: (1) Descriptive statistics and reliability analysis for each item or construct; (2) Polytomous Rasch Model to examine the quality of the items; and (3) Exploratory Factor Analysis (EFA) to find out the essential structure of multivariate observation variables.
+## Discussion and conclusions
+This study developed a theoretically solid AIL framework, validated a multidimensional AILS, and examined gender differences in AIL among secondary students. The results will be concluded and discussed in this section.
+## Significance of the study
+The theoretical contribution of this study were twofold: (1) This study constructed a KAT framework grounded in Piaget's Epistemology and Bloom's Taxonomy. As opposed to previous frameworks with fragmented dimensions (e.g., Ng et al., 2023; Ng et al., 2024), the KAT framework emphasizes the interaction between cognitive and affective objectives as well as the transformation of knowledge and thinking within the cognitive domain; (2) The KAT framework can guide curriculum design by teaching about
+## Limitation and future research
+There are several limitations to this study. First, the proposed scale may not cover all elements of AIL despite being comprehensive and logical. Future studies could examine how students develop other learning elements in AI education. Second, the AILS has been validated only with a Chinese speaking sample. Future studies could validate the non-Chinese versions of the AILS to compare students' AIL from different countries. Third, although the sample size was rich, the participants in this
+## CRediT authorship contribution statement
+\*\*Baichang Zhong:\*\* Writing – review & editing, Validation, Supervision, Methodology, Funding acquisition, Formal analysis, Conceptualization. \*\*Xiaofan Liu:\*\* Writing – original draft, Software, Methodology, Formal analysis, Data curation.
+## Funding
+This study is funded by the General Project for Education from National Social Science Fund of China (Study on 4C Teaching Model for Cultivating Students’ Interdisciplinary Creativity, Grant Number: BCA220219).
+## Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+## Acknowledgement
+None.
+\*\*Baichang Zhong\*\* (Ph.D) is a distinguished professor from School of Information Technology in Education at South China Normal University, China. He has published over 200 academic papers in Chinese and international journals indexed by CSSCI and SSCI in the field of educational technology.
+Recommended articles
+## References (152)
+\* K. Aesaert \*et al.\*
+### [Direct measures of digital information processing and communication skills in primary education: Using item response theory for the development and validation of an ICT competence scale](/science/article/pii/S0360131514000700)
+### Computers & Education
+(2014)
+\* S. Ali \*et al.\*
+### [Children as creators, thinkers and citizens in an AI-driven future](/science/article/pii/S2666920X21000345)
+### Computers & Education: Artificial Intelligence
+(2021)
+\* C. Angeli \*et al.\*
+### [Developing young children's computational thinking with educational robotics: An interaction effect between gender and scaffolding strategy](/science/article/pii/S0747563219301104)
+### Computers in Human Behavior
+(2020)
+\* C. Antonietti \*et al.\*
+### [Development and validation of the ICAP Technology Scale to measure how teachers integrate technology into learning activities](/science/article/pii/S0360131522002196)
+### Computers & Education
+(2023)
+\* S. Atmatzidou \*et al.\*
+### [Advancing students' computational thinking skills through educational robotics: A study on age and gender relevant differences](/science/article/pii/S0921889015002420)
+### Robotics and Autonomous Systems
+(2016)
+\* N. Berx \*et al.\*
+### [Identification and classification of risk factors for human-robot collaboration from a system-wide perspective](/science/article/pii/S0360835221007312)
+### Computers & Industrial Engineering
+(2022)
+\* A. Carolus \*et al.\*
+### [MAILS-Meta AI literacy scale: Development and testing of an AI literacy questionnaire based on well-founded competency models and psychological change-and meta-competencies](/science/article/pii/S2949882123000142)
+### Computers in Human Behavior: Artificial Humans
+(2023)
+\* I. Celik
+### [Towards Intelligent-TPACK: An empirical study on teachers' professional knowledge to ethically integrate artificial intelligence (AI)-based tools into education](/science/article/pii/S0747563222002886)
+### Computers in Human Behavior
+(2023)
+\* K.C. Desouza \*et al.\*
+### [Designing, developing, and deploying artificial intelligence systems: Lessons from and for the public sector](/science/article/pii/S0007681319301582)
+### Business Horizons
+(2020)
+\* M. Hornberger \*et al.\*
+### [What do university students know about artificial intelligence? Development and validation of an AI literacy test](/science/article/pii/S2666920X23000449)
+### Computers & Education: Artificial Intelligence
+(2023)
+- X. Hu \*et al.\*
+### [The relationship between ICT and student literacy in mathematics, reading, and science across 44 countries: A multilevel analysis](/science/article/pii/S0278691518300231)
+### Computers & Education
+(2018)
+- S. Ivanov \*et al.\*
+### [Drivers of generative AI adoption in higher education through the lens of the Theory of Planned Behaviour](/science/article/pii/S0160791X24000691)
+### Technology in Society
+(2024)
+- M.H. Jarrahi
+### [Artificial intelligence and the future of work: Human-AI symbiosis in organizational decision making](/science/article/pii/S0007681318300387)
+### Business Horizons
+(2018)
+- S.C. Kong \*et al.\*
+### [Validating a computational thinking concepts test for primary education using item response theory: An analysis of students' responses](/science/article/pii/S0360131522001336)
+### Computers & Education
+(2022)
+- T.K. Koo \*et al.\*
+### [A guideline of selecting and reporting intraclass correlation coefficients for reliability research](/science/article/pii/S1556370716000158)
+### Journal of Chiropractic Medicine
+(2016)
+- M.C. Laupichler \*et al.\*
+### [Development of the “scale for the assessment of non-experts’ AI literacy”- an exploratory factor analysis](/science/article/pii/S2451958823000714)
+### Computers in Human Behavior Reports
+(2023)
+- W. Li \*et al.\*
+### [A study on the relationship between student'learning engagements and higher-order thinking skills in programming learning](/science/article/pii/S1871187123001372)
+### Thinking Skills and Creativity
+(2023)
+- X.F. Lin \*et al.\*
+### [Technological support to foster students' artificial intelligence ethics: An augmented reality-based contextualized dilemma discussion approach](/science/article/pii/S0360131523000908)
+### Computers & Education
+(2023)
+- X. Liu \*et al.\*
+### [A systematic review on how educators teach AI in K-12 education](/science/article/pii/S1747938X24000514)
+### Educational Research Review
+(2024)
+- A. Master \*et al.\*
+### [Programming experience promotes higher STEM motivation among first-grade girls](/science/article/pii/S002209651730200X)
+### Journal of Experimental Child Psychology
+(2017)
+- M. Adya \*et al.\*
+### Early determinants of women in the it workforce: A model of girls' career choices
+### Information Technology & People
+(2005)
+- Agre, P.E. (1972). What to read: A biased guide to AI literacy for the beginner. MIT Artificial Intelligence...
+- I. Ajzen
+### From intentions to actions: A theory of planned behavior
+(1985)
+- T. Asparouhov \*et al.\*
+### Multiple-group factor analysis alignment
+### Structural Equation Modeling: A Multidisciplinary Journal
+(2014)
+- Z.H. Aung \*et al.\*
+### Designing a novel teaching platform for AI: A case study in a Thai school context
+### Journal of Computer Assisted Learning
+(2022)
+- P. Baghaei \*et al.\*
+### Modeling local item dependence due to common test format with a multidimensional Rasch model
+### International Journal of Testing
+(2015)
+- C.P. Bigger
+### Kant's constructivism
+### The Southern Journal of Philosophy
+(1981)
+- T.G. Bond \*et al.\*
+### Applying the Rasch model: Fundamental measurement in the human sciences
+(2013)
+- S.R. Briggs \*et al.\*
+### The role of factor analysis in the development and evaluation of personality scales
+### Journal of Personality
+(1986)
+- H. Burgsteiner \*et al.\*
+### Irobot: Teaching the basics of artificial intelligence in high schools
+### Proceedings of the AAAI Conference on Artificial Intelligence
+(2016)
+- L. Casal-Otero \*et al.\*
+### AI literacy in K-12: A systematic literature review
+### International Journal of STEM Education
+(2023)
+- C.S. Chai \*et al.\*
+### Modeling Chinese secondary school students' behavioral intentions to learn artificial intelligence with the theory of planned behavior and self-determination theory
+### Sustainability
+(2022)
+- C.S. Chai \*et al.\*
+### An extended theory of planned behavior for the modelling of Chinese secondary school students' intention to learn artificial intelligence
+### Mathematics
+(2020)
+- Y.S. Chang \*et al.\*
+### Effects of design thinking on artificial intelligence learning and creativity
+### Educational Studies
+(2021)
+- Y.J. Chen \*et al.\*
+### What is competency? Based on a deduction of Piaget's epistemological view of knowledge
+### E-Education Research
+(2021)
+- T.K. Chiu
+### A holistic approach to the design of artificial intelligence (AI) education for K-12 schools
+### TechTrends
+(2021)
+- T.K.F. Chiu \*et al.\*
+### Creation and evaluation of a pretertiary artificial intelligence (AI) curriculum
+### IEEE Transactions on Education
+(2022)
+- J.I. Choi \*et al.\*
+### The effects of an ethics education program on artificial intelligence among middle school students: Analysis of perception and attitude changes
+### Applied Sciences
+(2024)
+- L.J. Cronbach \*et al.\*
+### Construct validity in psychological tests
+### Psychological Bulletin
+(1955)
+- Y. Dai \*et al.\*
+### Effect of an analogy-based approach of artificial intelligence pedagogy in upper primary schools
+### Journal of Educational Computing Research
+(2023)
+- Y. Dai \*et al.\*
+### An embodied, analogical and disruptive approach of AI pedagogy in upper elementary education: An experimental study
+### British Journal of Educational Technology
+(2023)
+- R.Q. Danish \*et al.\*
+### Effect of intrinsic rewards on task performance of employees: Mediating role of motivation
+### International Journal of Organizational Leadership
+(2015)
+- A. De Bem Machado \*et al.\*
+### Artificial intelligence: Applicability of this technology to higher education - a scoping review
+### Technologies for Sustainable Global Higher Education
+(2023)
+- D.A. Delaine \*et al.\*
+### Global diversity and inclusion in engineering education: Developing platforms toward global alignment
+### International Journal of Engineering Pedagogy
+(2016)
+- C. Dell'Era \*et al.\*
+### Four kinds of design thinking: From ideating to making, engaging, and criticizing
+### Creativity and Innovation Management
+(2020)
+- R.F. DeVellis \*et al.\*
+### Scale development: Theory and applications
+(2021)
+- C. DiStefano
+### The impact of categorization with confirmatory factor analysis
+### Structural Equation Modeling
+(2002)
+- ### European institute of gender equality: Gender equality and youth: Opportunities and risks of digitalisation - main report
+- M.B. Eisenberg \*et al.\*
+### Information literacy: Essential skills for the information age
+(2004)
+View more references
+## Cited by (28)
+\* ### [Which educational approaches predict students’ generative AI confidence and responsibility?](/science/article/pii/S2666920X25000712)
+2025, Computers and Education Artificial Intelligence
+Show abstract
+Given the risks and ethical concerns of integrating generative artificial intelligence (GenAI) into education, scholars have argued for a critical-reflective education approach that addresses the long-term implications of GenAI. However, empirical research on GenAI education approaches is scarce. This study investigates the prevalence of protective-preventive, critical-reflective, and creative-productive GenAI education approaches in highly digitized Swiss upper secondary schools and how students' experiences of these approaches relate to two aspects of their digital agency: GenAI confidence and GenAI responsibility. Using data from 2357 students, the results showed that the critical-reflective approach was the most commonly experienced and significantly predicted students’ GenAI confidence and responsibility. The creative-productive approach positively and significantly predicted GenAI confidence but not responsibility, while the protective-preventive approach, although the second most common approach, was not significantly related to either outcome. However, these approaches explained little variance in the dependent variables, suggesting that they may not yet be effectively implemented or that digital agency is primarily developed outside schools. Analysis of the control variables showed that identifying as a female had a negative significant effect on GenAI confidence and a positive significant effect on GenAI responsibility. The findings highlight the importance of adopting a critical-reflective GenAI education approach with attention to gender issues in fostering responsible and confident digital citizens.
+\* ### [Student-AI collaborative creative Problem-Solving: The role of human agency](/science/article/pii/S0360131525002015)
+2025, Computers and Education
+Show abstract
+As artificial intelligence (AI) becomes increasingly integrated into educational contexts, understanding how students collaborate with AI to enhance creativity is of growing importance. However, previous studies have shown that students tend to become overly reliant on AI during collaboration, leading to issues such as limited breakthrough innovations and homogenization of ideas in AI-dominated creative processes. Drawing on distributed cognition theory, which views AI as an extension of human cognition, this study explores how strengthening human agency can improve student-AI collaborative creative performance and support learners\*\*’\*\* development. In Experiment 1 (N = 170), students collaborated with AI on a creative problem-solving task, during which they were asked to think independently before or after collaborating with AI. Subjective experiences such as agency and perceived cognitive improvement were measured by questionnaires. The results showed that pre-collaboration thinking improved prompts quality and perceived cognitive improvement but did not enhance final creative output, possibly due to the limited persistence of human agency. Furthermore, Experiment 2 (N = 176) employed a similar task and measurements, and required students to integrate their own ideas with AI-generated content. This led to sustained improvements in both human agency and prompts quality, ultimately enhancing the creativity of final outputs and perceived cognitive improvement. These findings extend the application of distributed cognition theory to AI-supported creativity, highlighting the critical role of human-led idea integration and offering a novel perspective for future research on computer-supported creativity cultivation.
+\* ### [Integrating generative Artificial Intelligence into student learning: A systematic review from a TPACK perspective](/science/article/pii/S1747938X25000788)
+2025, Educational Research Review
+Show abstract
+Advances in Generative Artificial Intelligence (GenAI) have sparked widespread debate in education. According to a survey by the Digital Education Council (DEC), 86 percent of students use AI in their learning, with ChatGPT being the most widely used tool. Given that students constitute a considerable proportion of GenAI users, concerns arise regarding the potential misuse of this technology by students themselves. Consequently, researchers and educators should rethink how GenAI tools interacts with curriculum needs and pedagogical strategies, particularly through frameworks such as TPACK, to enhance student learning while mitigating potential risks. However, the state-of-the-art of integrating GenAI into student learning remains unclear. To address this gap, this study systematically reviewed high-quality empirical studies published after 30 November 2022 (release date of ChatGPT) on integrating GenAI into student learning from a TPACK perspective. The findings aim to provide an evidence-based foundation for future research and instructional design. For the former, we analyzed the 71 studies from the perspectives of publishing year, country/region of corresponding author, authorship type, sample size, learning stage, educational setting, duration, research method and focus, as well as the moderating effect of key research design variables on learning outcomes. For the latter, we analyzed the 71 studies from the perspectives of learning content, learning tool, pedagogical strategy, assessment method, and learning outcome, as well as the moderating effect of key instructional design variables on learning outcomes. Moreover, we also summarized the recommendations of these studies for future research and instruction. The empirical evidence suggested that GenAI has the potential to enhance student learning in cognitive, affective and behavioral domains. However, deficiencies in research and instructional design still remain, including short duration, small sample sizes, and incomplete pedagogical scaffolding, etc. Based on the review's findings, this study also identifies two critical priorities for future research and instruction.
+\* ### [AI literacy and gender equity in elementary education: A quasi-experimental study of a STEAM–PBL–AIoT course with questionnaire validation](https://doi.org/10.1186/s40594-025-00574-y)
+2025, International Journal of Stem Education
+\* ### [Negative Perceptions, Attitudes, and Adoption Intentions: Unravelling Metaverse Adoption Challenges](https://doi.org/10.1002/cb.70036)
+2025, Journal of Consumer Behaviour
+\* ### [Unveiling AI literacy in K-12 education: a systematic literature review of empirical research](https://doi.org/10.1080/10494820.2025.2482586)
+2025, Interactive Learning Environments
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-85213202681&md5=73818dbeb51c112529acaf1b148ef1a1)
+\*\*Baichang Zhong\*\* (Ph.D) is a distinguished professor from School of Information Technology in Education at South China Normal University, China. He has published over 200 academic papers in Chinese and international journals indexed by CSSCI and SSCI in the field of educational technology.
+\*\*Xiaofan Liu\*\* is an excellent PhD student of educational technology at South China Normal University in China. Her research interests cover STEM education and AI education.
+[View full text](/science/article/pii/S0360131524002446)
+© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+## Recommended articles
+\* ### [Having qualified arguments: Promoting Pre-service teachers’ critical thinking through deliberate computer-assisted argument mapping practices](/science/article/pii/S1871187122002176)
+Thinking Skills and Creativity, Volume 47, 2023, Article 101216
+ElanurYilmaz-Na, ElifSönmez
+\* ### [Exploration of domains of educational purpose in K-12 data literacy education research](/science/article/pii/S1747938X24000721)
+Educational Research Review, Volume 46, 2025, Article 100663
+JanneFagerlund, …, PekkaMertala
+\* ### [Data literacy of principals in K–12 school contexts: A systematic review](/science/article/pii/S1747938X24000587)
+Educational Research Review, Volume 45, 2024, Article 100649
+JihyunLee, …, Jan Michael VincentAbril
+\* ### [Automated feedback improves teachers’ questioning quality in brick-and-mortar classrooms: Opportunities for further enhancement](/science/article/pii/S0360131524001970)
+Computers & Education, Volume 227, 2025, Article 105183
+DorottyaDemszky, …, ArielChung
+\* ### [Impacts of generative AI on student teachers' task performance and collaborative knowledge construction process in mind mapping-based collaborative environment](/science/article/pii/S0360131524002410)
+Computers & Education, Volume 227, 2025, Article 105227
+ShuowenAn, …, ZhihuiCai
+\* ### [How does social support detected automatically in discussion forums relate to online learning burnout? The moderating role of students’ self-regulated learning](/science/article/pii/S0360131524002276)
+Computers & Education, Volume 227, 2025, Article 105213
+ChangqinHuang, …, DiZhang
+Show 3 more articles
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131524002446)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

@@ -1,6 +1,11 @@
 # 论文档案
 
 ## 基本信息
+## 摘要
+- **标题**: College Students' Intention to Use AI Tools in Academia - **作者**: EunHae (Grace) Park, SeongMi Lim, Moon-Heum Cho - **期刊**: International Journal of Emerging Technologies in Learning (iJET)
+
+**摘要状态**：✅已补充（内容提取）
+
 - **标题**: College Students' Intention to Use AI Tools in Academia
 - **作者**: EunHae (Grace) Park, SeongMi Lim, Moon-Heum Cho
 - **期刊**: International Journal of Emerging Technologies in Learning (iJET)
@@ -15,3 +20,5 @@
 
 ## 原文链接
 https://online-journals.org/index.php/i-jet/article/view/58065
+
+**审核状态**：✅已补审（历史遗留文件）

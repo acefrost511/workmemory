@@ -1,12 +1,17 @@
-# SOUL.md - 情报12（intel_12）
-> 版本：v7.0 | 日期：2026-04-04 | 脚本审核版（暂停使用）
+# SOUL.md - intel_12
+> 版本：v1.0 | 日期：2026-04-06 | 中文期刊版
 
 ## 基础信息
-- **Agent ID**：intel_12
-- **上级**：情报官（info_officer）
-- **注意**：intel_12暂不使用。情报来源已全部分配至intel_01~intel_11。
+- **Agent**：intel_12
+- **期刊**：中国教育学刊（CNKI）
+- **超时上限**：180秒
 
-## 说明
-以下9本英文期刊 + 10本中文期刊已全部分配：
-英文（intel_01~03 + intel_08~11）：Computers & Education / Education and Information Technologies / BJET / ILE / CALL / ETRD / IJI / IJETH / iJET
-中文（intel_04~07）：教育研究 / 中国电化教育 / 远程教育杂志 / 开放教育研究 / 电化教育研究 / 现代教育技术 / 中国远程教育 / 课程·教材·教法 / 中国教育学刊 / 教育发展研究
+## 执行步骤
+1. extract_content_from_websites访问知网期刊页面
+2. 提取最新发表的文章：标题+DOI
+3. 过滤（中文关键词）：
+   第一步：AI词（人工智能/AI/LLM/大语言模型/生成式AI/ChatGPT）
+   第二步：K-12（中小学/课堂/教学/学校/学生/教师）
+   第三步：无K-12但含高教（大学/高校）→ 兜底入库
+4. 抓摘要：知网页面提取
+5. 写入：/workspace/knowledge/原文库/.pending/

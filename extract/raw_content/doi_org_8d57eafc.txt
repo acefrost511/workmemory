@@ -1,0 +1,795 @@
+# Source URL: https://doi.org/10.1007/s10639-026-13939-9
+# Content Length: 79186 characters
+# Extracted at: 2026-04-05 14:29:14
+#============================================================
+
+
+
+
+
+
+
+
+
+Linguistic differences between self-written and generative AI-assisted student texts in Dutch bachelor CS education | Education and Information Technologies | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/10639/article&sz=728x90&pos=top&articleid=s10639-026-13939-9)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s10639-026-13939-9)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Education and Information Technologies](/journal/10639)
+3. Article
+
+Linguistic differences between self-written and generative AI-assisted student texts in Dutch bachelor CS education
+===================================================================================================================
+
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published: 16 March 2026
+
+* (2026)
+* [Cite this article](#citeas)
+
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](/content/pdf/10.1007/s10639-026-13939-9.pdf)
+
+
+[Save article](/article/10.1007/s10639-026-13939-9/save-research?_csrf=PQCq5WEi2Q9RiUWZUYTB9-sY4AnWdsuf)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Education and Information Technologies](/journal/10639)
+[Aims and scope](/journal/10639/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/eait)
+
+
+
+
+Linguistic differences between self-written and generative AI-assisted student texts in Dutch bachelor CS education
+
+[Download PDF](/content/pdf/10.1007/s10639-026-13939-9.pdf)
+
+
+
+
+
+* [Jan Willem Boer](#auth-Jan_Willem-Boer-Aff1-Aff2) 
+  [ORCID: orcid.org/0009-0005-8275-9276](https://orcid.org/0009-0005-8275-9276)[1](#Aff1),[2](#Aff2) &
+* [Howard Spoelstra](#auth-Howard-Spoelstra-Aff1)[1](#Aff1)
+
+* 408 Accesses
+* [Explore all metrics](/article/10.1007/s10639-026-13939-9/metrics)
+
+
+
+Abstract
+--------
+
+Generative AI, such as ChatGPT, has made it possible for students to generate texts and submit them as their own work. This has implications for assessment in formal education, and therefore institutions are exploring ways to detect their use. This study investigates the potential of linguistic analysis for this purpose, focusing on text characteristics such as readability, perplexity and sentiment. A quantitative experiment examined the extent to which student-written texts differ from texts that were written with the help of ChatGPT. For the study, first-year students in a bachelor computer science program at a Dutch university of applied sciences wrote 65 short texts, approximately half of which were written with the help of ChatGPT. Although the multivariate test did not show significant results, univariate analyses indicated that the student-written texts were easier to read, showed higher perplexity and contrary to expectation, less evaluative language. A discriminant analysis showed that text origins could be determined with 94% accuracy using these characteristics. Additionally, 21 teachers classified random subsets of texts. 76% were correctly classified, but 19% of self-written texts were mistakenly identified as written with the help of generative AI. The results suggest that linguistic characteristics can provide an indication of text origin, but both automatic and human analysis should be approached with caution due to their limited accuracy.
+
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Applied Linguistics](/subjects/applied-linguistics)
+* [Computational Linguistics](/subjects/computational-linguistics)
+* [Corpus Linguistics](/subjects/corpus-linguistics)
+* [Language Processing](/subjects/language-processing)
+* [Linguistics](/subjects/linguistics)
+* [Natural Language Processing (NLP)](/subjects/natural-language-processing-nlp)
+* [Artificial Intelligence Applications in Higher Education](/subjects/artificial-intelligence-applications-in-higher-education)
+
+1 Introduction
+--------------
+
+In November 2022, the availability of the Large Language Model-based (LLM) chatbot ChatGPT (OpenAI, [2022](/article/10.1007/s10639-026-13939-9#ref-CR26)) (as opposed to earlier rule-based chatbots) caused a stir in the educational domain. Students were suddenly able to use this tool to generate texts and submit them as original work (Lo, [2023](/article/10.1007/s10639-026-13939-9#ref-CR22); Zhai, [2022](/article/10.1007/s10639-026-13939-9#ref-CR49)). Reports appeared in the media that students were making extensive use of Generative AI (GenAI) to write texts, while teachers failed to notice their use (Schellevis & Moerland, [2023](/article/10.1007/s10639-026-13939-9#ref-CR37)). Educators feared that the assessment of student skills could no longer be based on assignments to write texts (Rudolph et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR34)).
+
+In response to the development of chatbots, detection tools were created to attempt to distinguish self-written text from artificially generated texts (e.g. Scribbr, [n.d.](/article/10.1007/s10639-026-13939-9#ref-CR38); Turnitin, [n.d.](/article/10.1007/s10639-026-13939-9#ref-CR43)). The detection of the origin of texts was seen as useful in the educational field while combatting the unallowed use of GenAI (Cotton et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR6)). However, in formally accredited education detection should show a very high level of correctness, as positive detection can result in accusations of fraud. Several studies have shown that the reliability of available detection tools may not be high enough to meet these requirements (cf. Chaka, [2023](/article/10.1007/s10639-026-13939-9#ref-CR4); Pegoraro et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR31); Walters, [2023](/article/10.1007/s10639-026-13939-9#ref-CR44)). Furthermore, as it is often unclear on which text characteristics the detection takes place, retraceable evidence is lacking to substantiate allegations of fraud (Weber-Wulff et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR47)).
+
+Most detection tools focus on the English language. Although there are initiatives to develop multilingual detection tools or tools specific for the Dutch language and for academics with some promising results, the tools still perform worse than tools for English, and some tools with the best results use an LLM for detection, making the detection process opaque (e.g. Fivez et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR9); Qorich & El Ouazzani, [2025](/article/10.1007/s10639-026-13939-9#ref-CR33); Wang et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR46)). At the moment, more research is needed to determine whether and how the origin of a Dutch academic text can be unambiguously and transparently detected.
+
+Research into detecting the origin of a text has shown that there are linguistic differences between self-written and generated texts (Tang et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR40)). Investigating these differences for Dutch texts could provide a basis for detecting linguistic signals in texts that indicate the involvement of GenAI tools. With the research presented here we try to answer the question of to what extent linguistic characteristics can serve as markers for the use of GenAI in student-submitted texts in the Dutch language.
+
+The remainder of the article is structured as follows. First, we provide some background in approaches for detection. Next, we introduce the variables that were used in this study to detect linguistic differences. The method section will explain the design of the study. The outcome of the study will be described in the results section. Finally, we will discuss the implications and future directions of study.
+
+2 Detection approaches of GenAI-assisted texts
+----------------------------------------------
+
+Investigating whether a human can distinguish a computer-generated text from human-written text has always been an important area of research in AI (Oppy & Dowe, [2021](/article/10.1007/s10639-026-13939-9#ref-CR27)). According to Tang et al. ([2024](/article/10.1007/s10639-026-13939-9#ref-CR40)), texts created by prompting LLMs leave detectable traces of LLM usage in these texts. They identify two methods for LLM detection: white box detection and black box detection. White box detection, however, assumes the researcher has access to the LLM itself and can manipulate it in such a way that, for example, a hidden watermark, in the form of a detectable pattern, can be embedded in the text. This approach is not relevant for this research, which focuses on situations where the text may have been produced with the intent to conceal its origin. In black box detection, the researcher only has access to the LLM’s output, which is then compared with human-written texts. In this study we focus on black box detection.
+
+Distinguishing between generated texts and self-written texts can be done by analyzing linguistic characteristics of both types of texts and then comparing them with each other. There are several studies that investigated detection of generated texts using this method (e.g. Emara, [2025](/article/10.1007/s10639-026-13939-9#ref-CR7); Fröhling & Zubiaga, [2021](/article/10.1007/s10639-026-13939-9#ref-CR10); Gehrmann et al., [2019](/article/10.1007/s10639-026-13939-9#ref-CR11); Guo et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR14); Markowitz et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR23); Opara, [2024](/article/10.1007/s10639-026-13939-9#ref-CR25); Tang et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR40)). For detection purposes, the common denominator of many of these studies is a focus on three particular text characteristics: perplexity, readability and sentiment (Emara, [2025](/article/10.1007/s10639-026-13939-9#ref-CR7); Giorgi et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR12); Guo et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR14); Markowitz et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR23); Opara, [2024](/article/10.1007/s10639-026-13939-9#ref-CR25); Tang et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR40)).
+
+3 Perplexity, readability and sentiment
+---------------------------------------
+
+The *perplexity* of a word is defined as the probability of the occurrence of this word in a certain corpus of text, based on a number of words that precede and follow it. The value on this characteristic indicates the degree of unpredictability of a word in a sentence (Wu et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR48)). Texts generated by an LLM-based chatbot are often characterized by low average perplexity, because they mimic common patterns found in the texts on which they were trained (Tang et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR40)). Texts written by humans are often more unpredictable, as humans use their own unique language. This causes self-written texts to often show higher levels of perplexity (Guo et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR14)).
+
+*Readability* is used as a measure indicating how easy it is to read a text. Texts with short words and sentences are perceived as having a higher readability. According to Giorgi et al. ([2023](/article/10.1007/s10639-026-13939-9#ref-CR12)), Markowitz et al. ([2023](/article/10.1007/s10639-026-13939-9#ref-CR23)) and Tang et al. ([2024](/article/10.1007/s10639-026-13939-9#ref-CR40)), self-written texts often have a higher readability, i.e., are easier to read, compared to texts generated by using an LLM.
+
+The value of *sentiment* in a text is determined by the number of words that express negative or positive emotion (Barbieri et al., [2022](/article/10.1007/s10639-026-13939-9#ref-CR3)). A study by Guo et al. ([2023](/article/10.1007/s10639-026-13939-9#ref-CR14)) found that the value of the sentiment characteristic in generated texts was more neutral compared to self-written texts: in self-written texts, significantly more negative sentiment and somewhat more positive sentiment was found compared to generated texts. This finding was corroborated in other studies (Tang et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR40)).
+
+4 Current study
+---------------
+
+The aim of the current study is to determine the extent to which values on the linguistic characteristics introduced above can be used to detect the origin of Dutch-language texts. Our research questions are:
+
+1. 1.
+   
+   How do scores on perplexity, readability, and sentiment in texts written with the help of ChatGPT differ from the scores in Dutch-language texts written by humans?
+2. 2.
+   
+   With what degree of reliability can these differences be used to determine the origin of a text in the Dutch language?
+
+Literature indicates that the measures of perplexity, readability and sentiment should show higher values in self-written texts, when compared to GenAI-assisted texts (Giorgi et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR12); Guo et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR14); Markowitz et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR23); Tang et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR40)). Therefore, our hypotheses for the respective research questions are:
+
+### H1
+
+Scores on all three characteristics will show higher values in self-written Dutch text, compared to Dutch texts written with the help of ChatGPT.
+
+### H2
+
+If differences between values on the characteristics exist, further discriminatory analysis may allow automatic classification with an accuracy of approximately 90%.
+
+It is important to note that the distinction between self-written and generated text is not a strictly binary one. While the self-written texts involve no use of GenAI at all, the GenAI-assisted condition represents a heterogeneous mix of various ways students can use GenAI to generate or improve their work. Consequently, this study is best understood as an exploration of linguistic signals that characterize texts with a mixed authorship.
+
+5 Method
+--------
+
+### 5.1 Design and participants
+
+For the study, university students of a Dutch computer science bachelor program were recruited who were in the last quarter of the first year. These students ranged in age from 17 to about 22 years. Students were invited in person to volunteer for the study during a class of one of their courses in the quarter. About 100 students were attending. Of these, 66 students participated in the study. The participants were randomly assigned to one of two groups. The control group wrote the texts themselves, while the experimental group wrote texts with the help of ChatGPT. Students in the ChatGPT group did not get instructions on how to use the tool and were allowed to use it as they saw fit.
+
+### 5.2 Measuring instruments and materials
+
+All participants were asked to write texts with a length of approximately 300 words about technical aspects of three courses on computer science. Only these texts were used for the study, no personal data was collected.
+
+In their study, Markowitz et al. ([2023](/article/10.1007/s10639-026-13939-9#ref-CR23)) used various programs to analyze texts, namely LIWC (Tausczik & Pennebaker, [2010](/article/10.1007/s10639-026-13939-9#ref-CR41)) and Coh-Metrix (Graesser et al., [2004](/article/10.1007/s10639-026-13939-9#ref-CR13)). Although these programs work well on English texts, they cannot be applied to Dutch texts without adaptions. However, for the analysis of Dutch texts, the program T-Scan is available (Pander Maat et al., [2014](/article/10.1007/s10639-026-13939-9#ref-CR29)). To analyse texts on the characteristics mentioned earlier, the outcome measures of T-Scan had to be mapped onto these characteristics. T-Scan provides most outcome measures at three different levels: on the overall text, on individual sentences and on the level of each particular word. For the purposes of this study, the measures on the overall text level were used for all characteristics.
+
+### 5.3 Perplexity
+
+For perplexity, T-Scan yields two measures, which are based on a language model trained on newspaper articles (Pander Maat et al., [2021](/article/10.1007/s10639-026-13939-9#ref-CR28)). The two measures of perplexity are forward and backward perplexity. The first indicates the probability of a word occurring based on the words that preceded it, the second indicates the probability of a word occurring based on the words that come after it. Both measures use a trigram calculation: the perplexity represents the probability of a word based on two other words. The lower the perplexity, the more predictable the text is. Because the perplexity of a sentence correlates with the length of the sentence, the measures should be normalized by sentence length. In T-scan these measures are called *Perplexiteit\_fwd\_norm* and *Perplexiteit\_bwd\_norm*. To determine the overall perplexity level the average of these two measures was taken.
+
+### 5.4 Readability
+
+In T-Scan, readability is available as *LiNT\_score* (Pander Maat et al., [2021](/article/10.1007/s10639-026-13939-9#ref-CR28)). While traditional readability instruments tend to rely mainly on measuring syntactic complexity, this instrument, called the *Leesbaarheidsinstrument voor Nederlandse Teksten* (LiNT), also takes lexical complexity and coherence markings into account, based on a formula that was developed and validated in research conducted with Dutch secondary school students (Kleijn, [2018](/article/10.1007/s10639-026-13939-9#ref-CR18); Pander Maat, [2012](/article/10.1007/s10639-026-13939-9#ref-CR30)). In contrast to traditional readability scores the LiNT readability score is higher for texts that are harder to comprehend, and lower for texts that are easier to digest.
+
+### 5.5 Sentiment
+
+In T-Scan, sentiment is measured with evaluative measures, which imply a positive or negative judgment of the writer. T-Scan measures this in three different ways: based on adjectives that describe something as being positive or negative (e.g. “noisy”), based on words that express a positive or negative evaluation of the matter (e.g. “unwise”), or based on epistemic evaluation (e.g. “valid”). These are the measures *spec\_ev\_bvnw\_d*, *alg\_ev\_bvnw\_d* and *ep\_ev\_bvnw\_d* (Pander Maat et al., [2021](/article/10.1007/s10639-026-13939-9#ref-CR28)). Higher scores indicate more evaluative language in the text. In this study, the average of these three measures is used. The measures are density measures, which means these measures are also normalized for length.
+
+### 5.6 Procedure
+
+In one of the last weeks of the program, all first-year classes were visited by the researcher to explain the research and to ask the students to participate. Students who wanted to participate were randomly assigned to the control group or experimental group. Depending on this, they were given the assignment for their own group. Students were also given access to the consent form and the extensive information about the research. Students could now still choose not to participate. Students who wanted to participate were asked to send the consent form with the assignment form on which they handed in their texts. Two gift vouchers of 40 euros were later raffled among all participants.
+
+Each participant was asked to produce a text on a number of topics addressed in the first semester of the program. They were prompted by three questions. The text had to be about 300 words long in total. The experimental group was instructed to create the text with the help of ChatGPT 3.5. The control group was not allowed to use any GenAI. Both groups were supervised by the researcher during the execution of the assignment to make sure the students were adhering to the assignment. After completing the assignment, the students sent their texts to the dedicated email address.
+
+### 5.7 Text preprocessing for T-scan
+
+The submitted texts were checked and altered where needed, to make sure the texts were technically suitable for analysis by T-Scan as instructed by the T-Scan manual. All punctuation marks, whitespace, and quotation marks were normalized. All paragraphs were merged together without headings. Technical names that contain a period cause T-Scan to incorrectly detect a sentence ending and were therefore replaced by a period-less, pascal case variant (e.g., “Node.js” became “NodeJS”). T-Scan recognizes words that start with an upper-case letter as a name. Names that did not start with an upper-case letter were corrected for this reason (e.g., “java” became “Java”). Words that were unrecognizable to T-Scan due to spelling mistakes were also corrected (e.g., “geneog” became “genoeg”), and compound words that were incorrectly separated were also corrected (e.g., “groten deels” became “grotendeels”). These corrections were applied to texts in both groups to enable T-Scan analysis, not to improve text quality. Only orthographic changes were made; meanings were never altered.
+
+One of the texts was not in accordance with the assignment and therefore excluded. In one text, the name of a student was replaced by a generic name to prevent any chance of recognition.
+
+### 5.8 Data-analysis
+
+The 65 remaining texts were submitted to T-Scan for analysis. The statistical analyses involved comparing the text’s perplexity, readability and sentiment measures from both groups using a multivariate analysis, followed up by univariate analyses. A significance level (α) of 0.05 was used. To control for multiple comparisons, Bonferroni correction was applied, leading to an adjusted α of 0.0083.
+
+To detect any outliers, a box plot with outliers was generated for each outcome measure. If this showed that a text caused outliers, then that text was further investigated. All analyses were done with R (R Core Team, [2021](/article/10.1007/s10639-026-13939-9#ref-CR5)). The scripts used for this purpose, together with all data gathered are available upon reasonable request from the first author.
+
+### 5.9 Exploratory research
+
+People tend to overestimate their skill in distinguishing student-written from GenAI-assisted texts (Jakesch et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR16)). To explore teachers’ capability to distinguish between the two, teachers were asked to participate in an exploratory study. For each participating teacher, an automated system selected a random subset of 15 texts from the entire set. Each text was presented separately, and the teacher was asked to indicate whether they thought the text was self-written or written with the help of ChatGPT. Before completing their set, they were also asked to name characteristics on which they based their decisions. Upon completion, they were presented with their score, but they did not get any feedback on individual texts. From their comments about distinguishing characteristics, we compiled a list of frequently mentioned characteristics. Characteristics available in T-Scan were statistically compared between the groups.
+
+6 Results
+---------
+
+### 6.1 Descriptive statistics
+
+65 texts suitable for processing were submitted by students. Of these texts, 32 texts were written with the help of ChatGPT and 33 were written by the students themselves. The texts were on average 271 words long (*M* = 271, *SD =* 67.5). The ChatGPT group used more words per text (*M* = 300, *SD* = 49.7) compared to the self-writers (*M =* 245, *SD* = 71.4).
+
+Readability, perplexity and sentiment were inspected per group to determine whether there were outliers. This was done by means of box plots (see Fig. [1](/article/10.1007/s10639-026-13939-9#Fig1)). The box plots showed a striking outlier in perplexity by a self-writer. This turned out to be a text in which the student used virtually no punctuation, which negatively influences T-Scan’s perplexity calculation. Therefore, this text was removed from the set. The texts that caused outliers in sentiment were also examined. However, this did not give reason to delete those from our set.
+
+**Fig. 1**
+
+![]()[Full size image](/article/10.1007/s10639-026-13939-9/figures/1)
+
+Box plots of the measures readability, perplexity and sentiment. X-axis: group; y-axis: measure value. Perplexity and sentiment show some outliers
+
+### 6.2 Analysis
+
+To verify MANOVA assumptions, the Shapiro-Wilk test was performed, showing that the distribution of the data deviated significantly from normality (*W* = 0.89, *p* <.001). Box’s M test indicated heterogeneous covariance matrices (*χ2* = 17.11, *p* =.009). Based on this, it was decided to carry out a robust alternative instead of a MANOVA, namely the Brunner-Munzel analysis (Field, [2018](/article/10.1007/s10639-026-13939-9#ref-CR8); Karch, [2021](/article/10.1007/s10639-026-13939-9#ref-CR17)).
+
+The Brunner-Munzel analysis was performed to determine whether the group (ChatGPT or self-writers) had an effect on readability, perplexity and sentiment. This analysis showed that there was a small effect, that was not significant with a Bonferroni corrected alpha of 0.0083, *p̂*\*(180.81) = − 2.3, *p* =.021, *p̂*” = 0.403. The value of *p̂*” indicates a relative effect size where 0.5 indicates no difference between groups. Subsequently, univariate analyses showed that the group had a significant effect on all measures, see Table [1](/article/10.1007/s10639-026-13939-9#Tab1). In terms of readability, the effect was very large, with self-writers writing “simpler” than ChatGPT writers. With perplexity, the effect was medium-sized and texts by self-writers had a higher perplexity than ChatGPT writers. In the case of sentiment, the effect was medium, but contrary to the hypothesis, the texts of the ChatGPT writers showed more sentiment compared to those of the self-writers.
+
+**Table 1 Results of the univariate Brunner-Munzel analyses**
+
+[Full size table](/article/10.1007/s10639-026-13939-9/tables/1)
+
+A follow-up robust linear discriminant analysis was performed on the standardized values, using the Linda function from the *rrcov* package (Todorov & Filzmoser, [2009](/article/10.1007/s10639-026-13939-9#ref-CR42)). Classification accuracy was validated on a 25% holdout sample that was stratified per group. This showed that group (ChatGPT or self-writers) could be predicted with a reliability of 0.94 *CI* [0.70, 1.00], *p* <.001, *κ* = 0.88, from the variables readability, perplexity and sentiment. The linear coefficients showed that readability was the strongest predictor of the origin of the text, see Table [2](/article/10.1007/s10639-026-13939-9#Tab2); Fig. [2](/article/10.1007/s10639-026-13939-9#Fig2).
+
+**Table 2 Linear coefficients of the standardized values of readability, perplexity, and sentiment by group**
+
+[Full size table](/article/10.1007/s10639-026-13939-9/tables/2)
+
+**Fig. 2**
+
+![]()[Full size image](/article/10.1007/s10639-026-13939-9/figures/2)
+
+Three-dimensional scatterplot of the discriminant analysis predictors. X-axis: perplexity; y-axis: sentiment; z-axis: readability. Red points represent texts that were generated; blue points represent self-written texts.
+
+On the basis of these results our first hypothesis (scores on all three characteristics will show higher values in self-written Dutch text, compared to Dutch texts written with the help of ChatGPT) must be largely rejected. Although the multivariate results were not significant after Bonferroni correction, exploratory univariate analyses showed effects in all three measures, the effect on readability being very large, but the effect on sentiment being the reverse of what was expected. The second hypothesis, that these differences allow the origin of the text to be detected with about 90% reliability, can be accepted with the results of the discriminant analysis.
+
+### 6.3 Results of exploratory research
+
+In the exploratory research 21 teachers participated. The teachers correctly classified 76% of the texts as being written with the help of ChatGPT or being self-written, and were better at recognizing the self-written texts than the ChatGPT-assisted texts (see Table [3](/article/10.1007/s10639-026-13939-9#Tab3)). The percentages of correctly classified texts ranged from 47% to 100%, and were normally distributed (*M* = 75.6%, *SD* = 12.3), with slightly more teachers scoring below average than above average (see Fig. [3](/article/10.1007/s10639-026-13939-9#Fig3)). Inter-rater reliability was calculated using Krippendorff’s alpha. This indicated low agreement between teachers, *α* = 0.37.
+
+**Table 3 Classification of texts by teachers**
+
+[Full size table](/article/10.1007/s10639-026-13939-9/tables/3)
+
+**Fig. 3**
+
+![]()[Full size image](/article/10.1007/s10639-026-13939-9/figures/3)
+
+Histogram of the percentages of correctly classified texts per teacher. X-axis: accuracy percentage; y-axis: number of teachers
+
+Teachers were asked to explain on what basis they made their classification decisions. The answers to these questions showed that teachers saw errors in spelling and grammar, more sentiment and more personal pronouns as signs of self-writers. They also suspected longer texts with a richer vocabulary to be written with the help of ChatGPT, see Table [4](/article/10.1007/s10639-026-13939-9#Tab4).
+
+**Table 4 Reasons for teachers to classify texts as originating from ChatGPT or self-written**
+
+[Full size table](/article/10.1007/s10639-026-13939-9/tables/4)
+
+These answers were compared with the measurements that T-Scan provides per text to find additional characteristics with which the origin of texts could be distinguished. For the richer vocabulary, the T-Scan measure density of content words (*inhwrd\_d*) could be used. Based on the number of unique nouns, verbs, adjectives and adverbs, this measure gives an indication of the information richness of the text (Pander Maat et al., [2021](/article/10.1007/s10639-026-13939-9#ref-CR28)). The absolute length of the text in letters was not available in T-Scan, but could be obtained by multiplying the number of words (*word\_per\_doc)* by the average number of letters per word (*let\_per\_wrd).* For personal pronouns, T-Scan had as a measure the density of all personal and possessive pronouns (*pers\_vnw\_d*). Sentiment had already been included in the earlier analysis. No measures were available in T-Scan for incorrect content, structured answering of the questions, spelling and grammar errors.
+
+The variables were again examined for outliers by means of box plots (see Fig. [4](/article/10.1007/s10639-026-13939-9#Fig4)). Examining the texts that caused the outliers did not give reason to remove texts from the set. To check whether this data was normally distributed, the Shapiro-Wilk test was performed. This showed that the distribution of the data deviated significantly from normality (*W* = 0.92, *p* <.001), therefore the Brunner-Munzel test was again chosen for the multivariate analysis.
+
+**Fig. 4**
+
+![]()[Full size image](/article/10.1007/s10639-026-13939-9/figures/4)
+
+Boxplots of the exploratory measures text length, content words and personal pronouns. X-axis: group; y-axis: measure value
+
+The Brunner-Munzel analysis showed that the group (ChatGPT or self-writers) had a significant medium-sized effect on text length, content words, and personal pronouns, *p̂*\*(187.05) = − 3.2, *p* =.002, *p̂*” = 0.373. All univariate follow-up analyses showed a significant effect, with a large to very large effect (see Table [5](/article/10.1007/s10639-026-13939-9#Tab5)), with ChatGPT writers indeed writing longer texts with more content words and self-writers using more personal pronouns.
+
+**Table 5 Outcomes of the exploratory univariate Brunner-Munzel analyses**
+
+[Full size table](/article/10.1007/s10639-026-13939-9/tables/5)
+
+These analyses were also followed up with a robust discriminant analysis on the standardized values. This showed that group (ChatGPT or self-writers) could be predicted with a reliability of 0.94 *CI* [0.70, 1.00], *p* <.001, *κ* = 0.88 from the variables length of the text, content words and personal pronouns. The linear coefficients showed that text length and content words were the strongest predictors (see Table [6](/article/10.1007/s10639-026-13939-9#Tab6); Fig. [5](/article/10.1007/s10639-026-13939-9#Fig5)).
+
+**Table 6 Linear coefficients of the standardized values of text length, content words, and pronouns by group**
+
+[Full size table](/article/10.1007/s10639-026-13939-9/tables/6)
+
+**Fig. 5**
+
+![]()[Full size image](/article/10.1007/s10639-026-13939-9/figures/5)
+
+Three-dimensional scatterplot of the discriminant analysis predictors. X-axis: text length; y-axis: personal pronouns; z-axis: content words. Red points represent texts that were generated; blue points represent self-written texts
+
+7 Discussion
+------------
+
+### 7.1 Linguistic differences
+
+After students started using GenAI on a large scale in their academic writing, educational institutions have started looking for ways to recognize GenAI-assisted texts as such (Cotton et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR6)). Our research aimed to answer the question to what extent linguistic characteristics can function as markers for determining the origin of a text. When interpreting the findings, it should be noted that the “ChatGPT” condition encompasses a wide range of ways students interacted with the tool. Although this is ecologically valid, it means the findings cannot be attributed to the use of ChatGPT per se, but rather reflect the characteristics of a mixed authorship.
+
+The research questions were:
+
+1. 1.
+   
+   How do scores on perplexity, readability, and sentiment in texts written with the help of ChatGPT differ from the scores in Dutch-language texts written by humans?
+2. 2.
+   
+   With what degree of reliability can these differences determine the origin of a text in the Dutch language?
+
+The hypothesis for the first research question was that the origin of the text is related to all these linguistic measures and that self-written texts will show higher values on all these measures than texts written with the help of ChatGPT. This hypothesis must be largely rejected. Although univariate analyses showed effects in all measures, the overall multivariate results were not significant after correction for multiple testing. Moreover, the effect on sentiment was different than expected.
+
+Most notable in the univariate analyses was the observed effect on readability. The self-written texts seemed to be considerably easier to read than the texts written with the help of ChatGPT. This is in line with other research on readability in student reports, which also found that self-writers wrote texts that were easier to read than when ChatGPT had been used (Herbold et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR15); Nkhobo & Chaka, [2023](/article/10.1007/s10639-026-13939-9#ref-CR24)).
+
+Perplexity also seemed to be higher in the texts of self-writers than those of the other group, but with a less prominent effect. That is also in line with other research. A recent study by Liu et al. ([2024](/article/10.1007/s10639-026-13939-9#ref-CR21)) showed that perplexity sometimes is not distinctive enough to base recognition on. Furthermore, T-Scan’s perplexity model was trained on newspaper articles, which may introduce noise when applied to the writing of our computer science students.
+
+An interesting finding is that the effect on sentiment was unexpected. This reversal could be caused by the interplay of the expected formal writing style of the genre, the tendency of GenAI to lard texts with positive adjectives and the limitations of lexical analysis for detecting sentiment. The effect was slightly larger than with perplexity, with the texts of the ChatGPT writers containing more sentiment than those of the self-writers. The context in which the texts were written could be a factor. Students who write about their technical work, may tend to do so in a neutral way, because they are instructed to do so in the curriculum. In contrast, ChatGPT-assisted texts tend to have a positive, affirmative tone, which may produce a systematically higher density of evaluative words (Sharma et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR39)). ChatGPT consistently decorates the text with evaluative epithets, which are also recognized as such by T-Scan. For example, GenAI-assisted texts often describe elements as “crucial”, “powerful”, or “valuable”. A similar reverse effect on sentiment was found in recent research on student diaries: there, too, ChatGPT diary entries scored higher on sentiment than the self-written texts (S. Wang et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR45)). An additional consideration is that human sentiment in the Dutch student texts can be subtle and hard to detect. The lexicon-based approach of T-Scan is not able to detect irony and sentiment that is expressed by implication. As an example, one student wrote: “ik vond het niet zo interessant” (“I didn’t find it that interesting”). Another student: “er was niet veel IT aan” (“there wasn’t much IT to it”). Given the context, a description of an IT course, this is a very negative sentiment, but T-Scan can only recognize sentiment in individual words.
+
+The hypothesis for the second research question was that with these differences the origin of the text could be predicted with about 90% certainty. This hypothesis is accepted, based on the discriminant analysis. Despite the fact that the direction of the relationship in sentiment is the other way around than expected, the origin of the text can be determined automatically with a fairly high degree of certainty on the basis of the three linguistic measures for the analyzed texts: in 94% of the cases the classification was correct. This is comparable to the reliability of publicly available instruments for English texts. In a recent study, a tool widely used in education achieved 91% detection of generative AI in English-language texts (Perkins et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR32)). Although the reliability of the results in our study was high, it should be noted that the statistics lack power and had no controls for variability in prompting behavior, and thus do not provide sufficient certainty to prove the use of generative AI in academic integrity procedures, also given the fact that the multivariate analysis showed a small effect that was not significant. This apparent tension may be caused by the discriminant analysis combining multiple, correlated variables for its prediction, achieving high accuracy even when individual tests lack significance. The small sample may cause the model to capture sample-specific characteristics that are not generally applicable. Given also the wide confidence interval (CI [0.70, 1.00]), the results should be considered a proof-of-concept rather than a validated detection instrument.
+
+Furthermore, the use of this particular linguistic analysis in education may be difficult to achieve in practice. First, in order to be useful for T-Scan, the texts must first be corrected for spelling errors and for incorrect or unwanted use of capital letters and punctuation. Although these corrections were solely done in both conditions to enable T-Scan to process the texts correctly without altering meaning, the postprocessing of the text could be understood as an analytic intervention rather than a neutral step, since it cannot be entirely ruled out that the changes affect the measured characteristics. This is especially true for the self-written texts, that contain more errors than the GenAI-assisted texts, which could disproportionately affect these types of texts. Secondly, the perplexity analysis of T-Scan was found to give anomalous results due to a certain text, so this characteristic cannot simply be used reliably for texts without further refinement.
+
+### 7.2 Exploratory research among teachers
+
+In the exploratory part of this study, three additional measures were examined based on input from teachers: length of the text, content words and personal pronouns. In this part, a significant difference was found between the two groups for these three measures, with text length and content words for the texts written with the help of ChatGPT scoring higher with a very large effect and personal pronouns for self-writers scoring higher with a large effect. The finding for content words is in line with other research, where a larger vocabulary was also found when using ChatGPT (Herbold et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR15); Zindela, [2023](/article/10.1007/s10639-026-13939-9#ref-CR50)). Little research exists on personal pronouns. A study by Amirjalili et al. ([2024](/article/10.1007/s10639-026-13939-9#ref-CR2)) found just the opposite, namely that texts written with the help of ChatGPT used more personal pronouns than self-written texts. The difference may be explained by the fact that the texts in the study in question were scientific texts, where personal pronouns are typically avoided. Although little research has been done on the length of texts, the finding that self-written texts are shorter than texts written with the help of ChatGPT conflicts with the finding of Akinwande et al. ([2024](/article/10.1007/s10639-026-13939-9#ref-CR1)), who found that self-written essays are longer than essays written with the help of GenAI. However, it is unclear from that research what the content of the essays is and what the source of the dataset is, so that it is difficult to interpret this finding.
+
+Using these measures, the reliability of the automatic classification is the same as classification based on the original measures, 94%. The genre of the text could determine which measures give the best results. The classification may therefore be improved by researching which combination of measures gives the best results for which genres.
+
+Previous research has shown that people overestimate themselves in recognizing GenAI-assisted texts (Jakesch et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR16)). The exploratory part of our study shows that teachers are less able to distinguish the texts written by ChatGPT from self-written texts than the statistical recognition: on average, 76% was correctly classified. The low inter-rater reliability confirms their difficulty in reliably recognizing texts. Self-written texts are more often correctly recognized (81%) than the texts written with the help of ChatGPT (70%). Although this is higher than scores found in other research, such as 55% in Perkins et al. ([2024](/article/10.1007/s10639-026-13939-9#ref-CR32)), teachers should exercise restraint in this regard when relying on their own judgment: 19% of self-written texts are incorrectly classified as originating from ChatGPT.
+
+### 7.3 Limitations and future research
+
+This research has some limitations. A sample of approximately 100 individuals was required for an analysis with two groups of equal size, given a desired medium effect size and power of 0.8 (Karch, [2021](/article/10.1007/s10639-026-13939-9#ref-CR17)), but only 66 students participated in this study. This may inflate the effect sizes. In addition, the participants in this study are very specifically first-year university students of a Dutch bachelor computer science program, who wrote texts on technical subjects. Detection success has been shown to vary considerably with text genre (Fivez et al., [2024](/article/10.1007/s10639-026-13939-9#ref-CR9)). These results may not be generalizable to other types of text. Future research should recruit more students, from different programs and different years of study, in order to improve power and generalizability.
+
+A further limitation is that the initial writing skills were not included in this study, but may be important. The writing skills of first-year bachelor students often leave much to be desired (Kuiper, [2019](/article/10.1007/s10639-026-13939-9#ref-CR19)). As a result, the difference between texts by self-writers and students who have used ChatGPT may be greater. Students who already know what a good text should look like may be able to use ChatGPT more efficiently than students who are less good at it (Santiago-Ruiz, [2023](/article/10.1007/s10639-026-13939-9#ref-CR35)). Another limitation is that the assignment texts were only 300 words; longer texts may produce different results.
+
+A more serious limitation is that the assignment did not include instructions on how to use ChatGPT and may have offered too much room for interpretation. Individual prompts were not collected. There were students who had the text fully generated, other students compiled the text by means of an extensive question-and-answer session with ChatGPT and still other students started with their own draft and had ChatGPT improve it. While this is representative of the different ways in which students use ChatGPT in practice, and as such contributes to ecological validity, it may threaten internal validity and may have introduced noise, threatening reproducibility. Further research may consider collecting the prompts and being stricter about the instructions on how to use generative AI for the assignment. This also raises a question of definition: where does a self-written text end and a text written with the help of GenAI begin? During the assignment, students asked the researcher whether they could use a spell checker, which is after all also a primitive form of AI. Future research should clarify the difference between a self-written text and a text written with the help of GenAI. It is possible that this distinction is hard to make if generating parts of the text becomes part of a student’s standard toolbox (Scerri, [2024](/article/10.1007/s10639-026-13939-9#ref-CR36)).
+
+An important note is that while this study offers insight into linguistic traces of GenAI in texts, and it seems possible to detect GenAI with these characteristics, the results do not justify being used in academic integrity procedures. Even 94% accuracy leaves room for incorrect classification, and given the confidence interval starting at 70%, the chances of inaccuracy are probably higher. Furthermore, research suggests that automatic AI detectors for English texts are biased against non-native writers (Liang et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR20)). This may also be a problem for detection in Dutch texts, but was not studied in this research. Given these risks, these findings should not be used for decision-making in educational integrity procedures. Lastly, GenAI can be adapted so that the resulting texts look more like self-written texts (Cotton et al., [2023](/article/10.1007/s10639-026-13939-9#ref-CR6)). This already happened in the prompt that our students gave to ChatGPT. One of the students ended their prompt to ChatGPT with: “write the text as if a first-year student had written it”.
+
+8 Conclusion
+------------
+
+This study investigated the influence of the use of ChatGPT on the texts written by first-year computer science students in a Dutch university. Based on literature, the three characteristics of readability, perplexity and sentiment were selected for this study and analyzed using T-Scan in texts produced by students in the classroom for this study. The analysis shows that self-written texts did not differ significantly from texts written with the help of ChatGPT on all the linguistic characteristics studied. Univariate results seem to suggest that self-writers write texts that are easier to read and show more perplexity, and that, contrary to expectations, have less sentiment than the ChatGPT group.
+
+Although these characteristics can be used to determine the origin of the text with some certainty, it should be noted that the power of the research could be improved and that these findings should also be examined with other students and other assignments. The methods used in this study are mainly suitable for research and are not easily used in the practice of education. Too much preparation of the texts is needed for that. This study should therefore be regarded as a proof of concept, and it does not justify the conclusion that linguistic analysis can be used as a tool for detection of the use of generative AI in student texts.
+
+The exploratory research has shown that the participating teachers were worse at recognizing the origin of the text than the statistical analysis. The low inter-rater reliability confirmed that the teachers had difficulty in classifying text origins consistently. In addition, the exploratory research yielded some additional measures, which when analyzed with T-Scan show significant differences between the two groups: the length of the text, content words and personal pronouns.
+
+Follow-up studies could investigate whether other combinations of linguistic measures could lead to better detection. In addition, the texts of participants from other programs, with different assignments, can be examined to investigate to what extent the results of this research also apply to other students and other types of texts. Until such research provides more robust evidence, educational institutions should be cautious in using linguistic analysis for academic integrity purposes.
+
+
+
+Data availability
+-----------------
+
+The data that support the findings of this study are available upon reasonable request to the corresponding author.
+
+References
+----------
+
+* Akinwande, M., Adeliyi, O., & Yussuph, T. (2024). Decoding AI and human authorship: Nuances revealed through NLP and statistical analysis. *International Journal on Cybernetics & Informatics*, *13*(4), 85–103. <https://doi.org/10.5121/ijci.2024.130408>
+* Amirjalili, F., Neysani, M., & Nikbakht, A. (2024). Exploring the boundaries of authorship: A comparative analysis of AI-generated text and human academic writing in English literature. *Frontiers in Education*, *9*. <https://doi.org/10.3389/feduc.2024.1347421>
+* Barbieri, F., Anke, L. E., & Camacho-Collados, J. (2022). XLM-T: Multilingual language models in Twitter for sentiment analysis and beyond. *arXiv preprint arXiv:2104.12250*. <https://doi.org/10.48550/arXiv.2104.12250>
+* Chaka, C. (2023). Detecting AI content in responses generated by ChatGPT, YouChat, and Chatsonic: The case of five AI content detection tools. *Journal of Applied Learning & Teaching*, *6*, 1–11. <https://doi.org/10.37074/jalt.2023.6.2.12>
+* R Core Team (2021). *R: A language and environment for statistical computing*. R Foundation for Statistical Computing, Vienna, Austria. https://www.r-project.org/.
+* Cotton, D. R. E., Cotton, P. A., & Shipway, J. R. (2023). Chatting and cheating: Ensuring academic integrity in the era of ChatGPT. *Innovations in Education and Teaching International*, *0*(0), 1–12. <https://doi.org/10.1080/14703297.2023.2190148>
+* Emara, I. F. (2025). A linguistic comparison between ChatGPT-generated and nonnative student-generated short story adaptations: A stylometric approach. *Smart Learning Environments*, *12*(1), 36. <https://doi.org/10.1186/s40561-025-00388-z>
+* Field, A. (2018). *Discovering statistics using IBM SPSS statistics* (5th ed.). Sage.
+* Fivez, P., Daelemans, W., Cruys, T. V. de, Kashnitsky, Y., Chamezopoulos, S., Mohammadi, H., Giachanou, A., Bagheri, A., Poelman, W., Vladika, J., Ploeger, E., Bjerva, J., Matthes, F., & Halteren, H. van. (2024). The CLIN33 Shared Task on the Detection of Text Generated by Large Language Models. *Computational Linguistics in the Netherlands Journal*, *13*, 233–259.
+* Fröhling, L., & Zubiaga, A. (2021). Feature-based detection of automated language models: Tackling GPT-2, GPT-3 and Grover. *PeerJ Computer Science*, *7*, e443. <https://doi.org/10.7717/peerj-cs.443>
+* Gehrmann, S., Strobelt, H., & Rush, A. (2019). GLTR: Statistical detection and visualization of generated text. *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations*, 111–116. <https://doi.org/10.18653/v1/P19-3019>
+* Giorgi, S., Markowitz, D. M., Soni, N., Varadarajan, V., Mangalik, S., & Schwartz, H. A. (2023). I slept like a baby: using human traits to characterize deceptive ChatGPT and human text. *International workshop on implicit author characterization from texts for search and retrieval (IACT’23)*.
+* Graesser, A. C., McNamara, D. S., Louwerse, M. M., & Cai, Z. (2004). Coh-metrix: Analysis of text on cohesion and language. *Behavior Research Methods, Instruments, & Computers,* *36*(2), 193–202. <https://doi.org/10.3758/bf03195564>
+  
+  [Article](https://doi.org/10.3758%2Fbf03195564) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Coh-metrix%3A%20Analysis%20of%20text%20on%20cohesion%20and%20language&journal=Behavior%20Research%20Methods%2C%20Instruments%2C%20%26%20Computers&doi=10.3758%2Fbf03195564&volume=36&issue=2&pages=193-202&publication_year=2004&author=Graesser%2CAC&author=McNamara%2CDS&author=Louwerse%2CMM&author=Cai%2CZ)
+* Guo, B., Zhang, X., Wang, Z., Jiang, M., Nie, J., Ding, Y., … & Wu, Y. (2023). How close is ChatGPT to human experts? Comparison corpus, evaluation, and detection. *arXiv preprint arXiv:2301.07597*. <https://doi.org/10.48550/arXiv.2301.07597>
+* Herbold, S., Hautli-Janisz, A., Heuer, U., Kikteva, Z., & Trautsch, A. (2023). AI, write an essay for me: A large-scale comparison of human-written versus ChatGPT-generated essays. *arXiv*. <https://doi.org/10.48550/arXiv.2304.14276>
+  
+  [Article](https://doi.org/10.48550%2FarXiv.2304.14276) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=AI%2C%20write%20an%20essay%20for%20me%3A%20A%20large-scale%20comparison%20of%20human-written%20versus%20ChatGPT-generated%20essays&journal=arXiv&doi=10.48550%2FarXiv.2304.14276&publication_year=2023&author=Herbold%2CS&author=Hautli-Janisz%2CA&author=Heuer%2CU&author=Kikteva%2CZ&author=Trautsch%2CA)
+* Jakesch, M., Hancock, J. T., & Naaman, M. (2023). Human heuristics for AI-generated language are flawed. *Proceedings of the National Academy of Sciences,* *120*(11), Article e2208839120. <https://doi.org/10.1073/pnas.2208839120>
+  
+  [Article](https://doi.org/10.1073%2Fpnas.2208839120) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Human%20heuristics%20for%20AI-generated%20language%20are%20flawed&journal=Proceedings%20of%20the%20National%20Academy%20of%20Sciences&doi=10.1073%2Fpnas.2208839120&volume=120&issue=11&publication_year=2023&author=Jakesch%2CM&author=Hancock%2CJT&author=Naaman%2CM)
+* Karch, J. D. (2021). Psychologists should use Brunner-Munzel’s instead of Mann-Whitney’s U test as the default nonparametric procedure. *Advances in Methods and Practices in Psychological Science,* *4*(2), Article 2515245921999602. <https://doi.org/10.1177/2515245921999602>
+  
+  [Article](https://doi.org/10.1177%2F2515245921999602) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Psychologists%20should%20use%20Brunner-Munzel%E2%80%99s%20instead%20of%20Mann-Whitney%E2%80%99s%20U%20test%20as%20the%20default%20nonparametric%20procedure&journal=Advances%20in%20Methods%20and%20Practices%20in%20Psychological%20Science&doi=10.1177%2F2515245921999602&volume=4&issue=2&publication_year=2021&author=Karch%2CJD)
+* Kleijn, S. (2018). *Clozing in on readability: How linguistic features affect and predict text comprehension and on-line processing*. Universiteit Utrecht.
+* Kuiper, C. (2019). To promote writing skills through subject-specific genre didactics. *Journal of Higher Education,* *36*(4), 54–69.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=To%20promote%20writing%20skills%20through%20subject-specific%20genre%20didactics&journal=Journal%20of%20Higher%20Education&volume=36&issue=4&pages=54-69&publication_year=2019&author=Kuiper%2CC)
+* Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., & Zou, J. (2023). GPT detectors are biased against non-native English writers. *Patterns*. <https://doi.org/10.1016/j.patter.2023.100779>
+  
+  [Article](https://doi.org/10.1016%2Fj.patter.2023.100779) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=GPT%20detectors%20are%20biased%20against%20non-native%20English%20writers&journal=Patterns&doi=10.1016%2Fj.patter.2023.100779&publication_year=2023&author=Liang%2CW&author=Yuksekgonul%2CM&author=Mao%2CY&author=Wu%2CE&author=Zou%2CJ)
+* Liu, J. Q. J., Hui, K. T. K., Al Zoubi, F., Zhou, Z. Z. X., Samartzis, D., Yu, C. C. H., Chang, J. R., & Wong, A. Y. L. (2024). The great detectives: Humans versus AI detectors in catching large language model-generated medical writing. *International Journal for Educational Integrity,* *20*(1), Article 1. <https://doi.org/10.1007/s40979-024-00155-6>
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-024-00155-6) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20great%20detectives%3A%20Humans%20versus%20AI%20detectors%20in%20catching%20large%20language%20model-generated%20medical%20writing&journal=International%20Journal%20for%20Educational%20Integrity&doi=10.1007%2Fs40979-024-00155-6&volume=20&issue=1&publication_year=2024&author=Liu%2CJQJ&author=Hui%2CKTK&author=Al%20Zoubi%2CF&author=Zhou%2CZZX&author=Samartzis%2CD&author=Yu%2CCCH&author=Chang%2CJR&author=Wong%2CAYL)
+* Lo, C. K. (2023). What is the impact of ChatGPT on education? A rapid review of the literature. *Education Sciences,* *13*(4), Article 4. <https://doi.org/10.3390/educsci13040410>
+  
+  [Article](https://doi.org/10.3390%2Feducsci13040410) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=What%20is%20the%20impact%20of%20ChatGPT%20on%20education%3F%20A%20rapid%20review%20of%20the%20literature&journal=Education%20Sciences&doi=10.3390%2Feducsci13040410&volume=13&issue=4&publication_year=2023&author=Lo%2CCK)
+* Markowitz, D. M., Hancock, J. T., & Bailenson, J. N. (2023). Linguistic markers of inherently false AI communication and intentionally false human communication: Evidence from hotel reviews. *Journal of Language and Social Psychology,* , Article 0261927X231200201. <https://doi.org/10.1177/0261927X231200201>
+  
+  [Article](https://doi.org/10.1177%2F0261927X231200201) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Linguistic%20markers%20of%20inherently%20false%20AI%20communication%20and%20intentionally%20false%20human%20communication%3A%20Evidence%20from%20hotel%20reviews&journal=Journal%20of%20Language%20and%20Social%20Psychology&doi=10.1177%2F0261927X231200201&volume=43&issue=1&publication_year=2023&author=Markowitz%2CDM&author=Hancock%2CJT&author=Bailenson%2CJN)
+* Nkhobo, T., & Chaka, C. (2023). Student-written versus ChatGPT-generated discursive essays: A comparative Coh-Metrix analysis of lexical diversity, syntactic complexity, and referential cohesion. *International Journal of Education and Development Using Information and Communication Technology,* *19*(3), 69–84.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Student-written%20versus%20ChatGPT-generated%20discursive%20essays%3A%20A%20comparative%20Coh-Metrix%20analysis%20of%20lexical%20diversity%2C%20syntactic%20complexity%2C%20and%20referential%20cohesion&journal=International%20Journal%20of%20Education%20and%20Development%20Using%20Information%20and%20Communication%20Technology&volume=19&issue=3&pages=69-84&publication_year=2023&author=Nkhobo%2CT&author=Chaka%2CC)
+* Opara, C. (2024). StyloAI: Distinguishing AI-Generated Content with Stylometric Analysis. *arXiv Article 2405.10129*. <https://doi.org/10.48550/arXiv.2405.10129>
+* OpenAI. (2022). *Introducing ChatGPT*. <https://openai.com/blog/chatgpt>
+* Oppy, G., & Dowe, D. (2021). The Turing test. In E. N. Zalta (Red.), *The Stanford Encyclopedia of Philosophy* (Winter 2021). Metaphysics Research Lab, Stanford University. <https://plato.stanford.edu/archives/win2021/entries/turing-test/>
+* Pander Maat, H., Kraf, R., & Dekker, N. (2021). *Manual T-Scan*. Utrecht University, Radboud University Nijmegen, Tilburg University. <https://raw.githubusercontent.com/UUDigitalHumanitieslab/tscan/master/docs/tscanhandleiding.pdf>
+* Pander Maat, H., Kraf, R., van den Bosch, A., Dekker, N., van Gompel, M., Kleijn, S., Sanders, T., & van der Sloot, K. (2014). T-Scan: A new tool for analyzing Dutch text. *Computational Linguistics in The Netherlands Journal,* *4*, 53–74.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=T-Scan%3A%20A%20new%20tool%20for%20analyzing%20Dutch%20text&journal=Computational%20Linguistics%20in%20The%20Netherlands%20Journal&volume=4&pages=53-74&publication_year=2014&author=Pander%20Maat%2CH&author=Kraf%2CR&author=Bosch%2CA&author=Dekker%2CN&author=Gompel%2CM&author=Kleijn%2CS&author=Sanders%2CT&author=Sloot%2CK)
+* Pander Maat, H. (2012). *Communicate effectively—The long road to a serious readability index*. Text sheet. <https://tekstblad.nl/artikel/effectief-communiceren-de-lange-weg-naar-een-serieuze-leesbaarheidsindex>
+* Pegoraro, A., Kumari, K., Fereidooni, H., & Sadeghi, A. R., (2023) To ChatGPT, or not to ChatGPT: that is the question! *arXiv preprint arXiv:2304.01487*.
+* Perkins, M., Roe, J., Postma, D., McGaughran, J., & Hickerson, D. (2024). Detection of GPT-4 generated text in higher education: Combining academic judgement and software to identify generative AI tool misuse. *Journal of Academic Ethics,* *22*(1), 89–113. <https://doi.org/10.1007/s10805-023-09492-6>
+  
+  [Article](https://link.springer.com/doi/10.1007/s10805-023-09492-6) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Detection%20of%20GPT-4%20generated%20text%20in%20higher%20education%3A%20Combining%20academic%20judgement%20and%20software%20to%20identify%20generative%20AI%20tool%20misuse&journal=Journal%20of%20Academic%20Ethics&doi=10.1007%2Fs10805-023-09492-6&volume=22&issue=1&pages=89-113&publication_year=2024&author=Perkins%2CM&author=Roe%2CJ&author=Postma%2CD&author=McGaughran%2CJ&author=Hickerson%2CD)
+* Qorich, M., & El Ouazzani, R. (2025). Detection of artificial intelligence-generated essays for academic assessment integrity using large language models. *Expert Systems with Applications,* *291*, Article 128405. <https://doi.org/10.1016/j.eswa.2025.128405>
+  
+  [Article](https://doi.org/10.1016%2Fj.eswa.2025.128405) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Detection%20of%20artificial%20intelligence-generated%20essays%20for%20academic%20assessment%20integrity%20using%20large%20language%20models&journal=Expert%20Systems%20with%20Applications&doi=10.1016%2Fj.eswa.2025.128405&volume=291&publication_year=2025&author=Qorich%2CM&author=El%20Ouazzani%2CR)
+* Rudolph, J., Tan, S., & Tan, S. (2023). ChatGPT: Bullshit spewer or the end of traditional assessments in higher education? *Journal of Applied Learning and Teaching,* *6*(1), Article 1. <https://doi.org/10.37074/jalt.2023.6.1.9>
+  
+  [Article](https://doi.org/10.37074%2Fjalt.2023.6.1.9) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=ChatGPT%3A%20Bullshit%20spewer%20or%20the%20end%20of%20traditional%20assessments%20in%20higher%20education%3F&journal=Journal%20of%20Applied%20Learning%20and%20Teaching&doi=10.37074%2Fjalt.2023.6.1.9&volume=6&issue=1&publication_year=2023&author=Rudolph%2CJ&author=Tan%2CS&author=Tan%2CS)
+* Santiago-Ruiz, E. (2023). Writing with ChatGPT in a context of educational inequality and digital divide. *International Journal of Education and Development Using Information and Communication Technology,* *19*(3), 28–38.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Writing%20with%20ChatGPT%20in%20a%20context%20of%20educational%20inequality%20and%20digital%20divide&journal=International%20Journal%20of%20Education%20and%20Development%20Using%20Information%20and%20Communication%20Technology&volume=19&issue=3&pages=28-38&publication_year=2023&author=Santiago-Ruiz%2CE)
+* Scerri, D. (2024). Skilling for the future: Enhancing vocational learning and workplace productivity with creative AI tools. *MCAST Journal of Applied Research & Practice*. <https://doi.org/10.5604/01.3001.0054.5099>
+  
+  [Article](https://doi.org/10.5604%2F01.3001.0054.5099) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Skilling%20for%20the%20future%3A%20Enhancing%20vocational%20learning%20and%20workplace%20productivity%20with%20creative%20AI%20tools&journal=MCAST%20Journal%20of%20Applied%20Research%20%26%20Practice&doi=10.5604%2F01.3001.0054.5099&publication_year=2024&author=Scerri%2CD)
+* Schellevis, J., & Moerland, S. (2023). *ChatGPT slips past teachers: ‘I use it to do homework quickly’*. <https://nos.nl/artikel/2460020-chatgpt-glipt-langs-docenten-ik-gebruik-het-om-snel-huiswerk-te-maken>
+* Scribbr. (n.d.) *AI Detector - Trusted AI Checker for ChatGPT, Copilot & Gemini*. Retrieved December 5, 2025 from <https://www.scribbr.com/ai-detector/>
+* Sharma, M., Tong, M., Korbak, T., Duvenaud, D., Askell, A., Bowman, S. R., Cheng, N., Durmus, E., Hatfield-Dodds, Z., Johnston, S. R., Kravec, S., Maxwell, T., McCandlish, S., Ndousse, K., Rausch, O., Schiefer, N., Yan, D., Zhang, M., & Perez, E. (2024). Towards understanding sycophancy in language models. *arXiv*. <https://doi.org/10.48550/arXiv.2310.13548>
+  
+  [Article](https://doi.org/10.48550%2FarXiv.2310.13548) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Towards%20understanding%20sycophancy%20in%20language%20models&journal=arXiv&doi=10.48550%2FarXiv.2310.13548&publication_year=2024&author=Sharma%2CM&author=Tong%2CM&author=Korbak%2CT&author=Duvenaud%2CD&author=Askell%2CA&author=Bowman%2CSR&author=Cheng%2CN&author=Durmus%2CE&author=Hatfield-Dodds%2CZ&author=Johnston%2CSR&author=Kravec%2CS&author=Maxwell%2CT&author=McCandlish%2CS&author=Ndousse%2CK&author=Rausch%2CO&author=Schiefer%2CN&author=Yan%2CD&author=Zhang%2CM&author=Perez%2CE)
+* Tang, R., Chuang, Y. N., & Hu, X. (2024). The science of detecting LLM-generated text. *Communications of the ACM,* *67*(4), 50–59.
+  
+  [Article](https://doi.org/10.1145%2F3624725) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20science%20of%20detecting%20LLM-generated%20text&journal=Communications%20of%20the%20ACM&doi=10.1145%2F3624725&volume=67&issue=4&pages=50-59&publication_year=2024&author=Tang%2CR&author=Chuang%2CYN&author=Hu%2CX)
+* Tausczik, Y. R., & Pennebaker, J. W. (2010). The psychological meaning of words: LIWC and computerized text analysis methods. *Journal of Language and Social Psychology,* *29*(1), 24–54. <https://doi.org/10.1177/0261927X09351676>
+  
+  [Article](https://doi.org/10.1177%2F0261927X09351676) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20psychological%20meaning%20of%20words%3A%20LIWC%20and%20computerized%20text%20analysis%20methods&journal=Journal%20of%20Language%20and%20Social%20Psychology&doi=10.1177%2F0261927X09351676&volume=29&issue=1&pages=24-54&publication_year=2010&author=Tausczik%2CYR&author=Pennebaker%2CJW)
+* Todorov, V., & Filzmoser, P. (2009). An object-oriented framework for robust multivariate analysis. *Journal of Statistical Software,* *32*(3), 1–47. <https://doi.org/10.18637/jss.v032.i03>
+  
+  [Article](https://doi.org/10.18637%2Fjss.v032.i03) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20object-oriented%20framework%20for%20robust%20multivariate%20analysis&journal=Journal%20of%20Statistical%20Software&doi=10.18637%2Fjss.v032.i03&volume=32&issue=3&pages=1-47&publication_year=2009&author=Todorov%2CV&author=Filzmoser%2CP)
+* Turnitin. (n.d.). *AI checker provides insight into writing as the learning process evolves*. Retrieved December 5, 2025 from <https://www.turnitin.com/solutions/topics/ai-writing/>
+* Walters, W. (2023). The effectiveness of software designed to detect AI-generated writing: A comparison of 16 AI text detectors. *Open Information Science*. <https://doi.org/10.1515/opis-2022-0158>
+  
+  [Article](https://doi.org/10.1515%2Fopis-2022-0158) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20effectiveness%20of%20software%20designed%20to%20detect%20AI-generated%20writing%3A%20A%20comparison%20of%2016%20AI%20text%20detectors&journal=Open%20Information%20Science&doi=10.1515%2Fopis-2022-0158&publication_year=2023&author=Walters%2CW)
+* Wang, S., Cristianini, N., & Hood, B. (2024) Stylometric comparison between ChatGPT and human essays. <https://www.semanticscholar.org/paper/Stylometric-Comparison-between-ChatGPT-and-Human-Wang-Cristianini/3846637141389f3930607ba9bdd130cbece9c151>
+* Wang, Y., Mansurov, J., Ivanov, P., Su, J., Shelmanov, A., Tsvigun, A., Afzal, O. M., Mahmoud, T., Puccetti, G., Arnold, T., Whitehouse, C., Aji, A. F., Habash, N., Gurevych, I., & Nakov, P. (2024). SemEval-2024 task 8: Multidomain, multimodel and multilingual machine-generated text detection. *arXiv*. <https://doi.org/10.48550/arXiv.2404.14183>
+  
+  [Article](https://doi.org/10.48550%2FarXiv.2404.14183) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=SemEval-2024%20task%208%3A%20Multidomain%2C%20multimodel%20and%20multilingual%20machine-generated%20text%20detection&journal=arXiv&doi=10.48550%2FarXiv.2404.14183&publication_year=2024&author=Wang%2CY&author=Mansurov%2CJ&author=Ivanov%2CP&author=Su%2CJ&author=Shelmanov%2CA&author=Tsvigun%2CA&author=Afzal%2COM&author=Mahmoud%2CT&author=Puccetti%2CG&author=Arnold%2CT&author=Whitehouse%2CC&author=Aji%2CAF&author=Habash%2CN&author=Gurevych%2CI&author=Nakov%2CP)
+* Weber-Wulff, D., Anohina-Naumeca, A., Bjelobaba, S., Foltýnek, T., Guerrero-Dib, J., Popoola, O., & Waddington, L. (2023). Testing of detection tools for AI-generated text. *International Journal for Educational Integrity,* *19*(1), Article 26.
+  
+  [Article](https://link.springer.com/doi/10.1007/s40979-023-00146-z) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Testing%20of%20detection%20tools%20for%20AI-generated%20text&journal=International%20Journal%20for%20Educational%20Integrity&doi=10.1007%2Fs40979-023-00146-z&volume=19&issue=1&publication_year=2023&author=Weber-Wulff%2CD&author=Anohina-Naumeca%2CA&author=Bjelobaba%2CS&author=Folt%C3%BDnek%2CT&author=Guerrero-Dib%2CJ&author=Popoola%2CO&author=Waddington%2CL)
+* Wu, Y., Bizzoni, Y., Moreira, P., & Nielbo, K. (2024). Perplexing canon: A study on GPT-based perplexity of canonical and non-canonical literary works. In Y. Bizzoni, S. Degaetano-Ortlieb, A. Kazantseva, & S. Szpakowicz (Red.), *Proceedings of the 8th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2024)* (pp. 172–184). Association for Computational Linguistics. <https://aclanthology.org/2024.latechclfl-1.16>
+* Zhai, X. (2022). ChatGPT user experience: Implications for education. *Available at SSRN 4312418*.
+* Zindela, N. (2023). Comparing measures of syntactic and lexical complexity in Artificial Intelligence and L2 human-generated argumentative essays. *International Journal of Education and Development Using Information and Communication Technology,* *19*(3), 50–68.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Comparing%20measures%20of%20syntactic%20and%20lexical%20complexity%20in%20Artificial%20Intelligence%20and%20L2%20human-generated%20argumentative%20essays&journal=International%20Journal%20of%20Education%20and%20Development%20Using%20Information%20and%20Communication%20Technology&volume=19&issue=3&pages=50-68&publication_year=2023&author=Zindela%2CN)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s10639-026-13939-9?format=refman&flavour=references)
+
+Funding
+-------
+
+The authors did not receive support from any organization for the submitted work.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Open University of the Netherlands, Heerlen, the Netherlands
+   
+   Jan Willem Boer & Howard Spoelstra
+2. Saxion University of Applied Sciences, Deventer, the Netherlands
+   
+   Jan Willem Boer
+
+Authors
+
+1. Jan Willem Boer[View author publications](/search?sortBy=newestFirst&contributor=Jan%20Willem%20Boer)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Jan%20Willem%20Boer) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jan%20Willem%20Boer%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Howard Spoelstra[View author publications](/search?sortBy=newestFirst&contributor=Howard%20Spoelstra)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Howard%20Spoelstra) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Howard%20Spoelstra%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Corresponding author
+
+Correspondence to
+[Jan Willem Boer](mailto:j.w.boer@saxion.nl).
+
+Ethics declarations
+-------------------
+
+### Ethics approval
+
+The research on which this article is based received ethical approval by the cETO (commissie voor Ethische Toetsing) of the Open University, the Netherlands.
+
+### Competing interests
+
+The authors declare no competing interests.
+
+Additional information
+----------------------
+
+### Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <http://creativecommons.org/licenses/by/4.0/>.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Linguistic%20differences%20between%20self-written%20and%20generative%20AI-assisted%20student%20texts%20in%20Dutch%20bachelor%20CS%20education&author=Jan%20Willem%20Boer%20et%20al&contentID=10.1007%2Fs10639-026-13939-9&copyright=The%20Author%28s%29&publication=1360-2357&publicationDate=2026-03-16&publisherName=SpringerNature&orderBeanReset=true&oa=CC%20BY)
+
+About this article
+------------------
+
+### Cite this article
+
+Boer, J.W., Spoelstra, H. Linguistic differences between self-written and generative AI-assisted student texts in Dutch bachelor CS education.
+*Educ Inf Technol* (2026). https://doi.org/10.1007/s10639-026-13939-9
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s10639-026-13939-9?format=refman&flavour=citation)
+
+* Received: 11 September 2025
+* Accepted: 19 February 2026
+* Published: 16 March 2026
+* Version of record: 16 March 2026
+* DOI: https://doi.org/10.1007/s10639-026-13939-9
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [Generative AI](/search?query=Generative%20AI&facet-discipline="Computer%20Science")
+* [GenAI](/search?query=GenAI&facet-discipline="Computer%20Science")
+* [Detection](/search?query=Detection&facet-discipline="Computer%20Science")
+* [Linguistic properties](/search?query=Linguistic%20properties&facet-discipline="Computer%20Science")
+* [ChatGPT](/search?query=ChatGPT&facet-discipline="Computer%20Science")
+* [Higher education](/search?query=Higher%20education&facet-discipline="Computer%20Science")
+* [Computer science education](/search?query=Computer%20science%20education&facet-discipline="Computer%20Science")
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+47.100.94.83
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

@@ -1,0 +1,564 @@
+# Source URL: https://link.springer.com/doi/10.1007/s11423-025-10466-1
+# Content Length: 20913 characters
+# Extracted at: 2026-04-05 08:33:29
+#============================================================
+
+
+
+
+
+
+
+
+
+Enhancing phonetic accuracy through chatbot-assisted language learning | Educational technology research and development | Springer Nature Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Skip to main content](#main)
+
+Advertisement
+
+[![]()](//pubads.g.doubleclick.net/gampad/jump?iu=/270604982/springerlink/11423/article&sz=728x90&pos=top&articleid=s11423-025-10466-1)
+
+
+
+
+
+[![]()](https://link.springer.com)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s11423-025-10466-1)
+
+[Menu](#eds-c-header-nav)
+
+[Find a journal](https://link.springer.com/journals/)
+[Publish with us](https://www.springernature.com/gp/authors)
+[Track your research](https://link.springernature.com/home/)
+
+[Search](#eds-c-header-popup-search)
+
+[Saved research](/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+
+
+
+
+
+1. [Home](/)
+2. [Educational technology research and development](/journal/11423)
+3. Article
+
+Enhancing phonetic accuracy through chatbot-assisted language learning
+======================================================================
+
+* Development Article
+* Published: 13 February 2025
+
+* Volume 73, pages 1723–1739, (2025)
+* [Cite this article](#citeas)
+
+[Save article](/article/10.1007/s11423-025-10466-1/save-research?_csrf=W4Kbz_IKoUzZffFnDf5-DgjuXgZAaPEq)
+[View saved research](/saved-research)
+
+
+
+
+
+[![]()
+
+Educational technology research and development](/journal/11423)
+[Aims and scope](/journal/11423/aims-and-scope)
+[Submit manuscript](https://www.editorialmanager.com/etrd)
+
+
+
+
+* [Yi-Fan Wang](#auth-Yi_Fan-Wang-Aff1)[1](#Aff1),
+* [Mei-Hua Hsu](#auth-Mei_Hua-Hsu-Aff2) 
+  [ORCID: orcid.org/0000-0003-2689-9774](https://orcid.org/0000-0003-2689-9774)[2](#Aff2),
+* [Max Yue-Feng Wang](#auth-Max_Yue_Feng-Wang-Aff3)[3](#Aff3) &
+* …
+* [Yu-Ting Chang](#auth-Yu_Ting-Chang-Aff1)[1](#Aff1)
+
+Show authors
+
+* 459 Accesses
+* 1 Citation
+* 1 
+  Altmetric
+* [Explore all metrics](/article/10.1007/s11423-025-10466-1/metrics)
+
+
+
+Abstract
+--------
+
+Mastering correct pronunciation is crucial for effective Spanish language learning and communication. However, many existing language learning resources lack adequate coverage of pronunciation guidance and feedback mechanisms. This study aims to address this gap by developing SpanishBot, an innovative chatbot designed to facilitate the learning of Spanish letter pronunciations and their variations for non-native speakers. Forty-eight participants, unfamiliar with Spanish, were randomly divided into an experimental group using SpanishBot and a control group using independent learning methods. The experimental group interacted with SpanishBot over a 2-month period, which utilized Python programming and the Line instant messaging platform for delivering personalized pronunciation feedback and practice. Instruments included a pre-test and a post-test, as well as the SpanishBot system, which provided real-time feedback on pronunciation accuracy based on audio recordings. Findings revealed a statistically significant difference between the two groups’ post-test scores, with the experimental group demonstrating remarkable improvements in Spanish pronunciation proficiency. This study highlights SpanishBot’s potential in language education, specifically for Spanish pronunciation training.
+
+
+
+
+This is a preview of subscription content, [log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11423-025-10466-1)
+
+ to check access.
+
+
+Access this article
+-------------------
+
+[Log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11423-025-10466-1)
+
+
+Subscribe and save
+------------------
+
+
+Springer+
+
+from €37.37 /Month
+
+* Starting from 10 chapters or articles per month
+* Access and download chapters and articles from more than 300k books and 2,500 journals
+* Cancel anytime
+
+[View plans](https://link.springer.com/product/springer-plus)
+
+Buy Now
+-------
+
+
+Buy article PDF 39,95 €
+
+Price includes VAT (China (P.R.))
+  
+
+
+Instant access to the full article PDF.
+
+
+
+
+[Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/journals)
+
+
+
+
+
+**Fig. 1**
+
+![]()
+
+**Fig. 2**
+
+![]()
+
+**Fig. 3**
+
+![]()
+
+**Fig. 4**
+
+![]()
+
+**Fig. 5**
+
+![]()
+
+
+### Explore related subjects
+
+Discover the latest articles, books and news in related subjects, suggested using machine learning.
+
+* [Bilingualism](/subjects/bilingualism)
+* [Computational Linguistics](/subjects/computational-linguistics)
+* [Language Teaching and Learning](/subjects/language-teaching-and-learning)
+* [Language Education](/subjects/language-education)
+* [Language Processing](/subjects/language-processing)
+* [Speech and Audio Processing](/subjects/speech-and-audio-processing)
+* [Artificial Intelligence Applications in Higher Education](/subjects/artificial-intelligence-applications-in-higher-education)
+
+Data Availability
+-----------------
+
+Data supporting the analysis can be requested from the corresponding author.
+
+References
+----------
+
+* Barkov, M. (2022). The use of shadowing to teach English pronunciation in an online learning environment. Proceedings of INTCESS 2022-9th International Conference on Education & Education of Social Sciences.<https://doi.org/10.51508/intcess.202242>
+* Belda-Medina, J., & Calvo-Ferrer, J. R. (2022). Using chatbots as AI conversational partners in language learning. *Applied Sciences,* *12*(17), 8427.
+  
+  [Article](https://doi.org/10.3390%2Fapp12178427) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20chatbots%20as%20AI%20conversational%20partners%20in%20language%20learning&journal=Applied%20Sciences&doi=10.3390%2Fapp12178427&volume=12&issue=17&publication_year=2022&author=Belda-Medina%2CJ&author=Calvo-Ferrer%2CJR)
+* Colantoni, L., Escudero, P., Marrero-Aguiar, V., & Steele, J. (2021). Evidence-based design principles for Spanish pronunciation teaching. *Frontiers in Communication,* *6*, 639889.
+  
+  [Article](https://doi.org/10.3389%2Ffcomm.2021.639889) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Evidence-based%20design%20principles%20for%20Spanish%20pronunciation%20teaching&journal=Frontiers%20in%20Communication&doi=10.3389%2Ffcomm.2021.639889&volume=6&publication_year=2021&author=Colantoni%2CL&author=Escudero%2CP&author=Marrero-Aguiar%2CV&author=Steele%2CJ)
+* Foote, J. A., & McDonough, K. (2017). Using shadowing with mobile technology to improve L2 pronunciation. *Journal of Second Language Pronunciation,* *3*(1), 34–56.
+  
+  [Article](https://doi.org/10.1075%2Fjslp.3.1.02foo) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Using%20shadowing%20with%20mobile%20technology%20to%20improve%20L2%20pronunciation&journal=Journal%20of%20Second%20Language%20Pronunciation&doi=10.1075%2Fjslp.3.1.02foo&volume=3&issue=1&pages=34-56&publication_year=2017&author=Foote%2CJA&author=McDonough%2CK)
+* García, C., Nickolai, D., & Jones, L. (2020). Traditional versus ASR-based pronunciation instruction. *Calico Journal,* *37*(3), 213–232.
+  
+  [Article](https://doi.org/10.1558%2Fcj.40379) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Traditional%20versus%20ASR-based%20pronunciation%20instruction&journal=Calico%20Journal&doi=10.1558%2Fcj.40379&volume=37&issue=3&pages=213-232&publication_year=2020&author=Garc%C3%ADa%2CC&author=Nickolai%2CD&author=Jones%2CL)
+* Iliescu, A. (2023). Reflections on Spanish Pronunciation. Analele Universităţii din Craiova, Seria Ştiinţe Filologice, Limbi Străine Aplicate, (1), 36–46.
+* Kabatek, J., & Pastor Villalba, C. (2022). El español en Suiza, con un apunte sobre su presencia en Liechtenstein.
+* Labadze, L., Grigolia, M., & Machaidze, L. (2023). Role of AI chatbots in education: Systematic literature review. *International Journal of Educational Technology in Higher Education,* *20*(1), 56.
+  
+  [Article](https://link.springer.com/doi/10.1186/s41239-023-00426-1) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Role%20of%20AI%20chatbots%20in%20education%3A%20Systematic%20literature%20review&journal=International%20Journal%20of%20Educational%20Technology%20in%20Higher%20Education&doi=10.1186%2Fs41239-023-00426-1&volume=20&issue=1&publication_year=2023&author=Labadze%2CL&author=Grigolia%2CM&author=Machaidze%2CL)
+* Martoccio, A. (2022). Beginning Spanish learner attitudes toward pronunciation and an oral recordings project. *Pronunciation in Second Language Learning and Teaching Proceedings*. <https://doi.org/10.31274/psllt.13340>
+  
+  [Article](https://doi.org/10.31274%2Fpsllt.13340) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Beginning%20Spanish%20learner%20attitudes%20toward%20pronunciation%20and%20an%20oral%20recordings%20project&journal=Pronunciation%20in%20Second%20Language%20Learning%20and%20Teaching%20Proceedings&doi=10.31274%2Fpsllt.13340&publication_year=2022&author=Martoccio%2CA)
+* McBride, K. (2015). Which features of Spanish learners’ pronunciation most impact listener evaluations? *Hispania,* *98*(1), 14–30.
+  
+  [Article](https://doi.org/10.1353%2Fhpn.2015.0001) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Which%20features%20of%20Spanish%20learners%E2%80%99%20pronunciation%20most%20impact%20listener%20evaluations%3F&journal=Hispania&doi=10.1353%2Fhpn.2015.0001&volume=98&issue=1&pages=14-30&publication_year=2015&author=McBride%2CK)
+* Nguyen, L. T., Hung, B. P., Duong, U. T. T., & Le, T. T. (2021). Teachers’ and learners’ beliefs about pronunciation instruction in tertiary English as a foreign language education. *Frontiers in Psychology,* *12*, 739842.
+  
+  [Article](https://doi.org/10.3389%2Ffpsyg.2021.739842) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Teachers%E2%80%99%20and%20learners%E2%80%99%20beliefs%20about%20pronunciation%20instruction%20in%20tertiary%20English%20as%20a%20foreign%20language%20education&journal=Frontiers%20in%20Psychology&doi=10.3389%2Ffpsyg.2021.739842&volume=12&publication_year=2021&author=Nguyen%2CLT&author=Hung%2CBP&author=Duong%2CUTT&author=Le%2CTT)
+* Offerman, H., & Yelin, B. (2022). Leveraging social media for second language Spanish pronunciation instruction. *Pronunciation in Second Language Learning and Teaching Proceedings*. <https://doi.org/10.31274/psllt.13352>
+  
+  [Article](https://doi.org/10.31274%2Fpsllt.13352) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Leveraging%20social%20media%20for%20second%20language%20Spanish%20pronunciation%20instruction&journal=Pronunciation%20in%20Second%20Language%20Learning%20and%20Teaching%20Proceedings&doi=10.31274%2Fpsllt.13352&publication_year=2022&author=Offerman%2CH&author=Yelin%2CB)
+* Pham, X. L., Pham, T., Nguyen, Q. M., Nguyen, T. H., & Cao, T. T. H. (2018). Chatbot as an intelligent personal assistant for mobile language learning. In Proceedings of the 2018 2nd international conference on education and e-learning (pp. 16–21).
+* Rojas, C. A. (2022). *Computerized pronunciation training of Spanish rhotics*. The University of Wisconsin-Madison.
+  
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Computerized%20pronunciation%20training%20of%20Spanish%20rhotics&publication_year=2022&author=Rojas%2CCA)
+* Suemitsu, A., Dang, J., Ito, T., & Tiede, M. (2015). A real-time articulatory visual feedback approach with target presentation for second language pronunciation learning. *The Journal of the Acoustical Society of America,* *138*(4), 382–387.
+  
+  [Article](https://doi.org/10.1121%2F1.4931827) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20real-time%20articulatory%20visual%20feedback%20approach%20with%20target%20presentation%20for%20second%20language%20pronunciation%20learning&journal=The%20Journal%20of%20the%20Acoustical%20Society%20of%20America&doi=10.1121%2F1.4931827&volume=138&issue=4&pages=382-387&publication_year=2015&author=Suemitsu%2CA&author=Dang%2CJ&author=Ito%2CT&author=Tiede%2CM)
+* Tejedor-García, C., Escudero-Mancebo, D., Cámara-Arenas, E., González-Ferreras, C., & Cardeñoso-Payo, V. (2020). Assessing pronunciation improvement in students of English using a controlled computer-assisted pronunciation tool. *IEEE Transactions on Learning Technologies,* *13*(2), 269–282.
+  
+  [Article](https://doi.org/10.1109%2FTLT.2020.2980261) 
+  [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Assessing%20pronunciation%20improvement%20in%20students%20of%20English%20using%20a%20controlled%20computer-assisted%20pronunciation%20tool&journal=IEEE%20Transactions%20on%20Learning%20Technologies&doi=10.1109%2FTLT.2020.2980261&volume=13&issue=2&pages=269-282&publication_year=2020&author=Tejedor-Garc%C3%ADa%2CC&author=Escudero-Mancebo%2CD&author=C%C3%A1mara-Arenas%2CE&author=Gonz%C3%A1lez-Ferreras%2CC&author=Carde%C3%B1oso-Payo%2CV)
+* Wang, X. (2017, December). The study of shadowing exercise on improving oral English ability for non-English major college students. In 2017 World conference on management science and human social development (MSHSD 2017) (pp. 195–200). Atlantis Press.
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/s11423-025-10466-1?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+The authors wish to thank all the participants.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1. Institute of Information and Decision Sciences, National Taipei University of Business, Taipei, Taiwan
+   
+   Yi-Fan Wang & Yu-Ting Chang
+2. Center for General Education, Chang Gung University of Science and Technology, Taoyuan, Taiwan
+   
+   Mei-Hua Hsu
+3. Marketing, Pennsylvania State University, University Park, PA, USA
+   
+   Max Yue-Feng Wang
+
+Authors
+
+1. Yi-Fan Wang[View author publications](/search?sortBy=newestFirst&contributor=Yi-Fan%20Wang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yi-Fan%20Wang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yi-Fan%20Wang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+2. Mei-Hua Hsu[View author publications](/search?sortBy=newestFirst&contributor=Mei-Hua%20Hsu)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Mei-Hua%20Hsu) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Mei-Hua%20Hsu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+3. Max Yue-Feng Wang[View author publications](/search?sortBy=newestFirst&contributor=Max%20Yue-Feng%20Wang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Max%20Yue-Feng%20Wang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Max%20Yue-Feng%20Wang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+4. Yu-Ting Chang[View author publications](/search?sortBy=newestFirst&contributor=Yu-Ting%20Chang)
+   
+   Search author on:[PubMed](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yu-Ting%20Chang) [Google Scholar](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Yu-Ting%20Chang%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+### Corresponding author
+
+Correspondence to
+[Mei-Hua Hsu](mailto:mhsu@mail.cgust.edu.tw).
+
+Additional information
+----------------------
+
+### Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+----------------------
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+[Reprints and permissions](https://s100.copyright.com/AppDispatchServlet?title=Enhancing%20phonetic%20accuracy%20through%20chatbot-assisted%20language%20learning&author=Yi-Fan%20Wang%20et%20al&contentID=10.1007%2Fs11423-025-10466-1&copyright=Association%20for%20Educational%20Communications%20and%20Technology&publication=1042-1629&publicationDate=2025-02-13&publisherName=SpringerNature&orderBeanReset=true)
+
+About this article
+------------------
+
+### Cite this article
+
+Wang, YF., Hsu, MH., Wang, M.YF. *et al.* Enhancing phonetic accuracy through chatbot-assisted language learning.
+*Education Tech Research Dev* **73**, 1723–1739 (2025). https://doi.org/10.1007/s11423-025-10466-1
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1007/s11423-025-10466-1?format=refman&flavour=citation)
+
+* Accepted: 28 January 2025
+* Published: 13 February 2025
+* Version of record: 13 February 2025
+* Issue date: June 2025
+* DOI: https://doi.org/10.1007/s11423-025-10466-1
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+* [SpanishBot](/search?query=SpanishBot&facet-discipline="Education")
+* [Computer-assisted language learning (call)](/search?query=Computer-assisted%20language%20learning%20%28call%29&facet-discipline="Education")
+* [Informal online learning](/search?query=Informal%20online%20learning&facet-discipline="Education")
+* [Listening comprehension](/search?query=Listening%20comprehension&facet-discipline="Education")
+* [Pronunciation](/search?query=Pronunciation&facet-discipline="Education")
+
+
+### Profiles
+
+1. Mei-Hua Hsu
+   [View author profile](/researchers/96267686SN)
+
+
+
+Access this article
+-------------------
+
+[Log in via an institution](//wayf.springernature.com?redirect_uri=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11423-025-10466-1)
+
+
+Subscribe and save
+------------------
+
+
+Springer+
+
+from €37.37 /Month
+
+* Starting from 10 chapters or articles per month
+* Access and download chapters and articles from more than 300k books and 2,500 journals
+* Cancel anytime
+
+[View plans](https://link.springer.com/product/springer-plus)
+
+Buy Now
+-------
+
+
+Buy article PDF 39,95 €
+
+Price includes VAT (China (P.R.))
+  
+
+
+Instant access to the full article PDF.
+
+
+
+
+[Institutional subscriptions](https://www.springernature.com/gp/librarians/licensing/agc/journals)
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+------
+
+Search by keyword or author
+
+
+Search
+
+
+
+
+
+
+Navigation
+----------
+
+* [Find a journal](https://link.springer.com/journals/)
+* [Publish with us](https://www.springernature.com/gp/authors)
+* [Track your research](https://link.springernature.com/home/)
+
+
+### Discover content
+
+* [Journals A-Z](https://link.springer.com/journals/a/1)
+* [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+* [Journal finder](https://link.springer.com/journals)
+* [Publish your research](https://www.springernature.com/gp/authors)
+* [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)
+* [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+* [Our products](https://www.springernature.com/gp/products)
+* [Librarians](https://www.springernature.com/gp/librarians)
+* [Societies](https://www.springernature.com/gp/societies)
+* [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our brands
+
+* [Springer](https://link.springer.com/brands/springer)
+* [Nature Portfolio](https://www.nature.com/)
+* [BMC](https://link.springer.com/brands/bmc)
+* [Palgrave Macmillan](/brands/palgrave)
+* [Apress](/brands/apress)
+* [Discover](https://link.springer.com/brands/discover)
+
+
+
+* Your privacy choices/Manage cookies
+* [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+* [Accessibility statement](https://link.springer.com/accessibility)
+* [Terms and conditions](https://link.springer.com/termsandconditions)
+* [Privacy policy](https://link.springer.com/privacystatement)
+* [Help and support](https://support.springernature.com/en/support/home)
+* [Legal notice](https://link.springer.com/legal-notice)
+* [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+139.224.211.171
+
+Not affiliated
+
+
+[![]()](https://www.springernature.com/)
+
+© 2026 Springer Nature
+
+
+
+
+
+
+

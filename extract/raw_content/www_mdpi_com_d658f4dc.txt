@@ -1,0 +1,1592 @@
+# Source URL: https://www.mdpi.com/2227-7102/16/4/573
+# Content Length: 114899 characters
+# Extracted at: 2026-04-05 08:44:52
+#============================================================
+
+Designing Flipped-Interaction Prompts: A Framework for Generative AI as an Intelligent Tutor in Higher Education
+Loading [MathJax]/jax/output/HTML-CSS/jax.js
+Next Article in Journal
+[A Serious Board Game Embedding Language Learning Strategies to Improve English Grammar Among International L2 English Students in Australian English-Medium Universities](/2227-7102/16/4/574)
+Previous Article in Journal
+[Transformational Leadership as a Contextual Enabler of Teachers’ AI Use](/2227-7102/16/4/572)
+## Journals
+[Active Journals](/about/journals)[Find a Journal](/about/journalfinder)[Journal Proposal](/about/journals/proposal)[Proceedings Series](/about/proceedings)
+[## Topics](/topics)
+## Information
+[For Authors](/authors)[For Reviewers](/reviewers)[For Editors](/editors)[For Librarians](/librarians)[For Publishers](/publishing\_services)[For Societies](/societies)[For Conference Organizers](/conference\_organizers)
+[Open Access Policy](/openaccess)[Institutional Open Access Program](/ioap)[Special Issues Guidelines](/special\_issues\_guidelines)[Editorial Process](/editorial\_process)[Research and Publication Ethics](/ethics)[Article Processing Charges](/apc)[Awards](/awards)[Testimonials](/testimonials)
+[## Author Services](/authors/english)
+## Initiatives
+[Sciforum](https://sciforum.net)[MDPI Books](https://www.mdpi.com/books)[Preprints.org](https://www.preprints.org)[Scilit](https://www.scilit.com)[SciProfiles](https://sciprofiles.com)[Encyclopedia](https://encyclopedia.pub)[JAMS](https://jams.pub)[Proceedings Series](/about/proceedings)
+## About
+[Overview](/about)[Contact](/about/contact)[Careers](https://careers.mdpi.com)[News](/about/announcements)[Press](/about/press)[Blog](http://blog.mdpi.com/)
+[Sign In / Sign Up](/user/login)
+## Notice
+You can make submissions to other journals
+[here](https://susy.mdpi.com/user/manuscripts/upload).
+\*clear\*
+## Notice
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+ContinueCancel
+\*clear\*
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+.
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+Original Submission Date Received: .
+[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1775042484)](/)
+[\*clear\*](#)[\*zoom\\_out\\_map\*](/toggle\_desktop\_layout\_cookie)[\*search\*](#)[\*menu\*](#)
+[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1775042484)](/)
+\* [Journals](/about/journals)
++ - [Active Journals](/about/journals)
+- [Find a Journal](/about/journalfinder)
+- [Journal Proposal](/about/journals/proposal)
+- [Proceedings Series](/about/proceedings)
+\* [Topics](/topics)
+\* [Information](/authors)
++ - [For Authors](/authors)
+- [For Reviewers](/reviewers)
+- [For Editors](/editors)
+- [For Librarians](/librarians)
+- [For Publishers](/publishing\_services)
+- [For Societies](/societies)
+- [For Conference Organizers](/conference\_organizers)
+- [Open Access Policy](/openaccess)
+- [Institutional Open Access Program](/ioap)
+- [Special Issues Guidelines](/special\_issues\_guidelines)
+- [Editorial Process](/editorial\_process)
+- [Research and Publication Ethics](/ethics)
+- [Article Processing Charges](/apc)
+- [Awards](/awards)
+- [Testimonials](/testimonials)
+\* [Author Services](/authors/english)
+\* [Initiatives](/about/initiatives)
++ - [Sciforum](https://sciforum.net)
+- [MDPI Books](https://www.mdpi.com/books)
+- [Preprints.org](https://www.preprints.org)
+- [Scilit](https://www.scilit.com)
+- [SciProfiles](https://sciprofiles.com)
+- [Encyclopedia](https://encyclopedia.pub)
+- [JAMS](https://jams.pub)
+- [Proceedings Series](/about/proceedings)
+\* [About](/about)
++ - [Overview](/about)
+- [Contact](/about/contact)
+- [Careers](https://careers.mdpi.com)
+- [News](/about/announcements)
+- [Press](/about/press)
+- [Blog](http://blog.mdpi.com/)
+[Sign In / Sign Up](/user/login)[Submit]( https://susy.mdpi.com/user/manuscripts/upload?journal=education
+)
+Search for Articles:
+Title / Keyword
+Author / Affiliation / Email
+Journal
+All Journals
+Accounting and Auditing
+Acoustics
+Acta Microbiologica Hellenica (AMH)
+Actuators
+Adhesives
+Administrative Sciences
+Adolescents
+Advances in Respiratory Medicine (ARM)
+Aerobiology
+Aerospace
+Agriculture
+AgriEngineering
+Agrochemicals
+Agronomy
+AI
+AI Chemistry
+AI for Engineering
+AI in Education
+AI in Medicine
+AI Materials
+AI Sensors
+Air
+Algorithms
+Allergies
+Alloys
+Analog
+Analytica
+Analytics
+Anatomia
+Anesthesia Research
+Animals
+Antibiotics
+Antibodies
+Antioxidants
+Applied Biosciences
+Applied Mechanics
+Applied Microbiology
+Applied Nano
+Applied Sciences
+Applied System Innovation (ASI)
+AppliedChem
+AppliedMath
+AppliedPhys
+Aquaculture Journal
+Architecture
+Arthropoda
+Arts
+Astronautics
+Astronomy
+Atmosphere
+Atoms
+Audiology Research
+Automation
+Axioms
+Bacteria
+Batteries
+Behavioral Sciences
+Beverages
+Big Data and Cognitive Computing (BDCC)
+BioChem
+Bioengineering
+Biologics
+Biology
+Biology and Life Sciences Forum
+Biomass
+Biomechanics
+BioMed
+Biomedicines
+BioMedInformatics
+Biomimetics
+Biomolecules
+Biophysica
+Bioresources and Bioproducts
+Biosensors
+Biosphere
+BioTech
+Birds
+Blockchains
+Brain Sciences
+Buildings
+Businesses
+C (Journal of Carbon Research)
+Cancers
+Cardiogenetics
+Cardiovascular Medicine
+Catalysts
+Cells
+Ceramics
+Challenges
+ChemEngineering
+Chemistry
+Chemistry Proceedings
+Chemosensors
+Children
+Chips
+CivilEng
+Clean Technologies (Clean Technol.)
+Climate
+Clinical and Translational Neuroscience (CTN)
+Clinical Bioenergetics
+Clinics and Practice
+Clocks & Sleep
+Coasts
+Coatings
+Colloids and Interfaces
+Colorants
+Commodities
+Complexities
+Complications
+Compounds
+Computation
+Computer Sciences & Mathematics Forum
+Computers
+Condensed Matter
+Conservation
+Construction Materials
+Corrosion and Materials Degradation (CMD)
+Cosmetics
+COVID
+Craniomaxillofacial Trauma & Reconstruction (CMTR)
+Crops
+Cryo
+Cryptography
+Crystals
+Culture
+Current Issues in Molecular Biology (CIMB)
+Current Oncology
+Dairy
+Data
+Dentistry Journal
+Dermato
+Dermatopathology
+Designs
+Diabetology
+Diagnostics
+Dietetics
+Digital
+Disabilities
+Diseases
+Diversity
+DNA
+Drones
+Drugs and Drug Candidates (DDC)
+Dynamics
+Earth
+Ecologies
+Econometrics
+Economies
+Education Sciences
+Electricity
+Electrochem
+Electronic Materials
+Electronics
+Emergency Care and Medicine
+Encyclopedia
+Endocrines
+Energies
+Energy Storage and Applications (ESA)
+Eng
+Engineering Proceedings
+Entropic and Disordered Matter (EDM)
+Entropy
+Environmental and Earth Sciences Proceedings
+Environmental Remediation
+Environments
+Epidemiologia
+Epigenomes
+European Burn Journal (EBJ)
+European Journal of Investigation in Health, Psychology and Education (EJIHPE)
+Family Sciences
+Fermentation
+Fibers
+FinTech
+Fire
+Fishes
+Fluids
+Foods
+Forecasting
+Forensic Sciences
+Forests
+Fossil Studies
+Foundations
+Fractal and Fractional (Fractal Fract)
+Fuels
+Future
+Future Internet
+Future Pharmacology
+Future Transportation
+Galaxies
+Games
+Gases
+Gastroenterology Insights
+Gastrointestinal Disorders
+Gastronomy
+Gels
+Genealogy
+Genes
+Geographies
+GeoHazards
+Geomatics
+Geometry
+Geosciences
+Geotechnics
+Geriatrics
+Germs
+Glacies
+Gout, Urate, and Crystal Deposition Disease (GUCDD)
+Grasses
+Green
+Green Health
+Hardware
+Healthcare
+Hearts
+Hemato
+Hematology Reports
+Heritage
+Histories
+Horticulturae
+Hospitals
+Humanities
+Humans
+Hydrobiology
+Hydrogen
+Hydrology
+Hydropower
+Hygiene
+Immuno
+Industries
+Infectious Disease Reports
+Informatics
+Information
+Infrastructures
+Inorganics
+Insects
+Instruments
+Intelligent Infrastructure and Construction
+International Journal of Cognitive Sciences (IJCS)
+International Journal of Environmental Medicine (IJEM)
+International Journal of Environmental Research and Public Health (IJERPH)
+International Journal of Financial Studies (IJFS)
+International Journal of Molecular Sciences (IJMS)
+International Journal of Neonatal Screening (IJNS)
+International Journal of Orofacial Myology and Myofunctional Therapy (IJOM)
+International Journal of Plant Biology (IJPB)
+International Journal of Topology
+International Journal of Translational Medicine (IJTM)
+International Journal of Turbomachinery, Propulsion and Power (IJTPP)
+International Medical Education (IME)
+Inventions
+IoT
+ISPRS International Journal of Geo-Information (IJGI)
+J
+Journal of Aesthetic Medicine (J. Aesthetic Med.)
+Journal of Ageing and Longevity (JAL)
+Journal of CardioRenal Medicine (JCRM)
+Journal of Cardiovascular Development and Disease (JCDD)
+Journal of Clinical & Translational Ophthalmology (JCTO)
+Journal of Clinical Medicine (JCM)
+Journal of Composites Science (J. Compos. Sci.)
+Journal of Cybersecurity and Privacy (JCP)
+Journal of Dementia and Alzheimer's Disease (JDAD)
+Journal of Developmental Biology (JDB)
+Journal of Experimental and Theoretical Analyses (JETA)
+Journal of Eye Movement Research (JEMR)
+Journal of Functional Biomaterials (JFB)
+Journal of Functional Morphology and Kinesiology (JFMK)
+Journal of Fungi (JoF)
+Journal of Genome Biotechnology and Genetics (JGBG)
+Journal of Gerontology and Geriatrics (JGG)
+Journal of Imaging (J. Imaging)
+Journal of Innovation
+Journal of Intelligence (J. Intell.)
+Journal of Interdisciplinary Research Applied to Medicine (JDReAM)
+Journal of Low Power Electronics and Applications (JLPEA)
+Journal of Manufacturing and Materials Processing (JMMP)
+Journal of Marine Science and Engineering (JMSE)
+Journal of Market Access & Health Policy (JMAHP)
+Journal of Mind and Medical Sciences (JMMS)
+Journal of Molecular Pathology (JMP)
+Journal of Nanotheranostics (JNT)
+Journal of Nuclear Engineering (JNE)
+Journal of Otorhinolaryngology, Hearing and Balance Medicine (JOHBM)
+Journal of Parks
+Journal of Personalized Medicine (JPM)
+Journal of Pharmaceutical and BioTech Industry (JPBI)
+Journal of Phytomedicine
+Journal of Respiration (JoR)
+Journal of Risk and Financial Management (JRFM)
+Journal of Sensor and Actuator Networks (JSAN)
+Journal of Superintelligence
+Journal of the American Podiatric Medical Association (JAPMA)
+Journal of the Oman Medical Association (JOMA)
+Journal of Theoretical and Applied Electronic Commerce Research (JTAER)
+Journal of Vascular Diseases (JVD)
+Journal of Xenobiotics (JoX)
+Journal of Zoological and Botanical Gardens (JZBG)
+Journalism and Media
+Kidney and Dialysis
+Kinases and Phosphatases
+Knowledge
+LabMed
+Laboratories
+Land
+Languages
+Laws
+Life
+Lights
+Limnological Review
+Lipidology
+Liquids
+Literature
+Livers
+Logics
+Logistics
+Low-Altitude Economy
+Lubricants
+Lymphatics
+Machine Learning and Knowledge Extraction (MAKE)
+Machines
+Macromol
+Magnetism
+Magnetochemistry
+Marine Drugs
+Materials
+Materials Proceedings
+Mathematical and Computational Applications (MCA)
+Mathematics
+Medical Sciences
+Medical Sciences Forum
+Medicina
+Medicines
+Membranes
+Merits
+Metabolites
+Metals
+Meteorology
+Methane
+Methods and Protocols (MPs)
+Metrics
+Metrology
+Micro
+Microbiology Research
+Microelectronics
+Micromachines
+Microorganisms
+Microplastics
+Microwave
+Minerals
+Mining
+Modelling
+Modern Mathematical Physics
+Molbank
+Molecules
+Multimedia
+Multimodal Technologies and Interaction (MTI)
+Muscles
+Nanoenergy Advances
+Nanomanufacturing
+Nanomaterials
+NDT
+Network
+Neuroglia
+Neuroimaging
+Neurology International
+NeuroSci
+Nitrogen
+Non-Coding RNA (ncRNA)
+Nursing Reports
+Nutraceuticals
+Nutrients
+Obesities
+Occupational Health
+Oceans
+Onco
+Optics
+Oral
+Organics
+Organoids
+Osteology
+Oxygen
+Pandemics
+Parasitologia
+Particles
+Pathogens
+Pathophysiology
+Peace Studies
+Pediatric Reports
+Pets
+Pharmaceuticals
+Pharmaceutics
+Pharmacoepidemiology
+Pharmacy
+Philosophies
+Photochem
+Photonics
+Phycology
+Physchem
+Physical Sciences Forum
+Physics
+Physiologia
+Plants
+Plasma
+Platforms
+Pollutants
+Polymers
+Polysaccharides
+Populations
+Poultry
+Powders
+Precision Oncology
+Primary and Hospital Care (PHC)
+Proceedings
+Processes
+Prosthesis
+Proteomes
+Psychiatry International
+Psychoactives
+Psychology International
+Publications
+Purification
+Quantum Beam Science (QuBS)
+Quantum Reports
+Quaternary
+Radiation
+Reactions
+Real Estate
+Receptors
+Recycling
+Regional Science and Environmental Economics (RSEE)
+Religions
+Remote Sensing
+Reports
+Reproductive Medicine (Reprod. Med.)
+Resources
+Rheumato
+Risks
+Robotics
+Romanian Journal of Preventive Medicine (RJPM)
+Ruminants
+Safety
+Sci
+Scientia Pharmaceutica (Sci. Pharm.)
+Sclerosis
+Seeds
+Semiconductors and Heterogeneous Integration
+Sensors
+Separations
+Sexes
+Signals
+Sinusitis
+Smart Cities
+Social Sciences
+Société Internationale d’Urologie Journal (SIUJ)
+Societies
+Software
+Soil Systems
+Solar
+Solids
+Spectroscopy Journal
+Sports
+Standards
+Stats
+Stratigraphy and Sedimentology
+Stresses
+Surfaces
+Surgeries
+Surgical Techniques Development
+Sustainability
+Sustainable Chemistry
+Swiss Archives of Neurology, Psychiatry and Psychotherapy (SANPP)
+Symmetry
+SynBio
+Systems
+Targets
+Taxonomy
+Technologies
+Telecom
+Textiles
+Thalassemia Reports
+Theoretical and Applied Ergonomics
+Therapeutics
+Thermo
+Time and Space
+Tomography
+Tourism and Hospitality
+Toxics
+Toxins
+Transplantology
+Trauma Care
+Trends in Higher Education
+Trends in Public Health
+Tropical Medicine and Infectious Disease (TropicalMed)
+Universe
+Urban Science
+Uro
+Vaccines
+Vehicles
+Venereology
+Veterinary Sciences
+Vibration
+Virtual Worlds
+Viruses
+Vision
+Waste
+Water
+Wild
+Wind
+Women
+World
+World Electric Vehicle Journal (WEVJ)
+Youth
+Zoonotic Diseases
+Education Sciences
+Article Type
+All Article TypesArticleReviewCommunicationEditorialAbstractBook ReviewBrief CommunicationBrief ReportCase ReportClinicopathological ChallengeCommentCommentaryConcept PaperConference ReportCorrectionCreativeData DescriptorDiscussionEntryEssayExpression of ConcernExtended AbstractField GuideGiants in UrologyGuidelinesHypothesisInteresting ImagesLetterNew Book ReceivedObituaryOpinionPatent SummaryPerspectiveProceeding PaperProject ReportProtocolRegistered ReportReplyRetractionShort NoteStudy ProtocolSystematic ReviewTechnical NoteTutorialUrology around the WorldViewpoint
+All Article Types
+[Advanced Search](#)
+Section
+Select an Option
+Special Issue
+Select an Option
+Volume
+Issue
+Number
+Page
+Logical OperatorOperator
+ANDOR
+Search Text
+Search Type
+All fieldsTitleAbstractKeywordsAuthorsAffiliationsDoiFull TextReferences
+\*add\\_circle\\_outline\*
+\*remove\\_circle\\_outline\*
+[Journals](/about/journals)
+[Education Sciences](/journal/education)
+[Volume 16](/2227-7102/16)
+[Issue 4](/2227-7102/16/4)
+[10.3390/educsci16040573](#)
+[![](https://pub.mdpi-res.com/img/journals/education-logo.png?0ee5b7cdaeaa8633)](/journal/education)
+[Submit to this Journal](https://susy.mdpi.com/user/manuscripts/upload?form%5Bjournal\_id%5D%3D84)[Review for this Journal](https://susy.mdpi.com/volunteer/journals/review)[Propose a Special Issue](/journalproposal/sendproposalspecialissue/education)
+[►▼
+Article Menu](#)
+## Article Menu
+\* [Academic Editor](#academic\_editors)
+[![](/profiles/3075325/thumb/Sergio\_Miranda.png)Sergio Miranda](https://sciprofiles.com/profile/3075325?utm\_source=mdpi.com&utm\_medium=website&utm\_campaign=avatar\_name)
+\* [Recommended Articles](#)
+\* [Related Info Link](#related)
++ [Google Scholar](http://scholar.google.com/scholar?q=Designing%20Flipped-Interaction%20Prompts%3A%20A%20Framework%20for%20Generative%20AI%20as%20an%20Intelligent%20Tutor%20in%20Higher%20Education)
+\* [More by Authors Links](#authors)
++ on DOAJ
+- [Scheepers, S. Johannes](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query\_string%22%3A%7B%22query%22%3A%22%5C%22Stefanus%20Johannes%20Scheepers%5C%22%22%2C%22default\_operator%22%3A%22AND%22%2C%22default\_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+- [Stott, A. Elisabeth](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query\_string%22%3A%7B%22query%22%3A%22%5C%22Angela%20Elisabeth%20Stott%5C%22%22%2C%22default\_operator%22%3A%22AND%22%2C%22default\_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
++ on Google Scholar
+- [Scheepers, S. Johannes](http://scholar.google.com/scholar?q=Stefanus%20Johannes%20Scheepers)
+- [Stott, A. Elisabeth](http://scholar.google.com/scholar?q=Angela%20Elisabeth%20Stott)
++ on PubMed
+- [Scheepers, S. Johannes](http://www.pubmed.gov/?cmd=Search&term=Stefanus%20Johannes%20Scheepers)
+- [Stott, A. Elisabeth](http://www.pubmed.gov/?cmd=Search&term=Angela%20Elisabeth%20Stott)
+[Article Views0](#metrics)
+[Citations0](#metrics)
+\* [Table of Contents](#table\_of\_contents)
++ [Abstract](#html-abstract)
++ [Introduction](#sec1-education-16-00573)
++ [Theoretical Frameworks](#sec2-education-16-00573)
++ [Materials and Methods](#sec3-education-16-00573)
++ [Results](#sec4-education-16-00573)
++ [Discussion](#sec5-education-16-00573)
++ [Conclusions](#sec6-education-16-00573)
++ [Author Contributions](#)
++ [Funding](#)
++ [Institutional Review Board Statement](#)
++ [Informed Consent Statement](#)
++ [Data Availability Statement](#)
++ [Acknowledgments](#html-ack)
++ [Conflicts of Interest](#)
++ [Abbreviations](#html-glossary)
++ [References](#html-references\_list)
+Altmetric[\*share\*Share](#)[\*announcement\*Help](#)[\*format\\_quote\*Cite](javascript:void(0);)
+## Need Help?
+### Support
+Find support for a specific problem in the support section of our website.
+[Get Support](/about/contactform)
+### Feedback
+Please let us know what you think of our products and services.
+[Give Feedback](/feedback/send)
+### Information
+Visit our dedicated information section to learn more about MDPI.
+[Get Information](/authors)
+\*clear\*
+## JSmol Viewer
+\*clear\*
+\*first\\_page\*
+[Download PDF](/2227-7102/16/4/573/pdf?version=1775224078)
+\*settings\*
+[Order Article Reprints](/2227-7102/16/4/573/reprints)
+Font Type:
+\*Arial\*\*Georgia\*\*Verdana\*
+Font Size:
+AaAaAa
+Line Spacing:
+\*\*\*\*\*\*
+Column Width:
+\*\*\*\*\*\*
+Background:
+Open AccessArticle
+# Designing Flipped-Interaction Prompts: A Framework for Generative AI as an Intelligent Tutor in Higher Education
+by
+Stefanus Johannes Scheepers
+![](/bundles/mdpisciprofileslink/img/unknown-user.png)Stefanus Johannes Scheepers
+[SciProfiles](https://sciprofiles.com/profile/5079423?utm\_source=mdpi.com&utm\_medium=website&utm\_campaign=avatar\_name)[Scilit](https://scilit.com/scholars?q=Stefanus%20Johannes%20Scheepers)[Preprints.org](https://www.preprints.org/search?condition\_blocks=[{%22value%22:%22Stefanus+Johannes+Scheepers%22,%22type%22:%22author%22,%22operator%22:null}]&sort\_field=relevance&sort\_dir=desc&page=1&exact\_match=true)[Google Scholar](https://scholar.google.com/scholar?q=Stefanus+Johannes+Scheepers)
+1,\\*[![](https://pub.mdpi-res.com/img/design/orcid.png?0465bc3812adeb52?1775042484)](https://orcid.org/0000-0003-1395-4658) and
+Angela Elisabeth Stott
+![](/bundles/mdpisciprofileslink/img/unknown-user.png)Angela Elisabeth Stott
+[SciProfiles](https://sciprofiles.com/profile/5007999?utm\_source=mdpi.com&utm\_medium=website&utm\_campaign=avatar\_name)[Scilit](https://scilit.com/scholars?q=Angela%20Elisabeth%20Stott)[Preprints.org](https://www.preprints.org/search?condition\_blocks=[{%22value%22:%22Angela+Elisabeth+Stott%22,%22type%22:%22author%22,%22operator%22:null}]&sort\_field=relevance&sort\_dir=desc&page=1&exact\_match=true)[Google Scholar](https://scholar.google.com/scholar?q=Angela+Elisabeth+Stott)
+2[![](https://pub.mdpi-res.com/img/design/orcid.png?0465bc3812adeb52?1775042484)](https://orcid.org/0000-0003-2663-0812)
+1
+Senior and FET Phase Studies, Akademie Reformatoriese Opleiding en Studies (Aros), Pretoria 0182, South Africa
+2
+Department of Mathematics, Natural Sciences and Technology Education, University of the Free State, Bloemfontein 9300, South Africa
+\\*
+Author to whom correspondence should be addressed.
+\*Educ. Sci.\*\*\*2026\*\*, \*16\*(4), 573; https://doi.org/10.3390/educsci16040573 (registering DOI)
+Submission received: 2 February 2026
+/
+Revised: 20 March 2026
+/
+Accepted: 23 March 2026
+/
+Published: 3 April 2026
+(This article belongs to the Special Issue [Generative AI Technologies in Higher Education: Exploring the Application and Impact of AI and Prompt Literacy in Academic Practices](
+/journal/education/special\_issues/YW729VSX33
+))
+Download \*keyboard\\_arrow\\_down\*
+[Download PDF](/2227-7102/16/4/573/pdf?version=1775224078)[Download XML](#)[Download Epub](/2227-7102/16/4/573/epub)
+[Browse Figures](#)
+[Versions Notes](/2227-7102/16/4/573/notes)
+## Abstract
+Students’ use of generative artificial intelligence (GAI) to avoid engaging in generative processing can undermine the validity of higher education. In contrast, Flipped-Interaction Intelligent Tutoring Systems (FIITSs) may promote active engagement by leading a personalised dialogue. The underutilisation of FIITS may stem from the lack of a framework to guide prompt creation and from a dearth of published FIITS prompt examples. This article presents the Flipped-Interaction Prompt (FIP) Framework, abstracted from two validated prompts. To achieve this validation, 26 preservice science education students at a South African university engaged with either prompt in a free GAI five times over ten weeks. The resulting 114 engagements, each involving at least 10 flipped-interaction dialogue exchanges, were analysed for implementation fidelity and for students’ engagement in generative processing. Findings were triangulated against questionnaire and group interview responses, as well as written reflections. The technical implementation was closely aligned with the prompt instruction, with minor deviations noted for not providing answers outright. Additionally, students demonstrated moderate to high levels of generative processing. Findings support the efficacy of the abstracted FIP Framework in guiding the creation of FIITS prompts. Investigating instantiations for additional subject domains would further strengthen confidence in this framework.
+Keywords:
+[flipped-interaction intelligent tutoring systems](/search?q=flipped-interaction+intelligent+tutoring+systems); [generative artificial intelligence](/search?q=generative+artificial+intelligence); [generative processing](/search?q=generative+processing); [prompting](/search?q=prompting); [Global South](/search?q=Global+South); [intelligent tutoring systems](/search?q=intelligent+tutoring+systems); [student engagement](/search?q=student+engagement)
+[![](https://pub.mdpi-res.com/education/education-16-00573/article\_deploy/html/images/education-16-00573-ag-550.jpg?1775224187)](#)
+Graphical Abstract
+## 1. Introduction
+The underutilisation of free generative artificial intelligence (GAI) as a Flipped-Interaction Intelligent Tutoring System (FIITS) may be due to a lack of a prompt framework and exemplars. In a flipped-interaction (FI), GAI asks, rather than answers, questions ([White et al., 2023](#B24-education-16-00573)). An FI that is customised to the user’s needs is an intelligent tutoring system (ITS) ([Zheng et al., 2025](#B28-education-16-00573)). Underutilisation of free GAI to lead, rather than respond to, a dialogical exchange, is evident in its absence in reports on students’ GAI use, for example, by South African preservice teachers ([Ramnarain et al., 2024](#B19-education-16-00573)) and biology students across nine universities in the United States of America ([Coelho et al., 2025](#B5-education-16-00573)). Other information and communication technologies (ICTs), such as search engines and websites, can provide information. Therefore, using GAI to answer users’ questions involves substitution or augmentation relative to these other ICTs ([Franco, 2019](#B10-education-16-00573)). In contrast, whereas search engines and websites cannot, GAI can ask users questions and respond with personalised feedback. Therefore, prompting GAI as a FIITS can be seen as potentially redefining ICT-mediated learning by providing functionality absent in other ICTs.
+Consistent with the argument that GAI’s unique capabilities are underutilised in education, a meta-analysis of GAI-related research revealed that GAI continues to perpetuate, rather than redefine, education paradigms ([Lee et al., 2025](#B16-education-16-00573)). Despite calls to pioneer innovative integration of free GAI into education ([Zhai, 2024](#B27-education-16-00573)), few concrete guidelines, such as template-like frameworks and illustrative examples, have been published for FIITS. Possibly, the paucity of prompt templates and examples of this kind results from a preference for more user-friendly chatbots and custom-built intelligent tutoring systems over lengthy prompts that need to be copied from a repository and pasted into GAI. However, these more user-friendly alternatives are prohibitively expensive for many higher institutions, particularly in the developing world ([Avcı et al., 2025](#B1-education-16-00573)). Also, obtaining licences for such alternatives may be difficult due to institutional bureaucracy.
+Prompt frameworks and examples do, however, abound in the literature for the more common form of using GAI, i.e., to provide or evaluate information. These include frameworks for prompting GAI to formatively assess scientific argumentation ([F. M. Watts et al., 2025](#B22-education-16-00573)), pedagogical content knowledge ([Blonder et al., 2024](#B3-education-16-00573)), and pedagogical reflection ([Hofmann et al., 2025](#B11-education-16-00573)). This article extends the literature on prompt examples and frameworks into the domain of the flipped-interaction intelligent tutor, as it answers the overarching question:
+> How can free generative artificial intelligence be prompted to serve as a flipped-interaction intelligent tutor?
+To answer this question, the technical and pedagogical efficacy of two FIITS prompts is first investigated, guided by the following research questions:
+(1)
+: To what extent do free generative artificial intelligence (GAI) platforms execute the prompts with technical fidelity?
+(2)
+: To what extent do the Flipped-Interaction Intelligent Tutoring Systems (FIITSs) resulting from these prompts encourage student generative processing?
+Positive responses to these questions provide evidence for abstracting an easily customisable generic framework from these two investigated prompts. This framework is called the Flipped-Interaction Prompt (FIP) Framework. The FIP Framework could guide educators in creating free FIITS tailored to their specifications, without bureaucratic oversight.
+## 2. Theoretical Frameworks
+Generative processing serves as a theoretical framework for interpreting students’ engagement with GAI. Cognitive Load Theory, in conjunction with the Cognitive Theory of Multimedia Learning, holds that generative processing is necessary for meaningful learning to occur ([Mayer, 2024](#B18-education-16-00573)). Generative processing involves selecting relevant information, forming connections between prior and new knowledge, and reflecting on feedback to construct a deeper understanding ([Fiorella & Mayer, 2021](#B9-education-16-00573)). Generative processing occurs within the limited space of working memory, which can be expanded through skilful collaboration with peers, instructors, or even artificial tools serving these purposes ([Kirschner et al., 2018](#B14-education-16-00573)). When used pedagogically appropriately, GAI enhances the working memory space and facilitates and stimulates students’ generative processing ([Katsenou et al., 2025](#B13-education-16-00573)). When used pedagogically inappropriately, however, GAI promotes gaming the system ([K. J. Watts, 2025](#B23-education-16-00573)), i.e., circumventing generative processing. Concerns about GAI misuse in higher education arise from GAI’s ability to game traditional assignments by generating human-like answers while requiring little generative processing from students ([Hughes et al., 2025](#B12-education-16-00573)). This concern is irrelevant to a FIITS, given its role of asking students questions.
+Against this background, the FIITS prompt examples and abstracted framework presented in this article were pedagogically informed by [Laurillard](#B15-education-16-00573)’s ([2013](#B15-education-16-00573)) Conversational Framework. Dialogue likely to promote generative processing is conceptualised as students expressing their current conception, receiving feedback that challenges or extends that conception, applying revised ideas in practice, and reflecting on the outcomes.
+While the questioning dialogue of a FIITS is more likely to promote generative processing than is more passive information access ([Katsenou et al., 2025](#B13-education-16-00573)), it is not immune to attempts to game the system. Research into integrating ICTs into education over several decades has revealed various methods for detecting attempts to game the system ([Baker et al., 2013](#B2-education-16-00573)). These include avoidance of more difficult questions, over-reliance on hints, and guessing. Guessing may be evidenced by high error rates and repeated selection of a single multiple-choice option. In contrast, behaviour that suggests generative processing includes active selection of relevant information, connection-building, and concept modification ([Fiorella & Mayer, 2021](#B9-education-16-00573)).
+## 3. Materials and Methods
+### 3.1. Research Design
+This is a pragmatically conducted mixed-methods case study ([Creswell & Cresswell, 2003](#B6-education-16-00573)) aimed at evaluating the technical and pedagogical efficacy of two example FIITS prompts to validate a generic FIT framework. The two prompts and their creation are first described, followed by an explanation of the data collection and analysis process.
+### 3.2. The Prompts, Their Creation, and Output Examples
+The two investigated prompts are available at . When pasted into free GAI, they result in FIITS aimed at developing subject-matter knowledge among preservice high school natural or physical science teachers. These two FIITS prompts were created through a series of iterative interactions with ChatGPT Plus (version 4). These initial prompts were refined through approximately five iterations of testing, guided by the pedagogical intuition of two experienced educators. Each iteration included testing the prompts on three free GAI platforms (ChatGPT, Gemini, and CoPilot). During these tests, the user experience, consistency, and fidelity across the interactions and simulations were assessed, and improvements were implemented by adding content, pedagogical elements, student control, and administrative details as the need for these became evident. The prompts were then input into ChatGPT Plus (version 4) and the free version of Gemini to run 50 simulated dialogues, each consisting of ten original question-answer exchanges. The simulators were prompted to answer some questions incorrectly, resulting in additional follow-up question-answer exchanges. The simulated dialogues were then analysed by ChatGPT Plus (version 4). This analysis suggested that the GAI platforms implemented the prompts with high fidelity, and, therefore, the prompts were finalised, enabling initiation of the implementation and investigation stages of this study.
+[Table 1](#table\_body\_display\_education-16-00573-t001) illustrates the setup sequence that results when the physical science prompt is pasted into Gemini. The FIITS provides choices for topic, grade, sub-topic, and difficulty level. Although the grade level refers to school-level physical science, the prompts were used with university students preparing to teach school physical science.
+\*\*Table 1.\*\*
+An example of a setup sequence resulting from the physical science prompt.
+![](https://pub.mdpi-res.com/img/table.png)
+Corresponding to the student’s setup instructions, [Table 2](#table\_body\_display\_education-16-00573-t002) shows the first of ten dialogue exchanges in the student’s engagement with the resulting FIITS. This FIITS aimed to develop the student’s momentum and impulse knowledge, aligned with the South African Grade 12 mechanics curriculum at the hard level. The FIITS provides a scenario with a multi-select question about the truth of five statements. Even though the student correctly selects two of these, the FIITS engages in a dialogue to ascertain the student’s understanding, guiding them to perform the necessary calculations and reason through the concepts to evaluate each of the five statements.
+\*\*Table 2.\*\*
+Example of a hard-level Flipped-Interaction Intelligent Tutoring System (FIITS).
+![](https://pub.mdpi-res.com/img/table.png)
+### 3.3. Implementation, Data Collection, Sample, and Ethics
+The two FIITS prompts were implemented as part of the Bachelor of Education degree at a South African University. Using population sampling, data were collected from 11 third- and 15 fourth-year BEd students who engaged with the physical science and natural science prompts, respectively, every other week during a 10-week intervention. The students were all Black South Africans (16 male and 10 female) under the age of 25, who had been schooled in South Africa and were majoring in middle and high school natural and physical sciences and mathematics education at the university where this research was conducted. The students copied the prompt from their module’s learning management system, pasted it into a free GAI of their choice, selected the topic, grade, and difficulty level, and interacted with the resulting FIITS. This meant that ideally, each of the 26 students submitted five engagements, yielding a total of 130. However, a few students failed to submit all expected engagements, resulting in a data corpus of 114 engagements. Each engagement consists of the 10 questions that the FIITS was prompted to pose, along with any follow-up questions when the student provided an incorrect answer. Additionally, the students completed a reflective questionnaire immediately after each engagement, wrote a reflective essay, and participated in an audio-recorded group interview at the end of the 10-week intervention. Ethical clearance for the study was obtained from the relevant regulatory body (reference number deleted for review). The students were provided with written informed consent prior to the intervention. In this process, they were informed of the study’s purpose, their right for their responses not to be used within the study without any penalty.
+Given the use of prompt-based interactions, particular care was taken to ensure that no personally identifiable information was included in the data. Data were stored securely and reported in aggregate or anonymised form to protect student confidentiality.
+### 3.4. Data Analysis
+The FIITS student–engagements formed the primary data source. In correspondence to the research questions, this data was analysed for: (1) the fidelity with which the resulting FIITS implemented the prompt, by calculating the percentage of engagements that abided by the prompt instructions, per prompt aspect; (2) evidence for and against generative cognitive processing during the interaction. The engagements were analysed quantitatively for evidence of gaming the system, and the students’ post-activity reflections were analysed qualitatively for evidence of generative processing. Qualitative detection of generative processing was guided by the purpose-built rubric given in [Table 3](#table\_body\_display\_education-16-00573-t003). Generative processing is operationalised across three dimensions: E (engagement), B (building on feedback), and C (constructing conceptual understanding). Each student’s written reflection was coded on a 0–4 scale for each dimension. Analysis was supported by ChatGPT Plus through an iterative process of exploratory prompting, rubric-guided manual evaluation, and consistency checking, which enhanced analytic efficiency, reliability and transparency. Quantitative summaries were generated using Microsoft Excel. To strengthen validity, findings from the reflection analysis were triangulated against group interview data, allowing for the identification of convergent and divergent patterns across data sources. The group interviews were also used to member check emergent themes.
+\*\*Table 3.\*\*
+The rubric used to quantify generative processing behaviour from the students’ written reflections.
+![](https://pub.mdpi-res.com/img/table.png)
+## 4. Results
+Findings reveal that when the prompts were pasted into free GAI, the resulting FIITS demonstrated high technical fidelity. Also, students employed moderate to high levels of generative processing as they engaged with the FIITS.
+### 4.1. High Fidelity
+[Table 4](#table\_body\_display\_education-16-00573-t004) shows the overall fidelity during the implementation of the FIITS prompt, indicating a high to perfect success rate. Three of the five structural elements analysed showed perfect enactment of the prompt, while the remaining two showed minor implementation fidelity errors. These errors are indicated in [Table 4](#table\_body\_display\_education-16-00573-t004) as structural errors (not staying within the chosen difficulty level) and answer violations (providing answers outright after an incorrect answer).
+\*\*Table 4.\*\*
+Implementation fidelity.
+![](https://pub.mdpi-res.com/img/table.png)
+[Table 5](#table\_body\_display\_education-16-00573-t005) shows that fidelity errors were unevenly distributed across platforms. The most popular platform, ChatGPT, accounted for the two structural errors and 74 of the 76 answer violations, with Gemini accounting for the remaining 2. Regarding the structural errors, the FIITS prompted progression to a higher difficulty level without explicitly offering the option to remain at the previously chosen level. Although the students could have instructed the FIITS to remain at their current difficulty level, the prompt’s suggestive nature appeared to advance the students by default. These two cases of structural error, therefore, reflect reduced interface clarity rather than a breakdown in prompt logic.
+\*\*Table 5.\*\*
+Breakdown of fidelity error rates.
+![](https://pub.mdpi-res.com/img/table.png)
+Regarding answer violation errors, [Table 6](#table\_body\_display\_education-16-00573-t006) and [Table 7](#table\_body\_display\_education-16-00573-t007) illustrate two ways in which ChatGPT violated the instruction not to provide answers outright in response to a student’s incorrect answer. [Table 6](#table\_body\_display\_education-16-00573-t006) shows the FIITS providing the correct answer with reasons on the student’s first incorrect attempt.
+\*\*Table 6.\*\*
+An outright answer provision violation by a ChatGPT FIITS.
+![](https://pub.mdpi-res.com/img/table.png)
+\*\*Table 7.\*\*
+An answer provision violation for an incorrectly answered follow-up question.
+![](https://pub.mdpi-res.com/img/table.png)
+In contrast to the overt violation of the prompt not to provide correct answers, [Table 7](#table\_body\_display\_education-16-00573-t007) shows closer adherence to it. In this example, the FIITS did provide a guiding follow-up question in response to the student’s incorrect answer, as per the prompt, but then provided the correct answer directly when the student continued to answer incorrectly.
+### 4.2. Moderate to High Levels of Generative Processing
+In general, moderate levels, with some evidence of high levels of generative processing, were deduced. This deduction is based on the observations that the students: voluntarily chose medium to harder difficulty levels for a considerable fraction of their engagement; displayed a reasonable correct-incorrect response rate; only occasionally avoided follow-up questions; did not noticeably resort to random or repetitive button pressing activity; and scored moderately to highly in their written reflection using a rubric ([Table 3](#table\_body\_display\_education-16-00573-t003)) designed to detect self-reported engagement in generative processing, as previously explained.
+#### 4.2.1. Difficulty Levels
+[Figure 1](#fig\_body\_display\_education-16-00573-f001) indicates the number of students who chose each difficulty level within the FIITS for each of the five fortnightly engagements. This choice was voluntary. Although students were verbally encouraged to progress to more difficult levels over time, this was not incentivised. The 11 cases where students chose the easy option after week 1 could be evidence of avoidance of generative processing, as suggested by a student’s confession in a group interview: “There were times that it was hard to focus because maybe the thing was too easy for me, or maybe sometimes I was just rushing to finish the questions to submit”. In contrast, some students reported intentionally progressing through the levels, for example, “Choosing difficulty levels was fun too—I started with Easy questions to understand the basics, then moved up to Hard and Challenging, which made me apply my knowledge to solve more complex problems. This was a great learning experience for me.” Consistent with this student’s statement, [Figure 2](#fig\_body\_display\_education-16-00573-f002) shows migration towards the hard level in the fifth and ninth weeks, and to a lesser extent, towards the challenging level in the seventh week. Inconsistent with this student’s statement, however, the challenging level was largely avoided, and it appears that some students regressed from hard to medium between weeks 5 and 7.
+![](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g001-550.jpg)
+\*\*Figure 1.\*\*
+Number of students who chose each difficulty level across the 10-week intervention period (n = 114).
+![](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g002-550.jpg)
+\*\*Figure 2.\*\*
+Number of sets of engagements that showed each possible correct and incorrect score (/10).
+#### 4.2.2. Correct–Incorrect Response Rates
+[Figure 2](#fig\_body\_display\_education-16-00573-f002) displays the frequency with which each possible score was attained across the sets of engagement. Since each engagement set consisted of 10 questions, the maximum score per set was 10, and the maximum total score across the five weeks was 50. [Figure 2](#fig\_body\_display\_education-16-00573-f002) shows a high frequency of perfect scores. Similarly, a high mean score (35/50) was calculated. It is possible that some of this success arose from gaming the system by using an external GAI platform to obtain correct answers. During the focus group discussions, one student admitted to doing this when pressed for time. However, these high success rates appeared more largely attributable to genuine engagement in generative processing, as evidenced by the following statement:
+> Using ChatGPT as an intelligent tutor made me feel as though I always had a personal advisor available. Whether I was stuck on a perplexing concept or simply wanted to explore an idea further, ChatGPT offered straightforward explanations, relatable examples, and immediate feedback. It adapted to my questions and learning pace, making studying feel less formal and more conversational. For example, if I didn’t understand a mathematical formula or the context of a historical event, I could ask clarifying questions without feeling judged or rushed. This created a learning process that felt more natural and less intimidating, especially for topics I typically struggled with.
+>
+> (Student 6—Reflections)
+Additional explanations for the high scores are the revisionary nature of the FIITS and students’ misunderstanding of the incentive system. Since the FIITS were aligned to a school-level curriculum, these university students may have experienced them as a revision of previously mastered work. Moreover, the focus group discussion revealed that some students had misunderstood the assessment expectations: “I thought we would lose marks if we got answers wrong, so I redid it until I got full marks” (Focus group 3).
+#### 4.2.3. Avoiding Follow-Up Questions
+[Table 8](#table\_body\_display\_education-16-00573-t008) illustrates a student avoiding engagement with the FIITS’s optional follow-up questions. Since answering these follow-up questions was not incentivised by mark allocation, a student who nevertheless answered them was likely self-directed, suggesting generative processing. In contrast, a student who avoided these follow-up questions may have been attempting to minimise generative processing by doing only the minimum required to secure a mark. Even if this avoidance of follow-up questions indicates an attempt to game the system, its occurrence was rare, affecting only one or two students each week.
+\*\*Table 8.\*\*
+An example of a student ignoring further engagement. Student input is highlighted.
+![](https://pub.mdpi-res.com/img/table.png)
+#### 4.2.4. Button-Pressing Possibilities
+Random or repetitive button pressing is a possible way to game the system, which may be encouraged if students are aware that marking does not incentivise giving the correct answer. Possibly conducive to random button-pressing behaviour, several students said they prioritised completing the activity quickly rather than answering carefully, particularly under time constraints. However, the pattern displayed in [Figure 3](#fig\_body\_display\_education-16-00573-f003) does not suggest widespread random responding or an overreliance on any single option. Instead, the spread of A–C responses appears relatively balanced. Fewer D responses are evident, corresponding to the observation that the FIITS rarely positioned the correct option at D.
+![](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g003-550.jpg)
+\*\*Figure 3.\*\*
+The number of times each student chose each multiple-choice option.
+[Figure 3](#fig\_body\_display\_education-16-00573-f003) shows variations in total responses across the students. Totals under 50 resulted from students failing to complete all engagements (e.g., Student 6) or engaging in more challenging levels, which deviated from the multiple-choice format (e.g., Student 13). Totals over 50 resulted from the student providing incorrect responses to one or more of the 10 initial questions per set, prompting the FIITS to ask follow-up questions to guide them to the correct answers.
+#### 4.2.5. Generative Processing
+[Figure 4](#fig\_body\_display\_education-16-00573-f004) represents the analysis of the reflection-based generative processing scores using the 0–4 scale rubric for each of the dimensions of engagement, building, and constructing (see [Table 3](#table\_body\_display\_education-16-00573-t003)). Engagement scores were strongly concentrated at the upper end of the scale, with all but one student’s reflection demonstrating rich (n = 15) or clear (n = 8) engagement, i.e., engagement at levels 4 and 3, respectively. No students scored below level 2 on this dimension, indicating consistently high levels of reported interaction, motivation, and sustained participation when using the intelligent tutor.
+![](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g004-550.jpg)
+\*\*Figure 4.\*\*
+Reflective-based generative processing scores.
+A similar but more pronounced pattern was observed for building. Most students (n = 23) achieved the maximum score of 4, with only one student scoring 3 and no scores recorded below level 3. This indicates widespread evidence of feedback-driven adjustment, including the use of hints, explanations, and corrective guidance to refine understanding.
+In contrast, Constructing scores showed greater spread and moderation. While most students scored at level 3 (n = 15), fewer reached level 4 (n = 1), and a notable number remained at level 2 (n = 8). This suggests that although students frequently reported improved understanding, fewer articulated fully reconstructed or transferable conceptual reasoning in their reflections.
+Student 18 is an example of a student who demonstrated sustained engagement, feedback-driven adjustment, and conceptual construction when engaging with the FIITS. Their written reflection was evaluated at the maximum level (4) for each aspect of generative processing. Below is an extract from this reflection:
+> When I struggled to determine whether a species is reduced or oxidised, the tutor broke the redox process into less intimidating steps: determining oxidation numbers, determining electron transfer, and writing half-reactions. It immediately corrected me if I had gotten it wrong and explained why the solution was wrong.
+This extract evidences B—building through iterative feedback and adjustment, while the explicit articulation of redox mechanisms and half-reactions reflects C—constructing at a high level. The student not only reports improvement but also explains how conceptual understanding was reorganised, aligning with their maximum C score.
+In contrast, Student 17 (assigned the scores: engagement = 3, building = 4, and construction = 2) reflected strong engagement and reliance on feedback, but with more limited conceptual articulation:
+> Having to have immediate feedback, made the learning process more enacting as If I was unclear about something, the interactive AI would give me the correct answer. Unlike the typical system of having to search or wait to come in contact with a teacher to get clarification. The AI gave it immediately and even went further on justifying its answers where I was correct. Where the answer was wrong it also gave me correct answer immediately and even asked if I needed further explanation.
+The above quote emphasises interaction, immediacy, and clarification, with little reference to the student providing further explanation; it focuses only on correct answers. Thus, the student primarily frames learning as receiving confirmation of correct answers. This pattern supports the lower constructing score, as conceptual reconstruction appears to be externally driven by feedback rather than internally articulated by the student.
+Across reflections, a consistent pattern emerged: high engagement and responsiveness to feedback do not automatically translate into articulated conceptual construction. Students who scored highest on C explicitly described disciplinary mechanisms, causal relationships, or conceptual reorganisation. By contrast, students with moderate C scores emphasised immediacy, correctness, and reassurance, without detailing how knowledge structures changed.
+This pattern helps explain the quantitative distribution observed in the findings, where E and B scores cluster at the upper end, while C scores show greater spread and moderation. The reflections suggest that the FIITS supported engagement and feedback-driven learning, but either deeper generative processing was limited, or the prompt’s emphasis on multiple-choice questions, for ease of answering, obscured the verbalisation of underlying conceptual change.
+## 5. Discussion
+The findings demonstrate high to perfect technical implementation fidelity and moderate to high levels of student generative processing for the two FIITSs investigated. These findings contribute to a growing body of evidence that student–GAI dialogue can result in deep learning through generative processing for the same reasons that student–lecturer dialogue can ([Hofmann et al., 2025](#B11-education-16-00573); [Katsenou et al., 2025](#B13-education-16-00573)). Dialogue enables the sharing of cognitive resources, thereby decreasing cognitive load ([Kirschner et al., 2018](#B14-education-16-00573)). Additionally, pedagogically skilful dialogue can direct attention towards relevant items for selection, prompt concept linkage, and provide formative feedback to guide concept construction ([Fiorella, 2023](#B8-education-16-00573)). The finding that even free GAI can be prompted to engage in such pedagogically skilled dialogue is consistent with findings from other studies ([Ling & Jan, 2025](#B17-education-16-00573); [Yan et al., 2024](#B25-education-16-00573); [Zeng, 2025](#B26-education-16-00573)).
+The positive findings reported above justified our use of the two investigated prompts as a starting point, from which we abstracted a generic prompt framework. We present the Flipped-Interaction Prompt (FIP) Framework in [Figure 5](#fig\_body\_display\_education-16-00573-f005). The FIP Framework is a template for creating customised prompts for GAI to behave as a FIITS. Square brackets indicate placeholders to guide educators in applying their pedagogical and curricular expertise, without requiring technical expertise such as coding, to create a suitable FIITS prompt for their context. The FIP Framework has contextual and pedagogical framing sections, which are described and justified below.
+![](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g005-550.jpg)
+\*\*Figure 5.\*\*
+The Flipped-Interaction Prompt Framework (FIP Framework).
+The context framing sections of the prompt require customised completion of the relevant square brackets to specify the following: subject domain (e.g., history, nursing, or economics); level of instruction (e.g., Grade 12, first-year undergraduate, or postgraduate); mode of interaction (e.g., multiple-choice simulation and dialogue, case-based); list of topics to choose from; and difficulty levels to choose from. Providing difficulty level choices enables differentiation and cognitive load management ([Fiorella & Mayer, 2021](#B9-education-16-00573)).
+The pedagogical framing sections of the prompt are guided by [Laurillard](#B15-education-16-00573)’s ([2013](#B15-education-16-00573)) Conversational Framework, which aims to facilitate dialogue that promotes articulation, feedback, practice, and conceptual refinement. Articulation is promoted by asking questions. The students’ answers to these questions are followed by personalised feedback. Practice is provided through multiple questions asked on each chosen topic. Conceptual refinement is encouraged when a student chooses an incorrect answer, and a Socratic dialogue follows to guide them to analyse alternative answers. Socratic dialogue may help students revise their misconceptions and develop metacognition ([Elder & Paul, 2019](#B7-education-16-00573)), as well as refine their understanding iteratively ([Shute, 2008](#B20-education-16-00573)). The framework emphasises conceptual understanding over memorisation since this is more durable and promotes higher-order thinking skills ([Bransford et al., 2000](#B4-education-16-00573)).
+The FIP Framework aligns with [UNESCO](#B21-education-16-00573)’s ([2024](#B21-education-16-00573)) AI competency framework for teachers. The flipped, interactive nature of the FIITS generated using this framework encourages active learning. This human-centric, ethical use of GAI to promote learning contrasts with students’ passive, unethical dependence on GAI to complete tasks with minimal generative processing. The FIP Framework’s guidance on using free GAI platforms enhances equitable access to AI for pedagogical and professional development. Furthermore, the FIP Framework is intended to enhance the prompt proficiency of students, lecturers, and teachers, thereby advancing their competence in using GAI in pedagogically powerful, ethical, and human-centric ways.
+## 6. Conclusions
+This article presented the Flipped-Interaction Prompt (FIP) Framework to address this underutilisation. This framework was abstracted from two prompts that were found to be implemented with high to perfect fidelity when pasted into free GAI and to prompt moderate to high generative processing, engaging students. Lecturers and students could benefit from entering their module details into the FIP Framework template. The resulting prompt can be pasted into free GAI to turn it into a FIITS or application in various contexts and disciplines. In this way, the FIP Framework could expand educators’ GAI pedagogical repertoires and enhance students’ generative processing. Future research could replicate this study in other contexts and with larger samples to evaluate the influence of these variables on limiting the generalisability of this study. Additionally, the technical and pedagogical efficacy of instantiations across other discipline domains and study levels, and with various GAI platforms, could be investigated. Other areas of interest include evaluating how students’ engagement in FIITS can be assessed for university credit, as well as the role of frameworks, such as this one, in developing prompt literacy among students and educators. The FIP Framework is offered as a tool to increase the uptake of free GAI prompting as Flipped-Interaction Intelligent Tutoring Systems (FIITSs). Such an uptake of FIITS prompting should promote student thinking through GAI use at a time when fears that GAI undermines higher education are abundant.
+## Author Contributions
+Conceptualization, S.J.S. and A.E.S.; methodology, S.J.S. and A.E.S.; software, S.J.S.; validation, S.J.S.; formal analysis, S.J.S.; investigation, S.J.S. and A.E.S.; resources, S.J.S. and A.E.S.; data curation, S.J.S. and A.E.S.; writing—original draft preparation, S.J.S. and A.E.S.; writing—review and editing, A.E.S.; visualization, S.J.S.; supervision, A.E.S.; project administration, S.J.S. and A.E.S. All authors have read and agreed to the published version of the manuscript.
+## Funding
+This research received no external funding.
+## Institutional Review Board Statement
+The study was conducted in accordance with the Declaration of Helsinki, and approved by the General/Human Research Ethics Committee (GHREC) of the University of the Free State (protocol code: UFS-HSD2024/2116; date of approval: 20 February 2025).
+## Informed Consent Statement
+Written informed consent was obtained from all subjects involved in the study.
+## Data Availability Statement
+The data presented in this study are not publicly available due to ethical restrictions related to participant privacy and institutional research ethics approval.
+## Acknowledgments
+The authors declare that GAI was used in a limited and supportive capacity during the preparation of this manuscript. Specifically, ChatGPT-4 was used to proofread selected sections of the manuscript and to enhance language clarity and readability. GAI was not used to generate substantive scholarly content or to write the manuscript in full. ChatGPT-5 was used to guide analytical processes, including structuring analyses and assisting with certain data analysis tasks. All analytical decisions, interpretations, and conclusions remain the responsibility of the authors. The authors have reviewed and approved the final version of the manuscript and take full responsibility for its content.
+## Conflicts of Interest
+The authors declare no conflicts of interest.
+## Abbreviations
+The following abbreviations are used in this manuscript:
+| | |
+| --- | --- |
+| GAI | Generative Artificial Intelligence |
+| FIITS | Flipped-Interaction Intelligent Tutoring System |
+| ICTs | Information and Communication Technologies |
+## References
+1. Avcı, G., Owusu-Boateng, O., Vampa, M., & Khalid, A.-M. (2025). Intelligent tutoring systems (pp. 46–57). Deep Science Publishing. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Intelligent+tutoring+systems&author=Avc%C4%B1,+G.&author=Owusu-Boateng,+O.&author=Vampa,+M.&author=Khalid,+A.-M.&publication\_year=2025)] [[CrossRef](https://doi.org/10.70593/978-93-49307-53-7\_4)]
+2. Baker, R. S. J., Corbett, A. T., Roll, I., Koedinger, K. R., Aleven, V., Cocea, M., Hershkovitz, A., de Caravalho, A., Mitrovic, A., & Mathews, M. (2013). Modeling and studying gaming the system with educational data mining. In International handbook of metacognition and learning technologies (pp. 97–115). Springer. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Modeling+and+studying+gaming+the+system+with+educational+data+mining&author=Baker,+R.+S.+J.&author=Corbett,+A.+T.&author=Roll,+I.&author=Koedinger,+K.+R.&author=Aleven,+V.&author=Cocea,+M.&author=Hershkovitz,+A.&author=de+Caravalho,+A.&author=Mitrovic,+A.&author=Mathews,+M.&publication\_year=2013&pages=97%E2%80%93115)]
+3. Blonder, R., Feldman-Maggor, Y., & Rap, S. (2024). Are they ready to teach? Generative AI as a means to uncover pre-service science teachers’ PCK and enhance their preparation program. Journal of Science Education and Technology, 34(6), 1301–1310. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Are+they+ready+to+teach?+Generative+AI+as+a+means+to+uncover+pre-service+science+teachers%E2%80%99+PCK+and+enhance+their+preparation+program&author=Blonder,+R.&author=Feldman-Maggor,+Y.&author=Rap,+S.&publication\_year=2024&journal=Journal+of+Science+Education+and+Technology&volume=34&issue=(6)&pages=1301%E2%80%931310&doi=10.1007/s10956-024-10180-2)] [[CrossRef](https://doi.org/10.1007/s10956-024-10180-2)]
+4. Bransford, J. D., Brown, A. L., & Cocking, R. (2000). How people learn. National Academy Press. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=How+people+learn&author=Bransford,+J.+D.&author=Brown,+A.+L.&author=Cocking,+R.&publication\_year=2000)]
+5. Coelho, R., Bjune, A. E., Ellingsen, S., Solheim, B. M., Thormodsæter, R., Wasson, B., & Cotner, S. (2025). A call for clarity: Biology students advocate for guidelines for the use of generative AI in higher education. Journal of Science Education and Technology, 34(4), 853–865. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A+call+for+clarity:+Biology+students+advocate+for+guidelines+for+the+use+of+generative+AI+in+higher+education&author=Coelho,+R.&author=Bjune,+A.+E.&author=Ellingsen,+S.&author=Solheim,+B.+M.&author=Thormods%C3%A6ter,+R.&author=Wasson,+B.&author=Cotner,+S.&publication\_year=2025&journal=Journal+of+Science+Education+and+Technology&volume=34&issue=(4)&pages=853%E2%80%93865&doi=10.1007/s10956-025-10216-1)] [[CrossRef](https://doi.org/10.1007/s10956-025-10216-1)]
+6. Creswell, J. W., & Cresswell, J. W. (2003). Research design: Qualitative, quantitative and mixed methods approaches (2nd ed.). SAGE Publications. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Research+design:+Qualitative,+quantitative+and+mixed+methods+approaches&author=Creswell,+J.+W.&author=Cresswell,+J.+W.&publication\_year=2003)]
+7. Elder, L., & Paul, R. (2019). The art of asking essential questions: Based on critical thinking concepts and Socratic principles. Bloomsbury Publishing PLC. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The+art+of+asking+essential+questions:+Based+on+critical+thinking+concepts+and+Socratic+principles&author=Elder,+L.&author=Paul,+R.&publication\_year=2019)]
+8. Fiorella, L. (2023). Making sense of generative learning. In Educational psychology review (Vol. 35, Issue 2). Springer. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Making+sense+of+generative+learning&author=Fiorella,+L.&publication\_year=2023)] [[CrossRef](https://doi.org/10.1007/s10648-023-09769-7)]
+9. Fiorella, L., & Mayer, R. E. (2021). The generative activity principle in multimedia learning. In The cambridge handbook of multimedia learning (pp. 339–350). Cambridge University Press. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The+generative+activity+principle+in+multimedia+learning&author=Fiorella,+L.&author=Mayer,+R.+E.&publication\_year=2021&pages=339%E2%80%93350)] [[CrossRef](https://doi.org/10.1017/9781108894333.036)]
+10. Franco, M. (2019). SAMR and technology integration. In Technology and the curriculum: Summer 2019. Power Learning Solutions. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=SAMR+and+technology+integration&author=Franco,+M.&publication\_year=2019)]
+11. Hofmann, F., Daunicht, T.-M., Plößl, L., & Gläser-Zikuda, M. (2025). Promoting reflection skills of pre-service teachers—The power of AI-generated feedback. Education Sciences, 15(10), 1315. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Promoting+reflection+skills+of+pre-service+teachers%E2%80%94The+power+of+AI-generated+feedback&author=Hofmann,+F.&author=Daunicht,+T.-M.&author=Pl%C3%B6%C3%9Fl,+L.&author=Gl%C3%A4ser-Zikuda,+M.&publication\_year=2025&journal=Education+Sciences&volume=15&issue=(10)&pages=1315&doi=10.3390/educsci15101315)] [[CrossRef](https://doi.org/10.3390/educsci15101315)]
+12. Hughes, L., Malik, T., Dettmer, S., Al-Busaidi, A. S., & Dwivedi, Y. K. (2025). Reimagining higher education: Navigating the challenges of generative AI adoption. Information Systems Frontiers. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Reimagining+higher+education:+Navigating+the+challenges+of+generative+AI+adoption&author=Hughes,+L.&author=Malik,+T.&author=Dettmer,+S.&author=Al-Busaidi,+A.+S.&author=Dwivedi,+Y.+K.&publication\_year=2025)] [[CrossRef](https://doi.org/10.1007/s10796-025-10582-6)]
+13. Katsenou, R., Kotsidis, K., Papadopoulou, A., Anastasiadis, P., & Deliyannis, I. (2025). Beyond assistance: Embracing AI as a collaborative co-agent in education. Education Sciences, 15(8), 1006. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Beyond+assistance:+Embracing+AI+as+a+collaborative+co-agent+in+education&author=Katsenou,+R.&author=Kotsidis,+K.&author=Papadopoulou,+A.&author=Anastasiadis,+P.&author=Deliyannis,+I.&publication\_year=2025&journal=Education+Sciences&volume=15&issue=(8)&pages=1006&doi=10.3390/educsci15081006)] [[CrossRef](https://doi.org/10.3390/educsci15081006)]
+14. Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano, J. (2018). From cognitive load theory to collaborative cognitive load theory. International Journal of Computer-Supported Collaborative Learning, 13(2), 213–233. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=From+cognitive+load+theory+to+collaborative+cognitive+load+theory&author=Kirschner,+P.+A.&author=Sweller,+J.&author=Kirschner,+F.&author=Zambrano,+J.&publication\_year=2018&journal=International+Journal+of+Computer-Supported+Collaborative+Learning&volume=13&issue=(2)&pages=213%E2%80%93233&doi=10.1007/s11412-018-9277-y&pmid=30996713)] [[CrossRef](https://doi.org/10.1007/s11412-018-9277-y)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30996713)]
+15. Laurillard, D. (2013). Teaching as a design science: Building pedagogical patterns for learning and technology. Routledge. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Teaching+as+a+design+science:+Building+pedagogical+patterns+for+learning+and+technology&author=Laurillard,+D.&publication\_year=2013)] [[CrossRef](https://doi.org/10.4324/9780203125083)]
+16. Lee, G., Yun, M., Zhai, X., & Crippen, K. (2025). Artificial intelligence in science education research: Current states and challenges. Journal of Science Education and Technology, 35, 110–127. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Artificial+intelligence+in+science+education+research:+Current+states+and+challenges&author=Lee,+G.&author=Yun,+M.&author=Zhai,+X.&author=Crippen,+K.&publication\_year=2025&journal=Journal+of+Science+Education+and+Technology&volume=35&pages=110%E2%80%93127&doi=10.1007/s10956-025-10239-8)] [[CrossRef](https://doi.org/10.1007/s10956-025-10239-8)]
+17. Ling, Y., & Jan, J. M. (2025). Voices from the Flip: Teacher Perspectives on Integrating AI Chatbots in Flipped English Classrooms. Education Sciences, 15(9), 1219. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Voices+from+the+Flip:+Teacher+Perspectives+on+Integrating+AI+Chatbots+in+Flipped+English+Classrooms&author=Ling,+Y.&author=Jan,+J.+M.&publication\_year=2025&journal=Education+Sciences&volume=15&issue=(9)&pages=1219&doi=10.3390/educsci15091219)] [[CrossRef](https://doi.org/10.3390/educsci15091219)]
+18. Mayer, R. E. (2024). The past, present, and future of the cognitive theory of multimedia learning. Educational Psychology Review, 36(1), 8. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The+past,+present,+and+future+of+the+cognitive+theory+of+multimedia+learning&author=Mayer,+R.+E.&publication\_year=2024&journal=Educational+Psychology+Review&volume=36&issue=(1)&pages=8&doi=10.1007/s10648-023-09842-1)] [[CrossRef](https://doi.org/10.1007/s10648-023-09842-1)]
+19. Ramnarain, U., Ogegbo, A. A., Penn, M., Ojetunde, S., & Mdlalose, N. (2024). Pre-service science teachers’ intention to use generative artificial intelligence in inquiry-based teaching. Journal of Science Education and Technology, 34(6), 1272–1285. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Pre-service+science+teachers%E2%80%99+intention+to+use+generative+artificial+intelligence+in+inquiry-based+teaching&author=Ramnarain,+U.&author=Ogegbo,+A.+A.&author=Penn,+M.&author=Ojetunde,+S.&author=Mdlalose,+N.&publication\_year=2024&journal=Journal+of+Science+Education+and+Technology&volume=34&issue=(6)&pages=1272%E2%80%931285&doi=10.1007/s10956-024-10159-z)] [[CrossRef](https://doi.org/10.1007/s10956-024-10159-z)]
+20. Shute, V. J. (2008). Focus on formative feedback. Review of Educational Research, 78(1), 153–189. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Focus+on+formative+feedback&author=Shute,+V.+J.&publication\_year=2008&journal=Review+of+Educational+Research&volume=78&issue=(1)&pages=153%E2%80%93189&doi=10.3102/0034654307313795)] [[CrossRef](https://doi.org/10.3102/0034654307313795)]
+21. UNESCO. (2024). AI competency framework for teachers. In AI competency framework for teachers. UNESCO. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=AI+competency+framework+for+teachers&author=UNESCO&publication\_year=2024)] [[CrossRef](https://doi.org/10.54675/zjte2084)]
+22. Watts, F. M., Liu, L., Ober, T. M., Song, Y., Jusino-Del Valle, E., Zhai, X., Wang, Y., & Liu, N. (2025). A framework for designing an ai chatbot to support scientific argumentation. Education Sciences, 15(11), 1507. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=A+framework+for+designing+an+ai+chatbot+to+support+scientific+argumentation&author=Watts,+F.+M.&author=Liu,+L.&author=Ober,+T.+M.&author=Song,+Y.&author=Jusino-Del+Valle,+E.&author=Zhai,+X.&author=Wang,+Y.&author=Liu,+N.&publication\_year=2025&journal=Education+Sciences&volume=15&issue=(11)&pages=1507&doi=10.3390/educsci15111507)] [[CrossRef](https://doi.org/10.3390/educsci15111507)]
+23. Watts, K. J. (2025). Paying the cognitive debt: An experiential learning framework for integrating AI in social work education. Education Sciences, 15(10), 1304. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Paying+the+cognitive+debt:+An+experiential+learning+framework+for+integrating+AI+in+social+work+education&author=Watts,+K.+J.&publication\_year=2025&journal=Education+Sciences&volume=15&issue=(10)&pages=1304&doi=10.3390/educsci15101304)] [[CrossRef](https://doi.org/10.3390/educsci15101304)]
+24. White, J., Fu, Q., Hays, S., Sandborn, M., Olea, C., Gilbert, H., Elnashar, A., Spencer-Smith, J., & Schmidt, D. C. (2023). A prompt pattern catalog to enhance prompt engineering with ChatGPT. arXiv, arXiv:2302.11382. Available online: .
+25. Yan, W., Nakajima, T., & Sawada, R. (2024). Benefits and challenges of collaboration between students and conversational generative artificial intelligence in programming learning: An empirical case study. Education Sciences, 14(4), 433. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Benefits+and+challenges+of+collaboration+between+students+and+conversational+generative+artificial+intelligence+in+programming+learning:+An+empirical+case+study&author=Yan,+W.&author=Nakajima,+T.&author=Sawada,+R.&publication\_year=2024&journal=Education+Sciences&volume=14&issue=(4)&pages=433&doi=10.3390/educsci14040433)] [[CrossRef](https://doi.org/10.3390/educsci14040433)]
+26. Zeng, S. A. (2025). Dialogues in play: Conversational AI and early mathematical thinking. Education Sciences, 15(11), 1516. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Dialogues+in+play:+Conversational+AI+and+early+mathematical+thinking&author=Zeng,+S.+A.&publication\_year=2025&journal=Education+Sciences&volume=15&issue=(11)&pages=1516&doi=10.3390/educsci15111516)] [[CrossRef](https://doi.org/10.3390/educsci15111516)]
+27. Zhai, X. (2024). Transforming teachers’ roles and agencies in the era of generative AI: Perceptions, acceptance, knowledge, and practices. Journal of Science Education and Technology, 34, 1323–1333. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=Transforming+teachers%E2%80%99+roles+and+agencies+in+the+era+of+generative+AI:+Perceptions,+acceptance,+knowledge,+and+practices&author=Zhai,+X.&publication\_year=2024&journal=Journal+of+Science+Education+and+Technology&volume=34&pages=1323%E2%80%931333&doi=10.1007/s10956-024-10174-0)] [[CrossRef](https://doi.org/10.1007/s10956-024-10174-0)]
+28. Zheng, L., Shi, Z., Fu, Z., & Liu, S. (2025). The impacts of intelligent feedback on learning achievements and learning perceptions in inquiry-based science learning: A meta-analysis of studies from 2013 to 2023. Journal of Science Education and Technology, 34(4), 737–756. [[Google Scholar](https://scholar.google.com/scholar\_lookup?title=The+impacts+of+intelligent+feedback+on+learning+achievements+and+learning+perceptions+in+inquiry-based+science+learning:+A+meta-analysis+of+studies+from+2013+to+2023&author=Zheng,+L.&author=Shi,+Z.&author=Fu,+Z.&author=Liu,+S.&publication\_year=2025&journal=Journal+of+Science+Education+and+Technology&volume=34&issue=(4)&pages=737%E2%80%93756&doi=10.1007/s10956-025-10204-5)] [[CrossRef](https://doi.org/10.1007/s10956-025-10204-5)]
+\*\*Figure 1.\*\*
+Number of students who chose each difficulty level across the 10-week intervention period (n = 114).
+[![](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g001.png)](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g001.png)
+\*\*Figure 2.\*\*
+Number of sets of engagements that showed each possible correct and incorrect score (/10).
+[![](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g002.png)](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g002.png)
+\*\*Figure 3.\*\*
+The number of times each student chose each multiple-choice option.
+[![](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g003.png)](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g003.png)
+\*\*Figure 4.\*\*
+Reflective-based generative processing scores.
+[![](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g004.png)](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g004.png)
+\*\*Figure 5.\*\*
+The Flipped-Interaction Prompt Framework (FIP Framework).
+[![](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g005.png)](/education/education-16-00573/article\_deploy/html/images/education-16-00573-g005.png)
+\*\*Table 1.\*\*
+An example of a setup sequence resulting from the physical science prompt.
+| Agent | Text |
+| --- | --- |
+| Gemini | Alright, let’s dive into the world of Physical Sciences! Welcome to your interactive learning simulation. I’m here to guide you through the exciting concepts of your curriculum. To start, please choose a main topic from the following: \* Matter and Materials \* Chemical Systems \* Chemical Change \* Mechanics \* Waves, Sound, and Light \* Electricity and Magnetism Which topic would you like to explore first? |
+| Student | 4 |
+| Gemini | Excellent choice! Mechanics is a fundamental and fascinating area of Physical Sciences. Now, let’s narrow it down further. Please select a grade level: \* Grade 10 \* Grade 11 \* Grade 12 |
+| Student | 3 |
+| Gemini | Great, Grade 12 Mechanics! You’re ready to tackle some advanced concepts. Here are the sub-topics we’ll be focusing on: \* Vertical Projectile Motion (1D) \* Momentum and Impulse (1D & 2D) \* Work, Energy, and Power Which sub-topic would you like to explore? |
+| Student | 2 |
+| Gemini | Perfect, Momentum and Impulse! A key area for understanding collisions and forces. Now, let’s select a difficulty level: \* Easy \* Medium \* Hard \* Challenging Which level would you like to start with? |
+| Student | 3 |
+| Gemini | Alright, you’ve chosen the “Hard” level for Momentum and Impulse. Let’s get started. This will involve multiple-answer questions and fill-in-the-blanks, so be prepared to think critically. |
+\*\*Table 2.\*\*
+Example of a hard-level Flipped-Interaction Intelligent Tutoring System (FIITS).
+| Agent | Text |
+| --- | --- |
+| Gemini | Question 1: A 2 kg trolley moving east at 4 m/s collides with a 3 kg trolley moving west at 2 m/s. After the collision, the 2 kg trolley moves west at 1 m/s. Which of the following statements are correct? (Select all that apply) A. The total momentum of the system is conserved. B. The collision is perfectly elastic. C. The final velocity of the 3 kg trolley is 3 m/s east. D. The impulse experienced by the 2 kg trolley is 10 N.s west. E. The kinetic energy of the system is increased. Take your time, and carefully consider each statement. Remember to show your working where applicable. |
+| Student | A & D |
+| Gemini | Okay, you’ve selected options A and D. Let’s break down each part and see how we can approach this problem. A. The total momentum of the system is conserved. \* This is a fundamental principle in physics. In a closed system, the total momentum before a collision is equal to the total momentum after the collision. Do you recall the formula for momentum? \* Momentum (p) = mass (m) × velocity (v). \* Let’s calculate the initial and final momentum of the system to verify this statement. D. The impulse experienced by the 2 kg trolley is 10 N.s west. \* Impulse is the change in momentum. Do you remember how to calculate impulse? \* Impulse (J) = change in momentum (Δp) = m(vf − vi), where vf is the final velocity and vi is the initial velocity. \* Let’s calculate the impulse experienced by the 2 kg trolley. Let’s begin by calculating the initial momentum of each trolley and the total initial momentum. \* Initial momentum of the 2 kg trolley: (2 kg)(4 m/s east) = 8 kg.m/s east. \* Initial momentum of the 3 kg trolley: (3 kg)(−2 m/s west) = −6 kg.m/s (or 6 kg.m/s west). \* Total initial momentum: 8 kg.m/s east + (−6 kg.m/s west) = 2 kg.m/s east. Now, calculate the final momentum of the 2 kg trolley. \* Final momentum of the 2 kg trolley: (2 kg)(−1 m/s west) = −2 kg.m/s (or 2 kg.m/s west). What information do we need to calculate the final momentum of the 3 kg trolley? And after that, what information will we gain? |
+| Student | To calculate the final momentum of the 3 kg trolley we need the mass and final velocity of the 3 kg trolley and with this information we will find the total momentum of the 3 kg trolley |
+| Gemini | Exactly! And to find the final velocity of the 3 kg trolley, we will use the principle of conservation of momentum. Let’s do that now. We know that the total initial momentum is 2 kg.m/s east. Let the final velocity of the 3 kg trolley be ‘v’. Therefore, the total final momentum is: \* (−2 kg.m/s) + (3 kg × v) = 2 kg.m/s (east) Now, solve for ‘v’. What do you get? |
+| Student | V = 4/3 m/s east |
+| Gemini | Excellent! So, the final velocity of the 3 kg trolley is 4/3 m/s east, or approximately 1.33 m/s east. Now, let’s revisit your answers and the remaining options: A. The total momentum of the system is conserved. \* You’ve correctly identified this. The total initial momentum (2 kg.m/s east) is equal to the total final momentum. D. The impulse experienced by the 2 kg trolley is 10 N.s west. \* Let’s calculate the impulse: ○ Impulse (J) = m(vf − vi) ○ J = 2 kg (−1 m/s − 4 m/s) ○ J = 2 kg (−5 m/s) ○ J = −10 kg.m/s or 10 N.s west. \* You are correct. Now, let’s analyze the other options: B. The collision is perfectly elastic. \* In a perfectly elastic collision, kinetic energy is conserved. Let’s calculate the initial and final kinetic energies to determine if this is true. ○ Kinetic energy (KE) = 1/2 mv2. C. The final velocity of the 3 kg trolley is 3 m/s east. \* You’ve already calculated the final velocity of the 3 kg trolley. It is 4/3 m/s east. E. The kinetic energy of the system is increased. \* We need to calculate the initial and final kinetic energies to determine if this is true. Would you like to calculate the kinetic energies and verify options B, C, and E? |
+| Student | yes |
+| Gemini | Great, let’s calculate the kinetic energies. Initial Kinetic Energy: \* KE (2 kg trolley) = 1/2 × (2 kg) × (4 m/s)2 = 16 J \* KE (3 kg trolley) = 1/2 × (3 kg) × (−2 m/s)2 = 6 J \* Total Initial KE = 16 J + 6 J = 22 J Final Kinetic Energy: \* KE (2 kg trolley) = 1/2 × (2 kg) × (−1 m/s)2 = 1 J \* KE (3 kg trolley) = 1/2 × (3 kg) × (4/3 m/s)2 = 8/3 J or approximately 2.67 J \* Total Final KE = 1 J + 2.67 J = 3.67 J Now, let’s analyze the remaining options: B. The collision is perfectly elastic. \* Is the total kinetic energy conserved? C. The final velocity of the 3 kg trolley is 3 m/s east.Is this correct?E. The kinetic energy of the system is increased. \* Is the Final KE greater than the initial KE? What are your conclusions based on the calculated kinetic energies and the previously calculated final velocity of the 3 kg trolley? |
+| Student | The kinetic energy is not conserved, the final velocity of the 3 kg is not 3 m/s east but 3.67 m/s east. therefore the collision is not elastic |
+| Gemini | You’ve hit the nail on the head! Let’s clarify: \* Kinetic Energy: ○ As you’ve calculated, the initial total kinetic energy was 22 J, and the final total kinetic energy was approximately 3.67 J. This means kinetic energy was not conserved. \* Elasticity: ○ Because kinetic energy was not conserved, the collision is not perfectly elastic. It’s an inelastic collision, where some kinetic energy is transformed into other forms of energy (like heat or sound). \* Final Velocity: ○ You correctly noted that the final velocity of the 3 kg trolley was 4/3 m/s (approximately 1.33 m/s) east, not 3 m/s east. Therefore, the correct answers are: \* A. The total momentum of the system is conserved. \* D. The impulse experienced by the 2 kg trolley is 10 N.s west. And the incorrect options are explained as follows: \* B. The collision is perfectly elastic. Incorrect, because kinetic energy is not conserved. \* C. The final velocity of the 3 kg trolley is 3 m/s east. Incorrect, the final velocity is 4/3 m/s east. \* E. The kinetic energy of the system is increased. Incorrect, the total kinetic energy decreased. You’re making great progress! You’ve successfully navigated a challenging question involving momentum, impulse, and kinetic energy. Are you ready to continue with another question at this level of difficulty, or would you like to try something different? |
+| Student | next question |
+| Gemini | Alright, let’s move on to the next “Hard” level question. |
+\*\*Table 3.\*\*
+The rubric used to quantify generative processing behaviour from the students’ written reflections.
+| Score | E: Engagement | B: Building on Feedback | C: Constructing Understanding |
+| --- | --- | --- | --- |
+| 0 | No mention of tutor use/engagement | No reference to feedback influencing learning | No reasoning or understanding described |
+| 1 | Mentions tutor use or enjoyment (vague) | Mentions feedback/hints helped (vague) | States “I understood more” (no why/how) |
+| 2 | Describes interaction features (pace, convenience, motivation) | Describes correcting mistakes or identifying gaps | Describes conceptual clarification in general terms |
+| 3 | Clear engagement narrative (active participation, persistence) | Clear linkage: feedback → change in approach/answers | Explains learning mechanism or reasoning development |
+| 4 | Rich engagement + evaluative detail (confidence, commitment, sustained use) | Rich, specific adjustment process (misconception repair, step-by-step progression, strategy change) | Strong conceptual account + metacognitive insight (explains why understanding changed; may note limits/accuracy issues) |
+\*\*Table 4.\*\*
+Implementation fidelity.
+| Prompt Aspect | Implementation Fidelity (%) and Error Identification |
+| --- | --- |
+| Options provided as per the prompt. | 100 |
+| Implementation of the chosen difficulty level aligns with the descriptions in the prompt (a). | ~98.2%Structural error |
+| The correct answer should never be given outright. Rather, guiding questions and hints should be provided (b). | ~91%Answer violation |
+| All content should be aligned to the specified curriculum. | 100 |
+| Ten questions are given before summarising progress and asking how to proceed. | 100 |
+\*\*Table 5.\*\*
+Breakdown of fidelity error rates.
+| Platform | Total Engagements | Structurally Sound | Structural Error | Structural Error Rate % | Number of Questions | Answer Violations | Answer Violation Rate % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ChatGPT | 96 | 94 | 2 | 2.13% | 960 | 74 | 7.71% |
+| Gemini | 15 | 15 | 0 | 0.00% | 150 | 2 | 1.33% |
+| Copilot | 2 | 2 | 0 | 0.00% | 20 | 0 | 0.00% |
+| DeepSeek | 1 | 1 | 0 | 0.00% | 10 | 0 | 0.00% |
+\*\*Table 6.\*\*
+An outright answer provision violation by a ChatGPT FIITS.
+| Agent | Text |
+| --- | --- |
+| Gemini | Question 7: When a magnetic field through a coil increases, what happens to the induced current in the coil (according to Lenz’s Law)? (A) The induced current increases the magnetic field, resisting the change. (B) The induced current weakens the magnetic field to allow more flux to pass through. (C) The induced current does not change. (D) The induced current causes a drop in the voltage across the coil. Type the letter of your answer (A, B, C, or D). |
+| Student | B |
+| ChatGPT | Incorrect. Let’s review the question carefully! Lenz’s Law tells us that the induced current will always oppose the change that caused it. In this case, if the magnetic field through the coil increases, the induced current will generate its own magnetic field that opposes the increase. It will try to reduce the magnetic flux rather than allow it to increase. The correct answer is (A) (A) The induced current increases the magnetic field, resisting the change. Explanation: If the magnetic flux increases, the induced current creates a magnetic field in the opposite direction to reduce the flux. This is why Lenz’s Law exists: it ensures the conservation of energy by opposing any change in the system. Would you like to try another question or revisit a topic from this session? |
+| Student | CONTINUE |
+\*\*Table 7.\*\*
+An answer provision violation for an incorrectly answered follow-up question.
+| Agent | Text |
+| --- | --- |
+| Gemini | Next Question: When we inhale, the diaphragm plays a key role in pulling air into the lungs. What happens to the diaphragm when you breathe in? (A) It relaxes and moves up (B) It contracts and moves down (C) It stays in the same position (D) It expands sideways Type your answer (A, B, C, or D) and explain your choice! |
+| Student | D |
+| ChatGPT | Not quite! But you’re thinking in the right direction! Let’s break it down. Hint: The diaphragm is a dome-shaped muscle at the bottom of your ribcage. When you breathe in, your lungs expand, and they need more space. Try again! What happens to the diaphragm when you inhale? (A) It relaxes and moves up (B) It contracts and moves down (C) It stays in the same position (D) It expands sideways |
+| Student | A |
+| ChatGPT | Not quite! But I love that you’re thinking through the options! Let’s go step by step. Correct Answer: (B) It contracts and moves down. Explanation: When you inhale, the diaphragm contracts and moves downward, increasing the space in the chest cavity. This causes the lungs to expand, allowing air to rush in. When you exhale, the diaphragm relaxes and moves upward, decreasing space in the chest cavity and pushing air out of the lungs. |
+| ChatGPT | Try This Quick Exercise: Take a deep breath and place your hand on your stomach. What do you feel when you breathe in? (A) Your stomach moves out as the diaphragm moves down. (B) Your stomach moves in as the diaphragm moves up. Type A or B based on what you feel! |
+| Student | A |
+| ChatGPT | Correct! Well done! Explanation: When you inhale, your diaphragm contracts and moves down, pushing your abdominal organs slightly forward. This makes your stomach move outward as your lungs expand and fill with air. When you exhale, your diaphragm relaxes and moves up, pushing air out of your lungs, and your stomach moves inward.” |
+\*\*Table 8.\*\*
+An example of a student ignoring further engagement. Student input is highlighted.
+| Agent | Text |
+| --- | --- |
+| Student | Substance sodium and gas hydrogen |
+| Gemini | Excellent! You’ve made a great adjustment. Let’s analyze your new answer: \* Sodium: ○ Sodium is indeed a solid at room temperature. ○ It has a shiny, metallic appearance when freshly cut. ○ Critically, sodium reacts very vigorously with water, producing heat and a gas. This aligns perfectly with the observation. ○ The resulting solution is sodium hydroxide (NaOH), which is a strong base. And strong bases will turn red litmus paper blue. \* Hydrogen: ○ When sodium reacts with water, it produces hydrogen gas (H2). This gas is flammable and the reaction is exothermic, producing heat. Therefore, your selection of sodium as the substance and hydrogen as the gas is correct. Now, to make this even more relevant to a South African context, consider this: Imagine a scenario where a group of learners are conducting an experiment with different metals in a school lab. If they accidentally introduce a small piece of sodium into water, it could lead to a dangerous reaction. This highlights the importance of safety precautions when handling reactive substances in a lab setting. Do you understand why Sodium and Hydrogen are the correct answers? Do you have any further questions? |
+| Student | Next question |
+| |
+| --- |
+| \*\*Disclaimer/Publisher’s Note:\*\* The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. |
+© 2026 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the [Creative Commons Attribution (CC BY) license](https://creativecommons.org/licenses/by/4.0/).
+## Share and Cite
+\*\*MDPI and ACS Style\*\*
+Scheepers, S.J.; Stott, A.E.
+Designing Flipped-Interaction Prompts: A Framework for Generative AI as an Intelligent Tutor in Higher Education. \*Educ. Sci.\*\*\*2026\*\*, \*16\*, 573.
+https://doi.org/10.3390/educsci16040573
+\*\*AMA Style\*\*
+Scheepers SJ, Stott AE.
+Designing Flipped-Interaction Prompts: A Framework for Generative AI as an Intelligent Tutor in Higher Education. \*Education Sciences\*. 2026; 16(4):573.
+https://doi.org/10.3390/educsci16040573
+\*\*Chicago/Turabian Style\*\*
+Scheepers, Stefanus Johannes, and Angela Elisabeth Stott.
+2026. "Designing Flipped-Interaction Prompts: A Framework for Generative AI as an Intelligent Tutor in Higher Education" \*Education Sciences\* 16, no. 4: 573.
+https://doi.org/10.3390/educsci16040573
+\*\*APA Style\*\*
+Scheepers, S. J., & Stott, A. E.
+(2026). Designing Flipped-Interaction Prompts: A Framework for Generative AI as an Intelligent Tutor in Higher Education. \*Education Sciences\*, \*16\*(4), 573.
+https://doi.org/10.3390/educsci16040573
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details [here](https://www.mdpi.com/about/announcements/784).
+## Article Metrics
+No
+![](https://pub.mdpi-res.com/img/loading\_circle.gif?9a82694213036313?1775042484)
+No
+### Article Access Statistics
+Created with Highcharts 4.0.4Chart context menuArticle access statisticsArticle Views5. Apr0
+For more information on the journal statistics, click [here](/journal/education/stats).
+Multiple requests from the same IP address are counted as one view.
+Zoom|Orient|As Lines|As Sticks|As Cartoon|As Surface|Previous Scene|Next Scene
+## Cite
+Export citation file:
+[BibTeX](javascript:window.document.forms['export-bibtex'].submit()) |
+[EndNote](javascript:window.document.forms['export-endnote'].submit()) |
+[RIS](javascript:window.document.forms['export-ris'].submit())
+\*\*MDPI and ACS Style\*\*
+Scheepers, S.J.; Stott, A.E.
+Designing Flipped-Interaction Prompts: A Framework for Generative AI as an Intelligent Tutor in Higher Education. \*Educ. Sci.\*\*\*2026\*\*, \*16\*, 573.
+https://doi.org/10.3390/educsci16040573
+\*\*AMA Style\*\*
+Scheepers SJ, Stott AE.
+Designing Flipped-Interaction Prompts: A Framework for Generative AI as an Intelligent Tutor in Higher Education. \*Education Sciences\*. 2026; 16(4):573.
+https://doi.org/10.3390/educsci16040573
+\*\*Chicago/Turabian Style\*\*
+Scheepers, Stefanus Johannes, and Angela Elisabeth Stott.
+2026. "Designing Flipped-Interaction Prompts: A Framework for Generative AI as an Intelligent Tutor in Higher Education" \*Education Sciences\* 16, no. 4: 573.
+https://doi.org/10.3390/educsci16040573
+\*\*APA Style\*\*
+Scheepers, S. J., & Stott, A. E.
+(2026). Designing Flipped-Interaction Prompts: A Framework for Generative AI as an Intelligent Tutor in Higher Education. \*Education Sciences\*, \*16\*(4), 573.
+https://doi.org/10.3390/educsci16040573
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details [here](https://www.mdpi.com/about/announcements/784).
+\*clear\*
+\*[Educ. Sci.](/journal/education)\*,
+EISSN 2227-7102,
+Published by MDPI
+[RSS](/rss/journal/education)[Content Alert](/journal/education/toc-alert)
+### Further Information
+[Article Processing Charges](/apc)[Pay an Invoice](/about/payment)[Open Access Policy](/openaccess)[Contact MDPI](/about/contact)[Jobs at MDPI](https://careers.mdpi.com)
+### Guidelines
+[For Authors](/authors)[For Reviewers](/reviewers)[For Editors](/editors)[For Librarians](/librarians)[For Publishers](/publishing\_services)[For Societies](/societies)[For Conference Organizers](/conference\_organizers)
+### MDPI Initiatives
+[Sciforum](https://sciforum.net)[MDPI Books](https://www.mdpi.com/books)[Preprints.org](https://www.preprints.org)[Scilit](https://www.scilit.com)[SciProfiles](https://sciprofiles.com?utm\_source=mpdi.com&utm\_medium=bottom\_menu&utm\_campaign=initiative)[Encyclopedia](https://encyclopedia.pub)[JAMS](https://jams.pub)[Proceedings Series](/about/proceedings)
+### Follow MDPI
+[LinkedIn](https://www.linkedin.com/company/mdpi)[Facebook](https://www.facebook.com/MDPIOpenAccessPublishing)[X](https://x.com/MDPIOpenAccess)
+![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-white-small.png?71d18e5f805839ab?1775042484)
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+Accounting and AuditingAcousticsActa Microbiologica HellenicaActuatorsAdhesivesAdministrative SciencesAdolescentsAdvances in Respiratory MedicineAerobiologyAerospaceAgricultureAgriEngineeringAgrochemicalsAgronomyAIAI ChemistryAI for EngineeringAI in EducationAI in MedicineAI MaterialsAI SensorsAirAlgorithmsAllergiesAlloysAnalogAnalyticaAnalyticsAnatomiaAnesthesia ResearchAnimalsAntibioticsAntibodiesAntioxidantsApplied BiosciencesApplied MechanicsApplied MicrobiologyApplied NanoApplied SciencesApplied System InnovationAppliedChemAppliedMathAppliedPhysAquaculture JournalArchitectureArthropodaArtsAstronauticsAstronomyAtmosphereAtomsAudiology ResearchAutomationAxiomsBacteriaBatteriesBehavioral SciencesBeveragesBig Data and Cognitive ComputingBioChemBioengineeringBiologicsBiologyBiology and Life Sciences ForumBiomassBiomechanicsBioMedBiomedicinesBioMedInformaticsBiomimeticsBiomoleculesBiophysicaBioresources and BioproductsBiosensorsBiosphereBioTechBirdsBlockchainsBrain SciencesBuildingsBusinessesCCancersCardiogeneticsCardiovascular MedicineCatalystsCellsCeramicsChallengesChemEngineeringChemistryChemistry ProceedingsChemosensorsChildrenChipsCivilEngClean TechnologiesClimateClinical and Translational NeuroscienceClinical BioenergeticsClinics and PracticeClocks & SleepCoastsCoatingsColloids and InterfacesColorantsCommoditiesComplexitiesComplicationsCompoundsComputationComputer Sciences & Mathematics ForumComputersCondensed MatterConservationConstruction MaterialsCorrosion and Materials DegradationCosmeticsCOVIDCraniomaxillofacial Trauma & ReconstructionCropsCryoCryptographyCrystalsCultureCurrent Issues in Molecular BiologyCurrent OncologyDairyDataDentistry JournalDermatoDermatopathologyDesignsDiabetologyDiagnosticsDieteticsDigitalDisabilitiesDiseasesDiversityDNADronesDrugs and Drug CandidatesDynamicsEarthEcologiesEconometricsEconomiesEducation SciencesElectricityElectrochemElectronic MaterialsElectronicsEmergency Care and MedicineEncyclopediaEndocrinesEnergiesEnergy Storage and ApplicationsEngEngineering ProceedingsEntropic and Disordered MatterEntropyEnvironmental and Earth Sciences ProceedingsEnvironmental RemediationEnvironmentsEpidemiologiaEpigenomesEuropean Burn JournalEuropean Journal of Investigation in Health, Psychology and EducationFamily SciencesFermentationFibersFinTechFireFishesFluidsFoodsForecastingForensic SciencesForestsFossil StudiesFoundationsFractal and FractionalFuelsFutureFuture InternetFuture PharmacologyFuture TransportationGalaxiesGamesGasesGastroenterology InsightsGastrointestinal DisordersGastronomyGelsGenealogyGenesGeographiesGeoHazardsGeomaticsGeometryGeosciencesGeotechnicsGeriatricsGermsGlaciesGout, Urate, and Crystal Deposition DiseaseGrassesGreenGreen HealthHardwareHealthcareHeartsHematoHematology ReportsHeritageHistoriesHorticulturaeHospitalsHumanitiesHumansHydrobiologyHydrogenHydrologyHydropowerHygieneImmunoIndustriesInfectious Disease ReportsInformaticsInformationInfrastructuresInorganicsInsectsInstrumentsIntelligent Infrastructure and ConstructionInternational Journal of Cognitive SciencesInternational Journal of Environmental MedicineInternational Journal of Environmental Research and Public HealthInternational Journal of Financial StudiesInternational Journal of Molecular SciencesInternational Journal of Neonatal ScreeningInternational Journal of Orofacial Myology and Myofunctional TherapyInternational Journal of Plant BiologyInternational Journal of TopologyInternational Journal of Translational MedicineInternational Journal of Turbomachinery, Propulsion and PowerInternational Medical EducationInventionsIoTISPRS International Journal of Geo-InformationJJournal of Aesthetic MedicineJournal of Ageing and LongevityJournal of CardioRenal MedicineJournal of Cardiovascular Development and DiseaseJournal of Clinical & Translational OphthalmologyJournal of Clinical MedicineJournal of Composites ScienceJournal of Cybersecurity and PrivacyJournal of Dementia and Alzheimer's DiseaseJournal of Developmental BiologyJournal of Experimental and Theoretical AnalysesJournal of Eye Movement ResearchJournal of Functional BiomaterialsJournal of Functional Morphology and KinesiologyJournal of FungiJournal of Genome Biotechnology and GeneticsJournal of Gerontology and GeriatricsJournal of ImagingJournal of InnovationJournal of IntelligenceJournal of Interdisciplinary Research Applied to MedicineJournal of Low Power Electronics and ApplicationsJournal of Manufacturing and Materials ProcessingJournal of Marine Science and EngineeringJournal of Market Access & Health PolicyJournal of Mind and Medical SciencesJournal of Molecular PathologyJournal of NanotheranosticsJournal of Nuclear EngineeringJournal of Otorhinolaryngology, Hearing and Balance MedicineJournal of ParksJournal of Personalized MedicineJournal of Pharmaceutical and BioTech IndustryJournal of PhytomedicineJournal of RespirationJournal of Risk and Financial ManagementJournal of Sensor and Actuator NetworksJournal of SuperintelligenceJournal of the American Podiatric Medical AssociationJournal of the Oman Medical AssociationJournal of Theoretical and Applied Electronic Commerce ResearchJournal of Vascular DiseasesJournal of XenobioticsJournal of Zoological and Botanical GardensJournalism and MediaKidney and DialysisKinases and PhosphatasesKnowledgeLabMedLaboratoriesLandLanguagesLawsLifeLightsLimnological ReviewLipidologyLiquidsLiteratureLiversLogicsLogisticsLow-Altitude EconomyLubricantsLymphaticsMachine Learning and Knowledge ExtractionMachinesMacromolMagnetismMagnetochemistryMarine DrugsMaterialsMaterials ProceedingsMathematical and Computational ApplicationsMathematicsMedical SciencesMedical Sciences ForumMedicinaMedicinesMembranesMeritsMetabolitesMetalsMeteorologyMethaneMethods and ProtocolsMetricsMetrologyMicroMicrobiology ResearchMicroelectronicsMicromachinesMicroorganismsMicroplasticsMicrowaveMineralsMiningModellingModern Mathematical PhysicsMolbankMoleculesMultimediaMultimodal Technologies and InteractionMusclesNanoenergy AdvancesNanomanufacturingNanomaterialsNDTNetworkNeurogliaNeuroimagingNeurology InternationalNeuroSciNitrogenNon-Coding RNANursing ReportsNutraceuticalsNutrientsObesitiesOccupational HealthOceansOncoOpticsOralOrganicsOrganoidsOsteologyOxygenPandemicsParasitologiaParticlesPathogensPathophysiologyPeace StudiesPediatric ReportsPetsPharmaceuticalsPharmaceuticsPharmacoepidemiologyPharmacyPhilosophiesPhotochemPhotonicsPhycologyPhyschemPhysical Sciences ForumPhysicsPhysiologiaPlantsPlasmaPlatformsPollutantsPolymersPolysaccharidesPopulationsPoultryPowdersPrecision OncologyPrimary and Hospital CareProceedingsProcessesProsthesisProteomesPsychiatry InternationalPsychoactivesPsychology InternationalPublicationsPurificationQuantum Beam ScienceQuantum ReportsQuaternaryRadiationReactionsReal EstateReceptorsRecyclingRegional Science and Environmental EconomicsReligionsRemote SensingReportsReproductive MedicineResourcesRheumatoRisksRoboticsRomanian Journal of Preventive MedicineRuminantsSafetySciScientia PharmaceuticaSclerosisSeedsSemiconductors and Heterogeneous IntegrationSensorsSeparationsSexesSignalsSinusitisSmart CitiesSocial SciencesSociété Internationale d’Urologie JournalSocietiesSoftwareSoil SystemsSolarSolidsSpectroscopy JournalSportsStandardsStatsStratigraphy and SedimentologyStressesSurfacesSurgeriesSurgical Techniques DevelopmentSustainabilitySustainable ChemistrySwiss Archives of Neurology, Psychiatry and PsychotherapySymmetrySynBioSystemsTargetsTaxonomyTechnologiesTelecomTextilesThalassemia ReportsTheoretical and Applied ErgonomicsTherapeuticsThermoTime and SpaceTomographyTourism and HospitalityToxicsToxinsTransplantologyTrauma CareTrends in Higher EducationTrends in Public HealthTropical Medicine and Infectious DiseaseUniverseUrban ScienceUroVaccinesVehiclesVenereologyVeterinary SciencesVibrationVirtual WorldsVirusesVisionWasteWaterWildWindWomenWorldWorld Electric Vehicle JournalYouthZoonotic Diseases
+Select options
+\* Accounting and Auditing
+\* Acoustics
+\* Acta Microbiologica Hellenica
+\* Actuators
+\* Adhesives
+\* Administrative Sciences
+\* Adolescents
+\* Advances in Respiratory Medicine
+\* Aerobiology
+\* Aerospace
+\* Agriculture
+\* AgriEngineering
+\* Agrochemicals
+\* Agronomy
+\* AI
+\* AI Chemistry
+\* AI for Engineering
+\* AI in Education
+\* AI in Medicine
+\* AI Materials
+\* AI Sensors
+\* Air
+\* Algorithms
+\* Allergies
+\* Alloys
+\* Analog
+\* Analytica
+\* Analytics
+\* Anatomia
+\* Anesthesia Research
+\* Animals
+\* Antibiotics
+\* Antibodies
+\* Antioxidants
+\* Applied Biosciences
+\* Applied Mechanics
+\* Applied Microbiology
+\* Applied Nano
+\* Applied Sciences
+\* Applied System Innovation
+\* AppliedChem
+\* AppliedMath
+\* AppliedPhys
+\* Aquaculture Journal
+\* Architecture
+\* Arthropoda
+\* Arts
+\* Astronautics
+\* Astronomy
+\* Atmosphere
+\* Atoms
+\* Audiology Research
+\* Automation
+\* Axioms
+\* Bacteria
+\* Batteries
+\* Behavioral Sciences
+\* Beverages
+\* Big Data and Cognitive Computing
+\* BioChem
+\* Bioengineering
+\* Biologics
+\* Biology
+\* Biology and Life Sciences Forum
+\* Biomass
+\* Biomechanics
+\* BioMed
+\* Biomedicines
+\* BioMedInformatics
+\* Biomimetics
+\* Biomolecules
+\* Biophysica
+\* Bioresources and Bioproducts
+\* Biosensors
+\* Biosphere
+\* BioTech
+\* Birds
+\* Blockchains
+\* Brain Sciences
+\* Buildings
+\* Businesses
+\* C
+\* Cancers
+\* Cardiogenetics
+\* Cardiovascular Medicine
+\* Catalysts
+\* Cells
+\* Ceramics
+\* Challenges
+\* ChemEngineering
+\* Chemistry
+\* Chemistry Proceedings
+\* Chemosensors
+\* Children
+\* Chips
+\* CivilEng
+\* Clean Technologies
+\* Climate
+\* Clinical and Translational Neuroscience
+\* Clinical Bioenergetics
+\* Clinics and Practice
+\* Clocks & Sleep
+\* Coasts
+\* Coatings
+\* Colloids and Interfaces
+\* Colorants
+\* Commodities
+\* Complexities
+\* Complications
+\* Compounds
+\* Computation
+\* Computer Sciences & Mathematics Forum
+\* Computers
+\* Condensed Matter
+\* Conservation
+\* Construction Materials
+\* Corrosion and Materials Degradation
+\* Cosmetics
+\* COVID
+\* Craniomaxillofacial Trauma & Reconstruction
+\* Crops
+\* Cryo
+\* Cryptography
+\* Crystals
+\* Culture
+\* Current Issues in Molecular Biology
+\* Current Oncology
+\* Dairy
+\* Data
+\* Dentistry Journal
+\* Dermato
+\* Dermatopathology
+\* Designs
+\* Diabetology
+\* Diagnostics
+\* Dietetics
+\* Digital
+\* Disabilities
+\* Diseases
+\* Diversity
+\* DNA
+\* Drones
+\* Drugs and Drug Candidates
+\* Dynamics
+\* Earth
+\* Ecologies
+\* Econometrics
+\* Economies
+\* Education Sciences
+\* Electricity
+\* Electrochem
+\* Electronic Materials
+\* Electronics
+\* Emergency Care and Medicine
+\* Encyclopedia
+\* Endocrines
+\* Energies
+\* Energy Storage and Applications
+\* Eng
+\* Engineering Proceedings
+\* Entropic and Disordered Matter
+\* Entropy
+\* Environmental and Earth Sciences Proceedings
+\* Environmental Remediation
+\* Environments
+\* Epidemiologia
+\* Epigenomes
+\* European Burn Journal
+\* European Journal of Investigation in Health, Psychology and Education
+\* Family Sciences
+\* Fermentation
+\* Fibers
+\* FinTech
+\* Fire
+\* Fishes
+\* Fluids
+\* Foods
+\* Forecasting
+\* Forensic Sciences
+\* Forests
+\* Fossil Studies
+\* Foundations
+\* Fractal and Fractional
+\* Fuels
+\* Future
+\* Future Internet
+\* Future Pharmacology
+\* Future Transportation
+\* Galaxies
+\* Games
+\* Gases
+\* Gastroenterology Insights
+\* Gastrointestinal Disorders
+\* Gastronomy
+\* Gels
+\* Genealogy
+\* Genes
+\* Geographies
+\* GeoHazards
+\* Geomatics
+\* Geometry
+\* Geosciences
+\* Geotechnics
+\* Geriatrics
+\* Germs
+\* Glacies
+\* Gout, Urate, and Crystal Deposition Disease
+\* Grasses
+\* Green
+\* Green Health
+\* Hardware
+\* Healthcare
+\* Hearts
+\* Hemato
+\* Hematology Reports
+\* Heritage
+\* Histories
+\* Horticulturae
+\* Hospitals
+\* Humanities
+\* Humans
+\* Hydrobiology
+\* Hydrogen
+\* Hydrology
+\* Hydropower
+\* Hygiene
+\* Immuno
+\* Industries
+\* Infectious Disease Reports
+\* Informatics
+\* Information
+\* Infrastructures
+\* Inorganics
+\* Insects
+\* Instruments
+\* Intelligent Infrastructure and Construction
+\* International Journal of Cognitive Sciences
+\* International Journal of Environmental Medicine
+\* International Journal of Environmental Research and Public Health
+\* International Journal of Financial Studies
+\* International Journal of Molecular Sciences
+\* International Journal of Neonatal Screening
+\* International Journal of Orofacial Myology and Myofunctional Therapy
+\* International Journal of Plant Biology
+\* International Journal of Topology
+\* International Journal of Translational Medicine
+\* International Journal of Turbomachinery, Propulsion and Power
+\* International Medical Education
+\* Inventions
+\* IoT
+\* ISPRS International Journal of Geo-Information
+\* J
+\* Journal of Aesthetic Medicine
+\* Journal of Ageing and Longevity
+\* Journal of CardioRenal Medicine
+\* Journal of Cardiovascular Development and Disease
+\* Journal of Clinical & Translational Ophthalmology
+\* Journal of Clinical Medicine
+\* Journal of Composites Science
+\* Journal of Cybersecurity and Privacy
+\* Journal of Dementia and Alzheimer's Disease
+\* Journal of Developmental Biology
+\* Journal of Experimental and Theoretical Analyses
+\* Journal of Eye Movement Research
+\* Journal of Functional Biomaterials
+\* Journal of Functional Morphology and Kinesiology
+\* Journal of Fungi
+\* Journal of Genome Biotechnology and Genetics
+\* Journal of Gerontology and Geriatrics
+\* Journal of Imaging
+\* Journal of Innovation
+\* Journal of Intelligence
+\* Journal of Interdisciplinary Research Applied to Medicine
+\* Journal of Low Power Electronics and Applications
+\* Journal of Manufacturing and Materials Processing
+\* Journal of Marine Science and Engineering
+\* Journal of Market Access & Health Policy
+\* Journal of Mind and Medical Sciences
+\* Journal of Molecular Pathology
+\* Journal of Nanotheranostics
+\* Journal of Nuclear Engineering
+\* Journal of Otorhinolaryngology, Hearing and Balance Medicine
+\* Journal of Parks
+\* Journal of Personalized Medicine
+\* Journal of Pharmaceutical and BioTech Industry
+\* Journal of Phytomedicine
+\* Journal of Respiration
+\* Journal of Risk and Financial Management
+\* Journal of Sensor and Actuator Networks
+\* Journal of Superintelligence
+\* Journal of the American Podiatric Medical Association
+\* Journal of the Oman Medical Association
+\* Journal of Theoretical and Applied Electronic Commerce Research
+\* Journal of Vascular Diseases
+\* Journal of Xenobiotics
+\* Journal of Zoological and Botanical Gardens
+\* Journalism and Media
+\* Kidney and Dialysis
+\* Kinases and Phosphatases
+\* Knowledge
+\* LabMed
+\* Laboratories
+\* Land
+\* Languages
+\* Laws
+\* Life
+\* Lights
+\* Limnological Review
+\* Lipidology
+\* Liquids
+\* Literature
+\* Livers
+\* Logics
+\* Logistics
+\* Low-Altitude Economy
+\* Lubricants
+\* Lymphatics
+\* Machine Learning and Knowledge Extraction
+\* Machines
+\* Macromol
+\* Magnetism
+\* Magnetochemistry
+\* Marine Drugs
+\* Materials
+\* Materials Proceedings
+\* Mathematical and Computational Applications
+\* Mathematics
+\* Medical Sciences
+\* Medical Sciences Forum
+\* Medicina
+\* Medicines
+\* Membranes
+\* Merits
+\* Metabolites
+\* Metals
+\* Meteorology
+\* Methane
+\* Methods and Protocols
+\* Metrics
+\* Metrology
+\* Micro
+\* Microbiology Research
+\* Microelectronics
+\* Micromachines
+\* Microorganisms
+\* Microplastics
+\* Microwave
+\* Minerals
+\* Mining
+\* Modelling
+\* Modern Mathematical Physics
+\* Molbank
+\* Molecules
+\* Multimedia
+\* Multimodal Technologies and Interaction
+\* Muscles
+\* Nanoenergy Advances
+\* Nanomanufacturing
+\* Nanomaterials
+\* NDT
+\* Network
+\* Neuroglia
+\* Neuroimaging
+\* Neurology International
+\* NeuroSci
+\* Nitrogen
+\* Non-Coding RNA
+\* Nursing Reports
+\* Nutraceuticals
+\* Nutrients
+\* Obesities
+\* Occupational Health
+\* Oceans
+\* Onco
+\* Optics
+\* Oral
+\* Organics
+\* Organoids
+\* Osteology
+\* Oxygen
+\* Pandemics
+\* Parasitologia
+\* Particles
+\* Pathogens
+\* Pathophysiology
+\* Peace Studies
+\* Pediatric Reports
+\* Pets
+\* Pharmaceuticals
+\* Pharmaceutics
+\* Pharmacoepidemiology
+\* Pharmacy
+\* Philosophies
+\* Photochem
+\* Photonics
+\* Phycology
+\* Physchem
+\* Physical Sciences Forum
+\* Physics
+\* Physiologia
+\* Plants
+\* Plasma
+\* Platforms
+\* Pollutants
+\* Polymers
+\* Polysaccharides
+\* Populations
+\* Poultry
+\* Powders
+\* Precision Oncology
+\* Primary and Hospital Care
+\* Proceedings
+\* Processes
+\* Prosthesis
+\* Proteomes
+\* Psychiatry International
+\* Psychoactives
+\* Psychology International
+\* Publications
+\* Purification
+\* Quantum Beam Science
+\* Quantum Reports
+\* Quaternary
+\* Radiation
+\* Reactions
+\* Real Estate
+\* Receptors
+\* Recycling
+\* Regional Science and Environmental Economics
+\* Religions
+\* Remote Sensing
+\* Reports
+\* Reproductive Medicine
+\* Resources
+\* Rheumato
+\* Risks
+\* Robotics
+\* Romanian Journal of Preventive Medicine
+\* Ruminants
+\* Safety
+\* Sci
+\* Scientia Pharmaceutica
+\* Sclerosis
+\* Seeds
+\* Semiconductors and Heterogeneous Integration
+\* Sensors
+\* Separations
+\* Sexes
+\* Signals
+\* Sinusitis
+\* Smart Cities
+\* Social Sciences
+\* Société Internationale d’Urologie Journal
+\* Societies
+\* Software
+\* Soil Systems
+\* Solar
+\* Solids
+\* Spectroscopy Journal
+\* Sports
+\* Standards
+\* Stats
+\* Stratigraphy and Sedimentology
+\* Stresses
+\* Surfaces
+\* Surgeries
+\* Surgical Techniques Development
+\* Sustainability
+\* Sustainable Chemistry
+\* Swiss Archives of Neurology, Psychiatry and Psychotherapy
+\* Symmetry
+\* SynBio
+\* Systems
+\* Targets
+\* Taxonomy
+\* Technologies
+\* Telecom
+\* Textiles
+\* Thalassemia Reports
+\* Theoretical and Applied Ergonomics
+\* Therapeutics
+\* Thermo
+\* Time and Space
+\* Tomography
+\* Tourism and Hospitality
+\* Toxics
+\* Toxins
+\* Transplantology
+\* Trauma Care
+\* Trends in Higher Education
+\* Trends in Public Health
+\* Tropical Medicine and Infectious Disease
+\* Universe
+\* Urban Science
+\* Uro
+\* Vaccines
+\* Vehicles
+\* Venereology
+\* Veterinary Sciences
+\* Vibration
+\* Virtual Worlds
+\* Viruses
+\* Vision
+\* Waste
+\* Water
+\* Wild
+\* Wind
+\* Women
+\* World
+\* World Electric Vehicle Journal
+\* Youth
+\* Zoonotic Diseases
+Subscribe
+© 1996-2026 MDPI (Basel, Switzerland) unless otherwise stated
+Disclaimer
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely
+those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or
+the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas,
+methods, instructions or products referred to in the content.
+[Terms and Conditions](/about/terms-and-conditions)[Privacy Policy](/about/privacy)
+We use cookies on our website to ensure you get the best experience.
+Read more about our cookies [here](/about/privacy).
+[Accept](/accept\_cookies)
+## Share Link
+Copy
+\*clear\*
+## Share
+https://www.mdpi.com/3827452
+\*clear\*
+[Back to TopTop](#)

@@ -31,3 +31,10 @@ As artificial intelligence (AI) becomes increasingly integrated into K–12 educ
 
 **入库时间**：2026-04-04
 **情报官**：intel_01（超时未完成，小艾代为写入，含脚本bug说明）
+
+## 摘要
+As artificial intelligence (AI) becomes increasingly integrated into K–12 education, concerns about equity and access have grown. This scoping review explores how inclusive AI curricula are designed, implemented, and evaluated in educational settings. Guided by three research questions, we analyzed 17 empirical studies published between 2013 and 2024, focusing on (1) the contexts and characteristi
+
+**摘要状态**：✅已补充（内容提取）
+
+**审核状态**：✅已补审（历史遗留文件）

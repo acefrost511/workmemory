@@ -1,0 +1,218 @@
+# Source URL: https://www.sciencedirect.com/science/article/pii/S0360131526000515
+# Content Length: 20497 characters
+# Extracted at: 2026-04-05 14:04:41
+#============================================================
+
+A critical examination of blockchain in education: A hybrid bibliometric and content analysis of sociotechnical imaginaries and pedagogical marginality - ScienceDirect
+[Skip to main content](#screen-reader-main-content)[Skip to article](#screen-reader-main-title)
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/24/images/elsevier-non-solus-new-grey.svg)ScienceDirect](/)
+\* [Journals & Books](/browse/journals-and-books)
+\* Help
+\* [Search](/search)
+[My account](/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131526000515&from=globalheader)
+[Sign in](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131526000515)
+\* [Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000515)
+\* [Purchase PDF](/getaccess/pii/S0360131526000515/purchase)
+Search ScienceDirect
+## Article preview
+\* [Abstract](#preview-section-abstract)
+\* [Introduction](#preview-section-introduction)
+\* [Section snippets](#preview-section-snippets)
+\* [References (52)](#preview-section-references)
+[![](https://sciencedirect.elseviercdn.cn/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](/journal/computers-and-education)
+## [Computers & Education](/journal/computers-and-education)
+[Volume 249](/journal/computers-and-education/vol/249/suppl/C), August 2026, 105613
+[![](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20036-cov150h.gif)](/journal/computers-and-education/vol/249/suppl/C)
+# A critical examination of blockchain in education: A hybrid bibliometric and content analysis of sociotechnical imaginaries and pedagogical marginality
+Author links open overlay panelYeZhanga, RunzeLib, HaochuanWangb, YuGeb
+Show more
+Add to Mendeley
+Share
+Cite
+[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131526000515&orderBeanReset=true)
+## Highlights
+\* •
+Hybrid bibliometric–content analysis of 673 WoS articles (2018–2025).
+\* •
+Maps global trends and collaboration; reveals fragmented networks.
+\* •
+Shows techno-centric dominance; pedagogy and equity remain marginal.
+\* •
+Advances a sociotechnical lens to center learner agency and inclusion.
+## Abstract
+Blockchain has been widely promoted as a transformative technology for education, yet existing reviews largely remain descriptive, emphasizing publication growth and keyword trends while offering limited insight into pedagogical and conceptual implications. To address this gap, this study conducts a hybrid bibliometric and qualitative content analysis of 673 Web of Science–indexed journal articles published between 2018 and mid-2025. The analysis identifies three dominant thematic configurations and eleven co-citation clusters, with bibliometric mapping revealing a strong concentration on credentialing and verification, technical infrastructures, and emerging governance-oriented applications. Research output is geographically concentrated, led primarily by China, India, and the United States. To move beyond structural mapping, qualitative content analysis examines how blockchain is discursively framed in educational research. Drawing on the concept of sociotechnical imaginaries, understood here as collectively shared visions linking technological capabilities with assumptions about educational value, governance, and social order, the analysis reveals a dominant imaginary centered on efficiency, trust, and institutional accountability. In contrast, pedagogical innovation, learner agency, and equity-oriented perspectives remain comparatively marginal across influential publications. By empirically demonstrating how certain imaginaries dominate the field while others remain peripheral, this study bridges bibliometric evidence with critical interpretation. It contributes to the literature by clarifying not only what blockchain research in education focuses on, but also how and why particular educational futures are prioritized. The findings underscore the need for future research and policy to more explicitly integrate pedagogical theory, equity considerations, and learner-centered design into blockchain-enabled educational initiatives.
+## Introduction
+Blockchain has attracted increasing attention in education as a potential reconfiguration of credentialing, data governance, and institutional trust systems. Originating in financial transactions, its affordances of immutability, distributed verification, and cryptographic trust have been extended into educational contexts, including portable learning records, micro-credentials, and tamper-resistant certificates (Sun et al., 2018; Turkanović et al., 2018). Within the literature, proponents frequently position blockchain as more than a technical tool, framing it as a sociotechnical project that embeds particular normative visions concerning what education should value and how educational authority should be organized.
+Despite this growing scholarly interest, much of the existing research frames blockchain primarily in terms of technical efficiency and administrative optimization, often approaching educational settings as sites of system deployment rather than as pedagogical environments requiring sustained educational inquiry. As a result, claims regarding blockchain's educational relevance are frequently articulated through promises of transparency, trust, and automation, while questions related to teaching–learning processes, learner agency, and educational meaning remain comparatively underdeveloped within influential strands of the literature.
+This study examines blockchain in education through the lens of sociotechnical imaginaries, understood as collectively shared and stabilized visions that link technological capacities with assumptions about social order and institutional value (Jasanoff & Kim, 2013). From this perspective, blockchain does not merely enable new technical functions; it is discursively positioned as projecting particular educational futures, such as transparent credential economies, self-sovereign learners, and decentralized governance arrangements. These projected futures raise fundamental questions: What constitutes valuable learning when educational outcomes are rendered as verifiable records? Who defines legitimacy and authority in blockchain-enabled systems? Which learners and institutions may be marginalized when such systems presuppose robust infrastructure, advanced digital literacy, or stable governance conditions?
+However, existing reviews rarely interrogate these questions directly. Most bibliometric and systematic surveys (Reis-Marques et al., 2021; Shuhaimi et al., 2024) map publication trends, authorship patterns, or keyword co-occurrences, offering valuable structural overviews but limited insight into how educational futures are conceptually framed within influential and agenda-setting research. Consequently, scholarly attention clusters around credentialing, transcript verification, and institutional efficiency, while themes central to educational research–such as pedagogy, learner participation, and equity–remain comparatively peripheral within dominant scholarly discourse. This imbalance risks narrowing educational futures to what is most readily formalized and tokenized, rather than what is pedagogically meaningful.
+Geographical asymmetries further shape these framings. Within indexed blockchain-in-education scholarship, research output is concentrated in a limited number of national contexts, most notably China, India, and the United States, while contributions from Africa and Latin America remain weakly represented in influential publication and collaboration networks. Such asymmetries suggest that imaginaries of blockchain-enabled education are often articulated from positions of infrastructural and institutional advantage and subsequently treated as broadly applicable. Without broader epistemic representation, there is a risk that blockchain research may inadvertently reproduce forms of digital inequality by privileging models developed in resource-rich environments while marginalizing learners and educators in constrained settings.
+To address these gaps, this study undertakes a hybrid bibliometric and content analysis of blockchain research in education published between 2018 and 2025. Four research questions guide the inquiry:
+\*\*RQ1\*\*
+What are the global publication patterns and research outputs on blockchain in education, and how have they evolved over time?
+\*\*RQ2\*\*
+What intellectual and collaborative structures underpin the research landscape?
+\*\*RQ3\*\*
+What thematic clusters and conceptual trajectories have emerged?
+\*\*RQ4\*\*
+What conceptual, ethical, and practical implications emerge from influential publications, and how do these works frame the future of blockchain in education?
+To ensure analytical clarity, sociotechnical imaginaries are operationalized in this study as recurring patterns of problem framing, proposed solutions, and normative claims through which blockchain is positioned as educationally valuable. These imaginaries are identified by triangulating citation-dense bibliometric clusters with discursive regularities observed in influential publications, including assumptions concerning governance, accountability, efficiency, and learner roles. When such framings recur across clusters and highly cited works, they are interpreted as shared imaginaries rather than isolated rhetoric or technological speculation.
+Given the study's pedagogical orientation, pedagogical engagement is assessed against a minimal yet established educational reference grounded in constructivist and learner-centered learning theories, which emphasize active knowledge construction, learner agency, and meaningful participation. From this standpoint, pedagogical relevance is indicated not simply by the presence of educational contexts, but by explicit attention to teaching–learning design, learner experience, and formative educational processes.
+Across these questions, the sociotechnical imaginary lens provides interpretive coherence, enabling examination of not only where scholarly attention is concentrated, but also how particular educational futures are envisioned, whose interests they serve, and what exclusions they may produce. By combining structural mapping with critical interpretation, this study moves beyond descriptive synthesis to foreground pedagogy, equity, and governance as analytically central–yet often weakly institutionalized–dimensions of blockchain-in-education research. In doing so, it positions blockchain not as a neutral infrastructure, but as a contested sociotechnical project through which educational authority, participation, and value are discursively negotiated in the digital age.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000515)
+## Section snippets
+## Methodology
+This study adopted a hybrid bibliometric and qualitative content analysis design to examine the development and conceptual framing of blockchain research in education. Bibliometric analysis provided a macro-level mapping of publication trends, collaboration networks, and thematic structures (Donthu et al., 2021), while qualitative content analysis offered interpretive depth into how blockchain is discursively positioned as educationally valuable (Harwood & Garry, 2003). The combination of these
+## Publication dynamics and global patterns
+This section addresses Research Question 1 by examining the temporal growth, geographic distribution, and structural characteristics of blockchain research in education. Fig. 2, Fig. 3, Fig. 4, Fig. 5, Fig. 6 collectively summarize annual publication output, country-level contributions, institutional productivity, author-level publication patterns, and core journal outlets, providing an overview of how the field has evolved over time.
+## Discussion
+This section interprets the findings beyond descriptive patterns by examining their theoretical, pedagogical, and governance implications for blockchain-in-education research. Rather than reiterating empirical results, it considers how observed structural concentrations and discursive framings help explain the formation of agenda-setting priorities and normative orientations within influential strands of the literature.
+## Conclusion
+This study provides a critical synthesis of blockchain-in-education research published between 2018 and mid-2025 by integrating bibliometric mapping with qualitative content analysis through the lens of sociotechnical imaginaries. The analysis shows that, despite the rapid expansion of the literature, epistemically central discourse is structured predominantly around efficiency–trust and marketized imaginaries that prioritize verification, employability, and institutional control. In contrast,
+## CRediT authorship contribution statement
+\*\*Ye Zhang:\*\* Writing – review & editing, Writing – original draft, Visualization, Supervision, Software, Methodology, Formal analysis, Data curation, Conceptualization. \*\*Runze Li:\*\* Writing – original draft, Methodology, Conceptualization. \*\*Haochuan Wang:\*\* Methodology, Conceptualization. \*\*Yu Ge:\*\* Writing – review & editing, Writing – original draft, Methodology, Formal analysis, Data curation, Conceptualization.
+## Ethics statement
+Not applicable.
+## Funding
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+## Acknowledgement
+Not applicable.
+Recommended articles
+## References (52)
+\* I. Alnafrah \*et al.\*
+### [Revitalizing blockchain technology potentials for smooth academic records management and verification in low-income countries](/science/article/pii/S0738059321001139)
+### International Journal of Educational Development
+(2021)
+\* M. Aria \*et al.\*
+### [Bibliometrix: An R-tool for comprehensive science mapping analysis](/science/article/pii/S1751157717300500)
+### Journal of informetrics
+(2017)
+\* N. Donthu \*et al.\*
+### [How to conduct a bibliometric analysis: An overview and guidelines](/science/article/pii/S0148296321003155)
+### Journal of Business Research
+(2021)
+\* M. Gottlieb \*et al.\*
+### [Expedition to the blockchain application potential for higher education institutions](/science/article/pii/S2096720924000162)
+### Blockchain: Research and Applications
+(2024)
+\* X. Liu \*et al.\*
+### [Co-authorship networks in the digital library research community](/science/article/pii/S0306457305000336)
+### Information Processing & Management
+(2005)
+\* Y. Ma \*et al.\*
+### [Current status, issues, and challenges of blockchain applications in education](/science/article/pii/S0378427420300023)
+### International Journal of Emerging Technologies in Learning (IJET)
+(2020)
+\* R.A. Mishra \*et al.\*
+### [Privacy protected blockchain based architecture and implementation for sharing of students' credentials](/science/article/pii/S0306457321000212)
+### Information Processing & Management
+(2021)
+\* D. Wiliam
+### [What is assessment for learning?](/science/article/pii/S0191491X11000149)
+### Studies In Educational Evaluation
+(2011)
+\* A. Alammary \*et al.\*
+### Blockchain-based applications in education: A systematic review
+### Applied Sciences
+(2019)
+\* P. Bhaskar \*et al.\*
+### Blockchain in education management: Present and future applications
+### Interactive Technology and Smart Education
+(2021)
+- R. Bucea-Manea-Țoniş \*et al.\*
+### Blockchain technology enhances sustainable higher education
+### Sustainability
+(2021)
+- L. Burla \*et al.\*
+### From text to codings: Intercoder reliability assessment in qualitative content analysis
+### Nursing Research
+(2008)
+- A. Capetillo \*et al.\*
+### Blockchained education: Challenging the long-standing model of academic institutions
+### International Journal on Interactive Design and Manufacturing
+(2022)
+- M. Caramihai \*et al.\*
+### A blockchain-based solution for diploma management in universities
+### Sustainability
+(2023)
+- S.P. Chand
+### Constructivism in education: Exploring the contributions of Piaget, Vygotsky, and Bruner
+### Children
+(1995)
+- C.L. Chen \*et al.\*
+### Based on consortium blockchain to design a credit verifiable cross university course learning system
+### Security and Communication Networks
+(2021)
+- L. Cohen \*et al.\*
+### Coding and content analysis
+- E.P. Fedorova \*et al.\*
+### Application of blockchain technology in higher education
+### European Journal of Contemporary Education
+(2020)
+- B. Flanagan \*et al.\*
+### Learning analytics platform in higher education in Japan
+### Knowledge Management & E-Learning: International Journal
+(2018)
+- E. Funk \*et al.\*
+### Blockchain technology: A data framework to improve validity, trust, and accountability of information exchange in health professions education
+### Academic Medicine
+(2018)
+- A. Grech \*et al.\*
+### Blockchain, self-sovereign identity and digital credentials: Promise versus praxis in education
+### Frontiers in Blockchain
+(2021)
+- J. Guo \*et al.\*
+### Blockchain-enabled digital rights management for multimedia resources of online education
+### Multimedia Tools and Applications
+(2020)
+- T.G. Harwood \*et al.\*
+### An overview of content analysis
+### The Marketing Review
+(2003)
+- S. Jasanoff \*et al.\*
+### Sociotechnical imaginaries and national energy policies
+### Science as Culture
+(2013)
+- A.O. Kwok \*et al.\*
+### No one left behind in education: Blockchain-based transformation and its potential for social inclusion
+### Asia Pacific Education Review
+(2022)
+- T.Y. Lam \*et al.\*
+### A blockchain-enabled e-learning platform
+### Interactive Learning Environments
+(2022)
+View more references
+## Cited by (0)
+[View full text](/science/article/pii/S0360131526000515)
+© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+## Recommended articles
+\* ### [From bodily to digital co-presence: Unpacking the Interaction Ritual Chains of hashtag-driven group formation](/science/article/pii/S074756322600004X)
+Computers in Human Behavior, Volume 178, 2026, Article 108907
+JinyanDuan, …, ChongWu
+\* ### [How explanatory features of AI and time frame reshape adolescents’ decision-making](/science/article/pii/S0360131526000011)
+Computers & Education, Volume 248, 2026, Article 105563
+ZhuoShen, …, HengrunChen
+\* ### [Are your defense mechanisms harming you? The role of psychological defenses in social media comparison and adolescent self-esteem](/science/article/pii/S0747563226000130)
+Computers in Human Behavior, Volume 178, 2026, Article 108916
+Lin TingJin, Yun JungChoi
+\* ### [Effects of a human-robot collaborative teaching approach on preschoolers’ social-emotional competence and learning behaviors](/science/article/pii/S0360131525002374)
+Computers & Education, Volume 240, 2026, Article 105469
+Jian-WenFang, …, JingChen
+\* ### [The association of school bullying with symptoms and diagnosis of PTSD: An updated systematic review and meta-analysis](/science/article/pii/S1747938X26000072)
+Educational Research Review, Volume 50, 2026, Article 100768
+SerapKeles, …, ThormodIdsoe
+\* ### [Perceived utility moderates motivational intervention effects in learning to teach responsibly with GenAI](/science/article/pii/S2666557325000837)
+Computers and Education Open, Volume 10, 2026, Article 100324
+JanaBoos, …, AndreasLachner
+Show 3 more articles
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+\* [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+\* [Remote access](/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0360131526000515)
+\* [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+\* [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+\* [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+\* Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+[![](https://sciencedirect.elseviercdn.cn/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)

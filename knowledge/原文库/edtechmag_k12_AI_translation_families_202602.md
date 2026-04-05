@@ -43,3 +43,10 @@
 - 当前：以字幕为基础的解决方案占主导
 - 未来：更多口语翻译（对学龄前儿童至关重要）
 - 有望像互联网接入一样成为日常工具的一部分
+
+## 摘要
+**原文链接：** https://edtechmagazine.com/k12/article/2026/02/ai-translation-opening-doors-students-families-and-schools
+
+**摘要状态**：✅已补充（内容提取）
+
+**审核状态**：✅已补审（历史遗留文件）

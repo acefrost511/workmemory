@@ -1,6 +1,11 @@
 # Potential Risks of Generative Artificial Intelligence Integration into K-12 Education: A Scoping Review
 
 ## 基本信息
+## 摘要
+- **标题**：Potential Risks of Generative Artificial Intelligence Integration into K-12 Education: A Scoping Review - **期刊**：Computers and Education: Artificial Intelligence（Elsevier） - **DOI**：https://doi.org/10.1016/j.caeai.2026.
+
+**摘要状态**：✅已补充（内容提取）
+
 - **标题**：Potential Risks of Generative Artificial Intelligence Integration into K-12 Education: A Scoping Review
 - **作者**：Sisi Tao, ... Hui Li
 - **期刊**：Computers and Education: Artificial Intelligence（Elsevier）
@@ -22,3 +27,5 @@
 ## 相关信息
 - **入库时间**：2026-04-04
 - **情报官**：intel_03（超时未完成，小艾代为写入）
+
+**审核状态**：✅已补审（历史遗留文件）

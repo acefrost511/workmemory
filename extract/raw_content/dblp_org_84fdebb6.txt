@@ -1,0 +1,1768 @@
+# Source URL: https://dblp.org/search/journals?q=Computer+Assisted+Language+Learning
+# Content Length: 132542 characters
+# Extracted at: 2026-04-05 08:46:58
+#============================================================
+
+
+dblp: Search for "Computer Assisted Language Learning"
+[![]()](https://www.dagstuhl.de/en)
+
+* [dblp](https://dblp.org)
+  + [Blog](https://blog.dblp.org)
+  + [Statistics](https://dblp.org/statistics/)
+  + [Update feed](https://dblp.org/feed/)
+  + [dblp artifacts @ DROPS](https://drops.dagstuhl.de/entities/collection/dblp)
+  + [XML dump](https://dblp.org/xml/)
+  + [RDF dump](https://dblp.org/rdf/)
+* [browse](https://dblp.org/db/)
+  + [Persons](https://dblp.org/pers/)
+  + [Conferences](https://dblp.org/db/conf/)
+  + [Journals](https://dblp.org/db/journals/)
+  + [Series](https://dblp.org/db/series/)
+  + [Repositories](https://dblp.org/db/repo/)
+* [search](https://dblp.org/search/)
+  + [Search dblp](https://dblp.org/search/)
+  + [SPARQL queries](https://sparql.dblp.org) ![]()
+  + [Lookup by ID](https://dblp.org/lookup/)
+* [about](https://dblp.org/db/about/)
+  + [F.A.Q.](https://dblp.org/faq/)
+  + [Team](https://dblp.org/db/about/team.html)
+  + [Advisory Board](https://dblp.org/db/about/advisoryboard.html)
+  + [License](https://dblp.org/db/about/copyright.html)
+  + [Privacy](https://dblp.org/db/about/privacy.html)
+  + [Imprint](https://dblp.org/db/about/imprint.html)
+* [nfdi](https://www.nfdi.de/?lang=en)
+  + [**NFDI - National Research Data Infrastructure Germany**](https://www.nfdi.de/?lang=en)
+  + [consortia](https://www.nfdi.de/consortia/?lang=en)
+  + [![]()**NFDIxCS**](https://nfdixcs.org/)
+  + [events](https://nfdixcs.org/veranstaltungen) | [mastodon](https://mastodon.social/@nfdixcs@nfdi.social)
+  + [![]()**NFDI4DataScience**](https://www.nfdi4datascience.de/)
+  + [ORKG](https://www.orkg.org)
+  + [CEUR](http://ceur-ws.org/)
+  + [MyBinder](https://mybinder.org/)
+  + [events](https://www.nfdi4datascience.de/events/) | [mastodon](https://mastodon.social/@NFDI4DS@nfdi.social) | [publications](https://scholar.google.com/citations?user=MB2fMGEAAAAJ)
+* [donate](https://www.dagstuhl.de/en/dblp/donate)
+  + [learn more](https://www.dagstuhl.de/en/dblp/donate)
+  + [donate using PayPal](https://www.paypal.com/donate/?hosted_button_id=PTA6M4GHUCTTJ)
+
+* ![]()stop the war!
+  + ![]()Зупиніть війну!
+  + ![]()Остановите войну!
+  + [solidarity](https://www.leibniz-gemeinschaft.de/en/about-us/whats-new/news/forschungsnachrichten-single/newsdetails/solidaritaet-mit-der-ukraine) - [(ua)](https://www-leibniz--gemeinschaft-de.translate.goog/en/about-us/whats-new/news/forschungsnachrichten-single/newsdetails/solidaritaet-mit-der-ukraine?_x_tr_sl=en&_x_tr_tl=uk) - [(ru)](https://www-leibniz--gemeinschaft-de.translate.goog/en/about-us/whats-new/news/forschungsnachrichten-single/newsdetails/solidaritaet-mit-der-ukraine?_x_tr_sl=en&_x_tr_tl=ru)
+  + [news](https://news.un.org/en/tags/ukraine) - [(ua)](https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en&_x_tr_tl=uk) - [(ru)](https://news-un-org.translate.goog/en/tags/ukraine?_x_tr_sl=en&_x_tr_tl=ru)
+  + [donate](https://donate.unhcr.org/int/en/ukraine-emergency) - [donate](https://www.doctorswithoutborders.org/what-we-do/where-we-work/ukraine) - [donate](https://www.icrc.org/en/where-we-work/europe-central-asia/ukraine)
+  + **for scientists**
+  + [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine/)
+  + [Assistance in Germany](https://www.daad-ukraine.org/en/)
+  + [Ukrainian Global University](https://uglobal.university/)
+
+
+
+![]()
+![]()![]()
+
+**default search action**
+
+* combined dblp search
+* author search
+* venue search
+* publication search
+![]()[![]()](https://google.com/search?q=Computer+Assisted+Language+Learning)
+
+**ask others**
+
+* [![]()Google](https://google.com/search?q=Computer+Assisted+Language+Learning)
+* [![]()Google Scholar](https://scholar.google.com/scholar?q=Computer+Assisted+Language+Learning)
+* [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Computer+Assisted+Language+Learning)
+* [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Computer+Assisted+Language+Learning)
+* [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Computer+Assisted+Language+Learning)
+* [![]()ORCID](https://orcid.org/orcid-search/search?searchQuery=Computer+Assisted+Language+Learning)
+
+
+
+Search dblp
+===========
+
+* [![]()](https://dblp.org/faq/1474589)
+  
+  **see FAQ**
+  
+  + [![]()How to use the dblp search?](https://dblp.org/faq/1474589)
+  + [![]()How to use the dblp search API?](https://dblp.org/faq/13501473)
+  + [![]()Which technology does dblp use for searching?](https://dblp.org/faq/11960371)
+powered by [CompleteSearch](https://dblp.org/search?q=author%3AHannah_Bast%3A+autoc%7Ccompl%7Cester), courtesy of [Hannah Bast](https://dblp.org/search/author?q=Hannah%24+Bast%24), University of Freiburg
+
+Full-text search
+================
+
+* [![]()](https://dblp.org/faq/1474589)
+  
+  **see FAQ**
+  
+  + [![]()How to use the dblp search?](https://dblp.org/faq/1474589)
+  + [![]()How to use the dblp search API?](https://dblp.org/faq/13501473)
+  + [![]()Which technology does dblp use for searching?](https://dblp.org/faq/11960371)
+
+* [![]()](#)
+* [![]()](#footer)
+
+![]()Dagstuhl
+
+* [Trier](https://dblp.uni-trier.de/search?q=Computer+Assisted+Language+Learning)
+
+* > [Home](https://dblp.org)
+
+
+Please enter a search query
+---------------------------
+
+[![]()](https://dblp.org/faq)**see FAQ for more information**
+
+* [How to use the dblp search?](https://dblp.org/faq/1474589)
+* [Which technology does dblp use for searching the website?](https://dblp.org/faq/11960371)
+
+* *case-insensitive prefix search:* default   
+  e.g., [sig](?q=sig) matches "SIGIR" as well as "signal"
+* *exact word search:* append dollar sign ($) to word  
+  e.g., [graph$](?q=graph$) matches "graph", but not "graphics"
+* *boolean and:* separate words by space  
+  e.g., [codd model](?q=codd%20model)
+* *boolean or:* connect words by pipe symbol (|)  
+  e.g., [graph|network](?q=graph%7Cnetwork)
+
+Update May 7, 2017: Please note that we had to disable the *phrase search* operator (.) and the *boolean not* operator (-) due to technical problems. For the time being, phrase search queries will yield regular prefix search result, and search terms preceded by a minus will be interpreted as regular (positive) search terms.
+
+Author search results
+---------------------
+
+* [![]()](https://dblp.org/search/author/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=xml)
+  
+  **export search results as**
+  
+  *first 1000 hits only:*
+  
+  + [![]()XML](https://dblp.org/search/author/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=xml)
+  + [![]()JSON](https://dblp.org/search/author/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=json)
+  + [![]()JSONP](https://dblp.org/search/author/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=jsonp)
+
+*no matches*
+
+
+Venue search results
+--------------------
+
+* [![]()](https://dblp.org/search/venue/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=xml)
+  
+  **export search results as**
+  
+  *first 1000 hits only:*
+  
+  + [![]()XML](https://dblp.org/search/venue/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=xml)
+  + [![]()JSON](https://dblp.org/search/venue/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=json)
+  + [![]()JSONP](https://dblp.org/search/venue/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=jsonp)
+
+Likely matches
+
+* [International Journal of Computer-Assisted Language Learning and Teaching (IJCALLT)](https://dblp.org/db/journals/ijcallt/)
+
+
+
+
+Refine list
+-----------
+
+![]()
+
+**refine by author**
+
+* *no options*
+
+* ![]()
+
+* *temporarily not available*
+
+**refine by venue**
+
+* *no options*
+
+* ![]()
+
+* *temporarily not available*
+
+**refine by type**
+
+* *no options*
+
+* ![]()
+
+* *temporarily not available*
+
+**refine by access** ![]()
+
+* *no options*
+
+* ![]()
+
+* *temporarily not available*
+
+**refine by year**
+
+* *no options*
+
+* ![]()
+
+* *temporarily not available*
+
+Publication search results
+--------------------------
+
+* [![]()](https://dblp.org/search/publ/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=xml)
+  
+  **export search results as**
+  
+  *first 1000 hits only:*
+  
+  + [![]()XML](https://dblp.org/search/publ/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=xml)
+  + [![]()JSON](https://dblp.org/search/publ/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=json)
+  + [![]()JSONP](https://dblp.org/search/publ/api?q=Computer+Assisted+Language+Learning&h=1000&c=0&rd=1a&format=jsonp)
+  + [![]()BibTeX](https://dblp.org/search/publ/bibtex?q=Computer+Assisted+Language+Learning)
+
+found 154 matches
+
+* 2025
+* ![]()
+  + [![]()](https://doi.org/10.1007/s10639-024-12961-z)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1007/s10639-024-12961-z)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1007%2FS10639-024-12961-Z)
+    - [![]()details & citations](https://dblp.org/rec/journals/eait/KangC25.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1007%2FS10639-024-12961-Z)[![]()](https://api.openalex.org/works/doi:10.1007%2FS10639-024-12961-Z)
+  + [![]()](https://dblp.org/rec/journals/eait/KangC25.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/eait/KangC25.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/eait/KangC25.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/eait/KangC25.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/eait/KangC25.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/eait/KangC25.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/eait/KangC25.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/eait/KangC25.txt)
+    
+    *dblp key:*
+    
+    - journals/eait/KangC25
+  + [![]()](https://google.com/search?q=Effects+of+teachers%27+rapport-building+strategies+on+EFL+learners%27+cognitive+load+and+computer-assisted+language+learning+motivation.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Effects+of+teachers%27+rapport-building+strategies+on+EFL+learners%27+cognitive+load+and+computer-assisted+language+learning+motivation.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Effects+of+teachers%27+rapport-building+strategies+on+EFL+learners%27+cognitive+load+and+computer-assisted+language+learning+motivation.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Effects+of+teachers%27+rapport-building+strategies+on+EFL+learners%27+cognitive+load+and+computer-assisted+language+learning+motivation.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Effects+of+teachers%27+rapport-building+strategies+on+EFL+learners%27+cognitive+load+and+computer-assisted+language+learning+motivation.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Effects+of+teachers%27+rapport-building+strategies+on+EFL+learners%27+cognitive+load+and+computer-assisted+language+learning+motivation.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1007%2FS10639-024-12961-Z)
+  + [![]()](https://bsky.app/intent/compose?text=%22Effects+of+teachers%27+rapport-building+strategies+on+EFL+learners%27+cognitive+load+and+computer-assisted+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1007%2Fs10639-024-12961-z)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Effects+of+teachers%27+rapport-building+strategies+on+EFL+learners%27+cognitive+load+and+computer-assisted+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1007%2Fs10639-024-12961-z)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1007%2Fs10639-024-12961-z&title=%22Effects+of+teachers%27+rapport-building+strategies+on+EFL+learners%27+cognitive+load+and+computer-assisted+language+learning+motivation.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1007%2Fs10639-024-12961-z)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1007%2Fs10639-024-12961-z&title=%22Effects+of+teachers%27+rapport-building+strategies+on+EFL+learners%27+cognitive+load+and+computer-assisted+language+learning+motivation.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/eait/KangC25>[Huan Kang](https://dblp.org/pid/260/4928.html), [Hong Chen](https://dblp.org/pid/52/4150.html):  
+   Effects of teachers' rapport-building strategies on EFL learners' cognitive load and computer-assisted language learning motivation. [Educ. Inf. Technol. 30(3)](https://dblp.org/db/journals/eait/eait30.html#journals/eait/KangC25): 3911-3952 (2025)
+* ![]()
+  + [![]()](https://doi.org/10.1108/ITSE-12-2023-0246)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1108/ITSE-12-2023-0246)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1108%2FITSE-12-2023-0246)
+    - [![]()details & citations](https://dblp.org/rec/journals/itse/Tariq25.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1108%2FITSE-12-2023-0246)[![]()](https://api.openalex.org/works/doi:10.1108%2FITSE-12-2023-0246)
+  + [![]()](https://dblp.org/rec/journals/itse/Tariq25.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/itse/Tariq25.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/itse/Tariq25.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/itse/Tariq25.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/itse/Tariq25.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/itse/Tariq25.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/itse/Tariq25.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/itse/Tariq25.txt)
+    
+    *dblp key:*
+    
+    - journals/itse/Tariq25
+  + [![]()](https://google.com/search?q=Nexus+of+essay+writing+and+computer-assisted+language+learning+%28CALL%29+in+English+language+classroom.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Nexus+of+essay+writing+and+computer-assisted+language+learning+%28CALL%29+in+English+language+classroom.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Nexus+of+essay+writing+and+computer-assisted+language+learning+%28CALL%29+in+English+language+classroom.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Nexus+of+essay+writing+and+computer-assisted+language+learning+%28CALL%29+in+English+language+classroom.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Nexus+of+essay+writing+and+computer-assisted+language+learning+%28CALL%29+in+English+language+classroom.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Nexus+of+essay+writing+and+computer-assisted+language+learning+%28CALL%29+in+English+language+classroom.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1108%2FITSE-12-2023-0246)
+  + [![]()](https://bsky.app/intent/compose?text=%22Nexus+of+essay+writing+and+computer-assisted+language+learning+%28CALL%29+in+English+language+classroom.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1108%2FITSE-12-2023-0246)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Nexus+of+essay+writing+and+computer-assisted+language+learning+%28CALL%29+in+English+language+classroom.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1108%2FITSE-12-2023-0246)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1108%2FITSE-12-2023-0246&title=%22Nexus+of+essay+writing+and+computer-assisted+language+learning+%28CALL%29+in+English+language+classroom.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1108%2FITSE-12-2023-0246)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1108%2FITSE-12-2023-0246&title=%22Nexus+of+essay+writing+and+computer-assisted+language+learning+%28CALL%29+in+English+language+classroom.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/itse/Tariq25>[Umbreen Tariq](https://dblp.org/pid/281/2174.html):  
+   Nexus of essay writing and computer-assisted language learning (CALL) in English language classroom. [Interact. Technol. Smart Educ. 22(1)](https://dblp.org/db/journals/itse/itse22.html#journals/itse/Tariq25): 103-133 (2025)
+* ![]()
+  + [![]()](https://doi.org/10.1108/LHT-03-2023-0124)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1108/LHT-03-2023-0124)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1108%2FLHT-03-2023-0124)
+    - [![]()details & citations](https://dblp.org/rec/journals/lht/BessadokH25.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1108%2FLHT-03-2023-0124)[![]()](https://api.openalex.org/works/doi:10.1108%2FLHT-03-2023-0124)
+  + [![]()](https://dblp.org/rec/journals/lht/BessadokH25.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/lht/BessadokH25.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/lht/BessadokH25.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/lht/BessadokH25.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/lht/BessadokH25.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/lht/BessadokH25.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/lht/BessadokH25.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/lht/BessadokH25.txt)
+    
+    *dblp key:*
+    
+    - journals/lht/BessadokH25
+  + [![]()](https://google.com/search?q=A+structural+equation+model+analysis+of+English+for+specific+purposes+students%27+attitudes+regarding+computer-assisted+language+learning%3A+UTAUT2+model.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=A+structural+equation+model+analysis+of+English+for+specific+purposes+students%27+attitudes+regarding+computer-assisted+language+learning%3A+UTAUT2+model.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=A+structural+equation+model+analysis+of+English+for+specific+purposes+students%27+attitudes+regarding+computer-assisted+language+learning%3A+UTAUT2+model.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=A+structural+equation+model+analysis+of+English+for+specific+purposes+students%27+attitudes+regarding+computer-assisted+language+learning%3A+UTAUT2+model.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=A+structural+equation+model+analysis+of+English+for+specific+purposes+students%27+attitudes+regarding+computer-assisted+language+learning%3A+UTAUT2+model.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=A+structural+equation+model+analysis+of+English+for+specific+purposes+students%27+attitudes+regarding+computer-assisted+language+learning%3A+UTAUT2+model.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1108%2FLHT-03-2023-0124)
+  + [![]()](https://bsky.app/intent/compose?text=%22A+structural+equation+model+analysis+of+English+for+specific+purposes+students%27+attitudes+regarding+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1108%2FLHT-03-2023-0124)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22A+structural+equation+model+analysis+of+English+for+specific+purposes+students%27+attitudes+regarding+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1108%2FLHT-03-2023-0124)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1108%2FLHT-03-2023-0124&title=%22A+structural+equation+model+analysis+of+English+for+specific+purposes+students%27+attitudes+regarding+computer-assisted+language+learning%3A+UTAUT2+model.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1108%2FLHT-03-2023-0124)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1108%2FLHT-03-2023-0124&title=%22A+structural+equation+model+analysis+of+English+for+specific+purposes+students%27+attitudes+regarding+computer-assisted+language+learning%3A+UTAUT2+model.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/lht/BessadokH25>[Adel Bessadok](https://dblp.org/pid/35/10257.html)![](), [Mustafa Hersi](https://dblp.org/pid/399/7923.html):  
+   A structural equation model analysis of English for specific purposes students' attitudes regarding computer-assisted language learning: UTAUT2 model. [Libr. Hi Tech 43(1)](https://dblp.org/db/journals/lht/lht43.html#journals/lht/BessadokH25): 36-55 (2025)
+* ![]()
+  + [![]()](https://doi.org/10.1109/AICCONF64766.2025.11064075)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1109/AICCONF64766.2025.11064075)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1109%2FAICCONF64766.2025.11064075)
+    - [![]()details & citations](https://dblp.org/rec/conf/aicconf/Zhang25a.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1109%2FAICCONF64766.2025.11064075)[![]()](https://api.openalex.org/works/doi:10.1109%2FAICCONF64766.2025.11064075)
+  + [![]()](https://dblp.org/rec/conf/aicconf/Zhang25a.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/aicconf/Zhang25a.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/aicconf/Zhang25a.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/aicconf/Zhang25a.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/aicconf/Zhang25a.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/aicconf/Zhang25a.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/aicconf/Zhang25a.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/aicconf/Zhang25a.txt)
+    
+    *dblp key:*
+    
+    - conf/aicconf/Zhang25a
+  + [![]()](https://google.com/search?q=Evaluation+of+the+effectiveness+of+English+vocabulary+review+strategies+based+on+forgetting+curves+in+computer-assisted+language+learning+%28CALL%29+software.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Evaluation+of+the+effectiveness+of+English+vocabulary+review+strategies+based+on+forgetting+curves+in+computer-assisted+language+learning+%28CALL%29+software.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Evaluation+of+the+effectiveness+of+English+vocabulary+review+strategies+based+on+forgetting+curves+in+computer-assisted+language+learning+%28CALL%29+software.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Evaluation+of+the+effectiveness+of+English+vocabulary+review+strategies+based+on+forgetting+curves+in+computer-assisted+language+learning+%28CALL%29+software.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Evaluation+of+the+effectiveness+of+English+vocabulary+review+strategies+based+on+forgetting+curves+in+computer-assisted+language+learning+%28CALL%29+software.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Evaluation+of+the+effectiveness+of+English+vocabulary+review+strategies+based+on+forgetting+curves+in+computer-assisted+language+learning+%28CALL%29+software.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1109%2FAICCONF64766.2025.11064075)
+  + [![]()](https://bsky.app/intent/compose?text=%22Evaluation+of+the+effectiveness+of+English+vocabulary+review+strategies+based+on+forgetting+curves+in+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1109%2FAICCONF64766.2025.11064075)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Evaluation+of+the+effectiveness+of+English+vocabulary+review+strategies+based+on+forgetting+curves+in+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1109%2FAICCONF64766.2025.11064075)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1109%2FAICCONF64766.2025.11064075&title=%22Evaluation+of+the+effectiveness+of+English+vocabulary+review+strategies+based+on+forgetting+curves+in+computer-assisted+language+learning+%28CALL%29+software.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1109%2FAICCONF64766.2025.11064075)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1109%2FAICCONF64766.2025.11064075&title=%22Evaluation+of+the+effectiveness+of+English+vocabulary+review+strategies+based+on+forgetting+curves+in+computer-assisted+language+learning+%28CALL%29+software.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/aicconf/Zhang25a>[Ying Zhang](https://dblp.org/pid/13/6769.html):  
+   Evaluation of the effectiveness of English vocabulary review strategies based on forgetting curves in computer-assisted language learning (CALL) software. [AICCONF 2025](https://dblp.org/db/conf/aicconf/aicconf2025.html#conf/aicconf/Zhang25a): 1-4
+* ![]()
+  + [![]()](https://doi.org/10.48550/arXiv.2505.02032)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI (open access)](https://doi.org/10.48550/arXiv.2505.02032)
+    - [![]()details & citations](https://dblp.org/rec/journals/corr/abs-2505-02032.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.48550%2FARXIV.2505.02032)[![]()](https://api.openalex.org/works/doi:10.48550%2FARXIV.2505.02032)
+  + [![]()](https://dblp.org/rec/journals/corr/abs-2505-02032.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/corr/abs-2505-02032.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/corr/abs-2505-02032.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/corr/abs-2505-02032.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/corr/abs-2505-02032.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/corr/abs-2505-02032.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/corr/abs-2505-02032.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/corr/abs-2505-02032.txt)
+    
+    *dblp key:*
+    
+    - journals/corr/abs-2505-02032
+  + [![]()](https://google.com/search?q=An+overview+of+artificial+intelligence+in+computer-assisted+language+learning.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=An+overview+of+artificial+intelligence+in+computer-assisted+language+learning.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=An+overview+of+artificial+intelligence+in+computer-assisted+language+learning.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=An+overview+of+artificial+intelligence+in+computer-assisted+language+learning.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=An+overview+of+artificial+intelligence+in+computer-assisted+language+learning.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=An+overview+of+artificial+intelligence+in+computer-assisted+language+learning.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.48550%2FARXIV.2505.02032)
+  + [![]()](https://bsky.app/intent/compose?text=%22An+overview+of+artificial+intelligence+in+computer-assisted+language+learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.48550%2FarXiv.2505.02032)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22An+overview+of+artificial+intelligence+in+computer-assisted+language+learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.48550%2FarXiv.2505.02032)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.48550%2FarXiv.2505.02032&title=%22An+overview+of+artificial+intelligence+in+computer-assisted+language+learning.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.48550%2FarXiv.2505.02032)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.48550%2FarXiv.2505.02032&title=%22An+overview+of+artificial+intelligence+in+computer-assisted+language+learning.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/corr/abs-2505-02032>[Anisia Katinskaia](https://dblp.org/pid/204/1361.html):  
+   An overview of artificial intelligence in computer-assisted language learning. [CoRR abs/2505.02032](https://dblp.org/db/journals/corr/corr2505.html#journals/corr/abs-2505-02032) (2025)
+* 2023
+* ![]()
+  + [![]()](https://doi.org/10.1016/j.caeai.2022.100117)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI (open access)](https://doi.org/10.1016/j.caeai.2022.100117)
+    - [![]()details & citations](https://dblp.org/rec/journals/caeai/WengC23.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1016%2FJ.CAEAI.2022.100117)[![]()](https://api.openalex.org/works/doi:10.1016%2FJ.CAEAI.2022.100117)
+  + [![]()](https://dblp.org/rec/journals/caeai/WengC23.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/caeai/WengC23.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/caeai/WengC23.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/caeai/WengC23.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/caeai/WengC23.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/caeai/WengC23.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/caeai/WengC23.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/caeai/WengC23.txt)
+    
+    *dblp key:*
+    
+    - journals/caeai/WengC23
+  + [![]()](https://google.com/search?q=Instructional+design+and+learning+outcomes+of+intelligent+computer+assisted+language+learning%3A+Systematic+review+in+the+field.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Instructional+design+and+learning+outcomes+of+intelligent+computer+assisted+language+learning%3A+Systematic+review+in+the+field.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Instructional+design+and+learning+outcomes+of+intelligent+computer+assisted+language+learning%3A+Systematic+review+in+the+field.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Instructional+design+and+learning+outcomes+of+intelligent+computer+assisted+language+learning%3A+Systematic+review+in+the+field.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Instructional+design+and+learning+outcomes+of+intelligent+computer+assisted+language+learning%3A+Systematic+review+in+the+field.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Instructional+design+and+learning+outcomes+of+intelligent+computer+assisted+language+learning%3A+Systematic+review+in+the+field.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1016%2FJ.CAEAI.2022.100117)
+  + [![]()](https://bsky.app/intent/compose?text=%22Instructional+design+and+learning+outcomes+of+intelligent+computer+assisted+language+learning%3A+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1016%2Fj.caeai.2022.100117)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Instructional+design+and+learning+outcomes+of+intelligent+computer+assisted+language+learning%3A+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1016%2Fj.caeai.2022.100117)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.caeai.2022.100117&title=%22Instructional+design+and+learning+outcomes+of+intelligent+computer+assisted+language+learning%3A+Systematic+review+in+the+field.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.caeai.2022.100117)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.caeai.2022.100117&title=%22Instructional+design+and+learning+outcomes+of+intelligent+computer+assisted+language+learning%3A+Systematic+review+in+the+field.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/caeai/WengC23>[Xiaojing Weng](https://dblp.org/pid/229/1308.html)![](), [Thomas K. F. Chiu](https://dblp.org/pid/158/3837.html)![]():  
+   Instructional design and learning outcomes of intelligent computer assisted language learning: Systematic review in the field. [Comput. Educ. Artif. Intell. 4](https://dblp.org/db/journals/caeai/caeai4.html#journals/caeai/WengC23): 100117 (2023)
+* ![]()
+  + [![]()](https://doi.org/10.1145/3637989.3638009)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1145/3637989.3638009)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1145%2F3637989.3638009)
+    - [![]()details & citations](https://dblp.org/rec/conf/iceel/Tu23.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1145%2F3637989.3638009)[![]()](https://api.openalex.org/works/doi:10.1145%2F3637989.3638009)
+  + [![]()](https://dblp.org/rec/conf/iceel/Tu23.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/iceel/Tu23.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/iceel/Tu23.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/iceel/Tu23.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/iceel/Tu23.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/iceel/Tu23.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/iceel/Tu23.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/iceel/Tu23.txt)
+    
+    *dblp key:*
+    
+    - conf/iceel/Tu23
+  + [![]()](https://google.com/search?q=The+Effect+of+Autonomous+Learning+Mode+Combined+with+Computer-Assisted+Language+Learning+on+Vocabulary+Acquisition.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=The+Effect+of+Autonomous+Learning+Mode+Combined+with+Computer-Assisted+Language+Learning+on+Vocabulary+Acquisition.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=The+Effect+of+Autonomous+Learning+Mode+Combined+with+Computer-Assisted+Language+Learning+on+Vocabulary+Acquisition.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=The+Effect+of+Autonomous+Learning+Mode+Combined+with+Computer-Assisted+Language+Learning+on+Vocabulary+Acquisition.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=The+Effect+of+Autonomous+Learning+Mode+Combined+with+Computer-Assisted+Language+Learning+on+Vocabulary+Acquisition.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=The+Effect+of+Autonomous+Learning+Mode+Combined+with+Computer-Assisted+Language+Learning+on+Vocabulary+Acquisition.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1145%2F3637989.3638009)
+  + [![]()](https://bsky.app/intent/compose?text=%22The+Effect+of+Autonomous+Learning+Mode+Combined+with+Computer-Assisted+Language+Learning+on+Vocabulary+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1145%2F3637989.3638009)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22The+Effect+of+Autonomous+Learning+Mode+Combined+with+Computer-Assisted+Language+Learning+on+Vocabulary+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1145%2F3637989.3638009)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1145%2F3637989.3638009&title=%22The+Effect+of+Autonomous+Learning+Mode+Combined+with+Computer-Assisted+Language+Learning+on+Vocabulary+Acquisition.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1145%2F3637989.3638009)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1145%2F3637989.3638009&title=%22The+Effect+of+Autonomous+Learning+Mode+Combined+with+Computer-Assisted+Language+Learning+on+Vocabulary+Acquisition.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/iceel/Tu23>[Hsiu-Lien Tu](https://dblp.org/pid/354/5487.html)![]():  
+   The Effect of Autonomous Learning Mode Combined with Computer-Assisted Language Learning on Vocabulary Acquisition. [ICEEL 2023](https://dblp.org/db/conf/iceel/iceel2023.html#conf/iceel/Tu23): 197-202
+* 2022
+* ![]()
+  + [![]()](https://doi.org/10.1007/978-3-031-11647-6_120)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1007/978-3-031-11647-6_120)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1007%2F978-3-031-11647-6_120)
+    - [![]()details & citations](https://dblp.org/rec/conf/aied/ChenBHPM22.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1007%2F978-3-031-11647-6_120)[![]()](https://api.openalex.org/works/doi:10.1007%2F978-3-031-11647-6_120)
+  + [![]()](https://dblp.org/rec/conf/aied/ChenBHPM22.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/aied/ChenBHPM22.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/aied/ChenBHPM22.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/aied/ChenBHPM22.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/aied/ChenBHPM22.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/aied/ChenBHPM22.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/aied/ChenBHPM22.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/aied/ChenBHPM22.txt)
+    
+    *dblp key:*
+    
+    - conf/aied/ChenBHPM22
+  + [![]()](https://google.com/search?q=Education+Theories+and+AI+Affordances%3A+Design+and+Implementation+of+an+Intelligent+Computer+Assisted+Language+Learning+System.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Education+Theories+and+AI+Affordances%3A+Design+and+Implementation+of+an+Intelligent+Computer+Assisted+Language+Learning+System.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Education+Theories+and+AI+Affordances%3A+Design+and+Implementation+of+an+Intelligent+Computer+Assisted+Language+Learning+System.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Education+Theories+and+AI+Affordances%3A+Design+and+Implementation+of+an+Intelligent+Computer+Assisted+Language+Learning+System.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Education+Theories+and+AI+Affordances%3A+Design+and+Implementation+of+an+Intelligent+Computer+Assisted+Language+Learning+System.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Education+Theories+and+AI+Affordances%3A+Design+and+Implementation+of+an+Intelligent+Computer+Assisted+Language+Learning+System.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1007%2F978-3-031-11647-6_120)
+  + [![]()](https://bsky.app/intent/compose?text=%22Education+Theories+and+AI+Affordances%3A+Design+and+Implementation+of+an+Intelligent+Computer+Assisted+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1007%2F978-3-031-11647-6_120)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Education+Theories+and+AI+Affordances%3A+Design+and+Implementation+of+an+Intelligent+Computer+Assisted+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1007%2F978-3-031-11647-6_120)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-031-11647-6_120&title=%22Education+Theories+and+AI+Affordances%3A+Design+and+Implementation+of+an+Intelligent+Computer+Assisted+Language+Learning+System.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-031-11647-6_120)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-031-11647-6_120&title=%22Education+Theories+and+AI+Affordances%3A+Design+and+Implementation+of+an+Intelligent+Computer+Assisted+Language+Learning+System.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/aied/ChenBHPM22>[Xiaobin Chen](https://dblp.org/pid/67/8423.html)![](), [Elizabeth Bear](https://dblp.org/pid/280/9467.html), [Bronson Hui](https://dblp.org/pid/325/2448.html), [Haemanth Santhi Ponnusamy](https://dblp.org/pid/279/3451.html), [Detmar Meurers](https://dblp.org/pid/m/WaltDetmarMeurers.html):  
+   Education Theories and AI Affordances: Design and Implementation of an Intelligent Computer Assisted Language Learning System. [AIED (2) 2022](https://dblp.org/db/conf/aied/aied2022-2.html#conf/aied/ChenBHPM22): 582-585
+* ![]()
+  + [![]()](https://escholarship.org/uc/item/8ht3f1ff)
+    
+    **view**
+    
+    - [![]()electronic edition @ escholarship.org (open access)](https://escholarship.org/uc/item/8ht3f1ff)
+    - [![]()details & citations](https://dblp.org/rec/conf/cogsci/RoseBLC22.html)
+  + [![]()](https://dblp.org/rec/conf/cogsci/RoseBLC22.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/cogsci/RoseBLC22.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/cogsci/RoseBLC22.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/cogsci/RoseBLC22.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/cogsci/RoseBLC22.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/cogsci/RoseBLC22.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/cogsci/RoseBLC22.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/cogsci/RoseBLC22.txt)
+    
+    *dblp key:*
+    
+    - conf/cogsci/RoseBLC22
+  + [![]()](https://google.com/search?q=Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+Learning+Study.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+Learning+Study.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+Learning+Study.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+Learning+Study.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+Learning+Study.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+Learning+Study.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=title%3A%28Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+Learning+Study.%29)
+  + [![]()](https://bsky.app/intent/compose?text=%22Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+...%22+at+%23dblp%0Ahttps%3A%2F%2Fescholarship.org%2Fuc%2Fitem%2F8ht3f1ff)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+...%22+at+%23dblp%0Ahttps%3A%2F%2Fescholarship.org%2Fuc%2Fitem%2F8ht3f1ff)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fescholarship.org%2Fuc%2Fitem%2F8ht3f1ff&title=%22Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+Learning+Study.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fescholarship.org%2Fuc%2Fitem%2F8ht3f1ff)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fescholarship.org%2Fuc%2Fitem%2F8ht3f1ff&title=%22Retrieval+Practice+Promotes+Learning+of+Turkish+as+a+Foreign+Language%3A+A+Computer-Assisted+Language+Learning+Study.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/cogsci/RoseBLC22>[Maya C. Rose](https://dblp.org/pid/373/8100.html), [Patricia J. Brooks](https://dblp.org/pid/175/9225.html), [Arshia K. Lodhi](https://dblp.org/pid/373/8020.html), [Angela Cortez](https://dblp.org/pid/373/8644.html):  
+   Retrieval Practice Promotes Learning of Turkish as a Foreign Language: A Computer-Assisted Language Learning Study. [CogSci 2022](https://dblp.org/db/conf/cogsci/cogsci2022.html#conf/cogsci/RoseBLC22)
+* ![]()
+  + [![]()](https://doi.org/10.1109/SMC53654.2022.9945182)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1109/SMC53654.2022.9945182)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1109%2FSMC53654.2022.9945182)
+    - [![]()details & citations](https://dblp.org/rec/conf/smc/PrinsenPVCA22.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1109%2FSMC53654.2022.9945182)[![]()](https://api.openalex.org/works/doi:10.1109%2FSMC53654.2022.9945182)
+  + [![]()](https://dblp.org/rec/conf/smc/PrinsenPVCA22.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/smc/PrinsenPVCA22.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/smc/PrinsenPVCA22.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/smc/PrinsenPVCA22.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/smc/PrinsenPVCA22.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/smc/PrinsenPVCA22.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/smc/PrinsenPVCA22.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/smc/PrinsenPVCA22.txt)
+    
+    *dblp key:*
+    
+    - conf/smc/PrinsenPVCA22
+  + [![]()](https://google.com/search?q=A+Passive+Brain-Computer+Interface+for+Monitoring+Engagement+during+Robot-Assisted+Language+Learning.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=A+Passive+Brain-Computer+Interface+for+Monitoring+Engagement+during+Robot-Assisted+Language+Learning.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=A+Passive+Brain-Computer+Interface+for+Monitoring+Engagement+during+Robot-Assisted+Language+Learning.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=A+Passive+Brain-Computer+Interface+for+Monitoring+Engagement+during+Robot-Assisted+Language+Learning.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=A+Passive+Brain-Computer+Interface+for+Monitoring+Engagement+during+Robot-Assisted+Language+Learning.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=A+Passive+Brain-Computer+Interface+for+Monitoring+Engagement+during+Robot-Assisted+Language+Learning.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1109%2FSMC53654.2022.9945182)
+  + [![]()](https://bsky.app/intent/compose?text=%22A+Passive+Brain-Computer+Interface+for+Monitoring+Engagement+during+Robot-Assisted+Language+Learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1109%2FSMC53654.2022.9945182)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22A+Passive+Brain-Computer+Interface+for+Monitoring+Engagement+during+Robot-Assisted+Language+Learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1109%2FSMC53654.2022.9945182)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1109%2FSMC53654.2022.9945182&title=%22A+Passive+Brain-Computer+Interface+for+Monitoring+Engagement+during+Robot-Assisted+Language+Learning.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1109%2FSMC53654.2022.9945182)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1109%2FSMC53654.2022.9945182&title=%22A+Passive+Brain-Computer+Interface+for+Monitoring+Engagement+during+Robot-Assisted+Language+Learning.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/smc/PrinsenPVCA22>[Jos Prinsen](https://dblp.org/pid/315/4197.html)![](), [Ethel Pruss](https://dblp.org/pid/315/4691.html)![](), [Anita Maria Vrins](https://dblp.org/pid/408/3171.html)![](), [Caterina Ceccato](https://dblp.org/pid/315/4129.html), [Maryam Alimardani](https://dblp.org/pid/218/4096.html)![]():  
+   A Passive Brain-Computer Interface for Monitoring Engagement during Robot-Assisted Language Learning. [SMC 2022](https://dblp.org/db/conf/smc/smc2022.html#conf/smc/PrinsenPVCA22): 1967-1972
+* 2021
+* ![]()
+  + [![]()](https://ceur-ws.org/Vol-3105/paper4.pdf)
+    
+    **view**
+    
+    - [![]()electronic edition @ ceur-ws.org (open access)](https://ceur-ws.org/Vol-3105/paper4.pdf)
+    - [![]()details & citations](https://dblp.org/rec/conf/aics/DobbrinerER21.html)
+  + [![]()](https://dblp.org/rec/conf/aics/DobbrinerER21.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/aics/DobbrinerER21.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/aics/DobbrinerER21.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/aics/DobbrinerER21.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/aics/DobbrinerER21.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/aics/DobbrinerER21.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/aics/DobbrinerER21.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/aics/DobbrinerER21.txt)
+    
+    *dblp key:*
+    
+    - conf/aics/DobbrinerER21
+  + [![]()](https://google.com/search?q=Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=title%3A%28Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.%29)
+  + [![]()](https://bsky.app/intent/compose?text=%22Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fceur-ws.org%2FVol-3105%2Fpaper4.pdf)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fceur-ws.org%2FVol-3105%2Fpaper4.pdf)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fceur-ws.org%2FVol-3105%2Fpaper4.pdf&title=%22Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fceur-ws.org%2FVol-3105%2Fpaper4.pdf)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fceur-ws.org%2FVol-3105%2Fpaper4.pdf&title=%22Virtual+Tutor+Personality+in+Computer+Assisted+Language+Learning.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/aics/DobbrinerER21>[Johanna Dobbriner](https://dblp.org/pid/246/6117.html)![](), [Cathy Ennis](https://dblp.org/pid/30/1113.html), [Robert J. Ross](https://dblp.org/pid/31/1904.html):  
+   Virtual Tutor Personality in Computer Assisted Language Learning. [AICS 2021](https://dblp.org/db/conf/aics/aics2021.html#conf/aics/DobbrinerER21): 13-24
+* ![]()
+  + [![]()](https://web.archive.org/web/*/http://www.isca-speech.org/archive/IberSPEECH_2021/pdfs/35.pdf)
+    
+    **view**
+    
+    - [![]()electronic edition @ isca-speech.org (archived)](https://web.archive.org/web/*/http://www.isca-speech.org/archive/IberSPEECH_2021/pdfs/35.pdf)
+    - [![]()lookup Internet Archive Scholar](https://scholar.archive.org/search?q=dblp_id:%22conf%2Fiberspeech%2FGarciaCM21a%22)
+    - [![]()details & citations](https://dblp.org/rec/conf/iberspeech/GarciaCM21a.html)
+  + [![]()](https://dblp.org/rec/conf/iberspeech/GarciaCM21a.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/iberspeech/GarciaCM21a.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/iberspeech/GarciaCM21a.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/iberspeech/GarciaCM21a.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/iberspeech/GarciaCM21a.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/iberspeech/GarciaCM21a.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/iberspeech/GarciaCM21a.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/iberspeech/GarciaCM21a.txt)
+    
+    *dblp key:*
+    
+    - conf/iberspeech/GarciaCM21a
+  + [![]()](https://google.com/search?q=Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+Learning%3A+a+Ph.D.+Thesis+Overview.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+Learning%3A+a+Ph.D.+Thesis+Overview.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+Learning%3A+a+Ph.D.+Thesis+Overview.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+Learning%3A+a+Ph.D.+Thesis+Overview.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+Learning%3A+a+Ph.D.+Thesis+Overview.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+Learning%3A+a+Ph.D.+Thesis+Overview.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=title%3A%28Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+Learning%3A+a+Ph.D.+Thesis+Overview.%29)
+  + [![]()](https://bsky.app/intent/compose?text=%22Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+...%22+at+%23dblp%0Ahttp%3A%2F%2Fwww.isca-speech.org%2Farchive%2FIberSPEECH_2021%2Fpdfs%2F35.pdf)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+...%22+at+%23dblp%0Ahttp%3A%2F%2Fwww.isca-speech.org%2Farchive%2FIberSPEECH_2021%2Fpdfs%2F35.pdf)
+    - [![]()Reddit](https://www.reddit.com/submit?url=http%3A%2F%2Fwww.isca-speech.org%2Farchive%2FIberSPEECH_2021%2Fpdfs%2F35.pdf&title=%22Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+Learning%3A+a+Ph.D.+Thesis+Overview.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=http%3A%2F%2Fwww.isca-speech.org%2Farchive%2FIberSPEECH_2021%2Fpdfs%2F35.pdf)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.isca-speech.org%2Farchive%2FIberSPEECH_2021%2Fpdfs%2F35.pdf&title=%22Design+and+Evaluation+of+Mobile+Computer-Assisted+Pronunciation+Training+Tools+for+Second+Language+Learning%3A+a+Ph.D.+Thesis+Overview.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/iberspeech/GarciaCM21a>[Cristian Tejedor García](https://dblp.org/pid/178/0855.html), [Valentín Cardeñoso-Payo](https://dblp.org/pid/27/3619.html), [David Escudero Mancebo](https://dblp.org/pid/56/4741.html):  
+   Design and Evaluation of Mobile Computer-Assisted Pronunciation Training Tools for Second Language Learning: a Ph.D. Thesis Overview. [IberSPEECH 2021](https://dblp.org/db/conf/iberspeech/iberspeech2021.html#conf/iberspeech/GarciaCM21a)
+* ![]()
+  + [![]()](https://doi.org/10.1145/3482632.3483113)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1145/3482632.3483113)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1145%2F3482632.3483113)
+    - [![]()details & citations](https://dblp.org/rec/conf/iciscae/YinL21.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1145%2F3482632.3483113)[![]()](https://api.openalex.org/works/doi:10.1145%2F3482632.3483113)
+  + [![]()](https://dblp.org/rec/conf/iciscae/YinL21.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/iciscae/YinL21.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/iciscae/YinL21.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/iciscae/YinL21.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/iciscae/YinL21.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/iciscae/YinL21.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/iciscae/YinL21.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/iciscae/YinL21.txt)
+    
+    *dblp key:*
+    
+    - conf/iciscae/YinL21
+  + [![]()](https://google.com/search?q=The+Learning+Tasks+for+Teachers+Based+on+the+Reform+of+Web+and+Computer-assisted+Language+Learning.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=The+Learning+Tasks+for+Teachers+Based+on+the+Reform+of+Web+and+Computer-assisted+Language+Learning.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=The+Learning+Tasks+for+Teachers+Based+on+the+Reform+of+Web+and+Computer-assisted+Language+Learning.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=The+Learning+Tasks+for+Teachers+Based+on+the+Reform+of+Web+and+Computer-assisted+Language+Learning.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=The+Learning+Tasks+for+Teachers+Based+on+the+Reform+of+Web+and+Computer-assisted+Language+Learning.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=The+Learning+Tasks+for+Teachers+Based+on+the+Reform+of+Web+and+Computer-assisted+Language+Learning.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1145%2F3482632.3483113)
+  + [![]()](https://bsky.app/intent/compose?text=%22The+Learning+Tasks+for+Teachers+Based+on+the+Reform+of+Web+and+Computer-assisted+Language+Learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1145%2F3482632.3483113)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22The+Learning+Tasks+for+Teachers+Based+on+the+Reform+of+Web+and+Computer-assisted+Language+Learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1145%2F3482632.3483113)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1145%2F3482632.3483113&title=%22The+Learning+Tasks+for+Teachers+Based+on+the+Reform+of+Web+and+Computer-assisted+Language+Learning.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1145%2F3482632.3483113)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1145%2F3482632.3483113&title=%22The+Learning+Tasks+for+Teachers+Based+on+the+Reform+of+Web+and+Computer-assisted+Language+Learning.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/iciscae/YinL21>[Meina Yin](https://dblp.org/pid/307/6903.html), [Hongjun Liu](https://dblp.org/pid/14/284.html):  
+   The Learning Tasks for Teachers Based on the Reform of Web and Computer-assisted Language Learning. [ICISCAE (ACM) 2021](https://dblp.org/db/conf/iciscae/iciscae2021.html#conf/iciscae/YinL21): 1194-1199
+* 2020
+* ![]()
+  + [![]()](https://doi.org/10.2991/jrnal.k.200909.012)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI (open access)](https://doi.org/10.2991/jrnal.k.200909.012)
+    - [![]()details & citations](https://dblp.org/rec/journals/jrnal/HuangL20.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.2991%2FJRNAL.K.200909.012)[![]()](https://api.openalex.org/works/doi:10.2991%2FJRNAL.K.200909.012)
+  + [![]()](https://dblp.org/rec/journals/jrnal/HuangL20.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/jrnal/HuangL20.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/jrnal/HuangL20.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/jrnal/HuangL20.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/jrnal/HuangL20.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/jrnal/HuangL20.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/jrnal/HuangL20.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/jrnal/HuangL20.txt)
+    
+    *dblp key:*
+    
+    - journals/jrnal/HuangL20
+  + [![]()](https://google.com/search?q=A+Study+of+Applying+Computer-assisted+Language+Learning+to+English+Course+for+Junior+College+Students+in+Taiwan.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=A+Study+of+Applying+Computer-assisted+Language+Learning+to+English+Course+for+Junior+College+Students+in+Taiwan.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=A+Study+of+Applying+Computer-assisted+Language+Learning+to+English+Course+for+Junior+College+Students+in+Taiwan.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=A+Study+of+Applying+Computer-assisted+Language+Learning+to+English+Course+for+Junior+College+Students+in+Taiwan.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=A+Study+of+Applying+Computer-assisted+Language+Learning+to+English+Course+for+Junior+College+Students+in+Taiwan.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=A+Study+of+Applying+Computer-assisted+Language+Learning+to+English+Course+for+Junior+College+Students+in+Taiwan.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.2991%2FJRNAL.K.200909.012)
+  + [![]()](https://bsky.app/intent/compose?text=%22A+Study+of+Applying+Computer-assisted+Language+Learning+to+English+Course+for+Junior+College+Students+in+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.2991%2Fjrnal.k.200909.012)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22A+Study+of+Applying+Computer-assisted+Language+Learning+to+English+Course+for+Junior+College+Students+in+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.2991%2Fjrnal.k.200909.012)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.2991%2Fjrnal.k.200909.012&title=%22A+Study+of+Applying+Computer-assisted+Language+Learning+to+English+Course+for+Junior+College+Students+in+Taiwan.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.2991%2Fjrnal.k.200909.012)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.2991%2Fjrnal.k.200909.012&title=%22A+Study+of+Applying+Computer-assisted+Language+Learning+to+English+Course+for+Junior+College+Students+in+Taiwan.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/jrnal/HuangL20>[Shu-Hua Huang](https://dblp.org/pid/31/11400.html), [I-Hsien Liu](https://dblp.org/pid/138/2228.html)![]():  
+   A Study of Applying Computer-assisted Language Learning to English Course for Junior College Students in Taiwan. [J. Robotics Netw. Artif. Life 7(3)](https://dblp.org/db/journals/jrnal/jrnal7.html#journals/jrnal/HuangL20): 199-203 (2020)
+* ![]()
+  + [![]()](https://www.isca-speech.org/archive/interspeech_2020/shi20_interspeech.html)
+    
+    **view**
+    
+    - [![]()electronic edition @ isca-speech.org (open access)](https://www.isca-speech.org/archive/interspeech_2020/shi20_interspeech.html)
+    - [![]()details & citations](https://dblp.org/rec/conf/interspeech/ShiTDSSVTC20.html)
+  + [![]()](https://dblp.org/rec/conf/interspeech/ShiTDSSVTC20.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/interspeech/ShiTDSSVTC20.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/interspeech/ShiTDSSVTC20.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/interspeech/ShiTDSSVTC20.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/interspeech/ShiTDSSVTC20.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/interspeech/ShiTDSSVTC20.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/interspeech/ShiTDSSVTC20.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/interspeech/ShiTDSSVTC20.txt)
+    
+    *dblp key:*
+    
+    - conf/interspeech/ShiTDSSVTC20
+  + [![]()](https://google.com/search?q=Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+Tamil.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+Tamil.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+Tamil.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+Tamil.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+Tamil.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+Tamil.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=title%3A%28Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+Tamil.%29)
+  + [![]()](https://bsky.app/intent/compose?text=%22Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+...%22+at+%23dblp%0Ahttps%3A%2F%2Fwww.isca-speech.org%2Farchive%2Finterspeech_2020%2Fshi20_interspeech.html)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+...%22+at+%23dblp%0Ahttps%3A%2F%2Fwww.isca-speech.org%2Farchive%2Finterspeech_2020%2Fshi20_interspeech.html)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.isca-speech.org%2Farchive%2Finterspeech_2020%2Fshi20_interspeech.html&title=%22Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+Tamil.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fwww.isca-speech.org%2Farchive%2Finterspeech_2020%2Fshi20_interspeech.html)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.isca-speech.org%2Farchive%2Finterspeech_2020%2Fshi20_interspeech.html&title=%22Computer-Assisted+Language+Learning+System%3A+Automatic+Speech+Evaluation+for+Children+Learning+Malay+and+Tamil.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/interspeech/ShiTDSSVTC20>[Ke Shi](https://dblp.org/pid/12/3948-1.html), [Kye Min Tan](https://dblp.org/pid/263/4893.html), [Richeng Duan](https://dblp.org/pid/153/0707.html), [Siti Umairah Md. Salleh](https://dblp.org/pid/277/3650.html), [Nur Farah Ain Suhaimi](https://dblp.org/pid/277/3453.html), [Rajan Vellu](https://dblp.org/pid/277/3895.html), [Ngoc Thuy Huong Helen Thai](https://dblp.org/pid/277/3789.html), [Nancy F. Chen](https://dblp.org/pid/84/8761.html):  
+   Computer-Assisted Language Learning System: Automatic Speech Evaluation for Children Learning Malay and Tamil. [INTERSPEECH 2020](https://dblp.org/db/conf/interspeech/interspeech2020.html#conf/interspeech/ShiTDSSVTC20): 1019-1020
+* ![]()
+  + [![]()](https://ceur-ws.org/Vol-2629/2_doc_gottschalk.pdf)
+    
+    **view**
+    
+    - [![]()electronic edition @ ceur-ws.org (open access)](https://ceur-ws.org/Vol-2629/2_doc_gottschalk.pdf)
+    - [![]()details & citations](https://dblp.org/rec/conf/persuasive/Gottschalk20.html)
+  + [![]()](https://dblp.org/rec/conf/persuasive/Gottschalk20.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/persuasive/Gottschalk20.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/persuasive/Gottschalk20.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/persuasive/Gottschalk20.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/persuasive/Gottschalk20.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/persuasive/Gottschalk20.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/persuasive/Gottschalk20.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/persuasive/Gottschalk20.txt)
+    
+    *dblp key:*
+    
+    - conf/persuasive/Gottschalk20
+  + [![]()](https://google.com/search?q=Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=title%3A%28Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.%29)
+  + [![]()](https://bsky.app/intent/compose?text=%22Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.%22+at+%23dblp%0Ahttps%3A%2F%2Fceur-ws.org%2FVol-2629%2F2_doc_gottschalk.pdf)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.%22+at+%23dblp%0Ahttps%3A%2F%2Fceur-ws.org%2FVol-2629%2F2_doc_gottschalk.pdf)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fceur-ws.org%2FVol-2629%2F2_doc_gottschalk.pdf&title=%22Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fceur-ws.org%2FVol-2629%2F2_doc_gottschalk.pdf)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fceur-ws.org%2FVol-2629%2F2_doc_gottschalk.pdf&title=%22Persuasive+Corpus-Driven+Computer-Assisted+Language+Learning%3A+On+the+application+of+Emdros.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/persuasive/Gottschalk20>[Johannes Gottschalk](https://dblp.org/pid/268/8260.html):  
+   Persuasive Corpus-Driven Computer-Assisted Language Learning: On the application of Emdros. [PERSUASIVE (Adjunct) 2020](https://dblp.org/db/conf/persuasive/persuasive2020a.html#conf/persuasive/Gottschalk20)
+* ![]()
+  + [![]()](https://arxiv.org/abs/2006.14320)
+    
+    **view**
+    
+    - [![]()electronic edition @ arxiv.org (open access)](https://arxiv.org/abs/2006.14320)
+    - [![]()details & citations](https://dblp.org/rec/journals/corr/abs-2006-14320.html)
+  + [![]()](https://dblp.org/rec/journals/corr/abs-2006-14320.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/corr/abs-2006-14320.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/corr/abs-2006-14320.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/corr/abs-2006-14320.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/corr/abs-2006-14320.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/corr/abs-2006-14320.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/corr/abs-2006-14320.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/corr/abs-2006-14320.txt)
+    
+    *dblp key:*
+    
+    - journals/corr/abs-2006-14320
+  + [![]()](https://google.com/search?q=Analyzing+Effect+of+Repeated+Reading+on+Oral+Fluency+and+Narrative+Production+for+Computer-Assisted+Language+Learning.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Analyzing+Effect+of+Repeated+Reading+on+Oral+Fluency+and+Narrative+Production+for+Computer-Assisted+Language+Learning.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Analyzing+Effect+of+Repeated+Reading+on+Oral+Fluency+and+Narrative+Production+for+Computer-Assisted+Language+Learning.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Analyzing+Effect+of+Repeated+Reading+on+Oral+Fluency+and+Narrative+Production+for+Computer-Assisted+Language+Learning.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Analyzing+Effect+of+Repeated+Reading+on+Oral+Fluency+and+Narrative+Production+for+Computer-Assisted+Language+Learning.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Analyzing+Effect+of+Repeated+Reading+on+Oral+Fluency+and+Narrative+Production+for+Computer-Assisted+Language+Learning.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=arxiv%3A2006.14320)
+  + [![]()](https://bsky.app/intent/compose?text=%22Analyzing+Effect+of+Repeated+Reading+on+Oral+Fluency+and+Narrative+Production+for+Computer-Assisted+...%22+at+%23dblp%0Ahttps%3A%2F%2Farxiv.org%2Fabs%2F2006.14320)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Analyzing+Effect+of+Repeated+Reading+on+Oral+Fluency+and+Narrative+Production+for+Computer-Assisted+...%22+at+%23dblp%0Ahttps%3A%2F%2Farxiv.org%2Fabs%2F2006.14320)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Farxiv.org%2Fabs%2F2006.14320&title=%22Analyzing+Effect+of+Repeated+Reading+on+Oral+Fluency+and+Narrative+Production+for+Computer-Assisted+Language+Learning.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Farxiv.org%2Fabs%2F2006.14320)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Farxiv.org%2Fabs%2F2006.14320&title=%22Analyzing+Effect+of+Repeated+Reading+on+Oral+Fluency+and+Narrative+Production+for+Computer-Assisted+Language+Learning.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/corr/abs-2006-14320>[Santosh Kumar Barnwal](https://dblp.org/pid/210/2658.html), [Uma Shanker Tiwary](https://dblp.org/pid/55/6437.html):  
+   Analyzing Effect of Repeated Reading on Oral Fluency and Narrative Production for Computer-Assisted Language Learning. [CoRR abs/2006.14320](https://dblp.org/db/journals/corr/corr2006.html#journals/corr/abs-2006-14320) (2020)
+* ![]()
+  + [![]()](https://arxiv.org/abs/2010.13901)
+    
+    **view**
+    
+    - [![]()electronic edition @ arxiv.org (open access)](https://arxiv.org/abs/2010.13901)
+    - [![]()details & citations](https://dblp.org/rec/journals/corr/abs-2010-13901.html)
+  + [![]()](https://dblp.org/rec/journals/corr/abs-2010-13901.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/corr/abs-2010-13901.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/corr/abs-2010-13901.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/corr/abs-2010-13901.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/corr/abs-2010-13901.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/corr/abs-2010-13901.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/corr/abs-2010-13901.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/corr/abs-2010-13901.txt)
+    
+    *dblp key:*
+    
+    - journals/corr/abs-2010-13901
+  + [![]()](https://google.com/search?q=An+investigation+of+Modern+Foreign+Language+%28MFL%29+teachers+and+their+cognitions+of+Computer+Assisted+Language+Learning+%28CALL%29+amid+the+COVID-19+health+pandemic.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=An+investigation+of+Modern+Foreign+Language+%28MFL%29+teachers+and+their+cognitions+of+Computer+Assisted+Language+Learning+%28CALL%29+amid+the+COVID-19+health+pandemic.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=An+investigation+of+Modern+Foreign+Language+%28MFL%29+teachers+and+their+cognitions+of+Computer+Assisted+Language+Learning+%28CALL%29+amid+the+COVID-19+health+pandemic.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=An+investigation+of+Modern+Foreign+Language+%28MFL%29+teachers+and+their+cognitions+of+Computer+Assisted+Language+Learning+%28CALL%29+amid+the+COVID-19+health+pandemic.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=An+investigation+of+Modern+Foreign+Language+%28MFL%29+teachers+and+their+cognitions+of+Computer+Assisted+Language+Learning+%28CALL%29+amid+the+COVID-19+health+pandemic.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=An+investigation+of+Modern+Foreign+Language+%28MFL%29+teachers+and+their+cognitions+of+Computer+Assisted+Language+Learning+%28CALL%29+amid+the+COVID-19+health+pandemic.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=arxiv%3A2010.13901)
+  + [![]()](https://bsky.app/intent/compose?text=%22An+investigation+of+Modern+Foreign+Language+%28MFL%29+teachers+and+their+cognitions+of+Computer+Assisted+...%22+at+%23dblp%0Ahttps%3A%2F%2Farxiv.org%2Fabs%2F2010.13901)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22An+investigation+of+Modern+Foreign+Language+%28MFL%29+teachers+and+their+cognitions+of+Computer+Assisted+...%22+at+%23dblp%0Ahttps%3A%2F%2Farxiv.org%2Fabs%2F2010.13901)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Farxiv.org%2Fabs%2F2010.13901&title=%22An+investigation+of+Modern+Foreign+Language+%28MFL%29+teachers+and+their+cognitions+of+Computer+Assisted+Language+Learning+%28CALL%29+amid+the+COVID-19+health+pandemic.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Farxiv.org%2Fabs%2F2010.13901)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Farxiv.org%2Fabs%2F2010.13901&title=%22An+investigation+of+Modern+Foreign+Language+%28MFL%29+teachers+and+their+cognitions+of+Computer+Assisted+Language+Learning+%28CALL%29+amid+the+COVID-19+health+pandemic.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/corr/abs-2010-13901>[Louise Hanna](https://dblp.org/pid/277/4992.html), [David Barr](https://dblp.org/pid/73/2248.html), [Helen Hou](https://dblp.org/pid/277/5304.html), [Shauna McGill](https://dblp.org/pid/277/5150.html):  
+   An investigation of Modern Foreign Language (MFL) teachers and their cognitions of Computer Assisted Language Learning (CALL) amid the COVID-19 health pandemic. [CoRR abs/2010.13901](https://dblp.org/db/journals/corr/corr2010.html#journals/corr/abs-2010-13901) (2020)
+* 2019
+* ![]()
+  + ![]()
+    
+    **no documents available**
+    
+    - [![]()details & citations](https://dblp.org/rec/phd/us/Wang19.html)
+  + [![]()](https://dblp.org/rec/phd/us/Wang19.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/phd/us/Wang19.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/phd/us/Wang19.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/phd/us/Wang19.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/phd/us/Wang19.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/phd/us/Wang19.rdf)
+    - [![]()XML](https://dblp.org/rec/phd/us/Wang19.xml)
+    - [![]()plain text](https://dblp.org/rec/phd/us/Wang19.txt)
+    
+    *dblp key:*
+    
+    - phd/us/Wang19
+  + [![]()](https://google.com/search?q=Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=title%3A%28Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.%29)
+  + [![]()](https://bsky.app/intent/compose?text=%22Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.%22+at+%23dblp%0Ahttps%3A%2F%2Fdblp.org%2Frec%2Fphd%2Fus%2FWang19)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.%22+at+%23dblp%0Ahttps%3A%2F%2Fdblp.org%2Frec%2Fphd%2Fus%2FWang19)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdblp.org%2Frec%2Fphd%2Fus%2FWang19&title=%22Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdblp.org%2Frec%2Fphd%2Fus%2FWang19)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdblp.org%2Frec%2Fphd%2Fus%2FWang19&title=%22Improving+Computer-Assisted+Language+Learning+through+Hierarchical+Knowledge+Structures.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/phd/us/Wang19>[Shuhan Wang](https://dblp.org/pid/92/8493.html):  
+   Improving Computer-Assisted Language Learning through Hierarchical Knowledge Structures. Cornell University, USA, 2019
+* ![]()
+  + [![]()](https://doi.org/10.1016/j.eswa.2019.03.003)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1016/j.eswa.2019.03.003)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1016%2FJ.ESWA.2019.03.003)
+    - [![]()details & citations](https://dblp.org/rec/journals/eswa/TroussasCV19.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1016%2FJ.ESWA.2019.03.003)[![]()](https://api.openalex.org/works/doi:10.1016%2FJ.ESWA.2019.03.003)[![]()](https://www.wikidata.org/entity/Q128280317)
+  + [![]()](https://dblp.org/rec/journals/eswa/TroussasCV19.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/eswa/TroussasCV19.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/eswa/TroussasCV19.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/eswa/TroussasCV19.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/eswa/TroussasCV19.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/eswa/TroussasCV19.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/eswa/TroussasCV19.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/eswa/TroussasCV19.txt)
+    
+    *dblp key:*
+    
+    - journals/eswa/TroussasCV19
+  + [![]()](https://google.com/search?q=An+intelligent+adaptive+fuzzy-based+inference+system+for+computer-assisted+language+learning.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=An+intelligent+adaptive+fuzzy-based+inference+system+for+computer-assisted+language+learning.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=An+intelligent+adaptive+fuzzy-based+inference+system+for+computer-assisted+language+learning.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=An+intelligent+adaptive+fuzzy-based+inference+system+for+computer-assisted+language+learning.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=An+intelligent+adaptive+fuzzy-based+inference+system+for+computer-assisted+language+learning.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=An+intelligent+adaptive+fuzzy-based+inference+system+for+computer-assisted+language+learning.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1016%2FJ.ESWA.2019.03.003)
+  + [![]()](https://bsky.app/intent/compose?text=%22An+intelligent+adaptive+fuzzy-based+inference+system+for+computer-assisted+language+learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1016%2Fj.eswa.2019.03.003)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22An+intelligent+adaptive+fuzzy-based+inference+system+for+computer-assisted+language+learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1016%2Fj.eswa.2019.03.003)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.eswa.2019.03.003&title=%22An+intelligent+adaptive+fuzzy-based+inference+system+for+computer-assisted+language+learning.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.eswa.2019.03.003)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.eswa.2019.03.003&title=%22An+intelligent+adaptive+fuzzy-based+inference+system+for+computer-assisted+language+learning.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/eswa/TroussasCV19>[Christos Troussas](https://dblp.org/pid/12/10247.html)![](), [Konstantina Chrysafiadi](https://dblp.org/pid/57/2707.html), [Maria Virvou](https://dblp.org/pid/35/2047.html)![]():  
+   An intelligent adaptive fuzzy-based inference system for computer-assisted language learning. [Expert Syst. Appl. 127](https://dblp.org/db/journals/eswa/eswa127.html#journals/eswa/TroussasCV19): 85-96 (2019)
+* ![]()
+  + [![]()](https://doi.org/10.3991/ijet.v14i13.10448)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI (open access)](https://doi.org/10.3991/ijet.v14i13.10448)
+    - [![]()details & citations](https://dblp.org/rec/journals/ijet/Prastikawati19.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.3991%2FIJET.V14I13.10448)[![]()](https://api.openalex.org/works/doi:10.3991%2FIJET.V14I13.10448)[![]()](https://www.wikidata.org/entity/Q127438261)
+  + [![]()](https://dblp.org/rec/journals/ijet/Prastikawati19.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/ijet/Prastikawati19.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/ijet/Prastikawati19.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/ijet/Prastikawati19.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/ijet/Prastikawati19.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/ijet/Prastikawati19.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/ijet/Prastikawati19.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/ijet/Prastikawati19.txt)
+    
+    *dblp key:*
+    
+    - journals/ijet/Prastikawati19
+  + [![]()](https://google.com/search?q=Dyned+Programme+as+Computer+Assisted+Language+Learning+%28CALL%29+for+University+Students%3A+A+Perception+and+Its+Impact.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Dyned+Programme+as+Computer+Assisted+Language+Learning+%28CALL%29+for+University+Students%3A+A+Perception+and+Its+Impact.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Dyned+Programme+as+Computer+Assisted+Language+Learning+%28CALL%29+for+University+Students%3A+A+Perception+and+Its+Impact.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Dyned+Programme+as+Computer+Assisted+Language+Learning+%28CALL%29+for+University+Students%3A+A+Perception+and+Its+Impact.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Dyned+Programme+as+Computer+Assisted+Language+Learning+%28CALL%29+for+University+Students%3A+A+Perception+and+Its+Impact.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Dyned+Programme+as+Computer+Assisted+Language+Learning+%28CALL%29+for+University+Students%3A+A+Perception+and+Its+Impact.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.3991%2FIJET.V14I13.10448)
+  + [![]()](https://bsky.app/intent/compose?text=%22Dyned+Programme+as+Computer+Assisted+Language+Learning+%28CALL%29+for+University+Students%3A+A+Perception+and+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.3991%2Fijet.v14i13.10448)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Dyned+Programme+as+Computer+Assisted+Language+Learning+%28CALL%29+for+University+Students%3A+A+Perception+and+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.3991%2Fijet.v14i13.10448)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.3991%2Fijet.v14i13.10448&title=%22Dyned+Programme+as+Computer+Assisted+Language+Learning+%28CALL%29+for+University+Students%3A+A+Perception+and+Its+Impact.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.3991%2Fijet.v14i13.10448)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.3991%2Fijet.v14i13.10448&title=%22Dyned+Programme+as+Computer+Assisted+Language+Learning+%28CALL%29+for+University+Students%3A+A+Perception+and+Its+Impact.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/ijet/Prastikawati19>[Entika Fani Prastikawati](https://dblp.org/pid/259/6722.html)![]():  
+   Dyned Programme as Computer Assisted Language Learning (CALL) for University Students: A Perception and Its Impact. [Int. J. Emerg. Technol. Learn. 14(13)](https://dblp.org/db/journals/ijet/ijet14.html#journals/ijet/Prastikawati19): 4-20 (2019)
+* ![]()
+  + [![]()](https://doi.org/10.4018/IJICTE.2019070105)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.4018/IJICTE.2019070105)
+    - [![]()unpaywalled version](https://unpaywall.org/10.4018%2FIJICTE.2019070105)
+    - [![]()details & citations](https://dblp.org/rec/journals/ijicte/TafazoliMA19.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.4018%2FIJICTE.2019070105)[![]()](https://api.openalex.org/works/doi:10.4018%2FIJICTE.2019070105)
+  + [![]()](https://dblp.org/rec/journals/ijicte/TafazoliMA19.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/ijicte/TafazoliMA19.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/ijicte/TafazoliMA19.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/ijicte/TafazoliMA19.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/ijicte/TafazoliMA19.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/ijicte/TafazoliMA19.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/ijicte/TafazoliMA19.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/ijicte/TafazoliMA19.txt)
+    
+    *dblp key:*
+    
+    - journals/ijicte/TafazoliMA19
+  + [![]()](https://google.com/search?q=Intelligent+Language+Tutoring+System%3A+Integrating+Intelligent+Computer-Assisted+Language+Learning+Into+Language+Education.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Intelligent+Language+Tutoring+System%3A+Integrating+Intelligent+Computer-Assisted+Language+Learning+Into+Language+Education.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Intelligent+Language+Tutoring+System%3A+Integrating+Intelligent+Computer-Assisted+Language+Learning+Into+Language+Education.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Intelligent+Language+Tutoring+System%3A+Integrating+Intelligent+Computer-Assisted+Language+Learning+Into+Language+Education.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Intelligent+Language+Tutoring+System%3A+Integrating+Intelligent+Computer-Assisted+Language+Learning+Into+Language+Education.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Intelligent+Language+Tutoring+System%3A+Integrating+Intelligent+Computer-Assisted+Language+Learning+Into+Language+Education.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.4018%2FIJICTE.2019070105)
+  + [![]()](https://bsky.app/intent/compose?text=%22Intelligent+Language+Tutoring+System%3A+Integrating+Intelligent+Computer-Assisted+Language+Learning+Into+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.4018%2FIJICTE.2019070105)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Intelligent+Language+Tutoring+System%3A+Integrating+Intelligent+Computer-Assisted+Language+Learning+Into+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.4018%2FIJICTE.2019070105)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.4018%2FIJICTE.2019070105&title=%22Intelligent+Language+Tutoring+System%3A+Integrating+Intelligent+Computer-Assisted+Language+Learning+Into+Language+Education.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.4018%2FIJICTE.2019070105)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.4018%2FIJICTE.2019070105&title=%22Intelligent+Language+Tutoring+System%3A+Integrating+Intelligent+Computer-Assisted+Language+Learning+Into+Language+Education.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/ijicte/TafazoliMA19>[Dara Tafazoli](https://dblp.org/pid/229/4560.html)![](), [Elena Gómez María](https://dblp.org/pid/248/5736.html)![](), [Cristina A. Huertas Abril](https://dblp.org/pid/248/5854.html)![]():  
+   Intelligent Language Tutoring System: Integrating Intelligent Computer-Assisted Language Learning Into Language Education. [Int. J. Inf. Commun. Technol. Educ. 15(3)](https://dblp.org/db/journals/ijicte/ijicte15.html#journals/ijicte/TafazoliMA19): 60-74 (2019)
+* ![]()
+  + [![]()](https://doi.org/10.1109/ICCSE.2019.8845488)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1109/ICCSE.2019.8845488)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1109%2FICCSE.2019.8845488)
+    - [![]()details & citations](https://dblp.org/rec/conf/iccse2/SeneviratneSHB19.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1109%2FICCSE.2019.8845488)[![]()](https://api.openalex.org/works/doi:10.1109%2FICCSE.2019.8845488)
+  + [![]()](https://dblp.org/rec/conf/iccse2/SeneviratneSHB19.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/iccse2/SeneviratneSHB19.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/iccse2/SeneviratneSHB19.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/iccse2/SeneviratneSHB19.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/iccse2/SeneviratneSHB19.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/iccse2/SeneviratneSHB19.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/iccse2/SeneviratneSHB19.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/iccse2/SeneviratneSHB19.txt)
+    
+    *dblp key:*
+    
+    - conf/iccse2/SeneviratneSHB19
+  + [![]()](https://google.com/search?q=Computer+Assisted+Language+Learning+for+Syllable-time+Language+Exposed+Adults+who+are+Learning+a+new+Stress-Time+Language.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Computer+Assisted+Language+Learning+for+Syllable-time+Language+Exposed+Adults+who+are+Learning+a+new+Stress-Time+Language.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Computer+Assisted+Language+Learning+for+Syllable-time+Language+Exposed+Adults+who+are+Learning+a+new+Stress-Time+Language.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Computer+Assisted+Language+Learning+for+Syllable-time+Language+Exposed+Adults+who+are+Learning+a+new+Stress-Time+Language.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Computer+Assisted+Language+Learning+for+Syllable-time+Language+Exposed+Adults+who+are+Learning+a+new+Stress-Time+Language.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Computer+Assisted+Language+Learning+for+Syllable-time+Language+Exposed+Adults+who+are+Learning+a+new+Stress-Time+Language.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1109%2FICCSE.2019.8845488)
+  + [![]()](https://bsky.app/intent/compose?text=%22Computer+Assisted+Language+Learning+for+Syllable-time+Language+Exposed+Adults+who+are+Learning+a+new+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1109%2FICCSE.2019.8845488)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Computer+Assisted+Language+Learning+for+Syllable-time+Language+Exposed+Adults+who+are+Learning+a+new+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1109%2FICCSE.2019.8845488)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1109%2FICCSE.2019.8845488&title=%22Computer+Assisted+Language+Learning+for+Syllable-time+Language+Exposed+Adults+who+are+Learning+a+new+Stress-Time+Language.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1109%2FICCSE.2019.8845488)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1109%2FICCSE.2019.8845488&title=%22Computer+Assisted+Language+Learning+for+Syllable-time+Language+Exposed+Adults+who+are+Learning+a+new+Stress-Time+Language.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/iccse2/SeneviratneSHB19>[Sena Seneviratne](https://dblp.org/pid/80/4101.html), [Liyanage C. De Silva](https://dblp.org/pid/13/2401.html), [Jie Hu](https://dblp.org/pid/90/5064-20.html)![](), [Judith Beveridge](https://dblp.org/pid/249/6652.html):  
+   Computer Assisted Language Learning for Syllable-time Language Exposed Adults who are Learning a new Stress-Time Language. [ICCSE 2019](https://dblp.org/db/conf/iccse2/iccse2019.html#conf/iccse2/SeneviratneSHB19): 561-566
+* 2018
+* ![]()
+  + [![]()](https://doi.org/10.1016/j.csl.2018.03.001)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1016/j.csl.2018.03.001)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1016%2FJ.CSL.2018.03.001)
+    - [![]()details & citations](https://dblp.org/rec/journals/csl/SuTJV18.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1016%2FJ.CSL.2018.03.001)[![]()](https://api.openalex.org/works/doi:10.1016%2FJ.CSL.2018.03.001)
+  + [![]()](https://dblp.org/rec/journals/csl/SuTJV18.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/csl/SuTJV18.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/csl/SuTJV18.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/csl/SuTJV18.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/csl/SuTJV18.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/csl/SuTJV18.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/csl/SuTJV18.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/csl/SuTJV18.txt)
+    
+    *dblp key:*
+    
+    - journals/csl/SuTJV18
+  + [![]()](https://google.com/search?q=A+hierarchical+linguistic+information-based+model+of+English+prosody%3A+L2+data+analysis+and+implications+for+computer-assisted+language+learning.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=A+hierarchical+linguistic+information-based+model+of+English+prosody%3A+L2+data+analysis+and+implications+for+computer-assisted+language+learning.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=A+hierarchical+linguistic+information-based+model+of+English+prosody%3A+L2+data+analysis+and+implications+for+computer-assisted+language+learning.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=A+hierarchical+linguistic+information-based+model+of+English+prosody%3A+L2+data+analysis+and+implications+for+computer-assisted+language+learning.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=A+hierarchical+linguistic+information-based+model+of+English+prosody%3A+L2+data+analysis+and+implications+for+computer-assisted+language+learning.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=A+hierarchical+linguistic+information-based+model+of+English+prosody%3A+L2+data+analysis+and+implications+for+computer-assisted+language+learning.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1016%2FJ.CSL.2018.03.001)
+  + [![]()](https://bsky.app/intent/compose?text=%22A+hierarchical+linguistic+information-based+model+of+English+prosody%3A+L2+data+analysis+and+implications+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1016%2Fj.csl.2018.03.001)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22A+hierarchical+linguistic+information-based+model+of+English+prosody%3A+L2+data+analysis+and+implications+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1016%2Fj.csl.2018.03.001)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.csl.2018.03.001&title=%22A+hierarchical+linguistic+information-based+model+of+English+prosody%3A+L2+data+analysis+and+implications+for+computer-assisted+language+learning.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.csl.2018.03.001)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.csl.2018.03.001&title=%22A+hierarchical+linguistic+information-based+model+of+English+prosody%3A+L2+data+analysis+and+implications+for+computer-assisted+language+learning.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/csl/SuTJV18>[Chao-yu Su](https://dblp.org/pid/125/2801.html)![](), [Chiu-yu Tseng](https://dblp.org/pid/24/5410.html), [Jyh-Shing Roger Jang](https://dblp.org/pid/81/829.html), [Tanya Visceglia](https://dblp.org/pid/93/9238.html):  
+   A hierarchical linguistic information-based model of English prosody: L2 data analysis and implications for computer-assisted language learning. [Comput. Speech Lang. 51](https://dblp.org/db/journals/csl/csl51.html#journals/csl/SuTJV18): 44-67 (2018)
+* ![]()
+  + [![]()](https://doi.org/10.3991/ijet.v13i11.8542)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI (open access)](https://doi.org/10.3991/ijet.v13i11.8542)
+    - [![]()details & citations](https://dblp.org/rec/journals/ijet/Bai18.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.3991%2FIJET.V13I11.8542)[![]()](https://api.openalex.org/works/doi:10.3991%2FIJET.V13I11.8542)[![]()](https://www.wikidata.org/entity/Q128962639)
+  + [![]()](https://dblp.org/rec/journals/ijet/Bai18.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/ijet/Bai18.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/ijet/Bai18.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/ijet/Bai18.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/ijet/Bai18.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/ijet/Bai18.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/ijet/Bai18.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/ijet/Bai18.txt)
+    
+    *dblp key:*
+    
+    - journals/ijet/Bai18
+  + [![]()](https://google.com/search?q=On+Modern+Computer+Assisted+Language+Learning+Facilities+and+its+Integrated+Teaching.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=On+Modern+Computer+Assisted+Language+Learning+Facilities+and+its+Integrated+Teaching.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=On+Modern+Computer+Assisted+Language+Learning+Facilities+and+its+Integrated+Teaching.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=On+Modern+Computer+Assisted+Language+Learning+Facilities+and+its+Integrated+Teaching.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=On+Modern+Computer+Assisted+Language+Learning+Facilities+and+its+Integrated+Teaching.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=On+Modern+Computer+Assisted+Language+Learning+Facilities+and+its+Integrated+Teaching.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.3991%2FIJET.V13I11.8542)
+  + [![]()](https://bsky.app/intent/compose?text=%22On+Modern+Computer+Assisted+Language+Learning+Facilities+and+its+Integrated+Teaching.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.3991%2Fijet.v13i11.8542)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22On+Modern+Computer+Assisted+Language+Learning+Facilities+and+its+Integrated+Teaching.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.3991%2Fijet.v13i11.8542)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.3991%2Fijet.v13i11.8542&title=%22On+Modern+Computer+Assisted+Language+Learning+Facilities+and+its+Integrated+Teaching.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.3991%2Fijet.v13i11.8542)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.3991%2Fijet.v13i11.8542&title=%22On+Modern+Computer+Assisted+Language+Learning+Facilities+and+its+Integrated+Teaching.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/ijet/Bai18>[Yucheng Bai](https://dblp.org/pid/54/8714.html):  
+   On Modern Computer Assisted Language Learning Facilities and its Integrated Teaching. [Int. J. Emerg. Technol. Learn. 13(11)](https://dblp.org/db/journals/ijet/ijet13.html#journals/ijet/Bai18): 225-231 (2018)
+* ![]()
+  + [![]()](https://doi.org/10.1504/IJLT.2018.095963)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1504/IJLT.2018.095963)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1504%2FIJLT.2018.095963)
+    - [![]()details & citations](https://dblp.org/rec/journals/ijlt/BoronaTT18.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1504%2FIJLT.2018.095963)[![]()](https://api.openalex.org/works/doi:10.1504%2FIJLT.2018.095963)[![]()](https://www.wikidata.org/entity/Q128978176)
+  + [![]()](https://dblp.org/rec/journals/ijlt/BoronaTT18.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/ijlt/BoronaTT18.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/ijlt/BoronaTT18.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/ijlt/BoronaTT18.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/ijlt/BoronaTT18.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/ijlt/BoronaTT18.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/ijlt/BoronaTT18.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/ijlt/BoronaTT18.txt)
+    
+    *dblp key:*
+    
+    - journals/ijlt/BoronaTT18
+  + [![]()](https://google.com/search?q=The+use+of+3D+multi-user+virtual+environments+in+computer+assisted+second+language+learning%3A+a+systematic+literature+review.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=The+use+of+3D+multi-user+virtual+environments+in+computer+assisted+second+language+learning%3A+a+systematic+literature+review.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=The+use+of+3D+multi-user+virtual+environments+in+computer+assisted+second+language+learning%3A+a+systematic+literature+review.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=The+use+of+3D+multi-user+virtual+environments+in+computer+assisted+second+language+learning%3A+a+systematic+literature+review.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=The+use+of+3D+multi-user+virtual+environments+in+computer+assisted+second+language+learning%3A+a+systematic+literature+review.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=The+use+of+3D+multi-user+virtual+environments+in+computer+assisted+second+language+learning%3A+a+systematic+literature+review.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1504%2FIJLT.2018.095963)
+  + [![]()](https://bsky.app/intent/compose?text=%22The+use+of+3D+multi-user+virtual+environments+in+computer+assisted+second+language+learning%3A+a+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1504%2FIJLT.2018.095963)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22The+use+of+3D+multi-user+virtual+environments+in+computer+assisted+second+language+learning%3A+a+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1504%2FIJLT.2018.095963)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1504%2FIJLT.2018.095963&title=%22The+use+of+3D+multi-user+virtual+environments+in+computer+assisted+second+language+learning%3A+a+systematic+literature+review.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1504%2FIJLT.2018.095963)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1504%2FIJLT.2018.095963&title=%22The+use+of+3D+multi-user+virtual+environments+in+computer+assisted+second+language+learning%3A+a+systematic+literature+review.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/ijlt/BoronaTT18>[Stefania Borona](https://dblp.org/pid/236/1860.html), [Efthimios Tambouris](https://dblp.org/pid/50/1298.html), [Konstantinos A. Tarabanis](https://dblp.org/pid/53/6933.html)![]():  
+   The use of 3D multi-user virtual environments in computer assisted second language learning: a systematic literature review. [Int. J. Learn. Technol. 13(3)](https://dblp.org/db/journals/ijlt/ijlt13.html#journals/ijlt/BoronaTT18): 249-274 (2018)
+* ![]()
+  + [![]()](https://doi.org/10.1186/s41039-018-0087-7)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI (open access)](https://doi.org/10.1186/s41039-018-0087-7)
+    - [![]()details & citations](https://dblp.org/rec/journals/rptel/LiFKO18.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1186%2FS41039-018-0087-7)[![]()](https://api.openalex.org/works/doi:10.1186%2FS41039-018-0087-7)[![]()](https://www.wikidata.org/entity/Q60307908)
+  + [![]()](https://dblp.org/rec/journals/rptel/LiFKO18.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/journals/rptel/LiFKO18.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/journals/rptel/LiFKO18.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/journals/rptel/LiFKO18.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/journals/rptel/LiFKO18.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/journals/rptel/LiFKO18.rdf)
+    - [![]()XML](https://dblp.org/rec/journals/rptel/LiFKO18.xml)
+    - [![]()plain text](https://dblp.org/rec/journals/rptel/LiFKO18.txt)
+    
+    *dblp key:*
+    
+    - journals/rptel/LiFKO18
+  + [![]()](https://google.com/search?q=Measuring+Behaviors+and+Identifying+Indicators+of+Self-Regulation+in+Computer-Assisted+Language+Learning+Courses.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Measuring+Behaviors+and+Identifying+Indicators+of+Self-Regulation+in+Computer-Assisted+Language+Learning+Courses.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Measuring+Behaviors+and+Identifying+Indicators+of+Self-Regulation+in+Computer-Assisted+Language+Learning+Courses.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Measuring+Behaviors+and+Identifying+Indicators+of+Self-Regulation+in+Computer-Assisted+Language+Learning+Courses.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Measuring+Behaviors+and+Identifying+Indicators+of+Self-Regulation+in+Computer-Assisted+Language+Learning+Courses.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Measuring+Behaviors+and+Identifying+Indicators+of+Self-Regulation+in+Computer-Assisted+Language+Learning+Courses.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1186%2FS41039-018-0087-7)
+  + [![]()](https://bsky.app/intent/compose?text=%22Measuring+Behaviors+and+Identifying+Indicators+of+Self-Regulation+in+Computer-Assisted+Language+Learning+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1186%2Fs41039-018-0087-7)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Measuring+Behaviors+and+Identifying+Indicators+of+Self-Regulation+in+Computer-Assisted+Language+Learning+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1186%2Fs41039-018-0087-7)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1186%2Fs41039-018-0087-7&title=%22Measuring+Behaviors+and+Identifying+Indicators+of+Self-Regulation+in+Computer-Assisted+Language+Learning+Courses.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1186%2Fs41039-018-0087-7)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1186%2Fs41039-018-0087-7&title=%22Measuring+Behaviors+and+Identifying+Indicators+of+Self-Regulation+in+Computer-Assisted+Language+Learning+Courses.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/journals/rptel/LiFKO18>[Huiyong Li](https://dblp.org/pid/48/8327-2.html)![](), [Brendan Flanagan](https://dblp.org/pid/85/11242.html), [Shin'ichi Konomi](https://dblp.org/pid/k/ShinichiKonomi.html)![](), [Hiroaki Ogata](https://dblp.org/pid/35/872.html):  
+   Measuring Behaviors and Identifying Indicators of Self-Regulation in Computer-Assisted Language Learning Courses. [Res. Pract. Technol. Enhanc. Learn. 13(1)](https://dblp.org/db/journals/rptel/rptel13.html#journals/rptel/LiFKO18): 19 (2018)
+* ![]()
+  + [![]()](https://doi.org/10.1007/978-3-319-94361-9_2)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1007/978-3-319-94361-9_2)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1007%2F978-3-319-94361-9_2)
+    - [![]()details & citations](https://dblp.org/rec/conf/aims2/LiWLXLC18.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1007%2F978-3-319-94361-9_2)[![]()](https://api.openalex.org/works/doi:10.1007%2F978-3-319-94361-9_2)
+  + [![]()](https://dblp.org/rec/conf/aims2/LiWLXLC18.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/aims2/LiWLXLC18.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/aims2/LiWLXLC18.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/aims2/LiWLXLC18.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/aims2/LiWLXLC18.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/aims2/LiWLXLC18.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/aims2/LiWLXLC18.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/aims2/LiWLXLC18.txt)
+    
+    *dblp key:*
+    
+    - conf/aims2/LiWLXLC18
+  + [![]()](https://google.com/search?q=Multi-modal+Multi-scale+Speech+Expression+Evaluation+in+Computer-Assisted+Language+Learning.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Multi-modal+Multi-scale+Speech+Expression+Evaluation+in+Computer-Assisted+Language+Learning.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Multi-modal+Multi-scale+Speech+Expression+Evaluation+in+Computer-Assisted+Language+Learning.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Multi-modal+Multi-scale+Speech+Expression+Evaluation+in+Computer-Assisted+Language+Learning.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Multi-modal+Multi-scale+Speech+Expression+Evaluation+in+Computer-Assisted+Language+Learning.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Multi-modal+Multi-scale+Speech+Expression+Evaluation+in+Computer-Assisted+Language+Learning.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1007%2F978-3-319-94361-9_2)
+  + [![]()](https://bsky.app/intent/compose?text=%22Multi-modal+Multi-scale+Speech+Expression+Evaluation+in+Computer-Assisted+Language+Learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1007%2F978-3-319-94361-9_2)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Multi-modal+Multi-scale+Speech+Expression+Evaluation+in+Computer-Assisted+Language+Learning.%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1007%2F978-3-319-94361-9_2)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-319-94361-9_2&title=%22Multi-modal+Multi-scale+Speech+Expression+Evaluation+in+Computer-Assisted+Language+Learning.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-319-94361-9_2)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-319-94361-9_2&title=%22Multi-modal+Multi-scale+Speech+Expression+Evaluation+in+Computer-Assisted+Language+Learning.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/aims2/LiWLXLC18>[Jingbei Li](https://dblp.org/pid/221/5676.html), [Zhiyong Wu](https://dblp.org/pid/24/968-1.html), [Runnan Li](https://dblp.org/pid/195/8131.html), [Mingxing Xu](https://dblp.org/pid/67/7820.html), [Kehua Lei](https://dblp.org/pid/216/3932.html), [Lianhong Cai](https://dblp.org/pid/13/5576.html):  
+   Multi-modal Multi-scale Speech Expression Evaluation in Computer-Assisted Language Learning. [AIMS 2018](https://dblp.org/db/conf/aims2/aims2018.html#conf/aims2/LiWLXLC18): 16-28
+* ![]()
+  + [![]()](https://doi.org/10.21437/Interspeech.2018-1425)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI (open access)](https://doi.org/10.21437/Interspeech.2018-1425)
+    - [![]()details & citations](https://dblp.org/rec/conf/interspeech/WuCNI18.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.21437%2FINTERSPEECH.2018-1425)[![]()](https://api.openalex.org/works/doi:10.21437%2FINTERSPEECH.2018-1425)
+  + [![]()](https://dblp.org/rec/conf/interspeech/WuCNI18.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/interspeech/WuCNI18.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/interspeech/WuCNI18.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/interspeech/WuCNI18.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/interspeech/WuCNI18.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/interspeech/WuCNI18.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/interspeech/WuCNI18.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/interspeech/WuCNI18.txt)
+    
+    *dblp key:*
+    
+    - conf/interspeech/WuCNI18
+  + [![]()](https://google.com/search?q=Analyzing+Effect+of+Physical+Expression+on+English+Proficiency+for+Multimodal+Computer-Assisted+Language+Learning.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Analyzing+Effect+of+Physical+Expression+on+English+Proficiency+for+Multimodal+Computer-Assisted+Language+Learning.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Analyzing+Effect+of+Physical+Expression+on+English+Proficiency+for+Multimodal+Computer-Assisted+Language+Learning.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Analyzing+Effect+of+Physical+Expression+on+English+Proficiency+for+Multimodal+Computer-Assisted+Language+Learning.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Analyzing+Effect+of+Physical+Expression+on+English+Proficiency+for+Multimodal+Computer-Assisted+Language+Learning.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Analyzing+Effect+of+Physical+Expression+on+English+Proficiency+for+Multimodal+Computer-Assisted+Language+Learning.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.21437%2FINTERSPEECH.2018-1425)
+  + [![]()](https://bsky.app/intent/compose?text=%22Analyzing+Effect+of+Physical+Expression+on+English+Proficiency+for+Multimodal+Computer-Assisted+Language+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.21437%2FInterspeech.2018-1425)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Analyzing+Effect+of+Physical+Expression+on+English+Proficiency+for+Multimodal+Computer-Assisted+Language+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.21437%2FInterspeech.2018-1425)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.21437%2FInterspeech.2018-1425&title=%22Analyzing+Effect+of+Physical+Expression+on+English+Proficiency+for+Multimodal+Computer-Assisted+Language+Learning.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.21437%2FInterspeech.2018-1425)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.21437%2FInterspeech.2018-1425&title=%22Analyzing+Effect+of+Physical+Expression+on+English+Proficiency+for+Multimodal+Computer-Assisted+Language+Learning.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/interspeech/WuCNI18>[Haoran Wu](https://dblp.org/pid/19/4036.html), [Yuya Chiba](https://dblp.org/pid/120/6490.html), [Takashi Nose](https://dblp.org/pid/83/3783.html)![](), [Akinori Ito](https://dblp.org/pid/46/2287.html)![]():  
+   Analyzing Effect of Physical Expression on English Proficiency for Multimodal Computer-Assisted Language Learning. [INTERSPEECH 2018](https://dblp.org/db/conf/interspeech/interspeech2018.html#conf/interspeech/WuCNI18): 1746-1750
+* ![]()
+  + [![]()](https://doi.org/10.1007/978-3-319-98872-6_11)
+    
+    **view**
+    
+    - [![]()electronic edition via DOI](https://doi.org/10.1007/978-3-319-98872-6_11)
+    - [![]()unpaywalled version](https://unpaywall.org/10.1007%2F978-3-319-98872-6_11)
+    - [![]()details & citations](https://dblp.org/rec/conf/mis4tel/BaranielloLN18.html)
+    
+    *authority control:*
+    
+    - [![]()](https://api.crossref.org/works/10.1007%2F978-3-319-98872-6_11)[![]()](https://api.openalex.org/works/doi:10.1007%2F978-3-319-98872-6_11)
+  + [![]()](https://dblp.org/rec/conf/mis4tel/BaranielloLN18.html?view=bibtex)
+    
+    **export record**
+    
+    - [![]()BibTeX](https://dblp.org/rec/conf/mis4tel/BaranielloLN18.html?view=bibtex)
+    - [![]()RIS](https://dblp.org/rec/conf/mis4tel/BaranielloLN18.ris)
+    - [![]()RDF N-Triples](https://dblp.org/rec/conf/mis4tel/BaranielloLN18.nt)
+    - [![]()RDF Turtle](https://dblp.org/rec/conf/mis4tel/BaranielloLN18.ttl)
+    - [![]()RDF/XML](https://dblp.org/rec/conf/mis4tel/BaranielloLN18.rdf)
+    - [![]()XML](https://dblp.org/rec/conf/mis4tel/BaranielloLN18.xml)
+    - [![]()plain text](https://dblp.org/rec/conf/mis4tel/BaranielloLN18.txt)
+    
+    *dblp key:*
+    
+    - conf/mis4tel/BaranielloLN18
+  + [![]()](https://google.com/search?q=Collaborative+Language+Learning+Through+Computer-Assisted+Translation+on+a+Wiki-Based+Platform%3A+Operations+and+Management.)
+    
+    **ask others**
+    
+    - [![]()Google](https://google.com/search?q=Collaborative+Language+Learning+Through+Computer-Assisted+Translation+on+a+Wiki-Based+Platform%3A+Operations+and+Management.)
+    - [![]()Google Scholar](https://scholar.google.com/scholar?q=Collaborative+Language+Learning+Through+Computer-Assisted+Translation+on+a+Wiki-Based+Platform%3A+Operations+and+Management.)
+    - [![]()Semantic Scholar](https://www.semanticscholar.org/search?q=Collaborative+Language+Learning+Through+Computer-Assisted+Translation+on+a+Wiki-Based+Platform%3A+Operations+and+Management.)
+    - [![]()Internet Archive Scholar](https://scholar.archive.org/search?q=Collaborative+Language+Learning+Through+Computer-Assisted+Translation+on+a+Wiki-Based+Platform%3A+Operations+and+Management.)
+    - [![]()CiteSeerX](https://citeseerx.ist.psu.edu/search_result?query=Collaborative+Language+Learning+Through+Computer-Assisted+Translation+on+a+Wiki-Based+Platform%3A+Operations+and+Management.)
+    - [![]()PubPeer](https://www.pubpeer.com/search?q=doi%3A10.1007%2F978-3-319-98872-6_11)
+  + [![]()](https://bsky.app/intent/compose?text=%22Collaborative+Language+Learning+Through+Computer-Assisted+Translation+on+a+Wiki-Based+Platform%3A+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1007%2F978-3-319-98872-6_11)
+    
+    **share record**
+    
+    - [![]()Bluesky](https://bsky.app/intent/compose?text=%22Collaborative+Language+Learning+Through+Computer-Assisted+Translation+on+a+Wiki-Based+Platform%3A+...%22+at+%23dblp%0Ahttps%3A%2F%2Fdoi.org%2F10.1007%2F978-3-319-98872-6_11)
+    - [![]()Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-319-98872-6_11&title=%22Collaborative+Language+Learning+Through+Computer-Assisted+Translation+on+a+Wiki-Based+Platform%3A+Operations+and+Management.%22)
+    - [![]()BibSonomy](https://www.bibsonomy.org/editPublication?url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-319-98872-6_11)
+    - [![]()LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-319-98872-6_11&title=%22Collaborative+Language+Learning+Through+Computer-Assisted+Translation+on+a+Wiki-Based+Platform%3A+Operations+and+Management.%22&source=dblp+computer+science+bibliography)
+    
+    *persistent URL:*
+    
+    - <https://dblp.org/rec/conf/mis4tel/BaranielloLN18>[Vincenzo Baraniello](https://dblp.org/pid/132/9595.html), [Luigi Laura](https://dblp.org/pid/l/LuigiLaura.html)![](), [Maurizio Naldi](https://dblp.org/pid/01/64.html):  
+   Collaborative Language Learning Through Computer-Assisted Translation on a Wiki-Based Platform: Operations and Management. [MIS4TEL 2018](https://dblp.org/db/conf/mis4tel/mis4tel2018.html#conf/mis4tel/BaranielloLN18): 88-96
+
+*skipping 124 more matches*
+
+[[next >>]](https://dblp.org/search/publ/inc?q=Computer+Assisted+Language+Learning&s=ydvspcc&h=30&b=1)
+
+*loading more results*   ![]()
+
+failed to load more results, please try again later
+
+![]()
+
+**manage site settings**
+
+To protect your privacy, all features that rely on external API calls from your browser are *turned off by default*. You need to opt-in for them to become active. All settings here will be stored as cookies with your web browser. For more information [see our F.A.Q.](https://dblp.org/faq/15696107)
+
+*Unpaywalled article links*
+
+Add open access links from [![]()](https://unpaywall.org) to the list of external document links (if available).
+
+**load links from unpaywall.org**
+
+Privacy notice: By enabling the option above, your browser will contact the API of *unpaywall.org* to load hyperlinks to open access articles. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the [Unpaywall privacy policy](http://unpaywall.org/legal/privacy).
+
+*Archived links via Wayback Machine*
+
+For web page which are no longer available, try to retrieve content from the [![]()](https://web.archive.org) of the Internet Archive (if available).
+
+**load content from archive.org**
+
+Privacy notice: By enabling the option above, your browser will contact the API of *archive.org* to check for archived content of web pages that are no longer available. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the [Internet Archive privacy policy](https://archive.org/about/terms.php).
+
+*Reference lists*
+
+Add a list of references from [![]()](https://crossref.org), [![]()](https://opencitations.net), and [![]()](https://semanticscholar.org) to record detail pages.
+
+**load references from crossref.org and opencitations.net**
+
+Privacy notice: By enabling the option above, your browser will contact the APIs of *crossref.org*, *opencitations.net*, and *semanticscholar.org* to load article reference information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the [Crossref privacy policy](https://www.crossref.org/privacy/) and the [OpenCitations privacy policy](https://opencitations.net/about), as well as the [AI2 Privacy Policy](https://allenai.org/privacy-policy) covering Semantic Scholar.
+
+*Citation data*
+
+Add a list of citing articles from [![]()](https://opencitations.net) and [![]()](https://semanticscholar.org) to record detail pages.
+
+**load citations from opencitations.net**
+
+Privacy notice: By enabling the option above, your browser will contact the API of *opencitations.net* and *semanticscholar.org* to load citation information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the [OpenCitations privacy policy](https://opencitations.net/about) as well as the [AI2 Privacy Policy](https://allenai.org/privacy-policy) covering Semantic Scholar.
+
+*OpenAlex data*
+
+Load additional information about publications from [![]()](https://openalex.org).
+
+**load data from openalex.org**
+
+Privacy notice: By enabling the option above, your browser will contact the API of *openalex.org* to load additional information. Although we do not have any reason to believe that your call will be tracked, we do not have any control over how the remote server uses your data. So please proceed with care and consider checking the information given by [OpenAlex](https://openalex.org/about).
+
+
+
+![]() retrieved on 2026-04-05 02:46 CEST from data curated by the [dblp team](https://dblp.org/db/about/team.html)
+
+[![]()](https://creativecommons.org/publicdomain/zero/1.0/) all metadata released as [open data](https://opendefinition.org/) under [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/)
+
+see also: [Terms of Use](https://dblp.org/db/about/copyright.html) | [Privacy Policy](https://dblp.org/db/about/privacy.html) | [Imprint](https://dblp.org/db/about/imprint.html)
+
+dblp was originally created in 1993 at:
+
+[![]()](https://www.uni-trier.de/en/)   
+
+since 2018, dblp has been operated and maintained by:
+
+[![]()](https://www.dagstuhl.de/en/)   
+
+the dblp computer science bibliography is funded and supported by:
+
+[![]()](https://www.bmftr.bund.de)   [![]()](https://mwg.rlp.de/)   [![]()](https://www.saarland.de/stk/DE/home/home_node.html)   [![]()](https://www.leibniz-gemeinschaft.de/en/)   [![]()](https://www.dfg.de/en/)   [![]()](https://www.nfdi.de/?lang=en)   
+
+
+

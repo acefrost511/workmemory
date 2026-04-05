@@ -1,0 +1,186 @@
+{
+  "jobs": [
+    {
+      "id": "intel-staggered-0330",
+      "name": "情报-每日03:30 intel_01（Computers & Education）",
+      "schedule": {
+        "type": "expr",
+        "expr": "30 3 * * *"
+      },
+      "enabled": true,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：Computers & Education。读取 agents/intel_01/SOUL.md 并完整执行。超时：180秒。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0350",
+      "name": "情报-每日03:50 intel_02（BJET）",
+      "schedule": {
+        "type": "expr",
+        "expr": "50 3 * * *"
+      },
+      "enabled": true,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：BJET。读取 agents/intel_02/SOUL.md 并完整执行。超时：180秒。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0410",
+      "name": "情报-每日04:10 intel_03（EAIT）",
+      "schedule": {
+        "type": "expr",
+        "expr": "10 4 * * *"
+      },
+      "enabled": false,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：Education and Information Technologies。读取 agents/intel_03/SOUL.md 并完整执行。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0430",
+      "name": "情报-每日04:30 intel_04（ILE）",
+      "schedule": {
+        "type": "expr",
+        "expr": "30 4 * * *"
+      },
+      "enabled": false,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：Interactive Learning Environments。读取 agents/intel_04/SOUL.md 并完整执行。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0450",
+      "name": "情报-每日04:50 intel_05（CALL）",
+      "schedule": {
+        "type": "expr",
+        "expr": "50 4 * * *"
+      },
+      "enabled": false,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：Computer Assisted Language Learning。读取 agents/intel_05/SOUL.md 并完整执行。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0510",
+      "name": "情报-每日05:10 intel_06（ETR&D）",
+      "schedule": {
+        "type": "expr",
+        "expr": "10 5 * * *"
+      },
+      "enabled": true,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：Educational Technology Research and Development。读取 agents/intel_06/SOUL.md 并完整执行。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0530",
+      "name": "情报-每日05:30 intel_07（IJI）",
+      "schedule": {
+        "type": "expr",
+        "expr": "30 5 * * *"
+      },
+      "enabled": false,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：International Journal of Instruction。读取 agents/intel_07/SOUL.md 并完整执行。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0550",
+      "name": "情报-每日05:50 intel_08（开放教育研究）",
+      "schedule": {
+        "type": "expr",
+        "expr": "50 5 * * *"
+      },
+      "enabled": false,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：开放教育研究。读取 agents/intel_08/SOUL.md 并完整执行。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0610",
+      "name": "情报-每日06:10 intel_09（电化教育研究）",
+      "schedule": {
+        "type": "expr",
+        "expr": "10 6 * * *"
+      },
+      "enabled": false,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：电化教育研究。读取 agents/intel_09/SOUL.md 并完整执行。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0630",
+      "name": "情报-每日06:30 intel_10（中国电化教育）",
+      "schedule": {
+        "type": "expr",
+        "expr": "30 6 * * *"
+      },
+      "enabled": false,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：中国电化教育。读取 agents/intel_10/SOUL.md 并完整执行。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0650",
+      "name": "情报-每日06:50 intel_11（课程教材教法）",
+      "schedule": {
+        "type": "expr",
+        "expr": "50 6 * * *"
+      },
+      "enabled": false,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：课程教材教法。读取 agents/intel_11/SOUL.md 并完整执行。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "intel-staggered-0710",
+      "name": "情报-每日07:10 intel_12（中国教育学刊）",
+      "schedule": {
+        "type": "expr",
+        "expr": "10 7 * * *"
+      },
+      "enabled": false,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 600,
+        "message": "执行intel搜索：中国教育学刊。读取 agents/intel_12/SOUL.md 并完整执行。只处理最新5篇。"
+      }
+    },
+    {
+      "id": "daily-briefing-0815",
+      "name": "每日08:15简报生成+推送",
+      "schedule": {
+        "type": "expr",
+        "expr": "15 8 * * *"
+      },
+      "enabled": true,
+      "payload": {
+        "kind": "agentTurn",
+        "timeoutSeconds": 1800,
+        "message": "执行每日简报：读取 skills/daily-briefing/SKILL.md，按skill规范生成并推送K-12 AI教育研究简报。"
+      }
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 # 英国教育部关于教育领域生成式人工智能的政策文件
 
 ## 基本信息
+## 摘要
+- **原始链接**: https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education/generative-artificial-intelligence-ai-in-education 英国教育部发布本政策文件，阐述英国政府在教育领域使用生成式人工智能（包括由生成式AI驱动的教育技术工具及大型语言模型如ChatGPT和Microsoft Copilot）的官方立场。文件主要面向中小学和学院（schools and colleges），重点关注义务制教育阶段AI使用问题。
+
+**摘要状态**：✅已补充（内容提取）
+
 
 - **来源网站**: GOV.UK（英国政府官方网站）
 - **原始链接**: https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education/generative-artificial-intelligence-ai-in-education
@@ -170,3 +175,5 @@
 ---
 
 *来源：GOV.UK（英国政府官方网站），发布日期2025年8月12日，来源域名 gov.uk*
+
+**审核状态**：✅已补审（历史遗留文件）

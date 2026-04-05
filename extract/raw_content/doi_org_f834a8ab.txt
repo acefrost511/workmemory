@@ -1,0 +1,207 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2026.105618
+# Content Length: 31288 characters
+# Extracted at: 2026-04-05 14:05:11
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000564?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000564?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000564)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131526000564/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000564?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000564?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000564?via%3Dihub#preview-section-snippets)
+- [References (64)](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000564?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+[Volume 249](https://www.sciencedirect.com/journal/computers-and-education/vol/249/suppl/C "Go to table of contents for this volume/issue"), August 2026, 105618
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20036-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education/vol/249/suppl/C)
+# Adding pedagogical agents who point or trace to children's instructional videos
+Author links open overlay panelMeixiaChenga, PeihuaQiaoa, HengNia, HepingXieb, Richard E.Mayerc, FuxingWanga
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2026.105618](https://doi.org/10.1016/j.compedu.2026.105618 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131526000564&orderBeanReset=true)
+## Highlights
+- •
+Gesturing agents improved children's retention, transfer, and motivation.
+- •
+Tracing and pointing improved retention and transfer and reduced cognitive load.
+- •
+Tracing outperformed pointing for retention, transfer, and germane processing.
+- •
+Pointing worked best in dynamic videos; tracing in static visuals.
+- •
+Findings support embodiment, signaling, and cognitive load theory.
+## Abstract
+This study aims to determine how children's learning is affected by an onscreen animated pedagogical agent's use of tracing or pointing gestures for static or dynamic illustrations in a video lesson. Across 3 experiments, children (aged 10-12 years) learned about the water cycle from a narrated multimedia lesson and then completed learning outcome tests and subjective experience ratings. In Experiment 1, children in the PA group outperformed those in the no-PA group on retention and transfer tests, and reported higher germane processing, learning interest and motivation. In Experiment 2, children in the tracing and pointing gesture groups performed better than those in the no gesture group on retention and transfer tests, and also reported lower extraneous and intrinsic load. The tracing gesture group also outperformed the pointing gesture group on retention and transfer tests, and reported higher germane processing. In Experiment 3, when the agent used pointing gestures, children in the dynamic video group outperformed those in the static video group on retention and transfer tests. In contrast, when the agent used tracing gestures, children in the static video group outperformed those in the dynamic video group on transfer test. Additionally, children in tracing gesture groups had higher retention scores, germane processing, social presence, and learning motivation and interest than those in pointing gesture groups. These results support embodiment and signaling principles and suggest that children learn better from multimedia lessons when a tracing gesture agent is added to the screen, especially in static illustration-based videos.
+## Introduction
+Consider a video lesson on the water cycle that contains a narrated illustration such as exemplified in the right side of Fig. 1. Young learners may not know where to look in the illustration as the narration describes each step in the water cycle. How can we help guide the learner's visual attention? As shown in the left panel of Fig. 1, in the case of a narrated illustration, we can add visual signaling by adding an onscreen animated pedagogical agent who points to an element on the screen as the narrator mentions it and traces the path of movement as the narrator describes a step in the water cycle (Mayer, 2021; van Gog, 2022). The goal of the present study is to examine the effects of adding such an animated pedagogical agent (Experiment 1), determine the individual effects of pointing and tracing (Experiment 2), and determine the individual effects of pointing and tracing when the illustration is static or dynamic (Experiment 3).
+Advances in computer science and online education have enabled students to easily access an unprecedented range of educational resources, such as instructional videos and multimedia lessons offered through Massive Open Online Courses (MOOCs) and other online platforms. As a result, instructional videos have become an important venue for students to learn academic content (Fiorella, 2022a; Mayer et al., 2020). Cognitive load theory (CLT, Sweller et al., 2019; Paas & Sweller, 2022) provides a useful framework for understanding how students learn from such videos. The theory emphasizes the limited capacity of working memory and distinguishes between cognitive demands that are inherent to the material and those introduced by the way information is presented. Specifically, intrinsic load reflects the inherent complexity of the material, whereas extraneous load arises from suboptimal instructional design and does not directly support learning. Germane processing is conceptualized not as a separate, additive type of load, but as the extent to which learners allocate available working memory resources to learning-relevant processes (e.g., schema construction), often by redistributing resources away from extraneous activity while dealing with intrinsic demands (Kalyuga, 2011; Leppink & Van den Heuvel, 2015; Paas & van Merriënboer, 2020; Sweller, 2010).
+Previous research has shown that adding a gesturing pedagogical agent (e.g., an animated character using a pointer stick to highlight specific parts of the lesson being narrated) to a video lesson can enhance college students’ social presence, learning interest, and direct their attention to task-relevant content. This fosters germane processing, reduces extraneous load, and ultimately improves learning outcomes (Craig et al., 2015; Li et al., 2019, 2023, 2024; Wang et al., 2018). Children, with their developing attentional and executive functions, may particularly benefit from the additional guidance and support provided by a pedagogical agent using deictic gestures (Johnson et al., 2015; Wang et al., 2022).
+These deictic gestures, which include static pointing and dynamic tracing movements (van Wermeskerken et al., 2016), can serve not only as signaling cues that help guide children's attention to essential content and thereby reduce extraneous load, but also as embodiment cues. Tracing gestures, in particular, may be especially beneficial for children's learning because they provide richer embodiment cues that can facilitate deeper cognitive processing through the interaction of the body and the environment, thereby fostering germane processing (Wilson, 2002; Yeo & Tzeng, 2020; Zou et al., 2025).
+However, the benefits of tracing gestures may be diminished in many video lessons designed with dynamic visual effects as signaling cues (e.g., animated elements presented in sync with the narration, or pulsing, resizing, or rotating visuals). Such effects can distract attention from the embodiment cues conveyed by the agent's hand tracing movements, thus reducing germane processing. In addition, an overabundance of signaling cues may become redundant, increasing extraneous load and potentially hindering rather than enhancing video learning (Mayer, 2021).
+Finally, although video lessons are increasingly being used in real classrooms, few studies have applied recent laboratory findings to these real-world settings. This study sought to address this gap by investigating the effectiveness of video lessons with a gesturing pedagogical agent in real classroom settings, thereby providing valuable empirical evidence for the field.
+Video learning environments often present rich content, including images, text, and animations, requiring learners to scan for relevant elements as they are mentioned in the narration. Gesturing pedagogical agents (PAs) are computer-generated, animated characters that appear on screen in video lessons and use human-like gestures to guide learners' attention and improve learning interest and outcomes (e.g., Heidig & Clarebout, 2011; Mayer, 2021; Wang et al., 2018, 2022). For example, in a video lesson on neural transmission, college students viewed an illustration while a gesturing agent stood next to it and used a pointer stick to highlight specific parts of the illustration that were synchronized with and corresponded to the narration, improving focus on task-relevant elements and significantly enhancing retention and transfer performance (Li et al., 2019).
+Several studies have also demonstrated the positive effects of adding a deictic gesturing pedagogical agent to video lessons on the learning performance of college students (Li et al., 2021, 2023; Mayer & DaPra, 2012; Wang et al., 2018). Compared to college students, children generally have less prior knowledge, weaker attentional control, and are more easily distracted, making them more likely to experience cognitive overload and negative emotions (Li et al., 2024). Consequently, children may have a greater need for a deictic gesturing pedagogical agent that can help focus their attention on the content accompanied by the narration, reduce extraneous load, increase learning interest, and ultimately improve learning outcomes (Johnson et al., 2013, 2015). For example, Davis (2018) found that middle school students benefited more from a gesturing pedagogical agent than did undergraduate students on transfer tests.
+However, a few studies have explored whether children, especially elementary school students, benefit from adding a deictic gesturing pedagogical agent to an instructional video (Wakefield et al., 2018; Yang et al., 2023). These agents use deictic gestures as visual signals to guide children to focus more quickly and accurately on relevant elements mentioned in the narration. This can not only reduce extraneous load by freeing up limited cognitive capacity, but also increase germane processing by helping children make connections between corresponding illustrations and spoken words (Mayer, 2021). Therefore, in Experiment 1 of this study, we examined whether adding a deictic gesturing pedagogical agent to the screen would enhance children's motivation and interest, germane processing, and video-based learning compared to a no-agent condition. While the agent's deictic gestures may reduce extraneous load, the presence of the agent itself could compete for attention and potentially increase it, so we did not make a definitive hypothesis regarding extraneous load.
+Deictic gesturing pedagogical agents can enhance children's video-based learning, possibly due to their use of pointing and tracing gestures (Johnson et al., 2013, 2015; Macoun & Sweller, 2016; Wakefield et al., 2018). Tracing gestures, in particular, may be more effective than pointing gestures because of their richer embodiment cues (Mayer, 2021). For example, when teaching the concept of evaporation in the water cycle, a pointing gesture might involve the agent indicating a lake on the ground and then a cloud in the sky as they are mentioned by the narration, directing attention to key elements of the process. In contrast, a tracing gesture might involve the agent slowly raising their hand from the lake to the cloud, tracing the upward movement of the evaporating water with the rising motion of the hand. Despite their potential advantages, tracing gestures have been underexplored in previous research, which often conflated tracing and pointing gestures (Li et al., 2019, 2021, 2023; Wang et al., 2018). To address this gap, we aimed to isolate and examine the distinct effects of different deictic gestures (i.e., pointing vs. tracing) on children's video learning.
+The positive effects of these deictic gestures (i.e., pointing and tracing) used by an onscreen pedagogical agent can be explained by the signaling and embodiment principles of the Cognitive Theory of Multimedia Learning (CTML). Firstly, the signaling principle posits that learners benefit when cues are added to highlight the organization of essential material (Davis, 2018; Mayer & Fiorella, 2022; Xie et al., 2017). For instance, Atkinson et al. (2009) found that providing attention-directing pointer cues, such as a realistic hand pointer or a symbolic arrow, resulted in higher learning outcomes than not providing any pointer cues. In video lessons, both pointing and tracing gestures serve as effective signaling cues that indicate the specific key components being talked about in the narration (Li et al., 2024). By directing children's attention to important elements and their relationships, pointing and/or tracing gestures can help reduce extraneous load and support better organization and connection of information, thereby facilitating video-based learning.
+Secondly, the embodiment principle further posits that people learn more deeply from video lessons when an onscreen pedagogical agent demonstrates high embodiment, that is, actively using their body to support cognition (Fiorella, 2022b). This principle is rooted in embodied cognition theory, which emphasizes that cognition arises not only from the brain, but also from the body's interactions with the physical world (Abrahamson & Lindgren, 2014; Novack & Goldin-Meadow, 2017; Wilson, 2002). Importantly, embodied cognition is relevant not only when learners perform actions themselves, but also when they observe others' actions. For example, van Gog et al. (2009) argue that observing actions can automatically activate some of the cortical circuits involved in executing those actions (i.e., the mirror neuron system). This view is also compatible with CLT's “evolutionary upgrade” perspective, which proposes that instruction can leverage the human motor system (an evolutionarily prepared, biologically primary resource) to assist in the acquisition of biologically secondary knowledge (e.g., the concept of the water cycle; Geary, 2008; Ginns et al., 2020; Paas & Sweller, 2012; Park et al., 2023; Wu et al., 2024). Additionally, due to its survival value, biologically primary knowledge may be intrinsically motivating to develop (e.g., Ginns & King, 2021; Lespiau & Tricot, 2022). Therefore, teaching biologically secondary concepts while leveraging biologically primary knowledge may enhance motivation and interest.
+Previous empirical studies have preliminarily supported the role of onscreen instructor bodily involvement in enhancing learners' multimedia learning. For instance, Fiorella and Mayer (2016) found that watching an instructor draw was effective when the instructor's hand or the entire body was shown drawing, but not when the drawing was dynamically created without any human hand or body being shown. Similarly, Moreno and colleagues (2010) found that students performed better on a transfer test when they learned about electrical circuits from a multimedia lesson with a human-like on-screen agent using deictic movements, as opposed to a lesson with arrows. This finding is consistent with Wang et al. (2018), who further demonstrated that a pedagogical agent's pointing gestures, rather than color changes, significantly improved student performance. In addition, first-person perspective videos, which allow for easier association with the learner's bodily involvement (i.e., more embodied cognition), have also been shown to promote deeper learning more than third-person videos (Fiorella et al., 2017; Leng et al., 2024).
+Therefore, in Experiment 2 of this study, we examined whether tracing gestures used by a pedagogical agent could not only direct children's attention to key content (as measured by extraneous load ratings), but also elicit richer embodied cognitive engagement (as measured by germane processing ratings) and motivation and Interest, thereby promoting children's video learning more effectively than pointing gestures.
+In instructional videos, static illustrations are frequently converted into dynamic animations in which image and text elements (e.g., sun, clouds, raindrops, arrows, and concept names) are presented in a step-by-step animation that is synchronized with the narration. This technique is designed to further increase children's interest, capture their attention, and provide additional cues (de Koning et al., 2010; Xie et al., 2017; Zhao & Mayer, 2023). These animations often incorporate dynamic elements, such as transforming a static arrow into a rising, fading-in arrow to visually represent the trajectory of moving water, and highlighting effects, such as pulsing, rotation, and sliding. However, when these dynamic effects are presented alongside a gesturing pedagogical agent in an instructional video, a key question arises: Is more always better, or can it sometimes be too much?
+In these dynamic videos, the dynamic effects may play a dual role. On the one hand, they can supplement the missing signaling cues of water movement that are typically not conveyed by the pointing gesture, thereby supporting germane processing and improving children's learning. On the other hand, these dynamic effects may distract children's attention away from capturing and focusing on the embodiment cues in the tracing gesture, thereby potentially undermining the embodied cognitive benefits of tracing gestures (Zhang et al., 2023a), reducing germane processing, and impairing learning. In addition, dynamic effects can provide signaling cues to the learner about what to attend to and how to organize it, but they can also result in more extraneous load (Mayer, 2021). There is preliminary evidence that too much signaling can be detrimental to learning (Zhang et al., 2023b). For example, Stull and Mayer (2007) found that signals used sparingly (e.g., one per paragraph) promote learning, but overuse (e.g., three per paragraph) can diminish their effectiveness. In short, too much highlighting may be redundant and add confusion rather than guide attention (Kalyuga & Sweller, 2022).
+Therefore, in Experiment 3 of this study, we investigated whether dynamic videos are more effective than static videos when a gesturing pedagogical agent uses pointing gestures, considering the potential effect of supplemental signaling cues in dynamic videos (resulting in more germane processing); and whether static videos are better than dynamic videos when tracing gestures are used, considering the potential effect of missing embodiment cues (resulting in lower germane processing) and redundant signaling cues (resulting in higher extraneous load) in dynamic videos. In short, dynamic information may become distracting or redundant when combined with tracing gestures, potentially decreasing germane processing and increasing extraneous load.
+Our study aimed to investigate how learning from a narrated video lesson can be enhanced by adding deictic gestures from an onscreen pedagogical agent, specifically comparing the effectiveness of pointing and tracing gestures. Based on the cognitive load theory and two key principles of multimedia design, the signaling principle and the embodiment principle (Mayer, 2021; Sweller, 2010; Tang et al., 2019), we propose the following hypotheses:
+\*\*H1\*\*
+The deictic gesturing pedagogical agent will enhance children's germane processing, strengthen their sense of social presence, and increase their motivation and interest in video learning, thereby improving retention and transfer performance compared to learning without an agent.
+\*\*H2\*\*
+Both tracing and pointing gestures will reduce children's extraneous load, strengthen their sense of social presence, and increase their motivation and interest, thereby improving their retention and transfer performance compared to no gestures, due to richer signaling cues. Tracing gestures will more effectively enhance children's germane processing, social presence, motivation and interest, retention, and transfer performance compared to pointing gestures, due to richer embodiment cues.
+\*\*H3\*\*
+When a pedagogical agent uses tracing gestures, children who watch static videos will experience lower extraneous load, higher germane processing, and better retention and transfer performance than those who watch dynamic videos. When a pedagogical agent uses pointing gestures, children who watch dynamic videos will experience higher germane processing, and better retention and transfer performance than those who watch static videos. In addition, dynamic videos will increase children's social presence and motivation and interest, but may also increase their extraneous load by introducing unnecessary processing demands compared to static videos.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000564)
+## Section snippets
+## Participants and design
+Experiment 1 used a one-factor, two-level, between-subjects design. An a priori power analysis (G∗Power, version 3.1, Faul et al., 2007) indicated that 72 participants should be included in this experiment ( \_d\_ = 0.60, α = 0.05, 1-β = 0.80, Wakefield et al., 2018). We recruited 82 children from an elementary school in China. The participants were in the fifth or sixth grade, ranging in age from 10 to 12 years old.
+They were randomly assigned to two groups: 39 children (19 female; \_M\_ \_age\_ = 10.87
+## Participants and design
+Experiment 2 used a one-factor, three-level, between-subjects design. An a priori power analysis using G∗Power (version 3.1) determined that 159 participants were needed for this experiment ( \_f\_ = 0.25, α = 0.05, 1-β = 0.80, van Wermeskerken et al., 2016). We recruited 186 fifth- and sixth-grade children from an elementary school in China.
+They were randomly assigned to three groups: the tracing gesture group ( \_n\_ = 63, 26 females; \_M\_ \_age\_ = 10.78 years, \_SD\_ = 0.58), the pointing gesture group ( \_n\_ = 62,
+## Participants and design
+Experiment 3 used a 2 × 2 between-subjects design with gesture type (tracing vs. pointing) and video type (dynamic vs. static) as factors. An a priori power analysis using G∗Power (version 3.1) determined that a sample size of 179 participants was required to achieve adequate statistical power ( \_f\_ = 0.25, α = 0.05, 1-β = 0.80, van Wermeskerken et al., 2016). We recruited 243 fifth- and sixth-grade children from an elementary school in China.
+They were randomly assigned to one of four groups:
+## Empirical contributions
+Consistent with previous research, deictic-gesturing pedagogical agents in multimedia learning environments improved children's retention, transfer performance, germane processing, motivation, and interest compared to no agents (e.g., Johnson et al., 2015; Li et al., 2023, 2024; Macoun & Sweller, 2016; Wakefield et al., 2018). Furthermore, pedagogical agents using tracing or pointing gestures reduced extraneous load, and thereby improved retention and transfer outcomes compared to agents
+## Conclusion
+Children learned better from multimedia lessons when the pedagogical agent used tracing gestures, especially in instructional videos based on static illustrations. These findings highlight the importance of aligning gesture design with video characteristics to optimize the effectiveness of pedagogical agents in children's multimedia learning.
+## CRediT authorship contribution statement
+\*\*Meixia Cheng:\*\* Writing – review & editing, Writing – original draft, Visualization, Investigation, Formal analysis, Conceptualization. \*\*Peihua Qiao:\*\* Writing – review & editing, Visualization, Methodology, Formal analysis. \*\*Heng Ni:\*\* Methodology, Investigation, Formal analysis, Conceptualization. \*\*Heping Xie:\*\* Writing – review & editing, Visualization. \*\*Richard E. Mayer:\*\* Writing – review & editing, Visualization. \*\*Fuxing Wang:\*\* Writing – review & editing, Supervision, Project administration, Funding
+## Author note
+The data of this study are available from the corresponding author upon reasonable request. Materials and analysis code for this study are also available by emailing the corresponding author.
+The authors have no conflict of interest in the research reported.
+This research was supported by the National Natural Science Foundation of China Grant (#62277025) to Fuxing Wang, and Guangdong Basic and Applied Basic Research Foundation (#2025A1515010319) to Heping Xie.
+## Ethical approval
+This study was approved by the ethical review committee of Central China Normal University (#CCNU-IRB-202203011).
+Recommended articles
+- R.O. Davis
+### [The impact of pedagogical agent gesturing in multimedia learning environments: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S1747938X18302343)
+### Educational Psychology Review
+(2018)
+- B.B. de Koning \_et al.\_
+### [Learning by generating vs. receiving instructional explanations: Two approaches to enhance attention cueing in animations](https://www.sciencedirect.com/science/article/pii/S0360131510000710)
+### Computers & Education
+(2010)
+- S. Heidig \_et al.\_
+### [Do pedagogical agents make a difference to student motivation and learning?](https://www.sciencedirect.com/science/article/pii/S1747938X10000424)
+### Educational Research Review
+(2011)
+- F.T. Hu \_et al.\_
+### [Getting the point: Tracing worked examples enhances learning](https://www.sciencedirect.com/science/article/pii/S0959475214000929)
+### Learning and Instruction
+(2015)
+- X. Leng \_et al.\_
+### [The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension](https://www.sciencedirect.com/science/article/pii/S0959475224001312)
+### Learning and Instruction
+(2024)
+- J. Leppink \_et al.\_
+### [Effects of pairs of problems and examples on task performance and different types of cognitive load](https://www.sciencedirect.com/science/article/pii/S0959475213000820)
+### Learning and Instruction
+(2014)
+- W. Li \_et al.\_
+### [How to guide learners' processing of multimedia lessons with pedagogical agents](https://www.sciencedirect.com/science/article/pii/S0959475222001505)
+### Learning and Instruction
+(2023)
+- A. Macoun \_et al.\_
+### [Listening and watching: The effects of observing gesture on preschoolers' narrative comprehension](https://www.sciencedirect.com/science/article/pii/S0885201416301253)
+### Cognitive Development
+(2016)
+- Y. Wu \_et al.\_
+### [Dragging but not tapping promotes preschoolers' numerical estimating with touchscreens](https://www.sciencedirect.com/science/article/pii/S0022096524001292)
+### Journal of Experimental Child Psychology
+(2024)
+- S. Zhang \_et al.\_
+### [Effects of mouse pointing on learning from labeled and unlabeled split-attention materials: An eye-tracking study](https://www.sciencedirect.com/science/article/pii/S0747563223000249)
+### Computers in Human Behavior
+(2023)
+D. Abrahamson \_et al.\_
+### Embodiment and embodied design
+R. Atkinson \_et al.\_
+### Comparing the efficacy of different signaling techniques
+S.D. Craig \_et al.\_
+### A test of spatial contiguity for virtual human's gestures in multimedia learning environments
+### Journal of Educational Computing Research
+(2015)
+F. Faul \_et al.\_
+### G∗Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences
+### Behavior Research Methods
+(2007)
+L. Fiorella
+### Multimedia learning with instructional video
+L. Fiorella
+### The embodiment principle in multimedia learning
+L. Fiorella \_et al.\_
+### Effects of observing the instructor draw diagrams on learning from multimedia messages
+### Journal of Educational Psychology
+(2016)
+L. Fiorella \_et al.\_
+### It's all a matter of perspective: Viewing first-person video modeling examples promotes learning of an assembly task
+### Journal of Educational Psychology
+(2017)
+O. Garin
+### Ceiling effect
+D.C. Geary
+### An evolutionarily informed education science
+### Educational Psychologist
+(2008)
+P. Ginns \_et al.\_
+### Tracing enhances problem-solving transfer, but without effects on intrinsic or extraneous cognitive load
+### Applied Cognitive Psychology
+(2020)
+P. Ginns \_et al.\_
+### Pointing and tracing enhance computer-based learning
+### Educational Technology Research & Development
+(2021)
+A.M. Johnson \_et al.\_
+### Pedagogical agent signaling of multiple visual engineering representations: The case of the young female agent
+### Journal of Engineering Education
+(2013)
+A.M. Johnson \_et al.\_
+### Supporting multimedia learning with visual signaling and animated pedagogical agent: Moderating effects of prior knowledge
+### Journal of Computer Assisted Learning
+(2015)
+S. Kalyuga
+### Cognitive load theory: How many types of load does it really need?
+### Educational Psychology Review
+(2011)
+S. Kalyuga \_et al.\_
+### The redundancy principle in multimedia learning
+K. Kreijns \_et al.\_
+### Social presence: Conceptualization and measurement
+### Educational Psychology Review
+(2022)
+J. Leppink \_et al.\_
+### The evolution of cognitive load theory and its application to medical education
+### Perspectives on Medical Education
+(2015)
+F. Lespiau \_et al.\_
+### Using primary knowledge in unpopular statistics exercises
+### Educational Psychology Review
+(2022)
+W. Li \_et al.\_
+### Role of gesturing onscreen instructors in video lectures: A set of three-level meta-analyses on the embodiment effect
+### Educational Psychology Review
+(2024)
+W. Li \_et al.\_
+### Getting the point: Which kinds of gestures by pedagogical agents improve multimedia learning?
+### Journal of Educational Psychology
+(2019)
+W. Li \_et al.\_
+### Animated pedagogical agents enhance learning outcomes and brain activity during learning
+### Journal of Computer Assisted Learning
+(2021)
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131526000564)
+© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

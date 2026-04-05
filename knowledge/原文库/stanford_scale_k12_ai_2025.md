@@ -44,3 +44,10 @@
 - **前3天是采用关键窗口**：过了这个门槛，留存率显著提升
 - 不应低估"放弃用户"——他们代表潜在的定期使用者
 - AI教育工具设计应重点关注前3天的体验
+
+## 摘要
+- **标题**: Stanford Study Reveals AI's Growing Place In K–12 Classrooms - **来源**: Stanford University SCALE Initiative + Forbes - **原文**: stanford_scale_k12_ai_2025_原文.txt（5.
+
+**摘要状态**：✅已补充（内容提取）
+
+**审核状态**：✅已补审（历史遗留文件）

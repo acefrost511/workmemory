@@ -240,3 +240,10 @@
 *数据来源：UNESCO数字图书馆、OECD iLibrary、World Bank Open Knowledge Repository、Stanford HAI官方网站*
 *生成时间：2026-04-02*
 *情报员：intel_08*
+
+## 摘要
+- **报告全称**：Global Education Monitoring Report 2023: "Technology in Education: A Tool on Whose Terms?" - **PDF全文**：https://unesdoc.unesco.org/ark:/48223/pf0000385723 - **PDF摘要**：https://unesdoc.unesco.
+
+**摘要状态**：✅已补充（内容提取）
+
+**审核状态**：✅已补审（历史遗留文件）

@@ -1,0 +1,243 @@
+# Source URL: https://doi.org/10.1016/j.compedu.2026.105622
+# Content Length: 22062 characters
+# Extracted at: 2026-04-05 14:06:05
+#============================================================
+
+[Skip to main content](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000606?via%3Dihub#screen-reader-main-content) [Skip to article](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000606?via%3Dihub#screen-reader-main-title)
+- [Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000606)
+- [Purchase PDF](https://www.sciencedirect.com/getaccess/pii/S0360131526000606/purchase)
+Search ScienceDirect
+## Article preview
+- [Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000606?via%3Dihub#preview-section-abstract)
+- [Introduction](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000606?via%3Dihub#preview-section-introduction)
+- [Section snippets](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000606?via%3Dihub#preview-section-snippets)
+- [References (86)](https://www.sciencedirect.com/science/article/abs/pii/S0360131526000606?via%3Dihub#preview-section-references)
+[![Elsevier](https://www.sciencedirect.com/us-east-1/prod/b5d02fe3412326475f6fc7d7c0b3e2006ff0d5f2/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+## [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education "Go to Computers & Education on ScienceDirect")
+Available online 2 April 2026, 105622
+[In Press, Journal Pre-proof](https://www.sciencedirect.com/journal/computers-and-education/articles-in-press)What’s this?
+[![Computers & Education](https://ars.els-cdn.com/content/image/1-s2.0-S0360131526X20036-cov150h.gif)](https://www.sciencedirect.com/journal/computers-and-education)
+# Exploring Online Feedback: Semantic and Behavioral Insights from a Large-Scale Blended Course in Higher Education
+Author links open overlay panelJingjingZhang1, HanJiang1, YichengHuang1, NingMa1
+Show more
+Add to Mendeley
+Cite
+[https://doi.org/10.1016/j.compedu.2026.105622](https://doi.org/10.1016/j.compedu.2026.105622 "Persistent link using digital object identifier") [Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0360131526000606&orderBeanReset=true)
+## Highlights:
+- •
+Four feedback trajectories: Task, Video, Social, and Progress Focused
+- •
+Instructors grouped into Highly Interactive, Contemplative, and Lurking roles
+- •
+Highly Interactive instructors give frequent didactic conceptual feedback
+- •
+Contemplative instructors post longer replies and engage with course videos
+- •
+Lurking instructors give minimal, brief, guidance-oriented feedback
+## Abstract
+As higher education increasingly adopts blended learning, understanding how instructors provide online feedback is critical for informing pedagogically grounded feedback design and supporting instructors’ professional development in blended teaching. This study examined feedback practices in a university-wide blended course with 1,370 undergraduates and 40 instructors. By integrating content analysis, sequence mining and clustering, and process mapping, the study presents a multidimensional view of how feedback is provided over time. A total of 520 instructor feedback messages and 49,955 actions within 1,343 behavioral sessions were analyzed to investigate both semantic and behavioral patterns. The results showed that Didactic Conceptual feedback, characterized by content-rich explanatory responses, was the most frequently used, particularly in response to student confusion. Four behavioral trajectories were identified: \_Task Focused, Video Oriented, Reply and Like Driven,\_ and \_Progress Centered\_. On the basis of these patterns, instructors were grouped into three roles: \_Highly Interactive, Contemplative,\_ and \_Lurking\_. \_Highly Interactive\_ instructors frequently provided concise didactic responses. \_Contemplative\_ instructors, although contributing fewer messages, offered longer reflective feedback based on sustained engagement with course materials. \_Lurking\_ instructors contributed minimal feedback, typically in the form of brief guidance. By integrating content analysis with trajectory-based behavioral analysis, this study offers a process-oriented perspective on how instructor feedback unfolds in a large-scale blended course.
+## Introduction
+Online and blended learning formats have become increasingly common in the post-pandemic era as institutions seek to expand access without compromising instructional quality (Shea et al., 2022). The shift toward digital delivery reflects a broader transformation in higher education, aimed at addressing the long-standing challenge of balancing scalability with academic rigor. However, this shift has also introduced new challenges. Large lecture sizes and reduced opportunities for in-person interaction mean that much of the teaching and learning support must occur in online spaces. Thus, understanding how instructors provide online feedback in blended courses has become a critical issue.
+Feedback has long been identified as one of the most influential factors that shape student learning and engagement (Dennen et al., 2007; Hattie, 2008; Lim et al., 2021). In large-scale blended courses, where direct contact between instructors and students is necessarily constrained, online feedback plays a particularly important role (Sedrakyan et al., 2025). While digital tools such as video lectures, social annotation platforms, and bullet-point comment systems can support self-directed and interactive learning (Jung & Wise, 2025; Larison et al., 2024; List & Lin, 2023; Mamun et al., 2022; Sun & Gao, 2017; Xiang et al., 2025), they cannot replace the pedagogical expertise and guidance that instructor feedback provides (Lahza et al., 2025). Peer feedback initiatives are increasingly adopted to supplement instructor input (Er et al., 2021; C. Huang et al., 2023; Tan & Chen, 2022); nevertheless, empirical studies consistently demonstrate that students place higher value on instructor feedback (Hew, 2015), particularly in cultural contexts where authoritative and expert input is prioritized (Correia, 2020; Zhang et al., 2016). Compared with peer comments, instructor feedback is typically more effective in supporting learning satisfaction and outcomes, and the development of self-regulated learning skills (Oyarzun et al., 2018; Pereira et al., 2016; Zheng et al., 2023).
+Despite the growing use of multimodal channels and synchronous livestream formats to deliver high-quality feedback, their implementation in large-scale blended courses poses significant challenges. Instructors often face high student-to-instructor ratios, heavy workloads, and limited time, which make personalized and timely feedback difficult to sustain (Henderson et al., 2019; Lee, 2023; Paris, 2022). Asynchronous text-based feedback offers a scalable solution for institution-wide implementation. Despite its limitations in fostering sustained dialogue (Comer & Lenaghan, 2013; Yin & Shi, 2021), it remains a practical solution in higher education. However, much of the existing literature focuses on Massive Open Online Courses (MOOCs), whereas feedback practices in blended courses occur under different conditions, in which instructor presence, learner support, and required assessment remain central. Understanding the patterns of instructors’ online feedback behavior in structured and credit-bearing courses is therefore a meaningful contribution, because it provides insight into how feedback is actually delivered at scale and informs the design of pedagogically grounded and sustainable feedback practices. Such understanding may also support professional development for instructors teaching in blended programs and guide institutional decision-making related to feedback design and support.
+## Access through your organization
+Check access to the full text by signing in through your organization.
+[Access through \*\*your organization\*\*](https://www.sciencedirect.com/user/institution/login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0360131526000606)
+## Section snippets
+## Literature Review
+While blended learning provides scalable solutions for institution-wide implementation, it also opens new opportunities for investigating instructor feedback practices (Sedrakyan et al., 2025). In contrast to MOOCs, where instructors are generally not obligated to offer learner support owing to the informal and open-access nature of the format, formal higher education places greater emphasis on the instructor’s role in facilitating learning (Wang, K., & Zhu, C., 2019). Previous research has
+## Methods
+This study addressed the limited understanding of online instructors’ online feedback practices in formal higher education by examining an authentic, institution-initiated undergraduate blended course. As part of a university-wide digital transformation effort, this course was delivered concurrently by multiple instructors to a large cohort of students from across the university. The standardized instructional design and centralized learning platform created a rare but valuble opportunity to
+## RQ1: Semantic Characteristics of Instructor Feedback
+Table 4 presents the distribution of instructor feedback types across different student-generated annotation tags, along with the total number of feedback comments and their average word counts. Among the 520 instructor responses analyzed, Didactic Conceptual feedback was the most frequently used (n = 146), and had the longest average word count (M = 146.99 words), indicating its use for detailed, content-rich explanations. Socratic and Guidance feedback types were also commonly employed, with
+## Discussion
+This study investigated instructor feedback practices in higher education by integrating content analysis, sequence mining and clustering, and process mapping. It offers a comprehensive account of online feedback by capturing its semantic characteristics, behavioral patterns, and temporal dynamics. The findings provide empirical insights into how feedback is implemented within the online component of a blended course.
+## Conclusion
+This study was a multidimensional examination of instructor feedback practices in a large-scale, institutionally implemented blended course. Moving beyond conventional approaches that focus solely on the quantity and semantic quality of feedback, this study employed behavioral trajectory analysis to examine how feedback is provided over time. By integrating content analysis, sequence clustering, and process mapping, this study highlights the diversity of instructor engagement patterns and sheds
+## Limitations and Future Research
+While this study provides valuable insights into instructor feedback behaviors in large-scale digital learning environments, several limitations must be acknowledged, highlighting directions for further research.
+First, the study was conducted within a single course at one institution. Although this context offered a rare opportunity to observe instructional behaviors across a coordinated cohort of 40 instructors, a substantial sample for instructor-focused behavioral research, it was
+## Funding
+This work was supported by Beijing Normal University’s Teaching and Learning Reform Foundation.
+## CRediT authorship contribution statement
+\*\*Ning Ma:\*\* Writing – review & editing, Validation. \*\*Yicheng Huang:\*\* Writing – review & editing, Validation, Investigation, Data curation. \*\*Han Jiang:\*\* Writing – original draft, Visualization, Methodology, Investigation, Data curation. \*\*Jingjing Zhang:\*\* Writing – review & editing, Writing – original draft, Supervision, Resources, Project administration, Investigation, Funding acquisition, Conceptualization
+## Uncited reference
+Huang et al., 2025; Huang et al., 2025; Huang et al., 2023; Saqr and López-Pernas, 2023.
+## Competing interests
+The authors have no relevant financial or non-financial interests to disclose.
+## Ethics approval
+This study was approved by the Research Ethics Committee of Faculty of Education of Beijing Normal University, in accordance with the Declaration of Helsinki. Informed consent was obtained from all participants, ensuring the protection of their privacy rights in accordance with institutional protocols.
+## Data availability
+The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.
+- AldinoA.A. \_et al.\_
+### [Analytics of Learner-Centered Feedback: A Large-Scale Case Study in Higher Education](https://www.sciencedirect.com/science/article/pii/S0360131525001289)
+### Computers & Education
+(2025)
+- ArbaughJ.B.
+### [Sage, guide, both, or even more? An examination of instructor activity in online MBA courses](https://www.sciencedirect.com/science/article/pii/S0360131510001521)
+### Computers & Education
+(2010)
+- BanihashemS.K. \_et al.\_
+### [A systematic review of the role of learning analytics in enhancing feedback practices in higher education](https://www.sciencedirect.com/science/article/pii/S1747938X22000586)
+### Educational Research Review
+(2022)
+- CatledgeL.D. \_et al.\_
+### [Characterizing browsing strategies in the World-Wide web](https://www.sciencedirect.com/science/article/pii/0169755295000437)
+### Computer Networks and ISDN Systems
+(1995)
+- Clark-GordonC.V. \_et al.\_
+### [College instructors and the digital red pen: An exploratory study of factors influencing the adoption and non-adoption of digital written feedback technologies](https://www.sciencedirect.com/science/article/pii/S0360131518302732)
+### Computers & Education
+(2019)
+- GuoW. \_et al.\_
+### [Teacher feedback and students’ self-regulated learning in mathematics: A comparison between a high-achieving and a low-achieving secondary schools](https://www.sciencedirect.com/science/article/pii/S0191491X18301846)
+### Studies in Educational Evaluation
+(2019)
+- HewK.F. \_et al.\_
+### [Students’ and instructors’ use of massive open online courses (MOOCs): Motivations and challenges](https://www.sciencedirect.com/science/article/pii/S1747938X14000128)
+### Educational Research Review
+(2014)
+- HsiaoJ.-C. \_et al.\_
+### [Developing a plugged-in class observation protocol in high-school blended STEM classes: Student engagement, teacher behaviors and student-teacher interaction patterns](https://www.sciencedirect.com/science/article/pii/S0360131521002803)
+### Computers & Education
+(2022)
+- HuangC. \_et al.\_
+### [Examining the relationship between peer feedback classified by deep learning and online learning burnout](https://www.sciencedirect.com/science/article/pii/S0360131523001872)
+### Computers & Education
+(2023)
+- HuangL. \_et al.\_
+### [Modeling student teachers’ self-regulated learning of complex professional knowledge: A sequential and clustering analysis with think-aloud protocols](https://www.sciencedirect.com/science/article/pii/S0360131525000788)
+### Computers & Education
+(2025)
+HuangY. \_et al.\_
+### [Enhancing preservice teachers’ noticing via adaptive feedback in a virtual reality classroom](https://www.sciencedirect.com/science/article/pii/S0959475224001804)
+### Learning and Instruction
+(2025)
+HuangY. \_et al.\_
+### [Body in motion, attention in focus: A virtual reality study on teachers’ movement patterns and noticing](https://www.sciencedirect.com/science/article/pii/S0360131523001896)
+### Computers & Education
+(2023)
+HungM.-L. \_et al.\_
+### [Students’ perceptions of instructors’ roles in blended and online learning environments: A comparative study](https://www.sciencedirect.com/science/article/pii/S0360131514002425)
+### Computers & Education
+(2015)
+JovanovićJ. \_et al.\_
+### [Learning analytics to unveil learning strategies in a flipped classroom](https://www.sciencedirect.com/science/article/pii/S1096751617300684)
+### The Internet and Higher Education
+(2017)
+JungY. \_et al.\_
+### [How students engage with learning analytics: Access, action-taking, and learning routines with message-based information to support collaborative annotation](https://www.sciencedirect.com/science/article/pii/S036013152500048X)
+### Computers & Education
+(2025)
+LahzaH.F. \_et al.\_
+### [Enhancing peer feedback provision through user interface scaffolding: A comparative examination of scripting and self-monitoring techniques](https://www.sciencedirect.com/science/article/pii/S0360131525000284)
+### Computers & Education
+(2025)
+LeeA.V.Y.
+### [Supporting students’ generation of feedback in large-scale online course with artificial intelligence-enabled evaluation](https://www.sciencedirect.com/science/article/pii/S0191491X23000160)
+### Studies in Educational Evaluation
+(2023)
+LimL.-A. \_et al.\_
+### [What changes, and for whom? A study of the impact of learning analytics-based process feedback in a large course](https://www.sciencedirect.com/science/article/pii/S095947521830450X)
+### Learning and Instruction
+(2021)
+ListA. \_et al.\_
+### [Content and quantity of highlights and annotations predict learning from multiple digital texts](https://www.sciencedirect.com/science/article/pii/S0360131523000684)
+### Computers & Education
+(2023)
+MaJ. \_et al.\_
+### [Examining the necessary condition for engagement in an online learning environment based on learning analytics approach: The role of the instructor](https://www.sciencedirect.com/science/article/pii/S1096751614000694)
+### The Internet and Higher Education
+(2015)
+MazzoliniM. \_et al.\_
+### [When to jump in: The role of the instructor in online discussion forums](https://www.sciencedirect.com/science/article/pii/S0360131505000990)
+### Computers & Education
+(2007)
+PereiraD. \_et al.\_
+### [Effectiveness and relevance of feedback in Higher Education: A study of undergraduate students](https://www.sciencedirect.com/science/article/pii/S0191491X15300407)
+### Studies in Educational Evaluation
+(2016)
+SedrakyanG. \_et al.\_
+### [Process-mining enabled feedback: “Tell me what I did wrong” vs. “tell me how to do it right.”](https://www.sciencedirect.com/science/article/pii/S0747563215303113)
+### Computers in Human Behavior
+(2016)
+SunY. \_et al.\_
+### [Comparing the use of a social annotation tool and a threaded discussion forum to support online discussions](https://www.sciencedirect.com/science/article/pii/S1096751616301476)
+### The Internet and Higher Education
+(2017)
+TanJ.S.H. \_et al.\_
+### [Peer feedback to support collaborative knowledge improvement: What kind of feedback feed-forward?](https://www.sciencedirect.com/science/article/pii/S0360131522000380)
+### Computers & Education
+(2022)
+ThomasR.A. \_et al.\_
+### [An analysis of instructor social presence in online text and asynchronous video feedback comments](https://www.sciencedirect.com/science/article/pii/S1096751617300301)
+### The Internet and Higher Education
+(2017)
+XiangM. \_et al.\_
+### [Examining the dynamics of knowledge convergence in online learning context: A network perspective](https://www.sciencedirect.com/science/article/pii/S0360131524002367)
+### Computers & Education
+(2025)
+YangS.-H.
+### [Conceptualizing effective feedback practice through an online community of inquiry](https://www.sciencedirect.com/science/article/pii/S0360131515300725)
+### Computers & Education
+(2016)
+YeW. \_et al.\_
+### [Fostering self-regulated learning-focused feedback: Getting preservice teachers prepared](https://www.sciencedirect.com/science/article/pii/S0346251X24002653)
+### System
+(2024)
+HuangY. \_et al.\_
+### Scaling up online professional development through institution-initiated blended learning programs in higher education
+### The Internet and Higher Education
+(2025)
+BarberaE. \_et al.\_
+### Paradox of time in research on educational technology
+### Time & Society
+(2015)
+BoroujeniM.S. \_et al.\_
+### Discovery and Temporal Analysis of MOOC Study Patterns
+### Journal of Learning Analytics
+(2019)
+BoudD. \_et al.\_
+### What feedback literate teachers do: an empirically-derived competency framework
+### Assessment & Evaluation in Higher Education
+(2023)
+ÇakirogluÜ. \_et al.\_
+### Learning programming online: Influences of various types of feedback on programming performances
+### International Journal of Computer Science Education in Schools
+(2020)
+CavalcantiA.P. \_et al.\_
+### An Analysis of the Use of Good Feedback Practices in Online Learning Courses
+### 2019 IEEE 19th International Conference on Advanced Learning Technologies (ICALT)
+(2019)
+Cents-BoonstraM. \_et al.\_
+### Patterns of motivating teaching behaviour and student engagement: a microanalytic approach
+### European Journal of Psychology of Education
+(2022)
+ChanC.K.Y. \_et al.\_
+### Exploring teacher perceptions of different types of ‘feedback practices’ in higher education: implications for teacher feedback literacy
+### Assessment & Evaluation in Higher Education
+(2022)
+ComerD.R. \_et al.\_
+### Enhancing Discussions in the Asynchronous Online Classroom
+### Journal of Management Education
+(2013)
+Correia, A.-P. (2020). Learning, Design, and Technology, An International Compendium of Theory, Research, Practice, and...
+DennenV.P. \_et al.\_
+### Instructor–Learner Interaction in Online Courses: The relative perceived importance of particular instructor actions on performance and satisfaction
+### Distance Education
+(2007)
+ErE. \_et al.\_
+### A collaborative learning approach to dialogic peer feedback: a theoretical framework
+### Assessment & Evaluation in Higher Education
+(2021)
+EspasaA. \_et al.\_
+### Analysing feedback processes in an online teaching and learning environment: an exploratory study
+### Higher Education
+(2010)
+FinchamE. \_et al.\_
+### From Study Tactics to Learning Strategies: An Analytical Method for Extracting Interpretable Representations
+### IEEE Transactions on Learning Technologies
+(2017)
+View more references
+[View full text](https://www.sciencedirect.com/science/article/pii/S0360131526000606)
+© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

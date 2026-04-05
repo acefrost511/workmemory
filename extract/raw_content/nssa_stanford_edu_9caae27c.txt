@@ -1,0 +1,306 @@
+# Source URL: https://nssa.stanford.edu/studies/tutor-copilot-human-ai-approach-scaling-real-time-expertise
+# Content Length: 16825 characters
+# Extracted at: 2026-04-05 03:07:12
+#============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise | National Student Support Accelerator
+
+
+
+
+
+
+[Skip to main content](#main-content)
+
+[![]()](/)
+
+
+
+
+
+##### Main navigation
+
+* [About](/about)
+  + [About Us](/about)
+  + [People](/people/staff)
+* [Tools](/tools)
+  + [All Tools](/tools)
+  + [Toolkit for Tutoring Programs](/toolkit-tutoring-programs)
+  + [Tutoring Quality Standards](/tqis/quality-standards)
+  + [District Playbook for High-Impact Tutoring](/district-playbook-high-impact-tutoring)
+  + [Self-Assessments](/tqis)
+  + [Tutoring Program Design Badge](/tqis/badging)
+* [Briefs & Reports](/briefs)
+* [Research](/research)
+  + [Research Home](/research)
+  + [Overview of the Field](/research/to-date)
+  + [Our Research Agenda](/research/research-agenda)
+  + [Research Priorities](/research/research-priorities)
+  + [Partner Sites](/research/ongoing)
+  + [Resources](/research/findings)
+* [Databases](/tutoring-information-hub)
+  + [Tutoring Information Hub](/tutoring-information-hub)
+  + [Tutoring Database](/high-impact-tutoring-database)
+  + [State Tutoring Efforts and Legislation Database](/legislation)
+  + [Research Studies Database](/studies)
+  + [Tutor Training Library](/tutor-training-library)
+* [Engage](/learn-more)
+  + [News](/news)
+  + [Events](/events)
+  + [Videos](/webinars)
+  + [Strategic Advising](/engage/strategic-advising)
+  + [NSSA Newsletters](/newsletters)
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+##### Research
+
+* [Home](/research)
+* [Overview of the Field](/research/to-date)
+* [Our Research Agenda](/research/research-agenda)
+* [Research Priorities](/research/research-priorities)
+* [Partner Sites](/research/ongoing)
+* [Resources](/research/findings)
+
+
+
+Breadcrumb
+----------
+
+1. [Home](/)
+2. [Research Studies](/studies)
+3. Tutor CoPilot: A Human-AI Approach For Scaling Real-Time Expertise
+
+
+
+Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise
+==================================================================
+
+
+### Bibliographic Data
+
+Author(s)
+Wang, R. E., Ribeiro, A. T., Robinson, C. D., Loeb, S., & Demszky, D.
+
+Year of Study
+2025
+
+Publication
+National Student Support Accelerator
+
+Generative AI, particularly Large Language Models (LLMs), can expand access to expert guidance in domains like education, where such support is often limited. We introduce Tutor CoPilot, a Human-AI system that models expert thinking to assist tutors in real time. In a randomized controlled trial involving more than 700 tutors and 1,000 students from underserved communities, students with tutors using Tutor CoPilot were 4 percentage points more likely to master math topics (p<0.01). Gains were highest for students of lower-rated tutors (+9 p.p.), and the tool is low-cost (about $20/tutor/year). Analysis of over 350,000 messages shows Tutor CoPilot promotes effective pedagogy, increasing the use of probing questions and reducing generic praise. In this work we show the potential for human-AI systems to scale expertise in a real-world domain, bridge gaps in skills, and create a future where high-quality education is accessible to all students.
+
+
+ [Download paper](/sites/default/files/ai24_1054_v2.pdf)
+
+
+
+Audiences
+[Legislator](/audiences/legislator), 
+[Researcher](/audiences/researcher), 
+[Student](/audiences/student), 
+[Tutor](/audiences/tutor), 
+[Tutoring Organization](/audiences/tutoring-organization)
+
+
+Topics
+[Research Priorities](/topics/research-priorities), 
+[Research Studies](/topics/research-studies)
+
+
+
+
+
+### Media Mentions
+
+
+##### --- [Research Notes: Two Emerging Strategies for Using AI in Tutoring](https://www.future-ed.org/research-notes-two-emerging-strategies-for-using-ai-in-tutoring/)
+
+02/17/2026 | *[FutureEd](https://www.future-ed.org/research-notes-two-emerging-strategies-for-using-ai-in-tutoring/)*
+
+
+
+Generative artificial intelligence (AI) has the potential to reshape the K-12 tutoring landscape with promises of serving more students at lower cost. But until recently, evidence on whether AI-enabled tutoring can actually improve student learning has been limited. Two new randomized controlled trials find that AI embedded in live, chat-based math tutoring can improve student academic outcomes, raising questions about the tradeoffs between cost and the value of personal connections provided by human tutors.
+
+One [**study**](https://storage.googleapis.com/deepmind-media/LearnLM/learnLM_nov25.pdf), conducted by researchers from Google and Eedi Labs, evaluated LearnLM, a generative AI tutoring system that provides responses to students’ questions that are reviewed by a supervising human tutor. Tutors could approve the AI’s responses as written or edit them before sending them to students. Between May and June 2025, 165 students ages 13 to 15 participated in the study. Within each tutoring session, students were randomly assigned to one of three conditions: chatting with a human tutor, chatting with LearnLM, or receiving static, pre-written hints from the Eedi Labs platform.
+
+The results suggest that AI can function as a reliable instructional tool on its own. Supervising tutors approved 76.4 percent of LearnLM’s responses with little or no edits, and the LearnLM was just as effective as human tutors in helping students correct their mistakes. More notably, students who interacted with LearnLM performed better on subsequent, more challenging topics: they had a 66 percent success rate, compared with students tutored by humans alone (61 percent) or those who received static hints (56 percent).
+
+A second [**study**](https://edworkingpapers.com/sites/default/files/ai24_1054_v2.pdf) conducted by researchers at Stanford University examined a different model: Tutor CoPilot, an AI-tool designed to provide guidance to tutors during chat-based tutoring sessions. Different from LearnLM, which gives the supervising tutor only one suggested response, Tutor CoPilot gives tutors three suggested responses that tutors can choose from, edit, or regenerate. In a study conducted between March and May 2024, 1,000 elementary school students were randomly assigned to chat-based sessions with either a human tutor alone or a human tutor using Tutor CoPilot.
+
+Students in the Tutor CoPilot condition were four percentage points more likely to achieve topic mastery than students assigned to human tutors, with the largest gains (up to 9 points) among students assigned to lower-rated and less-experienced tutors. The researchers suggest that these improvements were likely driven by the use of higher-quality instructional practices—tutors using CoPilot were 10 percentage points more likely to prompt students to explain their thinking, while tutors in the control condition were more likely to rely on generic encouragement.
+
+...
+
+
+
+
+##### --- [How Tutor Co-Pilot Systems Scale Teaching Capacity Worldwide](https://www.aicerts.ai/news/how-tutor-co-pilot-systems-scale-teaching-capacity-worldwide/)
+
+01/09/2026 | *[AI CERTs](https://www.aicerts.ai/news/how-tutor-co-pilot-systems-scale-teaching-capacity-worldwide/)*
+
+
+
+In many classrooms, teachers juggle planning, grading, and live guidance. Meanwhile, new tutor co-pilot systems promise a digital assistant at every elbow. These teacher-facing AI tools surface prompts, hints, and data during live sessions. As a result, even novice tutors can respond with expert-like moves. Randomized trials from Stanford to Nigeria now show tangible learning gains. Consequently, districts and donors are racing to pilot the technology. However, concerns around pedagogy, privacy, and equity still temper enthusiasm. Understanding the evidence, costs, and risks helps leaders decide when to adopt. This article analyzes tutor co-pilot systems, current data, and practical deployment steps. Along the way, we examine classroom AI trends and links to certified upskilling. Moreover, we highlight how student engagement improves when teachers gain timely insight. Finally, we point toward further research needed for responsible scale.
+
+#### Tutor Co-Pilot Systems Impact
+
+Stanford’s National Student Support Accelerator ran the largest randomized trial to date. Researchers embedded tutor co-pilot systems within 900 tutors serving 1,800 students. Overall mastery rose four percentage points over control groups. Moreover, students paired with lower-rated tutors gained nine points. World Bank teams replicated positive effects in Nigerian secondary English classes. The AI assistant there delivered 0.31 standard deviation growth within six weeks. Consequently, analysts equated the short program to almost two years of schooling.
+
+...
+
+
+
+
+##### --- [Pandemic, Politics, Pre-K & More: 12 Charts That Defined Education in 2024](https://www.the74million.org/article/charts-that-defined-education-in-2024/)
+
+12/15/2024 | *[The 74](https://www.the74million.org/article/charts-that-defined-education-in-2024/)*
+
+
+
+As 2024 reaches its end, it’s a good time to ask what’s coming next for K–12 education.
+
+Nearly five years after the emergence of COVID, the pandemic’s after-effects still ripple through schools and communities, with student learning persistently failing to reach levels seen in 2019. Just under $200 billion in federal assistance to states, which was used to keep districts afloat during the crisis, expired in September — with no further help visible on the horizon.
+
+Increasingly, though, the kids filling American schools have only dim memories of quarantines or virtual instruction. Their experience is instead defined by a rash of trends and technologies that sprang up, or became much more common, during the period when schooling was scrambled: a massive build-out of tutoring programs; the rapid adoption of artificial intelligence as a tool of both academic achievement and academic dishonesty; a rise in student despair and anxiety, which some experts attribute to the spread of smartphones; and, for adolescents, soaring recreational marijuana use under newly permissive state laws.
+
+...
+
+#### **AI Could Get the Most out of Tutors**
+
+Tutoring programs exploded in the last five years as states and school districts searched for ways to counter plummeting achievement during COVID. But the cost of providing supplemental instruction to tens of millions of students can be eye-watering, even as the results [seem to taper off](https://www.the74million.org/article/tutoring-reality-check-exclusive-research-shows-gains-shrink-as-programs-expand/) as programs serve more students.
+
+That’s where artificial intelligence could prove a decisive advantage. [A report](https://studentsupportaccelerator.org/studies/tutor-copilot-human-ai-approach-scaling-real-time-expertise) circulated in October by the National Student Support Accelerator found that an AI-powered tutoring assistant significantly improved the performance of hundreds of tutors by prompting them with new ways to explain concepts to students. With the help of the tool, dubbed Tutor CoPilot, students assigned to the weakest tutors began posting academic results nearly equal to those assigned to the strongest. And the cost to run the program was just $20 per pupil.
+
+The paper suggests that tutoring initiatives may successfully adapt to the challenges of cost and scale. Another hopeful piece of evidence appeared this spring, when [Stanford University researchers found](https://www.the74million.org/article/study-short-burst-tutoring-in-literacy-shows-promise-for-young-readers/) that a “small burst” program in Florida produced meaningful literacy gains for young learners through micro-interactions lasting just 5–7 minutes at a time. If the success of such models can be replicated, there’s a chance that the benefits of tutoring could be enjoyed by millions more students.
+
+...
+
+
+
+
+##### --- [AI-enhanced tutoring: Bridging the achievement gap in American education](https://www.eschoolnews.com/digital-learning/2024/12/09/ai-tutoring-bridging-equity-achievement-gap/)
+
+12/09/2024 | *[eSchool News](https://www.eschoolnews.com/digital-learning/2024/12/09/ai-tutoring-bridging-equity-achievement-gap/)*
+
+
+
+Key points:
+
+* *AI-enhanced can help create a more accessible, equitable, and effective education system*
+* *[Equitable access to AI in classrooms is a problem](https://www.eschoolnews.com/digital-learning/2024/11/13/equitable-access-ai-professional-development/)*
+* *[How AI can unleash student curiosity, creativity, and critical thinking](https://www.eschoolnews.com/digital-learning/2024/11/12/ai-students-curiosity-creativity-critical-thinking/)*
+* *For more news on AI in education, visit eSN’s [Digital Learning](https://www.eschoolnews.com/digital-learning) hub*
+
+...
+
+Although [the initial results of AI-powered tutoring are extremely promising](https://www.norc.org/research/library/unlocking-hearts-and-minds-transformative-power-of-ai-enhanced-high-dose-tutoring.html), its widespread implementation faces technical, ethical, and practical obstacles. For example, [the Tutor CoPilot project](https://studentsupportaccelerator.org/sites/default/files/Tutor%20CoPilot.pdf) has identified several technical challenges, including the need for robust content knowledge, the ability to engage in multi-turn conversations, and the capacity to provide explanations tailored to individual students’ needs. These needs must be addressed before these tools are widely adopted, and they are likely best addressed by a collaborative effort between researchers, educators, and developers to refine and improve these systems to maximize impact.
+
+Embedded evaluation and continuous improvement in all development and deployment phases will help ensure these tools truly deliver on their promise of improving educational outcomes for all students.
+
+AI-enhanced tutoring represents an imminent and transformative opportunity to create a more accessible, equitable, and effective education system. By combining the proven benefits of high-dose tutoring with the scalability and adaptability of AI, educators have the potential to bridge long-standing achievement gaps and provide all students with the support they need to succeed. As AI in tutoring and education progresses, it’s essential to continue to invest in research, development, and implementation of these innovative tools to help bring about educational equity for all students.
+
+...
+
+
+
+
+##### --- [Stanford U’s Tutor CoPilot Transforms Real-Time Tutoring with AI-Driven Expert Guidance](https://syncedreview.com/2024/11/15/self-evolving-prompts-redefining-ai-alignment-with-deepmind-chicago-us-eva-framework-3/)
+
+11/15/2024 | *[Synced](https://syncedreview.com/2024/11/15/self-evolving-prompts-redefining-ai-alignment-with-deepmind-chicago-us-eva-framework-3/)*
+
+
+
+Generative AI, including Language Models (LMs), holds the promise to reshape key sectors like education, healthcare, and law, which rely heavily on skilled professionals to navigate complex responsibilities. In education, for instance, effective teacher training with expert feedback is crucial yet costly, limiting opportunities to enhance educational quality on a larger scale.
+
+In a new paper *Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise*, a Stanford University research team presents Tutor CoPilot, a new model that offers expert-level guidance to tutors in real time. This study is the first of its kind—a randomized controlled trial testing a Human-AI system in live tutoring scenarios.
+
+Tutor CoPilot aims to enhance K-12 education by providing immediate, actionable guidance to tutors, ultimately improving the live learning experience for students.
+
+...
+
+
+
+
+
+
+
+
+
+
+More Studies
+------------
+
+##### [When interventions don’t move the needle: Insights from null results in education research](/studies/when-interventions-dont-move-needle-insights-null-results-education-research)
+
+---
+
+
+##### [Exploring the Potential of Outcomes-Based Contracting: Findings from Initial Implementations](/studies/exploring-potential-outcomes-based-contracting-findings-initial-implementations)
+
+---
+
+
+##### [The effect of tutoring primary school pupils by university students on STEM interest: a pre-registered randomised controlled trial](/studies/effect-tutoring-primary-school-pupils-university-students-stem-interest-pre-registered)
+
+---
+
+
+##### [The Influence of Culturally Responsive Literacy Practices on Students’ Literacy Motivation](/studies/influence-culturally-responsive-literacy-practices-students-literacy-motivation)
+
+---
+
+
+##### [Does Instructional Alignment Affect the Impact of Tutoring?](/studies/does-instructional-alignment-affect-impact-tutoring)
+
+---
+
+
+
+[More →](/studies)
+
+
+
+
+
+
+
+
+[![]()](https://stanford.edu)
+
+**National Student Support Accelerator**  
+507 Lasuen Mall, Stanford, CA 94305  
+Email: [info@studentsupportaccelerator.org](mailto:info@studentsupportaccelerator.org)
+
+**Stay Connected**
+
+            
+
+
+
+
+
+
+
+
