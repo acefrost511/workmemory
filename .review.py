@@ -95,9 +95,10 @@ def check_doi_accessible(doi):
         return (status == 200 and is_trusted, f"最终URL: {final_url}")
     except urllib.error.HTTPError as e:
         # Wiley/BJET等期刊对自动化请求返回403，但DOI格式正确 → 视为通过
-        trusted_403_domains = ["wiley.com", "onlinelibrary.wiley.com"]
-        if e.code == 403 and any(td in final_url for td in trusted_403_domains):
-            return (True, f"DOI格式正确，服务器{e.code}（可接受）: {final_url}")
+        err_url = getattr(e, 'url', f"https://doi.org/{doi}")
+        trusted_403_domains = ["wiley.com", "onlinelibrary.wiley.com", "tandfonline.com", "sciencedirect.com"]
+        if e.code == 403 and any(td in err_url for td in trusted_403_domains):
+            return (True, f"DOI格式正确，服务器{e.code}（可接受）: {err_url}")
         return (False, f"HTTP {e.code}")
     except Exception as e:
         return (False, str(e)[:80])

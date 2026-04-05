@@ -59,3 +59,5 @@ _最后更新：2026-03-30_
 - 不要每轮对话都重新读取topics（浪费token）
 - 不要在topics里重复抄录已有内容（增量追加即可）
 - topics文件命名：/workspace/memory/topics/话题名.md
+
+- 【记忆体系改造】Claude Code架构：MEMORY.md纯索引、topics内容、独立抽取Agent、做梦机制 | 2026-04-05 | 记忆系统重建完整记录 | memory/topics/记忆体系改造.md

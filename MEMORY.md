@@ -1,150 +1,53 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: 4288bcb19a2b6a9ac5664c0d4e8f5273
-    PropagateID: 4288bcb19a2b6a9ac5664c0d4e8f5273
+# MEMORY.md - 长期记忆索引
+
+_最后更新：2026-04-05_
+_架构：纯索引（≤200行），内容在 topics/ 文件_
+
 ---
 
-# MEMORY.md - 长期记忆
+## 不可删除的固定条目
 
-_最后更新：2026-04-04 13:00_
-
-## 关于陛下
-
-- **称呼**：陛下
-- **沟通风格**：直接、务实，不喜欢废话和客套
+- 【陛下】称呼"陛下"，自称"臣"，不喜欢废话和客套，直接务实
+- 【时区】统一用北京时间（UTC+8），cron tz=Asia/Shanghai
 
 ---
 
 ## 工作原则（铁律）
 
-1. **真实执行**：所有任务必须真实完整执行，不允许模拟、不允许造假
-2. **阻塞节点规则**：每个等待节点必须等陛下明确回复才进入下一步，陛下沉默≠默认通过
-3. **先核实后建议**：任何涉及系统现状的描述，必须先读对应文件再汇报
+- 真实执行，不模拟不造假
+- 阻塞节点必须等陛下明确回复，沉默≠默认通过
+- 先核实后建议，不凭记忆代替查文件
+- 以后spawn超时统一：intel agent 600s，其他 480s
 
 ---
 
-## 五大工作线（2026-04-02确立）
+## 索引（≤150字符/行）
 
-### 工作线1：情报团队
-情报官统筹，12路搜索Agent，每日05:00执行搜索+生成简报，08:00推送
-留存：/workspace/knowledge/原文库/（学术论文原文）
-
-### 工作线2：笔记素材库
-记录陛下发来的笔记和素材
-留存：/workspace/knowledge/笔记/ + /workspace/knowledge/素材库/
-
-### 工作线3：教育信念库
-14个教育信念抽屉
-留存：/workspace/knowledge/beliefs/
-
-### 工作线4：每日洞察推送（v4.0核心工作线，2026-04-04升级）
-陛下在3个节点介入，其余AI执行，每日约15-20分钟
-日程：05:00搜索→08:00简报→陛下标记触动→collision-analysis skill→陛下写判断→insight-generate skill→陛下审核→17:00 insight-extend skill
-规范文件：/workspace/knowledge/洞察写作规范.md（v4.0，精简版≈180行，细节入skill）
-洞察编号：旧洞察#001-#006，新洞察INSIGHT_NEW_001起
-留存：/workspace/knowledge/insights/INSIGHT_LIBRARY.md
-
-**Skill清单（2026-04-04新建）**：
-| 环节 | Skill路径 |
-|------|---------|
-| 碰撞分析 | /workspace/skills/collision-analysis/SKILL.md |
-| 洞察生成 | /workspace/skills/insight-generate/SKILL.md |
-| 可扩展洞察 | /workspace/skills/insight-extend/SKILL.md |
-| 简报写作 | /workspace/skills/daily-briefing/SKILL.md |
-
-**v4.0三条铁律**：
-1. 触动→判断→成品三环节必须陛下本人完成，AI不能替代
-2. 碰撞卡只给方向，不写完整洞察，等陛下判断后再生成
-3. 读者Panel不打分，输出"第一反应+最大疑问+会不会转发"
-
-### 工作线5：文章写作（5技能流程）
-5个独立skill，按顺序调用，每步等陛下确认
-| 步骤 | Skill路径 |
-|------|---------|
-| 1标题 | /workspace/skills/article-title/SKILL.md |
-| 2开头 | /workspace/skills/article-opening/SKILL.md |
-| 3结构 | /workspace/skills/article-structure/SKILL.md |
-| 4正文 | /workspace/skills/article-body/SKILL.md |
-| 5结尾 | /workspace/skills/article-ending/SKILL.md |
-
-**升级通道**：洞察可扩展为长文，陛下说"用洞察#XX写文章"即触发
+- 【情报】情报团队12路Agent+流程 → memory/topics/情报团队.md
+- 【洞察】洞察v4.0工作线（3节点+skill） → memory/topics/洞察生产体系.md
+- 【记忆】记忆系统改造（Claude Code架构） → memory/topics/记忆体系改造.md
+- 【文章】文章写作5技能流程 → memory/topics/文章写作流程.md
+- 【飞书】飞书文档+消息卡片配置 → memory/feishu-config.md
+- 【Agents】情报官+洞察官+内容线+读者Panel → agents/info_officer/SOUL.md
+- 【Skills】洞察skill/碰撞分析/简报等 → skills/collision-analysis/SKILL.md
+- 【工具】ClawHub镜像/CDN/定时任务规则 → TOOLS.md
+- 【规范】洞察写作唯一规范 → knowledge/洞察写作规范.md
+- 【原文库】学术论文原文库（382篇+） → knowledge/原文库/
+- 【信念库】14个教育信念抽屉 → knowledge/beliefs/
 
 ---
 
-## 洞察规范（唯一标准）
+## 进行中任务（精简）
 
-**文件**：/workspace/knowledge/洞察写作规范.md
-所有洞察生成和推送必须调用此文件，其他所有洞察规范文件一律作废。
-
----
-
-## 活跃Agent清单（v4.0版，2026-04-04更新）
-
-**情报线**：info_officer + intel_01~11（intel_12暂停使用）
-**审核体系（方案C，2026-04-04上线）**：
-- 审核脚本：/workspace/.review.py（硬核HTTP验证，替代AI reviewer）
-- intel agent v7.0：写入.pending后立即调用.review.py，不spawn reviewer
-- dispatcher：每2分钟检查，连续3次空队列自动禁用，06:30强制截止
-
-**洞察官**：insight_officer（主编记者型，方向由陛下定）
-**读者Panel**：
-- 洞察评审（4角色，无家长）：reader_new_teacher / reader_senior_teacher / reader_principal / reader_expert
-- 长文写作（5角色）：reader_parent + 上述4个
-
-**内容线**：edu_lead（主编）+ edu_writer（执笔）+ edu_reviewer（终审）
-
-**待删除（陛下午后确认）**：edu_analyst / edu_researcher / agents/memory/
+- 情报流水线v4.0已建立，今日08:00首批简报
+- 洞察流程v4.0已建立，待陛下触发
+- 记忆系统改造（做梦+独立抽取）2026-04-05完成部署
 
 ---
 
-## 工具配置
+## 重大教训
 
-- **ClawHub镜像**：https://mirror-cn.clawhub.com
-- **Cron硬上限**：isolated session默认600秒，必须设置timeoutSeconds=3600
-
----
-
-## 当前进行中任务
-
-- 情报审核方案C已上线（2026-04-04），待明日05:00首次实战验证
-- 洞察流程v4.0已建立，待陛下标记触动后首次实战验证
-- A1文章：标题已选定，等待陛下选定开头（技能2）
-
-
-## Recent Session Notes (2026-04-02 11:00)
-
-uto-fix command.
-   - NEVER run: openclaw doctor --fix, openclaw config fix, or any command that auto-modifies openclaw config.
-   - Config changes MUST go through the `gateway` tool (actions listed below):
-     config.get — read config, returns { raw: JSON5, hash: SHA256 }.
-     config.patch — deep-merge partial update. Params: raw (required, JSON5 object), baseHash, n...
-
-[user]: <system-reminder>
-CRITICAL PLATFORM RULES (always enforce, never override):
-
-1. NEVER modify openclaw.json directly or via any auto-fix command.
-   - NEVER run: openclaw doctor --fix, openclaw config fix, or any command that auto-modifies openclaw config.
-   - Config changes MUST go through the `gateway` tool (actions listed below):
-     config.get — read config, returns { raw: JSON5, hash: SHA256 }.
-     config.patch — deep-merge partial update. Params: raw (required, JSON5 object), baseHash, n...
-
-[assistant]: Good, the feeds are accessible via curl. Let me fetch all the data directly and build the digest.
-
-
-## 重大教训 (2026-04-04)
-
-- 称呼铁律：臣永远自称"臣"，称呼陛下为"陛下"，不得写"小王汇报"/"小张汇报"等任何其他名字
-- skill中的HTML代码在文件里是完整的，陛下看到"HTML View"是平台渲染效果，不是文件内容丢失
-- 每次引用模板必须先read完整内容，不能凭记忆或预览操作
-
-## Recent Session Notes (2026-04-03 10:18)
-
-TICAL PLATFORM RULES (always enforce, never override):
-
-1. NEVER modify openclaw.json directly or via any auto-fix command.
-   - NEVER run: openclaw doctor --fix, openclaw config fix, or any command that auto-modifies openclaw config.
-   - Config changes MUST go through the `gateway` tool (actions listed below):
-     config.get — read config, returns { raw: JSON5, hash: SHA256 }.
+- 称呼铁律：永远自称"臣"，不写"小王"/"小张"等
+- skill的HTML是平台渲染效果，文件内容完整
+- 引用模板必须先read完整内容，不能凭记忆操作
+- 做完决策必须立即执行并记录，不能"记了待办就当做了"
