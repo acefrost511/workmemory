@@ -2,16 +2,6 @@
   "entries": [
     {
       "role": "assistant",
-      "snippet": "有大量未推送文件，现在按修改时间倒序取最新10篇并读取内容。\n这些文件时间戳相近，现在批量读取10篇原文内容。\n好，已获取全部10篇原文内容。现在检查是否有现有格式参考，然后写入简报。\n已了解格式。现在写入今日简报（2026-04-05）。\n简报写入成功，验证文件内容。\n**✅ 简报生成测试完成**\n\n---\n\n**执行结果汇报：**\n\n- **找到未推送文件**：原文库中共发现 **大量未推送文件**（全量扫描结果均为\"未推送\"标记）\n- **本次处理**：按修改时间倒序取最新10篇，全部读取并分析完毕\n- **写入简报**：10篇，全部写入 `/workspace/.daily_briefing.md`（208行，覆盖原有文件）\n- **流程状态**：✅ 全流程跑通\n\n---\n\n**本次简报10篇文章清单：**\n\n1. 顾小清_生成式AI赋能教学机制_中国教育学刊2025\n2. 远程教育杂志_人机协同课堂评价层级模型_王志军2025\n3. 远程教育杂志_GenAI促进高阶思维_68项实证_刘明2025\n4. 中国教育学刊_与AI大模型对话促进深度思维_赵晓伟2025\n5. 课程教材...",
-      "timestamp": "2026-04-05T15:03:26.585Z"
-    },
-    {
-      "role": "user",
-      "snippet": "<system-reminder>\nCRITICAL PLATFORM RULES (always enforce, never override):\n\n1. NEVER modify openclaw.json directly or via any auto-fix command.\n   - NEVER run: openclaw doctor --fix, openclaw config fix, or any command that auto-modifies openclaw config.\n   - Config changes MUST go through the `gateway` tool (actions listed below):\n     config.get — read config, returns { raw: JSON5, hash: SHA256 }.\n     config.patch — deep-merge partial update. Params: raw (required, JSON5 object), baseHash, n...",
-      "timestamp": "2026-04-05T15:07:32.278Z"
-    },
-    {
-      "role": "assistant",
       "snippet": "📋 **审核调度器 · 3:07 PM 执行报告**\n\n队列状态：空（连续第 12 次）\n计数器：11 → 12\n状态：继续监控，无需干预\n停止阈值：20 次（剩余 8 次后评估）",
       "timestamp": "2026-04-05T15:07:46.273Z"
     },
@@ -149,8 +139,18 @@
       "role": "user",
       "snippet": "<system-reminder>\nCRITICAL PLATFORM RULES (always enforce, never override):\n\n1. NEVER modify openclaw.json directly or via any auto-fix command.\n   - NEVER run: openclaw doctor --fix, openclaw config fix, or any command that auto-modifies openclaw config.\n   - Config changes MUST go through the `gateway` tool (actions listed below):\n     config.get — read config, returns { raw: JSON5, hash: SHA256 }.\n     config.patch — deep-merge partial update. Params: raw (required, JSON5 object), baseHash, n...",
       "timestamp": "2026-04-05T15:46:00.938Z"
+    },
+    {
+      "role": "user",
+      "snippet": "<system-reminder>\nCRITICAL PLATFORM RULES (always enforce, never override):\n\n1. NEVER modify openclaw.json directly or via any auto-fix command.\n   - NEVER run: openclaw doctor --fix, openclaw config fix, or any command that auto-modifies openclaw config.\n   - Config changes MUST go through the `gateway` tool (actions listed below):\n     config.get — read config, returns { raw: JSON5, hash: SHA256 }.\n     config.patch — deep-merge partial update. Params: raw (required, JSON5 object), baseHash, n...",
+      "timestamp": "2026-04-05T15:47:44.179Z"
+    },
+    {
+      "role": "assistant",
+      "snippet": "根因找到了：`linkinghub.elsevier.com` 不在 review.py 白名单里，3篇全部审核被删。立即修复：\nreview.py 已修复。现在同时解决 intel_01 耗时过长（上次跑了9分46秒，远超150秒限制）的问题——把 intel_01 超时改回 600 秒（平台硬上限），同时把 cron 自身超时从 120 秒改为 600 秒：\n同时把 intel_01~05 cron 和 intel_06~12 cron 的自身 timeout 都改成 600 秒（平台上限）：\nreview.py 已更新并补充 8 个新域名白名单。更新 PRIORITY-LOG 后立即实测：\n实测 intel_01 v15.1（review.py白名单已修复 + 超时改为550秒）：\nintel_01 v15.1 已启动（550秒）。这次如果跑满，应该是最后一次调试——review.py 白名单已完整，intel_01 不会再被阻断。\n\n**明日最终流水线确认：**\n\n```\n05:00  a4b3f1ed  spawn intel_01~05（立即退出，不等结果）\n05:10  ...",
+      "timestamp": "2026-04-05T15:47:57.404Z"
     }
   ],
   "lastSessionId": "2a12d8e1-03a0-4621-952f-1021fa952ac6",
-  "lastFlushAt": "2026-04-05T15:46:56.233Z"
+  "lastFlushAt": "2026-04-05T15:52:56.236Z"
 }

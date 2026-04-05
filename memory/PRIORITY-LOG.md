@@ -306,3 +306,24 @@ cron 4段流水线（明日05:00起生效）：
 - intel agent：600秒
 - 其他所有spawn：480秒
 - 已更新 TOOLS.md + info_officer SOUL.md + 2个cron payload
+
+## 2026-04-05 14:42~16:00 陛下指令执行结果
+
+**【情报流水线全链路跑通】** 2026-04-05 15:57 → ✅ 全面完成
+- ✅ intel_01 v15.1实测：3篇入库，3/3审核通过，耗时354秒
+- ✅ review.py白名单修复：linkinghub.elsevier.com/openalex.org/researchgate等8域名
+- ✅ dispatcher自停bug修复：重建为b6647cb2
+- ✅ 06:30截止cron：新建7b85c095
+- ✅ 今日简报推送：10篇已推送飞书code=0
+- ✅ intel_01~05 cron新建：a4b3f1ed
+- ✅ intel_02双重.pending路径bug修复
+- ✅ intel_05/06/08路径配置补充
+- ✅ spawn超时统一：intel 600s，其他 480s
+- ✅ bee13444超时：60s→300s
+
+**明日流水线（2026-04-06 05:00起）**：
+- 05:00 a4b3f1ed intel_01~05 spawn
+- 05:10 0510 intel_06~12 spawn
+- 05:10 b6647cb2 dispatcher实时审核
+- 05:40 0540 简报生成+推送
+- 06:30 7b85c095 dispatcher停止+兜底
