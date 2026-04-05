@@ -291,3 +291,18 @@ cron 4段流水线（明日05:00起生效）：
 - 简报生成+推送 cron（0540-intel-aggregate）→ enabled=true，timeout=570s ✅
 - 审核调度器（reviewer-plan-b-dispatcher）→ enabled=true，timeout=120s ✅
 - 明日05:00起：三段流水线完整运行
+
+## 2026-04-05 14:42 陛下指令：全面验证+自行修复
+
+**【情报流水线全链路实测】** 2026-04-05 14:42 → 🔄 进行中
+- 素材库：382篇未推送（充足）✅
+- 明日简报有保障 ✅
+- intel_01 实测：session agent:intel_01:subagent:08a536e8，后台运行中
+- 0540 简报生成实测：session agent:main:subagent:8b7b15b8，后台运行中
+- dispatcher anchor问题：reviewer-plan-b-dispatcher 已删除，重建为 eabfa507（*/2分钟cron，20次空停止）
+- intel_06~12 04:30批：无单独cron，intel_06~12 由 0510（05:10）统一覆盖
+
+**【Spawn超时规则】** 2026-04-05 14:42 → ✅ 已确立
+- intel agent：600秒
+- 其他所有spawn：480秒
+- 已更新 TOOLS.md + info_officer SOUL.md + 2个cron payload
