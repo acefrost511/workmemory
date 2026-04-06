@@ -32,3 +32,8 @@ Sun Apr  5 07:28:21 CST 2026 | 无新commit，结束
 ---
 [GitHub同步] 时间=Sun Apr  5 14:21:38 UTC 2026 | 结果=成功 | 推送SHA=446723d518279fa3db2499b662d7d134e9687ada | 从=8003915f→446723d | 分支=main
 [Sun Apr  5 19:21:16 UTC 2026] GitHub推送成功，SHA=49df1b72a3be50e7167913b8837d4d9fa229df98
+
+---
+GitHub推送失败，SHA=856ae2cbd59e22969de57b6af214fbe6ea53de9c，time=2026-04-05 21:21 UTC，原因：GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+
+[Sun Apr  5 22:23:23 UTC 2026] GitHub推送失败，SHA=856ae2cbd59e22969de57b6af214fbe6ea53de9c，原因：网络超时（timeout 50s无响应）

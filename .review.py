@@ -184,7 +184,18 @@ def review(filepath):
     doi = extract_doi(content)
     arxiv_id = extract_arxiv_id(content)
 
-    # ── 1. 禁止域名检查 ──
+    # ── 1. 作者字段真实性检查（铁律：禁止"待确认/待查/待补"占位符） ──
+    author_match = re.search(r'(?:作者|Authors?)[\*\#]*[：:]\s*(.+?)(?:\n|$)', content, re.IGNORECASE)
+    if author_match:
+        author_val = author_match.group(1).strip().lstrip('*# ')
+        placeholders = ['待确认', '待查', '待补充', '待补', '未知', '暂无', 'tbd', 'pending', 'null', 'none']
+        if any(p in author_val for p in placeholders):
+            return delete(filepath, f"作者字段为占位符: {author_val}")
+    else:
+        # 无作者字段 → 删除
+        return delete(filepath, "无作者字段")
+
+    # ── 1b. 禁止域名检查 ──
     forbidden = check_forbidden_domain(content)
     if forbidden:
         return delete(filepath, f"非授权来源: {forbidden}")

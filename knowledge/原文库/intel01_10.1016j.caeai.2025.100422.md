@@ -8,6 +8,8 @@
 **DOI**：10.1016/j.caeai.2025.100422
 **搜索来源**：intel_01 | batch_web_search
 
+**作者**：Ma Ming, Ng Davy Tsz Kit, Liu Zhichun, et al.
+
 ## 摘要
 AI ethics education remains significantly underprioritized in classroom practice, despite the global push for AI literacy in K-12 curricula. This systematic review analyzes 68 peer-reviewed publications (from January 2014 to March 2025) to map the research landscape of K-12 AI ethics education. The results reveal global trends in the current research landscape, pedagogical designs addressing major responsible AI (RAI) principles, and various learning assessment methods, and students' ethical learning outcomes manifested across cognitive, affective, and behavioral domains. By further synthesizing findings, we identify disparities of eastern and western contexts, gaps in addressing RAI principles and emerging ethical issues, limitations of methodological methods, and issues in assessing ethical learning outcomes. This review calls for greater attention to integrating AI ethics into K-12 AI literacy frameworks.
 
