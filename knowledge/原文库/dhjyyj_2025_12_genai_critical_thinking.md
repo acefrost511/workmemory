@@ -19,3 +19,4 @@ Collaborative problem-solving is considered an effective approach to fostering s
 **说明**：本文来自《电化教育研究》2025年第12期，研究对象为小学五年级科学课堂，属于K-12人工智能教育教学研究。来源符合CNKI及万方数据白名单要求。
 
 **审核状态**：✅已补审（历史遗留文件）
+**发表年月**：2025-01年

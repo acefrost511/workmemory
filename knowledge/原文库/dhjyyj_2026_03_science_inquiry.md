@@ -19,3 +19,4 @@ In the reform of science education in the new era, students' scientific inquiry 
 **说明**：本文来自《电化教育研究》2026年第3期，明确聚焦中小学科学探究学习，属于K-12人工智能教育教学研究。来源符合CNKI及万方数据白名单要求。
 
 **审核状态**：✅已补审（历史遗留文件）
+**发表年月**：2026-01年

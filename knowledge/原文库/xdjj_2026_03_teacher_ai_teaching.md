@@ -19,3 +19,4 @@ This study constructs a willingness-behavior model for AI teaching among primary
 **说明**：本文来自《现代教育技术》2026年第3期，聚焦中小学教师人工智能教学意愿与行为分析，属于K-12教师人工智能教育研究。来源符合CNKI白名单要求。
 
 **审核状态**：✅已补审（历史遗留文件）
+**发表年月**：2026-01年

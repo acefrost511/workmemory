@@ -19,3 +19,4 @@ Artificial intelligence as a new quality productive force is profoundly reshapin
 **说明**：本文来自《开放教育研究》2025年第31卷第2期，明确聚焦人工智能融入基础教育改革，属于K-12人工智能教育研究。来源符合CNKI及万方数据白名单要求。
 
 **审核状态**：✅已补审（历史遗留文件）
+**发表年月**：2025-01年

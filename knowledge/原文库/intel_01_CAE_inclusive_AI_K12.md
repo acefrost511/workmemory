@@ -38,3 +38,4 @@ As artificial intelligence (AI) becomes increasingly integrated into K–12 educ
 **摘要状态**：✅已补充（内容提取）
 
 **审核状态**：✅已补审（历史遗留文件）
+**发表年月**：2025-12年

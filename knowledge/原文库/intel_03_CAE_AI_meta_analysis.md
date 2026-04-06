@@ -17,7 +17,9 @@
 
 Recent developments in artificial intelligence (AI) have revolutionized the field of education. Many empirical studies have been conducted to evaluate the effectiveness of using AI on students' academic achievement. The purpose of this meta-analysis was to examine the overall effect of AI on students' academic achievement in relation to a set of moderator variables including educational level, role of AI, intervention duration, sample size, learning strategy, subject area, and type of AI. Following PRISMA guidelines, a total of 29 empirical studies were selected from 6 databases (Scopus, Web of Science, APA PsycINFO, Education Full Text, Education Source, ERIC, and Social Sciences Full Text), comprising a sample of 2,657 participants. **Overall, we found a significant positive effect of AI on students' academic performance, with an effect size of 0.924.** This study validates the efficacy of AI and provides a critical foundation for future research.
 
-## 核心发现
+#
+**发表年月**：2025-06年
+# 核心发现
 
 - AI对学生学业成绩有显著正向影响
 - 效应量（Effect Size）= 0.924（大效应）

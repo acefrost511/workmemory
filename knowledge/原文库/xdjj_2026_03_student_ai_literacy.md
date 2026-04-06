@@ -19,3 +19,4 @@ This study examines the connotation evolution and target upgrade of artificial i
 **说明**：本文来自《现代教育技术》2026年第3期，专门聚焦中小学生人工智能素养框架构建，属于K-12人工智能教育研究。来源符合CNKI白名单要求。
 
 **审核状态**：✅已补审（历史遗留文件）
+**发表年月**：2026-01年

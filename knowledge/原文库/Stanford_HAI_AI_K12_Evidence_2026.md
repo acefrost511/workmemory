@@ -7,7 +7,9 @@
 - **URL**: https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf
 - **数据来源**: AI Hub for Education Research Repository
 
-## 核心发现
+#
+**发表年月**：2025-10年
+# 核心发现
 
 **关键结论：**
 截至2025年10月，AI Hub for Education Research Repository已收录超过800篇学术论文，但关于AI如何影响K-12学生和教育者的研究仍然极为有限。

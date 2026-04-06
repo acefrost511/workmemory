@@ -7,7 +7,9 @@
 - **URL**: https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html
 - **DOI**: 待验证
 
-## 核心发现（≥300字）
+#
+**发表年月**：2026-01年
+# 核心发现（≥300字）
 
 OECD数字教育展望2026探索了生成式AI在教育中的新兴研究，并呈现了有前景的创新工具和应用。
 

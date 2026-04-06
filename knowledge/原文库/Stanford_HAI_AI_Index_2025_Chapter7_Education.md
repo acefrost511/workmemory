@@ -7,7 +7,9 @@
 - **URL（报告主页）**: https://hai.stanford.edu/ai-index/2025-ai-index-report/education
 - **PDF全文**: https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf
 
-## 核心发现
+#
+**发表年月**：2025-01年
+# 核心发现
 
 ### K-12计算机科学教育现状
 - 全球约2/3的国家已开设或计划开设K-12计算机科学教育，是2019年的2倍

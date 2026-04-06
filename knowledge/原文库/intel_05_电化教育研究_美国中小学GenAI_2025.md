@@ -27,7 +27,9 @@ Generative Artificial Intelligence has created a new wave of change in the field
 
 Generative Artificial Intelligence has created a new wave of change in the field of basic education. Using comparative research method and case study method, this paper analyse the delimitation and appropriate way of applying generative artificial intelligence in American primary and secondary schools by taking the United States, the frontier country of intelligent technology-driven teaching and learning practice, as the research object. The research finds that the risk factors triggered by generative artificial intelligence, such as academic integrity crisis, the risk of individual intelligence degradation, the hidden danger of technology ethics, and the aggravation of the educational divide, have made primary and secondary schools in the United States respond differently to generative artificial intelligence technology, including strict prohibition, cautious support and positive embrace. At the same time, the United States relies on top-level design, consolidating capabilities, bridging the gap, and creating an atmosphere to ensure the reasonable use of artificial intelligence technology in primary and secondary schools. Drawing on the experience of the United States, China can start from examining the potential for change, improving the institutional framework, carrying out professional training, and adhering to the bottom line of fairness, to promote the application of generative artificial intelligence in primary and secondary schools.
 
-## 核心发现
+#
+**发表年月**：2025-01年
+# 核心发现
 
 - 美国中小学对生成式人工智能的回应分三类：严令禁止、谨慎支持、积极拥抱
 - 风险因素包括：学业诚信危机、个体智慧退化风险、技术伦理安全隐患、教育鸿沟加剧

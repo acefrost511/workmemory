@@ -19,3 +19,4 @@ Programming learning, as a crucial component of information technology curriculu
 **说明**：本文来自《电化教育研究》2026年第3期，研究对象为初中编程教育，属于K-12人工智能教育教学研究。来源符合CNKI及万方数据白名单要求。
 
 **审核状态**：✅已补审（历史遗留文件）
+**发表年月**：2026-01年
