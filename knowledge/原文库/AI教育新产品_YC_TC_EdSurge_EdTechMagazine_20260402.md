@@ -1,3 +1,4 @@
+**发表年月**：2026-04年
 # AI教育新产品情报 - 原文库
 > 情报来源：Y Combinator / TechCrunch / EdSurge / EdTech Magazine  
 > 搜索时间：2026-04-02  

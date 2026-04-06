@@ -1,3 +1,4 @@
+**发表年月**：2026-01年
 # THE Journal | Tech Outlook 2026: What Education Leaders Expect this Year
 
 **媒体名：** THE Journal (Technological Horizons in Education)  

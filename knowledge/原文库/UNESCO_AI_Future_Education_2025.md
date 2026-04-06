@@ -1,6 +1,7 @@
 # UNESCO AI and the Future of Education: Disruptions, Dilemmas and Directions
 
-## 基本信息
+#**发表年月**：2025-09年
+# 基本信息
 ## 摘要
 - **相关URL（英国站）**：https://unesco.org.uk/resources/ai-and-the-future-of-education-disruptions-dilemmas-and-directions-2025
 

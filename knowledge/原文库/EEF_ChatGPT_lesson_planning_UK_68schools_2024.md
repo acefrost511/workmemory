@@ -1,3 +1,4 @@
+**发表年月**：2024-12年
 # 【入库】英国ChatGPT辅助教师备课RCT：68所学校259名教师随机对照实验
 
 **标题**：Teachers Using ChatGPT Trial

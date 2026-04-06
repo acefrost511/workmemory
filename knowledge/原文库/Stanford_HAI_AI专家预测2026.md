@@ -1,6 +1,7 @@
 # Stanford HAI - AI专家预测2026：AI从布道时代转向评估时代
 
-## 基本信息
+#**发表年月**：2025-12年
+# 基本信息
 ## 摘要
 - **机构**: Stanford Institute for Human-Centered Artificial Intelligence (Stanford HAI) / 斯坦福以人为本人工智能研究所 - **报告名称**: Stanford AI Experts Predict What Will Happen in 2026 - **官方来源URL**: https://hai.stanford.
 

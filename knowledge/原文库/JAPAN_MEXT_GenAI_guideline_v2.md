@@ -1,6 +1,7 @@
 # 【日本】初等中等教育阶段生成式AI利用指南（Ver.2.0）
 
-## 基本信息
+#**发表年月**：2024-12年
+# 基本信息
 ## 摘要
 | 官方URL | https://www.mext.go.jp/a_menu/other/mext_02412.html | | PDF（本体） | https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf | | PDF（英文版） | https://www.mext.go.jp/content/20250422-mxt_shuukyo01-000030823_001.
 

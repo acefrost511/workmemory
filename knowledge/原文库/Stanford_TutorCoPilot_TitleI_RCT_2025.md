@@ -1,3 +1,4 @@
+**发表年月**：2024-03年
 # 【入库】Tutor CoPilot：斯坦福大学实时辅导AI的人机协同RCT
 
 **标题**：Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise

@@ -1,6 +1,7 @@
 # 【英国】生成式人工智能与教育政策文件
 
-## 基本信息
+#**发表年月**：2025-08年
+# 基本信息
 ## 摘要
 | 政策名称 | Generative artificial intelligence (AI) in education | | 官方URL | https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education/generative-artificial-intelligence-ai-in-education | 英国教育部（DfE）发布本政策文件以支持AI机遇行动计划（AI Opportunities Action Plan）和变革计划（Plan for Change）。本文件阐述了在英格兰各级教育场景中如何安全、有效和负责任地使用生成式AI。
 

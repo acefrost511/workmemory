@@ -1,3 +1,4 @@
+**发表年月**：2026-01年
 **标题**：An Empirical Study on Conversational Pedagogical Agents Promoting Programming Learning Performance Among Secondary School Students
 
 **期刊**：电化教育研究

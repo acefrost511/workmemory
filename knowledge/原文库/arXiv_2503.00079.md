@@ -1,3 +1,4 @@
+**发表年月**：2025-02年
 # AI Literacy in K-12 and Higher Education in the Wake of Generative AI: An Integrative Review
 
 ## 基础信息

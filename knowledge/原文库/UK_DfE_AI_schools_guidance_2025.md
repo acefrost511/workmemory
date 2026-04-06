@@ -1,6 +1,7 @@
 # 【英国】学校AI使用指南：AI在学校和学院中的应用
 
-## 基本信息
+#**发表年月**：2025-06年
+# 基本信息
 ## 摘要
 | 政策名称 | AI in schools and colleges: what you need to know | | 官方URL | https://educationhub.blog.gov.uk/2025/06/artificial-intelligence-in-schools-everything-you-need-to-know/ | 英国教育部发布学校AI使用指南，解释AI在学校和学院中的使用规范、权限、好处和政府举措，涵盖教师AI使用、学生AI使用、政府投资计划等核心议题。
 

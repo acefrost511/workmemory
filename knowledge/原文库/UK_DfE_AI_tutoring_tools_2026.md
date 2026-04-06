@@ -1,6 +1,7 @@
 # 【英国】AI辅导工具政策公告
 
-## 基本信息
+#**发表年月**：2026-01年
+# 基本信息
 ## 摘要
 | 政策名称 | 450,000 Disadvantaged Pupils Could Benefit from AI Tutoring Tools | | 官方URL | https://www.gov.uk/government/news/450000-disadvantaged-pupils-could-benefit-from-ai-tutoring-tools | 英国政府宣布，多达45万名弱势背景学生将从安全的AI驱动辅导工具中受益，获得个性化的一对一学习支持，缩小与同龄人之间的学业差距。相关工具将于2027年底前在学校推出。
 

@@ -1,3 +1,4 @@
+**发表年月**：2026-04年
 # Promoting inclusive AI and technology in K-12 education
 
 **标题**：Promoting inclusive AI and technology in K-12 education: A review of context, instructional strategies, and learning outcomes

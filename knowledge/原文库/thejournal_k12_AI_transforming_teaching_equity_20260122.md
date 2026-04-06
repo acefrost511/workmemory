@@ -1,3 +1,4 @@
+**发表年月**：2026-01年
 # THE Journal | How AI Is Transforming Teaching, Engagement, and Equity in K–12
 
 **媒体名：** THE Journal (Technological Horizons in Education)  

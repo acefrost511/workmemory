@@ -1,3 +1,4 @@
+**发表年月**：2026-01年
 **标题**：Generative Artificial Intelligence Enabling Scientific Inquiry-based Learning: Value Connotation, Practical Framework and Implementation Strategies
 
 **期刊**：电化教育研究

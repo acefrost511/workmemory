@@ -1,3 +1,4 @@
+**发表年月**：2025-01年
 # Stanford HAI AI Index Report 2025 — Chapter 7: Education
 
 ## 基础信息

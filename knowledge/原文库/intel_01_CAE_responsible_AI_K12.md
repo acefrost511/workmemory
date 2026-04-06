@@ -1,3 +1,4 @@
+**发表年月**：2026-04年
 # Fostering responsible AI literacy: A systematic review of K-12 AI ethics education
 
 **标题**：Fostering responsible AI literacy: A systematic review of K-12 AI ethics education

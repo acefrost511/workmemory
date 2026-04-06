@@ -1,3 +1,4 @@
+**发表年月**：2026-03年
 # EdTech Magazine | Six Artificial Intelligence Data Trends to Watch
 
 **媒体名：** EdTech Magazine (K-12)  

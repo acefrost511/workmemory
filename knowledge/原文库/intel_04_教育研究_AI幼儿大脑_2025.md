@@ -1,6 +1,7 @@
 # 人工智能与幼儿大脑教育开发
 
-## 基本信息
+#**发表年月**：2026-04年
+# 基本信息
 - **标题**：人工智能与幼儿大脑教育开发
 - **英文标题**：Artificial Intelligence and Early Childhood Brain Education Development
 - **作者**：李永智，孙蔷蔷

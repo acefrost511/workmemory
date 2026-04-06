@@ -1,3 +1,4 @@
+**发表年月**：2026-01年
 # EdSurge | K–12 Edtech in 2026: Five Trends Shaping the Year Ahead
 
 **媒体名：** EdSurge  

@@ -1,3 +1,4 @@
+**发表年月**：2026-01年
 # THE Journal | 2026 Predictions for AI and Ed Tech in K-12 Education
 
 **媒体名：** THE Journal (Technological Horizons in Education)  

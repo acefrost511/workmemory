@@ -1,6 +1,7 @@
 # A Perspective on K-12 AI Education
 
-## 基本信息
+#**发表年月**：2022-05年
+# 基本信息
 - **标题**：A Perspective on K-12 AI Education
 - **作者**：Nathan Wang, Paul Tonko, Nikil Ragav, Michael Chungyoun, Jonathan Plucker
 - **arXiv ID**：2206.03217

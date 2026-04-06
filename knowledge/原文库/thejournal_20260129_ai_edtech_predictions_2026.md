@@ -1,3 +1,4 @@
+**发表年月**：2026-01年
 # 情报原文存档
 ## 来源：THE Journal（Technological Horizons in Education）| 日期：2026年1月29日
 

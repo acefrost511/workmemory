@@ -1,6 +1,7 @@
 # 禁止还是拥抱：美国中小学应用生成式人工智能的划界与适切之道
 
-## 基本信息
+#**发表年月**：2026-04年
+# 基本信息
 ## 摘要
 Generative Artificial Intelligence has created a new wave of change in the field of basic education. Using comparative research method and case study method, this paper analyse the delimitation and appropriate way of applying generative artificial intelligence in American primary and secondary schools by taking the United States, the frontier country of intelligent technology-driven teaching and l
 

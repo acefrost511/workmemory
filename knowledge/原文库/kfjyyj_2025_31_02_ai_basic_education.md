@@ -1,3 +1,4 @@
+**发表年月**：2025-01年
 **标题**：Integration of Artificial Intelligence into Basic Education: Boosting Involution or Enhancing New Quality?
 
 **期刊**：开放教育研究

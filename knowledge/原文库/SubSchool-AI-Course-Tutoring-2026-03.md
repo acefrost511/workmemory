@@ -6,7 +6,8 @@
 
 ---
 
-## 基本信息
+#**发表年月**：2026-03年
+# 基本信息
 ## 摘要
 | 公司地址 | 17 King Edwards Road, 2nd Floor College House, Ruislip, HA4 7AE, United Kingdom | | Product Hunt链接 | https://www.producthunt.com/products/subschool | Product Hunt是全球知名的新产品发现平台，YC等知名加速器孵化的项目通常选择在此首发。SubSchool选择Product Hunt首发，体现了其国际化产品的定位。
 

@@ -1,6 +1,7 @@
 # Stanford AI+Education Summit 2026
 
-## 基本信息
+#**发表年月**：2026-02年
+# 基本信息
 ## 摘要
 - **机构**: Stanford Accelerator for Learning & Stanford HAI (斯坦福学习加速器 & 斯坦福以人为本人工智能研究院) - **主题**: The AI Inflection Point: What, How, and Why We Learn - **官方来源URL**: https://hai.stanford.
 

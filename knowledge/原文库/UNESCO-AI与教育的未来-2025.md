@@ -1,6 +1,7 @@
 # UNESCO报告：AI与教育的未来——颠覆、困境与方向
 
-## 基本信息
+#**发表年月**：2025-09年
+# 基本信息
 ## 摘要
 - **报告摘要页面**：https://www.unesco.org/en/articles/ai-and-future-education-disruptions-dilemmas-and-directions
 

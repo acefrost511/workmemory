@@ -1,3 +1,4 @@
+**发表年月**：2026-01年
 **标题**：Artificial Intelligence Literacy of Primary and Secondary School Students: Connotation Evolution, Target Upgrade and 3×3 Framework Construction
 
 **期刊**：现代教育技术

@@ -1,6 +1,7 @@
 # World Bank - Artificial Intelligence Revolution in Education: What You Need to Know
 
-## 基本信息
+#**发表年月**：2024-06年
+# 基本信息
 ## 摘要
 - **官方来源URL**: https://www.worldbank.org/en/region/lac/publication/innovaciones-digitales-para-la-educacion-en-america-latina
 

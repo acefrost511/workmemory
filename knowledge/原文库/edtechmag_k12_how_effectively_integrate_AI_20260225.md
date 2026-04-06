@@ -1,3 +1,4 @@
+**发表年月**：2026-02年
 # EdTech Magazine | How To Effectively Integrate AI Into the Classroom
 
 **媒体名：** EdTech Magazine (K-12)  

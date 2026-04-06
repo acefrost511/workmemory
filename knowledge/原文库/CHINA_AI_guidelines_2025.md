@@ -1,6 +1,7 @@
 # 【中国】中小学人工智能教育指南（2025年版）
 
-## 基本信息
+#**发表年月**：2025-05年
+# 基本信息
 ## 摘要
 | 官方URL（gov.cn） | https://www.gov.cn/lianbo/bumen/202505/content_7023810.htm | | 官方URL（edu.cn） | https://www.edu.cn/xxh/focus/zc/202505/t20250513_2667990.shtml | | 官方URL（cse.edu.cn） | https://www.cse.edu.cn/index/detail.
 

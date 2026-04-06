@@ -1,6 +1,7 @@
 # McKinsey - From surplus to scarcity: K–12 districts brace for leaner years
 
-## 基本信息
+#**发表年月**：2025-09年
+# 基本信息
 ## 摘要
 - **官方来源URL**: https://www.mckinsey.com/industries/education/our-insights/from-surplus-to-scarcity-k-12-districts-brace-for-leaner-years
 

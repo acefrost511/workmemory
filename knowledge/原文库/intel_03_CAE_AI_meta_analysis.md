@@ -1,6 +1,7 @@
 # Examining the Effect of Artificial Intelligence in Relation to Students' Academic Achievement: A Meta-Analysis
 
-## 基本信息
+#**发表年月**：2026-04年
+# 基本信息
 - **标题**：Examining the Effect of Artificial Intelligence in Relation to Students' Academic Achievement: A Meta-Analysis
 - **作者**：Liu Dong, Xiuxiu Tang, Xiyu Wang
 - **期刊**：Computers and Education: Artificial Intelligence（Elsevier）

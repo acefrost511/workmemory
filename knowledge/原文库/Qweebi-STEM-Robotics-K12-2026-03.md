@@ -6,7 +6,8 @@
 
 ---
 
-## 基本信息
+#**发表年月**：2026-03年
+# 基本信息
 ## 摘要
 | 其他投资方 | Jeroen Tas（前Mphasis联合创始人/飞利浦首席创新战略官）、Arpit Jain（SplashLearn联合创始人兼CEO） | - **领投方**：Inflection Point Ventures（IPV）——拥有24,000+ CXO、高净值人士和专业投资者的天使投资平台 - **产业投资人**：Jeroen Tas为前Mphasis联合创始人（后被Sequoia支持的HomeLane收购）、Arpit Jain为SplashLearn联合创始人兼CEO
 

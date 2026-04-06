@@ -1,3 +1,4 @@
+**发表年月**：2025-10年
 # 情报原文存档
 ## 来源：Stanford Center for Research on Foundation Models (CRFM) / Stanford Accelerator for Learning | 日期：2026年
 

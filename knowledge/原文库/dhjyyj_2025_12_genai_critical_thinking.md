@@ -1,3 +1,4 @@
+**发表年月**：2025-01年
 **标题**：A Study on the Impact of Collaborative Problem-solving Supported by GenAI on Elementary School Students' Critical Thinking
 
 **期刊**：电化教育研究

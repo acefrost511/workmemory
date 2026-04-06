@@ -1,6 +1,7 @@
 # UNESCO报告：AI与教育——保护学习者的权利
 
-## 基本信息
+#**发表年月**：2025-09年
+# 基本信息
 ## 摘要
 - **标题**：AI and education: Protecting the rights of learners - **报告全文链接**：https://unesdoc.unesco.org/ark:/48223/pf0000395373_eng - **报告摘要页面**：https://www.unesco.
 

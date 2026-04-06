@@ -1,3 +1,4 @@
+**发表年月**：2022-11年
 # UNESCO/OECD/WorldBank/Stanford HAI 国际机构AI教育报告清单
 > 情报员：intel_08 | 搜索日期：2026-04-02 | 版本：v1.0
 

@@ -1,3 +1,4 @@
+**发表年月**：2025-10年
 # The Evidence Base on AI in K-12: A 2026 Review
 
 ## 基础信息

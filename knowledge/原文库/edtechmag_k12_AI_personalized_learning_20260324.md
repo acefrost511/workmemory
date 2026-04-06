@@ -1,3 +1,4 @@
+**发表年月**：2026-03年
 # EdTech Magazine | AI Tools Support Personalized Learning in K–12 Education
 
 **媒体名：** EdTech Magazine (K-12)  

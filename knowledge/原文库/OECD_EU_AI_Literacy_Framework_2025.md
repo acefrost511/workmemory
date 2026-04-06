@@ -1,3 +1,4 @@
+**发表年月**：2025-05年
 # Empowering learners for the age of AI: An AI literacy framework for primary and secondary education
 
 ## 基础信息

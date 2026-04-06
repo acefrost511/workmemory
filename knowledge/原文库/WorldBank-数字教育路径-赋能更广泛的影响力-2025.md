@@ -1,6 +1,7 @@
 # World Bank报告：数字教育路径——赋能更广泛的影响力
 
-## 基本信息
+#**发表年月**：2025-01年
+# 基本信息
 ## 摘要
 - **报告发布会**：https://www.worldbank.org/en/events/2025/01/29/digital-pathways-for-education-enabling-greater-impact-for-all
 

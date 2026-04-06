@@ -1,3 +1,4 @@
+**发表年月**：2026-01年
 **标题**：Willingness Measurement and Behavior Analysis of AI Teaching for Primary and Secondary School Teachers: A Multi-dimensional Empirical Study Based on National Scope
 
 **期刊**：现代教育技术

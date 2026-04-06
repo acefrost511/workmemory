@@ -1,3 +1,4 @@
+**发表年月**：2026-02年
 # EdTech Magazine | AI Translation Is Opening Doors for Students, Families and Schools
 
 **媒体名：** EdTech Magazine (K-12)  

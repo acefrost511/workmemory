@@ -1,6 +1,7 @@
 # OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education
 
-## 基本信息
+#**发表年月**：2026-01年
+# 基本信息
 ## 摘要
 - **PDF链接**: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-education-outlook-2026_940e0dd8/062a7394-en.pdf
 
