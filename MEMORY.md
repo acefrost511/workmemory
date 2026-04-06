@@ -21,6 +21,8 @@ _架构：纯索引（≤200行），内容在 topics/ 文件_
 - skill的HTML是平台渲染效果，文件内容完整（2026-04-05）
 - 引用模板必须先read完整内容，不能凭记忆操作（2026-04-05）
 - 做完决策必须立即执行并记录，不能"记了待办就当做了"（2026-04-05）
+- GitHub推送存在间歇性失败（TLS/GnuTLS错误、HTTP 408、认证失败），sync_sha机制可兜底，内容不丢失（2026-04-06）
+- 【铁律】有skill的任务，必须调用skill执行，禁止跳过skill直接手动完成任务（2026-04-06）✅ 已记录
 
 ---
 
@@ -86,3 +88,28 @@ CRITICAL PLATFORM RULES (always enforce, never override):
   - 案例：daily-briefing skill存在，臣却自己读文件写简报→违反铁律
   - 正确做法：spawn子agent + 指令"读取XX skill → 按其步骤执行"
   - skill的cron也必须更新payload为"调用skill执行"，而非重写整个流程
+
+
+## Recent Session Notes (2026-04-06 06:21)
+
+[user]: <system-reminder>
+CRITICAL PLATFORM RULES (always enforce, never override):
+
+1. NEVER modify openclaw.json directly or via any auto-fix command.
+   - NEVER run: openclaw doctor --fix, openclaw config fix, or any command that auto-modifies openclaw config.
+   - Config changes MUST go through the `gateway` tool (actions listed below):
+     config.get — read config, returns { raw: JSON5, hash: SHA256 }.
+     config.patch — deep-merge partial update. Params: raw (required, JSON5 object), baseHash, n...
+
+[assistant]: 还是不行。`MiniMax-M2.7` 不在平台的模型白名单里。
+
+**结论：陛下 Coding Plan 里的 2.7 模型，需要先在 MaxClaw 控制台激活/关联到这个 OpenClaw 实例，才能用。**
+
+建议陛下联系 MaxClaw 官方（或者去控制台）确认：
+> "我的 Coding Plan 2.7 模型，怎么在 OpenClaw 里启用？"
+
+臣这边技术上限到这里了——臣能改配置，但改不了平台没开放的模型。
+
+---
+
+现在继续处理情报流水线问题吗？
