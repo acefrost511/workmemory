@@ -19,6 +19,8 @@ Recent developments in artificial intelligence (AI) have revolutionized the fiel
 
 #
 **发表年月**：2025-06年
+
+**发表年月**：2025-06年
 # 核心发现
 
 - AI对学生学业成绩有显著正向影响

@@ -29,6 +29,8 @@ Generative Artificial Intelligence has created a new wave of change in the field
 
 #
 **发表年月**：2025-01年
+
+**发表年月**：2025-01年
 # 核心发现
 
 - 美国中小学对生成式人工智能的回应分三类：严令禁止、谨慎支持、积极拥抱

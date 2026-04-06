@@ -20,3 +20,5 @@ This study constructs a willingness-behavior model for AI teaching among primary
 
 **审核状态**：✅已补审（历史遗留文件）
 **发表年月**：2026-01年
+
+**发表年月**：2026-01年

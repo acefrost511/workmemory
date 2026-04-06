@@ -19,6 +19,8 @@ Artificial intelligence (AI), which enables machines to learn to perform a task 
 
 #
 **发表年月**：2022-05年
+
+**发表年月**：2022-05年
 # 核心发现
 
 - K-12阶段AI教育对劳动力市场、经济和国家安全具有重要意义
