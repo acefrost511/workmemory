@@ -1,1 +1,95 @@
-LS0tCkFJR0M6CiAgICBDb250ZW50UHJvZHVjZXI6IE1pbmltYXggQWdlbnQgQUkKICAgIENvbnRlbnRQcm9wYWdhdG9yOiBNaW5pbWF4IEFnZW50IEFJCiAgICBMYWJlbDogQUlHQwogICAgUHJvZHVjZUlEOiA0ZmNlM2MxYWRmODY4YjY0NmMxZWYyNDYyYWE3MjlhZQogICAgUHJvcGFnYXRlSUQ6IDRmY2UzYzFhZGY4NjhiNjQ2YzFlZjI0NjJhYTcyOWFlCiAgICBSZXNlcnZlZENvZGUxOiAzMDQ1MDIyMTAwOTNmNzY4ZTYwOGI2ZjgxN2YwYWJmM2Y0ZDhjZDAzM2E5MDE3Yzk5NDMyNTk1ZTRjYWJiZDdiYWMzN2ZlMDEyMTAyMjAzNTI2ZTUzZmU0ZGEzNWI5NTc0ZTUxYzI1OWYxYjQwMWIxYjgxMzVmOTdmMWUxOGY3ZmVlNDk0ZDY2NjUwN2FiCiAgICBSZXNlcnZlZENvZGUyOiAzMDQ1MDIyMTAwYzRiYzMxYWEzNDNhZTE2YmVlNDRiZDdhMjU5ZTEzOWQ0ZGI0ODQyNjFmNzEzMDc3MjAwZTYyOTczMjhiYjBlZjAyMjA3NjA0MGM3ZWZiMzdiMGIxMzg2ZTViYjVjNTNkMmQzZTUzYzAyZTE2NWNhZDU2ZTgxMGFmMGMxMjlhYjZmZWZlCi0tLQoKIyDmioDog70077ya5q2j5paH5YaZ5L2cCj4g54mI5pys77yadjEuMCB8IOaXpeacn++8mjIwMjYtMDQtMDEKPiDlrprkvY3vvJrln7rkuo7pqqjmnrbvvIzloavlhYXlrozmlbTmraPmlofliJ3nqL8KPiDor4Tku7fmoIflh4bvvJrlrozor7vnjocgKyDngrnotZ7njocgKyDovazlj5HnjocKPiDosIPnlKjml7bmnLrvvJrlhpnkvZzku7vliqHnrKzlm5vmraXvvIznrYnpmZvkuIvlrqHlrprpqqjmnrblkI7miafooYwKCi0tLQoKIyMg6L6T5YWlCgotIOehruiupOeahOagh+mimAotIOehruiupOeahOW8gOWktAotIOehruiupOeahOmqqOaetu+8iDMtNeS4quWwj+iKgu+8iQotIOeglOeptuadkOaWme+8iERPSeWIl+ihqCvmoLjlv4Plj5HnjrDvvIkKLSDpmZvkuIvnmoTnrJTorrAv57Sg5p2Q77yI5LuOL3dvcmtzcGFjZS9rbm93bGVkZ2Uv57Sg5p2Q5bqTL+ivu+WPlu+8iQoKLS0tCgojIyDovpPlh7oKCuWujOaVtOato+aWh+WIneeov++8jOWMheWQq++8mgotIOagh+mimAotIOW8gOWktO+8iOKJpDE1MOWtl++8iQotIOato+aWh++8iOavj+S4quWwj+iKgu+8muWcuuaZr+KGkuaVsOWtl+KGkuino+ivu+KGkui/h+a4oe+8iQotIOe7k+WwvgotIERPSeWvueeFp+ihqAoKLS0tCgojIyDmraPmloflhpnkvZzop4TojIMKCiMjIyDmrrXlhoXnu5PmnoTvvJrlnLrmma/ihpLmlbDlrZfihpLop6Por7vihpLov4fmuKHlj6UKCuavj+S4quWkp+iuuueCueWJjeimgeacieaVheS6i+mTuuWeq++8iOiAgeW4iOW8leivreaIlueUn+a0u+WcuuaZr++8ieOAggoKIyMjIOavj+S4queglOeptuW8leeUqOWFreimgee0oAoKMS4g56CU56m26ICF5YWo5ZCNCjIuIOaJgOWxnuacuuaehAozLiDlubTku70KNC4g56CU56m25pa55rOV77yI5LiA5Y+l6K+d5o+P6L+w77yJCjUuIOaguOW/g+aVsOaNru+8iOeyvuehruaVsOWtl++8iQo2LiDkuLrku4DkuYjph43opoHvvIjkuIDlj6Xor53vvIkKCiMjIyDmr4/kuKrmlbDlrZflh7rnjrDlkI7lv4Xpobvot5/op6Por7sKCi0g5pWw5a2XK+aNoueul++8iOaNoueul+aIkOeGn+aCieeahOWPgueFp+eJqe+8iQotIOaVsOWtlysi6L+Z5oSP5ZGz552A5LuA5LmIIu+8iOWPmOaIkOS4gOS4quWtqeWtkOeahOaVheS6i++8iQoKIyMjIOWtpuacr+WQjeivjeeUqOWvueavlOekuuiMg+azle+8jOS4jeeUqOWumuS5iQoKLS0tCgojIyDoh6rmo4DmuIXljZXvvIjmraPmloflrozmiJDlkI7pgJDpobnmiZPli77vvIkKCi0gWyBdIOagh+mimOWcqDEy5a2X5Lul5YaFKzE25a2X5Lul5YaF77yfCi0gWyBdIOW8gOWktOKJpDE1MOWtl++8nwotIFsgXSDmr4/kuKrop4LngrnmnInnoJTnqbbmlbDmja7mlK/mkpHvvJ8KLSBbIF0g5omA5pyJ5pWw5o2u5pyJRE9JL+WPr+afpeivgeadpea6kO+8nwotIFsgXSDml6DomZrmnoTkurrniakv5Zy65pmv77yfCi0gWyBdIOaXoCLmn5DlrabnlJ8iIuafkOWtpuagoSLnrYnmqKHns4rooajov7DvvJ8KLSBbIF0g6K+76ICF5bim6LWw4omlM+adoe+8jOavj+adoeWFt+S9k+WPr+aTjeS9nO+8nwotIFsgXSDmnInliKTmlq3moIflh4bvvJ8KLSBbIF0g5a2X5pWwODAwLTIwMDDlrZfvvJ8KLSBbIF0g5pyJ5bCP5qCH6aKY5YiG5q6177yfCi0gWyBdIOKJpTPnr4fnoJTnqbbmlK/mkpHvvJ8KLSBbIF0g5pyJRE9J5a+554Wn6KGo77yfCgotLS0KCiMjIERPSeWvueeFp+ihqOagvOW8j++8iOaWh+eroOacq+Wwvu+8iQoKYGBgCuaVsOaNruadpea6kO+8mgotIFvmlbDlrZcv57uT6K66Xe+8mlvmlofnq6DmoIfpophdIHwg5L2c6ICFIHwg5pyf5YiKIHwg5bm05Lu9IHwgRE9JCmBgYAoKLS0tCgojIyDnpoHmraIKCi0g5pyq57uP6Zmb5LiL5a6h5a6a6aqo5p6255u05o6l5YaZ5q2j5paHCi0g5bCR5LqOM+evh+eglOeptuaUr+aSkQotIOiZmuaehOS6uueJqS/lnLrmma8K
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 4fce3c1adf868b646c1ef2462aa729ae
+    PropagateID: 4fce3c1adf868b646c1ef2462aa729ae
+    ReservedCode1: 304502210093f768e608b6f817f0abf3f4d8cd033a9017c99432595e4cabbd7bac37fe012102203526e53fe4da35b9574e51c259f1b401b1b8135f97f1e18f7fee494d666507ab
+    ReservedCode2: 3045022100c4bc31aa343ae16bee44bd7a259e139d4db484261f713077200e6297328bb0ef022076040c7efb37b0b1386e5bb5c53d2d3e53c02e165cad56e810af0c129ab6fefe
+---
+
+# 技能4：正文写作
+> 版本：v1.0 | 日期：2026-04-01
+> 定位：基于骨架，填充完整正文初稿
+> 评价标准：完读率 + 点赞率 + 转发率
+> 调用时机：写作任务第四步，等陛下审定骨架后执行
+
+---
+
+## 输入
+
+- 确认的标题
+- 确认的开头
+- 确认的骨架（3-5个小节）
+- 研究材料（DOI列表+核心发现）
+- 陛下的笔记/素材（从/workspace/knowledge/素材库/读取）
+
+---
+
+## 输出
+
+完整正文初稿，包含：
+- 标题
+- 开头（≤150字）
+- 正文（每个小节：场景→数字→解读→过渡）
+- 结尾
+- DOI对照表
+
+---
+
+## 正文写作规范
+
+### 段内结构：场景→数字→解读→过渡句
+
+每个大论点前要有故事铺垫（老师引语或生活场景）。
+
+### 每个研究引用六要素
+
+1. 研究者全名
+2. 所属机构
+3. 年份
+4. 研究方法（一句话描述）
+5. 核心数据（精确数字）
+6. 为什么重要（一句话）
+
+### 每个数字出现后必须跟解读
+
+- 数字+换算（换算成熟悉的参照物）
+- 数字+"这意味着什么"（变成一个孩子的故事）
+
+### 学术名词用对比示范法，不用定义
+
+---
+
+## 自检清单（正文完成后逐项打勾）
+
+- [ ] 标题在12字以内+16字以内？
+- [ ] 开头≤150字？
+- [ ] 每个观点有研究数据支撑？
+- [ ] 所有数据有DOI/可查证来源？
+- [ ] 无虚构人物/场景？
+- [ ] 无"某学生""某学校"等模糊表述？
+- [ ] 读者带走≥3条，每条具体可操作？
+- [ ] 有判断标准？
+- [ ] 字数800-2000字？
+- [ ] 有小标题分段？
+- [ ] ≥3篇研究支撑？
+- [ ] 有DOI对照表？
+
+---
+
+## DOI对照表格式（文章末尾）
+
+```
+数据来源：
+- [数字/结论]：[文章标题] | 作者 | 期刊 | 年份 | DOI
+```
+
+---
+
+## 禁止
+
+- 未经陛下审定骨架直接写正文
+- 少于3篇研究支撑
+- 虚构人物/场景
