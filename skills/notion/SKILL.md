@@ -1,1 +1,156 @@
-LS0tCm5hbWU6IG5vdGlvbgpkZXNjcmlwdGlvbjogTm90aW9uIEFQSSBmb3IgY3JlYXRpbmcgYW5kIG1hbmFnaW5nIHBhZ2VzLCBkYXRhYmFzZXMsIGFuZCBibG9ja3MuCmhvbWVwYWdlOiBodHRwczovL2RldmVsb3BlcnMubm90aW9uLmNvbQptZXRhZGF0YTogeyJjbGF3ZGJvdCI6eyJlbW9qaSI6IvCfk50ifX0KLS0tCgojIG5vdGlvbgoKVXNlIHRoZSBOb3Rpb24gQVBJIHRvIGNyZWF0ZS9yZWFkL3VwZGF0ZSBwYWdlcywgZGF0YSBzb3VyY2VzIChkYXRhYmFzZXMpLCBhbmQgYmxvY2tzLgoKIyMgU2V0dXAKCjEuIENyZWF0ZSBhbiBpbnRlZ3JhdGlvbiBhdCBodHRwczovL25vdGlvbi5zby9teS1pbnRlZ3JhdGlvbnMKMi4gQ29weSB0aGUgQVBJIGtleSAoc3RhcnRzIHdpdGggYG50bl9gIG9yIGBzZWNyZXRfYCkKMy4gU3RvcmUgaXQ6CmBgYGJhc2gKbWtkaXIgLXAgfi8uY29uZmlnL25vdGlvbgplY2hvICJudG5feW91cl9rZXlfaGVyZSIgPiB+Ly5jb25maWcvbm90aW9uL2FwaV9rZXkKYGBgCjQuIFNoYXJlIHRhcmdldCBwYWdlcy9kYXRhYmFzZXMgd2l0aCB5b3VyIGludGVncmF0aW9uIChjbGljayAiLi4uIiDihpIgIkNvbm5lY3QgdG8iIOKGkiB5b3VyIGludGVncmF0aW9uIG5hbWUpCgojIyBBUEkgQmFzaWNzCgpBbGwgcmVxdWVzdHMgbmVlZDoKYGBgYmFzaApOT1RJT05fS0VZPSQoY2F0IH4vLmNvbmZpZy9ub3Rpb24vYXBpX2tleSkKY3VybCAtWCBHRVQgImh0dHBzOi8vYXBpLm5vdGlvbi5jb20vdjEvLi4uIiBcCiAgLUggIkF1dGhvcml6YXRpb246IEJlYXJlciAkTk9USU9OX0tFWSIgXAogIC1IICJOb3Rpb24tVmVyc2lvbjogMjAyNS0wOS0wMyIgXAogIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iCmBgYAoKPiAqKk5vdGU6KiogVGhlIGBOb3Rpb24tVmVyc2lvbmAgaGVhZGVyIGlzIHJlcXVpcmVkLiBUaGlzIHNraWxsIHVzZXMgYDIwMjUtMDktMDNgIChsYXRlc3QpLiBJbiB0aGlzIHZlcnNpb24sIGRhdGFiYXNlcyBhcmUgY2FsbGVkICJkYXRhIHNvdXJjZXMiIGluIHRoZSBBUEkuCgojIyBDb21tb24gT3BlcmF0aW9ucwoKKipTZWFyY2ggZm9yIHBhZ2VzIGFuZCBkYXRhIHNvdXJjZXM6KioKYGBgYmFzaApjdXJsIC1YIFBPU1QgImh0dHBzOi8vYXBpLm5vdGlvbi5jb20vdjEvc2VhcmNoIiBcCiAgLUggIkF1dGhvcml6YXRpb246IEJlYXJlciAkTk9USU9OX0tFWSIgXAogIC1IICJOb3Rpb24tVmVyc2lvbjogMjAyNS0wOS0wMyIgXAogIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFwKICAtZCAneyJxdWVyeSI6ICJwYWdlIHRpdGxlIn0nCmBgYAoKKipHZXQgcGFnZToqKgpgYGBiYXNoCmN1cmwgImh0dHBzOi8vYXBpLm5vdGlvbi5jb20vdjEvcGFnZXMve3BhZ2VfaWR9IiBcCiAgLUggIkF1dGhvcml6YXRpb246IEJlYXJlciAkTk9USU9OX0tFWSIgXAogIC1IICJOb3Rpb24tVmVyc2lvbjogMjAyNS0wOS0wMyIKYGBgCgoqKkdldCBwYWdlIGNvbnRlbnQgKGJsb2Nrcyk6KioKYGBgYmFzaApjdXJsICJodHRwczovL2FwaS5ub3Rpb24uY29tL3YxL2Jsb2Nrcy97cGFnZV9pZH0vY2hpbGRyZW4iIFwKICAtSCAiQXV0aG9yaXphdGlvbjogQmVhcmVyICROT1RJT05fS0VZIiBcCiAgLUggIk5vdGlvbi1WZXJzaW9uOiAyMDI1LTA5LTAzIgpgYGAKCioqQ3JlYXRlIHBhZ2UgaW4gYSBkYXRhIHNvdXJjZToqKgpgYGBiYXNoCmN1cmwgLVggUE9TVCAiaHR0cHM6Ly9hcGkubm90aW9uLmNvbS92MS9wYWdlcyIgXAogIC1IICJBdXRob3JpemF0aW9uOiBCZWFyZXIgJE5PVElPTl9LRVkiIFwKICAtSCAiTm90aW9uLVZlcnNpb246IDIwMjUtMDktMDMiIFwKICAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiBcCiAgLWQgJ3sKICAgICJwYXJlbnQiOiB7ImRhdGFiYXNlX2lkIjogInh4eCJ9LAogICAgInByb3BlcnRpZXMiOiB7CiAgICAgICJOYW1lIjogeyJ0aXRsZSI6IFt7InRleHQiOiB7ImNvbnRlbnQiOiAiTmV3IEl0ZW0ifX1dfSwKICAgICAgIlN0YXR1cyI6IHsic2VsZWN0IjogeyJuYW1lIjogIlRvZG8ifX0KICAgIH0KICB9JwpgYGAKCioqUXVlcnkgYSBkYXRhIHNvdXJjZSAoZGF0YWJhc2UpOioqCmBgYGJhc2gKY3VybCAtWCBQT1NUICJodHRwczovL2FwaS5ub3Rpb24uY29tL3YxL2RhdGFfc291cmNlcy97ZGF0YV9zb3VyY2VfaWR9L3F1ZXJ5IiBcCiAgLUggIkF1dGhvcml6YXRpb246IEJlYXJlciAkTk9USU9OX0tFWSIgXAogIC1IICJOb3Rpb24tVmVyc2lvbjogMjAyNS0wOS0wMyIgXAogIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFwKICAtZCAnewogICAgImZpbHRlciI6IHsicHJvcGVydHkiOiAiU3RhdHVzIiwgInNlbGVjdCI6IHsiZXF1YWxzIjogIkFjdGl2ZSJ9fSwKICAgICJzb3J0cyI6IFt7InByb3BlcnR5IjogIkRhdGUiLCAiZGlyZWN0aW9uIjogImRlc2NlbmRpbmcifV0KICB9JwpgYGAKCioqQ3JlYXRlIGEgZGF0YSBzb3VyY2UgKGRhdGFiYXNlKToqKgpgYGBiYXNoCmN1cmwgLVggUE9TVCAiaHR0cHM6Ly9hcGkubm90aW9uLmNvbS92MS9kYXRhX3NvdXJjZXMiIFwKICAtSCAiQXV0aG9yaXphdGlvbjogQmVhcmVyICROT1RJT05fS0VZIiBcCiAgLUggIk5vdGlvbi1WZXJzaW9uOiAyMDI1LTA5LTAzIiBcCiAgLUggIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiIgXAogIC1kICd7CiAgICAicGFyZW50IjogeyJwYWdlX2lkIjogInh4eCJ9LAogICAgInRpdGxlIjogW3sidGV4dCI6IHsiY29udGVudCI6ICJNeSBEYXRhYmFzZSJ9fV0sCiAgICAicHJvcGVydGllcyI6IHsKICAgICAgIk5hbWUiOiB7InRpdGxlIjoge319LAogICAgICAiU3RhdHVzIjogeyJzZWxlY3QiOiB7Im9wdGlvbnMiOiBbeyJuYW1lIjogIlRvZG8ifSwgeyJuYW1lIjogIkRvbmUifV19fSwKICAgICAgIkRhdGUiOiB7ImRhdGUiOiB7fX0KICAgIH0KICB9JwpgYGAKCioqVXBkYXRlIHBhZ2UgcHJvcGVydGllczoqKgpgYGBiYXNoCmN1cmwgLVggUEFUQ0ggImh0dHBzOi8vYXBpLm5vdGlvbi5jb20vdjEvcGFnZXMve3BhZ2VfaWR9IiBcCiAgLUggIkF1dGhvcml6YXRpb246IEJlYXJlciAkTk9USU9OX0tFWSIgXAogIC1IICJOb3Rpb24tVmVyc2lvbjogMjAyNS0wOS0wMyIgXAogIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFwKICAtZCAneyJwcm9wZXJ0aWVzIjogeyJTdGF0dXMiOiB7InNlbGVjdCI6IHsibmFtZSI6ICJEb25lIn19fX0nCmBgYAoKKipBZGQgYmxvY2tzIHRvIHBhZ2U6KioKYGBgYmFzaApjdXJsIC1YIFBBVENIICJodHRwczovL2FwaS5ub3Rpb24uY29tL3YxL2Jsb2Nrcy97cGFnZV9pZH0vY2hpbGRyZW4iIFwKICAtSCAiQXV0aG9yaXphdGlvbjogQmVhcmVyICROT1RJT05fS0VZIiBcCiAgLUggIk5vdGlvbi1WZXJzaW9uOiAyMDI1LTA5LTAzIiBcCiAgLUggIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiIgXAogIC1kICd7CiAgICAiY2hpbGRyZW4iOiBbCiAgICAgIHsib2JqZWN0IjogImJsb2NrIiwgInR5cGUiOiAicGFyYWdyYXBoIiwgInBhcmFncmFwaCI6IHsicmljaF90ZXh0IjogW3sidGV4dCI6IHsiY29udGVudCI6ICJIZWxsbyJ9fV19fQogICAgXQogIH0nCmBgYAoKIyMgUHJvcGVydHkgVHlwZXMKCkNvbW1vbiBwcm9wZXJ0eSBmb3JtYXRzIGZvciBkYXRhYmFzZSBpdGVtczoKLSAqKlRpdGxlOioqIGB7InRpdGxlIjogW3sidGV4dCI6IHsiY29udGVudCI6ICIuLi4ifX1dfWAKLSAqKlJpY2ggdGV4dDoqKiBgeyJyaWNoX3RleHQiOiBbeyJ0ZXh0IjogeyJjb250ZW50IjogIi4uLiJ9fV19YAotICoqU2VsZWN0OioqIGB7InNlbGVjdCI6IHsibmFtZSI6ICJPcHRpb24ifX1gCi0gKipNdWx0aS1zZWxlY3Q6KiogYHsibXVsdGlfc2VsZWN0IjogW3sibmFtZSI6ICJBIn0sIHsibmFtZSI6ICJCIn1dfWAKLSAqKkRhdGU6KiogYHsiZGF0ZSI6IHsic3RhcnQiOiAiMjAyNC0wMS0xNSIsICJlbmQiOiAiMjAyNC0wMS0xNiJ9fWAKLSAqKkNoZWNrYm94OioqIGB7ImNoZWNrYm94IjogdHJ1ZX1gCi0gKipOdW1iZXI6KiogYHsibnVtYmVyIjogNDJ9YAotICoqVVJMOioqIGB7InVybCI6ICJodHRwczovLy4uLiJ9YAotICoqRW1haWw6KiogYHsiZW1haWwiOiAiYUBiLmNvbSJ9YAotICoqUmVsYXRpb246KiogYHsicmVsYXRpb24iOiBbeyJpZCI6ICJwYWdlX2lkIn1dfWAKCiMjIEtleSBEaWZmZXJlbmNlcyBpbiAyMDI1LTA5LTAzCgotICoqRGF0YWJhc2VzIOKGkiBEYXRhIFNvdXJjZXM6KiogVXNlIGAvZGF0YV9zb3VyY2VzL2AgZW5kcG9pbnRzIGZvciBxdWVyaWVzIGFuZCByZXRyaWV2YWwKLSAqKlR3byBJRHM6KiogRWFjaCBkYXRhYmFzZSBub3cgaGFzIGJvdGggYSBgZGF0YWJhc2VfaWRgIGFuZCBhIGBkYXRhX3NvdXJjZV9pZGAKICAtIFVzZSBgZGF0YWJhc2VfaWRgIHdoZW4gY3JlYXRpbmcgcGFnZXMgKGBwYXJlbnQ6IHsiZGF0YWJhc2VfaWQiOiAiLi4uIn1gKQogIC0gVXNlIGBkYXRhX3NvdXJjZV9pZGAgd2hlbiBxdWVyeWluZyAoYFBPU1QgL3YxL2RhdGFfc291cmNlcy97aWR9L3F1ZXJ5YCkKLSAqKlNlYXJjaCByZXN1bHRzOioqIERhdGFiYXNlcyByZXR1cm4gYXMgYCJvYmplY3QiOiAiZGF0YV9zb3VyY2UiYCB3aXRoIHRoZWlyIGBkYXRhX3NvdXJjZV9pZGAKLSAqKlBhcmVudCBpbiByZXNwb25zZXM6KiogUGFnZXMgc2hvdyBgcGFyZW50LmRhdGFfc291cmNlX2lkYCBhbG9uZ3NpZGUgYHBhcmVudC5kYXRhYmFzZV9pZGAKLSAqKkZpbmRpbmcgdGhlIGRhdGFfc291cmNlX2lkOioqIFNlYXJjaCBmb3IgdGhlIGRhdGFiYXNlLCBvciBjYWxsIGBHRVQgL3YxL2RhdGFfc291cmNlcy97ZGF0YV9zb3VyY2VfaWR9YAoKIyMgTm90ZXMKCi0gUGFnZS9kYXRhYmFzZSBJRHMgYXJlIFVVSURzICh3aXRoIG9yIHdpdGhvdXQgZGFzaGVzKQotIFRoZSBBUEkgY2Fubm90IHNldCBkYXRhYmFzZSB2aWV3IGZpbHRlcnMg4oCUIHRoYXQncyBVSS1vbmx5Ci0gUmF0ZSBsaW1pdDogfjMgcmVxdWVzdHMvc2Vjb25kIGF2ZXJhZ2UKLSBVc2UgYGlzX2lubGluZTogdHJ1ZWAgd2hlbiBjcmVhdGluZyBkYXRhIHNvdXJjZXMgdG8gZW1iZWQgdGhlbSBpbiBwYWdlcwo=
+---
+name: notion
+description: Notion API for creating and managing pages, databases, and blocks.
+homepage: https://developers.notion.com
+metadata: {"clawdbot":{"emoji":"📝"}}
+---
+
+# notion
+
+Use the Notion API to create/read/update pages, data sources (databases), and blocks.
+
+## Setup
+
+1. Create an integration at https://notion.so/my-integrations
+2. Copy the API key (starts with `ntn_` or `secret_`)
+3. Store it:
+```bash
+mkdir -p ~/.config/notion
+echo "ntn_your_key_here" > ~/.config/notion/api_key
+```
+4. Share target pages/databases with your integration (click "..." → "Connect to" → your integration name)
+
+## API Basics
+
+All requests need:
+```bash
+NOTION_KEY=$(cat ~/.config/notion/api_key)
+curl -X GET "https://api.notion.com/v1/..." \
+  -H "Authorization: Bearer $NOTION_KEY" \
+  -H "Notion-Version: 2025-09-03" \
+  -H "Content-Type: application/json"
+```
+
+> **Note:** The `Notion-Version` header is required. This skill uses `2025-09-03` (latest). In this version, databases are called "data sources" in the API.
+
+## Common Operations
+
+**Search for pages and data sources:**
+```bash
+curl -X POST "https://api.notion.com/v1/search" \
+  -H "Authorization: Bearer $NOTION_KEY" \
+  -H "Notion-Version: 2025-09-03" \
+  -H "Content-Type: application/json" \
+  -d '{"query": "page title"}'
+```
+
+**Get page:**
+```bash
+curl "https://api.notion.com/v1/pages/{page_id}" \
+  -H "Authorization: Bearer $NOTION_KEY" \
+  -H "Notion-Version: 2025-09-03"
+```
+
+**Get page content (blocks):**
+```bash
+curl "https://api.notion.com/v1/blocks/{page_id}/children" \
+  -H "Authorization: Bearer $NOTION_KEY" \
+  -H "Notion-Version: 2025-09-03"
+```
+
+**Create page in a data source:**
+```bash
+curl -X POST "https://api.notion.com/v1/pages" \
+  -H "Authorization: Bearer $NOTION_KEY" \
+  -H "Notion-Version: 2025-09-03" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "parent": {"database_id": "xxx"},
+    "properties": {
+      "Name": {"title": [{"text": {"content": "New Item"}}]},
+      "Status": {"select": {"name": "Todo"}}
+    }
+  }'
+```
+
+**Query a data source (database):**
+```bash
+curl -X POST "https://api.notion.com/v1/data_sources/{data_source_id}/query" \
+  -H "Authorization: Bearer $NOTION_KEY" \
+  -H "Notion-Version: 2025-09-03" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "filter": {"property": "Status", "select": {"equals": "Active"}},
+    "sorts": [{"property": "Date", "direction": "descending"}]
+  }'
+```
+
+**Create a data source (database):**
+```bash
+curl -X POST "https://api.notion.com/v1/data_sources" \
+  -H "Authorization: Bearer $NOTION_KEY" \
+  -H "Notion-Version: 2025-09-03" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "parent": {"page_id": "xxx"},
+    "title": [{"text": {"content": "My Database"}}],
+    "properties": {
+      "Name": {"title": {}},
+      "Status": {"select": {"options": [{"name": "Todo"}, {"name": "Done"}]}},
+      "Date": {"date": {}}
+    }
+  }'
+```
+
+**Update page properties:**
+```bash
+curl -X PATCH "https://api.notion.com/v1/pages/{page_id}" \
+  -H "Authorization: Bearer $NOTION_KEY" \
+  -H "Notion-Version: 2025-09-03" \
+  -H "Content-Type: application/json" \
+  -d '{"properties": {"Status": {"select": {"name": "Done"}}}}'
+```
+
+**Add blocks to page:**
+```bash
+curl -X PATCH "https://api.notion.com/v1/blocks/{page_id}/children" \
+  -H "Authorization: Bearer $NOTION_KEY" \
+  -H "Notion-Version: 2025-09-03" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "children": [
+      {"object": "block", "type": "paragraph", "paragraph": {"rich_text": [{"text": {"content": "Hello"}}]}}
+    ]
+  }'
+```
+
+## Property Types
+
+Common property formats for database items:
+- **Title:** `{"title": [{"text": {"content": "..."}}]}`
+- **Rich text:** `{"rich_text": [{"text": {"content": "..."}}]}`
+- **Select:** `{"select": {"name": "Option"}}`
+- **Multi-select:** `{"multi_select": [{"name": "A"}, {"name": "B"}]}`
+- **Date:** `{"date": {"start": "2024-01-15", "end": "2024-01-16"}}`
+- **Checkbox:** `{"checkbox": true}`
+- **Number:** `{"number": 42}`
+- **URL:** `{"url": "https://..."}`
+- **Email:** `{"email": "a@b.com"}`
+- **Relation:** `{"relation": [{"id": "page_id"}]}`
+
+## Key Differences in 2025-09-03
+
+- **Databases → Data Sources:** Use `/data_sources/` endpoints for queries and retrieval
+- **Two IDs:** Each database now has both a `database_id` and a `data_source_id`
+  - Use `database_id` when creating pages (`parent: {"database_id": "..."}`)
+  - Use `data_source_id` when querying (`POST /v1/data_sources/{id}/query`)
+- **Search results:** Databases return as `"object": "data_source"` with their `data_source_id`
+- **Parent in responses:** Pages show `parent.data_source_id` alongside `parent.database_id`
+- **Finding the data_source_id:** Search for the database, or call `GET /v1/data_sources/{data_source_id}`
+
+## Notes
+
+- Page/database IDs are UUIDs (with or without dashes)
+- The API cannot set database view filters — that's UI-only
+- Rate limit: ~3 requests/second average
+- Use `is_inline: true` when creating data sources to embed them in pages
