@@ -1,1 +1,110 @@
-LS0tCkFJR0M6CiAgICBDb250ZW50UHJvZHVjZXI6IE1pbmltYXggQWdlbnQgQUkKICAgIENvbnRlbnRQcm9wYWdhdG9yOiBNaW5pbWF4IEFnZW50IEFJCiAgICBMYWJlbDogQUlHQwogICAgUHJvZHVjZUlEOiAxZDdlNDczYzU5MmUzZWIyODUxNmE5Y2NhYWQxOGEwNQogICAgUHJvcGFnYXRlSUQ6IDFkN2U0NzNjNTkyZTNlYjI4NTE2YTljY2FhZDE4YTA1CiAgICBSZXNlcnZlZENvZGUxOiAzMDQ1MDIyMDU5NjAyYTg0NWEyMWJhYjI2ZTQ5NDRjYjQyMGE3YzY2YzI5MzdjOTE4ZDAzYTUwN2I4MjYwYTQwODE1NDdlMjIwMjIxMDA4NmRiNjBlYjU3YTQyYjI5N2Q4ZDVjNTE5MWEyMGQ5NDI0NTMwMzZiNTQ0ZjNmZDgxYzMwMjcxYjNlYjIwOTBiCiAgICBSZXNlcnZlZENvZGUyOiAzMDQ1MDIyMTAwY2E1ODE3ZjljMzlkZjJmYjk4ODI1M2QwZjJhOTIyYzY0NjU1OTMyOWJiNGRiY2Q3YWE5ZmE2ZDlmYmNiOWYyNjAyMjA1NDYyYjI4ZjlhMWZiZDBkYzM0MjMzOWM4ZDc4NTRhNDcyMDg5MTc0ZGY4YjQzYjZjZTZjNTg0ODdkNjBhNWM5CmRlc2NyaXB0aW9uOiBPYnNpZGlhbiDpo47moLwgTWFya2Rvd24g5Yib5bu65LiO57yW6L6R77yM5pSv5oyB5Y+M5ZCR6ZO+5o6l44CB5bWM5YWl44CBTWVybWFpZOWbvuihqOetiU9ic2lkaWFu54m55pyJ6K+t5rOVCm5hbWU6IG9ic2lkaWFuLW1hcmtkb3duCi0tLQoKIyBvYnNpZGlhbi1tYXJrZG93bgoKIyMg5Yqf6IO9CuWIm+W7uuWSjOe8lui+kSBPYnNpZGlhbiDpo47moLznmoQgTWFya2Rvd24g5paH5qGj44CCCgojIyBPYnNpZGlhbiDnibnmnInor63ms5UKCiMjIyDlj4zlkJHpk77mjqUKYGBgbWFya2Rvd24KW1vpobXpnaLlkI3np7BdXSAgICAgICAgICAgIyDpk77mjqXliLDlhbbku5bnrJTorrAKW1vpobXpnaLlkI3np7B85pi+56S65paH5pysXV0gICMg5bim5pi+56S65paH5pys55qE6ZO+5o6lCltb6aG16Z2i5ZCN56ewI+eroOiKgl1dICAgICAjIOmTvuaOpeWIsOeroOiKggpgYGAKCiMjIyDltYzlhaUKYGBgbWFya2Rvd24KIVtb6aG16Z2i5ZCN56ewXV0gICAgICAgICAgICMg5bWM5YWl5YW25LuW56yU6K6w5YaF5a65CiFbW+WbvuWDjy5wbmddXSAgICAgICAgICAjIOW1jOWFpeWbvuWDjwpgYGAKCiMjIyDku7vliqHliJfooagKYGBgbWFya2Rvd24KLSBbIF0g5pyq5a6M5oiQ5Lu75YqhCi0gW3hdIOW3suWujOaIkOS7u+WKoQpgYGAKCiMjIyDmj5DnpLrlnZfvvIhDYWxsb3V0c++8iQpgYGBtYXJrZG93bgo+IFshbm90ZV0g5qCH6aKYCj4g5YaF5a65CgrnsbvlnovvvJpub3RlLCB0aXAsIHdhcm5pbmcsIGRhbmdlciwgYnVnLCBxdW90ZSwgZXhhbXBsZQpgYGAKCiMjIyDlm77ooajvvIhNZXJtYWlk77yJCmBgYGBtYXJrZG93bgpgYGBtZXJtYWlkCmdyYXBoIFRECiAgICBBIC0tPiBCCmBgYApgYGBgCgojIyMg6KGo5qC8CmBgYG1hcmtkb3duCnwg5YiXMSB8IOWIlzIgfAp8LS0tfC0tLXwKfCDlhoXlrrkgfCDlhoXlrrkgfApgYGAKCiMjIyDohJrms6gKYGBgbWFya2Rvd24K6L+Z6YeM5pyJ6ISa5rOoW14xXQoKW14xXTog6ISa5rOo5YaF5a65CmBgYAoKIyMjIFlBTUzliY3nva7lhYPmlbDmja4KYGBgbWFya2Rvd24KLS0tCnRpdGxlOiDmoIfpopgKdGFnczogW3RhZzEsIHRhZzJdCmRhdGU6IDIwMjYtMDMtMTQKLS0tCmBgYAoKIyMjIOWGheiBlOagh+etvgpgYGBtYXJrZG93bgojdGFnICAgICAgICAgICAvLyDmoIfnrb4KIyN0YWcgICAgICAgICAgLy8g5bWM5aWX5qCH562+CmBgYAoKIyMjIOmrmOS6rgpgYGBtYXJrZG93bgo9PemrmOS6ruaWh+acrD09CmBgYAoKIyMjIOaSpOmUgOe6vwpgYGBtYXJrZG93bgp+fuWIoOmZpOaWh+acrH5+CmBgYAoKIyMgT2JzaWRpYW4gRmxhdm9yZWQgTWFya2Rvd24g54m554K5CgoxLiAqKldpa2nlvI/pk77mjqUqKu+8mmBbW+WPjOmTvl1dYAoyLiAqKuW1jOWFpeivreazlSoq77yaYCFbW+W1jOWFpV1dYAozLiAqKkNhbGxvdXTmj5DnpLrlnZcqKu+8mj5gWyHnsbvlnotdYAo0LiAqKk1lcm1haWTlm77ooagqKu+8muS7o+eggeWdl21lcm1haWQKNS4gKirku7vliqHliJfooagqKu+8mmAtIFsgXWAKNi4gKirlhoXogZTmoIfnrb4qKu+8mmAjdGFnYAoKIyMg5L2/55So5Zy65pmvCi0g5Yib5bu6T2JzaWRpYW7nrJTorrAKLSDov4Hnp7vlhoXlrrnliLBPYnNpZGlhbgotIOeUn+aIkE9ic2lkaWFu5YW85a6555qETWFya2Rvd24KCiMjIOi+k+WHuuagvOW8jwrkv53mjIHmoIflh4ZNYXJrZG93buWFvOWuueaAp++8jOWQjOaXtuS9v+eUqE9ic2lkaWFu5omp5bGV6K+t5rOV44CCCg==
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 1d7e473c592e3eb28516a9ccaad18a05
+    PropagateID: 1d7e473c592e3eb28516a9ccaad18a05
+    ReservedCode1: 3045022059602a845a21bab26e4944cb420a7c66c2937c918d03a507b8260a4081547e2202210086db60eb57a42b297d8d5c5191a20d942453036b544f3fd81c30271b3eb2090b
+    ReservedCode2: 3045022100ca5817f9c39df2fb988253d0f2a922c646559329bb4dbcd7aa9fa6d9fbcb9f2602205462b28f9a1fbd0dc342339c8d7854a472089174df8b43b6ce6c58487d60a5c9
+description: Obsidian 风格 Markdown 创建与编辑，支持双向链接、嵌入、Mermaid图表等Obsidian特有语法
+name: obsidian-markdown
+---
+
+# obsidian-markdown
+
+## 功能
+创建和编辑 Obsidian 风格的 Markdown 文档。
+
+## Obsidian 特有语法
+
+### 双向链接
+```markdown
+[[页面名称]]           # 链接到其他笔记
+[[页面名称|显示文本]]  # 带显示文本的链接
+[[页面名称#章节]]     # 链接到章节
+```
+
+### 嵌入
+```markdown
+![[页面名称]]           # 嵌入其他笔记内容
+![[图像.png]]          # 嵌入图像
+```
+
+### 任务列表
+```markdown
+- [ ] 未完成任务
+- [x] 已完成任务
+```
+
+### 提示块（Callouts）
+```markdown
+> [!note] 标题
+> 内容
+
+类型：note, tip, warning, danger, bug, quote, example
+```
+
+### 图表（Mermaid）
+````markdown
+```mermaid
+graph TD
+    A --> B
+```
+````
+
+### 表格
+```markdown
+| 列1 | 列2 |
+|---|---|
+| 内容 | 内容 |
+```
+
+### 脚注
+```markdown
+这里有脚注[^1]
+
+[^1]: 脚注内容
+```
+
+### YAML前置元数据
+```markdown
+---
+title: 标题
+tags: [tag1, tag2]
+date: 2026-03-14
+---
+```
+
+### 内联标签
+```markdown
+#tag           // 标签
+##tag          // 嵌套标签
+```
+
+### 高亮
+```markdown
+==高亮文本==
+```
+
+### 撤销线
+```markdown
+~~删除文本~~
+```
+
+## Obsidian Flavored Markdown 特点
+
+1. **Wiki式链接**：`[[双链]]`
+2. **嵌入语法**：`![[嵌入]]`
+3. **Callout提示块**：>`[!类型]`
+4. **Mermaid图表**：代码块mermaid
+5. **任务列表**：`- [ ]`
+6. **内联标签**：`#tag`
+
+## 使用场景
+- 创建Obsidian笔记
+- 迁移内容到Obsidian
+- 生成Obsidian兼容的Markdown
+
+## 输出格式
+保持标准Markdown兼容性，同时使用Obsidian扩展语法。
