@@ -1,1 +1,31 @@
-LS0tCm5hbWU6IHRvcGljLXRvLWFydGljbGUta2l0CmRlc2NyaXB0aW9uOiAiVHVybiBhIGNob3NlbiBBSSB0b3BpYyBpbnRvIGEgcHVibGljLWFjY291bnQgd3JpdGluZyBwYWNrYWdlOiBjb2xsZWN0IGV2aWRlbmNlIGZyb20gWC9Ud2l0dGVyIGFuZCBvdGhlciBzb3VyY2VzLCBleHRyYWN0IGhpZ2gtdmFsdWUgY29tbWVudHMsIGFuZCBwcm9kdWNlIHRpdGxlIG9wdGlvbnMgKyBzdHJ1Y3R1cmVkIG91dGxpbmUgd3JpdHRlbiBpbnRvIE9ic2lkaWFuLiBVc2Ugd2hlbiB1c2VyIGFza3MgZm9yIHRvcGljLWJhc2VkIHJlc2VhcmNoIGFuZCBhcnRpY2xlIHByZXAuIgotLS0KCiMgVG9waWMgdG8gQXJ0aWNsZSBLaXQKCjEuIElucHV0OiB1c2VyLXNlbGVjdGVkIHRvcGljIChvciBwcm9wb3NlIHRvcGljIGNhbmRpZGF0ZXMpLgoyLiBDb2xsZWN0IGV2aWRlbmNlIGZyb206CiAgIC0gWC9Ud2l0dGVyIG9mZmljaWFsIHBhZ2VzIGZpcnN0IChgeC5jb21gIHByb2ZpbGUvc2VhcmNoL3N0YXR1cyksIHRoZW4gb3RoZXIgcHVibGljIHNvdXJjZXMgYXMgc3VwcGxlbWVudAogICAtIEhOIC8gVGVjaENydW5jaCAvIEdpdEh1YiAvIG90aGVyIHB1YmxpYyBzb3VyY2VzCjMuIENvbGxlY3QgWCBoaWdoLXZhbHVlIGNvbW1lbnRzIChmYWN0cywgY291bnRlcnBvaW50cywgaW1wbGVtZW50YXRpb24gZGV0YWlscykuCjQuIEJ1aWxkIGRlbGl2ZXJhYmxlcyBpbiBPYnNpZGlhbiAobWluaW1hbCBzdHJ1Y3R1cmUpOgogICAtIG9uZSBmb2xkZXIgcGVyIGFydGljbGU6IGBPcGVuQ2xhdy/pobnnm64v5YWs5LyX5Y+35YaZ5L2cLzzml6XmnJ9f5qCH6aKYPi9gCiAgIC0gYOi1hOaWmeWMhS5tZGDvvIhmYWN0cywgZGF0YSwgbGlua3MsIGNvbW1lbnQgZXhjZXJwdHPvvIkKICAgLSBg5aSn57qyLm1kYO+8iHdpdGggaW5saW5lIGNpdGF0aW9uIG1hcmtlcnMgdG8g6LWE5paZ5YyF77yJCjUuIEFsd2F5cyB3cml0ZSB0byB0aGUgcmVhbCBPYnNpZGlhbiBWYXVsdCB2aXNpYmxlIGRpcmVjdG9yeSBmaXJzdCAoYWJzb2x1dGUgcGF0aCB1bmRlciB1c2VyJ3MgcmVhbCB2YXVsdCksIG5ldmVyIHdvcmtzcGFjZSBtaXJyb3IgcGF0aHMuCjYuIEJlZm9yZSBmaW5pc2hpbmcsIHZlcmlmeSBmaWxlcyBleGlzdCBpbiB0aGUgcmVhbCBPYnNpZGlhbiB2aXNpYmxlIGRpcmVjdG9yeSBhbmQgcmVwb3J0IHRoYXQgcmVsYXRpdmUgcGF0aCB0byB1c2VyLgo3LiBLZWVwIG91dHB1dCBtaW5pbWFsIGFuZCByZWFkYWJsZSAobm8gZXh0cmEgZHJhZnQvZmluYWwgZm9sZGVycyB1bmxlc3MgdXNlciBhc2tzKS4KOC4gQ29udHJvbCBicm93c2VyIHRhYnMgbGlrZSBwcm9kdWN0aW9uIHdvcmtmbG93OgogICAtIG1heCA3IHRhYnMgYXQgb25jZQogICAtIGNsb3NlIGZpbmlzaGVkIHRhYnMgYmVmb3JlIG9wZW5pbmcgbmV3IG9uZXMKICAgLSBjbG9zZSBhbGwgdGVtcG9yYXJ5IHRhYnMgYXQgZW5kICh0YXJnZXQgMCkKCiMjIFJlcXVpcmVkIG91dHB1dAoKLSDmlofnq6Dnm67lvZXvvIjmjInigJzml6XmnJ9f5qCH6aKY4oCd5ZG95ZCN77yJCi0gYOi1hOaWmeWMhS5tZGDvvIjlkKvmnaXmupDpk77mjqXlkozor4TorrrmkZjlvZXvvIkKLSBg5aSn57qyLm1kYO+8iOWQq+WPr+W8leeUqOi1hOaWmeagh+azqO+8iQotIDUtMTDmoIfpopjlgJnpgInvvIjlhpnlnKjlpKfnurLpobbpg6jvvIkKLSBYL1R3aXR0ZXIg6K+B5o2u5LyY5YWI5p2l6IeqIGB4LmNvbWAg5a6Y5pa56aG16Z2i77yI5bm25Zyo6LWE5paZ5YyF5rOo5piO6ZO+5o6l77yJCg==
+---
+name: topic-to-article-kit
+description: "Turn a chosen AI topic into a public-account writing package: collect evidence from X/Twitter and other sources, extract high-value comments, and produce title options + structured outline written into Obsidian. Use when user asks for topic-based research and article prep."
+---
+
+# Topic to Article Kit
+
+1. Input: user-selected topic (or propose topic candidates).
+2. Collect evidence from:
+   - X/Twitter official pages first (`x.com` profile/search/status), then other public sources as supplement
+   - HN / TechCrunch / GitHub / other public sources
+3. Collect X high-value comments (facts, counterpoints, implementation details).
+4. Build deliverables in Obsidian (minimal structure):
+   - one folder per article: `OpenClaw/项目/公众号写作/<日期_标题>/`
+   - `资料包.md`（facts, data, links, comment excerpts）
+   - `大纲.md`（with inline citation markers to 资料包）
+5. Always write to the real Obsidian Vault visible directory first (absolute path under user's real vault), never workspace mirror paths.
+6. Before finishing, verify files exist in the real Obsidian visible directory and report that relative path to user.
+7. Keep output minimal and readable (no extra draft/final folders unless user asks).
+8. Control browser tabs like production workflow:
+   - max 7 tabs at once
+   - close finished tabs before opening new ones
+   - close all temporary tabs at end (target 0)
+
+## Required output
+
+- 文章目录（按“日期_标题”命名）
+- `资料包.md`（含来源链接和评论摘录）
+- `大纲.md`（含可引用资料标注）
+- 5-10标题候选（写在大纲顶部）
+- X/Twitter 证据优先来自 `x.com` 官方页面（并在资料包注明链接）
