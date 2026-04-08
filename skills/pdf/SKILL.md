@@ -1,1 +1,109 @@
-LS0tCm5hbWU6IHBkZgpkZXNjcmlwdGlvbjogUERGIG1hbmlwdWxhdGlvbiAtIGV4dHJhY3QgdGV4dC90YWJsZXMsIGNyZWF0ZSwgbWVyZ2Uvc3BsaXQsIGZpbGwgZm9ybXMKLS0tCgojIHBkZgoKIyMg5Yqf6IO9ClBERuWkhOeQhu+8muaPkOWPluaWh+acrOihqOagvOOAgeWIm+W7uuOAgeWQiOW5ti/mi4bliIbjgIHooajljZXloavlhpkKCiMjIOaguOW/g+W6kwoKIyMjIHB5cGRmIC0g5Z+656GA5pON5L2cCmBgYHB5dGhvbgpmcm9tIHB5cGRmIGltcG9ydCBQZGZSZWFkZXIsIFBkZldyaXRlcgoKIyDor7vlj5YKcmVhZGVyID0gUGRmUmVhZGVyKCJkb2N1bWVudC5wZGYiKQpwcmludChmIlBhZ2VzOiB7bGVuKHJlYWRlci5wYWdlcyl9IikKCiMg5o+Q5Y+W5paH5pysCnRleHQgPSAiIgpmb3IgcGFnZSBpbiByZWFkZXIucGFnZXM6CiAgICB0ZXh0ICs9IHBhZ2UuZXh0cmFjdF90ZXh0KCkKCiMg5ZCI5bm2CndyaXRlciA9IFBkZldyaXRlcigpCmZvciBwZGZfZmlsZSBpbiBbImRvYzEucGRmIiwgImRvYzIucGRmIl06CiAgICByZWFkZXIgPSBQZGZSZWFkZXIocGRmX2ZpbGUpCiAgICBmb3IgcGFnZSBpbiByZWFkZXIucGFnZXM6CiAgICAgICAgd3JpdGVyLmFkZF9wYWdlKHBhZ2UpCndyaXRlci53cml0ZSgibWVyZ2VkLnBkZiIpCmBgYAoKIyMjIHBkZnBsdW1iZXIgLSDmlofmnKzlkozooajmoLzmj5Dlj5YKYGBgcHl0aG9uCmltcG9ydCBwZGZwbHVtYmVyCgojIOaPkOWPluaWh+acrAp3aXRoIHBkZnBsdW1iZXIub3BlbigiZG9jdW1lbnQucGRmIikgYXMgcGRmOgogICAgZm9yIHBhZ2UgaW4gcGRmLnBhZ2VzOgogICAgICAgIHRleHQgPSBwYWdlLmV4dHJhY3RfdGV4dCgpCgojIOaPkOWPluihqOagvAp3aXRoIHBkZnBsdW1iZXIub3BlbigiZG9jdW1lbnQucGRmIikgYXMgcGRmOgogICAgZm9yIHBhZ2UgaW4gcGRmLnBhZ2VzOgogICAgICAgIHRhYmxlcyA9IHBhZ2UuZXh0cmFjdF90YWJsZXMoKQpgYGAKCiMjIyByZXBvcnRsYWIgLSDliJvlu7pQREYKYGBgcHl0aG9uCmZyb20gcmVwb3J0bGFiLmxpYi5wYWdlc2l6ZXMgaW1wb3J0IGxldHRlcgpmcm9tIHJlcG9ydGxhYi5wZGZnZW4gaW1wb3J0IGNhbnZhcwoKYyA9IGNhbnZhcy5DYW52YXMoImhlbGxvLnBkZiIsIHBhZ2VzaXplPWxldHRlcikKYy5kcmF3U3RyaW5nKDEwMCwgNzUwLCAiSGVsbG8gV29ybGQhIikKYy5zYXZlKCkKYGBgCgojIyDlkb3ku6TooYzlt6XlhbcKCiMjIyBwZGZ0b3RleHQKYGBgYmFzaApwZGZ0b3RleHQgLWxheW91dCBpbnB1dC5wZGYgb3V0cHV0LnR4dCAgIyDkv53mjIHluIPlsYAKYGBgCgojIyMgcXBkZgpgYGBiYXNoCnFwZGYgLS1lbXB0eSAtLXBhZ2VzIGZpbGUxLnBkZiBmaWxlMi5wZGYgLS0gbWVyZ2VkLnBkZgpxcGRmIGlucHV0LnBkZiAtLXJvdGF0ZT0rOTA6MSAtLSBvdXRwdXQucGRmCmBgYAoKIyMg5bi46KeB5Lu75YqhCgojIyMgT0NS5omr5o+P5Lu2CmBgYHB5dGhvbgpmcm9tIHBkZjJpbWFnZSBpbXBvcnQgY29udmVydF9mcm9tX3BhdGgKaW1wb3J0IHB5dGVzc2VyYWN0CgppbWFnZXMgPSBjb252ZXJ0X2Zyb21fcGF0aCgnc2Nhbm5lZC5wZGYnKQpmb3IgaW1hZ2UgaW4gaW1hZ2VzOgogICAgdGV4dCArPSBweXRlc3NlcmFjdC5pbWFnZV90b19zdHJpbmcoaW1hZ2UpCmBgYAoKIyMjIOa3u+WKoOawtOWNsApgYGBweXRob24KZnJvbSBweXBkZiBpbXBvcnQgUGRmUmVhZGVyLCBQZGZXcml0ZXIKd2F0ZXJtYXJrID0gUGRmUmVhZGVyKCJ3YXRlcm1hcmsucGRmIikucGFnZXNbMF0KcmVhZGVyID0gUGRmUmVhZGVyKCJkb2N1bWVudC5wZGYiKQp3cml0ZXIgPSBQZGZXcml0ZXIoKQpmb3IgcGFnZSBpbiByZWFkZXIucGFnZXM6CiAgICBwYWdlLm1lcmdlX3BhZ2Uod2F0ZXJtYXJrKQogICAgd3JpdGVyLmFkZF9wYWdlKHBhZ2UpCmBgYAoKIyMjIOWvhueggeS/neaKpApgYGBweXRob24Kd3JpdGVyLmVuY3J5cHQoInVzZXJwYXNzd29yZCIsICJvd25lcnBhc3N3b3JkIikKYGBgCgojIyDlv6vpgJ/lj4LogIMKfCDku7vliqEgfCDlt6XlhbcgfAp8LS0tLS0tfC0tLS0tLXwKfCDlkIjlubZQREYgfCBweXBkZiB8Cnwg5ouG5YiGUERGIHwgcHlwZGYgfAp8IOaPkOWPluaWh+acrCB8IHBkZnBsdW1iZXIgfAp8IOaPkOWPluihqOagvCB8IHBkZnBsdW1iZXIgfAp8IOWIm+W7ulBERiB8IHJlcG9ydGxhYiB8CnwgT0NSIHwgcHl0ZXNzZXJhY3QgfAo=
+---
+name: pdf
+description: PDF manipulation - extract text/tables, create, merge/split, fill forms
+---
+
+# pdf
+
+## 功能
+PDF处理：提取文本表格、创建、合并/拆分、表单填写
+
+## 核心库
+
+### pypdf - 基础操作
+```python
+from pypdf import PdfReader, PdfWriter
+
+# 读取
+reader = PdfReader("document.pdf")
+print(f"Pages: {len(reader.pages)}")
+
+# 提取文本
+text = ""
+for page in reader.pages:
+    text += page.extract_text()
+
+# 合并
+writer = PdfWriter()
+for pdf_file in ["doc1.pdf", "doc2.pdf"]:
+    reader = PdfReader(pdf_file)
+    for page in reader.pages:
+        writer.add_page(page)
+writer.write("merged.pdf")
+```
+
+### pdfplumber - 文本和表格提取
+```python
+import pdfplumber
+
+# 提取文本
+with pdfplumber.open("document.pdf") as pdf:
+    for page in pdf.pages:
+        text = page.extract_text()
+
+# 提取表格
+with pdfplumber.open("document.pdf") as pdf:
+    for page in pdf.pages:
+        tables = page.extract_tables()
+```
+
+### reportlab - 创建PDF
+```python
+from reportlab.lib.pagesizes import letter
+from reportlab.pdfgen import canvas
+
+c = canvas.Canvas("hello.pdf", pagesize=letter)
+c.drawString(100, 750, "Hello World!")
+c.save()
+```
+
+## 命令行工具
+
+### pdftotext
+```bash
+pdftotext -layout input.pdf output.txt  # 保持布局
+```
+
+### qpdf
+```bash
+qpdf --empty --pages file1.pdf file2.pdf -- merged.pdf
+qpdf input.pdf --rotate=+90:1 -- output.pdf
+```
+
+## 常见任务
+
+### OCR扫描件
+```python
+from pdf2image import convert_from_path
+import pytesseract
+
+images = convert_from_path('scanned.pdf')
+for image in images:
+    text += pytesseract.image_to_string(image)
+```
+
+### 添加水印
+```python
+from pypdf import PdfReader, PdfWriter
+watermark = PdfReader("watermark.pdf").pages[0]
+reader = PdfReader("document.pdf")
+writer = PdfWriter()
+for page in reader.pages:
+    page.merge_page(watermark)
+    writer.add_page(page)
+```
+
+### 密码保护
+```python
+writer.encrypt("userpassword", "ownerpassword")
+```
+
+## 快速参考
+| 任务 | 工具 |
+|------|------|
+| 合并PDF | pypdf |
+| 拆分PDF | pypdf |
+| 提取文本 | pdfplumber |
+| 提取表格 | pdfplumber |
+| 创建PDF | reportlab |
+| OCR | pytesseract |
