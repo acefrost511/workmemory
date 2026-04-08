@@ -1,1 +1,299 @@
-LS0tCkFJR0M6CiAgICBDb250ZW50UHJvZHVjZXI6IE1pbmltYXggQWdlbnQgQUkKICAgIENvbnRlbnRQcm9wYWdhdG9yOiBNaW5pbWF4IEFnZW50IEFJCiAgICBMYWJlbDogQUlHQwogICAgUHJvZHVjZUlEOiAyZmM2OWFiOWQ5ODU5NGFhOThhMjJjYWVkYjQyNWI0MgogICAgUHJvcGFnYXRlSUQ6IDJmYzY5YWI5ZDk4NTk0YWE5OGEyMmNhZWRiNDI1YjQyCiAgICBSZXNlcnZlZENvZGUxOiAzMDQ1MDIyMDcyMDk0YmRlMzdiYTM5ZWJmYjcwMjUxZmE3Yzk5ZTVmMDZjMjUzNDliZTRlMDNmMTE3ZDMyYTJmZTc4MGJkOTkwMjIxMDBmMDMyOWEwNDdkZjU3MTRlZjlkZGI2NzE4YjBhMTNlMjlhODIxNjFlYWI1YzQzZDEzNzg2ODYxN2Y2ZWVkOGFlCiAgICBSZXNlcnZlZENvZGUyOiAzMDQ2MDIyMTAwZGUyNDJmYjIyYjkxODZkYWI5MmVjNjRhNDAyZWE4MmEwMGFhMDIxZjcwN2RlY2U2MTJkMGE2MjY1MjlmMjcyYjAyMjEwMGM1Mzc0N2JmMjgyZjZlZmZlMTYyZTQ1MTQ1Zjg0ZTNiZjI2MGY3YjA4MWI5ZmMyOGM0OTZjOTVhNGRjYzQxMzIKLS0tCgojIGRhaWx5LWJyaWVmaW5nIHwg5q+P5pel566A5oql5YaZ5L2c5oqA6IO9CgojIyDmioDog73mpoLov7AKCi0gKirniYjmnKwqKu+8mnY0LjAKLSAqKuWIm+W7uuaXpeacnyoq77yaMjAyNi0wNC0wNAotICoq6Kem5Y+R5pa55byPKirvvJpjcm9u5q+P5pelMDU6NDDoh6rliqjosIPnlKjvvIzmiJbkuLtzZXNzaW9u5omL5Yqo6LCD55SoCi0gKirovpPlhaUqKu+8muaJp+ihjOaXpeacn++8iGRhdGXvvIzmoLzlvI9ZWVlZLU1NLURE77yM6buY6K6k5b2T5pel77yJCi0gKirovpPlh7oqKu+8mjEw56+H5a6M5pW0566A5oql5o6o6YCBK+WGmeWFpSBgLy5kYWlseV9icmllZmluZy5tZGAKLSAqKuS4i+a4uOihlOaOpSoq77ya5pS25Yiw6Zmb5LiL44CM5qCH6K6w5a6M5q+V44CN5ZCO6LCD55SoIGBjb2xsaXNpb24tYW5hbHlzaXNgIFNraWxsCgotLS0KCiMjIOmbtuOAgeW6k+WtmOmihOitpuacuuWItu+8iOavj+asoeeugOaKpeaOqOmAgeWJjeW/heajgO+8iQoKKirop4TliJkqKu+8muWOn+aWh+W6k+acquagh+iusOaWh+eroOWni+e7iOe7tOaMgeWcqDMw56+H5Lul5LiKCgoqKuajgOafpea1geeoiyoq77yaCjEuIOaJq+aPj+WOn+aWh+W6k++8jOe7n+iuoSLmnKrmoIforrAi5paH56ug5pWw6YePCiAgIC0gIuacquagh+iusCIgPSDml6DjgIzlt7Lop6bliqjjgI3moIfnrb4gKyDml6DjgIzml6Dop6bliqjjgI3moIfnrb4gKyDmnKrmjqjpgIEKMi4gKiroi6XmnKrmoIforrDmlofnq6Ag4omlIDMw56+HKiog4oaSIOato+W4uOa1geeoi++8jOe7p+e7reaJp+ihjOmAieaWhwozLiAqKuiLpeacquagh+iusOaWh+eroCA8IDMw56+HKiog4oaSIOeri+WNs+inpuWPkeaDheaKpeihpei0p++8mgogICBhLiDpgJrov4dzZXNzaW9uc19zcGF3bumAmuefpeaDheaKpeWumO+8iGluZm9fb2ZmaWNlcu+8ieeri+WNs+WQr+WKqOaQnOe0ogogICBiLiDpgJrnn6XlhoXlrrnvvJrlkYrnn6XlupPlrZjkuI3otrPvvIzopoHmsYJpbnRlbF8wMX4xMeWQhOihpeWFheiHs+WwkTPnr4cKICAgYy4g6KGl6LSn5a6M5oiQ5ZCO5YaN5omn6KGM6YCJ5paHCiAgIGQuIOWQkemZm+S4i+aKpeWRiu+8muOAjOWOn+aWh+W6k+W6k+WtmOS4jei2s++8jOW3suinpuWPkeaDheaKpeWboumYn+ihpei0p++8jOmihOiuoU7liIbpkp/lkI7lrozmiJDjgI0KCioq6KGl6LSn5qCH5YeGKirvvJrmr4/ml6XlupPlrZjorabmiJLnur8zMOevh++8jOS4jei2s+WImeeri+WNs+ihpe+8jOS4jeetieasoeaXpQoKLS0tCgojIyDlhavjgIHpooTmiafooYzlgaXlurfluqbmo4Dmn6XvvIjpk4HlvovvvIzmr4/mrKHlv4XmiafooYzvvIkKCioq5pys5qOA5p+l5ZyoU3RlcCAx5LmL5YmN5omn6KGM77yM5qOA5p+l5LiN6YCa6L+H5YiZIGFib3J077yM5LiN55Sf5oiQ5L2O6LSo6YeP566A5oql44CCKioKCiMjIyDlgaXlurfluqbmo4Dmn6XpobnvvIjkvp3mrKHmiafooYzvvIzmnInkuIDpobnkuI3pgJrov4fliJnlgZzmraLvvInvvJoKCioq4pGgIOWPkeihqOaXtumXtOihpeW9le+8iOavj+WRqOiHquWKqO+8iSoqCi0gY3JvbuS7u+WKoSBgYmFja2ZpbGxfd2Vla2x5YCDmr4/lkajml6Xlh4zmmajoh6rliqjov5DooYwgYC5iYWNrZmlsbF92My5weWAKLSDlsIbnu5PmnpwgY29tbWl0IOWIsCBnaXQKLSDnoa7kv53ljp/mloflupPkuK3miYDmnInmlofnq6Dpg73mnInlj5Hooajml7bpl7QKCioq4pGhIOWAmemAieaxoOaVsOmHj+ajgOafpSoqCuaJp+ihjOS7peS4i+afpeivou+8mgpgYGBiYXNoCnB5dGhvbjMgLWMgIgppbXBvcnQgb3MsIHJlCkZPUk1BTF9ESVIgPSAnL3dvcmtzcGFjZS9rbm93bGVkZ2Uv5Y6f5paH5bqTJwpQTEFDRUhPTERFUlMgPSBbJ+W+heehruiupCcsJ+W+heafpScsJ+W+heihpeWFhScsJ+W+heihpScsJ+acquefpSddCmNhbmRpZGF0ZXMgPSBbXQpmb3IgZm5hbWUgaW4gb3MubGlzdGRpcihGT1JNQUxfRElSKToKICAgIGlmIG5vdCBmbmFtZS5lbmRzd2l0aCgnLm1kJyk6IGNvbnRpbnVlCiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKEZPUk1BTF9ESVIsZm5hbWUpKSBhcyBmOiBjPWYucmVhZCgpCiAgICBpZiBhbnkoayBpbiBjIGZvciBrIGluIFsn5bey6Kem5YqoJywn5bey5peg6Kem5YqoJ10pOiBjb250aW51ZQogICAgaWYgJ+aOqOmAgeaXpeacn++8micrZGF0ZSBpbiBjOiBjb250aW51ZSAgIyDlj6rmjpLpmaTku4rml6UKICAgIGFtID0gcmUuc2VhcmNoKHIn5L2c6ICFW++8mjpdXHMqKC4rPykoPzpcbnwkKScsIGMpCiAgICBpZiBub3QgYW0gb3IgYW55KHAgaW4gYW0uZ3JvdXAoMSkgZm9yIHAgaW4gUExBQ0VIT0xERVJTKTogY29udGludWUKICAgIGRtID0gcmUuc2VhcmNoKHIn5Y+R6KGoW+aXtuW5tOaciO+8mjogXSpcZHs0fVvlubQtXVxkezEsMn0nLCBjKQogICAgaWYgZG06IGNhbmRpZGF0ZXMuYXBwZW5kKGZuYW1lKQpwcmludChsZW4oY2FuZGlkYXRlcykpCiIKYGBgCi0gKiriiaUxMOevhyoqIOKGkiDmo4Dmn6XpgJrov4fvvIznu6fnu61TdGVwIDEKLSAqKjwxMOevhyoqIOKGkiAqKueri+WNs+mAmuefpeiHo++8iOS4u0FnZW5077yJ77yM5ZGK55+l6Zmb5LiLIuWAmemAieaxoOaer+erre+8jOeugOaKpeaaguWBnO+8jOihpei0p+WQjuasoeaXpeaBouWkjSIqKgotICoqPDPnr4cqKiDihpIg57Sn5oCl77ya56uL5Y2z6Kem5Y+RIGludGVsIOWFqOmHj+ihpei0pwoKKirikaIg5qC85byP6Ieq5qOA5riF5Y2V77yI6L6T5Ye65YmN5b+F5p+l77yJKioKYGBgCjEuIOWQhOevh+W6j+WPtzAxLTEw6L+e57utCjIuIOaXoCLlvoXnoa7orqQv5b6F5p+lL+W+heihpeWFhS/lvoXooaUi5Y2g5L2N56ymCjMuIOacieWFt+S9k+aVsOWtl++8iOagt+acrOmHjy/mlYjmnpzph48v5q+U5L6L77yJCjQuIOavj+evh0RPSeW3suagh+azqAo1LiDjgJDorrDkvY/kuIDlj6Xor53jgJExNS0zMOWtl++8jOacieaAgeW6puS4jeS4reaApwpgYGAK5Y+R546w5Lu75LiA6Zeu6aKYIOKGkiDku47mlofku7bkuK3liKDpmaTor6Xnr4fvvIznq4vljbPlm57lupPlj5blkIjmoLznr4fooaXlhYUKCioq4pGjIOaOqOmAgeagh+iusOinhOiMgyoqCi0g5q+P56+H5Y+q5qCH6K6w5LiA5qyhIuaOqOmAgeaXpeacn++8mllZWVktTU0tREQiCi0g5LiN6YeN5aSN5qCH6K6wCi0g5Y6G5Y+y5o6o6YCB5qCH6K6w5q+PN+WkqeiHquWKqOa4hemZpOS4gOasoe+8iGNyb27miafooYzvvIkKCi0tLQoKIyMg5Lmd44CB57Sn5oCl6aKE5qGI77yI5b2T566A5oql5peg5rOV55Sf5oiQMTDnr4fml7bvvIkKCioq6Kem5Y+R5p2h5Lu2KirvvJrlgJnpgInmsaA8MTDnr4cKCioq5aSE55CG5rWB56iL77yI56uL5Y2z5omn6KGM77yM5LiN562J6Zmb5LiL5oyH5Luk77yJ77yaKioKMS4g56uL5Y2z6YCa55+l6Zmb5LiL77yaIuWAmemAieaxoOaer+erre+8iFjnr4fvvInvvIznroDmiqXmmoLnvJMiCjIuIOinpuWPkSBpbnRlbCDlhajph4/ooaXotKcKMy4g6KGl6LSn5a6M5oiQ5ZCO6YeN5paw55Sf5oiQ566A5oqlCjQuIOihpei0p+acn+mXtOS4jeeUn+aIkOS9jui0qOmHj+eugOaKpe+8iOS4jeWHkeaVsO+8iQoKKirnpoHmraLooYzkuLrvvJoqKgotIOKdjCDlh5HmlbDnlJ/miJDkuI3otrMxMOevh+eahOeugOaKpQotIOKdjCDmjqjpgIHmnInljaDkvY3nrKYv57y65a2X5q6155qE5paH56ugCi0g4p2MIOWcqOWAmemAieaxoDwxMOevh+aXtuW8uuihjOaOqOi/mwoKCi0tLQoKIyMg5LiA44CB6YCJ5paH6KeE5YiZ77yIdjQuMO+8iQoKIyMjIOi/h+a7pOinhOWIme+8iOaMieS8mOWFiOe6p+S+neasoeaOkumZpO+8iQoKMS4gKirlt7Lop6bliqgqKiDihpIg5o6S6Zmk77yI5bey6Kem5Yqo6L+H77yM5LiN5YaN6YeN5aSN5o6o77yJCjIuICoq5bey5peg6Kem5YqoKiog4oaSIOaOkumZpO+8iOW3suagh+aXoOinpuWKqO+8jOS4jeWGjemHjeWkjeaOqO+8iQozLiAqKuW9k+aXpeW3suaOqOmAgSoqIOKGkiDmjpLpmaTvvIjlkIzkuIBET0nlvZPlpKnkuI3ph43lpI3mjqjvvIkKNC4gKirml6Dlj5Hooajml7bpl7QqKiDihpIg5o6S6Zmk77yI5peg5rOV5Yik5pat5piv5ZCm5pyA5paw77yJCgojIyMg5o6S5bqP6KeE5YiZ77yI6ZOB5b6L77yJCgrmjInorrrmlocqKuWPkeihqOaXtumXtCoq5YCS5bqP77yM5LiN5Lul5YWl5bqT5pe26Ze05o6S5bqP44CCCgoqKuaJp+ihjOatpemqpCoq77yaCjEuIOaJq+aPj+WOn+aWh+W6k+aJgOacieKcheW3sumqjOivgeaWh+S7tgoyLiDmjpLpmaTvvJrlt7Lop6bliqggLyDlt7Lml6Dop6bliqggLyDlvZPml6Xlt7LmjqjpgIEgLyDml6Dlj5Hooajml7bpl7QKMy4gKirmjpLpmaTkvZzogIXljaDkvY3nrKbmlofnq6AqKu+8muivu+WPluaWh+S7tuaXtu+8jOiLpeOAjOS9nOiAheOAjeWtl+auteWQqyLlvoXnoa7orqQv5b6F5p+lL+W+heihpeWFhS/lvoXooaUv5pyq55+lL1RCRC9wZW5kaW5nIiDihpIg6K+l56+H6Lez6L+H77yM56uL5Y2z5Y+W5LiL5LiA56+H6KGl5YWFCjQuIOivu+WPluOAjOWPkeihqOaXtumXtC/lj5HooajlubTmnIjjgI3lrZfmrrUKNS4g5oyJ5Y+R6KGo5pe26Ze05YCS5bqP77yI5LuK5aSp4oaS5pio5aSp4oaS5YmN5aSp4oCm4oCm77yJCjYuIOS7juacgOaWsOS4gOevh+W8gOWni+WPlu+8jOWHkeWknzEw56+H5Li65q2iCjcuICoq5YaZ5a6M5Y2z6Ieq5qOAKirvvJrlj5HnjrDku7vkvZXljaDkvY3nrKYg4oaSIOS7juaWh+S7tuS4reWIoOmZpOivpeevh++8jOeri+WNs+WbnuW6k+WPluWQiOagvOevh+ihpeWFhe+8jOehruS/nTEw56+H5YWo6YOo5ZCI5qC8CgoqKuWPkeihqOaXtumXtOiOt+WPluS8mOWFiOe6pyoq77yaCjEuIOOAjOWPkeihqOaXtumXtOOAjeWtl+aute+8iOeyvuehruWIsOaciO+8iQoyLiDjgIzlj5HooajlubTmnIjjgI3lrZfmrrUKMy4g44CM5Ye654mI5bm05Lu944CN5a2X5q6177yI4oaSIOW5tOS7vSvpu5jorqQxMuaciO+8iQo0LiDlnYfml6Ag4oaSIOivpeaWh+S7tuS4jeWPguS4jumAieaWhwoKKirkuL7kvosqKu+8mgotIOS7iuWkqeaYrzTmnIg05pelIOKGkiDlhYjpgIk05pyIM+aXpeOAgTTmnIgy5pel5Y+R6KGo55qE6K665paHCi0g5rKh5pyJIOKGkiDlho3pgIk05pyIMeaXpeOAgTPmnIgzMeaXpeKApuKApuS7peatpOexu+aOqO+8jOebtOWIsOWHkeWknzEw56+HCgoqKuavlOS+iyoq77yaMTDnr4fvvIjlhajoi7HmlofvvInvvIzkuI3lvLrliLbopoHmsYLkuK3mlofvvJvkuK3mlofmlofnq6DmsaDkuI3otrPml7bvvIznuq/oi7HmlocxMOevh+S6puWPr+aOpeWPlwoKLS0tCgojIyMg6YCJ5paH5p2l5rqQ6L+H5ruk77yI6ZOB5b6L77yMdjQuMeaWsOWinu+8iQoK5Lul5LiL5p2l5rqQ55qE5paH56ug5LiN6L+b5YWl566A5oql5YCZ6YCJ5rGg77yaCgotIOKdjCDllYbkuJrlkqjor6LmnLrmnoTmiqXlkYrvvIjoib7nkZ7lkqjor6IvSURDL0dhcnRuZXIv6Im+5aqSL+WJjeeeu+eglOeptumZouetie+8iQotIOKdjCDooYzkuJrnmb3nmq7kuaYv5biC5Zy65rSe5a+f5oql5ZGK77yIIjIwMjblubRBSeaVmeiCsuihjOS4muWPkeWxleaKpeWRiiLnsbvvvIkKLSDinYwg5paw6Ze75aqS5L2T5oql6YGT77yIMzZrci/omY7ll4Uv6ZKb5aqS5L2TL+iKpeacq+Wghi/lpJrpsrgv6JmO5ZeF562J77yJCi0g4p2MIOS8muiurumAmuefpS/mtLvliqjpgoDor7cv5aWW6aG55YWs5ZGKCi0g4p2MIOaXoERPSeOAgeaXoOacn+WIiuS/oeaBr+OAgeaXoOS9nOiAheWnk+WQjeeahCLkuInml6Ai5paH5qGjCgrinIUg5YWl5bqT5p2l5rqQ5qCH5YeG77yaCi0g5q2j5byP5a2m5pyv5pyf5YiK6K665paH77yIIENvbXB1dGVycyAmIEVkdWNhdGlvbiAvIG5waiBBSSAvIEJKRVQgLyBuYXR1cmXns7vliJfnrYnvvIkKLSDlm73pmYXmnLrmnoTnoJTnqbbmiqXlkYrvvIhPRUNEL1VORVNDTy/lk4jkvZvlpKflraYv5pav5Z2m56aPL+WJkeahpeetieefpeWQjeacuuaehO+8iQotIOWkp+Wtpi/noJTnqbbpmaLmraPlvI/lj5HooajnmoTlrabmnK/miqXlkYrvvIjmnInlrozmlbTkvZzogIXlkozmnLrmnoTkv6Hmga/vvIkKCgoKKirkvJjlhYjnuqcxKirvvJpgKirmoIfpopgqKmAg5oiWIGAqKuWOn+agh+mimCoqYCDlrZfmrrXvvIjljrvmmJ/lj7flkI7nuq/mlofmnKzvvIkKKirkvJjlhYjnuqcyKirvvJpg5qCH6aKY77yI6Iux5paH77yJYCDlrZfmrrUKKirkvJjlhYjnuqczKirvvJpgT3JpZ2luYWwgVGl0bGVgIOWtl+autQoKKiroi6XmoIfpopjkuLrnqbrmiJblkKvljaDkvY3nrKbvvIjlvoXooaXlhYUv5b6F5p+lL1RCROetie+8iSoq77yaCuKGkiDlv4XpobvlnKjnroDmiqXkuK3lhpki5Y6f5qCH6aKY77ya5Y6f5paH5bqT57y65aSx77yI6ZyA6KGl5b2V77yJIu+8jOS4jeW+l+iHquihjOe/u+ivkeaIluaOqOaWrQoKKiroi6VhclhpduaQnOe0ouaXoOiLseaWh+agh+mimCoq77yaaW50ZWwgYWdlbnTkuI3lvpflhpnlhaUucGVuZGluZ++8jOW6lOi3s+i/h+aIlumHjeaWsOaQnOe0ouOAggoKLS0tCgojIyDkuInjgIHnroDmiqXmoLzlvI/op4TojIMKCiMjIyDlpLTpg6jkv6Hmga/vvIg26aG55Zu65a6a6aG65bqP77yJCgoqKuiLseaWh+acn+WIii/pooTljbDmnKwqKu+8mgpgYGAK44CQ5bqP5Y+344CR5Lit5paH5qCH6aKY77yI5LiT5Lia57+76K+R77yM5LiN5a2X6Z2i5a+56K+R77yJCuWOn+agh+mimO+8mlvlrozmlbToi7HmlofmoIfpophd77yI5Y6f5paH54Wn5b2V77yM6Z2eIuW+heihpeWFhSIvIuWOn+aWh+W6k+e8uuWksSLvvIkK5L2c6ICF77ya56ys5LiA5L2c6ICFIGV0IGFsLu+8iOi2hei/hzPkurrvvIkvIOS4ieS6uuS7peWGheWGmeWFqArmnaXmupDvvJrmnJ/liIrlhajnp7Ag772cIOWPkeihqOW5tOaciO+8iOeyvuehruWIsOaciO+8iQrljp/mloflupPnvJblj7fvvJp4eHgKYGBgCgoqKuS4reaWh+acn+WIiu+8iDXpobnvvIzml6Dljp/moIfpopjlrZfmrrXvvIkqKu+8mgpgYGAK44CQ5bqP5Y+344CR5Lit5paH5qCH6aKYCuS9nOiAhe+8muesrOS4gOS9nOiAhSwg56ys5LqM5L2c6ICF77yI4omkM+S6uuWGmeWFqO+8jD4z5Lq65YaZIuesrOS4gOS9nOiAhSBldCBhbC4i77yJCuadpea6kO+8muacn+WIiuWFqOensCDvvZwg5Y+R6KGo5bm05pyICuWOn+aWh+W6k+e8luWPt++8mnh4eApgYGAKCiMjIyDkuInmrrXmraPmlocKCioq44CQ6L+Z56+H5Zyo6K+05LuA5LmI44CRKirvvIgxNTAtMjUw5a2X77yJCuWFiOiusuW8oOWKm++8iCLkuI3mmK/igKbigKbogIzmmK/igKbigKYi77yJ77yM5YaN6K6y5pa55rOVCuimhueblu+8muaguOW/g+W8oOWKmyArIOWFs+mUruWMuuWIhiArIOWFt+S9k+aVsOWtl+mUmueCuSArIOmAgueUqOi+ueeVjAoKKirjgJDkuLrku4DkuYjov5nnr4flgLzlvpfkvaDms6jmhI/jgJEqKu+8iDEwMC0xODDlrZfvvIkK5piO56Gu5qCH5rOo77ya4pGg5oyR5oiY5bi46KeB5YGa5rOVIOKRoeaPkOS+m+WPr+WAn+mJtOaWueahiCDikaLloavooaXnn6Xor4bnm7LljLoK5b+F6aG75pyJIuS4jeeci+eahOS7o+S7tyIKCioq44CQ5aaC5p6c5Y+q6K6w5L2P5LiA5Y+l6K+d44CRKirvvIgxNS0zMOWtl++8iQrkuIDkuKrliKTmlq3vvIzmnInmgIHluqbvvIzkuI3kuK3mgKcKCiMjIyDpmYTlvZUKCmBgYArilrcg5o+Q54K85Y+W6IiN6K+05piO77ya77yI5LiN6LaF6L+HM+WPpe+8iQrilrcgRE9J77ya77yI5pyJ5YiZ5YaZ77yM5peg5YiZ5qCH5rOoIuingeWOn+aWh+W6kyLvvIkKYGBgCgotLS0KCiMjIOWbm+OAgeaJp+ihjOa1geeoiwoKIyMjIFN0ZXAgMe+8muW6k+WtmOajgOafpe+8iOW/heaJp+ihjO+8iQotIOe7n+iuoeacquagh+iusOaWh+eroOaVsOmHjwotIOiLpeKJpTMwIOKGkiDnu6fnu60KLSDoi6U8MzAg4oaSIOinpuWPkeaDheaKpeihpei0pyDihpIg6KGl6LSn5a6M5oiQ5ZCO5YaN5omn6KGMCgojIyMgU3RlcCAy77ya6YCJ5paH77yI5oyJ5Y+R6KGo5pe26Ze077yM6YCJ5pyA5paw77yJCuaOkumZpOW3suinpuWKqC/lt7Lml6Dop6bliqgv5b2T5pel5bey5o6o6YCBL+aXoOWPkeihqOaXtumXtCDihpIg5oyJ5pe26Ze05YCS5bqP5Y+WMTDnr4cKCiMjIyBTdGVwIDPvvJror7vlj5bljp/mloflupPmlofku7bvvIjmiafooYzmoIfpopjmj5Dlj5bop4TliJnvvIkK5oyJ5LqM44CB5qCH6aKY5o+Q5Y+W6KeE5YiZ6K+75Y+W5q+P56+H77yM5LiN6Ieq6KGM5Y+R5oylCgojIyMgU3RlcCA077ya5pKw5YaZCuaMieagvOW8j+aSsOWGmeWktOmDqCvkuInmrrXmraPmlocr6ZmE5b2V77yM6YCQ6aG56YCa6L+H6Ieq5qOA5riF5Y2VCgojIyMgU3RlcCA177ya57uE6KOF5o6o6YCBCjEuIDEw56+H5ZCI5bm25Li65LiA5p2h5raI5oGvCjIuIOavj+evh+S5i+mXtOepujLooYwKMy4g5pyr5bC+6ZmE77ya44CM8J+TjCDor7flnKjmr4/nr4flkI7pnaLlm57lpI3inIXop6bliqgv4p2M5LiN6Kem5Yqo77yM5YWo6YOo5a6M5oiQ5ZCO5Zue5aSN44CM5qCH6K6w5a6M5q+V44CN77yM6Iej5Y2z5Yi75ZCv5Yqo56Kw5pKe5YiG5p6Q44CC44CNCjQuIOiwg+eUqCBgcHl0aG9uMyAvd29ya3NwYWNlLy5zZW5kX2JyaWVmaW5nLnB5YCDlj5HpgIHvvIjnm7TmjqXosIPpo57kuaZPcGVuIEFQSe+8jOe7lei/h21lc3NhZ2Xlt6XlhbfvvIkKNS4g5a6M5pW05YaF5a655YaZ5YWlIGAvLmRhaWx5X2JyaWVmaW5nLm1kYAo2LiAqKuWwhui/mTEw56+H5Zyo5Y6f5paH5bqT5Lit5qCH6K6w5Li644CM5bey5o6o6YCB44CNKirvvIjpmLLmraLmrKHml6Xph43lpI3mjqjvvIkKCiMjIyBTdGVwIDbvvJrnrYnlvoXpmZvkuIvmoIforrAK6Z2Z6buY562J5b6F77yM5LiN5Li75Yqo57un57utCgotLS0KCiMjIOS6lOOAgemZm+S4i+agh+iusOWujOavleWQjueahOWkhOeQhu+8iOmTgeW+i++8iQoK5pS25Yiw6Zmb5LiL44CM5qCH6K6w5a6M5q+V44CN5ZCO77yM5omn6KGM77yaCgoxLiAqKuivhuWIq+inpuWKqC/ml6Dop6bliqgqKu+8mgogICAtIOmZm+S4i+agh+azqOKchSDihpIg6K+l56+H5qCH6K6w44CM5bey6Kem5Yqo44CNCiAgIC0g6Zmb5LiL5qCH5rOo4p2MIOKGkiDor6Xnr4fmoIforrDjgIzlt7Lml6Dop6bliqjjgI0KICAgLSDpmZvkuIvmnKrmmI7noa7ooajmgIEg4oaSIOivpeevh+agh+iusOOAjOW3suaXoOinpuWKqOOAje+8iOmZm+S4i+ayiem7mOKJoOm7mOiupOmAmui/h++8iQoKMi4gKirmm7TmlrDljp/mloflupPmlofku7YqKu+8mgogICDlnKjmr4/nr4fmlofku7bmnKvlsL7ov73liqDnirbmgIHmoIfnrb7vvJoKICAgLSBg54q25oCB77ya5bey6Kem5YqoIHwg5o6o6YCB5pel5pyf77yaWVlZWS1NTS1ERCB8IOmZm+S4i+agh+azqO+8muKchWAKICAgLSBg54q25oCB77ya5bey5peg6Kem5YqoIHwg5o6o6YCB5pel5pyf77yaWVlZWS1NTS1ERCB8IOmZm+S4i+agh+azqO+8muKdjOaIluayiem7mGAKCjMuICoq6L6T5Ye65oql5ZGKKirvvJoKICAg5ZGK55+l6Zmb5LiL5pys6L2u6Kem5YqoL+aXoOinpuWKqOWQhOWkmuWwkeevh++8jOinpuWKqOaWh+eroOW3suWQr+WKqOeisOaSnuWIhuaekAoKLS0tCgojIyDlha3jgIHooZTmjqXop4TliJnvvIh2NC4w5paw5aKe5q+P5pel6KeC54K56IqC54K577yJCgp8IOinpuWPkeadoeS7tiB8IOWKqOS9nCB8CnwtLS0tLS0tLS18LS0tLS0tfAp8IOavj+aXpTA1OjQwIHwg6Ieq5Yqo5omn6KGM5bqT5a2Y5qOA5p+l4oaS6YCJ5paH4oaS5o6o6YCBIHwKfCDpmZvkuIvjgIzmoIforrDlrozmr5XjgI0gfCDmoIforrDop6bliqgv5peg6Kem5Yqo4oaSKirnlJ/miJDmr4/ml6Xop4LngrnvvIhkYWlseS12aWV3cG9pbnQgc2tpbGzvvInihpLlubbooYzlkK/liqjnorDmkp7liIbmnpAqKiB8Cnwg6Zmb5LiL44CM6Lez6L+H5q+P5pel6KeC54K544CNIHwg5LiN55Sf5oiQ6KeC54K577yM5Y+q5ZCv5Yqo56Kw5pKe5YiG5p6QIHwKfCDpmZvkuIvjgIzku4rlpKnot7Pov4fjgI0gfCDmtYHnqIvpnZnpu5jnu5PmnZ/vvIzkuI3miZPmoIfnrb4gfAp8IOW6k+WtmDwzMOevhyB8IOinpuWPkeaDheaKpeWumOihpei0p++8jOS4jeetieW+heasoeaXpSB8CgoqKuWujOaVtOa1geeoi+mTvioq77yaCmBgYArmr4/ml6XnroDmiqUg4oaSIOmZm+S4i+agh+inpuWKqCDihpIg5q+P5pel6KeC54K577yI5Y+R6ICB5biI77yJ4oaSIOeisOaSnuWIhuaekCDihpIg5rSe5a+f5YWo5paHCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg77yI5bm26KGM5omn6KGM77yJCmBgYAoKLS0tCgojIyDkuIPjgIHoh6rmo4DmuIXljZXvvIjovpPlh7rliY3pgJDpobnmoLjpqozvvIkKCjEuIOKcheiLseaWhy/pooTljbDmnKzmnIki5Y6f5qCH6aKYIuWtl+aute+8jOS4lOadpeiHquWOn+aWh+W6k++8iOS4jeaYryLlvoXooaXlhYUiL+iHquihjOe/u+ivke+8iQoyLiDinIXmnKrmoIforrDmlofnq6DiiaUzMOevh++8iOW6k+WtmOajgOafpeW3suaJp+ihjO+8iQozLiDinIXmnInlhbfkvZPmlbDlrZfvvIjmlYjmnpzph48v5qC35pys6YePL+avlOS+i++8iQo0LiDinIXpgILnlKjovrnnlYzlt7LmoIfms6gKNS4g4pyF44CQ6L+Z56+H5Zyo6K+05LuA5LmI44CR4omkMjUw5a2XCjYuIOKcheOAkOS4uuS7gOS5iOOAkeaYjuehruagh+azqOKRoC/ikaEv4pGiCjcuIOKcheOAkOiusOS9j+S4gOWPpeivneOAkTE1LTMw5a2X77yM5pyJ5Yik5pat77yM5LiN5Lit5oCnCjguIOKcheaPkOeCvOWPluiIjeivtOaYjuKJpDPlj6UKOS4g4pyFRE9J5pyJ5YiZ5YaZ77yM5peg5YiZIuingeWOn+aWh+W6kyIKMTAuIOKcheWQhOevh+W6j+WPt+i/nue7re+8iDAxLTEw77yJCjExLiDinIXmnKrmjqjpgIHov4fvvIjmjpLpmaTlt7Lop6bliqgv5bey5peg6Kem5YqoL+W3suaOqOmAge+8iQoxMi4g4pyF6Iux5paH5pyv6K+t5LuF6aaW5qyh5Ye6546w5qCH5rOo5Lit6Iux5a+554WnCg==
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 2fc69ab9d98594aa98a22caedb425b42
+    PropagateID: 2fc69ab9d98594aa98a22caedb425b42
+    ReservedCode1: 3045022072094bde37ba39ebfb70251fa7c99e5f06c25349be4e03f117d32a2fe780bd99022100f0329a047df5714ef9ddb6718b0a13e29a82161eab5c43d137868617f6eed8ae
+    ReservedCode2: 3046022100de242fb22b9186dab92ec64a402ea82a00aa021f707dece612d0a626529f272b022100c53747bf282f6effe162e45145f84e3bf260f7b081b9fc28c496c95a4dcc4132
+---
+
+# daily-briefing | 每日简报写作技能
+
+## 技能概述
+
+- **版本**：v4.0
+- **创建日期**：2026-04-04
+- **触发方式**：cron每日05:40自动调用，或主session手动调用
+- **输入**：执行日期（date，格式YYYY-MM-DD，默认当日）
+- **输出**：10篇完整简报推送+写入 `/.daily_briefing.md`
+- **下游衔接**：收到陛下「标记完毕」后调用 `collision-analysis` Skill
+
+---
+
+## 零、库存预警机制（每次简报推送前必检）
+
+**规则**：原文库未标记文章始终维持在30篇以上
+
+**检查流程**：
+1. 扫描原文库，统计"未标记"文章数量
+   - "未标记" = 无「已触动」标签 + 无「无触动」标签 + 未推送
+2. **若未标记文章 ≥ 30篇** → 正常流程，继续执行选文
+3. **若未标记文章 < 30篇** → 立即触发情报补货：
+   a. 通过sessions_spawn通知情报官（info_officer）立即启动搜索
+   b. 通知内容：告知库存不足，要求intel_01~11各补充至少3篇
+   c. 补货完成后再执行选文
+   d. 向陛下报告：「原文库库存不足，已触发情报团队补货，预计N分钟后完成」
+
+**补货标准**：每日库存警戒线30篇，不足则立即补，不等次日
+
+---
+
+## 八、预执行健康度检查（铁律，每次必执行）
+
+**本检查在Step 1之前执行，检查不通过则 abort，不生成低质量简报。**
+
+### 健康度检查项（依次执行，有一项不通过则停止）：
+
+**① 发表时间补录（每周自动）**
+- cron任务 `backfill_weekly` 每周日凌晨自动运行 `.backfill_v3.py`
+- 将结果 commit 到 git
+- 确保原文库中所有文章都有发表时间
+
+**② 候选池数量检查**
+执行以下查询：
+```bash
+python3 -c "
+import os, re
+FORMAL_DIR = '/workspace/knowledge/原文库'
+PLACEHOLDERS = ['待确认','待查','待补充','待补','未知']
+candidates = []
+for fname in os.listdir(FORMAL_DIR):
+    if not fname.endswith('.md'): continue
+    with open(os.path.join(FORMAL_DIR,fname)) as f: c=f.read()
+    if any(k in c for k in ['已触动','已无触动']): continue
+    if '推送日期：'+date in c: continue  # 只排除今日
+    am = re.search(r'作者[：:]\s*(.+?)(?:\n|$)', c)
+    if not am or any(p in am.group(1) for p in PLACEHOLDERS): continue
+    dm = re.search(r'发表[时年月：: ]*\d{4}[年-]\d{1,2}', c)
+    if dm: candidates.append(fname)
+print(len(candidates))
+"
+```
+- **≥10篇** → 检查通过，继续Step 1
+- **<10篇** → **立即通知臣（主Agent），告知陛下"候选池枯竭，简报暂停，补货后次日恢复"**
+- **<3篇** → 紧急：立即触发 intel 全量补货
+
+**③ 格式自检清单（输出前必查）**
+```
+1. 各篇序号01-10连续
+2. 无"待确认/待查/待补充/待补"占位符
+3. 有具体数字（样本量/效果量/比例）
+4. 每篇DOI已标注
+5. 【记住一句话】15-30字，有态度不中性
+```
+发现任一问题 → 从文件中删除该篇，立即回库取合格篇补充
+
+**④ 推送标记规范**
+- 每篇只标记一次"推送日期：YYYY-MM-DD"
+- 不重复标记
+- 历史推送标记每7天自动清除一次（cron执行）
+
+---
+
+## 九、紧急预案（当简报无法生成10篇时）
+
+**触发条件**：候选池<10篇
+
+**处理流程（立即执行，不等陛下指令）：**
+1. 立即通知陛下："候选池枯竭（X篇），简报暂缓"
+2. 触发 intel 全量补货
+3. 补货完成后重新生成简报
+4. 补货期间不生成低质量简报（不凑数）
+
+**禁止行为：**
+- ❌ 凑数生成不足10篇的简报
+- ❌ 推送有占位符/缺字段的文章
+- ❌ 在候选池<10篇时强行推进
+
+
+---
+
+## 一、选文规则（v4.0）
+
+### 过滤规则（按优先级依次排除）
+
+1. **已触动** → 排除（已触动过，不再重复推）
+2. **已无触动** → 排除（已标无触动，不再重复推）
+3. **当日已推送** → 排除（同一DOI当天不重复推）
+4. **无发表时间** → 排除（无法判断是否最新）
+
+### 排序规则（铁律）
+
+按论文**发表时间**倒序，不以入库时间排序。
+
+**执行步骤**：
+1. 扫描原文库所有✅已验证文件
+2. 排除：已触动 / 已无触动 / 当日已推送 / 无发表时间
+3. **排除作者占位符文章**：读取文件时，若「作者」字段含"待确认/待查/待补充/待补/未知/TBD/pending" → 该篇跳过，立即取下一篇补充
+4. 读取「发表时间/发表年月」字段
+5. 按发表时间倒序（今天→昨天→前天……）
+6. 从最新一篇开始取，凑够10篇为止
+7. **写完即自检**：发现任何占位符 → 从文件中删除该篇，立即回库取合格篇补充，确保10篇全部合格
+
+**发表时间获取优先级**：
+1. 「发表时间」字段（精确到月）
+2. 「发表年月」字段
+3. 「出版年份」字段（→ 年份+默认12月）
+4. 均无 → 该文件不参与选文
+
+**举例**：
+- 今天是4月4日 → 先选4月3日、4月2日发表的论文
+- 没有 → 再选4月1日、3月31日……以此类推，直到凑够10篇
+
+**比例**：10篇（全英文），不强制要求中文；中文文章池不足时，纯英文10篇亦可接受
+
+---
+
+### 选文来源过滤（铁律，v4.1新增）
+
+以下来源的文章不进入简报候选池：
+
+- ❌ 商业咨询机构报告（艾瑞咨询/IDC/Gartner/艾媒/前瞻研究院等）
+- ❌ 行业白皮书/市场洞察报告（"2026年AI教育行业发展报告"类）
+- ❌ 新闻媒体报道（36kr/虎嗅/钛媒体/芥末堆/多鲸/虎嗅等）
+- ❌ 会议通知/活动邀请/奖项公告
+- ❌ 无DOI、无期刊信息、无作者姓名的"三无"文档
+
+✅ 入库来源标准：
+- 正式学术期刊论文（ Computers & Education / npj AI / BJET / nature系列等）
+- 国际机构研究报告（OECD/UNESCO/哈佛大学/斯坦福/剑桥等知名机构）
+- 大学/研究院正式发表的学术报告（有完整作者和机构信息）
+
+
+
+**优先级1**：`**标题**` 或 `**原标题**` 字段（去星号后纯文本）
+**优先级2**：`标题（英文）` 字段
+**优先级3**：`Original Title` 字段
+
+**若标题为空或含占位符（待补充/待查/TBD等）**：
+→ 必须在简报中写"原标题：原文库缺失（需补录）"，不得自行翻译或推断
+
+**若arXiv搜索无英文标题**：intel agent不得写入.pending，应跳过或重新搜索。
+
+---
+
+## 三、简报格式规范
+
+### 头部信息（6项固定顺序）
+
+**英文期刊/预印本**：
+```
+【序号】中文标题（专业翻译，不字面对译）
+原标题：[完整英文标题]（原文照录，非"待补充"/"原文库缺失"）
+作者：第一作者 et al.（超过3人）/ 三人以内写全
+来源：期刊全称 ｜ 发表年月（精确到月）
+原文库编号：xxx
+```
+
+**中文期刊（5项，无原标题字段）**：
+```
+【序号】中文标题
+作者：第一作者, 第二作者（≤3人写全，>3人写"第一作者 et al."）
+来源：期刊全称 ｜ 发表年月
+原文库编号：xxx
+```
+
+### 三段正文
+
+**【这篇在说什么】**（150-250字）
+先讲张力（"不是……而是……"），再讲方法
+覆盖：核心张力 + 关键区分 + 具体数字锚点 + 适用边界
+
+**【为什么这篇值得你注意】**（100-180字）
+明确标注：①挑战常见做法 ②提供可借鉴方案 ③填补知识盲区
+必须有"不看的代价"
+
+**【如果只记住一句话】**（15-30字）
+一个判断，有态度，不中性
+
+### 附录
+
+```
+▷ 提炼取舍说明：（不超过3句）
+▷ DOI：（有则写，无则标注"见原文库"）
+```
+
+---
+
+## 四、执行流程
+
+### Step 1：库存检查（必执行）
+- 统计未标记文章数量
+- 若≥30 → 继续
+- 若<30 → 触发情报补货 → 补货完成后再执行
+
+### Step 2：选文（按发表时间，选最新）
+排除已触动/已无触动/当日已推送/无发表时间 → 按时间倒序取10篇
+
+### Step 3：读取原文库文件（执行标题提取规则）
+按二、标题提取规则读取每篇，不自行发挥
+
+### Step 4：撰写
+按格式撰写头部+三段正文+附录，逐项通过自检清单
+
+### Step 5：组装推送
+1. 10篇合并为一条消息
+2. 每篇之间空2行
+3. 末尾附：「📌 请在每篇后面回复✅触动/❌不触动，全部完成后回复「标记完毕」，臣即刻启动碰撞分析。」
+4. 调用 `python3 /workspace/.send_briefing.py` 发送（直接调飞书Open API，绕过message工具）
+5. 完整内容写入 `/.daily_briefing.md`
+6. **将这10篇在原文库中标记为「已推送」**（防止次日重复推）
+
+### Step 6：等待陛下标记
+静默等待，不主动继续
+
+---
+
+## 五、陛下标记完毕后的处理（铁律）
+
+收到陛下「标记完毕」后，执行：
+
+1. **识别触动/无触动**：
+   - 陛下标注✅ → 该篇标记「已触动」
+   - 陛下标注❌ → 该篇标记「已无触动」
+   - 陛下未明确表态 → 该篇标记「已无触动」（陛下沉默≠默认通过）
+
+2. **更新原文库文件**：
+   在每篇文件末尾追加状态标签：
+   - `状态：已触动 | 推送日期：YYYY-MM-DD | 陛下标注：✅`
+   - `状态：已无触动 | 推送日期：YYYY-MM-DD | 陛下标注：❌或沉默`
+
+3. **输出报告**：
+   告知陛下本轮触动/无触动各多少篇，触动文章已启动碰撞分析
+
+---
+
+## 六、衔接规则（v4.0新增每日观点节点）
+
+| 触发条件 | 动作 |
+|---------|------|
+| 每日05:40 | 自动执行库存检查→选文→推送 |
+| 陛下「标记完毕」 | 标记触动/无触动→**生成每日观点（daily-viewpoint skill）→并行启动碰撞分析** |
+| 陛下「跳过每日观点」 | 不生成观点，只启动碰撞分析 |
+| 陛下「今天跳过」 | 流程静默结束，不打标签 |
+| 库存<30篇 | 触发情报官补货，不等待次日 |
+
+**完整流程链**：
+```
+每日简报 → 陛下标触动 → 每日观点（发老师）→ 碰撞分析 → 洞察全文
+                             （并行执行）
+```
+
+---
+
+## 七、自检清单（输出前逐项核验）
+
+1. ✅英文/预印本有"原标题"字段，且来自原文库（不是"待补充"/自行翻译）
+2. ✅未标记文章≥30篇（库存检查已执行）
+3. ✅有具体数字（效果量/样本量/比例）
+4. ✅适用边界已标注
+5. ✅【这篇在说什么】≤250字
+6. ✅【为什么】明确标注①/②/③
+7. ✅【记住一句话】15-30字，有判断，不中性
+8. ✅提炼取舍说明≤3句
+9. ✅DOI有则写，无则"见原文库"
+10. ✅各篇序号连续（01-10）
+11. ✅未推送过（排除已触动/已无触动/已推送）
+12. ✅英文术语仅首次出现标注中英对照
