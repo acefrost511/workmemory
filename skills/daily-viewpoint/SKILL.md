@@ -1,1 +1,115 @@
-LS0tCm5hbWU6IGRhaWx5LXZpZXdwb2ludApkZXNjcmlwdGlvbjog5bCG5q+P5pel6Kem5Yqo56+H6L2s5o2i5Li644CM566A5oql5o+Q54K854mIICsg5a6M5pW054mI5q+P5pel6KeC54K544CN44CC6Kem5Y+R5p2h5Lu277ya6Zmb5LiL6K+044CM5qCH6K6w5a6M5q+V44CN5ZCO6Ieq5Yqo5omn6KGM44CC6L6T5Ye677ya5YaZ5YWlIC93b3Jrc3BhY2UvLmRhaWx5X3ZpZXdwb2ludC5tZO+8jOWQjOatpeeUn+aIkEhUTUzmlofku7bjgIIKLS0tCgojIGRhaWx5LXZpZXdwb2ludCB8IOavj+aXpeingueCueaKgOiDvQoKIyMg5oqA6IO95qaC6L+wCgotIOeJiOacrO+8mnYzLjDvvIgyMDI2LTA0LTA077yJCi0g5a6a5L2N77ya5q+P5pel566A5oql5LiO5rSe5a+f5LmL6Ze055qE5LiT5bGe5YaF5a655bGCCi0g5Y+X5LyX77ya6ICB5biI44CB5pyL5Y+L562J5aSW6YOo6K+76ICF77yI5Y+v5YWs5byA5Y+R6YCB77yJCi0g6Kem5Y+R77ya6Zmb5LiL5qCH6K6w5a6M5q+V5ZCO6Ieq5Yqo5omn6KGMCgojIyDkuIDjgIHlhoXlrrnnu5PmnoTvvIjkuKTmrrXlvI/vvIkKCuesrOS4gOmDqOWIhu+8mueugOaKpeaPkOeCvOeJiO+8iOWFpeWPo+amguimge+8jOivu+iAhTMw56eS5o6M5o+h5YWo6LKM77yJCuesrOS6jOmDqOWIhu+8muWujOaVtOeJiOavj+aXpeingueCue+8iOavj+evh+WOn+aWhyvmiJHnmoTnnIvms5XvvIkKCiMjIOS6jOOAgeeugOaKpeaPkOeCvOeJiOagvOW8j+inhOiMg++8iHYzLjDlrprnqL/vvIkKCiMjIyDmoIfpopjljLoKLSDku47lhajpg6jmlofnq6DkuK3mjJEz56+HIuS/oeaBr+iQveW3ruaEnyLmnIDlvLrnmoTlhoXlrrkKLSDmr4/nr4fmj5DngrzkuLoxMu+9njE15a2X55qE55+t5Y+l77yM5LiJ5Y+l5LmL6Ze055SoIi8i6L+e5o6lCi0g5q+P5Liq55+t5Y+l5b+F6aG75YyF5ZCr6Iez5bCR5LiA5Liq6ZKp5a2Q77ya5YW35L2T5pWw5a2XL+WvueavlOWPjeW3ri/lm6Dmnpzmgqzlv7Uv5oOF57uq6Kem5Y+R6K+NCi0g5LiJ5Y+l5Li76aKY5bC96YeP5YiG5pWj77yI5LiN6ZuG5Lit5ZCM5LiA6aKG5Z+f77yJCi0g5oC75a2X5pWw77yaNDDvvZ41MOWtlwoKIyMjIOmAn+ivu+WMuu+8iOavj+adoeagvOW8j++8iQotIGVtb2pp5byA5aS077yI5pW057uEZW1vamnkuI3ph43lpI3vvIkKLSAqKuagh+mimOWtl+aVsO+8mjI1772eMzDlrZcqKu+8iOacgOWFs+mUrue6puadn++8iQotIOWPpeW8j+S8mOWFiO+8muaVsOWtlyvkuovku7blnosgLyDkuLvkvZMr5Yqo5L2cK+e7k+aenOWeiyAvIOaguOW/g+WIpOaWreWeiyAvIOWvueavlOWPjeW3ruWeiwotICoq6ZOB5b6L77ya5b+F6aG75p2l6Ieq5Y6f5paH5YW35L2T5Y+R546w77yM5Y6f5paH54Wn5b2V5oiW5pyA5bCP56iL5bqm6L2s6L+wKioKLSDnpoHmraLvvJrmjY/pgKDmlbDlrZcv5qGI5L6LL+e7k+iuuu+8m+emgeatouazm+WMluamguaLrO+8m+emgeatoui2hei/hzMw5a2XCgojIyMg5o+Q54K85pa55rOV6K6677yI6ZOB5b6L77yJCjEuIOWFiOivu+WOn+aWh+W6k++8jOaJvuWIsOivpeevh+acgOWFt+S9k+OAgeacgOWPjeW4uOivhueahOmCo+S4quWPkeeOsAoyLiDljp/mlofnhaflvZXlhbfkvZPmlbDlrZcv57uT6K6677yM5LiN5pS55YaZCjMuIOWmguaenOWOn+aWh+aXoOWFt+S9k+aVsOWtl++8jOeUqOacgOeyvuWHhueahOWumuaAp+aPj+i/sO+8jOS4jeiHquihjOWKoOaVsOaNrgo0LiDlhbfkvZPlj5HnjrAgPiDmlbDlrZcv5qCH562+ID4g5oq96LGh5Yik5patCgojIyMg6L6T5Ye65qC85byP77yI5Zu65a6a77yJCuesrOS4gOihjO+8muagh+mimOWMuu+8iOefreWPpUEv55+t5Y+lQi/nn63lj6VD77yJCgrnqbrkuIDooYwKCumAn+ivu+WMuu+8iOavj+ihjOS4gOadoe+8jGVtb2pp5byA5aS077yJCgojIyMg5a2Y5pS+CuWGmeWFpSAvd29ya3NwYWNlLy5kYWlseV92aWV3cG9pbnQubWTvvIjnroDmiqXmj5DngrzniYjlnKjkuIrvvIzlrozmlbTniYjlnKjkuIvvvIkK5ZCM5q2l55Sf5oiQIC93b3Jrc3BhY2UvcmVwb3J0cy9kYWlseS9BSeaVmeiCsueglOeptuinguWvn19ZWVlZLU1NLURELmh0bWwKCiMjIOS4ieOAgUhUTUzovpPlh7rop4TojIPvvIjpk4HlvovvvIkKCi0g56aB5q2i6L6T5Ye6IueugOaKpeaPkOeCvOeJiCLkvZzkuLrku7vkvZXnuqfliKvnmoTmoIfpopgKLSDnpoHmraLovpPlh7oi5a6M5pW054mI5q+P5pel6KeC54K5IuS9nOS4uuS7u+S9lee6p+WIq+eahOagh+mimAotIOeugOaKpeaPkOeCvOeJiOWGheWuueS5i+WQjuOAgeWujOaVtOeJiOWGheWuueS5i+WJje+8jOWPqueUqOWIhumalOe6v++8iGhy77yJ5YiG6ZqU77yM5LiN5Yqg56ug6IqC5qCH6aKYCi0g566A5oql5o+Q54K854mI5q2j5paH55u05o6l6Lef6ZqP5qCH6aKY5Yy677yM5LiN5Yqg6aKd5aSW5bCP5qCH6aKYCgojIyDlm5vjgIHlrozmlbTniYjmoLzlvI/op4TojIMKCiMjIyDlpLTpg6gKQUnmlZnogrLnoJTnqbbop4Llr58gwrcgWVlZWS1NTS1ERO+8iOesrE7mnJ/vvIkKCiMjIyDmr4/nr4fnu5PmnoQK44CQ5bqP5Y+344CR44CQ5Lit5paH5qCH6aKY44CRCuWOn+agh+mimO+8mkVuZ2xpc2ggT3JpZ2luYWwgVGl0bGXvvIjljp/mlofnhaflvZXvvIzkuK3mloforrrmlofml6DmraTooYzvvIkK5p2l5rqQ77ya5pyf5YiK5ZCNIMK3IFlZWVnlubRN5pyICgrjgJDov5nnr4flnKjor7Tku4DkuYjjgJEK77yI5p2l6Ieq5LuK5pel566A5oql55qE5Y6f5LiJ5q615q2j5paH77yM5a6M5pW05L+d55WZ77yM5LiA5a2X5LiN5pS577yJCgrjgJDkuLrku4DkuYjlgLzlvpfkvaDms6jmhI/jgJEK77yI5p2l6Ieq5LuK5pel566A5oql55qE5Y6f5LiJ5q615q2j5paH77yM5a6M5pW05L+d55WZ77yJCgrjgJDmiJHnmoTnnIvms5XjgJEK5qC85byP77ya8J+SoeWKoOeyl+S4gOWPpeWIpOaWreaAp+aguOW/g+a0nuWvn++8iOKJpDI15a2X77yJ77yM54S25ZCO5bGV5byAMTAwLTIwMOWtl+OAggrnpoHmraLvvJrnqbrmtJ7or50vIuWAvOW+l+WFs+azqCIvIuaIkeiupOS4uiIv5rOb5rOb6ICM6LCI5peg5YW35L2T5oyH5ZCRCgrjgJDlpoLmnpzlj6rorrDkvY/kuIDlj6Xor53jgJEK77yI5p2l6Ieq566A5oql5Y6f5Y+l77yMMTUtMzDlrZfvvIzmnInliKTmlq3vvIzkuI3kuK3mgKfvvIkKCiMjIyDlsL7pg6gK8J+TriDovazlj5Hor7fms6jmmI7lh7rlpIQKCiMjIOWbm+OAgSLmiJHnmoTnnIvms5Ui5YaZ5L2c6KaB5rGCCgoxLiDlvIDlpLTlv4XpobvmnInkuIDlj6XliKTmlq3mgKfmoLjlv4PmtJ7lr5/vvIjiiaQyNeWtl++8ie+8jOagvOW8j++8miLwn5KhKirmoLjlv4PliKTmlq0qKiIKMi4g5bGV5byA6YOo5YiG5b+F6aG777yaCiAgIC0g6K+05piO6L+Z5Liq5Yik5pat55qE5ZCr5LmJ5ZKM6YCC55So6IyD5Zu0CiAgIC0g6IGU57O7Sy0xMuaVmeiCsuWunumZheWcuuaZrwogICAtIOacieaYjuehrueri+Wcuu+8jOS4jeS4reaApwozLiDnpoHmraLlh7rnjrDvvJoKICAgLSAi5YC85b6X5YWz5rOoIi8i5YW35pyJ6YeN6KaB5oSP5LmJIu+8iOepuua0nu+8iQogICAtICLmiJHorqTkuLoiLyLmiJHop4nlvpci77yI5Y+j6K+t5YyW77yJCiAgIC0g5rOb5rOb6ICM6LCI5peg5YW35L2T5oyH5ZCR55qE57uT6K66CgojIyDkupTjgIHmiafooYzmtYHnqIsKClN0ZXAgMe+8muaUtumbhuinpuWKqOevhwror7vlj5bku4rml6XnroDmiqUgLy5kYWlseV9icmllZmluZy5tZO+8jOaPkOWPluagh+KcheeahOevh+ebrgoKU3RlcCAy77ya55Sf5oiQ566A5oql5o+Q54K854mICi0g6YCJM+evh+S/oeaBr+iQveW3ruacgOW8uueahAotIOavj+adoeagh+mimDI1LTMw5a2X77yM5pyJ5Y6f5paH5YW35L2T5Y+R546w5pSv5pKRCgpTdGVwIDPvvJrnu4Too4XlrozmlbTniYgKLSDmr4/nr4fvvJrluo/lj7cr5qCH6aKYK+adpea6kCvkuInmrrXmraPmlocr5oiR55qE55yL5rOVK+S4gOWPpeivnQoKU3RlcCA077ya5YaZ5YWl5paH5Lu2Ci0gLy5kYWlseV92aWV3cG9pbnQubWTvvIjlrozmlbTlhoXlrrnvvIkKLSAvcmVwb3J0cy9kYWlseS9BSeaVmeiCsueglOeptuinguWvn19ZWVlZLU1NLURELmh0bWwKClN0ZXAgNe+8mumAmuefpemZm+S4iwrmj5DkvptIVE1M6ZO+5o6l77yM562J5b6F6Zmb5LiL56Gu6K6k5ZCO5o6o6YCBCg==
+---
+name: daily-viewpoint
+description: 将每日触动篇转换为「简报提炼版 + 完整版每日观点」。触发条件：陛下说「标记完毕」后自动执行。输出：写入 /workspace/.daily_viewpoint.md，同步生成HTML文件。
+---
+
+# daily-viewpoint | 每日观点技能
+
+## 技能概述
+
+- 版本：v3.0（2026-04-04）
+- 定位：每日简报与洞察之间的专属内容层
+- 受众：老师、朋友等外部读者（可公开发送）
+- 触发：陛下标记完毕后自动执行
+
+## 一、内容结构（两段式）
+
+第一部分：简报提炼版（入口概要，读者30秒掌握全貌）
+第二部分：完整版每日观点（每篇原文+我的看法）
+
+## 二、简报提炼版格式规范（v3.0定稿）
+
+### 标题区
+- 从全部文章中挑3篇"信息落差感"最强的内容
+- 每篇提炼为12～15字的短句，三句之间用"/"连接
+- 每个短句必须包含至少一个钩子：具体数字/对比反差/因果悬念/情绪触发词
+- 三句主题尽量分散（不集中同一领域）
+- 总字数：40～50字
+
+### 速读区（每条格式）
+- emoji开头（整组emoji不重复）
+- **标题字数：25～30字**（最关键约束）
+- 句式优先：数字+事件型 / 主体+动作+结果型 / 核心判断型 / 对比反差型
+- **铁律：必须来自原文具体发现，原文照录或最小程度转述**
+- 禁止：捏造数字/案例/结论；禁止泛化概括；禁止超过30字
+
+### 提炼方法论（铁律）
+1. 先读原文库，找到该篇最具体、最反常识的那个发现
+2. 原文照录具体数字/结论，不改写
+3. 如果原文无具体数字，用最精准的定性描述，不自行加数据
+4. 具体发现 > 数字/标签 > 抽象判断
+
+### 输出格式（固定）
+第一行：标题区（短句A/短句B/短句C）
+
+空一行
+
+速读区（每行一条，emoji开头）
+
+### 存放
+写入 /workspace/.daily_viewpoint.md（简报提炼版在上，完整版在下）
+同步生成 /workspace/reports/daily/AI教育研究观察_YYYY-MM-DD.html
+
+## 三、HTML输出规范（铁律）
+
+- 禁止输出"简报提炼版"作为任何级别的标题
+- 禁止输出"完整版每日观点"作为任何级别的标题
+- 简报提炼版内容之后、完整版内容之前，只用分隔线（hr）分隔，不加章节标题
+- 简报提炼版正文直接跟随标题区，不加额外小标题
+
+## 四、完整版格式规范
+
+### 头部
+AI教育研究观察 · YYYY-MM-DD（第N期）
+
+### 每篇结构
+【序号】【中文标题】
+原标题：English Original Title（原文照录，中文论文无此行）
+来源：期刊名 · YYYY年M月
+
+【这篇在说什么】
+（来自今日简报的原三段正文，完整保留，一字不改）
+
+【为什么值得你注意】
+（来自今日简报的原三段正文，完整保留）
+
+【我的看法】
+格式：💡加粗一句判断性核心洞察（≤25字），然后展开100-200字。
+禁止：空洞话/"值得关注"/"我认为"/泛泛而谈无具体指向
+
+【如果只记住一句话】
+（来自简报原句，15-30字，有判断，不中性）
+
+### 尾部
+📮 转发请注明出处
+
+## 四、"我的看法"写作要求
+
+1. 开头必须有一句判断性核心洞察（≤25字），格式："💡**核心判断**"
+2. 展开部分必须：
+   - 说明这个判断的含义和适用范围
+   - 联系K-12教育实际场景
+   - 有明确立场，不中性
+3. 禁止出现：
+   - "值得关注"/"具有重要意义"（空洞）
+   - "我认为"/"我觉得"（口语化）
+   - 泛泛而谈无具体指向的结论
+
+## 五、执行流程
+
+Step 1：收集触动篇
+读取今日简报 /.daily_briefing.md，提取标✅的篇目
+
+Step 2：生成简报提炼版
+- 选3篇信息落差最强的
+- 每条标题25-30字，有原文具体发现支撑
+
+Step 3：组装完整版
+- 每篇：序号+标题+来源+三段正文+我的看法+一句话
+
+Step 4：写入文件
+- /.daily_viewpoint.md（完整内容）
+- /reports/daily/AI教育研究观察_YYYY-MM-DD.html
+
+Step 5：通知陛下
+提供HTML链接，等待陛下确认后推送
