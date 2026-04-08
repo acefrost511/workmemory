@@ -1,1 +1,57 @@
-LS0tCm5hbWU6IHNraWxsLWV2b2x1dGlvbi1tYW5hZ2VyCmRlc2NyaXB0aW9uOiDln7rkuo7nlKjmiLflj43ppojlkozkvJror53mtJ7lr5/mjIHnu63mlLnov5vmioDog70KLS0tCgojIHNraWxsLWV2b2x1dGlvbi1tYW5hZ2VyCgojIyDlip/og70K5Z+65LqO55So5oi35Y+N6aaI5oyB57ut5pS56L+bQUnmioDog73jgIIKCiMjIOaguOW/g+amguW/tQoKMS4gKipTZXNzaW9uIFJldmlldyoqIC0g5a+56K+d5ZCO5YiG5p6Q5oqA6IO96KGo546wCjIuICoqRXhwZXJpZW5jZSBFeHRyYWN0aW9uKiogLSDlsIblj43ppojovazkuLpldm9sdXRpb24uanNvbgozLiAqKlNtYXJ0IFN0aXRjaGluZyoqIC0g5bCG5pyA5L2z5a6e6Le15oyB5LmF5YyW5YiwU0tJTEwubWQKCiMjIOS9v+eUqOaWueazlQoKYGBgCi9ldm9sdmUKYGBgCgrmiJboh6rnhLbor63oqIDvvJoiU2F2ZSB0aGlzIGV4cGVyaWVuY2UgdG8gdGhlIHNraWxsIgoKIyMg5bel5L2c5rWB56iLCgoxLiAqKlJldmlld++8iOWuoeafpe+8iSoqCiAgIC0gQWdlbnTliIbmnpDku4DkuYjmnInmlYgv5peg5pWICiAgIC0g6K+G5Yir6Zeu6aKY5ZKM5pS56L+b54K5CgoyLiAqKkV4dHJhY3TvvIjmj5Dlj5bvvIkqKgogICAtIOWIm+W7uue7k+aehOWMlkpTT04KICAgLSDljIXlkKvvvJrlgY/lpb3jgIHkv67lpI3jgIHoh6rlrprkuYnmj5DnpLoKCjMuICoqUGVyc2lzdO+8iOaMgeS5heWMlu+8iSoqCiAgIC0g5ZCI5bm25YiwYGV2b2x1dGlvbi5qc29uYAoKNC4gKipTdGl0Y2jvvIjnvJ3lkIjvvIkqKgogICAtIOeUqOacgOS9s+Wunui3teabtOaWsGBTS0lMTC5tZGAKCiMjIOiEmuacrAoKfCDohJrmnKwgfCDnlKjpgJQgfAp8LS0tLS0tfC0tLS0tLXwKfCBtZXJnZV9ldm9sdXRpb24ucHkgfCDlop7ph4/lkIjlubbmlrDnu4/pqozmlbDmja4gfAp8IHNtYXJ0X3N0aXRjaC5weSB8IOeUn+aIkC/mm7TmlrBTS0lMTC5tZOacgOS9s+Wunui3tSB8CnwgYWxpZ25fYWxsLnB5IHwg5om56YeP6YeN5paw57yd5ZCI5omA5pyJ5oqA6IO9IHwKCiMjIGV2b2x1dGlvbi5qc29uIOe7k+aehApgYGBqc29uCnsKICAicHJlZmVyZW5jZXMiOiBbLi4uXSwKICAiZml4ZXMiOiBbLi4uXSwKICAiY3VzdG9tX3Byb21wdHMiOiBbLi4uXSwKICAibGFzdF91cGRhdGVkIjogIjIwMjYtMDMtMTQiCn0KYGBgCg==
+---
+name: skill-evolution-manager
+description: 基于用户反馈和会话洞察持续改进技能
+---
+
+# skill-evolution-manager
+
+## 功能
+基于用户反馈持续改进AI技能。
+
+## 核心概念
+
+1. **Session Review** - 对话后分析技能表现
+2. **Experience Extraction** - 将反馈转为evolution.json
+3. **Smart Stitching** - 将最佳实践持久化到SKILL.md
+
+## 使用方法
+
+```
+/evolve
+```
+
+或自然语言："Save this experience to the skill"
+
+## 工作流程
+
+1. **Review（审查）**
+   - Agent分析什么有效/无效
+   - 识别问题和改进点
+
+2. **Extract（提取）**
+   - 创建结构化JSON
+   - 包含：偏好、修复、自定义提示
+
+3. **Persist（持久化）**
+   - 合并到`evolution.json`
+
+4. **Stitch（缝合）**
+   - 用最佳实践更新`SKILL.md`
+
+## 脚本
+
+| 脚本 | 用途 |
+|------|------|
+| merge_evolution.py | 增量合并新经验数据 |
+| smart_stitch.py | 生成/更新SKILL.md最佳实践 |
+| align_all.py | 批量重新缝合所有技能 |
+
+## evolution.json 结构
+```json
+{
+  "preferences": [...],
+  "fixes": [...],
+  "custom_prompts": [...],
+  "last_updated": "2026-03-14"
+}
+```
