@@ -1,1 +1,40 @@
-LS0tCm5hbWU6IHNraWxsLW1hbmFnZXIKZGVzY3JpcHRpb246IEdpdEh1YuaKgOiDveeahOeUn+WRveWRqOacn+euoeeQhuWZqAotLS0KCiMgc2tpbGwtbWFuYWdlcgoKIyMg5Yqf6IO9CueuoeeQhuW3suWuieijhUdpdEh1YuaKgOiDveeahOeUn+WRveWRqOacn+OAggoKIyMg54m55oCnCi0gKipBdWRpdCoqIC0g5omr5o+P5pys5Zyw5oqA6IO95paH5Lu25aS5Ci0gKipDaGVjayoqIC0g5q+U6L6D5pys5Zyw5LiO6L+c56iL5o+Q5Lqk5ZOI5biMCi0gKipSZXBvcnQqKiAtIOeUn+aIkOeKtuaAgeaKpeWRigotICoqVXBkYXRlKiogLSDlvJXlr7zlvI/ljYfnuqfmioDog70KLSAqKkludmVudG9yeSoqIC0g5YiX5Ye6L+WIoOmZpOaKgOiDvQoKIyMg5L2/55So5pa55rOVCgpgYGAKL3NraWxsLW1hbmFnZXIgY2hlY2sgICAgICAgICAgIyDmiavmj4/mm7TmlrAKL3NraWxsLW1hbmFnZXIgbGlzdCAgICAgICAgICAjIOWIl+WHuuaJgOacieaKgOiDvQovc2tpbGwtbWFuYWdlciBhdWRpdCAgICAgICAgICMg5a6h6K6h5oqA6IO9Ci9za2lsbC1tYW5hZ2VyIHJlcG9ydCAgICAgICAgIyDnirbmgIHmiqXlkYoKL3NraWxsLW1hbmFnZXIgZGVsZXRlIDxuYW1lPiAjIOWIoOmZpOaKgOiDvQpgYGAKCiMjIOiEmuacrAoKfCDohJrmnKwgfCDnlKjpgJQgfAp8LS0tLS0tfC0tLS0tLXwKfCBzY2FuX2FuZF9jaGVjay5weSB8IOaJq+aPj+ebruW9le+8jOino+aekGZyb250bWF0dGVy77yM5qOA5p+l6L+c56iL54mI5pysIHwKfCB1cGRhdGVfaGVscGVyLnB5IHwg5pu05paw5YmN5aSH5Lu95paH5Lu2IHwKfCBsaXN0X3NraWxscy5weSB8IOWIl+WHuuW3suWuieijheeahOaKgOiDveWPiuWFg+aVsOaNriB8CnwgZGVsZXRlX3NraWxsLnB5IHwg5rC45LmF5Yig6Zmk5oqA6IO9IHwKCiMjIOeKtuaAgeexu+WeiwotICoqQ3VycmVudCoqIC0g5pys5Zyw5LiO6L+c56iL5ZCM5q2lCi0gKipTdGFsZSoqIC0g6L+c56iL5pyJ5paw54mI5pysCi0gKipVbmtub3duKiogLSDml6Dms5Xmo4Dmn6Xov5znqIsK
+---
+name: skill-manager
+description: GitHub技能的生命周期管理器
+---
+
+# skill-manager
+
+## 功能
+管理已安装GitHub技能的生命周期。
+
+## 特性
+- **Audit** - 扫描本地技能文件夹
+- **Check** - 比较本地与远程提交哈希
+- **Report** - 生成状态报告
+- **Update** - 引导式升级技能
+- **Inventory** - 列出/删除技能
+
+## 使用方法
+
+```
+/skill-manager check          # 扫描更新
+/skill-manager list          # 列出所有技能
+/skill-manager audit         # 审计技能
+/skill-manager report        # 状态报告
+/skill-manager delete <name> # 删除技能
+```
+
+## 脚本
+
+| 脚本 | 用途 |
+|------|------|
+| scan_and_check.py | 扫描目录，解析frontmatter，检查远程版本 |
+| update_helper.py | 更新前备份文件 |
+| list_skills.py | 列出已安装的技能及元数据 |
+| delete_skill.py | 永久删除技能 |
+
+## 状态类型
+- **Current** - 本地与远程同步
+- **Stale** - 远程有新版本
+- **Unknown** - 无法检查远程
