@@ -1,1 +1,87 @@
-LS0tCm5hbWU6IHVzaW5nLXN1cGVycG93ZXJzCmRlc2NyaXB0aW9uOiBVc2Ugd2hlbiBzdGFydGluZyBhbnkgY29udmVyc2F0aW9uIC0gZXN0YWJsaXNoZXMgaG93IHRvIGZpbmQgYW5kIHVzZSBza2lsbHMsIHJlcXVpcmluZyBTa2lsbCB0b29sIGludm9jYXRpb24gYmVmb3JlIEFOWSByZXNwb25zZSBpbmNsdWRpbmcgY2xhcmlmeWluZyBxdWVzdGlvbnMKLS0tCgo8RVhUUkVNRUxZLUlNUE9SVEFOVD4KSWYgeW91IHRoaW5rIHRoZXJlIGlzIGV2ZW4gYSAxJSBjaGFuY2UgYSBza2lsbCBtaWdodCBhcHBseSB0byB3aGF0IHlvdSBhcmUgZG9pbmcsIHlvdSBBQlNPTFVURUxZIE1VU1QgaW52b2tlIHRoZSBza2lsbC4KCklGIEEgU0tJTEwgQVBQTElFUyBUTyBZT1VSIFRBU0ssIFlPVSBETyBOT1QgSEFWRSBBIENIT0lDRS4gWU9VIE1VU1QgVVNFIElULgoKVGhpcyBpcyBub3QgbmVnb3RpYWJsZS4gVGhpcyBpcyBub3Qgb3B0aW9uYWwuIFlvdSBjYW5ub3QgcmF0aW9uYWxpemUgeW91ciB3YXkgb3V0IG9mIHRoaXMuCjwvRVhUUkVNRUxZLUlNUE9SVEFOVD4KCiMjIEhvdyB0byBBY2Nlc3MgU2tpbGxzCgoqKkluIENsYXVkZSBDb2RlOioqIFVzZSB0aGUgYFNraWxsYCB0b29sLiBXaGVuIHlvdSBpbnZva2UgYSBza2lsbCwgaXRzIGNvbnRlbnQgaXMgbG9hZGVkIGFuZCBwcmVzZW50ZWQgdG8geW914oCUZm9sbG93IGl0IGRpcmVjdGx5LiBOZXZlciB1c2UgdGhlIFJlYWQgdG9vbCBvbiBza2lsbCBmaWxlcy4KCioqSW4gb3RoZXIgZW52aXJvbm1lbnRzOioqIENoZWNrIHlvdXIgcGxhdGZvcm0ncyBkb2N1bWVudGF0aW9uIGZvciBob3cgc2tpbGxzIGFyZSBsb2FkZWQuCgojIFVzaW5nIFNraWxscwoKIyMgVGhlIFJ1bGUKCioqSW52b2tlIHJlbGV2YW50IG9yIHJlcXVlc3RlZCBza2lsbHMgQkVGT1JFIGFueSByZXNwb25zZSBvciBhY3Rpb24uKiogRXZlbiBhIDElIGNoYW5jZSBhIHNraWxsIG1pZ2h0IGFwcGx5IG1lYW5zIHRoYXQgeW91IHNob3VsZCBpbnZva2UgdGhlIHNraWxsIHRvIGNoZWNrLiBJZiBhbiBpbnZva2VkIHNraWxsIHR1cm5zIG91dCB0byBiZSB3cm9uZyBmb3IgdGhlIHNpdHVhdGlvbiwgeW91IGRvbid0IG5lZWQgdG8gdXNlIGl0LgoKYGBgZG90CmRpZ3JhcGggc2tpbGxfZmxvdyB7CiAgICAiVXNlciBtZXNzYWdlIHJlY2VpdmVkIiBbc2hhcGU9ZG91YmxlY2lyY2xlXTsKICAgICJNaWdodCBhbnkgc2tpbGwgYXBwbHk/IiBbc2hhcGU9ZGlhbW9uZF07CiAgICAiSW52b2tlIFNraWxsIHRvb2wiIFtzaGFwZT1ib3hdOwogICAgIkFubm91bmNlOiAnVXNpbmcgW3NraWxsXSB0byBbcHVycG9zZV0nIiBbc2hhcGU9Ym94XTsKICAgICJIYXMgY2hlY2tsaXN0PyIgW3NoYXBlPWRpYW1vbmRdOwogICAgIkNyZWF0ZSBUb2RvV3JpdGUgdG9kbyBwZXIgaXRlbSIgW3NoYXBlPWJveF07CiAgICAiRm9sbG93IHNraWxsIGV4YWN0bHkiIFtzaGFwZT1ib3hdOwogICAgIlJlc3BvbmQgKGluY2x1ZGluZyBjbGFyaWZpY2F0aW9ucykiIFtzaGFwZT1kb3VibGVjaXJjbGVdOwoKICAgICJVc2VyIG1lc3NhZ2UgcmVjZWl2ZWQiIC0+ICJNaWdodCBhbnkgc2tpbGwgYXBwbHk/IjsKICAgICJNaWdodCBhbnkgc2tpbGwgYXBwbHk/IiAtPiAiSW52b2tlIFNraWxsIHRvb2wiIFtsYWJlbD0ieWVzLCBldmVuIDElIl07CiAgICAiTWlnaHQgYW55IHNraWxsIGFwcGx5PyIgLT4gIlJlc3BvbmQgKGluY2x1ZGluZyBjbGFyaWZpY2F0aW9ucykiIFtsYWJlbD0iZGVmaW5pdGVseSBub3QiXTsKICAgICJJbnZva2UgU2tpbGwgdG9vbCIgLT4gIkFubm91bmNlOiAnVXNpbmcgW3NraWxsXSB0byBbcHVycG9zZV0nIjsKICAgICJBbm5vdW5jZTogJ1VzaW5nIFtza2lsbF0gdG8gW3B1cnBvc2VdJyIgLT4gIkhhcyBjaGVja2xpc3Q/IjsKICAgICJIYXMgY2hlY2tsaXN0PyIgLT4gIkNyZWF0ZSBUb2RvV3JpdGUgdG9kbyBwZXIgaXRlbSIgW2xhYmVsPSJ5ZXMiXTsKICAgICJIYXMgY2hlY2tsaXN0PyIgLT4gIkZvbGxvdyBza2lsbCBleGFjdGx5IiBbbGFiZWw9Im5vIl07CiAgICAiQ3JlYXRlIFRvZG9Xcml0ZSB0b2RvIHBlciBpdGVtIiAtPiAiRm9sbG93IHNraWxsIGV4YWN0bHkiOwp9CmBgYAoKIyMgUmVkIEZsYWdzCgpUaGVzZSB0aG91Z2h0cyBtZWFuIFNUT1DigJR5b3UncmUgcmF0aW9uYWxpemluZzoKCnwgVGhvdWdodCB8IFJlYWxpdHkgfAp8LS0tLS0tLS0tfC0tLS0tLS0tLXwKfCAiVGhpcyBpcyBqdXN0IGEgc2ltcGxlIHF1ZXN0aW9uIiB8IFF1ZXN0aW9ucyBhcmUgdGFza3MuIENoZWNrIGZvciBza2lsbHMuIHwKfCAiSSBuZWVkIG1vcmUgY29udGV4dCBmaXJzdCIgfCBTa2lsbCBjaGVjayBjb21lcyBCRUZPUkUgY2xhcmlmeWluZyBxdWVzdGlvbnMuIHwKfCAiTGV0IG1lIGV4cGxvcmUgdGhlIGNvZGViYXNlIGZpcnN0IiB8IFNraWxscyB0ZWxsIHlvdSBIT1cgdG8gZXhwbG9yZS4gQ2hlY2sgZmlyc3QuIHwKfCAiSSBjYW4gY2hlY2sgZ2l0L2ZpbGVzIHF1aWNrbHkiIHwgRmlsZXMgbGFjayBjb252ZXJzYXRpb24gY29udGV4dC4gQ2hlY2sgZm9yIHNraWxscy4gfAp8ICJMZXQgbWUgZ2F0aGVyIGluZm9ybWF0aW9uIGZpcnN0IiB8IFNraWxscyB0ZWxsIHlvdSBIT1cgdG8gZ2F0aGVyIGluZm9ybWF0aW9uLiB8CnwgIlRoaXMgZG9lc24ndCBuZWVkIGEgZm9ybWFsIHNraWxsIiB8IElmIGEgc2tpbGwgZXhpc3RzLCB1c2UgaXQuIHwKfCAiSSByZW1lbWJlciB0aGlzIHNraWxsIiB8IFNraWxscyBldm9sdmUuIFJlYWQgY3VycmVudCB2ZXJzaW9uLiB8CnwgIlRoaXMgZG9lc24ndCBjb3VudCBhcyBhIHRhc2siIHwgQWN0aW9uID0gdGFzay4gQ2hlY2sgZm9yIHNraWxscy4gfAp8ICJUaGUgc2tpbGwgaXMgb3ZlcmtpbGwiIHwgU2ltcGxlIHRoaW5ncyBiZWNvbWUgY29tcGxleC4gVXNlIGl0LiB8CnwgIkknbGwganVzdCBkbyB0aGlzIG9uZSB0aGluZyBmaXJzdCIgfCBDaGVjayBCRUZPUkUgZG9pbmcgYW55dGhpbmcuIHwKfCAiVGhpcyBmZWVscyBwcm9kdWN0aXZlIiB8IFVuZGlzY2lwbGluZWQgYWN0aW9uIHdhc3RlcyB0aW1lLiBTa2lsbHMgcHJldmVudCB0aGlzLiB8CnwgIkkga25vdyB3aGF0IHRoYXQgbWVhbnMiIHwgS25vd2luZyB0aGUgY29uY2VwdCDiiaAgdXNpbmcgdGhlIHNraWxsLiBJbnZva2UgaXQuIHwKCiMjIFNraWxsIFByaW9yaXR5CgpXaGVuIG11bHRpcGxlIHNraWxscyBjb3VsZCBhcHBseSwgdXNlIHRoaXMgb3JkZXI6CgoxLiAqKlByb2Nlc3Mgc2tpbGxzIGZpcnN0KiogKGJyYWluc3Rvcm1pbmcsIGRlYnVnZ2luZykgLSB0aGVzZSBkZXRlcm1pbmUgSE9XIHRvIGFwcHJvYWNoIHRoZSB0YXNrCjIuICoqSW1wbGVtZW50YXRpb24gc2tpbGxzIHNlY29uZCoqIChmcm9udGVuZC1kZXNpZ24sIG1jcC1idWlsZGVyKSAtIHRoZXNlIGd1aWRlIGV4ZWN1dGlvbgoKIkxldCdzIGJ1aWxkIFgiIOKGkiBicmFpbnN0b3JtaW5nIGZpcnN0LCB0aGVuIGltcGxlbWVudGF0aW9uIHNraWxscy4KIkZpeCB0aGlzIGJ1ZyIg4oaSIGRlYnVnZ2luZyBmaXJzdCwgdGhlbiBkb21haW4tc3BlY2lmaWMgc2tpbGxzLgoKIyMgU2tpbGwgVHlwZXMKCioqUmlnaWQqKiAoVERELCBkZWJ1Z2dpbmcpOiBGb2xsb3cgZXhhY3RseS4gRG9uJ3QgYWRhcHQgYXdheSBkaXNjaXBsaW5lLgoKKipGbGV4aWJsZSoqIChwYXR0ZXJucyk6IEFkYXB0IHByaW5jaXBsZXMgdG8gY29udGV4dC4KClRoZSBza2lsbCBpdHNlbGYgdGVsbHMgeW91IHdoaWNoLgoKIyMgVXNlciBJbnN0cnVjdGlvbnMKCkluc3RydWN0aW9ucyBzYXkgV0hBVCwgbm90IEhPVy4gIkFkZCBYIiBvciAiRml4IFkiIGRvZXNuJ3QgbWVhbiBza2lwIHdvcmtmbG93cy4K
+---
+name: using-superpowers
+description: Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions
+---
+
+<EXTREMELY-IMPORTANT>
+If you think there is even a 1% chance a skill might apply to what you are doing, you ABSOLUTELY MUST invoke the skill.
+
+IF A SKILL APPLIES TO YOUR TASK, YOU DO NOT HAVE A CHOICE. YOU MUST USE IT.
+
+This is not negotiable. This is not optional. You cannot rationalize your way out of this.
+</EXTREMELY-IMPORTANT>
+
+## How to Access Skills
+
+**In Claude Code:** Use the `Skill` tool. When you invoke a skill, its content is loaded and presented to you—follow it directly. Never use the Read tool on skill files.
+
+**In other environments:** Check your platform's documentation for how skills are loaded.
+
+# Using Skills
+
+## The Rule
+
+**Invoke relevant or requested skills BEFORE any response or action.** Even a 1% chance a skill might apply means that you should invoke the skill to check. If an invoked skill turns out to be wrong for the situation, you don't need to use it.
+
+```dot
+digraph skill_flow {
+    "User message received" [shape=doublecircle];
+    "Might any skill apply?" [shape=diamond];
+    "Invoke Skill tool" [shape=box];
+    "Announce: 'Using [skill] to [purpose]'" [shape=box];
+    "Has checklist?" [shape=diamond];
+    "Create TodoWrite todo per item" [shape=box];
+    "Follow skill exactly" [shape=box];
+    "Respond (including clarifications)" [shape=doublecircle];
+
+    "User message received" -> "Might any skill apply?";
+    "Might any skill apply?" -> "Invoke Skill tool" [label="yes, even 1%"];
+    "Might any skill apply?" -> "Respond (including clarifications)" [label="definitely not"];
+    "Invoke Skill tool" -> "Announce: 'Using [skill] to [purpose]'";
+    "Announce: 'Using [skill] to [purpose]'" -> "Has checklist?";
+    "Has checklist?" -> "Create TodoWrite todo per item" [label="yes"];
+    "Has checklist?" -> "Follow skill exactly" [label="no"];
+    "Create TodoWrite todo per item" -> "Follow skill exactly";
+}
+```
+
+## Red Flags
+
+These thoughts mean STOP—you're rationalizing:
+
+| Thought | Reality |
+|---------|---------|
+| "This is just a simple question" | Questions are tasks. Check for skills. |
+| "I need more context first" | Skill check comes BEFORE clarifying questions. |
+| "Let me explore the codebase first" | Skills tell you HOW to explore. Check first. |
+| "I can check git/files quickly" | Files lack conversation context. Check for skills. |
+| "Let me gather information first" | Skills tell you HOW to gather information. |
+| "This doesn't need a formal skill" | If a skill exists, use it. |
+| "I remember this skill" | Skills evolve. Read current version. |
+| "This doesn't count as a task" | Action = task. Check for skills. |
+| "The skill is overkill" | Simple things become complex. Use it. |
+| "I'll just do this one thing first" | Check BEFORE doing anything. |
+| "This feels productive" | Undisciplined action wastes time. Skills prevent this. |
+| "I know what that means" | Knowing the concept ≠ using the skill. Invoke it. |
+
+## Skill Priority
+
+When multiple skills could apply, use this order:
+
+1. **Process skills first** (brainstorming, debugging) - these determine HOW to approach the task
+2. **Implementation skills second** (frontend-design, mcp-builder) - these guide execution
+
+"Let's build X" → brainstorming first, then implementation skills.
+"Fix this bug" → debugging first, then domain-specific skills.
+
+## Skill Types
+
+**Rigid** (TDD, debugging): Follow exactly. Don't adapt away discipline.
+
+**Flexible** (patterns): Adapt principles to context.
+
+The skill itself tells you which.
+
+## User Instructions
+
+Instructions say WHAT, not HOW. "Add X" or "Fix Y" doesn't mean skip workflows.
