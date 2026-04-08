@@ -1,1 +1,86 @@
-LS0tCm5hbWU6IGVkdWNhdGlvbgpkZXNjcmlwdGlvbjogIkdlbmVyYXRlIHN0dWR5IG1hdGVyaWFscy4gVXNlIHdoZW4gY3JlYXRpbmcgc3R1ZHkgcGxhbnMsIHF1aXp6ZXMsIGZsYXNoY2FyZHMsIHRyYWNraW5nIHByb2dyZXNzLCBvciBzY2hlZHVsaW5nIHJldmlldyBzZXNzaW9ucy4iCnZlcnNpb246ICIzLjQuMCIKYXV0aG9yOiBCeXRlc0FnYWluCmhvbWVwYWdlOiBodHRwczovL2J5dGVzYWdhaW4uY29tCnNvdXJjZTogaHR0cHM6Ly9naXRodWIuY29tL2J5dGVzYWdhaW4vYWktc2tpbGxzCnRhZ3M6CiAgLSBlZHVjYXRpb24KICAtIGxlYXJuaW5nCiAgLSBzdHVkeQogIC0gcXVpegogIC0gZmxhc2hjYXJkCiAgLSByZXZpZXcKLS0tCgojIEVkdWNhdGlvbiBTa2lsbAoKR2VuZXJhdGUgc3R1ZHkgcGxhbnMsIHF1aXp6ZXMsIGZsYXNoY2FyZHMsIGFuZCByZXZpZXcgbWF0ZXJpYWxzIGZvciBhbnkgdG9waWMuIFRyYWNrIHByb2dyZXNzIGFuZCBzY2hlZHVsZSBzZXNzaW9ucy4KCiMjIENvbW1hbmRzCgojIyMgcGxhbgoKR2VuZXJhdGUgYSBzdHJ1Y3R1cmVkIGxlYXJuaW5nIHBsYW4gZm9yIGEgdG9waWMuCgpgYGBiYXNoCmJhc2ggc2NyaXB0cy9zY3JpcHQuc2ggcGxhbiA8dG9waWM+IFstLXdlZWtzIDxudW0+XSBbLS1sZXZlbCBiZWdpbm5lcnxpbnRlcm1lZGlhdGV8YWR2YW5jZWRdIFstLW91dHB1dCBqc29ufHRleHRdCmBgYAoKIyMjIHF1aXoKCkdlbmVyYXRlIHF1aXogcXVlc3Rpb25zIG9uIGEgdG9waWMuCgpgYGBiYXNoCmJhc2ggc2NyaXB0cy9zY3JpcHQuc2ggcXVpeiA8dG9waWM+IFstLWNvdW50IDxudW0+XSBbLS10eXBlIG1jcXx0cnVlZmFsc2V8c2hvcnRdIFstLWRpZmZpY3VsdHkgZWFzeXxtZWRpdW18aGFyZF0KYGBgCgojIyMgZmxhc2hjYXJkCgpHZW5lcmF0ZSBmbGFzaGNhcmRzIGZvciBrZXkgY29uY2VwdHMuCgpgYGBiYXNoCmJhc2ggc2NyaXB0cy9zY3JpcHQuc2ggZmxhc2hjYXJkIDx0b3BpYz4gWy0tY291bnQgPG51bT5dIFstLWZvcm1hdCBwbGFpbnxjc3Z8anNvbl0KYGBgCgojIyMgcHJvZ3Jlc3MKClRyYWNrIGFuZCBkaXNwbGF5IGxlYXJuaW5nIHByb2dyZXNzLgoKYGBgYmFzaApiYXNoIHNjcmlwdHMvc2NyaXB0LnNoIHByb2dyZXNzIFstLXRvcGljIDx0b3BpYz5dIFstLW1hcmsgPG1pbGVzdG9uZT5dIFstLXJlc2V0XQpgYGAKCiMjIyBzY2hlZHVsZQoKQ3JlYXRlIGEgc3R1ZHkgc2NoZWR1bGUgd2l0aCB0aW1lIGJsb2Nrcy4KCmBgYGJhc2gKYmFzaCBzY3JpcHRzL3NjcmlwdC5zaCBzY2hlZHVsZSA8dG9waWM+IFstLWhvdXJzLXBlci1kYXkgPG51bT5dIFstLWRheXMgPG51bT5dIFstLXN0YXJ0IDxkYXRlPl0KYGBgCgojIyMgcmV2aWV3CgpHZW5lcmF0ZSBhIHJldmlldyBjaGVja2xpc3QgZnJvbSBjb21wbGV0ZWQgdG9waWNzLgoKYGBgYmFzaApiYXNoIHNjcmlwdHMvc2NyaXB0LnNoIHJldmlldyA8dG9waWM+IFstLXNjb3BlIGFsbHx3ZWFrfHJlY2VudF0gWy0tZm9ybWF0IGNoZWNrbGlzdHxzdW1tYXJ5XQpgYGAKCiMjIE91dHB1dAoKQWxsIGNvbW1hbmRzIHByaW50IHRvIHN0ZG91dC4gVXNlIGAtLW91dHB1dCBqc29uYCAod2hlcmUgc3VwcG9ydGVkKSBmb3IgbWFjaGluZS1yZWFkYWJsZSBvdXRwdXQuIFByb2dyZXNzIGRhdGEgaXMgc3RvcmVkIGluIGB+Ly5lZHVjYXRpb24vcHJvZ3Jlc3MuanNvbmAuCgoKIyMgUmVxdWlyZW1lbnRzCi0gYmFzaCA0KwotIHB5dGhvbjMgKHN0YW5kYXJkIGxpYnJhcnkgb25seSkKCiMjIEZlZWRiYWNrCgpRdWVzdGlvbnMgb3Igc3VnZ2VzdGlvbnM/IOKGkiBbaHR0cHM6Ly9ieXRlc2FnYWluLmNvbS9mZWVkYmFjay9dKGh0dHBzOi8vYnl0ZXNhZ2Fpbi5jb20vZmVlZGJhY2svKQoKLS0tCgpQb3dlcmVkIGJ5IEJ5dGVzQWdhaW4gfCBieXRlc2FnYWluLmNvbQo=
+---
+name: education
+description: "Generate study materials. Use when creating study plans, quizzes, flashcards, tracking progress, or scheduling review sessions."
+version: "3.4.0"
+author: BytesAgain
+homepage: https://bytesagain.com
+source: https://github.com/bytesagain/ai-skills
+tags:
+  - education
+  - learning
+  - study
+  - quiz
+  - flashcard
+  - review
+---
+
+# Education Skill
+
+Generate study plans, quizzes, flashcards, and review materials for any topic. Track progress and schedule sessions.
+
+## Commands
+
+### plan
+
+Generate a structured learning plan for a topic.
+
+```bash
+bash scripts/script.sh plan <topic> [--weeks <num>] [--level beginner|intermediate|advanced] [--output json|text]
+```
+
+### quiz
+
+Generate quiz questions on a topic.
+
+```bash
+bash scripts/script.sh quiz <topic> [--count <num>] [--type mcq|truefalse|short] [--difficulty easy|medium|hard]
+```
+
+### flashcard
+
+Generate flashcards for key concepts.
+
+```bash
+bash scripts/script.sh flashcard <topic> [--count <num>] [--format plain|csv|json]
+```
+
+### progress
+
+Track and display learning progress.
+
+```bash
+bash scripts/script.sh progress [--topic <topic>] [--mark <milestone>] [--reset]
+```
+
+### schedule
+
+Create a study schedule with time blocks.
+
+```bash
+bash scripts/script.sh schedule <topic> [--hours-per-day <num>] [--days <num>] [--start <date>]
+```
+
+### review
+
+Generate a review checklist from completed topics.
+
+```bash
+bash scripts/script.sh review <topic> [--scope all|weak|recent] [--format checklist|summary]
+```
+
+## Output
+
+All commands print to stdout. Use `--output json` (where supported) for machine-readable output. Progress data is stored in `~/.education/progress.json`.
+
+
+## Requirements
+- bash 4+
+- python3 (standard library only)
+
+## Feedback
+
+Questions or suggestions? → [https://bytesagain.com/feedback/](https://bytesagain.com/feedback/)
+
+---
+
+Powered by BytesAgain | bytesagain.com
