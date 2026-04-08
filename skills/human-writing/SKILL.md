@@ -1,1 +1,41 @@
-LS0tCm5hbWU6IGh1bWFuLXdyaXRpbmcKZGVzY3JpcHRpb246ICJXcml0ZSBjb250ZW50IHRoYXQgcmVhZHMgYXMgbmF0dXJhbGx5IGh1bWFuIOKAlCBubyBBSSB0ZWxscywgbm8gY29ycG9yYXRlIGZsdWZmLiBVc2Ugd2hlbiBkcmFmdGluZywgZWRpdGluZywgb3IgcmV2aWV3aW5nIGFueSBjb250ZW50IG1lYW50IGZvciBwdWJsaWNhdGlvbiBvciBleHRlcm5hbCBhdWRpZW5jZXM6IGJsb2cgcG9zdHMsIGFydGljbGVzLCBuZXdzbGV0dGVycywgbWFya2V0aW5nIGNvcHksIHNvY2lhbCBtZWRpYSB0aHJlYWRzLCBjbGllbnQtZmFjaW5nIGRvY3VtZW50cywgd2Vic2l0ZSBjb3B5LCBlbWFpbHMgdG8gbGlzdHMuIE5PVCBmb3I6IGNhc3VhbCBjaGF0LCBjb2RlLCBpbnRlcm5hbCBub3Rlcywgb3IgcXVpY2sgcmVwbGllcy4iCi0tLQoKIyBIdW1hbiBXcml0aW5nCgpBcHBseSB0aGVzZSBwcmluY2lwbGVzIHdoZW4gZHJhZnRpbmcgb3IgZWRpdGluZyBjb250ZW50IGZvciBleHRlcm5hbCBjb25zdW1wdGlvbi4KCiMjIENvcmUgcnVsZXMKCjEuIEJlIHNwZWNpZmljIG92ZXIgZ2VuZXJhbCDigJQgY29uY3JldGUgZmFjdHMgYmVhdCB2YWd1ZSBwcmFpc2UKMi4gVXNlIHNpbXBsZSB2ZXJicyDigJQgaXMsIGhhcywgd2FzLCBkaWQg4oCUIG5vdCAic2VydmVzIGFzLCIgImJvYXN0cywiICJzaG93Y2FzZXMiCjMuIE5vIGNoZWVybGVhZGluZyDigJQgc3RhdGUgZmFjdHMsIHNraXAgInRoaXMgaXMgaW1wb3J0YW50IGJlY2F1c2XigKYiCjQuIFJlcGVhdCB3b3JkcyBjb21mb3J0YWJseSDigJQgaHVtYW5zIHJldXNlIHdvcmRzOyBkb24ndCBjeWNsZSBzeW5vbnltcwo1LiBTaG9ydCBzZW50ZW5jZXMgYXJlIGZpbmUg4oCUIG5vdCBldmVyeXRoaW5nIG5lZWRzIHRocmVlIGNsYXVzZXMKNi4gQXR0cmlidXRlIG9waW5pb25zIHNwZWNpZmljYWxseSDigJQgIlJvZ2VyIEViZXJ0IHdyb3Rl4oCmIiBub3QgIkNyaXRpY3MgaGF2ZSBub3RlZOKApiIKNy4gU2tpcCBmb3JjZWQgc2lnbmlmaWNhbmNlIOKAlCBub3QgZXZlcnl0aGluZyAicmVmbGVjdHMgYnJvYWRlciB0cmVuZHMiCjguIFVzZSBsb3dlcmNhc2UgaGVhZGluZ3Mg4oCUIHRpdGxlIGNhc2Ugc2NyZWFtcyBBSQo5LiBCb2xkIHNwYXJpbmdseSDigJQgbm90IGV2ZXJ5IG90aGVyIHBocmFzZQoxMC4gVXNlIGNvbnRyYWN0aW9ucyDigJQgIml0J3MsIiAiZG9uJ3QsIiAid29uJ3QiIHNvdW5kIGh1bWFuCgojIyBCZWZvcmUgcHVibGlzaGluZwoKU2NhbiB0aGUgZHJhZnQgYWdhaW5zdCB0aGUgZnVsbCBhbnRpLUFJIHBhdHRlcm5zIHJlZmVyZW5jZSBmb3IgcmVkIGZsYWdzOgoKYGBgCnJlYWQgcmVmZXJlbmNlcy9hbnRpLWFpLXBhdHRlcm5zLm1kCmBgYAoKQ2hlY2sgZm9yOgotIENsdXN0ZXJzIG9mIEFJIHZvY2FidWxhcnkgKGRlbHZlLCBwaXZvdGFsLCB0YXBlc3RyeSwgZXRjLikKLSAiLWluZyIgcGhyYXNlcyB0YWNrZWQgb250byBzZW50ZW5jZSBlbmRzCi0gIkRlc3BpdGUgY2hhbGxlbmdlc+KApiIgZm9ybXVsYXMKLSBWYWd1ZSBhdHRyaWJ1dGlvbnMgKCJleHBlcnRzIHNheSIpCi0gU2lnbmlmaWNhbmNlIGluZmxhdGlvbgotIFN5bm9ueW0gY3ljbGluZwotIFJ1bGUtb2YtdGhyZWUgbGlzdHMKLSBPdmVybHkgZm9ybWFsIHZlcmJzCgpGaXggYW55dGhpbmcgdGhhdCB0cmlwcyB0aGUgY2hlY2tsaXN0LCB0aGVuIHJlLXJlYWQgb25jZSBtb3JlIGZvciBuYXR1cmFsIGZsb3cuCg==
+---
+name: human-writing
+description: "Write content that reads as naturally human — no AI tells, no corporate fluff. Use when drafting, editing, or reviewing any content meant for publication or external audiences: blog posts, articles, newsletters, marketing copy, social media threads, client-facing documents, website copy, emails to lists. NOT for: casual chat, code, internal notes, or quick replies."
+---
+
+# Human Writing
+
+Apply these principles when drafting or editing content for external consumption.
+
+## Core rules
+
+1. Be specific over general — concrete facts beat vague praise
+2. Use simple verbs — is, has, was, did — not "serves as," "boasts," "showcases"
+3. No cheerleading — state facts, skip "this is important because…"
+4. Repeat words comfortably — humans reuse words; don't cycle synonyms
+5. Short sentences are fine — not everything needs three clauses
+6. Attribute opinions specifically — "Roger Ebert wrote…" not "Critics have noted…"
+7. Skip forced significance — not everything "reflects broader trends"
+8. Use lowercase headings — title case screams AI
+9. Bold sparingly — not every other phrase
+10. Use contractions — "it's," "don't," "won't" sound human
+
+## Before publishing
+
+Scan the draft against the full anti-AI patterns reference for red flags:
+
+```
+read references/anti-ai-patterns.md
+```
+
+Check for:
+- Clusters of AI vocabulary (delve, pivotal, tapestry, etc.)
+- "-ing" phrases tacked onto sentence ends
+- "Despite challenges…" formulas
+- Vague attributions ("experts say")
+- Significance inflation
+- Synonym cycling
+- Rule-of-three lists
+- Overly formal verbs
+
+Fix anything that trips the checklist, then re-read once more for natural flow.
