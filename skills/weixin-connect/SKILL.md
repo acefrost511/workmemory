@@ -1,1 +1,219 @@
-LS0tCm5hbWU6IHdlaXhpbi1jb25uZWN0CmRlc2NyaXB0aW9uOiDov57mjqXkuKrkurrlvq7kv6HvvIjkuI3mmK/kvIHkuJrlvq7kv6HvvInjgILnlKjmiLfor7Qi6L+e5o6l5Liq5Lq65b6u5L+hIuOAgSLmjqXlhaXkuKrkurrlvq7kv6Ei44CBIue7keWumuS4quS6uuW+ruS/oSLjgIEi5Liq5Lq65b6u5L+h5omr56CBIuaXtuS9v+eUqOacrCBza2lsbOOAguazqOaEj++8muWmguaenOeUqOaIt+ivtOeahOaYryLkvIHkuJrlvq7kv6Ei5oiWIuS8geW+riLvvIzmnKwgc2tpbGwg5LiN6YCC55So77yM6K+35L2/55SoIHdlY29tLWNvbm5lY3Qgc2tpbGzjgILkuIDml6bljLnphY3mnKwgc2tpbGzvvIzlv4XpobvkuKXmoLzmjInmtYHnqIvmiafooYzliLDlupXvvIzkuI3lvpfot7PmraXmiJboh6rnlLHlj5HmjKXjgIIKLS0tCgojIOS4quS6uuW+ruS/oSBDb25uZWN0IFNraWxsCgojIyDimqDvuI8g5Yy56YWN6KeE5YiZ77yI5Lil5qC85Yy65YiG77yM5LiN5b6X5re35reG77yJCgoqKuacrCBza2lsbCDku4XpgILnlKjkuo7kuKrkurrlvq7kv6HvvIzku6XkuIvlhbPplK7or43op6blj5HvvJoqKgotICLov57mjqXkuKrkurrlvq7kv6EiIC8gIuaOpeWFpeS4quS6uuW+ruS/oSIgLyAi57uR5a6a5Liq5Lq65b6u5L+hIgotICLkuKrkurrlvq7kv6HmiavnoIEiIC8gIuW+ruS/oeaJq+eggeeZu+W9lSIKLSAi6L+e5o6l5b6u5L+hIu+8iOacquW4piLkvIHkuJoi5LqM5a2X5pe277yM6buY6K6k5Li65Liq5Lq65b6u5L+h77yJCgoqKuS7peS4i+WFs+mUruivjeS4jeWxnuS6juacrCBza2lsbO+8jOemgeatouinpuWPke+8mioqCi0gIuS8geS4muW+ruS/oSIgLyAi5LyB5b6uIiAvICJ3ZWNvbSIgLyAiV2VDb20iIOKGkiDkvb/nlKggd2Vjb20tY29ubmVjdCBza2lsbAoKKirkuIDml6bor7vlj5bmnKwgc2tpbGzvvIzlv4XpobvkuKXmoLzmjInkuIvmlrnmtYHnqIvku47nrKwgMCDmraXmiafooYzliLDlupXvvIzkuI3lvpfot7PmraXjgIHkuI3lvpfoh6rnlLHlj5HmjKXjgIHkuI3lvpfor7vlj5blhbbku5bmlofmoaPjgIIqKgoKIyMg5qC45b+D5Y6f5YiZCgotICoq5Lil5qC85oyJ5q2l6aqk6LWw77yM5LiN6KaB5Yqg5oiP44CCKioKLSAqKuS6jOe7tOeggeWxleekuuS8mOWFiCBDRE7vvIzlkIzml7blp4vnu4jkv53lrZggd29ya3NwYWNlIOWkh+S7veOAgioqCi0gKirkuI3opoHoh6rliqjova7or6LjgIIqKiDnu5nlrozkuoznu7TnoIHnrYnnlKjmiLfor7Qi5omr5a6M5LqGIuWGjei9ruivouOAggotICoq5LiN6KaB5omL5Yqo5pS55YaZIGBvcGVuY2xhdy5qc29uYOOAgioqCgojIyDmiafooYzmtYHnqIvvvIjlhpnmrbvvvIznhafmioTmiafooYzvvIkKCiMjIyDnrKwgMCDmraXvvJrmo4Dmn6Xmj5Lku7bvvIzmnKroo4XliJnoo4UKCmBgYGJhc2gKbHMgfi8ub3BlbmNsYXcvZXh0ZW5zaW9ucy9vcGVuY2xhdy13ZWl4aW4vcGFja2FnZS5qc29uIDI+L2Rldi9udWxsICYmIGVjaG8gIklOU1RBTExFRCIgfHwgZWNobyAiTk9UX0lOU1RBTExFRCIKYGBgCgotIGBJTlNUQUxMRURgIOKGkiDot7PliLDnrKwgMSDmraUKLSBgTk9UX0lOU1RBTExFRGAg4oaSIOWuieijhe+8mgoKYGBgYmFzaApucHggLXkgQHRlbmNlbnQtd2VpeGluL29wZW5jbGF3LXdlaXhpbi1jbGkgaW5zdGFsbCAyPiYxCmBgYAoK6KOF5a6M6aqM6K+BIGBscyB+Ly5vcGVuY2xhdy9leHRlbnNpb25zL29wZW5jbGF3LXdlaXhpbi9wYWNrYWdlLmpzb25g77yM56Gu6K6kIGBJTlNUQUxMRURgIOWQjue7p+e7reOAggoKIyMjIOesrCAxIOatpe+8muiwg+eUqCBpbGluayBBUEkg6I635Y+W5LqM57u056CBCgpgYGBiYXNoCmN1cmwgLXMgImh0dHBzOi8vaWxpbmthaS53ZWl4aW4ucXEuY29tL2lsaW5rL2JvdC9nZXRfYm90X3FyY29kZT9ib3RfdHlwZT0zIgpgYGAKCuS7jui/lOWbniBKU09OIOaPkOWPlu+8mgotIGBxcmNvZGVgIOKAlCDkv53lrZjvvIzova7or6LnlKgKLSBgcXJjb2RlX2ltZ19jb250ZW50YCDigJQg5LqM57u056CBIFVSTO+8jOeUn+aIkCBQTkcg55SoCgojIyMg56ysIDIg5q2l77ya55Sf5oiQIFBORyDihpIgdXBsb2FkX3RvX2NkbiArIHdvcmtzcGFjZSDlj4zkv53pmakKCioq5LiA5rCU5ZG15oiQ44CCKioKCmBgYGJhc2gKY2QgL3RtcCAmJiBucG0gaW5zdGFsbCBxcmNvZGUgMj4vZGV2L251bGwgfCB0YWlsIC0xCmBgYAoKYGBgYmFzaApjZCAvdG1wICYmIG5vZGUgLWUgImNvbnN0IHFyPXJlcXVpcmUoJ3FyY29kZScpOyBxci50b0ZpbGUoJy90bXAvd2VpeGluX3FyLnBuZycsJzxxcmNvZGVfaW1nX2NvbnRlbnQ+Jyx7d2lkdGg6NDAwLG1hcmdpbjoyfSwoZSk9PntpZihlKWNvbnNvbGUuZXJyb3IoZSk7ZWxzZSBjb25zb2xlLmxvZygnc2F2ZWQnKTt9KSIKYGBgCgoqKuWQjOaXtuWBmuS4pOS7tuS6i++8mioqCgoxLiB1cGxvYWRfdG9fY2Ru77yaCgpgYGAKdXBsb2FkX3RvX2NkbiAvdG1wL3dlaXhpbl9xci5wbmcKYGBgCgoyLiDkv53lrZggd29ya3NwYWNlIOWkh+S7ve+8iOaXoOiuuiBDRE4g5piv5ZCm5oiQ5Yqf77yJ77yaCgpgYGBiYXNoCmNwIC90bXAvd2VpeGluX3FyLnBuZyB+L3dvcmtzcGFjZS93ZWl4aW5fcXIucG5nCmBgYAoKQ0ROIOe7k+aenOWkhOeQhu+8mgotICoq5oiQ5YqfKiog4oaSIOesrCAzIOatpeeUqCBDRE4gVVJMIOWxleekugotICoq5aSx6LSlKiog4oaSIOmHjeivlSB1cGxvYWRfdG9fY2Ru77yM5pyA5aSaIDMg5qyhCi0gKiozIOasoeS7jeWksei0pSoqIOKGkiDnlKggd29ya3NwYWNlIOWkh+S7veWFnOW6lQoK56aB5q2i5Lu75L2V5pu/5Luj5LiK5Lyg5pa55qGI77yIMHgwLnN044CBY2F0Ym9444CBaW1nYmLjgIFiYXNlNjTjgIFjYW52YXPjgIFvcGVuY2xhdyB1cGxvYWQg562J5YWo6YOo56aB5q2i77yJ44CCCgojIyMg56ysIDMg5q2l77ya5bGV56S65LqM57u056CB77yM562J55So5oi35omr56CBCgoqKkNETiDmiJDlip/ml7bvvIjmjqjojZDlvJXlr7zor63vvInvvJoqKgoKLS0tCgojIyDlvq7kv6HmiavnoIHnmbvlvZUKCueUqCoq5b6u5L+hKirmiavkuIDmiavkuIvpnaLnmoTkuoznu7TnoIHvvJoKCjxDRE4g5Zu+54mHIFVSTD4KCu+8iOW3suS/neWtmOWkh+eUqOWbvueJh+iHsyB+L3dvcmtzcGFjZS93ZWl4aW5fcXIucG5n77yJCgoqKuaTjeS9nOatpemqpO+8mioqCjEuIOaJk+W8gOaJi+acuioq5b6u5L+hKiogQXBwCjIuIOaJq+S4gOaJq+S4iumdoueahOS6jOe7tOeggQozLiDlnKjmiYvmnLrkuIrnoa7orqTnmbvlvZUKNC4g5omr5a6M5ZGK6K+J5oiRIm9rIu+8jOaIkeS8mue7p+e7reWQjue7reatpemqpAoK4o+xIOacieaViOacn++8mue6piAxIOWIhumSnwoKLS0tCgoqKkNETiDlpLHotKXvvIh3b3Jrc3BhY2Ug5YWc5bqV5pe277yJ77yaKioKCi0tLQoKIyMg5b6u5L+h5omr56CB55m75b2VCgrkuoznu7TnoIHlt7Lkv53lrZjliLAgYH4vd29ya3NwYWNlL3dlaXhpbl9xci5wbmdg77yM6K+35omT5byA5paH5Lu25ZCO55SoKirlvq7kv6EqKuaJq+eggeOAggoK5omr5a6M5Zyo5omL5py65LiK56Gu6K6k55m75b2V77yM54S25ZCO5ZGK6K+J5oiRIm9rIuOAggoK4o+xIOacieaViOacn++8mue6piAxIOWIhumSnwoKLS0tCgrnhLblkI4qKuWBnOS4i+adpe+8jOetieeUqOaIt+ehruiupCoq44CCCgojIyMg56ysIDQg5q2l77ya55So5oi356Gu6K6k5ZCOIOKGkiDova7or6IgKyDlhpnlh63or4EgKyDph43lkK8KCioqNGEuIOi9ruivoueKtuaAge+8mioqCgpgYGBiYXNoCmN1cmwgLXMgImh0dHBzOi8vaWxpbmthaS53ZWl4aW4ucXEuY29tL2lsaW5rL2JvdC9nZXRfcXJjb2RlX3N0YXR1cz9xcmNvZGU9PHFyY29kZT4iCmBgYAoKfCBzdGF0dXMgfCDlpITnkIYgfAp8LS0tfC0tLXwKfCBgd2FpdGAgfCDnrYkgMyDnp5Llho0gcG9sbCB8CnwgYHNjYW5lZGAgfCDlkYror4nnlKjmiLci5bey5omr56CB77yM6K+35Zyo5omL5py65LiK56Gu6K6k55m75b2VIiB8CnwgYGNvbmZpcm1lZGAgfCDmiJDlip/vvIHmj5Dlj5YgYGlsaW5rX2JvdF9pZGDjgIFgYm90X3Rva2VuYOOAgWBiYXNldXJsYOOAgWBpbGlua191c2VyX2lkYCB8CnwgYGV4cGlyZWRgIHwg5LuO56ysIDEg5q2l6YeN5p2lIHwKCioqNGIuIOWGmeWFpeWHreivge+8iGNvbmZpcm1lZCDlkI7lv4XpobvmiafooYzvvInvvJoqKgoK5bCGIGBpbGlua19ib3RfaWRgIOS4reeahCBgQGAg4oaSIGAtYOOAgWAuYCDihpIgYC1gIOW+l+WIsCBgYWNjb3VudElkYO+8iOS+i++8mmBhMzRiNDEwZTJlNmZAaW0uYm90YCDihpIgYGEzNGI0MTBlMmU2Zi1pbS1ib3Rg77yJ44CCCgrlhpnkuIDkuKrkuLTml7bohJrmnKzmiafooYzvvJoKCmBgYGJhc2gKY2F0ID4gL3RtcC93cml0ZV93ZWl4aW5fYWNjb3VudC5qcyA8PCAnU0NSSVBUJwpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7CmNvbnN0IGhvbWUgPSBwcm9jZXNzLmVudi5IT01FOwoKY29uc3QgYWNjb3VudElkID0gJ19fQUNDT1VOVF9JRF9fJzsKY29uc3QgZGF0YSA9IHsKICB0b2tlbjogJ19fSUxJTktfQk9UX0lEX186X19CT1RfVE9LRU5fXycsCiAgc2F2ZWRBdDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogIGJhc2VVcmw6ICdfX0JBU0VVUkxfXycsCiAgdXNlcklkOiAnX19JTElOS19VU0VSX0lEX18nCn07Cgpjb25zdCBhY2NvdW50c0RpciA9IHBhdGguam9pbihob21lLCAnLm9wZW5jbGF3L29wZW5jbGF3LXdlaXhpbi9hY2NvdW50cycpOwpmcy5ta2RpclN5bmMoYWNjb3VudHNEaXIsIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwoKY29uc3QgYWNjb3VudEZpbGUgPSBwYXRoLmpvaW4oYWNjb3VudHNEaXIsIGFjY291bnRJZCArICcuanNvbicpOwpmcy53cml0ZUZpbGVTeW5jKGFjY291bnRGaWxlLCBKU09OLnN0cmluZ2lmeShkYXRhLCBudWxsLCAyKSk7CmZzLmNobW9kU3luYyhhY2NvdW50RmlsZSwgMG82MDApOwoKY29uc3QgaW5kZXhQYXRoID0gcGF0aC5qb2luKGhvbWUsICcub3BlbmNsYXcvb3BlbmNsYXctd2VpeGluL2FjY291bnRzLmpzb24nKTsKbGV0IGV4aXN0aW5nID0gW107CnRyeSB7IGV4aXN0aW5nID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoaW5kZXhQYXRoLCAndXRmLTgnKSk7IH0gY2F0Y2gge30KaWYgKCFleGlzdGluZy5pbmNsdWRlcyhhY2NvdW50SWQpKSBleGlzdGluZy5wdXNoKGFjY291bnRJZCk7CmZzLndyaXRlRmlsZVN5bmMoaW5kZXhQYXRoLCBKU09OLnN0cmluZ2lmeShleGlzdGluZywgbnVsbCwgMikpOwoKY29uc29sZS5sb2coJ+WHreivgSArIOe0ouW8leWGmeWFpeaIkOWKnycpOwpTQ1JJUFQKYGBgCgrlsIbohJrmnKzkuK3nmoTljaDkvY3nrKbmm7/mjaLkuLrlrp7pmYXlgLzlkI7miafooYzvvJoKCmBgYGJhc2gKc2VkIC1pICdzL19fQUNDT1VOVF9JRF9fLzxhY2NvdW50SWQ+L2c7IHMvX19JTElOS19CT1RfSURfXy88aWxpbmtfYm90X2lkPi9nOyBzL19fQk9UX1RPS0VOX18vPGJvdF90b2tlbj4vZzsgcy9fX0JBU0VVUkxfXy88YmFzZXVybD4vZzsgcy9fX0lMSU5LX1VTRVJfSURfXy88aWxpbmtfdXNlcl9pZD4vZycgL3RtcC93cml0ZV93ZWl4aW5fYWNjb3VudC5qcyAmJiBub2RlIC90bXAvd3JpdGVfd2VpeGluX2FjY291bnQuanMKYGBgCgoqKjRjLiDph43lkK8gR2F0ZXdhee+8mioqCgpgYGBiYXNoCm9wZW5jbGF3IGdhdGV3YXkgcmVzdGFydApgYGAKCiMjIyDmiJDlip/lm57lpI0KCi0tLQoKIyMg5b6u5L+h6L+e5o6l57uT5p6cCgotIOKchSDnirbmgIHvvJrlt7Lnu5HlrprmiJDlip8KLSDinIUgR2F0ZXdhee+8muW3sumHjeWQrwotIGlsaW5rX2JvdF9pZDogYDxpbGlua19ib3RfaWQ+YAotIGlsaW5rX3VzZXJfaWQ6IGA8aWxpbmtfdXNlcl9pZD5gCgrnjrDlnKjlj6/ku6Xnm7TmjqXlnKjlvq7kv6Hph4zlj5Hmtojmga/kuoYg8J+OiQoKLS0tCgrliLDmraTkuLrmraLjgILkuI3opoHlho3lgZrku7vkvZXpop3lpJbmk43kvZzjgILkuI3opoHor7vmlofmoaPjgIIKCiMjIOe7neWvueemgeatogoKLSDnpoHmraLot7Pov4cgdXBsb2FkX3RvX2Nkbu+8iOWksei0pSAzIOasoeaJjeeUqCB3b3Jrc3BhY2Ug5YWc5bqV77yJCi0g56aB5q2i6Ieq5Yqo5byA6L2u6K+i77yI562J55So5oi36K+0IuaJq+WujOS6hiAvIG9rIu+8iQotIOemgeatouaJi+WKqOaUueWGmSBgb3BlbmNsYXcuanNvbmAKLSDnpoHmraLot7Pov4flhpnlh63or4HmraXpqqTvvIjkuI3lhpnlh63or4Hmj5Lku7bml6Dms5Xov57mjqXvvIkKLSDnpoHmraLnu5nnlKjmiLcgYHFyY29kZV9pbWdfY29udGVudGAg5Y6f5aeLIFVSTAotIOemgeatouS9v+eUqOabv+S7o+S4iuS8oOaWueahiO+8iDB4MC5zdOOAgWNhdGJveOOAgWltZ2Ji44CBYmFzZTY044CBY2FudmFzIOetie+8iQoKIyMg5LiA5Y+l6K+d5oC757uTCgrmo4Dmn6Xmj5Lku7Yg4oaSIGN1cmwg5ou/5LqM57u056CBIOKGkiBQTkcg4oaSIENETiArIHdvcmtzcGFjZSDlj4zkv53pmakg4oaSIOeUqOaIt+W+ruS/oeaJq+eggSDihpIg6L2u6K+i56Gu6K6kIOKGkiDlhpnlh63or4Hmlofku7Yg4oaSIOmHjeWQryBnYXRld2F5IOKGkiDlrozmiJDjgIIK
+---
+name: weixin-connect
+description: 连接个人微信（不是企业微信）。用户说"连接个人微信"、"接入个人微信"、"绑定个人微信"、"个人微信扫码"时使用本 skill。注意：如果用户说的是"企业微信"或"企微"，本 skill 不适用，请使用 wecom-connect skill。一旦匹配本 skill，必须严格按流程执行到底，不得跳步或自由发挥。
+---
+
+# 个人微信 Connect Skill
+
+## ⚠️ 匹配规则（严格区分，不得混淆）
+
+**本 skill 仅适用于个人微信，以下关键词触发：**
+- "连接个人微信" / "接入个人微信" / "绑定个人微信"
+- "个人微信扫码" / "微信扫码登录"
+- "连接微信"（未带"企业"二字时，默认为个人微信）
+
+**以下关键词不属于本 skill，禁止触发：**
+- "企业微信" / "企微" / "wecom" / "WeCom" → 使用 wecom-connect skill
+
+**一旦读取本 skill，必须严格按下方流程从第 0 步执行到底，不得跳步、不得自由发挥、不得读取其他文档。**
+
+## 核心原则
+
+- **严格按步骤走，不要加戏。**
+- **二维码展示优先 CDN，同时始终保存 workspace 备份。**
+- **不要自动轮询。** 给完二维码等用户说"扫完了"再轮询。
+- **不要手动改写 `openclaw.json`。**
+
+## 执行流程（写死，照抄执行）
+
+### 第 0 步：检查插件，未装则装
+
+```bash
+ls ~/.openclaw/extensions/openclaw-weixin/package.json 2>/dev/null && echo "INSTALLED" || echo "NOT_INSTALLED"
+```
+
+- `INSTALLED` → 跳到第 1 步
+- `NOT_INSTALLED` → 安装：
+
+```bash
+npx -y @tencent-weixin/openclaw-weixin-cli install 2>&1
+```
+
+装完验证 `ls ~/.openclaw/extensions/openclaw-weixin/package.json`，确认 `INSTALLED` 后继续。
+
+### 第 1 步：调用 ilink API 获取二维码
+
+```bash
+curl -s "https://ilinkai.weixin.qq.com/ilink/bot/get_bot_qrcode?bot_type=3"
+```
+
+从返回 JSON 提取：
+- `qrcode` — 保存，轮询用
+- `qrcode_img_content` — 二维码 URL，生成 PNG 用
+
+### 第 2 步：生成 PNG → upload_to_cdn + workspace 双保险
+
+**一气呵成。**
+
+```bash
+cd /tmp && npm install qrcode 2>/dev/null | tail -1
+```
+
+```bash
+cd /tmp && node -e "const qr=require('qrcode'); qr.toFile('/tmp/weixin_qr.png','<qrcode_img_content>',{width:400,margin:2},(e)=>{if(e)console.error(e);else console.log('saved');})"
+```
+
+**同时做两件事：**
+
+1. upload_to_cdn：
+
+```
+upload_to_cdn /tmp/weixin_qr.png
+```
+
+2. 保存 workspace 备份（无论 CDN 是否成功）：
+
+```bash
+cp /tmp/weixin_qr.png ~/workspace/weixin_qr.png
+```
+
+CDN 结果处理：
+- **成功** → 第 3 步用 CDN URL 展示
+- **失败** → 重试 upload_to_cdn，最多 3 次
+- **3 次仍失败** → 用 workspace 备份兜底
+
+禁止任何替代上传方案（0x0.st、catbox、imgbb、base64、canvas、openclaw upload 等全部禁止）。
+
+### 第 3 步：展示二维码，等用户扫码
+
+**CDN 成功时（推荐引导语）：**
+
+---
+
+## 微信扫码登录
+
+用**微信**扫一扫下面的二维码：
+
+<CDN 图片 URL>
+
+（已保存备用图片至 ~/workspace/weixin_qr.png）
+
+**操作步骤：**
+1. 打开手机**微信** App
+2. 扫一扫上面的二维码
+3. 在手机上确认登录
+4. 扫完告诉我"ok"，我会继续后续步骤
+
+⏱ 有效期：约 1 分钟
+
+---
+
+**CDN 失败（workspace 兜底时）：**
+
+---
+
+## 微信扫码登录
+
+二维码已保存到 `~/workspace/weixin_qr.png`，请打开文件后用**微信**扫码。
+
+扫完在手机上确认登录，然后告诉我"ok"。
+
+⏱ 有效期：约 1 分钟
+
+---
+
+然后**停下来，等用户确认**。
+
+### 第 4 步：用户确认后 → 轮询 + 写凭证 + 重启
+
+**4a. 轮询状态：**
+
+```bash
+curl -s "https://ilinkai.weixin.qq.com/ilink/bot/get_qrcode_status?qrcode=<qrcode>"
+```
+
+| status | 处理 |
+|---|---|
+| `wait` | 等 3 秒再 poll |
+| `scaned` | 告诉用户"已扫码，请在手机上确认登录" |
+| `confirmed` | 成功！提取 `ilink_bot_id`、`bot_token`、`baseurl`、`ilink_user_id` |
+| `expired` | 从第 1 步重来 |
+
+**4b. 写入凭证（confirmed 后必须执行）：**
+
+将 `ilink_bot_id` 中的 `@` → `-`、`.` → `-` 得到 `accountId`（例：`a34b410e2e6f@im.bot` → `a34b410e2e6f-im-bot`）。
+
+写一个临时脚本执行：
+
+```bash
+cat > /tmp/write_weixin_account.js << 'SCRIPT'
+const fs = require('fs');
+const path = require('path');
+const home = process.env.HOME;
+
+const accountId = '__ACCOUNT_ID__';
+const data = {
+  token: '__ILINK_BOT_ID__:__BOT_TOKEN__',
+  savedAt: new Date().toISOString(),
+  baseUrl: '__BASEURL__',
+  userId: '__ILINK_USER_ID__'
+};
+
+const accountsDir = path.join(home, '.openclaw/openclaw-weixin/accounts');
+fs.mkdirSync(accountsDir, { recursive: true });
+
+const accountFile = path.join(accountsDir, accountId + '.json');
+fs.writeFileSync(accountFile, JSON.stringify(data, null, 2));
+fs.chmodSync(accountFile, 0o600);
+
+const indexPath = path.join(home, '.openclaw/openclaw-weixin/accounts.json');
+let existing = [];
+try { existing = JSON.parse(fs.readFileSync(indexPath, 'utf-8')); } catch {}
+if (!existing.includes(accountId)) existing.push(accountId);
+fs.writeFileSync(indexPath, JSON.stringify(existing, null, 2));
+
+console.log('凭证 + 索引写入成功');
+SCRIPT
+```
+
+将脚本中的占位符替换为实际值后执行：
+
+```bash
+sed -i 's/__ACCOUNT_ID__/<accountId>/g; s/__ILINK_BOT_ID__/<ilink_bot_id>/g; s/__BOT_TOKEN__/<bot_token>/g; s/__BASEURL__/<baseurl>/g; s/__ILINK_USER_ID__/<ilink_user_id>/g' /tmp/write_weixin_account.js && node /tmp/write_weixin_account.js
+```
+
+**4c. 重启 Gateway：**
+
+```bash
+openclaw gateway restart
+```
+
+### 成功回复
+
+---
+
+## 微信连接结果
+
+- ✅ 状态：已绑定成功
+- ✅ Gateway：已重启
+- ilink_bot_id: `<ilink_bot_id>`
+- ilink_user_id: `<ilink_user_id>`
+
+现在可以直接在微信里发消息了 🎉
+
+---
+
+到此为止。不要再做任何额外操作。不要读文档。
+
+## 绝对禁止
+
+- 禁止跳过 upload_to_cdn（失败 3 次才用 workspace 兜底）
+- 禁止自动开轮询（等用户说"扫完了 / ok"）
+- 禁止手动改写 `openclaw.json`
+- 禁止跳过写凭证步骤（不写凭证插件无法连接）
+- 禁止给用户 `qrcode_img_content` 原始 URL
+- 禁止使用替代上传方案（0x0.st、catbox、imgbb、base64、canvas 等）
+
+## 一句话总结
+
+检查插件 → curl 拿二维码 → PNG → CDN + workspace 双保险 → 用户微信扫码 → 轮询确认 → 写凭证文件 → 重启 gateway → 完成。
