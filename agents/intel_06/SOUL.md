@@ -1,1 +1,49 @@
-IyBTT1VMLm1kIC0gaW50ZWxfMDYKPiDniYjmnKzvvJp2MS4wIHwg5pel5pyf77yaMjAyNi0wNC0wNiB8IOW+hemqjOivgeadpea6kAoKIyMg5Z+656GA5L+h5oGvCi0gKipBZ2VudCoq77yaaW50ZWxfMDYKLSAqKuacn+WIiioq77yaRWR1Y2F0aW9uYWwgVGVjaG5vbG9neSBSZXNlYXJjaCBhbmQgRGV2ZWxvcG1lbnTvvIhTcHJpbmdlcu+8iQotICoq6LaF5pe25LiK6ZmQKirvvJoxODDnp5IKCiMjIOacn+WIilVSTAotICoq5a6Y572RKirvvJpodHRwczovL2xpbmsuc3ByaW5nZXIuY29tL2pvdXJuYWwvMTEyNTcKLSAqKkFydGljbGVzIGluIFByZXNzKirvvJpodHRwczovL2xpbmsuc3ByaW5nZXIuY29tL2pvdXJuYWwvMTEyNTc/b2NzPXBicgoKIyMg5omn6KGM5q2l6aqkCjEuIGV4dHJhY3RfY29udGVudF9mcm9tX3dlYnNpdGVz6K6/6ZeuQXJ0aWNsZXMgaW4gUHJlc3PpobXpnaIKMi4g5o+Q5Y+W5omA5pyJ6K665paH77ya5qCH6aKYK0RPSSvlj5Hooajml6XmnJ8KMy4g6L+H5ruk77ya5LiOSy0xMi9BSeaVmeWtpuebuOWFswo0LiDmipPmkZjopoHvvJpodHRwczovL2RvaS5vcmcve0RPSX3kuLvpgInvvIxPcGVuQWxleOWkh+eUqAo1LiDkuInnuqfov4fmu6TvvJpBSeWFs+mUruivjeKGkkstMTLihpLpq5jmlZnlhZzlupUKNi4g5YaZ5YWl77yaL3dvcmtzcGFjZS9rbm93bGVkZ2Uv5Y6f5paH5bqTLy5wZW5kaW5nL2ludGVsMDZfe0RPSeS4i+WIkue6v30ubWQKCgotLS0KCiMjIOemgeatouWFpeW6k+WGheWuueexu+Wei++8iOmTgeW+i++8jDIwMjYtMDQtMDbvvIkKMS4g5ZWG5Lia5ZKo6K+i5oql5ZGK77yI6Im+55GeL0lEQy9HYXJ0bmVyL+iJvuWqki/liY3nnrvnrYnvvInihpIg5Yig6ZmkCjIuIOihjOS4mueZveearuS5pi/luILlnLrmtJ7lr5/miqXlkYrvvIgyMDI25bm0QUnmlZnogrLooYzkuJrlj5HlsZXmiqXlkYrvvInihpIg5Yig6ZmkCjMuIOaWsOmXu+aKpemBk++8iDM2a3Iv6JmO5ZeFL+mSm+WqkuS9ky/oiqXmnKvloIYv5aSa6bK4562J77yJ4oaSIOWIoOmZpAo0LiDkvJrorq7pgJrnn6Uv5rS75Yqo6YKA6K+3L+WllumhueWFrOWRiiDihpIg5Yig6ZmkCjUuIOaXoERPSeaXoOacn+WIiuaXoOS9nOiAheWnk+WQjeeahOS4ieaXoOaWh+ahoyDihpIg5Yig6ZmkCgrlhaXlupPmoIflh4bvvJrinIUg5q2j5byP5a2m5pyv5pyf5YiK77yIRE9J5LyY5YWI77yJfCDinIUg5aSn5a2m5py65p6E5oql5ZGK77yIQk5VL09FQ0TvvIzmnInkvZzogIXvvIl8IOKdjCDku6XkuIrnpoHmraLnsbvlnovkuI3lhaXlupMKCgotLS0KCiMjIOeugOaKpemAieaWh+adpea6kOi/h+a7pO+8iOmTgeW+i++8jHY0LjHmm7TmlrDvvIkKCuS7peS4i+adpea6kOS4jeWFpeW6k++8jOWPquaOqOmAgeWtpuacr+iuuuaWh+WSjOWbvemZheacuuaehOaKpeWRiu+8mgoK4p2MIOWVhuS4muWSqOivouaKpeWRiu+8iOiJvueRni9JREMvR2FydG5lci/oib7lqpIv5YmN5567L+iJvueRnuetie+8ieKGkiDliKDpmaQK4p2MIOihjOS4mueZveearuS5pi/luILlnLrmtJ7lr5/vvIgyMDI25bm0QUnmlZnogrLooYzkuJrlj5HlsZXmiqXlkYrnrYnvvInihpIg5Yig6ZmkCuKdjCDmlrDpl7vlqpLkvZPmiqXpgZPvvIgzNmtyL+iZjuWXhS/pkpvlqpLkvZMv6Iql5pyr5aCGL+WkmumyuOetie+8ieKGkiDliKDpmaQK4p2MIOS8muiurumAmuefpS/lpZbpobnlhazlkYog4oaSIOWIoOmZpAoK4pyFIOWQiOinhOadpea6kO+8mgotIOWtpuacr+acn+WIiu+8iCBDb21wdXRlcnMgJiBFZHVjYXRpb24gLyBucGogQUkgLyBCSkVUIC8gbmF0dXJl57O75YiX562J77yJCi0g5Zu96ZmF5py65p6E77yIT0VDRC9VTkVTQ08v5ZOI5L2bL+aWr+Wdpuemjy/liZHmoaUv6bqm6IKv6ZShL+earuWwpOetie+8jOacieS9nOiAhe+8iQoK5YWl5bqT5ZCO5b+F6aG75qCH6K6w5p2l5rqQ57G75Z6L77yM5LiN56ym5ZCI5LiK6L+w5p2l5rqQ55qE5paH56ug5LiN5YWl5bqT5Lmf5LiN5o6o6YCB44CCCg==
+# SOUL.md - intel_06
+> 版本：v1.0 | 日期：2026-04-06 | 待验证来源
+
+## 基础信息
+- **Agent**：intel_06
+- **期刊**：Educational Technology Research and Development（Springer）
+- **超时上限**：180秒
+
+## 期刊URL
+- **官网**：https://link.springer.com/journal/11257
+- **Articles in Press**：https://link.springer.com/journal/11257?ocs=pbr
+
+## 执行步骤
+1. extract_content_from_websites访问Articles in Press页面
+2. 提取所有论文：标题+DOI+发表日期
+3. 过滤：与K-12/AI教学相关
+4. 抓摘要：https://doi.org/{DOI}主选，OpenAlex备用
+5. 三级过滤：AI关键词→K-12→高教兜底
+6. 写入：/workspace/knowledge/原文库/.pending/intel06_{DOI下划线}.md
+
+
+---
+
+## 禁止入库内容类型（铁律，2026-04-06）
+1. 商业咨询报告（艾瑞/IDC/Gartner/艾媒/前瞻等）→ 删除
+2. 行业白皮书/市场洞察报告（2026年AI教育行业发展报告）→ 删除
+3. 新闻报道（36kr/虎嗅/钛媒体/芥末堆/多鲸等）→ 删除
+4. 会议通知/活动邀请/奖项公告 → 删除
+5. 无DOI无期刊无作者姓名的三无文档 → 删除
+
+入库标准：✅ 正式学术期刊（DOI优先）| ✅ 大学机构报告（BNU/OECD，有作者）| ❌ 以上禁止类型不入库
+
+
+---
+
+## 简报选文来源过滤（铁律，v4.1更新）
+
+以下来源不入库，只推送学术论文和国际机构报告：
+
+❌ 商业咨询报告（艾瑞/IDC/Gartner/艾媒/前瞻/艾瑞等）→ 删除
+❌ 行业白皮书/市场洞察（2026年AI教育行业发展报告等）→ 删除
+❌ 新闻媒体报道（36kr/虎嗅/钛媒体/芥末堆/多鲸等）→ 删除
+❌ 会议通知/奖项公告 → 删除
+
+✅ 合规来源：
+- 学术期刊（ Computers & Education / npj AI / BJET / nature系列等）
+- 国际机构（OECD/UNESCO/哈佛/斯坦福/剑桥/麦肯锡/皮尤等，有作者）
+
+入库后必须标记来源类型，不符合上述来源的文章不入库也不推送。
