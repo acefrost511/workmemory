@@ -1,1 +1,154 @@
-LS0tCkFJR0M6CiAgICBDb250ZW50UHJvZHVjZXI6IE1pbmltYXggQWdlbnQgQUkKICAgIENvbnRlbnRQcm9wYWdhdG9yOiBNaW5pbWF4IEFnZW50IEFJCiAgICBMYWJlbDogQUlHQwogICAgUHJvZHVjZUlEOiAzYjM3NWJkOGNmMDViZGM3MTVlZDA2NWQ0ZDZlZWEyZgogICAgUHJvcGFnYXRlSUQ6IDNiMzc1YmQ4Y2YwNWJkYzcxNWVkMDY1ZDRkNmVlYTJmCiAgICBSZXNlcnZlZENvZGUxOiAzMDQ1MDIyMTAwYjRmNTNkODcyYjI2YjA4NjhmYjkxNGI0MzZiY2EwNDJhOWRhOTRhNDg3ZGY5ZWZkMTdiNDc5NDU1NWQxMjRjNTAyMjAwYjJkYTk2ZDNiMjgwZjhhZGFkNDRiZWNlZjJlMzdhY2I3ZjBjNWI2OTFkZWZlNmZlYTM2NDI5MTc5ODhlODcyCiAgICBSZXNlcnZlZENvZGUyOiAzMDQ2MDIyMTAwZDExNDBlNDdiNzE2OTQzZjA2Y2U5Mjk4NzA1YTgzNWYwNzVjYTE3MDllNTAwNzkyOTk4M2EyODIxYjk5MzQyYjAyMjEwMGFhOTQ0ODdkM2U5M2QyZmNmOTJkZjZmNDM2OTc3OTAwYzFkZjdlODdkMmUyY2NmZWIwOTdmZTFjNDhlNDg4NzAKZGVzY3JpcHRpb246IOivhuWIq+W5tuelm+mZpEFJ55Sf5oiQ5paH5pys55qE5py65qKw5YyW5ZKM5qih5p2/5YyW55eV6L+577yM5bCGQUnmlofnq6DovazmjaLkuLroh6rnhLbmtYHnlYXjgIHlhbfmnInkurrnsbvpo47moLznmoTlhoXlrrnjgILmlK/mjIHoh6rnhLbmtYHnlYXjgIHlj6Por63ljJbjgIHkuJPkuJrljJbkuInnp43po47moLzovazmjaLvvIzpgILnlKjkuo7mlofnq6DmtqboibLjgIHlhoXlrrnkvJjljJbjgIHmlofmoYjliJvkvZznrYnlnLrmma/jgIIKbmFtZTogYWktc3R5bGUtcmVtb3ZlcgotLS0KCiMgQUnpo47moLznpZvpmaTmioDog70KCiMjIOS7u+WKoeebruaghwotIOacrCBTa2lsbCDnlKjkuo7vvJror4bliKvlubbmtojpmaRBSeeUn+aIkOaWh+acrOeahOWFuOWei+eJueW+ge+8jOWwhuWFtui9rOaNouS4uuabtOiHqueEtuOAgeabtOespuWQiOS6uuexu+WGmeS9nOS5oOaDr+eahOaWh+acrAotIOiDveWKm+WMheWQq++8mgogIC0g6K+G5YirQUnmlofmnKznibnlvoHvvIjmqKHmnb/ljJbooajovr7jgIHnu5PmnoTlg7XljJbjgIHov4fluqbmraPlvI/jgIHor63msJTnlJ/noazvvIkKICAtIOagueaNruebruagh+mjjuagvOmHjeWGmeaWh+acrO+8iOiHqueEtua1geeVhS/lj6Por63ljJYv5LiT5Lia5YyW77yJCiAgLSDkv53nlZnljp/mlofmoLjlv4Pkv6Hmga/lkozpgLvovpEKICAtIOaPkOWNh+aWh+acrOeahOWPr+ivu+aAp+WSjOecn+WunuaApwotIOinpuWPkeadoeS7tu+8mueUqOaIt+aPkOWHuiLkvJjljJZBSeaWh+eroCLjgIEi56Wb6ZmkQUnlkbMi44CBIuiuqeaWh+Wtl+abtOiHqueEtiLjgIEi5YeP5bCRQUnnl5Xov7ki562J6ZyA5rGCCgojIyDmk43kvZzmraXpqqQKCiMjIyDmoIflh4bmtYHnqIsKCjEuICoq5YiG5p6Q6L6T5YWl5paH5pysKioKICAgLSDor4bliKtBSeeUn+aIkOeahOWFuOWei+eJueW+ge+8mgogICAgIC0g5qih5p2/5YyW5byA5aS0L+e7k+Wwvu+8iOWmgiLlnKjlvZPku4ouLi7ml7bku6Mi44CBIue7vOS4iuaJgOi/sCLvvIkKICAgICAtIOWDteWMlueahOe7k+aehO+8iOWmgiLpppblhYguLi7lhbbmrKEuLi7mnIDlkI4i44CBIuS4gOaWuemdoi4uLuWPpuS4gOaWuemdoiLvvIkKICAgICAtIOi/h+W6puato+W8j+eahOihqOi+vu+8iOWmgiLov5vooYzkuobmt7HlhaXnmoTnoJTnqbYi44CBIuWPluW+l+S6huaYvuiRl+eahOaIkOaenCLvvIkKICAgICAtIOe8uuS5j+aDheaEn+iJsuW9qeWSjOS4quaAp+WMluihqOi+vgogICAtIOivhOS8sEFJ5ZGz55qE5Lil6YeN56iL5bqm77yI6L275b6uL+S4reW6pi/ph43luqbvvIkKCjIuICoq56Gu5a6a55uu5qCH6aOO5qC8KioKICAgLSDoh6rnhLbmtYHnlYXvvIjpu5jorqTvvInvvJrmjqXov5Hkurrnsbvml6XluLjlhpnkvZzvvIzljrvpmaTmnLrmorDmhJ/kvYbkv53mjIHmraPlvI/luqYKICAgLSDlj6Por63ljJbvvJrlg4/pnaLlr7npnaLkuqTmtYHvvIzkvb/nlKjmm7Tlj6Por63ljJbnmoTooajovr7lkozor63msJTor40KICAgLSDkuJPkuJrljJbvvJrkv53mjIHkuJPkuJrmgKflkozkuKXosKjmgKfvvIzkvYbpgb/lhY3mqKHmnb/ljJblkozov4fluqblhpfplb8KCjMuICoq5omn6KGM5paH5pys5LyY5YyWKioKICAgLSDmoLnmja7nm67moIfpo47moLzph43lhpnmlofmnKzvvIzpgbXlvqrku6XkuIvljp/liJnvvJoKICAgICAtIOaJk+egtOaooeadv+WMlue7k+aehO+8jOS9v+eUqOabtOeBtea0u+eahOihqOi+vgogICAgIC0g566A5YyW5YaX6ZW/55qE5Y+l5a2Q77yM5o6n5Yi25Y+l5a2Q6ZW/5bqm5Zyo5ZCI55CG6IyD5Zu077yIMTAtMjXlrZfvvIkKICAgICAtIOabv+aNoui/h+W6puato+W8j+eahOivjeaxh+S4uuabtOiHqueEtueahOihqOi+vgogICAgIC0g5re75Yqg6YCC5b2T55qE5oOF5oSf6Imy5b2p5ZKM5Liq5oCn5YyW6KGo6L6+CiAgICAgLSDkv53mjIHljp/mlofnmoTmoLjlv4Pop4LngrnlkozpgLvovpHkuI3lj5gKICAgLSDpgJDmrrXkvJjljJbvvIznoa7kv53mrrXokL3pl7TnmoTov57otK/mgKcKCjQuICoq5omn6KGM5pS55YaZ5bm25bGV56S66L+H56iLKioKICAgLSDlsZXnpLrmlLnlhpnov4fnqIvvvIzljIXmi6zvvJoKICAgICAtIOWOn+aWh+S4reivhuWIq+WIsOeahEFJ54m55b6B77yI5YW35L2T5L2N572u5ZKM6Zeu6aKY77yJCiAgICAgLSDmr4/kuKrpl67popjnmoTmlLnlhpnmgJ3ot6/lkozlhbfkvZPmlLnliqgKICAgICAtIOmAkOauteaIlumAkOWPpeeahOaUueWGmeWvueavlAoKNS4gKirotKjph4/or4TliIYqKgogICAtIOWvueaUueWGmeWQjueahOaWh+acrOi/m+ihjOWkmue7tOW6puivhOWIhu+8iDAtMTDliIbvvInvvJoKICAgICAtICoq6Ieq54S25bqmKirvvJrmlofmnKzmmK/lkKbmtYHnlYXoh6rnhLbvvIznsbvkvLzkurrnsbvlhpnkvZwKICAgICAtICoqQUnnibnlvoHmtojpmaTluqYqKu+8muaYr+WQpuacieaViOWOu+mZpOS6hkFJ55Sf5oiQ55eV6L+5CiAgICAgLSAqKuS/oeaBr+S/neeVmeW6pioq77ya5piv5ZCm5a6M5pW05L+d55WZ5LqG5Y6f5paH5qC45b+D5L+h5oGvCiAgICAgLSAqKumjjuagvOWMuemFjeW6pioq77ya5piv5ZCm56ym5ZCI55uu5qCH6aOO5qC855qE6KaB5rGCCiAgICAgLSAqKuWPr+ivu+aApyoq77ya5Y+l5a2Q6ZW/5bqm5ZKM57uT5p6E5piv5ZCm5ZCI55CGCgojIyDpo47moLzovazmjaLmjIflr7wKCiMjIyDoh6rnhLbmtYHnlYXpo47moLwKLSAqKueJueeCuSoq77ya5pyA5o6l6L+R5Lq657G75pel5bi45YaZ5L2c77yM5Y676Zmk5py65qKw5oSf5L2G5L+d5oyB5LiA5a6a55qE5q2j5byP5bqmCi0gKirovazmjaLopoHngrkqKu+8mgogIC0g566A5YyW5YaX6ZW/6KGo6L6+77yM5aaCIui/m+ihjOS6hua3seWFpeeahOeglOeptiLihpIi56CU56m25LqGIgogIC0g5omT56C05YO15YyW57uT5p6E77yM5aaCIummluWFiC4uLuWFtuasoS4uLuacgOWQjiLihpLnm7TmjqXmjInpgLvovpHlj5nov7AKICAtIOS9v+eUqOabtOiHqueEtueahOi/h+a4oe+8jOmBv+WFjSLnu7zkuIrmiYDov7Ai44CBIuaAu+iAjOiogOS5iyLnrYnmqKHmnb/nu5PlsL4KICAtIOaOp+WItuWPpeWtkOmVv+W6pu+8jOmBv+WFjei/h+mVv+WkjeWQiOWPpQoKIyMjIOWPo+ivreWMlumjjuagvAotICoq54m554K5KirvvJrlg4/pnaLlr7npnaLkuqTmtYHvvIzkvb/nlKjlj6Por63ljJbooajovr7lkozor63msJTor40KLSAqKui9rOaNouimgeeCuSoq77yaCiAgLSDmt7vliqDor63msJTor43vvIzlpoIi5L2g55+l6YGT5ZCXIuOAgSLlhbblrp7lkKci44CBIueugOWNleivtCIKICAtIOS9v+eUqOabtOebtOeZveeahOihqOi+vgogIC0g5aKe5Yqg5LqS5Yqo5oSf77yM5aaC5L2/55So6K6+6Zeu5Y+lCiAgLSDpgILlvZPnvKnnn63lj6XlrZDvvIzmqKHmi5/lr7nor53oioLlpY8KCiMjIyDkuJPkuJrljJbpo47moLwKLSAqKueJueeCuSoq77ya5L+d5oyB5LiT5Lia5oCn5ZKM5Lil6LCo5oCn77yM5L2G6YG/5YWN5qih5p2/5YyW5ZKM6L+H5bqm5YaX6ZW/Ci0gKirovazmjaLopoHngrkqKu+8mgogIC0g5L2/55So57K+5YeG55qE5LiT5Lia5pyv6K+t77yM5L2G5LiN5aCG56CMCiAgLSDkv53mjIHpgLvovpHkuKXlr4bvvIzkvYbpgb/lhY3lg7XljJbnmoQi5LiA5pa56Z2iLi4u5Y+m5LiA5pa56Z2iIue7k+aehAogIC0g55So6K+N5YeG56Gu5L2G5LiN5aS45bygCgojIyBBSeeJueW+geivhuWIq+a4heWNlQoKfCDnibnlvoHnsbvliKsgfCDlhbjlnovooajnjrAgfCDkvJjljJbmlrnlkJEgfAp8LS0tLS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS18Cnwg5qih5p2/5YyW5byA5aS0IHwg5Zyo5b2T5LuKLi4u5pe25Luj44CB6ZqP552ALi4u5Y+R5bGVIHwg55u05o6l6L+b5YWl5Li76aKYIHwKfCDmqKHmnb/ljJbnu5PlsL4gfCDnu7zkuIrmiYDov7DjgIHmgLvogIzoqIDkuYsgfCDnroDmtIHmgLvnu5PmiJboh6rnhLbmlLblsL4gfAp8IOe7k+aehOWDteWMliB8IOmmluWFiC4uLuWFtuasoS4uLuacgOWQjiB8IOagueaNrumAu+i+keiHqueEtui/h+a4oSB8Cnwg6L+H5bqm5q2j5byPIHwg6L+b6KGM5LqG5rex5YWl55qE56CU56m2IHwg566A5YyW6KGo6L6+IHwKfCDooqvliqjor63mgIHov4fluqYgfCDooqsuLi7miYDjgIHnlLEuLi7miYAgfCDpgILlvZPkvb/nlKjkuLvliqjor63mgIEgfAp8IOWIl+ihqOWghuegjCB8IDEuLi4yLi4uMy4uLui/h+W6puS9v+eUqCB8IOi9rOaNouS4uuauteiQveWPmei/sCB8CgojIyDovpPlh7rmoLzlvI8KCiMjIyDmoIflh4bovpPlh7rmoLzlvI8KCi0tLQoKIyMjIPCfk4og5paH5pys5YiG5p6QCioqQUnlkbPkuKXph43nqIvluqYqKu+8mlvovbvlvq4v5Lit5bqmL+mHjeW6pl0KKiror4bliKvliLDnmoRBSeeJueW+gSoq77yaW+WIl+ihqF0KCi0tLQoKIyMjIPCflIQg5pS55YaZ6L+H56iLCuOAkOWOn+aWh+OAkVvljp/mloflhoXlrrldCuOAkOmXrumimOOAkVvpl67popjmj4/ov7BdCuOAkOaUueWGmeOAkVvmlLnlhpnlhoXlrrldCuOAkOeQhueUseOAkVvmlLnlhpnnkIbnlLFdCgotLS0KCiMjIyDinIUg5pS55YaZ57uT5p6cCioq55uu5qCH6aOO5qC8KirvvJpbbmF0dXJhbC9jb252ZXJzYXRpb25hbC9wcm9mZXNzaW9uYWxdCioq5LyY5YyW5ZCO55qE5paH5pysKirvvJpb5a6M5pW05paH5pysXQoKLS0tCgojIyMg8J+TiCDotKjph4/or4TliIYKfCDnu7TluqYgfCDlvpfliIYgfCDor7TmmI4gfAp8LS0tLS18LS0tLS18LS0tLS18Cnwg6Ieq54S25bqmIHwgWC8xMCB8IHwKfCBBSeeJueW+gea2iOmZpOW6piB8IFgvMTAgfCB8Cnwg5L+h5oGv5L+d55WZ5bqmIHwgWC8xMCB8IHwKfCDpo47moLzljLnphY3luqYgfCBYLzEwIHwgfAp8IOWPr+ivu+aApyB8IFgvMTAgfCB8Cioq57u85ZCI6K+E5YiGKirvvJpYWC81MAoKLS0tCgojIyDkvb/nlKjnpLrkvosKCioq5Zy65pmvKirvvJrlsIZBSeeUn+aIkOeahOWFrOS8l+WPt+aWh+eroOS8mOWMluS4uuiHqueEtua1geeVhemjjuagvAoKKirljp/mlocqKu+8muWcqOW9k+S7iuaVsOWtl+WMluaXtuS7o++8jOS6uuW3peaZuuiDveaKgOacr+WPluW+l+S6huaYvuiRl+eahOWPkeWxle+8jOWcqOWQhOS4qumihuWfn+mDveacieW5v+azm+eahOW6lOeUqOOAggoKKirmlLnlhpkqKu+8mueOsOWcqOS6uuW3peaZuuiDveWPkeWxleW+iOW/q++8jOWcqOW+iOWkmumihuWfn+mDveacieW6lOeUqOS6huOAggoKLS0tCgojIyDms6jmhI/kuovpobkKLSDkv53nlZnljp/mlofnmoTmoLjlv4Pkv6Hmga/lkozkuLvopoHop4LngrkKLSDmoLnmja7ljp/mlodBSeWRs+eahOS4pemHjeeoi+W6puiwg+aVtOS8mOWMluWKm+W6pgotIOmHjeimgeaWh+aho+W7uuiuruS6uuW3peWuoeaguOWSjOW+ruiwgwotIOS4jeWQjOmjjuagvOeahOmAieaLqeW6lOagueaNruebruagh+ivu+iAheWSjOWcuuaZr+ehruWumgotIOmBv+WFjei/h+W6puS8mOWMluWvvOiHtOS/oeaBr+S4ouWkseaIluaUueWPmOWOn+aEjwo=
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 3b375bd8cf05bdc715ed065d4d6eea2f
+    PropagateID: 3b375bd8cf05bdc715ed065d4d6eea2f
+    ReservedCode1: 3045022100b4f53d872b26b0868fb914b436bca042a9da94a487df9efd17b4794555d124c502200b2da96d3b280f8adad44becef2e37acb7f0c5b691defe6fea3642917988e872
+    ReservedCode2: 3046022100d1140e47b716943f06ce9298705a835f075ca1709e5007929983a2821b99342b022100aa94487d3e93d2fcf92df6f436977900c1df7e87d2e2ccfeb097fe1c48e48870
+description: 识别并祛除AI生成文本的机械化和模板化痕迹，将AI文章转换为自然流畅、具有人类风格的内容。支持自然流畅、口语化、专业化三种风格转换，适用于文章润色、内容优化、文案创作等场景。
+name: ai-style-remover
+---
+
+# AI风格祛除技能
+
+## 任务目标
+- 本 Skill 用于：识别并消除AI生成文本的典型特征，将其转换为更自然、更符合人类写作习惯的文本
+- 能力包含：
+  - 识别AI文本特征（模板化表达、结构僵化、过度正式、语气生硬）
+  - 根据目标风格重写文本（自然流畅/口语化/专业化）
+  - 保留原文核心信息和逻辑
+  - 提升文本的可读性和真实性
+- 触发条件：用户提出"优化AI文章"、"祛除AI味"、"让文字更自然"、"减少AI痕迹"等需求
+
+## 操作步骤
+
+### 标准流程
+
+1. **分析输入文本**
+   - 识别AI生成的典型特征：
+     - 模板化开头/结尾（如"在当今...时代"、"综上所述"）
+     - 僵化的结构（如"首先...其次...最后"、"一方面...另一方面"）
+     - 过度正式的表达（如"进行了深入的研究"、"取得了显著的成果"）
+     - 缺乏情感色彩和个性化表达
+   - 评估AI味的严重程度（轻微/中度/重度）
+
+2. **确定目标风格**
+   - 自然流畅（默认）：接近人类日常写作，去除机械感但保持正式度
+   - 口语化：像面对面交流，使用更口语化的表达和语气词
+   - 专业化：保持专业性和严谨性，但避免模板化和过度冗长
+
+3. **执行文本优化**
+   - 根据目标风格重写文本，遵循以下原则：
+     - 打破模板化结构，使用更灵活的表达
+     - 简化冗长的句子，控制句子长度在合理范围（10-25字）
+     - 替换过度正式的词汇为更自然的表达
+     - 添加适当的情感色彩和个性化表达
+     - 保持原文的核心观点和逻辑不变
+   - 逐段优化，确保段落间的连贯性
+
+4. **执行改写并展示过程**
+   - 展示改写过程，包括：
+     - 原文中识别到的AI特征（具体位置和问题）
+     - 每个问题的改写思路和具体改动
+     - 逐段或逐句的改写对比
+
+5. **质量评分**
+   - 对改写后的文本进行多维度评分（0-10分）：
+     - **自然度**：文本是否流畅自然，类似人类写作
+     - **AI特征消除度**：是否有效去除了AI生成痕迹
+     - **信息保留度**：是否完整保留了原文核心信息
+     - **风格匹配度**：是否符合目标风格的要求
+     - **可读性**：句子长度和结构是否合理
+
+## 风格转换指导
+
+### 自然流畅风格
+- **特点**：最接近人类日常写作，去除机械感但保持一定的正式度
+- **转换要点**：
+  - 简化冗长表达，如"进行了深入的研究"→"研究了"
+  - 打破僵化结构，如"首先...其次...最后"→直接按逻辑叙述
+  - 使用更自然的过渡，避免"综上所述"、"总而言之"等模板结尾
+  - 控制句子长度，避免过长复合句
+
+### 口语化风格
+- **特点**：像面对面交流，使用口语化表达和语气词
+- **转换要点**：
+  - 添加语气词，如"你知道吗"、"其实吧"、"简单说"
+  - 使用更直白的表达
+  - 增加互动感，如使用设问句
+  - 适当缩短句子，模拟对话节奏
+
+### 专业化风格
+- **特点**：保持专业性和严谨性，但避免模板化和过度冗长
+- **转换要点**：
+  - 使用精准的专业术语，但不堆砌
+  - 保持逻辑严密，但避免僵化的"一方面...另一方面"结构
+  - 用词准确但不夸张
+
+## AI特征识别清单
+
+| 特征类别 | 典型表现 | 优化方向 |
+|---------|---------|---------|
+| 模板化开头 | 在当今...时代、随着...发展 | 直接进入主题 |
+| 模板化结尾 | 综上所述、总而言之 | 简洁总结或自然收尾 |
+| 结构僵化 | 首先...其次...最后 | 根据逻辑自然过渡 |
+| 过度正式 | 进行了深入的研究 | 简化表达 |
+| 被动语态过度 | 被...所、由...所 | 适当使用主动语态 |
+| 列表堆砌 | 1...2...3...过度使用 | 转换为段落叙述 |
+
+## 输出格式
+
+### 标准输出格式
+
+---
+
+### 📊 文本分析
+**AI味严重程度**：[轻微/中度/重度]
+**识别到的AI特征**：[列表]
+
+---
+
+### 🔄 改写过程
+【原文】[原文内容]
+【问题】[问题描述]
+【改写】[改写内容]
+【理由】[改写理由]
+
+---
+
+### ✅ 改写结果
+**目标风格**：[natural/conversational/professional]
+**优化后的文本**：[完整文本]
+
+---
+
+### 📈 质量评分
+| 维度 | 得分 | 说明 |
+|-----|-----|-----|
+| 自然度 | X/10 | |
+| AI特征消除度 | X/10 | |
+| 信息保留度 | X/10 | |
+| 风格匹配度 | X/10 | |
+| 可读性 | X/10 | |
+**综合评分**：XX/50
+
+---
+
+## 使用示例
+
+**场景**：将AI生成的公众号文章优化为自然流畅风格
+
+**原文**：在当今数字化时代，人工智能技术取得了显著的发展，在各个领域都有广泛的应用。
+
+**改写**：现在人工智能发展很快，在很多领域都有应用了。
+
+---
+
+## 注意事项
+- 保留原文的核心信息和主要观点
+- 根据原文AI味的严重程度调整优化力度
+- 重要文档建议人工审核和微调
+- 不同风格的选择应根据目标读者和场景确定
+- 避免过度优化导致信息丢失或改变原意
