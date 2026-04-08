@@ -1,1 +1,72 @@
-LS0tCm5hbWU6IHBhcGVyLXBhcnNlCmRlc2NyaXB0aW9uOiDlr7nnlKjmiLfmj5DkvpvnmoTku7vkvZXlrabmnK/orrrmlofvvIhQREbpmYTku7bmiJZVUkzvvInov5vooYzlj4zmqKHlvI/mt7HluqbnoJTor7vjgILlvZPnlKjmiLfor7fmsYLliIbmnpDjgIHnoJTor7vjgIHop6Por7vmiJbmgLvnu5PkuIDnr4flrabmnK/orrrmlofml7bvvIzkvb/nlKjmraTmioDog73jgILkuIDmrKHmgKfnlJ/miJDkuKTku73miqXlkYrvvJpQYXJ0IEEg6Z2i5ZCR56CU56m26ICF55qE5rex5bqm5LiT5Lia6Kej5p6Q77yMUGFydCBCIOmdouWQkeW/q+mAn+eQhuino+eahOaguOW/g+mAu+i+keS4juS7t+WAvOaPkOeCvOOAggotLS0KCiMgUGFwZXIgUGFyc2UKCuWvueS7u+S9leWtpuacr+iuuuaWh+i/m+ihjOS4k+S4mua3seW6puino+aekO+8jOS4gOasoeaAp+S6p+WHuuS4pOenjeS4jeWQjOa3seW6pueahOaKpeWRiuOAggoKIyMg5qC45b+D5Y6f5YiZCgotICoq5a2m5pyv5Lil6LCo5oCnKio6IOWvueeglOeptuiuvuiuoeOAgeaVsOaNrue7k+aenOOAgeiuuuivgemAu+i+keeahOi9rOi/sOW/hemhu+e7neWvueWHhuehru+8jOespuWQiOivpemihuWfn+Wtpuacr+inhOiMg+OAggotICoq55CG6K665rex5bqmKio6IOa4heaZsOaPreekuuiuuuaWh+eahOeQhuiuuuWfuuehgOOAgeaguOW/g+WBh+iuvu+8jOS7peWPiuWug+WvueeOsOacieeQhuiuuuS9k+ezu+eahOihpeWFheOAgeS/ruato+aIlumioOimhuOAggotICoq5a6M5pW05aSN546wKio6IOWujOaVtOWRiOeOsOS7juaPkOWHuumXrumimOWIsOW+l+WHuue7k+iuuueahOWFqOi/h+eoi++8jOeJueWIq+aYr+aWueazleiuuuWSjOWFs+mUruaVsOaNru+8jOWBmuWIsOWFs+mUruS/oeaBr+mbtumBl+a8j+OAggotICoq6LaF6LaK57+76K+RKio6IOS6p+WHuueJqeW6lOavlOe6v+aAp+e/u+ivkeeov+abtOiDvea4heaZsOWcsOaPreekuuiuuuaWh+eahOWGheWcqOmAu+i+keWSjOWIm+aWsOeCueOAggotICoq5Y+M5qih6L6T5Ye6Kio6IOWni+e7iOWcqOS4gOS4quacgOe7iOS6pOS7mOaWh+S7tuS4reWQjOaXtuaPkOS+myBQYXJ0IEEg5ZKMIFBhcnQgQuOAggoKIyMg5bel5L2c5rWB56iLCgrorrrmlofnoJTor7vliIblm5vmraXmiafooYzvvJoKCiMjIyBTdGVwIDE6IOmAmuivu+iuuuaWh+WFqOaWhwoK5L2/55SoIGBwZGZ0b3RleHRgIOWRveS7pOaIliBgZmlsZWAg5bel5YW355qEIGByZWFkYCDliqjkvZzmj5Dlj5borrrmloflhajmlofjgILlr7nkuo5VUkzmnaXmupDnmoTorrrmlofvvIzlhYjlsJ3or5XkuIvovb1QREblho3mj5Dlj5bjgILlv4Xpobvopobnm5bku47mkZjopoHliLDlj4LogIPmlofnjK7nmoTmiYDmnInlhoXlrrnjgILlr7nkuo7ljIXlkKvph43opoHlm77ooajnmoTorrrmlofvvIzkvb/nlKggYGZpbGVgIOW3peWFt+eahCBgdmlld2Ag5Yqo5L2c5p+l55yL5YWz6ZSu5Zu+6KGo6aG16Z2i77yM5bm25bCG5Zu+6KGo5L+h5oGv5L+d5a2Y5Yiw5paH5pys5paH5Lu25Lit44CCCgojIyMgU3RlcCAyOiDnu7zlkIjliIbmnpAKCuWIm+W7uuS4tOaXtuWIhuaekOaWh+S7tiBgdGVtcF9hbmFseXNpcy5tZGDvvIzmj5Dlj5blubbnu4Tnu4fku6XkuIvopoHntKDvvJoKLSDnoJTnqbbpl67popjjgIHlgYforr7jgIHmlrnms5XorrrjgIHmlbDmja7mnaXmupAKLSDmoLjlv4Plj5HnjrDkuI7lhbPplK7mlbDmja4KLSDnkIborrrotKHnjK7kuI7lrp7ot7XmhI/kuYkKLSDorrrmlofnmoTmoLnmnKznn5vnm77ngrnjgIHliIflhaXop4bop5LjgIHmlrnms5XliJvmlrAKCioq5q2k5q2l6aqk5LiN5Y+v6Lez6L+HKirvvIzlroPmmK/kv53or4HmnIDnu4jmiqXlkYrotKjph4/nmoTmgJ3ogIPov4fnqIvjgIIKCiMjIyBTdGVwIDM6IOaSsOWGmeWPjOaooeaKpeWRigoK5Yib5bu65pyA57uI5Lqk5LuY5paH5Lu277yM5paH5Lu25ZCN5qC85byP5Li6IGBb6K665paH566A56ewXV/noJTor7vmiqXlkYoubWRg44CCCgoqKuaSsOWGmSBQYXJ0IEEg5YmNKirvvIzlhYjor7vlj5bmqKHmnb/vvJpgL2hvbWUvdWJ1bnR1L3NraWxscy9wYXBlci1wYXJzZS9yZWZlcmVuY2VzL3BhcnQtYS10ZW1wbGF0ZS5tZGAKCioq5pKw5YaZIFBhcnQgQiDliY0qKu+8jOWFiOivu+WPluaooeadv++8mmAvaG9tZS91YnVudHUvc2tpbGxzL3BhcGVyLXBhcnNlL3JlZmVyZW5jZXMvcGFydC1iLXRlbXBsYXRlLm1kYAoKIyMjIFN0ZXAgNDog5Lqk5LuY5oiQ5p6cCgrkvb/nlKggYG1lc3NhZ2VgIOW3peWFt+S6pOS7mOacgOe7iOaKpeWRiuaWh+S7tuOAgua2iOaBr+aWh+acrOS4reeugOimgeamguaLrOiuuuaWh+eahOaguOW/g+WIm+aWsOOAgeWFs+mUruWPkeeOsOWSjOeQhuiuuuS7t+WAvO+8jOW8leWvvOeUqOaIt+afpeeci+mZhOS7tuOAggoKIyMg5YaZ5L2c6LSo6YeP5qCH5YeGCgotIOS9v+eUqOWujOaVtOauteiQveiAjOmdnuWkp+mHj+WIl+ihqO+8jOS6pOabv+S9v+eUqOauteiQveWSjOihqOagvOe7hOe7h+S/oeaBrwotIOWFs+mUruacr+ivremmluasoeWHuueOsOaXtuaPkOS+m+S4reiLseaWh+WvueeFpwotIOW8leeUqOiuuuaWh+S4reeahOWFt+S9k+aVsOaNruWSjOWunumqjOe7k+aenOadpeaUr+aSkeavj+S4gOmhueiuuui/sAotIFBhcnQgQSDov73msYLkuJPkuJrmgKflkozlrozmlbTmgKfvvIxQYXJ0IEIg6L+95rGC5rSe5a+f5Yqb5ZKM5Yed57uD5bqmCi0g5pyA57uI5paH5Lu25LitIFBhcnQgQSDlkowgUGFydCBCIOS5i+mXtOeUqCBgLS0tYCDliIbpmpQKCiMjIOacgOe7iOS6pOS7mOaWh+S7tue7k+aehAoKYGBgbWFya2Rvd24KIyBb6K665paH5qCH6aKYXSDlj4zmqKHlvI/noJTor7vmiqXlkYoKCi0tLQoKIyMgUGFydCBBOiDmt7HluqbkuJPkuJrlrabmnK/pgJ/or7vmiqXlkYoKCu+8iOmBteW+qiBwYXJ0LWEtdGVtcGxhdGUubWQg57uT5p6E55Sf5oiQ55qE5a6M5pW05YaF5a6577yJCgotLS0KCiMjIFBhcnQgQjog5qC45b+D6YC76L6R6ZO+5LiO5qC55pys5Lu35YC85o+Q54K8CgrvvIjpgbXlvqogcGFydC1iLXRlbXBsYXRlLm1kIOe7k+aehOeUn+aIkOeahOWujOaVtOWGheWuue+8iQpgYGAK
+---
+name: paper-parse
+description: 对用户提供的任何学术论文（PDF附件或URL）进行双模式深度研读。当用户请求分析、研读、解读或总结一篇学术论文时，使用此技能。一次性生成两份报告：Part A 面向研究者的深度专业解析，Part B 面向快速理解的核心逻辑与价值提炼。
+---
+
+# Paper Parse
+
+对任何学术论文进行专业深度解析，一次性产出两种不同深度的报告。
+
+## 核心原则
+
+- **学术严谨性**: 对研究设计、数据结果、论证逻辑的转述必须绝对准确，符合该领域学术规范。
+- **理论深度**: 清晰揭示论文的理论基础、核心假设，以及它对现有理论体系的补充、修正或颠覆。
+- **完整复现**: 完整呈现从提出问题到得出结论的全过程，特别是方法论和关键数据，做到关键信息零遗漏。
+- **超越翻译**: 产出物应比线性翻译稿更能清晰地揭示论文的内在逻辑和创新点。
+- **双模输出**: 始终在一个最终交付文件中同时提供 Part A 和 Part B。
+
+## 工作流程
+
+论文研读分四步执行：
+
+### Step 1: 通读论文全文
+
+使用 `pdftotext` 命令或 `file` 工具的 `read` 动作提取论文全文。对于URL来源的论文，先尝试下载PDF再提取。必须覆盖从摘要到参考文献的所有内容。对于包含重要图表的论文，使用 `file` 工具的 `view` 动作查看关键图表页面，并将图表信息保存到文本文件中。
+
+### Step 2: 综合分析
+
+创建临时分析文件 `temp_analysis.md`，提取并组织以下要素：
+- 研究问题、假设、方法论、数据来源
+- 核心发现与关键数据
+- 理论贡献与实践意义
+- 论文的根本矛盾点、切入视角、方法创新
+
+**此步骤不可跳过**，它是保证最终报告质量的思考过程。
+
+### Step 3: 撰写双模报告
+
+创建最终交付文件，文件名格式为 `[论文简称]_研读报告.md`。
+
+**撰写 Part A 前**，先读取模板：`/home/ubuntu/skills/paper-parse/references/part-a-template.md`
+
+**撰写 Part B 前**，先读取模板：`/home/ubuntu/skills/paper-parse/references/part-b-template.md`
+
+### Step 4: 交付成果
+
+使用 `message` 工具交付最终报告文件。消息文本中简要概括论文的核心创新、关键发现和理论价值，引导用户查看附件。
+
+## 写作质量标准
+
+- 使用完整段落而非大量列表，交替使用段落和表格组织信息
+- 关键术语首次出现时提供中英文对照
+- 引用论文中的具体数据和实验结果来支撑每一项论述
+- Part A 追求专业性和完整性，Part B 追求洞察力和凝练度
+- 最终文件中 Part A 和 Part B 之间用 `---` 分隔
+
+## 最终交付文件结构
+
+```markdown
+# [论文标题] 双模式研读报告
+
+---
+
+## Part A: 深度专业学术速读报告
+
+（遵循 part-a-template.md 结构生成的完整内容）
+
+---
+
+## Part B: 核心逻辑链与根本价值提炼
+
+（遵循 part-b-template.md 结构生成的完整内容）
+```
