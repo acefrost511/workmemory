@@ -1,1 +1,81 @@
-LS0tCkFJR0M6CiAgICBDb250ZW50UHJvZHVjZXI6IE1pbmltYXggQWdlbnQgQUkKICAgIENvbnRlbnRQcm9wYWdhdG9yOiBNaW5pbWF4IEFnZW50IEFJCiAgICBMYWJlbDogQUlHQwogICAgUHJvZHVjZUlEOiAzYTRmZGFhZDZjY2I5MmUyNDRlMDBhODM1NGFkMjJjYQogICAgUHJvcGFnYXRlSUQ6IDNhNGZkYWFkNmNjYjkyZTI0NGUwMGE4MzU0YWQyMmNhCiAgICBSZXNlcnZlZENvZGUxOiAzMDQ1MDIyMDAyYjYxOTE1YjI0ZWQzZmM4NzNiNTZiOTMxMzYwYTVlZTNiYmM2MjI4OWRkODU0MmY1OTUwNGQwOTYwNDAzMGYwMjIxMDBkMzRhODFlNmVmM2JhMmJjZjA5NDhiZjBmMGVmNThiYWVkZWEwYTVlZDE5MDNhNDJmZmQ5MThlOGVmODZhM2M4CiAgICBSZXNlcnZlZENvZGUyOiAzMDQ0MDIyMDJmYTAwNzEwYTAzMjYzOTc5MWRlOGE1ZmM2NjIxZDE5NTNiNDJmMDFmNmRmYmJhMDUxNzhlNjg4OWE2NzQxMjEwMjIwMjIxODQwMmY3NGFiMTcyMDJhM2E1MTlmMWNjNjQxOGU5YjkzZmVmNTg2Y2M5YTc0M2VlOGZmODRjNDA2Y2YzMgotLS0KCiMgaW5zaWdodC1leHRlbmQgfCDlj6/mianlsZXmtJ7lr5/mjqjpgIHmioDog70KCiMjIOaKgOiDveamgui/sAoKLSAqKueJiOacrCoq77yadjEuMAotICoq5Yib5bu65pel5pyfKirvvJoyMDI2LTA0LTA0Ci0gKirop6blj5HmlrnlvI8qKu+8muavj+aXpTE3OjAw6Ieq5Yqo6LCD55So77yIY3Jvbuiwg+W6pu+8iQotICoq6L6T5YWlKirvvJpJTlNJR0hUX0xJQlJBUlkubWQKLSAqKui+k+WHuioq77ya562b6YCJM+adoeWPr+aJqeWxlea0nuWvnyDihpIg6aOe5Lmm5o6o6YCB6Zmb5LiLCi0gKirkuIvmuLjooZTmjqUqKu+8mumZm+S4i+WbnuWkjeOAjOeUqOa0nuWvnyNYWOWGmeaWh+eroOOAjeKGkiDop6blj5E15oqA6IO95paH56ug5YaZ5L2c5rWB56iLCgotLS0KCiMjIOaJp+ihjOa1geeoiwoKIyMjIFN0ZXAgMe+8muivu+WPlua0nuWvn+W6kwoK6K+75Y+WIGAvd29ya3NwYWNlL2tub3dsZWRnZS9pbnNpZ2h0cy9JTlNJR0hUX0xJQlJBUlkubWRgCu+8iOWmguaenOaWh+S7tuS4jeWtmOWcqO+8jOivu+WPliBgL3dvcmtzcGFjZS9rbm93bGVkZ2UvSU5TSUdIVF9MSUJSQVJZLm1kYO+8iQoKIyMjIFN0ZXAgMu+8muetm+mAieWPr+aJqeWxlea0nuWvnwoKKirlv4Xpobvlhajpg6jmu6HotrMqKu+8mgoxLiDlhaXlupPml7bpl7Qg4omlIDHlpKnliY3vvIjlvZPlpKnnlJ/miJDnmoTkuI3mjqjvvIkKMi4g5pyq5qCH6K6w44CM5bey5omp5bGV44CNCjMuIOacquagh+iusOOAjOS4jeaJqeWxleOAjQo0LiDmnKrooqvmjqjpgIHov4cz5qyh77yI5qOA5p+l5o6o6YCB5qyh5pWw6K6w5b2V77yJCgoqKuS4jei2szPmnaHml7YqKu+8muacieWkmuWwkeaOqOWkmuWwke+8jOS4jeW8uuihjOWHkeaVsAoqKuW6k+WtmOS4ujDml7YqKu+8mumdmem7mOe7k+adn++8jOS4jeaOqOmAgQoKIyMjIFN0ZXAgM++8mue7hOijheaOqOmAgeWGheWuuQoKYGBgbWFya2Rvd24KIyMg5LuK5pel5Y+v5omp5bGV5rSe5a+fIO+9nCBZWVlZLU1NLURECgojIyMg5rSe5a+fICNJTlNJR0hUX05FV19YWFgK8J+ThSDnlJ/miJDkuo7vvJpZWVlZLU1NLURECvCfkqEg5b2T5Yid55qE5Yik5pat77ya44CMW+WIpOaWreWOn+ivne+8jOS4jei2hei/hzUw5a2XXeOAjQrwn5SXIOS/oeW/teaKveWxie+8miNYWCBb5oq95bGJ5ZCN56ewXQrwn5OdIEhvb2vlj6XvvJpb5Y6f5paHaG9va+WPpV0KCu+8iOWFsU7mnaHvvIkKYGBgCgojIyMgU3RlcCA077ya5o6o6YCBCgrpgJrov4cgYG1lc3NhZ2VgIOW3peWFt+WPkemAge+8iGFjdGlvbj1zZW5kLCBjaGFubmVsPWZlaXNodSwgdGFyZ2V0PemZm+S4i0lE77yJCgojIyMgU3RlcCA177ya562J5b6F6Zmb5LiL5Zue5aSN5bm25aSE55CGCgoqKumZm+S4i+WPr+iDveeahOWbnuWkjSoq77yaCi0g44CM55So5rSe5a+fI0lOU0lHSFRfTkVXX1hY5YaZ5paH56ug44CN4oaSIOinpuWPkTXmioDog73mlofnq6DlhpnkvZzmtYHnqIvvvIzmm7TmlrDor6XmtJ7lr5/moIforrAgW+W3suaJqeWxlS3ml6XmnJ9dCi0g44CM6L+Z5p2h5Lul5ZCO5Lmf5LiN55So5o6o5LqG44CN4oaSIOabtOaWsOivpea0nuWvn+agh+iusCBb5LiN5omp5bGVLeaXpeacn10KLSDjgIzpg73kuI3lhpnjgI3ihpIg6L+ZM+adoeS/neeVme+8iOaOqOmAgeasoeaVsCsx77yJ77yM5qyh5pel5o2iM+adoQoKIyMjIFN0ZXAgNu+8muabtOaWsOiusOW9lQoK5q+P5qyh5o6o6YCB5ZCO5pu05pawSU5TSUdIVF9MSUJSQVJZLm1k5Lit5a+55bqU5rSe5a+f55qE5o6o6YCB5qyh5pWw44CCCgoqKuayiem7mOW9kuahoyoq77ya5ZCM5LiA5rSe5a+f6KKr5o6o6YCBM+asoeWdh+acquiiq+mAieS4rSDihpIg5qCH6K6wIFvmsonpu5jlvZLmoaMt5pel5pyfXe+8jOS4jeWGjeS4u+WKqOaOqOmAgeOAggoKLS0tCgojIyDpmZDliLbmnaHku7bvvIjpk4HlvovvvIkKCjEuIOW9k+WkqeeUn+aIkOeahOa0nuWvn+S4jeaOqOmAge+8iOWFpeW6k+aXtumXtDwx5aSp77yJCjIuIOaOqOmAgeasoeaVsOeLrOeri+iuoeaVsO+8jOavj+asoSsxCjMuIOayiem7mOW9kuaho+WQjuS4jeWGjeWHuueOsOWcqOWPr+aOqOmAgeWIl+ihqAo0LiDlt7LmianlsZUv5LiN5omp5bGV55qE5rSe5a+f5rC45LmF5o6S6ZmkCg==
+---
+AIGC:
+    ContentProducer: Minimax Agent AI
+    ContentPropagator: Minimax Agent AI
+    Label: AIGC
+    ProduceID: 3a4fdaad6ccb92e244e00a8354ad22ca
+    PropagateID: 3a4fdaad6ccb92e244e00a8354ad22ca
+    ReservedCode1: 3045022002b61915b24ed3fc873b56b931360a5ee3bbc62289dd8542f59504d09604030f022100d34a81e6ef3ba2bcf0948bf0f0ef58baedea0a5ed1903a42ffd918e8ef86a3c8
+    ReservedCode2: 304402202fa00710a032639791de8a5fc6621d1953b42f01f6dfbba05178e6889a67412102202218402f74ab17202a3a519f1cc6418e9b93fef586cc9a743ee8ff84c406cf32
+---
+
+# insight-extend | 可扩展洞察推送技能
+
+## 技能概述
+
+- **版本**：v1.0
+- **创建日期**：2026-04-04
+- **触发方式**：每日17:00自动调用（cron调度）
+- **输入**：INSIGHT_LIBRARY.md
+- **输出**：筛选3条可扩展洞察 → 飞书推送陛下
+- **下游衔接**：陛下回复「用洞察#XX写文章」→ 触发5技能文章写作流程
+
+---
+
+## 执行流程
+
+### Step 1：读取洞察库
+
+读取 `/workspace/knowledge/insights/INSIGHT_LIBRARY.md`
+（如果文件不存在，读取 `/workspace/knowledge/INSIGHT_LIBRARY.md`）
+
+### Step 2：筛选可扩展洞察
+
+**必须全部满足**：
+1. 入库时间 ≥ 1天前（当天生成的不推）
+2. 未标记「已扩展」
+3. 未标记「不扩展」
+4. 未被推送过3次（检查推送次数记录）
+
+**不足3条时**：有多少推多少，不强行凑数
+**库存为0时**：静默结束，不推送
+
+### Step 3：组装推送内容
+
+```markdown
+## 今日可扩展洞察 ｜ YYYY-MM-DD
+
+### 洞察 #INSIGHT_NEW_XXX
+📅 生成于：YYYY-MM-DD
+💡 当初的判断：「[判断原话，不超过50字]」
+🔗 信念抽屉：#XX [抽屉名称]
+📝 Hook句：[原文hook句]
+
+（共N条）
+```
+
+### Step 4：推送
+
+通过 `message` 工具发送（action=send, channel=feishu, target=陛下ID）
+
+### Step 5：等待陛下回复并处理
+
+**陛下可能的回复**：
+- 「用洞察#INSIGHT_NEW_XX写文章」→ 触发5技能文章写作流程，更新该洞察标记 [已扩展-日期]
+- 「这条以后也不用推了」→ 更新该洞察标记 [不扩展-日期]
+- 「都不写」→ 这3条保留（推送次数+1），次日换3条
+
+### Step 6：更新记录
+
+每次推送后更新INSIGHT_LIBRARY.md中对应洞察的推送次数。
+
+**沉默归档**：同一洞察被推送3次均未被选中 → 标记 [沉默归档-日期]，不再主动推送。
+
+---
+
+## 限制条件（铁律）
+
+1. 当天生成的洞察不推送（入库时间<1天）
+2. 推送次数独立计数，每次+1
+3. 沉默归档后不再出现在可推送列表
+4. 已扩展/不扩展的洞察永久排除
