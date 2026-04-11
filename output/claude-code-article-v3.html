@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claude Code 架构深度解析：记忆系统、做梦机制与多 Agent 协作</title>
+</head>
+<body style="margin:0; padding:0; background:#fff;">
+<section style="max-width:680px; margin:0 auto; padding:32px 20px; font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-weight:400; font-size:16px; line-height:2; color:#2b2b2b; word-wrap:break-word; word-break:break-all;">
+
+<h1 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:28px; font-weight:bold; color:#1a1a1a; line-height:1.4; margin:56px 0 28px 0; padding:0; border:none; letter-spacing:1.5px;">Claude Code 架构深度解析：记忆系统、做梦机制与多 Agent 协作</h1>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0; line-height:1.8;">逆向 Anthropic 旗下 AI 编程助手 Claude Code 的 324 条系统提示词，从中提炼出值得所有 AI 应用借鉴的架构设计。</p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">本文面向所有 AI 应用开发者和使用者，部分段落附有通俗解读，帮助非专业读者理解设计背后的原理。</p>
+</blockquote>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:32px 0;">
+
+<h2 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:24px; font-weight:bold; color:#1a1a1a; line-height:1.4; margin:48px 0 22px 0; padding:0; border:none; letter-spacing:1px;">前言</h2>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 是 Anthropic 推出的 AI 编程助手，与 Cursor、GitHub Copilot 等产品定位类似。它的独特之处在于：系统提示词被完整逆向并翻译为中文，共计 324 条、112 页——这为理解一个顶级 AI 产品的内部设计提供了极其罕见的窗口。</p>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">本文从这 324 条提示词中提炼出三大核心架构——<strong style="font-weight:bold; color:#1a1a1a;">记忆系统</strong>、<strong style="font-weight:bold; color:#1a1a1a;">做梦机制</strong>、<strong style="font-weight:bold; color:#1a1a1a;">多 Agent 协作</strong>，以第三方的视角进行分析和总结，期望为从事 AI 应用开发的读者提供参考。</p>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:32px 0;">
+
+<h2 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:24px; font-weight:bold; color:#1a1a1a; line-height:1.4; margin:48px 0 22px 0; padding:0; border:none; letter-spacing:1px;">一、整体架构概览</h2>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 的系统由主 Agent、记忆系统、工具箱和子 Agent 四大部分组成：</p>
+
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:Menlo,Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">┌─────────────────────────────────────────────────────────────┐
+│                        主 Agent                              │
+│  （直接与用户对话的核心智能体）                                │
+│                                                              │
+│  ├── 记忆系统（知道你是谁、做过什么）                          │
+│  ├── 工具箱（读文件、写代码、搜索、运行命令...）                │
+│  └── 子 Agent（派出去干活的助手）                              │
+│                                                              │
+│        │                                                     │
+│        ├── fork（后台分身，上下文隔离，用完即销毁）             │
+│        ├── subagent（专业助手：代码探索、代码审查）             │
+│        └── teammate（团队成员：多人协作）                      │
+└─────────────────────────────────────────────────────────────┘</code></pre>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">🎯 通俗理解</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">你可以把 Claude Code 想象成一个<strong style="font-weight:bold; color:#1a1a1a;">学校的管理团队</strong>：</p>
+
+<ul style="margin:16px 0; padding-left:28px; line-height:2;">
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">主 Agent</strong> = 班主任，直接和学生、家长沟通，了解情况、安排工作</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">记忆系统</strong> = 学校档案室，存放每个学生的成长档案、教学计划、家访记录</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">工具箱</strong> = 老师的教具和办公设备，粉笔、投影仪、成绩录入系统等</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">子 Agent</strong> = 学校请来的专业人员，比如心理咨询师、教务处审核员，需要时派去专项处理</li>
+</ul>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">与记忆系统和多 Agent 协作相比，工具箱部分（文件读写、命令执行等）相对常规。以下重点剖析前两者。</p>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:32px 0;">
+
+<h2 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:24px; font-weight:bold; color:#1a1a1a; line-height:1.4; margin:48px 0 22px 0; padding:0; border:none; letter-spacing:1px;">二、记忆系统——三层架构与档案室式组织</h2>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">2.1 三层记忆</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 将记忆划分为三个层级，各层职责清晰：</p>
+
+<table style="width:100%; border-collapse:collapse; margin:20px 0; font-size:14px; line-height:1.8;">
+  <thead>
+    <tr style="background:#f5f2f0;">
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">层级</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">名称</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">生命周期</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">用途</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">类比</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">第一层</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">工作记忆</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">单次会话</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">当前对话窗口内容</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">上课时记在草稿纸上的内容，下课就擦</td>
+    </tr>
+    <tr style="background:#faf9f7;">
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">第二层</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">会话记忆</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">跨会话</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">记录当前项目详细状态，中断后恢复</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">正在批改的那叠试卷，夹着便签标注进度</td>
+    </tr>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">第三层</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">持久记忆</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">永久</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">用户偏好、项目规范等长期知识</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">学校档案室里每个学生的成长档案</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 为什么要分层？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">想象人脑也有类似的分层：你正在给学生讲一道题，脑子里临时记着"讲到第三步了"（工作记忆）；这学期教学进度讲到哪一章你会持续跟踪（会话记忆）；但"小明数学好、语文需要补课"这种长期了解，你会记在心里甚至写进档案（持久记忆）。</p>
+  <p style="margin:0; line-height:1.8;">这样分层的好处是：<strong style="font-weight:bold; color:#1a1a1a;">短期高效、长期不丢</strong>——既不会因为当下事情太多而忘掉关键信息，也不会因为什么都记而脑子装不下。</p>
+</blockquote>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">2.2 持久记忆的文件组织</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">持久记忆的文件组织采用类似小型 Wiki 的结构：</p>
+
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:Menlo,Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">memory/                          ← 记忆根目录
+├── MEMORY.md                    ← 总索引（≤200 行）
+├── user_role.md                 ← 用户角色与背景
+├── project_conventions.md       ← 项目编码规范
+├── feedback_testing.md          ← 测试反馈记录
+└── ...</code></pre>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;"><strong style="font-weight:bold; color:#1a1a1a;">MEMORY.md 并非记忆内容本身，而是一个目录索引。</strong> 就像学校的档案检索目录：</p>
+
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:Menlo,Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;"># MEMORY.md
+
+## 用户偏好
+- [用户角色](user_role.md) — 全栈工程师，偏好 TypeScript
+- [代码风格](project_conventions.md) — 函数式编程，避免 class
+
+## 项目知识
+- [测试规范](feedback_testing.md) — Jest，覆盖率要求 > 80%</code></pre>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 为什么要用索引？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">假设你是一位班主任，要找小明的上学期成绩单。学校不会让你翻遍所有学生的所有资料，而是有一张目录卡："小明，三年二班，成长档案在第三柜第二层"。MEMORY.md 就是这张目录卡，真正的内容在各个 <code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:Menlo,Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;">.md</code> 文件里。</p>
+  <p style="margin:0; line-height:1.8;">这样做的好处是：每次打开新对话时，Claude Code 只需要读一张"目录卡"（MEMORY.md），就能知道去哪里找具体内容。如果把所有东西都写在 MEMORY.md 里，它会越来越长，最终超过 200 行被截断——就像一本学生手册把所有学生的所有信息都印在上面，厚到根本翻不动。</p>
+</blockquote>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">每行索引只有一句话（≤150 字符），详细内容在对应的 <code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:Menlo,Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;">.md</code> 文件中。之所以这样设计，是因为 MEMORY.md 在每次新会话启动时都会被注入上下文——如果太长，既浪费宝贵的上下文空间，又可能在超过 200 行后被截断。</p>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">2.3 记忆文件的元数据格式</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">每条记忆是一个独立的 <code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:Menlo,Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;">.md</code> 文件，头部包含结构化的元数据：</p>
+
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:Menlo,Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">---
+name: 用户角色
+description: 用户的职业背景和技术偏好
+type: preference        ← 类型：fact（事实）/ preference（偏好）/ convention（规范）
+---
+
+全栈工程师，主要使用 TypeScript 和 React。
+偏好函数式编程风格，不喜欢过度抽象。</code></pre>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 类比：学生档案袋上的标签</strong></p>
+  <p style="margin:0; line-height:1.8;">每个学生的档案袋外面贴着一张标签：姓名、班级、入学日期、家长联系方式。你去教务处查学生信息，首先在检索系统里搜名字（MEMORY.md），找到档案袋编号后去对应柜子取袋（<code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:Menlo,Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;">.md</code> 文件），看外面的标签（frontmatter 元数据）确认基本信息——不用打开袋子就知道这是谁的档案。</p>
+</blockquote>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">关键设计原则：</p>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;">
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">按主题组织</strong>，而非按时间——这是知识库，不是日记</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">先查再写</strong>——已有相关文件则更新，不重复创建</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">主动清理</strong>——过时内容会被删除或修正，不保留错误信息</li>
+</ul>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">2.4 两步保存法</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 保存记忆时严格遵循两步流程：</p>
+
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:Menlo,Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">第一步：写记忆文件
+  → 创建或更新 memory/user_role.md
+
+第二步：更新索引
+  → 在 MEMORY.md 中添加或修改对应的索引行</code></pre>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 为什么要两步？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">类比老师写教案：你不会只写正文而不管目录。正文是内容，目录是索引。如果你只写正文不写目录，下次上课要找一个知识点时就得逐页翻；反之，如果你只写目录不写内容，那目录就是空壳。</p>
+  <p style="margin:0; line-height:1.8;">记忆系统也一样：先把内容写进具体的 <code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:Menlo,Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;">.md</code> 文件（第一步），再更新索引让"目录"保持最新（第二步）。两步缺一不可。</p>
+</blockquote>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">2.5 记忆、计划与任务的区分</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 将持久化信息严格区分为三种类型：</p>
+
+<table style="width:100%; border-collapse:collapse; margin:20px 0; font-size:14px; line-height:1.8;">
+  <thead>
+    <tr style="background:#f5f2f0;">
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">类型</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">典型内容</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">生命周期</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">类比</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:bold; color:#1a1a1a;">记忆</strong></td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">"这个学生擅长数学，语文需要辅导"</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">永久</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">学生的成长档案——长期保存</td>
+    </tr>
+    <tr style="background:#faf9f7;">
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:bold; color:#1a1a1a;">计划</strong></td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">"我打算用分组讨论的方式讲这节课"</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">当前对话</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">备课本上的便签——这节课用完就翻篇</td>
+    </tr>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:bold; color:#1a1a1a;">任务</strong></td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">"1. 批改测验 2. 准备 PPT 3. 通知家长会"</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">当前对话</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">今日待办清单——完成就划掉</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 为什么这个区别很重要？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">很多老师用 AI 时希望 AI "记住所有对话"，但这就像要求班主任记住每一次和学生说的每一句话——不现实，也没必要。真正值得记住的是"对学生未来教育有帮助"的信息。</p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">"小明的妈妈说孩子对花生过敏"应该记住（明天午餐安排还用得上）。"今天课间和小明聊了十分钟"不需要记住（那是日常互动，不是重要信息）。"小明刚才让我帮他查一道题"更不需要记住（那是当下就完成的事）。</p>
+  <p style="margin:0; line-height:1.8;">核心原则：<strong style="font-weight:bold; color:#1a1a1a;">只有未来对话仍有价值的信息才写入记忆。</strong> 仅在当前对话中用到的东西，不污染持久记忆。</p>
+</blockquote>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:32px 0;">
+
+<h2 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:24px; font-weight:bold; color:#1a1a1a; line-height:1.4; margin:48px 0 22px 0; padding:0; border:none; letter-spacing:1px;">三、做梦机制——定期整理记忆的"期末总结"</h2>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">3.1 什么是"做梦"</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 会在空闲时或定时运行一个名为 Dream 的后台过程。其目的并非生成创意或灵感，而是<strong style="font-weight:bold; color:#1a1a1a;">维护记忆系统的健康</strong>。</p>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">具体来说，每天对话产生大量信息，如果不加以整理，记忆文件会逐渐膨胀、产生重复和矛盾、积累过时内容——"做梦"就是针对这些问题的定期维护机制。</p>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 为什么叫"做梦"？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">这是一个形象的比喻。人的大脑在睡眠时会自动整理白天接收的信息——把重要的归档，把无关的忘掉，甚至会发现不同记忆之间的联系。Claude Code 的"做梦"机制模仿的就是这个人脑过程：在空闲或定时运行一个后台整理程序，对记忆系统进行维护。</p>
+  <p style="margin:0; line-height:1.8;">所以"做梦"不是 AI 在产生创意，而是它在"整理档案室"。</p>
+</blockquote>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">3.2 四阶段流程</h3>
+
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:Menlo,Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">┌─────────────────────────────────────────────────────────────┐
+│  阶段 1：建立方向感（"我现在记得什么？"）                      │
+│                                                              │
+│  - 查看记忆目录中的文件列表                                    │
+│  - 读取 MEMORY.md 索引                                       │
+│  - 快速浏览已有主题文件                                        │
+│  - 目标：了解现状，而非重新来过                                │
+└─────────────────────────────────────────────────────────────┘
+                          ↓
+┌─────────────────────────────────────────────────────────────┐
+│  阶段 2：收集近期信号（"最近有什么新变化？"）                    │
+│                                                              │
+│  - 读取每日日志（logs/YYYY-MM-DD.md）                         │
+│  - 检查是否存在与旧记忆矛盾的新信息                             │
+│  - 如需特定信息，用关键词定向搜索历史记录                       │
+│  - 注意：不做穷尽式通读，只查需要的                            │
+└─────────────────────────────────────────────────────────────┘
+                          ↓
+┌─────────────────────────────────────────────────────────────┐
+│  阶段 3：整合（"更新记忆，不制造重复"）                         │
+│                                                              │
+│  - 将新信息合并到已有主题文件（不新建重复文件）                 │
+│  - "昨天"改为具体日期（如 2026-04-03），不保留相对时间          │
+│  - 新信息推翻旧记忆时，在源头修正（而非追加）                   │
+│  - 删除被证伪的旧内容                                         │
+└─────────────────────────────────────────────────────────────┘
+                          ↓
+┌─────────────────────────────────────────────────────────────┐
+│  阶段 4：修剪索引（"保持目录精简"）                             │
+│                                                              │
+│  - 更新 MEMORY.md，控制在 200 行以内                           │
+│  - 删除过时/错误/被替代的索引条目                              │
+│  - 缩短过长的索引行（> 150 字符说明承载了太多内容）             │
+│  - 为新产生的重要记忆添加索引                                  │
+└─────────────────────────────────────────────────────────────┘</code></pre>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 类比：班主任的期末档案整理</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">想象你是一位班主任，每学期末要整理学生档案。一学期下来，档案里塞满了各种纸条：家长会记录、考试成绩、获奖证书复印件、请假条……有些已经过时了（上学期的事了），有些内容重复了（同一次考试记了两遍）。</p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">整理时，你不会把每张纸都拿出来重新看一遍（阶段1：先看看档案柜里现在有些什么文件），然后翻翻这学期的班级日志回忆最近发生了什么变化（阶段2：收集近期信号），接着开始整理：更新过时的信息、合并重复的记录、改掉错误（阶段3：整合），最后重新编排档案袋外面的索引标签（阶段4：修剪索引）。</p>
+  <p style="margin:0; line-height:1.8;">这就是做梦机制的四阶段。</p>
+</blockquote>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">3.3 核心设计哲学</h3>
+
+<ol style="margin:16px 0; padding-left:28px; line-height:2;">
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">不做穷尽式通读</strong>——不把所有历史记录从头到尾读一遍，只针对已经怀疑重要的内容做定向搜索</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">更新优于新建</strong>——发现一个主题已有文件，就更新那个文件，而不是新建一个类似的</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">主动修正而非追加</strong>——如果新调查推翻了一条旧记忆，在源头改正它，而不是在后面追加"更正：其实……"</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">索引是索引</strong>——MEMORY.md 永远不放内容，只放一行指引</li>
+</ol>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 "主动修正"为什么重要？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">假设你在学生档案里记了一条："小明的爸爸是出租车司机"。后来家长会上你得知他其实转行开网约车了。如果你在后面追加一条"更正：其实是网约车司机"，档案里就有两条互相矛盾的信息。下次你安排家访路线时，两条信息打架，不知道该信哪个。</p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">正确的做法是：直接修改那条旧记录，把"出租车"改成"网约车"，删掉"更正"那条——就像发现学生档案有误后直接涂改液覆盖，而不是在旁边贴满更正贴纸。</p>
+  <p style="margin:0; line-height:1.8;">这四条原则体现了 Claude Code 对记忆系统的一个核心认识：<strong style="font-weight:bold; color:#1a1a1a;">记忆腐烂是比记忆缺失更严重的问题。</strong> 一条错误记忆的危害，远大于暂时没有那条记忆。</p>
+</blockquote>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:32px 0;">
+
+<h2 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:24px; font-weight:bold; color:#1a1a1a; line-height:1.4; margin:48px 0 22px 0; padding:0; border:none; letter-spacing:1px;">四、会话记忆——跨对话无缝恢复</h2>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">4.1 十板块模板</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 的会话记忆是一个包含 10 个固定板块的结构化模板，用于记录<strong style="font-weight:bold; color:#1a1a1a;">当前正在进行的项目的详细状态</strong>。当你今天做到一半关闭 Claude Code，明天再打开时，它会读取这个文件，瞬间恢复上下文。</p>
+
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:Menlo,Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;"># Session Title
+_5-10 个字概括这次会话的主题_
+
+# Current State（当前状态）
+_正在做什么？还有哪些待办？下一步是什么？_
+
+# Task Specification（任务描述）
+_用户要求做什么？有什么设计决策？_
+
+# Files and Functions（关键文件）
+_改了哪些文件？为什么重要？_
+
+# Workflow（工作流程）
+_通常运行哪些命令？输出怎么解读？_
+
+# Errors & Corrections（错误与修正）
+_遇到什么错误？怎么修的？什么方法行不通？_
+
+# Codebase Documentation（代码库文档）
+_重要的系统组件？怎么协作的？_
+
+# Learnings（经验教训）
+_什么方法有效？什么要避免？_
+
+# Key Results（关键结果）
+_用户要求的输出结果_
+
+# Worklog（工作日志）
+_逐步记录做了什么_</code></pre>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 为什么要分这么多板块？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">类比老师的教案本。一位好老师的教案本不会只写"今天上了语文课"。它会分门别类：教学目标是什么、重点讲了哪些知识点、哪些学生没听懂需要跟进、布置了什么作业。同样的，Claude Code 的会话记忆把信息拆成 10 个板块，每个板块各有专职，方便后续查找。</p>
+  <p style="margin:0; line-height:1.8;">这样的好处是：当压缩机制触发时，系统知道优先保留"当前状态"和"错误修正"这两个最有价值的板块，而不是眉毛胡子一把抓。</p>
+</blockquote>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">4.2 结构保护机制</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">每个板块的第一行是<strong style="font-weight:bold; color:#1a1a1a;">永远不被覆盖的模板说明</strong>：</p>
+
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:Menlo,Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;"># Current State
+_正在做什么？还有哪些待办？下一步是什么？_    ← 这行永远保留
+
+用户的实际工作内容写在这里...                    ← 只有这部分会被更新</code></pre>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 为什么要保护模板说明？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">想象你有一本成绩登记册，每页顶部印着"学期：____ 班级：____ 学科：____"。你每次登成绩只会填空白格，不会去改印刷的表头——否则表头被覆盖后，你就不知道每一列代表哪次考试了。</p>
+  <p style="margin:0; line-height:1.8;">会话记忆的结构保护就是这个原理：模板说明是"表头"，永远保留；工作内容是"填写的数字"，可以被更新。</p>
+</blockquote>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">这确保了即使内容被反复修改，模板结构也不会被破坏。</p>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">4.3 压缩机制</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">当会话记忆超过上下文上限时，系统会主动压缩：合并相关条目、总结旧内容，优先保留"当前状态"和"错误修正"这两个最重要的板块。</p>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 类比：教案本写满了怎么办？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">一位老师带了一个学期的课，教案本写了几十页。下学期开学前，她不会把所有教案原封不动地搬到新本子上，而是会提炼：哪些教学方法效果好、哪些学生需要重点关注、上学期哪个单元讲得不够透需要补课。</p>
+  <p style="margin:0; line-height:1.8;">Claude Code 的压缩机制就是如此：不是删除记忆，而是把多条记忆"合并总结"——比如"今天改了 5 个文件，修了 3 个 bug"可以代替逐条列出每个文件和每个 bug。</p>
+</blockquote>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:32px 0;">
+
+<h2 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:24px; font-weight:bold; color:#1a1a1a; line-height:1.4; margin:48px 0 22px 0; padding:0; border:none; letter-spacing:1px;">五、记忆抽取——自动化的记忆写入</h2>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">5.1 独立子 Agent 架构</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 在对话过程中会自动启动一个<strong style="font-weight:bold; color:#1a1a1a;">记忆抽取子 Agent</strong>，其唯一任务是从最近 N 条消息中提取值得记住的信息，写入记忆系统。</p>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 为什么不让主 Agent 自己写记忆？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">想象你正在上一堂公开课，旁边坐着评委打分，如果同时还要你一边讲课一边记录每个学生的反应——你分心了，课也上不好，记录也记不全。主 Agent 也是如此：它在处理复杂任务时，如果同时要操心"这条要不要记？那条放哪里？"就会降低主任务的质量。</p>
+  <p style="margin:0; line-height:1.8;">所以 Claude Code 把"记忆抽取"这件事交给一个专门的子 Agent 去处理，主 Agent 可以专注在它本来要做的事情上。这是一种常见的架构模式：<strong style="font-weight:bold; color:#1a1a1a;">单一职责</strong>。</p>
+</blockquote>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">5.2 五大约束</h3>
+
+<ol style="margin:16px 0; padding-left:28px; line-height:2;">
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">工具受限</strong>——只能读写记忆目录的文件，不能运行命令、不能调用其他 Agent</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">回合预算</strong>——限制最大执行轮数，防止无限循环</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">效率策略</strong>——第一轮并行读取所有可能要更新的文件，第二轮并行写入，不交替</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">内容来源限制</strong>——只使用最近 N 条消息，不做额外调查</li>
+  <li style="margin:6px 0;"><strong style="font-weight:bold; color:#1a1a1a;">禁止删除</strong>——只能创建和更新，不能删除记忆文件</li>
+</ol>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">5.3 设计背后的考量</h3>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 为什么要加这么多约束？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">每个约束背后都有原因：</p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">- <strong style="font-weight:bold; color:#1a1a1a;">工具受限</strong>：记忆 Agent 如果能运行系统命令，就可能"手滑"删掉重要文件。限制它只能用文件读写，就像让教务处的实习老师只负责整理档案，不能批改成绩、不能联系家长——能完成自己的任务，但不会越权闯祸。</p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">- <strong style="font-weight:bold; color:#1a1a1a;">回合预算</strong>：没有限制的话，Agent 可能在一个小任务上反复思考消耗大量 Token。设置预算就像给课堂讨论定一个计时器，到时间就进入下一环节，避免一个话题聊太久。</p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">- <strong style="font-weight:bold; color:#1a1a1a;">并行读写</strong>：先读完所有文件再统一写入，减少"读写交替"带来的效率损耗和可能的冲突。就像老师批改试卷时，先全部看完再统一评分，而不是看一道改一道。</p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">- <strong style="font-weight:bold; color:#1a1a1a;">只读最近消息</strong>：如果记忆 Agent 去做额外调查，比如主动翻阅各种历史记录，它的注意力就会从"该记什么"转移到"还有什么可看的"，方向就偏了。就像让学生写读书笔记，如果他跑去翻别的书，就偏离了任务。</p>
+  <p style="margin:0; line-height:1.8;">- <strong style="font-weight:bold; color:#1a1a1a;">禁止删除</strong>：最保守的设计——宁可留下冗余，也不能因为误删损失重要记忆。就像档案室的规定：任何人可以添加新档案、更新旧档案，但只有主管才能销毁档案。</p>
+</blockquote>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:32px 0;">
+
+<h2 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:24px; font-weight:bold; color:#1a1a1a; line-height:1.4; margin:48px 0 22px 0; padding:0; border:none; letter-spacing:1px;">六、多 Agent 协作架构</h2>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">6.1 Agent 类型</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 定义了三种 Agent 协作模式：</p>
+
+<table style="width:100%; border-collapse:collapse; margin:20px 0; font-size:14px; line-height:1.8;">
+  <thead>
+    <tr style="background:#f5f2f0;">
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">类型</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">特点</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">适用场景</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">类比</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:bold; color:#1a1a1a;">fork</strong></td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">后台运行，上下文隔离，用完即销毁</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">大量搜索、不需要立即返回的探索性工作</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">让课代表去图书室查资料，查完回来告诉你，不影响你讲课</td>
+    </tr>
+    <tr style="background:#faf9f7;">
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:bold; color:#1a1a1a;">subagent</strong></td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">有明确角色（代码探索、代码审查），可返回结果</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">需要专业能力的特定任务</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">请年级组长来听你的课并给出专业点评</td>
+    </tr>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:bold; color:#1a1a1a;">teammate</strong></td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">有名字和分工，通过消息系统通信</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">多人协作的大型项目</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">学校各学科组之间的协作，语文组和数学组通过教研会沟通</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 fork 和 subagent 有什么区别？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">简单说：<strong style="font-weight:bold; color:#1a1a1a;">fork 是派出去不用管，subagent 是带着任务回来的。</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">fork 就像让学生去走廊出黑板报——你交代好任务他就去画了，不需要中间来回汇报，画完你去看一眼就行。</p>
+  <p style="margin:0; line-height:1.8;">subagent 就像派一位老师去别的学校听课交流——他在那边有具体任务，过程中会定期发消息汇报进展、请求指示，最后带着总结报告回来。</p>
+</blockquote>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">6.2 独立验证机制</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 有一个值得关注的硬性规则：<strong style="font-weight:bold; color:#1a1a1a;">非琐碎实现必须经过独立验证。</strong></p>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">"非琐碎"的判定标准：</p>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;">
+  <li style="margin:6px 0;">修改了 3 个以上文件</li>
+  <li style="margin:6px 0;">涉及后端 / API 变更</li>
+  <li style="margin:6px 0;">涉及基础设施变更</li>
+</ul>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">验证流程：</p>
+
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:Menlo,Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">主 Agent 完成任务
+  → 启动验证子 Agent（独立、对抗性）
+    → 重新执行命令、检查代码
+      → 返回 PASS / FAIL / PARTIAL
+        → FAIL → 主 Agent 修复 → 重新验证
+        → PASS → 主 Agent 抽查 2-3 条命令确认
+        → PARTIAL → 告知用户哪些通过、哪些无法验证</code></pre>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 为什么不能让 AI 自己验证自己？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">类比老师出试卷。你刚出完一套数学卷子自己检查，总是会漏掉错误——因为你心里知道题目想考什么，会不自觉地"脑补"学生能理解。但如果是交换给另一位老师审题，他就能发现你没注意到的歧义和错误。</p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">AI 也是如此：主 Agent 生成代码后，自己再检查一遍，往往会"脑补"自己的逻辑是对的。独立验证 Agent 的价值在于：它从空白状态重新审视代码，不受"我已经写完了所以它应该是对的"这种心理暗示的影响。</p>
+  <p style="margin:0; line-height:1.8;">这就是为什么 Claude Code 的验证 Agent 是<strong style="font-weight:bold; color:#1a1a1a;">对抗性</strong>的——它的角色是"来挑毛病的"，不是"来确认你做对了的"。</p>
+</blockquote>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">关键设计：<strong style="font-weight:bold; color:#1a1a1a;">验证者必须是独立的，不能自己验证自己。</strong> 这是一个简单但有效的质量保障机制。</p>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">6.3 团队通信</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">团队成员之间通过专门的 <code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:Menlo,Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;">SendMessage</code> 工具通信，而非文本输出——因为纯文本输出只有用户能看到，Agent 之间是"聋"的。</p>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 Agent 之间怎么"说话"？</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">类比学校的教研组。如果语文组的老师们只能通过走廊里的公告板交流，那公告板就是他们的"SendMessage"。校长看公告板能看到所有消息，但张老师如果只是跟李老师私下说了一句话，校长就听不到——他们彼此"聋"了。</p>
+  <p style="margin:0; line-height:1.8;">Claude Code 的 Agent 团队也是：文本输出相当于私下对话，只有用户能看见；SendMessage 才是他们真正的通信工具，每个 Agent 都能收到。</p>
+</blockquote>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:32px 0;">
+
+<h2 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:24px; font-weight:bold; color:#1a1a1a; line-height:1.4; margin:48px 0 22px 0; padding:0; border:none; letter-spacing:1px;">七、文件管理体系</h2>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">7.1 多层级 CLAUDE.md</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 用多层级 <code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:Menlo,Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;">CLAUDE.md</code> 文件存放项目级的"铁律"：</p>
+
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:Menlo,Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">项目根目录/CLAUDE.md          ← 全项目通用规范
+  子目录/CLAUDE.md             ← 该子目录特有的规范
+  ~/.claude/CLAUDE.md          ← 用户全局偏好</code></pre>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">每次新对话自动注入上下文，相当于"项目宪法"。与 <code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:Menlo,Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;">.editorconfig</code> 或 <code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:Menlo,Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;">.eslintrc</code> 不同的是，CLAUDE.md 是写给 AI 看的，而非机器解析的配置文件。</p>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 类比：学校的三级管理制度</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">- <strong style="font-weight:bold; color:#1a1a1a;">教育局规定</strong>（<code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:Menlo,Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;">~/.claude/CLAUDE.md</code>）= 全区学校通用的规定，比如"每学期必须完成教学计划"</p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">- <strong style="font-weight:bold; color:#1a1a1a;">学校制度</strong>（项目根目录/CLAUDE.md）= 这所学校特有的规定，比如"我们使用分组教学法"</p>
+  <p style="margin:0; line-height:1.8;">- <strong style="font-weight:bold; color:#1a1a1a;">班级公约</strong>（子目录/CLAUDE.md）= 某个班级特有的规定，比如"数学课必须带计算器"</p>
+</blockquote>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">7.2 上下文压缩</h3>
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">当对话接近上下文上限时，系统自动压缩之前的消息。压缩后的摘要包含 9 个板块：用户意图、技术概念、文件修改、错误修复、问题解决、所有用户消息、待办任务、当前工作、下一步。</p>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">💡 类比：学期末的教学总结</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">一位老师上了一学期的课，如果要把每节课的教案、板书、学生提问都原样保留，那得堆满一间教室。学期末写教学总结时，老师不会照抄每节课的记录，而是提炼：这学期重点教了哪些知识点（用户意图）、用了哪些教学方法（技术概念）、哪些课讲得不理想需要改进（错误修复）、下学期有什么计划（待办任务）。大量日常细节会被省略——它们对上课很重要，但对"下学期怎么教得更好"来说，提炼后的核心信息就够用了。</p>
+  <p style="margin:0; line-height:1.8;">上下文压缩就是这个原理：不是删掉信息，是提炼出对"继续工作"最有价值的核心要素。</p>
+</blockquote>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:32px 0;">
+
+<h2 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:24px; font-weight:bold; color:#1a1a1a; line-height:1.4; margin:48px 0 22px 0; padding:0; border:none; letter-spacing:1px;">八、对 AI 应用开发者的启示</h2>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">8.1 记忆系统的核心教训</h3>
+
+<table style="width:100%; border-collapse:collapse; margin:20px 0; font-size:14px; line-height:1.8;">
+  <thead>
+    <tr style="background:#f5f2f0;">
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">设计要点</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">启示</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">类比</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">索引与内容分离</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">永远不要把所有东西堆在一个文件里，索引要精简</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">学校档案检索卡和档案袋分开存放</td>
+    </tr>
+    <tr style="background:#faf9f7;">
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">按主题而非时间组织</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">记忆不是日记，知识库不是时间线</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">学生的资料按"学业""健康""家庭"分类，不按录入日期排序</td>
+    </tr>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">定期整理（做梦）</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">不维护的记忆会腐烂，错误记忆比缺失更危险</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">学生档案要定期更新，过时的获奖记录该撤就撤</td>
+    </tr>
+    <tr style="background:#faf9f7;">
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">两步保存法</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">先写内容再更新索引，保持一致性</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">写完教案要更新教学进度表</td>
+    </tr>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">记忆类型区分</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">不是所有信息都值得持久化，区分"记住"和"记着"</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">学生的学习特点要长期记住，但今天的课间对话不需要</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">8.2 多 Agent 协作的核心教训</h3>
+
+<table style="width:100%; border-collapse:collapse; margin:20px 0; font-size:14px; line-height:1.8;">
+  <thead>
+    <tr style="background:#f5f2f0;">
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">设计要点</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">启示</th>
+      <th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:bold; text-align:left;">类比</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">独立验证</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">让 AI 检查自己的输出，结果不可信；需要独立 Agent</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">老师出完试卷要让另一位老师审题</td>
+    </tr>
+    <tr style="background:#faf9f7;">
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">工具权限隔离</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">不同角色的 Agent 应该有不同的工具权限</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">实习老师只能听课，不能修改学生成绩</td>
+    </tr>
+    <tr>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">回合预算</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">限制子 Agent 的执行轮数，防止失控</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">课堂讨论设时间限制，避免一个话题拖太久</td>
+    </tr>
+    <tr style="background:#faf9f7;">
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">消息通信而非文本输出</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">Agent 之间需要专门的通信通道，不能依赖共享输出</td>
+      <td style="padding:10px 14px; border:1px solid #e0e0e0;">学校内部用正式通知，不靠走廊里喊</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 style="font-family:'宋体',SimSun,'STSongti-SC','Songti SC','Noto Serif CJK SC',serif; font-size:20px; font-weight:bold; color:#1a1a1a; line-height:1.5; margin:40px 0 16px 0; padding:0; border:none;">8.3 一句话总结</h3>
+
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;">
+  <p style="margin:0 0 12px 0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">Claude Code 的记忆系统教会我们的是：记忆要像档案室一样组织——有索引、有分类、定期整理、不堆废纸。</strong></p>
+  <p style="margin:0 0 12px 0; line-height:1.8;">做梦不是做梦，是期末整理。索引不是内容，是档案目录。记忆不是日记，是学生成长档案。</p>
+  <p style="margin:0; line-height:1.8;"><strong style="font-weight:bold; color:#1a1a1a;">多 Agent 协作的核心启示是：专业的事交给专业的 Agent 去做，独立验证才是质量的保障。</strong></p>
+</blockquote>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:32px 0;">
+
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify; font-style:italic; color:#888;"><em>本文基于 Claude Code 324 条系统提示词的中文翻译版整理分析，原文由尼克西翻译。</em></p>
+
+</section>
+</body>
+</html>

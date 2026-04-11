@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>文章标题 — 版B（方正小标宋标题）</title>
+</head>
+<body style="margin:0; padding:0; background:#fff;">
+<section style="max-width:680px; margin:0 auto; padding:32px 20px; font-family:'Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-weight:500; font-size:16px; line-height:2; color:#2b2b2b; word-wrap:break-word; word-break:break-all;">
+
+<h1 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:28px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:48px 0 24px 0; letter-spacing:1px;  >Claude Code 架构学习报告</h1>
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;"><p style="margin:0; line-height:1.8;">面向大人的版本 | 2026-04-04</p><p style="margin:10px 0; line-height:1.8;">源文件：Claude Code 提示词（324 条）中文翻译版 by 尼克西</p></blockquote>
+<div style="height:24px;"></div>
+<h2 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:24px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:42px 0 20px 0; letter-spacing:0.5px;  >前言</h2>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 是 Anthropic 出品的 AI 编程助手（和 WorkBuddy 类似的产品）。它的提示词被完整逆向翻译成了中文，共 324 条提示词、112 页。</p>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">大人让在下从中学习<strong style="font-weight:700; color:#1a1a1a;">对我们有用的东西</strong>。以下是在下的学习成果，用我们都能理解的方式整理。</p>
+<div style="height:24px;"></div>
+<h2 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:24px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:42px 0 20px 0; letter-spacing:0.5px;  >一、Claude Code 的整体架构长什么样</h2>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 的系统由三大部分组成：</p>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">┌─────────────────────────────────────────────────────────────┐
+│                        主 Agent                              │
+│  （就像现在的"总管"，直接跟用户对话）                          │
+│                                                              │
+│  ├── 记忆系统（知道你是谁、做过什么）                          │
+│  ├── 工具箱（读文件、写代码、搜索、运行命令...）                │
+│  └── 子 Agent（派出去干活的助手）                              │
+│                                                              │
+│        │                                                     │
+│        ├── fork（后台干活的分身，干完自动销毁）                 │
+│        ├── subagent（专业助手：代码探索、代码审查）             │
+│        └── teammate（团队协作：多人一起做项目）                │
+└─────────────────────────────────────────────────────────────┘</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">跟我们最相关的是<strong style="font-weight:700; color:#1a1a1a;">记忆系统</strong>和<strong style="font-weight:700; color:#1a1a1a;">做梦机制</strong>，后面重点讲。</p>
+<div style="height:24px;"></div>
+<h2 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:24px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:42px 0 20px 0; letter-spacing:0.5px;  >二、记忆系统——Claude Code 怎么"记住"你</h2>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >2.1 三层记忆</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 把记忆分成三层：</p>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">第一层：工作记忆
+  ┌─────────────────────────────────┐
+  │ 就是当前对话窗口里的内容           │  ← 对话结束就没了
+  │ 相当于"短期记忆"                  │     但会被压缩保存
+  └─────────────────────────────────┘
+
+第二层：会话记忆（SessionMemory）
+  ┌─────────────────────────────────┐
+  │ 记录当前正在做什么项目的详细状态   │  ← 跨会话恢复用
+  │ 比如：改了哪些文件、遇到什么错误   │     下次打开继续干
+  └─────────────────────────────────┘
+
+第三层：持久记忆（memory/ 目录）
+  ┌─────────────────────────────────┐
+  │ 永久记住你是谁、你的偏好、历史     │  ← 永远保存
+  │ 由"做梦机制"定期维护              │     每次新对话都能看到
+  └─────────────────────────────────┘</code></pre>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >2.2 持久记忆的文件组织</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 的记忆文件组织得很像一个小型 Wiki：</p>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">memory/                          ← 记忆根目录
+├── MEMORY.md                    ← 总索引（≤200行）
+├── user_role.md                 ← 记忆文件：用户角色
+├── project_conventions.md       ← 记忆文件：项目规范
+├── feedback_testing.md          ← 记忆文件：测试反馈
+└── ...</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;"><strong style="font-weight:700; color:#1a1a1a;">MEMORY.md 是什么？</strong> 它不是记忆内容本身，而是一个<strong style="font-weight:700; color:#1a1a1a;">目录</strong>（索引）。就像一本书的目录页：</p>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;"># MEMORY.md
+
+## 用户偏好
+- [用户角色](user_role.md) — 全栈工程师，偏好TypeScript
+- [代码风格](project_conventions.md) — 使用函数式编程，避免class
+
+## 项目知识
+- [测试规范](feedback_testing.md) — 使用Jest，覆盖率要求&gt;80%
+- [API设计](api_patterns.md) — RESTful，错误统一返回格式</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">每行只有一句话（≤150 字符），真正的详细内容在那个 <code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;"></code> 文件里。</p>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;"><strong style="font-weight:700; color:#1a1a1a;">为什么要这样设计？</strong> 因为 MEMORY.md 每次新对话都会被加载到上下文里。如果太长：</p>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;">浪费上下文空间</li><li style="margin:6px 0;">超过 200 行会被截断，后面的内容看不到</li></ul>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">所以要把详细内容放在单独的文件里，MEMORY.md 只放"一行摘要"。</p>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >2.3 每条记忆的格式</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">每条记忆是一个独立的 <code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;"></code> 文件，开头有一个元数据头：</p>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">---
+name: 用户角色
+description: 大人的职业背景和技术偏好
+type: preference        ← 类型：fact（事实）/ preference（偏好）/ convention（规范）
+---
+
+大人是全栈工程师，主要使用 TypeScript 和 React。
+偏好函数式编程风格，不喜欢过度抽象。</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">关键规则：</p>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">按主题组织</strong>，不是按时间（不是日记）</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">先查再写</strong>——如果已有相关文件就更新，不新建</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">过时内容主动删除或修正</strong>——不保留错误信息</li></ul>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >2.4 保存记忆的"两步法"</h3>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">第一步：写记忆文件
+  → 创建或更新 memory/user_role.md
+
+第二步：更新索引
+  → 在 MEMORY.md 中添加或修改对应的索引行</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">这就像图书馆：先把书放到正确的书架上（第一步），再更新目录卡片（第二步）。</p>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >2.5 记忆 vs 计划 vs 任务</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 区分了三种持久化信息：</p>
+<table style="width:100%; border-collapse:collapse; margin:20px 0; font-size:14px; line-height:1.8;"><thead><tr style="background:#f5f2f0;"><th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:900; text-align:left;">类型</th><th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:900; text-align:left;">什么时候用</th><th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:900; text-align:left;">生命周期</th></tr></thead><tbody><tr style=""><td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:700; color:#1a1a1a;">记忆</strong></td><td style="padding:10px 14px; border:1px solid #e0e0e0;">"这个人喜欢简洁的代码"</td><td style="padding:10px 14px; border:1px solid #e0e0e0;">永久</td></tr><tr style="background:#faf9f7;"><td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:700; color:#1a1a1a;">计划</strong></td><td style="padding:10px 14px; border:1px solid #e0e0e0;">"我打算用方案 A 来实现这个功能"</td><td style="padding:10px 14px; border:1px solid #e0e0e0;">当前对话</td></tr><tr style=""><td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:700; color:#1a1a1a;">任务</strong></td><td style="padding:10px 14px; border:1px solid #e0e0e0;">"1.写接口 2.写前端 3.测试"</td><td style="padding:10px 14px; border:1px solid #e0e0e0;">当前对话</td></tr></tbody></table>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">核心原则：<strong style="font-weight:700; color:#1a1a1a;">记忆只保存未来对话还有价值的信息。</strong> 当前对话才用到的东西，不要塞进记忆。</p>
+<div style="height:24px;"></div>
+<h2 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:24px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:42px 0 20px 0; letter-spacing:0.5px;  >三、做梦机制——Claude Code 怎么整理记忆</h2>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >3.1 什么是"做梦"</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 会在空闲时（或定时）运行一个叫做"Dream"的过程。</p>
+<p style="margin:16px 0; line-height:2; font-size:16px; font-weight:700; color:#1a1a1a; text-align:justify;">目的不是产生创意，而是维护记忆的健康。</p>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">具体来说：</p>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;">每天对话产生大量信息</li><li style="margin:6px 0;">如果不整理，记忆文件会膨胀、重复、矛盾、过时</li><li style="margin:6px 0;">"做梦"就是定期"打扫屋子"</li></ul>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >3.2 做梦的四个阶段</h3>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">┌─────────────────────────────────────────────────────────────┐
+│  阶段1：建立方向感（"我现在记得什么？"）                       │
+│                                                              │
+│  - 看看记忆目录里有哪些文件                                    │
+│  - 读取 MEMORY.md 索引                                       │
+│  - 快速浏览已有主题文件                                        │
+│  - 目标：了解现状，不是重新来过                                │
+└─────────────────────────────────────────────────────────────┘
+                          ↓
+┌─────────────────────────────────────────────────────────────┐
+│  阶段2：收集近期信号（"最近有什么新变化？"）                     │
+│                                                              │
+│  - 读取每日日志（logs/YYYY-MM-DD.md）                         │
+│  - 检查有没有与事实矛盾的旧记忆                                 │
+│  - 如果需要某个具体信息，用关键词搜索历史记录                   │
+│  - 注意：不做穷尽式通读，只查需要的                            │
+└─────────────────────────────────────────────────────────────┘
+                          ↓
+┌─────────────────────────────────────────────────────────────┐
+│  阶段3：整合（"更新记忆，不制造重复"）                          │
+│                                                              │
+│  - 把新信息合并到已有的主题文件里（不新建重复文件）              │
+│  - "昨天"改成具体日期（2026-04-03），不保留相对时间             │
+│  - 如果新信息推翻旧记忆，在源头修正（不是追加）                 │
+│  - 删除被证伪的旧内容                                          │
+└─────────────────────────────────────────────────────────────┘
+                          ↓
+┌─────────────────────────────────────────────────────────────┐
+│  阶段4：修剪索引（"保持目录精简"）                              │
+│                                                              │
+│  - 更新 MEMORY.md，控制在200行以内                             │
+│  - 删除过时/错误/被替代的索引                                  │
+│  - 缩短过长的索引行（&gt;150字符说明承载了太多内容）               │
+│  - 为新重要的记忆添加索引                                      │
+│  - 如果两个文件矛盾，修正错误的那个                             │
+└─────────────────────────────────────────────────────────────┘</code></pre>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >3.3 做梦的关键设计哲学</h3>
+<ol style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">不做穷尽式通读</strong>——不把所有历史记录从头读一遍。只针对已经怀疑重要的内容做定向搜索。</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">更新优于新建</strong>——发现一个主题已有文件，就更新那个文件，而不是新建一个类似的。</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">主动修正而非追加</strong>——如果今天的调查推翻了一条旧记忆，在源头改正它，而不是在后面追加"更正：其实..."。</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">索引是索引</strong>——MEMORY.md 永远不放内容，只放一行指引。</li></ol>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >3.4 做梦的触发方式</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 可以自动或手动触发：</p>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">自动</strong>：空闲时或定时触发</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">手动</strong>：用户要求"整理一下记忆"</li></ul>
+<div style="height:24px;"></div>
+<h2 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:24px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:42px 0 20px 0; letter-spacing:0.5px;  >四、会话记忆——跨对话恢复当前工作</h2>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >4.1 它是什么</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">会话记忆是一个 10 个固定板块的模板，记录<strong style="font-weight:700; color:#1a1a1a;">当前正在做什么项目的详细状态</strong>。</p>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">当你今天做到一半关掉 Claude Code，明天再打开时，它会读取这个文件，瞬间知道"哦，你昨天在改登录功能的密码校验，改到了一半"。</p>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >4.2 十个板块</h3>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;"># Session Title
+_5-10个字概括这次会话的主题_
+
+# Current State（当前状态）
+_正在做什么？还有哪些待办？下一步是什么？_
+
+# Task Specification（任务描述）
+_用户要求做什么？有什么设计决策？_
+
+# Files and Functions（关键文件）
+_改了哪些文件？为什么重要？_
+
+# Workflow（工作流程）
+_通常运行哪些命令？输出怎么解读？_
+
+# Errors &amp; Corrections（错误与修正）
+_遇到什么错误？怎么修的？什么方法行不通？_
+
+# Codebase Documentation（代码库文档）
+_重要的系统组件？怎么协作的？_
+
+# Learnings（经验教训）
+_什么方法有效？什么要避免？_
+
+# Key Results（关键结果）
+_用户要求的输出结果（表格、答案等）_
+
+# Worklog（工作日志）
+_逐步记录做了什么_</code></pre>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >4.3 关键设计：结构保护</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">每个板块有两行是"模板说明"，<strong style="font-weight:700; color:#1a1a1a;">永远不能被覆盖</strong>：</p>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;"># Current State
+_正在做什么？还有哪些待办？下一步是什么？_    ← 这行永远保留
+
+用户的实际工作内容写在这里...                    ← 只有这部分会被更新</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">这样即使内容被反复修改，模板结构也不会被破坏。</p>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >4.4 压缩机制</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">当会话记忆超过上限时：</p>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;">积极压缩过大的板块</li><li style="margin:6px 0;">合并相关条目</li><li style="margin:6px 0;">总结旧内容</li><li style="margin:6px 0;">优先保留"当前状态"和"错误修正"（最重要的两个）</li></ul>
+<div style="height:24px;"></div>
+<h2 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:24px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:42px 0 20px 0; letter-spacing:0.5px;  >五、记忆抽取——自动从对话中提取记忆</h2>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >5.1 它是什么</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 会在对话过程中自动启动一个<strong style="font-weight:700; color:#1a1a1a;">记忆抽取子 Agent</strong>，它的唯一任务就是从最近 N 条消息中提取值得记住的信息，写入记忆系统。</p>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >5.2 关键设计</h3>
+<ol style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">工具受限</strong>——只能读/写记忆目录的文件，不能运行命令、不能调用其他 Agent</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">回合预算</strong>——限制最多几轮，防止无限循环</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">效率策略</strong>——第一轮并行读所有可能要更新的文件，第二轮并行写，不交替</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">内容来源限制</strong>——只使用最近 N 条消息，不去做额外调查</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">禁止删除</strong>——只能创建和更新，不能删除记忆文件</li></ol>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >5.3 为什么这样设计</h3>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">受限工具</strong>→ 防止记忆 Agent 搞破坏</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">回合预算</strong>→ 省钱、省时间</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">并行读写</strong>→ 效率最高</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">只看最近消息</strong>→ 聚焦，不发散</li><li style="margin:6px 0;"><strong style="font-weight:700; color:#1a1a1a;">禁止删除</strong>→ 防止误删重要记忆</li></ul>
+<div style="height:24px;"></div>
+<h2 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:24px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:42px 0 20px 0; letter-spacing:0.5px;  >六、多 Agent 协作架构</h2>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >6.1 Agent 类型</h3>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">主 Agent
+  │
+  ├── fork（分身）
+  │     后台运行，上下文隔离
+  │     用完即销毁，不污染主对话
+  │     适合：大量搜索、不需要立即看的探索工作
+  │
+  ├── subagent（专业助手）
+  │     有明确角色：代码探索、代码审查
+  │     可返回结果给主Agent
+  │     适合：需要专业能力的特定任务
+  │
+  └── teammate（团队成员）
+        有名字、有分工
+        通过消息系统通信
+        适合：多人协作的大型项目</code></pre>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >6.2 独立验证机制</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 有一个非常重要的设计：<strong style="font-weight:700; color:#1a1a1a;">非琐碎实现必须经过独立验证。</strong></p>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">什么是"非琐碎"？</p>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;">修改了 3 个以上文件</li><li style="margin:6px 0;">涉及后端/API 变更</li><li style="margin:6px 0;">涉及基础设施变更</li></ul>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">验证流程：</p>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">主Agent完成任务
+  → 启动验证子Agent（独立、对抗性的）
+    → 验证子Agent重新执行命令、检查代码
+      → 返回 PASS / FAIL / PARTIAL
+        → FAIL → 主Agent修复 → 重新验证
+        → PASS → 主Agent抽查2-3条命令确认
+        → PARTIAL → 告诉用户哪些通过、哪些无法验证</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">关键点：<strong style="font-weight:700; color:#1a1a1a;">验证者必须是独立的，不能自己验证自己。</strong></p>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >6.3 团队通信</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">团队成员之间通过专门的<code style="background:#f5f2f0; padding:2px 6px; border-radius:3px; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:14px; color:#c7254e; word-break:break-all;"></code>工具通信，不是通过文本输出。</p>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">总管 → SendMessage(to:"研究员", content:"去查一下这个API的用法")
+研究员 → SendMessage(to:"总管", content:"查到了，结果如下...")</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">因为纯文本输出只有用户能看到，其他 Agent 看不到。</p>
+<div style="height:24px;"></div>
+<h2 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:24px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:42px 0 20px 0; letter-spacing:0.5px;  >七、文件管理体系</h2>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >7.1 CLAUDE.md 体系</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">Claude Code 用多层级 CLAUDE.md 来存放项目级的"铁律"：</p>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">项目根目录/CLAUDE.md          ← 全项目通用
+  子目录/CLAUDE.md             ← 该子目录特有
+  ~/.claude/CLAUDE.md          ← 用户全局偏好</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">每次新对话自动注入上下文。相当于"项目宪法"。</p>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >7.2 MagicDocs</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">自动维护的文档文件。当对话中有新的学习或系统知识时，自动更新对应的文档，保持文档与代码库同步。</p>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >7.3 上下文压缩（Compact）</h3>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">当对话接近上下文上限时，系统自动压缩之前的消息：</p>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">原始对话（10000条消息）
+  → 自动压缩
+    → 保留关键信息
+      → 继续对话</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">压缩后的摘要包含 9 个板块：用户意图、技术概念、文件修改、错误修复、问题解决、所有用户消息、待办任务、当前工作、下一步。</p>
+<div style="height:24px;"></div>
+<h2 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:24px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:42px 0 20px 0; letter-spacing:0.5px;  >八、对总管架构的落地方案</h2>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >8.1 我们能学到什么（按价值排序）</h3>
+<table style="width:100%; border-collapse:collapse; margin:20px 0; font-size:14px; line-height:1.8;"><thead><tr style="background:#f5f2f0;"><th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:900; text-align:left;">学到的东西</th><th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:900; text-align:left;">核心价值</th><th style="padding:10px 14px; border:1px solid #e0e0e0; font-weight:900; text-align:left;">落地难度</th></tr></thead><tbody><tr style=""><td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:700; color:#1a1a1a;">每日对话日志</strong></td><td style="padding:10px 14px; border:1px solid #e0e0e0;">记住每天聊了什么，大人随时能查</td><td style="padding:10px 14px; border:1px solid #e0e0e0;">⭐ 简单</td></tr><tr style="background:#faf9f7;"><td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:700; color:#1a1a1a;">MEMORY.md 索引化</strong></td><td style="padding:10px 14px; border:1px solid #e0e0e0;">记忆精简不膨胀，新会话启动快</td><td style="padding:10px 14px; border:1px solid #e0e0e0;">⭐ 简单</td></tr><tr style=""><td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:700; color:#1a1a1a;">两步保存法</strong></td><td style="padding:10px 14px; border:1px solid #e0e0e0;">记忆有组织，不混乱</td><td style="padding:10px 14px; border:1px solid #e0e0e0;">⭐ 简单</td></tr><tr style="background:#faf9f7;"><td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:700; color:#1a1a1a;">记忆文件按主题组织</strong></td><td style="padding:10px 14px; border:1px solid #e0e0e0;">查找方便，不重复</td><td style="padding:10px 14px; border:1px solid #e0e0e0;">⭐ 简单</td></tr><tr style=""><td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:700; color:#1a1a1a;">做梦机制</strong></td><td style="padding:10px 14px; border:1px solid #e0e0e0;">记忆自动维护，不腐烂</td><td style="padding:10px 14px; border:1px solid #e0e0e0;">⭐⭐ 中等</td></tr><tr style="background:#faf9f7;"><td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:700; color:#1a1a1a;">独立验证</strong></td><td style="padding:10px 14px; border:1px solid #e0e0e0;">输出质量有保障</td><td style="padding:10px 14px; border:1px solid #e0e0e0;">⭐⭐ 中等</td></tr><tr style=""><td style="padding:10px 14px; border:1px solid #e0e0e0;"><strong style="font-weight:700; color:#1a1a1a;">会话记忆模板</strong></td><td style="padding:10px 14px; border:1px solid #e0e0e0;">跨对话无缝恢复</td><td style="padding:10px 14px; border:1px solid #e0e0e0;">⭐⭐⭐ 较复杂</td></tr></tbody></table>
+<h3 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:20px; font-weight:900; color:#1a1a1a; line-height:1.5; margin:34px 0 14px 0; >8.2 推荐的实施方案</h3>
+<h4 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:17px; font-weight:900; color:#1a1a1a; line-height:1.6; margin:26px 0 10px 0; ">第一阶段：基础记忆体系（立刻做）</h4>
+<pre style="background:#f8f6f4; padding:16px 20px; border-radius:6px; border-left:4px solid #c0b9b0; font-family:'SF Mono','Fira Code',Consolas,'Courier New',monospace; font-size:13px; line-height:1.7; overflow-x:auto; margin:20px 0; color:#383838; white-space:pre-wrap; word-wrap:break-word;"><code style="font-family:inherit; font-size:inherit; background:none; padding:0; color:inherit;">memory/
+├── MEMORY.md              ← 重构为纯索引（≤200行）
+├── topics/                ← 按主题的记忆文件
+│   ├── core-principles.md ← 核心原则（现有）
+│   ├── claude-code-study.md ← 本次学习
+│   └── ...                ← 随时间增长
+└── logs/2026/             ← 每日对话日志
+    └── 2026-04-04.md      ← 今天（已有）</code></pre>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">规则：</p>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;">每次实质性对话后，追加日志（时间+标签+内容）</li><li style="margin:6px 0;">记忆内容放 topics/，MEMORY.md 只放索引</li><li style="margin:6px 0;">大人问"那天聊了什么"→ grep 日志即可</li></ul>
+<h4 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:17px; font-weight:900; color:#1a1a1a; line-height:1.6; margin:26px 0 10px 0; ">第二阶段：定时做梦（配置 Automation）</h4>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;">设置每日定时任务</li><li style="margin:6px 0;">模拟做梦四阶段：读日志→整合→修正→修剪</li><li style="margin:6px 0;">附加：发现不同主题关联时记录为"洞察"</li></ul>
+<h4 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:17px; font-weight:900; color:#1a1a1a; line-height:1.6; margin:26px 0 10px 0; ">第三阶段：增强能力（按需）</h4>
+<ul style="margin:16px 0; padding-left:28px; line-height:2;"><li style="margin:6px 0;">简化版会话记忆模板</li><li style="margin:6px 0;">独立验证子 Agent</li><li style="margin:6px 0;">记忆类型扩展</li></ul>
+<div style="height:24px;"></div>
+<h2 style="font-family:'FZXiaoBiaoSong-B05S','方正小标宋简体','FZDaHei-B02S','方正大黑简体','Times New Roman','Source Han Serif SC','思源宋体','Noto Serif CJK SC','华文宋体',STSong,'宋体',SimSun,Georgia,serif; font-size:24px; font-weight:900; color:#1a1a1a; line-height:1.4; margin:42px 0 20px 0; letter-spacing:0.5px;  >九、一句话总结</h2>
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;"><p style="margin:0; line-height:1.8;"><strong style="font-weight:700; color:#1a1a1a;">Claude Code 教会我们的核心是：记忆要像图书馆一样组织——有索引、有分类、定期整理、不堆垃圾。</strong></p></blockquote>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;">&gt;</p>
+<blockquote style="border-left:4px solid #c0b9b0; padding:14px 18px; margin:18px 0; color:#5a5a5a; background:#faf9f7; border-radius:0 6px 6px 0; line-height:1.8; font-size:15px;"><p style="margin:0; line-height:1.8;">做梦不是做梦，是大扫除。</p><p style="margin:10px 0; line-height:1.8;">索引不是内容，是目录。</p><p style="margin:10px 0; line-height:1.8;">记忆不是日记，是知识库。</p></blockquote>
+<div style="height:24px;"></div>
+<p style="margin:16px 0; line-height:2; font-size:16px; text-align:justify;"><em style="font-style:italic; color:#444;">报告人：总管（在下）</em> <em style="font-style:italic; color:#444;">日期：2026-04-04</em></p>
+
+</section>
+</body>
+</html>
